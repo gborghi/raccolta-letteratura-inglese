@@ -260,20 +260,78 @@ async function main() {
   }
   const authorCounts = {}
   for (const w of works) authorCounts[w.author] = (authorCounts[w.author] || 0) + 1
-  const authorCards = authors
-    .map(
-      (a) =>
-        `<a class="author-card" href="cerca" data-cerca-author="${a}"><span class="author-card-name">${a}</span><span class="author-card-count">${authorCounts[a] || 0} works</span><span class="author-card-blurb">${authorBlurb[a] || ""}</span></a>`,
-    )
-    .join("\n")
+  void authorBlurb
 
-  const topClusters = clusters
+  const topClustersAll = clusters
     .map((c) => ({ c, n: works.filter((w) => w.cluster === c).length }))
     .sort((a, b) => b.n - a.n)
-    .slice(0, 18)
+  const topClusters = topClustersAll.slice(0, 18)
   const clusterChips = topClusters
     .map((x) => `<a class="cluster-chip" href="${sluggify("Clusters/" + x.c)}">${x.c} <span>${x.n}</span></a>`)
     .join("\n")
+
+  // ---------- Radial-wheel data (quartz/static/wheel.json) ----------
+  // Each spoke: { label, sub, img, href, cercaAuthor? }. The author wheel uses the
+  // sessionStorage->Cerca deep-link (cercaAuthor); axis + cluster wheels link to pages.
+  const authorEmblem = {
+    Shakespeare: "author-shakespeare", Keats: "author-keats", Dickinson: "author-dickinson",
+    Eliot: "author-eliot", Chesterton: "author-chesterton", Dickens: "author-dickens",
+    Austen: "author-austen", Bronte: "author-bronte", Poe: "author-poe", Wilde: "author-wilde",
+    Coleridge: "author-coleridge", Whitman: "author-whitman", Hemingway: "author-hemingway",
+  }
+  const authorsWheel = authors.map((a) => ({
+    label: a === "Bronte" ? "Brontë" : a,
+    sub: `${authorCounts[a] || 0} works`,
+    img: authorEmblem[a] || "author-shakespeare",
+    href: "cerca",
+    cercaAuthor: a,
+  }))
+
+  const axesWheel = [
+    { label: "Topoi", sub: "44", img: "axis-topoi", href: "Topoi/" },
+    { label: "Archetipi", sub: "46", img: "axis-archetipi", href: "Archetypes/" },
+    { label: "Motivi", sub: "130", img: "axis-motivi", href: "Motifs/" },
+    { label: "Concetti", sub: "179", img: "axis-concetti", href: "Concepts/" },
+    { label: "Forme", sub: "66", img: "axis-forme", href: "Forms/" },
+    { label: "Riferimenti Storici", sub: "43", img: "axis-storia", href: "Historical-References/" },
+    { label: "Ambientazioni", sub: "46", img: "axis-ambientazioni", href: "Settings/" },
+    { label: "Personaggi", sub: "22", img: "axis-personaggi", href: "Characters/" },
+  ]
+
+  // Map the 12 biggest clusters to their emblem files (by leading keyword).
+  const clusterEmblem = [
+    [/^Death/, "cluster-death"],
+    [/^Romantic Love/, "cluster-love"],
+    [/^Grief/, "cluster-grief"],
+    [/^Sonnet/, "cluster-sonnet"],
+    [/^Wonder/, "cluster-wonder"],
+    [/^Satire/, "cluster-satire"],
+    [/^Transience/, "cluster-transience"],
+    [/^Lyric/, "cluster-lyric"],
+    [/^Money/, "cluster-money"],
+    [/^Seasons/, "cluster-seasons"],
+    [/^Nature ·/, "cluster-nature"],
+    [/^The Sea/, "cluster-sea"],
+  ]
+  const clustersWheel = clusterEmblem
+    .map(([re, img]) => {
+      const hit = topClustersAll.find((x) => re.test(x.c))
+      if (!hit) return null
+      const short = hit.c.split(" · ")[0]
+      return {
+        label: short,
+        sub: `${hit.n} works`,
+        img,
+        href: sluggify("Clusters/" + hit.c),
+      }
+    })
+    .filter(Boolean)
+
+  const wheelData = { authors: authorsWheel, axes: axesWheel, clusters: clustersWheel }
+  await fs.writeFile(
+    path.join(ROOT, "quartz", "static", "wheel.json"),
+    JSON.stringify(wheelData),
+  )
 
   const home = `---
 title: English Literature — A Knowledge Graph
@@ -304,19 +362,17 @@ title: English Literature — A Knowledge Graph
 
 ## Authors
 
-<div class="author-grid">
-${authorCards}
-</div>
+Spin through the thirteen authors — each emblem opens that author's works.
+
+<div class="radial-wheel" data-wheel="authors" data-center="Authors" data-center-sub="13 voices"></div>
 
 ## Thematic clusters
 
-The ${clusters.length} clusters group works by the constellations of theme and form they share.
+The ${clusters.length} clusters group works by the constellations of theme and form they share. Here are the twelve largest.
 
-<div class="cluster-cloud">
-${clusterChips}
-</div>
+<div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="62 in all"></div>
 
-<p style="margin-top:1.2rem"><a href="opere">See the full sortable table of works →</a></p>
+<p style="margin-top:1.2rem; text-align:center"><a class="btn" href="naviga">Explore the concept spaces →</a> &nbsp; <a class="btn btn-primary" href="opere">All works table →</a></p>
 `
   await fs.writeFile(path.join(CONTENT, "index.md"), home)
 
@@ -341,6 +397,19 @@ Filter the ${works.length.toLocaleString("en")} works by author, cluster and any
 <div id="cerca"></div>
 `
   await fs.writeFile(path.join(CONTENT, "cerca.md"), cerca)
+
+  // ---------- Naviga (concept-spaces wheel) ----------
+  const naviga = `---
+title: Navigate the concept spaces
+---
+
+Works connect through eight kinds of shared meaning. Each spoke opens the index of that concept space, where every note lists the works that use it as a searchable table.
+
+<div class="radial-wheel" data-wheel="axes" data-center="Concept spaces" data-center-sub="8 axes"></div>
+
+You can also [browse all works](opere) or [search by theme](cerca).
+`
+  await fs.writeFile(path.join(CONTENT, "naviga.md"), naviga)
 
   console.log(`copied ${written} notes, indexed ${works.length} works, ${authors.length} authors, ${clusters.length} clusters`)
 }

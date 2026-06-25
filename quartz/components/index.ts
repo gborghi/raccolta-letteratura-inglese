@@ -26,11 +26,13 @@ import ConditionalRender from "./ConditionalRender"
 import OpereTable from "./OpereTable"
 import CercaPage from "./CercaPage"
 import ConceptWorks from "./ConceptWorks"
+import RadialWheel from "./RadialWheel"
 
 export {
   OpereTable,
   CercaPage,
   ConceptWorks,
+  RadialWheel,
   ArticleTitle,
   Content,
   TagContent,
