@@ -1,7 +1,7 @@
 ---
 title: Problem Play
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Problem Play
 tags:
   - graph/form
 ---

@@ -1,7 +1,7 @@
 ---
 title: Venice
 type: setting
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Blood · Verse Drama · Revenge
 tags:
   - graph/setting
 ---

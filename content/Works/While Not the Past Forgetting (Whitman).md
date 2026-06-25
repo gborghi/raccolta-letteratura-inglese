@@ -2,7 +2,7 @@
 title: While Not the Past Forgetting
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Whitman/_raw/335_While_Not_the_Past_Forgetting.md
 tags:
   - graph/work
@@ -19,20 +19,26 @@ tags:
 
 # While Not the Past Forgetting
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Reconciliation poem laying wreaths on the graves of all dead soldiers, North and South, for peace and brotherhood.
 
 ## Connections
 
-**Motifs:** [[The Grave]], [[The Rose]]
+**Motifs:** [[Grave]], [[Rose]]
 **Themes & Concepts:** [[War and its Cost]], [[Grief and Loss]], [[Mercy]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Elegy]]
 **Historical References:** [[American Civil War]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!335_While_Not_the_Past_Forgetting
+
+  While not the past forgetting,
+  To-day, at least, contention sunk entire--peace, brotherhood uprisen;
+  For sign reciprocal our Northern, Southern hands,
+  Lay on the graves of all dead soldiers, North or South,
+  (Nor for the past alone--for meanings to the future,)
+  Wreaths of roses and branches of palm.

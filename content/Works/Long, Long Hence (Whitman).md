@@ -24,12 +24,17 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[The Book Reading]]
+**Motifs:** [[Book Reading]]
 **Themes & Concepts:** [[Immortality of Art Fame]], [[Memory and Time]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: GOOD-BYE MY FANCY_
 
-!362_Long_Long_Hence
+
+  After a long, long course, hundreds of years, denials,
+  Accumulations, rous’d love and joy and thought,
+  Hopes, wishes, aspirations, ponderings, victories, myriads of readers,
+  Coating, compassing, covering--after ages’ and ages’ encrustations,
+  Then only may these songs reach fruition.

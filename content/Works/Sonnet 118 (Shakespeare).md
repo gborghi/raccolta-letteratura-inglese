@@ -2,7 +2,7 @@
 title: Sonnet 118
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Paradox · Food and Feasting · Aphorism
 source: Authors/Shakespeare/Sonnets/Sonnet_118.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 118
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
 > Medicinal conceit: seeking bitter sauces to whet appetite, the speaker sickened himself with new loves and learned that drugs poison him who sickened of the beloved.
@@ -29,8 +29,19 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Romantic Love]], [[Temptation]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_118
+Like as, to make our appetites more keen, 
+With eager compounds we our palate urge; 
+As to prevent our maladies unseen 
+We sicken to shun sickness when we purge: 
+Even so, being full of your ne‘er cloying sweetness, 
+To bitter sauces did I frame my feeding, 
+And, sick of welfare, found a kind of meetness 
+To be diseased ere that there was true needing. 
+Thus policy in love, t’anticipate 
+The ills that were not, grew to faults assured, 
+And brought to medicine a healthful state 
+Which, rank of goodness, would by ill be cured. 
+But thence I learn, and find the lesson true: 
+Drugs poison him that so fell sick of you.

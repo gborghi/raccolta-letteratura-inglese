@@ -2,7 +2,7 @@
 title: Cavalry Crossing a Ford
 author: Whitman
 type: work
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: Memory and Time · Memory · Nostalgia
 source: Authors/Whitman/_raw/151_Cavalry_Crossing_a_Ford.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Cavalry Crossing a Ford
 
-*by Whitman*  ·  **Cluster:** [[Swords and Weapons · The Battlefield · Horse]]
+*by Whitman*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
 > An imagistic miniature of a cavalry line snaking across a silvery river, arms flashing and guidon flags fluttering; a painterly battlefield scene.
@@ -26,10 +26,20 @@ tags:
 
 **Motifs:** [[Horse]], [[River]], [[Flags and Banners]], [[Swords and Weapons]]
 **Forms & Genres:** [[Free Verse]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!151_Cavalry_Crossing_a_Ford
+
+  A line in long array where they wind betwixt green islands,
+  They take a serpentine course, their arms flash in the sun--hark to
+      the musical clank,
+  Behold the silvery river, in it the splashing horses loitering stop
+      to drink,
+  Behold the brown-faced men, each group, each person a picture, the
+      negligent rest on the saddles,
+  Some emerge on the opposite bank, others are just entering the ford--while,
+  Scarlet and blue and snowy white,
+  The guidon flags flutter gayly in the wind.

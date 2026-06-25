@@ -1,0 +1,180 @@
+---
+title: "A Tale of Two Cities — Chapter 13 (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/A-Tale-of-Two-Cities-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# A Tale of Two Cities — Chapter 13 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_45/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_45/part_03">part 03 ›</a></div>
+</nav>
+
+
+The hours went on as he walked to and fro, and the clocks struck the
+numbers he would never hear again. Nine gone for ever, ten gone for
+ever, eleven gone for ever, twelve coming on to pass away. After a hard
+contest with that eccentric action of thought which had last perplexed
+him, he had got the better of it. He walked up and down, softly
+repeating their names to himself. The worst of the strife was over.
+He could walk up and down, free from distracting fancies, praying for
+himself and for them.
+
+Twelve gone for ever.
+
+He had been apprised that the final hour was Three, and he knew he would
+be summoned some time earlier, inasmuch as the tumbrils jolted heavily
+and slowly through the streets. Therefore, he resolved to keep Two
+before his mind, as the hour, and so to strengthen himself in the
+interval that he might be able, after that time, to strengthen others.
+
+Walking regularly to and fro with his arms folded on his breast, a very
+different man from the prisoner, who had walked to and fro at La Force,
+he heard One struck away from him, without surprise. The hour had
+measured like most other hours. Devoutly thankful to Heaven for his
+recovered self-possession, he thought, “There is but another now,” and
+turned to walk again.
+
+Footsteps in the stone passage outside the door. He stopped.
+
+The key was put in the lock, and turned. Before the door was opened, or
+as it opened, a man said in a low voice, in English: “He has never seen
+me here; I have kept out of his way. Go you in alone; I wait near. Lose
+no time!”
+
+The door was quickly opened and closed, and there stood before him
+face to face, quiet, intent upon him, with the light of a smile on his
+features, and a cautionary finger on his lip, Sydney Carton.
+
+There was something so bright and remarkable in his look, that, for the
+first moment, the prisoner misdoubted him to be an apparition of his own
+imagining. But, he spoke, and it was his voice; he took the prisoner’s
+hand, and it was his real grasp.
+
+“Of all the people upon earth, you least expected to see me?” he said.
+
+“I could not believe it to be you. I can scarcely believe it now. You
+are not”--the apprehension came suddenly into his mind--“a prisoner?”
+
+“No. I am accidentally possessed of a power over one of the keepers
+here, and in virtue of it I stand before you. I come from her--your
+wife, dear Darnay.”
+
+The prisoner wrung his hand.
+
+“I bring you a request from her.”
+
+“What is it?”
+
+“A most earnest, pressing, and emphatic entreaty, addressed to you
+in the most pathetic tones of the voice so dear to you, that you well
+remember.”
+
+The prisoner turned his face partly aside.
+
+“You have no time to ask me why I bring it, or what it means; I have
+no time to tell you. You must comply with it--take off those boots you
+wear, and draw on these of mine.”
+
+There was a chair against the wall of the cell, behind the prisoner.
+Carton, pressing forward, had already, with the speed of lightning, got
+him down into it, and stood over him, barefoot.
+
+“Draw on these boots of mine. Put your hands to them; put your will to
+them. Quick!”
+
+“Carton, there is no escaping from this place; it never can be done. You
+will only die with me. It is madness.”
+
+“It would be madness if I asked you to escape; but do I? When I ask you
+to pass out at that door, tell me it is madness and remain here. Change
+that cravat for this of mine, that coat for this of mine. While you do
+it, let me take this ribbon from your hair, and shake out your hair like
+this of mine!”
+
+With wonderful quickness, and with a strength both of will and action,
+that appeared quite supernatural, he forced all these changes upon him.
+The prisoner was like a young child in his hands.
+
+“Carton! Dear Carton! It is madness. It cannot be accomplished, it never
+can be done, it has been attempted, and has always failed. I implore you
+not to add your death to the bitterness of mine.”
+
+“Do I ask you, my dear Darnay, to pass the door? When I ask that,
+refuse. There are pen and ink and paper on this table. Is your hand
+steady enough to write?”
+
+“It was when you came in.”
+
+“Steady it again, and write what I shall dictate. Quick, friend, quick!”
+
+Pressing his hand to his bewildered head, Darnay sat down at the table.
+Carton, with his right hand in his breast, stood close beside him.
+
+“Write exactly as I speak.”
+
+“To whom do I address it?”
+
+“To no one.” Carton still had his hand in his breast.
+
+“Do I date it?”
+
+“No.”
+
+The prisoner looked up, at each question. Carton, standing over him with
+his hand in his breast, looked down.
+
+“‘If you remember,’” said Carton, dictating, “‘the words that passed
+between us, long ago, you will readily comprehend this when you see it.
+You do remember them, I know. It is not in your nature to forget them.’”
+
+He was drawing his hand from his breast; the prisoner chancing to look
+up in his hurried wonder as he wrote, the hand stopped, closing upon
+something.
+
+“Have you written ‘forget them’?” Carton asked.
+
+“I have. Is that a weapon in your hand?”
+
+“No; I am not armed.”
+
+“What is it in your hand?”
+
+“You shall know directly. Write on; there are but a few words more.” He
+dictated again. “‘I am thankful that the time has come, when I can prove
+them. That I do so is no subject for regret or grief.’” As he said these
+words with his eyes fixed on the writer, his hand slowly and softly
+moved down close to the writer’s face.
+
+The pen dropped from Darnay’s fingers on the table, and he looked about
+him vacantly.
+
+“What vapour is that?” he asked.
+
+“Vapour?”
+
+“Something that crossed me?”
+
+“I am conscious of nothing; there can be nothing here. Take up the pen
+and finish. Hurry, hurry!”
+
+As if his memory were impaired, or his faculties disordered, the
+prisoner made an effort to rally his attention. As he looked at Carton
+with clouded eyes and with an altered manner of breathing, Carton--his
+hand again in his breast--looked steadily at him.
+
+“Hurry, hurry!”
+
+The prisoner bent over the paper, once more.
+
+“‘If it had been otherwise;’” Carton’s hand was again watchfully and
+softly stealing down; “‘I never should have used the longer opportunity.
+If it had been otherwise;’” the hand was at the prisoner’s face; “‘I
+should but have had so much the more to answer for. If it had been
+otherwise--’” Carton looked at the pen and saw it was trailing off into
+unintelligible signs.

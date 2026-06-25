@@ -2,7 +2,7 @@
 title: You Lingering Sparse Leaves of Me
 author: Whitman
 type: work
-cluster: Seasons · Winter · Spring
+cluster: Seasons · Winter · Autumn
 source: Authors/Whitman/_raw/342_You_Lingering_Sparse_Leaves_of_Me.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # You Lingering Sparse Leaves of Me
 
-*by Whitman*  ·  **Cluster:** [[Seasons · Winter · Spring]]
+*by Whitman*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
 > The poet likens himself to a well-shorn tree's last sparse leaves on winter-nearing boughs, the hardiest and last.
@@ -31,8 +31,15 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Self-Knowledge]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!342_You_Lingering_Sparse_Leaves_of_Me
+
+  You lingering sparse leaves of me on winter-nearing boughs,
+  And I some well-shorn tree of field or orchard-row;
+  You tokens diminute and lorn--(not now the flush of May, or July
+      clover-bloom--no grain of August now;)
+  You pallid banner-staves--you pennants valueless--you overstay’d of time,
+  Yet my soul-dearest leaves confirming all the rest,
+  The faithfulest--hardiest--last.

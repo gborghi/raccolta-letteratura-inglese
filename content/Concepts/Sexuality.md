@@ -1,7 +1,7 @@
 ---
 title: Sexuality
 type: concept
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 tags:
   - graph/concept
 ---

@@ -1,7 +1,7 @@
 ---
 title: Night
 type: motif
-cluster: Night · Fire · Comic Verse / Song
+cluster: Stars · Night · Military Camp
 tags:
   - graph/motif
 ---

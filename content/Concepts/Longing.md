@@ -1,7 +1,7 @@
 ---
 title: Longing
 type: concept
-cluster: Lyric · Flowers · Stars
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/concept
 ---

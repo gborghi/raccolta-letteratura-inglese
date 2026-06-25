@@ -1,0 +1,57 @@
+---
+title: "The Two Gentlemen of Verona — Act III, Scene 1 — monologue (DUKE) [4]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Two Gentlemen of Verona — Act III, Scene 1 — monologue (DUKE) [4]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
+</nav>
+
+
+DUKE
+How shall I fashion me to wear a cloak?
+I pray thee let me feel thy cloak upon me.
+He lifts Valentine’s cloak and finds a letter and a rope-ladder
+What letter is this same? What’s here? ‘To Silvia’?
+And here an engine fit for my proceeding.
+I’ll be so bold to break the seal for once.
+(Reads)
+‘My thoughts do harbour with my Silvia nightly,
+And slaves they are to me, that send them flying.
+O, could their master come and go as lightly,
+Himself would lodge where, senseless, they are lying.
+My herald thoughts in thy pure bosom rest them,
+While I, their king, that thither them importune,
+Do curse the grace that with such grace hath blessed
+them,
+Because myself do want my servants’ fortune.
+I curse myself for they are sent by me,
+That they should harbour where their lord should be.’
+What’s here?
+‘Silvia, this night I will enfranchise thee’?
+‘Tis so, and here’s the ladder for the purpose.
+Why, Phaeton, for thou art Merops’ son
+Wilt thou aspire to guide the heavenly car,
+And with thy daring folly burn the world?
+Wilt thou reach stars because they shine on thee?
+Go, base intruder, over-weening slave,
+Bestow thy fawning smiles on equal mates,
+And think my patience, more than thy desert,
+Is privilege for thy departure hence.
+Thank me for this more than for all the favours
+Which, all too much, I have bestowed on thee.
+But if thou linger in my territories
+Longer than swiftest expedition
+Will give thee time to leave our royal court,
+By heaven, my wrath shall far exceed the love
+I ever bore my daughter or thyself.
+Be gone. I will not hear thy vain excuse,
+But as thou lov’st thy life, make speed from hence.
+Exit

@@ -2,7 +2,7 @@
 title: As I Sit Writing Here
 author: Whitman
 type: work
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Whitman/_raw/301_As_I_Sit_Writing_Here.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # As I Sit Writing Here
 
-*by Whitman*  ·  **Cluster:** [[Grief and Loss · Melancholy · Elegy]]
+*by Whitman*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > A short free-verse lyric fearing that the aches and ennui of old age filter into his songs; themes of old age, writing and melancholy.
@@ -27,8 +27,12 @@ tags:
 **Themes & Concepts:** [[Melancholy]], [[Mortality]], [[Memory and Time]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!301_As_I_Sit_Writing_Here
+
+  As I sit writing here, sick and grown old,
+  Not my least burden is that dulness of the years, querilities,
+  Ungracious glooms, aches, lethargy, constipation, whimpering ennui,
+  May filter in my dally songs.

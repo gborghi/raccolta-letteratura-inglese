@@ -1,0 +1,21 @@
+---
+title: "All Is True (Henry VIII) — Act V, Scene 4 — monologue (WHEN) [4]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# All Is True (Henry VIII) — Act V, Scene 4 — monologue (WHEN) [4]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)">All Is True Henry VIII</a></div>
+</nav>
+
+
+WHEN it first appeared in print, in 1634, The Two Noble Kinsmen was stated to be ‘by the memorable worthies of their time, Mr John Fletcher, and Mr William Shakespeare’. There is no reason to disbelieve this ascription: many plays of the period were not printed till long after they were acted, and there is other evidence that Shakespeare collaborated with Fletcher (1579―1625). The morris dance in Act 3, Scene 5, contains characters who also appear in Francis Beaumont’s Masque of the Inner Temple and Gray’s Inn performed before James I on 20 February 1613. Their dance was a great success with the King; probably the King’s Men—some of whom may have taken part in the masque—decided to exploit its success by incorporating it in a play written soon afterwards, in the last year of Shakespeare’s playwriting life.
+The Two Noble Kinsmen, a tragicomedy of the kind that became popular during the last years of the first decade of the seventeenth century, is based on Chaucer’s Knight’s Tale, on which Shakespeare had already drawn for episodes of A Midsummer Night’s Dream. It tells a romantic tale of the conflicting claims of love and friendship: the ‘two noble kinsmen’, Palamon and Arcite, are the closest of friends until each falls in love with Emilia, sister-in-law of Theseus, Duke of Athens. Their conflict is finally resolved by a formal combat with Emilia as the prize, in which the loser is to be executed. Arcite wins, and Palamon’s head is on the block as news arrives that Arcite has been thrown from his horse. Dying, Arcite commends Emilia to his friend, and Theseus rounds off the play with a meditation on the paradoxes of fortune.
+Studies of style suggest that Shakespeare was primarily responsible for the rhetorically and ritualistically impressive Act 1, for Act 2, Scene 1. Act 3, Scenes 1 and 2; and for most of Act 5 (Scene 4 excepted), which includes emblematically spectacular episodes related to his other late plays. Fletcher appears mainly to have written the scenes showing the rivalry of Palamon and Arcite along with the sub-plots concerned with the Jailer’s daughter’s love for Palamon and the rustics’ entertainment for Theseus.
+Though the play was adapted by William Davenant as The Rivals (1664), its first known performances since the seventeenth century were at the Old Vic in 1928; it has been played only occasionally since then, but was chosen to open the Swan Theatre in Stratford-upon-Avon in 1986. Critical interest, too, has been slight; but Shakespeare’s contributions are entirely characteristic of his late style, and Fletcher’s scenes are both touching and funny.

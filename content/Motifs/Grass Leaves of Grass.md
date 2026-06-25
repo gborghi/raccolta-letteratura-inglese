@@ -1,7 +1,7 @@
 ---
 title: Grass / Leaves of Grass
 type: motif
-cluster: Seasons · Winter · Spring
+cluster: Nature · Book of Nature · Natural Order
 tags:
   - graph/motif
 ---

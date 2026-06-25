@@ -1,0 +1,17 @@
+---
+title: Prince Prospero
+type: character
+cluster: Blank Verse · Tragicomedy · Romance Play
+tags:
+  - graph/character
+---
+
+# Prince Prospero
+
+*Character* — appears in **2** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Prince-Prospero"></div>
+
+#graph/character

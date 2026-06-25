@@ -1,7 +1,7 @@
 ---
 title: Crime and Punishment
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Money and Gold · Poverty · Imprisonment
 tags:
   - graph/concept
 ---

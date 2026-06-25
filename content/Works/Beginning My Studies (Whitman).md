@@ -2,7 +2,7 @@
 title: Beginning My Studies
 author: Whitman
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Whitman/_raw/010_Beginning_My_Studies.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Beginning My Studies
 
-*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > Ecstatic wonder at the first step of consciousness, sense and motion; joy, wonder and gratitude, the sublime in the ordinary. Short free-verse lyric.
@@ -24,11 +24,17 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Joy]], [[Wonder and Gratitude]], [[The Sublime]]
+**Themes & Concepts:** [[Joy]], [[Wonder and Gratitude]], [[Sublime]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!010_Beginning_My_Studies
+
+  Beginning my studies the first step pleas’d me so much,
+  The mere fact consciousness, these forms, the power of motion,
+  The least insect or animal, the senses, eyesight, love,
+  The first step I say awed me and pleas’d me so much,
+  I have hardly gone and hardly wish’d to go any farther,
+  But stop and loiter all the time to sing it in ecstatic songs.

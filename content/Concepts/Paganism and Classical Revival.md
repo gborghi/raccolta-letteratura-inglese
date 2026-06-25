@@ -1,7 +1,7 @@
 ---
 title: Paganism and Classical Revival
 type: concept
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 tags:
   - graph/concept
 ---

@@ -1,7 +1,7 @@
 ---
 title: Truth
 type: concept
-cluster: Paradox · Truth · Aphorism
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/concept
 ---

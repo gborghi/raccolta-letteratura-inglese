@@ -1,0 +1,111 @@
+---
+title: "David Copperfield — Chapter 32: THE BEGINNING OF A LONG JOURNEY (part 7)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/David-Copperfield-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# David Copperfield — Chapter 32: THE BEGINNING OF A LONG JOURNEY (part 7)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_JOURNE/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_01">part 01 ›</a></div>
+</nav>
+
+
+‘Is it my doing?’ I returned.
+
+‘Is it your doing!’ she retorted. ‘Why do you bring this man here?’
+
+‘He is a deeply-injured man, Miss Dartle,’ I replied. ‘You may not know
+it.’
+
+‘I know that James Steerforth,’ she said, with her hand on her bosom, as
+if to prevent the storm that was raging there, from being loud, ‘has
+a false, corrupt heart, and is a traitor. But what need I know or care
+about this fellow, and his common niece?’
+
+‘Miss Dartle,’ I returned, ‘you deepen the injury. It is sufficient
+already. I will only say, at parting, that you do him a great wrong.’
+
+‘I do him no wrong,’ she returned. ‘They are a depraved, worthless set.
+I would have her whipped!’
+
+Mr. Peggotty passed on, without a word, and went out at the door.
+
+‘Oh, shame, Miss Dartle! shame!’ I said indignantly. ‘How can you bear
+to trample on his undeserved affliction!’
+
+‘I would trample on them all,’ she answered. ‘I would have his house
+pulled down. I would have her branded on the face, dressed in rags,
+and cast out in the streets to starve. If I had the power to sit in
+judgement on her, I would see it done. See it done? I would do it! I
+detest her. If I ever could reproach her with her infamous condition, I
+would go anywhere to do so. If I could hunt her to her grave, I would.
+If there was any word of comfort that would be a solace to her in her
+dying hour, and only I possessed it, I wouldn’t part with it for Life
+itself.’
+
+The mere vehemence of her words can convey, I am sensible, but a weak
+impression of the passion by which she was possessed, and which made
+itself articulate in her whole figure, though her voice, instead of
+being raised, was lower than usual. No description I could give of her
+would do justice to my recollection of her, or to her entire deliverance
+of herself to her anger. I have seen passion in many forms, but I have
+never seen it in such a form as that.
+
+When I joined Mr. Peggotty, he was walking slowly and thoughtfully down
+the hill. He told me, as soon as I came up with him, that having now
+discharged his mind of what he had purposed doing in London, he meant
+‘to set out on his travels’, that night. I asked him where he meant to
+go? He only answered, ‘I’m a going, sir, to seek my niece.’
+
+We went back to the little lodging over the chandler’s shop, and there
+I found an opportunity of repeating to Peggotty what he had said to
+me. She informed me, in return, that he had said the same to her that
+morning. She knew no more than I did, where he was going, but she
+thought he had some project shaped out in his mind.
+
+I did not like to leave him, under such circumstances, and we all three
+dined together off a beefsteak pie--which was one of the many good
+things for which Peggotty was famous--and which was curiously flavoured
+on this occasion, I recollect well, by a miscellaneous taste of tea,
+coffee, butter, bacon, cheese, new loaves, firewood, candles, and walnut
+ketchup, continually ascending from the shop. After dinner we sat for an
+hour or so near the window, without talking much; and then Mr. Peggotty
+got up, and brought his oilskin bag and his stout stick, and laid them
+on the table.
+
+He accepted, from his sister’s stock of ready money, a small sum on
+account of his legacy; barely enough, I should have thought, to keep him
+for a month. He promised to communicate with me, when anything befell
+him; and he slung his bag about him, took his hat and stick, and bade us
+both ‘Good-bye!’
+
+‘All good attend you, dear old woman,’ he said, embracing Peggotty, ‘and
+you too, Mas’r Davy!’ shaking hands with me. ‘I’m a-going to seek her,
+fur and wide. If she should come home while I’m away--but ah, that ain’t
+like to be!--or if I should bring her back, my meaning is, that she
+and me shall live and die where no one can’t reproach her. If any hurt
+should come to me, remember that the last words I left for her was, “My
+unchanged love is with my darling child, and I forgive her!”’
+
+He said this solemnly, bare-headed; then, putting on his hat, he went
+down the stairs, and away. We followed to the door. It was a warm, dusty
+evening, just the time when, in the great main thoroughfare out of which
+that by-way turned, there was a temporary lull in the eternal tread of
+feet upon the pavement, and a strong red sunshine. He turned, alone, at
+the corner of our shady street, into a glow of light, in which we lost
+him.
+
+Rarely did that hour of the evening come, rarely did I wake at night,
+rarely did I look up at the moon, or stars, or watch the falling rain,
+or hear the wind, but I thought of his solitary figure toiling on, poor
+pilgrim, and recalled the words:
+
+‘I’m a going to seek her, fur and wide. If any hurt should come to me,
+remember that the last words I left for her was, “My unchanged love is
+with my darling child, and I forgive her!”’

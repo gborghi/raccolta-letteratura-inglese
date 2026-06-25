@@ -1,0 +1,17 @@
+---
+title: Guiderius
+type: character
+cluster: Blank Verse · Tragicomedy · Romance Play
+tags:
+  - graph/character
+---
+
+# Guiderius
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Guiderius"></div>
+
+#graph/character

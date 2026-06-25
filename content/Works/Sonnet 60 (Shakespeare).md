@@ -2,7 +2,7 @@
 title: Sonnet 60
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Time · Tempus Fugit · Clock
 source: Authors/Shakespeare/Sonnets/Sonnet_060.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 60
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
 > Minutes like waves hastening to their end; time's scythe destroys beauty, but verse shall stand against his cruel hand.
@@ -27,13 +27,26 @@ tags:
 ## Connections
 
 **Topoi:** [[Tempus Fugit]], [[Immortality Through Verse]]
-**Motifs:** [[Time]], [[The Sea]], [[Mutability]]
+**Motifs:** [[Time]], [[Sea]], [[Mutability]]
 **Themes & Concepts:** [[Transience]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
-**Characters:** [[Death Personified (2)]]
+**Characters:** [[Death Personified]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Like as the waves make towards the pebbled shore, 
+So do our minutes hasten to their end, 
+Each changing place with that which goes before; 
+In sequent toil all forwards do contend. 
+Nativity, once in the main of light, 
+Crawls to maturity, wherewith being crowned 
+Crooked eclipses ’gainst his glory fight, 
+And time that gave doth now his gift confound. 
+Time doth transfix the flourish set on youth, 
+And delves the parallels in beauty’s brow; 
+Feeds on the rarities of nature’s truth, 
+And nothing stands but for his scythe to mow.
 
-!Sonnet_060
+And yet to times in hope my verse shall stand,
+
+Praising thy worth despite his cruel hand.

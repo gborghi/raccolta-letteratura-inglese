@@ -1,0 +1,17 @@
+---
+title: Quest Hero
+type: archetype
+cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
+tags:
+  - graph/archetype
+---
+
+# Quest Hero
+
+*Archetype* — appears in **5** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Archetypes/Quest-Hero"></div>
+
+#graph/archetype

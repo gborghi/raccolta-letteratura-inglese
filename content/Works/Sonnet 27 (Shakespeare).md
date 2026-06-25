@@ -2,7 +2,7 @@
 title: Sonnet 27
 author: Shakespeare
 type: work
-cluster: The Journey · The Quest · The Pilgrim
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_027.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # Sonnet 27
 
-*by Shakespeare*  ·  **Cluster:** [[The Journey · The Quest · The Pilgrim]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Weary-traveller sonnet; the body rests but the mind makes a zealous pilgrimage to the beloved, whose shadow lights black night.
@@ -28,13 +28,26 @@ tags:
 ## Connections
 
 **Topoi:** [[Love as Religion]]
-**Archetypes:** [[The Pilgrim]]
-**Motifs:** [[Sleep]], [[Night]], [[The Journey]], [[Light and Dark]]
+**Archetypes:** [[Pilgrim]]
+**Motifs:** [[Sleep]], [[Night]], [[Journey]], [[Light and Dark]]
 **Themes & Concepts:** [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Weary with toil I haste me to my bed, 
+The dear repose for limbs with travel tired; 
+But then begins a journey in my head 
+To work my mind when body’s work’s expired; 
+For then my thoughts, from far where I abide, 
+Intend a zealous pilgrimage to thee, 
+And keep my drooping eyelids open wide, 
+Looking on darkness which the blind do see: 
+Save that my soul’s imaginary sight 
+Presents thy shadow to my sightless view, 
+Which like a jewel hung in ghastly night 
+Makes black night beauteous and her old face new.
 
-!Sonnet_027
+Lo, thus by day my limbs, by night my mind,
+
+For thee, and for myself, no quiet find.

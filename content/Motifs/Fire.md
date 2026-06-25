@@ -1,7 +1,7 @@
 ---
 title: Fire
 type: motif
-cluster: Night · Fire · Comic Verse / Song
+cluster: Sun · Light and Dark · Fire
 tags:
   - graph/motif
 ---

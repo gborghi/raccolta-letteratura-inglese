@@ -2,7 +2,7 @@
 title: The Torch
 author: Whitman
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Sun · Light and Dark · Fire
 source: Authors/Whitman/_raw/220_The_Torch.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # The Torch
 
-*by Whitman*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Whitman*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
 > Imagist miniature of Northwest fishermen spearing salmon by torchlight at night on a black lake; pure nocturnal image of fire on water.
@@ -26,8 +26,13 @@ tags:
 **Motifs:** [[Fire]], [[Night]], [[Water]], [[Light and Dark]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!220_The_Torch
+
+  On my Northwest coast in the midst of the night a fishermen’s group
+      stands watching,
+  Out on the lake that expands before them, others are spearing salmon,
+  The canoe, a dim shadowy thing, moves across the black water,
+  Bearing a torch ablaze at the prow.

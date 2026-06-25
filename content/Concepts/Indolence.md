@@ -1,7 +1,7 @@
 ---
 title: Indolence
 type: concept
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
 tags:
   - graph/concept
 ---

@@ -2,7 +2,7 @@
 title: Sonnet 33
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_033.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # Sonnet 33
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > First of the 'sun' estrangement sonnets; the friend's love, like the morning sun masked by cloud, briefly shone then was hidden, yet is forgiven.
@@ -31,8 +31,21 @@ tags:
 **Themes & Concepts:** [[Appearance vs Reality]], [[Grief and Loss]], [[Romantic Love]], [[Disillusionment]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Full many a glorious morning have I seen 
+Flatter the mountain tops with sovereign eye, 
+Kissing with golden face the meadows green, 
+Gilding pale streams with heavenly alchemy; 
+Anon permit the basest clouds to ride 
+With ugly rack on his celestial face, 
+And from the forlorn world his visage hide, 
+Stealing unseen to west with this disgrace. 
+Even so my sun one early morn did shine 
+With all triumphant splendour on my brow; 
+But out, alack, he was but one hour mine; 
+The region cloud hath masked him from me now.
 
-!Sonnet_033
+Yet him for this my love no whit disdaineth:
+
+Suns of the world may stain when heaven’s sun staineth.

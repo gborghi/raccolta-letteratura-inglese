@@ -2,7 +2,7 @@
 title: EPITAPH
 author: Coleridge
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Coleridge/_raw/304_EPITAPH.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # EPITAPH
 
-*by Coleridge*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Coleridge's self-epitaph for S.T.C., asking the Christian passer-by for prayer and finding life in death through Christ's mercy.
@@ -26,13 +26,19 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[The Grave]]
+**Motifs:** [[Grave]]
 **Themes & Concepts:** [[Grace and Redemption]], [[Mortality]], [[Faith]]
 **Forms & Genres:** [[Epigram]]
 **Characters:** [[Christ]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!304_EPITAPH
+Stop, Christian passer-by! — Stop, child of God,
+And read with gentle breast. Beneath this sod
+A poet lies, or that which once seem’d he.
+O, lift one thought in prayer for S. T. C.;
+That he who many a year with toil of breath   5
+Found death in life, may here find life in death!
+Mercy for praise — to be forgiven for fame
+He ask’d, and hoped, through Christ. Do thou the same!
+9th November, 1833.

@@ -2,7 +2,7 @@
 title: Still Though the One I Sing
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/020_Still_Though_the_One_I_Sing.md
 tags:
   - graph/work
@@ -16,19 +16,23 @@ tags:
 
 # Still Though the One I Sing
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Dedicates the one (of contradictions) to Nationality while leaving in him the quenchless fire of revolt; democracy, the rebel, identity.
 
 ## Connections
 
-**Archetypes:** [[The Rebel]]
+**Archetypes:** [[Rebel]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Identity]], [[Reform]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!020_Still_Though_the_One_I_Sing
+
+  Still though the one I sing,
+  (One, yet of contradictions made,) I dedicate to Nationality,
+  I leave in him revolt, (O latent right of insurrection! O
+      quenchless, indispensable fire!)

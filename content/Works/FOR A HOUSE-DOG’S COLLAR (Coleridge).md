@@ -24,11 +24,23 @@ tags:
 ## Connections
 
 **Motifs:** [[Animals]]
-**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Satire of Society]], [[Marriage and Fidelity]], [[Artist and Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!340_FOR_A_HOUSE-DOGS_COLLAR
+When thieves come, I bark: when gallants, I am still —
+So perform both my Master’s and Mistress’s will.
+First published in Morning Post, Oct. 2, 1802. Included in The
+Friend (title, ‘For a French House-Dog’s Collar’), No. 12, Nov. 9,
+1809.
+In vain I praise thee, Zoilus!
+In vain thou rail’st at me!
+Me no one credits, Zoilus!
+And no one credits thee!
+First published in Morning Post, Oct. 2, 1802. Adapted from a Latin
+Epigram ‘In Zoilum,’ by George Buchanan:
+‘Frustra ego te laudo, frustra
+Me, Zoile, laedis;
+Nemo mihi credit,
+Zoile, nemo, tibi.’

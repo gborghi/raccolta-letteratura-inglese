@@ -1,7 +1,7 @@
 ---
 title: Social Novel (Novel of Manners)
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Social Novel (Novel of Manners)
 tags:
   - graph/form
 ---

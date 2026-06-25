@@ -1,7 +1,7 @@
 ---
 title: Conscience
 type: concept
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Guilt · Conscience · Fate and Free Will
 tags:
   - graph/concept
 ---

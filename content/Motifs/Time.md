@@ -1,7 +1,7 @@
 ---
 title: Time
 type: motif
-cluster: Transience · Time · Tempus Fugit
+cluster: Time · Tempus Fugit · Clock
 tags:
   - graph/motif
 ---

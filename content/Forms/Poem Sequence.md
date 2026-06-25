@@ -1,7 +1,7 @@
 ---
 title: Poem Sequence
 type: form
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 tags:
   - graph/form
 ---

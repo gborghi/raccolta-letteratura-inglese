@@ -1,0 +1,686 @@
+---
+title: "The Two Noble Kinsmen — Act V, Scene 6 — monologue (TV) [7]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Two Noble Kinsmen — Act V, Scene 6 — monologue (TV) [7]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)">The Two Noble Kinsmen</a></div>
+</nav>
+
+
+TV and Film
+Ball, Robert Hamilton, Shakespeare on Silent Film: A Strange Eventful History (London: George Allen & Unwin, 1968)
+
+Boose, Lynda E., and Richard Burt (eds.), Shakespeare the Movie: Popularizing the Plays on Film, TV and Video (London: Routledge, 1997)
+
+—Shakespeare the Movie II: Popularizing the Plays on Film, TV, Video and DVD (London: Routledge, 2003)
+
+Buchman, Lorne M., Still in Movement: Shakespeare on Screen (Oxford: Oxford University Press, 1991)
+
+Bulman, J. C., and H. R. Coursen (eds.), Shakespeare on Television: An Anthology of Essays and Reviews (London: University Press of New England, 1988)
+
+Burnett, Mark Thornton, and Ramona Wray (eds.), Shakespeare, Film, Fin de Siècle (Basingstoke: Macmillan, 2000)
+
+Burt, Richard, Unspeakable Shaxxxspeares: Queer Theory and American Kiddie Culture (New York: St Martin’s Press, 1998)
+
+Collick, John, Shakespeare, Cinema and Society (Manchester: Manchester University Press, 1989)
+
+Coursen, H. R., Shakespeare in Production: Whose History? (Athens OH: University of Ohio Press, 1996)
+
+Crowl, Samuel, Shakespeare Observed: Studies in Performance on Stage and Screen (Athens OH: University of Ohio Press, 1992)
+
+Davies, Anthony, Filming Shakespeare’s Plays: The Adaptations of Laurence Olivier, Orson Welles, Peter Brook and (Cambridge: Cambridge University Press, 1988)
+
+—and Stanley Wells (eds.), Shakespeare and the Moving Image: The Plays on Film and Television (Cambridge: Cambridge University Press, 1994)
+
+Donaldson, Peter S., Shakespearean Films/Shakespearean Directors (Boston MA: Unwin Hyman, 1990)
+
+Jackson, Russell (ed.), The Cambridge Companion to Shakespeare on Film (Cambridge: Cambridge University Press, 2000)
+
+Jorgens, Jack J., Shakespeare on Film (Bloomington IN: Indiana University Press, 1977)
+
+McKernan, Luke, and Olwen Terris (eds.), Walking Shadows: Shakespeare in the National Film and Television Archive (London: British Film Institute, 1994)
+
+Manvell, Roger, Shakespeare and the Film (London: Dent, 1971)
+
+Pilkington, Ace G., Screening Shakespeare: From ‘Richard II’ to ‘Henry V’ (London: Associated University Presses, 1991)
+
+Rosenthal, Daniel, Shakespeare on Screen (London: Hamlyn, 2000)
+
+Rothwell, Kenneth S., A History of Shakespeare on Screen: A Century of Film and Television, 2nd edn. (Cambridge: Cambridge University Press, 2004)
+
+—and Annabelle Henkin Melzer (eds.), Shakespeare on Screen: An International Filmography and Videography (London: Mansell, 1990)
+
+Shaughnessy, Robert (ed.), Shakespeare on Film, New Casebooks (Basingstoke: Macmillan, 1998)
+
+Criticism
+
+History of Criticism
+Bate, Jonathan, Shakespeare and the English Romantic Imagination (Oxford: Clarendon Press, 1986)
+
+—(ed.). The Romantics on Shakespeare (London: Penguin, 1992)
+
+Bristol, Michael, Shakespeare’s America/America’s Shakespeare (London: Routledge, 1990)
+
+Dunn, Esther Cloudman, Shakespeare in America (New York: Macmillan, 1939)
+
+Eastman, Arthur M., A Short History of Shakespearean Criticism (New York: Random House, 1968)
+
+Foakes, R.A., Hamlet versus Lear: Cultural Politics and Shakespeare’s Art (Cambridge: Cambridge University Press, 1993)
+
+Grady, Hugh, The Modernist Shakespeare: Critical Texts in a Material World (Oxford: Clarendon Press, 1991)
+
+Haines, C. M., Shakespeare in France: Criticism, Voltaire to Victor Hugo (London: for the Shakespeare Association by H. Milford, Oxford University Press, 1925)
+
+Halpern, Richard, Shakespeare Among the Moderns (Ithaca NY: Cornell University Press, 1997)
+
+Hattaway, Michael, Boika Sokolova and Derek Roper (eds.), Shakespeare in the New Europe (Sheffield: Sheffield Academic Press, 1994)
+
+Kolin, Philip C. (ed.), Shakespeare and Feminist Criticism: An Annotated Bibliography and Commentary (New York: Garland, 1991)
+
+LeWinter, Oswald (ed.), Shakespeare in Europe (Harmondsworth: Penguin, 1970)
+
+Pascal, R. (ed.), Shakespeare in Germany: 1740-1815 (Cambridge: Cambridge University Press, 1937)
+
+Pechter, Edward, What Was Shakespeare? Renaissance Plays and Changing Critical Practice (Ithaca NY: Cornell University Press, 1995)
+
+Stavisky, A. Y., Shakespeare and the Victorians: Roots of Modern Criticism (Norman OK: University of Oklahoma Press, 1969)
+
+Stříbrný, Zděnek, Shakespeare and Eastern Europe (Oxford: Oxford University Press, 2000)
+
+Taylor, Michael, Shakespeare Criticism in the Twentieth Century (Oxford: Oxford University Press, 2001)
+
+Thompson, Ann, and Sasha Roberts (eds.), Women Reading Shakespeare, 1660-1900; An Anthology of Criticism (Manchester: Manchester University Press, 1997)
+
+Vickers, Brian, Appropriating Shakespeare: Contemporary Critical Quarrels (New Haven CT: Yale University Press, 1993)
+
+—(ed.), Shakespeare: The Critical Heritage, 6 vols (London: Routledge, 1974-81)
+
+Zhang, Xiao Yang, Shakespeare in China: A Comparative Study of Two Traditions and Cultures (London: Associated University Presses, 1996)
+
+General
+Alexander, Catherine M. S., and Stanley Wells (eds.), Shakespeare and Race (Cambridge: Cambridge University Press, 2000)
+
+—Shakespeare and Sexuality (Cambridge: Cambridge University Press, 2001)
+
+Atkins, G. Douglas, and David M. Bergeron, Shakespeare and Deconstruction (New York: Peter Lang, 1988)
+
+Berger, Harry, Imaginary Audition: Shakespeare on Stage and Page (Berkeley CA: University of California Press, 1989)
+
+—Making Trifles of Terrors: Redistributing Complicities in Shakespeare, ed. Peter Erickson (Stanford CA: Stanford University Press, 1997)
+
+Bristol, Michael D., Big-time Shakespeare (London: Routledge, 1996)
+
+Cavell, Stanley, Disowning Knowledge in Six Plays of Shakespeare (Cambridge: Cambridge University Press, 1987)
+
+Coleridge, Samuel Taylor, Coleridge’s Criticism of Shakespeare: A Selection, ed. R. A. Foakes (London: Athlone, 1989)
+
+Danson, Lawrence, Shakespeare’s Dramatic Genres (Oxford: Oxford University Press, 2000)
+
+De Grazia, Margreta, and Stanley Wells (eds.), The Cambridge Companion to Shakespeare (Cambridge: Cambridge University Press, 2001)
+
+Desmet, Christy, Reading Shakespeare’s Characters: Rhetoric, Ethics, and Identity (Amherst MA: University of Massachusetts Press, 1992)
+
+Dollimore, Jonathan, and Alan Sinfield (eds.), Political Shakespeare: Essays in Cultural Materialism, 2nd edn. (Manchester: Manchester University Press, 1994)
+
+Drakakis, John (ed.), Alternative Shakespeares I (London: Methuen, 1985)
+
+Eagleton, Terry, William Shakespeare (Oxford: Blackwell, 1986)
+
+Evans, Malcolm, Signifying Nothing: Truth’s True Contents in Shakespeare’s Text, 2nd edn. (Hemel Hempstead: Harvester Wheatsheaf, 1989)
+
+Frye, Northrop, Northrop Frye on Shakespeare, ed. Robert Sandler (New Haven CT: Yale University Press, 1986)
+
+Garber, Marjorie, Shakespeare’s Ghost Writers: Literature as Uncanny Causality (London: Methuen, 1987)
+
+Gillies, John, Shakespeare and the Geography of Difference (Cambridge: Cambridge University Press, 1994)
+
+Greenblatt, Stephen, Renaissance Self-fashioning: From More to Shakespeare (Chicago IL: University of Chicago Press, 1980)
+
+—Shakespearean Negotiations: The Circulation of Social Energy in Renaissance England (Oxford: Clarendon Press, 1988)
+
+Hawkes, Terence, That Shakespeherian Rag: Essays on a Critical Process (London: Methuen, 1986)
+
+—(ed.), Alternative Shakespeares 2 (London: Routledge, 1996)
+
+Hazlitt, William, Characters of Shakespeare’s Plays, with an introduction by Sir Arthur Quiller-Couch, World’s Classics (London: Oxford University Press, 1952) (First published 1817)
+
+Howard, Jean E., and Marion F. O’Connor (eds.), Shakespeare Reproduced: The Text in History and Ideology (London: Methuen, 1987)
+
+Howard, Jean E., and Scott Cutler Shershow (eds.), Marxist Shakespeares (New York and London: Routledge, 2001)
+
+Jardine, Lisa, Reading Shakespeare Historically (London: Routledge, 1996)
+
+Johnson, Samuel, Samuel Johnson on Shakespeare, ed. with an introduction and notes by Henry Woudhuysen (London: Penguin, 1989)
+
+Jones, Emrys, Scenic Form in Shakespeare (Oxford: Clarendon Press, 1971)
+
+Kastan, David Scott, Shakespeare and the Shapes of Time (London: Macmillan, 1982)
+
+Kernan, Alvin B., The Playwright as Magician: Shakespeare’s Image of the Poet in the English Public Theater (New Haven CT: Yale University Press, 1979)
+
+Knapp, Robert S., Shakespeare: The Theater and the Book (Princeton: Princeton University Press, 1989)
+
+Knights, L. C., ‘How Many Children Had Lady Macbeth? An Essay in the Theory and Practice of Shakespeare Criticism’, in his Explorations: Essays in Criticism, Mainly on the Literature of the Seventeenth Century (London: Chatto and Windus, 1946)
+
+Kott, Jan, Shakespeare Our Contemporary, trans. Boleslaw Taborski, 2ndedn. (London: Methuen, 1967)
+
+Loomba, Ania, and Martin Orkin (eds.), Post-Colonial Shakespeares (London: Routledge, 1998)
+
+Marcus, Leah, Puzzling Shakespeare: Local Reading and its Discontents (Berkeley CA: University of California Press, 1988)
+
+Neely, Carol Thomas, Broken Nuptials in Shakespeare’s Plays (New Haven CT: Yale University Press, 1985)
+
+Parker, Patricia, and Geoffrey Hartman (eds.), Shakespeare and the Question of Theory (London: Methuen, 1985)
+
+Patterson, Annabel, Shakespeare and the Popular Voice (Oxford: Blackwell, 1989)
+
+Rabkin, Norman, Shakespeare and the Problem of Meaning (Chicago IL: Chicago University Press, 1981)
+
+Rossiter, A. P., Angel with Horns: Fifteen Lectures on Shakespeare, ed. Graham Storey; reissued with an introduction by Peter Holland (London: Longman, 1989)
+
+Schwartz, Murray M., and Coppélia Kahn (eds.), Representing Shakespeare: New Psychoanalytic Essays (Baltimore MD: Johns Hopkins University Press, 1980)
+
+Shapiro, James, Shakespeare and the Jews (New York: Columbia University Press, 1996)
+
+Shaw, George Bernard, Shaw on Shakespeare, ed. with an introduction by Edwin Wilson (Harmondsworth: Penguin, 1969)
+
+Taylor, Gary, Moment by Moment by Shakespeare (London: Macmillan, 1985)
+
+Weimann, Robert, Shakespeare and the Popular Tradition in the Theater: Studies in the Social Dimension of Dramatic Form and Function, trans. Robert Schwartz (Baltimore MD: Johns Hopkins University Press, 1978)
+
+Gender
+Adelman, Janet, Suffocating Mothers: Fantasies of Maternal Origin in Shakespeare’s Plays, ‘Hamlet’ to ’The Tempest’ (London: Routledge, 1992)
+
+Barker, Deborah, and Ivo Kamps (eds.), Shakespeare and Gender: A History (London: Verso, 1995)
+
+Dusinberre, Juliet, Shakespeare and the Nature of Women, 2nd edn. (Basingstoke: Macmillan, 1996)
+
+Erickson, Peter, Patriarchal Structures in Shakespeare Drama (Berkeley CA: University of California Press, 1985)
+
+Kahn, Coppélia, Man’s Estate: Masculine Identity in Shakespeare (Berkeley CA: University of California, 1981)
+
+Lenz, Carolyn Ruth Swift, Gayle Greene and Carol Thomas Neely, The Woman’s Part: Feminist Criticism of Shakespeare (Urbana IL: University of Illinois Press, 1980)
+
+Orgel, Stephen, Impersonations: The Performance of Gender in Shakespeare’s England (Cambridge: Cambridge University Press, 1996)
+
+Traub, Valerie, Desire and Anxiety: Circulations of Sexuality in Shakespearean Drama (London: Routledge, 1992)
+
+Wayne, Valerie (ed.), The Matter of Difference: Materialist Feminist Criticism of Shakespeare (Hemel Hempstead: Harvester Wheatsheaf, 1991)
+
+Comedy
+Barber, C. L., Shakespeare’s Festive Comedy: A Study of Dramatic Form and its Relation to Social Custom (Princeton NJ: Princeton University Press, 1959)
+
+Carroll, William C., The Metamorphoses of Shakespearean Comedy (Princeton NJ: Princeton University Press, 1985)
+
+Evans, Bertrand, Shakespeare’s Comedies (Oxford: Clarendon Press, 1960)
+
+Freedman, Barbara, Staging the Gaze: Postmodernism, Psychoanalysis and Shakespearean Comedy (Ithaca NY: Cornell University Press, 1991)
+
+Frye, Northrop, The Myth of Deliverance: Reflections on Shakespeare’s Problem Comedies, introduction by A.C. Hamilton (Toronto: Toronto University Press, 1993) (First published 1983)
+
+Mowat, Barbara A., The Dramaturgy of Shakespeare’s Romances (Athens GA: University of Georgia Press, 1976)
+
+Tillyard, E. M. W., Shakespeare’s Early Comedies (London: Chatto & Windus, 1965)
+
+Wheeler, Richard P., Shakespeare’s Development and the Problem Comedies: Turn and Counterturn (Berkeley CA: University of California Press, 1981)
+
+History
+Charney, Maurice, Shakespeare’s Roman Plays: The Function of Imagery in the Drama (Cambridge MA: Harvard University Press, 1963)
+
+Howard, Jean E., and Phyllis Rackin, Engendering a Nation: A Feminist Account of Shakespeare’s English Histories (London: Routledge, 1997)
+
+Kahn, Coppélia, Roman Shakespeare: Warriors, Wounds and Women (London: Routledge, 1997)
+
+Rackin, Phyllis, Stages of History: Shakespeare’s English Chronicles (London: Routledge, 1991)
+
+Saccio, Peter, Shakespeare’s English Kings: History, Chronicle and Drama, 2nd edn. (Oxford: Oxford University Press, 2000)
+
+Siegel, Paul N., Shakespeare’s English and Roman History Plays: A Marxist Approach (London: Associated University Presses, 1986)
+
+Tillyard, E. M. W., Shakespeare’s History Plays (London: Chatto and Windus, 1944)
+
+Tragedy
+Bradley, A. C., Shakespearean Tragedy: Lectures on ‘Hamlet’, ‘Othello’, ‘King Lear’, ‘Macbeth’, with a foreword by John Bayley (London: Penguin, 1991) (First published 1904)
+
+Garner, Shirley Nelson, and Madelon Sprengnether (eds.), Shakespearean Tragedy and Gender (Bloomington IN: Indiana University Press, 1996)
+
+Snyder, Susan, The Comic Matrix of Shakespeare’s Tragedies: ‘Romeo and Juliet’, ‘Hamlet’, ‘Othello’, and ‘King Lear’ (Princeton NJ: Princeton University Press, 1979)
+
+Whitaker, Virgil K., The Mirror Up to Nature: The Technique of Shakespeare’s Tragedies (San Marino CA: Huntington Library, 1965)
+
+Poems and Sonnets
+Akrigg, G. P. V., Shakespeare and the Earl of Southampton (London: Hamish Hamilton, 1968)
+
+Booth, Stephen, An Essay on Shakespeare’s Sonnets (New Haven CT: Yale University Press, 1969)
+
+Donaldson, Ian, The Rapes of Lucretia: A Myth and Its Transformations (Oxford: Clarendon Press, 1982)
+
+Dubrow, Heather, Captive Victors: Shakespeare’s Narrative Poems and Sonnets (Ithaca NY: Cornell University Press, 1987)
+
+Edmondson, Paul, and Stanley Wells, Shakespeare’s Sonnets (Oxford: Oxford University Press, 2004)
+
+Fineman, Joel, Shakespeare’s Perjured Eye: The Invention of Poetic Subjectivity in the Sonnets (Berkeley CA: University of California Press, 1986)
+
+Jones, Peter (ed.), Shakespeare, ‘The Sonnets’, A Casebook (Basingstoke: Macmillan, 1977)
+
+Kerrigan, John (ed.), Motives of Woe: Shakespeare and ‘Female Complaint’, A Critical Anthology (Oxford: Clarendon Press, 1991)
+
+Knight, G. Wilson, The Mutual Flame: On Shakespeare’s ‘Sonnets’ and ‘The Phoenix and the Turtle’, G. Wilson Knight Collected Works, 5 (London: Routledge, 2002) (First published 1955)
+
+Pequigney, Joseph, Such Is My Love: A Study of Shakespeare’s Sonnets (Chicago IL: University of Chicago Press, 1985)
+
+Smith, Hallett, The Tension of the Lyre: Poetry in Shakespeare’s Sonnets (San Marino CA: Huntington Library, 1981)
+
+Vendler, Helen, The Art of Shakespeare’s Sonnets (Cambridge MA: The Belknap Press of Harvard University Press, 1997)
+
+Individual Plays
+The Early Comedies: The Comedy of Errors, Love’s Labour’s Lost, A Midsummer Night’s Dream, The Taming of the Shrew, The Two Gentlemen of Verona
+Carroll, William C., The Great Feast of Language in ‘Love’s Labour’s Lost’ (Princeton NJ: Princeton University Press, 1976)
+
+Dolan, Frances E. (ed.), ‘The Taming of the Shrew’: Texts and Contexts (Basingstoke: Macmillan, 1996)
+
+Gilbert, Miriam, Love’s Labour’s Lost, Shakespeare in Performance (Manchester: Manchester University Press, 1993)
+
+Griffiths, Trevor R. (ed.), A Midsummer Night’s Dream, Shakespeare in Production (Cambridge: Cambridge University Press, 1996)
+
+Halio, Jay L., A Midsummer Night’s Dream, Shakespeare in Performance (Manchester: Manchester University Press, 1994)
+
+Haring-Smith, Tori, From Farce to Metadrama: A Stage History of ‘The Taming of the Shrew’ 1594-1983 (Westport CT: Greenwood Press, 1985)
+
+Holderness, Graham, The Taming of the Shrew, Shakespeare in Performance (Manchester: Manchester University Press, 1989)
+
+Kennedy, Judith M., and Richard F. Kennedy (eds.), A Midsummer Night’s Dream, Shakespeare: the Critical Tradition (London: Athlone, 1999)
+
+Miola, Robert S. (ed.), ‘The Comedy of Errors’: Critical Essays (New York: Garland, 1997)
+
+Paster, Gail Kern (ed.), A Midsummer Night’s Dream: Texts and Contexts (Basingstoke: Macmillan, 1999)
+
+Riehle, Wolfgang, Shakespeare, Plautus and the Humanist Tradition (Cambridge: D. S. Brewer, 1990)
+
+Schafer, Elizabeth (ed.), The Taming of the Shrew, Shakespeare in Production (Cambridge: Cambridge University Press, 2002)
+
+Schlueter, June (ed.), ‘Two Gentlemen of Verona’: Critical Essays (New York: Garland, 1996)
+
+Selbourne, David, The Making of ‘A Midsummer Night’s Dream’: An Eye-witness Account of Peter Brook’s Production from First Rehearsal to First Night, with an introductory essay by Simon Trussler (London: Methuen, 1982)
+
+Warren, Roger, A Midsummer Night’s Dream, Text and Performance (Basingstoke: Macmillan, 1983)
+
+Wiles, David, Shakespeare’s Almanac: ‘A Midsummer Night’s Dream’, Marriage and the Elizabethan Calendar (Cambridge: D. S. Brewer, 1993)
+
+Williams, Gary Jay, Our Moonlight Revels: ‘A Midsummer Night’s Dream’ in the Theatre (Iowa City IA: University of Iowa Press, 1997)
+
+Yates, Frances A., A Study of ‘Love’s Labour’s Lost’ (Cambridge: Cambridge University Press, 1936)
+
+Young, David P., Something of Great Constancy: The Art of ‘A Midsummer Night’s Dream’ (New Haven CT: Yale University Press, 1966)
+The Middle Comedies:
+As You Like It, The Merchant of Venice, The Merry Wives of Windsor, Much Ado About Nothing, Twelfth Night
+Billington, Michael (ed.), Directors’ Shakespeare: Approaches to ‘Twelfth Night’ by Bill Alexander, John Barton, John Caird, Terry Hands (London: Nick Hern, 1990)
+
+Cerasano, S. P. (ed.), A Routledge Literary Sourcebook on William Shakespeare’s ‘The Merchant of Venice’ (London: Routledge, 2004)
+
+Cox, John F. (ed.), Much Ado About Nothing, Shakespeare in Production (Cambridge: Cambridge University Press, 1997)
+
+Danson, Lawrence, The Harmonies of ‘The Merchant of Venice’ (New Haven CT: Yale University Press, 1978)
+
+Draper, John W., The ‘Twelfth Night’ of Shakespeare’s Audience (Stanford CA: Stanford University Press, 1950)
+
+Edelman, Charles (ed.), The Merchant of Venice, Shakespeare in Production (Cambridge: Cambridge University Press, 2002)
+
+Gay, Penny, William Shakespeare, ‘As You Like It’, Writers and Their Work (Plymouth: Northcote House in Association with the British Council, 1999)
+
+Gilbert, Miriam, The Merchant of Venice, Shakespeare at Stratford (London: Arden Shakespeare, 2002)
+
+Gross, John J., Shylock: Four Hundred Years in the Life of a Legend (London: Chatto and Windus, 1992)
+
+Hotson, Leslie, The First Night of ‘Twelfth Night’ (London: Hart Davis, 1954)
+
+Marshall, Cynthia (ed.), As You Like It, Shakespeare in Production (Cambridge: Cambridge University Press, 2004)
+
+Mason, Pamela, Much Ado about Nothing, Text and Performance (Basingstoke: Macmillan Education, 1992)
+
+Osbourne, Laurie E., The Trick of Singularity: ‘Twelfth Night’ and the Performance Editions (Iowa City IA: University of Iowa Press, 1996)
+
+Overton, Bill, The Merchant of Venice, Text and Performance (Basingstoke: Macmillan, 1987)
+
+Pennington, Michael, ‘Twelfth Night’: A User’s Guide (London: Nick Hern, 2000)
+
+Potter, Lois, Twelfth Night, Text and Performance (Basingstoke: Macmillan, 1985)
+
+Prouty, Charles T., The Sources of ‘Much Ado about Nothing’: A Critical Study together with the Text of Peter Beverley’s ‘Ariodante and Ieneura’ (New Haven CT: Yale University Press, 1950)
+
+Roberts, Jeanne Addison, Shakespeare’s English Comedy: ‘The Merry Wives of Windsor’ in Context (Lincoln NE: University of Nebraska Press, 1979)
+
+Smallwood, Robert, As You Like It, Shakespeare at Stratford (London: Arden Shakespeare, 2003)
+
+Smith, Bruce R. (ed.), ‘Twelfth Night or, What You Will’: Texts and Contexts (Basingstoke: Palgrave, 2001)
+
+Wells, Stanley, ‘Editorial Treatment of Foul-Paper Texts: Much Ado about Nothing as Test Case’, Review of English Studies, 31 (1980), 1-16
+
+White, R. S. (ed.), Twelfth Night, New Casebooks (Basingstoke: Macmillan, 1996)
+
+Wynne-Davies, Marion (ed.), ‘Much Ado about Nothing’ and ‘The Taming of the Shrew’, New Casebooks (Basingstoke: Palgrave, 2001)
+The Problem Plays:
+All’s
+Well
+That Ends Well, Measure for Measure, Troilus and Cressida
+Adamson, Janet, Troilus and Cressida, Harvester New Critical Introductions to Shakespeare (Brighton: Harvester, I987)
+
+Bennett, Josephine Waters, ‘Measure for Measure’ as Royal Entertainment (New York: Columbia University Press, 1966)
+
+Cole, Howard C., The ‘All’s Well’ Story from Boccaccio to Shakespeare (Urbana IL: University of Illinois Press, 1981)
+
+Geckle, George L. (ed.), Measure for Measure, Shakespeare: the Critical Tradition (London: Athlone, 2001)
+
+Gless, Darryl J., ‘Measure for Measure’: The Law and the Convent (Princeton NJ: Princeton University Press, 1979)
+
+Hawkins, Harriett, Measure for Measure, Harvester New Critical Introductions to Shakespeare (Brighton: Harvester, 1987)
+
+Jowett, John, ‘The Audacity of Measure for Measure in 1621’, Ben Jonson Journal, 8 (2001), 229-47
+
+Kimbrough, Robert, Shakespeare’s ‘Troilus and Cressida’ and its Setting (Cambridge MA: Harvard University Press, 1964)
+
+Nicholls, Graham, Measure for Measure, Text and Performance (Basingstoke: Macmillan Education, 1986)
+
+Price, Joseph G., The Unfortunate Comedy: A Study of ‘All’s Well That Ends Well’ and Its Critics (Liverpool: Liverpool University Press, 1968)
+
+Rollins, Hyder E., The Troilus-Cressida Story from Chaucer to Shakespeare (New York: Haskell House, 1972) (Reprinted from PMLA, 32.3 (1917))
+
+Shuger, Debora K., Political Theologies in Shakespeare’s England: The Sacred and the State in ‘Measure for Measure’ (Basingstoke: Palgrave, 2001)
+
+Styan, J. L., All’s Well That Ends Well, Shakespeare in Performance (Manchester: Manchester University Press, 1984)
+
+Taylor, Gary, ‘Shakespeare’s Mediterranean Measure for Measure’, in Shakespeare and the Mediterranean, eds. Tom Clayton, Susan Brock, Vicente Fores (Newark DE: University of Delaware Press, 2004)
+
+Zitner, Sheldon P., All’s Well That Ends Well, Harvester New Critical Introductions to Shakespeare (Hemel Hempstead: Harvester Wheatsheaf, 1989)
+The Late Plays: All is True (Henry VIII), Cymbeline, Pericles, The Tempest, The Two Noble Kinsmen, The Winter’s Tale
+Bartholomeusz, Dennis, ‘The Winter’s Tale’ in Performance in England and America, 1611-1976 (Cambridge: Cambridge University Press, 1982)
+
+Bertram, Paul, Shakespeare and ‘The Two Noble Kinsmen’ (New Brunswick NJ: Rutgers University Press, 1965)
+
+Draper, R. P., The Winter’s Tale, Text and Performance (Basingstoke: Macmillan, 1985)
+
+Dymkowski, Christine (ed.), The Tempest, Shakespeare in Production (Cambridge: Cambridge University Press, 2000)
+
+Frey, Charles H., Shakespeare’s Vast Romance: A Study of ‘The Winter’s Tale’ (Columbia MO: University of Missouri Press, 1980)
+
+Goldberg, Jonathan, Tempest in the Caribbean (Minneapolis MI: University of Minnesota Press, 2004)
+
+Graff, Gerald, and James Phelan (eds.), ‘The Tempest’: A Case Study in Critical Controversy (Basingstoke: Macmillan, 2000)
+
+Hamilton, Donna B., Virgil and ‘The Tempest’: The Politics of Imitation (Columbus OH: Ohio State University Press, 1990)
+
+Hirst, David L., The Tempest, Text and Performance (Basingstoke: Macmillan, 1984)
+
+Jackson, MacD. P., Defining Shakespeare: ‘Pericles’ as Test Case (Oxford: Oxford University Press, 2003)
+
+Law, Ernest, Shakespeare’s ‘Tempest’ as Originally Produced at Court (London: For the Shakespeare Association [by] Chatto and Windus, 1920)
+
+Lindley, David, The Tempest, Shakespeare at Stratford (London: Arden Shakespeare, 2003)
+
+Marsh, Derick R. C., The Recurring Miracle: A Study of ‘Cymbeline’ and the Last Plays (Pietermaritzburg: University of Natal Press, 1962)
+
+Potter, Lois, ‘The Two Noble Kinsmen: Spectacle and Narrative’, in The Show Within: Dramatic and Other Insets (English Renaissance Drama) 1550-1642, ed. François Laroque (Montpellier: Publications de l’Université Paul-Valéry-Montpellier III, 1992)
+
+Richmond, Hugh M., King Henry VIII, Shakespeare in Performance (Manchester: Manchester University Press, 1994)
+
+Skeele, David, Thwarting the Wayward Seas: A Critical and Theatrical History of Shakespeare’s ‘Pericles’ in the Nineteenth and Twentieth Centuries (London: Associated University Presses, 1998)
+
+Tatspaugh, Patricia E., The Winter’s Tale, Shakespeare at Stratford (London: Arden Shakespeare, 2002)
+
+Vaughan, Alden T., and Virginia Mason Vaughan, Shakespeare’s Caliban: A Cultural History (Cambridge: Cambridge University Press, 1991)
+
+Warren, Roger, Cymbeline, Shakespeare in Performance (Manchester: Manchester University Press, 1989)
+
+White, R. S. (ed.), The Tempest: William Shakespeare, New Casebooks (Basingstoke: Macmillan, 1999)
+
+Zabus, Chantal, Tempests after Shakespeare (Basingstoke: Palgrave, 2002)
+The Roman Plays:
+Antony and Cleopatra, Coriolanus, Julius Caesar, Titus Andronicus
+Adelman, Janet, The Common Liar: An Essay on ‘Antony and Cleopatra’ (New Haven: Yale University Press, 1973)
+
+Barroll, J. Leeds, Shakespearean Tragedy: Genre, Tradition and Change in ‘Antony and Cleopatra’ (London: Associated University Presses, 1984)
+
+Dessen, Alan C., Titus Andronicus, Shakespeare in Performance (Manchester: Manchester University Press, 1989)
+
+Drakakis, John (ed.), Antony and Cleopatra: William Shakespeare, New Casebooks (Basingstoke: Macmillan, 1994)
+
+Lamb, Margaret, ‘Antony and Cleopatra’ on the English Stage (London: Associated University Presses, 1980)
+
+Madelaine, Richard (ed.), Antony and Cleopatra, Shakespeare in Production (Cambridge: Cambridge University Press, 1998)
+
+Metz, G. Harold, Shakespeare’s Earliest Tragedy: Studies in ‘Titus Andronicus’ (London: Associated University Presses, 1996)
+
+Poole, Adrian, Coriolanus, Harvester New Critical Introductions to Shakespeare (Hemel Hempstead: Harvester Wheatsheaf, 1988)
+
+Ripley, John, ‘Julius Caesar’ on Stage in England and America 1599-1973 (Cambridge: Cambridge University Press, 1980)
+
+—‘Coriolanus’ on Stage in England and America 1609-1994 (London: Associated University Presses, 1998)
+
+Scott, Michael, Antony and Cleopatra, Text and Performance (London: Macmillan, 1983)
+
+Steppat, Michael, The Critical Reception of Shakespeare’s ‘Antony and Cleopatra’ from 1607-1905, Bochumer anglistische Studien 9 (Amsterdam: Grüner, 1980)
+
+Wilson, Richard, William Shakespeare: ‘Julius Caesar’, Penguin Critical Studies (London: Penguin, 1992)
+Hamlet
+Calderwood, James L., To Be and Not to Be: Negation and Metadrama in ‘Hamlet’ (New York: Columbia University Press, 1983)
+
+Clayton, Thomas (ed.), The ‘Hamlet’ First Published (QI, 1603): Origins, Form, Intertextualities (London: Associated University Presses, 1992)
+
+Dawson, Anthony B., Hamlet, Shakespeare in Performance (Manchester: Manchester University Press, 1995)
+
+Farley-Hills, David (ed.), Critical Responses to ‘Hamlet’ 1600- 1900, Vols I- (New York: AMS Press, 1996-)
+
+Frye, Roland Mushat, The Renaissance ‘Hamlet’: Issues and Responses in 1600 (Princeton NJ: Princeton University Press, 1984)
+
+Greenblatt, Stephen, Hamlet in Purgatory (Princeton NJ: Princeton University Press, 2001)
+
+Jones, Ernest, Hamlet and Oedipus (London: Gollancz, 1949)
+
+Kliman, Bernice W., ‘Hamlet’: Film, Television, and Audio Performance (London: Associated University Presses, 1988)
+
+Pennington, Michael, ‘Hamlet’: A User’s Guide (London: Nick Hern, 1996)
+
+Prosser, Eleanor, Hamlet and Revenge, 2nd edn. (Stanford CA: Stanford University Press, 1971)
+
+Rosenberg, Marvin, The Masks of ‘Hamlet’ (London: Associated University Presses, 1992)
+
+Shakespeare, William, The Three-Text ‘Hamlet’: Parallel Texts of the First and Second Quartos and First Folio, eds. Paul Bertram and Bernice W. Kliman (New York: AMS Press, 1991)
+
+Taylor, Gary, ‘Hamlet in Africa 1607’, in Ivo Kamps and Jyotsna Singh (eds.), Travel Knowledge: European ‘Discoveries’ in the Early Modern Period (Basingstoke: Palgrave, 2001)
+
+Weitz, Morris, ‘Hamlet’ and the Philosophy of Literary Criticism (London: Faber and Faber, 1965)
+King Lear
+Blayney, Peter W. M., The Texts of ‘King Lear’ and their Origins, Vol. I: Nicholas Okes and the First Quarto (Cambridge: Cambridge University Press, 1982)
+
+Bratton, J. S. (ed.), ‘King Lear’, William Shakespeare, Plays in Performance (Bristol: Bristol Classical Press, 1987)
+
+Carson, Christie, and Jacky Bratton (eds.), The Cambridge ‘King Lear’ CD-ROM: Text and Performance Archive (Cambridge: Cambridge University Press, 2000)
+
+Hawkes, Terence, William Shakespeare, ‘King Lear’, Writers and their Work (Plymouth: Northcote House in Association with the British Council, 1995)
+
+Leggatt, Alexander, King Lear, Shakespeare in Performance (Manchester: Manchester University Press, 1991)
+
+Lusardi, James P., and June Schlueter, Reading Shakespeare in Performance: ‘King Lear’ (London: Associated University Presses, 1991)
+
+Mack, Maynard, ‘King Lear’ in Our Time (London: Methuen, 1966)
+
+Reibetanz, John, The ‘Lear’ World: A Study of ‘King Lear’ in its Dramatic Context (London: Heinemann, 1977)
+
+Rosenberg, Marvin, The Masks of ‘King Lear’ (Berkeley CA: University of California Press, 1972)
+
+Ryan, Kiernan (ed.), ‘King Lear’: William Shakespeare, New Casebooks (Basingstoke: Macmillan, 1993)
+
+Salgado, Gamini, King Lear, Text and Performance (Basingstoke: Macmillan, 1984)
+
+Stone, P. W. K., The Textual History of ‘King Lear’ (London: Scolar Press, 1980)
+
+Taylor, Gary, ‘The War in King Lear’, Shakespeare Survey, 33 (1980), 27-34
+
+—and Michael Warren (eds.), The Division of the Kingdoms: Shakespeare’s Two Versions of ‘King Lear’ (Oxford: Clarendon Press, 1983)
+
+Urkowitz, Steven, Shakespeare’s Revision of ‘King Lear’ (Princeton NJ: Princeton University Press, 1980)
+Macbeth
+Bartholomeusz, Dennis, ‘Macbeth’ and the Players (Cambridge: Cambridge University Press, 1969)
+
+Berger, Harry, Text against Performance: The Example of ‘Macbeth’ (Norman OK: University of Oklahoma, 1982)
+
+Calderwood, James L., If It Were Done: ‘Macbeth’ and Tragic Action (Amherst MA: University of Massachusetts Press, 1986)
+
+Carroll, William C. (ed.), William Shakespeare, ‘Macbeth’: Texts and Contexts (Basingstoke: Macmillan, 1999)
+
+Kliman, Bernice, Macbeth, Shakespeare in Performance (Manchester: Manchester University Press, 1992)
+
+Rosenberg, Marvin, The Masks of ‘Macbeth’ (Berkeley CA: University of California, 1978)
+
+Wain, John (ed.), Shakespeare, ‘Macbeth’, A Casebook, 2nd edn. (Basingstoke, Macmillan, 1994)
+
+Williams, Gordon, Macbeth, Text and Performance (Basingstoke: Macmillan, 1985)
+Othello
+Adamson, Jane, ‘Othello’ as Tragedy: Some Problems of Judgement and Feeling (Cambridge: Cambridge University Press, 1980)
+
+Hadfield, Andrew (ed.), A Routledge Literary Sourcebook on Shakespeare’s ‘Othello’ (London: Routledge, 2003)
+
+Hankey, Julie (ed.), ‘Othello’, William Shakespeare, Plays in Performance (Bristol: Bristol Classical Press, 1987)
+
+Honigmann, E. A. J., The Texts of ‘Othello’ and Shakespearian Revision (London: Routledge, 1966)
+
+Orlin, Lena Cowen (ed.), ‘Othello’: William Shakespeare, New Casebooks (Basingstoke: Palgrave Macmillan, 2004)
+
+Pechter, Edward, ‘Othello’ and Interpretive Traditions (Iowa City: University of Iowa Press, 1999)
+
+Potter, Lois, Othello, Shakespeare in Performance (Manchester: Manchester University Press, 2002)
+
+Rosenberg, Marvin, The Masks of ‘Othello’: The Search for the Identity of Othello, Iago and Desdemona by Three Centuries of Actors and Critics (Berkeley CA: California University Press, 1961)
+
+Vaughan, Virginia Mason, ‘Othello’: A Contextual History (Cambridge: Cambridge University Press, 1994)
+
+Wain, John (ed.), Shakespeare: ‘Othello’, A Casebook, rev. edn. (Basingstoke: Macmillan, 1994)
+
+Wine, Martin L., Othello, Text and Performance (Basingstoke: Macmillan, 1984)
+Romeo and Juliet
+Evans, Robert O., The Osier Cage: Rhetorical Devices in ‘Romeo and Juliet’ (Lexington KY: University of Kentucky Press, 1966)
+
+Holding, Peter, Romeo and Juliet, Text and Performance (Basingstoke: Macmillan Education, 1992)
+
+Jackson, Russell, Romeo and Juliet, Shakespeare at Stratford (London: Arden Shakespeare, 2003)
+
+Levenson, Jill, Romeo and Juliet, Shakespeare in Performance (Manchester: Manchester University Press, 1987)
+
+Loehlin, James N., Romeo and Juliet, Shakespeare in Production (Cambridge: Cambridge University Press, 2002)
+
+Porter, J. A., Shakespeare’s Mercutio: His History and Drama (Chapel Hill NC: University of North Carolina Press, 1988)
+
+White, R. S. (ed.), ‘Romeo and Juliet’: William Shakespeare, New Casebooks (Basingstoke: Palgrave, 2001)
+The First Tetralogy and
+King John: Henry VI Parts 1―3, Richard III
+Clemen, Wolfgang, A Commentary on Shakespeare’s ‘Richard III’, English version by Jean Bonheim (London: Methuen, 1968) (First published in German 1957)
+
+Colley, Scott, Richard’s Himself Again: A Stage History of ‘Richard III’ (New York: Greenwood Press, 1992)
+
+Cousin, Geraldine, King John, Shakespeare in Performance (Manchester: Manchester University Press, 1994)
+
+Curren-Aquino, Deborah T. (ed.), ‘King John’: New Perspectives (London: Associated University Presses, 1989)
+
+Day, Gillian, King Richard III, Shakespeare at Stratford (London: Arden Shakespeare, 2002)
+
+Hankey, Julie (ed.), ‘Richard III’ by William Shakespeare, 2nd edn., Plays in Performance (Bristol: Bristol Classical Press, 1988)
+
+Hassel, R. Chris, Songs of Death: Performance, Interpretation and the Text of ‘Richard III’ (Lincoln NE: University of Nebraska Press, 1987)
+
+Montgomery, William, ‘The Original Staging of the First Part of the Contention (1594)’, Shakespeare Survey, 41 (1989), 13-22
+
+Pendleton, Thomas A. (ed.), Henry VI: Critical Essays (London: Routledge, 2001)
+
+Richmond, Hugh M., King Richard III, Shakespeare in Performance (Manchester: Manchester University Press, 1989)
+
+Riggs, David, Shakespeare’s Heroical Histories: ‘Henry VI’ and Its Literary Tradition (Cambridge MA: Harvard University Press, 1971)
+
+Shakespeare, William, The Tragedy of King Richard the Third: Parallel Texts of the First Quarto and First Folio with Variants of the Early Quartos, ed. Kristian Smidt (Oslo: Universitetsforlaget, 1969)
+
+Taylor, Gary, ‘Shakespeare and Others: The Authorship of Henry the Sixth, Part One’, Medieval and Renaissance Drama in England, 7 (1995), 145―205
+
+Walton, J. K., Copy for the Folio Text of ‘Richard III’ with a Note on the Copy of the Folio Text of ‘King Lear’ (Auckland NZ: Auckland University College, 1955)
+The Second Tetralogy:
+Richard II, Henry IV Parts 1 and 2, Henry V
+Brennan, Anthony, Henry V, Harvester New Critical Introductions to Shakespeare (Hemel Hempstead: Harvester Wheatsheaf, 1992)
+
+Campbell, Lily B., Shakespeare’s ‘Histories’: Mirrors of Elizabethan Policy (San Marino CA: Huntington Library, 1968) (First published 1947)
+
+Hodgdon, Barbara, Henry IV, Part Two, Shakespeare in Performance (Manchester: Manchester University Press, 1993)
+
+—(ed.), ‘The First Part of King Henry the Fourth’: Texts and Contexts (Basingstoke: Macmillan, 1997)
+
+Loehlin, James N., Henry V, Shakespeare in Performance (Manchester: Manchester University Press, 1996)
+
+McAlindon, Tom, Shakespeare’s Tudor History: A Study of ‘Henry IV, Parts 1 and 2’ (Aldershot: Ashgate, 2001)
+
+McMillin, Scott, Henry IV, Part One, Shakespeare in Performance (Manchester: Manchester University Press, 1991)
+
+Meron, Theodor, Henry’s Wars and Shakespeare’s Laws: Perspectives on the Law of War in the Later Middle Ages (Oxford: Clarendon Press, 1993)
+
+Page, Malcolm, Richard II, Text and Performance (Basingstoke: Macmillan Education, 1987)
+
+Prosser, Eleanor, Shakespeare’s Anonymous Editors: Scribe and Compositor in the Folio Text of ‘2 Henry IV’ (Stanford CA: Stanford University Press, 1981)
+
+Shewring, Margaret, King Richard II, Shakespeare in Performance (Manchester: Manchester University Press, 1996)
+
+Smith, Emma (ed.), King Henry V, Shakespeare in Production (Cambridge: Cambridge University Press, 2002)
+
+Taylor, Gary, ‘The Fortunes of Oldcastle’, Shakespeare Survey, 38 (1985), 85―100
+
+—‘Three Studies in the Text of Henry V’. in Stanley Wells and Gary Taylor, Modernizing Shakespeare’s Spelling, with Three Studies in the Text of ‘Henry V’ (Oxford: Clarendon Press, 1979)
+
+Wharton, T. F., Henry the Fourth, Parts 1 and 2, Text and Performance (London: Macmillan, 1983)
+Edward III
+and
+Sir Thomas More
+The Book of Sir Thomas Moore, Tudor Facsimile Texts (London: issued for subscribers by the editor of the Tudor Facsimile Texts, 1910)
+
+Howard-Hill, T. H. (ed.), Shakespeare and ‘Sir Thomas More’: Essays on the Play and its Shakespearian Interest (Cambridge: Cambridge University Press, 1989)
+
+McMillin, Scott, The Elizabethan Theatre and ‘The Book of Sir Thomas More’ (Ithaca NY: Cornell University Press, 1987)
+
+Metz, G. Harold, Four Plays Ascribed to Shakespeare, An Annotated Bibliography: ‘The Reign of King Edward III’, ‘Sir Thomas More’, ‘The History of Cardenio’, and ‘The Two Noble Kinsmen’ (New York: Garland, 1982)
+
+Pollard, Alfred, and others, Shakespeare’s Hand in ‘The Play of Sir Thomas More’: Papers by Alfred W. Pollard, W. W. Greg, E. Maunde Thompson, J. Dover Wilson and R. W. Chambers, with the text of the III May Day Scenes, edited by W. W. Greg (Cambridge: Cambridge University Press, 1923)
+
+Proudfoot, Richard, ‘The Reign of King Edward the Third (1596) and Shakespeare’, in British Academy Shakespeare Lectures 1980―89, introduced by E. A. J. Honigmann (Oxford: Oxford University Press for The British Academy, 1993)
+Timon of Athens
+Butler, Francelia, The Strange Critical Fortunes of Shakespeare’s ‘Timon of Athens’ (Ames IA: Iowa State University Press, 1966)
+
+Nuttall, A. D., Timon of Athens, Harvester Critical Introductions to Shakespeare (Hemel Hempstead: Harvester Wheatsheaf, 1989)
+
+Soellner, Rolf, ‘Timon of Athens’: Shakespeare’s Pessimistic Tragedy, with a Stage History by Gary J. Williams (Columbus OH: Ohio State University Press, 1979)
+
+Afterlife
+Bate, Jonathan, The Genius of Shakespeare (London: Picador, 1997)
+
+Cohn, Ruby, Modern Shakespeare Offshoots (Princeton NJ: Princeton University Press, 1976)
+
+Dobson, Michael, The Making of the National Poet: Shakespeare, Adaptation, and Authorship 1660―1769 (Oxford: Clarendon Press, 1992)
+
+Gager, Valerie L., Shakespeare and Dickens: The Dynamics of Influence (Cambridge: Cambridge University Press, 1996)
+
+Gross, John (ed.), After Shakespeare: An Anthology (Oxford: Oxford University Press, 2002)
+
+Hartnoll, Phyllis (ed.), Shakespeare in Music (London: Macmillan, 1964)
+
+Holderness, Graham (ed.), The Shakespeare Myth (Manchester: Manchester University Press, 1988)
+
+Merchant, Moelwyn W., Shakespeare and the Artist (London: Oxford University Press, 1959)
+
+Schmidgall, Gary, Shakespeare and Opera (Oxford: Oxford University Press, 1990)
+
+Shutte, William M., Joyce and Shakespeare: A Study in the Meaning of ‘Ulysses’ (New Haven: Yale University Press, 1957)
+
+Taylor, Gary, Reinventing Shakespeare: A Cultural History from the Restoration to the Present (London: Hogarth, 1989)
+
+Wells, Stanley, Shakespeare: For All Time (London: Macmillan, 2002)

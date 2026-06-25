@@ -1,0 +1,162 @@
+---
+title: "David Copperfield — Chapter 59: RETURN (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/David-Copperfield-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# David Copperfield — Chapter 59: RETURN (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_59_RETURN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_59_RETURN/part_03">part 03 ›</a></div>
+</nav>
+
+
+In the course of my stumbling upstairs, I fancied I heard a pleasant
+sound of laughter; and not the laughter of an attorney or barrister, or
+attorney’s clerk or barrister’s clerk, but of two or three merry girls.
+Happening, however, as I stopped to listen, to put my foot in a hole
+where the Honourable Society of Gray’s Inn had left a plank deficient,
+I fell down with some noise, and when I recovered my footing all was
+silent.
+
+Groping my way more carefully, for the rest of the journey, my heart
+beat high when I found the outer door, which had Mr. TRADDLES painted on
+it, open. I knocked. A considerable scuffling within ensued, but nothing
+else. I therefore knocked again.
+
+A small sharp-looking lad, half-footboy and half-clerk, who was very
+much out of breath, but who looked at me as if he defied me to prove it
+legally, presented himself.
+
+‘Is Mr. Traddles within?’ I said.
+
+‘Yes, sir, but he’s engaged.’
+
+‘I want to see him.’
+
+After a moment’s survey of me, the sharp-looking lad decided to let me
+in; and opening the door wider for that purpose, admitted me, first,
+into a little closet of a hall, and next into a little sitting-room;
+where I came into the presence of my old friend (also out of breath),
+seated at a table, and bending over papers.
+
+‘Good God!’ cried Traddles, looking up. ‘It’s Copperfield!’ and rushed
+into my arms, where I held him tight.
+
+‘All well, my dear Traddles?’
+
+‘All well, my dear, dear Copperfield, and nothing but good news!’
+
+We cried with pleasure, both of us.
+
+‘My dear fellow,’ said Traddles, rumpling his hair in his excitement,
+which was a most unnecessary operation, ‘my dearest Copperfield, my
+long-lost and most welcome friend, how glad I am to see you! How
+brown you are! How glad I am! Upon my life and honour, I never was so
+rejoiced, my beloved Copperfield, never!’
+
+I was equally at a loss to express my emotions. I was quite unable to
+speak, at first.
+
+‘My dear fellow!’ said Traddles. ‘And grown so famous! My glorious
+Copperfield! Good gracious me, WHEN did you come, WHERE have you come
+from, WHAT have you been doing?’
+
+Never pausing for an answer to anything he said, Traddles, who had
+clapped me into an easy-chair by the fire, all this time impetuously
+stirred the fire with one hand, and pulled at my neck-kerchief with
+the other, under some wild delusion that it was a great-coat. Without
+putting down the poker, he now hugged me again; and I hugged him; and,
+both laughing, and both wiping our eyes, we both sat down, and shook
+hands across the hearth.
+
+‘To think,’ said Traddles, ‘that you should have been so nearly coming
+home as you must have been, my dear old boy, and not at the ceremony!’
+
+‘What ceremony, my dear Traddles?’
+
+‘Good gracious me!’ cried Traddles, opening his eyes in his old way.
+‘Didn’t you get my last letter?’
+
+‘Certainly not, if it referred to any ceremony.’
+
+‘Why, my dear Copperfield,’ said Traddles, sticking his hair upright
+with both hands, and then putting his hands on my knees, ‘I am married!’
+
+‘Married!’ I cried joyfully.
+
+‘Lord bless me, yes!’ said Traddles--‘by the Reverend Horace--to
+Sophy--down in Devonshire. Why, my dear boy, she’s behind the window
+curtain! Look here!’
+
+To my amazement, the dearest girl in the world came at that same
+instant, laughing and blushing, from her place of concealment. And a
+more cheerful, amiable, honest, happy, bright-looking bride, I believe
+(as I could not help saying on the spot) the world never saw. I kissed
+her as an old acquaintance should, and wished them joy with all my might
+of heart.
+
+‘Dear me,’ said Traddles, ‘what a delightful re-union this is! You are
+so extremely brown, my dear Copperfield! God bless my soul, how happy I
+am!’
+
+‘And so am I,’ said I.
+
+‘And I am sure I am!’ said the blushing and laughing Sophy.
+
+‘We are all as happy as possible!’ said Traddles. ‘Even the girls are
+happy. Dear me, I declare I forgot them!’
+
+‘Forgot?’ said I.
+
+‘The girls,’ said Traddles. ‘Sophy’s sisters. They are staying with us.
+They have come to have a peep at London. The fact is, when--was it you
+that tumbled upstairs, Copperfield?’
+
+‘It was,’ said I, laughing.
+
+‘Well then, when you tumbled upstairs,’ said Traddles, ‘I was romping
+with the girls. In point of fact, we were playing at Puss in the Corner.
+But as that wouldn’t do in Westminster Hall, and as it wouldn’t look
+quite professional if they were seen by a client, they decamped. And
+they are now--listening, I have no doubt,’ said Traddles, glancing at
+the door of another room.
+
+‘I am sorry,’ said I, laughing afresh, ‘to have occasioned such a
+dispersion.’
+
+‘Upon my word,’ rejoined Traddles, greatly delighted, ‘if you had seen
+them running away, and running back again, after you had knocked, to
+pick up the combs they had dropped out of their hair, and going on in
+the maddest manner, you wouldn’t have said so. My love, will you fetch
+the girls?’
+
+Sophy tripped away, and we heard her received in the adjoining room with
+a peal of laughter.
+
+‘Really musical, isn’t it, my dear Copperfield?’ said Traddles. ‘It’s
+very agreeable to hear. It quite lights up these old rooms. To an
+unfortunate bachelor of a fellow who has lived alone all his life, you
+know, it’s positively delicious. It’s charming. Poor things, they have
+had a great loss in Sophy--who, I do assure you, Copperfield is, and
+ever was, the dearest girl!--and it gratifies me beyond expression
+to find them in such good spirits. The society of girls is a very
+delightful thing, Copperfield. It’s not professional, but it’s very
+delightful.’
+
+Observing that he slightly faltered, and comprehending that in the
+goodness of his heart he was fearful of giving me some pain by what he
+had said, I expressed my concurrence with a heartiness that evidently
+relieved and pleased him greatly.
+
+‘But then,’ said Traddles, ‘our domestic arrangements are, to say
+the truth, quite unprofessional altogether, my dear Copperfield. Even
+Sophy’s being here, is unprofessional. And we have no other place of
+abode. We have put to sea in a cockboat, but we are quite prepared to
+rough it. And Sophy’s an extraordinary manager! You’ll be surprised how
+those girls are stowed away. I am sure I hardly know how it’s done!’

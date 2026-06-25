@@ -1,7 +1,7 @@
 ---
 title: Columbus
 type: character
-cluster: Faith · The Bible · Providence
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/character
 ---

@@ -1,7 +1,7 @@
 ---
 title: Parody
 type: form
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 tags:
   - graph/form
 ---

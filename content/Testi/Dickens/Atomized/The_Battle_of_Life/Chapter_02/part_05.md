@@ -1,0 +1,140 @@
+---
+title: "The Battle of Life — Part 2 (part 5)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Battle-of-Life-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Battle of Life — Part 2 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_06">part 06 ›</a></div>
+</nav>
+
+
+‘Here!  Girls!’ cried the Doctor.  ‘I can’t help it: I never could keep a
+secret in my life.  There are not many secrets, indeed, worth being kept
+in such a—well! never mind that.  Alfred’s coming home, my dears,
+directly.’
+
+‘Directly!’ exclaimed Marion.
+
+‘What!  The story-book is soon forgotten!’ said the Doctor, pinching her
+cheek.  ‘I thought the news would dry those tears.  Yes.  “Let it be a
+surprise,” he says, here.  But I can’t let it be a surprise.  He must
+have a welcome.’
+
+‘Directly!’ repeated Marion.
+
+‘Why, perhaps not what your impatience calls “directly,”’ returned the
+doctor; ‘but pretty soon too.  Let us see.  Let us see.  To-day is
+Thursday, is it not?  Then he promises to be here, this day month.’
+
+‘This day month!’ repeated Marion, softly.
+
+‘A gay day and a holiday for us,’ said the cheerful voice of her sister
+Grace, kissing her in congratulation.  ‘Long looked forward to, dearest,
+and come at last.’
+
+She answered with a smile; a mournful smile, but full of sisterly
+affection.  As she looked in her sister’s face, and listened to the quiet
+music of her voice, picturing the happiness of this return, her own face
+glowed with hope and joy.
+
+And with a something else; a something shining more and more through all
+the rest of its expression; for which I have no name.  It was not
+exultation, triumph, proud enthusiasm.  They are not so calmly shown.  It
+was not love and gratitude alone, though love and gratitude were part of
+it.  It emanated from no sordid thought, for sordid thoughts do not light
+up the brow, and hover on the lips, and move the spirit like a fluttered
+light, until the sympathetic figure trembles.
+
+Dr. Jeddler, in spite of his system of philosophy—which he was
+continually contradicting and denying in practice, but more famous
+philosophers have done that—could not help having as much interest in the
+return of his old ward and pupil as if it had been a serious event.  So
+he sat himself down in his easy-chair again, stretched out his slippered
+feet once more upon the rug, read the letter over and over a great many
+times, and talked it over more times still.
+
+‘Ah!  The day was,’ said the Doctor, looking at the fire, ‘when you and
+he, Grace, used to trot about arm-in-arm, in his holiday time, like a
+couple of walking dolls.  You remember?’
+
+‘I remember,’ she answered, with her pleasant laugh, and plying her
+needle busily.
+
+‘This day month, indeed!’ mused the Doctor.  ‘That hardly seems a twelve
+month ago.  And where was my little Marion then!’
+
+‘Never far from her sister,’ said Marion, cheerily, ‘however little.
+Grace was everything to me, even when she was a young child herself.’
+
+‘True, Puss, true,’ returned the Doctor.  ‘She was a staid little woman,
+was Grace, and a wise housekeeper, and a busy, quiet, pleasant body;
+bearing with our humours and anticipating our wishes, and always ready to
+forget her own, even in those times.  I never knew you positive or
+obstinate, Grace, my darling, even then, on any subject but one.’
+
+‘I am afraid I have changed sadly for the worse, since,’ laughed Grace,
+still busy at her work.  ‘What was that one, father?’
+
+‘Alfred, of course,’ said the Doctor.  ‘Nothing would serve you but you
+must be called Alfred’s wife; so we called you Alfred’s wife; and you
+liked it better, I believe (odd as it seems now), than being called a
+Duchess, if we could have made you one.’
+
+‘Indeed?’ said Grace, placidly.
+
+‘Why, don’t you remember?’ inquired the Doctor.
+
+‘I think I remember something of it,’ she returned, ‘but not much.  It’s
+so long ago.’  And as she sat at work, she hummed the burden of an old
+song, which the Doctor liked.
+
+‘Alfred will find a real wife soon,’ she said, breaking off; ‘and that
+will be a happy time indeed for all of us.  My three years’ trust is
+nearly at an end, Marion.  It has been a very easy one.  I shall tell
+Alfred, when I give you back to him, that you have loved him dearly all
+the time, and that he has never once needed my good services.  May I tell
+him so, love?’
+
+‘Tell him, dear Grace,’ replied Marion, ‘that there never was a trust so
+generously, nobly, steadfastly discharged; and that I have loved _you_,
+all the time, dearer and dearer every day; and O! how dearly now!’
+
+‘Nay,’ said her cheerful sister, returning her embrace, ‘I can scarcely
+tell him that; we will leave my deserts to Alfred’s imagination.  It will
+be liberal enough, dear Marion; like your own.’
+
+With that, she resumed the work she had for a moment laid down, when her
+sister spoke so fervently: and with it the old song the Doctor liked to
+hear.  And the Doctor, still reposing in his easy-chair, with his
+slippered feet stretched out before him on the rug, listened to the tune,
+and beat time on his knee with Alfred’s letter, and looked at his two
+daughters, and thought that among the many trifles of the trifling world,
+these trifles were agreeable enough.
+
+Clemency Newcome, in the meantime, having accomplished her mission and
+lingered in the room until she had made herself a party to the news,
+descended to the kitchen, where her coadjutor, Mr. Britain, was regaling
+after supper, surrounded by such a plentiful collection of bright
+pot-lids, well-scoured saucepans, burnished dinner-covers, gleaming
+kettles, and other tokens of her industrious habits, arranged upon the
+walls and shelves, that he sat as in the centre of a hall of mirrors.
+The majority did not give forth very flattering portraits of him,
+certainly; nor were they by any means unanimous in their reflections; as
+some made him very long-faced, others very broad-faced, some tolerably
+well-looking, others vastly ill-looking, according to their several
+manners of reflecting: which were as various, in respect of one fact, as
+those of so many kinds of men.  But they all agreed that in the midst of
+them sat, quite at his ease, an individual with a pipe in his mouth, and
+a jug of beer at his elbow, who nodded condescendingly to Clemency, when
+she stationed herself at the same table.
+
+‘Well, Clemmy,’ said Britain, ‘how are you by this time, and what’s the
+news?’

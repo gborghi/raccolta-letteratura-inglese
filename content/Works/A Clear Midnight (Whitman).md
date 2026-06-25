@@ -2,7 +2,7 @@
 title: A Clear Midnight
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Stars · Night · Military Camp
 source: Authors/Whitman/_raw/276_A_Clear_Midnight.md
 tags:
   - graph/work
@@ -16,18 +16,23 @@ tags:
 
 # A Clear Midnight
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > A four-line free-verse lyric of the soul's nocturnal flight toward night, sleep, death and the stars; themes of the soul, night and death.
 
 ## Connections
 
-**Motifs:** [[Night]], [[Death (2)]], [[Stars]], [[Sleep]]
+**Motifs:** [[Night]], [[Death]], [[Stars]], [[Sleep]]
 **Themes & Concepts:** [[Self-Knowledge]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: FROM NOON TO STARRY NIGHT_
 
-!276_A_Clear_Midnight
+
+  This is thy hour O Soul, thy free flight into the wordless,
+  Away from books, away from art, the day erased, the lesson done,
+  Thee fully forth emerging, silent, gazing, pondering the themes thou
+      lovest best,
+  Night, sleep, death and the stars.

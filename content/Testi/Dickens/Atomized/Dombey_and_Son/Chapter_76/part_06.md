@@ -1,0 +1,68 @@
+---
+title: "Dombey and Son — Chapter 20 (part 6)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Dombey-and-Son-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Dombey and Son — Chapter 20 (part 6)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_76/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_77/part_01">part 01 ›</a></div>
+</nav>
+
+
+In this flow of spirits and conversation, only interrupted by his usual
+plethoric symptoms, and by intervals of lunch, and from time to time by
+some violent assault upon the Native, who wore a pair of ear-rings in
+his dark-brown ears, and on whom his European clothes sat with an
+outlandish impossibility of adjustment—being, of their own accord, and
+without any reference to the tailor’s art, long where they ought to be
+short, short where they ought to be long, tight where they ought to be
+loose, and loose where they ought to be tight—and to which he imparted
+a new grace, whenever the Major attacked him, by shrinking into them
+like a shrivelled nut, or a cold monkey—in this flow of spirits and
+conversation, the Major continued all day: so that when evening came
+on, and found them trotting through the green and leafy road near
+Leamington, the Major’s voice, what with talking and eating and
+chuckling and choking, appeared to be in the box under the rumble, or
+in some neighbouring hay-stack. Nor did the Major improve it at the
+Royal Hotel, where rooms and dinner had been ordered, and where he so
+oppressed his organs of speech by eating and drinking, that when he
+retired to bed he had no voice at all, except to cough with, and could
+only make himself intelligible to the dark servant by gasping at him.
+
+He not only rose next morning, however, like a giant refreshed, but
+conducted himself, at breakfast like a giant refreshing. At this meal
+they arranged their daily habits. The Major was to take the
+responsibility of ordering everything to eat and drink; and they were
+to have a late breakfast together every morning, and a late dinner
+together every day. Mr Dombey would prefer remaining in his own room,
+or walking in the country by himself, on that first day of their
+sojourn at Leamington; but next morning he would be happy to accompany
+the Major to the Pump-room, and about the town. So they parted until
+dinner-time. Mr Dombey retired to nurse his wholesome thoughts in his
+own way. The Major, attended by the Native carrying a camp-stool, a
+great-coat, and an umbrella, swaggered up and down through all the
+public places: looking into subscription books to find out who was
+there, looking up old ladies by whom he was much admired, reporting J.
+B. tougher than ever, and puffing his rich friend Dombey wherever he
+went. There never was a man who stood by a friend more staunchly than
+the Major, when in puffing him, he puffed himself.
+
+It was surprising how much new conversation the Major had to let off at
+dinner-time, and what occasion he gave Mr Dombey to admire his social
+qualities. At breakfast next morning, he knew the contents of the
+latest newspapers received; and mentioned several subjects in connexion
+with them, on which his opinion had recently been sought by persons of
+such power and might, that they were only to be obscurely hinted at. Mr
+Dombey, who had been so long shut up within himself, and who had
+rarely, at any time, overstepped the enchanted circle within which the
+operations of Dombey and Son were conducted, began to think this an
+improvement on his solitary life; and in place of excusing himself for
+another day, as he had thought of doing when alone, walked out with the
+Major arm-in-arm.

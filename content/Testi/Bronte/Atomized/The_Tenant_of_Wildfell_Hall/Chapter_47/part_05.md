@@ -1,0 +1,119 @@
+---
+title: "The Tenant of Wildfell Hall — Chapter 47 (part 5)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# The Tenant of Wildfell Hall — Chapter 47 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_47/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_49/part_01">part 01 ›</a></div>
+</nav>
+
+
+between my husband and my son,—for I must not entirely neglect the
+
+latter: it would not do to keep him always with Rachel, and I dare not
+
+leave him for a moment with any of the other servants, or suffer him to
+
+be alone, lest he should meet them. If his father get worse, I shall
+
+ask Esther Hargrave to take charge of him for a time, till I have
+
+reorganised the household at least; but I greatly prefer keeping him
+
+under my own eye.
+
+
+
+I find myself in rather a singular position: I am exerting my utmost
+
+endeavours to promote the recovery and reformation of my husband, and
+
+if I succeed, what shall I do? My duty, of course,—but how? No matter;
+
+I can perform the task that is before me now, and God will give me
+
+strength to do whatever He requires hereafter. Good-by, dear Frederick.
+
+
+
+HELEN HUNTINGDON.
+
+
+
+
+
+“What do you think of it?” said Lawrence, as I silently refolded the
+
+letter.
+
+
+
+“It seems to me,” returned I, “that she is casting her pearls before
+
+swine. May they be satisfied with trampling them under their feet, and
+
+not turn again and rend her! But I shall say no more against her: I see
+
+that she was actuated by the best and noblest motives in what she has
+
+done; and if the act is not a wise one, may heaven protect her from its
+
+consequences! May I keep this letter, Lawrence?—you see she has never
+
+once mentioned me throughout—or made the most distant allusion to me;
+
+therefore, there can be no impropriety or harm in it.”
+
+
+
+“And, therefore, why should you wish to keep it?”
+
+
+
+“Were not these characters written by her hand? and were not these
+
+words conceived in her mind, and many of them spoken by her lips?”
+
+
+
+“Well,” said he. And so I kept it; otherwise, Halford, you could never
+
+have become so thoroughly acquainted with its contents.
+
+
+
+“And when you write,” said I, “will you have the goodness to ask her if
+
+I may be permitted to enlighten my mother and sister on her real
+
+history and circumstance, just so far as is necessary to make the
+
+neighbourhood sensible of the shameful injustice they have done her? I
+
+want no tender messages, but just ask her that, and tell her it is the
+
+greatest favour she could do me; and tell her—no, nothing more. You see
+
+I know the address, and I might write to her myself, but I am so
+
+virtuous as to refrain.”
+
+
+
+“Well, I’ll do this for you, Markham.”
+
+
+
+“And as soon as you receive an answer, you’ll let me know?”
+
+
+
+“If all be well, I’ll come myself and tell you immediately.”

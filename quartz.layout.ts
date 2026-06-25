@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     Component.CercaPage(),
     Component.ConceptWorks(),
     Component.RadialWheel(),
+    Component.BraniTable(),
   ],
   footer: Component.Footer({
     links: {

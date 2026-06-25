@@ -1,7 +1,7 @@
 ---
 title: Life as a Battle
 type: topos
-cluster: War and its Cost · Blood · American Civil War
+cluster: Self-Sacrifice · Life as a Battle
 tags:
   - graph/topos
 ---

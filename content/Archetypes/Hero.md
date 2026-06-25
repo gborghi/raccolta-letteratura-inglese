@@ -1,7 +1,7 @@
 ---
 title: Hero
 type: archetype
-cluster: Heroism · Honour · Hero
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/archetype
 ---

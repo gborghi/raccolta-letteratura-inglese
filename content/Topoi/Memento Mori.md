@@ -1,7 +1,7 @@
 ---
 title: Memento Mori
 type: topos
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/topos
 ---

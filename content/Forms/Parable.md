@@ -1,7 +1,7 @@
 ---
 title: Parable
 type: form
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/form
 ---

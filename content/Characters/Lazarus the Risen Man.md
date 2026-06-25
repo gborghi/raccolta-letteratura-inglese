@@ -1,7 +1,7 @@
 ---
 title: Lazarus / the Risen Man
 type: character
-cluster: Christianity · Catholic Church · Conversion
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/character
 ---

@@ -1,0 +1,135 @@
+---
+title: "secret Fr Brown — I. The Mirror Of The Magistrate (part 2)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/secret-Fr-Brown-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# secret Fr Brown — I. The Mirror Of The Magistrate (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate/part_03">part 03 ›</a></div>
+</nav>
+
+
+"Come on," cried the detective sharply, "that looks to me like----"
+
+His voice was lost, as he ran on across the wide lawn, faintly luminous
+in the artificial light, making a bee-line across the big garden for
+the pool and the fallen figure. Underhill was trotting steadily in that
+straight track, when something happened that startled him for the
+moment. Bagshaw, who was travelling as steadily as a bullet towards the
+black figure by the luminous pool, suddenly turned at a sharp angle and
+began to run even more rapidly towards the shadow of the house.
+Underhill could not imagine what he meant by the altered direction. The
+next moment, when the detective had vanished into the shadow of the
+house, there came out of that obscurity the sound of a scuffle and a
+curse; and Bagshaw returned lugging with him a little struggling man
+with red hair. The captive had evidently been escaping under the shelter
+of the building, when the quicker ears of the detective had heard him
+rustling like a bird among the bushes.
+
+"Underhill," said the detective, "I wish you'd run on and see what's up
+by the pool. And now, who are you?" he asked, coming to a halt. "What's
+your name?"
+
+"Michael Flood," said the stranger in a snappy fashion. He was an
+unnaturally lean little man, with a hooked nose too large for his face,
+which was colourless, like parchment, in contrast with the ginger colour
+of his hair. "I've got nothing to do with this. I found him lying dead
+and I was scared; but I only came to interview him for a paper."
+
+"When you interview celebrities for the Press," said Bagshaw, "do you
+generally climb over the garden wall?"
+
+And he pointed grimly to a trail of footprints coming and going along
+the path towards the flower bed.
+
+The man calling himself Flood wore an expression equally grim.
+
+"An interviewer might very well get over the wall," he said, "for I
+couldn't make anybody hear at the front door. The servant had gone out."
+
+"How do you know he'd gone out?" asked the detective suspiciously.
+
+"Because," said Flood, with an almost unnatural calm, "I'm not the only
+person who gets over garden walls. It seems just possible that you did
+it yourself. But, anyhow, the servant did; for I've just this moment
+seen him drop over the wall, away on the other side of the garden, just
+by the garden door."
+
+"Then why didn't he use the garden door?" demanded the cross-examiner.
+
+"How should I know?" retorted Flood. "Because it was shut, I suppose.
+But you'd better ask him, not me; he's coming towards the house at this
+minute."
+
+There was, indeed, another shadowy figure beginning to be visible
+through the fire-shot gloaming, a squat, square-headed figure,
+wearing a red waistcoat as the most conspicuous part of a rather shabby
+livery. He appeared to be making with unobtrusive haste towards a side-
+door in the house, until Bagshaw halloed to him to halt. He drew nearer
+to them very reluctantly, revealing a heavy, yellow face, with a touch
+of something Asiatic which was consonant with his flat, blue-black
+hair.
+
+Bagshaw turned abruptly to the man called Flood. "Is there anybody in
+this place," he said, "who can testify to your identity?"
+
+"Not many, even in this country," growled Flood. "I've only just come
+from Ireland; the only man I know round here is the priest at St.
+Dominic's Church--Father Brown."
+
+"Neither of you must leave this place," said Bagshaw, and then added to
+the servant: "But you can go into the house and ring up St. Dominic's
+Presbytery and ask Father Brown if he would mind coming round here at
+once. No tricks, mind."
+
+While the energetic detective was securing the potential fugitives, his
+companion, at his direction, had hastened on to the actual scene of the
+tragedy. It was a strange enough scene; and, indeed, if the tragedy had
+not been tragic it would have been highly fantastic. The dead man (for
+the briefest examination proved him to be dead) lay with his head in the
+pond, where the glow of the artificial illumination encircled the head
+with something of the appearance of an unholy halo. The face was gaunt
+and rather sinister, the brow bald, and the scanty curls dark grey, like
+iron rings; and, despite the damage done by the bullet wound in the
+temple, Underhill had no difficulty in recognizing the features he had
+seen in the many portraits of Sir Humphrey Gwynne. The dead man was in
+evening-dress, and his long, black legs, so thin as to be almost
+spidery, were sprawling at different angles up the steep bank from which
+he had fallen. As by some weird whim of diabolical arabesque, blood was
+eddying out, very slowly, into the luminous water in snaky rings, like
+the transparent crimson of sunset clouds.
+
+Underhill did not know how long he stood staring down at this macabre
+figure, when he looked up and saw a group of four figures standing above
+him on the bank. He was prepared for Bagshaw and his Irish captive, and
+he had no difficulty in guessing the status of the servant in the red
+waistcoat. But the fourth figure had a sort of grotesque solemnity that
+seemed strangely congruous to that incongruity. It was a stumpy figure
+with a round face and a hat like a black halo. He realized that it was,
+in fact, a priest; but there was something about it that reminded him of
+some quaint old black woodcut at the end of a Dance of Death.
+
+Then he heard Bagshaw saying to the priest:
+
+"I'm glad you can identify this man; but you must realize that he's to
+some extent under suspicion. Of course, he may be innocent; but he did
+enter the garden in an irregular fashion."
+
+"Well, I think he's innocent myself," said the little priest in a
+colourless voice. "But, of course, I may be wrong."
+
+"Why do you think he is innocent?"
+
+"Because he entered the garden in an irregular fashion," answered the
+cleric. "You see, I entered it in a regular fashion myself. But I seem
+to be almost the only person who did. All the best people seem to get
+over garden walls nowadays."
+
+"What do you mean by a regular fashion?" asked the detective.

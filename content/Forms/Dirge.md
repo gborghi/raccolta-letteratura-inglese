@@ -1,7 +1,7 @@
 ---
 title: Dirge
 type: form
-cluster: Night · Fire · Comic Verse / Song
+cluster: Grief and Loss · Elegy · Clothing and Costume
 tags:
   - graph/form
 ---

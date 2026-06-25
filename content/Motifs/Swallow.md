@@ -1,7 +1,7 @@
 ---
 title: Swallow
 type: motif
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/motif
 ---

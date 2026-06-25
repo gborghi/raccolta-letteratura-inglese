@@ -1,7 +1,7 @@
 ---
 title: Distributism
 type: concept
-cluster: Essay · Critique of Progress · The Common Man
+cluster: Essay · Critique of Progress · Common Man
 tags:
   - graph/concept
 ---

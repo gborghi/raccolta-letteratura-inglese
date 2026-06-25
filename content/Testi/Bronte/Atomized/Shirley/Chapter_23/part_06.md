@@ -1,0 +1,251 @@
+---
+title: "Shirley — Chapter 23 (part 6)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Shirley-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Shirley — Chapter 23 (part 6)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_23/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_23/part_07">part 07 ›</a></div>
+</nav>
+
+
+they turned from that limited prospect. They longed to see a human
+
+figure, of a certain mould and height, pass the hedge and enter the
+
+gate. A human figure she at last saw--nay, two. Frederick Murgatroyd
+
+went by, carrying a pail of water; Joe Scott followed, dangling on his
+
+forefinger the keys of the mill. They were going to lock up mill and
+
+stables for the night, and then betake themselves home.
+
+
+
+"So must I," thought Caroline, as she half rose and sighed.
+
+
+
+"This is all folly--heart-breaking folly," she added. "In the first
+
+place, though I should stay till dark there will be no arrival; because
+
+I feel in my heart, Fate has written it down in to-day's page of her
+
+eternal book, that I am not to have the pleasure I long for. In the
+
+second place, if he stepped in this moment, my presence here would be a
+
+chagrin to him, and the consciousness that it must be so would turn half
+
+my blood to ice. His hand would, perhaps, be loose and chill if I put
+
+mine into it; his eye would be clouded if I sought its beam. I should
+
+look up for that kindling, something I have seen in past days, when my
+
+face, or my language, or my disposition had at some happy moment pleased
+
+him; I should discover only darkness. I had better go home."
+
+
+
+She took her bonnet from the table where it lay, and was just fastening
+
+the ribbon, when Hortense, directing her attention to a splendid bouquet
+
+of flowers in a glass on the same table, mentioned that Miss Keeldar had
+
+sent them that morning from Fieldhead; and went on to comment on the
+
+guests that lady was at present entertaining, on the bustling life she
+
+had lately been leading; adding divers conjectures that she did not very
+
+well like it, and much wonderment that a person who was so fond of her
+
+own way as the heiress did not find some means of sooner getting rid of
+
+this _cortége_ of relatives.
+
+
+
+"But they say she actually will not let Mr. Sympson and his family go,"
+
+she added. "They wanted much to return to the south last week, to be
+
+ready for the reception of the only son, who is expected home from a
+
+tour. She insists that her cousin Henry shall come and join his friends
+
+here in Yorkshire. I dare say she partly does it to oblige Robert and
+
+myself."
+
+
+
+"How to oblige Robert and you?" inquired Caroline.
+
+
+
+"Why, my child, you are dull. Don't you know--you must often have
+
+heard----"
+
+
+
+"Please, ma'am," said Sarah, opening the door, "the preserves that you
+
+told me to boil in treacle--the congfiters, as you call them--is all
+
+burnt to the pan."
+
+
+
+"Les confitures! Elles sont brûlées? Ah, quelle négligence coupable!
+
+Coquine de cuisinière, fille insupportable!"
+
+
+
+And mademoiselle, hastily taking from a drawer a large linen apron, and
+
+tying it over her black apron, rushed _éperdue_ into the kitchen,
+
+whence, to speak truth, exhaled an odour of calcined sweets rather
+
+strong than savoury.
+
+
+
+The mistress and maid had been in full feud the whole day, on the
+
+subject of preserving certain black cherries, hard as marbles, sour as
+
+sloes. Sarah held that sugar was the only orthodox condiment to be used
+
+in that process; mademoiselle maintained--and proved it by the practice
+
+and experience of her mother, grandmother, and great-grandmother--that
+
+treacle, "mélasse," was infinitely preferable. She had committed an
+
+imprudence in leaving Sarah in charge of the preserving-pan, for her
+
+want of sympathy in the nature of its contents had induced a degree of
+
+carelessness in watching their confection, whereof the result was--dark
+
+and cindery ruin. Hubbub followed; high upbraiding, and sobs rather loud
+
+than deep or real.
+
+
+
+Caroline, once more turning to the little mirror, was shading her
+
+ringlets from her cheek to smooth them under her cottage bonnet, certain
+
+that it would not only be useless but unpleasant to stay longer, when,
+
+on the sudden opening of the back-door, there fell an abrupt calm in the
+
+kitchen. The tongues were checked, pulled up as with bit and bridle.
+
+"Was it--was it--Robert?" He often--almost always--entered by the
+
+kitchen way on his return from market. No; it was only Joe Scott, who,
+
+having hemmed significantly thrice--every hem being meant as a lofty
+
+rebuke to the squabbling womankind--said, "Now, I thowt I heerd a
+
+crack?"
+
+
+
+None answered.
+
+
+
+"And," he continued pragmatically, "as t' maister's comed, and as he'll
+
+enter through this hoyle, I _con_sidered it desirable to step in and let
+
+ye know. A household o' women is nivver fit to be comed on wi'out
+
+warning. Here he is.--Walk forrard, sir. They war playing up queerly,
+
+but I think I've quietened 'em."
+
+
+
+Another person, it was now audible, entered. Joe Scott proceeded with
+
+his rebukes.
+
+
+
+"What d'ye mean by being all i' darkness? Sarah, thou quean, canst t'
+
+not light a candle? It war sundown an hour syne. He'll brak his shins
+
+agean some o' yer pots, and tables, and stuff.--Tak tent o' this
+
+baking-bowl, sir; they've set it i' yer way, fair as if they did it i'
+
+malice."
+
+
+
+To Joe's observations succeeded a confused sort of pause, which
+
+Caroline, though she was listening with both her ears, could not
+
+understand. It was very brief. A cry broke it--a sound of surprise,
+
+followed by the sound of a kiss; ejaculations, but half articulate,
+
+succeeded.
+
+
+
+"Mon Dieu! mon Dieu! Est-ce que je m'y attendais?" were the words
+
+chiefly to be distinguished.
+
+
+
+"Et tu te portes toujours bien, bonne sœur?" inquired another
+
+voice--Robert's, certainly.
+
+
+
+Caroline was puzzled. Obeying an impulse the wisdom of which she had not
+
+time to question, she escaped from the little parlour, by way of leaving
+
+the coast clear, and running upstairs took up a position at the head of
+
+the banisters, whence she could make further observations ere presenting
+
+herself. It was considerably past sunset now; dusk filled the passage,
+
+yet not such deep dusk but that she could presently see Robert and
+
+Hortense traverse it.
+
+
+
+"Caroline! Caroline!" called Hortense, a moment afterwards, "venez voir
+
+mon frère!"

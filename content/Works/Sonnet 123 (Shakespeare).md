@@ -2,7 +2,7 @@
 title: Sonnet 123
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Time · Tempus Fugit · Clock
 source: Authors/Shakespeare/Sonnets/Sonnet_123.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 123
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
 > Defiance of Time and its scythe, vowing constancy ('I will be true') against mutability and the deceiving records of time.
@@ -30,8 +30,19 @@ tags:
 **Themes & Concepts:** [[Transience]], [[Truth]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_123
+No, time, thou shalt not boast that I do change! 
+Thy pyramids built up with newer might 
+To me are nothing novel, nothing strange, 
+They are but dressings of a former sight. 
+Our dates are brief, and therefore we admire 
+What thou dost foist upon us that is old, 
+And rather make them born to our desire 
+Than think that we before have heard them told. 
+Thy registers and thee I both defy, 
+Not wond’ring at the present nor the past; 
+For thy records and what we see doth lie, 
+Made more or less by thy continual haste. 
+This I do vow, and this shall ever be: 
+I will be true despite thy scythe and thee.

@@ -2,7 +2,7 @@
 title: Sonnet on Peace
 author: Keats
 type: work
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Keats/_raw/044_Sonnet_on_Peace.md
 tags:
   - graph/work
@@ -10,26 +10,37 @@ tags:
   - concept/nationalism_and_patriotism
   - concept/reform
   - archetype/tyrant
-  - histref/the_napoleonic_wars
+  - histref/napoleonic_wars
   - form/sonnet
 ---
 
 # Sonnet on Peace
 
-*by Keats*  ·  **Cluster:** [[Nationalism and Patriotism · The First World War · Flags and Banners]]
+*by Keats*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > A patriotic sonnet hailing the peace of 1814, urging Europe to throw off tyranny and embrace liberty; political reform, nation and freedom from sceptred tyrants.
 
 ## Connections
 
-**Archetypes:** [[The Tyrant]]
+**Archetypes:** [[Tyrant]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Reform]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[Napoleonic Wars]]
+**Historical References:** [[Napoleonic Wars the Navy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!044_Sonnet_on_Peace
+O Peace! and dost thou with thy presence bless
+The dwellings of this war-surrounded Isle;
+Soothing with placid brow our late distress,
+Making the triple kingdom brightly smile?
+Joyful I hail thy presence; and I hail
+The sweet companions that await on thee;
+Complete my joy - let not my first wish fail,
+Let the sweet mountain nymph thy favourite be,
+With England’s happiness proclaim Europa’s Liberty.
+O Europe! let not sceptred tyrants see  10
+That thou must shelter in thy former state;
+Keep thy chains burst, and boldly say thou art free;
+Give thy kings law - leave not uncurbed the great;
+So with the horrors past thou’lt win thy happier fate!

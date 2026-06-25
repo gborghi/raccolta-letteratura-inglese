@@ -1,7 +1,7 @@
 ---
 title: Identity
 type: concept
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 tags:
   - graph/concept
 ---

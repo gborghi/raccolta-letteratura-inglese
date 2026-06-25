@@ -27,12 +27,20 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[Seasons]], [[Spring]], [[Leaves]], [[The Rose]]
+**Motifs:** [[Seasons]], [[Spring]], [[Leaves]], [[Rose]]
 **Themes & Concepts:** [[Faith]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!343_Not_Meagre_Latent_Boughs_Alone
+
+  Not meagre, latent boughs alone, O songs! (scaly and bare, like
+      eagles’ talons,)
+  But haply for some sunny day (who knows?) some future spring, some
+      summer--bursting forth,
+  To verdant leaves, or sheltering shade--to nourishing fruit,
+  Apples and grapes--the stalwart limbs of trees emerging--the fresh,
+      free, open air,
+  And love and faith, like scented roses blooming.

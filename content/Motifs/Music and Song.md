@@ -1,7 +1,7 @@
 ---
 title: Music and Song
 type: motif
-cluster: Birds · Music and Song · Tears
+cluster: Birds · Music and Song · Nightingale
 tags:
   - graph/motif
 ---

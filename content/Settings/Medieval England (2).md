@@ -1,7 +1,7 @@
 ---
 title: Medieval England
 type: setting
-cluster: Power and Corruption · The Crown · Pride
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/setting
 ---

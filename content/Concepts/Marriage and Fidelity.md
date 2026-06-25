@@ -1,7 +1,7 @@
 ---
 title: Marriage and Fidelity
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/concept
 ---

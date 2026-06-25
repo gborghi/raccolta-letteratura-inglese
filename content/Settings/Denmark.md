@@ -1,7 +1,7 @@
 ---
 title: Denmark
 type: setting
-cluster: Power and Corruption · The Crown · Pride
+cluster: Feigned Madness · Denmark
 tags:
   - graph/setting
 ---

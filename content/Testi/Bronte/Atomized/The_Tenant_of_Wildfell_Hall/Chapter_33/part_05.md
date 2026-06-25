@@ -1,0 +1,131 @@
+---
+title: "The Tenant of Wildfell Hall — Chapter 33 (part 5)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# The Tenant of Wildfell Hall — Chapter 33 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_33/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_35/part_01">part 01 ›</a></div>
+</nav>
+
+
+“Humph! and meantime you will go and talk me over to Mrs. Hargrave, and
+
+write long letters to aunt Maxwell to complain of the wicked wretch you
+
+have married?”
+
+
+
+“I shall complain to no one. Hitherto I have struggled hard to hide
+
+your vices from every eye, and invest you with virtues you never
+
+possessed; but now you must look to yourself.”
+
+
+
+I left him muttering bad language to himself, and went up-stairs.
+
+
+
+“You are poorly, ma’am,” said Rachel, surveying me with deep anxiety.
+
+
+
+“It is too true, Rachel,” said I, answering her sad looks rather than
+
+her words.
+
+
+
+“I knew it, or I wouldn’t have mentioned such a thing.”
+
+
+
+“But don’t _you_ trouble yourself about it,” said I, kissing her pale,
+
+time-wasted cheek. “I can bear it better than you imagine.”
+
+
+
+“Yes, you were always for ‘bearing.’ But if I was you I wouldn’t bear
+
+it; I’d give way to it, and cry right hard! and I’d talk too, I just
+
+_would_—I’d let him know what it was to—”
+
+
+
+“I have talked,” said I; “I’ve said enough.”
+
+
+
+“Then I’d cry,” persisted she. “I wouldn’t look so white and so calm,
+
+and burst my heart with keeping it in.”
+
+
+
+“I _have_ cried,” said I, smiling, in spite of my misery; “and I _am_
+
+calm now, really: so don’t discompose me again, nurse: let us say no
+
+more about it, and _don’t_ mention it to the servants. There, you may
+
+go now. Good-night; and don’t disturb your rest for me: I shall sleep
+
+well—if I can.”
+
+
+
+Notwithstanding this resolution, I found my bed so intolerable that,
+
+before two o’clock, I rose, and lighting my candle by the rushlight
+
+that was still burning, I got my desk and sat down in my dressing-gown
+
+to recount the events of the past evening. It was better to be so
+
+occupied than to be lying in bed torturing my brain with recollections
+
+of the far past and anticipations of the dreadful future. I have found
+
+relief in describing the very circumstances that have destroyed my
+
+peace, as well as the little trivial details attendant upon their
+
+discovery. No sleep I could have got this night would have done so much
+
+towards composing my mind, and preparing me to meet the trials of the
+
+day. I fancy so, at least; and yet, when I cease writing, I find my
+
+head aches terribly; and when I look into the glass, I am startled at
+
+my haggard, worn appearance.
+
+
+
+Rachel has been to dress me, and says I have had a sad night of it, she
+
+can see. Milicent has just looked in to ask me how I was. I told her I
+
+was better, but to excuse my appearance admitted I had had a restless
+
+night. I wish this day were over! I shudder at the thoughts of going
+
+down to breakfast. How shall I encounter them all? Yet let me remember
+
+it is not _I_ that am guilty: _I_ have no cause to fear; and if _they_
+
+scorn me as a victim of their guilt, I can pity their folly and despise
+
+their scorn.

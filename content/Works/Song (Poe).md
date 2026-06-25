@@ -2,7 +2,7 @@
 title: Song
 author: Poe
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Poe/_raw/Song.md
 tags:
   - graph/work
@@ -24,21 +24,36 @@ tags:
 
 # Song
 
-*by Poe*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A lyric addressed to a bride on her wedding day, whose blush kindles a fiercer flame of unrequited love and jealous loss in the speaker.
 
 ## Connections
 
-**Topoi:** [[The Unattainable Beloved]]
-**Archetypes:** [[The Lover]]
+**Topoi:** [[Unattainable Beloved]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Marriage]], [[Love]], [[Fire]], [[Eyes and Sight]], [[White and Red]]
 **Themes & Concepts:** [[Unrequited Frustrated Love]], [[Jealousy]], [[Romantic Love]], [[Grief and Loss]]
 **Forms & Genres:** [[Lyric]], [[Comic Verse Song]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+I saw thee on thy bridal day—
+         When a burning blush came o’er thee,
+     Though happiness around thee lay,
+         The world all love before thee:
+     And in thine eye a kindling light
+         (Whatever it might be)
+     Was all on Earth my aching sight
+        Of Loveliness could see.
+     That blush, perhaps, was maiden shame—
+         As such it well may pass—
+     Though its glow hath raised a fiercer flame
+         In the breast of him, alas!
+     Who saw thee on that bridal day,
+         When that deep blush _would_ come o’er thee,
+     Though happiness around thee lay,
+         The world all love before thee.
 
-!Song
+      1827.

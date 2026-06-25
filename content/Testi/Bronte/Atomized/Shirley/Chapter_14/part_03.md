@@ -1,0 +1,231 @@
+---
+title: "Shirley — Chapter 14 (part 3)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Shirley-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Shirley — Chapter 14 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_14/part_04">part 04 ›</a></div>
+</nav>
+
+
+my head before Mrs. Gill, when she ought to have been faltering
+
+confessions to me. I found it impossible to get up the spirit even to
+
+hint, much less to prove, to her that she was a cheat. I have no calm
+
+dignity, no true courage about me."
+
+
+
+"Shirley, what fit of self-injustice is this? My uncle, who is not given
+
+to speak well of women, says there are not ten thousand men in England
+
+as genuinely fearless as you."
+
+
+
+"I am fearless, physically; I am never nervous about danger. I was not
+
+startled from self-possession when Mr. Wynne's great red bull rose with
+
+a bellow before my face, as I was crossing the cowslip lea alone,
+
+stooped his begrimed, sullen head, and made a run at me; but I was
+
+afraid of seeing Mrs. Gill brought to shame and confusion of face. You
+
+have twice--ten times--my strength of mind on certain subjects,
+
+Caroline. You, whom no persuasion can induce to pass a bull, however
+
+quiet he looks, would have firmly shown my housekeeper she had done
+
+wrong; then you would have gently and wisely admonished her; and at
+
+last, I dare say, provided she had seemed penitent, you would have very
+
+sweetly forgiven her. Of this conduct I am incapable. However, in spite
+
+of exaggerated imposition, I still find we live within our means. I have
+
+money in hand, and I really must do some good with it. The Briarfield
+
+poor are badly off; they must be helped. What ought I to do, think you,
+
+Lina? Had I not better distribute the cash at once?"
+
+
+
+"No, indeed, Shirley; you will not manage properly. I have often noticed
+
+that your only notion of charity is to give shillings and half-crowns in
+
+a careless, free-handed sort of way, which is liable to continual abuse.
+
+You must have a prime minister, or you will get yourself into a series
+
+of scrapes. You suggested Miss Ainley yourself; to Miss Ainley I will
+
+apply. And, meantime, promise to keep quiet, and not begin throwing away
+
+your money. What a great deal you have, Shirley! You must feel very rich
+
+with all that?"
+
+
+
+"Yes; I feel of consequence. It is not an immense sum, but I feel
+
+responsible for its disposal; and really this responsibility weighs on
+
+my mind more heavily than I could have expected. They say that there are
+
+some families almost starving to death in Briarfield. Some of my own
+
+cottagers are in wretched circumstances. I must and will help them."
+
+
+
+"Some people say we shouldn't give alms to the poor, Shirley."
+
+
+
+"They are great fools for their pains. For those who are not hungry, it
+
+is easy to palaver about the degradation of charity, and so on: but they
+
+forget the brevity of life, as well as its bitterness. We have none of
+
+us long to live. Let us help each other through seasons of want and woe
+
+as well as we can, without heeding in the least the scruples of vain
+
+philosophy."
+
+
+
+"But you do help others, Shirley. You give a great deal as it is."
+
+
+
+"Not enough. I must give more, or, I tell you, my brother's blood will
+
+some day be crying to Heaven against me. For, after all, if political
+
+incendiaries come here to kindle conflagration in the neighbourhood, and
+
+my property is attacked, I shall defend it like a tigress--I know I
+
+shall. Let me listen to Mercy as long as she is near me. Her voice once
+
+drowned by the shout of ruffian defiance, and I shall be full of
+
+impulses to resist and quell. If once the poor gather and rise in the
+
+form of the mob, I shall turn against them as an aristocrat; if they
+
+bully me, I must defy: if they attack, I must resist, and I will."
+
+
+
+"You talk like Robert."
+
+
+
+"I feel like Robert, only more fierily. Let them meddle with Robert, or
+
+Robert's mill, or Robert's interests, and I shall hate them. At present
+
+I am no patrician, nor do I regard the poor around me as plebeians; but
+
+if once they violently wrong me or mine, and then presume to dictate to
+
+us, I shall quite forget pity for their wretchedness and respect for
+
+their poverty, in scorn of their ignorance and wrath at their
+
+insolence."
+
+
+
+"Shirley, how your eyes flash!"
+
+
+
+"Because my soul burns. Would you, any more than me, let Robert be borne
+
+down by numbers?"
+
+
+
+"If I had your power to aid Robert, I would use it as you mean to use
+
+it. If I could be such a friend to him as you can be, I would stand by
+
+him, as you mean to stand by him, till death."
+
+
+
+"And now, Lina, though your eyes don't flash, they glow. You drop your
+
+lids; but I saw a kindled spark. However, it is not yet come to
+
+fighting. What I want to do is to _prevent_ mischief. I cannot forget,
+
+either day or night, that these embittered feelings of the poor against
+
+the rich have been generated in suffering: they would neither hate nor
+
+envy us if they did not deem us so much happier than themselves. To
+
+allay this suffering, and thereby lessen this hate, let me, out of my
+
+abundance, give abundantly; and that the donation may go farther, let it
+
+be made wisely. To that intent, we must introduce some clear, calm,
+
+practical sense into our councils. So go and fetch Miss Ainley."
+
+
+
+Without another word Caroline put on her bonnet and departed. It may,
+
+perhaps, appear strange that neither she nor Shirley thought of
+
+consulting Mrs. Pryor on their scheme; but they were wise in abstaining.
+
+To have consulted her--and this they knew by instinct--would only have
+
+been to involve her in painful embarrassment. She was far better
+
+informed, better read, a deeper thinker than Miss Ainley, but of
+
+administrative energy, of executive activity, she had none. She would
+
+subscribe her own modest mite to a charitable object willingly--secret
+
+almsgiving suited her; but in public plans, on a large scale, she could
+
+take no part; as to originating them, that was out of the question. This
+
+Shirley knew, and therefore she did not trouble Mrs. Pryor by unavailing
+
+conferences, which could only remind her of her own deficiencies, and do
+
+no good.
+
+
+
+It was a bright day for Miss Ainley when she was summoned to Fieldhead
+
+to deliberate on projects so congenial to her; when she was seated with

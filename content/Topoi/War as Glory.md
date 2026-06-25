@@ -1,7 +1,7 @@
 ---
 title: War as Glory
 type: topos
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: War and its Cost · American Civil War · Battlefield
 tags:
   - graph/topos
 ---

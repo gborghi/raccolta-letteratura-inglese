@@ -2,7 +2,7 @@
 title: Virginia--The West
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/148_Virginia_The_West.md
 tags:
   - graph/work
@@ -17,21 +17,36 @@ tags:
 
 # Virginia--The West
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > An allegory in which the rebellious South lifts a knife against the Mother of All while the loyal West (drest in blue) rushes to her rescue; the Union defended.
 
 ## Connections
 
-**Archetypes:** [[The Great Mother]]
+**Archetypes:** [[Great Mother]]
 **Motifs:** [[Swords and Weapons]]
-**Themes & Concepts:** [[The Union]], [[War and its Cost]]
+**Themes & Concepts:** [[Union]], [[War and its Cost]]
 **Forms & Genres:** [[Allegory]]
 **Historical References:** [[American Civil War]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!148_Virginia_The_West
+
+  The noble sire fallen on evil days,
+  I saw with hand uplifted, menacing, brandishing,
+  (Memories of old in abeyance, love and faith in abeyance,)
+  The insane knife toward the Mother of All.
+
+  The noble son on sinewy feet advancing,
+  I saw, out of the land of prairies, land of Ohio’s waters and of Indiana,
+  To the rescue the stalwart giant hurry his plenteous offspring,
+  Drest in blue, bearing their trusty rifles on their shoulders.
+
+  Then the Mother of All with calm voice speaking,
+  As to you Rebellious, (I seemed to hear her say,) why strive against
+      me, and why seek my life?
+  When you yourself forever provide to defend me?
+  For you provided me Washington--and now these also.

@@ -1,7 +1,7 @@
 ---
 title: Justice / Right and Wrong
 type: concept
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
 tags:
   - graph/concept
 ---

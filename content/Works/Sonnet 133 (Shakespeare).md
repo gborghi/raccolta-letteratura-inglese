@@ -2,7 +2,7 @@
 title: Sonnet 133
 author: Shakespeare
 type: work
-cluster: Friendship · The Nightingale
+cluster: Friendship · Tears
 source: Authors/Shakespeare/Sonnets/Sonnet_133.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 133
 
-*by Shakespeare*  ·  **Cluster:** [[Friendship · The Nightingale]]
+*by Shakespeare*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 
 > The mistress has wounded both the poet and his friend; love as imprisonment, the betrayed friendship, jealousy and the femme fatale.
@@ -30,8 +30,19 @@ tags:
 **Themes & Concepts:** [[Friendship]], [[Jealousy]], [[Self-Knowledge]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_133
+Beshrew that heart that makes my heart to groan 
+For that deep wound it gives my friend and me! 
+Is’t not enough to torture me alone, 
+But slave to slavery my sweet‘st friend must be? 
+Me from myself thy cruel eye hath taken, 
+And my next self thou harder hast engrossed. 
+Of him, myself, and thee I am forsaken—
+A torment thrice threefold thus to be crossed. 
+Prison my heart in thy steel bosom’s ward, 
+But then my friend’s heart let my poor heart bail; 
+Whoe’er keeps me, let my heart be his guard; 
+Thou canst not then use rigour in my jail. 
+And yet thou wilt; for I, being pent in thee, 
+Perforce am thine, and all that is in me.

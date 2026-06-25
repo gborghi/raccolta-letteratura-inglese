@@ -1,7 +1,7 @@
 ---
 title: Manhattan
 type: setting
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 tags:
   - graph/setting
 ---

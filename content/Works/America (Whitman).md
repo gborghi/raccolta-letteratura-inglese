@@ -2,7 +2,7 @@
 title: America
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/306_America.md
 tags:
   - graph/work
@@ -19,21 +19,27 @@ tags:
 
 # America
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Personifies America as an enduring towering Mother of equality, freedom and law, a patriotic celebration.
 
 ## Connections
 
-**Archetypes:** [[The Great Mother]]
+**Archetypes:** [[Great Mother]]
 **Motifs:** [[Time]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Democracy]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Ode]], [[Free Verse]]
 **Settings:** [[America]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!306_America
+
+  Centre of equal daughters, equal sons,
+  All, all alike endear’d, grown, ungrown, young or old,
+  Strong, ample, fair, enduring, capable, rich,
+  Perennial with the Earth, with Freedom, Law and Love,
+  A grand, sane, towering, seated Mother,
+  Chair’d in the adamant of Time.

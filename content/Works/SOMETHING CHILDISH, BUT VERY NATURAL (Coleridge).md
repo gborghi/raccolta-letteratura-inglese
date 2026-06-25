@@ -2,7 +2,7 @@
 title: 'SOMETHING CHILDISH, BUT VERY NATURAL'
 author: Coleridge
 type: work
-cluster: Dreams · Sleep · Resurrection
+cluster: Dreams · Moon
 source: Authors/Coleridge/_raw/173_SOMETHING_CHILDISH_BUT_VERY_NATURAL.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # SOMETHING CHILDISH, BUT VERY NATURAL
 
-*by Coleridge*  ·  **Cluster:** [[Dreams · Sleep · Resurrection]]
+*by Coleridge*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
 > A tender lyric of separation written in Germany, wishing for a bird's wings to fly to the beloved and finding union only in dreams and sleep.
@@ -30,8 +30,22 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[Germany]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!173_SOMETHING_CHILDISH_BUT_VERY_NATURAL
+WRITTEN IN GERMANY
+If I had but two little wings
+And were a little feathery bird,
+To you I’d fly, my dear!
+But thoughts like these are idle things,
+And I stay here.    5
+But in my sleep to you I fly:
+I’m always with you in my sleep!
+The world is all one’s own.
+But then one wakes, and where am I?
+All, all alone.    10
+Sleep stays not, though a monarch bids:
+So I love to wake ere break of day:
+For though my sleep be gone,
+Yet while ‘tis dark, one shuts one’s lids,
+And still dreams on.    15
+April 23, 1799.

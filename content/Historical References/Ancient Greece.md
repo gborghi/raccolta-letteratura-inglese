@@ -1,7 +1,7 @@
 ---
 title: Ancient Greece
 type: histref
-cluster: Heroism · Honour · Hero
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/histref
 ---

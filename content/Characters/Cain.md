@@ -1,7 +1,7 @@
 ---
 title: Cain
 type: character
-cluster: The Outsider · Fall from Innocence · The (Reputed) Fallen Woman
+cluster: Bible · Sin and the Fall · Fall from Innocence
 tags:
   - graph/character
 ---

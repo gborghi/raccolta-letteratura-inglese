@@ -1,7 +1,7 @@
 ---
 title: Food and Feasting
 type: motif
-cluster: Wine and Drink · Food and Feasting · The Inn / Tavern
+cluster: Paradox · Food and Feasting · Aphorism
 tags:
   - graph/motif
 ---

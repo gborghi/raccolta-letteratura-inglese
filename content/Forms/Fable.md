@@ -1,7 +1,7 @@
 ---
 title: Fable
 type: form
-cluster: The World Upside Down · Madness · Madness
+cluster: Temptation · Good vs Evil · Serpent / Snake
 tags:
   - graph/form
 ---

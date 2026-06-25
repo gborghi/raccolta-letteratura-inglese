@@ -1,7 +1,7 @@
 ---
 title: Arthurian Legend
 type: histref
-cluster: Paradox · Truth · Aphorism
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/histref
 ---

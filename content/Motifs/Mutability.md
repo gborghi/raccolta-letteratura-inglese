@@ -1,7 +1,7 @@
 ---
 title: Mutability
 type: motif
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 tags:
   - graph/motif
 ---

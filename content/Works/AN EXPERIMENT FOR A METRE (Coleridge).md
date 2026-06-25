@@ -2,7 +2,7 @@
 title: AN EXPERIMENT FOR A METRE
 author: Coleridge
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Coleridge/_raw/406_AN_EXPERIMENT_FOR_A_METRE.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # AN EXPERIMENT FOR A METRE
 
-*by Coleridge*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A metrical experiment (scanned) praising a beauty bright as an angel that dazzles and awes; prosodic study in a love-compliment lyric.
@@ -27,8 +27,19 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Fragment]], [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!406_AN_EXPERIMENT_FOR_A_METRE
+Ø Ø ¯, Ø Ø ¯
+Ø Ø ¯, Ø Ø ¯
+Ø ¯ }
+¯ Ø ¯ } Ø Ø ¯; Ø Ø ¯, Ø Ø ¯,
+Ø ¯  }
+¯ Ø ¯  } Ø Ø ¯, Ø Ø ¯, Ø Ø ¯
+Ø ¯ }
+Ø Ø ¯ } Ø Ø ¯, Ø Ø ¯
+When thy Beauty appears,
+In its graces and airs,
+All bright as an Angel new dight from the Sky,
+At distance I gaze, and am awed by my fears,
+So strangely you dazzle my Eye.
+Now first published from an MS.

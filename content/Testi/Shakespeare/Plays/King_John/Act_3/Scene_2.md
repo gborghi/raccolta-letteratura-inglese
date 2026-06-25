@@ -1,0 +1,34 @@
+---
+title: "King John — Act III, Scene 2"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/KING-JOHN-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# King John — Act III, Scene 2
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/King_John/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/King_John/Act_3/Scene_3">Scene 3 ›</a></div>
+</nav>
+
+
+Alarum; excursions. Enter the Bastard, with the Duke of Austria’s head
+BASTARD
+Now, by my life, this day grows wondrous hot;
+Some airy devil hovers in the sky
+And pours down mischief. Austria’s head lie there,
+While Philip breathes.
+Enter King John, Arthur Duke of Brittaine, and Hubert
+KING JOHN
+Hubert, keep this boy.—Philip, make up! 5
+My mother is assailed in our tent,
+And ta’en I fear.
+BASTARD My lord, I rescued her;
+Her highness is in safety; fear you not.
+But on, my liege, for very little pains
+Will bring this labour to an happy end. 10
+Exeunt ⌈King John and the Bastard at one door, Hubert and Arthur at another door⌉

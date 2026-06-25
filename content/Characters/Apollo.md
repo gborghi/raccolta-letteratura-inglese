@@ -1,14 +1,14 @@
 ---
 title: Apollo
 type: character
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/character
 ---
 
 # Apollo
 
-*Character* — appears in **4** work(s).
+*Character* — appears in **5** work(s).
 
 ## Works
 

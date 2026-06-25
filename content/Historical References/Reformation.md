@@ -1,0 +1,17 @@
+---
+title: Reformation
+type: histref
+cluster: Christianity · Faith and Doubt · Doubt
+tags:
+  - graph/histref
+---
+
+# Reformation
+
+*Historical reference* — appears in **15** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Historical-References/Reformation"></div>
+
+#graph/histref

@@ -2,7 +2,7 @@
 title: Sonnet 98
 author: Shakespeare
 type: work
-cluster: Seasons · Winter · Spring
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_098.md
 tags:
   - graph/work
@@ -20,19 +20,30 @@ tags:
 
 # Sonnet 98
 
-*by Shakespeare*  ·  **Cluster:** [[Seasons · Winter · Spring]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Absent in spring amid April's flowers and birdsong, the speaker finds them mere shadows of the beloved and feels it still winter.
 
 ## Connections
 
-**Motifs:** [[Spring]], [[Seasons]], [[Flowers]], [[The Rose]], [[Birds]]
+**Motifs:** [[Spring]], [[Seasons]], [[Flowers]], [[Rose]], [[Birds]]
 **Themes & Concepts:** [[Grief and Loss]], [[Exile]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_098
+From you have I been absent in the spring 
+When proud-pied April, dressed in all his trim, 
+Hath put a spirit of youth in everything, 
+That heavy Saturn laughed and leapt with him. 
+Yet nor the lays of birds nor the sweet smell 
+Of different flowers in odour and in hue 
+Could make me any summer’s story tell, 
+Or from their proud lap pluck them where they grew; 
+Nor did I wonder at the lily’s white, 
+Nor praise the deep vermilion in the rose. 
+They were but sweet, but figures of delight 
+Drawn after you, you pattern of all those; 
+Yet seemed it winter still, and, you away, 
+As with your shadow I with these did play.

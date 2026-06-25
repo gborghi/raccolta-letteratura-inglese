@@ -1,0 +1,157 @@
+---
+title: "whats wrong — Part 4 (part 5)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/whats-wrong-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# whats wrong — Part 4 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_09/part_06">part 06 ›</a></div>
+</nav>
+
+
+The urgent point at present is that these expansive educators
+do not avoid the violence of authority an inch more than the old
+school masters.  Nay, it might be maintained that they avoid it less.
+The old village schoolmaster beat a boy for not learning grammar
+and sent him out into the playground to play anything he liked;
+or at nothing, if he liked that better.  The modern scientific
+schoolmaster pursues him into the playground and makes him play
+at cricket, because exercise is so good for the health.  The modern
+Dr. Busby is a doctor of medicine as well as a doctor of divinity.
+He may say that the good of exercise is self-evident; but he must
+say it, and say it with authority.  It cannot really be self-evident
+or it never could have been compulsory.  But this is in modern
+practice a very mild case.  In modern practice the free educationists
+forbid far more things than the old-fashioned educationists.
+A person with a taste for paradox (if any such shameless creature
+could exist) might with some plausibility maintain concerning
+all our expansion since the failure of Luther's frank paganism
+and its replacement by Calvin's Puritanism, that all this expansion
+has not been an expansion, but the closing in of a prison, so that
+less and less beautiful and humane things have been permitted.
+The Puritans destroyed images; the Rationalists forbade fairy tales.
+Count Tostoi practically issued one of his papal encyclicals
+against music; and I have heard of modern educationists who forbid
+children to play with tin soldiers.  I remember a meek little madman
+who came up to me at some Socialist soiree or other, and asked me to use
+my influence (have I any influence?) against adventure stories for boys.
+It seems they breed an appetite for blood.  But never mind that;
+one must keep one's temper in this madhouse.  I need only insist here
+that these things, even if a just deprivation, are a deprivation.
+I do not deny that the old vetoes and punishments were often idiotic
+and cruel; though they are much more so in a country like England
+(where in practice only a rich man decrees the punishment and only a poor
+man receives it) than in countries with a clearer popular tradition--
+such as Russia.  In Russia flogging is often inflicted by peasants
+on a peasant.  In modern England flogging can only in practice
+be inflicted by a gentleman on a very poor man.  Thus only a few
+days ago as I write a small boy (a son of the poor, of course)
+was sentenced to flogging and imprisonment for five years for having
+picked up a small piece of coal which the experts value at 5d.
+I am entirely on the side of such liberals and humanitarians as
+have protested against this almost bestial ignorance about boys.
+But I do think it a little unfair that these humanitarians, who excuse
+boys for being robbers, should denounce them for playing at robbers.
+I do think that those who understand a guttersnipe playing with a piece
+of coal might, by a sudden spurt of imagination, understand him
+playing with a tin soldier.  To sum it up in one sentence:
+I think my meek little madman might have understood that there
+is many a boy who would rather be flogged, and unjustly flogged,
+than have his adventure story taken away.
+
+* * *
+
+VII
+
+THE HUMILITY OF MRS.  GRUNDY
+
+In short, the new education is as harsh as the old, whether or no
+it is as high.  The freest fad, as much as the strictest formula,
+is stiff with authority.  It is because the humane father thinks
+soldiers wrong that they are forbidden; there is no pretense,
+there can be no pretense, that the boy would think so.
+The average boy's impression certainly would be simply this:
+"If your father is a Methodist you must not play with soldiers
+on Sunday.  If your father is a Socialist you must not play
+with them even on week days."  All educationists are utterly
+dogmatic and authoritarian.  You cannot have free education;
+for if you left a child free you would not educate him at all.
+Is there, then, no distinction or difference between the most hide-bound
+conventionalists and the most brilliant and bizarre innovators?
+Is there no difference between the heaviest heavy father and the most
+reckless and speculative maiden aunt?  Yes; there is.  The difference
+is that the heavy father, in his heavy way, is a democrat.
+He does not urge a thing merely because to his fancy it should
+be done; but, because (in his own admirable republican formula)
+"Everybody does it."  The conventional authority does claim
+some popular mandate; the unconventional authority does not.
+The Puritan who forbids soldiers on Sunday is at least
+expressing Puritan opinion; not merely his own opinion.
+He is not a despot; he is a democracy, a tyrannical democracy,
+a dingy and local democracy perhaps; but one that could do
+and has done the two ultimate virile things--fight and appeal
+to God.  But the veto of the new educationist is like the veto
+of the House of Lords; it does not pretend to be representative.
+These innovators are always talking about the blushing modesty
+of Mrs. Grundy.  I do not know whether Mrs. Grundy is more modest
+than they are; but I am sure she is more humble.
+
+But there is a further complication.  The more anarchic modern
+may again attempt to escape the dilemma by saying that education
+should only be an enlargement of the mind, an opening of all
+the organs of receptivity.  Light (he says) should be brought
+into darkness; blinded and thwarted existences in all our ugly
+corners should merely be permitted to perceive and expand; in short,
+enlightenment should be shed over darkest London.  Now here is
+just the trouble; that, in so far as this is involved, there is no
+darkest London.  London is not dark at all; not even at night.
+We have said that if education is a solid substance, then there
+is none of it.  We may now say that if education is an abstract
+expansion there is no lack of it.  There is far too much of it.
+In fact, there is nothing else.
+
+There are no uneducated people.  Everybody in England is educated;
+only most people are educated wrong.  The state schools were not
+the first schools, but among the last schools to be established;
+and London had been educating Londoners long before the
+London School Board.  The error is a highly practical one.
+It is persistently assumed that unless a child is civilized by
+the established schools, he must remain a barbarian.  I wish he did.
+Every child in London becomes a highly civilized person.
+But here are so many different civilizations, most of them born tired.
+Anyone will tell you that the trouble with the poor is not so much that
+the old are still foolish, but rather that the young are already wise.
+Without going to school at all, the gutter-boy would be educated.
+Without going to school at all, he would be over-educated. The
+real object of our schools should be not so much to suggest
+complexity as solely to restore simplicity.  You will hear venerable
+idealists declare we must make war on the ignorance of the poor;
+but, indeed, we have rather to make war on their knowledge.
+Real educationists have to resist a kind of roaring cataract
+of culture.  The truant is being taught all day.  If the children
+do not look at the large letters in the spelling-book, they need
+only walk outside and look at the large letters on the poster.
+If they do not care for the colored maps provided by the school,
+they can gape at the colored maps provided by the Daily Mail.  If they
+tire of electricity, they can take to electric trams.
+If they are unmoved by music, they can take to drink.
+If they will not work so as to get a prize from their school,
+they may work to get a prize from Prizy Bits.  If they cannot
+learn enough about law and citizenship to please the teacher,
+they learn enough about them to avoid the policeman.  If they will
+not learn history forwards from the right end in the history books,
+they will learn it backwards from the wrong end in the party newspapers.
+And this is the tragedy of the whole affair:  that the London poor,
+a particularly quick-witted and civilized class, learn everything
+tail foremost, learn even what is right in the way of what is wrong.
+They do not see the first principles of law in a law book;
+they only see its last results in the police news.
+They do not see the truths of politics in a general survey.
+They only see the lies of politics, at a General Election.

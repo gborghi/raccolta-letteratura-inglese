@@ -2,7 +2,7 @@
 title: Silence
 author: Poe
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 source: Authors/Poe/_raw/Silence.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
 
 # Silence
 
-*by Poe*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
 > A sonnet on the two-fold silence of body and soul, personifying the corporate silence of the grave ('No More') and warning of its nameless, dreadful counterpart.
@@ -29,12 +29,26 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Silence (2)]], [[The Grave]], [[Death (2)]], [[The Sea]], [[Memory (2)]]
-**Themes & Concepts:** [[Mortality]], [[Terror and Horror]], [[The Uncanny]]
+**Motifs:** [[Silence]], [[Grave]], [[Death]], [[Sea]], [[Memory]]
+**Themes & Concepts:** [[Mortality]], [[Terror and Horror]], [[Uncanny]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+There are some qualities—some incorporate things,
+         That have a double life, which thus is made
+     A type of that twin entity which springs
+         From matter and light, evinced in solid and shade.
+     There is a two-fold _Silence_—sea and shore—
+         Body and soul. One dwells in lonely places,
+         Newly with grass o’ergrown; some solemn graces,
+     Some human memories and tearful lore,
+     Render him terrorless: his name’s “No More.”
+      He is the corporate Silence: dread him not!
+         No power hath he of evil in himself;
+     But should some urgent fate (untimely lot!)
+         Bring thee to meet his shadow (nameless elf,
+     That haunteth the lone regions where hath trod
+     No foot of man,) commend thyself to God!
 
-!Silence
+      1840.

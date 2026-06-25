@@ -1,7 +1,7 @@
 ---
 title: Dramatic Monologue
 type: form
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/form
 ---

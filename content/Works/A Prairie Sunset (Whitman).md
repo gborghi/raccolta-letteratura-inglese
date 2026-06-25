@@ -2,7 +2,7 @@
 title: A Prairie Sunset
 author: Whitman
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Sun · Light and Dark · Fire
 source: Authors/Whitman/_raw/338_A_Prairie_Sunset.md
 tags:
   - graph/work
@@ -12,13 +12,13 @@ tags:
   - concept/the_sublime
   - motif/nature
   - motif/light_and_dark
-  - setting/american_west
+  - setting/the_american_west
   - form/lyric
 ---
 
 # A Prairie Sunset
 
-*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Whitman*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
 > An imagistic prairie sunset of pure luminous color fighting the silent shadows to the last.
@@ -26,12 +26,19 @@ tags:
 ## Connections
 
 **Motifs:** [[Sun]], [[Nature]], [[Light and Dark]]
-**Themes & Concepts:** [[Beauty]], [[The Sublime]]
+**Themes & Concepts:** [[Beauty]], [[Sublime]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[American West (2)]]
+**Settings:** [[American West]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!338_A_Prairie_Sunset
+
+  Shot gold, maroon and violet, dazzling silver, emerald, fawn,
+  The earth’s whole amplitude and Nature’s multiform power consign’d
+      for once to colors;
+  The light, the general air possess’d by them--colors till now unknown,
+  No limit, confine--not the Western sky alone--the high meridian--
+      North, South, all,
+  Pure luminous color fighting the silent shadows to the last.

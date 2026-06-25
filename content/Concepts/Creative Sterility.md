@@ -1,7 +1,7 @@
 ---
 title: Creative Sterility
 type: concept
-cluster: Seasons · Winter · Spring
+cluster: Flowers · Spring · Garden
 tags:
   - graph/concept
 ---

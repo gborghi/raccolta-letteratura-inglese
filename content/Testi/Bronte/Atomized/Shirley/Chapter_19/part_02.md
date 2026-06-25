@@ -1,0 +1,309 @@
+---
+title: "Shirley — Chapter 19 (part 2)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Shirley-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Shirley — Chapter 19 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_19/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_19/part_03">part 03 ›</a></div>
+</nav>
+
+
+Eliza were recommended to go to bed, which they were quite willing to
+
+do, being weary of the day's exertions, of much cutting of currant-buns,
+
+and filling of urns and teapots, and running backwards and forwards
+
+with trays. Ere long the maids' chamber door was heard to close.
+
+Caroline took a candle and went quietly all over the house, seeing that
+
+every window was fast and every door barred. She did not even evade the
+
+haunted back kitchen nor the vault-like cellars. These visited, she
+
+returned.
+
+
+
+"There is neither spirit nor flesh in the house at present," she said,
+
+"which should not be there. It is now near eleven o'clock, fully
+
+bedtime; yet I would rather sit up a little longer, if you do not
+
+object, Shirley. Here," she continued, "I have brought the brace of
+
+pistols from my uncle's study. You may examine them at your leisure."
+
+
+
+She placed them on the table before her friend.
+
+
+
+"Why would you rather sit up longer?" asked Miss Keeldar, taking up the
+
+firearms, examining them, and again laying them down.
+
+
+
+"Because I have a strange, excited feeling in my heart."
+
+
+
+"So have I."
+
+
+
+"Is this state of sleeplessness and restlessness caused by something
+
+electrical in the air, I wonder?"
+
+
+
+"No; the sky is clear, the stars numberless. It is a fine night."
+
+
+
+"But very still. I hear the water fret over its stony bed in Hollow's
+
+Copse as distinctly as if it ran below the churchyard wall."
+
+
+
+"I am glad it is so still a night. A moaning wind or rushing rain would
+
+vex me to fever just now."
+
+
+
+"Why, Shirley?"
+
+
+
+"Because it would baffle my efforts to listen."
+
+
+
+"Do you listen towards the Hollow?"
+
+
+
+"Yes; it is the only quarter whence we can hear a sound just now."
+
+
+
+"The only one, Shirley."
+
+
+
+They both sat near the window, and both leaned their arms on the sill,
+
+and both inclined their heads towards the open lattice. They saw each
+
+other's young faces by the starlight and that dim June twilight which
+
+does not wholly fade from the west till dawn begins to break in the
+
+east.
+
+
+
+"Mr. Helstone thinks we have no idea which way he is gone," murmured
+
+Miss Keeldar, "nor on what errand, nor with what expectations, nor how
+
+prepared. But I guess much; do not you?"
+
+
+
+"I guess something."
+
+
+
+"All those gentlemen--your cousin Moore included--think that you and I
+
+are now asleep in our beds, unconscious."
+
+
+
+"Caring nothing about them--hoping and fearing nothing for them," added
+
+Caroline.
+
+
+
+Both kept silent for full half an hour. The night was silent too; only
+
+the church clock measured its course by quarters. Some words were
+
+interchanged about the chill of the air. They wrapped their scarves
+
+closer round them, resumed their bonnets, which they had removed, and
+
+again watched.
+
+
+
+Towards midnight the teasing, monotonous bark of the house-dog disturbed
+
+the quietude of their vigil. Caroline rose, and made her way noiselessly
+
+through the dark passages to the kitchen, intending to appease him with
+
+a piece of bread. She succeeded. On returning to the dining-room she
+
+found it all dark, Miss Keeldar having extinguished the candle. The
+
+outline of her shape was visible near the still open window, leaning
+
+out. Miss Helstone asked no questions; she stole to her side. The dog
+
+recommenced barking furiously. Suddenly he stopped, and seemed to
+
+listen. The occupants of the dining-room listened too, and not merely
+
+now to the flow of the mill-stream. There was a nearer, though a
+
+muffled, sound on the road below the churchyard--a measured, beating,
+
+approaching sound--a dull tramp of marching feet.
+
+
+
+It drew near. Those who listened by degrees comprehended its extent. It
+
+was not the tread of two, nor of a dozen, nor of a score of men; it was
+
+the tread of hundreds. They could see nothing; the high shrubs of the
+
+garden formed a leafy screen between them and the road. To hear,
+
+however, was not enough, and this they felt as the troop trod forwards,
+
+and seemed actually passing the rectory. They felt it more when a human
+
+voice--though that voice spoke but one word--broke the hush of the
+
+night.
+
+
+
+"Halt!"
+
+
+
+A halt followed. The march was arrested. Then came a low conference, of
+
+which no word was distinguishable from the dining-room.
+
+
+
+"We _must_ hear this," said Shirley.
+
+
+
+She turned, took her pistols from the table, silently passed out through
+
+the middle window of the dining-room, which was, in fact, a glass door,
+
+stole down the walk to the garden wall, and stood listening under the
+
+lilacs. Caroline would not have quitted the house had she been alone,
+
+but where Shirley went she would go. She glanced at the weapon on the
+
+sideboard, but left it behind her, and presently stood at her friend's
+
+side. They dared not look over the wall, for fear of being seen; they
+
+were obliged to crouch behind it. They heard these words,--
+
+
+
+"It looks a rambling old building. Who lives in it besides the damned
+
+parson?"
+
+
+
+"Only three women--his niece and two servants."
+
+
+
+"Do you know where they sleep?"
+
+
+
+"The lasses behind; the niece in a front room."
+
+
+
+"And Helstone?"
+
+
+
+"Yonder is his chamber. He was burning a light, but I see none now."
+
+
+
+"Where would you get in?"
+
+
+
+"If I were ordered to do his job--and he desarves it--I'd try yond' long
+
+window; it opens to the dining-room. I could grope my way upstairs, and
+
+I know his chamber."
+
+
+
+"How would you manage about the women folk?"
+
+
+
+"Let 'em alone except they shrieked, and then I'd soon quieten 'em. I
+
+could wish to find the old chap asleep. If he waked, he'd be dangerous."
+
+
+
+"Has he arms?"
+
+
+
+"Firearms, allus--and allus loadened."
+
+
+
+"Then you're a fool to stop us here. A shot would give the alarm. Moore
+
+would be on us before we could turn round. We should miss our main
+
+object."
+
+
+
+"You might go on, I tell you. I'd engage Helstone alone."
+
+
+
+A pause. One of the party dropped some weapon, which rang on the stone
+
+causeway. At this sound the rectory dog barked again
+
+furiously--fiercely.
+
+
+
+"That spoils all!" said the voice. "He'll awake. A noise like that might

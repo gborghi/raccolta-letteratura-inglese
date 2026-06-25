@@ -1,0 +1,17 @@
+---
+title: Monica Claverton-Ferry
+type: character
+cluster: Guilt · Conscience · Fate and Free Will
+tags:
+  - graph/character
+---
+
+# Monica Claverton-Ferry
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Monica-Claverton-Ferry"></div>
+
+#graph/character

@@ -2,7 +2,7 @@
 title: Old War-Dreams
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/271_Old_War_Dreams.md
 tags:
   - graph/work
@@ -17,20 +17,37 @@ tags:
 
 # Old War-Dreams
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > A free-verse lyric with refrain recounting recurring nightmares of the Civil War dead; themes of war's cost, dreams, memory and death.
 
 ## Connections
 
-**Motifs:** [[Dreams]], [[Death (2)]], [[Memory (2)]]
+**Motifs:** [[Dreams]], [[Death]], [[Memory]]
 **Themes & Concepts:** [[War and its Cost]]
 **Historical References:** [[American Civil War]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: FROM NOON TO STARRY NIGHT_
 
-!271_Old_War_Dreams
+
+  In midnight sleep of many a face of anguish,
+  Of the look at first of the mortally wounded, (of that indescribable look,)
+  Of the dead on their backs with arms extended wide,
+       I dream, I dream, I dream.
+
+  Of scenes of Nature, fields and mountains,
+  Of skies so beauteous after a storm, and at night the moon so
+      unearthly bright,
+  Shining sweetly, shining down, where we dig the trenches and
+      gather the heaps,
+       I dream, I dream, I dream.
+
+  Long have they pass’d, faces and trenches and fields,
+  Where through the carnage I moved with a callous composure, or away
+      from the fallen,
+  Onward I sped at the time--but now of their forms at night,
+       I dream, I dream, I dream.

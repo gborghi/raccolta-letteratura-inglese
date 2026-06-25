@@ -2,7 +2,7 @@
 title: The Runner
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/129_The_Runner.md
 tags:
   - graph/work
@@ -15,19 +15,23 @@ tags:
 
 # The Runner
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > A four-line free-verse vignette of a lean, sinewy athlete in motion; an imagistic celebration of the healthy body and bodily energy.
 
 ## Connections
 
-**Motifs:** [[The Road]]
-**Themes & Concepts:** [[The Body]]
+**Motifs:** [[Road]]
+**Themes & Concepts:** [[Body]]
 **Forms & Genres:** [[Free Verse]], [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!129_The_Runner
+
+  On a flat road runs the well-train’d runner,
+  He is lean and sinewy with muscular legs,
+  He is thinly clothed, he leans forward as he runs,
+  With lightly closed fists and arms partially rais’d.

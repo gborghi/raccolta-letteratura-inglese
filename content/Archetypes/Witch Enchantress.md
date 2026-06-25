@@ -1,7 +1,7 @@
 ---
 title: Witch / Enchantress
 type: archetype
-cluster: Power and Corruption · The Crown · Pride
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/archetype
 ---

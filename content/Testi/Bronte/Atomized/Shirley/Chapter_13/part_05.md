@@ -1,0 +1,245 @@
+---
+title: "Shirley — Chapter 13 (part 5)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Shirley-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Shirley — Chapter 13 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_13/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_13/part_06">part 06 ›</a></div>
+</nav>
+
+
+However, when Captain Keeldar is made comfortable, accommodated with all
+
+he wants, including a sensible, genial comrade, it gives him a thorough
+
+pleasure to devote his spare efforts to making that comrade happy. And
+
+should we not be happy, Caroline, in the Highlands? We will go to the
+
+Highlands. We will, if you can bear a sea-voyage, go to the Isles--the
+
+Hebrides, the Shetland, the Orkney Islands. Would you not like that? I
+
+see you would.--Mrs. Pryor, I call you to witness. Her face is all
+
+sunshine at the bare mention of it."
+
+
+
+"I should like it much," returned Caroline, to whom, indeed, the notion
+
+of such a tour was not only pleasant, but gloriously reviving. Shirley
+
+rubbed her hands.
+
+
+
+"Come; I can bestow a benefit," she exclaimed. "I can do a good deed
+
+with my cash. My thousand a year is not merely a matter of dirty
+
+bank-notes and jaundiced guineas (let me speak respectfully of both,
+
+though, for I adore them), but, it may be, health to the drooping,
+
+strength to the weak, consolation to the sad. I was determined to make
+
+something of it better than a fine old house to live in, than satin
+
+gowns to wear, better than deference from acquaintance and homage from
+
+the poor. Here is to begin. This summer, Caroline, Mrs. Pryor and I go
+
+out into the North Atlantic, beyond the Shetland, perhaps to the Faroe
+
+Isles. We will see seals in Suderoe, and, doubtless, mermaids in
+
+Stromoe.--Caroline is laughing, Mrs. Pryor. _I_ made her laugh; _I_ have
+
+done her good."
+
+
+
+"I shall like to go, Shirley," again said Miss Helstone. "I long to hear
+
+the sound of waves--ocean-waves--and to see them as I have imagined them
+
+in dreams, like tossing banks of green light, strewed with vanishing and
+
+reappearing wreaths of foam, whiter than lilies. I shall delight to pass
+
+the shores of those lone rock-islets where the sea-birds live and breed
+
+unmolested. We shall be on the track of the old Scandinavians--of the
+
+Norsemen. We shall almost see the shores of Norway. This is a very vague
+
+delight that I feel, communicated by your proposal, but it _is_ a
+
+delight."
+
+
+
+"Will you think of Fitful Head now when you lie awake at night, of gulls
+
+shrieking round it, and waves tumbling in upon it, rather than of the
+
+graves under the rectory back-kitchen?"
+
+
+
+"I will try; and instead of musing about remnants of shrouds, and
+
+fragments of coffins, and human bones and mould, I will fancy seals
+
+lying in the sunshine on solitary shores, where neither fisherman nor
+
+hunter ever come; of rock crevices full of pearly eggs bedded in
+
+seaweed; of unscared birds covering white sands in happy flocks."
+
+
+
+"And what will become of that inexpressible weight you said you had on
+
+your mind?"
+
+
+
+"I will try to forget it in speculation on the sway of the whole great
+
+deep above a herd of whales rushing through the livid and liquid thunder
+
+down from the frozen zone--a hundred of them, perhaps, wallowing,
+
+flashing, rolling in the wake of a patriarch bull, huge enough to have
+
+been spawned before the Flood, such a creature as poor Smart had in his
+
+mind when he said,--
+
+
+
+    'Strong against tides, the enormous whale
+
+       Emerges as he goes.'"
+
+
+
+"I hope our bark will meet with no such shoal, or herd as you term it,
+
+Caroline. (I suppose you fancy the sea-mammoths pasturing about the
+
+bases of the 'everlasting hills,' devouring strange provender in the
+
+vast valleys through and above which sea-billows roll.) I should not
+
+like to be capsized by the patriarch bull."
+
+
+
+"I suppose you expect to see mermaids, Shirley?"
+
+
+
+"One of them, at any rate--I do not bargain for less--and she is to
+
+appear in some such fashion as this. I am to be walking by myself on
+
+deck, rather late of an August evening, watching and being watched by a
+
+full harvest moon. Something is to rise white on the surface of the sea,
+
+over which that moon mounts silent and hangs glorious. The object
+
+glitters and sinks. It rises again. I think I hear it cry with an
+
+articulate voice; I call you up from the cabin; I show you an image,
+
+fair as alabaster, emerging from the dim wave. We both see the long
+
+hair, the lifted and foam-white arm, the oval mirror brilliant as a
+
+star. It glides nearer; a human face is plainly visible--a face in the
+
+style of yours--whose straight, pure (excuse the word, it is
+
+appropriate)--whose straight, pure lineaments paleness does not
+
+disfigure. It looks at us, but not with your eyes. I see a preternatural
+
+lure in its wily glance. It beckons. Were we men, we should spring at
+
+the sign--the cold billow would be dared for the sake of the colder
+
+enchantress; being women, we stand safe, though not dreadless. She
+
+comprehends our unmoved gaze; she feels herself powerless; anger crosses
+
+her front; she cannot charm, but she will appal us; she rises high, and
+
+glides all revealed on the dark wave-ridge. Temptress-terror! monstrous
+
+likeness of ourselves! Are you not glad, Caroline, when at last, and
+
+with a wild shriek, she dives?"
+
+
+
+"But, Shirley, she is not like us. We are neither temptresses, nor
+
+terrors, nor monsters."
+
+
+
+"Some of our kind, it is said, are all three. There are men who ascribe
+
+to 'woman,' in general, such attributes."
+
+
+
+"My dears," here interrupted Mrs. Pryor, "does it not strike you that
+
+your conversation for the last ten minutes has been rather fanciful?"
+
+
+
+"But there is no harm in our fancies; is there, ma'am?"
+
+
+
+"We are aware that mermaids do not exist; why speak of them as if they
+
+did? How can you find interest in speaking of a nonentity?"
+
+
+
+"I don't know," said Shirley.
+
+
+
+"My dear, I think there is an arrival. I heard a step in the lane while
+
+you were talking; and is not that the garden-gate which creaks?"
+
+
+
+Shirley stepped to the window.
+
+
+
+"Yes, there is some one," said she, turning quietly away; and as she
+
+resumed her seat a sensitive flush animated her face, while a trembling
+
+ray at once kindled and softened her eye. She raised her hand to her
+
+chin, cast her gaze down, and seemed to think as she waited.

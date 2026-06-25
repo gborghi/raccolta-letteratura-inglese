@@ -1,7 +1,7 @@
 ---
 title: Christ Figure
 type: archetype
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Martyrdom · Martyr / Saint · Cross
 tags:
   - graph/archetype
 ---

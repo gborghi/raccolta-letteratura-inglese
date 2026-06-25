@@ -1,7 +1,7 @@
 ---
 title: Flags and Banners
 type: motif
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)
 tags:
   - graph/motif
 ---

@@ -1,0 +1,55 @@
+---
+title: "The Merchant of Venice — Act IV, Scene 1 — exchange (SHYLOCK) [4]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Merchant of Venice — Act IV, Scene 1 — exchange (SHYLOCK) [4]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
+</nav>
+
+
+SHYLOCK
+To cut the forfeit from that bankrupt there.
+
+GRAZIANO
+Not on thy sole but on thy soul, harsh Jew,
+Thou mak’st thy knife keen. But no metal can,
+No, not the hangman’s axe, bear half the keenness
+Of thy sharp envy. Can no prayers pierce thee?
+
+SHYLOCK
+No, none that thou hast wit enough to make.
+
+GRAZIANO
+O, be thou damned, inexorable dog,
+And for thy life let justice be accused!
+Thou almost mak‘st me waver in my faith
+To hold opinion with Pythagoras
+That souls of animals infuse themselves
+Into the trunks of men. Thy currish spirit
+Governed a wolf who, hanged for human slaughter,
+Even from the gallows did his fell soul fleet,
+And, whilst thou lay’st in thy unhallowed dam,
+Infused itself in thee; for thy desires
+Are wolvish, bloody, starved, and ravenous.
+
+SHYLOCK
+Till thou canst rail the seal from off my bond
+Thou but offend’st thy lungs to speak so loud.
+Repair thy wit, good youth, or it will fall
+To cureless ruin. I stand here for law.
+
+DUKE
+This letter from Bellario doth commend
+A young and learned doctor to our court.
+Where is he?
+
+NERISSA He attendeth here hard by
+To know your answer, whether you’ll admit him.

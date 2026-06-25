@@ -2,7 +2,7 @@
 title: O Hymen! O Hymenee!
 author: Whitman
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 source: Authors/Whitman/_raw/036_O_Hymen_O_Hymenee.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # O Hymen! O Hymenee!
 
-*by Whitman*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Whitman*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > Brief apostrophe to the god of marriage, the swift fierce moment that would kill if prolonged; desire, marriage, transience, love as near-death.
@@ -25,12 +25,17 @@ tags:
 ## Connections
 
 **Topoi:** [[Carpe Diem]]
-**Motifs:** [[Desire (2)]], [[Marriage]]
+**Motifs:** [[Desire]], [[Marriage]]
 **Themes & Concepts:** [[Transience]], [[Lust Sexual Desire]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CHILDREN OF ADAM_
 
-!036_O_Hymen_O_Hymenee
+
+  O hymen! O hymenee! why do you tantalize me thus?
+  O why sting me for a swift moment only?
+  Why can you not continue? O why do you now cease?
+  Is it because if you continued beyond the swift moment you would
+      soon certainly kill me?

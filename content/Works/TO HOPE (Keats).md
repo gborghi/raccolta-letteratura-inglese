@@ -2,7 +2,7 @@
 title: TO HOPE
 author: Keats
 type: work
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Keats/_raw/006_TO_HOPE.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # TO HOPE
 
-*by Keats*  ·  **Cluster:** [[Grief and Loss · Melancholy · Elegy]]
+*by Keats*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > Personified ode to Hope as comforter against despondency and despair, ending in a patriotic prayer for England's liberty; melancholy answered by hope.
@@ -28,8 +28,62 @@ tags:
 **Themes & Concepts:** [[Melancholy]], [[Nationalism and Patriotism]], [[Joy]]
 **Forms & Genres:** [[Ode]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+When by my solitary hearth I sit,
+  And hateful thoughts enwrap my soul in gloom;
+When no fair dreams before my “mind’s eye” flit,
+  And the bare heath of life presents no bloom;
+    Sweet Hope, ethereal balm upon me shed,
+    And wave thy silver pinions o’er my head.
 
-!006_TO_HOPE
+Whene’er I wander, at the fall of night,
+  Where woven boughs shut out the moon’s bright ray,
+Should sad Despondency my musings fright,
+  And frown, to drive fair Cheerfulness away,
+    Peep with the moon-beams through the leafy roof,
+    And keep that fiend Despondence far aloof.
+
+Should Disappointment, parent of Despair,
+  Strive for her son to seize my careless heart;
+When, like a cloud, he sits upon the air,
+  Preparing on his spell-bound prey to dart:
+    Chace him away, sweet Hope, with visage bright,
+    And fright him as the morning frightens night!
+
+Whene’er the fate of those I hold most dear
+  Tells to my fearful breast a tale of sorrow,
+O bright-eyed Hope, my morbid fancy cheer;
+  Let me awhile thy sweetest comforts borrow:
+    Thy heaven-born radiance around me shed,
+    And wave thy silver pinions o’er my head!
+
+Should e’er unhappy love my bosom pain,
+  From cruel parents, or relentless fair;
+O let me think it is not quite in vain
+  To sigh out sonnets to the midnight air!
+    Sweet Hope, ethereal balm upon me shed.
+    And wave thy silver pinions o’er my head!
+
+In the long vista of the years to roll,
+  Let me not see our country’s honour fade:
+O let me see our land retain her soul,
+  Her pride, her freedom; and not freedom’s shade.
+    From thy bright eyes unusual brightness shed —
+    Beneath thy pinions canopy my head!
+
+Let me not see the patriot’s high bequest,
+  Great Liberty! how great in plain attire!
+With the base purple of a court oppress’d,
+  Bowing her head, and ready to expire:
+    But let me see thee stoop from heaven on wings
+    That fill the skies with silver glitterings!
+
+And as, in sparkling majesty, a star
+  Gilds the bright summit of some gloomy cloud;
+Brightening the half veil’d face of heaven afar:
+  So, when dark thoughts my boding spirit shroud,
+    Sweet Hope, celestial influence round me shed,
+    Waving thy silver pinions o’er my head.
+
+February, 1815.

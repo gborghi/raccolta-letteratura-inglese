@@ -2,7 +2,7 @@
 title: With All Thy Gifts
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/226_With_All_Thy_Gifts.md
 tags:
   - graph/work
@@ -16,19 +16,28 @@ tags:
 
 # With All Thy Gifts
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · The First World War · Flags and Banners]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Apostrophe to a powerful, wealthy America asking whether it lacks the one gift of perfect women and mothers fit for it.
 
 ## Connections
 
-**Archetypes:** [[The Great Mother]]
+**Archetypes:** [[Great Mother]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Democracy]], [[Critique of Progress]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!226_With_All_Thy_Gifts
+
+  With all thy gifts America,
+  Standing secure, rapidly tending, overlooking the world,
+  Power, wealth, extent, vouchsafed to thee--with these and like of
+      these vouchsafed to thee,
+  What if one gift thou lackest? (the ultimate human problem never solving,)
+  The gift of perfect women fit for thee--what if that gift of gifts
+      thou lackest?
+  The towering feminine of thee? the beauty, health, completion, fit for thee?
+  The mothers fit for thee?

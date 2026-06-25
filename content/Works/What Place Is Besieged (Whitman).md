@@ -2,7 +2,7 @@
 title: What Place Is Besieged?
 author: Whitman
 type: work
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/019_What_Place_Is_Besieged.md
 tags:
   - graph/work
@@ -16,21 +16,25 @@ tags:
 
 # What Place Is Besieged?
 
-*by Whitman*  ·  **Cluster:** [[Swords and Weapons · The Battlefield · Horse]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Brief martial allegory: to a besieged place the poet sends an immortal commander with artillery; war imagery, the poet-hero, weapons.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Archetypes:** [[Hero]]
 **Motifs:** [[Swords and Weapons]]
 **Forms & Genres:** [[Free Verse]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!019_What_Place_Is_Besieged
+
+  What place is besieged, and vainly tries to raise the siege?
+  Lo, I send to that place a commander, swift, brave, immortal,
+  And with him horse and foot, and parks of artillery,
+  And artillery-men, the deadliest that ever fired gun.

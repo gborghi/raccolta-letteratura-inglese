@@ -1,7 +1,7 @@
 ---
 title: Bildungsroman
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Education · Self-Made Man · Wheel
 tags:
   - graph/form
 ---

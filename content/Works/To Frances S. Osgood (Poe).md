@@ -2,7 +2,7 @@
 title: To Frances S. Osgood
 author: Poe
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Poe/_raw/To Frances S. Osgood.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
 
 # To Frances S. Osgood
 
-*by Poe*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > A short complimentary love lyric counselling the beloved to remain exactly as she is to be endlessly praised and loved. Themes of love, beauty and constancy.
@@ -26,8 +26,15 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Thou wouldst be loved?—then let thy heart
+         From its present pathway part not!
+     Being everything which now thou art,
+         Be nothing which thou art not.
+     So with the world thy gentle ways,
+         Thy grace, thy more than beauty,
+     Shall be an endless theme of praise,
+         And love—a simple duty.
 
-!To Frances S. Osgood
+      1845.

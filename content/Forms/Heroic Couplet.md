@@ -1,7 +1,7 @@
 ---
 title: Heroic Couplet
 type: form
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Imagination · Fragment · Heroic Couplet
 tags:
   - graph/form
 ---

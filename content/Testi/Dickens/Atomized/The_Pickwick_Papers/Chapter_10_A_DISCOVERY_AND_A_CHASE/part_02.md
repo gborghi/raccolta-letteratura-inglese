@@ -1,0 +1,165 @@
+---
+title: "The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Pickwick-Papers-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_10_A_DISCOVERY_AND_A_CHASE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_10_A_DISCOVERY_AND_A_CHASE/part_03">part 03 ›</a></div>
+</nav>
+
+
+‘Pretty situation,’ thought Mr. Pickwick, when he had had a moment’s
+time for reflection. ‘Pretty situation for the general chairman of the
+Pickwick Club. Damp chaise--strange horses--fifteen miles an hour--and
+twelve o’clock at night!’
+
+For the first three or four miles, not a word was spoken by either of
+the gentlemen, each being too much immersed in his own reflections to
+address any observations to his companion. When they had gone over that
+much ground, however, and the horses getting thoroughly warmed began to
+do their work in really good style, Mr. Pickwick became too much
+exhilarated with the rapidity of the motion, to remain any longer
+perfectly mute.
+
+‘We’re sure to catch them, I think,’ said he.
+
+‘Hope so,’ replied his companion.
+
+‘Fine night,’ said Mr. Pickwick, looking up at the moon, which was
+shining brightly.
+
+‘So much the worse,’ returned Wardle; ‘for they’ll have had all the
+advantage of the moonlight to get the start of us, and we shall lose it.
+It will have gone down in another hour.’
+
+‘It will be rather unpleasant going at this rate in the dark, won’t it?’
+inquired Mr. Pickwick.
+
+‘I dare say it will,’ replied his friend dryly.
+
+Mr. Pickwick’s temporary excitement began to sober down a little, as he
+reflected upon the inconveniences and dangers of the expedition in which
+he had so thoughtlessly embarked. He was roused by a loud shouting of
+the post-boy on the leader.
+
+‘Yo-yo-yo-yo-yoe!’ went the first boy.
+
+‘Yo-yo-yo-yoe!’ went the second.
+
+‘Yo-yo-yo-yoe!’ chimed in old Wardle himself, most lustily, with his
+head and half his body out of the coach window.
+
+‘Yo-yo-yo-yoe!’ shouted Mr. Pickwick, taking up the burden of the cry,
+though he had not the slightest notion of its meaning or object. And
+amidst the yo-yoing of the whole four, the chaise stopped.
+
+‘What’s the matter?’ inquired Mr. Pickwick.
+
+‘There’s a gate here,’ replied old Wardle. ‘We shall hear something of
+the fugitives.’
+
+After a lapse of five minutes, consumed in incessant knocking and
+shouting, an old man in his shirt and trousers emerged from the
+turnpike-house, and opened the gate.
+
+‘How long is it since a post-chaise went through here?’ inquired Mr.
+Wardle.
+
+‘How long?’
+
+‘Ah!’
+
+‘Why, I don’t rightly know. It worn’t a long time ago, nor it worn’t a
+short time ago--just between the two, perhaps.’
+
+‘Has any chaise been by at all?’
+
+‘Oh, yes, there’s been a chay by.’
+
+‘How long ago, my friend,’ interposed Mr. Pickwick; ‘an hour?’
+
+‘Ah, I dare say it might be,’ replied the man.
+
+‘Or two hours?’ inquired the post--boy on the wheeler.
+
+‘Well, I shouldn’t wonder if it was,’ returned the old man doubtfully.
+
+‘Drive on, boys,’ cried the testy old gentleman; ‘don’t waste any more
+time with that old idiot!’
+
+‘Idiot!’ exclaimed the old man with a grin, as he stood in the middle of
+the road with the gate half-closed, watching the chaise which rapidly
+diminished in the increasing distance. ‘No--not much o’ that either;
+you’ve lost ten minutes here, and gone away as wise as you came, arter
+all. If every man on the line as has a guinea give him, earns it half as
+well, you won’t catch t’other chay this side Mich’lmas, old short-and-
+fat.’ And with another prolonged grin, the old man closed the gate, re-
+entered his house, and bolted the door after him.
+
+Meanwhile the chaise proceeded, without any slackening of pace, towards
+the conclusion of the stage. The moon, as Wardle had foretold, was
+rapidly on the wane; large tiers of dark, heavy clouds, which had been
+gradually overspreading the sky for some time past, now formed one black
+mass overhead; and large drops of rain which pattered every now and then
+against the windows of the chaise, seemed to warn the travellers of the
+rapid approach of a stormy night. The wind, too, which was directly
+against them, swept in furious gusts down the narrow road, and howled
+dismally through the trees which skirted the pathway. Mr. Pickwick drew
+his coat closer about him, coiled himself more snugly up into the corner
+of the chaise, and fell into a sound sleep, from which he was only
+awakened by the stopping of the vehicle, the sound of the hostler’s
+bell, and a loud cry of ‘Horses on directly!’
+
+But here another delay occurred. The boys were sleeping with such
+mysterious soundness, that it took five minutes a-piece to wake them.
+The hostler had somehow or other mislaid the key of the stable, and even
+when that was found, two sleepy helpers put the wrong harness on the
+wrong horses, and the whole process of harnessing had to be gone through
+afresh. Had Mr. Pickwick been alone, these multiplied obstacles would
+have completely put an end to the pursuit at once, but old Wardle was
+not to be so easily daunted; and he laid about him with such hearty
+good-will, cuffing this man, and pushing that; strapping a buckle here,
+and taking in a link there, that the chaise was ready in a much shorter
+time than could reasonably have been expected, under so many
+difficulties.
+
+They resumed their journey; and certainly the prospect before them was
+by no means encouraging. The stage was fifteen miles long, the night was
+dark, the wind high, and the rain pouring in torrents. It was impossible
+to make any great way against such obstacles united; it was hard upon
+one o’clock already; and nearly two hours were consumed in getting to
+the end of the stage. Here, however, an object presented itself, which
+rekindled their hopes, and reanimated their drooping spirits.
+
+‘When did this chaise come in?’ cried old Wardle, leaping out of his own
+vehicle, and pointing to one covered with wet mud, which was standing in
+the yard.
+
+‘Not a quarter of an hour ago, sir,’ replied the hostler, to whom the
+question was addressed.
+
+‘Lady and gentleman?’ inquired Wardle, almost breathless with
+impatience.
+
+‘Yes, sir.’
+
+‘Tall gentleman--dress-coat--long legs--thin body?’
+
+‘Yes, sir.’
+
+‘Elderly lady--thin face--rather skinny--eh?’
+
+‘Yes, sir.’
+
+‘By heavens, it’s the couple, Pickwick,’ exclaimed the old gentleman.
+
+‘Would have been here before,’ said the hostler, ‘but they broke a
+trace.’

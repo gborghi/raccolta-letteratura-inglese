@@ -28,8 +28,20 @@ tags:
 **Forms & Genres:** [[Sonnet]], [[Satire]]
 **Settings:** [[Scotland the Highlands]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!106_Sonnet_on_Hearing_the_Bagpipe_and
+Seeing ‘The Stranger’ Played at Inverary
+Of late two dainties were before me plac’d
+Sweet, holy, pure, sacred and innocent,
+From the ninth sphere to me benignly sent
+That Gods might know my own particular taste:
+First the soft Bagpipe moum’d with zealous haste,
+The Stranger next with head on bosom bent
+Sigh’d; rueful again the piteous Bagpipe went,
+Again the Stranger sighings fresh did waste.
+O Bagpipe thou didst steal my heart away -
+O Stranger thou my nerves from Pipe didst charm - 10
+O Bagpipe thou didst reassert thy sway -
+Again thou Stranger gav’st me fresh alarm -
+Alas! I could not choose. Ah! my poor heart.
+Mum chance art thou with both oblig’d to part.

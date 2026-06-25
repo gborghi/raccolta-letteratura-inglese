@@ -1,7 +1,7 @@
 ---
 title: Mock Epic
 type: form
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/form
 ---

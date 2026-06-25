@@ -2,7 +2,7 @@
 title: praise of dust
 author: Chesterton
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Chesterton/_raw/praise_of_dust.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
 
 # praise of dust
 
-*by Chesterton*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A lyric in which despised 'vile dust' speaks back, proclaiming the living glory of the created world and the promise that God will make of dust 'a fairer face than heaven'; on humility, mortality and wonder.
@@ -32,10 +32,49 @@ tags:
 **Motifs:** [[Dust]], [[Flowers]], [[White and Red]]
 **Themes & Concepts:** [[Humility]], [[Mortality]], [[Wonder and Gratitude]], [[Grace and Redemption]]
 **Forms & Genres:** [[Lyric]]
-**Historical References:** [[The Bible]]
+**Historical References:** [[Bible]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+The Praise Of Dust
 
-!praise_of_dust
+G. K. Chesterton
+
+"What of vile dust?" the preacher said.
+  Methought the whole world woke,
+The dead stone lived beneath my foot,
+  And my whole body spoke.
+
+"You, that play tyrant to the dust,
+  And stamp its wrinkled face,
+This patient star that flings you not
+  Far into homeless space.
+
+"Come down out of your dusty shrine
+  The living dust to see,
+The flowers that at your sermon's end
+  Stand blazing silently.
+
+"Rich white and blood-red blossom; stones,
+  Lichens like fire encrust;
+A gleam of blue, a glare of gold,
+  The vision of the dust.
+
+"Pass them all by: till, as you come
+  Where, at a city's edge,
+Under a tree--I know it well--
+  Under a lattice ledge,
+
+"The sunshine falls on one brown head.
+  You, too, O cold of clay,
+Eater of stones, may haply hear
+  The trumpets of that day
+
+"When God to all his paladins
+  By his own splendour swore
+To make a fairer face than heaven,
+  Of dust and nothing more."
+
+
+
+===== FINE FILE: praise_of_dust.txt =====

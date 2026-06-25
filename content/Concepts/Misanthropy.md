@@ -1,7 +1,7 @@
 ---
 title: Misanthropy
 type: concept
-cluster: Power and Corruption · The Crown · Pride
+cluster: Misanthropy
 tags:
   - graph/concept
 ---

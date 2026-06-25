@@ -1,0 +1,147 @@
+---
+title: "ball and cross — The Other Philosopher (part 1)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/ball-and-cross-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# ball and cross — The Other Philosopher (part 1)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_05_The_Peacemaker/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_06_The_Other_Philosopher/part_02">part 02 ›</a></div>
+</nav>
+
+
+VI.  THE OTHER PHILOSOPHER
+
+Between high hedges in Hertfordshire, hedges so high as to create a kind
+of grove, two men were running.  They did not run in a scampering
+or feverish manner, but in the steady swing of the pendulum.
+Across the great plains and uplands to the right and left of
+the lane, a long tide of sunset light rolled like a sea of ruby,
+lighting up the long terraces of the hills and picking out the few
+windows of the scattered hamlets in startling blood-red sparks.
+But the lane was cut deep in the hill and remained in an abrupt shadow.
+The two men running in it had an impression not uncommonly experienced
+between those wild green English walls; a sense of being led between
+the walls of a maze.
+
+Though their pace was steady it was vigorous; their faces were heated
+and their eyes fixed and bright.  There was, indeed, something a little
+mad in the contrast between the evening's stillness over the empty
+country-side, and these two figures fleeing wildly from nothing.
+They had the look of two lunatics, possibly they were.
+
+"Are you all right?" said Turnbull, with civility.  "Can you
+keep this up?"
+
+"Quite easily, thank you," replied MacIan.  "I run very well."
+
+"Is that a qualification in a family of warriors?" asked Turnbull.
+
+"Undoubtedly. Rapid movement is essential," answered MacIan,
+who never saw a joke in his life.
+
+Turnbull broke out into a short laugh, and silence fell between them,
+the panting silence of runners.
+
+Then MacIan said:  "We run better than any of those policemen.
+They are too fat.  Why do you make your policemen so fat?"
+
+"I didn't do much towards making them fat myself," replied Turnbull,
+genially, "but I flatter myself that I am now doing something towards
+making them thin.  You'll see they will be as lean as rakes by the time
+they catch us.  They will look like your friend, Cardinal Manning."
+
+"But they won't catch us," said MacIan, in his literal way.
+
+"No, we beat them in the great military art of running away,"
+returned the other.  "They won't catch us unless----"
+
+MacIan turned his long equine face inquiringly.  "Unless what?"
+he said, for Turnbull had gone silent suddenly, and seemed to be
+listening intently as he ran as a horse does with his ears turned back.
+
+"Unless what?" repeated the Highlander.
+
+"Unless they do--what they have done.  Listen."  MacIan slackened
+his trot, and turned his head to the trail they had left behind them.
+Across two or three billows of the up and down lane came along
+the ground the unmistakable throbbing of horses' hoofs.
+
+"They have put the mounted police on us," said Turnbull, shortly.
+"Good Lord, one would think we were a Revolution."
+
+"So we are," said MacIan calmly.  "What shall we do?
+Shall we turn on them with our points?"
+
+"It may come to that," answered Turnbull, "though if it does,
+I reckon that will be the last act.  We must put it off if we can."
+And he stared and peered about him between the bushes.
+"If we could hide somewhere the beasts might go by us," he said.
+"The police have their faults, but thank God they're inefficient.
+Why, here's the very thing.  Be quick and quiet.  Follow me."
+
+He suddenly swung himself up the high bank on one side of the lane.
+It was almost as high and smooth as a wall, and on the top of it
+the black hedge stood out over them as an angle, almost like a thatched
+roof of the lane.  And the burning evening sky looked down at them
+through the tangle with red eyes as of an army of goblins.
+
+Turnbull hoisted himself up and broke the hedge with his body.
+As his head and shoulders rose above it they turned to flame
+in the full glow as if lit up by an immense firelight.
+His red hair and beard looked almost scarlet, and his pale face
+as bright as a boy's. Something violent, something that was at once
+love and hatred, surged in the strange heart of the Gael below him.
+He had an unutterable sense of epic importance, as if he were somehow
+lifting all humanity into a prouder and more passionate region
+of the air.  As he swung himself up also into the evening light
+he felt as if he were rising on enormous wings.
+
+Legends of the morning of the world which he had heard in childhood
+or read in youth came back upon him in a cloudy splendour,
+purple tales of wrath and friendship, like Roland and Oliver,
+or Balin and Balan, reminding him of emotional entanglements.
+Men who had loved each other and then fought each other;
+men who had fought each other and then loved each other,
+together made a mixed but monstrous sense of momentousness.
+The crimson seas of the sunset seemed to him like a bursting out
+of some sacred blood, as if the heart of the world had broken.
+
+Turnbull was wholly unaffected by any written or spoken poetry;
+his was a powerful and prosaic mind.  But even upon him there came
+for the moment something out of the earth and the passionate ends
+of the sky.  The only evidence was in his voice, which was still
+practical but a shade more quiet.
+
+"Do you see that summer-house-looking thing over there?"
+he asked shortly.  "That will do for us very well."
+
+Keeping himself free from the tangle of the hedge he strolled across
+a triangle of obscure kitchen garden, and approached a dismal shed
+or lodge a yard or two beyond it.  It was a weather-stained hut
+of grey wood, which with all its desolation retained a tag or two
+of trivial ornament, which suggested that the thing had once been
+a sort of summer-house, and the place probably a sort of garden.
+
+"That is quite invisible from the road," said Turnbull, as he entered it,
+"and it will cover us up for the night."
+
+MacIan looked at him gravely for a few moments.  "Sir," he said,
+"I ought to say something to you.  I ought to say----"
+
+"Hush," said Turnbull, suddenly lifting his hand; "be still, man."
+
+In the sudden silence, the drumming of the distant horses grew
+louder and louder with inconceivable rapidity, and the cavalcade
+of police rushed by below them in the lane, almost with the roar
+and rattle of an express train.
+
+"I ought to tell you," continued MacIan, still staring stolidly
+at the other, "that you are a great chief, and it is good to go
+to war behind you."

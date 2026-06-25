@@ -27,8 +27,11 @@ tags:
 **Themes & Concepts:** [[Satire of Society]], [[Power and Corruption]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!320_ON_SIR_RUBICUND_NASO
+A COURT ALDERMAN AND WHISPERER OF SECRETS
+Speak out, Sir! you’re safe, for so ruddy your nose
+That, talk where you will, ‘tis all under the Rose.
+First published in Morning Post, Dec. 7, 1799. Included in Essays,
+&c., iii. 975. First collected Poems, 1907. Compare Lessing’s
+Sinngedicht No. 35. Auf eine lange Nase.

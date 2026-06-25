@@ -2,7 +2,7 @@
 title: After the Sea-Ship
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Sea · Water · Sea
 source: Authors/Whitman/_raw/112_After_the_Sea_Ship.md
 tags:
   - graph/work
@@ -17,19 +17,32 @@ tags:
 
 # After the Sea-Ship
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
 > The wake of a sea-ship and its frolicking procession of waves; a sensuous free-verse lyric on the sea, ships, water and motion.
 
 ## Connections
 
-**Motifs:** [[The Sea]], [[Water]], [[Wind]]
+**Motifs:** [[Sea]], [[Water]], [[Wind]]
 **Forms & Genres:** [[Free Verse]], [[Lyric]]
-**Settings:** [[A Ship]]
+**Settings:** [[Ship]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SEA-DRIFT_
 
-!112_After_the_Sea_Ship
+
+  After the sea-ship, after the whistling winds,
+  After the white-gray sails taut to their spars and ropes,
+  Below, a myriad myriad waves hastening, lifting up their necks,
+  Tending in ceaseless flow toward the track of the ship,
+  Waves of the ocean bubbling and gurgling, blithely prying,
+  Waves, undulating waves, liquid, uneven, emulous waves,
+  Toward that whirling current, laughing and buoyant, with curves,
+  Where the great vessel sailing and tacking displaced the surface,
+  Larger and smaller waves in the spread of the ocean yearnfully flowing,
+  The wake of the sea-ship after she passes, flashing and frolicsome
+      under the sun,
+  A motley procession with many a fleck of foam and many fragments,
+  Following the stately and rapid ship, in the wake following.

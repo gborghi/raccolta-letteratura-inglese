@@ -1,0 +1,17 @@
+---
+title: Hermione
+type: character
+cluster: Blank Verse · Tragicomedy · Romance Play
+tags:
+  - graph/character
+---
+
+# Hermione
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Hermione"></div>
+
+#graph/character

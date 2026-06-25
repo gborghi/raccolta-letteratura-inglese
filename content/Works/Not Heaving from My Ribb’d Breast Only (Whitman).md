@@ -2,7 +2,7 @@
 title: Not Heaving from My Ribb’d Breast Only
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/048_Not_Heaving_from_My_Ribb_d_Breast_Only.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Not Heaving from My Ribb’d Breast Only
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Anaphoric Calamus lyric of bodily longing ('O adhesiveness! O pulse of my life!') locating comradely love not in the body alone but in song; desire, self and soul, the body.
@@ -25,11 +25,30 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[The Body]], [[Comradeship]], [[Self-Knowledge]]
+**Themes & Concepts:** [[Lust Sexual Desire]], [[Body]], [[Comradeship]], [[Self-Knowledge]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!048_Not_Heaving_from_My_Ribb_d_Breast_Only
+
+  Not heaving from my ribb’d breast only,
+  Not in sighs at night in rage dissatisfied with myself,
+  Not in those long-drawn, ill-supprest sighs,
+  Not in many an oath and promise broken,
+  Not in my wilful and savage soul’s volition,
+  Not in the subtle nourishment of the air,
+  Not in this beating and pounding at my temples and wrists,
+  Not in the curious systole and diastole within which will one day cease,
+  Not in many a hungry wish told to the skies only,
+  Not in cries, laughter, defiancies, thrown from me when alone far in
+      the wilds,
+  Not in husky pantings through clinch’d teeth,
+  Not in sounded and resounded words, chattering words, echoes, dead words,
+  Not in the murmurs of my dreams while I sleep,
+  Nor the other murmurs of these incredible dreams of every day,
+  Nor in the limbs and senses of my body that take you and dismiss you
+      continually--not there,
+  Not in any or all of them O adhesiveness! O pulse of my life!
+  Need I that you exist and show yourself any more than in these songs.

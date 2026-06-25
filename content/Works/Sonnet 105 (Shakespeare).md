@@ -2,7 +2,7 @@
 title: Sonnet 105
 author: Shakespeare
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Shakespeare/Sonnets/Sonnet_105.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 105
 
-*by Shakespeare*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > Love defended against idolatry; the verse confined to constancy sings 'fair, kind, and true', love as quasi-religious devotion.
@@ -31,8 +31,19 @@ tags:
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 **Historical References:** [[Christianity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_105
+Let not my love be called idolatry, 
+Nor my belovèd as an idol show, 
+Since all alike my songs and praises be 
+To one, of one, still such, and ever so. 
+Kind is my love today, tomorrow kind, 
+Still constant in a wondrous excellence. 
+Therefore my verse, to constancy confined, 
+One thing expressing, leaves out difference. 
+‘Fair, kind, and true’ is all my argument, 
+‘Fair, kind, and true’ varying to other words, 
+And in this change is my invention spent, 
+Three themes in one, which wondrous scope affords. 
+Fair, kind, and true have often lived alone, 
+Which three till now never kept seat in one.

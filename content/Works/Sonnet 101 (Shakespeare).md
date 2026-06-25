@@ -2,7 +2,7 @@
 title: Sonnet 101
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Shakespeare/Sonnets/Sonnet_101.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 101
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > The truant muse is taught to immortalize truth and beauty in verse, making the beloved outlive a gilded tomb.
@@ -26,12 +26,23 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[The Grave]]
-**Themes & Concepts:** [[Beauty and Truth]], [[Immortality of Art Fame]], [[The Artist and Society (2)]]
+**Motifs:** [[Grave]]
+**Themes & Concepts:** [[Beauty and Truth]], [[Immortality of Art Fame]], [[Artist and Society]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_101
+O truant muse, what shall be thy amends 
+For thy neglect of truth in beauty dyed? 
+Both truth and beauty on my love depends; 
+So dost thou too, and therein dignified. 
+Make answer, muse. Wilt thou not haply say 
+‘Truth needs no colour with his colour fixed, 
+Beauty no pencil beauty’s truth to lay, 
+But best is best if never intermixed’? 
+Because he needs no praise wilt thou be dumb? 
+Excuse not silence so, for’t lies in thee 
+To make him much outlive a gilded tomb, 
+And to be praised of ages yet to be. 
+Then do thy office, muse; I teach thee how 
+To make him seem long hence as he shows now.

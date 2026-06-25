@@ -2,7 +2,7 @@
 title: Sonnet 111
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_111.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 111
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Blaming Fortune for public means that stained his name like the dyer's hand; he drinks bitter potions of penance, cured by the friend's pity.
@@ -28,11 +28,22 @@ tags:
 
 **Topoi:** [[Fortune's Wheel]]
 **Motifs:** [[Wine and Drink]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Guilt]], [[Grace and Redemption]], [[Alienation]]
+**Themes & Concepts:** [[Artist and Society]], [[Guilt]], [[Grace and Redemption]], [[Alienation]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_111
+O, for my sake do you with fortune chide, 
+The guilty goddess of my harmful deeds, 
+That did not better for my life provide 
+Than public means which public manners breeds. 
+Thence comes it that my name receives a brand, 
+And almost thence my nature is subdued 
+To what it works in, like the dyer’s hand. 
+Pity me then, and wish I were renewed, 
+Whilst like a willing patient I will drink 
+Potions of eisel ’gainst my strong infection; 
+No bitterness that I will bitter think, 
+Nor double penance to correct correction. 
+Pity me then, dear friend, and I assure ye 
+Even that your pity is enough to cure me.

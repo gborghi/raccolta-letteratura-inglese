@@ -1,0 +1,128 @@
+---
+title: "Bleak House — Chapter 52 (part 4)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Bleak-House-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Bleak House — Chapter 52 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_52/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_53/part_01">part 01 ›</a></div>
+</nav>
+
+
+“’Tis curious,” said he. “And yet I thought so at the time!”
+
+My guardian asked him what he meant.
+
+“Why, sir,” he answered, “when my ill fortune took me to the dead
+man’s staircase on the night of his murder, I saw a shape so like
+Miss Summerson’s go by me in the dark that I had half a mind to speak
+to it.”
+
+For an instant I felt such a shudder as I never felt before or since
+and hope I shall never feel again.
+
+“It came downstairs as I went up,” said the trooper, “and crossed the
+moonlighted window with a loose black mantle on; I noticed a deep
+fringe to it. However, it has nothing to do with the present subject,
+excepting that Miss Summerson looked so like it at the moment that it
+came into my head.”
+
+I cannot separate and define the feelings that arose in me after
+this; it is enough that the vague duty and obligation I had felt upon
+me from the first of following the investigation was, without my
+distinctly daring to ask myself any question, increased, and that I
+was indignantly sure of there being no possibility of a reason for my
+being afraid.
+
+We three went out of the prison and walked up and down at some short
+distance from the gate, which was in a retired place. We had not
+waited long when Mr. and Mrs. Bagnet came out too and quickly joined
+us.
+
+There was a tear in each of Mrs. Bagnet’s eyes, and her face was
+flushed and hurried. “I didn’t let George see what I thought about
+it, you know, miss,” was her first remark when she came up, “but he’s
+in a bad way, poor old fellow!”
+
+“Not with care and prudence and good help,” said my guardian.
+
+“A gentleman like you ought to know best, sir,” returned Mrs. Bagnet,
+hurriedly drying her eyes on the hem of her grey cloak, “but I am
+uneasy for him. He has been so careless and said so much that he
+never meant. The gentlemen of the juries might not understand him as
+Lignum and me do. And then such a number of circumstances have
+happened bad for him, and such a number of people will be brought
+forward to speak against him, and Bucket is so deep.”
+
+“With a second-hand wiolinceller. And said he played the fife. When a
+boy,” Mr. Bagnet added with great solemnity.
+
+“Now, I tell you, miss,” said Mrs. Bagnet; “and when I say miss, I
+mean all! Just come into the corner of the wall and I’ll tell you!”
+
+Mrs. Bagnet hurried us into a more secluded place and was at first
+too breathless to proceed, occasioning Mr. Bagnet to say, “Old girl!
+Tell ’em!”
+
+“Why, then, miss,” the old girl proceeded, untying the strings of her
+bonnet for more air, “you could as soon move Dover Castle as move
+George on this point unless you had got a new power to move him with.
+And I have got it!”
+
+“You are a jewel of a woman,” said my guardian. “Go on!”
+
+“Now, I tell you, miss,” she proceeded, clapping her hands in her
+hurry and agitation a dozen times in every sentence, “that what he
+says concerning no relations is all bosh. They don’t know of him, but
+he does know of them. He has said more to me at odd times than to
+anybody else, and it warn’t for nothing that he once spoke to my
+Woolwich about whitening and wrinkling mothers’ heads. For fifty
+pounds he had seen his mother that day. She’s alive and must be
+brought here straight!”
+
+Instantly Mrs. Bagnet put some pins into her mouth and began pinning
+up her skirts all round a little higher than the level of her grey
+cloak, which she accomplished with surpassing dispatch and dexterity.
+
+“Lignum,” said Mrs. Bagnet, “you take care of the children, old man,
+and give me the umbrella! I’m away to Lincolnshire to bring that old
+lady here.”
+
+“But, bless the woman,” cried my guardian with his hand in his
+pocket, “how is she going? What money has she got?”
+
+Mrs. Bagnet made another application to her skirts and brought forth
+a leathern purse in which she hastily counted over a few shillings
+and which she then shut up with perfect satisfaction.
+
+“Never you mind for me, miss. I’m a soldier’s wife and accustomed to
+travel my own way. Lignum, old boy,” kissing him, “one for yourself,
+three for the children. Now I’m away into Lincolnshire after George’s
+mother!”
+
+And she actually set off while we three stood looking at one another
+lost in amazement. She actually trudged away in her grey cloak at a
+sturdy pace, and turned the corner, and was gone.
+
+“Mr. Bagnet,” said my guardian. “Do you mean to let her go in that
+way?”
+
+“Can’t help it,” he returned. “Made her way home once from another
+quarter of the world. With the same grey cloak. And same umbrella.
+Whatever the old girl says, do. Do it! Whenever the old girl says,
+I’LL do it. She does it.”
+
+“Then she is as honest and genuine as she looks,” rejoined my
+guardian, “and it is impossible to say more for her.”
+
+“She’s Colour-Sergeant of the Nonpareil battalion,” said Mr. Bagnet,
+looking at us over his shoulder as he went his way also. “And there’s
+not such another. But I never own to it before her. Discipline must
+be maintained.”

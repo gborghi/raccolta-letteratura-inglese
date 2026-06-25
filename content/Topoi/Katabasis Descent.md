@@ -1,7 +1,7 @@
 ---
 title: Katabasis / Descent
 type: topos
-cluster: The Journey · The Quest · The Pilgrim
+cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
 tags:
   - graph/topos
 ---

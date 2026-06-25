@@ -28,8 +28,14 @@ tags:
 **Forms & Genres:** [[Epigram]], [[Satire]]
 **Historical References:** [[Christianity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+A Broad Minded Bishop Rebukes The Verminous St. Francis
 
-!Broad_Minded_Bishop
+If Brother Francis pardoned Brother Flea,
+There still seems need of such strange charity,
+Seeing he is, for all his gay goodwill,
+Bitten by funny little creatures still.
+
+
+===== FINE FILE: Broad_Minded_Bishop.txt =====

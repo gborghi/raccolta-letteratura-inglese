@@ -2,7 +2,7 @@
 title: Delicate Cluster
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/178_Delicate_Cluster.md
 tags:
   - graph/work
@@ -17,20 +17,28 @@ tags:
 
 # Delicate Cluster
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · The First World War · Flags and Banners]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Drum-Taps apostrophe to the American flag as 'flag of life' and 'flag of death,' fusing battle, patriotism, and a maternal sacred emblem.
 
 ## Connections
 
-**Archetypes:** [[The Great Mother]]
-**Motifs:** [[The Flag]], [[Death (2)]]
+**Archetypes:** [[Great Mother]]
+**Motifs:** [[Flag]], [[Death]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!178_Delicate_Cluster
+
+  Delicate cluster! flag of teeming life!
+  Covering all my lands--all my seashores lining!
+  Flag of death! (how I watch’d you through the smoke of battle pressing!
+  How I heard you flap and rustle, cloth defiant!)
+  Flag cerulean--sunny flag, with the orbs of night dappled!
+  Ah my silvery beauty--ah my woolly white and crimson!
+  Ah to sing the song of you, my matron mighty!
+  My sacred one, my mother.

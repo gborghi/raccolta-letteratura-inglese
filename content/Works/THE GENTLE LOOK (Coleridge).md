@@ -2,7 +2,7 @@
 title: THE GENTLE LOOK
 author: Coleridge
 type: work
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Coleridge/_raw/045_THE_GENTLE_LOOK.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # THE GENTLE LOOK
 
-*by Coleridge*  ·  **Cluster:** [[Grief and Loss · Melancholy · Elegy]]
+*by Coleridge*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > Sonnet of lost love and vanished hope, the beloved's smile recalled in dream amid melancholy and a vale of tears; lyric on memory and transience.
@@ -30,8 +30,20 @@ tags:
 **Themes & Concepts:** [[Grief and Loss]], [[Melancholy]], [[Nostalgia]], [[Hope]], [[Transience]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!045_THE_GENTLE_LOOK
+Thou gentle Look, that didst my soul beguile,
+Why hast thou left me? Still in some fond dream
+Revisit my sad heart, auspicious Smile!
+As falls on closing flowers the lunar beam:
+What time, in sickly mood, at parting day   5
+I lay me down and think of happier years;
+Of joys, that glimmer’d in Hope’s twilight ray,
+Then left me darkling in a vale of tears.
+O pleasant days of Hope — for ever gone!
+Could I recall you! — But that thought is vain.   10
+Availeth not Persuasion’s sweetest tone
+To lure the fleet-wing’d Travellers back again:
+Yet fair, though faint, their images shall gleam
+Like the bright Rainbow on a willowy stream.
+? 1793.

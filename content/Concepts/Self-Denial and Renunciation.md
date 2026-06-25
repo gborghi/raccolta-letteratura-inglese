@@ -1,7 +1,7 @@
 ---
 title: Self-Denial and Renunciation
 type: concept
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/concept
 ---

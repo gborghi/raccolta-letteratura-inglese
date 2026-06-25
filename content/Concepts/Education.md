@@ -1,7 +1,7 @@
 ---
 title: Education
 type: concept
-cluster: Education · Spenserian Stanza
+cluster: Education · Self-Made Man · Wheel
 tags:
   - graph/concept
 ---

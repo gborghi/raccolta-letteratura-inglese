@@ -1,7 +1,7 @@
 ---
 title: Combat / Strife
 type: topos
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 tags:
   - graph/topos
 ---

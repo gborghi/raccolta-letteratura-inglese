@@ -1,7 +1,7 @@
 ---
 title: Seed and Germination
 type: motif
-cluster: Dreams · Sleep · Resurrection
+cluster: Sleep · Sleeper Awakes · Resurrection
 tags:
   - graph/motif
 ---

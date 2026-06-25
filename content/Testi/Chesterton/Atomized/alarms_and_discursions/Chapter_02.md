@@ -1,0 +1,59 @@
+---
+title: "alarms and discursions — Chapter 2"
+author: "Chesterton"
+unitType: chapter
+parentWork: "Works/alarms-and-discursions-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# alarms and discursions — Chapter 2
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/alarms-and-discursions-(Chesterton)">alarms and discursions</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_01">‹ Chapter 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_03">Chapter 03 ›</a></div>
+</nav>
+
+
+II
+
+But about this time the island was caught in a swarm of pirates;
+and the shepherds had to turn themselves into rude warriors and seamen;
+and at first they were utterly broken down in blood and shame;
+and the pirates might have taken the jewel flung up for ever from
+their sacred fount.  And then, after years of horror and humiliation,
+they gained a little and began to conquer because they did not
+mind defeat.  And the pride of the pirates went sick within them
+after a few unexpected foils; and at last the invasion rolled back
+into the empty seas and the island was delivered.  And for some reason
+after this men began to talk quite differently about the temple
+and the sun.  Some, indeed, said, "You must not touch the temple;
+it is classical; it is perfect, since it admits no imperfections."
+But the others answered, "In that it differs from the sun, that shines
+on the evil and the good and on mud and monsters everywhere.
+The temple is of the noon; it is made of white marble clouds
+and sapphire sky.  But the sun is not always of the noon.
+The sun dies daily, every night he is crucified in blood and fire."
+
+Now the priest had taught and fought through all the war,
+and his hair had grown white, but his eyes had grown young.
+And he said, "I was wrong and they are right.  The sun, the symbol
+of our father, gives life to all those earthly things that are full
+of ugliness and energy.  All the exaggerations are right, if they
+exaggerate the right thing.  Let us point to heaven with tusks
+and horns and fins and trunks and tails so long as they all point
+to heaven.  The ugly animals praise God as much as the beautiful.
+The frog's eyes stand out of his head because he is staring at heaven.
+The giraffe's neck is long because he is stretching towards heaven.
+The donkey has ears to hear--let him hear."
+
+And under the new inspiration they planned a gorgeous cathedral
+in the Gothic manner, with all the animals of the earth
+crawling over it, and all the possible ugly things making up
+one common beauty, because they all appealed to the god.
+The columns of the temple were carved like the necks of giraffes;
+the dome was like an ugly tortoise; and the highest pinnacle was
+a monkey standing on his head with his tail pointing at the sun.
+And yet the whole was beautiful, because it was lifted up in one
+living and religious gesture as a man lifts his hands in prayer.

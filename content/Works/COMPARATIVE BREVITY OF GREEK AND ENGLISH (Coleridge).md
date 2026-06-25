@@ -22,12 +22,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Money and Gold]], [[Death (2)]]
+**Motifs:** [[Money and Gold]], [[Death]]
 **Forms & Genres:** [[Epigram]]
 **Historical References:** [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!350_COMPARATIVE_BREVITY_OF_GREEK_AND_ENGLISH
+ÇÁÅÃx½ ½tÁ µQÁ|½ »¹Àµ ²ÁyÇ¿½, ±PÄpÁ A ÇÁÅÃx½
+E½ »wÀµ½ ¿PÇ µQÁ|½ 'Èµ½ E½ µWÁµ ²ÁyÇ¿½.
+Jack finding gold left a rope on the ground:
+Bill missing his gold used the rope which he found.
+First published in Omniana, 1812, ii. 123. First collected in P. and
+D. W. 1877, ii. 374.

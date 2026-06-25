@@ -1,7 +1,7 @@
 ---
 title: Stars
 type: motif
-cluster: Lyric · Flowers · Stars
+cluster: Stars · Night · Military Camp
 tags:
   - graph/motif
 ---

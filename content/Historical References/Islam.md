@@ -1,7 +1,7 @@
 ---
 title: Islam
 type: histref
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)
 tags:
   - graph/histref
 ---

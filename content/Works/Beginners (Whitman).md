@@ -2,7 +2,7 @@
 title: Beginners
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/011_Beginners.md
 tags:
   - graph/work
@@ -16,19 +16,28 @@ tags:
 
 # Beginners
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Meditation on great original souls who appear at intervals, dear and dreadful, fated and misvalued; the prophet/outcast and the price of greatness.
 
 ## Connections
 
-**Archetypes:** [[The Prophet]], [[The Scapegoat]]
+**Archetypes:** [[Prophet]], [[Scapegoat]]
 **Themes & Concepts:** [[Alienation]], [[Fate and Free Will]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!011_Beginners
+
+  How they are provided for upon the earth, (appearing at intervals,)
+  How dear and dreadful they are to the earth,
+  How they inure to themselves as much as to any--what a paradox
+      appears their age,
+  How people respond to them, yet know them not,
+  How there is something relentless in their fate all times,
+  How all times mischoose the objects of their adulation and reward,
+  And how the same inexorable price must still be paid for the same
+      great purchase.

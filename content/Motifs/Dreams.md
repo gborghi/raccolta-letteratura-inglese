@@ -1,7 +1,7 @@
 ---
 title: Dreams
 type: motif
-cluster: Dreams · Sleep · Resurrection
+cluster: Dreams · Moon
 tags:
   - graph/motif
 ---

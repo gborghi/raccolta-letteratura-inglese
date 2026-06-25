@@ -1,7 +1,7 @@
 ---
 title: Pastoral Retreat
 type: topos
-cluster: Nature vs Civilization · The Garden · Pastoral Retreat
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 tags:
   - graph/topos
 ---

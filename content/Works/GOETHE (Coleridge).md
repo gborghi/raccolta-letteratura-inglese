@@ -29,8 +29,15 @@ tags:
 **Forms & Genres:** [[Comic Verse Song]]
 **Settings:** [[Italy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!439_GOETHE
+Wilhelm Meister, Bk. III, Cap. 1. — Sämmtliche Werke, 1860, iii, p.
+194.
+Kennst du das Land, wo die Citronen blühn,
+Im dunkeln Laub die Goldorangen glühn,
+Ein sanfter Wind vom blauen Himmel weht,
+Die Myrte still und hoch der Lorbeer steht
+Dahin! Dahin   5
+Möcht’ ich mit dir, o mein Geliebter, ziehn.
+G
+[Vide ante, p. 311]

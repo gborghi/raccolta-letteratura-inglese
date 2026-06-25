@@ -1,7 +1,7 @@
 ---
 title: Democracy
 type: concept
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 tags:
   - graph/concept
 ---

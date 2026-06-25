@@ -1,7 +1,7 @@
 ---
 title: Love
 type: motif
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/motif
 ---

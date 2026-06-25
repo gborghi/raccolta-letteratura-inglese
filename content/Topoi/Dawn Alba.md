@@ -1,7 +1,7 @@
 ---
 title: Dawn / Alba
 type: topos
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Sun · Light and Dark · Fire
 tags:
   - graph/topos
 ---

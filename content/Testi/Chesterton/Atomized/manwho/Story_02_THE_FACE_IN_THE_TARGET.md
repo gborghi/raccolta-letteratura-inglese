@@ -1,0 +1,1637 @@
+---
+title: "manwho — THE FACE IN THE TARGET"
+author: "Chesterton"
+unitType: story
+parentWork: "Works/manwho-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# manwho — THE FACE IN THE TARGET
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_01_THE_MAN_WHO_KNEW_TOO_MUCH">‹ Story 01 THE MAN WHO KNEW TOO MUCH</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE">Story 03 THE VANISHING PRINCE ›</a></div>
+</nav>
+
+
+I. THE FACE IN THE TARGET
+
+
+
+Harold March, the rising reviewer and social critic, was walking
+
+vigorously across a great tableland of moors and commons, the
+
+horizon of which was fringed with the far-off woods of the famous
+
+estate of Torwood Park. He was a good-looking young man in tweeds,
+
+with very pale curly hair and pale clear eyes. Walking in wind and
+
+sun in the very landscape of liberty, he was still young enough to
+
+remember his politics and not merely try to forget them. For his
+
+errand at Torwood Park was a political one; it was the place of
+
+appointment named by no less a person than the Chancellor of the
+
+Exchequer, Sir Howard Horne, then introducing his so-called
+
+Socialist budget, and prepared to expound it in an interview with so
+
+promising a penman. Harold March was the sort of man who knows
+
+everything about politics, and nothing about politicians. He also
+
+knew a great deal about art, letters, philosophy, and general
+
+culture; about almost everything, indeed, except the world he was
+
+living in.
+
+
+
+Abruptly, in the middle of those sunny and windy flats, he came upon
+
+a sort of cleft almost narrow enough to be called a crack in the
+
+land. It was just large enough to be the water-course for a small
+
+stream which vanished at intervals under green tunnels of
+
+undergrowth, as if in a dwarfish forest. Indeed, he had an odd
+
+feeling as if he were a giant looking over the valley of the
+
+pygmies. When he dropped into the hollow, however, the impression
+
+was lost; the rocky banks, though hardly above the height of a
+
+cottage, hung over and had the profile of a precipice. As he began
+
+to wander down the course of the stream, in idle but romantic
+
+curiosity, and saw the water shining in short strips between the
+
+great gray boulders and bushes as soft as great green mosses, he
+
+fell into quite an opposite vein of fantasy. It was rather as if the
+
+earth had opened and swallowed him into a sort of underworld of
+
+dreams. And when he became conscious of a human figure dark against
+
+the silver stream, sitting on a large boulder and looking rather
+
+like a large bird, it was perhaps with some of the premonition's
+
+proper to a man who meets the strangest friendship of his life.
+
+
+
+The man was apparently fishing; or at least was fixed in a
+
+fisherman's attitude with more than a fisherman's immobility. March
+
+was able to examine the man almost as if he had been a statue for
+
+some minutes before the statue spoke. He was a tall, fair man,
+
+cadaverous, and a little lackadaisical, with heavy eyelids and a
+
+highbridged nose. When his face was shaded with his wide white hat,
+
+his light mustache and lithe figure gave him a look of youth. But
+
+the Panama lay on the moss beside him; and the spectator could see
+
+that his brow was prematurely bald; and this, combined with a
+
+certain hollowness about the eyes, had an air of headwork and even
+
+headache. But the most curious thing about him, realized after a
+
+short scrutiny, was that, though he looked like a fisherman, he was
+
+not fishing.
+
+
+
+He was holding, instead of a rod, something that might have been a
+
+landing-net which some fishermen use, but which was much more like
+
+the ordinary toy net which children carry, and which they generally
+
+use indifferently for shrimps or butterflies. He was dipping this
+
+into the water at intervals, gravely regarding its harvest of weed
+
+or mud, and emptying it out again.
+
+
+
+"No, I haven't caught anything," he remarked, calmly, as if
+
+answering an unspoken query. "When I do I have to throw it back
+
+again; especially the big fish. But some of the little beasts
+
+interest me when I get 'em."
+
+
+
+"A scientific interest, I suppose?" observed March.
+
+
+
+"Of a rather amateurish sort, I fear," answered the strange
+
+fisherman. "I have a sort of hobby about what they call 'phenomena
+
+of phosphorescence.' But it would be rather awkward to go about in
+
+society carrying stinking fish."
+
+
+
+"I suppose it would," said March, with a smile.
+
+
+
+"Rather odd to enter a drawing-room carrying a large luminous cod,"
+
+continued the stranger, in his listless way. "How quaint it would
+
+be if one could carry it about like a lantern, or have little sprats
+
+for candles. Some of the seabeasts would really be very pretty like
+
+lampshades; the blue sea-snail that glitters all over like
+
+starlight; and some of the red starfish really shine like red stars.
+
+But, naturally, I'm not looking for them here."
+
+
+
+March thought of asking him what he was looking for; but, feeling
+
+unequal to a technical discussion at least as deep as the deep-sea
+
+fishes, he returned to more ordinary topics.
+
+
+
+"Delightful sort of hole this is," he said.  "This little dell and
+
+river here. It's like those places Stevenson talks about, where
+
+something ought to happen."
+
+
+
+"I know," answered the other.  "I think it's because the place
+
+itself, so to speak, seems to happen and not merely to exist.
+
+Perhaps that's what old Picasso and some of the Cubists are trying
+
+to express by angles and jagged lines. Look at that wall like low
+
+cliffs that juts forward just at right angles to the slope of turf
+
+sweeping up to it. That's like a silent collision. It's like a
+
+breaker and the back-wash of a wave."
+
+
+
+March looked at the low-browed crag overhanging the green slope and
+
+nodded. He was interested in a man who turned so easily from the
+
+technicalities of science to those of art; and asked him if he
+
+admired the new angular artists.
+
+
+
+"As I feel it, the Cubists are not Cubist enough," replied the
+
+stranger. "I mean they're not thick enough. By making things
+
+mathematical they make them thin. Take the living lines out of that
+
+landscape, simplify it to a right angle, and you flatten it out to a
+
+mere diagram on paper. Diagrams have their own beauty; but it is of
+
+just the other sort. They stand for the unalterable things; the
+
+calm, eternal, mathematical sort of truths; what somebody calls the
+
+'white radiance of'--"
+
+
+
+He stopped, and before the next word came something had happened
+
+almost too quickly and completely to be realized. From behind the
+
+overhanging rock came a noise and rush like that of a railway train;
+
+and a great motor car appeared. It topped the crest of cliff, black
+
+against the sun, like a battle-chariot rushing to destruction in
+
+some wild epic. March automatically put out his hand in one futile
+
+gesture, as if to catch a falling tea-cup in a drawing-room.
+
+
+
+For the fraction of a flash it seemed to leave the ledge of rock
+
+like a flying ship; then the very sky seemed to turn over like a
+
+wheel, and it lay a ruin amid the tall grasses below, a line of gray
+
+smoke going up slowly from it into the silent air. A little lower
+
+the figure of a man with gray hair lay tumbled down the steep green
+
+slope, his limbs lying all at random, and his face turned away.
+
+
+
+The eccentric fisherman dropped his net and walked swiftly toward
+
+the spot, his new acquaintance following him. As they drew near
+
+there seemed a sort of monstrous irony in the fact that the dead
+
+machine was still throbbing and thundering as busily as a factory,
+
+while the man lay so still.
+
+
+
+He was unquestionably dead. The blood flowed in the grass from a
+
+hopelessly fatal fracture at the back of the skull; but the face,
+
+which was turned to the sun, was uninjured and strangely arresting
+
+in itself. It was one of those cases of a strange face so
+
+unmistakable as to feel familiar. We feel, somehow, that we ought to
+
+recognize it, even though we do not. It was of the broad, square
+
+sort with great jaws, almost like that of a highly intellectual ape;
+
+the wide mouth shut so tight as to be traced by a mere line; the
+
+nose short with the sort of nostrils that seem to gape with an
+
+appetite for the air. The oddest thing about the face was that one
+
+of the eyebrows was cocked up at a much sharper angle than the
+
+other. March thought he had never seen a face so naturally alive as
+
+that dead one. And its ugly energy seemed all the stranger for its
+
+halo of hoary hair. Some papers lay half fallen out of the pocket,
+
+and from among them March extracted a card-case. He read the name on
+
+the card aloud.
+
+
+
+"Sir Humphrey Turnbull. I'm sure I've heard that name somewhere."
+
+
+
+His companion only gave a sort of a little sigh and was silent for a
+
+moment, as if ruminating, then he merely said, "The poor fellow is
+
+quite gone," and added some scientific terms in which his auditor
+
+once more found himself out of his depth.
+
+
+
+"As things are," continued the same curiously well-informed person,
+
+"it will be more legal for us to leave the body as it is until the
+
+police are informed. In fact, I think it will be well if nobody
+
+except the police is informed. Don't be surprised if I seem to be
+
+keeping it dark from some of our neighbors round here." Then, as if
+
+prompted to regularize his rather abrupt confidence, he said: "I've
+
+come down to see my cousin at Torwood; my name is Horne Fisher.
+
+Might be a pun on my pottering about here, mightn't it?"
+
+
+
+"Is Sir Howard Horne your cousin?" asked March.  "I'm going to
+
+Torwood Park to see him myself; only about his public work, of
+
+course, and the wonderful stand he is making for his principles. I
+
+think this Budget is the greatest thing in English history. If it
+
+fails, it will be the most heroic failure in English history. Are
+
+you an admirer of your great kinsman, Mr. Fisher?"
+
+
+
+"Rather," said Mr. Fisher.  "He's the best shot I know."
+
+
+
+Then, as if sincerely repentant of his nonchalance, he added, with a
+
+sort of enthusiasm:
+
+
+
+"No, but really, he's a _beautiful_ shot."
+
+
+
+As if fired by his own words, he took a sort of leap at the ledges
+
+of the rock above him, and scaled them with a sudden agility in
+
+startling contrast to his general lassitude. He had stood for some
+
+seconds on the headland above, with his aquiline profile under the
+
+Panama hat relieved against the sky and peering over the countryside
+
+before his companion had collected himself sufficiently to scramble
+
+up after him.
+
+
+
+The level above was a stretch of common turf on which the tracks of
+
+the fated car were plowed plainly enough; but the brink of it was
+
+broken as with rocky teeth; broken boulders of all shapes and sizes
+
+lay near the edge; it was almost incredible that any one could have
+
+deliberately driven into such a death trap, especially in broad
+
+daylight.
+
+
+
+"I can't make head or tail of it," said March.  "Was he blind? Or
+
+blind drunk?"
+
+
+
+"Neither, by the look of him," replied the other.
+
+
+
+"Then it was suicide."
+
+
+
+"It doesn't seem a cozy way of doing it," remarked the man called
+
+Fisher. "Besides, I don't fancy poor old Puggy would commit suicide,
+
+somehow."
+
+
+
+"Poor old who?" inquired the wondering journalist. "Did you know
+
+this unfortunate man?"
+
+
+
+"Nobody knew him exactly," replied Fisher, with some vagueness. "But
+
+one _knew_ him, of course. He'd been a terror in his time, in
+
+Parliament and the courts, and so on; especially in that row about
+
+the aliens who were deported as undesirables, when he wanted one of
+
+'em hanged for murder. He was so sick about it that he retired from
+
+the bench. Since then he mostly motored about by himself; but he was
+
+coming to Torwood, too, for the week-end; and I don't see why he
+
+should deliberately break his neck almost at the very door. I
+
+believe Hoggs--I mean my cousin Howard--was coming down specially to
+
+meet him."
+
+
+
+"Torwood Park doesn't belong to your cousin?" inquired March.
+
+
+
+"No; it used to belong to the Winthrops, you know," replied the
+
+other. "Now a new man's got it; a man from Montreal named Jenkins.
+
+Hoggs comes for the shooting; I told you he was a lovely shot."
+
+
+
+This repeated eulogy on the great social statesman affected Harold
+
+March as if somebody had defined Napoleon as a distinguished player
+
+of nap. But he had another half-formed impression struggling in this
+
+flood of unfamiliar things, and he brought it to the surface before
+
+it could vanish.
+
+
+
+"Jenkins," he repeated.  "Surely you don't mean Jefferson Jenkins,
+
+the social reformer? I mean the man who's fighting for the new
+
+cottage-estate scheme. It would be as interesting to meet him as any
+
+Cabinet Minister in the world, if you'll excuse my saying so."
+
+
+
+"Yes; Hoggs told him it would have to be cottages," said Fisher.
+
+"He said the breed of cattle had improved too often, and people were
+
+beginning to laugh. And, of course, you must hang a peerage on to
+
+something; though the poor chap hasn't got it yet. Hullo, here's
+
+somebody else."
+
+
+
+They had started walking in the tracks of the car, leaving it behind
+
+them in the hollow, still humming horribly like a huge insect that
+
+had killed a man. The tracks took them to the corner of the road,
+
+one arm of which went on in the same line toward the distant gates
+
+of the park. It was clear that the car had been driven down the long
+
+straight road, and then, instead of turning with the road to the
+
+left, had gone straight on over the turf to its doom. But it was not
+
+this discovery that had riveted Fisher's eye, but something even
+
+more solid. At the angle of the white road a dark and solitary
+
+figure was standing almost as still as a finger post. It was that of
+
+a big man in rough shooting-clothes, bareheaded, and with tousled
+
+curly hair that gave him a rather wild look. On a nearer approach
+
+this first more fantastic impression faded; in a full light the
+
+figure took on more conventional colors, as of an ordinary gentleman
+
+who happened to have come out without a hat and without very
+
+studiously brushing his hair. But the massive stature remained, and
+
+something deep and even cavernous about the setting of the eyes
+
+redeemed his animal good looks from the commonplace. But March had
+
+no time to study the man more closely, for, much to his
+
+astonishment, his guide merely observed, "Hullo, Jack!" and walked
+
+past him as if he had indeed been a signpost, and without attempting
+
+to inform him of the catastrophe beyond the rocks. It was relatively
+
+a small thing, but it was only the first in a string of singular
+
+antics on which his new and eccentric friend was leading him.
+
+
+
+The man they had passed looked after them in rather a suspicious
+
+fashion, but Fisher continued serenely on his way along the straight
+
+road that ran past the gates of the great estate.
+
+
+
+"That's John Burke, the traveler," he condescended to explain. "I
+
+expect you've heard of him; shoots big game and all that. Sorry I
+
+couldn't stop to introduce you, but I dare say you'll meet him later
+
+on."
+
+
+
+"I know his book, of course," said March, with renewed interest.
+
+"That is certainly a fine piece of description, about their being
+
+only conscious of the closeness of the elephant when the colossal
+
+head blocked out the moon."
+
+
+
+"Yes, young Halkett writes jolly well, I think. What?  Didn't you
+
+know Halkett wrote Burke's book for him? Burke can't use anything
+
+except a gun; and you can't write with that. Oh, he's genuine enough
+
+in his way, you know, as brave as a lion, or a good deal braver by
+
+all accounts."
+
+
+
+"You seem to know all about him," observed March, with a rather
+
+bewildered laugh, "and about a good many other people."
+
+
+
+Fisher's bald brow became abruptly corrugated, and a curious
+
+expression came into his eyes.
+
+
+
+"I know too much," he said.  "That's what's the matter with me.
+
+That's what's the matter with all of us, and the whole show; we know
+
+too much. Too much about one another; too much about ourselves.
+
+That's why I'm really interested, just now, about one thing that I
+
+don't know."
+
+
+
+"And that is?" inquired the other.
+
+
+
+"Why that poor fellow is dead."
+
+
+
+They had walked along the straight road for nearly a mile,
+
+conversing at intervals in this fashion; and March had a singular
+
+sense of the whole world being turned inside out. Mr. Horne Fisher
+
+did not especially abuse his friends and relatives in fashionable
+
+society; of some of them he spoke with affection. But they seemed to
+
+be an entirely new set of men and women, who happened to have the
+
+same nerves as the men and women mentioned most often in the
+
+newspapers. Yet no fury of revolt could have seemed to him more
+
+utterly revolutionary than this cold familiarity. It was like
+
+daylight on the other side of stage scenery.
+
+
+
+They reached the great lodge gates of the park, and, to March's
+
+surprise, passed them and continued along the interminable white,
+
+straight road. But he was himself too early for his appointment with
+
+Sir Howard, and was not disinclined to see the end of his new
+
+friend's experiment, whatever it might be. They had long left the
+
+moorland behind them, and half the white road was gray in the great
+
+shadow of the Torwood pine forests, themselves like gray bars
+
+shuttered against the sunshine and within, amid that clear noon,
+
+manufacturing their own midnight. Soon, however, rifts began to
+
+appear in them like gleams of colored windows; the trees thinned and
+
+fell away as the road went forward, showing the wild, irregular
+
+copses in which, as Fisher said, the house-party had been blazing
+
+away all day. And about two hundred yards farther on they came to
+
+the first turn of the road.
+
+
+
+At the corner stood a sort of decayed inn with the dingy sign of The
+
+Grapes. The signboard was dark and indecipherable by now, and hung
+
+black against the sky and the gray moorland beyond, about as
+
+inviting as a gallows. March remarked that it looked like a tavern
+
+for vinegar instead of wine.
+
+
+
+"A good phrase," said Fisher, "and so it would be if you were silly
+
+enough to drink wine in it. But the beer is very good, and so is the
+
+brandy."
+
+
+
+March followed him to the bar parlor with some wonder, and his dim
+
+sense of repugnance was not dismissed by the first sight of the
+
+innkeeper, who was widely different from the genial innkeepers of
+
+romance, a bony man, very silent behind a black mustache, but with
+
+black, restless eyes. Taciturn as he was, the investigator succeeded
+
+at last in extracting a scrap of information from him, by dint of
+
+ordering beer and talking to him persistently and minutely on the
+
+subject of motor cars. He evidently regarded the innkeeper as in
+
+some singular way an authority on motor cars; as being deep in the
+
+secrets of the mechanism, management, and mismanagement of motor
+
+cars; holding the man all the time with a glittering eye like the
+
+Ancient Mariner. Out of all this rather mysterious conversation
+
+there did emerge at last a sort of admission that one particular
+
+motor car, of a given description, had stopped before the inn about
+
+an hour before, and that an elderly man had alighted, requiring some
+
+mechanical assistance. Asked if the visitor required any other
+
+assistance, the innkeeper said shortly that the old gentleman had
+
+filled his flask and taken a packet of sandwiches. And with these
+
+words the somewhat inhospitable host had walked hastily out of the
+
+bar, and they heard him banging doors in the dark interior.
+
+
+
+Fisher's weary eye wandered round the dusty and dreary inn parlor
+
+and rested dreamily on a glass case containing a stuffed bird, with
+
+a gun hung on hooks above it, which seemed to be its only ornament.
+
+
+
+"Puggy was a humorist," he observed, "at least in his own rather
+
+grim style. But it seems rather too grim a joke for a man to buy a
+
+packet of sandwiches when he is just going to commit suicide."
+
+
+
+"If you come to that," answered March, "it isn't very usual for a
+
+man to buy a packet of sandwiches when he's just outside the door of
+
+a grand house he's going to stop at."
+
+
+
+"No . . . no," repeated Fisher, almost mechanically; and then
+
+suddenly cocked his eye at his interlocutor with a much livelier
+
+expression.
+
+
+
+"By Jove! that's an idea. You're perfectly right. And that suggests
+
+a very queer idea, doesn't it?"
+
+
+
+There was a silence, and then March started with irrational
+
+nervousness as the door of the inn was flung open and another man
+
+walked rapidly to the counter. He had struck it with a coin and
+
+called out for brandy before he saw the other two guests, who were
+
+sitting at a bare wooden table under the window. When he turned
+
+about with a rather wild stare, March had yet another unexpected
+
+emotion, for his guide hailed the man as Hoggs and introduced him as
+
+Sir Howard Horne.
+
+
+
+He looked rather older than his boyish portraits in the illustrated
+
+papers, as is the way of politicians; his flat, fair hair was
+
+touched with gray, but his face was almost comically round, with a
+
+Roman nose which, when combined with his quick, bright eyes, raised
+
+a vague reminiscence of a parrot. He had a cap rather at the back of
+
+his head and a gun under his arm. Harold March had imagined many
+
+things about his meeting with the great political reformer, but he
+
+had never pictured him with a gun under his arm, drinking brandy in
+
+a public house.
+
+
+
+"So you're stopping at Jink's, too," said Fisher.  "Everybody seems
+
+to be at Jink's."
+
+
+
+"Yes," replied the Chancellor of the Exchequer.  "Jolly good
+
+shooting. At least all of it that isn't Jink's shooting. I never
+
+knew a chap with such good shooting that was such a bad shot. Mind
+
+you, he's a jolly good fellow and all that; I don't say a word
+
+against him. But he never learned to hold a gun when he was packing
+
+pork or whatever he did. They say he shot the cockade off his own
+
+servant's hat; just like him to have cockades, of course. He shot
+
+the weathercock off his own ridiculous gilded summerhouse. It's the
+
+only cock he'll ever kill, I should think. Are you coming up there
+
+now?"
+
+
+
+Fisher said, rather vaguely, that he was following soon, when he had
+
+fixed something up; and the Chancellor of the Exchequer left the
+
+inn. March fancied he had been a little upset or impatient when he
+
+called for the brandy; but he had talked himself back into a
+
+satisfactory state, if the talk had not been quite what his literary
+
+visitor had expected. Fisher, a few minutes afterward, slowly led
+
+the way out of the tavern and stood in the middle of the road,
+
+looking down in the direction from which they had traveled. Then he
+
+walked back about two hundred yards in that direction and stood
+
+still again.
+
+
+
+"I should think this is about the place," he said.
+
+
+
+"What place?" asked his companion.
+
+
+
+"The place where the poor fellow was killed," said Fisher, sadly.
+
+
+
+"What do you mean?" demanded March.
+
+
+
+"He was smashed up on the rocks a mile and a half from here."
+
+
+
+"No, he wasn't," replied Fisher.  "He didn't fall on the rocks at
+
+all. Didn't you notice that he only fell on the slope of soft grass
+
+underneath? But I saw that he had a bullet in him already."
+
+
+
+Then after a pause he added:
+
+
+
+"He was alive at the inn, but he was dead long before he came to the
+
+rocks. So he was shot as he drove his car down this strip of
+
+straight road, and I should think somewhere about here. After that,
+
+of course, the car went straight on with nobody to stop or turn it.
+
+It's really a very cunning dodge in its way; for the body would be
+
+found far away, and most people would say, as you do, that it was an
+
+accident to a motorist. The murderer must have been a clever brute."
+
+
+
+"But wouldn't the shot be heard at the inn or somewhere?" asked
+
+March.
+
+
+
+"It would be heard. But it would not be noticed. That," continued
+
+the investigator, "is where he was clever again. Shooting was going
+
+on all over the place all day; very likely he timed his shot so as
+
+to drown it in a number of others. Certainly he was a first-class
+
+criminal. And he was something else as well."
+
+
+
+"What do you mean?" asked his companion, with a creepy premonition
+
+of something coming, he knew not why.
+
+
+
+"He was a first-class shot," said Fisher. He had turned his back
+
+abruptly and was walking down a narrow, grassy lane, little more
+
+than a cart track, which lay opposite the inn and marked the end of
+
+the great estate and the beginning of the open moors. March plodded
+
+after him with the same idle perseverance, and found him staring
+
+through a gap in giant weeds and thorns at the flat face of a
+
+painted paling. From behind the paling rose the great gray columns
+
+of a row of poplars, which filled the heavens above them with
+
+dark-green shadow and shook faintly in a wind which had sunk slowly
+
+into a breeze. The afternoon was already deepening into evening, and
+
+the titanic shadows of the poplars lengthened over a third of the
+
+landscape.
+
+
+
+"Are you a first-class criminal?" asked Fisher, in a friendly tone.
+
+"I'm afraid I'm not. But I think I can manage to be a sort of
+
+fourth-rate burglar."
+
+
+
+And before his companion could reply he had managed to swing himself
+
+up and over the fence; March followed without much bodily effort,
+
+but with considerable mental disturbance. The poplars grew so close
+
+against the fence that they had some difficulty in slipping past
+
+them, and beyond the poplars they could see only a high hedge of
+
+laurel, green and lustrous in the level sun. Something in this
+
+limitation by a series of living walls made him feel as if he were
+
+really entering a shattered house instead of an open field. It was
+
+as if he came in by a disused door or window and found the way
+
+blocked by furniture. When they had circumvented the laurel hedge,
+
+they came out on a sort of terrace of turf, which fell by one green
+
+step to an oblong lawn like a bowling green. Beyond this was the
+
+only building in sight, a low conservatory, which seemed far away
+
+from anywhere, like a glass cottage standing in its own fields in
+
+fairyland. Fisher knew that lonely look of the outlying parts of a
+
+great house well enough. He realized that it is more of a satire on
+
+aristocracy than if it were choked with weeds and littered with
+
+ruins. For it is not neglected and yet it is deserted; at any rate,
+
+it is disused. It is regularly swept and garnished for a master who
+
+never comes.
+
+
+
+Looking over the lawn, however, he saw one object which he had not
+
+apparently expected. It was a sort of tripod supporting a large disk
+
+like the round top of a table tipped sideways, and it was not until
+
+they had dropped on to the lawn and walked across to look at it that
+
+March realized that it was a target. It was worn and weatherstained;
+
+the gay colors of its concentric rings were faded; possibly it had
+
+been set up in those far-off Victorian days when there was a fashion
+
+of archery. March had one of his vague visions of ladies in cloudy
+
+crinolines and gentlemen in outlandish hats and whiskers revisiting
+
+that lost garden like ghosts.
+
+
+
+Fisher, who was peering more closely at the target, startled him by
+
+an exclamation.
+
+
+
+"Hullo!" he said.  "Somebody has been peppering this thing with
+
+shot, after all, and quite lately, too. Why, I believe old Jink's
+
+been trying to improve his bad shooting here."
+
+
+
+"Yes, and it looks as if it still wanted improving," answered March,
+
+laughing. "Not one of these shots is anywhere near the bull's-eye;
+
+they seem just scattered about in the wildest way."
+
+
+
+"In the wildest way," repeated Fisher, still peering intently at the
+
+target. He seemed merely to assent, but March fancied his eye was
+
+shining under its sleepy lid and that he straightened his stooping
+
+figure with a strange effort.
+
+
+
+"Excuse me a moment," he said, feeling in his pockets. "I think I've
+
+got some of my chemicals; and after that we'll go up to the house."
+
+And he stooped again over the target, putting something with his
+
+finger over each of the shot-holes, so far as March could see merely
+
+a dull-gray smear. Then they went through the gathering twilight up
+
+the long green avenues to the great house.
+
+
+
+Here again, however, the eccentric investigator did not enter by the
+
+front door. He walked round the house until he found a window open,
+
+and, leaping into it, introduced his friend to what appeared to be
+
+the gun-room. Rows of the regular instruments for bringing down
+
+birds stood against the walls; but across a table in the window lay
+
+one or two weapons of a heavier and more formidable pattern.
+
+
+
+"Hullo! these are Burke's big-game rifles," said Fisher. "I never
+
+knew he kept them here." He lifted one of them, examined it briefly,
+
+and put it down again, frowning heavily. Almost as he did so a
+
+strange young man came hurriedly into the room. He was dark and
+
+sturdy, with a bumpy forehead and a bulldog jaw, and he spoke with a
+
+curt apology.
+
+
+
+"I left Major Burke's guns here," he said, "and he wants them packed
+
+up. He's going away to-night."
+
+
+
+And he carried off the two rifles without casting a glance at the
+
+stranger; through the open window they could see his short, dark
+
+figure walking away across the glimmering garden. Fisher got out of
+
+the window again and stood looking after him.
+
+
+
+"That's Halkett, whom I told you about," he said.  "I knew he was a
+
+sort of secretary and had to do with Burke's papers; but I never
+
+knew he had anything to do with his guns. But he's just the sort of
+
+silent, sensible little devil who might be very good at anything;
+
+the sort of man you know for years before you find he's a chess
+
+champion."
+
+
+
+He had begun to walk in the direction of the disappearing secretary,
+
+and they soon came within sight of the rest of the house-party
+
+talking and laughing on the lawn. They could see the tall figure and
+
+loose mane of the lion-hunter dominating the little group.
+
+
+
+"By the way," observed Fisher, "when we were talking about Burke and
+
+Halkett, I said that a man couldn't very well write with a gun.
+
+Well, I'm not so sure now. Did you ever hear of an artist so clever
+
+that he could draw with a gun? There's a wonderful chap loose about
+
+here."
+
+
+
+Sir Howard hailed Fisher and his friend the journalist with almost
+
+boisterous amiability. The latter was presented to Major Burke and
+
+Mr. Halkett and also (by way of a parenthesis) to his host, Mr.
+
+Jenkins, a commonplace little man in loud tweeds, whom everybody
+
+else seemed to treat with a sort of affection, as if he were a baby.
+
+
+
+The irrepressible Chancellor of the Exchequer was still talking
+
+about the birds he had brought down, the birds that Burke and
+
+Halkett had brought down, and the birds that Jenkins, their host,
+
+had failed to bring down. It seemed to be a sort of sociable
+
+monomania.
+
+
+
+"You and your big game," he ejaculated, aggressively, to Burke.
+
+"Why, anybody could shoot big game. You want to be a shot to shoot
+
+small game."
+
+
+
+"Quite so," interposed Horne Fisher.  "Now if only a hippopotamus
+
+could fly up in the air out of that bush, or you preserved flying
+
+elephants on the estate, why, then--"
+
+
+
+"Why even Jink might hit that sort of bird," cried Sir Howard,
+
+hilariously slapping his host on the back. "Even he might hit a
+
+haystack or a hippopotamus."
+
+
+
+"Look here, you fellows," said Fisher.  "I want you to come along
+
+with me for a minute and shoot at something else. Not a
+
+hippopotamus. Another kind of queer animal I've found on the estate.
+
+It's an animal with three legs and one eye, and it's all the colors
+
+of the rainbow."
+
+
+
+"What the deuce are you talking about?" asked Burke.
+
+
+
+"You come along and see," replied Fisher, cheerfully.
+
+
+
+Such people seldom reject anything nonsensical, for they are always
+
+seeking for something new. They gravely rearmed themselves from the
+
+gun-room and trooped along at the tail of their guide, Sir Howard
+
+only pausing, in a sort of ecstasy, to point out the celebrated gilt
+
+summerhouse on which the gilt weathercock still stood crooked. It
+
+was dusk turning to dark by the time they reached the remote green
+
+by the poplars and accepted the new and aimless game of shooting at
+
+the old mark.
+
+
+
+The last light seemed to fade from the lawn, and the poplars against
+
+the sunset were like great plumes upon a purple hearse, when the
+
+futile procession finally curved round, and came out in front of the
+
+target. Sir Howard again slapped his host on the shoulder, shoving
+
+him playfully forward to take the first shot. The shoulder and arm
+
+he touched seemed unnaturally stiff and angular. Mr. Jenkins was
+
+holding his gun in an attitude more awkward than any that his
+
+satiric friends had seen or expected.
+
+
+
+At the same instant a horrible scream seemed to come from nowhere.
+
+It was so unnatural and so unsuited to the scene that it might have
+
+been made by some inhuman thing flying on wings above them or
+
+eavesdropping in the dark woods beyond. But Fisher knew that it had
+
+started and stopped on the pale lips of Jefferson Jenkins, of
+
+Montreal, and no one at that moment catching sight of Jefferson
+
+Jenkins's face would have complained that it was commonplace. The
+
+next moment a torrent of guttural but good-humored oaths came from
+
+Major Burke as he and the two other men saw what was in front of
+
+them. The target stood up in the dim grass like a dark goblin
+
+grinning at them, and it was literally grinning. It had two eyes
+
+like stars, and in similar livid points of light were picked out the
+
+two upturned and open nostrils and the two ends of the wide and
+
+tight mouth. A few white dots above each eye indicated the hoary
+
+eyebrows; and one of them ran upward almost erect. It was a
+
+brilliant caricature done in bright dotted lines and March knew of
+
+whom. It shone in the shadowy grass, smeared with sea fire as if one
+
+of the submarine monsters had crawled into the twilight garden; but
+
+it had the head of a dead man.
+
+
+
+"It's only luminous paint," said Burke.  "Old Fisher's been having a
+
+joke with that phosphorescent stuff of his."
+
+
+
+"Seems to be meant for old Puggy"' observed Sir Howard.  "Hits him
+
+off very well."
+
+
+
+With that they all laughed, except Jenkins. When they had all done,
+
+he made a noise like the first effort of an animal to laugh, and
+
+Horne Fisher suddenly strode across to him and said:
+
+
+
+"Mr. Jenkins, I must speak to you at once in private."
+
+
+
+It was by the little watercourse in the moors, on the slope under
+
+the hanging rock, that March met his new friend Fisher, by
+
+appointment, shortly after the ugly and almost grotesque scene that
+
+had broken up the group in the garden.
+
+
+
+"It was a monkey-trick of mine," observed Fisher, gloomily, "putting
+
+phosphorus on the target; but the only chance to make him jump was
+
+to give him the horrors suddenly. And when he saw the face he'd shot
+
+at shining on the target he practiced on, all lit up with an
+
+infernal light, he did jump. Quite enough for my own intellectual
+
+satisfaction."
+
+
+
+"I'm afraid I don't quite understand even now," said March, "exactly
+
+what he did or why he did it."
+
+
+
+"You ought to," replied Fisher, with his rather dreary smile, "for
+
+you gave me the first suggestion yourself. Oh yes, you did; and it
+
+was a very shrewd one. You said a man wouldn't take sandwiches with
+
+him to dine at a great house. It was quite true; and the inference
+
+was that, though he was going there, he didn't mean to dine there.
+
+Or, at any rate, that he might not be dining there. It occurred to
+
+me at once that he probably expected the visit to be unpleasant, or
+
+the reception doubtful, or something that would prevent his
+
+accepting hospitality. Then it struck me that Turnbull was a terror
+
+to certain shady characters in the past, and that he had come down
+
+to identify and denounce one of them. The chances at the start
+
+pointed to the host--that is, Jenkins. I'm morally certain now that
+
+Jenkins was the undesirable alien Turnbull wanted to convict in
+
+another shooting-affair, but you see the shooting gentleman had
+
+another shot in his locker."
+
+
+
+"But you said he would have to be a very good shot," protested
+
+March.
+
+
+
+"Jenkins is a very good shot," said Fisher.  "A very good shot who
+
+can pretend to be a very bad shot. Shall I tell you the second hint
+
+I hit on, after yours, to make me think it was Jenkins? It was my
+
+cousin's account of his bad shooting. He'd shot a cockade off a hat
+
+and a weathercock off a building. Now, in fact, a man must shoot
+
+very well indeed to shoot so badly as that. He must shoot very
+
+neatly to hit the cockade and not the head, or even the hat. If the
+
+shots had really gone at random, the chances are a thousand to one
+
+that they would not have hit such prominent and picturesque objects.
+
+They were chosen because they were prominent and picturesque
+
+objects. They make a story to go the round of society. He keeps the
+
+crooked weathercock in the summerhouse to perpetuate the story of a
+
+legend. And then he lay in wait with his evil eye and wicked gun,
+
+safely ambushed behind the legend of his own incompetence.
+
+
+
+"But there is more than that. There is the summerhouse itself. I
+
+mean there is the whole thing. There's all that Jenkins gets chaffed
+
+about, the gilding and the gaudy colors and all the vulgarity that's
+
+supposed to stamp him as an upstart. Now, as a matter of fact,
+
+upstarts generally don't do this. God knows there's enough of 'em in
+
+society; and one knows 'em well enough. And this is the very last
+
+thing they do. They're generally only too keen to know the right
+
+thing and do it; and they instantly put themselves body and soul
+
+into the hands of art decorators and art experts, who do the whole
+
+thing for them. There's hardly another millionaire alive who has the
+
+moral courage to have a gilt monogram on a chair like that one in
+
+the gun-room. For that matter, there's the name as well as the
+
+monogram. Names like Tompkins and Jenkins and Jinks are funny
+
+without being vulgar; I mean they are vulgar without being common.
+
+If you prefer it, they are commonplace without being common. They
+
+are just the names to be chosen to _look_ ordinary, but they're
+
+really rather extraordinary. Do you know many people called
+
+Tompkins? It's a good deal rarer than Talbot. It's pretty much the
+
+same with the comic clothes of the parvenu. Jenkins dresses like a
+
+character in Punch. But that's because he is a character in Punch. I
+
+mean he's a fictitious character. He's a fabulous animal. He doesn't
+
+exist.
+
+
+
+"Have you ever considered what it must be like to be a man who
+
+doesn't exist? I mean to be a man with a fictitious character that
+
+he has to keep up at the expense not merely of personal talents: To
+
+be a new kind of hypocrite hiding a talent in a new kind of napkin.
+
+This man has chosen his hypocrisy very ingeniously; it was really a
+
+new one. A subtle villain has dressed up as a dashing gentleman and
+
+a worthy business man and a philanthropist and a saint; but the loud
+
+checks of a comical little cad were really rather a new disguise.
+
+But the disguise must be very irksome to a man who can really do
+
+things. This is a dexterous little cosmopolitan guttersnipe who can
+
+do scores of things, not only shoot, but draw and paint, and
+
+probably play the fiddle. Now a man like that may find the hiding of
+
+his talents useful; but he could never help wanting to use them
+
+where they were useless. If he can draw, he will draw absent-mindedly
+
+on blotting paper. I suspect this rascal has often drawn poor old
+
+Puggy's face on blotting paper. Probably he began doing it in blots
+
+as he afterward did it in dots, or rather shots. It was the same
+
+sort of thing; he found a disused target in a deserted yard and
+
+couldn't resist indulging in a little secret shooting, like secret
+
+drinking. You thought the shots all scattered and irregular, and so
+
+they were; but not accidental. No two distances were alike; but the
+
+different points were exactly where he wanted to put them. There's
+
+nothing needs such mathematical precision as a wild caricature. I've
+
+dabbled a little in drawing myself, and I assure you that to put one
+
+dot where you want it is a marvel with a pen close to a piece of
+
+paper. It was a miracle to do it across a garden with a gun. But a
+
+man who can work those miracles will always itch to work them, if
+
+it's only in the dark."
+
+
+
+After a pause March observed, thoughtfully, "But he couldn't have
+
+brought him down like a bird with one of those little guns."
+
+
+
+"No; that was why I went into the gun-room," replied Fisher.  "He
+
+did it with one of Burke's rifles, and Burke thought he knew the
+
+sound of it. That's why he rushed out without a hat, looking so
+
+wild. He saw nothing but a car passing quickly, which he followed
+
+for a little way, and then concluded he'd made a mistake."
+
+
+
+There was another silence, during which Fisher sat on a great stone
+
+as motionless as on their first meeting, and watched the gray and
+
+silver river eddying past under the bushes. Then March said,
+
+abruptly, "Of course he knows the truth now."
+
+
+
+"Nobody knows the truth but you and I," answered Fisher, with a
+
+certain softening in his voice. "And I don't think you and I will
+
+ever quarrel."
+
+
+
+"What do you mean?" asked March, in an altered accent. "What have
+
+you done about it?"
+
+
+
+Horne Fisher continued to gaze steadily at the eddying stream. At
+
+last he said, "The police have proved it was a motor accident."
+
+
+
+"But you know it was not."
+
+
+
+"I told you that I know too much," replied Fisher, with his eye on
+
+the river. "I know that, and I know a great many other things. I
+
+know the atmosphere and the way the whole thing works. I know this
+
+fellow has succeeded in making himself something incurably
+
+commonplace and comic. I know you can't get up a persecution of old
+
+Toole or Little Tich. If I were to tell Hoggs or Halkett that old
+
+Jink was an assassin, they would almost die of laughter before my
+
+eyes. Oh, I don't say their laughter's quite innocent, though it's
+
+genuine in its way. They want old Jink, and they couldn't do without
+
+him. I don't say I'm quite innocent. I like Hoggs; I don't want him
+
+to be down and out; and he'd be done for if Jink can't pay for his
+
+coronet. They were devilish near the line at the last election. But
+
+the only real objection to it is that it's impossible. Nobody would
+
+believe it; it's not in the picture. The crooked weathercock would
+
+always turn it into a joke."
+
+
+
+"Don't you think this is infamous?" asked March, quietly.
+
+
+
+"I think a good many things," replied the other.  "If you people
+
+ever happen to blow the whole tangle of society to hell with
+
+dynamite, I don't know that the human race will be much the worse.
+
+But don't be too hard on me merely because I know what society is.
+
+That's why I moon away my time over things like stinking fish."
+
+
+
+There was a pause as he settled himself down again by the stream;
+
+and then he added:
+
+
+
+"I told you before I had to throw back the big fish."

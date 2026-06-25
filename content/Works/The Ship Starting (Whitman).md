@@ -2,7 +2,7 @@
 title: The Ship Starting
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Journey · Ship
 source: Authors/Whitman/_raw/017_The_Ship_Starting.md
 tags:
   - graph/work
@@ -17,20 +17,26 @@ tags:
 
 # The Ship Starting
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
 > Imagistic vignette of a ship setting out on the unbounded sea with all sails spread; the sea, the journey, voyage as the open road.
 
 ## Connections
 
-**Topoi:** [[The Open Road Homecoming]]
-**Motifs:** [[The Sea]], [[The Journey]]
+**Topoi:** [[Open Road Homecoming]]
+**Motifs:** [[Sea]], [[Journey]]
 **Forms & Genres:** [[Free Verse]], [[Lyric]]
-**Settings:** [[A Ship]]
+**Settings:** [[Ship]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!017_The_Ship_Starting
+
+  Lo, the unbounded sea,
+  On its breast a ship starting, spreading all sails, carrying even
+      her moonsails.
+  The pennant is flying aloft as she speeds she speeds so stately--
+      below emulous waves press forward,
+  They surround the ship with shining curving motions and foam.

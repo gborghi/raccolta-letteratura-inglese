@@ -1,0 +1,17 @@
+---
+title: Louis Moore
+type: character
+cluster: Essay · Critique of Progress · Common Man
+tags:
+  - graph/character
+---
+
+# Louis Moore
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Louis-Moore"></div>
+
+#graph/character

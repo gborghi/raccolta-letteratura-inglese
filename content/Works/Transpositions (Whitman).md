@@ -23,12 +23,14 @@ tags:
 
 ## Connections
 
-**Topoi:** [[The World Upside Down]]
+**Topoi:** [[World Upside Down]]
 **Themes & Concepts:** [[Reform]], [[Satire of Society]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!233_Transpositions
+Let the reformers descend from the stands where they are forever
+      bawling--let an idiot or insane person appear on each of the stands;
+  Let judges and criminals be transposed--let the prison-keepers be
+      put in prison--let those that were prisoners take the keys;
+  Let them that distrust birth and death lead the rest.

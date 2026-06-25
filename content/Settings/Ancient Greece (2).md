@@ -1,7 +1,7 @@
 ---
 title: Ancient Greece
 type: setting
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/setting
 ---

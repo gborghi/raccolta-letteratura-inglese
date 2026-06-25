@@ -1,0 +1,131 @@
+---
+title: "Dombey and Son — Chapter 20 (part 3)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Dombey-and-Son-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Dombey and Son — Chapter 20 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_76/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_76/part_04">part 04 ›</a></div>
+</nav>
+
+
+Mr Dombey, in a few words, expressed his sense of the preference he
+received over those other distinguished members of society who were
+clamouring for the possession of Major Bagstock. But the Major cut him
+short by giving him to understand that he followed his own
+inclinations, and that they had risen up in a body and said with one
+accord, “J. B., Dombey is the man for you to choose as a friend.”
+
+The Major being by this time in a state of repletion, with essence of
+savoury pie oozing out at the corners of his eyes, and devilled grill
+and kidneys tightening his cravat: and the time moreover approaching
+for the departure of the railway train to Birmingham, by which they
+were to leave town: the Native got him into his great-coat with immense
+difficulty, and buttoned him up until his face looked staring and
+gasping, over the top of that garment, as if he were in a barrel. The
+Native then handed him separately, and with a decent interval between
+each supply, his washleather gloves, his thick stick, and his hat;
+which latter article the Major wore with a rakish air on one side of
+his head, by way of toning down his remarkable visage. The Native had
+previously packed, in all possible and impossible parts of Mr Dombey’s
+chariot, which was in waiting, an unusual quantity of carpet-bags and
+small portmanteaus, no less apoplectic in appearance than the Major
+himself: and having filled his own pockets with Seltzer water, East
+India sherry, sandwiches, shawls, telescopes, maps, and newspapers, any
+or all of which light baggage the Major might require at any instant of
+the journey, he announced that everything was ready. To complete the
+equipment of this unfortunate foreigner (currently believed to be a
+prince in his own country), when he took his seat in the rumble by the
+side of Mr Towlinson, a pile of the Major’s cloaks and great-coats was
+hurled upon him by the landlord, who aimed at him from the pavement
+with those great missiles like a Titan, and so covered him up, that he
+proceeded, in a living tomb, to the railroad station.
+
+But before the carriage moved away, and while the Native was in the act
+of sepulture, Miss Tox appearing at her window, waved a lilywhite
+handkerchief. Mr Dombey received this parting salutation very
+coldly—very coldly even for him—and honouring her with the slightest
+possible inclination of his head, leaned back in the carriage with a
+very discontented look. His marked behaviour seemed to afford the Major
+(who was all politeness in his recognition of Miss Tox) unbounded
+satisfaction; and he sat for a long time afterwards, leering, and
+choking, like an over-fed Mephistopheles.
+
+During the bustle of preparation at the railway, Mr Dombey and the
+Major walked up and down the platform side by side; the former taciturn
+and gloomy, and the latter entertaining him, or entertaining himself,
+with a variety of anecdotes and reminiscences, in most of which Joe
+Bagstock was the principal performer. Neither of the two observed that
+in the course of these walks, they attracted the attention of a working
+man who was standing near the engine, and who touched his hat every
+time they passed; for Mr Dombey habitually looked over the vulgar herd,
+not at them; and the Major was looking, at the time, into the core of
+one of his stories. At length, however, this man stepped before them as
+they turned round, and pulling his hat off, and keeping it off, ducked
+his head to Mr Dombey.
+
+“Beg your pardon, Sir,” said the man, “but I hope you’re a doin’ pretty
+well, Sir.”
+
+He was dressed in a canvas suit abundantly besmeared with coal-dust and
+oil, and had cinders in his whiskers, and a smell of half-slaked ashes
+all over him. He was not a bad-looking fellow, nor even what could be
+fairly called a dirty-looking fellow, in spite of this; and, in short,
+he was Mr Toodle, professionally clothed.
+
+“I shall have the honour of stokin’ of you down, Sir,” said Mr Toodle.
+“Beg your pardon, Sir.—I hope you find yourself a coming round?”
+
+Mr Dombey looked at him, in return for his tone of interest, as if a
+man like that would make his very eyesight dirty.
+
+“’Scuse the liberty, Sir,” said Toodle, seeing he was not clearly
+remembered, “but my wife Polly, as was called Richards in your family—”
+
+A change in Mr Dombey’s face, which seemed to express recollection of
+him, and so it did, but it expressed in a much stronger degree an angry
+sense of humiliation, stopped Mr Toodle short.
+
+“Your wife wants money, I suppose,” said Mr Dombey, putting his hand in
+his pocket, and speaking (but that he always did) haughtily.
+
+“No thank’ee, Sir,” returned Toodle, “I can’t say she does. I don’t.”
+
+Mr Dombey was stopped short now in his turn: and awkwardly: with his
+hand in his pocket.
+
+“No, Sir,” said Toodle, turning his oilskin cap round and round; “we’re
+a doin’ pretty well, Sir; we haven’t no cause to complain in the
+worldly way, Sir. We’ve had four more since then, Sir, but we rubs on.”
+
+Mr Dombey would have rubbed on to his own carriage, though in so doing
+he had rubbed the stoker underneath the wheels; but his attention was
+arrested by something in connexion with the cap still going slowly
+round and round in the man’s hand.
+
+“We lost one babby,” observed Toodle, “there’s no denyin’.”
+
+“Lately,” added Mr Dombey, looking at the cap.
+
+“No, Sir, up’ard of three years ago, but all the rest is hearty. And in
+the matter o readin’, Sir,” said Toodle, ducking again, as if to remind
+Mr Dombey of what had passed between them on that subject long ago,
+“them boys o’ mine, they learned me, among ’em, arter all. They’ve made
+a wery tolerable scholar of me, Sir, them boys.”
+
+“Come, Major!” said Mr Dombey.
+
+“Beg your pardon, Sir,” resumed Toodle, taking a step before them and
+deferentially stopping them again, still cap in hand: “I wouldn’t have
+troubled you with such a pint except as a way of gettin’ in the name of
+my son Biler—christened Robin—him as you was so good as to make a
+Charitable Grinder on.”
+
+“Well, man,” said Mr Dombey in his severest manner. “What about him?”

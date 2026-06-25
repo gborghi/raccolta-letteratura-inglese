@@ -2,7 +2,7 @@
 title: The Artilleryman’s Vision
 author: Whitman
 type: work
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/168_The_Artilleryman_s_Vision.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # The Artilleryman’s Vision
 
-*by Whitman*  ·  **Cluster:** [[Swords and Weapons · The Battlefield · Horse]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > A veteran at home is seized by a midnight vision of battle, hearing the missiles and feeling the old mad joy; war-trauma, memory and the haunting persistence of combat.
@@ -27,10 +27,50 @@ tags:
 
 **Motifs:** [[Dreams]], [[Night]], [[Fog and Smoke]]
 **Themes & Concepts:** [[War and its Cost]], [[Terror and Horror]], [[Memory and Time]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!168_The_Artilleryman_s_Vision
+
+  While my wife at my side lies slumbering, and the wars are over long,
+  And my head on the pillow rests at home, and the vacant midnight passes,
+  And through the stillness, through the dark, I hear, just hear, the
+      breath of my infant,
+  There in the room as I wake from sleep this vision presses upon me;
+  The engagement opens there and then in fantasy unreal,
+  The skirmishers begin, they crawl cautiously ahead, I hear the
+      irregular snap! snap!
+  I hear the sounds of the different missiles, the short t-h-t! t-h-t!
+      of the rifle-balls,
+  I see the shells exploding leaving small white clouds, I hear the
+      great shells shrieking as they pass,
+  The grape like the hum and whirr of wind through the trees,
+      (tumultuous now the contest rages,)
+  All the scenes at the batteries rise in detail before me again,
+  The crashing and smoking, the pride of the men in their pieces,
+  The chief-gunner ranges and sights his piece and selects a fuse of
+      the right time,
+  After firing I see him lean aside and look eagerly off to note the effect;
+  Elsewhere I hear the cry of a regiment charging, (the young colonel
+      leads himself this time with brandish’d sword,)
+  I see the gaps cut by the enemy’s volleys, (quickly fill’d up, no delay,)
+  I breathe the suffocating smoke, then the flat clouds hover low
+      concealing all;
+  Now a strange lull for a few seconds, not a shot fired on either side,
+  Then resumed the chaos louder than ever, with eager calls and
+      orders of officers,
+  While from some distant part of the field the wind wafts to my ears
+      a shout of applause, (some special success,)
+  And ever the sound of the cannon far or near, (rousing even in
+      dreams a devilish exultation and all the old mad joy in the
+      depths of my soul,)
+  And ever the hastening of infantry shifting positions, batteries,
+      cavalry, moving hither and thither,
+  (The falling, dying, I heed not, the wounded dripping and red
+      heed not, some to the rear are hobbling,)
+  Grime, heat, rush, aide-de-camps galloping by or on a full run,
+  With the patter of small arms, the warning s-s-t of the rifles,
+      (these in my vision I hear or see,)
+  And bombs bursting in air, and at night the vari-color’d rockets.

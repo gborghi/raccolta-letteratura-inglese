@@ -2,7 +2,7 @@
 title: Abou ben Adhem
 author: Chesterton
 type: work
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/Abou_ben_Adhem.md
 tags:
   - graph/work
@@ -25,23 +25,49 @@ tags:
 
 # Abou ben Adhem
 
-*by Chesterton*  ·  **Cluster:** [[Parody · Heroic Couplet · Mock Epic]]
+*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A satirical parody of Leigh Hunt's 'Abou Ben Adhem', in heroic couplets, in which the secular philanthropist who loves his fellow-men but not God reveals himself as a tyrannical social engineer; central themes are satire of society, secular humanism vs faith, and the loss of wonder.
 
 ## Connections
 
-**Topoi:** [[The World Upside Down]]
-**Archetypes:** [[The Corrupt Official]], [[The Tyrant]]
+**Topoi:** [[World Upside Down]]
+**Archetypes:** [[Corrupt Official]], [[Tyrant]]
 **Motifs:** [[Wine and Drink]]
 **Themes & Concepts:** [[Satire of Society]], [[Faith and Doubt]], [[Wonder and Gratitude]], [[Critique of Progress]], [[Pride]]
 **Forms & Genres:** [[Parody]], [[Satire]], [[Heroic Couplet]]
-**Historical References:** [[The Orient Arabia]]
-**Settings:** [[The Orient]]
+**Historical References:** [[Orient Arabia]]
+**Settings:** [[Orient]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+THE PHILANTHROPIST
 
-!Abou_ben_Adhem
+(With apologies to a Beautiful Poem)
+
+ABOU BEN ADHEM (may his tribe decrease
+By cautious birth-control and die in peace)
+Mellow with learning lightly took the word
+That marked him not with them that love the Lord,
+And told the angel of the book and pen
+"Write me as one that loves his fellow-men:
+For them alone I labour; to reclaim
+The ragged roaming Bedouin and to tame
+To ordered service; to uproot their vine
+Who mock the Prophet, being mad with wine,
+Let daylight through their tents and through their lives,
+Number their camels, even count their wives;
+Plot out the desert into streets and squares,
+And count it a more fruitful work than theirs
+Who lift a vain and visionary love
+To your vague Allah in the skies above."
+
+Gently replied the angel of the pen:
+"Labour in peace and love your fellow-men:
+And love not God, since men alone are dear,
+Only fear God; for you have Cause to fear."
+
+
+
+===== FINE FILE: Abou_ben_Adhem.txt =====

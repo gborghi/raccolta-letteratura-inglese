@@ -2,7 +2,7 @@
 title: childsnow
 author: Chesterton
 type: work
-cluster: Christ · Divine Love · Hymn
+cluster: Faith · Providence · Divine Love
 source: Authors/Chesterton/_raw/childsnow.md
 tags:
   - graph/work
@@ -24,23 +24,49 @@ tags:
 
 # childsnow
 
-*by Chesterton*  ·  **Cluster:** [[Christ · Divine Love · Hymn]]
+*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A mystical Nativity lyric: the Christ-child born at the inn at the world's end while the old pagan gods die; a hymn of the heart of the earth as a star.
 
 ## Connections
 
-**Topoi:** [[The Golden Age]]
-**Archetypes:** [[The Innocent]]
-**Motifs:** [[Winter]], [[Fire]], [[Stars]], [[The Inn Tavern]]
+**Topoi:** [[Golden Age]]
+**Archetypes:** [[Innocent]]
+**Motifs:** [[Winter]], [[Fire]], [[Stars]], [[Inn Tavern]]
 **Themes & Concepts:** [[Divine Love]], [[Grace and Redemption]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
 **Historical References:** [[Christianity]]
 **Characters:** [[Christ]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+A Child of the Snows
 
-!childsnow
+	       -------------------------------------------------------------
+
+	       There is heard a hymn when the panes are dim,
+		    And never before or again,
+	       When the nights are strong with a darkness long,
+		    And the dark is alive with rain.
+
+	       Never we know but in sleet and in snow,
+		    The place where the great fires are,
+	       That the midst of the earth is a raging mirth
+		    And the heart of the earth a star.
+
+	       And at night we win to the ancient inn
+		    Where the child in the frost is furled,
+	       We follow the feet where all souls meet
+		    At the inn at the end of the world.
+
+	       The gods lie dead where the leaves lie red,
+		    For the flame of the sun is flown,
+	       The gods lie cold where the leaves lie gold,
+		    And a Child comes forth alone.
+				   - G.K. Chesterton
+
+	       -------------------------------------------------------------
+
+
+===== FINE FILE: childsnow.txt =====

@@ -1,0 +1,185 @@
+---
+title: "whats wrong — Part 5 (part 3)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/whats-wrong-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# whats wrong — Part 5 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_10/part_04">part 04 ›</a></div>
+</nav>
+
+
+The point it is my purpose to urge might perhaps be suggested thus:
+that Socialists and most social reformers of their color are vividly
+conscious of the line between the kind of things that belong to the state
+and the kind of things that belong to mere chaos or uncoercible nature;
+they may force children to go to school before the sun rises, but they
+will not try to force the sun to rise; they will not, like Canute,
+banish the sea, but only the sea-bathers. But inside the outline of
+the state their lines are confused, and entities melt into each other.
+They have no firm instinctive sense of one thing being in its nature
+private and another public, of one thing being necessarily bond
+and another free.  That is why piece by piece, and quite silently,
+personal liberty is being stolen from Englishmen, as personal land has
+been silently stolen ever since the sixteenth century.
+
+I can only put it sufficiently curtly in a careless simile.
+A Socialist means a man who thinks a walking-stick like
+an umbrella because they both go into the umbrella-stand.
+Yet they are as different as a battle-ax and a bootjack.
+The essential idea of an umbrella is breadth and protection.
+The essential idea of a stick is slenderness and, partly, attack.
+The stick is the sword, the umbrella is the shield,
+but it is a shield against another and more nameless enemy--
+the hostile but anonymous universe.  More properly, therefore,
+the umbrella is the roof; it is a kind of collapsible house.
+But the vital difference goes far deeper than this; it branches
+off into two kingdoms of man's mind, with a chasm between.
+For the point is this:  that the umbrella is a shield
+against an enemy so actual as to be a mere nuisance;
+whereas the stick is a sword against enemies so entirely imaginary
+as to be a pure pleasure.  The stick is not merely a sword,
+but a court sword; it is a thing of purely ceremonial swagger.
+One cannot express the emotion in any way except by saying
+that a man feels more like a man with a stick in his hand,
+just as he feels more like a man with a sword at his side.
+But nobody ever had any swelling sentiments about an umbrella;
+it is a convenience, like a door scraper.  An umbrella is a
+necessary evil.  A walking-stick is a quite unnecessary good.
+This, I fancy, is the real explanation of the perpetual losing
+of umbrellas; one does not hear of people losing walking sticks.
+For a walking-stick is a pleasure, a piece of real
+personal property; it is missed even when it is not needed.
+When my right hand forgets its stick may it forget its cunning.
+But anybody may forget an umbrella, as anybody might
+forget a shed that he has stood up in out of the rain.
+Anybody can forget a necessary thing.
+
+If I might pursue the figure of speech, I might briefly say
+that the whole Collectivist error consists in saying that because
+two men can share an umbrella, therefore two men can share
+a walking-stick. Umbrellas might possibly be replaced by some kind
+of common awnings covering certain streets from particular showers.
+But there is nothing but nonsense in the notion of swinging a
+communal stick; it is as if one spoke of twirling a communal mustache.
+It will be said that this is a frank fantasia and that no sociologists
+suggest such follies.  Pardon me if they do.  I will give a precise
+parallel to the case of confusion of sticks and umbrellas,
+a parallel from a perpetually reiterated suggestion of reform.
+At least sixty Socialists out of a hundred, when they have spoken
+of common laundries, will go on at once to speak of common kitchens.
+This is just as mechanical and unintelligent as the fanciful
+case I have quoted.  Sticks and umbrellas are both stiff rods
+that go into holes in a stand in the hall.  Kitchens and
+washhouses are both large rooms full of heat and damp and steam.
+But the soul and function of the two things are utterly opposite.
+There is only one way of washing a shirt; that is, there is only
+one right way.  There is no taste and fancy in tattered shirts.
+Nobody says, "Tompkins likes five holes in his shirt, but I
+must say, give me the good old four holes."  Nobody says,
+"This washerwoman rips up the left leg of my pyjamas; now if
+there is one thing I insist on it is the right leg ripped up."
+The ideal washing is simply to send a thing back washed.
+But it is by no means true that the ideal cooking is simply
+to send a thing back cooked.  Cooking is an art; it has
+in it personality, and even perversity, for the definition
+of an art is that which must be personal and may be perverse.
+I know a man, not otherwise dainty, who cannot touch
+common sausages unless they are almost burned to a coal.
+He wants his sausages fried to rags, yet he does not insist
+on his shirts being boiled to rags.  I do not say that
+such points of culinary delicacy are of high importance.
+I do not say that the communal ideal must give way to them.
+What I say is that the communal ideal is not conscious of
+their existence, and therefore goes wrong from the very start,
+mixing a wholly public thing with a highly individual one.
+Perhaps we ought to accept communal kitchens in the social crisis,
+just as we should accept communal cat's-meat in a siege.
+But the cultured Socialist, quite at his ease, by no means
+in a siege, talks about communal kitchens as if they
+were the same kind of thing as communal laundries.
+This shows at the start that he misunderstands human nature.
+It is as different as three men singing the same chorus from
+three men playing three tunes on the same piano.
+
+* * *
+
+III
+
+THE DREADFUL DUTY OF GUDGE
+
+In the quarrel earlier alluded to between the energetic Progressive
+and the obstinate Conservative (or, to talk a tenderer language,
+between Hudge and Gudge), the state of cross-purposes is at the present
+moment acute.  The Tory says he wants to preserve family life
+in Cindertown; the Socialist very reasonably points out to him that
+in Cindertown at present there isn't any family life to preserve.
+But Hudge, the Socialist, in his turn, is highly vague and mysterious
+about whether he would preserve the family life if there were any;
+or whether he will try to restore it where it has disappeared.
+It is all very confusing.  The Tory sometimes talks as if he wanted
+to tighten the domestic bonds that do not exist; the Socialist
+as if he wanted to loosen the bonds that do not bind anybody.
+The question we all want to ask of both of them is the original
+ideal question, "Do you want to keep the family at all?"  If Hudge,
+the Socialist, does want the family he must be prepared for the
+natural restraints, distinctions and divisions of labor in the family.
+He must brace himself up to bear the idea of the woman having
+a preference for the private house and a man for the public house.
+He must manage to endure somehow the idea of a woman being womanly,
+which does not mean soft and yielding, but handy, thrifty, rather hard,
+and very humorous.  He must confront without a quiver the notion
+of a child who shall be childish, that is, full of energy,
+but without an idea of independence; fundamentally as eager for
+authority as for information and butter-scotch. If a man, a woman
+and a child live together any more in free and sovereign households,
+these ancient relations will recur; and Hudge must put up with it.
+He can only avoid it by destroying the family, driving both sexes into
+sexless hives and hordes, and bringing up all children as the children of
+the state--like Oliver Twist.  But if these stern words must be addressed
+to Hudge, neither shall Gudge escape a somewhat severe admonition.
+For the plain truth to be told pretty sharply to the Tory is this,
+that if he wants the family to remain, if he wants to be strong enough
+to resist the rending forces of our essentially savage commerce,
+he must make some very big sacrifices and try to equalize property.
+The overwhelming mass of the English people at this particular instant
+are simply too poor to be domestic.  They are as domestic as they
+can manage; they are much more domestic than the governing class;
+but they cannot get what good there was originally meant to be in
+this institution, simply because they have not got enough money.
+The man ought to stand for a certain magnanimity, quite lawfully expressed
+in throwing money away:  but if under given circumstances he can only
+do it by throwing the week's food away, then he is not magnanimous,
+but mean.  The woman ought to stand for a certain wisdom which is
+well expressed in valuing things rightly and guarding money sensibly;
+but how is she to guard money if there is no money to guard?
+The child ought to look on his mother as a fountain of natural fun
+and poetry; but how can he unless the fountain, like other fountains,
+is allowed to play?  What chance have any of these ancient arts
+and functions in a house so hideously topsy-turvy; a house where
+the woman is out working and the man isn't; and the child is forced
+by law to think his schoolmaster's requirements more important
+than his mother's? No, Gudge and his friends in the House of Lords
+and the Carlton Club must make up their minds on this matter,
+and that very quickly.  If they are content to have England turned into
+a beehive and an ant-hill, decorated here and there with a few faded
+butterflies playing at an old game called domesticity in the intervals
+of the divorce court, then let them have their empire of insects;
+they will find plenty of Socialists who will give it to them.
+But if they want a domestic England, they must "shell out,"
+as the phrase goes, to a vastly greater extent than any Radical
+politician has yet dared to suggest; they must endure burdens much
+heavier than the Budget and strokes much deadlier than the death duties;
+for the thing to be done is nothing more nor less than the distribution
+of the great fortunes and the great estates.  We can now only avoid
+Socialism by a change as vast as Socialism.  If we are to save property,
+we must distribute property, almost as sternly and sweepingly as did
+the French Revolution.  If we are to preserve the family we must
+revolutionize the nation.

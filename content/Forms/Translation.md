@@ -1,7 +1,7 @@
 ---
 title: Translation
 type: form
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/form
 ---

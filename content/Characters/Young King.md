@@ -1,0 +1,17 @@
+---
+title: Young King
+type: character
+cluster: Allegory · Quest · Pilgrim
+tags:
+  - graph/character
+---
+
+# Young King
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Young-King"></div>
+
+#graph/character

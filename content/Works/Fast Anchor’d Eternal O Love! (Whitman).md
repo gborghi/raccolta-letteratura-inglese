@@ -2,7 +2,7 @@
 title: Fast Anchor’d Eternal O Love!
 author: Whitman
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Comradeship · Union · Hands / Hand in Hand
 source: Authors/Whitman/_raw/077_Fast_Anchor_d_Eternal_O_Love.md
 tags:
   - graph/work
@@ -15,18 +15,24 @@ tags:
 
 # Fast Anchor’d Eternal O Love!
 
-*by Whitman*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
 > Ecstatic lyric that turns from 'O woman I love' to 'O man, O sharer of my roving life'; comradely love, desire, the sea and the open road.
 
 ## Connections
 
-**Motifs:** [[The Sea]]
+**Motifs:** [[Sea]]
 **Themes & Concepts:** [[Romantic Love]], [[Comradeship]], [[Lust Sexual Desire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!077_Fast_Anchor_d_Eternal_O_Love
+
+  Fast-anchor’d eternal O love! O woman I love!
+  O bride! O wife! more resistless than I can tell, the thought of you!
+  Then separate, as disembodied or another born,
+  Ethereal, the last athletic reality, my consolation,
+  I ascend, I float in the regions of your love O man,
+  O sharer of my roving life.

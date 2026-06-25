@@ -1,7 +1,7 @@
 ---
 title: Flowers
 type: motif
-cluster: Lyric · Flowers · Stars
+cluster: Flowers · Spring · Garden
 tags:
   - graph/motif
 ---

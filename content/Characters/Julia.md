@@ -1,0 +1,17 @@
+---
+title: Julia
+type: character
+cluster: Verona
+tags:
+  - graph/character
+---
+
+# Julia
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Julia"></div>
+
+#graph/character

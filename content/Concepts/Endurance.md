@@ -1,7 +1,7 @@
 ---
 title: Endurance
 type: concept
-cluster: The Journey · The Quest · The Pilgrim
+cluster: Ship · Endurance
 tags:
   - graph/concept
 ---

@@ -1,7 +1,7 @@
 ---
 title: Freedom and Liberty
 type: concept
-cluster: Heroism · Honour · Hero
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/concept
 ---

@@ -1,0 +1,63 @@
+---
+title: "Timon of Athens — Act II, Scene 1"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Timon of Athens — Act II, Scene 1
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_2/Scene_2">Scene 2 ›</a></div>
+</nav>
+
+
+Enter a Senator ⌈With bonds⌉
+SENATOR
+And late five thousand. To Varro and to Isidore
+He owes nine thousand, besides my former sum,
+Which makes it five-and-twenty. Still in motion
+Of raging waste! It cannot hold, it will not.
+If I want gold, steal but a beggar’s dog
+And give it Timon, why, the dog coins gold.
+If I would sell my horse and buy twenty more
+Better than he, why, give my horse to Timon—
+Ask nothing, give it him—it foals me straight,
+And able horses. No porter at his gate,
+But rather one that smiles and still invites
+All that pass by. It cannot hold. No reason
+Can sound his state in safety. Caphis ho!
+Caphis, I say!
+Enter Caphis
+CAPHIS Here, sir. What is your pleasure?
+SENATOR
+Get on your cloak and haste you to Lord Timon.
+Importune him for my moneys. Be not ceased
+With slight denial, nor then silenced when
+‘Commend me to your master’, and the cap
+Plays in the right hand, thus; but tell him
+My uses cry to me, I must serve my turn
+Out of mine own, his days and times are past,
+And my reliances on his fracted dates
+Have smit my credit. I love and honour him,
+But must not break my back to heal his finger.
+Immediate are my needs, and my relief
+Must not be tossed and turned to me in words,
+But find supply immediate. Get you gone.
+Put on a most importunate aspect,
+A visage of demand, for I do fear
+When every feather sticks in his own wing
+Lord Timon will be left a naked gull,
+Which flashes now a phoenix. Get you gone.
+CAPHIS
+I go, sir.
+SENATOR ⌈giving him bonds⌉
+Take the bonds along with you,
+And have the dates in count.
+CAPHIS I will, sir.
+SENATOR Go.
+Exeunt ⌈severally⌉

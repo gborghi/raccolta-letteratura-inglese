@@ -1,7 +1,7 @@
 ---
 title: Survival
 type: concept
-cluster: The Journey · The Quest · The Pilgrim
+cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
 tags:
   - graph/concept
 ---

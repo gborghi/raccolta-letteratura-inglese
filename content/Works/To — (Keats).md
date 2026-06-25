@@ -2,7 +2,7 @@
 title: To —
 author: Keats
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 source: Authors/Keats/_raw/063_To.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # To —
 
-*by Keats*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > A tender consolatory lyric urging a weeping beloved not to grieve over a fleeting bliss, proposing a dirge of kisses; transience, love, grief and consolation.
@@ -30,8 +30,30 @@ tags:
 **Themes & Concepts:** [[Transience]], [[Grief and Loss]], [[Romantic Love]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Think not of it, sweet one, so; -
+Give it not a tear;
+Sigh thou mayst, and bid it go
+Any - anywhere.
 
-!063_To
+Do not look so sad, sweet one, —
+Sad and fadingly;
+Shed one drop, then it is gone,
+O ’twas born to die.
+
+Still so pale? then dearest weep;
+Weep, I’ll count the tears,
+And each one shall be a bliss
+For thee in after years.
+
+Brighter has it left thine eyes
+Than a sunny rill;
+And thy whispering melodies
+Are tenderer still.
+
+Yet - as all things mourn awhile
+At fleeting blisses,
+Let us too! but be our dirge
+A dirge of kisses.
+20

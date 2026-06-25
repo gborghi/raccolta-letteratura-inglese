@@ -2,14 +2,14 @@
 title: To Rich Givers
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Wine and Drink · Ballad / Ballade · Road
 source: Authors/Whitman/_raw/124_To_Rich_Givers.md
 tags:
   - graph/work
   - author/Whitman
   - form/free_verse
   - topos/the_open_road
-  - concept/artist_and_society
+  - concept/the_artist_and_society
   - motif/money_gold
   - concept/the_self
   - topos/poet_as_prophet
@@ -17,20 +17,28 @@ tags:
 
 # To Rich Givers
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > The poet cheerfully accepts modest gifts as he rendezvous with his poems, giving in return the entrance to all the gifts of the universe; free-verse on the open road, the poet and gift.
 
 ## Connections
 
-**Topoi:** [[The Open Road Homecoming]], [[The Poet as Prophet]]
+**Topoi:** [[Open Road Homecoming]], [[Poet as Prophet]]
 **Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[The Artist and Society]], [[The Self]]
+**Themes & Concepts:** [[Artist and Society]], [[Self]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!124_To_Rich_Givers
+
+  What you give me I cheerfully accept,
+  A little sustenance, a hut and garden, a little money, as I
+      rendezvous with my poems,
+  A traveler’s lodging and breakfast as journey through the States,--
+      why should I be ashamed to own such gifts? why to advertise for them?
+  For I myself am not one who bestows nothing upon man and woman,
+  For I bestow upon any man or woman the entrance to all the gifts of
+      the universe.

@@ -1,0 +1,48 @@
+---
+title: "Richard II — Act II, Scene 4"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/RICHARD-II-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Richard II — Act II, Scene 4
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Richard_II/Act_2/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Richard_II/Act_3/Scene_1">Scene 1 ›</a></div>
+</nav>
+
+
+Enter the Earl of Salisbury and a Welsh Captain
+WELSH CAPTAIN
+My lord of Salisbury, we have stayed ten days,
+And hardly kept our countrymen together,
+And yet we hear no tidings from the King.
+Therefore we will disperse ourselves. Farewell.
+SALISBURY
+Stay yet another day, thou trusty Welshman.
+The King reposeth all his confidence in thee.
+WELSH CAPTAIN
+’Tis thought the King is dead. We will not stay.
+The bay trees in our country are all withered,
+And meteors fright the fixèd stars of heaven.
+The pale-faced moon looks bloody on the earth,
+And lean-looked prophets whisper fearful change.
+Rich men look sad, and ruffians dance and leap;
+The one in fear to lose what they enjoy,
+The other to enjoy by rage and war.
+These signs forerun the death or fall of kings.
+Farewell. Our countrymen are gone and fled,
+As well assured Richard their king is dead.
+Exit
+SALISBURY
+Ah, Richard! With the eyes of heavy mind
+I see thy glory, like a shooting star,
+Fall to the base earth from the firmament.
+Thy sun sets weeping in the lowly west,
+Witnessing storms to come, woe, and unrest.
+Thy friends are fled to wait upon thy foes,
+And crossly to thy good all fortune goes. Exit

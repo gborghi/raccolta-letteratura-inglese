@@ -1,7 +1,7 @@
 ---
 title: Seven Ages of Man
 type: topos
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 tags:
   - graph/topos
 ---

@@ -1,7 +1,7 @@
 ---
 title: Humility
 type: concept
-cluster: Grace and Redemption · Humility · The Desert
+cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
 tags:
   - graph/concept
 ---

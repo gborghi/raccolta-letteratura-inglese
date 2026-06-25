@@ -1,7 +1,7 @@
 ---
 title: Fanaticism
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Order vs Chaos · Historical Novel · Fanaticism
 tags:
   - graph/concept
 ---

@@ -1,0 +1,19 @@
+---
+title: "Twelfth Night — Act III, Scene 4 — monologue (MALVOLIO O) [2]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Twelfth Night — Act III, Scene 4 — monologue (MALVOLIO O) [2]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
+</nav>
+
+
+MALVOLIO O ho, do you come near me now? No worse man than Sir Toby to look to me. This concurs directly with the letter, she sends him on purpose, that I may appear stubborn to him, for she incites me to that in the letter. ‘Cast thy humble slough,’ says she, ‘be opposite with a kinsman, surly with servants, let thy tongue tang arguments of state, put thyself into the trick of singularity’, and consequently sets down the manner how, as a sad face, a reverend carriage, a slow tongue, in the habit of some sir of note, and so forth. I have limed her, but it is Jove’s doing, and Jove make me thankful. And when she went away now, ‘let this fellow be looked to’. Fellow!—not ‘Malvolio’, nor after my degree, but ‘fellow’. Why, everything adheres together that no dram of a scruple, no scruple of a scruple, no obstacle, no incredulous or unsafe circumstance—what can be said?—nothing that can be can come between me and the full prospect of my hopes. Well, Jove, not I, is the doer of this, and he is to be thanked.
+Enter Sir Toby, Fabian, and Maria

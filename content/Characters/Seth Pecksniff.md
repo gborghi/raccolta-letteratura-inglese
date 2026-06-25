@@ -1,0 +1,17 @@
+---
+title: Seth Pecksniff
+type: character
+cluster: Education · Self-Made Man · Wheel
+tags:
+  - graph/character
+---
+
+# Seth Pecksniff
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Seth-Pecksniff"></div>
+
+#graph/character

@@ -1,7 +1,7 @@
 ---
 title: Masque
 type: form
-cluster: Power and Corruption · The Crown · Pride
+cluster: Blank Verse · Tragicomedy · Romance Play
 tags:
   - graph/form
 ---

@@ -1,0 +1,81 @@
+---
+title: Identity · Free Verse · Eternal Return
+type: cluster
+tags:
+  - graph/cluster
+---
+
+# Identity · Free Verse · Eternal Return
+
+*Cluster* — **66 works**.
+
+## Defining concepts
+[[Free Verse]] (51), [[Identity]] (25), [[Body]] (23), [[Self-Knowledge]] (19), [[Self]] (12), [[Democracy]] (11), [[Eternal Return]] (10), [[Nature]] (9), [[Poet as Prophet]] (9), [[War and its Cost]] (7), [[Common Man]] (7), [[Immortality]] (7), [[Artist and Society]] (6), [[Romantic Love]] (6), [[Sexuality]] (6)
+
+## Works
+- [[A Broadway Pageant (Whitman)]]
+- [[A Hand-Mirror (Whitman)]]
+- [[A Song for Occupations (Whitman)]]
+- [[A Song of Joys (Whitman)]]
+- [[A Song of the Rolling Earth (Whitman)]]
+- [[A Woman Waits for Me (Whitman)]]
+- [[Ages and Ages Returning at Intervals (Whitman)]]
+- [[Among the Multitude (Whitman)]]
+- [[Are You the New Person Drawn Toward Me (Whitman)]]
+- [[As Adam Early in the Morning (Whitman)]]
+- [[As I Ebb’d with the Ocean of Life (Whitman)]]
+- [[As I Ponder’d in Silence (Whitman)]]
+- [[Beginners (Whitman)]]
+- [[East Coker 1940 (Eliot)]]
+- [[Eidolons (Whitman)]]
+- [[Excelsior (Whitman)]]
+- [[Facing West from California’s Shores (Whitman)]]
+- [[For Him I Sing (Whitman)]]
+- [[From Pent-Up Aching Rivers (Whitman)]]
+- [[I Heard You Solemn-Sweet Pipes of the Organ (Whitman)]]
+- [[I Sing the Body Electric (Whitman)]]
+- [[I Sit and Look Out (Whitman)]]
+- [[I The Eagle soars in the summit of Heaven (Eliot)]]
+- [[Kosmos (Whitman)]]
+- [[Laws for Creations (Whitman)]]
+- [[Lingering Last Drops (Whitman)]]
+- [[Me Imperturbe (Whitman)]]
+- [[Myself and Mine (Whitman)]]
+- [[Native Moments (Whitman)]]
+- [[Not Heaving from My Ribb’d Breast Only (Whitman)]]
+- [[Not Youth Pertains to Me (Whitman)]]
+- [[O Living Always, Always Dying (Whitman)]]
+- [[O Me! O Life! (Whitman)]]
+- [[One’s-Self I Sing (Whitman)]]
+- [[Out from Behind This Mask To Confront a Portrait (Whitman)]]
+- [[Savantism (Whitman)]]
+- [[Shut Not Your Doors (Whitman)]]
+- [[Small the Theme of My Chant (Whitman)]]
+- [[Song of Myself (Whitman)]]
+- [[Song of Prudence (Whitman)]]
+- [[Song of the Broad-Axe (Whitman)]]
+- [[Song of the Exposition (Whitman)]]
+- [[Song of the Redwood-Tree (Whitman)]]
+- [[Song of the Universal (Whitman)]]
+- [[Spontaneous Me (Whitman)]]
+- [[Still Though the One I Sing (Whitman)]]
+- [[Tears (Whitman)]]
+- [[Tests (Whitman)]]
+- [[That Shadow My Likeness (Whitman)]]
+- [[The Runner (Whitman)]]
+- [[Thoughts (Whitman)]]
+- [[To a Certain Cantatrice (Whitman)]]
+- [[To a Historian (Whitman)]]
+- [[To a President (Whitman)]]
+- [[To a Pupil (Whitman)]]
+- [[To a Stranger (Whitman)]]
+- [[To the Garden the World (Whitman)]]
+- [[To You (Whitman)]]
+- [[Unfolded out of the Folds (Whitman)]]
+- [[We Two, How Long We Were Fool’d (Whitman)]]
+- [[What Am I After All (Whitman)]]
+- [[What Place Is Besieged (Whitman)]]
+- [[When I Read the Book (Whitman)]]
+- [[With Antecedents (Whitman)]]
+- [[Year of Meteors 1859-60 (Whitman)]]
+- [[You Felons on Trial in Courts (Whitman)]]

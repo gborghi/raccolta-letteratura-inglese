@@ -2,7 +2,7 @@
 title: Camps of Green
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/285_Camps_of_Green.md
 tags:
   - graph/work
@@ -17,19 +17,52 @@ tags:
 
 # Camps of Green
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > A free-verse lyric extending the soldiers' bivouac into the universal camp of the dead beneath the grass; themes of death, war, sleep and comradeship.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[Sleep]], [[Comradeship (2)]], [[Grass Leaves of Grass]]
+**Motifs:** [[Death]], [[Sleep]], [[Comradeship (2)]], [[Grass Leaves of Grass]]
 **Themes & Concepts:** [[War and its Cost]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SONGS OF PARTING_
 
-!285_Camps_of_Green
+
+  Nor alone those camps of white, old comrades of the wars,
+  When as order’d forward, after a long march,
+  Footsore and weary, soon as the light lessens we halt for the night,
+  Some of us so fatigued carrying the gun and knapsack, dropping
+      asleep in our tracks,
+  Others pitching the little tents, and the fires lit up begin to sparkle,
+  Outposts of pickets posted surrounding alert through the dark,
+  And a word provided for countersign, careful for safety,
+  Till to the call of the drummers at daybreak loudly beating the drums,
+  We rise up refresh’d, the night and sleep pass’d over, and resume our
+      journey,
+  Or proceed to battle.
+
+  Lo, the camps of the tents of green,
+  Which the days of peace keep filling, and the days of war keep filling,
+  With a mystic army, (is it too order’d forward? is it too only
+      halting awhile,
+  Till night and sleep pass over?)
+
+  Now in those camps of green, in their tents dotting the world,
+  In the parents, children, husbands, wives, in them, in the old and young,
+  Sleeping under the sunlight, sleeping under the moonlight, content
+      and silent there at last,
+  Behold the mighty bivouac-field and waiting-camp of all,
+  Of the corps and generals all, and the President over the corps and
+      generals all,
+  And of each of us O soldiers, and of each and all in the ranks we fought,
+  (There without hatred we all, all meet.)
+
+  For presently O soldiers, we too camp in our place in the
+      bivouac-camps of green,
+  But we need not provide for outposts, nor word for the countersign,
+  Nor drummer to beat the morning drum.

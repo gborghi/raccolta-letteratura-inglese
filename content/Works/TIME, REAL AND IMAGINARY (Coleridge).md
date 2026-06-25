@@ -2,7 +2,7 @@
 title: 'TIME, REAL AND IMAGINARY'
 author: Coleridge
 type: work
-cluster: Faith and Doubt · Doubt · Allegory
+cluster: Allegory · Quest · Pilgrim
 source: Authors/Coleridge/_raw/248_TIME_REAL_AND_IMAGINARY.md
 tags:
   - graph/work
@@ -17,20 +17,30 @@ tags:
 
 # TIME, REAL AND IMAGINARY
 
-*by Coleridge*  ·  **Cluster:** [[Faith and Doubt · Doubt · Allegory]]
+*by Coleridge*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
 > An allegory in which two children (a sighted sister, a blind brother) race endlessly on a faery mountain, figuring imaginary versus real time. Central themes: time, memory, the imagination.
 
 ## Connections
 
-**Archetypes:** [[The Child]]
+**Archetypes:** [[Child]]
 **Motifs:** [[Time]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Memory and Time]], [[Imagination]]
 **Forms & Genres:** [[Allegory]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!248_TIME_REAL_AND_IMAGINARY
+AN ALLEGORY
+On the wide level of a mountain’s head,
+(I knew not where, but ‘twas some faery place)
+Their pinions, ostrich-like, for sails out-spread,
+Two lovely children run an endless race,
+A sister and a brother!
+This far outstripp’d the other;
+Yet ever runs she with reverted face.
+And looks and listens for the boy behind:
+For he, alas! is blind!
+O’er rough and smooth with even step he passed,   10
+And knows not whether he be first or last.
+? 1812.

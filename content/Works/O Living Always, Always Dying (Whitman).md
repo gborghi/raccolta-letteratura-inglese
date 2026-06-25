@@ -2,7 +2,7 @@
 title: 'O Living Always, Always Dying'
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/246_O_Living_Always_Always_Dying.md
 tags:
   - graph/work
@@ -16,19 +16,26 @@ tags:
 
 # O Living Always, Always Dying
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Lyric on the self continually dying and being reborn, content to leave behind the corpses of former selves and stride ahead, always living.
 
 ## Connections
 
-**Topoi:** [[Eternal Return (2)]]
-**Motifs:** [[Death (2)]]
+**Topoi:** [[Eternal Return]]
+**Motifs:** [[Death]]
 **Themes & Concepts:** [[Identity]], [[Mortality]], [[Self-Knowledge]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: WHISPERS OF HEAVENLY DEATH_
 
-!246_O_Living_Always_Always_Dying
+
+  O living always, always dying!
+  O the burials of me past and present,
+  O me while I stride ahead, material, visible, imperious as ever;
+  O me, what I was for years, now dead, (I lament not, I am content;)
+  O to disengage myself from those corpses of me, which I turn and
+      look at where I cast them,
+  To pass on, (O living! always living!) and leave the corpses behind.

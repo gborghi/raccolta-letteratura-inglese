@@ -1,7 +1,7 @@
 ---
 title: Ottava Rima
 type: form
-cluster: Wine and Drink · Food and Feasting · The Inn / Tavern
+cluster: Ottava Rima
 tags:
   - graph/form
 ---

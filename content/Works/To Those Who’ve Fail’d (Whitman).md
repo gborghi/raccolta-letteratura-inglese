@@ -2,7 +2,7 @@
 title: To Those Who’ve Fail’d
 author: Whitman
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 source: Authors/Whitman/_raw/297_To_Those_Who_ve_Fail_d.md
 tags:
   - graph/work
@@ -16,19 +16,28 @@ tags:
 
 # To Those Who’ve Fail’d
 
-*by Whitman*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Whitman*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
 > A free-verse tribute raising a laurel monument to those cut off by early death before their aspirations were realized; themes of failure, death and heroism.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[Fire]]
+**Motifs:** [[Death]], [[Fire]]
 **Themes & Concepts:** [[Heroism]], [[Grief and Loss]]
 **Forms & Genres:** [[Elegy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!297_To_Those_Who_ve_Fail_d
+
+  To those who’ve fail’d, in aspiration vast,
+  To unnam’d soldiers fallen in front on the lead,
+  To calm, devoted engineers--to over-ardent travelers--to pilots on
+      their ships,
+  To many a lofty song and picture without recognition--I’d rear
+      laurel-cover’d monument,
+  High, high above the rest--To all cut off before their time,
+  Possess’d by some strange spirit of fire,
+  Quench’d by an early death.

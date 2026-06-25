@@ -27,8 +27,20 @@ tags:
 **Themes & Concepts:** [[Nostalgia]], [[Maturation and Growth]], [[Innocence and Experience]], [[Grief and Loss]], [[Education]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!030_SONNET_ON_QUITTING_SCHOOL_FOR_COLLEGE
+Farewell parental scenes! a sad farewell!
+To you my grateful heart still fondly clings,
+Tho’ fluttering round on Fancy’s burnish’d wings
+Her tales of future Joy Hope loves to tell.
+Adieu, adieu! ye much-lov’d cloisters pale!   5
+Ah! would those happy days return again,
+When ‘neath your arches, free from every stain,
+I heard of guilt and wonder’d at the tale!
+Dear haunts! where oft my simple lays I sang,
+Listening meanwhile the echoings of my feet,   10
+Lingering I quit you, with as great a pang,
+As when erewhile, my weeping childhood, torn
+By early sorrow from my native seat,
+Mingled its tears with hers — my widow’d Parent lorn.
+1791.

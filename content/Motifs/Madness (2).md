@@ -1,7 +1,7 @@
 ---
 title: Madness
 type: motif
-cluster: The World Upside Down · Madness · Madness
+cluster: Terror and Horror · Madness · Madness
 tags:
   - graph/motif
 ---

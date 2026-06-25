@@ -2,7 +2,7 @@
 title: Reversals
 author: Whitman
 type: work
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: World Upside Down · Comedy
 source: Authors/Whitman/_raw/190_Reversals.md
 tags:
   - graph/work
@@ -16,19 +16,22 @@ tags:
 
 # Reversals
 
-*by Whitman*  ·  **Cluster:** [[Money and Gold · Marriage and Fidelity · Social Injustice]]
+*by Whitman*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 
 > Brief world-upside-down fragment inverting front and back, bidding the despised offer new propositions; a topos of social reversal.
 
 ## Connections
 
-**Topoi:** [[The World Upside Down]]
+**Topoi:** [[World Upside Down]]
 **Themes & Concepts:** [[Reform]], [[Social Injustice]], [[Satire of Society]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!190_Reversals
+Let that which stood in front go behind,
+  Let that which was behind advance to the front,
+  Let bigots, fools, unclean persons, offer new propositions,
+  Let the old propositions be postponed,
+  Let a man seek pleasure everywhere except in himself,
+  Let a woman seek happiness everywhere except in herself

@@ -1,7 +1,7 @@
 ---
 title: Nature vs Civilization
 type: concept
-cluster: Nature vs Civilization · The Garden · Pastoral Retreat
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 tags:
   - graph/concept
 ---

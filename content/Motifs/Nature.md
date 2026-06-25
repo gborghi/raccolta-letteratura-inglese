@@ -1,7 +1,7 @@
 ---
 title: Nature
 type: motif
-cluster: Nature · The Book of Nature · The Natural Order
+cluster: Nature · Book of Nature · Natural Order
 tags:
   - graph/motif
 ---

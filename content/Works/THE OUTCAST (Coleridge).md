@@ -2,7 +2,7 @@
 title: THE OUTCAST
 author: Coleridge
 type: work
-cluster: The Outsider · Fall from Innocence · The (Reputed) Fallen Woman
+cluster: Alienation · Outsider · Exile
 source: Authors/Coleridge/_raw/072_THE_OUTCAST.md
 tags:
   - graph/work
@@ -18,19 +18,31 @@ tags:
 
 # THE OUTCAST
 
-*by Coleridge*  ·  **Cluster:** [[The Outsider · Fall from Innocence · The (Reputed) Fallen Woman]]
+*by Coleridge*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
 > Sonnet of compassion for a fallen woman cast out to want and scorn by a pitiless world; social injustice, the fallen woman, the outcast, mercy of the great Comforter.
 
 ## Connections
 
-**Archetypes:** [[The (Reputed) Fallen Woman]], [[The Outsider]]
+**Archetypes:** [[(Reputed) Fallen Woman]], [[Outsider]]
 **Themes & Concepts:** [[Social Injustice]], [[Mercy]], [[Alienation]], [[Poverty]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!072_THE_OUTCAST
+Pale Roamer through the night! thou poor Forlorn!
+Remorse that man on his death-bed possess,
+Who in the credulous hour of tenderness
+Betrayed, then cast thee forth to Want and Scorn!
+The world is pitiless: the chaste one’s pride   5
+Mimic of Virtue scowls on thy distress:
+Thy Loves and they that envied thee deride:
+And Vice alone will shelter Wretchedness!
+O! I could weep to think that there should be
+Cold-bosom’d lewd ones, who endure to place   10
+Foul offerings on the shrine of Misery,
+And force from Famine the caress of Love;
+May He shed healing on the sore disgrace,
+He, the great Comforter that rules above!
+? 1794.

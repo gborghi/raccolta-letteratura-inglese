@@ -2,7 +2,7 @@
 title: LOVE AND FRIENDSHIP OPPOSITE
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Coleridge/_raw/291_LOVE_AND_FRIENDSHIP_OPPOSITE.md
 tags:
   - graph/work
@@ -16,19 +16,25 @@ tags:
 
 # LOVE AND FRIENDSHIP OPPOSITE
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > A short lyric epigram on the irreconcilable difference between love and friendship, arguing love unreturned grows ashamed of itself.
 
 ## Connections
 
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Themes & Concepts:** [[Romantic Love]], [[Friendship]], [[Unrequited Frustrated Love]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!291_LOVE_AND_FRIENDSHIP_OPPOSITE
+Her attachment may differ from yours in degree,
+Provided they are both of one kind;
+But Friendship, how tender so ever it be,
+Gives no accord to Love, however refined.
+Love, that meets not with Love, its true nature revealing,   5
+Grows ashamed of itself, and demurs:
+If you cannot lift hers up to your state of feeling,
+You must lower down your state to hers.
+? 1830.

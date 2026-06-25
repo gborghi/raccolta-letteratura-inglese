@@ -1,7 +1,7 @@
 ---
 title: Vanity of Worldly Things
 type: concept
-cluster: Vanitas · The Wheel · Contemptus Mundi
+cluster: Vanitas · Contemptus Mundi · Vanity of Worldly Things
 tags:
   - graph/concept
 ---

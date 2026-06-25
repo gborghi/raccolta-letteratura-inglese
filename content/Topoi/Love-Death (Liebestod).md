@@ -1,7 +1,7 @@
 ---
 title: Love-Death (Liebestod)
 type: topos
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/topos
 ---

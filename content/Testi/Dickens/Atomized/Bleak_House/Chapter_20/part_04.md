@@ -1,0 +1,146 @@
+---
+title: "Bleak House — Chapter 20 (part 4)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Bleak-House-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Bleak House — Chapter 20 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_20/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_20/part_05">part 05 ›</a></div>
+</nav>
+
+
+“You don’t mean—” Mr. Jobling begins.
+
+“I mean,” returns Mr. Guppy, shrugging his shoulders with becoming
+modesty, “that I can’t make him out. I appeal to our mutual friend
+Smallweed whether he has or has not heard me remark that I can’t make
+him out.”
+
+Mr. Smallweed bears the concise testimony, “A few!”
+
+“I have seen something of the profession and something of life,
+Tony,” says Mr. Guppy, “and it’s seldom I can’t make a man out, more
+or less. But such an old card as this, so deep, so sly, and secret
+(though I don’t believe he is ever sober), I never came across. Now,
+he must be precious old, you know, and he has not a soul about him,
+and he is reported to be immensely rich; and whether he is a
+smuggler, or a receiver, or an unlicensed pawnbroker, or a
+money-lender—all of which I have thought likely at different
+times—it might pay you to knock up a sort of knowledge of him. I
+don’t see why you shouldn’t go in for it, when everything else
+suits.”
+
+Mr. Jobling, Mr. Guppy, and Mr. Smallweed all lean their elbows on
+the table and their chins upon their hands, and look at the ceiling.
+After a time, they all drink, slowly lean back, put their hands in
+their pockets, and look at one another.
+
+“If I had the energy I once possessed, Tony!” says Mr. Guppy with a
+sigh. “But there are chords in the human mind—”
+
+Expressing the remainder of the desolate sentiment in rum-and-water,
+Mr. Guppy concludes by resigning the adventure to Tony Jobling and
+informing him that during the vacation and while things are slack,
+his purse, “as far as three or four or even five pound goes,” will be
+at his disposal. “For never shall it be said,” Mr. Guppy adds with
+emphasis, “that William Guppy turned his back upon his friend!”
+
+The latter part of the proposal is so directly to the purpose that
+Mr. Jobling says with emotion, “Guppy, my trump, your fist!” Mr.
+Guppy presents it, saying, “Jobling, my boy, there it is!” Mr.
+Jobling returns, “Guppy, we have been pals now for some years!” Mr.
+Guppy replies, “Jobling, we have.”
+
+They then shake hands, and Mr. Jobling adds in a feeling manner,
+“Thank you, Guppy, I don’t know but what I WILL take another glass
+for old acquaintance sake.”
+
+“Krook’s last lodger died there,” observes Mr. Guppy in an incidental
+way.
+
+“Did he though!” says Mr. Jobling.
+
+“There was a verdict. Accidental death. You don’t mind that?”
+
+“No,” says Mr. Jobling, “I don’t mind it; but he might as well have
+died somewhere else. It’s devilish odd that he need go and die at MY
+place!” Mr. Jobling quite resents this liberty, several times
+returning to it with such remarks as, “There are places enough to die
+in, I should think!” or, “He wouldn’t have liked my dying at HIS
+place, I dare say!”
+
+However, the compact being virtually made, Mr. Guppy proposes to
+dispatch the trusty Smallweed to ascertain if Mr. Krook is at home,
+as in that case they may complete the negotiation without delay. Mr.
+Jobling approving, Smallweed puts himself under the tall hat and
+conveys it out of the dining-rooms in the Guppy manner. He soon
+returns with the intelligence that Mr. Krook is at home and that he
+has seen him through the shop-door, sitting in the back premises,
+sleeping “like one o’clock.”
+
+“Then I’ll pay,” says Mr. Guppy, “and we’ll go and see him. Small,
+what will it be?”
+
+Mr. Smallweed, compelling the attendance of the waitress with one
+hitch of his eyelash, instantly replies as follows: “Four veals and
+hams is three, and four potatoes is three and four, and one summer
+cabbage is three and six, and three marrows is four and six, and six
+breads is five, and three Cheshires is five and three, and four
+half-pints of half-and-half is six and three, and four small rums is
+eight and three, and three Pollys is eight and six. Eight and six in
+half a sovereign, Polly, and eighteenpence out!”
+
+Not at all excited by these stupendous calculations, Smallweed
+dismisses his friends with a cool nod and remains behind to take a
+little admiring notice of Polly, as opportunity may serve, and to
+read the daily papers, which are so very large in proportion to
+himself, shorn of his hat, that when he holds up the Times to run his
+eye over the columns, he seems to have retired for the night and to
+have disappeared under the bedclothes.
+
+Mr. Guppy and Mr. Jobling repair to the rag and bottle shop, where
+they find Krook still sleeping like one o’clock, that is to say,
+breathing stertorously with his chin upon his breast and quite
+insensible to any external sounds or even to gentle shaking. On the
+table beside him, among the usual lumber, stand an empty gin-bottle
+and a glass. The unwholesome air is so stained with this liquor that
+even the green eyes of the cat upon her shelf, as they open and shut
+and glimmer on the visitors, look drunk.
+
+“Hold up here!” says Mr. Guppy, giving the relaxed figure of the old
+man another shake. “Mr. Krook! Halloa, sir!”
+
+But it would seem as easy to wake a bundle of old clothes with a
+spirituous heat smouldering in it. “Did you ever see such a stupor as
+he falls into, between drink and sleep?” says Mr. Guppy.
+
+“If this is his regular sleep,” returns Jobling, rather alarmed,
+“it’ll last a long time one of these days, I am thinking.”
+
+“It’s always more like a fit than a nap,” says Mr. Guppy, shaking him
+again. “Halloa, your lordship! Why, he might be robbed fifty times
+over! Open your eyes!”
+
+After much ado, he opens them, but without appearing to see his
+visitors or any other objects. Though he crosses one leg on another,
+and folds his hands, and several times closes and opens his parched
+lips, he seems to all intents and purposes as insensible as before.
+
+“He is alive, at any rate,” says Mr. Guppy. “How are you, my Lord
+Chancellor. I have brought a friend of mine, sir, on a little matter
+of business.”
+
+The old man still sits, often smacking his dry lips without the least
+consciousness. After some minutes he makes an attempt to rise. They
+help him up, and he staggers against the wall and stares at them.
+
+“How do you do, Mr. Krook?” says Mr. Guppy in some discomfiture. “How
+do you do, sir? You are looking charming, Mr. Krook. I hope you are
+pretty well?”

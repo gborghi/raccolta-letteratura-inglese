@@ -1,7 +1,7 @@
 ---
 title: Kingship and Legitimacy
 type: concept
-cluster: Power and Corruption · The Crown · Pride
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/concept
 ---

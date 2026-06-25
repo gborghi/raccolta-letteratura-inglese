@@ -1,0 +1,47 @@
+---
+title: "Edward III — Scene 12 — monologue (PRINCE OF WALES) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/EDWARD-III-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Edward III — Scene 12 — monologue (PRINCE OF WALES) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/EDWARD-III-(Shakespeare)">Edward III</a></div>
+</nav>
+
+
+PRINCE OF WALES
+Death’s name is much more mighty than his deeds.
+Thy parcelling this power hath made it more
+Than all the world! Call it but a power.
+As many sands as these, my hands, can hold
+Are but my handful of so many sands,
+Eas‘ly ta’en up and quickly thrown away.
+But if I stand to count them, sand by sand,
+The number would confound my memory,
+And make a thousand millions of a task
+Which, briefly, is no more in deed than one.
+These quarters, squadrons and these regiments
+Before, behind us, and on either hand,
+Are but a power. When we name a man,
+His hand, his foot, his head hath several strengths,
+And, being all but one self-instanced strength,
+Why, all this many, Audley, is but one,
+And we can call it all but one man’s strength.
+He that hath far to go tells it by miles;
+If he should tell the steps it kills his heart.
+The drops are infinite that make a flood,
+And yet, thou know’st, we call it but a rain.
+There is but one France, and one king of France:
+That France hath no more kings, and that same king
+Hath but the puissant legion of one king.
+And we have one. Then apprehend no odds,
+For one to one is fair equality.
+Enter
+a Herald from Jean King of France
+What tidings, messenger? Be plain and brief.

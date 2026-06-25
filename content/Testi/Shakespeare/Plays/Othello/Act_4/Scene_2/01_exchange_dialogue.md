@@ -1,0 +1,135 @@
+---
+title: "Othello — Act IV, Scene 2 — exchange (dialogue) [1]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/OTHELLO-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Othello — Act IV, Scene 2 — exchange (dialogue) [1]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
+</nav>
+
+
+Enter Othello and Emilia
+
+OTHELLO You have seen nothing then?
+
+EMILIA
+Nor ever heard, nor ever did suspect.
+
+OTHELLO
+Yes, you have seen Cassio and she together.
+
+EMILIA
+But then I saw no harm, and then I heard
+Each syllable that breath made up between ’em.
+
+OTHELLO What, did they never whisper?
+
+EMILIA Never, my lord.
+
+OTHELLO Nor send you out o’th’ way?
+
+EMILIA Never.
+
+OTHELLO
+To fetch her fan, her gloves, her mask, nor nothing?
+
+EMILIA Never, my lord.
+
+OTHELLO That’s strange.
+
+EMILIA
+I durst, my lord, to wager she is honest,
+Lay down my soul at stake. If you think other,
+Remove your thought; it doth abuse your bosom.
+If any wretch ha’ put this in your head,
+Let heaven requite it with the serpent’s curse,
+For if she be not honest, chaste, and true,
+There’s no man happy; the purest of their wives
+Is foul as slander.
+
+OTHELLO Bid her come hither. Go.
+Exit Emilia
+She says enough, yet she’s a simple bawd
+That cannot say as much. This is a subtle whore,
+A closet lock and key of villainous secrets,
+And yet she’ll kneel and pray—I ha’ seen her do’t.
+Enter Desdemona and Emilia
+
+DESDEMONA
+My lord, what is your will?
+
+OTHELLO Pray you, chuck, come hither.
+
+DESDEMONA
+What is your pleasure?
+
+OTHELLO Let me see your eyes.
+Look in my face.
+
+DESDEMONA What horrible fancy’s this?
+
+OTHELLO (to Emilia) Some of your function, mistress.
+Leave procreants alone, and shut the door,
+Cough or cry ‘Hem’ if anybody come.
+Your mystery, your mystery—nay, dispatch.
+Exit Emilia
+
+DESDEMONA
+Upon my knees, what doth your speech import?
+I understand a fury in your words,
+But not the words.
+
+OTHELLO Why, what art thou?
+
+DESDEMONA
+Your wife, my lord, your true and loyal wife.
+
+OTHELLO Come, swear it, damn thyself,
+Lest, being like one of heaven, the devils themselves
+Should fear to seize thee. Therefore be double-damned:
+Swear thou art honest.
+
+DESDEMONA Heaven doth truly know it. 40
+
+OTHELLO
+Heaven truly knows that thou art false as hell.
+
+DESDEMONA
+To whom, my lord? With whom? How am I false?
+
+OTHELLO (weeping)
+Ah, Desdemon, away, away, away!
+
+DESDEMONA
+Alas, the heavy day! Why do you weep?
+Am I the motive of these tears, my lord?
+If haply you my father do suspect
+An instrument of this your calling back,
+Lay not your blame on me. If you have lost him,
+I have lost him too.
+
+OTHELLO Had it pleased God
+To try me with affliction; had He rained
+All kind of sores and shames on my bare head,
+Steeped me in poverty to the very lips,
+Given to captivity me and my utmost hopes,
+I should have found in some place of my soul
+A drop of patience. But, alas, to make me
+The fixed figure for the time of scorn
+To point his slow and moving finger at—
+Yet could I bear that too, well, very well.
+But there where I have garnered up my heart,
+Where either I must live or bear no life,
+The fountain from the which my current runs
+Or else dries up—to be discarded thence,
+Or keep it as a cistern for foul toads
+To knot and gender in! Turn thy complexion there,
+Patience, thou young and rose-lipped cherubin,
+Ay, here look grim as hell.

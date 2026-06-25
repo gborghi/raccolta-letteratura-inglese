@@ -1,7 +1,7 @@
 ---
 title: Nakedness
 type: motif
-cluster: Power and Corruption · The Crown · Pride
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/motif
 ---

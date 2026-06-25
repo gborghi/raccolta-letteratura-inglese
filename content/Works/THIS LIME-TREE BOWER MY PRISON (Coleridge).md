@@ -2,7 +2,7 @@
 title: THIS LIME-TREE BOWER MY PRISON
 author: Coleridge
 type: work
-cluster: Imagination · Creativity and Artistic Labor · The One Life (Pantheism)
+cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/134_THIS_LIME-TREE_BOWER_MY_PRISON.md
 tags:
   - graph/work
@@ -18,20 +18,102 @@ tags:
 
 # THIS LIME-TREE BOWER MY PRISON
 
-*by Coleridge*  ·  **Cluster:** [[Imagination · Creativity and Artistic Labor · The One Life (Pantheism)]]
+*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > A blank-verse conversation poem in which the disabled poet imaginatively follows his friends through the landscape, discovering that nature never deserts the wise; themes of imagination, nature and friendship.
 
 ## Connections
 
-**Topoi:** [[The Book of Nature]]
+**Topoi:** [[Book of Nature]]
 **Motifs:** [[Nature]], [[Birds]]
 **Themes & Concepts:** [[Imagination]], [[Friendship]], [[Joy]]
 **Forms & Genres:** [[Blank Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!134_THIS_LIME-TREE_BOWER_MY_PRISON
+ADDRESSED TO CHARLES LAMB, OF THE INDIA HOUSE, LONDON
+In the June of 1797 some long-expected friends paid a visit to the
+author’s cottage; and on the morning of their arrival, he met with an
+accident, which disabled him from walking during the whole time of their
+stay. One evening, when they had left him for a few hours, he composed
+the following lines in the garden-bower.
+Well, they are gone, and here must I remain,
+This lime-tree bower my prison! I have lost
+Beauties and feelings, such as would have been
+Most sweet to my remembrance even when age
+Had dimm’d mine eyes to blindness! They, meanwhile,   5
+Friends, whom I never more may meet again,
+On springy heath, along the hill-top edge,
+Wander in gladness, and wind down, perchance,
+To that still roaring dell, of which I told;
+The roaring dell, o’erwooded, narrow, deep,   10
+And only speckled by the mid-day sun;
+Where its slim trunk the ash from rock to rock
+Flings arching like a bridge; — that branchless ash,
+Unsunn’d and damp, whose few poor yellow leaves
+Ne’er tremble in the gale, yet tremble still,   15
+Fann’d by the water-fall! and there my friends
+Behold the dark green file of long lank weeds,
+That all at once (a most fantastic sight!)
+Still nod and drip beneath the dripping edge
+Of the blue clay-stone.
+Now, my friends emerge   20
+Beneath the wide wide Heaven — and view again
+The many-steepled tract magnificent
+Of hilly fields and meadows, and the sea,
+With some fair bark, perhaps, whose sails light up
+The slip of smooth clear blue betwixt two Isles   25
+Of purple shadow! Yes! they wander on
+In gladness all; but thou, methinks, most glad,
+My gentle-hearted Charles! for thou hast pined
+And hunger’d after Nature, many a year,
+In the great City pent, winning thy way   30
+With sad yet patient soul, through evil and pain
+And strange calamity! Ah! slowly sink
+Behind the western ridge, thou glorious Sun!
+Shine in the slant beams of the sinking orb,
+Ye purple heath-flowers! richlier burn, ye clouds!   35
+Live in the yellow light, ye distant groves!
+And kindle, thou blue Ocean! So my friend
+Struck with deep joy may stand, as I have stood,
+Silent with swimming sense; yea, gazing round
+On the wide landscape, gaze till all doth seem   40
+Less gross than bodily; and of such hues
+As veil the Almighty Spirit, when yet he makes
+Spirits perceive his presence.
+A delight
+Comes sudden on my heart, and I am glad
+As I myself were there! Nor in this bower,   45
+This little lime-tree bower, have I not mark’d
+Much that has sooth’d me. Pale beneath the blaze
+Hung the transparent foliage; and I watch’d
+Some broad and sunny leaf, and lov’d to see
+The shadow of the leaf and stem above   50
+Dappling its sunshine! And that walnut-tree
+Was richly ting’d, and a deep radiance lay
+Full on the ancient ivy, which usurps
+Those fronting elms, and now, with blackest mass
+Makes their dark branches gleam a lighter hue   55
+Through the late twilight: and though now the bat
+Wheels silent by, and not a swallow twitters,
+Yet still the solitary humble-bee
+Sings in the bean-flower! Henceforth I shall know
+That Nature ne’er deserts the wise and pure;   60
+No plot so narrow, be but Nature there,
+No waste so vacant, but may well employ
+Each faculty of sense, and keep the heart
+Awake to Love and Beauty! and sometimes
+‘Tis well to be bereft of promis’d good,   65
+That we may lift the soul, and contemplate
+With lively joy the joys we cannot share.
+My gentle-hearted Charles! when the last rook
+Beat its straight path along the dusky air
+Homewards, I blest it! deeming its black wing   70
+(Now a dim speck, now vanishing in light)
+Had cross’d the mighty Orb’s dilated glory,
+While thou stood’st gazing; or, when all was still,
+Flew creeking o’er thy head, and had a charm
+For thee, my gentle-hearted Charles, to whom   75
+No sound is dissonant which tells of Life.
+1797.

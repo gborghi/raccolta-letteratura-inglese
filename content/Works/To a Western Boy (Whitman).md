@@ -2,7 +2,7 @@
 title: To a Western Boy
 author: Whitman
 type: work
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 source: Authors/Whitman/_raw/076_To_a_Western_Boy.md
 tags:
   - graph/work
@@ -15,17 +15,21 @@ tags:
 
 # To a Western Boy
 
-*by Whitman*  ·  **Cluster:** [[Comradeship · The Open Road Homecoming · The Union]]
+*by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
 > Address to a disciple ('eleve') warning that learning is useless without the blood and silent selection of lovers; comradeship, the body and discipleship.
 
 ## Connections
 
-**Themes & Concepts:** [[Comradeship]], [[Romantic Love]], [[The Body]], [[Education]]
+**Themes & Concepts:** [[Comradeship]], [[Romantic Love]], [[Body]], [[Education]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!076_To_a_Western_Boy
+
+  Many things to absorb I teach to help you become eleve of mine;
+  Yet if blood like mine circle not in your veins,
+  If you be not silently selected by lovers and do not silently select lovers,
+  Of what use is it that you seek to become eleve of mine?

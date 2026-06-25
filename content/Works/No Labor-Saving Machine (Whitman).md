@@ -2,7 +2,7 @@
 title: No Labor-Saving Machine
 author: Whitman
 type: work
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 source: Authors/Whitman/_raw/068_No_Labor_Saving_Machine.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
 
 # No Labor-Saving Machine
 
-*by Whitman*  ·  **Cluster:** [[Comradeship · The Open Road Homecoming · The Union]]
+*by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
 > Poet's modest legacy is not invention or wealth but 'a few carols' left for comrades and lovers; comradeship, art and the poet's vocation.
@@ -23,10 +23,18 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Comradeship]], [[The Artist and Society (2)]], [[Romantic Love]]
+**Themes & Concepts:** [[Comradeship]], [[Artist and Society]], [[Romantic Love]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!068_No_Labor_Saving_Machine
+
+  No labor-saving machine,
+  Nor discovery have I made,
+  Nor will I be able to leave behind me any wealthy bequest to found
+      hospital or library,
+  Nor reminiscence of any deed of courage for America,
+  Nor literary success nor intellect; nor book for the book-shelf,
+  But a few carols vibrating through the air I leave,
+  For comrades and lovers.

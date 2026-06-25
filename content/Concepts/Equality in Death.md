@@ -1,7 +1,7 @@
 ---
 title: Equality in Death
 type: concept
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 tags:
   - graph/concept
 ---

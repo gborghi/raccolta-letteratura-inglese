@@ -1,0 +1,151 @@
+---
+title: "Villette — Chapter 14 (part 5)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Villette-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Villette — Chapter 14 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_14/part_06">part 06 ›</a></div>
+</nav>
+
+
+“Brava!” cried he, holding the door open and remaining at the
+threshold. “J’ai tout entendu. C’est assez bien. Encore!”
+
+A moment I hesitated.
+
+“Encore!” said he sternly. “Et point de grimaces! A bas la timidité!”
+
+Again I went through the part, but not half so well as I had spoken it
+alone.
+
+“Enfin, elle sait,” said he, half dissatisfied, “and one cannot be
+fastidious or exacting under the circumstances.” Then he added, “You
+may yet have twenty minutes for preparation: au revoir!” And he was
+going.
+
+“Monsieur,” I called out, taking courage.
+
+“Eh bien! Qu’est-ce que c’est, Mademoiselle?”
+
+“J’ai bien faim.”
+
+“Comment, vous avez faim! Et la collation?”
+
+“I know nothing about it. I have not seen it, shut up here.”
+
+“Ah! C’est vrai,” cried he.
+
+In a moment my throne was abdicated, the attic evacuated; an inverse
+repetition of the impetus which had brought me up into the attic,
+instantly took me down—down—down to the very kitchen. I thought I
+should have gone to the cellar. The cook was imperatively ordered to
+produce food, and I, as imperatively, was commanded to eat. To my great
+joy this food was limited to coffee and cake: I had feared wine and
+sweets, which I did not like. How he guessed that I should like a
+_petit pâté à la crême_ I cannot tell; but he went out and procured me
+one from some quarter. With considerable willingness I ate and drank,
+keeping the _petit pâté_ till the last, as a _bonne bouche_. M. Paul
+superintended my repast, and almost forced upon me more than I could
+swallow.
+
+“A la bonne heure,” he cried, when I signified that I really could take
+no more, and, with uplifted hands, implored to be spared the additional
+roll on which he had just spread butter. “You will set me down as a
+species of tyrant and Bluebeard, starving women in a garret; whereas,
+after all, I am no such thing. Now, Mademoiselle, do you feel courage
+and strength to appear?”
+
+I said, I thought I did; though, in truth, I was perfectly confused,
+and could hardly tell how I felt: but this little man was of the order
+of beings who must not be opposed, unless you possessed an all-dominant
+force sufficient to crush him at once.
+
+“Come then,” said he, offering his hand.
+
+I gave him mine, and he set off with a rapid walk, which obliged me to
+run at his side in order to keep pace. In the carré he stopped a
+moment: it was lit with large lamps; the wide doors of the classes were
+open, and so were the equally wide garden-doors; orange-trees in tubs,
+and tall flowers in pots, ornamented these portals on each side; groups
+of ladies and gentlemen in evening-dress stood and walked amongst the
+flowers. Within, the long vista of the school-rooms presented a
+thronging, undulating, murmuring, waving, streaming multitude, all
+rose, and blue, and half translucent white. There were lustres burning
+overhead; far off there was a stage, a solemn green curtain, a row of
+footlights.
+
+“N’est-ce pas que c’est beau?” demanded my companion.
+
+I should have said it was, but my heart got up into my throat. M. Paul
+discovered this, and gave me a side-scowl and a little shake for my
+pains.
+
+“I will do my best, but I wish it was over,” said I; then I asked: “Are
+we to walk through that crowd?”
+
+“By no means: I manage matters better: we pass through the
+garden—here.”
+
+In an instant we were out of doors: the cool, calm night revived me
+somewhat. It was moonless, but the reflex from the many glowing windows
+lit the court brightly, and even the alleys—dimly. Heaven was
+cloudless, and grand with the quiver of its living fires. How soft are
+the nights of the Continent! How bland, balmy, safe! No sea-fog; no
+chilling damp: mistless as noon, and fresh as morning.
+
+Having crossed court and garden, we reached the glass door of the first
+classe. It stood open, like all other doors that night; we passed, and
+then I was ushered into a small cabinet, dividing the first classe from
+the grand salle. This cabinet dazzled me, it was so full of light: it
+deafened me, it was clamorous with voices: it stifled me, it was so
+hot, choking, thronged.
+
+“De l’ordre! Du silence!” cried M. Paul. “Is this chaos?”, he demanded;
+and there was a hush. With a dozen words, and as many gestures, he
+turned out half the persons present, and obliged the remnant to fall
+into rank. Those left were all in costume: they were the performers,
+and this was the green-room. M. Paul introduced me. All stared and some
+tittered. It was a surprise: they had not expected the Englishwoman
+would play in a _vaudeville_. Ginevra Fanshawe, beautifully dressed for
+her part, and looking fascinatingly pretty, turned on me a pair of eyes
+as round as beads. In the highest spirit, unperturbed by fear or
+bashfulness, delighted indeed at the thought of shining off before
+hundreds—my entrance seemed to transfix her with amazement in the midst
+of her joy. She would have exclaimed, but M. Paul held her and all the
+rest in check.
+
+Having surveyed and criticized the whole troop, he turned to me.
+
+“You, too, must be dressed for your part.”
+
+“Dressed—dressed like a man!” exclaimed Zélie St. Pierre, darting
+forwards; adding with officiousness, “I will dress her myself.”
+
+To be dressed like a man did not please, and would not suit me. I had
+consented to take a man’s name and part; as to his dress—_halte là!_
+No. I would keep my own dress, come what might. M. Paul might storm,
+might rage: I would keep my own dress. I said so, with a voice as
+resolute in intent, as it was low, and perhaps unsteady in utterance.
+
+He did not immediately storm or rage, as I fully thought he would he
+stood silent. But Zélie again interposed.
+
+“She will make a capital _petit-mâitre_. Here are the garments, all—all
+complete: somewhat too large, but—I will arrange all that. Come, chère
+amie—belle Anglaise!”
+
+And she sneered, for I was not “belle.” She seized my hand, she was
+drawing me away. M. Paul stood impassable—neutral.
+
+“You must not resist,” pursued St. Pierre—for resist I did. “You will
+spoil all, destroy the mirth of the piece, the enjoyment of the
+company, sacrifice everything to your _amour-propre_. This would be too
+bad—monsieur will never permit this?”

@@ -1,7 +1,7 @@
 ---
 title: Madness
 type: concept
-cluster: The World Upside Down · Madness · Madness
+cluster: Terror and Horror · Madness · Madness
 tags:
   - graph/concept
 ---

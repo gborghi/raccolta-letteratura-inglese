@@ -1,7 +1,7 @@
 ---
 title: Conversation Poem
 type: form
-cluster: Imagination · Creativity and Artistic Labor · The One Life (Pantheism)
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 tags:
   - graph/form
 ---

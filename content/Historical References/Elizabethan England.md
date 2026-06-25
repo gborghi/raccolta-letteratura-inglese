@@ -1,7 +1,7 @@
 ---
 title: Elizabethan England
 type: histref
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/histref
 ---

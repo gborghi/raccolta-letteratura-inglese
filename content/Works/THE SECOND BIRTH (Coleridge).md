@@ -2,7 +2,7 @@
 title: THE SECOND BIRTH
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/203_THE_SECOND_BIRTH.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # THE SECOND BIRTH
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Short lyric epigram declaring that mutual love is a second birth from which life should be counted. Themes of romantic love and spiritual renewal.
@@ -27,8 +27,12 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Grace and Redemption]], [[Joy]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!203_THE_SECOND_BIRTH
+There are two births, the one when Light
+First strikes the new-awaken’d sense —
+The other when two souls unite,
+And we must count our life from then.
+When you lov’d me, and I lov’d you,   5
+Then both of us were born anew.
+? 1801.

@@ -1,7 +1,7 @@
 ---
 title: Sleep
 type: motif
-cluster: Dreams · Sleep · Resurrection
+cluster: Sleep · Sleeper Awakes · Resurrection
 tags:
   - graph/motif
 ---

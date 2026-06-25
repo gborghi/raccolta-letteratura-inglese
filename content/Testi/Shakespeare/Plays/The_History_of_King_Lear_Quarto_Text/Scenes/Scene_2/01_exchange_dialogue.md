@@ -1,0 +1,18 @@
+---
+title: "The History of King Lear (Quarto Text) — Scene 2 — exchange (dialogue) [1]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The History of King Lear (Quarto Text) — Scene 2 — exchange (dialogue) [1]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
+</nav>
+
+
+Enter Edmund the bastard

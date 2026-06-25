@@ -1,0 +1,142 @@
+---
+title: "Bleak House — Chapter 49 (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Bleak-House-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Bleak House — Chapter 49 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_49/part_03">part 03 ›</a></div>
+</nav>
+
+
+“He’s extra-drilled,” says Mr. Bagnet. “By a lawyer. Who would put
+the devil out.”
+
+“There’s something in that,” his wife assents; “but so it is,
+Lignum.”
+
+Further conversation is prevented, for the time, by the necessity
+under which Mr. Bagnet finds himself of directing the whole force of
+his mind to the dinner, which is a little endangered by the dry
+humour of the fowls in not yielding any gravy, and also by the made
+gravy acquiring no flavour and turning out of a flaxen complexion.
+With a similar perverseness, the potatoes crumble off forks in the
+process of peeling, upheaving from their centres in every direction,
+as if they were subject to earthquakes. The legs of the fowls, too,
+are longer than could be desired, and extremely scaly. Overcoming
+these disadvantages to the best of his ability, Mr. Bagnet at last
+dishes and they sit down at table, Mrs. Bagnet occupying the guest’s
+place at his right hand.
+
+It is well for the old girl that she has but one birthday in a year,
+for two such indulgences in poultry might be injurious. Every kind of
+finer tendon and ligament that is in the nature of poultry to possess
+is developed in these specimens in the singular form of
+guitar-strings. Their limbs appear to have struck roots into their
+breasts and bodies, as aged trees strike roots into the earth. Their
+legs are so hard as to encourage the idea that they must have devoted
+the greater part of their long and arduous lives to pedestrian
+exercises and the walking of matches. But Mr. Bagnet, unconscious of
+these little defects, sets his heart on Mrs. Bagnet eating a most
+severe quantity of the delicacies before her; and as that good old
+girl would not cause him a moment’s disappointment on any day, least
+of all on such a day, for any consideration, she imperils her
+digestion fearfully. How young Woolwich cleans the drum-sticks
+without being of ostrich descent, his anxious mother is at a loss to
+understand.
+
+The old girl has another trial to undergo after the conclusion of the
+repast in sitting in state to see the room cleared, the hearth swept,
+and the dinner-service washed up and polished in the backyard. The
+great delight and energy with which the two young ladies apply
+themselves to these duties, turning up their skirts in imitation of
+their mother and skating in and out on little scaffolds of pattens,
+inspire the highest hopes for the future, but some anxiety for the
+present. The same causes lead to confusion of tongues, a clattering
+of crockery, a rattling of tin mugs, a whisking of brooms, and an
+expenditure of water, all in excess, while the saturation of the
+young ladies themselves is almost too moving a spectacle for Mrs.
+Bagnet to look upon with the calmness proper to her position. At last
+the various cleansing processes are triumphantly completed; Quebec
+and Malta appear in fresh attire, smiling and dry; pipes, tobacco,
+and something to drink are placed upon the table; and the old girl
+enjoys the first peace of mind she ever knows on the day of this
+delightful entertainment.
+
+When Mr. Bagnet takes his usual seat, the hands of the clock are very
+near to half-past four; as they mark it accurately, Mr. Bagnet
+announces, “George! Military time.”
+
+It is George, and he has hearty congratulations for the old girl
+(whom he kisses on the great occasion), and for the children, and for
+Mr. Bagnet. “Happy returns to all!” says Mr. George.
+
+“But, George, old man!” cries Mrs. Bagnet, looking at him curiously.
+“What’s come to you?”
+
+“Come to me?”
+
+“Ah! You are so white, George—for you—and look so shocked. Now
+don’t he, Lignum?”
+
+“George,” says Mr. Bagnet, “tell the old girl. What’s the matter.”
+
+“I didn’t know I looked white,” says the trooper, passing his hand
+over his brow, “and I didn’t know I looked shocked, and I’m sorry I
+do. But the truth is, that boy who was taken in at my place died
+yesterday afternoon, and it has rather knocked me over.”
+
+“Poor creetur!” says Mrs. Bagnet with a mother’s pity. “Is he gone?
+Dear, dear!”
+
+“I didn’t mean to say anything about it, for it’s not birthday talk,
+but you have got it out of me, you see, before I sit down. I should
+have roused up in a minute,” says the trooper, making himself speak
+more gaily, “but you’re so quick, Mrs. Bagnet.”
+
+“You’re right. The old girl,” says Mr. Bagnet. “Is as quick. As
+powder.”
+
+“And what’s more, she’s the subject of the day, and we’ll stick to
+her,” cries Mr. George. “See here, I have brought a little brooch
+along with me. It’s a poor thing, you know, but it’s a keepsake.
+That’s all the good it is, Mrs. Bagnet.”
+
+Mr. George produces his present, which is greeted with admiring
+leapings and clappings by the young family, and with a species of
+reverential admiration by Mr. Bagnet. “Old girl,” says Mr. Bagnet.
+“Tell him my opinion of it.”
+
+“Why, it’s a wonder, George!” Mrs. Bagnet exclaims. “It’s the
+beautifullest thing that ever was seen!”
+
+“Good!” says Mr. Bagnet. “My opinion.”
+
+“It’s so pretty, George,” cries Mrs. Bagnet, turning it on all sides
+and holding it out at arm’s length, “that it seems too choice for
+me.”
+
+“Bad!” says Mr. Bagnet. “Not my opinion.”
+
+“But whatever it is, a hundred thousand thanks, old fellow,” says
+Mrs. Bagnet, her eyes sparkling with pleasure and her hand stretched
+out to him; “and though I have been a crossgrained soldier’s wife to
+you sometimes, George, we are as strong friends, I am sure, in
+reality, as ever can be. Now you shall fasten it on yourself, for
+good luck, if you will, George.”
+
+The children close up to see it done, and Mr. Bagnet looks over young
+Woolwich’s head to see it done with an interest so maturely wooden,
+yet pleasantly childish, that Mrs. Bagnet cannot help laughing in her
+airy way and saying, “Oh, Lignum, Lignum, what a precious old chap
+you are!” But the trooper fails to fasten the brooch. His hand
+shakes, he is nervous, and it falls off. “Would any one believe
+this?” says he, catching it as it drops and looking round. “I am so
+out of sorts that I bungle at an easy job like this!”

@@ -1,7 +1,7 @@
 ---
 title: Perception and Consciousness
 type: concept
-cluster: Paradox · Truth · Aphorism
+cluster: Imagination · Fragment · Heroic Couplet
 tags:
   - graph/concept
 ---

@@ -1,7 +1,7 @@
 ---
 title: Pindaric Ode
 type: form
-cluster: The French Revolution · Liberty / Political Freedom · Pindaric Ode
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/form
 ---

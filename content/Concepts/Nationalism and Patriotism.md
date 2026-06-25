@@ -1,7 +1,7 @@
 ---
 title: Nationalism and Patriotism
 type: concept
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 tags:
   - graph/concept
 ---

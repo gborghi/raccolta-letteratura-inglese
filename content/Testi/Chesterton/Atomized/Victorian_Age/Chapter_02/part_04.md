@@ -1,0 +1,199 @@
+---
+title: "Victorian Age — Chapter 2 (part 4)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/Victorian-Age-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# Victorian Age — Chapter 2 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/Victorian-Age-(Chesterton)">Victorian Age</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_02/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_02/part_05">part 05 ›</a></div>
+</nav>
+
+
+essential of literature) George Eliot had not little but nothing. Her
+
+air is bright and intellectually even exciting; but it is like the air
+
+of a cloudless day on the parade at Brighton. She sees people clearly,
+
+but not through an atmosphere. And she can conjure up storms in the
+
+conscious, but not in the subconscious mind.
+
+
+
+It is true (though the idea should not be exaggerated) that this
+
+deficiency was largely due to her being cut off from all those
+
+conceptions that had made the fiction of a Muse; the deep idea that
+
+there are really demons and angels behind men. Certainly the increasing
+
+atheism of her school spoilt her own particular imaginative talent: she
+
+was far less free when she thought like Ladislaw than when she thought
+
+like Casaubon. It also betrayed her on a matter specially requiring
+
+common sense; I mean sex. There is nothing that is so profoundly false
+
+as rationalist flirtation. Each sex is trying to be both sexes at once;
+
+and the result is a confusion more untruthful than any conventions. This
+
+can easily be seen by comparing her with a greater woman who died before
+
+the beginning of our present problem. Jane Austen was born before those
+
+bonds which (we are told) protected woman from truth, were burst by the
+
+Brontës or elaborately untied by George Eliot. Yet the fact remains that
+
+Jane Austen knew much more about men than either of them. Jane Austen
+
+may have been protected from truth: but it was precious little of truth
+
+that was protected from her. When Darcy, in finally confessing his
+
+faults, says, "I have been a selfish being all my life, in practice
+
+_though not in theory_," he gets nearer to a complete confession of the
+
+intelligent male than ever was even hinted by the Byronic lapses of the
+
+Brontës' heroes or the elaborate exculpations of George Eliot's. Jane
+
+Austen, of course, covered an infinitely smaller field than any of her
+
+later rivals; but I have always believed in the victory of small
+
+nationalities.
+
+
+
+The Brontës suggest themselves here; because their superficial
+
+qualities, the qualities that can be seized upon in satire, were in this
+
+an exaggeration of what was, in George Eliot, hardly more than an
+
+omission. There was perhaps a time when Mr. Rawjester was more widely
+
+known than Mr. Rochester. And certainly Mr. Rochester (to adopt the
+
+diction of that other eminent country gentleman, Mr. Darcy) was simply
+
+individualistic not only in practice, but in theory. Now any one may be
+
+so in practice: but a man who is simply individualistic in theory must
+
+merely be an ass. Undoubtedly the Brontës exposed themselves to some
+
+misunderstanding by thus perpetually making the masculine creature much
+
+more masculine than he wants to be. Thackeray (a man of strong though
+
+sleepy virility) asked in his exquisite plaintive way: "Why do our lady
+
+novelists make the men bully the women?" It is, I think, unquestionably
+
+true that the Brontës treated the male as an almost anarchic thing
+
+coming in from outside nature; much as people on this planet regard a
+
+comet. Even the really delicate and sustained comedy of Paul Emanuel is
+
+not quite free from this air of studying something alien. The reply may
+
+be made that the women in men's novels are equally fallacious. The reply
+
+is probably just.
+
+
+
+What the Brontës really brought into fiction was exactly what Carlyle
+
+brought into history; the blast of the mysticism of the North. They were
+
+of Irish blood settled on the windy heights of Yorkshire; in that
+
+country where Catholicism lingered latest, but in a superstitious form;
+
+where modern industrialism came earliest and was more superstitious
+
+still. The strong winds and sterile places, the old tyranny of barons
+
+and the new and blacker tyranny of manufacturers, has made and left that
+
+country a land of barbarians. All Charlotte Brontë's earlier work is
+
+full of that sullen and unmanageable world; moss-troopers turned
+
+hurriedly into miners; the last of the old world forced into supporting
+
+the very first crudities of the new. In this way Charlotte Brontë
+
+represents the Victorian settlement in a special way. The Early
+
+Victorian Industrialism is to George Eliot and to Charlotte Brontë,
+
+rather as the Late Victorian Imperialism would have been to Mrs. Humphry
+
+Ward in the centre of the empire and to Miss Olive Schreiner at the edge
+
+of it. The real strength there is in characters like Robert Moore, when
+
+he is dealing with anything except women, is the romance of industry in
+
+its first advance: a romance that has not remained. On such fighting
+
+frontiers people always exaggerate the strong qualities the masculine
+
+sex does possess, and always add a great many strong qualities that it
+
+does not possess. That is, briefly, all the reason in the Brontës on
+
+this special subject: the rest is stark unreason. It can be most clearly
+
+seen in that sister of Charlotte Brontë's who has achieved the real
+
+feat of remaining as a great woman rather than a great writer. There is
+
+really, in a narrow but intense way, a tradition of Emily Brontë: as
+
+there is a tradition of St. Peter or Dr. Johnson. People talk as if they
+
+had known her, apart from her works. She must have been something more
+
+than an original person; perhaps an origin. But so far as her written
+
+works go she enters English letters only as an original person--and
+
+rather a narrow one. Her imagination was sometimes superhuman--always
+
+inhuman. _Wuthering Heights_ might have been written by an eagle. She is
+
+the strongest instance of these strong imaginations that made the other
+
+sex a monster: for Heathcliffe fails as a man as catastrophically as he
+
+succeeds as a demon. I think Emily Brontë was further narrowed by the
+
+broadness of her religious views; but never, of course, so much as
+
+George Eliot.
+
+
+
+In any case, it is Charlotte Brontë who enters Victorian literature. The
+
+shortest way of stating her strong contribution is, I think, this: that
+
+she reached the highest romance through the lowest realism. She did not

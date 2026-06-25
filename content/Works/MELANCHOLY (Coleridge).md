@@ -2,7 +2,7 @@
 title: MELANCHOLY
 author: Coleridge
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/076_MELANCHOLY.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # MELANCHOLY
 
-*by Coleridge*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > Fragment personifying Melancholy stretched on a ruined abbey wall, dreaming troubled dreams; ruins, dreams, melancholy and the grotesque/Gothic mood.
@@ -25,11 +25,21 @@ tags:
 ## Connections
 
 **Motifs:** [[Ruins the Abbey]], [[Dreams]], [[Sleep]]
-**Themes & Concepts:** [[Melancholy]], [[The Grotesque]]
+**Themes & Concepts:** [[Melancholy]], [[Grotesque]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!076_MELANCHOLY
+A FRAGMENT
+Stretch’d on a moulder’d Abbey’s broadest wall,
+Where ruining ivies propp’d the ruins steep —
+Her folded arms wrapping her tatter’d pall,    The fern was press’d beneath her hair,
+The dark green Adder’s Tongue was there;
+And still as pass’d the flagging sea-gale weak,
+The long lank leaf bow’d fluttering o’er her cheek.
+That pallid cheek was flush’d: her eager look
+Beam’d eloquent in slumber! Inly wrought,   10
+Imperfect sounds her moving lips forsook,
+And her bent forehead work’d with troubled thought.
+Strange was the dream ——
+? 1794.

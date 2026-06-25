@@ -1,7 +1,7 @@
 ---
 title: Heroism
 type: concept
-cluster: Heroism · Honour · Hero
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/concept
 ---

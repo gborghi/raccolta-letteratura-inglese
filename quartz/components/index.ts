@@ -27,12 +27,14 @@ import OpereTable from "./OpereTable"
 import CercaPage from "./CercaPage"
 import ConceptWorks from "./ConceptWorks"
 import RadialWheel from "./RadialWheel"
+import BraniTable from "./BraniTable"
 
 export {
   OpereTable,
   CercaPage,
   ConceptWorks,
   RadialWheel,
+  BraniTable,
   ArticleTitle,
   Content,
   TagContent,

@@ -2,7 +2,7 @@
 title: ALCAEUS TO SAPPHO
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Coleridge/_raw/196_ALCAEUS_TO_SAPPHO.md
 tags:
   - graph/work
@@ -19,21 +19,39 @@ tags:
 
 # ALCAEUS TO SAPPHO
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A classicizing love-lyric in the voice of Alcaeus praising the blush, eyes and lip of his beloved Sappho as the fairest face on earth.
 
 ## Connections
 
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Eyes and Sight]], [[White and Red]]
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Lyric]]
 **Historical References:** [[Classical Antiquity]], [[Ancient Greece]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!196_ALCAEUS_TO_SAPPHO
+How sweet, when crimson colours dart
+Across a breast of snow,
+To see that you are in the heart
+That beats and throbs below.
+All Heaven is in a maiden’s blush,   5
+In which the soul doth speak,
+That it was you who sent the flush
+Into the maiden’s cheek.
+Large steadfast eyes! eyes gently rolled
+In shades of changing blue,   10
+How sweet are they, if they behold
+No dearer sight than you.
+And, can a lip more richly glow,
+Or be more fair than this?
+The world will surely answer, No!   15
+I, SAPPHO, answer, Yes!
+Then grant one smile, tho’ it should mean
+A thing of doubtful birth;
+That I may say these eyes have seen
+The fairest face on earth!   20
+1800.

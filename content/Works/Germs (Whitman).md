@@ -2,7 +2,7 @@
 title: Germs
 author: Whitman
 type: work
-cluster: Lyric · Flowers · Stars
+cluster: Nature · Book of Nature · Natural Order
 source: Authors/Whitman/_raw/117_Germs.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Germs
 
-*by Whitman*  ·  **Cluster:** [[Lyric · Flowers · Stars]]
+*by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > A compact free-verse epigram holding the germs of all forms, worlds and stars within a handful of space; nature, the cosmos, and latent universal life.
@@ -25,11 +25,21 @@ tags:
 ## Connections
 
 **Motifs:** [[Stars]], [[Nature]]
-**Themes & Concepts:** [[The Sublime]], [[Immortality]]
+**Themes & Concepts:** [[Sublime]], [[Immortality]]
 **Forms & Genres:** [[Free Verse]], [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!117_Germs
+
+  Forms, qualities, lives, humanity, language, thoughts,
+  The ones known, and the ones unknown, the ones on the stars,
+  The stars themselves, some shaped, others unshaped,
+  Wonders as of those countries, the soil, trees, cities, inhabitants,
+      whatever they may be,
+  Splendid suns, the moons and rings, the countless combinations and effects,
+  Such-like, and as good as such-like, visible here or anywhere, stand
+      provided for a handful of space, which I extend my arm and
+      half enclose with my hand,
+  That containing the start of each and all, the virtue, the germs of all.

@@ -22,11 +22,15 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[The Artist and Society (2)]], [[Deception]]
+**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Deception]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!353_MODERN_CRITICS
+No private grudge they need, no personal spite,
+The viva sectio is its own delight!
+All enmity, all envy, they disclaim,
+Disinterested thieves of our good name —
+Cool, sober murderers of their neighbours’ fame!
+First published in Biog. Lit., 1817, ii. 118. First collected in P.
+W., 1885, ii. 363.

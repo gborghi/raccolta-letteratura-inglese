@@ -2,7 +2,7 @@
 title: TO THE EVENING STAR
 author: Coleridge
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Stars · Night · Military Camp
 source: Authors/Coleridge/_raw/015_TO_THE_EVENING_STAR.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # TO THE EVENING STAR
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > An apostrophe sonnet hailing the evening star as an emblem of the beloved's serene beauty and of a hope to join her spirit in its kindred orb.
@@ -28,8 +28,20 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Immortality]], [[Beauty]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!015_TO_THE_EVENING_STAR
+O meek attendant of Sol’s setting blaze,
+I hail, sweet star, thy chaste effulgent glow;
+On thee full oft with fixéd eye I gaze
+Till I, methinks, all spirit seem to grow.
+O first and fairest of the starry choir,   5
+O loveliest ‘mid the daughters of the night,
+Must not the maid I love like thee inspire
+Pure joy and calm Delight?
+Must she not be, as is thy placid sphere
+Serenely brilliant? Whilst to gaze a while   10
+Be all my wish ‘mid Fancy’s high career
+E’en till she quit this scene of earthly toil;
+Then Hope perchance might fondly sigh to join
+Her spirit in thy kindred orb, O Star benign!
+? 1790.

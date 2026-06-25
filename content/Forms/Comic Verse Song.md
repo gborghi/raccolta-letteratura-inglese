@@ -1,7 +1,7 @@
 ---
 title: Comic Verse / Song
 type: form
-cluster: Night · Fire · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/form
 ---

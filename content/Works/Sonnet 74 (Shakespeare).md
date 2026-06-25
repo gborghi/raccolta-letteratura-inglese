@@ -26,12 +26,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[Death (2)]], [[Letters and Writing]], [[Swords and Weapons]]
+**Motifs:** [[Death]], [[Letters and Writing]], [[Swords and Weapons]]
 **Themes & Concepts:** [[Self-Knowledge]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+But be contented when that fell arrest 
+Without all bail shall carry me away. 
+My life hath in this line some interest, 
+Which for memorial still with thee shall stay. 
+When thou reviewest this, thou dost review 
+The very part was consecrate to thee. 
+The earth can have but earth, which is his due; 
+My spirit is thine, the better part of me. 
+So then thou hast but lost the dregs of life, 
+The prey of worms, my body being dead, 
+The coward conquest of a wretch’s knife, 
+Too base of thee to be remembered.
 
-!Sonnet_074
+The worth of that is that which it contains,
+
+And that is this, and this with thee remains.

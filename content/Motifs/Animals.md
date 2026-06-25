@@ -1,7 +1,7 @@
 ---
 title: Animals
 type: motif
-cluster: Joy · Animals · Riddle
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/motif
 ---

@@ -1,7 +1,7 @@
 ---
 title: Gems / Jewels
 type: motif
-cluster: Desire · Value and Scarcity · Gems / Jewels
+cluster: Rose · Desire · Value and Scarcity
 tags:
   - graph/motif
 ---

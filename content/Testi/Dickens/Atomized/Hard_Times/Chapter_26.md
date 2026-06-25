@@ -1,0 +1,20 @@
+---
+title: "Hard Times — Chapter 10"
+author: "Dickens"
+unitType: chapter
+parentWork: "Works/Hard-Times-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Hard Times — Chapter 10
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_25">‹ Chapter 25</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_27">Chapter 27 ›</a></div>
+</nav>
+
+
+               CHAPTER X
+_Mrs. Sparsit’s Staircase_           152

@@ -2,7 +2,7 @@
 title: TO ONE WHO HAS BEEN LONG IN CITY PENT
 author: Keats
 type: work
-cluster: Nature vs Civilization · The Garden · Pastoral Retreat
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 source: Authors/Keats/_raw/021_TO_ONE_WHO_HAS_BEEN_LONG_IN_CITY_PENT.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # TO ONE WHO HAS BEEN LONG IN CITY PENT
 
-*by Keats*  ·  **Cluster:** [[Nature vs Civilization · The Garden · Pastoral Retreat]]
+*by Keats*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
 > Sonnet on the sweetness of escaping the city into open countryside to read of love; nature versus the city, transience of the happy day.
@@ -24,12 +24,23 @@ tags:
 ## Connections
 
 **Topoi:** [[Pastoral Retreat]]
-**Motifs:** [[The City]]
+**Motifs:** [[City]]
 **Themes & Concepts:** [[Nature vs Civilization]], [[Transience]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!021_TO_ONE_WHO_HAS_BEEN_LONG_IN_CITY_PENT
+To one who has been long in city pent,
+  ’Tis very sweet to look into the fair
+  And open face of heaven, — to breathe a prayer
+Full in the smile of the blue firmament.
+Who is more happy, when, with hearts content,
+  Fatigued he sinks into some pleasant lair
+  Of wavy grass, and reads a debonair
+And gentle tale of love and languishment?
+Returning home at evening, with an ear
+  Catching the notes of Philomel, — an eye
+Watching the sailing cloudlet’s bright career,
+  He mourns that day so soon has glided by:
+E’en like the passage of an angel’s tear
+  That falls through the clear ether silently.

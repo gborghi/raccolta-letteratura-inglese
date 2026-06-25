@@ -2,7 +2,7 @@
 title: The Mystic Trumpeter
 author: Whitman
 type: work
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Ghosts · Ghost · Death and Love
 source: Authors/Whitman/_raw/257_The_Mystic_Trumpeter.md
 tags:
   - graph/work
@@ -20,21 +20,129 @@ tags:
 
 # The Mystic Trumpeter
 
-*by Whitman*  ·  **Cluster:** [[The Supernatural · Terror and Horror · Guilt]]
+*by Whitman*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
 > An unseen ghostly trumpeter conjures in turn the feudal past, love, war, despair, and finally a redeemed future of universal joy; music as visionary power.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Archetypes:** [[Ghost]]
 **Motifs:** [[Music and Song]], [[Ghosts]]
 **Themes & Concepts:** [[Romantic Love]], [[War and its Cost]], [[Joy]]
-**Historical References:** [[The Grail Legend]], [[The Crusades]]
+**Historical References:** [[Grail Legend]], [[Crusades]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: FROM NOON TO STARRY NIGHT_
 
-!257_The_Mystic_Trumpeter
+
+       1
+  Hark, some wild trumpeter, some strange musician,
+  Hovering unseen in air, vibrates capricious tunes to-night.
+
+  I hear thee trumpeter, listening alert I catch thy notes,
+  Now pouring, whirling like a tempest round me,
+  Now low, subdued, now in the distance lost.
+
+       2
+  Come nearer bodiless one, haply in thee resounds
+  Some dead composer, haply thy pensive life
+  Was fill’d with aspirations high, unform’d ideals,
+  Waves, oceans musical, chaotically surging,
+  That now ecstatic ghost, close to me bending, thy cornet echoing, pealing,
+  Gives out to no one’s ears but mine, but freely gives to mine,
+  That I may thee translate.
+
+       3
+  Blow trumpeter free and clear, I follow thee,
+  While at thy liquid prelude, glad, serene,
+  The fretting world, the streets, the noisy hours of day withdraw,
+  A holy calm descends like dew upon me,
+  I walk in cool refreshing night the walks of Paradise,
+  I scent the grass, the moist air and the roses;
+  Thy song expands my numb’d imbonded spirit, thou freest, launchest me,
+  Floating and basking upon heaven’s lake.
+
+       4
+  Blow again trumpeter! and for my sensuous eyes,
+  Bring the old pageants, show the feudal world.
+
+  What charm thy music works! thou makest pass before me,
+  Ladies and cavaliers long dead, barons are in their castle halls,
+      the troubadours are singing,
+  Arm’d knights go forth to redress wrongs, some in quest of the holy Graal;
+  I see the tournament, I see the contestants incased in heavy armor
+      seated on stately champing horses,
+  I hear the shouts, the sounds of blows and smiting steel;
+  I see the Crusaders’ tumultuous armies--hark, how the cymbals clang,
+  Lo, where the monks walk in advance, bearing the cross on high.
+
+       5
+  Blow again trumpeter! and for thy theme,
+  Take now the enclosing theme of all, the solvent and the setting,
+  Love, that is pulse of all, the sustenance and the pang,
+  The heart of man and woman all for love,
+  No other theme but love--knitting, enclosing, all-diffusing love.
+
+  O how the immortal phantoms crowd around me!
+  I see the vast alembic ever working, I see and know the flames that
+      heat the world,
+  The glow, the blush, the beating hearts of lovers,
+  So blissful happy some, and some so silent, dark, and nigh to death;
+  Love, that is all the earth to lovers--love, that mocks time and space,
+  Love, that is day and night--love, that is sun and moon and stars,
+  Love, that is crimson, sumptuous, sick with perfume,
+  No other words but words of love, no other thought but love.
+
+       6
+  Blow again trumpeter--conjure war’s alarums.
+
+  Swift to thy spell a shuddering hum like distant thunder rolls,
+  Lo, where the arm’d men hasten--lo, mid the clouds of dust the glint
+      of bayonets,
+  I see the grime-faced cannoneers, I mark the rosy flash amid the
+      smoke, I hear the cracking of the guns;
+  Nor war alone--thy fearful music-song, wild player, brings every
+      sight of fear,
+  The deeds of ruthless brigands, rapine, murder--I hear the cries for help!
+  I see ships foundering at sea, I behold on deck and below deck the
+      terrible tableaus.
+
+       7
+  O trumpeter, methinks I am myself the instrument thou playest,
+  Thou melt’st my heart, my brain--thou movest, drawest, changest
+      them at will;
+  And now thy sullen notes send darkness through me,
+  Thou takest away all cheering light, all hope,
+  I see the enslaved, the overthrown, the hurt, the opprest of the
+      whole earth,
+  I feel the measureless shame and humiliation of my race, it becomes
+      all mine,
+  Mine too the revenges of humanity, the wrongs of ages, baffled feuds
+      and hatreds,
+  Utter defeat upon me weighs--all lost--the foe victorious,
+  (Yet ’mid the ruins Pride colossal stands unshaken to the last,
+  Endurance, resolution to the last.)
+
+
+      8
+  Now trumpeter for thy close,
+  Vouchsafe a higher strain than any yet,
+  Sing to my soul, renew its languishing faith and hope,
+  Rouse up my slow belief, give me some vision of the future,
+  Give me for once its prophecy and joy.
+
+  O glad, exulting, culminating song!
+  A vigor more than earth’s is in thy notes,
+  Marches of victory--man disenthral’d--the conqueror at last,
+  Hymns to the universal God from universal man--all joy!
+  A reborn race appears--a perfect world, all joy!
+  Women and men in wisdom innocence and health--all joy!
+  Riotous laughing bacchanals fill’d with joy!
+  War, sorrow, suffering gone--the rank earth purged--nothing but joy left!
+  The ocean fill’d with joy--the atmosphere all joy!
+  Joy! joy! in freedom, worship, love! joy in the ecstasy of life!
+  Enough to merely be! enough to breathe!
+  Joy! joy! all over joy!

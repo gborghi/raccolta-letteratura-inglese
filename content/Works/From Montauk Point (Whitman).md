@@ -2,7 +2,7 @@
 title: From Montauk Point
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Sea · Water · Sea
 source: Authors/Whitman/_raw/296_From_Montauk_Point.md
 tags:
   - graph/work
@@ -16,19 +16,25 @@ tags:
 
 # From Montauk Point
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
 > A short free-verse seascape of restless waves forever seeking the shore from an eagle's vantage; themes of the sea, nature and ceaseless striving.
 
 ## Connections
 
-**Motifs:** [[The Sea]], [[Nature]], [[Birds]]
+**Motifs:** [[Sea]], [[Nature]], [[Birds]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[The Sea (2)]]
+**Settings:** [[Sea (2)]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!296_From_Montauk_Point
+
+  I stand as on some mighty eagle’s beak,
+  Eastward the sea absorbing, viewing, (nothing but sea and sky,)
+  The tossing waves, the foam, the ships in the distance,
+  The wild unrest, the snowy, curling caps--that inbound urge and urge
+      of waves,
+  Seeking the shores forever.

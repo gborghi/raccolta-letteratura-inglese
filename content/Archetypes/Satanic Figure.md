@@ -1,7 +1,7 @@
 ---
 title: Satanic Figure
 type: archetype
-cluster: The Grotesque · Good vs Evil · Satanic Figure
+cluster: Temptation · Good vs Evil · Serpent / Snake
 tags:
   - graph/archetype
 ---

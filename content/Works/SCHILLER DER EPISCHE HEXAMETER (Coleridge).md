@@ -2,7 +2,7 @@
 title: 'SCHILLER: DER EPISCHE HEXAMETER'
 author: Coleridge
 type: work
-cluster: Satire of Society · Epigram · Satire
+cluster: Sea · Water · Sea
 source: Authors/Coleridge/_raw/434_SCHILLER_DER_EPISCHE_HEXAMETER.md
 tags:
   - graph/work
@@ -16,19 +16,24 @@ tags:
 
 # SCHILLER: DER EPISCHE HEXAMETER
 
-*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
 > Schiller's epigrammatic couplets on metre itself, figuring the epic hexameter as a streaming wave and the distich as a fountain rising in the hexameter and falling in the pentameter; metapoetic verse on poetic form.
 
 ## Connections
 
-**Motifs:** [[The Sea]], [[Water]]
+**Motifs:** [[Sea]], [[Water]]
 **Themes & Concepts:** [[Imagination]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!434_SCHILLER_DER_EPISCHE_HEXAMETER
+Schwindelnd trägt er dich fort auf rastlos strömenden Wogen;
+Hinter dir siehst du, du siehst vor dir nur Himmel und Meer.
+DAS DISTICHON
+Im Hexameter steigt des Springquells flüssige Säule;
+Im Pentameter drauf fällt sie melodisch herab.
+See Poems, 1844, p. 372.
+C
+[Vide ante, p. 308]

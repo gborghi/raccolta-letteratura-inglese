@@ -1,0 +1,49 @@
+---
+title: "Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Troilus and Cressida — Act III, Scene 3 — monologue (ULYSSES) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
+</nav>
+
+
+ULYSSES
+I do not strain at the position—
+It is familiar—but at the author’s drift;
+Who in his circumstance expressly proves
+That no man is the lord of anything,
+Though in and of him there be much consisting,
+Till he communicate his parts to others.
+Nor doth he of himself know them for aught
+Till he behold them formed in th‘applause
+Where they’re extended—who, like an arch, reverb’rate
+The voice again; or, like a gate of steel
+Fronting the sun, receives and renders back
+His figure and his heat. I was much rapt in this,
+And apprehended here immediately
+The unknown Ajax.
+Heavens, what a man is there! A very horse,
+That has he knows not what. Nature, what things
+there are,
+Most abject in regard and dear in use.
+What things again, most dear in the esteem
+And poor in worth. Now shall we see tomorrow
+An act that very chance doth throw upon him.
+Ajax renowned? O heavens, what some men do,
+While some men leave to do.
+How some men creep in skittish Fortune’s hall
+Whiles others play the idiots in her eyes;
+How one man eats into another’s pride
+While pride is fasting in his wantonness.
+To see these Grecian lords! Why, even already
+They clap the lubber Ajax on the shoulder,
+As if his foot were on brave Hector’s breast
+And great Troy shrinking.

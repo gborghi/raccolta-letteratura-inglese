@@ -27,8 +27,11 @@ tags:
 **Themes & Concepts:** [[Money and Avarice]], [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!319_LENFANT_PRODIGUE
+Jack drinks fine wines, wears modish clothing,
+But prithee where lies Jack’s estate?
+In Algebra for there I found of late
+A quantity call’d less than nothing.
+First published in Morning Post, Nov. 16, 1799. Included in An. Anth.,
+1800. First collected P. and D. W., 1877, ii. 163.

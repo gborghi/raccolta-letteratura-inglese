@@ -2,7 +2,7 @@
 title: Sonnet 75
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_075.md
 tags:
   - graph/work
@@ -17,19 +17,32 @@ tags:
 
 # Sonnet 75
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The beloved as food to life; the miser's alternating feast and famine, gluttony and starvation in love.
 
 ## Connections
 
-**Motifs:** [[Food and Feasting]], [[Desire (2)]], [[Money and Gold]]
+**Motifs:** [[Food and Feasting]], [[Desire]], [[Money and Gold]]
 **Themes & Concepts:** [[Romantic Love]], [[Jealousy]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+So are you to my thoughts as food to life, 
+Or as sweet-seasoned showers are to the ground; 
+And for the peace of you I hold such strife 
+As ’twixt a miser and his wealth is found: 
+Now proud as an enjoyer, and anon 
+Doubting the filching age will steal his treasure; 
+Now counting best to be with you alone, 
+Then bettered that the world may see my pleasure; 
+Sometime all full with feasting on your sight, 
+And by and by clean starved for a look; 
+Possessing or pursuing no delight 
+Save what is had or must from you be took.
 
-!Sonnet_075
+Thus do I pine and surfeit day by day,
+
+Or gluttoning on all, or all away.

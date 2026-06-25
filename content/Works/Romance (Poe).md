@@ -32,12 +32,31 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]], [[Fall from Innocence]]
-**Motifs:** [[Childhood]], [[Memory (2)]], [[Birds]], [[Time]], [[Music and Song]]
-**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Innocence and Experience]], [[The Artist and Society (2)]], [[Imagination]]
+**Motifs:** [[Childhood]], [[Memory]], [[Birds]], [[Time]], [[Music and Song]]
+**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Innocence and Experience]], [[Artist and Society]], [[Imagination]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Romance
+Romance, who loves to nod and sing,
+     With drowsy head and folded wing,
+     Among the green leaves as they shake
+     Far down within some shadowy lake,
+     To me a painted paroquet
+     Hath been—a most familiar bird—
+     Taught me my alphabet to say—
+     To lisp my very earliest word
+     While in the wild wood I did lie,
+     A child—with a most knowing eye.
+     Of late, eternal Condor years
+     So shake the very Heaven on high
+     With tumult as they thunder by,
+     I have no time for idle cares
+     Through gazing on the unquiet sky.
+     And when an hour with calmer wings
+     Its down upon thy spirit flings—
+     That little time with lyre and rhyme
+     To while away—forbidden things!
+     My heart would feel to be a crime
+     Unless it trembled with the strings.
+     1829.

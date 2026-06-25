@@ -2,7 +2,7 @@
 title: Sonnet 16
 author: Shakespeare
 type: work
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_016.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # Sonnet 16
 
-*by Shakespeare*  ·  **Cluster:** [[Lust Sexual Desire · Desire · Sin and the Fall]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Pivot sonnet contrasting barren rhyme with the mightier way of children to make war on bloody tyrant time.
@@ -28,13 +28,26 @@ tags:
 ## Connections
 
 **Topoi:** [[Combat Strife]]
-**Archetypes:** [[The Tyrant]]
-**Motifs:** [[Time]], [[The Garden]], [[Flowers]]
+**Archetypes:** [[Tyrant]]
+**Motifs:** [[Time]], [[Garden]], [[Flowers]]
 **Themes & Concepts:** [[Procreation]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+But wherefore do not you a mightier way 
+Make war upon this bloody tyrant, time, 
+And fortify yourself in your decay 
+With means more blessed than my barren rhyme? 
+Now stand you on the top of happy hours, 
+And many maiden gardens yet unset 
+With virtuous wish would bear your living flowers, 
+Much liker than your painted counterfeit. 
+So should the lines of life that life repair 
+Which this time’s pencil or my pupil pen 
+Neither in inward worth nor outward fair 
+Can make you live yourself in eyes of men.
 
-!Sonnet_016
+To give away yourself keeps yourself still,
+
+And you must live drawn by your own sweet skill.

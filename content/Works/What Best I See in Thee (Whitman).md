@@ -2,7 +2,7 @@
 title: What Best I See in Thee
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/273_What_Best_I_See_in_Thee.md
 tags:
   - graph/work
@@ -16,19 +16,32 @@ tags:
 
 # What Best I See in Thee
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > A free-verse tribute to U. S. Grant whose real greatness lies in carrying the common Western people with him among kings; themes of the common man and democracy.
 
 ## Connections
 
-**Motifs:** [[The Crown]]
-**Themes & Concepts:** [[The Common Man (2)]], [[Democracy]], [[Heroism]]
+**Motifs:** [[Crown]]
+**Themes & Concepts:** [[Common Man]], [[Democracy]], [[Heroism]]
 **Settings:** [[America]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: FROM NOON TO STARRY NIGHT_
 
-!273_What_Best_I_See_in_Thee
+  [To U. S. G. return’d from his World’s Tour]
+
+  What best I see in thee,
+  Is not that where thou mov’st down history’s great highways,
+  Ever undimm’d by time shoots warlike victory’s dazzle,
+  Or that thou sat’st where Washington sat, ruling the land in peace,
+  Or thou the man whom feudal Europe feted, venerable Asia swarm’d upon,
+  Who walk’d with kings with even pace the round world’s promenade;
+  But that in foreign lands, in all thy walks with kings,
+  Those prairie sovereigns of the West, Kansas, Missouri, Illinois,
+  Ohio’s, Indiana’s millions, comrades, farmers, soldiers, all to the front,
+  Invisibly with thee walking with kings with even pace the round
+      world’s promenade,
+  Were all so justified.

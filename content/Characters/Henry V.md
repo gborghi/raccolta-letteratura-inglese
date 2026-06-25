@@ -1,0 +1,17 @@
+---
+title: Henry V
+type: character
+cluster: Court · Medieval England · History Play
+tags:
+  - graph/character
+---
+
+# Henry V
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Henry-V"></div>
+
+#graph/character

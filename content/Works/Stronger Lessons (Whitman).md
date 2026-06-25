@@ -2,7 +2,7 @@
 title: Stronger Lessons
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/337_Stronger_Lessons.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Stronger Lessons
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Asks whether one has learned the stronger lessons from those who reject and oppose rather than admire one.
@@ -27,8 +27,13 @@ tags:
 **Themes & Concepts:** [[Innocence and Experience]], [[Self-Knowledge]], [[Alienation]], [[Identity]], [[Conscience]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!337_Stronger_Lessons
+
+  Have you learn’d lessons only of those who admired you, and were
+      tender with you, and stood aside for you?
+  Have you not learn’d great lessons from those who reject you, and
+      brace themselves against you? or who treat you with contempt,
+      or dispute the passage with you?

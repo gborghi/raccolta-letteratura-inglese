@@ -1,7 +1,7 @@
 ---
 title: Transience
 type: concept
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 tags:
   - graph/concept
 ---

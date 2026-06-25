@@ -2,7 +2,7 @@
 title: 'The day is gone, and all its sweets are gone!'
 author: Keats
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 source: Authors/Keats/_raw/133_The_day_is_gone_and_all_its_sweets_are_gone.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # The day is gone, and all its sweets are gone!
 
-*by Keats*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > A sonnet on the vanishing of a day of love at nightfall, cataloguing fading sensual delights; transience of beauty and erotic pleasure with a devotional 'love's missal' close.
@@ -30,8 +30,20 @@ tags:
 **Themes & Concepts:** [[Transience]], [[Romantic Love]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!133_The_day_is_gone_and_all_its_sweets_are_gone
+The day is gone, and all its sweets are gone!
+Sweet voice, sweet lips, soft hand, and softer breast,
+Warm breath, light whisper, tender semi-tone,
+Bright eyes, accomplish’d shape, and lang’rous waist!
+Faded the flower and all its budded charms,
+Faded the sight of beauty from my eyes,
+Faded the shape of beauty from my arms,
+Faded the voice, warmth, whiteness, paradise -
+Vanish’d unseasonably at shut of eve,
+When the dusk holiday - or holinight
+10
+Of fragrant-curtain’d love begins to weave
+The woof of darkness thick, for hid delight ;
+But, as I’ve read love’s missal through today,
+He’ll let me sleep, seeing I fast and pray.

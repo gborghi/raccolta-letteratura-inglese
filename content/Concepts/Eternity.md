@@ -1,7 +1,7 @@
 ---
 title: Eternity
 type: concept
-cluster: Death · Mortality · Immortality
+cluster: Time · Tempus Fugit · Clock
 tags:
   - graph/concept
 ---

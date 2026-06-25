@@ -1,0 +1,168 @@
+---
+title: "Villette — Chapter 27 (part 4)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Villette-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Villette — Chapter 27 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_28/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_28/part_05">part 05 ›</a></div>
+</nav>
+
+
+“Lucy,” began Dr. Bretton, breaking silence and smiling, as Ginevra
+glided before him, casting a glance as she passed by, “Miss Fanshawe is
+certainly a fine girl.”
+
+Of course I assented.
+
+“Is there,” he pursued, “another in the room as lovely?”
+
+“I think there is not another as handsome.”
+
+“I agree with you, Lucy: you and I do often agree in opinion, in taste,
+I think; or at least in judgment.”
+
+“Do we?” I said, somewhat doubtfully.
+
+“I believe if you had been a boy, Lucy, instead of a girl—my mother’s
+god-son instead of her god-daughter, we should have been good friends:
+our opinions would have melted into each other.”
+
+He had assumed a bantering air: a light, half-caressing, half-ironic,
+shone aslant in his eye. Ah, Graham! I have given more than one
+solitary moment to thoughts and calculations of your estimate of Lucy
+Snowe: was it always kind or just? Had Lucy been intrinsically the same
+but possessing the additional advantages of wealth and station, would
+your manner to her, your value for her, have been quite what they
+actually were? And yet by these questions I would not seriously infer
+blame. No; you might sadden and trouble me sometimes; but then mine was
+a soon-depressed, an easily-deranged temperament—it fell if a cloud
+crossed the sun. Perhaps before the eye of severe equity I should stand
+more at fault than you.
+
+Trying, then, to keep down the unreasonable pain which thrilled my
+heart, on thus being made to feel that while Graham could devote to
+others the most grave and earnest, the manliest interest, he had no
+more than light raillery for Lucy, the friend of lang syne, I inquired
+calmly,—“On what points are we so closely in accordance?”
+
+“We each have an observant faculty. You, perhaps, don’t give me credit
+for the possession; yet I have it.”
+
+“But you were speaking of tastes: we may see the same objects, yet
+estimate them differently?”
+
+“Let us bring it to the test. Of course, you cannot but render homage
+to the merits of Miss Fanshawe: now, what do you think of others in the
+room?—my mother, for instance; or the lions yonder, Messieurs A—— and
+Z——; or, let us say, that pale little lady, Miss de Bassompierre?”
+
+“You know what I think of your mother. I have not thought of Messieurs
+A—— and Z——.”
+
+“And the other?”
+
+“I think she is, as you say, a pale little lady—pale, certainly, just
+now, when she is fatigued with over-excitement.”
+
+“You don’t remember her as a child?”
+
+“I wonder, sometimes, whether you do.”
+
+“I had forgotten her; but it is noticeable, that circumstances,
+persons, even words and looks, that had slipped your memory, may, under
+certain conditions, certain aspects of your own or another’s mind,
+revive.”
+
+“That is possible enough.”
+
+“Yet,” he continued, “the revival is imperfect—needs confirmation,
+partakes so much of the dim character of a dream, or of the airy one of
+a fancy, that the testimony of a witness becomes necessary for
+corroboration. Were you not a guest at Bretton ten years ago, when Mr.
+Home brought his little girl, whom we then called ‘little Polly,’ to
+stay with mamma?”
+
+“I was there the night she came, and also the morning she went away.”
+
+“Rather a peculiar child, was she not? I wonder how I treated her. Was
+I fond of children in those days? Was there anything gracious or kindly
+about me—great, reckless, schoolboy as I was? But you don’t recollect
+me, of course?”
+
+“You have seen your own picture at La Terrasse. It is like you
+personally. In manner, you were almost the same yesterday as to-day.”
+
+“But, Lucy, how is that? Such an oracle really whets my curiosity. What
+am I to-day? What was I the yesterday of ten years back?”
+
+“Gracious to whatever pleased you—unkindly or cruel to nothing.”
+
+“There you are wrong; I think I was almost a brute to _you_, for
+instance.”
+
+“A brute! No, Graham: I should never have patiently endured brutality.”
+
+“_This_, however, I _do_ remember: quiet Lucy Snowe tasted nothing of
+my grace.”
+
+“As little of your cruelty.”
+
+“Why, had I been Nero himself, I could not have tormented a being
+inoffensive as a shadow.”
+
+I smiled; but I also hushed a groan. Oh!—I just wished he would let me
+alone—cease allusion to me. These epithets—these attributes I put from
+me. His “quiet Lucy Snowe,” his “inoffensive shadow,” I gave him back;
+not with scorn, but with extreme weariness: theirs was the coldness and
+the pressure of lead; let him whelm me with no such weight. Happily, he
+was soon on another theme.
+
+“On what terms were ‘little Polly’ and I? Unless my recollections
+deceive me, we were not foes—”
+
+“You speak very vaguely. Do you think little Polly’s memory, not more
+definite?”
+
+“Oh! we don’t talk of ‘little Polly’ _now_. Pray say, Miss de
+Bassompierre; and, of course, such a stately personage remembers
+nothing of Bretton. Look at her large eyes, Lucy; can they read a word
+in the page of memory? Are they the same which I used to direct to a
+horn-book? She does not know that I partly taught her to read.”
+
+“In the Bible on Sunday nights?”
+
+“She has a calm, delicate, rather fine profile now: once what a little
+restless, anxious countenance was hers! What a thing is a child’s
+preference—what a bubble! Would you believe it? that lady was fond of
+me!”
+
+“I think she was in some measure fond of you,” said I, moderately.
+
+“You don’t remember then? _I_ had forgotten; but I remember _now_. She
+liked me the best of whatever there was at Bretton.”
+
+“You thought so.”
+
+“I quite well recall it. I wish I could tell her all I recall; or
+rather, I wish some one, you for instance, would go behind and whisper
+it all in her ear, and I could have the delight—here, as I sit—of
+watching her look under the intelligence. Could you manage that, think
+you, Lucy, and make me ever grateful?”
+
+“Could I manage to make you ever grateful?” said I. “No, _I could
+not_.” And I felt my fingers work and my hands interlock: I felt, too,
+an inward courage, warm and resistant. In this matter I was not
+disposed to gratify Dr. John: not at all. With now welcome force, I
+realized his entire misapprehension of my character and nature. He
+wanted always to give me a role not mine. Nature and I opposed him. He
+did not at all guess what I felt: he did not read my eyes, or face, or
+gestures; though, I doubt not, all spoke. Leaning towards me coaxingly,
+he said, softly, “_Do_ content me, Lucy.”

@@ -1,7 +1,7 @@
 ---
 title: Prison
 type: motif
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Martyrdom · Martyr / Saint · Cross
 tags:
   - graph/motif
 ---

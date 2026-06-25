@@ -2,7 +2,7 @@
 title: donkey
 author: Chesterton
 type: work
-cluster: Grace and Redemption · Humility · The Desert
+cluster: Martyrdom · Martyr / Saint · Cross
 source: Authors/Chesterton/_raw/donkey.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
 
 # donkey
 
-*by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · The Desert]]
+*by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > Lyric in which the despised, grotesque donkey keeps its secret: it too had 'one far fierce hour' when palms were strewn before it on Palm Sunday — the lowly exalted through Christ.
@@ -29,14 +29,38 @@ tags:
 ## Connections
 
 **Archetypes:** [[Christ Figure]]
-**Motifs:** [[Animals]], [[The Moon]]
-**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[The Grotesque]]
+**Motifs:** [[Animals]], [[Moon]]
+**Themes & Concepts:** [[Humility]], [[Grace and Redemption]], [[Grotesque]]
 **Forms & Genres:** [[Lyric]]
-**Historical References:** [[The Bible]], [[Christianity]]
+**Historical References:** [[Bible]], [[Christianity]]
 **Characters:** [[Christ]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+The Donkey
 
-!donkey
+			      G.K.Chesterton
+
+        When fishes flew and forests walked
+          And figs grew upon thorn,
+        Some moment when the moon was blood
+          Then surely I was born.
+          
+        With monstrous head and sickening cry
+          And ears like errant wings,
+        The devil's walking parody
+          On all four-footed things.
+          
+        The tattered outlaw of the earth,
+          Of ancient crooked will;
+        Starve, scourge, deride me: I am dumb,
+          I keep my secret still.
+            
+        Fools! For I also had my hour;
+          One far fierce hour and sweet:
+        There was a shout about my ears,
+          And palms before my feet.
+
+
+
+===== FINE FILE: donkey.txt =====

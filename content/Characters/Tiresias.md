@@ -1,14 +1,14 @@
 ---
 title: Tiresias
 type: character
-cluster: The Sea · Water · River
+cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
 tags:
   - graph/character
 ---
 
 # Tiresias
 
-*Character* — appears in **2** work(s).
+*Character* — appears in **3** work(s).
 
 ## Works
 

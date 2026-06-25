@@ -1,7 +1,7 @@
 ---
 title: Rural England
 type: setting
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Essay · Critique of Progress · Common Man
 tags:
   - graph/setting
 ---

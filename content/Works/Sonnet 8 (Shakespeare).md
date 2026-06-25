@@ -2,7 +2,7 @@
 title: Sonnet 8
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_008.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 8
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Music-and-harmony sonnet; the concord of strings as sire, child and mother argues that the single life proves none.
@@ -26,11 +26,24 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]], [[Marriage]]
-**Themes & Concepts:** [[Procreation]], [[Marriage and Fidelity]], [[The Natural Order]]
+**Themes & Concepts:** [[Procreation]], [[Marriage and Fidelity]], [[Natural Order]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Music to hear, why hear‘st thou music sadly? 
+Sweets with sweets war not, joy delights in joy. 
+Why lov’st thou that which thou receiv‘st not gladly, 
+Or else receiv’st with pleasure thine annoy? 
+If the true concord of well-tuned sounds 
+By unions married do offend thine ear, 
+They do but sweetly chide thee, who confounds 
+In singleness the parts that thou shouldst bear. 
+Mark how one string, sweet husband to another, 
+Strikes each in each by mutual ordering, 
+Resembling sire and child and happy mother, 
+Who all in one one pleasing note do sing;
 
-!Sonnet_008
+Whose speechless song, being many, seeming one,
+
+Sings this to thee: ‘Thou single wilt prove none.’

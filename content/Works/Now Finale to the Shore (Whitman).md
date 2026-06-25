@@ -2,7 +2,7 @@
 title: Now Finale to the Shore
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Ship · Endurance
 source: Authors/Whitman/_raw/292_Now_Finale_to_the_Shore.md
 tags:
   - graph/work
@@ -16,18 +16,28 @@ tags:
 
 # Now Finale to the Shore
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 
 > A free-verse farewell bidding the old Sailor depart on an endless cruise beyond return; themes of death as voyage, the sea and the journey.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[The Sea]], [[The Ship]], [[The Journey]]
+**Motifs:** [[Death]], [[Sea]], [[Ship (2)]], [[Journey]]
 **Themes & Concepts:** [[Mortality]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SONGS OF PARTING_
 
-!292_Now_Finale_to_the_Shore
+
+  Now finale to the shore,
+  Now land and life finale and farewell,
+  Now Voyager depart, (much, much for thee is yet in store,)
+  Often enough hast thou adventur’d o’er the seas,
+  Cautiously cruising, studying the charts,
+  Duly again to port and hawser’s tie returning;
+  But now obey thy cherish’d secret wish,
+  Embrace thy friends, leave all in order,
+  To port and hawser’s tie no more returning,
+  Depart upon thy endless cruise old Sailor.

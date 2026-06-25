@@ -2,7 +2,7 @@
 title: True Conquerors
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/328_True_Conquerors.md
 tags:
   - graph/work
@@ -18,20 +18,27 @@ tags:
 
 # True Conquerors
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Old workers, sailors and soldiers who merely survived their struggles are the true conquerors over all the rest.
 
 ## Connections
 
-**Archetypes:** [[The Wise Old Man Sage]]
-**Motifs:** [[The Sea]], [[Swords and Weapons]]
-**Themes & Concepts:** [[Heroism]], [[The Common Man (2)]], [[War and its Cost]]
+**Archetypes:** [[Wise Old Man Sage]]
+**Motifs:** [[Sea]], [[Swords and Weapons]]
+**Themes & Concepts:** [[Heroism]], [[Common Man]], [[War and its Cost]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!328_True_Conquerors
+
+  Old farmers, travelers, workmen (no matter how crippled or bent,)
+  Old sailors, out of many a perilous voyage, storm and wreck,
+  Old soldiers from campaigns, with all their wounds, defeats and scars;
+  Enough that they’ve survived at all--long life’s unflinching ones!
+  Forth from their struggles, trials, fights, to have emerged at all--
+      in that alone,
+  True conquerors o’er all the rest.

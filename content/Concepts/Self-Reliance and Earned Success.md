@@ -1,7 +1,7 @@
 ---
 title: Self-Reliance and Earned Success
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Education · Self-Made Man · Wheel
 tags:
   - graph/concept
 ---

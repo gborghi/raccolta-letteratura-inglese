@@ -1,7 +1,7 @@
 ---
 title: Ballad / Ballade
 type: form
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Wine and Drink · Ballad / Ballade · Road
 tags:
   - graph/form
 ---

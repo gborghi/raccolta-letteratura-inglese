@@ -1,7 +1,7 @@
 ---
 title: Elegy
 type: form
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Grief and Loss · Elegy · Clothing and Costume
 tags:
   - graph/form
 ---

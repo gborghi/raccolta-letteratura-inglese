@@ -1,7 +1,7 @@
 ---
 title: Femme Fatale
 type: archetype
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 tags:
   - graph/archetype
 ---

@@ -1,0 +1,17 @@
+---
+title: Eternal Return
+type: topos
+cluster: Identity · Free Verse · Eternal Return
+tags:
+  - graph/topos
+---
+
+# Eternal Return
+
+*Topos* — appears in **37** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Topoi/Eternal-Return"></div>
+
+#graph/topos

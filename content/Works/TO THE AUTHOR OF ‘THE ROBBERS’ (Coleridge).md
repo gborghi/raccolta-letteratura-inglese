@@ -2,7 +2,7 @@
 title: TO THE AUTHOR OF ‘THE ROBBERS’
 author: Coleridge
 type: work
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Coleridge/_raw/075_TO_THE_AUTHOR_OF_THE_ROBBERS.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # TO THE AUTHOR OF ‘THE ROBBERS’
 
-*by Coleridge*  ·  **Cluster:** [[The Supernatural · Terror and Horror · Guilt]]
+*by Coleridge*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > Sonnet to Schiller in awe of the terror and sublimity of his tragedy; the sublime, terror and horror, the artist, and a Gothic dungeon scene.
@@ -25,11 +25,23 @@ tags:
 ## Connections
 
 **Motifs:** [[Storm]]
-**Themes & Concepts:** [[The Sublime]], [[Terror and Horror]], [[The Artist and Society (2)]], [[The Grotesque]]
+**Themes & Concepts:** [[Sublime]], [[Terror and Horror]], [[Artist and Society]], [[Grotesque]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!075_TO_THE_AUTHOR_OF_THE_ROBBERS
+Schiller! that hour I would have wish’d to die,
+If thro’ the shuddering midnight I had sent
+From the dark dungeon of the Tower time-rent
+That fearful voice, a famish’d Father’s cry —
+Lest in some after moment aught more mean   5
+Might stamp me mortal! A triumphant shout
+Black Horror scream’d, and all her goblin rout
+Diminish’d shrunk from the more withering scene!
+Ah! Bard tremendous in sublimity!
+Could I behold thee in thy loftier mood   10
+Wandering at eve with finely-frenzied eye
+Beneath some vast old tempest-swinging wood!
+Awhile with mute awe gazing I would brood:
+Then weep aloud in a wild ecstasy!
+? 1794.

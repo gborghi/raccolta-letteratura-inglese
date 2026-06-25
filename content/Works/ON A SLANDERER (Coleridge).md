@@ -23,12 +23,19 @@ tags:
 
 ## Connections
 
-**Motifs:** [[The Grave]], [[Decay]]
-**Themes & Concepts:** [[The Grotesque]], [[Satire of Society]]
+**Motifs:** [[Grave]], [[Decay]]
+**Themes & Concepts:** [[Grotesque]], [[Satire of Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!311_ON_A_SLANDERER
+From yonder tomb of recent date,
+There comes a strange mephitic blast.
+Here lies — Ha! Backbite, you at last —
+‘Tis he indeed: and sure as fate,
+They buried him in overhaste —
+Into the earth he has been cast,
+And in this grave,
+Before the man had breathed his last.
+1799. First published from an MS. in 1893. An expansion of [Epigram] No.
+12.

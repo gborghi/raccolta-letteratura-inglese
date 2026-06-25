@@ -26,8 +26,12 @@ tags:
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!306_ON_A_LATE_MARRIAGE_BETWEEN_AN_OLD_MAID_AND_FRENCH_PETIT_MAÎTRE
+Tho’ Miss — —’s match is a subject of mirth,
+She considered the matter full well,
+And wisely preferred leading one ape on earth
+To perhaps a whole dozen in hell.
+First published in The Watchman, No. V, April 2, 1796. Included in
+Literary Remains, 1836, i. 45. First collected P. and D. W., 1877,
+ii. 368.

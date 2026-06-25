@@ -26,8 +26,13 @@ tags:
 **Themes & Concepts:** [[Marriage and Fidelity]], [[Deception]], [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!325_TO_A_PROUD_PARENT
+Thy babes ne’er greet thee with the father’s name;
+‘My Lud!’ they lisp. Now whence can this arise?
+Perhaps their mother feels an honest shame
+And will not teach her infant to tell lies.
+First published in An. Anth., 1800, included in Essays, &c., ii.
+997. First collected P. and D. W., 1877, ii. 164. Adapted from
+Lessing’s Sinngedicht No. 17. An den Doktor Sp * *. ‘Dein Söhnchen
+lässt dich nie den Namen Vater hören.’

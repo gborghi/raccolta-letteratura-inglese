@@ -2,7 +2,7 @@
 title: Sonnet 86
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_086.md
 tags:
   - graph/work
@@ -19,19 +19,30 @@ tags:
 
 # Sonnet 86
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Climax of the rival-poet sequence: the rival's proud verse and 'familiar ghost' did not silence the speaker; only the youth's favour to the rival did.
 
 ## Connections
 
-**Motifs:** [[The Supernatural (2)]], [[Ghosts]], [[The Grave]], [[The Sea]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Jealousy]]
+**Motifs:** [[Supernatural]], [[Ghosts]], [[Grave]], [[Sea]]
+**Themes & Concepts:** [[Artist and Society]], [[Jealousy]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_086
+Was it the proud full sail of his great verse 
+Bound for the prize of all-too-precious you 
+That did my ripe thoughts in my brain inhearse, 
+Making their tomb the womb wherein they grew? 
+Was it his spirit, by spirits taught to write 
+Above a mortal pitch, that struck me dead? 
+No, neither he nor his compeers by night 
+Giving him aid my verse astonished. 
+He nor that affable familiar ghost 
+Which nightly gulls him with intelligence, 
+As victors, of my silence cannot boast; 
+I was not sick of any fear from thence. 
+But when your countenance filled up his line, 
+Then lacked I matter; that enfeebled mine.

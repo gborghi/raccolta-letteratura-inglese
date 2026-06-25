@@ -2,7 +2,7 @@
 title: Interpolation Sounds
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/364_Interpolation_Sounds.md
 tags:
   - graph/work
@@ -18,21 +18,34 @@ tags:
 
 # Interpolation Sounds
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Over a funeral service the poet hears interpolated the sudden sounds of Civil War battle, the clamor of arms and cavalry breaking into the solemn rite.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[Swords and Weapons]], [[Music and Song]]
+**Motifs:** [[Death]], [[Swords and Weapons]], [[Music and Song]]
 **Themes & Concepts:** [[War and its Cost]]
 **Forms & Genres:** [[Free Verse]]
 **Historical References:** [[American Civil War]]
-**Settings:** [[The Battlefield (2)]]
+**Settings:** [[Battlefield]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: GOOD-BYE MY FANCY_
 
-!364_Interpolation_Sounds
+
+  Over and through the burial chant,
+  Organ and solemn service, sermon, bending priests,
+  To me come interpolation sounds not in the show--plainly to me,
+      crowding up the aisle and from the window,
+  Of sudden battle’s hurry and harsh noises--war’s grim game to sight
+      and ear in earnest;
+  The scout call’d up and forward--the general mounted and his aides
+      around him--the new-brought word--the instantaneous order issued;
+  The rifle crack--the cannon thud--the rushing forth of men from their
+      tents;
+  The clank of cavalry--the strange celerity of forming ranks--the
+      slender bugle note;
+  The sound of horses’ hoofs departing--saddles, arms, accoutrements.

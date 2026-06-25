@@ -2,7 +2,7 @@
 title: Sonnet - The Human Seasons
 author: Keats
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 source: Authors/Keats/_raw/083_Sonnet_-_The_Human_Seasons.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet - The Human Seasons
 
-*by Keats*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > A sonnet allegorizing the four ages of human life as the four seasons of the mind, ending in a wintry decline that is the price of mortal nature. Its themes are transience, mortality, and the seasons of the soul.
@@ -31,8 +31,19 @@ tags:
 **Themes & Concepts:** [[Transience]], [[Mortality]], [[Self-Knowledge]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!083_Sonnet_-_The_Human_Seasons
+Four seasons fill the measure of the year;
+There are four seasons in the mind of man:
+He has his lusty Spring, when fancy clear
+Takes in all beauty with an easy span:
+He has his Summer, when luxuriously
+Spring’s honied cud of youthful thought he loves
+To ruminate, and by such dreaming nigh
+His nearest unto heaven: quiet coves
+His soul has in its Autumn, when his wings
+He furleth close; contented so to look  10
+On mists in idleness - to let fair things
+Pass by unheeded as a threshold brook.
+He has his Winter too of pale misfeature,
+Or else he would forego his mortal nature.

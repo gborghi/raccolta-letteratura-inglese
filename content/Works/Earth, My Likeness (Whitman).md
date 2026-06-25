@@ -2,7 +2,7 @@
 title: 'Earth, My Likeness'
 author: Whitman
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Whitman/_raw/071_Earth_My_Likeness.md
 tags:
   - graph/work
@@ -16,19 +16,27 @@ tags:
 
 # Earth, My Likeness
 
-*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > Poet sees in the impassive earth a hidden fierce force mirroring the inexpressible passion roused by an athlete-lover; nature, desire, the body and the inexpressible.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility (3)]], [[The Book of Nature]]
+**Topoi:** [[Inexpressibility]], [[Book of Nature]]
 **Motifs:** [[Nature]]
-**Themes & Concepts:** [[Lust Sexual Desire]], [[The Body]]
+**Themes & Concepts:** [[Lust Sexual Desire]], [[Body]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!071_Earth_My_Likeness
+
+  Earth, my likeness,
+  Though you look so impassive, ample and spheric there,
+  I now suspect that is not all;
+  I now suspect there is something fierce in you eligible to burst forth,
+  For an athlete is enamour’d of me, and I of him,
+  But toward him there is something fierce and terrible in me eligible
+      to burst forth,
+  I dare not tell it in words, not even in these songs.

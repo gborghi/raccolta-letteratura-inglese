@@ -1,0 +1,87 @@
+---
+title: "Twelfth Night — Act III, Scene 3"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Twelfth Night — Act III, Scene 3
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_3/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_3/Scene_4">Scene 4 ›</a></div>
+</nav>
+
+
+Enter Sebastian and Antonio
+SEBASTIAN
+I would not by my will have troubled you,
+But since you make your pleasure of your pains
+I will no further chide you.
+ANTONIO
+I could not stay behind you. My desire,
+More sharp than filèd steel, did spur me forth,
+And not all love to see you—though so much
+As might have drawn one to a longer voyage—
+But jealousy what might befall your travel,
+Being skilless in these parts, which to a stranger,
+Unguided and unfriended, often prove
+Rough and unhospitable. My willing love
+The rather by these arguments of fear
+Set forth in your pursuit.
+SEBASTIAN
+My kind Antonio,
+I can no other answer make but thanks,
+And thanks; and ever oft good turns
+Are shuffled off with such uncurrent pay.
+But were my worth as is my conscience firm,
+You should find better dealing. What’s to do?
+Shall we go see the relics of this town?
+ANTONIO
+Tomorrow, sir. Best first go see your lodging.
+SEBASTIAN
+I am not weary, and ’tis long to night.
+I pray you let us satisfy our eyes
+With the memorials and the things of fame
+That do renown this city.
+ANTONIO
+Would you’d pardon me.
+I do not without danger walk these streets.
+Once in a sea-fight ‘gainst the Count his galleys
+I did some service, of such note indeed
+That were I ta’en here it would scarce be answered.
+SEBASTIAN
+Belike you slew great number of his people.
+ANTONIO
+Th’offence is not of such a bloody nature,
+Albeit the quality of the time and quarrel
+Might well have given us bloody argument.
+It might have since been answered in repaying
+What we took from them, which for traffic’s sake
+Most of our city did. Only myself stood out,
+For which if I be latched in this place
+I shall pay dear.
+SEBASTIAN
+Do not then walk too open.
+ANTONIO
+It doth not fit me. Hold, sir, here’s my purse.
+In the south suburbs at the Elephant
+Is best to lodge. I will bespeak our diet
+Whiles you beguile the time and feed your knowledge
+With viewing of the town. There shall you have me.
+SEBASTIAN Why I your purse?
+ANTONIO
+Haply your eye shall light upon some toy
+You have desire to purchase; and your store
+I think is not for idle markets, sir.
+SEBASTIAN
+I’ll be your purse-bearer, and leave you
+For an hour.
+ANTONIO
+To th’ Elephant.
+SEBASTIAN
+I do remember.
+Exeunt severally

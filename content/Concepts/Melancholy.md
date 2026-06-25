@@ -1,7 +1,7 @@
 ---
 title: Melancholy
 type: concept
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Melancholy · Suffering · Pain and Suffering
 tags:
   - graph/concept
 ---

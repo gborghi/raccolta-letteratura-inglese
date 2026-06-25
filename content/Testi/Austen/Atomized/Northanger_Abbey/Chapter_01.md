@@ -1,0 +1,61 @@
+---
+title: "Northanger Abbey — Chapter 31"
+author: "Austen"
+unitType: chapter
+parentWork: "Works/Northanger-Abbey-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Northanger Abbey — Chapter 31
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
+<div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_02">Chapter 02 ›</a></div>
+</nav>
+
+
+ CHAPTER 31
+
+
+
+ A NOTE ON THE TEXT
+
+
+
+
+
+
+
+
+
+ADVERTISEMENT BY THE AUTHORESS, TO NORTHANGER ABBEY
+
+
+
+
+
+This little work was finished in the year 1803, and intended for
+
+immediate publication. It was disposed of to a bookseller, it was even
+
+advertised, and why the business proceeded no farther, the author has
+
+never been able to learn. That any bookseller should think it
+
+worth-while to purchase what he did not think it worth-while to publish
+
+seems extraordinary. But with this, neither the author nor the public
+
+have any other concern than as some observation is necessary upon those
+
+parts of the work which thirteen years have made comparatively
+
+obsolete. The public are entreated to bear in mind that thirteen years
+
+have passed since it was finished, many more since it was begun, and
+
+that during that period, places, manners, books, and opinions have
+
+undergone considerable changes.

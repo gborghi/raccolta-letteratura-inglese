@@ -1,7 +1,7 @@
 ---
 title: Eastern Religion and Asceticism
 type: concept
-cluster: The Sea · Water · River
+cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
 tags:
   - graph/concept
 ---

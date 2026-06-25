@@ -27,14 +27,28 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[The Child]]
+**Archetypes:** [[Child]]
 **Motifs:** [[Prayer]], [[Childhood]], [[Sleep]]
 **Themes & Concepts:** [[Faith]], [[Innocence and Experience]], [[Maturation and Growth]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!229_A_CHILDS_EVENING_PRAYER
+Ere on my bed my limbs I lay,
+God grant me grace my prayers to say:
+O God! preserve my mother dear
+In strength and health for many a year;
+And, O! preserve my father too,   5
+And may I pay him reverence due;
+And may I my best thoughts employ
+To be my parents’ hope and joy;
+And O! preserve my brothers both
+From evil doings and from sloth,   10
+And may we always love each other
+Our friends, our father, and our mother:
+And still, O Lord, to me impart
+An innocent and grateful heart,
+That after my great sleep I may   15
+Awake to thy eternal day! Amen.
+1806.

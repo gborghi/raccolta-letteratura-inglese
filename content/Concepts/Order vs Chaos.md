@@ -1,7 +1,7 @@
 ---
 title: Order vs Chaos
 type: concept
-cluster: Power and Corruption · The Crown · Pride
+cluster: Order vs Chaos · Historical Novel · Fanaticism
 tags:
   - graph/concept
 ---

@@ -2,7 +2,7 @@
 title: 'Joy, Shipmate, Joy!'
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Ship · Endurance
 source: Authors/Whitman/_raw/288_Joy_Shipmate_Joy.md
 tags:
   - graph/work
@@ -16,18 +16,25 @@ tags:
 
 # Joy, Shipmate, Joy!
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 
 > A short rhymed lyric celebrating death as a joyful ship setting sail from shore; themes of death as voyage, joy and the sea.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[The Sea]], [[The Ship]], [[The Journey]]
+**Motifs:** [[Death]], [[Sea]], [[Ship (2)]], [[Journey]]
 **Themes & Concepts:** [[Joy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SONGS OF PARTING_
 
-!288_Joy_Shipmate_Joy
+
+  Joy, shipmate, Joy!
+  (Pleas’d to my soul at death I cry,)
+  Our life is closed, our life begins,
+  The long, long anchorage we leave,
+  The ship is clear at last, she leaps!
+  She swiftly courses from the shore,
+  Joy, shipmate, joy.

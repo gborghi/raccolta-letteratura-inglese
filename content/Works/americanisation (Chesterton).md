@@ -29,8 +29,45 @@ tags:
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[Satire of Society]], [[Critique of Progress]], [[Nostalgia]]
 **Forms & Genres:** [[Comic Verse Song]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+AMERICANISATION
 
-!americanisation
+Britannia needs no Boulevards,
+  No spaces wide and gay:
+Her march was through the crooked streets
+  Along the narrow way.
+Nor looks she where, New York's seduction,
+The Broadway leadeth to destruction.
+
+Britannia needs no Cafes:
+  If Coffee needs must be,
+Its place should be the Coffee-house
+  Where Johnson growled for Tea;
+But who can hear that human mountain
+Growl for an ice-cream soda-fountain?
+
+She needs no Russian Theatrey
+  Mere Father strangles Mother,
+In scenes where all the characters
+  And colours kill each other--
+Her boast is freedom had by halves,
+And Britons never shall be Slavs.
+
+But if not hers the Dance of Death,
+  Great Dostoievsky's dance,
+And if the things most finely French
+  Are better done in France--
+Might not Americanisation
+Be best applied to its own nation?
+
+Ere every shop shall be a store
+  And every Trade a Trust  . . .
+Lo, many men in many lands
+  Know when their cause is just.
+There will be quite a large attendance
+When we Declare our Independence.
+
+
+
+===== FINE FILE: americanisation.txt =====

@@ -1,7 +1,7 @@
 ---
 title: Sin and the Fall
 type: concept
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Bible · Sin and the Fall · Fall from Innocence
 tags:
   - graph/concept
 ---

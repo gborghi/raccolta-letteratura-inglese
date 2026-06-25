@@ -1,7 +1,7 @@
 ---
 title: Metamorphosis / Transformation
 type: concept
-cluster: Death · Mortality · Immortality
+cluster: Self-Knowledge · Immortality · Self-Reliance
 tags:
   - graph/concept
 ---

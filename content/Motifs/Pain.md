@@ -1,7 +1,7 @@
 ---
 title: Pain
 type: motif
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Melancholy · Suffering · Pain and Suffering
 tags:
   - graph/motif
 ---

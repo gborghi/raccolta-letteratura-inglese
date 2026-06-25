@@ -2,7 +2,7 @@
 title: THE VIRGIN’S CRADLE-HYMN
 author: Coleridge
 type: work
-cluster: Christ · Divine Love · Hymn
+cluster: Faith · Providence · Divine Love
 source: Authors/Coleridge/_raw/242_THE_VIRGINS_CRADLE-HYMN.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # THE VIRGIN’S CRADLE-HYMN
 
-*by Coleridge*  ·  **Cluster:** [[Christ · Divine Love · Hymn]]
+*by Coleridge*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A short Latin cradle-hymn of the Virgin Mary singing the sleeping infant Jesus, copied from a Catholic print. Themes of divine love, the Virgin and childhood in hymn form.
@@ -31,10 +31,14 @@ tags:
 **Themes & Concepts:** [[Divine Love]], [[Faith]], [[Innocence and Experience]]
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Catholic Church]]
-**Characters:** [[The Virgin Mary]], [[Christ]]
+**Characters:** [[Virgin Mary]], [[Christ]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!242_THE_VIRGINS_CRADLE-HYMN
+COPIED FROM A PRINT OF THE VIRGIN IN A ROMAN CATHOLIC VILLAGE IN GERMANY
+Dormi, Jesu! Mater ridet
+Quae tam dulcem somnum videt,
+Dormi, Jesu! blandule!
+Si non dormis, Mater plorat,
+Inter fila cantans orat,   5
+Blande, veni, somnule.

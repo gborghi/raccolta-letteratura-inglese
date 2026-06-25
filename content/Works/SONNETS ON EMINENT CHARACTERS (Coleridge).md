@@ -2,7 +2,7 @@
 title: SONNETS ON EMINENT CHARACTERS
 author: Coleridge
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Coleridge/_raw/081_SONNETS_ON_EMINENT_CHARACTERS.md
 tags:
   - graph/work
@@ -16,18 +16,23 @@ tags:
 
 # SONNETS ON EMINENT CHARACTERS
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Headnote and opening of Coleridge's series of sonnets addressed to eminent contemporaries for the Morning Chronicle; occasional sonnet sequence on public figures.
 
 ## Connections
 
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Nationalism and Patriotism]], [[Satire of Society]]
+**Themes & Concepts:** [[Artist and Society]], [[Nationalism and Patriotism]], [[Satire of Society]]
 **Forms & Genres:** [[Poem Sequence]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!081_SONNETS_ON_EMINENT_CHARACTERS
+CONTRIBUTED TO THE ‘MORNING CHRONICLE’ IN DECEMBER 1794 AND JANUARY 1795
+[The Sonnets were introduced by the following letter: —
+‘MR. EDITOR — If, Sir, the following Poems will not disgrace
+your poetical department, I will transmit you a series of
+Sonnets (as it is the fashion to call them) addressed like
+these to eminent Contemporaries.
+‘JESUS COLLEGE, CAMBRIDGE.’     S. T. C.]
+I

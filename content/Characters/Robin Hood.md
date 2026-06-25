@@ -1,7 +1,7 @@
 ---
 title: Robin Hood
 type: character
-cluster: Power and Corruption · The Crown · Pride
+cluster: Wine and Drink · Ballad / Ballade · Road
 tags:
   - graph/character
 ---

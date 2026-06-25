@@ -1,7 +1,7 @@
 ---
 title: Hexameter Verse
 type: form
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Melancholy · Suffering · Pain and Suffering
 tags:
   - graph/form
 ---

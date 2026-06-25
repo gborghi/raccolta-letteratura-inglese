@@ -2,7 +2,7 @@
 title: EPITAPH ON MAJOR DIEMAN
 author: Coleridge
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Coleridge/_raw/329_EPITAPH_ON_MAJOR_DIEMAN.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # EPITAPH ON MAJOR DIEMAN
 
-*by Coleridge*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A comic mock-epitaph punning on the name 'Dieman' (dead man) and demoting the dead major from Major to 'Corporal' once his soul has gone.
@@ -24,12 +24,14 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[The Grave]]
+**Motifs:** [[Grave]]
 **Themes & Concepts:** [[Mortality]], [[Satire of Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!329_EPITAPH_ON_MAJOR_DIEMAN
+Know thou who walks’t by, Man! that wrapp’d up in lead, man,
+What once was a Dieman, now lies here a dead man.
+Alive a proud MAJOR! but ah me! of our poor all,
+The soul having gone, he is now merely Corporal.
+? 1800. Now first published from MS.

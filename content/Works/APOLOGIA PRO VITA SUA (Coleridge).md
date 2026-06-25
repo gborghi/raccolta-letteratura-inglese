@@ -2,7 +2,7 @@
 title: APOLOGIA PRO VITA SUA
 author: Coleridge
 type: work
-cluster: Imagination · Creativity and Artistic Labor · The One Life (Pantheism)
+cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/190_APOLOGIA_PRO_VITA_SUA.md
 tags:
   - graph/work
@@ -18,20 +18,26 @@ tags:
 
 # APOLOGIA PRO VITA SUA
 
-*by Coleridge*  ·  **Cluster:** [[Imagination · Creativity and Artistic Labor · The One Life (Pantheism)]]
+*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > An epigram on the poet's imagination, whose 'gifted ken' sees phantoms of sublimity in coals and pipe-smoke, a miniature ars poetica of the shaping imagination.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Motifs:** [[Eyes and Sight]], [[Fire]]
-**Themes & Concepts:** [[Imagination]], [[The Sublime]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Imagination]], [[Sublime]], [[Artist and Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!190_APOLOGIA_PRO_VITA_SUA
+The poet in his lone yet genial hour
+Gives to his eyes a magnifying power:
+Or rather he emancipates his eyes
+From the black shapeless accidents of size —
+In unctuous cones of kindling coal,   5
+Or smoke upwreathing from the pipe’s trim hole,
+His gifted ken can see
+Phantoms of sublimity.
+1800.

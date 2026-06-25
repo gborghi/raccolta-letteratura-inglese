@@ -1,7 +1,7 @@
 ---
 title: Germany
 type: setting
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Alienation · Outsider · Exile
 tags:
   - graph/setting
 ---

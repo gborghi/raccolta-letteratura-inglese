@@ -1,7 +1,7 @@
 ---
 title: Calamus (the root)
 type: motif
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 tags:
   - graph/motif
 ---

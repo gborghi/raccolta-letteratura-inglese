@@ -1,7 +1,7 @@
 ---
 title: Hymn
 type: form
-cluster: Christ · Divine Love · Hymn
+cluster: Faith · Providence · Divine Love
 tags:
   - graph/form
 ---

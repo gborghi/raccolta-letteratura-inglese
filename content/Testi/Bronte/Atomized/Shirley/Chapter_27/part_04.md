@@ -1,0 +1,351 @@
+---
+title: "Shirley — Chapter 27 (part 4)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Shirley-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Shirley — Chapter 27 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_27/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_27/part_05">part 05 ›</a></div>
+</nav>
+
+
+severed a berry and offered it to his lips. He shook his head, and
+
+turned aside his flushed face.
+
+
+
+"But what, then, can I bring you instead? You have no wish for fruit;
+
+yet I see that your lips are parched. What beverage do you prefer?"
+
+
+
+"Mrs. Gill supplies me with toast-and-water. I like it best."
+
+
+
+Silence fell for some minutes.
+
+
+
+"Do you suffer?--have you pain?"
+
+
+
+"Very little."
+
+
+
+"What made you ill?"
+
+
+
+Silence.
+
+
+
+"I wonder what caused this fever? To what do you attribute it?"
+
+
+
+"Miasma, perhaps--malaria. This is autumn, a season fertile in fevers."
+
+
+
+"I hear you often visit the sick in Briarfield, and Nunnely too, with
+
+Mr. Hall. You should be on your guard; temerity is not wise."
+
+
+
+"That reminds me, Miss Keeldar, that perhaps you had better not enter
+
+this chamber or come near this couch. I do not believe my illness is
+
+infectious. I scarcely fear"--with a sort of smile--"_you_ will take it;
+
+but why should you run even the shadow of a risk? Leave me."
+
+
+
+"Patience, I will go soon; but I should like to do something for you
+
+before I depart--any little service----"
+
+
+
+"They will miss you below."
+
+
+
+"No; the gentlemen are still at table."
+
+
+
+"They will not linger long. Sir Philip Nunnely is no wine-bibber, and I
+
+hear him just now pass from the dining-room to the drawing-room."
+
+
+
+"It is a servant."
+
+
+
+"It is Sir Philip; I know his step."
+
+
+
+"Your hearing is acute."
+
+
+
+"It is never dull, and the sense seems sharpened at present. Sir Philip
+
+was here to tea last night. I heard you sing to him some song which he
+
+had brought you. I heard him, when he took his departure at eleven
+
+o'clock, call you out on to the pavement, to look at the evening star."
+
+
+
+"You must be nervously sensitive."
+
+
+
+"I heard him kiss your hand."
+
+
+
+"Impossible!"
+
+
+
+"No: my chamber is over the hall, the window just above the front door;
+
+the sash was a little raised, for I felt feverish. You stood ten minutes
+
+with him on the steps. I heard your discourse, every word, and I heard
+
+the salute.--Henry, give me some water."
+
+
+
+"Let me give it him."
+
+
+
+But he half rose to take the glass from young Sympson, and declined her
+
+attendance.
+
+
+
+"And can I do nothing?"
+
+
+
+"Nothing; for you cannot guarantee me a night's peaceful rest, and it is
+
+all I at present want."
+
+
+
+"You do not sleep well?"
+
+
+
+"Sleep has left me."
+
+
+
+"Yet you said you were not very ill?"
+
+
+
+"I am often sleepless when in high health."
+
+
+
+"If I had power, I would lap you in the most placid slumber--quite deep
+
+and hushed, without a dream."
+
+
+
+"Blank annihilation! I do not ask that."
+
+
+
+"With dreams of all you most desire."
+
+
+
+"Monstrous delusions! The sleep would be delirium, the waking death."
+
+
+
+"Your wishes are not so chimerical; you are no visionary."
+
+
+
+"Miss Keeldar, I suppose you think so; but my character is not, perhaps,
+
+quite as legible to you as a page of the last new novel might be."
+
+
+
+"That is possible. But this sleep--I _should_ like to woo it to your
+
+pillow, to win for you its favour. If I took a book and sat down and
+
+read some pages? I can well spare half an hour."
+
+
+
+"Thank you, but I will not detain you."
+
+
+
+"I would read softly."
+
+
+
+"It would not do. I am too feverish and excitable to bear a soft,
+
+cooing, vibrating voice close at my ear. You had better leave me."
+
+
+
+"Well, I will go."
+
+
+
+"And no good-night?"
+
+
+
+"Yes, sir, yes. Mr. Moore, good-night." (Exit Shirley.)
+
+
+
+"Henry, my boy, go to bed now; it is time you had some repose."
+
+
+
+"Sir, it would please me to watch at your bedside all night."
+
+
+
+"Nothing less called for. I am getting better. There, go."
+
+
+
+"Give me your blessing, sir."
+
+
+
+"God bless you, my best pupil!"
+
+
+
+"You never call me your dearest pupil!"
+
+
+
+"No, nor ever shall."
+
+
+
+       *       *       *       *       *
+
+
+
+Possibly Miss Keeldar resented her former teacher's rejection of her
+
+courtesy. It is certain she did not repeat the offer of it. Often as her
+
+light step traversed the gallery in the course of a day, it did not
+
+again pause at his door; nor did her "cooing, vibrating voice" disturb a
+
+second time the hush of the sickroom. A sickroom, indeed, it soon ceased
+
+to be; Mr. Moore's good constitution quickly triumphed over his
+
+indisposition. In a few days he shook it off, and resumed his duties as
+
+tutor.
+
+
+
+That "auld lang syne" had still its authority both with preceptor and
+
+scholar was proved by the manner in which he sometimes promptly passed
+
+the distance she usually maintained between them, and put down her high
+
+reserve with a firm, quiet hand.
+
+
+
+One afternoon the Sympson family were gone out to take a carriage
+
+airing. Shirley, never sorry to snatch a reprieve from their society,
+
+had remained behind, detained by business, as she said. The business--a
+
+little letter-writing--was soon dispatched after the yard gates had
+
+closed on the carriage; Miss Keeldar betook herself to the garden.
+
+
+
+It was a peaceful autumn day. The gilding of the Indian summer mellowed
+
+the pastures far and wide. The russet woods stood ripe to be stripped,
+
+but were yet full of leaf. The purple of heath-bloom, faded but not
+
+withered, tinged the hills. The beck wandered down to the Hollow,
+
+through a silent district; no wind followed its course or haunted its
+
+woody borders. Fieldhead gardens bore the seal of gentle decay. On the
+
+walks, swept that morning, yellow leaves had fluttered down again. Its
+
+time of flowers, and even of fruits, was over; but a scantling of
+
+apples enriched the trees. Only a blossom here and there expanded pale
+
+and delicate amidst a knot of faded leaves.
+
+
+
+These single flowers--the last of their race--Shirley culled as she
+
+wandered thoughtfully amongst the beds. She was fastening into her
+
+girdle a hueless and scentless nosegay, when Henry Sympson called to her
+
+as he came limping from the house.
+
+
+
+"Shirley, Mr. Moore would be glad to see you in the schoolroom and to
+
+hear you read a little French, if you have no more urgent occupation."
+
+
+
+The messenger delivered his commission very simply, as if it were a mere

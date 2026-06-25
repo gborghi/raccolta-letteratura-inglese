@@ -1,7 +1,7 @@
 ---
 title: Odysseus / Ulysses
 type: character
-cluster: Disillusionment · Odysseus / Ulysses · Grace Under Pressure / Stoic Endurance
+cluster: Order vs Chaos · Historical Novel · Fanaticism
 tags:
   - graph/character
 ---

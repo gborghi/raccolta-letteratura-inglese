@@ -2,7 +2,7 @@
 title: Beat! Beat! Drums!
 author: Whitman
 type: work
-cluster: War and its Cost · Blood · American Civil War
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/144_Beat_Beat_Drums.md
 tags:
   - graph/work
@@ -18,20 +18,48 @@ tags:
 
 # Beat! Beat! Drums!
 
-*by Whitman*  ·  **Cluster:** [[War and its Cost · Blood · American Civil War]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > A pounding incantatory war-song in which drums and bugles shatter church, school, marriage and ordinary life; war's intrusion on the peaceful world.
 
 ## Connections
 
-**Motifs:** [[Drums and Bugles]], [[Music and Song]], [[Death (2)]]
+**Motifs:** [[Drums and Bugles]], [[Music and Song]], [[Death]]
 **Themes & Concepts:** [[War and its Cost]], [[Grief and Loss]]
 **Forms & Genres:** [[Comic Verse Song]]
 **Historical References:** [[American Civil War]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!144_Beat_Beat_Drums
+
+  Beat! beat! drums!--blow! bugles! blow!
+  Through the windows--through doors--burst like a ruthless force,
+  Into the solemn church, and scatter the congregation,
+  Into the school where the scholar is studying;
+  Leave not the bridegroom quiet--no happiness must he have now with
+      his bride,
+  Nor the peaceful farmer any peace, ploughing his field or gathering
+      his grain,
+  So fierce you whirr and pound you drums--so shrill you bugles blow.
+
+  Beat! beat! drums!--blow! bugles! blow!
+  Over the traffic of cities--over the rumble of wheels in the streets;
+  Are beds prepared for sleepers at night in the houses? no sleepers
+      must sleep in those beds,
+  No bargainers’ bargains by day--no brokers or speculators--would
+      they continue?
+  Would the talkers be talking? would the singer attempt to sing?
+  Would the lawyer rise in the court to state his case before the judge?
+  Then rattle quicker, heavier drums--you bugles wilder blow.
+
+  Beat! beat! drums!--blow! bugles! blow!
+  Make no parley--stop for no expostulation,
+  Mind not the timid--mind not the weeper or prayer,
+  Mind not the old man beseeching the young man,
+  Let not the child’s voice be heard, nor the mother’s entreaties,
+  Make even the trestles to shake the dead where they lie awaiting the
+      hearses,
+  So strong you thump O terrible drums--so loud you bugles blow.

@@ -2,7 +2,7 @@
 title: SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS
 author: Coleridge
 type: work
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 source: >-
   Authors/Coleridge/_raw/138_SONNETS_ATTEMPTED_IN_THE_MANNER_OF_CONTEMPORARY_WRITERS.md
 tags:
@@ -17,18 +17,32 @@ tags:
 
 # SONNETS ATTEMPTED IN THE MANNER OF CONTEMPORARY WRITERS
 
-*by Coleridge*  ·  **Cluster:** [[Parody · Heroic Couplet · Mock Epic]]
+*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > Self-parodying sonnets signed 'Nehemiah Higginbottom' mocking fashionable affected melancholy and over-simple poetic mannerisms; a satire of contemporary verse, in sonnet form.
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[The Artist and Society (2)]], [[Melancholy]]
+**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Melancholy]]
 **Forms & Genres:** [[Sonnet]], [[Parody]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!138_SONNETS_ATTEMPTED_IN_THE_MANNER_OF_CONTEMPORARY_WRITERS
+SIGNED ‘NEHEMIAH HIGGINBOTTOM’
+I
+Pensive at eve on the hard world I mus’d,
+And my poor heart was sad: so at the Moon
+I gaz’d — and sigh’d, and sigh’d! — for, ah! how soon
+Eve darkens into night. Mine eye perus’d
+With tearful vacancy the dampy grass   5
+Which wept and glitter’d in the paly ray;
+And I did pause me on my lonely way,
+And mused me on those wretched ones who pass
+O’er the black heath of Sorrow. But, alas!
+Most of Myself I thought: when it befell   10
+That the sooth Spirit of the breezy wood
+Breath’d in mine ear—’All this is very well;
+But much of one thing is for no thing good.’
+Ah! my poor heart’s INEXPLICABLE SWELL!
+II

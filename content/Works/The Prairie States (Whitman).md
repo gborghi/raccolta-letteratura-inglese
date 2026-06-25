@@ -2,7 +2,7 @@
 title: The Prairie States
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/228_The_Prairie_States.md
 tags:
   - graph/work
@@ -16,20 +16,26 @@ tags:
 
 # The Prairie States
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Compact paean to the prairie states as a new modern garden of creation, a teeming democratic paradise justifying the past.
 
 ## Connections
 
-**Motifs:** [[The Garden]]
+**Motifs:** [[Garden]]
 **Themes & Concepts:** [[Democracy]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Fragment]]
-**Settings:** [[The American Frontier]]
+**Settings:** [[American Frontier]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!228_The_Prairie_States
+
+  A newer garden of creation, no primal solitude,
+  Dense, joyous, modern, populous millions, cities and farms,
+  With iron interlaced, composite, tied, many in one,
+  By all the world contributed--freedom’s and law’s and thrift’s society,
+  The crown and teeming paradise, so far, of time’s accumulations,
+  To justify the past.

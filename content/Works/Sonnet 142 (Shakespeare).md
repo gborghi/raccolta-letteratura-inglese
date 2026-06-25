@@ -2,7 +2,7 @@
 title: Sonnet 142
 author: Shakespeare
 type: work
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_142.md
 tags:
   - graph/work
@@ -19,20 +19,31 @@ tags:
 
 # Sonnet 142
 
-*by Shakespeare*  ·  **Cluster:** [[Lust Sexual Desire · Desire · Sin and the Fall]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > 'Love is my sin': her profaned scarlet lips and broken bonds of love; lust, sin, adultery and the fallen woman.
 
 ## Connections
 
-**Archetypes:** [[The (Reputed) Fallen Woman]]
+**Archetypes:** [[(Reputed) Fallen Woman]]
 **Motifs:** [[White and Red]]
 **Themes & Concepts:** [[Lust Sexual Desire]], [[Sin and the Fall]], [[Marriage and Fidelity]], [[Mercy]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_142
+Love is my sin, and thy dear virtue hate, 
+Hate of my sin grounded on sinful loving. 
+O, but with mine compare thou thine own state, 
+And thou shalt find it merits not reproving; 
+Or if it do, not from those lips of thine 
+That have profaned their scarlet ornaments 
+And sealed false bonds of love as oft as mine, 
+Robbed others’ beds’ revenues of their rents. 
+Be it lawful I love thee as thou lov’st those 
+Whom thine eyes woo as mine importune thee. 
+Root pity in thy heart, that when it grows 
+Thy pity may deserve to pitied be. 
+If thou dost seek to have what thou dost hide, 
+By self example mayst thou be denied!

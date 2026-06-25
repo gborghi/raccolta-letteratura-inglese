@@ -1,7 +1,7 @@
 ---
 title: Summer
 type: motif
-cluster: Lyric · Flowers · Stars
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/motif
 ---

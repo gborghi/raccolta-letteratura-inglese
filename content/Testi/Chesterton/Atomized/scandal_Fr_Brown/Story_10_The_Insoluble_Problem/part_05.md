@@ -1,0 +1,145 @@
+---
+title: "scandal Fr Brown — The Insoluble Problem (part 5)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# scandal Fr Brown — The Insoluble Problem (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem/part_06">part 06 ›</a></div>
+</nav>
+
+
+Father Brown gave a curious little jump. 'Sacrilege!' he said; and
+suddenly turned back to the doorway with a new brisk air of decision. At
+the same moment Flambeau appeared in the doorway, pale with excitement,
+with a screw of paper in his hands. Father Brown had already opened his
+mouth to speak, but his impetuous friend spoke before him.
+
+'I'm on the track at last!' cried Flambeau. 'These pills look the same,
+but they're really different. And do you know that, at the very moment I
+spotted them, that one - eyed brute of a gardener thrust his white face
+into the room; and he was carrying a horse - pistol. I knocked it out of
+his hand and threw him down the stairs, but I begin to understand
+everything. If I stay here another hour or two, I shall finish my job.'
+
+'Then you will not finish it,' said the priest, with a ring in his voice
+very rare in him indeed. 'We shall not stay here another hour. We shall
+not stay here another minute. We must leave this place at once!'
+
+'What!' cried the astounded Flambeau. 'Just when we are getting near the
+truth! Why, you can tell that we're getting near the truth because they
+are afraid of us.'
+
+Father Brown looked at him with a stony and inscrutable face, and said:
+'They are not afraid of us when we are here. They will only be afraid of
+us when we are not here.'
+
+They had both become conscious that the rather fidgety figure of Dr
+Flood was hovering in the lurid haze; now it precipitated itself forward
+with the wildest gestures.
+
+'Stop! Listen!' cried the agitated doctor. 'I have discovered the
+truth!'
+
+'Then you can explain it to your own police,' said Father Brown,
+briefly. 'They ought to be coming soon. But we must be going.'
+
+The doctor seemed thrown into a whirlpool of emotions, eventually rising
+to the surface again with a despairing cry. He spread out his arms like
+a cross, barring their way.
+
+'Be it so!' he cried. 'I will not deceive you now, by saying I have
+discovered the truth. I will only confess the truth.'
+
+'Then you can confess it to your own priest,' said Father Brown, and
+strode towards the garden gate, followed by his staring friend. Before
+he reached the gate, another figure had rushed athwart him like the
+wind; and Dunn the gardener was shouting at him some unintelligible
+derision at detectives who were running away from their job. Then the
+priest ducked just in time to dodge a blow from the horse - pistol,
+wielded like a club. But Dunn was just not in time to dodge a blow from
+the fist of Flambeau, which was like the club of Hercules. The two left
+Mr Dunn spread flat behind them on the path, and, passing out of the
+gate, went out and got into their car in silence. Flambeau only asked
+one brief question and Father Brown only answered: 'Casterbury.'
+
+At last, after a long silence, the priest observed: 'I could almost
+believe the storm belonged only to that garden, and came out of a storm
+in the soul.'
+
+'My friend,' said Flambeau. 'I have known you a long time, and when you
+show certain signs of certainty, I follow your lead. But I hope you are
+not going to tell me that you took me away from that fascinating job,
+because you did not like the atmosphere.'
+
+'Well, it was certainly a terrible atmosphere,' replied Father Brown,
+calmly. 'Dreadful and passionate and oppressive. And the most dreadful
+thing about it was this - that there was no hate in it at all.'
+
+'Somebody,' suggested Flambeau, 'seems to have had a slight dislike of
+grandpapa.'
+
+'Nobody had any dislike of anybody,' said Father Brown with a groan.
+'That was the dreadful thing in that darkness. It was love.'
+
+'Curious way of expressing love - to strangle somebody and stick him
+with a sword,' observed the other.
+
+'It was love,' repeated the priest, 'and it filled the house with
+terror.'
+
+'Don't tell me,' protested Flambeau, 'that that beautiful woman is in
+love with that spider in spectacles.'
+
+'No,' said Father Brown and groaned again. 'She is in love with her
+husband. It is ghastly.'
+
+'It is a state of things that I have often heard you recommend,' replied
+Flambeau. 'You cannot call that lawless love.'
+
+'Not lawless in that sense,' answered Father Brown; then he turned
+sharply on his elbow and spoke with a new warmth: 'Do you think I don't
+know that the love of a man and a woman was the first command of God and
+is glorious for ever? Are you one of those idiots who think we don't
+admire love and marriage? Do I need to be told of the Garden of Eden or
+the wine of Cana? It is just because the strength in the thing was the
+strength of God, that it rages with that awful energy even when it
+breaks loose from God. When the Garden becomes a jungle, but still a
+glorious jungle; when the second fermentation turns the wine of Cana
+into the vinegar of Calvary. Do you think I don't know all that?'
+
+'I'm sure you do,' said Flambeau, 'but I don't yet know much about my
+problem of the murder.'
+
+'The murder cannot be solved,' said Father Brown.
+
+'And why not?' demanded his friend.
+
+'Because there is no murder to solve,' said Father Brown.
+
+Flambeau was silent with sheer surprise; and it was his friend who
+resumed in a quiet tone:
+
+'I'll tell you a curious thing. I talked with that woman when she was
+wild with grief; but she never said anything about the murder. She never
+mentioned murder, or even alluded to murder. What she did mention
+repeatedly was sacrilege.' Then, with another jerk of verbal
+disconnection, he added: 'Have you ever heard of Tiger Tyrone?'
+
+'Haven't I!' cried Flambeau. 'Why, that's the very man who's supposed to
+be after the reliquary, and whom I've been commissioned specially to
+circumvent. He's the most violent and daring gangster who ever visited
+this country; Irish, of course, but the sort that goes quite crazily
+anti - clerical. Perhaps he's dabbled in a little diabolism in these
+secret societies; anyhow, he has a macabre taste for playing all sorts
+of wild tricks that look wickeder than they are. Otherwise he's not the
+wickedest; he seldom kills, and never for cruelty; but he loves doing
+anything to shock people, especially his own people; robbing churches or
+digging up skeletons or what not.'

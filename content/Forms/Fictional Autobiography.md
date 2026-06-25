@@ -1,7 +1,7 @@
 ---
 title: Fictional Autobiography
 type: form
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/form
 ---

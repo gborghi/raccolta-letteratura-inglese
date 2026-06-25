@@ -2,7 +2,7 @@
 title: Who Learns My Lesson Complete?
 author: Whitman
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Whitman/_raw/218_Who_Learns_My_Lesson_Complete.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Who Learns My Lesson Complete?
 
-*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > Free-verse catalogue addressing all classes of people; meditates on the wonder of the cosmos and the speaker's own immortality, finding ordinary existence equally marvelous.
@@ -25,11 +25,61 @@ tags:
 ## Connections
 
 **Motifs:** [[Stars]]
-**Themes & Concepts:** [[Immortality]], [[Wonder and Gratitude]], [[The Sublime]], [[The Common Man (2)]]
+**Themes & Concepts:** [[Immortality]], [[Wonder and Gratitude]], [[Sublime]], [[Common Man]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!218_Who_Learns_My_Lesson_Complete
+
+  Who learns my lesson complete?
+  Boss, journeyman, apprentice, churchman and atheist,
+  The stupid and the wise thinker, parents and offspring, merchant,
+      clerk, porter and customer,
+  Editor, author, artist, and schoolboy--draw nigh and commence;
+  It is no lesson--it lets down the bars to a good lesson,
+  And that to another, and every one to another still.
+
+  The great laws take and effuse without argument,
+  I am of the same style, for I am their friend,
+  I love them quits and quits, I do not halt and make salaams.
+
+  I lie abstracted and hear beautiful tales of things and the reasons
+      of things,
+  They are so beautiful I nudge myself to listen.
+
+  I cannot say to any person what I hear--I cannot say it to myself--
+      it is very wonderful.
+
+  It is no small matter, this round and delicious globe moving so
+      exactly in its orbit for ever and ever, without one jolt or
+      the untruth of a single second,
+  I do not think it was made in six days, nor in ten thousand years,
+      nor ten billions of years,
+  Nor plann’d and built one thing after another as an architect plans
+      and builds a house.
+
+  I do not think seventy years is the time of a man or woman,
+  Nor that seventy millions of years is the time of a man or woman,
+  Nor that years will ever stop the existence of me, or any one else.
+
+  Is it wonderful that I should be immortal? as every one is immortal;
+  I know it is wonderful, but my eyesight is equally wonderful, and
+      how I was conceived in my mother’s womb is equally wonderful,
+  And pass’d from a babe in the creeping trance of a couple of
+      summers and winters to articulate and walk--all this is
+      equally wonderful.
+
+  And that my soul embraces you this hour, and we affect each other
+      without ever seeing each other, and never perhaps to see
+      each other, is every bit as wonderful.
+
+  And that I can think such thoughts as these is just as wonderful,
+  And that I can remind you, and you think them and know them to
+      be true, is just as wonderful.
+
+  And that the moon spins round the earth and on with the earth, is
+      equally wonderful,
+  And that they balance themselves with the sun and stars is equally
+      wonderful.

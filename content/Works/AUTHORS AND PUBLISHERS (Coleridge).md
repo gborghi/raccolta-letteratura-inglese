@@ -23,11 +23,18 @@ tags:
 ## Connections
 
 **Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!357_AUTHORS_AND_PUBLISHERS
+‘A heavy wit shall hang at every lord,’
+So sung Dan Pope; but ‘pon my word,
+He was a story-teller,
+Or else the times have altered quite;
+For wits, or heavy, now, or light
+Hang each by a bookseller.
+S. T. C.
+First published in News of Literature, Dec. 10, 1825. See Arch.
+Constable and his Literary Correspondents, 1873, iii. 482. First
+collected in 1893.

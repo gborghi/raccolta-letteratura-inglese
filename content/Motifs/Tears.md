@@ -1,7 +1,7 @@
 ---
 title: Tears
 type: motif
-cluster: Birds · Music and Song · Tears
+cluster: Friendship · Tears
 tags:
   - graph/motif
 ---

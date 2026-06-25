@@ -2,7 +2,7 @@
 title: ADDRESSED TO THE SAME
 author: Keats
 type: work
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)
 source: Authors/Keats/_raw/025_ADDRESSED_TO_THE_SAME.md
 tags:
   - graph/work
@@ -16,21 +16,32 @@ tags:
 
 # ADDRESSED TO THE SAME
 
-*by Keats*  ·  **Cluster:** [[The Poet as Prophet · The Great Mother · The Prophet]]
+*by Keats*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > Sonnet hailing the great living spirits (Wordsworth, Hunt, Haydon) as prophets of a coming age; the poet as prophet, artistic vocation and a new dawn.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
-**Archetypes:** [[The Prophet]]
-**Themes & Concepts:** [[The Artist and Society (2)]]
+**Topoi:** [[Poet as Prophet]]
+**Archetypes:** [[Prophet]]
+**Themes & Concepts:** [[Artist and Society]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[The Romantic Movement (Sensibility)]]
+**Historical References:** [[Romantic Movement (Sensibility)]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!025_ADDRESSED_TO_THE_SAME
+Great spirits now on earth are sojourning;
+  He of the cloud, the cataract, the lake,
+  Who on Helvellyn’s summit, wide awake,
+Catches his freshness from Archangel’s wing:
+He of the rose, the violet, the spring.
+  The social smile, the chain for Freedom’s sake:
+  And lo! — whose stedfastness would never take
+A meaner sound than Raphael’s whispering.
+And other spirits there are standing apart
+  Upon the forehead of the age to come;
+These, these will give the world another heart,
+  And other pulses. Hear ye not the hum
+Of mighty workings? —  —  —  —  —  —
+  Listen awhile ye nations, and be dumb.

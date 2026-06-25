@@ -1,7 +1,7 @@
 ---
 title: All the World's a Stage
 type: topos
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: City · London · Theatrum Mundi
 tags:
   - graph/topos
 ---

@@ -1,7 +1,7 @@
 ---
 title: Romantic Love
 type: concept
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/concept
 ---

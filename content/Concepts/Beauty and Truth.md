@@ -1,7 +1,7 @@
 ---
 title: Beauty and Truth
 type: concept
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 tags:
   - graph/concept
 ---

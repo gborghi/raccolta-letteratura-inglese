@@ -1,7 +1,7 @@
 ---
 title: Eyes and Sight
 type: motif
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 tags:
   - graph/motif
 ---

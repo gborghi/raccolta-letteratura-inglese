@@ -1,7 +1,7 @@
 ---
 title: Tempus Fugit
 type: topos
-cluster: Transience · Time · Tempus Fugit
+cluster: Time · Tempus Fugit · Clock
 tags:
   - graph/topos
 ---

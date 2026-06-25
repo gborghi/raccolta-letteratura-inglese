@@ -2,7 +2,7 @@
 title: NAMES
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Coleridge/_raw/177_NAMES.md
 tags:
   - graph/work
@@ -17,21 +17,32 @@ tags:
 
 # NAMES
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > A light love-epigram after Lessing in which the poet asks what classical pet-name to give his fair one, who answers that names are but air: only call me Thine.
 
 ## Connections
 
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Love]]
 **Themes & Concepts:** [[Romantic Love]]
 **Forms & Genres:** [[Epigram]], [[Translation]]
 **Historical References:** [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!177_NAMES
+[FROM LESSING]
+I ask’d my fair one happy day,
+What I should call her in my lay;
+By what sweet name from Rome or Greece;
+Lalage, Neaera, Chloris,
+Sappho, Lesbia, or Doris,   5
+Arethusa or Lucrece.
+‘Ah!’ replied my gentle fair,
+‘Belovéd, what are names but air?
+Choose thou whatever suits the line;
+Call me Sappho, call me Chloris,   10
+Call me Lalage or Doris,
+Only, only call me Thine.’
+1799.

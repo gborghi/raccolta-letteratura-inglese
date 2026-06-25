@@ -1,0 +1,17 @@
+---
+title: Vincent Crummles
+type: character
+cluster: City · London · Theatrum Mundi
+tags:
+  - graph/character
+---
+
+# Vincent Crummles
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Vincent-Crummles"></div>
+
+#graph/character

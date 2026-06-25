@@ -1,7 +1,7 @@
 ---
 title: Ancient Rome
 type: histref
-cluster: Power and Corruption · The Crown · Pride
+cluster: Honour · Ancient Rome · Ancient Rome
 tags:
   - graph/histref
 ---

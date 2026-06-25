@@ -2,7 +2,7 @@
 title: Sonnet 64
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 source: Authors/Shakespeare/Sonnets/Sonnet_064.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 64
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > Time's defacing of towers, brass, and the contending sea and shore; ruin teaches that time will take the beloved away.
@@ -27,12 +27,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Mutability]], [[Ruins the Abbey]], [[The Sea]], [[Time]]
+**Motifs:** [[Mutability]], [[Ruins the Abbey]], [[Sea]], [[Time]]
 **Themes & Concepts:** [[Transience]], [[Grief and Loss]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+When I have seen by time’s fell hand defaced 
+The rich proud cost of outworn buried age; 
+When sometime-lofty towers I see down razed, 
+And brass eternal slave to mortal rage; 
+When I have seen the hungry ocean gain 
+Advantage on the kingdom of the shore, 
+And the firm soil win of the wat’ry main, 
+Increasing store with loss and loss with store; 
+When I have seen such interchange of state, 
+Or state itself confounded to decay, 
+Ruin hath taught me thus to ruminate: 
+That time will come and take my love away.
 
-!Sonnet_064
+This thought is as a death, which cannot choose
+
+But weep to have that which it fears to lose.

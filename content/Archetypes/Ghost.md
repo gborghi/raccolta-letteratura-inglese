@@ -1,7 +1,7 @@
 ---
 title: Ghost
 type: archetype
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Ghosts · Ghost · Death and Love
 tags:
   - graph/archetype
 ---

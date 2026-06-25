@@ -2,7 +2,7 @@
 title: The Dead Emperor
 author: Whitman
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Whitman/_raw/344_The_Dead_Emperor.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # The Dead Emperor
 
-*by Whitman*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > America bends in mourning for a dead Emperor, condoling less the crown than a good old man and patriot.
@@ -26,13 +26,17 @@ tags:
 ## Connections
 
 **Topoi:** [[Sic Transit Gloria Mundi]]
-**Archetypes:** [[The King]]
-**Motifs:** [[The Crown]], [[The Sea]]
+**Archetypes:** [[King]]
+**Motifs:** [[Crown]], [[Sea]]
 **Themes & Concepts:** [[Grief and Loss]], [[Mortality]]
 **Forms & Genres:** [[Elegy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!344_The_Dead_Emperor
+
+  To-day, with bending head and eyes, thou, too, Columbia,
+  Less for the mighty crown laid low in sorrow--less for the Emperor,
+  Thy true condolence breathest, sendest out o’er many a salt sea mile,
+  Mourning a good old man--a faithful shepherd, patriot.

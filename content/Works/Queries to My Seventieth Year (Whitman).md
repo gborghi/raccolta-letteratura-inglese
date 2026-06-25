@@ -2,7 +2,7 @@
 title: Queries to My Seventieth Year
 author: Whitman
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Whitman/_raw/303_Queries_to_My_Seventieth_Year.md
 tags:
   - graph/work
@@ -16,19 +16,25 @@ tags:
 
 # Queries to My Seventieth Year
 
-*by Whitman*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A short free-verse address questioning the coming year as a dim spectre bringing life or death; themes of mortality, old age and time.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[The Supernatural (2)]]
+**Motifs:** [[Death]], [[Supernatural]]
 **Themes & Concepts:** [[Mortality]], [[Memory and Time]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!303_Queries_to_My_Seventieth_Year
+
+  Approaching, nearing, curious,
+  Thou dim, uncertain spectre--bringest thou life or death?
+  Strength, weakness, blindness, more paralysis and heavier?
+  Or placid skies and sun? Wilt stir the waters yet?
+  Or haply cut me short for good? Or leave me here as now,
+  Dull, parrot-like and old, with crack’d voice harping, screeching?

@@ -1,0 +1,21 @@
+---
+title: Honour · Ancient Rome · Ancient Rome
+type: cluster
+tags:
+  - graph/cluster
+---
+
+# Honour · Ancient Rome · Ancient Rome
+
+*Cluster* — **6 works**.
+
+## Defining concepts
+[[Honour]] (6), [[Power and Corruption]] (4), [[Roman History]] (4), [[Ancient Rome (2)]] (4), [[Tragedy]] (3), [[Blank Verse]] (3), [[Revenge]] (3), [[Tragic Hero]] (3), [[Blood]] (3), [[Ancient Rome]] (3), [[Ambition]] (3), [[Pride]] (2), [[Swords and Weapons]] (2), [[Lust Sexual Desire]] (2), [[Fortune's Wheel]] (2)
+
+## Works
+- [[349. I had the Glory — that will do — (Dickinson)]]
+- [[551. There is a Shame of Nobleness — (Dickinson)]]
+- [[ANTONY AND CLEOPATRA (Shakespeare)]]
+- [[CORIOLANUS (Shakespeare)]]
+- [[JULIUS CAESAR (Shakespeare)]]
+- [[THE RAPE OF LUCRECE (Shakespeare)]]

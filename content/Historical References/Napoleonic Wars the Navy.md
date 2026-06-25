@@ -1,14 +1,14 @@
 ---
 title: Napoleonic Wars / the Navy
 type: histref
-cluster: The Road · Napoleonic Wars / the Navy
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/histref
 ---
 
 # Napoleonic Wars / the Navy
 
-*Historical reference* — appears in **12** work(s).
+*Historical reference* — appears in **13** work(s).
 
 ## Works
 

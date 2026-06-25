@@ -2,7 +2,7 @@
 title: The Calming Thought of All
 author: Whitman
 type: work
-cluster: Nature · The Book of Nature · The Natural Order
+cluster: Nature · Book of Nature · Natural Order
 source: Authors/Whitman/_raw/330_The_Calming_Thought_of_All.md
 tags:
   - graph/work
@@ -18,20 +18,24 @@ tags:
 
 # The Calming Thought of All
 
-*by Whitman*  ·  **Cluster:** [[Nature · The Book of Nature · The Natural Order]]
+*by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > Amid changing theologies and philosophies, the earth's silent vital laws continue, a calming natural order.
 
 ## Connections
 
-**Topoi:** [[The Book of Nature]]
+**Topoi:** [[Book of Nature]]
 **Motifs:** [[Nature]]
-**Themes & Concepts:** [[The Natural Order]], [[Faith and Doubt]], [[Transience]], [[Self and Cosmos]]
+**Themes & Concepts:** [[Natural Order]], [[Faith and Doubt]], [[Transience]], [[Self and Cosmos]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!330_The_Calming_Thought_of_All
+
+  That coursing on, whate’er men’s speculations,
+  Amid the changing schools, theologies, philosophies,
+  Amid the bawling presentations new and old,
+  The round earth’s silent vital laws, facts, modes continue.

@@ -1,0 +1,133 @@
+---
+title: "The Old Curiosity Shop — Chapter 24 (part 1)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Old-Curiosity-Shop-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Old Curiosity Shop — Chapter 24 (part 1)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_23/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_24/part_02">part 02 ›</a></div>
+</nav>
+
+
+CHAPTER 24
+
+It was not until they were quite exhausted and could no longer maintain
+the pace at which they had fled from the race-ground, that the old man
+and the child ventured to stop, and sit down to rest upon the borders
+of a little wood.  Here, though the course was hidden from their view,
+they could yet faintly distinguish the noise of distant shouts, the hum
+of voices, and the beating of drums.  Climbing the eminence which lay
+between them and the spot they had left, the child could even discern
+the fluttering flags and white tops of booths; but no person was
+approaching towards them, and their resting-place was solitary and
+still.
+
+Some time elapsed before she could reassure her trembling companion, or
+restore him to a state of moderate tranquillity.  His disordered
+imagination represented to him a crowd of persons stealing towards them
+beneath the cover of the bushes, lurking in every ditch, and peeping
+from the boughs of every rustling tree.  He was haunted by
+apprehensions of being led captive to some gloomy place where he would
+be chained and scourged, and worse than all, where Nell could never
+come to see him, save through iron bars and gratings in the wall.  His
+terrors affected the child.  Separation from her grandfather was the
+greatest evil she could dread; and feeling for the time as though, go
+where they would, they were to be hunted down, and could never be safe
+but in hiding, her heart failed her, and her courage drooped.
+
+In one so young, and so unused to the scenes in which she had lately
+moved, this sinking of the spirit was not surprising.  But, Nature
+often enshrines gallant and noble hearts in weak bosoms--oftenest, God
+bless her, in female breasts--and when the child, casting her tearful
+eyes upon the old man, remembered how weak he was, and how destitute
+and helpless he would be if she failed him, her heart swelled within
+her, and animated her with new strength and fortitude.
+
+‘We are quite safe now, and have nothing to fear indeed, dear
+grandfather,’ she said.
+
+‘Nothing to fear!’ returned the old man.  ‘Nothing to fear if they took
+me from thee!  Nothing to fear if they parted us!  Nobody is true to
+me.  No, not one.  Not even Nell!’
+
+‘Oh! do not say that,’ replied the child, ‘for if ever anybody was true
+at heart, and earnest, I am.  I am sure you know I am.’
+
+‘Then how,’ said the old man, looking fearfully round, ‘how can you
+bear to think that we are safe, when they are searching for me
+everywhere, and may come here, and steal upon us, even while we’re
+talking?’
+
+‘Because I’m sure we have not been followed,’ said the child.  ‘Judge
+for yourself, dear grandfather: look round, and see how quiet and still
+it is.  We are alone together, and may ramble where we like.  Not safe!
+Could I feel easy--did I feel at ease--when any danger threatened you?’
+
+‘True, too,’ he answered, pressing her hand, but still looking
+anxiously about.  ‘What noise was that?’
+
+‘A bird,’ said the child, ‘flying into the wood, and leading the way
+for us to follow.’  You remember that we said we would walk in woods
+and fields, and by the side of rivers, and how happy we would be--you
+remember that?  But here, while the sun shines above our heads, and
+everything is bright and happy, we are sitting sadly down, and losing
+time.  See what a pleasant path; and there’s the bird--the same
+bird--now he flies to another tree, and stays to sing.  Come!’
+
+When they rose up from the ground, and took the shady track which led
+them through the wood, she bounded on before, printing her tiny
+footsteps in the moss, which rose elastic from so light a pressure and
+gave it back as mirrors throw off breath; and thus she lured the old
+man on, with many a backward look and merry beck, now pointing
+stealthily to some lone bird as it perched and twittered on a branch
+that strayed across their path, now stopping to listen to the songs
+that broke the happy silence, or watch the sun as it trembled through
+the leaves, and stealing in among the ivied trunks of stout old trees,
+opened long paths of light.  As they passed onward, parting the boughs
+that clustered in their way, the serenity which the child had first
+assumed, stole into her breast in earnest; the old man cast no longer
+fearful looks behind, but felt at ease and cheerful, for the further
+they passed into the deep green shade, the more they felt that the
+tranquil mind of God was there, and shed its peace on them.
+
+At length the path becoming clearer and less intricate, brought them to
+the end of the wood, and into a public road.  Taking their way along it
+for a short distance, they came to a lane, so shaded by the trees on
+either hand that they met together over-head, and arched the narrow
+way.  A broken finger-post announced that this led to a village three
+miles off; and thither they resolved to bend their steps.
+
+The miles appeared so long that they sometimes thought they must have
+missed their road.  But at last, to their great joy, it led downwards
+in a steep descent, with overhanging banks over which the footpaths
+led; and the clustered houses of the village peeped from the woody
+hollow below.
+
+It was a very small place.  The men and boys were playing at cricket on
+the green; and as the other folks were looking on, they wandered up and
+down, uncertain where to seek a humble lodging.  There was but one old
+man in the little garden before his cottage, and him they were timid of
+approaching, for he was the schoolmaster, and had ‘School’ written up
+over his window in black letters on a white board.  He was a pale,
+simple-looking man, of a spare and meagre habit, and sat among his
+flowers and beehives, smoking his pipe, in the little porch before his
+door.
+
+‘Speak to him, dear,’ the old man whispered.
+
+‘I am almost afraid to disturb him,’ said the child timidly.  ‘He does
+not seem to see us.  Perhaps if we wait a little, he may look this way.’
+
+They waited, but the schoolmaster cast no look towards them, and still
+sat, thoughtful and silent, in the little porch.  He had a kind face.
+In his plain old suit of black, he looked pale and meagre.  They
+fancied, too, a lonely air about him and his house, but perhaps that
+was because the other people formed a merry company upon the green, and
+he seemed the only solitary man in all the place.

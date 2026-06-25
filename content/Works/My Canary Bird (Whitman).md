@@ -2,7 +2,7 @@
 title: My Canary Bird
 author: Whitman
 type: work
-cluster: Birds · Music and Song · Tears
+cluster: Birds · Music and Song · Nightingale
 source: Authors/Whitman/_raw/302_My_Canary_Bird.md
 tags:
   - graph/work
@@ -16,18 +16,23 @@ tags:
 
 # My Canary Bird
 
-*by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Tears]]
+*by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
 > A short free-verse lyric weighing great books against the simple joy of a caged bird's song; themes of nature, the book and joy.
 
 ## Connections
 
-**Motifs:** [[Birds]], [[Music and Song]], [[The Book Reading]]
+**Motifs:** [[Birds]], [[Music and Song]], [[Book Reading]]
 **Themes & Concepts:** [[Joy]], [[Self-Knowledge]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!302_My_Canary_Bird
+
+  Did we count great, O soul, to penetrate the themes of mighty books,
+  Absorbing deep and full from thoughts, plays, speculations?
+  But now from thee to me, caged bird, to feel thy joyous warble,
+  Filling the air, the lonesome room, the long forenoon,
+  Is it not just as great, O soul?

@@ -2,7 +2,7 @@
 title: A SIMILE
 author: Coleridge
 type: work
-cluster: Joy · Animals · Riddle
+cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/397_A_SIMILE.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # A SIMILE
 
-*by Coleridge*  ·  **Cluster:** [[Joy · Animals · Riddle]]
+*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > An extended simile of a shy hind lured by a shepherd's flute, broken off; a delicate fragment of love, music and the tame yet fearful creature drawn by song.
@@ -28,8 +28,14 @@ tags:
 **Themes & Concepts:** [[Romantic Love]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!397_A_SIMILE
+As the shy hind, the soft-eyed gentle Brute
+Now moves, now stops, approaches by degrees —
+At length emerges from the shelt’ring Trees,
+Lur’d by her Hunter with the Shepherd’s flute,
+Whose music travelling on the twilight breeze,
+When all besides was mute —
+She oft had heard, and ever lov’d to hear;
+She fearful Beast! but that no sound of Fear ——
+Undated. Now first published from an MS.

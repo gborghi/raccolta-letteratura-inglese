@@ -1,7 +1,7 @@
 ---
 title: King Arthur
 type: character
-cluster: Paradox · Truth · Aphorism
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/character
 ---

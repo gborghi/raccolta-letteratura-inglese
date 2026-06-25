@@ -1,0 +1,157 @@
+---
+title: "The Mystery of Edwin Drood — Chapter 15 (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Mystery of Edwin Drood — Chapter 15 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_16/part_03">part 03 ›</a></div>
+</nav>
+
+
+“Where is my nephew?” asked Mr. Jasper, wildly.
+
+“Where is your nephew?” repeated Neville, “Why do you ask me?”
+
+“I ask you,” retorted Jasper, “because you were the last person in his
+company, and he is not to be found.”
+
+“Not to be found!” cried Neville, aghast.
+
+“Stay, stay,” said Mr. Crisparkle. “Permit me, Jasper. Mr. Neville, you
+are confounded; collect your thoughts; it is of great importance that
+you should collect your thoughts; attend to me.”
+
+“I will try, sir, but I seem mad.”
+
+“You left Mr. Jasper last night with Edwin Drood?”
+
+“Yes.”
+
+“At what hour?”
+
+“Was it at twelve o’clock?” asked Neville, with his hand to his
+confused head, and appealing to Jasper.
+
+“Quite right,” said Mr. Crisparkle; “the hour Mr. Jasper has already
+named to me. You went down to the river together?”
+
+“Undoubtedly. To see the action of the wind there.”
+
+“What followed? How long did you stay there?”
+
+“About ten minutes; I should say not more. We then walked together to
+your house, and he took leave of me at the door.”
+
+“Did he say that he was going down to the river again?”
+
+“No. He said that he was going straight back.”
+
+The bystanders looked at one another, and at Mr. Crisparkle. To whom
+Mr. Jasper, who had been intensely watching Neville, said, in a low,
+distinct, suspicious voice: “What are those stains upon his dress?”
+
+All eyes were turned towards the blood upon his clothes.
+
+“And here are the same stains upon this stick!” said Jasper, taking it
+from the hand of the man who held it. “I know the stick to be his, and
+he carried it last night. What does this mean?”
+
+“In the name of God, say what it means, Neville!” urged Mr. Crisparkle.
+
+“That man and I,” said Neville, pointing out his late adversary, “had a
+struggle for the stick just now, and you may see the same marks on him,
+sir. What was I to suppose, when I found myself molested by eight
+people? Could I dream of the true reason when they would give me none
+at all?”
+
+They admitted that they had thought it discreet to be silent, and that
+the struggle had taken place. And yet the very men who had seen it
+looked darkly at the smears which the bright cold air had already
+dried.
+
+“We must return, Neville,” said Mr. Crisparkle; “of course you will be
+glad to come back to clear yourself?”
+
+“Of course, sir.”
+
+“Mr. Landless will walk at my side,” the Minor Canon continued, looking
+around him. “Come, Neville!”
+
+They set forth on the walk back; and the others, with one exception,
+straggled after them at various distances. Jasper walked on the other
+side of Neville, and never quitted that position. He was silent, while
+Mr. Crisparkle more than once repeated his former questions, and while
+Neville repeated his former answers; also, while they both hazarded
+some explanatory conjectures. He was obstinately silent, because Mr.
+Crisparkle’s manner directly appealed to him to take some part in the
+discussion, and no appeal would move his fixed face. When they drew
+near to the city, and it was suggested by the Minor Canon that they
+might do well in calling on the Mayor at once, he assented with a stern
+nod; but he spake no word until they stood in Mr. Sapsea’s parlour.
+
+Mr. Sapsea being informed by Mr. Crisparkle of the circumstances under
+which they desired to make a voluntary statement before him, Mr. Jasper
+broke silence by declaring that he placed his whole reliance, humanly
+speaking, on Mr. Sapsea’s penetration. There was no conceivable reason
+why his nephew should have suddenly absconded, unless Mr. Sapsea could
+suggest one, and then he would defer. There was no intelligible
+likelihood of his having returned to the river, and been accidentally
+drowned in the dark, unless it should appear likely to Mr. Sapsea, and
+then again he would defer. He washed his hands as clean as he could of
+all horrible suspicions, unless it should appear to Mr. Sapsea that
+some such were inseparable from his last companion before his
+disappearance (not on good terms with previously), and then, once more,
+he would defer. His own state of mind, he being distracted with doubts,
+and labouring under dismal apprehensions, was not to be safely trusted;
+but Mr. Sapsea’s was.
+
+Mr. Sapsea expressed his opinion that the case had a dark look; in
+short (and here his eyes rested full on Neville’s countenance), an
+Un-English complexion. Having made this grand point, he wandered into a
+denser haze and maze of nonsense than even a mayor might have been
+expected to disport himself in, and came out of it with the brilliant
+discovery that to take the life of a fellow-creature was to take
+something that didn’t belong to you. He wavered whether or no he should
+at once issue his warrant for the committal of Neville Landless to
+jail, under circumstances of grave suspicion; and he might have gone so
+far as to do it but for the indignant protest of the Minor Canon: who
+undertook for the young man’s remaining in his own house, and being
+produced by his own hands, whenever demanded. Mr. Jasper then
+understood Mr. Sapsea to suggest that the river should be dragged, that
+its banks should be rigidly examined, that particulars of the
+disappearance should be sent to all outlying places and to London, and
+that placards and advertisements should be widely circulated imploring
+Edwin Drood, if for any unknown reason he had withdrawn himself from
+his uncle’s home and society, to take pity on that loving kinsman’s
+sore bereavement and distress, and somehow inform him that he was yet
+alive. Mr. Sapsea was perfectly understood, for this was exactly his
+meaning (though he had said nothing about it); and measures were taken
+towards all these ends immediately.
+
+It would be difficult to determine which was the more oppressed with
+horror and amazement: Neville Landless, or John Jasper. But that
+Jasper’s position forced him to be active, while Neville’s forced him
+to be passive, there would have been nothing to choose between them.
+Each was bowed down and broken.
+
+With the earliest light of the next morning, men were at work upon the
+river, and other men—most of whom volunteered for the service—were
+examining the banks. All the livelong day the search went on; upon the
+river, with barge and pole, and drag and net; upon the muddy and rushy
+shore, with jack-boots, hatchet, spade, rope, dogs, and all imaginable
+appliances. Even at night, the river was specked with lanterns, and
+lurid with fires; far-off creeks, into which the tide washed as it
+changed, had their knots of watchers, listening to the lapping of the
+stream, and looking out for any burden it might bear; remote shingly
+causeways near the sea, and lonely points off which there was a race of
+water, had their unwonted flaring cressets and rough-coated figures
+when the next day dawned; but no trace of Edwin Drood revisited the
+light of the sun.

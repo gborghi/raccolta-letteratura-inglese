@@ -1,7 +1,7 @@
 ---
 title: Death and Love
 type: concept
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Ghosts · Ghost · Death and Love
 tags:
   - graph/concept
 ---

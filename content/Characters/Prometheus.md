@@ -1,7 +1,7 @@
 ---
 title: Prometheus
 type: character
-cluster: Night · Fire · Comic Verse / Song
+cluster: Sun · Light and Dark · Fire
 tags:
   - graph/character
 ---

@@ -1,7 +1,7 @@
 ---
 title: Medieval Romance
 type: form
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Court · Medieval England · History Play
 tags:
   - graph/form
 ---

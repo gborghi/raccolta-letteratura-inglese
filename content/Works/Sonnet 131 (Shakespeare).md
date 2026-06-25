@@ -2,7 +2,7 @@
 title: Sonnet 131
 author: Shakespeare
 type: work
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 source: Authors/Shakespeare/Sonnets/Sonnet_131.md
 tags:
   - graph/work
@@ -19,21 +19,32 @@ tags:
 
 # Sonnet 131
 
-*by Shakespeare*  ·  **Cluster:** [[Lust Sexual Desire · Desire · Sin and the Fall]]
+*by Shakespeare*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
 > The tyrannous cruel mistress whose black is fairest to the doting heart, black only in her deeds; desire, the unattainable beloved, the femme fatale.
 
 ## Connections
 
-**Topoi:** [[The Unattainable Beloved]]
-**Archetypes:** [[Femme Fatale]], [[The Tyrant]]
-**Motifs:** [[Light and Dark]], [[Desire (2)]]
+**Topoi:** [[Unattainable Beloved]]
+**Archetypes:** [[Femme Fatale]], [[Tyrant]]
+**Motifs:** [[Light and Dark]], [[Desire]]
 **Themes & Concepts:** [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_131
+Thou art as tyrannous so as thou art 
+As those whose beauties proudly make them cruel, 
+For well thou know’st to my dear doting heart 
+Thou art the fairest and most precious jewel. 
+Yet, in good faith, some say that thee behold 
+Thy face hath not the power to make love groan. 
+To say they err I dare not be so bold, 
+Although I swear it to myself alone; 
+And, to be sure that is not false I swear, 
+A thousand groans but thinking on thy face 
+One on another’s neck do witness bear 
+Thy black is fairest in my judgement’s place. 
+In nothing art thou black save in thy deeds, 
+And thence this slander, as I think, proceeds.

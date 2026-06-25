@@ -2,7 +2,7 @@
 title: Sonnet 31
 author: Shakespeare
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Shakespeare/Sonnets/Sonnet_031.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 31
 
-*by Shakespeare*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Shakespeare*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > The beloved as the grave where all dead loves live again; the youth holds the trophies of the poet's lost friends and all of him.
@@ -27,12 +27,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Love as Religion]]
-**Motifs:** [[The Grave]], [[Memory (2)]], [[Death (2)]]
+**Motifs:** [[Grave]], [[Memory]], [[Death]]
 **Themes & Concepts:** [[Grief and Loss]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Thy bosom is endearèd with all hearts 
+Which I by lacking have supposed dead, 
+And there reigns love, and all love’s loving parts, 
+And all those friends which I thought buried. 
+How many a holy and obsequious tear 
+Hath dear religious love stol’n from mine eye 
+As interest of the dead, which now appear 
+But things removed that hidden in thee lie! 
+Thou art the grave where buried love doth live, 
+Hung with the trophies of my lovers gone, 
+Who all their parts of me to thee did give: 
+That due of many now is thine alone.
 
-!Sonnet_031
+Their images I loved I view in thee,
+
+And thou, all they, hast all the all of me.

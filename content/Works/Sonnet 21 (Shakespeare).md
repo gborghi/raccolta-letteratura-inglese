@@ -2,7 +2,7 @@
 title: Sonnet 21
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Shakespeare/Sonnets/Sonnet_021.md
 tags:
   - graph/work
@@ -21,19 +21,32 @@ tags:
 
 # Sonnet 21
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > Anti-Petrarchan sonnet rejecting extravagant comparisons; the poet vows to write true love plainly rather than sell false praise.
 
 ## Connections
 
-**Motifs:** [[Sun]], [[The Moon]], [[Stars]], [[Flowers]]
-**Themes & Concepts:** [[Beauty and Truth]], [[The Artist and Society (2)]], [[Truth]], [[Romantic Love]]
+**Motifs:** [[Sun]], [[Moon]], [[Stars]], [[Flowers]]
+**Themes & Concepts:** [[Beauty and Truth]], [[Artist and Society]], [[Truth]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+So is it not with me as with that muse 
+Stirred by a painted beauty to his verse, 
+Who heaven itself for ornament doth use, 
+And every fair with his fair doth rehearse, 
+Making a couplement of proud compare 
+With sun and moon, with earth, and sea’s rich gems, 
+With April’s first-born flowers, and all things rare 
+That heaven’s air in this huge rondure hems. 
+O let me, true in love, but truly write, 
+And then believe me my love is as fair 
+As any mother’s child, though not so bright 
+As those gold candles fixed in heaven’s air.
 
-!Sonnet_021
+Let them say more that like of hearsay well;
+
+I will not praise that purpose not to sell.

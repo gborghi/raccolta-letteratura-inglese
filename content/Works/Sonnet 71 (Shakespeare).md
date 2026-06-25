@@ -2,7 +2,7 @@
 title: Sonnet 71
 author: Shakespeare
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 source: Authors/Shakespeare/Sonnets/Sonnet_071.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 71
 
-*by Shakespeare*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Shakespeare*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
 > No longer mourn for me when I am dead; the surly bell, worms, and the wish to be forgotten in death.
@@ -26,12 +26,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Death (2)]], [[Bells]], [[The Grave]]
+**Motifs:** [[Death]], [[Bells]], [[Grave]]
 **Themes & Concepts:** [[Grief and Loss]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+No longer mourn for me when I am dead 
+Than you shall hear the surly sullen bell 
+Give warning to the world that I am fled 
+From this vile world with vilest worms to dwell. 
+Nay, if you read this line, remember not 
+The hand that writ it; for I love you so 
+That I in your sweet thoughts would be forgot 
+If thinking on me then should make you woe. 
+O, if, I say, you look upon this verse 
+When I perhaps compounded am with clay, 
+Do not so much as my poor name rehearse, 
+But let your love even with my life decay,
 
-!Sonnet_071
+Lest the wise world should look into your moan
+
+And mock you with me after I am gone.

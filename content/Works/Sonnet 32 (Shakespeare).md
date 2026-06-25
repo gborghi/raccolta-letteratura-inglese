@@ -2,7 +2,7 @@
 title: Sonnet 32
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Shakespeare/Sonnets/Sonnet_032.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # Sonnet 32
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Anticipates the poet's death; asks the friend to keep his outdated lines for their love rather than their rhyme.
@@ -28,12 +28,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Dust]], [[Death (2)]], [[Letters and Writing]]
+**Motifs:** [[Dust]], [[Death]], [[Letters and Writing]]
 **Themes & Concepts:** [[Mortality]], [[Immortality of Art Fame]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+If thou survive my well-contented day 
+When that churl death my bones with dust shall cover, 
+And shalt by fortune once more resurvey 
+These poor rude lines of thy deceased lover, 
+Compare them with the bett‘ring of the time, 
+And though they be outstripped by every pen, 
+Reserve them for my love, not for their rhyme 
+Exceeded by the height of happier men. 
+O then vouchsafe me but this loving thought: 
+‘Had my friend’s muse grown with this growing age, 
+A dearer birth than this his love had brought 
+To march in ranks of better equipage;
 
-!Sonnet_032
+But since he died, and poets better prove,
+
+Theirs for their style I’ll read, his for his love.’

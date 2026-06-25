@@ -2,7 +2,7 @@
 title: Europe (The 72d and 73d Years of These States)
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Whitman/_raw/114_Europe_The_72d_and_73d_Years_of_These_States.md
 tags:
   - graph/work
@@ -18,20 +18,79 @@ tags:
 
 # Europe [The 72d and 73d Years of These States]
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > On the 1848 revolutions: the people rise against kings and, though crushed, the martyrs' graves grow seed for freedom; free-verse on revolution, tyranny, martyrdom and liberty.
 
 ## Connections
 
-**Archetypes:** [[The Tyrant]]
-**Motifs:** [[Serpent Snake]], [[The Grave]]
+**Archetypes:** [[Tyrant]]
+**Motifs:** [[Serpent Snake]], [[Grave]]
 **Themes & Concepts:** [[Martyrdom]], [[Democracy]], [[Power and Corruption]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!114_Europe_The_72d_and_73d_Years_of_These_States
+
+  Suddenly out of its stale and drowsy lair, the lair of slaves,
+  Like lightning it le’pt forth half startled at itself,
+  Its feet upon the ashes and the rags, its hands tight to the throats
+      of kings.
+
+  O hope and faith!
+  O aching close of exiled patriots’ lives!
+  O many a sicken’d heart!
+  Turn back unto this day and make yourselves afresh.
+
+  And you, paid to defile the People--you liars, mark!
+  Not for numberless agonies, murders, lusts,
+  For court thieving in its manifold mean forms, worming from his
+      simplicity the poor man’s wages,
+  For many a promise sworn by royal lips and broken and laugh’d at in
+      the breaking,
+
+  Then in their power not for all these did the blows strike revenge,
+      or the heads of the nobles fall;
+  The People scorn’d the ferocity of kings.
+
+  But the sweetness of mercy brew’d bitter destruction, and the
+      frighten’d monarchs come back,
+  Each comes in state with his train, hangman, priest, tax-gatherer,
+  Soldier, lawyer, lord, jailer, and sycophant.
+
+  Yet behind all lowering stealing, lo, a shape,
+  Vague as the night, draped interminably, head, front and form, in
+      scarlet folds,
+  Whose face and eyes none may see,
+  Out of its robes only this, the red robes lifted by the arm,
+  One finger crook’d pointed high over the top, like the head of a
+      snake appears.
+
+  Meanwhile corpses lie in new-made graves, bloody corpses of young men,
+  The rope of the gibbet hangs heavily, the bullets of princes are
+      flying, the creatures of power laugh aloud,
+  And all these things bear fruits, and they are good.
+
+  Those corpses of young men,
+  Those martyrs that hang from the gibbets, those hearts pierc’d by
+      the gray lead,
+  Cold and motionless as they seem live elsewhere with unslaughter’d vitality.
+
+  They live in other young men O kings!
+  They live in brothers again ready to defy you,
+  They were purified by death, they were taught and exalted.
+
+  Not a grave of the murder’d for freedom but grows seed for freedom,
+      in its turn to bear seed,
+  Which the winds carry afar and re-sow, and the rains and the snows nourish.
+
+  Not a disembodied spirit can the weapons of tyrants let loose,
+  But it stalks invisibly over the earth, whispering, counseling, cautioning.
+  Liberty, let others despair of you--I never despair of you.
+
+  Is the house shut? is the master away?
+  Nevertheless, be ready, be not weary of watching,
+  He will soon return, his messengers come anon.

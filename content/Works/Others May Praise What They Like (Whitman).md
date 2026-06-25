@@ -2,7 +2,7 @@
 title: Others May Praise What They Like
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/217_Others_May_Praise_What_They_Like.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Others May Praise What They Like
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Brief credo praising nothing in art until it has inhaled the atmosphere of the Missouri and western prairie; nationalism, nature, and the artist's American grounding.
@@ -24,10 +24,16 @@ tags:
 ## Connections
 
 **Motifs:** [[River]], [[Nature]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[The Artist and Society (2)]], [[Nature vs Civilization]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Artist and Society]], [[Nature vs Civilization]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!217_Others_May_Praise_What_They_Like
+
+  Others may praise what they like;
+  But I, from the banks of the running Missouri, praise nothing in art
+      or aught else,
+  Till it has well inhaled the atmosphere of this river, also the
+      western prairie-scent,
+  And exudes it all again.

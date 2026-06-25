@@ -1,7 +1,7 @@
 ---
 title: History Play
 type: form
-cluster: Power and Corruption · The Crown · Pride
+cluster: Court · Medieval England · History Play
 tags:
   - graph/form
 ---

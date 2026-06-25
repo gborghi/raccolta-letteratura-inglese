@@ -1,0 +1,17 @@
+---
+title: Flambeau
+type: character
+cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
+tags:
+  - graph/character
+---
+
+# Flambeau
+
+*Character* — appears in **4** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Flambeau"></div>
+
+#graph/character

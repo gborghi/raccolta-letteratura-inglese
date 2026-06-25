@@ -1,0 +1,129 @@
+---
+title: "whats wrong — Part 3 (part 11)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/whats-wrong-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# whats wrong — Part 3 (part 11)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_08/part_10">‹ part 10</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_08/part_12">part 12 ›</a></div>
+</nav>
+
+
+The same, of course, is true of the colossal architecture which we
+call infant education:  an architecture reared wholly by women.
+Nothing can ever overcome that one enormous sex superiority, that even
+the male child is born closer to his mother than to his father.
+No one, staring at that frightful female privilege, can quite
+believe in the equality of the sexes.  Here and there we read
+of a girl brought up like a tom-boy; but every boy is brought up
+like a tame girl.  The flesh and spirit of femininity surround
+him from the first like the four walls of a house; and even
+the vaguest or most brutal man has been womanized by being born.
+Man that is born of a woman has short days and full of misery;
+but nobody can picture the obscenity and bestial tragedy that would
+belong to such a monster as man that was born of a man.
+
+* * *
+
+XI
+
+THE QUEEN AND THE SUFFRAGETTES
+
+But, indeed, with this educational matter I must of necessity embroil
+myself later.  The fourth section of discussion is supposed to be
+about the child, but I think it will be mostly about the mother.
+In this place I have systematically insisted on the large part
+of life that is governed, not by man with his vote, but by woman
+with her voice, or more often, with her horrible silence.
+Only one thing remains to be added.  In a sprawling and explanatory style
+has been traced out the idea that government is ultimately coercion,
+that coercion must mean cold definitions as well as cruel consequences,
+and that therefore there is something to be said for the old human habit
+of keeping one-half of humanity out of so harsh and dirty a business.
+But the case is stronger still.
+
+Voting is not only coercion, but collective coercion.
+I think Queen Victoria would have been yet more popular and satisfying
+if she had never signed a death warrant.  I think Queen Elizabeth
+would have stood out as more solid and splendid in history if she
+had not earned (among those who happen to know her history)
+the nickname of Bloody Bess.  I think, in short, that the great historic
+woman is more herself when she is persuasive rather than coercive.
+But I feel all mankind behind me when I say that if a woman has
+this power it should be despotic power--not democratic power.
+There is a much stronger historic argument for giving Miss Pankhurst
+a throne than for giving her a vote.  She might have a crown,
+or at least a coronet, like so many of her supporters;
+for these old powers are purely personal and therefore female.
+Miss Pankhurst as a despot might be as virtuous as Queen Victoria,
+and she certainly would find it difficult to be as wicked as Queen Bess,
+but the point is that, good or bad, she would be irresponsible--
+she would not be governed by a rule and by a ruler.
+There are only two ways of governing:  by a rule and by a ruler.
+And it is seriously true to say of a woman, in education and domesticity,
+that the freedom of the autocrat appears to be necessary to her.
+She is never responsible until she is irresponsible.
+In case this sounds like an idle contradiction, I confidently
+appeal to the cold facts of history.  Almost every despotic
+or oligarchic state has admitted women to its privileges.
+Scarcely one democratic state has ever admitted them to its rights
+The reason is very simple:  that something female is endangered
+much more by the violence of the crowd.  In short, one Pankhurst
+is an exception, but a thousand Pankhursts are a nightmare,
+a Bacchic orgie, a Witches Sabbath.  For in all legends men have
+thought of women as sublime separately but horrible in a herd.
+
+* * *
+
+XII
+
+THE MODERN SLAVE
+
+Now I have only taken the test case of Female Suffrage because it
+is topical and concrete; it is not of great moment for me as a
+political proposal.  I can quite imagine anyone substantially
+agreeing with my view of woman as universalist and autocrat
+in a limited area; and still thinking that she would be none
+the worse for a ballot paper.  The real question is whether this
+old ideal of woman as the great amateur is admitted or not.
+There are many modern things which threaten it much more
+than suffragism; notably the increase of self-supporting women,
+even in the most severe or the most squalid employments.
+If there be something against nature in the idea of a horde
+of wild women governing, there is something truly intolerable
+in the idea of a herd of tame women being governed.
+And there are elements in human psychology that make
+this situation particularly poignant or ignominous.
+The ugly exactitudes of business, the bells and clocks the fixed
+hours and rigid departments, were all meant for the male:
+who, as a rule, can only do one thing and can only with the greatest
+difficulty be induced to do that.  If clerks do not try to shirk
+their work, our whole great commercial system breaks down.
+It is breaking down, under the inroad of women who are adopting
+the unprecedented and impossible course of taking the system
+seriously and doing it well.  Their very efficiency is
+the definition of their slavery.  It is generally a very bad
+sign when one is trusted very much by one's employers.
+And if the evasive clerks have a look of being blackguards,
+the earnest ladies are often something very like blacklegs.
+But the more immediate point is that the modern working woman bears
+a double burden, for she endures both the grinding officialism
+of the new office and the distracting scrupulosity of the old home.
+Few men understand what conscientiousness is.  They understand duty,
+which generally means one duty; but conscientiousness is
+the duty of the universalist.  It is limited by no work days
+or holidays; it is a lawless, limitless, devouring decorum.
+If women are to be subjected to the dull rule of commerce,
+we must find some way of emancipating them from the wild
+rule of conscience.  But I rather fancy you will find it
+easier to leave the conscience and knock off the commerce.
+As it is, the modern clerk or secretary exhausts herself to put
+one thing straight in the ledger and then goes home to put
+everything straight in the house.

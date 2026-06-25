@@ -1,7 +1,7 @@
 ---
 title: Insects
 type: motif
-cluster: Joy · Animals · Riddle
+cluster: Wonder and Gratitude · Sublime · Storm
 tags:
   - graph/motif
 ---

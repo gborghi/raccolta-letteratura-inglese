@@ -1,7 +1,7 @@
 ---
 title: Self-Sacrifice
 type: concept
-cluster: War and its Cost · Blood · American Civil War
+cluster: Self-Sacrifice · Life as a Battle
 tags:
   - graph/concept
 ---

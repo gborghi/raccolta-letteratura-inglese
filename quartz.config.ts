@@ -55,7 +55,10 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        // "git" walks the full repo history per file — with ~19k pages that is
+        // both very slow and memory-hungry (OOM during parse). Filesystem mtime
+        // is plenty for this content set.
+        priority: ["frontmatter", "filesystem"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {

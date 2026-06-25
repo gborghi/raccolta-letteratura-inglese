@@ -23,12 +23,25 @@ tags:
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]], [[Immortality Through Verse]]
-**Themes & Concepts:** [[Immortality of Art Fame]], [[The Artist and Society (2)]]
+**Topoi:** [[Poet as Prophet]], [[Immortality Through Verse]]
+**Themes & Concepts:** [[Immortality of Art Fame]], [[Artist and Society]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!022_Poets_to_Come
+
+  Poets to come! orators, singers, musicians to come!
+  Not to-day is to justify me and answer what I am for,
+  But you, a new brood, native, athletic, continental, greater than
+      before known,
+  Arouse! for you must justify me.
+
+  I myself but write one or two indicative words for the future,
+  I but advance a moment only to wheel and hurry back in the darkness.
+
+  I am a man who, sauntering along without fully stopping, turns a
+      casual look upon you and then averts his face,
+  Leaving it to you to prove and define it,
+  Expecting the main things from you.

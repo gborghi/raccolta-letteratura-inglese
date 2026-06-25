@@ -2,7 +2,7 @@
 title: MRS. SIDDONS
 author: Coleridge
 type: work
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Terror and Horror · Madness · Madness
 source: Authors/Coleridge/_raw/089_MRS_SIDDONS.md
 tags:
   - graph/work
@@ -17,19 +17,31 @@ tags:
 
 # MRS. SIDDONS
 
-*by Coleridge*  ·  **Cluster:** [[The Supernatural · Terror and Horror · Guilt]]
+*by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 
 > A sonnet praising the tragic actress Siddons by likening her effect to a child's terror and pity at ghost-tales of witches and murdered babes; themes of terror, pity, and the theatrical sublime.
 
 ## Connections
 
-**Motifs:** [[The Supernatural (2)]], [[Childhood]], [[Night]]
-**Themes & Concepts:** [[Terror and Horror]], [[The Sublime]]
+**Motifs:** [[Supernatural]], [[Childhood]], [[Night]]
+**Themes & Concepts:** [[Terror and Horror]], [[Sublime]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!089_MRS_SIDDONS
+As when a child on some long Winter’s night
+Affrighted clinging to its Grandam’s knees
+With eager wond’ring and perturb’d delight
+Listens strange tales of fearful dark decrees
+Muttered to wretch by necromantic spell;   5
+Or of those hags, who at the witching time
+Of murky Midnight ride the air sublime,
+And mingle foul embrace with fiends of Hell:
+Cold Horror drinks its blood! Anon the tear
+More gentle starts, to hear the Beldame tell   10
+Of pretty Babes, that lov’d each other dear.
+Murder’d by cruel Uncle’s mandate fell:
+Even such the shiv’ring joys thy tones impart,
+Even so thou, SIDDONS! meltest my sad heart!
+December 29, 1794.

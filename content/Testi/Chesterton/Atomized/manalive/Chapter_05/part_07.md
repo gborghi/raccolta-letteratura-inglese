@@ -1,0 +1,135 @@
+---
+title: "manalive — Chapter 5 (part 7)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/manalive-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# manalive — Chapter 5 (part 7)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/manalive-(Chesterton)">manalive</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manalive/Chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manalive/Chapter_07/part_01">part 01 ›</a></div>
+</nav>
+
+
+"Arthur," said Michael, "I began with an intuition; but now I am sure.
+You and I are going to defend this friend of yours before the blessed Court
+of Beacon, and to clear him too--clear him of both crime and lunacy.
+Just listen to me while I preach to you for a bit."  They walked up
+and down the darkening garden together as Michael Moon went on.
+
+"Can you," asked Michael, "shut your eyes and see some of those queer old
+hieroglyphics they stuck up on white walls in the old hot countries.
+How stiff they were in shape and yet how gaudy in colour.
+Think of some alphabet of arbitrary figures picked out in black and red,
+or white and green, with some old Semitic crowd of Nosey Gould's
+ancestors staring at it, and try to think why the people put it
+up at all."
+
+Inglewood's first instinct was to think that his perplexing friend
+had really gone off his head at last; there seemed so reckless
+a flight of irrelevancy from the tropic-pictured walls he was
+asked to imagine to the gray, wind-swept, and somewhat chilly
+suburban garden in which he was actually kicking his heels.
+How he could be more happy in one by imagining the other he could
+not conceive.  Both (in themselves) were unpleasant.
+
+"Why does everybody repeat riddles," went on Moon abruptly,
+"even if they've forgotten the answers?  Riddles are easy to remember
+because they are hard to guess.  So were those stiff old symbols
+in black, red, or green easy to remember because they had been hard
+to guess.  Their colours were plain.  Their shapes were plain.
+Everything was plain except the meaning."
+
+Inglewood was about to open his mouth in an amiable protest, but Moon
+went on, plunging quicker and quicker up and down the garden and smoking
+faster and faster.  "Dances, too," he said; "dances were not frivolous.
+Dances were harder to understand than inscriptions and texts.
+The old dances were stiff, ceremonial, highly coloured but silent.
+Have you noticed anything odd about Smith?"
+
+"Well, really," cried Inglewood, left behind in a collapse of humour,
+"have I noticed anything else?"
+
+"Have you noticed this about him," asked Moon, with unshaken persistency,
+"that he has done so much and said so little?  When first he came he talked,
+but in a gasping, irregular sort of way, as if he wasn't used to it.
+All he really did was actions--painting red flowers on black gowns or throwing
+yellow bags on to the grass.  I tell you that big green figure is figurative--
+like any green figure capering on some white Eastern wall."
+
+"My dear Michael," cried Inglewood, in a rising irritation which increased
+with the rising wind, "you are getting absurdly fanciful."
+
+"I think of what has just happened," said Michael steadily.
+"The man has not spoken for hours; and yet he has been speaking
+all the time.  He fired three shots from a six-shooter and then
+gave it up to us, when he might have shot us dead in our boots.
+How could he express his trust in us better than that?
+He wanted to be tried by us.  How could he have shown it better
+than by standing quite still and letting us discuss it?
+He wanted to show that he stood there willingly,
+and could escape if he liked.  How could he have shown it
+better than by escaping in the cab and coming back again?
+Innocent Smith is not a madman--he is a ritualist.  He wants to
+express himself, not with his tongue, but with his arms and legs--
+with my body I thee worship, as it says in the marriage service.
+I begin to understand the old plays and pageants.  I see why
+the mutes at a funeral were mute.  I see why the mummers were mum.
+They MEANT something; and Smith means something too.
+All other jokes have to be noisy--like little Nosey Gould's jokes,
+for instance.  The only silent jokes are the practical jokes.
+Poor Smith, properly considered, is an allegorical practical joker.
+What he has really done in this house has been as frantic
+as a war-dance, but as silent as a picture."
+
+"I suppose you mean," said the other dubiously, "that we have got to find out
+what all these crimes meant, as if they were so many coloured picture-puzzles.
+But even supposing that they do mean something--why, Lord bless my soul!--"
+
+Taking the turn of the garden quite naturally, he had lifted
+his eyes to the moon, by this time risen big and luminous,
+and had seen a huge, half-human figure sitting on the garden wall.
+It was outlined so sharply against the moon that for the first flash
+it was hard to be certain even that it was human:  the hunched
+shoulders and outstanding hair had rather the air of a colossal cat.
+It resembled a cat also in the fact that when first startled it
+sprang up and ran with easy activity along the top of the wall.
+As it ran, however, its heavy shoulders and small stooping head
+rather suggested a baboon.  The instant it came within reach
+of a tree it made an ape-like leap and was lost in the branches.
+The gale, which by this time was shaking every shrub in the garden,
+made the identification yet more difficult, since it melted
+the moving limbs of the fugitive in the multitudinous moving
+limbs of the tree.
+
+"Who is there?" shouted Arthur.  "Who are you?  Are you Innocent?"
+
+"Not quite," answered an obscure voice among the leaves.
+"I cheated you once about a penknife."
+
+The wind in the garden had gathered strength, and was throwing the tree
+backwards and forwards with the man in the thick of it, just as it
+had on the gay and golden afternoon when he had first arrived.
+
+"But are you Smith?" asked Inglewood as in an agony.
+
+"Very nearly," said the voice out of the tossing tree.
+
+"But you must have some real names," shrieked Inglewood in despair.
+"You must call yourself something."
+
+"Call myself something," thundered the obscure voice, shaking the tree
+so that all its ten thousand leaves seemed to be talking at once.
+"I call myself Roland Oliver Isaiah Charlemagne Arthur Hildebrand
+Homer Danton Michaelangelo Shakespeare Brakespeare--"
+
+"But, manalive!" began Inglewood in exasperation.
+
+"That's right! that's right!" came with a roar out of the rocking tree;
+"that's my real name."  And he broke a branch, and one or two autumn
+leaves fluttered away across the moon.

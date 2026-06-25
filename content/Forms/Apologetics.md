@@ -1,7 +1,7 @@
 ---
 title: Apologetics
 type: form
-cluster: Christianity · Catholic Church · Conversion
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/form
 ---

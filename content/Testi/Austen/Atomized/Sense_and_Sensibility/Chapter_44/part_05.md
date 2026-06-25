@@ -1,0 +1,265 @@
+---
+title: "Sense and Sensibility — Chapter 44 (part 5)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Sense-and-Sensibility-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Sense and Sensibility — Chapter 44 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_44/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_45/part_01">part 01 ›</a></div>
+</nav>
+
+
+“you ought not to speak in this way, either of Mrs. Willoughby or my
+
+sister. You had made your own choice. It was not forced on you. Your
+
+wife has a claim to your politeness, to your respect, at least. She
+
+must be attached to you, or she would not have married you. To treat
+
+her with unkindness, to speak of her slightingly is no atonement to
+
+Marianne—nor can I suppose it a relief to your own conscience.”
+
+
+
+“Do not talk to me of my wife,” said he with a heavy sigh; “she does
+
+not deserve your compassion. She knew I had no regard for her when we
+
+married. Well, married we were, and came down to Combe Magna to be
+
+happy, and afterwards returned to town to be gay. And now do you pity
+
+me, Miss Dashwood? Or have I said all this to no purpose? Am I,—be it
+
+only one degree,—am I less guilty in your opinion than I was before? My
+
+intentions were not always wrong. Have I explained away any part of my
+
+guilt?”
+
+
+
+“Yes, you have certainly removed something—a little. You have proved
+
+yourself, on the whole, less faulty than I had believed you. You have
+
+proved your heart less wicked, much less wicked. But I hardly know—the
+
+misery that you have inflicted—I hardly know what could have made it
+
+worse.”
+
+
+
+“Will you repeat to your sister when she is recovered, what I have been
+
+telling you?—Let me be a little lightened too in her opinion as well as
+
+in yours. You tell me that she has forgiven me already. Let me be able
+
+to fancy that a better knowledge of my heart, and of my present
+
+feelings, will draw from her a more spontaneous, more natural, more
+
+gentle, less dignified, forgiveness. Tell her of my misery and my
+
+penitence—tell her that my heart was never inconstant to her, and if
+
+you will, that at this moment she is dearer to me than ever.”
+
+
+
+“I will tell her all that is necessary to what may comparatively be
+
+called, your justification. But you have not explained to me the
+
+particular reason of your coming now, nor how you heard of her
+
+illness.”
+
+
+
+“Last night, in Drury Lane lobby, I ran against Sir John Middleton, and
+
+when he saw who I was, for the first time these two months, he spoke to
+
+me. That he had cut me ever since my marriage, I had seen without
+
+surprise or resentment. Now, however, his good-natured, honest, stupid
+
+soul, full of indignation against me, and concern for your sister,
+
+could not resist the temptation of telling me what he knew ought to,
+
+though probably he did not think it _would_, vex me horridly. As
+
+bluntly as he could speak it, therefore, he told me that Marianne
+
+Dashwood was dying of a putrid fever at Cleveland—a letter that morning
+
+received from Mrs. Jennings declared her danger most imminent—the
+
+Palmers are all gone off in a fright, &c. I was too much shocked to be
+
+able to pass myself off as insensible even to the undiscerning Sir
+
+John. His heart was softened in seeing mine suffer; and so much of his
+
+ill-will was done away, that when we parted, he almost shook me by the
+
+hand while he reminded me of an old promise about a pointer puppy. What
+
+I felt on hearing that your sister was dying, and dying too, believing
+
+me the greatest villain upon earth, scorning, hating me in her latest
+
+moments—for how could I tell what horrid projects might not have been
+
+imputed? _One_ person I was sure would represent me as capable of
+
+anything—What I felt was dreadful! My resolution was soon made, and at
+
+eight o’clock this morning I was in my carriage. Now you know all.”
+
+
+
+Elinor made no answer. Her thoughts were silently fixed on the
+
+irreparable injury which too early an independence and its consequent
+
+habits of idleness, dissipation, and luxury, had made in the mind, the
+
+character, the happiness, of a man who, to every advantage of person
+
+and talents, united a disposition naturally open and honest, and a
+
+feeling, affectionate temper. The world had made him extravagant and
+
+vain—Extravagance and vanity had made him cold-hearted and selfish.
+
+Vanity, while seeking its own guilty triumph at the expense of another,
+
+had involved him in a real attachment, which extravagance, or at least
+
+its offspring, necessity, had required to be sacrificed. Each faulty
+
+propensity in leading him to evil, had led him likewise to punishment.
+
+The attachment, from which against honour, against feeling, against
+
+every better interest he had outwardly torn himself, now, when no
+
+longer allowable, governed every thought; and the connection, for the
+
+sake of which he had, with little scruple, left her sister to misery,
+
+was likely to prove a source of unhappiness to himself of a far more
+
+incurable nature. From a reverie of this kind she was recalled at the
+
+end of some minutes by Willoughby, who, rousing himself from a reverie
+
+at least equally painful, started up in preparation for going, and
+
+said—
+
+
+
+“There is no use in staying here; I must be off.”
+
+
+
+“Are you going back to town?”
+
+
+
+“No—to Combe Magna. I have business there; from thence to town in a day
+
+or two. Good bye.”
+
+
+
+He held out his hand. She could not refuse to give him hers;—he pressed
+
+it with affection.
+
+
+
+“And you _do_ think something better of me than you did?” said he,
+
+letting it fall, and leaning against the mantel-piece as if forgetting
+
+he was to go.
+
+
+
+Elinor assured him that she did;—that she forgave, pitied, wished him
+
+well—was even interested in his happiness—and added some gentle counsel
+
+as to the behaviour most likely to promote it. His answer was not very
+
+encouraging.
+
+
+
+“As to that,” said he, “I must rub through the world as well as I can.
+
+Domestic happiness is out of the question. If, however, I am allowed to
+
+think that you and yours feel an interest in my fate and actions, it
+
+may be the means—it may put me on my guard—at least, it may be
+
+something to live for. Marianne to be sure is lost to me for ever. Were
+
+I even by any blessed chance at liberty again—”
+
+
+
+Elinor stopped him with a reproof.
+
+
+
+“Well,”—he replied—“once more good bye. I shall now go away and live in
+
+dread of one event.”
+
+
+
+“What do you mean?”
+
+
+
+“Your sister’s marriage.”
+
+
+
+“You are very wrong. She can never be more lost to you than she is
+
+now.”
+
+
+
+“But she will be gained by some one else. And if that some one should
+
+be the very he whom, of all others, I could least bear—but I will not
+
+stay to rob myself of all your compassionate goodwill, by showing that
+
+where I have most injured I can least forgive. Good bye,—God bless
+
+you!”
+
+
+
+And with these words, he almost ran out of the room.

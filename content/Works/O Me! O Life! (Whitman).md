@@ -2,7 +2,7 @@
 title: O Me! O Life!
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/121_O_Me_O_Life.md
 tags:
   - graph/work
@@ -12,12 +12,12 @@ tags:
   - concept/identity
   - concept/the_self
   - topos/immortality_through_verse
-  - concept/artist_and_society
+  - concept/the_artist_and_society
 ---
 
 # O Me! O Life!
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > A despairing question about the worth of life among foolish crowds, answered that you may contribute a verse; free-verse lyric on melancholy, identity and meaning.
@@ -25,11 +25,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Themes & Concepts:** [[Melancholy]], [[Identity]], [[The Self]], [[The Artist and Society]]
+**Themes & Concepts:** [[Melancholy]], [[Identity]], [[Self]], [[Artist and Society]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!121_O_Me_O_Life
+
+  O me! O life! of the questions of these recurring,
+  Of the endless trains of the faithless, of cities fill’d with the foolish,
+  Of myself forever reproaching myself, (for who more foolish than I,
+      and who more faithless?)
+  Of eyes that vainly crave the light, of the objects mean, of the
+      struggle ever renew’d,
+  Of the poor results of all, of the plodding and sordid crowds I see
+      around me,
+  Of the empty and useless years of the rest, with the rest me intertwined,
+  The question, O me! so sad, recurring--What good amid these, O me, O life?
+
+       Answer.
+  That you are here--that life exists and identity,
+  That the powerful play goes on, and you may contribute a verse.

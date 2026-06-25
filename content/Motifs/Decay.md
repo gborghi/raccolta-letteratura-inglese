@@ -1,7 +1,7 @@
 ---
 title: Decay
 type: motif
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Transience · Decay · Carpe Diem
 tags:
   - graph/motif
 ---

@@ -1,7 +1,7 @@
 ---
 title: Dante
 type: histref
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Dante
 tags:
   - graph/histref
 ---

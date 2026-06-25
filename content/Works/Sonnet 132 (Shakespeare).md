@@ -2,7 +2,7 @@
 title: Sonnet 132
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_132.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 132
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > Her mourning black eyes pity his pain; black as beauty, love-as-religion, eyes and sight; the dark mistress as temptress.
@@ -32,8 +32,19 @@ tags:
 **Themes & Concepts:** [[Beauty]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_132
+Thine eyes I love, and they, as pitying me—
+Knowing thy heart torment me with disdain—
+Have put on black, and loving mourners be, 
+Looking with pretty ruth upon my pain; 
+And truly, not the morning sun of heaven 
+Better becomes the gray cheeks of the east, 
+Nor that full star that ushers in the even 
+Doth half that glory to the sober west, 
+As those two mourning eyes become thy face. 
+O, let it then as well beseem thy heart 
+To mourn for me, since mourning doth thee grace, 
+And suit thy pity like in every part. 
+Then will I swear beauty herself is black, 
+And all they foul that thy complexion lack.

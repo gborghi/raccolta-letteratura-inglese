@@ -1,7 +1,7 @@
 ---
 title: Comedy
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: World Upside Down · Comedy
 tags:
   - graph/form
 ---

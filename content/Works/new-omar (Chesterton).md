@@ -2,7 +2,7 @@
 title: new-omar
 author: Chesterton
 type: work
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/new-omar.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # new-omar
 
-*by Chesterton*  ·  **Cluster:** [[Parody · Heroic Couplet · Mock Epic]]
+*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A short parody of FitzGerald's Rubaiyat of Omar Khayyam, mocking the modern teetotal, unfermented-wine puritan whose 'Paradise' is a wilderness; a satirical epigram against prohibition and joyless reform.
@@ -33,8 +33,20 @@ tags:
 **Forms & Genres:** [[Parody]], [[Epigram]], [[Satire]]
 **Historical References:** [[Eastern Religion Comparative Religion]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+THE NEW OMAR
 
-!new-omar
+A Book of verses underneath the bough,
+  Provided that the verses do not scan,
+A loaf of bread, a jug of wine and Thou,
+  Short-haired, all angles, looking like a man.
+
+But let the wine be unfermented, Pale,
+  Of chemicals compounded, God knows how--
+This were indeed the Prophet's Paradise,
+  O Paradise were Wilderness enow.
+
+
+
+===== FINE FILE: new-omar.txt =====

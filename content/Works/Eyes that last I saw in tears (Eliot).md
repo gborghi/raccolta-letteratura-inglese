@@ -2,7 +2,7 @@
 title: Eyes that last I saw in tears
 author: Eliot
 type: work
-cluster: Dreams · Sleep · Resurrection
+cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Eliot/_raw/052_Eyes_that_last_I_saw_in_tears.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Eyes that last I saw in tears
 
-*by Eliot*  ·  **Cluster:** [[Dreams · Sleep · Resurrection]]
+*by Eliot*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > Lyric of remembered eyes in death's dream kingdom; grief, division, the golden vision and derision; mortality and memory.
@@ -27,12 +27,39 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Eyes and Sight]], [[Death (2)]], [[Dreams]]
+**Motifs:** [[Eyes and Sight]], [[Death]], [[Dreams]]
 **Themes & Concepts:** [[Grief and Loss]], [[Memory and Time]], [[Melancholy]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Eyes that last I saw in tears
+Eyes that last I saw in tears
+Through division
+Here in death’s dream kingdom
+The golden vision reappears
+I see the eyes but not the tears
+This is my affliction.
+This is my affliction
+Eyes I shall not see again
+Eyes of decision
+Eyes I shall not see unless
+At the door of death’s other kingdom
+Where, as in this,
+The eyes outlast a little while
+A little while outlast the tears
+And hold us in derision.
 
-!052_Eyes_that_last_I_saw_in_tears
+The wind sprang up at four o’clock
+The wind sprang up at four o’clock
+The wind sprang up and broke the bells
+Swinging between life and death
+Here, in death’s dream kingdom
+The waking echo of confusing strife
+Is it a dream or something else
+When the surface of the blackened river
+Is a face that sweats with tears?
+I saw across the blackened river
+The camp fire shake with alien spears.
+Here, across death’s other river
+The Tartar horsemen shake their spears.

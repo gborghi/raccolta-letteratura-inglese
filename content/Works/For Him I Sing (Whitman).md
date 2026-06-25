@@ -2,7 +2,7 @@
 title: For Him I Sing
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/008_For_Him_I_Sing.md
 tags:
   - graph/work
@@ -16,20 +16,25 @@ tags:
 
 # For Him I Sing
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Brief lyric raising the present on the past like a tree, fusing time and space and immortal laws; self-made man as law unto himself.
 
 ## Connections
 
-**Archetypes:** [[The Self-Made Man]]
+**Archetypes:** [[Self-Made Man]]
 **Motifs:** [[Time]], [[Nature]]
 **Themes & Concepts:** [[Identity]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!008_For_Him_I_Sing
+
+  For him I sing,
+  I raise the present on the past,
+  (As some perennial tree out of its roots, the present on the past,)
+  With time and space I him dilate and fuse the immortal laws,
+  To make himself by them the law unto himself.

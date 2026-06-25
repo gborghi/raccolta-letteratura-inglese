@@ -1,0 +1,115 @@
+---
+title: "The Professor — Chapter 24 (part 5)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/The-Professor-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# The Professor — Chapter 24 (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Professor/Chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_26/part_01">part 01 ›</a></div>
+</nav>
+
+
+Seacombe, have proved your disdain of social distinctions by taking up
+
+with an ouvriere! And I pitied the fellow, thinking his feelings had
+
+misled him, and that he had hurt himself by contracting a low match!”
+
+
+
+“Just let go my collar, Hunsden.”
+
+
+
+On the contrary, he swayed me to and fro; so I grappled him round the
+
+waist. It was dark; the street lonely and lampless. We had then a
+
+tug for it; and after we had both rolled on the pavement, and with
+
+difficulty picked ourselves up, we agreed to walk on more soberly.
+
+
+
+“Yes, that’s my lace-mender,” said I; “and she is to be mine for
+
+life--God willing.”
+
+
+
+“God is not willing--you can’t suppose it; what business have you to
+
+be suited so well with a partner? And she treats you with a sort of
+
+respect, too, and says, ‘Monsieur’ and modulates her tone in addressing
+
+you, actually, as if you were something superior! She could not evince
+
+more deference to such a one as I, were she favoured by fortune to the
+
+supreme extent of being my choice instead of yours.”
+
+
+
+“Hunsden, you’re a puppy. But you’ve only seen the title-page of my
+
+happiness; you don’t know the tale that follows; you cannot conceive the
+
+interest and sweet variety and thrilling excitement of the narrative.”
+
+
+
+Hunsden--speaking low and deep, for we had now entered a busier
+
+street--desired me to hold my peace, threatening to do something
+
+dreadful if I stimulated his wrath further by boasting. I laughed till
+
+my sides ached. We soon reached his hotel; before he entered it, he
+
+said--
+
+
+
+“Don’t be vainglorious. Your lace-mender is too good for you, but not
+
+good enough for me; neither physically nor morally does she come up
+
+to my ideal of a woman. No; I dream of something far beyond that
+
+pale-faced, excitable little Helvetian (by-the-by she has infinitely
+
+more of the nervous, mobile Parisienne in her than of the the robust
+
+‘jungfrau’). Your Mdlle. Henri is in person “chetive”, in mind “sans
+
+caractere”, compared with the queen of my visions. You, indeed, may put
+
+up with that “minois chiffone”; but when I marry I must have straighter
+
+and more harmonious features, to say nothing of a nobler and better
+
+developed shape than that perverse, ill-thriven child can boast.”
+
+
+
+“Bribe a seraph to fetch you a coal of fire from heaven, if you will,”
+
+ said I, “and with it kindle life in the tallest, fattest, most boneless,
+
+fullest-blooded of Ruben’s painted women--leave me only my Alpine peri,
+
+and I’ll not envy you.”
+
+
+
+With a simultaneous movement, each turned his back on the other. Neither
+
+said “God bless you;” yet on the morrow the sea was to roll between us.

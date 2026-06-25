@@ -1,7 +1,7 @@
 ---
 title: Inscription
 type: form
-cluster: Dreams · Sleep · Resurrection
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/form
 ---

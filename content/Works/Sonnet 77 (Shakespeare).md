@@ -2,7 +2,7 @@
 title: Sonnet 77
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_077.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 77
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Glass, dial, and blank book teach the lessons of mortality, time's thievish progress, and memory committed to writing.
@@ -27,12 +27,23 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[The Mirror]], [[The Clock]], [[The Book Reading]], [[The Grave]], [[Time]]
+**Motifs:** [[Mirror]], [[Clock]], [[Book Reading]], [[Grave]], [[Time]]
 **Themes & Concepts:** [[Memory and Time]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_077
+Thy glass will show thee how thy beauties wear, 
+Thy dial how thy precious minutes waste, 
+The vacant leaves thy mind’s imprint will bear, 
+And of this book this learning mayst thou taste: 
+The wrinkles which thy glass will truly show 
+Of mouthed graves will give thee memory; 
+Thou by thy dial’s shady stealth mayst know 
+Time’s thievish progress to eternity; 
+Look what thy memory cannot contain 
+Commit to these waste blanks, and thou shalt find 
+Those children nursed, delivered from thy brain, 
+To take a new acquaintance of thy mind. 
+These offices so oft as thou wilt look 
+Shall profit thee and much enrich thy book.

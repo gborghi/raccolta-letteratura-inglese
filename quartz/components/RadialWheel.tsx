@@ -55,8 +55,29 @@ const style = `
   transition: border-color 0.18s ease, box-shadow 0.18s ease, transform 0.18s ease;
 }
 .rw-tile img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.rw-label { display: block; margin-top: 0.3rem; font-size: 0.78rem; line-height: 1.15; font-weight: 600; color: var(--darkgray); }
-.rw-sub { display: block; font-size: 0.66rem; color: var(--secondary); }
+.rw-label {
+  display: inline-block;
+  margin-top: 0.35rem;
+  padding: 0.16rem 0.5rem;
+  font-size: 0.92rem;
+  line-height: 1.2;
+  font-weight: 800;
+  letter-spacing: 0.01em;
+  color: #6e3b2a; /* dark terracotta/ink for strong contrast */
+  background: rgba(253, 248, 240, 0.92); /* semi-opaque cream chip */
+  border: 1px solid rgba(110, 59, 42, 0.18);
+  border-radius: 8px;
+  box-shadow: 0 1px 4px rgba(120, 90, 60, 0.14);
+}
+.rw-sub {
+  display: block;
+  margin-top: 0.1rem;
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: #8a5a3c;
+}
+:root[saved-theme="dark"] .rw-label { color: #f3c9a7; background: rgba(40, 30, 24, 0.9); border-color: rgba(243, 201, 167, 0.25); }
+:root[saved-theme="dark"] .rw-sub { color: #d8a274; }
 .rw-spoke:hover, .rw-spoke:focus-visible { z-index: 5; outline: none; }
 .rw-spoke:hover .rw-tile, .rw-spoke:focus-visible .rw-tile {
   border-color: var(--secondary);

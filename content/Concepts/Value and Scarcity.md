@@ -1,7 +1,7 @@
 ---
 title: Value and Scarcity
 type: concept
-cluster: Desire · Value and Scarcity · Gems / Jewels
+cluster: Rose · Desire · Value and Scarcity
 tags:
   - graph/concept
 ---

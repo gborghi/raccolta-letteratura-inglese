@@ -1,7 +1,7 @@
 ---
 title: Temptation
 type: concept
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Temptation · Good vs Evil · Serpent / Snake
 tags:
   - graph/concept
 ---

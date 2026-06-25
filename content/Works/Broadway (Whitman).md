@@ -2,7 +2,7 @@
 title: Broadway
 author: Whitman
 type: work
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: City · London · Theatrum Mundi
 source: Authors/Whitman/_raw/320_Broadway.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Broadway
 
-*by Whitman*  ·  **Cluster:** [[Money and Gold · Marriage and Fidelity · Social Injustice]]
+*by Whitman*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 
 > The crowded New York street as a teeming theatre of human passions, an unspeakable show and lesson of life.
@@ -27,13 +27,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Theatrum Mundi]]
-**Motifs:** [[The City]], [[The Road]]
-**Themes & Concepts:** [[Appearance vs Reality]], [[The Common Man (2)]]
+**Motifs:** [[City]], [[Road]]
+**Themes & Concepts:** [[Appearance vs Reality]], [[Common Man]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[New York]], [[The Modern Metropolis (2)]]
+**Settings:** [[New York]], [[Modern Metropolis]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!320_Broadway
+
+  What hurrying human tides, or day or night!
+  What passions, winnings, losses, ardors, swim thy waters!
+  What whirls of evil, bliss and sorrow, stem thee!
+  What curious questioning glances--glints of love!
+  Leer, envy, scorn, contempt, hope, aspiration!
+  Thou portal--thou arena--thou of the myriad long-drawn lines and groups!
+  (Could but thy flagstones, curbs, facades, tell their inimitable tales;
+  Thy windows rich, and huge hotels--thy side-walks wide;)
+  Thou of the endless sliding, mincing, shuffling feet!
+  Thou, like the parti-colored world itself--like infinite, teeming,
+      mocking life!
+  Thou visor’d, vast, unspeakable show and lesson!

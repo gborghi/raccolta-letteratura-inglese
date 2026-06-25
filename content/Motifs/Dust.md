@@ -1,7 +1,7 @@
 ---
 title: Dust
 type: motif
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/motif
 ---

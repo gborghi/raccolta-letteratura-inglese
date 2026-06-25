@@ -24,11 +24,14 @@ tags:
 ## Connections
 
 **Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Satire of Society]], [[The Artist and Society (2)]], [[Identity]]
+**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Identity]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!354_WRITTEN_IN_AN_ALBUM
+Parry seeks the Polar ridge,
+Rhymes seeks S. T. Coleridge,
+Author of Works, whereof — tho’ not in Dutch —
+The public little knows — the publisher too much.
+First published in 1834.
+TO A LADY WHO REQUESTED ME TO WRITE A

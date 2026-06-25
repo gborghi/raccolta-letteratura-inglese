@@ -1,7 +1,7 @@
 ---
 title: Freedom
 type: concept
-cluster: Nature · The Book of Nature · The Natural Order
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/concept
 ---

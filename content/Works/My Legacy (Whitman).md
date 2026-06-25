@@ -2,7 +2,7 @@
 title: My Legacy
 author: Whitman
 type: work
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Whitman/_raw/283_My_Legacy.md
 tags:
   - graph/work
@@ -16,18 +16,31 @@ tags:
 
 # My Legacy
 
-*by Whitman*  ·  **Cluster:** [[The Artist and Society · The Book Reading · Clothing and Costume]]
+*by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > A free-verse lyric contrasting a rich man's bequests with the poet's legacy of war remembrances bound in songs; themes of mortality, memory and the book.
 
 ## Connections
 
-**Motifs:** [[Memory (2)]], [[The Book Reading]], [[Money and Gold]]
+**Motifs:** [[Memory]], [[Book Reading]], [[Money and Gold]]
 **Themes & Concepts:** [[Mortality]], [[War and its Cost]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SONGS OF PARTING_
 
-!283_My_Legacy
+
+  The business man the acquirer vast,
+  After assiduous years surveying results, preparing for departure,
+  Devises houses and lands to his children, bequeaths stocks, goods,
+      funds for a school or hospital,
+  Leaves money to certain companions to buy tokens, souvenirs of gems
+      and gold.
+
+  But I, my life surveying, closing,
+  With nothing to show to devise from its idle years,
+  Nor houses nor lands, nor tokens of gems or gold for my friends,
+  Yet certain remembrances of the war for you, and after you,
+  And little souvenirs of camps and soldiers, with my love,
+  I bind together and bequeath in this bundle of songs.

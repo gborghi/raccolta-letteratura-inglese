@@ -2,7 +2,7 @@
 title: Of That Blithe Throat of Thine
 author: Whitman
 type: work
-cluster: Seasons · Winter · Spring
+cluster: Birds · Music and Song · Nightingale
 source: Authors/Whitman/_raw/319_Of_That_Blithe_Throat_of_Thine.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Of That Blithe Throat of Thine
 
-*by Whitman*  ·  **Cluster:** [[Seasons · Winter · Spring]]
+*by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
 > The poet takes the arctic bird's gay song as a lesson, singing cheerfully even amid the winter of old age.
@@ -30,8 +30,18 @@ tags:
 **Themes & Concepts:** [[Faith]], [[Joy]], [[Self-Knowledge]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!319_Of_That_Blithe_Throat_of_Thine
+
+  Of that blithe throat of thine from arctic bleak and blank,
+  I’ll mind the lesson, solitary bird--let me too welcome chilling drifts,
+  E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,
+  Old age land-lock’d within its winter bay--(cold, cold, O cold!)
+  These snowy hairs, my feeble arm, my frozen feet,
+  For them thy faith, thy rule I take, and grave it to the last;
+  Not summer’s zones alone--not chants of youth, or south’s warm tides alone,
+  But held by sluggish floes, pack’d in the northern ice, the cumulus
+      of years,
+  These with gay heart I also sing.

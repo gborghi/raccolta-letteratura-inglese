@@ -1,0 +1,68 @@
+---
+title: "Henry V — Act V, Scene 0"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/HENRY-V-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Henry V — Act V, Scene 0
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_V/Act_4/Scene_8">‹ Scene 8</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Henry_V/Act_5/Scene_1">Scene 1 ›</a></div>
+</nav>
+
+
+Enter Chorus
+CHORUS
+Vouchsafe to those that have not read the story
+That I may prompt them—and of such as have,
+I humbly pray them to admit th‘excuse
+Of time, of numbers, and due course of things,
+Which cannot in their huge and proper life
+Be here presented. Now we bear the King
+Toward Calais. Grant him there; there seen,
+Heave him away upon your winged thoughts
+Athwart the sea. Behold, the English beach
+Pales-in the flood, with men, maids, wives, and boys,
+Whose shouts and claps out-voice the deep-mouthed
+sea,
+Which like a mighty whiffler fore the King
+Seems to prepare his way. So let him land,
+And solemnly see him set on to London.
+So swift a pace hath thought, that even now
+You may imagine him upon Blackheath,
+Where that his lords desire him to have borne
+His bruised helmet and his bended sword
+Before him through the city; he forbids it,
+Being free from vainness and self-glorious pride,
+Giving full trophy, signal, and ostent
+Quite from himself, to God. But now behold,
+In the quick forge and working-house of thought,
+How London doth pour out her citizens.
+The Mayor and all his brethren, in best sort,
+Like to the senators of th’antique Rome
+With the plebeians swarming at their heels,
+Go forth and fetch their conqu’ring Caesar in—
+As, by a lower but high-loving likelihood,
+Were now the General of our gracious Empress—
+As in good time he may—from Ireland coming,
+Bringing rebellion broached on his sword,
+How many would the peaceful city quit
+To welcome him! Much more, and much more cause,
+Did they this Harry. Now in London place him;
+As yet the lamentation of the French
+Invites the King of England’s stay at home.
+The Emperor’s coming in behalf of France,
+To order peace between them ⌈
+⌉ and omit
+All the occurrences, whatever chanced,
+Till Harry’s back-return again to France.
+There must we bring him, and myself have played
+The interim by rememb‘ring you ’tis past.
+Then brook abridgement, and your eyes advance,
+After your thoughts, straight back again to France.
+Exit

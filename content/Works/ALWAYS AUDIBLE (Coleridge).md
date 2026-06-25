@@ -27,8 +27,10 @@ tags:
 **Themes & Concepts:** [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!334_ALWAYS_AUDIBLE
+Pass under Jack’s window at twelve at night
+You’ll hear him still — he’s roaring!
+Pass under Jack’s window at twelve at noon,
+You’ll hear him still — he’s snoring!
+First published in Morning Post, Dec. 19, 1801. First collected 1893.

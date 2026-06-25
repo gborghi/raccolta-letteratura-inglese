@@ -1,14 +1,14 @@
 ---
 title: Great Chain of Being
 type: topos
-cluster: Power and Corruption · The Crown · Pride
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/topos
 ---
 
 # Great Chain of Being
 
-*Topos* — appears in **5** work(s).
+*Topos* — appears in **6** work(s).
 
 ## Works
 

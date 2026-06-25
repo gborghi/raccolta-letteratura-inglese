@@ -1,0 +1,45 @@
+---
+title: "Julius Caesar — Act II, Scene 1 — monologue (BRUTUS) [5]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Julius Caesar — Act II, Scene 1 — monologue (BRUTUS) [5]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
+</nav>
+
+
+BRUTUS
+No, not an oath. If not the face of men,
+The sufferance of our souls, the time’s abuse—
+If these be motives weak, break off betimes,
+And every man hence to his idle bed.
+So let high-sighted tyranny range on
+Till each man drop by lottery. But if these,
+As I am sure they do, bear fire enough
+To kindle cowards and to steel with valour
+The melting spirits of women, then, countrymen,
+What need we any spur but our own cause
+To prick us to redress? What other bond
+Than secret Romans, that have spoke the word
+And will not palter? And what other oath
+Than honesty to honesty engaged
+That this shall be or we will fall for it?
+Swear priests and cowards and men cautelous,
+Old feeble carrions, and such suffering souls
+That welcome wrongs; unto bad causes swear
+Such creatures as men doubt; but do not stain
+The even virtue of our enterprise,
+Nor th’insuppressive mettle of our spirits,
+To think that or our cause or our performance
+Did need an oath, when every drop of blood
+That every Roman bears, and nobly bears,
+Is guilty of a several bastardy
+If he do break the smallest particle
+Of any promise that hath passed from him.

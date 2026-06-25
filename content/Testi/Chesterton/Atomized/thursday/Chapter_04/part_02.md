@@ -1,0 +1,131 @@
+---
+title: "thursday — Chapter 4 (part 2)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/thursday-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# thursday — Chapter 4 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/thursday-(Chesterton)">thursday</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/thursday/Chapter_04/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/thursday/Chapter_04/part_03">part 03 ›</a></div>
+</nav>
+
+
+"Join you in what?" asked Syme.
+
+"I will tell you," said the policeman slowly.  "This is the situation:
+The head of one of our departments, one of the most celebrated
+detectives in Europe, has long been of opinion that a purely
+intellectual conspiracy would soon threaten the very existence
+of civilisation.  He is certain that the scientific and
+artistic worlds are silently bound in a crusade against
+the Family and the State.  He has, therefore, formed a special
+corps of policemen, policemen who are also philosophers.
+It is their business to watch the beginnings of this conspiracy,
+not merely in a criminal but in a controversial sense.
+I am a democrat myself, and I am fully aware of the value
+of the ordinary man in matters of ordinary valour or virtue.
+But it would obviously be undesirable to employ the common
+policeman in an investigation which is also a heresy hunt."
+
+Syme's eyes were bright with a sympathetic curiosity.
+
+"What do you do, then?" he said.
+
+"The work of the philosophical policeman," replied the man in blue,
+"is at once bolder and more subtle than that of the ordinary detective.
+The ordinary detective goes to pot-houses to arrest thieves; we go
+to artistic tea-parties to detect pessimists.  The ordinary detective
+discovers from a ledger or a diary that a crime has been committed.
+We discover from a book of sonnets that a crime will be committed.
+We have to trace the origin of those dreadful thoughts that drive
+men on at last to intellectual fanaticism and intellectual crime.
+We were only just in time to prevent the assassination at Hartle pool,
+and that was entirely due to the fact that our Mr. Wilks (a smart
+young fellow) thoroughly understood a triolet."
+
+"Do you mean," asked Syme, "that there is really as much connection
+between crime and the modern intellect as all that?"
+
+"You are not sufficiently democratic," answered the policeman,
+"but you were right when you said just now that our ordinary
+treatment of the poor criminal was a pretty brutal business.
+I tell you I am sometimes sick of my trade when I see how perpetually
+it means merely a war upon the ignorant and the desperate.
+But this new movement of ours is a very different affair.
+We deny the snobbish English assumption that the uneducated are
+the dangerous criminals.  We remember the Roman Emperors.  We remember
+the great poisoning princes of the Renaissance.  We say
+that the dangerous criminal is the educated criminal.
+We say that the most dangerous criminal now is the entirely
+lawless modern philosopher.  Compared to him, burglars and
+bigamists are essentially moral men; my heart goes out to them.
+They accept the essential ideal of man; they merely seek it wrongly.
+Thieves respect property.  They merely wish the property
+to become their property that they may more perfectly
+respect it.  But philosophers dislike property as property;
+they wish to destroy the very idea of personal possession.
+Bigamists respect marriage, or they would not go through
+the highly ceremonial and even ritualistic formality of bigamy.
+But philosophers despise marriage as marriage.  Murderers respect
+human life; they merely wish to attain a greater fulness
+of human life in themselves by the sacrifice of what seems
+to them to be lesser lives.  But philosophers hate life itself,
+their own as much as other people's."
+
+Syme struck his hands together.
+
+"How true that is," he cried.  "I have felt it from my boyhood,
+but never could state the verbal antithesis.  The common criminal
+is a bad man, but at least he is, as it were, a conditional
+good man.  He says that if only a certain obstacle be removed--
+say a wealthy uncle--he is then prepared to accept the universe
+and to praise God.  He is a reformer, but not an anarchist.
+He wishes to cleanse the edifice, but not to destroy it.
+But the evil philosopher is not trying to alter things, but to
+annihilate them.  Yes, the modern world has retained all those
+parts of police work which are really oppressive and ignominious,
+the harrying of the poor, the spying upon the unfortunate.
+It has given up its more dignified work, the punishment of powerful
+traitors in the State and powerful heresiarchs in the Church.
+The moderns say we must not punish heretics.  My only doubt is
+whether we have a right to punish anybody else."
+
+"But this is absurd!" cried the policeman, clasping his hands with
+an excitement uncommon in persons of his figure and costume, "but it
+is intolerable!  I don't know what you're doing, but you're wasting
+your life.  You must, you shall, join our special army against anarchy.
+Their armies are on our frontiers.  Their bolt is ready to fall.
+A moment more, and you may lose the glory of working with us,
+perhaps the glory of dying with the last heroes of the world."
+
+"It is a chance not to be missed, certainly," assented Syme,
+"but still I do not quite understand.  I know as well
+as anybody that the modern world is full of lawless little
+men and mad little movements.  But, beastly as they are,
+they generally have the one merit of disagreeing with each other.
+How can you talk of their leading one army or hurling one bolt.
+What is this anarchy?"
+
+"Do not confuse it," replied the constable, "with those chance
+dynamite outbreaks from Russia or from Ireland, which are really
+the outbreaks of oppressed, if mistaken, men.  This is a vast
+philosophic movement, consisting of an outer and an inner ring.
+You might even call the outer ring the laity and the inner ring
+the priesthood.  I prefer to call the outer ring the innocent section,
+the inner ring the supremely guilty section.  The outer ring--
+the main mass of their supporters--are merely anarchists;
+that is, men who believe that rules and formulas have destroyed
+human happiness.  They believe that all the evil results of human
+crime are the results of the system that has called it crime.
+They do not believe that the crime creates the punishment.
+They believe that the punishment has created the crime.
+They believe that if a man seduced seven women he would
+naturally walk away as blameless as the flowers of spring.
+They believe that if a man picked a pocket he would naturally
+feel exquisitely good.  These I call the innocent section."

@@ -1,7 +1,7 @@
 ---
 title: Clothing and Costume
 type: motif
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Grief and Loss · Elegy · Clothing and Costume
 tags:
   - graph/motif
 ---

@@ -1,7 +1,7 @@
 ---
 title: Light in Sound (Synaesthesia)
 type: motif
-cluster: Imagination · Creativity and Artistic Labor · The One Life (Pantheism)
+cluster: Imagination · Fragment · Heroic Couplet
 tags:
   - graph/motif
 ---

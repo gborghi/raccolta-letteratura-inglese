@@ -1,14 +1,14 @@
 ---
 title: Inexpressibility
 type: concept
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Nature · Book of Nature · Natural Order
 tags:
   - graph/concept
 ---
 
 # Inexpressibility
 
-*Theme/Concept* — appears in **1** work(s).
+*Theme/Concept* — appears in **3** work(s).
 
 ## Works
 

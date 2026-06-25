@@ -2,7 +2,7 @@
 title: Sonnet 49
 author: Shakespeare
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_049.md
 tags:
   - graph/work
@@ -17,20 +17,33 @@ tags:
 
 # Sonnet 49
 
-*by Shakespeare*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Anticipating the time the beloved's love will be audited and withdrawn; self-abasement and unrequited fear.
 
 ## Connections
 
-**Topoi:** [[The Unattainable Beloved]]
+**Topoi:** [[Unattainable Beloved]]
 **Motifs:** [[Money and Gold]]
 **Themes & Concepts:** [[Unrequited Frustrated Love]], [[Grief and Loss]], [[Melancholy]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Against that time—if ever that time come—
+When I shall see thee frown on my defects, 
+Whenas thy love hath cast his utmost sum, 
+Called to that audit by advised respects; 
+Against that time when thou shalt strangely pass 
+And scarcely greet me with that sun, thine eye, 
+When love converted from the thing it was 
+Shall reasons find of settled gravity: 
+Against that time do I ensconce me here 
+Within the knowledge of mine own desert, 
+And this my hand against myself uprear 
+To guard the lawful reasons on thy part.
 
-!Sonnet_049
+To leave poor me thou hast the strength of laws,
+
+Since why to love I can allege no cause.

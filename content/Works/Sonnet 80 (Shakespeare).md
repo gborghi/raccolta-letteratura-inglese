@@ -2,7 +2,7 @@
 title: Sonnet 80
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_080.md
 tags:
   - graph/work
@@ -17,20 +17,31 @@ tags:
 
 # Sonnet 80
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The poet faints before a better spirit who praises the beloved; the rival's tall ship versus his saucy little barque on the ocean of worth.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility (3)]]
-**Motifs:** [[The Sea]], [[Letters and Writing]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Jealousy]]
+**Topoi:** [[Inexpressibility]]
+**Motifs:** [[Sea]], [[Letters and Writing]]
+**Themes & Concepts:** [[Artist and Society]], [[Jealousy]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_080
+O, how I faint when I of you do write, 
+Knowing a better spirit doth use your name, 
+And in the praise thereof spends all his might, 
+To make me tongue-tied, speaking of your fame! 
+But since your worth, wide as the ocean is, 
+The humble as the proudest sail doth bear, 
+My saucy barque, inferior far to his, 
+On your broad main doth wilfully appear. 
+Your shallowest help will hold me up afloat 
+Whilst he upon your soundless deep doth ride; 
+Or, being wrecked, I am a worthless boat, 
+He of tall building and of goodly pride. 
+Then if he thrive and I be cast away, 
+The worst was this: my love was my decay.

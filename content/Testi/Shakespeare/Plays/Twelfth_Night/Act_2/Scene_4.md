@@ -1,0 +1,172 @@
+---
+title: "Twelfth Night — Act II, Scene 4"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Twelfth Night — Act II, Scene 4
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_2/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_2/Scene_5">Scene 5 ›</a></div>
+</nav>
+
+
+Enter the Duke, Viola as Cesario, Curio, and others
+ORSINO
+Give me some music. Now good morrow, friends.
+Now good Cesario, but that piece of song,
+That old and antic song we heard last night.
+Methought it did relieve my passion much,
+More than light airs and recollected terms
+Of these most brisk and giddy-paced times.
+Come, but one verse.
+CURIO He is not here, so please your lordship, that should sing it.
+ORSINO Who was it?
+CURIO Feste the jester, my lord, a fool that the lady Olivia’s father took much delight in. He is about the house.
+ORSINO
+Seek him out, and play the tune the while. Exit Curio
+Music plays
+(To Viola) Come hither, boy. If ever thou shalt love,
+In the sweet pangs of it remember me;
+For such as I am, all true lovers are,
+Unstaid and skittish in all motions else
+Save in the constant image of the creature
+That is beloved. How dost thou like this tune?
+VIOLA
+It gives a very echo to the seat
+Where love is throned.
+ORSINO
+Thou dost speak masterly.
+My life upon’t, young though thou art thine eye
+Hath stayed upon some favour that it loves.
+Hath it not, boy?
+VIOLA
+A little, by your favour.
+ORSINO
+What kind of woman is’t?
+VIOLA
+Of your complexion.
+ORSINO
+She is not worth thee then. What years, i’faith?
+VIOLA About your years, my lord.
+ORSINO
+Too old, by heaven. Let still the woman take
+An elder than herself. So wears she to him;
+So sways she level in her husband’s heart.
+For, boy, however we do praise ourselves,
+Our fancies are more giddy and unfirm,
+More longing, wavering, sooner lost and worn,
+Than women’s are.
+VIOLA
+I think it well, my lord.
+ORSINO
+Then let thy love be younger than thyself,
+Or thy affection cannot hold the bent;
+For women are as roses, whose fair flower
+Being once displayed, doth fall that very hour.
+VIOLA
+And so they are. Alas that they are so:
+To die even when they to perfection grow.
+Enter Curio and Feste the clown
+ORSINO (to Feste)
+O fellow, come, the song we had last night.
+Mark it, Cesario, it is old and plain.
+The spinsters, and the knitters in the sun,
+And the free maids that weave their thread with
+bones,
+Do use to chant it. It is silly sooth,
+And dallies with the innocence of love,
+Like the old age.
+FESTE Are you ready, sir?
+ORSINO I prithee, sing.
+Music
+FESTE (sings)
+Come away, come away death,
+And in sad cypress let me be laid.
+Fie away, fie away breath,
+I am slain by a fair cruel maid.
+My shroud of white, stuck all with yew,
+O prepare it.
+My part of death no one so true
+Did share it.
+Not a flower, not a flower sweet
+On my black coffin let there be strewn.
+Not a friend, not a friend greet
+My poor corpse, where my bones shall be thrown.
+A thousand thousand sighs to save,
+Lay me O where
+Sad true lover never find my grave,
+To weep there.
+DUKE (giving money) There’s for thy pains.
+FESTE No pains, sir. I take pleasure in singing, sir.
+ORSINO I’ll pay thy pleasure then.
+FESTE Truly, sir, and pleasure will be paid, one time or another.
+ORSINO Give me now leave to leave thee.
+FESTE Now the melancholy god protect thee, and the tailor make thy doublet of changeable taffeta, for thy mind is a very opal. I would have men of such constancy put to sea, that their business might be everything, and their intent everywhere, for that’s it that always makes a good voyage of nothing. Farewell. Exit
+ORSINO
+Let all the rest give place: Exeunt Curio and others
+Once more, Cesario,
+Get thee to yon same sovereign cruelty.
+Tell her my love, more noble than the world,
+Prizes not quantity of dirty lands.
+The parts that fortune hath bestowed upon her
+Tell her I hold as giddily as fortune;
+But ’tis that miracle and queen of gems
+That nature pranks her in attracts my soul.
+VIOLA
+But if she cannot love you, sir?
+ORSINO
+I cannot be so answered.
+VIOLA Sooth, but you must.
+Say that some lady, as perhaps there is,
+Hath for your love as great a pang of heart
+As you have for Olivia. You cannot love her.
+You tell her so. Must she not then be answered?
+ORSINO
+There is no woman’s sides
+Can bide the beating of so strong a passion
+As love doth give my heart; no woman’s heart
+So big, to hold so much. They lack retention.
+Alas, their love may be called appetite,
+No motion of the liver, but the palate,
+That suffer surfeit, cloyment, and revolt.
+But mine is all as hungry as the sea,
+And can digest as much. Make no compare
+Between that love a woman can bear me
+And that I owe Olivia.
+VIOLA Ay, but I know—
+ORSINO What dost thou know?
+VIOLA
+Too well what love women to men may owe.
+In faith, they are as true of heart as we.
+My father had a daughter loved a man
+As it might be, perhaps, were I a woman
+I should your lordship.
+ORSINO
+And what’s her history?
+VIOLA
+A blank, my lord. She never told her love,
+But let concealment, like a worm i’th’ bud,
+Feed on her damask cheek. She pined in thought,
+And with a green and yellow melancholy
+She sat like patience on a monument,
+Smiling at grief. Was not this love indeed?
+We men may say more, swear more, but indeed
+Our shows are more than will; for still we prove
+Much in our vows, but little in our love.
+ORSINO
+But died thy sister of her love, my boy?
+VIOLA
+I am all the daughters of my father’s house,
+And all the brothers too; and yet I know not.
+Sir, shall I to this lady?
+ORSINO
+Ay, that’s the theme,
+To her in haste. Give her this jewel. Say
+My love can give no place, bide no denay.
+Exeunt severally

@@ -1,7 +1,7 @@
 ---
 title: Honour
 type: motif
-cluster: Power and Corruption · The Crown · Pride
+cluster: Court · Medieval England · History Play
 tags:
   - graph/motif
 ---

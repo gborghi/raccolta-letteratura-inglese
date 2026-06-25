@@ -2,7 +2,7 @@
 title: LOVE’S SANCTUARY
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Coleridge/_raw/204_LOVES_SANCTUARY.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # LOVE’S SANCTUARY
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > A short devotional love-lyric enshrining the beloved like a saint in a heart-shrine, treating love as religion. Sonnet-like fragment.
@@ -24,12 +24,15 @@ tags:
 ## Connections
 
 **Topoi:** [[Love as Religion]]
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Themes & Concepts:** [[Romantic Love]], [[Divine Love]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!204_LOVES_SANCTUARY
+This yearning heart (Love! witness what I say)
+Enshrines thy form as purely as it may,
+Round which, as to some spirit uttering bliss,
+My thoughts all stand ministrant night and day
+Like saintly Priests, that dare not think amiss.
+? 1801.

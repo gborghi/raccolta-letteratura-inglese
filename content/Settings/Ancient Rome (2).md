@@ -1,7 +1,7 @@
 ---
 title: Ancient Rome
 type: setting
-cluster: Power and Corruption · The Crown · Pride
+cluster: Honour · Ancient Rome · Ancient Rome
 tags:
   - graph/setting
 ---

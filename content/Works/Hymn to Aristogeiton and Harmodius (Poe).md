@@ -2,7 +2,7 @@
 title: Hymn to Aristogeiton and Harmodius
 author: Poe
 type: work
-cluster: Heroism · Honour · Hero
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Poe/_raw/Hymn to Aristogeiton and Harmodius.md
 tags:
   - graph/work
@@ -26,7 +26,7 @@ tags:
 
 # Hymn to Aristogeiton and Harmodius
 
-*by Poe*  ·  **Cluster:** [[Heroism · Honour · Hero]]
+*by Poe*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > Translation from the Greek celebrating the tyrant-slayers of Athens, glorifying liberty, heroism, and the deathless fame of avengers.
@@ -34,15 +34,35 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Archetypes:** [[The Rebel]], [[Avenger]]
+**Archetypes:** [[Rebel]], [[Avenger]]
 **Motifs:** [[Swords and Weapons]], [[Blood]], [[Flowers]]
 **Themes & Concepts:** [[Heroism]], [[Immortality]], [[Honour]], [[Power and Corruption]]
 **Forms & Genres:** [[Hymn]], [[Ode]]
 **Historical References:** [[Ancient Greece]], [[Greek Mythology]]
 **Settings:** [[Ancient Greece (2)]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Translation from the Greek
 
-!Hymn to Aristogeiton and Harmodius
+                I
+     Wreathed in myrtle, my sword I’ll conceal
+     Like those champions devoted and brave,
+     When they plunged in the tyrant their steel,
+     And to Athens deliverance gave.
+                II
+     Beloved heroes! your deathless souls roam
+     In the joy breathing isles of the blest;
+     Where the mighty of old have their home
+     Where Achilles and Diomed rest
+                III
+     In fresh myrtle my blade I’ll entwine,
+     Like Harmodius, the gallant and good,
+     When he made at the tutelar shrine
+     A libation of Tyranny’s blood.
+                IV
+     Ye deliverers of Athens from shame!
+     Ye avengers of Liberty’s wrongs!
+     Endless ages shall cherish your fame,
+     Embalmed in their echoing songs!
+     1827.

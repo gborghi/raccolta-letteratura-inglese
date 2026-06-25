@@ -2,7 +2,7 @@
 title: a-hymn
 author: Chesterton
 type: work
-cluster: Grace and Redemption · Humility · The Desert
+cluster: Faith · Providence · Divine Love
 source: Authors/Chesterton/_raw/a-hymn.md
 tags:
   - graph/work
@@ -22,7 +22,7 @@ tags:
 
 # a-hymn
 
-*by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · The Desert]]
+*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A national hymn and prayer (three stanzas, hymn-meter) begging God to take away the people's pride and to deliver a corrupt, gold-walled nation from lies, profit and damnation; central themes are faith, national renewal, humility, and the corruption of power.
@@ -34,8 +34,40 @@ tags:
 **Forms & Genres:** [[Hymn]]
 **Historical References:** [[Christianity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+A Hymn
 
-!a-hymn
+by G.K.Chesterton
+
+O God of earth and altar,
+  Bow down and hear our cry,
+Our earthly rulers falter,
+  Our people drift and die;
+The walls of gold entomb us,
+  The swords of scorn divide,
+Take not thy thunder from us,
+  But take away our pride.
+
+From all that terror teaches,
+  From lies of tongue and pen,
+From all the easy speeches
+  That comfort cruel men,
+From sale and profanation
+  Of honour and the sword,
+From sleep and from damnation,
+  Deliver us, good Lord.
+
+Tie in a living tether
+  The prince and priest and thrall,
+Bind all our lives together,
+  Smite us and save us all;
+In ire and exultation
+  Aflame with faith, and free,
+Lift up a living nation,
+  A single sword to thee.
+
+
+
+
+===== FINE FILE: a-hymn.txt =====

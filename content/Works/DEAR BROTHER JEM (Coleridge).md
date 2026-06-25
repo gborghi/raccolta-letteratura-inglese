@@ -24,11 +24,15 @@ tags:
 ## Connections
 
 **Motifs:** [[Letters and Writing]]
-**Themes & Concepts:** [[Literary Criticism]], [[Satire of Society]], [[Vanity]]
+**Themes & Concepts:** [[Literary Criticism (2)]], [[Satire of Society]], [[Vanity]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!315_DEAR_BROTHER_JEM
+Jem writes his verses with more speed
+Than the printer’s boy can set ‘em;
+Quite as fast as we can read,
+And only not so fast as we forget ‘em.
+First published in Morning Post, Sept. 23, 1799. Included in An.
+Anth., 1800; Essays, &c., 1850, iii. 974. First collected P. and D.
+W., 1877, ii. 164.

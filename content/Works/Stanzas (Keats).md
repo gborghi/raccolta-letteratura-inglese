@@ -29,8 +29,34 @@ tags:
 **Themes & Concepts:** [[Memory and Time]], [[Transience]], [[Grief and Loss]], [[Nostalgia]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+I
+In a drear-nighted December,
+Too happy, happy tree,
+Thy branches ne’er remember
+Their green felicity:
+The north cannot undo them.
+With a sleety whistle through them;
+Nor frozen thawings glue them
+From budding at the prime.
 
-!112_Stanzas
+II
+In a drear-nighted December,
+Too happy, happy brook,
+Thy bubblings ne’er remember
+Apollo’s summer look;
+But with a sweet forgetting,
+They stay their crystal fretting,
+Never, never petting
+About the frozen time.
+
+III
+Ah! would ‘twere so with many
+A gentle girl and boy!
+But were there ever any
+Writh’d not at passed joy?
+To know the change and feel it,
+When there is none to heal it,
+Nor numbed sense to steel it,
+Was never said in rhyme.

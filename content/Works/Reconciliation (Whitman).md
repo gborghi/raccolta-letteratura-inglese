@@ -2,7 +2,7 @@
 title: Reconciliation
 author: Whitman
 type: work
-cluster: Paradise Lost · Serpent / Snake · Mercy
+cluster: Stars · Night · Military Camp
 source: Authors/Whitman/_raw/175_Reconciliation.md
 tags:
   - graph/work
@@ -18,18 +18,26 @@ tags:
 
 # Reconciliation
 
-*by Whitman*  ·  **Cluster:** [[Paradise Lost · Serpent Snake · Mercy]]
+*by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > The speaker bends to kiss the white face of his dead enemy, a man divine as himself, as Death and Night wash the world clean; reconciliation, forgiveness and the brotherhood of the dead.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[Night]]
+**Motifs:** [[Death]], [[Night]]
 **Themes & Concepts:** [[Reconciliation]], [[Grief and Loss]], [[Mercy]], [[War and its Cost]], [[Divine Love]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!175_Reconciliation
+
+  Word over all, beautiful as the sky,
+  Beautiful that war and all its deeds of carnage must in time be
+      utterly lost,
+  That the hands of the sisters Death and Night incessantly softly
+      wash again, and ever again, this solid world;
+  For my enemy is dead, a man divine as myself is dead,
+  I look where he lies white-faced and still in the coffin--I draw near,
+  Bend down and touch lightly with my lips the white face in the coffin.

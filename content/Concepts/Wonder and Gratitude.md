@@ -1,7 +1,7 @@
 ---
 title: Wonder and Gratitude
 type: concept
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 tags:
   - graph/concept
 ---

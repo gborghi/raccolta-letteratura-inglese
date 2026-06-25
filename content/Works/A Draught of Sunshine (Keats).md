@@ -2,7 +2,7 @@
 title: A Draught of Sunshine
 author: Keats
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Sun · Light and Dark · Fire
 source: Authors/Keats/_raw/077_A_Draught_of_Sunshine.md
 tags:
   - graph/work
@@ -19,21 +19,63 @@ tags:
 
 # A Draught of Sunshine
 
-*by Keats*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Keats*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
 > A bacchic lyric scorning earthly wine for a draught of sunshine and Apollo's inspiration, soaring into an awful poetic ecstasy; wine, inspiration, the god of song and the dread of madness.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Motifs:** [[Wine and Drink]], [[Sun]], [[Birds]]
 **Themes & Concepts:** [[Imagination]], [[Madness]]
 **Forms & Genres:** [[Lyric]]
 **Characters:** [[Apollo]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Hence Burgundy, Claret, and Port,
+Away with old Hock and Madeira,
+Too earthly ye are for my sport;
+There’s a beverage brighter and clearer.
+Instead of a pitiful rummer,
+My wine overbrims a whole summer;
+My bowl is the sky,
+And I drink at my eye,
+Till I feel in the brain
+A Delphian pain -
+10
+Then follow, my Caius! then follow:
+On the green of the hill
+We will drink our fill
+Of golden sunshine,
+Till our brains intertwine
+With the glory and grace of Apollo!
+God of the meridian,
+And of the east and west,
+To thee my soul is flown,
+And my body is earthward press’d. -
+20
+It is an awful mission,
+A terrible division;
+And leaves a gulf austere
+To be fill’d with worldly fear.
+Aye, when the soul is fled
+To high above our head,
+Affrighted do we gaze
+After its airy maze,
+As doth a mother wild,
+When her young infant child
+30
+Is in an eagle’s claws -
+And is not this the cause
+Of madness? - God of Song,
+Thou bearest me along
+Through sights I scarce can bear:
+O let me, let me share
+With the hot lyre and thee.
 
-!077_A_Draught_of_Sunshine
+The staid Philosophy.
+Temper my lonely hours,
+And let me see thy bowers
+More unalarm’d!

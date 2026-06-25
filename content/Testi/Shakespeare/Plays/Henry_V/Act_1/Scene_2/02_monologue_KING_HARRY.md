@@ -1,0 +1,42 @@
+---
+title: "Henry V — Act I, Scene 2 — monologue (KING HARRY) [2]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/HENRY-V-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Henry V — Act I, Scene 2 — monologue (KING HARRY) [2]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
+</nav>
+
+
+KING HARRY Sure we thank you.
+My learnèd lord, we pray you to proceed,
+And justly and religiously unfold
+Why the law Salic that they have in France
+Or should or should not bar us in our claim.
+And God forbid, my dear and faithful lord,
+That you should fashion, wrest, or bow your reading,
+Or nicely charge your understanding soul
+With opening titles miscreate, whose right
+Suits not in native colours with the truth;
+For God doth know how many now in health
+Shall drop their blood in approbation
+Of what your reverence shall incite us to.
+Therefore take heed how you impawn our person,
+How you awake our sleeping sword of war;
+We charge you in the name of God take heed.
+For never two such kingdoms did contend
+Without much fall of blood, whose guiltless drops
+Are every one a woe, a sore complaint
+’Gainst him whose wrongs gives edge unto the swords
+That makes such waste in brief mortality.
+Under this conjuration speak, my lord,
+For we will hear, note, and believe in heart
+That what you speak is in your conscience washed
+As pure as sin with baptism.

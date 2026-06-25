@@ -1,7 +1,7 @@
 ---
 title: Regency/Georgian England
 type: histref
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/histref
 ---

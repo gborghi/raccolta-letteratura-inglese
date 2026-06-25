@@ -1,7 +1,7 @@
 ---
 title: Don Quixote
 type: character
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Satire of Society · Epigram · Satire
 tags:
   - graph/character
 ---

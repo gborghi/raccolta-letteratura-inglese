@@ -2,7 +2,7 @@
 title: Dream-Land
 author: Poe
 type: work
-cluster: The Journey · The Quest · The Pilgrim
+cluster: Night Journey / Vision · Katabasis / Descent · Quest Hero
 source: Authors/Poe/_raw/Dream-Land.md
 tags:
   - graph/work
@@ -29,7 +29,7 @@ tags:
 
 # Dream-Land
 
-*by Poe*  ·  **Cluster:** [[The Journey · The Quest · The Pilgrim]]
+*by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 
 > A visionary lyric describing a journey to a weird, melancholy realm ruled by an Eidolon named Night, out of Space and Time; explores dream, death, memory, and a haunted otherworld of grief.
@@ -37,14 +37,73 @@ tags:
 ## Connections
 
 **Topoi:** [[Night Journey Vision]], [[Katabasis Descent]]
-**Archetypes:** [[The Outsider]], [[Ghost]]
-**Motifs:** [[Dreams]], [[Night]], [[Ghosts]], [[Memory (2)]], [[Water]], [[The Journey]], [[The Supernatural (2)]]
-**Themes & Concepts:** [[Melancholy]], [[Grief and Loss]], [[Mortality]], [[Memory and Time]], [[The Sublime]]
+**Archetypes:** [[Outsider]], [[Ghost]]
+**Motifs:** [[Dreams]], [[Night]], [[Ghosts]], [[Memory]], [[Water]], [[Journey]], [[Supernatural]]
+**Themes & Concepts:** [[Melancholy]], [[Grief and Loss]], [[Mortality]], [[Memory and Time]], [[Sublime]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[The Underworld Cave]]
+**Settings:** [[Underworld Cave]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+By a route obscure and lonely,
+         Haunted by ill angels only,
+         Where an Eidolon, named NIGHT,
+         On a black throne reigns upright,
+         I have reached these lands but newly
+         From an ultimate dim Thule—
+         From a wild weird clime that lieth, sublime,
+               Out of SPACE—out of TIME.
 
-!Dream-Land
+         Bottomless vales and boundless floods,
+         And chasms, and caves, and Titan woods,
+         With forms that no man can discover
+         For the dews that drip all over;
+         Mountains toppling evermore
+         Into seas without a shore;
+         Seas that restlessly aspire,
+         Surging, unto skies of fire;
+         Lakes that endlessly outspread
+         Their lone waters—lone and dead,—
+         Their still waters—still and chilly
+         With the snows of the lolling lily.
+         By the lakes that thus outspread
+         Their lone waters, lone and dead,—
+         Their sad waters, sad and chilly
+         With the snows of the lolling lily,—
+
+         By the mountains—near the river
+         Murmuring lowly, murmuring ever,—
+         By the grey woods,—by the swamp
+         Where the toad and the newt encamp,—
+         By the dismal tarns and pools
+                 Where dwell the Ghouls,—
+         By each spot the most unholy—
+         In each nook most melancholy,—
+         There the traveller meets aghast
+         Sheeted Memories of the Past—
+         Shrouded forms that start and sigh
+         As they pass the wanderer by—
+         White-robed forms of friends long given,
+         In agony, to the Earth—and Heaven.
+
+         For the heart whose woes are legion
+         ’Tis a peaceful, soothing region—
+         For the spirit that walks in shadow
+         ’Tis—oh ’tis an Eldorado!
+         But the traveller, travelling through it,
+         May not—dare not openly view it;
+         Never its mysteries are exposed
+         To the weak human eye unclosed;
+         So wills its King, who hath forbid
+         The uplifting of the fringèd lid;
+         And thus the sad Soul that here passes
+         Beholds it but through darkened glasses.
+
+         By a route obscure and lonely,
+         Haunted by ill angels only,
+         Where an Eidolon, named NIGHT,
+         On a black throne reigns upright,
+         I have wandered home but newly
+         From this ultimate dim Thule.
+
+      1844.

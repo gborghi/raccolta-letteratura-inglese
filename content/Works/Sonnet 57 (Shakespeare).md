@@ -2,7 +2,7 @@
 title: Sonnet 57
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_057.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 57
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The poet as abject slave watching the clock for the beloved; jealous thought suppressed in love's foolish devotion.
@@ -26,13 +26,26 @@ tags:
 ## Connections
 
 **Topoi:** [[Love as Religion]]
-**Archetypes:** [[The Lover]]
-**Motifs:** [[The Clock]]
+**Archetypes:** [[Lover]]
+**Motifs:** [[Clock]]
 **Themes & Concepts:** [[Jealousy]], [[Unrequited Frustrated Love]], [[Grief and Loss]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Being your slave, what should I do but tend 
+Upon the hours and times of your desire? 
+I have no precious time at all to spend, 
+Nor services to do, till you require; 
+Nor dare I chide the world-without-end hour 
+Whilst I, my sovereign, watch the clock for you, 
+Nor think the bitterness of absence sour 
+When you have bid your servant once adieu. 
+Nor dare I question with my jealous thought 
+Where you may be, or your affairs suppose, 
+But like a sad slave stay and think of naught 
+Save, where you are, how happy you make those.
 
-!Sonnet_057
+So true a fool is love that in your will,
+
+Though you do anything, he thinks no ill.

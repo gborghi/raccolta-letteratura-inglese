@@ -2,7 +2,7 @@
 title: ON FIRST LOOKING INTO CHAPMAN’S HOMER
 author: Keats
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Keats/_raw/022_ON_FIRST_LOOKING_INTO_CHAPMANS_HOMER.md
 tags:
   - graph/work
@@ -17,20 +17,31 @@ tags:
 
 # ON FIRST LOOKING INTO CHAPMAN’S HOMER
 
-*by Keats*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Keats*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > Petrarchan sonnet figuring the discovery of Homer through Chapman as an astronomer's or explorer's awe; the sublime of reading, wonder and literary discovery.
 
 ## Connections
 
-**Motifs:** [[The Book Reading]], [[Stars]]
-**Themes & Concepts:** [[The Sublime]], [[Wonder and Gratitude]]
+**Motifs:** [[Book Reading]], [[Stars]]
+**Themes & Concepts:** [[Sublime]], [[Wonder and Gratitude]]
 **Forms & Genres:** [[Petrarchan Sonnet]]
 **Historical References:** [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!022_ON_FIRST_LOOKING_INTO_CHAPMANS_HOMER
+Much have I traveled in the realms of gold,
+  And many goodly states and kingdoms seen;
+  Round many western islands have I been
+Which bards in fealty to Apollo hold.
+Oft of one wide expanse had I been told
+  That deep-brow’d Homer ruled as his demesne;
+  Yet did I never breathe its pure serene
+Till I heard Chapman speak out loud and bold:
+Then felt I like some watcher of the skies
+  When a new planet swims into his ken;
+Or like stout Cortez when with eagle eyes
+  He star’d at the Pacific — and all his men
+Look’d at each other with a wild surmise —
+  Silent, upon a peak in Darien.

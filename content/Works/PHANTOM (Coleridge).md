@@ -2,7 +2,7 @@
 title: PHANTOM
 author: Coleridge
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Dreams · Moon
 source: Authors/Coleridge/_raw/223_PHANTOM.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # PHANTOM
 
-*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Coleridge*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
 > Dream-vision fragment of a face from which all earthly accident has passed, the pure spirit shining visibly through the body. Themes of soul, idealized beloved and the visionary.
@@ -28,8 +28,14 @@ tags:
 **Themes & Concepts:** [[Self-Knowledge]], [[Romantic Love]], [[Imagination]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!223_PHANTOM
+All look and likeness caught from earth,
+All accident of kin and birth,
+Had pass’d away. There was no trace
+Of aught on that illumined face,
+Uprais’d beneath the rifted stone   5
+But of one spirit all her own; —
+She, she herself, and only she,
+Shone through her body visibly.
+1805.

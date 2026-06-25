@@ -1,7 +1,7 @@
 ---
 title: Money and Gold
 type: motif
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Money and Gold · Poverty · Imprisonment
 tags:
   - graph/motif
 ---

@@ -1,0 +1,17 @@
+---
+title: Emma Haredale
+type: character
+cluster: Order vs Chaos · Historical Novel · Fanaticism
+tags:
+  - graph/character
+---
+
+# Emma Haredale
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Emma-Haredale"></div>
+
+#graph/character

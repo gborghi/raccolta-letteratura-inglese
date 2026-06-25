@@ -2,7 +2,7 @@
 title: This Dust Was Once the Man
 author: Whitman
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Whitman/_raw/188_This_Dust_Was_Once_the_Man.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # This Dust Was Once the Man
 
-*by Whitman*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Epitaph-quatrain for Lincoln, the gentle resolute man who saved the Union against the foulest crime in history; mortality, dust, and martyrdom.
@@ -27,14 +27,18 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Archetypes:** [[The Martyr Saint]]
+**Archetypes:** [[Martyr Saint]]
 **Motifs:** [[Dust]]
 **Themes & Concepts:** [[Mortality]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Epigram]], [[Elegy]]
 **Characters:** [[Abraham Lincoln]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: MEMORIES OF PRESIDENT LINCOLN_
 
-!188_This_Dust_Was_Once_the_Man
+
+  This dust was once the man,
+  Gentle, plain, just and resolute, under whose cautious hand,
+  Against the foulest crime in history known in any land or age,
+  Was saved the Union of these States.

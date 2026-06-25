@@ -1,0 +1,206 @@
+---
+title: "Jane Eyre — Chapter 15 (part 4)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Jane-Eyre-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Jane Eyre — Chapter 15 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_15/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_16/part_01">part 01 ›</a></div>
+</nav>
+
+
+Something gurgled and moaned. Ere long, steps retreated up the gallery
+towards the third-storey staircase: a door had lately been made to shut
+in that staircase; I heard it open and close, and all was still.
+
+“Was that Grace Poole? and is she possessed with a devil?” thought I.
+Impossible now to remain longer by myself: I must go to Mrs. Fairfax. I
+hurried on my frock and a shawl; I withdrew the bolt and opened the
+door with a trembling hand. There was a candle burning just outside,
+and on the matting in the gallery. I was surprised at this
+circumstance: but still more was I amazed to perceive the air quite
+dim, as if filled with smoke; and, while looking to the right hand and
+left, to find whence these blue wreaths issued, I became further aware
+of a strong smell of burning.
+
+Something creaked: it was a door ajar; and that door was Mr.
+Rochester’s, and the smoke rushed in a cloud from thence. I thought no
+more of Mrs. Fairfax; I thought no more of Grace Poole, or the laugh:
+in an instant, I was within the chamber. Tongues of flame darted round
+the bed: the curtains were on fire. In the midst of blaze and vapour,
+Mr. Rochester lay stretched motionless, in deep sleep.
+
+“Wake! wake!” I cried. I shook him, but he only murmured and turned:
+the smoke had stupefied him. Not a moment could be lost: the very
+sheets were kindling, I rushed to his basin and ewer; fortunately, one
+was wide and the other deep, and both were filled with water. I heaved
+them up, deluged the bed and its occupant, flew back to my own room,
+brought my own water-jug, baptized the couch afresh, and, by God’s aid,
+succeeded in extinguishing the flames which were devouring it.
+
+The hiss of the quenched element, the breakage of a pitcher which I
+flung from my hand when I had emptied it, and, above all, the splash of
+the shower-bath I had liberally bestowed, roused Mr. Rochester at last.
+Though it was now dark, I knew he was awake; because I heard him
+fulminating strange anathemas at finding himself lying in a pool of
+water.
+
+“Is there a flood?” he cried.
+
+“No, sir,” I answered; “but there has been a fire: get up, do; you are
+quenched now; I will fetch you a candle.”
+
+“In the name of all the elves in Christendom, is that Jane Eyre?” he
+demanded. “What have you done with me, witch, sorceress? Who is in the
+room besides you? Have you plotted to drown me?”
+
+“I will fetch you a candle, sir; and, in Heaven’s name, get up.
+Somebody has plotted something: you cannot too soon find out who and
+what it is.”
+
+“There! I am up now; but at your peril you fetch a candle yet: wait two
+minutes till I get into some dry garments, if any dry there be—yes,
+here is my dressing-gown. Now run!”
+
+I did run; I brought the candle which still remained in the gallery. He
+took it from my hand, held it up, and surveyed the bed, all blackened
+and scorched, the sheets drenched, the carpet round swimming in water.
+
+“What is it? and who did it?” he asked.
+
+I briefly related to him what had transpired: the strange laugh I had
+heard in the gallery: the step ascending to the third storey; the
+smoke,—the smell of fire which had conducted me to his room; in what
+state I had found matters there, and how I had deluged him with all the
+water I could lay hands on.
+
+
+“What is it and who did it?” he asked
+
+He listened very gravely; his face, as I went on, expressed more
+concern than astonishment; he did not immediately speak when I had
+concluded.
+
+“Shall I call Mrs. Fairfax?” I asked.
+
+“Mrs. Fairfax? No; what the deuce would you call her for? What can she
+do? Let her sleep unmolested.”
+
+“Then I will fetch Leah, and wake John and his wife.”
+
+“Not at all: just be still. You have a shawl on. If you are not warm
+enough, you may take my cloak yonder; wrap it about you, and sit down
+in the arm-chair: there,—I will put it on. Now place your feet on the
+stool, to keep them out of the wet. I am going to leave you a few
+minutes. I shall take the candle. Remain where you are till I return;
+be as still as a mouse. I must pay a visit to the second storey. Don’t
+move, remember, or call any one.”
+
+He went: I watched the light withdraw. He passed up the gallery very
+softly, unclosed the staircase door with as little noise as possible,
+shut it after him, and the last ray vanished. I was left in total
+darkness. I listened for some noise, but heard nothing. A very long
+time elapsed. I grew weary: it was cold, in spite of the cloak; and
+then I did not see the use of staying, as I was not to rouse the house.
+I was on the point of risking Mr. Rochester’s displeasure by disobeying
+his orders, when the light once more gleamed dimly on the gallery wall,
+and I heard his unshod feet tread the matting. “I hope it is he,”
+thought I, “and not something worse.”
+
+He re-entered, pale and very gloomy. “I have found it all out,” said
+he, setting his candle down on the washstand; “it is as I thought.”
+
+“How, sir?”
+
+He made no reply, but stood with his arms folded, looking on the
+ground. At the end of a few minutes he inquired in rather a peculiar
+tone—
+
+“I forget whether you said you saw anything when you opened your
+chamber door.”
+
+“No, sir, only the candlestick on the ground.”
+
+“But you heard an odd laugh? You have heard that laugh before, I should
+think, or something like it?”
+
+“Yes, sir: there is a woman who sews here, called Grace Poole,—she
+laughs in that way. She is a singular person.”
+
+“Just so. Grace Poole—you have guessed it. She is, as you say,
+singular—very. Well, I shall reflect on the subject. Meantime, I am
+glad that you are the only person, besides myself, acquainted with the
+precise details of to-night’s incident. You are no talking fool: say
+nothing about it. I will account for this state of affairs” (pointing
+to the bed): “and now return to your own room. I shall do very well on
+the sofa in the library for the rest of the night. It is near four:—in
+two hours the servants will be up.”
+
+“Good-night, then, sir,” said I, departing.
+
+He seemed surprised—very inconsistently so, as he had just told me to
+go.
+
+“What!” he exclaimed, “are you quitting me already, and in that way?”
+
+“You said I might go, sir.”
+
+“But not without taking leave; not without a word or two of
+acknowledgment and good-will: not, in short, in that brief, dry
+fashion. Why, you have saved my life!—snatched me from a horrible and
+excruciating death! and you walk past me as if we were mutual
+strangers! At least shake hands.”
+
+He held out his hand; I gave him mine: he took it first in one, then in
+both his own.
+
+“You have saved my life: I have a pleasure in owing you so immense a
+debt. I cannot say more. Nothing else that has being would have been
+tolerable to me in the character of creditor for such an obligation:
+but you: it is different;—I feel your benefits no burden, Jane.”
+
+He paused; gazed at me: words almost visible trembled on his lips,—but
+his voice was checked.
+
+“Good-night again, sir. There is no debt, benefit, burden, obligation,
+in the case.”
+
+“I knew,” he continued, “you would do me good in some way, at some
+time;—I saw it in your eyes when I first beheld you: their expression
+and smile did not”—(again he stopped)—“did not” (he proceeded hastily)
+“strike delight to my very inmost heart so for nothing. People talk of
+natural sympathies; I have heard of good genii: there are grains of
+truth in the wildest fable. My cherished preserver, good-night!”
+
+Strange energy was in his voice, strange fire in his look.
+
+“I am glad I happened to be awake,” I said: and then I was going.
+
+“What! you _will_ go?”
+
+“I am cold, sir.”
+
+“Cold? Yes,—and standing in a pool! Go, then, Jane; go!” But he still
+retained my hand, and I could not free it. I bethought myself of an
+expedient.
+
+“I think I hear Mrs. Fairfax move, sir,” said I.
+
+“Well, leave me:” he relaxed his fingers, and I was gone.
+
+I regained my couch, but never thought of sleep. Till morning dawned I
+was tossed on a buoyant but unquiet sea, where billows of trouble
+rolled under surges of joy. I thought sometimes I saw beyond its wild
+waters a shore, sweet as the hills of Beulah; and now and then a
+freshening gale, wakened by hope, bore my spirit triumphantly towards
+the bourne: but I could not reach it, even in fancy—a counteracting
+breeze blew off land, and continually drove me back. Sense would resist
+delirium: judgment would warn passion. Too feverish to rest, I rose as
+soon as day dawned.

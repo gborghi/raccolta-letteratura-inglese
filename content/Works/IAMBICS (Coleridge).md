@@ -2,7 +2,7 @@
 title: IAMBICS
 author: Coleridge
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Imagination · Fragment · Heroic Couplet
 source: Authors/Coleridge/_raw/403_IAMBICS.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # IAMBICS
 
-*by Coleridge*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
 > An iambic metrical experiment promising new heat and light from a praised object; a prosodic study in praise-verse with light imagery.
@@ -27,8 +27,12 @@ tags:
 **Motifs:** [[Light and Dark]], [[Fire]]
 **Forms & Genres:** [[Fragment]], [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!403_IAMBICS
+No cold shall thee benumb,
+Nor darkness stain thy sight;
+To thee new Heat, new Light
+Shall from this object come,
+Whose Praises if thou now wilt sound aright,
+My Pen shall give thee leave hereafter to be dumb.
+1801. Now first published from an MS.

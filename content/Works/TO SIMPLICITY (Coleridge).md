@@ -2,7 +2,7 @@
 title: TO SIMPLICITY
 author: Coleridge
 type: work
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/139_TO_SIMPLICITY.md
 tags:
   - graph/work
@@ -16,18 +16,33 @@ tags:
 
 # TO SIMPLICITY
 
-*by Coleridge*  ·  **Cluster:** [[Parody · Heroic Couplet · Mock Epic]]
+*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A parodic sonnet satirising the cult of affected 'simplicity' and self-pitying melancholy in contemporary poetry; a satire of poetic fashion in sonnet form.
 
 ## Connections
 
-**Themes & Concepts:** [[Satire of Society]], [[The Artist and Society (2)]], [[Melancholy]]
+**Themes & Concepts:** [[Satire of Society]], [[Artist and Society]], [[Melancholy]]
 **Forms & Genres:** [[Sonnet]], [[Parody]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!139_TO_SIMPLICITY
+O! I do
+love
+thee, meek
+Simplicity!
+For of thy lays the lulling simpleness
+Goes to my heart and soothes each small distress,
+Distress though small, yet haply great to me!
+‘Tis true on Lady Fortune’s gentlest pad   5
+I amble on; yet, though I know not why,
+So sad I am! — but should a friend and I
+Grow cool and miff, O! I am very sad!
+And then with sonnets and with sympathy
+My dreamy bosom’s mystic woes I pall;   10
+Now of my false friend plaining plaintively,
+Now raving at mankind in general;
+But, whether sad or fierce, ‘tis simple all,
+All very simple, meek Simplicity!
+III

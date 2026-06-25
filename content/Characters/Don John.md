@@ -1,0 +1,17 @@
+---
+title: Don John
+type: character
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
+tags:
+  - graph/character
+---
+
+# Don John
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Don-John"></div>
+
+#graph/character

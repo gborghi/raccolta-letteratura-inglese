@@ -1,0 +1,42 @@
+---
+title: "Macbeth — Act IV, Scene 3 — monologue (MALCOLM) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/MACBETH-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Macbeth — Act IV, Scene 3 — monologue (MALCOLM) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
+</nav>
+
+
+MALCOLM
+Macduff, this noble passion,
+Child of integrity, hath from my soul
+Wiped the black scruples, reconciled my thoughts
+To thy good truth and honour. Devilish Macbeth
+By many of these trains hath sought to win me
+Into his power, and modest wisdom plucks me
+From over-credulous haste; but God above
+Deal between thee and me, for even now
+I put myself to thy direction and
+Unspeak mine own detraction, here abjure
+The taints and blames I laid upon myself
+For strangers to my nature. I am yet
+Unknown to woman, never was forsworn,
+Scarcely have coveted what was mine own,
+At no time broke my faith, would not betray
+The devil to his fellow, and delight
+No less in truth than life. My first false-speaking
+Was this upon myself. What I am truly
+Is thine and my poor country’s to command,
+Whither indeed, before thy here-approach,
+Old Siward with ten thousand warlike men,
+Already at a point, was setting forth.
+Now we’ll together; and the chance of goodness
+Be like our warranted quarrel!—Why are you silent?

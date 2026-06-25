@@ -2,7 +2,7 @@
 title: ON AN INFANT WHICH DIED BEFORE BAPTISM
 author: Coleridge
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 source: Authors/Coleridge/_raw/172_ON_AN_INFANT_WHICH_DIED_BEFORE_BAPTISM.md
 tags:
   - graph/work
@@ -19,21 +19,25 @@ tags:
 
 # ON AN INFANT WHICH DIED BEFORE BAPTISM
 
-*by Coleridge*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Coleridge*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
 > An epigrammatic epitaph consoling that an unbaptized infant, dying at the mother's breast, is a 'Possessor, not Inheritor' of the kingdom of the Blest.
 
 ## Connections
 
-**Archetypes:** [[The Innocent]]
-**Motifs:** [[Death (2)]]
+**Archetypes:** [[Innocent]]
+**Motifs:** [[Death]]
 **Themes & Concepts:** [[Mortality]], [[Grace and Redemption]], [[Faith]]
 **Forms & Genres:** [[Epigram]], [[Elegy]]
-**Characters:** [[Death Personified (2)]]
+**Characters:** [[Death Personified]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!172_ON_AN_INFANT_WHICH_DIED_BEFORE_BAPTISM
+‘Be, rather than be called, a child of God,’
+Death whispered! With assenting nod,
+Its head upon its mother’s breast,
+The Baby bowed, without demur —
+Of the kingdom of the Blest
+Possessor, not Inheritor.
+April 8, 1799.

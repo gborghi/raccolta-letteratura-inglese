@@ -2,7 +2,7 @@
 title: Sonnet 28
 author: Shakespeare
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_028.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 28
 
-*by Shakespeare*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Continues the absence theme; day and night conspire to torture the sleepless lover with toil and grief far from the beloved.
@@ -30,8 +30,21 @@ tags:
 **Themes & Concepts:** [[Grief and Loss]], [[Alienation]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+How can I then return in happy plight, 
+That am debarred the benefit of rest, 
+When day’s oppression is not eased by night, 
+But day by night and night by day oppressed, 
+And each, though enemies to either’s reign, 
+Do in consent shake hands to torture me, 
+The one by toil, the other to complain 
+How far I toil, still farther off from thee? 
+I tell the day to please him thou art bright, 
+And do‘st him grace when clouds do blot the heaven; 
+So flatter I the swart-complexioned night 
+When sparkling stars twire not thou gild’st the even.
 
-!Sonnet_028
+But day doth daily draw my sorrows longer,
+
+And night doth nightly make grief’s strength seem stronger.

@@ -1,0 +1,17 @@
+---
+title: Porphyro
+type: character
+cluster: Dreams · Moon
+tags:
+  - graph/character
+---
+
+# Porphyro
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Porphyro"></div>
+
+#graph/character

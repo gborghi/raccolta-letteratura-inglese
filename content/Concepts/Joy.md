@@ -1,7 +1,7 @@
 ---
 title: Joy
 type: concept
-cluster: Joy · Animals · Riddle
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/concept
 ---

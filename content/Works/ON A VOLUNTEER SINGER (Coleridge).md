@@ -2,7 +2,7 @@
 title: ON A VOLUNTEER SINGER
 author: Coleridge
 type: work
-cluster: Satire of Society · Epigram · Satire
+cluster: Birds · Music and Song · Nightingale
 source: Authors/Coleridge/_raw/327_ON_A_VOLUNTEER_SINGER.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # ON A VOLUNTEER SINGER
 
-*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
+*by Coleridge*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
 > A two-line satirical epigram wishing certain bad singers would die before they sing, punning on the swan-song topos.
@@ -27,8 +27,9 @@ tags:
 **Themes & Concepts:** [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!327_ON_A_VOLUNTEER_SINGER
+Swans sing before they die—’twere no bad thing
+Should certain persons die before they sing.
+First published in An. Anth., 1800. Included in Keepsake, 1829, p.
+277; Essays, &c., 1850, ii. 988. First collected in 1834.

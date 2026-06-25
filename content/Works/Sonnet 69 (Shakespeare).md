@@ -2,7 +2,7 @@
 title: Sonnet 69
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_069.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Sonnet 69
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > The youth's outward beauty praised, but tongues impugn his mind; appearance versus the rank smell of his deeds.
@@ -28,8 +28,22 @@ tags:
 **Themes & Concepts:** [[Appearance vs Reality]], [[Beauty]], [[Deception]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Those parts of thee that the world’s eye doth view 
+Want nothing that the thought of hearts can mend. 
+All tongues, the voice of souls, give thee that due, 
+Utt’ring bare truth even so as foes commend. 
+Thy outward thus with outward praise is crowned, 
+But those same tongues that give thee so thine own 
+In other accents do this praise confound 
+By seeing farther than the eye hath shown. 
+They look into the beauty of thy mind, 
+And that in guess they measure by thy deeds. 
+Then, churls, their thoughts—although their eyes were 
+kind—
+To thy fair flower add the rank smell of weeds.
 
-!Sonnet_069
+But why thy odour matcheth not thy show,
+
+The soil is this: that thou dost common grow.

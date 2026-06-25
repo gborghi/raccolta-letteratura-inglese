@@ -1,7 +1,7 @@
 ---
 title: Providence
 type: concept
-cluster: Faith · The Bible · Providence
+cluster: Faith · Providence · Divine Love
 tags:
   - graph/concept
 ---

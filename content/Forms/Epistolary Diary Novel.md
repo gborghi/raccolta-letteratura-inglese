@@ -1,7 +1,7 @@
 ---
 title: Epistolary / Diary Novel
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Wine and Drink · Ballad / Ballade · Road
 tags:
   - graph/form
 ---

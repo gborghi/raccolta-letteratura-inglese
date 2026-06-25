@@ -2,7 +2,7 @@
 title: Sonnet 93
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_093.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
 
 # Sonnet 93
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > The deceived-husband sonnet: the beloved's sweet face may mask a false heart, likened to Eve's apple of fair appearance and hidden corruption.
@@ -29,13 +29,24 @@ tags:
 ## Connections
 
 **Topoi:** [[Fall from Innocence]]
-**Motifs:** [[Eyes and Sight]], [[The Garden]]
+**Motifs:** [[Eyes and Sight]], [[Garden]]
 **Themes & Concepts:** [[Appearance vs Reality]], [[Deception]], [[Jealousy]], [[Sin and the Fall]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
-**Historical References:** [[The Bible]]
+**Historical References:** [[Bible]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_093
+So shall I live supposing thou art true 
+Like a deceived husband; so love’s face 
+May still seem love to me, though altered new—
+Thy looks with me, thy heart in other place. 
+For there can live no hatred in thine eye, 
+Therefore in that I cannot know thy change. 
+In many’s looks the false heart’s history 
+Is writ in moods and frowns and wrinkles strange; 
+But heaven in thy creation did decree 
+That in thy face sweet love should ever dwell; 
+Whate’er thy thoughts or thy heart’s workings be, 
+Thy looks should nothing thence but sweetness tell. 
+How like Eve’s apple doth thy beauty grow 
+If thy sweet virtue answer not thy show!

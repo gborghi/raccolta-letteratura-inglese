@@ -1,0 +1,143 @@
+---
+title: "The Mystery of Edwin Drood — Chapter 9 (part 4)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Mystery-of-Edwin-Drood-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Mystery of Edwin Drood — Chapter 9 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_10/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_10/part_05">part 05 ›</a></div>
+</nav>
+
+
+“I mean,” he explained, “that young ways were never my ways. I was the
+only offspring of parents far advanced in life, and I half believe I
+was born advanced in life myself. No personality is intended towards
+the name you will so soon change, when I remark that while the general
+growth of people seem to have come into existence, buds, I seem to have
+come into existence a chip. I was a chip—and a very dry one—when I
+first became aware of myself. Respecting the other certified copy, your
+wish shall be complied with. Respecting your inheritance, I think you
+know all. It is an annuity of two hundred and fifty pounds. The savings
+upon that annuity, and some other items to your credit, all duly
+carried to account, with vouchers, will place you in possession of a
+lump-sum of money, rather exceeding Seventeen Hundred Pounds. I am
+empowered to advance the cost of your preparations for your marriage
+out of that fund. All is told.”
+
+“Will you please tell me,” said Rosa, taking the paper with a prettily
+knitted brow, but not opening it: “whether I am right in what I am
+going to say? I can understand what you tell me, so very much better
+than what I read in law-writings. My poor papa and Eddy’s father made
+their agreement together, as very dear and firm and fast friends, in
+order that we, too, might be very dear and firm and fast friends after
+them?”
+
+“Just so.”
+
+“For the lasting good of both of us, and the lasting happiness of both
+of us?”
+
+“Just so.”
+
+“That we might be to one another even much more than they had been to
+one another?”
+
+“Just so.”
+
+“It was not bound upon Eddy, and it was not bound upon me, by any
+forfeit, in case—”
+
+“Don’t be agitated, my dear. In the case that it brings tears into your
+affectionate eyes even to picture to yourself—in the case of your not
+marrying one another—no, no forfeiture on either side. You would then
+have been my ward until you were of age. No worse would have befallen
+you. Bad enough perhaps!”
+
+“And Eddy?”
+
+“He would have come into his partnership derived from his father, and
+into its arrears to his credit (if any), on attaining his majority,
+just as now.”
+
+Rosa, with her perplexed face and knitted brow, bit the corner of her
+attested copy, as she sat with her head on one side, looking
+abstractedly on the floor, and smoothing it with her foot.
+
+“In short,” said Mr. Grewgious, “this betrothal is a wish, a sentiment,
+a friendly project, tenderly expressed on both sides. That it was
+strongly felt, and that there was a lively hope that it would prosper,
+there can be no doubt. When you were both children, you began to be
+accustomed to it, and it _has_ prospered. But circumstances alter
+cases; and I made this visit to-day, partly, indeed principally, to
+discharge myself of the duty of telling you, my dear, that two young
+people can only be betrothed in marriage (except as a matter of
+convenience, and therefore mockery and misery) of their own free will,
+their own attachment, and their own assurance (it may or it may not
+prove a mistaken one, but we must take our chance of that), that they
+are suited to each other, and will make each other happy. Is it to be
+supposed, for example, that if either of your fathers were living now,
+and had any mistrust on that subject, his mind would not be changed by
+the change of circumstances involved in the change of your years?
+Untenable, unreasonable, inconclusive, and preposterous!”
+
+Mr. Grewgious said all this, as if he were reading it aloud; or, still
+more, as if he were repeating a lesson. So expressionless of any
+approach to spontaneity were his face and manner.
+
+“I have now, my dear,” he added, blurring out “Will” with his pencil,
+“discharged myself of what is doubtless a formal duty in this case, but
+still a duty in such a case. Memorandum, ‘Wishes.’ My dear, is there
+any wish of yours that I can further?”
+
+Rosa shook her head, with an almost plaintive air of hesitation in want
+of help.
+
+“Is there any instruction that I can take from you with reference to
+your affairs?”
+
+“I—I should like to settle them with Eddy first, if you please,” said
+Rosa, plaiting the crease in her dress.
+
+“Surely, surely,” returned Mr. Grewgious. “You two should be of one
+mind in all things. Is the young gentleman expected shortly?”
+
+“He has gone away only this morning. He will be back at Christmas.”
+
+“Nothing could happen better. You will, on his return at Christmas,
+arrange all matters of detail with him; you will then communicate with
+me; and I will discharge myself (as a mere business acquaintance) of my
+business responsibilities towards the accomplished lady in the corner
+window. They will accrue at that season.” Blurring pencil once again.
+“Memorandum, ‘Leave.’ Yes. I will now, my dear, take my leave.”
+
+“Could I,” said Rosa, rising, as he jerked out of his chair in his
+ungainly way: “could I ask you, most kindly to come to me at Christmas,
+if I had anything particular to say to you?”
+
+“Why, certainly, certainly,” he rejoined; apparently—if such a word can
+be used of one who had no apparent lights or shadows about
+him—complimented by the question. “As a particularly Angular man, I do
+not fit smoothly into the social circle, and consequently I have no
+other engagement at Christmas-time than to partake, on the
+twenty-fifth, of a boiled turkey and celery sauce with a—with a
+particularly Angular clerk I have the good fortune to possess, whose
+father, being a Norfolk farmer, sends him up (the turkey up), as a
+present to me, from the neighbourhood of Norwich. I should be quite
+proud of your wishing to see me, my dear. As a professional Receiver of
+rents, so very few people _do_ wish to see me, that the novelty would
+be bracing.”
+
+For his ready acquiescence, the grateful Rosa put her hands upon his
+shoulders, stood on tiptoe, and instantly kissed him.
+
+“Lord bless me!” cried Mr. Grewgious. “Thank you, my dear! The honour
+is almost equal to the pleasure. Miss Twinkleton, madam, I have had a
+most satisfactory conversation with my ward, and I will now release you
+from the incumbrance of my presence.”

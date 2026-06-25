@@ -1,7 +1,7 @@
 ---
 title: Islam and the East
 type: histref
-cluster: Wine and Drink · Food and Feasting · The Inn / Tavern
+cluster: Wine and Drink · Ballad / Ballade · Road
 tags:
   - graph/histref
 ---

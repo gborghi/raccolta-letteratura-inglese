@@ -1,7 +1,7 @@
 ---
 title: Frost
 type: motif
-cluster: Death · Mortality · Immortality
+cluster: Death · Silence · Bells
 tags:
   - graph/motif
 ---

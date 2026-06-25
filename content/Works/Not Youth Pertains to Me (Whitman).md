@@ -2,7 +2,7 @@
 title: Not Youth Pertains to Me
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/170_Not_Youth_Pertains_to_Me.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Not Youth Pertains to Me
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > A self-portrait lyric: not youth, beauty or learning, but the nursing of dying soldiers and the making of these songs belong to the speaker; the poet as wartime nurse.
@@ -27,8 +27,18 @@ tags:
 **Themes & Concepts:** [[War and its Cost]], [[Comradeship]], [[Identity]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!170_Not_Youth_Pertains_to_Me
+
+  Not youth pertains to me,
+  Nor delicatesse, I cannot beguile the time with talk,
+  Awkward in the parlor, neither a dancer nor elegant,
+  In the learn’d coterie sitting constrain’d and still, for learning
+      inures not to me,
+  Beauty, knowledge, inure not to me--yet there are two or three things
+      inure to me,
+  I have nourish’d the wounded and sooth’d many a dying soldier,
+  And at intervals waiting or in the midst of camp,
+  Composed these songs.

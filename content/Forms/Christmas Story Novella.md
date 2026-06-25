@@ -1,7 +1,7 @@
 ---
 title: Christmas Story / Novella
 type: form
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Money and Gold · Poverty · Imprisonment
 tags:
   - graph/form
 ---

@@ -1,7 +1,7 @@
 ---
 title: Dance
 type: motif
-cluster: Night · Fire · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/motif
 ---

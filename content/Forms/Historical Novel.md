@@ -1,7 +1,7 @@
 ---
 title: Historical Novel
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Order vs Chaos · Historical Novel · Fanaticism
 tags:
   - graph/form
 ---

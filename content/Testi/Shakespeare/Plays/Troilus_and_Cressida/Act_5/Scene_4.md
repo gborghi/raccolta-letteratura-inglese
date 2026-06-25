@@ -1,0 +1,42 @@
+---
+title: "Troilus and Cressida — Act V, Scene 4"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/TROILUS-AND-CRESSIDA-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Troilus and Cressida — Act V, Scene 4
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_5/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_5/Scene_5">Scene 5 ›</a></div>
+</nav>
+
+
+Alarum. Enter Thersites ⌈in⌉ excursions
+THERSITES Now they are clapper-clawing one another. I’ll go look on. That dissembling abominable varlet Diomed has got that same scurvy doting foolish young knave’s sleeve of Troy there in his helm. I would fain see them meet, that that same young Trojan ass that loves the whore there might send that Greekish whoremasterly villain with the sleeve back to the dissembling luxurious drab of a sleeveless errand. O‘th’ t’other side, the policy of those crafty swearing rascals—that stale old mouse-eaten dry cheese Nestor and that same dog-fox Ulysses—is proved not worth a blackberry. They set me up in policy that mongrel cur Ajax against that dog of as bad a kind Achilles. And now is the cur Ajax prouder than the cur Achilles, and will not arm today—whereupon the Grecians began to proclaim barbarism, and policy grows into an ill opinion.
+Enter Diomedes, followed by Troilus
+Soft, here comes sleeve and t’other.
+TROILUS (to Diomedes)
+Fly not, for shouldst thou take the river Styx
+I would swim after.
+DIOMEDES Thou dost miscall retire.
+I do not fly, but advantageous care
+Withdrew me from the odds of multitude. Have at
+thee!
+They fight
+THERSITES Hold thy whore, Grecian! Now for thy whore, Trojan! Now the sleeve, now the sleeve!
+Exit Diomedes ⌈driving in⌉ Troilus
+Enter Hector ⌈behind⌉
+HECTOR
+What art thou, Greek? Art thou for Hector’s match?
+Art thou of blood and honour?
+THERSITES No, no, I am a rascal, a scurvy railing knave, a very filthy rogue.
+HECTOR I do believe thee: live.
+THERSITES God-a-mercy, that thou wilt believe me—
+⌈Exit Hector⌉
+but a plague break thy neck for frighting me. What’s become of the wenching rogues? I think they have swallowed one another. I would laugh at that miracle—yet in a sort lechery eats itself. I’ll seek them.
+Exit

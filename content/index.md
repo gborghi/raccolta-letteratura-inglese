@@ -17,7 +17,7 @@ title: English Literature — A Knowledge Graph
   <div class="hero-text">
     <p class="hero-kicker">A connected reading of the English canon</p>
     <h1 class="hero-title">English Literature</h1>
-    <p class="hero-lead">2,864 works by 13 authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
+    <p class="hero-lead">2,867 works by 13 authors, woven together through shared <em>topoi, archetypes, motifs, themes, forms, settings and characters</em>. Open a work to follow its connections; open a concept to see every work that shares it.</p>
     <p class="hero-actions">
       <a class="btn btn-primary" href="opere">Browse all works</a>
       <a class="btn" href="cerca">Search by theme</a>
@@ -33,7 +33,7 @@ Spin through the thirteen authors — each emblem opens that author's works.
 
 ## Thematic clusters
 
-The 62 clusters group works by the constellations of theme and form they share. Here are the twelve largest.
+The 96 clusters group works by the constellations of theme and form they share. Here are the twelve largest.
 
 <div class="radial-wheel" data-wheel="clusters" data-center="Clusters" data-center-sub="62 in all"></div>
 

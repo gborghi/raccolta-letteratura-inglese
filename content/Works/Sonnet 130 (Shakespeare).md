@@ -2,7 +2,7 @@
 title: Sonnet 130
 author: Shakespeare
 type: work
-cluster: The Rose
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_130.md
 tags:
   - graph/work
@@ -20,19 +20,30 @@ tags:
 
 # Sonnet 130
 
-*by Shakespeare*  ·  **Cluster:** [[The Rose]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > 'My mistress' eyes are nothing like the sun': anti-Petrarchan blazon mocking false compare; appearance vs reality and honest love.
 
 ## Connections
 
-**Motifs:** [[White and Red]], [[The Rose]], [[Sun]], [[Eyes and Sight]]
+**Motifs:** [[White and Red]], [[Rose]], [[Sun]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Appearance vs Reality]], [[Beauty]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_130
+My mistress’ eyes are nothing like the sun; 
+Coral is far more red than her lips’ red. 
+If snow be white, why then her breasts are dun; 
+If hairs be wires, black wires grow on her head. 
+I have seen roses damasked, red and white, 
+But no such roses see I in her cheeks; 
+And in some perfumes is there more delight 
+Than in the breath that from my mistress reeks. 
+I love to hear her speak, yet well I know 
+That music hath a far more pleasing sound. 
+I grant I never saw a goddess go: 
+My mistress when she walks treads on the ground. 
+And yet, by heaven, I think my love as rare 
+As any she belied with false compare.

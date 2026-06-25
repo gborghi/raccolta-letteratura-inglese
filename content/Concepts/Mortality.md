@@ -1,7 +1,7 @@
 ---
 title: Mortality
 type: concept
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/concept
 ---

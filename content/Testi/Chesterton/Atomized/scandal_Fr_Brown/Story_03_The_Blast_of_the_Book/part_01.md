@@ -1,0 +1,127 @@
+---
+title: "scandal Fr Brown — The Blast of the Book (part 1)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/scandal-Fr-Brown-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# scandal Fr Brown — The Blast of the Book (part 1)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_02_The_Quick_One/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_03_The_Blast_of_the_Book/part_02">part 02 ›</a></div>
+</nav>
+
+
+THREE: The Blast of the Book
+
+Professor Openshaw always lost his temper, with a loud bang, if anybody
+called him a Spiritualist; or a believer in Spiritualism. This, however,
+did not exhaust his explosive elements; for he also lost his temper if
+anybody called him a disbeliever in Spiritualism. It was his pride to
+have given his whole life to investigating Psychic Phenomena; it was
+also his pride never to have given a hint of whether he thought they
+were really psychic or merely phenomenal. He enjoyed nothing so much as
+to sit in a circle of devout Spiritualists and give devastating
+descriptions of how he had exposed medium after medium and detected
+fraud after fraud; for indeed he was a man of much detective talent and
+insight, when once he had fixed his eye on an object, and he always
+fixed his eye on a medium, as a highly suspicious object. There was a
+story of his having spotted the same Spiritualist mountebank under three
+different disguises: dressed as a woman, a white - bearded old man, and
+a Brahmin of a rich chocolate brown. These recitals made the true
+believers rather restless, as indeed they were intended to do; but they
+could hardly complain, for no Spiritualist denies the existence of
+fraudulent mediums; only the Professor's flowing narrative might well
+seem to indicate that all mediums were fraudulent.
+
+But woe to the simple - minded and innocent Materialist (and
+Materialists as a race are rather innocent and simple - minded) who,
+presuming on this narrative tendency, should advance the thesis that
+ghosts were against the laws of nature, or that such things were only
+old superstitions; or that it was all tosh, or, alternatively, bunk. Him
+would the Professor, suddenly reversing all his scientific batteries,
+sweep from the field with a cannonade of unquestionable cases and
+unexplained phenomena, of which the wretched rationalist had never heard
+in his life, giving all the dates and details, stating all the attempted
+and abandoned natural explanations; stating everything, indeed, except
+whether he, John Oliver Openshaw, did or did not believe in Spirits, and
+that neither Spiritualist nor Materialist could ever boast of finding
+out.
+
+Professor Openshaw, a lean figure with pale leonine hair and hypnotic
+blue eyes, stood exchanging a few words with Father Brown, who was a
+friend of his, on the steps outside the hotel where both had been
+breakfasting that morning and sleeping the night before. The Professor
+had come back rather late from one of this grand experiments, in general
+exasperation, and was still tingling with the fight that he always waged
+alone and against both sides.
+
+'Oh, I don't mind you,' he said laughing. 'You don't believe in it even
+if it's true. But all these people are perpetually asking me what I'm
+trying to prove. They don't seem to understand that I'm a man of
+science. A man of science isn't trying to prove anything. He's trying to
+find out what will prove itself.'
+
+'But he hasn't found out yet,' said Father Brown.
+
+'Well, I have some little notions of my own, that are not quite so
+negative as most people think,' answered the Professor, after an instant
+of frowning silence; 'anyhow, I've begun to fancy that if there is
+something to be found, they're looking for it along the wrong line. It's
+all too theatrical; it's showing off, all their shiny ectoplasm and
+trumpets and voices and the rest; all on the model of old melodramas and
+mouldy historical novels about the Family Ghost. If they'd go to history
+instead of historical novels, I'm beginning to think they'd really find
+something. But not Apparitions.'
+
+'After all,' said Father Brown, 'Apparitions are only Appearances. I
+suppose you'd say the Family Ghost is only keeping up appearances.'
+
+The Professor's gaze, which had commonly a fine abstracted character,
+suddenly fixed and focused itself as it did on a dubious medium. It had
+rather the air of a man screwing a strong magnifying - glass into his
+eye. Not that he thought the priest was in the least like a dubious
+medium; but he was startled into attention by his friend's thought
+following so closely on his own.
+
+'Appearances!' he muttered, 'crikey, but it's odd you should say that
+just now. The more I learn, the more I fancy they lose by merely looking
+for appearances. Now if they'd look a little into Disappearances - '
+
+'Yes,' said Father Brown, 'after all, the real fairy legends weren't so
+very much about the appearance of famous fairies; calling up Titania or
+exhibiting Oberon by moonlight. But there were no end of legends about
+people disappearing, because they were stolen by the fairies. Are you on
+the track of Kilmeny or Thomas the Rhymer?'
+
+'I'm on the track of ordinary modern people you've read of in the
+newspapers,' answered Openshaw. 'You may well stare; but that's my game
+just now; and I've been on it for a long time. Frankly, I think a lot of
+psychic appearances could be explained away. It's the disappearances I
+can't explain, unless they're psychic. These people in the newspaper who
+vanish and are never found - if you knew the details as I do ... and now
+only this morning I got confirmation; an extraordinary letter from an
+old missionary, quite a respectable old boy. He's coming to see me at my
+office this morning. Perhaps you'd lunch with me or something; and I'd
+tell the results - in confidence.'
+
+'Thanks; I will - unless,' said Father Brown modestly, 'the fairies have
+stolen me by then.'
+
+With that they parted and Openshaw walked round the corner to a small
+office he rented in the neighbourhood; chiefly for the publication of a
+small periodical, of psychical and psychological notes of the driest and
+most agnostic sort. He had only one clerk, who sat at a desk in the
+outer office, totting up figures and facts for the purposes of the
+printed report; and the Professor paused to ask if Mr Pringle had
+called. The clerk answered mechanically in the negative and went on
+mechanically adding up figures; and the Professor turned towards the
+inner room that was his study. 'Oh, by the way, Berridge,' he added,
+without turning round, 'if Mr Pringle comes, send him straight in to me.
+You needn't interrupt your work; I rather want those notes finished
+tonight if possible. You might leave them on my desk tomorrow, if I am
+late.'

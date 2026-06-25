@@ -1,7 +1,7 @@
 ---
 title: Winter
 type: motif
-cluster: Seasons · Winter · Spring
+cluster: Seasons · Winter · Autumn
 tags:
   - graph/motif
 ---

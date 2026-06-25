@@ -2,7 +2,7 @@
 title: 'Song: I had a dove and the sweet dove died'
 author: Keats
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Keats/_raw/118_Song_I_had_a_dove_and_the_sweet_dove_died.md
 tags:
   - graph/work
@@ -16,19 +16,27 @@ tags:
 
 # Song: I had a dove and the sweet dove died
 
-*by Keats*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Keats*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > A short song mourning a pet dove that died, perhaps of grieving over its tethered captivity. It treats grief, death, and birds, with a hint of love's confinement.
 
 ## Connections
 
-**Motifs:** [[Birds]], [[Death (2)]]
+**Motifs:** [[Birds]], [[Death]]
 **Themes & Concepts:** [[Grief and Loss]], [[Romantic Love]]
 **Forms & Genres:** [[Comic Verse Song]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!118_Song_I_had_a_dove_and_the_sweet_dove_died
+I had a dove and the sweet dove died;
+And I have thought it died of grieving:
+O, what could it grieve for? Its feet were tied,
+With a silken thread of my own hand’s weaving;
+Sweet little red feet! why should you die -
+Why should you leave me, sweet bird! why?
+You liv’d alone in the forest-tree,
+Why, pretty thing! would you not live with me?
+I kiss’d you oft and gave you white peas;
+Why not live sweetly, as in the green trees?
+10

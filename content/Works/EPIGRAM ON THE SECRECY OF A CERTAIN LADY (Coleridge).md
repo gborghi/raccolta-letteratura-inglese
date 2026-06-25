@@ -22,12 +22,15 @@ tags:
 
 ## Connections
 
-**Motifs:** [[The Grave]]
+**Motifs:** [[Grave]]
 **Themes & Concepts:** [[Satire of Society]], [[Appearance vs Reality]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!351_EPIGRAM_ON_THE_SECRECY_OF_A_CERTAIN_LADY
+‘She’s secret as the grave, allow!’
+‘I do; I cannot doubt it.
+But ‘tis a grave with tombstone on,
+That tells you all about it.’
+First published in The Courier, Jan. 3, 1814. Included in Essays,
+&c., iii. 986. Now collected for the first time.

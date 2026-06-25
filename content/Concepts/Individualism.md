@@ -1,7 +1,7 @@
 ---
 title: Individualism
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Self-Knowledge · Immortality · Self-Reliance
 tags:
   - graph/concept
 ---

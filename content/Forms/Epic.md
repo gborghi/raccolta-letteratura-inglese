@@ -1,7 +1,7 @@
 ---
 title: Epic
 type: form
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/form
 ---

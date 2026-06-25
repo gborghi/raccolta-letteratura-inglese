@@ -27,12 +27,34 @@ tags:
 ## Connections
 
 **Topoi:** [[Fall from Innocence]]
-**Motifs:** [[The Moon]], [[River]]
+**Motifs:** [[Moon]], [[River]]
 **Themes & Concepts:** [[Nostalgia]], [[Memory and Time]], [[Education]]
 **Forms & Genres:** [[Ode]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!031_ABSENCE_A_FAREWELL_ODE_ON_QUITTING_SCHOOL_FOR_JESUS_COLLEGE_CAMBRIDGE
+Where graced with many a classic spoil
+CAM rolls his reverend stream along,
+I haste to urge the learnéd toil
+That sternly chides my love-lorn song:
+Ah me! too mindful of the days   5
+Illumed by Passion’s orient rays,
+When Peace, and Cheerfulness and Health
+Enriched me with the best of wealth.
+Ah fair Delights! that o’er my soul
+On Memory’s wing, like shadows fly!    10
+Ah Flowers! which Joy from Eden stole
+While Innocence stood smiling by! —
+But cease, fond Heart! this bootless moan:
+Those Hours on rapid Pinions flown
+Shall yet return, by Absence crown’d,   15
+And scatter livelier roses round.
+The Sun who ne’er remits his fires
+On heedless eyes may pour the day:
+The Moon, that oft from Heaven retires,
+Endears her renovated ray.    20
+What though she leave the sky unblest
+To mourn awhile in murky vest?
+When she relumes her lovely light,
+We bless the Wanderer of the Night.
+1791.

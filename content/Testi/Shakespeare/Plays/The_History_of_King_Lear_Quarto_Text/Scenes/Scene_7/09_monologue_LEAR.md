@@ -1,0 +1,43 @@
+---
+title: "The History of King Lear (Quarto Text) — Scene 7 — monologue (LEAR) [9]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The History of King Lear (Quarto Text) — Scene 7 — monologue (LEAR) [9]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
+</nav>
+
+
+LEAR
+O, reason not the need! Our basest beggars
+Are in the poorest thing superfluous.
+Allow not nature more than nature needs,
+Man’s life is cheap as beast’s. Thou art a lady.
+If only to go warm were gorgeous,
+Why, nature needs not what thou, gorgeous, wearest,
+Which scarcely keeps thee warm. But for true need—
+You heavens, give me that patience, patience I need.
+You see me here, you gods, a poor old fellow,
+As full of grief as age, wretched in both.
+If it be you that stirs these daughters’ hearts
+Against their father, fool me not so much
+To bear it tamely. Touch me with noble anger.
+O, let not women’s weapons, water-drops,
+Stain my man’s cheeks! No, you unnatural hags,
+I will have such revenges on you both
+That all the world shall—I will do such things—
+What they are, yet I know not; but they shall be
+The terrors of the earth. You think I’ll weep.
+No, I’ll not weep.
+⌈Storm within⌉
+I have full cause of weeping, but this heart
+Shall break into a hundred thousand flaws
+Or ere I’ll weep.—O fool, I shall go mad!
+Exeunt Lear, Gloucester, Kent, ⌈Knight,⌉ and Fool

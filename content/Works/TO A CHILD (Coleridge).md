@@ -25,13 +25,19 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[The Child]]
+**Archetypes:** [[Child]]
 **Motifs:** [[Childhood]]
 **Themes & Concepts:** [[Maturation and Growth]], [[Joy]], [[Innocence and Experience]]
 **Forms & Genres:** [[Lyric]], [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!377_TO_A_CHILD
+Little Miss Fanny,
+So cubic and canny,
+With blue eyes and blue shoes —
+The Queen of the Blues!
+As darling a girl as there is in the world —
+If she’ll laugh, skip and jump,
+And not be Miss Glump!
+1834. First published in Athenæum, Jan. 28, 1888. First collected
+1893.

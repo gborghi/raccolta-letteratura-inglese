@@ -1,7 +1,7 @@
 ---
 title: Grief and Loss
 type: concept
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Grief and Loss · Elegy · Clothing and Costume
 tags:
   - graph/concept
 ---

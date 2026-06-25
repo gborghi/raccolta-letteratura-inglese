@@ -1,7 +1,7 @@
 ---
 title: Apocalypse and Millennium
 type: concept
-cluster: Faith · The Bible · Providence
+cluster: Bible · Sin and the Fall · Fall from Innocence
 tags:
   - graph/concept
 ---

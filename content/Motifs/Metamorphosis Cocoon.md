@@ -1,7 +1,7 @@
 ---
 title: Metamorphosis / Cocoon
 type: motif
-cluster: Death · Mortality · Immortality
+cluster: Self-Knowledge · Immortality · Self-Reliance
 tags:
   - graph/motif
 ---

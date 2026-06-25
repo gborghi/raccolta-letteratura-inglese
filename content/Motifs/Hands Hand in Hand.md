@@ -1,14 +1,14 @@
 ---
 title: Hands / Hand in Hand
 type: motif
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 tags:
   - graph/motif
 ---
 
 # Hands / Hand in Hand
 
-*Motif* — appears in **4** work(s).
+*Motif* — appears in **5** work(s).
 
 ## Works
 

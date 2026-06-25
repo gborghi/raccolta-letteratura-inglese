@@ -2,7 +2,7 @@
 title: As Toilsome I Wander’d Virginia’s Woods
 author: Whitman
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Whitman/_raw/159_As_Toilsome_I_Wander_d_Virginia_s_Woods.md
 tags:
   - graph/work
@@ -17,19 +17,35 @@ tags:
 
 # As Toilsome I Wander’d Virginia’s Woods
 
-*by Whitman*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > In autumn woods the speaker finds an unknown soldier's grave with a scrawled epitaph that haunts him for years; an elegy of remembrance and comradeship.
 
 ## Connections
 
-**Motifs:** [[The Grave]], [[Autumn]]
-**Themes & Concepts:** [[Comradeship]], [[Grief and Loss]], [[Memory]]
+**Motifs:** [[Grave]], [[Autumn]]
+**Themes & Concepts:** [[Comradeship]], [[Grief and Loss]], [[Memory (2)]]
 **Forms & Genres:** [[Elegy]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!159_As_Toilsome_I_Wander_d_Virginia_s_Woods
+
+  As toilsome I wander’d Virginia’s woods,
+  To the music of rustling leaves kick’d by my feet, (for ’twas autumn,)
+  I mark’d at the foot of a tree the grave of a soldier;
+  Mortally wounded he and buried on the retreat, (easily all could
+      understand,)
+  The halt of a mid-day hour, when up! no time to lose--yet this sign left,
+  On a tablet scrawl’d and nail’d on the tree by the grave,
+  Bold, cautious, true, and my loving comrade.
+
+  Long, long I muse, then on my way go wandering,
+  Many a changeful season to follow, and many a scene of life,
+  Yet at times through changeful season and scene, abrupt, alone, or
+      in the crowded street,
+  Comes before me the unknown soldier’s grave, comes the inscription
+      rude in Virginia’s woods,
+  Bold, cautious, true, and my loving comrade.

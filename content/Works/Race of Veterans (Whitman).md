@@ -2,7 +2,7 @@
 title: Race of Veterans
 author: Whitman
 type: work
-cluster: Heroism · Honour · Hero
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/171_Race_of_Veterans.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Race of Veterans
 
-*by Whitman*  ·  **Cluster:** [[Heroism · Honour · Hero]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > A brief acclamation of a hardened race of victors and veterans, owning no law but its own; war's forging of a new American people.
@@ -27,8 +27,13 @@ tags:
 **Themes & Concepts:** [[Heroism]], [[War and its Cost]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!171_Race_of_Veterans
+
+  Race of veterans--race of victors!
+  Race of the soil, ready for conflict--race of the conquering march!
+  (No more credulity’s race, abiding-temper’d race,)
+  Race henceforth owning no law but the law of itself,
+  Race of passion and the storm.

@@ -1,0 +1,129 @@
+---
+title: "Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [4]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/RICHARD-III-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Richard III — Act IV, Scene 4 — exchange (QUEEN ELIZABETH) [4]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
+</nav>
+
+
+QUEEN ELIZABETH (rising)
+O thou, well skilled in curses, stay a while,
+And teach me how to curse mine enemies.
+
+QUEEN MARGARET
+Forbear to sleep the nights, and fast the days;
+Compare dead happiness with living woe;
+Think that thy babes were sweeter than they were,
+And he that slew them fouler than he is.
+Bett’ring thy loss makes the bad causer worse.
+Revolving this will teach thee how to curse.
+
+QUEEN ELIZABETH
+My words are dull. O quicken them with thine!
+
+QUEEN MARGARET
+Thy woes will make them sharp and pierce like mine.
+Exit
+
+DUCHESS OF YORK
+Why should calamity be full of words?
+
+QUEEN ELIZABETH
+Windy attorneys to their client woes,
+Airy recorders of intestate joys,
+Poor breathing orators of miseries.
+Let them have scope. Though what they will impart
+Help nothing else, yet do they ease the heart.
+
+DUCHESS OF YORK
+If so, then be not tongue-tied; go with me,
+And in the breath of bitter words let’s smother
+My damned son, that thy two sweet sons smothered.
+A march within
+The trumpet sounds. Be copious in exclaims.
+Enter King Richard and his train marching with drummers and trumpeters⌉
+
+KING RICHARD
+Who intercepts me in my expedition?
+
+DUCHESS OF YORK
+O, she that might have intercepted thee,
+By strangling thee in her accursed womb,
+From all the slaughters, wretch, that thou hast done.
+
+QUEEN ELIZABETH
+Hid’st thou that forehead with a golden crown,
+Where should be branded—if that right were right—
+The slaughter of the prince that owed that crown,
+And the dire death of my poor sons and brothers?
+Tell me, thou villain-slave, where are my children?
+
+DUCHESS OF YORK
+Thou toad, thou toad, where is thy brother Clarence?
+And little Ned Plantagenet his son?
+
+QUEEN ELIZABETH
+Where is the gentle Rivers, Vaughan, Gray?
+
+DUCHESS OF YORK Where is kind Hastings?
+
+KING RICHARD (to his train)
+A flourish, trumpets! Strike alarum, drums!
+Let not the heavens hear these tell-tale women
+Rail on the Lord’s anointed. Strike, I say!
+Flourish. Alarums
+(To the women) Either be patient and entreat me fair,
+Or with the clamorous report of war
+Thus will I drown your exclamations.
+
+DUCHESS OF YORK Art thou my son?
+
+KING RICHARD
+Ay, I thank God, my father, and yourself.
+
+DUCHESS OF YORK
+Then patiently hear my impatience.
+
+KING RICHARD
+Madam, I have a touch of your condition,
+That cannot brook the accent of reproof.
+
+DUCHESS OF YORK
+O let me speak!
+
+KING RICHARD
+Do, then; but I’ll not hear.
+
+DUCHESS OF YORK
+I will be mild and gentle in my words.
+
+KING RICHARD
+And brief, good mother, for I am in haste.
+
+DUCHESS OF YORK
+Art thou so hasty? I have stayed for thee,
+God knows, in torment and in agony—
+
+KING RICHARD
+And came I not at last to comfort you?
+
+DUCHESS OF YORK
+No, by the Holy Rood, thou know‘st it well.
+Thou cam’st on earth to make the earth my hell.
+A grievous burden was thy birth to me;
+Tetchy and wayward was thy infancy;
+Thy schooldays frightful, desp’rate, wild, and furious;
+Thy prime of manhood daring, bold, and venturous;
+Thy age confirmed, proud, subtle, sly, and bloody;
+More mild, but yet more harmful; kind in hatred.
+What comfortable hour canst thou name
+That ever graced me in thy company?

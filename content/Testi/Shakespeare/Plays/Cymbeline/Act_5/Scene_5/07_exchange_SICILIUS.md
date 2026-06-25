@@ -1,0 +1,104 @@
+---
+title: "Cymbeline — Act V, Scene 5 — exchange (SICILIUS) [7]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/CYMBELINE-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Cymbeline — Act V, Scene 5 — exchange (SICILIUS) [7]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
+</nav>
+
+
+SICILIUS
+No more, thou thunder-master, show
+Thy spite on mortal flies.
+With Mars fall out, with Juno chide,
+That thy adulteries
+Rates and revenges.
+Hath my poor boy done aught but well,
+Whose face I never saw?
+I died whilst in the womb he stayed,
+Attending nature’s law,
+Whose father then-as men report
+Thou orphans’ father art-
+Thou shouldst have been, and shielded him
+From this earth-vexing smart.
+
+MOTHER
+Lucina lent not me her aid,
+But took me in my throes,
+That from me was Posthumus ripped,
+Came crying ’mongst his foes,
+A thing of pity.
+
+SICILIUS
+Great nature like his ancestry
+Moulded the stuff so fair
+That he deserved the praise o’th’ world
+As great Sicilius’ heir.
+
+FIRST BROTHER
+When once he was mature for man,
+In Britain where was he
+That could stand up his parallel,
+Or fruitful object be
+In eye of Innogen, that best
+Could deem his dignity?
+
+MOTHER
+With marriage wherefore was he mocked,
+To be exiled, and thrown
+From Leonati seat and cast
+From her his dearest one,
+Sweet Innogen?
+
+SICILIUS
+Why did you suffer Giacomo,
+Slight thing of Italy,
+To taint his nobler heart and brain
+With needless jealousy,
+And to become the geck and scorn
+O’th’ other’s villainy?
+
+SECOND BROTHER
+For this from stiller seats we come,
+Our parents and us twain,
+That striking in our country’s cause
+Fell bravely and were slain,
+Our fealty and Tenantius’ right
+With honour to maintain.
+
+FIRST BROTHER
+Like hardiment Posthumus hath
+To Cymbeline Performed.
+Then, Jupiter, thou king of gods,
+Why hast thou thus adjourned
+The graces for his merits due,
+Being all to dolours turned?
+
+SICILIUS
+Thy crystal window ope; look out;
+No longer exercise
+Upon a valiant race thy harsh
+And potent injuries.
+
+MOTHER
+Since, Jupiter, our son is good,
+Take off his miseries.
+
+SICILIUS
+Peep through thy marble mansion. Help,
+Or we poor ghosts will cry
+To th’ shining synod of the rest
+Against thy deity.
+
+BROTHERS
+Help, Jupiter, or we appeal,
+And from thy justice fly.
+Jupiter descends in thunder and lightning, sitting upon an eagle. He throws a thunderbolt. The ghosts fall on their knees

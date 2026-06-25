@@ -1,7 +1,7 @@
 ---
 title: Creativity and Artistic Labor
 type: concept
-cluster: Imagination · Creativity and Artistic Labor · The One Life (Pantheism)
+cluster: Imagination · Fragment · Heroic Couplet
 tags:
   - graph/concept
 ---

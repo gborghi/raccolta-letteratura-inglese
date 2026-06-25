@@ -1,7 +1,7 @@
 ---
 title: Tragedy
 type: form
-cluster: Power and Corruption · The Crown · Pride
+cluster: Blood · Verse Drama · Revenge
 tags:
   - graph/form
 ---

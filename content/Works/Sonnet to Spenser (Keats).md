@@ -2,7 +2,7 @@
 title: Sonnet to Spenser
 author: Keats
 type: work
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 source: Authors/Keats/_raw/047_Sonnet_to_Spenser.md
 tags:
   - graph/work
@@ -19,21 +19,32 @@ tags:
 
 # Sonnet to Spenser
 
-*by Keats*  ·  **Cluster:** [[Wonder and Gratitude · The Sublime · Sun]]
+*by Keats*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
 > A sonnet addressing Spenser, pleading the impossibility of matching his poetic fire and asking for time to ripen; the poetic vocation and inspiration.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility (3)]], [[The Book of Nature]]
+**Topoi:** [[Inexpressibility]], [[Book of Nature]]
 **Motifs:** [[Flowers]], [[Sun]]
-**Themes & Concepts:** [[Imagination]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Imagination]], [[Artist and Society]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[The Renaissance]]
+**Historical References:** [[Renaissance]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!047_Sonnet_to_Spenser
+Spenser! a jealous honourer of thine,
+A forester deep in thy midmost trees,
+Did last eve ask my promise to refine
+Some English that might strive thine ear to please.
+But Elfin Poet ’tis impossible
+For an inhabitant of wintry earth
+To rise like Phoebus with a golden quell
+Fire-wing’d and make a morning in his mirth.
+It is impossible to escape from toil
+O’ the sudden and receive thy spiriting:  10
+The flower must drink the nature of the soil
+Before it can put forth its blossoming:
+Be with me in the summer days and I
+Will for thine honour and his pleasure try.

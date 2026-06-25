@@ -1,0 +1,18 @@
+---
+title: "Timon of Athens — Act IV, Scene 3 — monologue (TIMON A) [10]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/TIMON-OF-ATHENS-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Timon of Athens — Act IV, Scene 3 — monologue (TIMON A) [10]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
+</nav>
+
+
+TIMON A beastly ambition, which the gods grant thee t‘attain to. If thou wert the lion, the fox would beguile thee. If thou wert the lamb, the fox would eat thee. If thou wert the fox, the lion would suspect thee when peradventure thou wert accused by the ass. If thou wert the ass, thy dullness would torment thee, and still thou lived’st but as a breakfast to the wolf. If thou wert the wolf, thy greediness would afflict thee, and oft thou shouldst hazard thy life for thy dinner. Wert thou the unicorn, pride and wrath would confound thee, and make thine own self the conquest of thy fury. Wert thou a bear, thou wouldst be killed by the horse. Wert thou a horse, thou wouldst be seized by the leopard. Wert thou a leopard, thou wert german to the lion, and the spots of thy kindred were jurors on thy life; all thy safety were remotion, and thy defence absence. What beast couldst thou be that were not subject to a beast? And what a beast art thou already, that seest not thy loss in transformation!

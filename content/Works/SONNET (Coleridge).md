@@ -2,7 +2,7 @@
 title: SONNET
 author: Coleridge
 type: work
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Coleridge/_raw/121_SONNET.md
 tags:
   - graph/work
@@ -17,19 +17,32 @@ tags:
 
 # SONNET
 
-*by Coleridge*  ·  **Cluster:** [[Grief and Loss · Melancholy · Elegy]]
+*by Coleridge*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > A sonnet distinguishing instinctive grief for a lover or child from the rarer reasoned grief a youth feels for an aged friend's death; themes of grief, friendship, virtue, and piety.
 
 ## Connections
 
-**Motifs:** [[Death (2)]], [[The Grave]]
+**Motifs:** [[Death]], [[Grave]]
 **Themes & Concepts:** [[Grief and Loss]], [[Friendship]], [[Faith]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!121_SONNET
+[TO CHARLES LLOYD]
+The piteous sobs that choke the Virgin’s breath
+For him, the fair betrothéd Youth, who lies
+Cold in the narrow dwelling, or the cries
+With which a Mother wails her darling’s death,
+These from our nature’s common impulse spring,   5
+Unblam’d, unprais’d; but o’er the piléd earth
+Which hides the sheeted corse of grey-hair’d Worth,
+If droops the soaring Youth with slacken’d wing;
+If he recall in saddest minstrelsy
+Each tenderness bestow’d, each truth imprest,   10
+Such grief is Reason, Virtue, Piety!
+And from the Almighty Father shall descend
+Comforts on his late evening, whose young breast
+Mourns with no transient love the Agéd Friend.
+1796.

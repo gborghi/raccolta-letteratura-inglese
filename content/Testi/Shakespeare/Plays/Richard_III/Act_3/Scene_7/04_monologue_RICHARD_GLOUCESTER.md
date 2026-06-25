@@ -1,0 +1,41 @@
+---
+title: "Richard III — Act III, Scene 7 — monologue (RICHARD GLOUCESTER) [4]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/RICHARD-III-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Richard III — Act III, Scene 7 — monologue (RICHARD GLOUCESTER) [4]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
+</nav>
+
+
+RICHARD GLOUCESTER
+I cannot tell if to depart in silence
+Or bitterly to speak in your reproof
+Best fitteth my degree or your condition.
+Your love deserves my thanks; but my desert,
+Unmeritable, shuns your high request.
+First, if all obstacles were cut away
+And that my path were even to the crown,
+As the ripe revenue and due of birth,
+Yet so much is my poverty of spirit,
+So mighty and so many my defects,
+That I would rather hide me from my greatness—
+Being a barque to brook no mighty sea—
+Than in my greatness covet to be hid,
+And in the vapour of my glory smothered.
+But God be thanked, there is no need of me,
+And much I need to help you, were there need.
+The royal tree hath left us royal fruit,
+Which, mellowed by the stealing hours of time,
+Will well become the seat of majesty
+And make, no doubt, us happy by his reign.
+On him I lay that you would lay on me,
+The right and fortune of his happy stars,
+Which God defend that I should wring from him.

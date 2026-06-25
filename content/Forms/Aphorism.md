@@ -1,7 +1,7 @@
 ---
 title: Aphorism
 type: form
-cluster: Paradox · Truth · Aphorism
+cluster: Paradox · Food and Feasting · Aphorism
 tags:
   - graph/form
 ---

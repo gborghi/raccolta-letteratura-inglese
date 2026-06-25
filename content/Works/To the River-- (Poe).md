@@ -2,7 +2,7 @@
 title: To the River--
 author: Poe
 type: work
-cluster: The Sea · Water · River
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Poe/_raw/To the River--.md
 tags:
   - graph/work
@@ -19,19 +19,32 @@ tags:
 
 # To the River--
 
-*by Poe*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A short love lyric making the clear river an emblem of the beloved's beauty and unhidden heart, her image deep in the speaker's trembling heart. Themes of love, beauty, water and reflection.
 
 ## Connections
 
-**Motifs:** [[River]], [[Water]], [[The Mirror]], [[Eyes and Sight]], [[Love]]
+**Motifs:** [[River]], [[Water]], [[Mirror]], [[Eyes and Sight]], [[Love]]
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Fair river! in thy bright, clear flow
+         Of crystal, wandering water,
+     Thou art an emblem of the glow
+             Of beauty—the unhidden heart—
+             The playful maziness of art
+     In old Alberto’s daughter;
+     But when within thy wave she looks—
+             Which glistens then, and trembles—
+     Why, then, the prettiest of brooks
+             Her worshipper resembles;
+     For in my heart, as in thy stream,
+         Her image deeply lies—
+     His heart which trembles at the beam
+         Of her soul-searching eyes.
 
-!To the River--
+      1829.

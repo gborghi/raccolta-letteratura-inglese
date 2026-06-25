@@ -1,7 +1,7 @@
 ---
 title: Lust / Sexual Desire
 type: concept
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 tags:
   - graph/concept
 ---

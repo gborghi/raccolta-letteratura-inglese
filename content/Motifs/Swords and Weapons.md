@@ -1,7 +1,7 @@
 ---
 title: Swords and Weapons
 type: motif
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/motif
 ---

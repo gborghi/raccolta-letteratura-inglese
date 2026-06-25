@@ -2,7 +2,7 @@
 title: Sonnet 66
 author: Shakespeare
 type: work
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: World Upside Down · Comedy
 source: Authors/Shakespeare/Sonnets/Sonnet_066.md
 tags:
   - graph/work
@@ -18,20 +18,33 @@ tags:
 
 # Sonnet 66
 
-*by Shakespeare*  ·  **Cluster:** [[Money and Gold · Marriage and Fidelity · Social Injustice]]
+*by Shakespeare*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 
 > Weary catalogue of social injustice and corruption; the poet cries for death but stays for love.
 
 ## Connections
 
-**Topoi:** [[The World Upside Down]]
-**Motifs:** [[Death (2)]]
+**Topoi:** [[World Upside Down]]
+**Motifs:** [[Death]]
 **Themes & Concepts:** [[Social Injustice]], [[Power and Corruption]], [[Disillusionment]], [[Melancholy]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Tired with all these, for restful death I cry: 
+As, to behold desert a beggar born, 
+And needy nothing trimmed in jollity, 
+And purest faith unhappily forsworn, 
+And gilded honour shamefully misplaced, 
+And maiden virtue rudely strumpeted, 
+And right perfection wrongfully disgraced, 
+And strength by limping sway disabled, 
+And art made tongue-tied by authority, 
+And folly, doctor-like, controlling skill, 
+And simple truth miscalled simplicity, 
+And captive good attending captain ill.
 
-!Sonnet_066
+Tired with all these, from these would I be gone,
+
+Save that to die I leave my love alone.

@@ -2,7 +2,7 @@
 title: Sonnet 90
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_090.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 90
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Begging the beloved to abandon him now, at fortune's worst, so all other griefs pale beside the loss of love.
@@ -30,8 +30,19 @@ tags:
 **Themes & Concepts:** [[Grief and Loss]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_090
+Then hate me when thou wilt, if ever, now, 
+Now while the world is bent my deeds to cross, 
+Join with the spite of fortune, make me bow, 
+And do not drop in for an after-loss. 
+Ah do not, when my heart hath scaped this sorrow, 
+Come in the rearward of a conquered woe; 
+Give not a windy night a rainy morrow 
+To linger out a purposed overthrow. 
+If thou wilt leave me, do not leave me last, 
+When other petty griefs have done their spite, 
+But in the onset come; so shall I taste 
+At first the very worst of fortune’s might, 
+And other strains of woe, which now seem woe, 
+Compared with loss of thee will not seem so.

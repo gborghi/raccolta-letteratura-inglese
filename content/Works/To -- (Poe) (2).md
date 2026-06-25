@@ -2,7 +2,7 @@
 title: To --
 author: Poe
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Dreams · Moon
 source: Authors/Poe/_raw/To --.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # To --
 
-*by Poe*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Poe*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
 > A short love lyric of dream-visions: the beloved's lips, melody and heart haunt the speaker's sleep, set against the worthlessness of gold. Themes of love, dreams and longing.
@@ -28,8 +28,22 @@ tags:
 **Themes & Concepts:** [[Romantic Love]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+1
+     The bowers whereat, in dreams, I see
+         The wantonest singing birds
+     Are lips—and all thy melody
+         Of lip-begotten words—
+                      2
+     Thine eyes, in Heaven of heart enshrin’d
+         Then desolately fall,
+     O! God! on my funereal mind
+         Like starlight on a pall—
+                       3
+     Thy heart—_thy_ heart!—I wake and sigh,
+         And sleep to dream till day
+     Of truth that gold can never buy—
+         Of the trifles that it may.
 
-!To --
+      1829.

@@ -2,7 +2,7 @@
 title: UNDERWOODS
 author: Coleridge
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Coleridge/_raw/424_UNDERWOODS.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # UNDERWOODS
 
-*by Coleridge*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Ben Jonson's 'The Hour-Glass': the dust in the glass is the burnt body of a dead lover, so that even lovers' ashes find no rest; a conceit on time, death and love.
@@ -27,12 +27,19 @@ tags:
 ## Connections
 
 **Topoi:** [[Tempus Fugit]], [[Memento Mori]]
-**Motifs:** [[The Clock]], [[Dust]], [[Fire]]
+**Motifs:** [[Clock]], [[Dust]], [[Fire]]
 **Themes & Concepts:** [[Mortality]], [[Romantic Love]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!424_UNDERWOODS
+No. VI. THE HOUR-GLASS.
+Consider this small dust, here in the glass
+By atoms moved:
+Could you believe that this the body was
+Of one that loved;
+And in his mistress’ flame playing like a fly,   5
+Was turned to cinders by her eye:
+Yes; and in death, as life unblest,
+To have ‘t exprest,
+Even ashes of lovers find no rest.

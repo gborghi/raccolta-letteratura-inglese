@@ -1,7 +1,7 @@
 ---
 title: Water
 type: motif
-cluster: The Sea · Water · River
+cluster: Sea · Water · Sea
 tags:
   - graph/motif
 ---

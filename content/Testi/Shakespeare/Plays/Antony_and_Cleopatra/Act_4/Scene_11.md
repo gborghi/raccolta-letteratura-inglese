@@ -1,0 +1,33 @@
+---
+title: "Antony and Cleopatra — Act IV, Scene 11"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Antony and Cleopatra — Act IV, Scene 11
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_4/Scene_10">‹ Scene 10</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_4/Scene_12">Scene 12 ›</a></div>
+</nav>
+
+
+Enter Antony and Scarus with their army
+ANTONY
+Their preparation is today by sea;
+We please them not by land.
+SCARUS
+For both, my lord.
+ANTONY
+I would they’d fight i‘th’ fire or i’th’ air;
+We’d fight there too. But this it is: our foot
+Upon the hills adjoining to the city
+Shall stay with us. Order for sea is given.
+They have put forth the haven—
+Where their appointment we may best discover,
+And look on their endeavour.
+Exeunt

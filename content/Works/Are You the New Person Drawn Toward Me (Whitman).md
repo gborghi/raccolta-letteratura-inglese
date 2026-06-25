@@ -2,7 +2,7 @@
 title: Are You the New Person Drawn Toward Me?
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/053_Are_You_the_New_Person_Drawn_Toward_Me.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Are You the New Person Drawn Toward Me?
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Interrogative warning to a would-be lover that the poet is not the ideal imagined; identity, illusion (maya), and the uncertainty of love and friendship.
@@ -26,8 +26,18 @@ tags:
 **Themes & Concepts:** [[Identity]], [[Romantic Love]], [[Friendship]], [[Appearance vs Reality]]
 **Historical References:** [[Eastern Religion Comparative Religion]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!053_Are_You_the_New_Person_Drawn_Toward_Me
+
+  Are you the new person drawn toward me?
+  To begin with take warning, I am surely far different from what you suppose;
+  Do you suppose you will find in me your ideal?
+  Do you think it so easy to have me become your lover?
+  Do you think the friendship of me would be unalloy’d satisfaction?
+  Do you think I am trusty and faithful?
+  Do you see no further than this facade, this smooth and tolerant
+      manner of me?
+  Do you suppose yourself advancing on real ground toward a real heroic man?
+  Have you no thought O dreamer that it may be all maya, illusion?

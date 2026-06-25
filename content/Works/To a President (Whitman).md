@@ -2,7 +2,7 @@
 title: To a President
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/122_To_a_President.md
 tags:
   - graph/work
@@ -17,18 +17,24 @@ tags:
 
 # To a President
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > A terse rebuke to a president who has not learned the amplitude and impartiality of Nature; free-verse political epigram on the natural order, nation and reform.
 
 ## Connections
 
-**Themes & Concepts:** [[The Natural Order]], [[Reform]], [[Democracy]], [[Power and Corruption]]
+**Themes & Concepts:** [[Natural Order]], [[Reform]], [[Democracy]], [[Power and Corruption]]
 **Forms & Genres:** [[Free Verse]], [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: BY THE ROADSIDE_
 
-!122_To_a_President
+
+  All you are doing and saying is to America dangled mirages,
+  You have not learn’d of Nature--of the politics of Nature you have
+      not learn’d the great amplitude, rectitude, impartiality,
+  You have not seen that only such as they are for these States,
+  And that what is less than they must sooner or later lift off from
+      these States.

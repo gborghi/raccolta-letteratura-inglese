@@ -1,9 +1,7 @@
 ---
 title: Eastern Religion / Comparative Religion
 type: histref
-cluster: >-
-  Spiritual Emptiness · Eastern Religion / Comparative Religion · Self and
-  Cosmos
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/histref
 ---

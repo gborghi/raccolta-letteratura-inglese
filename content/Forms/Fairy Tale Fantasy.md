@@ -1,7 +1,7 @@
 ---
 title: Fairy Tale / Fantasy
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/form
 ---

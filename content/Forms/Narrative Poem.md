@@ -1,7 +1,7 @@
 ---
 title: Narrative Poem
 type: form
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Joy · Animals · Comic Verse / Song
 tags:
   - graph/form
 ---

@@ -1,0 +1,148 @@
+---
+title: "Barnaby Rudge — Chapter 17 (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Barnaby-Rudge-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Barnaby Rudge — Chapter 17 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_17/part_03">part 03 ›</a></div>
+</nav>
+
+
+‘It is too late!’ cried the widow, who had listened for the step, and
+not to him. ‘Hark to that foot upon the ground. Do you tremble to hear
+it! It is my son, my idiot son!’
+
+As she said this wildly, there came a heavy knocking at the door. He
+looked at her, and she at him.
+
+‘Let him come in,’ said the man, hoarsely. ‘I fear him less than the
+dark, houseless night. He knocks again. Let him come in!’
+
+‘The dread of this hour,’ returned the widow, ‘has been upon me all my
+life, and I will not. Evil will fall upon him, if you stand eye to eye.
+My blighted boy! Oh! all good angels who know the truth--hear a poor
+mother’s prayer, and spare my boy from knowledge of this man!’
+
+‘He rattles at the shutters!’ cried the man. ‘He calls you. That voice
+and cry! It was he who grappled with me in the road. Was it he?’
+
+She had sunk upon her knees, and so knelt down, moving her lips, but
+uttering no sound. As he gazed upon her, uncertain what to do or where
+to turn, the shutters flew open. He had barely time to catch a knife
+from the table, sheathe it in the loose sleeve of his coat, hide in the
+closet, and do all with the lightning’s speed, when Barnaby tapped at
+the bare glass, and raised the sash exultingly.
+
+‘Why, who can keep out Grip and me!’ he cried, thrusting in his head,
+and staring round the room. ‘Are you there, mother? How long you keep us
+from the fire and light.’
+
+She stammered some excuse and tendered him her hand. But Barnaby sprung
+lightly in without assistance, and putting his arms about her neck,
+kissed her a hundred times.
+
+‘We have been afield, mother--leaping ditches, scrambling through
+hedges, running down steep banks, up and away, and hurrying on. The wind
+has been blowing, and the rushes and young plants bowing and bending to
+it, lest it should do them harm, the cowards--and Grip--ha ha ha!--brave
+Grip, who cares for nothing, and when the wind rolls him over in the
+dust, turns manfully to bite it--Grip, bold Grip, has quarrelled with
+every little bowing twig--thinking, he told me, that it mocked him--and
+has worried it like a bulldog. Ha ha ha!’
+
+The raven, in his little basket at his master’s back, hearing this
+frequent mention of his name in a tone of exultation, expressed his
+sympathy by crowing like a cock, and afterwards running over his various
+phrases of speech with such rapidity, and in so many varieties of
+hoarseness, that they sounded like the murmurs of a crowd of people.
+
+‘He takes such care of me besides!’ said Barnaby. ‘Such care, mother! He
+watches all the time I sleep, and when I shut my eyes and make-believe
+to slumber, he practises new learning softly; but he keeps his eye on
+me the while, and if he sees me laugh, though never so little, stops
+directly. He won’t surprise me till he’s perfect.’
+
+The raven crowed again in a rapturous manner which plainly said, ‘Those
+are certainly some of my characteristics, and I glory in them.’ In the
+meantime, Barnaby closed the window and secured it, and coming to the
+fireplace, prepared to sit down with his face to the closet. But
+his mother prevented this, by hastily taking that side herself, and
+motioning him towards the other.
+
+‘How pale you are to-night!’ said Barnaby, leaning on his stick. ‘We
+have been cruel, Grip, and made her anxious!’
+
+Anxious in good truth, and sick at heart! The listener held the door
+of his hiding-place open with his hand, and closely watched her son.
+Grip--alive to everything his master was unconscious of--had his head
+out of the basket, and in return was watching him intently with his
+glistening eye.
+
+‘He flaps his wings,’ said Barnaby, turning almost quickly enough to
+catch the retreating form and closing door, ‘as if there were strangers
+here, but Grip is wiser than to fancy that. Jump then!’
+
+Accepting this invitation with a dignity peculiar to himself, the bird
+hopped up on his master’s shoulder, from that to his extended hand, and
+so to the ground. Barnaby unstrapping the basket and putting it down in
+a corner with the lid open, Grip’s first care was to shut it down with
+all possible despatch, and then to stand upon it. Believing, no doubt,
+that he had now rendered it utterly impossible, and beyond the power of
+mortal man, to shut him up in it any more, he drew a great many corks in
+triumph, and uttered a corresponding number of hurrahs.
+
+‘Mother!’ said Barnaby, laying aside his hat and stick, and returning
+to the chair from which he had risen, ‘I’ll tell you where we have been
+to-day, and what we have been doing,--shall I?’
+
+She took his hand in hers, and holding it, nodded the word she could not
+speak.
+
+‘You mustn’t tell,’ said Barnaby, holding up his finger, ‘for it’s a
+secret, mind, and only known to me, and Grip, and Hugh. We had the dog
+with us, but he’s not like Grip, clever as he is, and doesn’t guess it
+yet, I’ll wager.--Why do you look behind me so?’
+
+‘Did I?’ she answered faintly. ‘I didn’t know I did. Come nearer me.’
+
+‘You are frightened!’ said Barnaby, changing colour. ‘Mother--you don’t
+see’--
+
+‘See what?’
+
+‘There’s--there’s none of this about, is there?’ he answered in a
+whisper, drawing closer to her and clasping the mark upon his wrist.
+‘I am afraid there is, somewhere. You make my hair stand on end, and my
+flesh creep. Why do you look like that? Is it in the room as I have seen
+it in my dreams, dashing the ceiling and the walls with red? Tell me. Is
+it?’
+
+He fell into a shivering fit as he put the question, and shutting out
+the light with his hands, sat shaking in every limb until it had passed
+away. After a time, he raised his head and looked about him.
+
+‘Is it gone?’
+
+‘There has been nothing here,’ rejoined his mother, soothing him.
+‘Nothing indeed, dear Barnaby. Look! You see there are but you and me.’
+
+He gazed at her vacantly, and, becoming reassured by degrees, burst into
+a wild laugh.
+
+‘But let us see,’ he said, thoughtfully. ‘Were we talking? Was it you
+and me? Where have we been?’
+
+‘Nowhere but here.’
+
+‘Aye, but Hugh, and I,’ said Barnaby,--‘that’s it. Maypole Hugh, and
+I, you know, and Grip--we have been lying in the forest, and among the
+trees by the road side, with a dark lantern after night came on, and the
+dog in a noose ready to slip him when the man came by.’

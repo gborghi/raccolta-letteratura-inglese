@@ -1,7 +1,7 @@
 ---
 title: Beauty
 type: concept
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 tags:
   - graph/concept
 ---

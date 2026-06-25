@@ -2,7 +2,7 @@
 title: Lines to Fanny
 author: Keats
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Melancholy · Suffering · Pain and Suffering
 source: Authors/Keats/_raw/134_Lines_to_Fanny.md
 tags:
   - graph/work
@@ -18,19 +18,79 @@ tags:
 
 # Lines to Fanny
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Keats*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
 > An anguished ode-like address to Fanny Brawne, struggling against obsessive love and jealous memory and longing to soar free; melancholy, desire and the bleak 'hateful land' of separation.
 
 ## Connections
 
-**Motifs:** [[Memory (2)]], [[The Sea]]
+**Motifs:** [[Memory]], [[Sea]]
 **Themes & Concepts:** [[Romantic Love]], [[Jealousy]], [[Melancholy]], [[Exile]]
 **Forms & Genres:** [[Ode]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+What can I do to drive away
+Remembrance from my eyes? for they have seen,
+Aye, an hour ago, my brilliant Queen!
+Touch has a memory. O say, love, say,
+What can I do to kill it and be free
+In my old liberty?
+When every fair one that I saw was fair,
+Enough to catch me in but half a snare,
+Not keep me there:
+When, howe’er poor or particolour’d things,
+10
+My muse had wings,
+And ever ready was to take her course
+Whither I bent her force,
+Unintellectual, yet divine to me; -
+Divine, I say! - What sea-bird o’er the sea
+Is a philosopher the while he goes
+Winging along where the great water throes?
 
-!134_Lines_to_Fanny
+How shall I do
+To get anew
+Those moulted feathers, and so mount once more
+20
+Above, above
+The reach of fluttering Love,
+And make him cower lowly while I soar?
+Shall I gulp wine? No, that is vulgarism,
+A heresy and schism,
+Foisted into the canon law’ of love; -
+No, - wine is only sweet to happy men:
+More dismal cares
+Seize on me unawares, -
+Where shall I learn to get my peace again?
+30
+To banish thoughts of that most hateful land
+Dungeoner of my friends, that wicked strand
+Where they were wreck’d and live a wrecked life;
+That monstrous region, whose dull rivers pour,
+Ever from their sordid urns unto the shore,
+Unown’d of any weedy-haired gods;
+Whose winds, all zephyrless, hold scourging rods,
+Iced in the great lakes, to afflict mankind;
+Whose rank-grown forests, frosted, black, and blind,
+Would fright a Dryad; whose harsh herbag’d meads 40
+Make lean and lank the starv’d ox while he feeds;
+There bad flowers have no scent, birds no sweet song,
+And great unerring Nature once seems wrong.
+
+O, for some sunny spell
+To dissipate the shadows of this hell!
+Say they are gone, - with the new dawning light
+Steps forth my lady bright!
+O, let me once more rest
+My soul upon that dazzling breast!
+Let once again these aching arms be plac’d,
+50
+The tender gaolers of thy waist!
+And let me feel that warm breath here and there
+To spread a rapture in my very hair, -
+O, the sweetness of the pain!
+Give me those lips again!
+Enough! Enough! it is enough for me
+To dream of thee!

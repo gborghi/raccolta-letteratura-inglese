@@ -1,7 +1,7 @@
 ---
 title: Mentor
 type: archetype
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
 tags:
   - graph/archetype
 ---

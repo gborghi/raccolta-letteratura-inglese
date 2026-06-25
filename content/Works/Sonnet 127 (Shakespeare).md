@@ -2,7 +2,7 @@
 title: Sonnet 127
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_127.md
 tags:
   - graph/work
@@ -19,20 +19,31 @@ tags:
 
 # Sonnet 127
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > Opening Dark Lady sonnet: black is beauty's heir, mistress's raven-black eyes against cosmetic false beauty; appearance vs reality, the dark mistress.
 
 ## Connections
 
-**Archetypes:** [[The (Reputed) Fallen Woman]]
+**Archetypes:** [[(Reputed) Fallen Woman]]
 **Motifs:** [[Light and Dark]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Beauty]], [[Appearance vs Reality]], [[Deception]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Poem Sequence]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_127
+In the old age black was not counted fair, 
+Or if it were, it bore not beauty’s name; 
+But now is black beauty’s successive heir, 
+And beauty slandered with a bastard shame: 
+For since each hand hath put on nature’s power, 
+Fairing the foul with art’s false borrowed face, 
+Sweet beauty hath no name, no holy bower, 
+But is profaned, if not lives in disgrace. 
+Therefore my mistress’ eyes are raven-black, 
+Her brow so suited, and they mourners seem 
+At such who, not born fair, no beauty lack, 
+Sland’ring creation with a false esteem. 
+Yet so they mourn, becoming of their woe, 
+That every tongue says beauty should look so.

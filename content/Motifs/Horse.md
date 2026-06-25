@@ -1,7 +1,7 @@
 ---
 title: Horse
 type: motif
-cluster: Swords and Weapons · The Battlefield · Horse
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 tags:
   - graph/motif
 ---

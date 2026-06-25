@@ -1,0 +1,172 @@
+---
+title: "wifrb11 — The Mistake of the Machine (part 2)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/wifrb11-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# wifrb11 — The Mistake of the Machine (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_05_The_Mistake_of_the_Machine/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_05_The_Mistake_of_the_Machine/part_03">part 03 ›</a></div>
+</nav>
+
+
+     "Well, the literary style is somewhat improved," admitted the priest
+cheerfully, "but still I don't see what I can do for you. 
+I should cut a poor figure, with my short legs, running about this State
+after an athletic assassin of that sort.  I doubt whether
+anybody could find him.  The convict settlement at Sequah
+is thirty miles from here; the country between is wild and tangled enough,
+and the country beyond, where he will surely have the sense to go,
+is a perfect no-man's land tumbling away to the prairies. 
+He may be in any hole or up any tree."
+
+     "He isn't in any hole," said the governor; "he isn't up any tree."
+
+     "Why, how do you know?" asked Father Brown, blinking.
+
+     "Would you like to speak to him?" inquired Usher.
+
+     Father Brown opened his innocent eyes wide.  "He is here?"
+he exclaimed.  "Why, how did your men get hold of him?"
+
+     "I got hold of him myself," drawled the American, rising and
+lazily stretching his lanky legs before the fire.  "I got hold of him
+with the crooked end of a walking-stick.  Don't look so surprised. 
+I really did.  You know I sometimes take a turn in the country lanes
+outside this dismal place; well, I was walking early this evening
+up a steep lane with dark hedges and grey-looking ploughed fields
+on both sides; and a young moon was up and silvering the road. 
+By the light of it I saw a man running across the field towards the road;
+running with his body bent and at a good mile-race trot. 
+He appeared to be much exhausted; but when he came to the thick black hedge
+he went through it as if it were made of spiders' webs; --or rather
+(for I heard the strong branches breaking and snapping like bayonets)
+as if he himself were made of stone.  In the instant in which
+he appeared up against the moon, crossing the road, I slung my hooked cane
+at his legs, tripping him and bringing him down.  Then I blew my whistle
+long and loud, and our fellows came running up to secure him."
+
+     "It would have been rather awkward," remarked Brown,
+"if you had found he was a popular athlete practising a mile race."
+
+     "He was not," said Usher grimly.  "We soon found out who he was;
+but I had guessed it with the first glint of the moon on him."
+
+     "You thought it was the runaway convict," observed the priest simply,
+"because you had read in the newspaper cutting that morning that
+a convict had run away."
+
+     "I had somewhat better grounds," replied the governor coolly. 
+"I pass over the first as too simple to be emphasized--
+I mean that fashionable athletes do not run across ploughed fields
+or scratch their eyes out in bramble hedges.  Nor do they run
+all doubled up like a crouching dog.  There were more decisive details
+to a fairly well-trained eye.  The man was clad in coarse
+and ragged clothes, but they were something more than merely
+coarse and ragged.  They were so ill-fitting as to be quite grotesque;
+even as he appeared in black outline against the moonrise,
+the coat-collar in which his head was buried made him look
+like a hunchback, and the long loose sleeves looked as if he had no hands. 
+It at once occurred to me that he had somehow managed to change
+his convict clothes for some confederate's clothes which did not fit him. 
+Second, there was a pretty stiff wind against which he was running;
+so that I must have seen the streaky look of blowing hair, if the hair
+had not been very short.  Then I remembered that beyond these
+ploughed fields he was crossing lay Pilgrim's Pond, for which
+(you will remember) the convict was keeping his bullet;
+and I sent my walking-stick flying."
+
+     "A brilliant piece of rapid deduction," said Father Brown;
+"but had he got a gun?"
+
+     As Usher stopped abruptly in his walk the priest added apologetically: 
+"I've been told a bullet is not half so useful without it."
+
+     "He had no gun," said the other gravely; "but that was doubtless
+due to some very natural mischance or change of plans.  Probably the
+same policy that made him change the clothes made him drop the gun;
+he began to repent the coat he had left behind him in the blood
+of his victim."
+
+     "Well, that is possible enough," answered the priest.
+
+     "And it's hardly worth speculating on," said Usher,
+turning to some other papers, "for we know it's the man by this time."
+
+     His clerical friend asked faintly:  "But how?"  And Greywood Usher
+threw down the newspapers and took up the two press-cuttings again.
+
+     "Well, since you are so obstinate," he said, "let's begin
+at the beginning.  You will notice that these two cuttings have only
+one thing in common, which is the mention of Pilgrim's Pond,
+the estate, as you know, of the millionaire Ireton Todd. 
+You also know that he is a remarkable character; one of those
+that rose on stepping-stones--"
+
+     "Of our dead selves to higher things," assented his companion. 
+"Yes; I know that.  Petroleum, I think."
+
+     "Anyhow," said Usher, "Last-Trick Todd counts for a great deal
+in this rum affair."
+
+     He stretched himself once more before the fire and continued talking
+in his expansive, radiantly explanatory style.
+
+     "To begin with, on the face of it, there is no mystery here at all. 
+It is not mysterious, it is not even odd, that a jailbird should
+take his gun to Pilgrim's Pond.  Our people aren't like the English,
+who will forgive a man for being rich if he throws away money
+on hospitals or horses.  Last-Trick Todd has made himself big
+by his own considerable abilities; and there's no doubt that
+many of those on whom he has shown his abilities would like to
+show theirs on him with a shot-gun.  Todd might easily get dropped
+by some man he'd never even heard of; some labourer he'd locked out,
+or some clerk in a business he'd busted.  Last-Trick is a man
+of mental endowments and a high public character; but in this country
+the relations of employers and employed are considerably strained.
+
+     "That's how the whole thing looks supposing this Rian
+made for Pilgrim's Pond to kill Todd.  So it looked to me,
+till another little discovery woke up what I have of the detective in me. 
+When I had my prisoner safe, I picked up my cane again and strolled down
+the two or three turns of country road that brought me to one of
+the side entrances of Todd's grounds, the one nearest to the pool
+or lake after which the place is named.  It was some two hours ago,
+about seven by this time; the moonlight was more luminous,
+and I could see the long white streaks of it lying on the mysterious mere
+with its grey, greasy, half-liquid shores in which they say
+our fathers used to make witches walk until they sank. 
+I'd forgotten the exact tale; but you know the place I mean;
+it lies north of Todd's house towards the wilderness, and has two queer
+wrinkled trees, so dismal that they look more like huge fungoids
+than decent foliage.  As I stood peering at this misty pool,
+I fancied I saw the faint figure of a man moving from the house towards it,
+but it was all too dim and distant for one to be certain of the fact,
+and still less of the details.  Besides, my attention was very sharply
+arrested by something much closer.  I crouched behind the fence
+which ran not more than two hundred yards from one wing of
+the great mansion, and which was fortunately split in places,
+as if specially for the application of a cautious eye.  A door had opened
+in the dark bulk of the left wing, and a figure appeared black against
+the illuminated interior--a muffled figure bending forward,
+evidently peering out into the night.  It closed the door behind it,
+and I saw it was carrying a lantern, which threw a patch of imperfect light
+on the dress and figure of the wearer.  It seemed to be
+the figure of a woman, wrapped up in a ragged cloak and
+evidently disguised to avoid notice; there was something very strange
+both about the rags and the furtiveness in a person coming out of
+those rooms lined with gold.  She took cautiously the curved garden path
+which brought her within half a hundred yards of me--, then she stood up
+for an instant on the terrace of turf that looks towards the slimy lake,
+and holding her flaming lantern above her head she deliberately swung it
+three times to and fro as for a signal.  As she swung it the second time
+a flicker of its light fell for a moment on her own face,
+a face that I knew.  She was unnaturally pale, and her head was bundled
+in her borrowed plebeian shawl; but I am certain it was Etta Todd,
+the millionaire's daughter.

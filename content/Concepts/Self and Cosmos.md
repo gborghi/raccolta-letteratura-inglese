@@ -1,9 +1,7 @@
 ---
 title: Self and Cosmos
 type: concept
-cluster: >-
-  Spiritual Emptiness · Eastern Religion / Comparative Religion · Self and
-  Cosmos
+cluster: Nature · Book of Nature · Natural Order
 tags:
   - graph/concept
 ---

@@ -1,7 +1,7 @@
 ---
 title: Liberty / Political Freedom
 type: concept
-cluster: The French Revolution · Liberty / Political Freedom · Pindaric Ode
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 tags:
   - graph/concept
 ---

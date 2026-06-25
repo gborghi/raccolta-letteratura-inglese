@@ -1,0 +1,47 @@
+---
+title: "Julius Caesar — Act III, Scene 1 — monologue (ANTONY I) [5]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/JULIUS-CAESAR-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Julius Caesar — Act III, Scene 1 — monologue (ANTONY I) [5]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
+</nav>
+
+
+ANTONY I doubt not of your wisdom.
+Let each man render me his bloody hand.
+He shakes hands with the conspirators
+
+First, Marcus Brutus, will I shake with you.—
+Next, Caius Cassius, do I take your hand.—
+Now, Decius Brutus, yours;—now yours, Metellus;—
+Yours, Cinna;—and my valiant Casca, yours;—
+Though last, not least in love, yours, good Trebonius.
+Gentlemen all—alas, what shall I say?
+My credit now stands on such slippery ground
+That one of two bad ways you must conceit me:
+Either a coward or a flatterer.
+That I did love thee, Caesar, O, ’tis true.
+If then thy spirit look upon us now,
+Shall it not grieve thee dearer than thy death
+To see thy Antony making his peace,
+Shaking the bloody fingers of thy foes—
+Most noble!—in the presence of thy corpse?
+Had I as many eyes as thou hast wounds,
+Weeping as fast as they stream forth thy blood,
+It would become me better than to close
+In terms of friendship with thine enemies.
+Pardon me, Julius. Here wast thou bayed, brave hart;
+Here didst thou fall, and here thy hunters stand
+Signed in thy spoil and crimsoned in thy lethe.
+O world, thou wast the forest to this hart;
+And this indeed, O world, the heart of thee.
+How like a deer strucken by many princes
+Dost thou here lie!

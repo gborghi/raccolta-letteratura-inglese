@@ -1,0 +1,90 @@
+---
+title: "Emma — Chapter 8 (part 4)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Emma-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Emma — Chapter 8 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_08/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_09/part_01">part 01 ›</a></div>
+</nav>
+
+
+“I am very much obliged to you,” said Emma, laughing again. “If I had
+set my heart on Mr. Elton’s marrying Harriet, it would have been very
+kind to open my eyes; but at present I only want to keep Harriet to
+myself. I have done with match-making indeed. I could never hope to
+equal my own doings at Randalls. I shall leave off while I am well.”
+
+“Good morning to you,”—said he, rising and walking off abruptly. He was
+very much vexed. He felt the disappointment of the young man, and was
+mortified to have been the means of promoting it, by the sanction he
+had given; and the part which he was persuaded Emma had taken in the
+affair, was provoking him exceedingly.
+
+Emma remained in a state of vexation too; but there was more
+indistinctness in the causes of her’s, than in his. She did not always
+feel so absolutely satisfied with herself, so entirely convinced that
+her opinions were right and her adversary’s wrong, as Mr. Knightley. He
+walked off in more complete self-approbation than he left for her. She
+was not so materially cast down, however, but that a little time and
+the return of Harriet were very adequate restoratives. Harriet’s
+staying away so long was beginning to make her uneasy. The possibility
+of the young man’s coming to Mrs. Goddard’s that morning, and meeting
+with Harriet and pleading his own cause, gave alarming ideas. The dread
+of such a failure after all became the prominent uneasiness; and when
+Harriet appeared, and in very good spirits, and without having any such
+reason to give for her long absence, she felt a satisfaction which
+settled her with her own mind, and convinced her, that let Mr.
+Knightley think or say what he would, she had done nothing which
+woman’s friendship and woman’s feelings would not justify.
+
+He had frightened her a little about Mr. Elton; but when she considered
+that Mr. Knightley could not have observed him as she had done, neither
+with the interest, nor (she must be allowed to tell herself, in spite
+of Mr. Knightley’s pretensions) with the skill of such an observer on
+such a question as herself, that he had spoken it hastily and in anger,
+she was able to believe, that he had rather said what he wished
+resentfully to be true, than what he knew any thing about. He certainly
+might have heard Mr. Elton speak with more unreserve than she had ever
+done, and Mr. Elton might not be of an imprudent, inconsiderate
+disposition as to money matters; he might naturally be rather attentive
+than otherwise to them; but then, Mr. Knightley did not make due
+allowance for the influence of a strong passion at war with all
+interested motives. Mr. Knightley saw no such passion, and of course
+thought nothing of its effects; but she saw too much of it to feel a
+doubt of its overcoming any hesitations that a reasonable prudence
+might originally suggest; and more than a reasonable, becoming degree
+of prudence, she was very sure did not belong to Mr. Elton.
+
+Harriet’s cheerful look and manner established hers: she came back, not
+to think of Mr. Martin, but to talk of Mr. Elton. Miss Nash had been
+telling her something, which she repeated immediately with great
+delight. Mr. Perry had been to Mrs. Goddard’s to attend a sick child,
+and Miss Nash had seen him, and he had told Miss Nash, that as he was
+coming back yesterday from Clayton Park, he had met Mr. Elton, and
+found to his great surprize, that Mr. Elton was actually on his road to
+London, and not meaning to return till the morrow, though it was the
+whist-club night, which he had been never known to miss before; and Mr.
+Perry had remonstrated with him about it, and told him how shabby it
+was in him, their best player, to absent himself, and tried very much
+to persuade him to put off his journey only one day; but it would not
+do; Mr. Elton had been determined to go on, and had said in a _very_
+_particular_ way indeed, that he was going on business which he would
+not put off for any inducement in the world; and something about a very
+enviable commission, and being the bearer of something exceedingly
+precious. Mr. Perry could not quite understand him, but he was very
+sure there must be a _lady_ in the case, and he told him so; and Mr.
+Elton only looked very conscious and smiling, and rode off in great
+spirits. Miss Nash had told her all this, and had talked a great deal
+more about Mr. Elton; and said, looking so very significantly at her,
+“that she did not pretend to understand what his business might be, but
+she only knew that any woman whom Mr. Elton could prefer, she should
+think the luckiest woman in the world; for, beyond a doubt, Mr. Elton
+had not his equal for beauty or agreeableness.”

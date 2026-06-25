@@ -1,7 +1,7 @@
 ---
 title: Sketch
 type: form
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: City · London · Theatrum Mundi
 tags:
   - graph/form
 ---

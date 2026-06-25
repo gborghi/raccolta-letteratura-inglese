@@ -1,7 +1,7 @@
 ---
 title: Free Verse
 type: form
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 tags:
   - graph/form
 ---

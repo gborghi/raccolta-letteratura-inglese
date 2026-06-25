@@ -2,7 +2,7 @@
 title: To Get the Final Lilt of Songs
 author: Whitman
 type: work
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)
 source: Authors/Whitman/_raw/321_To_Get_the_Final_Lilt_of_Songs.md
 tags:
   - graph/work
@@ -19,21 +19,28 @@ tags:
 
 # To Get the Final Lilt of Songs
 
-*by Whitman*  ·  **Cluster:** [[The Poet as Prophet · The Great Mother · The Prophet]]
+*by Whitman*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > To fully grasp the great poets one needs old age and the experience it brings as the final faculty.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Memory and Time]], [[Doubt]]
+**Themes & Concepts:** [[Artist and Society]], [[Memory and Time]], [[Doubt]]
 **Forms & Genres:** [[Epigram]]
-**Historical References:** [[The Bible]], [[Ancient Greece]]
+**Historical References:** [[Bible]], [[Ancient Greece]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!321_To_Get_the_Final_Lilt_of_Songs
+
+  To get the final lilt of songs,
+  To penetrate the inmost lore of poets--to know the mighty ones,
+  Job, Homer, Eschylus, Dante, Shakespere, Tennyson, Emerson;
+  To diagnose the shifting-delicate tints of love and pride and doubt--
+      to truly understand,
+  To encompass these, the last keen faculty and entrance-price,
+  Old age, and what it brings from all its past experiences.

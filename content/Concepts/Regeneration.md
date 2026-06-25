@@ -1,7 +1,7 @@
 ---
 title: Regeneration
 type: concept
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/concept
 ---

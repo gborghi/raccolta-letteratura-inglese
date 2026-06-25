@@ -1,0 +1,121 @@
+---
+title: "Little Dorrit — Chapter 30: Closing in (part 8)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Little-Dorrit-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Little Dorrit — Chapter 30: Closing in (part 8)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_70_Closing_in/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_70_Closing_in/part_09">part 09 ›</a></div>
+</nav>
+
+
+Retiring before him with vicious counter-jerks of his own elbows, Mr
+Flintwinch had got back into his corner, where he now stood with his
+hands in his pockets, taking breath, and returning Mrs Clennam’s stare.
+‘Ha, ha, ha! But what’s this?’ cried Rigaud. ‘It appears as if you
+don’t know, one the other. Permit me, Madame Clennam who suppresses, to
+present Monsieur Flintwinch who intrigues.’
+
+Mr Flintwinch, unpocketing one of his hands to scrape his jaw, advanced
+a step or so in that attitude, still returning Mrs Clennam’s look, and
+thus addressed her:
+
+‘Now, I know what you mean by opening your eyes so wide at me, but you
+needn’t take the trouble, because I don’t care for it. I’ve been telling
+you for how many years that you’re one of the most opinionated and
+obstinate of women. That’s what _you_ are. You call yourself humble and
+sinful, but you are the most Bumptious of your sex. That’s what _you_
+are. I have told you, over and over again when we have had a tiff, that
+you wanted to make everything go down before you, but I wouldn’t go down
+before you--that you wanted to swallow up everybody alive, but I
+wouldn’t be swallowed up alive. Why didn’t you destroy the paper when
+you first laid hands upon it? I advised you to; but no, it’s not your
+way to take advice. You must keep it forsooth. Perhaps you may carry it
+out at some other time, forsooth. As if I didn’t know better than that!
+I think I see your pride carrying it out, with a chance of being
+suspected of having kept it by you. But that’s the way you cheat
+yourself. Just as you cheat yourself into making out that you didn’t do
+all this business because you were a rigorous woman, all slight, and
+spite, and power, and unforgiveness, but because you were a servant and
+a minister, and were appointed to do it. Who are you, that you should be
+appointed to do it? That may be your religion, but it’s my gammon. And
+to tell you all the truth while I am about it,’ said Mr Flintwinch,
+crossing his arms, and becoming the express image of irascible
+doggedness, ‘I have been rasped--rasped these forty years--by your
+taking such high ground even with me, who knows better; the effect of it
+being coolly to put me on low ground. I admire you very much; you are a
+woman of strong head and great talent; but the strongest head, and the
+greatest talent, can’t rasp a man for forty years without making him
+sore. So I don’t care for your present eyes. Now, I am coming to the
+paper, and mark what I say. You put it away somewhere, and you kept your
+own counsel where. You’re an active woman at that time, and if you want
+to get that paper, you can get it. But, mark. There comes a time when
+you are struck into what you are now, and then if you want to get that
+paper, you can’t get it. So it lies, long years, in its hiding-place. At
+last, when we are expecting Arthur home every day, and when any day may
+bring him home, and it’s impossible to say what rummaging he may make
+about the house, I recommend you five thousand times, if you can’t get
+at it, to let me get at it, that it may be put in the fire. But no--no
+one but you knows where it is, and that’s power; and, call yourself
+whatever humble names you will, I call you a female Lucifer in appetite
+for power! On a Sunday night, Arthur comes home. He has not been in this
+room ten minutes, when he speaks of his father’s watch. You know very
+well that the Do Not Forget, at the time when his father sent that watch
+to you, could only mean, the rest of the story being then all dead and
+over, Do Not Forget the suppression. Make restitution! Arthur’s ways
+have frightened you a bit, and the paper shall be burnt after all. So,
+before that jumping jade and Jezebel,’ Mr Flintwinch grinned at his
+wife, ‘has got you into bed, you at last tell me where you have put the
+paper, among the old ledgers in the cellars, where Arthur himself went
+prowling the very next morning. But it’s not to be burnt on a Sunday
+night. No; you are strict, you are; we must wait over twelve o’clock,
+and get into Monday. Now, all this is a swallowing of me up alive that
+rasps me; so, feeling a little out of temper, and not being as strict as
+yourself, I take a look at the document before twelve o’clock to refresh
+my memory as to its appearance--fold up one of the many yellow old
+papers in the cellars like it--and afterwards, when we have got into
+Monday morning, and I have, by the light of your lamp, to walk from you,
+lying on that bed, to this grate, make a little exchange like the
+conjuror, and burn accordingly. My brother Ephraim, the lunatic-keeper
+(I wish he had had himself to keep in a strait-waistcoat), had had many
+jobs since the close of the long job he got from you, but had not done
+well. His wife died (not that that was much; mine might have died
+instead, and welcome), he speculated unsuccessfully in lunatics, he got
+into difficulty about over-roasting a patient to bring him to reason,
+and he got into debt. He was going out of the way, on what he had been
+able to scrape up, and a trifle from me. He was here that early Monday
+morning, waiting for the tide; in short, he was going to Antwerp, where
+(I am afraid you’ll be shocked at my saying, And be damned to him!) he
+made the acquaintance of this gentleman. He had come a long way, and, I
+thought then, was only sleepy; but, I suppose now, was drunk. When
+Arthur’s mother had been under the care of him and his wife, she had
+been always writing, incessantly writing,--mostly letters of confession
+to you, and Prayers for forgiveness. My brother had handed, from time to
+time, lots of these sheets to me. I thought I might as well keep them to
+myself as have them swallowed up alive too; so I kept them in a box,
+looking over them when I felt in the humour. Convinced that it was
+advisable to get the paper out of the place, with Arthur coming about
+it, I put it into this same box, and I locked the whole up with two
+locks, and I trusted it to my brother to take away and keep, till I
+should write about it. I did write about it, and never got an answer. I
+didn’t know what to make of it, till this gentleman favoured us with his
+first visit. Of course, I began to suspect how it was, then; and I don’t
+want his word for it now to understand how he gets his knowledge from my
+papers, and your paper, and my brother’s cognac and tobacco talk (I wish
+he’d had to gag himself). Now, I have only one thing more to say, you
+hammer-headed woman, and that is, that I haven’t altogether made up my
+mind whether I might, or might not, have ever given you any trouble
+about the codicil. I think not; and that I should have been quite
+satisfied with knowing I had got the better of you, and that I held the
+power over you. In the present state of circumstances, I have no more
+explanation to give you till this time to-morrow night. So you may as
+well,’ said Mr Flintwinch, terminating his oration with a screw, ‘keep
+your eyes open at somebody else, for it’s no use keeping ‘em open at
+me.’

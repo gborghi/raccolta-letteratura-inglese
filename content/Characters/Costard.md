@@ -1,0 +1,17 @@
+---
+title: Costard
+type: character
+cluster: Love's Labour's Lost
+tags:
+  - graph/character
+---
+
+# Costard
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Costard"></div>
+
+#graph/character

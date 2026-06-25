@@ -1,7 +1,7 @@
 ---
 title: Renunciation
 type: concept
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 tags:
   - graph/concept
 ---

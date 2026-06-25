@@ -2,7 +2,7 @@
 title: Orange Buds by Mail from Florida
 author: Whitman
 type: work
-cluster: Lyric · Flowers · Stars
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/340_Orange_Buds_by_Mail_from_Florida.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Orange Buds by Mail from Florida
 
-*by Whitman*  ·  **Cluster:** [[Lyric · Flowers · Stars]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > Orange buds mailed across America to the poet's snowy Northern room as proof of the nation's broad expanse.
@@ -30,8 +30,15 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[America]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!340_Orange_Buds_by_Mail_from_Florida
+
+  A lesser proof than old Voltaire’s, yet greater,
+  Proof of this present time, and thee, thy broad expanse, America,
+  To my plain Northern hut, in outside clouds and snow,
+  Brought safely for a thousand miles o’er land and tide,
+  Some three days since on their own soil live-sprouting,
+  Now here their sweetness through my room unfolding,
+  A bunch of orange buds by mall from Florida.

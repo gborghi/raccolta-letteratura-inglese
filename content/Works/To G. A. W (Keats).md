@@ -2,7 +2,7 @@
 title: To G. A. W
 author: Keats
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Keats/_raw/017_To_G_A_W.md
 tags:
   - graph/work
@@ -16,20 +16,31 @@ tags:
 
 # To G. A. W
 
-*by Keats*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Keats*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > Sonnet blazon praising the varied loveliness of a woman in her moods and graceful movement; romantic admiration of feminine beauty.
 
 ## Connections
 
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Eyes and Sight]]
 **Themes & Concepts:** [[Beauty]], [[Romantic Love]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!017_To_G_A_W
+Nymph of the downward smile, and sidelong glance,
+  In what diviner moments of the day
+  Art thou most lovely? When gone far astray
+Into the labyrinths of sweet utterance?
+Or when serenely wand’ring in a trance
+  Of sober thought? Or when starting away,
+  With careless robe, to meet the morning ray,
+Thou spar’st the flowers in thy mazy dance?
+Haply ’tis when thy ruby lips part sweetly,
+  And so remain, because thou listenest:
+But thou to please wert nurtured so completely
+  That I can never tell what mood is best.
+I shall as soon pronounce which grace more neatly
+  Trips it before Apollo than the rest.

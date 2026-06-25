@@ -1,0 +1,27 @@
+---
+title: "The First Part of the Contention (2 Henry VI) — Act II, Scene 3 — exchange (PETER) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The First Part of the Contention (2 Henry VI) — Act II, Scene 3 — exchange (PETER) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
+</nav>
+
+
+PETER [kneeling] O God, have I overcome mine enemy in this presence? O, Peter, thou hast prevailed in right.
+
+KING HENRY (to attendants, pointing to Horner)
+Go, take hence that traitor from our sight,
+For by his death we do perceive his guilt.
+And God in justice hath revealed to us
+The truth and innocence of this poor fellow,
+Which he had thought to have murdered wrongfully.
+(To Peter) Come, fellow, follow us for thy reward.
+Sound a flourish. Exeunt, some carrying Horner’s body

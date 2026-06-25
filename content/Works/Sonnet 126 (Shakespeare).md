@@ -2,7 +2,7 @@
 title: Sonnet 126
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_126.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 126
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Envoi to the lovely boy: Nature's sickle-hour, her audit and quietus; mortality, time, mutability closing the fair-youth sequence.
@@ -27,12 +27,21 @@ tags:
 ## Connections
 
 **Topoi:** [[Tempus Fugit]], [[Memento Mori]]
-**Motifs:** [[Time]], [[Death (2)]], [[The Mirror]]
+**Motifs:** [[Time]], [[Death]], [[Mirror]]
 **Themes & Concepts:** [[Mortality]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_126
+O thou my lovely boy, who in thy power 
+Dost hold time’s fickle glass, his sickle-hour; 
+Who hast by waning grown, and therein show‘st 
+Thy lovers withering as thy sweet self grow’st—
+If nature, sovereign mistress over wrack, 
+As thou goest onwards still will pluck thee back, 
+She keeps thee to this purpose: that her skill 
+May time disgrace, and wretched minutes kill. 
+Yet fear her, O thou minion of her pleasure! 
+She may detain but not still keep her treasure. 
+Her audit, though delayed, answered must be, 
+And her quietus is to render thee.

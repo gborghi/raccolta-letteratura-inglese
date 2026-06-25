@@ -1,7 +1,7 @@
 ---
 title: Christ
 type: character
-cluster: Christ · Divine Love · Hymn
+cluster: Martyrdom · Martyr / Saint · Cross
 tags:
   - graph/character
 ---

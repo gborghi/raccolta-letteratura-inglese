@@ -1,7 +1,7 @@
 ---
 title: Sonnet
 type: form
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 tags:
   - graph/form
 ---

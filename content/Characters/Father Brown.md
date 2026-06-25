@@ -1,7 +1,7 @@
 ---
 title: Father Brown
 type: character
-cluster: Appearance vs Reality · Deception · Short Story
+cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
 tags:
   - graph/character
 ---

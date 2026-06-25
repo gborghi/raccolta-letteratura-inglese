@@ -2,7 +2,7 @@
 title: As I Ponder’d in Silence
 author: Whitman
 type: work
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/002_As_I_Ponder_d_in_Silence.md
 tags:
   - graph/work
@@ -17,20 +17,41 @@ tags:
 
 # As I Ponder’d in Silence
 
-*by Whitman*  ·  **Cluster:** [[The Poet as Prophet · The Great Mother · The Prophet]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > A phantom of old poets demands the theme of war; Whitman answers that his book too sings a greater war for body and soul. Free-verse poetic-vocation lyric.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]]
+**Topoi:** [[Poet as Prophet]]
 **Motifs:** [[Ghosts]]
-**Themes & Concepts:** [[War and its Cost]], [[Self-Knowledge]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[War and its Cost]], [[Self-Knowledge]], [[Artist and Society]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!002_As_I_Ponder_d_in_Silence
+
+  As I ponder’d in silence,
+  Returning upon my poems, considering, lingering long,
+  A Phantom arose before me with distrustful aspect,
+  Terrible in beauty, age, and power,
+  The genius of poets of old lands,
+  As to me directing like flame its eyes,
+  With finger pointing to many immortal songs,
+  And menacing voice, What singest thou? it said,
+  Know’st thou not there is but one theme for ever-enduring bards?
+  And that is the theme of War, the fortune of battles,
+  The making of perfect soldiers.
+
+  Be it so, then I answer’d,
+  I too haughty Shade also sing war, and a longer and greater one than any,
+  Waged in my book with varying fortune, with flight, advance
+      and retreat, victory deferr’d and wavering,
+  (Yet methinks certain, or as good as certain, at the last,) the
+      field the world,
+  For life and death, for the Body and for the eternal Soul,
+  Lo, I too am come, chanting the chant of battles,
+  I above all promote brave soldiers.

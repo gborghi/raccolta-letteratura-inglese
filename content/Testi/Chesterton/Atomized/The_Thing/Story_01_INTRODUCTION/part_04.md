@@ -1,0 +1,95 @@
+---
+title: "The Thing — INTRODUCTION (part 4)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/The-Thing-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# The Thing — INTRODUCTION (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_01_INTRODUCTION/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_02_Is_HUMANISM_A_RELIGION/part_01">part 01 ›</a></div>
+</nav>
+
+
+In plain words, the normal functions of man--effort, protest, judgment,
+persuasion, and proof--are found in fact to be hampered and hamstrung
+by these negations of the sceptic even when the sceptic seems at first
+to be only denying some distant vision or some miraculous tale.
+Each function is found in fact to refer to some end, to some test, to some
+way of distinguishing between use and misuse, which the mere sceptic
+destroys as completely as he could destroy any myth or superstition.
+If the function is only performed for the satisfaction of the performer,
+as in the parable of the critic and the egg, it becomes futile
+to discuss whether it is an addled egg.  It becomes futile to
+consider whether eggs will produce chickens or provide breakfasts.
+But even to be certain of our own sanity in applying the tests,
+we do really have to go back to some aboriginal problem,
+like that of the old riddle of the priority of egg or chicken;
+we do really, like the great religions, have to begin AB OVO.
+If those primordial sanities can be disturbed, the whole of practical
+life can be disturbed with them.  Men can be frozen by fatalism,
+or crazed by anarchism, or driven to death by pessimism; for men
+will not go on indefinitely acting on what they feel to be a fable.
+And it is in this organic and almost muscular sense that religion
+is really the help of man--in the sense that without it he is
+ultimately helpless, almost motionless.
+
+Mr. Mencken and Mr. Sinclair Lewis and the other critics in the MERCURY
+movement are so spirited and sincere, they attack so vigorously
+so many things that ought to be attacked, they expose so brilliantly
+many things that really are impostures, that in discussing matters
+with them a man will have every impulse to put his cards on the table.
+It would be affectation and almost hypocrisy in me to ignore,
+in this place, the fact that I do myself believe in a special
+spiritual solution of this problem, a special spiritual authority
+above this chaos.  Nor, indeed, is the idea altogether absent,
+as an idea, from many other minds besides my own.  The Catholic
+philosophy is mentioned in terms of respect, and even a sort
+of hope, both by Professor Babbitt** and Mr. T. S. Eliot.
+I do not misunderstand their courtesies, or seek to lure them
+a step further than they desire to go.  But, as a matter of fact,
+by a series of faultlessly logical steps, Mr. Eliot led Professor Babbitt
+so near to the very gates of the Catholic Church that in the end
+I felt quite nervous, so to speak, for fear they should both take
+another unintentional step and fall into it by accident.
+
+I have a particular reason for mentioning this matter in conclusion--
+a reason that is directly related to this curious effect of
+scepticism in weakening the normal functions of the human being.
+In one of the most brilliant and amusing of Mr. Sinclair Lewis's
+recent books there is a passage which I quote from memory, but I think
+more or less correctly.  He said that the Catholic Faith differs
+from current Puritanism in that it does not ask a man to give up
+his sense of beauty, or his sense of humour, or his pleasant vices
+(by which he probably meant smoking and drinking, which are not vices
+at all), but that it does ask a man to give up his life and soul,
+his mind, body, reason, and all the rest.  I ask the reader to consider,
+as quietly and impartially as possible, the statement thus made;
+and put it side by side with all those other facts about the gradual
+fossilizing of human function by the fundamental doubts of our day.
+
+It would be far truer to say that the Faith gives a man back his
+body and his soul and his reason and his will and his very life.
+It would be far truer to say that the man who has received it
+receives all the old human functions which all the other philosophies
+are already taking away.  It would be nearer to reality to say
+that he alone will have freedom, that he alone will have will,
+because he alone will believe in free will; that he alone will
+have reason, since ultimate doubt denies reason as well as authority;
+that he alone will truly act, because action is performed to an end.
+It is at least a less unlikely vision that all this hardening and
+hopeless despair of the intellect will leave him at last the only
+walking and talking citizen in a city of paralytics.
+
+------
+
+* "The Humanism of Irving Babbitt," The Forum for July 1928.
+
+** "The Critic and American life," The Forum for February 1928.
+
+-/-

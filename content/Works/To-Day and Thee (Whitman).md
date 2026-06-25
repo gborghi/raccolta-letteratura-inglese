@@ -2,7 +2,7 @@
 title: To-Day and Thee
 author: Whitman
 type: work
-cluster: Heroism · Honour · Hero
+cluster: Heroism · Hero · Last Stand
 source: Authors/Whitman/_raw/308_To_Day_and_Thee.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # To-Day and Thee
 
-*by Whitman*  ·  **Cluster:** [[Heroism · Honour · Hero]]
+*by Whitman*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 
 > The whole heirdom of human history and art converges in the present 'thee', a meditation on time and inheritance.
@@ -27,13 +27,19 @@ tags:
 ## Connections
 
 **Archetypes:** [[Hero]]
-**Motifs:** [[Time]], [[The Book Reading]]
+**Motifs:** [[Time]], [[Book Reading]]
 **Themes & Concepts:** [[Memory and Time]], [[Immortality of Art Fame]]
 **Forms & Genres:** [[Free Verse]]
 **Historical References:** [[Classical Antiquity]], [[Ancient Greece]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!308_To_Day_and_Thee
+
+  The appointed winners in a long-stretch’d game;
+  The course of Time and nations--Egypt, India, Greece and Rome;
+  The past entire, with all its heroes, histories, arts, experiments,
+  Its store of songs, inventions, voyages, teachers, books,
+  Garner’d for now and thee--To think of it!
+  The heirdom all converged in thee!

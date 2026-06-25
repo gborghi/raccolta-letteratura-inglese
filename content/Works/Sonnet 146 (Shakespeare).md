@@ -2,7 +2,7 @@
 title: Sonnet 146
 author: Shakespeare
 type: work
-cluster: Vanitas · The Wheel · Contemptus Mundi
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Shakespeare/Sonnets/Sonnet_146.md
 tags:
   - graph/work
@@ -21,7 +21,7 @@ tags:
 
 # Sonnet 146
 
-*by Shakespeare*  ·  **Cluster:** [[Vanitas · The Wheel · Contemptus Mundi]]
+*by Shakespeare*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > 'Poor soul, the centre of my sinful earth': the soul vs the dying body, contempt of the flesh, conquest of death; mortality, faith, contemptus mundi.
@@ -29,12 +29,23 @@ tags:
 ## Connections
 
 **Topoi:** [[Contemptus Mundi]], [[Memento Mori]], [[Vanitas]]
-**Motifs:** [[Death (2)]]
+**Motifs:** [[Death]]
 **Themes & Concepts:** [[Self-Knowledge]], [[Mortality]], [[Faith]], [[Grace and Redemption]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_146
+Poor soul, the centre of my sinful earth, 
+these rebel powers that thee array; 
+Why dost thou pine within and suffer dearth, 
+Painting thy outward walls so costly gay? 
+Why so large cost, having so short a lease, 
+Dost thou upon thy fading mansion spend? 
+Shall worms, inheritors of this excess, 
+Eat up thy charge? Is this thy body’s end? 
+Then, soul, live thou upon thy servant’s loss, 
+And let that pine to aggravate thy store. 
+Buy terms divine in selling hours of dross; 
+Within be fed, without be rich no more. 
+So shalt thou feed on death, that feeds on men, 
+And death once dead, there’s no more dying then.

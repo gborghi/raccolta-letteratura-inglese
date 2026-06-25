@@ -2,7 +2,7 @@
 title: Year That Trembled and Reel’d Beneath Me
 author: Whitman
 type: work
-cluster: Disillusionment · Odysseus / Ulysses · Grace Under Pressure / Stoic Endurance
+cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Whitman/_raw/161_Year_That_Trembled_and_Reel_d_Beneath_Me.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Year That Trembled and Reel’d Beneath Me
 
-*by Whitman*  ·  **Cluster:** [[Disillusionment · Odysseus Ulysses · Grace Under Pressure Stoic Endurance]]
+*by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > A brief lyric of the poet shaken by a year of defeat, asking whether he must now chant cold dirges and hymns of defeat; war, grief and the poet's vocation.
@@ -27,8 +27,14 @@ tags:
 **Themes & Concepts:** [[Grief and Loss]], [[Disillusionment]], [[War and its Cost]]
 **Forms & Genres:** [[Dirge]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!161_Year_That_Trembled_and_Reel_d_Beneath_Me
+
+  Year that trembled and reel’d beneath me!
+  Your summer wind was warm enough, yet the air I breathed froze me,
+  A thick gloom fell through the sunshine and darken’d me,
+  Must I change my triumphant songs? said I to myself,
+  Must I indeed learn to chant the cold dirges of the baffled?
+  And sullen hymns of defeat?

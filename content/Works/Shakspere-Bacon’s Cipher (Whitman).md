@@ -2,7 +2,7 @@
 title: Shakspere-Bacon’s Cipher
 author: Whitman
 type: work
-cluster: Nature · The Book of Nature · The Natural Order
+cluster: Nature · Book of Nature · Natural Order
 source: Authors/Whitman/_raw/361_Shakspere_Bacon_s_Cipher.md
 tags:
   - graph/work
@@ -17,20 +17,26 @@ tags:
 
 # Shakspere-Bacon’s Cipher
 
-*by Whitman*  ·  **Cluster:** [[Nature · The Book of Nature · The Natural Order]]
+*by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > A mystical lyric finding in every old song, object, and life a hidden cipher of meaning infolded behind appearance, the book of nature read for secret import.
 
 ## Connections
 
-**Topoi:** [[The Book of Nature]]
-**Motifs:** [[The Book Reading]], [[Stars]]
+**Topoi:** [[Book of Nature]]
+**Motifs:** [[Book Reading]], [[Stars]]
 **Themes & Concepts:** [[Appearance vs Reality]], [[Self and Cosmos]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: GOOD-BYE MY FANCY_
 
-!361_Shakspere_Bacon_s_Cipher
+
+  I doubt it not--then more, far more;
+  In each old song bequeath’d--in every noble page or text,
+  (Different--something unreck’d before--some unsuspected author,)
+  In every object, mountain, tree, and star--in every birth and life,
+  As part of each--evolv’d from each--meaning, behind the ostent,
+  A mystic cipher waits infolded.

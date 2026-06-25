@@ -4,7 +4,7 @@ title: >-
   NAME OF ALE
 author: Coleridge
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Joy · Animals · Comic Verse / Song
 source: >-
   Authors/Coleridge/_raw/365_SONG_TO_BE_SUNG_BY_THE_LOVERS_OF_ALL_THE_NOBLE_LIQUORS_COMPRISED_UNDER_THE_NAME.md
 tags:
@@ -19,7 +19,7 @@ tags:
 
 # SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE
 
-*by Coleridge*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
 > A drinking song in dialogue praising ale ('Nappy') as nectar, declaring drinkers as blest as the Olympian gods and Olympus an ale-house; carpe diem conviviality with classical allusion.
@@ -32,8 +32,20 @@ tags:
 **Forms & Genres:** [[Comic Verse Song]]
 **Historical References:** [[Greek Mythology]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!365_SONG_TO_BE_SUNG_BY_THE_LOVERS_OF_ALL_THE_NOBLE_LIQUORS_COMPRISED_UNDER_THE_NAME
+A.
+Ye drinkers of Stingo and Nappy so free,
+Are the Gods on Olympus so happy as we?
+B.
+They cannot be so happy!
+For why? they drink no Nappy.
+A.
+But what if Nectar, in their lingo,
+Is but another name for Stingo?
+B.
+Why, then we and the Gods are equally blest,
+And Olympus an Ale-house as good as the best!
+First published in Morning Post, September 18, 1801. Included in
+Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.
+167.

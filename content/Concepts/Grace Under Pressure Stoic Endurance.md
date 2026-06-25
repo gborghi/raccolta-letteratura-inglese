@@ -1,7 +1,7 @@
 ---
 title: Grace Under Pressure / Stoic Endurance
 type: concept
-cluster: Disillusionment · Odysseus / Ulysses · Grace Under Pressure / Stoic Endurance
+cluster: Disillusionment · First World War · Italy
 tags:
   - graph/concept
 ---

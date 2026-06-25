@@ -1,7 +1,7 @@
 ---
 title: Feigned Madness
 type: motif
-cluster: Power and Corruption · The Crown · Pride
+cluster: Feigned Madness · Denmark
 tags:
   - graph/motif
 ---

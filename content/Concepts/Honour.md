@@ -1,7 +1,7 @@
 ---
 title: Honour
 type: concept
-cluster: Heroism · Honour · Hero
+cluster: Honour · Ancient Rome · Ancient Rome
 tags:
   - graph/concept
 ---

@@ -65,8 +65,11 @@ function parseFrontmatter(raw) {
 }
 
 const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Knowledge Graph"
+const AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors"
 const ROOT = path.resolve(".")
 const CONTENT = path.join(ROOT, "content")
+// Where atomized excerpts / play scenes / long-poem sections get published.
+const TESTI_REL = "Testi"
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "index.json")
 
 // Replicate Quartz's slugifyFilePath (quartz/util/path.ts: sluggify)
@@ -87,6 +90,11 @@ function sluggify(s) {
 function slugFromRel(rel) {
   const noExt = rel.replace(/\.md$/, "").split(path.sep).join("/")
   return sluggify(noExt)
+}
+function esc(s) {
+  return String(s).replace(/[&<>"]/g, (c) =>
+    c === "&" ? "&amp;" : c === "<" ? "&lt;" : c === ">" ? "&gt;" : "&quot;",
+  )
 }
 
 const AXES = [
@@ -124,17 +132,27 @@ const AXIS_FOLDERS = {
   Characters: "character",
 }
 
-// Transform note body: strip wikilinks pointing at unpublished Authors/* files,
-// keeping the display label (or last path segment) as plain text.
-function transform(content) {
-  // [[Authors/...|Label]] -> Label ; [[Authors/...]] -> last segment
-  content = content.replace(/\[\[Authors\/[^\]|]*\|([^\]]+)\]\]/g, "$1")
-  content = content.replace(/\[\[Authors\/([^\]|]+)\]\]/g, (_m, p) => {
-    const seg = p.split("/").pop().replace(/\.md$/, "")
-    return seg
+// Transform note body: rewrite wikilinks that point at Authors/* unit files
+// (atomized chapters/excerpts, play scenes, long-poem sections) to the published
+// "Testi/..." slug so the links resolve. unitHref maps an Authors/... path
+// (with or without .md) to its published slug. Anything not in the map (e.g. a
+// stray Authors/_raw reference) falls back to plain text so no dead link remains.
+function transform(content, unitHref) {
+  const resolve = (target) => {
+    const t = target.replace(/\.md$/, "")
+    return unitHref.get(t) || unitHref.get(target) || null
+  }
+  // [[Authors/...|Label]]
+  content = content.replace(/\[\[(Authors\/[^\]|#]+)(?:#[^\]|]*)?\|([^\]]+)\]\]/g, (_m, tgt, label) => {
+    const href = resolve(tgt.trim())
+    return href ? `[${label}](/${href})` : label
   })
-  // The whole "### Sections / scenes" block links into Authors/* — drop those bullet links,
-  // leaving labels. Already handled by the two replaces above (labels remain).
+  // [[Authors/...]]
+  content = content.replace(/\[\[(Authors\/[^\]|#]+)(?:#[^\]|]*)?\]\]/g, (_m, tgt) => {
+    const href = resolve(tgt.trim())
+    const seg = tgt.split("/").pop().replace(/\.md$/, "")
+    return href ? `[${seg}](/${href})` : seg
+  })
   return content
 }
 
@@ -147,6 +165,198 @@ async function walk(dir, base = dir, out = []) {
   return out
 }
 
+// Strip frontmatter (if any) and pull a title from the first H1, else fall back.
+function splitUnit(raw) {
+  raw = raw.split(NUL).join("")
+  let body = raw
+  const fm = raw.match(/^---\r?\n[\s\S]*?\r?\n---\r?\n?([\s\S]*)$/)
+  if (fm) body = fm[1]
+  const h1 = body.match(/^\s*#\s+(.+?)\s*$/m)
+  const title = h1 ? h1[1].trim() : ""
+  return { body, title }
+}
+
+// Normalize a work-dir / title to a comparable key (case/article/punct-insensitive).
+function normWorkKey(s) {
+  return String(s)
+    .toLowerCase()
+    .replace(/\.md$/, "")
+    .replace(/[_\-]+/g, " ")
+    .replace(/\b(the|a|an)\b/g, " ")
+    .replace(/[^a-z0-9]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+// Sort key that ignores a leading article (for tables/listings).
+function sortKeyNoArticle(s) {
+  return String(s)
+    .toLowerCase()
+    .replace(/^\s*(the|a|an)\s+/, "")
+    .trim()
+}
+
+function prettyFromFilename(name) {
+  return name
+    .replace(/\.md$/, "")
+    .replace(/_/g, " ")
+    .replace(/\s+/g, " ")
+    .trim()
+}
+
+// Classify a unit relative path (under an author dir) -> { unitType, order }.
+function classifyUnit(relParts, fileName) {
+  const f = fileName.replace(/\.md$/, "")
+  let m
+  if ((m = f.match(/^part_(\d+)$/i))) return { unitType: "excerpt", order: parseInt(m[1], 10) }
+  if ((m = f.match(/^Chapter_(\d+)/i))) return { unitType: "chapter", order: parseInt(m[1], 10) }
+  if ((m = f.match(/^Story_(\d+)/i))) return { unitType: "story", order: parseInt(m[1], 10) }
+  if ((m = f.match(/^Section_(\d+)/i))) return { unitType: "section", order: parseInt(m[1], 10) }
+  if ((m = f.match(/^Scene_(\d+)/i))) return { unitType: "scene", order: parseInt(m[1], 10) }
+  return { unitType: "work", order: 0 }
+}
+
+// Publish all atomized excerpts, play scenes and long-poem sections as pages.
+// Returns { unitHref, excerpts } where unitHref maps "Authors/.../x[.md]" -> slug,
+// and excerpts is the excerpt-level index for the Brani page.
+async function publishUnits(rawSourceToWork) {
+  const unitHref = new Map()
+  const excerpts = []
+  let copied = 0
+
+  const authors = await fs.readdir(AUTHORS_DIR, { withFileTypes: true })
+  for (const adir of authors) {
+    if (!adir.isDirectory()) continue
+    const author = adir.name
+    for (const sub of ["Atomized", "Plays", "Long"]) {
+      const subRoot = path.join(AUTHORS_DIR, author, sub)
+      let stat
+      try {
+        stat = await fs.stat(subRoot)
+      } catch {
+        continue
+      }
+      if (!stat.isDirectory()) continue
+      const rels = await walk(subRoot)
+      // Group units by their work directory (first path segment under sub) so we
+      // can compute prev/next ordering and a parent-work link per work.
+      const byWork = new Map()
+      for (const rel of rels) {
+        const relU = rel.replace(/\\/g, "/")
+        const segs = relU.split("/")
+        const workDir = segs[0] // e.g. A_Childs_History_of_England or play slug
+        if (!byWork.has(workDir)) byWork.set(workDir, [])
+        byWork.get(workDir).push(relU)
+      }
+
+      for (const [workDir, relList] of byWork) {
+        // Resolve the parent work note (by raw-source basename, else normalized).
+        const parentWorkHref =
+          rawSourceToWork.get(workDir) || rawSourceToWork.get(normWorkKey(workDir)) || null
+        // Order units: the work-level file first, then by (path, order).
+        const items = relList.map((relU) => {
+          const segs = relU.split("/")
+          const fileName = segs[segs.length - 1]
+          const { unitType, order } = classifyUnit(segs, fileName)
+          const slug = sluggify(`${TESTI_REL}/${author}/${sub}/${relU}`.replace(/\.md$/, ""))
+          return { relU, segs, fileName, unitType, order, slug }
+        })
+        items.sort((a, b) => {
+          if (a.unitType === "work" && b.unitType !== "work") return -1
+          if (b.unitType === "work" && a.unitType !== "work") return 1
+          const ad = a.segs.slice(0, -1).join("/")
+          const bd = b.segs.slice(0, -1).join("/")
+          if (ad !== bd) return ad < bd ? -1 : 1
+          return a.order - b.order
+        })
+
+        // Register hrefs first (so prev/next + link rewrite can see all of them).
+        for (const it of items) {
+          const authPath = `Authors/${author}/${sub}/${it.relU}`
+          unitHref.set(authPath, it.slug)
+          unitHref.set(authPath.replace(/\.md$/, ""), it.slug)
+        }
+
+        // Sequence for prev/next excludes the work-level container file.
+        const seq = items.filter((it) => it.unitType !== "work")
+
+        for (let i = 0; i < items.length; i++) {
+          const it = items[i]
+          const srcAbs = path.join(subRoot, it.relU.split("/").join(path.sep))
+          const raw = await fs.readFile(srcAbs, "utf8")
+          const { body, title: h1Title } = splitUnit(raw)
+          const title = h1Title || prettyFromFilename(it.fileName)
+
+          // prev/next within the reading sequence
+          let prevHref = "",
+            nextHref = "",
+            prevTitle = "",
+            nextTitle = ""
+          if (it.unitType !== "work") {
+            const si = seq.indexOf(it)
+            if (si > 0) {
+              prevHref = "/" + seq[si - 1].slug
+              prevTitle = prettyFromFilename(seq[si - 1].fileName)
+            }
+            if (si >= 0 && si < seq.length - 1) {
+              nextHref = "/" + seq[si + 1].slug
+              nextTitle = prettyFromFilename(seq[si + 1].fileName)
+            }
+          }
+
+          // breadcrumb + prev/next nav block
+          const crumbs = []
+          if (parentWorkHref) crumbs.push(`<a href="/${parentWorkHref}">${esc(workDir.replace(/_/g, " "))}</a>`)
+          else crumbs.push(esc(workDir.replace(/_/g, " ")))
+          const nav =
+            `<nav class="excerpt-nav">\n` +
+            `<div class="excerpt-crumb">${author} · ${crumbs.join(" › ")}</div>\n` +
+            (prevHref || nextHref
+              ? `<div class="excerpt-pn">` +
+                (prevHref ? `<a class="ex-prev" href="${prevHref}">‹ ${esc(prevTitle)}</a>` : `<span></span>`) +
+                (nextHref ? `<a class="ex-next" href="${nextHref}">${esc(nextTitle)} ›</a>` : `<span></span>`) +
+                `</div>\n`
+              : "") +
+            `</nav>\n\n`
+
+          const fm =
+            `---\n` +
+            `title: ${JSON.stringify(title)}\n` +
+            `author: ${JSON.stringify(author)}\n` +
+            `unitType: ${it.unitType}\n` +
+            (parentWorkHref ? `parentWork: ${JSON.stringify(parentWorkHref)}\n` : "") +
+            `tags:\n  - graph/excerpt\n  - author/${author}\n` +
+            `---\n\n`
+
+          // Body already starts with "# Title"; keep it, insert nav after it.
+          let outBody = body
+          const h1m = outBody.match(/^(\s*#\s+.+?\r?\n)/)
+          if (h1m) outBody = outBody.slice(0, h1m[0].length) + "\n" + nav + outBody.slice(h1m[0].length)
+          else outBody = `# ${title}\n\n` + nav + outBody
+
+          const dest = path.join(CONTENT, TESTI_REL, author, sub, it.relU.split("/").join(path.sep))
+          await fs.mkdir(path.dirname(dest), { recursive: true })
+          await fs.writeFile(dest, fm + outBody)
+          copied++
+
+          if (it.unitType !== "work") {
+            excerpts.push({
+              href: it.slug,
+              title,
+              author,
+              work: workDir.replace(/_/g, " "),
+              workHref: parentWorkHref || "",
+              unitType: it.unitType,
+              order: it.order,
+            })
+          }
+        }
+      }
+    }
+  }
+  return { unitHref, excerpts, copied }
+}
+
 async function main() {
   await fs.rm(CONTENT, { recursive: true, force: true })
   await fs.mkdir(CONTENT, { recursive: true })
@@ -156,6 +366,7 @@ async function main() {
   const parsed = [] // { rel, data, content }
   const works = []
   const titleToHref = new Map() // note basename (wikilink target) -> work href
+  const rawSourceToWork = new Map() // raw-source basename (= unit work-dir) -> work href
   for (const rel of files) {
     const relU = rel.replace(/\\/g, "/")
     if (relU === "_Home.md") continue
@@ -166,6 +377,21 @@ async function main() {
       const tags = Array.isArray(data.tags) ? data.tags : data.tags ? [data.tags] : []
       const href = slugFromRel(rel)
       const base = path.basename(rel).replace(/\.md$/, "")
+      // Map the raw-source basename (e.g. "A_Childs_History_of_England") to this
+      // work's href so unit pages can breadcrumb back to their parent work.
+      // Register several normalized keys so Atomized/Plays/Long work-dir names
+      // (which may differ in casing, numeric prefixes or articles) still match.
+      const addKey = (k) => {
+        if (!k) return
+        rawSourceToWork.set(k, href)
+        rawSourceToWork.set(normWorkKey(k), href)
+      }
+      if (typeof data.source === "string") {
+        const srcBase = data.source.split("/").pop().replace(/\.md$/, "")
+        addKey(srcBase)
+        addKey(srcBase.replace(/^\d+_/, "")) // strip leading "018_" style prefix
+      }
+      if (typeof data.title === "string") addKey(data.title)
       const rec = {
         href,
         title: data.title ?? base,
@@ -187,12 +413,19 @@ async function main() {
     }
   }
 
+  // ---- Publish atomized excerpts / play scenes / long-poem sections ----
+  const { unitHref, excerpts, copied: unitsCopied } = await publishUnits(rawSourceToWork)
+  await fs.writeFile(
+    path.join(ROOT, "quartz", "static", "excerpts.json"),
+    JSON.stringify(excerpts),
+  )
+
   // ---- PASS 2: write content; convert concept-note "## Works" lists to tables ----
   // concepts.json maps a concept-note slug -> { title, type, works: [{href,...}] }
   const conceptIndex = {}
   let written = 0
   for (const { rel, relU, data, content } of parsed) {
-    let newContent = transform(content)
+    let newContent = transform(content, unitHref)
     const topFolder = relU.split("/")[0]
     const axis = AXIS_FOLDERS[topFolder]
 
@@ -287,16 +520,19 @@ async function main() {
     cercaAuthor: a,
   }))
 
+  // Live per-axis note counts (so e.g. Characters reflects 712, not a stale number).
+  const axisNoteCount = (folder) =>
+    parsed.filter((p) => p.relU.startsWith(folder + "/") && p.relU.endsWith(".md")).length
   const axesWheel = [
-    { label: "Topoi", sub: "44", img: "axis-topoi", href: "Topoi/" },
-    { label: "Archetipi", sub: "46", img: "axis-archetipi", href: "Archetypes/" },
-    { label: "Motivi", sub: "130", img: "axis-motivi", href: "Motifs/" },
-    { label: "Concetti", sub: "179", img: "axis-concetti", href: "Concepts/" },
-    { label: "Forme", sub: "66", img: "axis-forme", href: "Forms/" },
-    { label: "Riferimenti Storici", sub: "43", img: "axis-storia", href: "Historical-References/" },
-    { label: "Ambientazioni", sub: "46", img: "axis-ambientazioni", href: "Settings/" },
-    { label: "Personaggi", sub: "22", img: "axis-personaggi", href: "Characters/" },
-  ]
+    { label: "Topoi", img: "axis-topoi", href: "Topoi/", n: axisNoteCount("Topoi") },
+    { label: "Archetipi", img: "axis-archetipi", href: "Archetypes/", n: axisNoteCount("Archetypes") },
+    { label: "Motivi", img: "axis-motivi", href: "Motifs/", n: axisNoteCount("Motifs") },
+    { label: "Concetti", img: "axis-concetti", href: "Concepts/", n: axisNoteCount("Concepts") },
+    { label: "Forme", img: "axis-forme", href: "Forms/", n: axisNoteCount("Forms") },
+    { label: "Riferimenti Storici", img: "axis-storia", href: "Historical-References/", n: axisNoteCount("Historical References") },
+    { label: "Ambientazioni", img: "axis-ambientazioni", href: "Settings/", n: axisNoteCount("Settings") },
+    { label: "Personaggi", img: "axis-personaggi", href: "Characters/", n: axisNoteCount("Characters") },
+  ].map((a) => ({ label: a.label, sub: String(a.n), img: a.img, href: a.href }))
 
   // Map the 12 biggest clusters to their emblem files (by leading keyword).
   const clusterEmblem = [
@@ -414,6 +650,20 @@ You can also [browse all works](opere) or [search by theme](cerca).
 `
   await fs.writeFile(path.join(CONTENT, "naviga.md"), naviga)
 
-  console.log(`copied ${written} notes, indexed ${works.length} works, ${authors.length} authors, ${clusters.length} clusters`)
+  // ---------- Brani / Excerpts (atomized-unit index) ----------
+  const brani = `---
+title: Brani / Excerpts
+---
+
+Every chapter, story, scene, section and paragraph-level excerpt across the prose works, plays and long poems — **${excerpts.length.toLocaleString("en")}** atomized units in all, each a page of its own with a link back to its work and prev/next navigation. Sort by any column, page through, or filter by text.
+
+<div id="brani-table"></div>
+`
+  await fs.writeFile(path.join(CONTENT, "brani.md"), brani)
+
+  console.log(
+    `copied ${written} notes, ${unitsCopied} unit pages; indexed ${works.length} works, ` +
+      `${excerpts.length} excerpts, ${authors.length} authors, ${clusters.length} clusters`,
+  )
 }
 main()

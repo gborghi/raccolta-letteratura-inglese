@@ -2,7 +2,7 @@
 title: Sonnet 85
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_085.md
 tags:
   - graph/work
@@ -18,20 +18,31 @@ tags:
 
 # Sonnet 85
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The tongue-tied muse stays silent while rivals write golden praise; the speaker loves in dumb thought rather than words.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility (3)]]
-**Motifs:** [[Silence (2)]], [[Money and Gold]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Friendship]]
+**Topoi:** [[Inexpressibility]]
+**Motifs:** [[Silence]], [[Money and Gold]]
+**Themes & Concepts:** [[Artist and Society]], [[Friendship]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_085
+My tongue-tied muse in manners holds her still 
+While comments of your praise, richly compiled, 
+Reserve thy character with golden quill 
+And precious phrase by all the muses filed. 
+I think good thoughts whilst other write good words, 
+And like unlettered clerk still cry ‘Amen’ 
+To every hymn that able spirit affords 
+In polished form of well-refinèd pen. 
+Hearing you praised I say “Tis so, ’tis true,’ 
+And to the most of praise add something more; 
+But that is in my thought, whose love to you, 
+Though words come hindmost, holds his rank before. 
+Then others for the breath of words respect, 
+Me for my dumb thoughts, speaking in effect.

@@ -1,7 +1,7 @@
 ---
 title: Concealment / Hidden Identity
 type: motif
-cluster: Appearance vs Reality · Deception · Short Story
+cluster: Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
 tags:
   - graph/motif
 ---

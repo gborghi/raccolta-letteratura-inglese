@@ -2,7 +2,7 @@
 title: 'P, Q, R'
 author: Eliot
 type: work
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Eliot/_raw/121_P_Q_R.md
 tags:
   - graph/work
@@ -15,18 +15,24 @@ tags:
 
 # P, Q, R
 
-*by Eliot*  ·  **Cluster:** [[The Artist and Society · The Book Reading · Clothing and Costume]]
+*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (P–R) listing openings such as 'Polyphiloprogenitive', 'Pipit sate upright' and the Nocturne opening; apparatus to the collected poems.
 
 ## Connections
 
-**Motifs:** [[The Book Reading]], [[The Sea]]
+**Motifs:** [[Book Reading]], [[Sea]]
 **Themes & Concepts:** [[Romantic Love]], [[Satire of Society]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Paint me a cavernous waste shore 1
+Pipit sate upright in her chair 1
+Polyphiloprogenitive 1
 
-!121_P_Q_R
+Romeo, grand sérieux, to importune 1
+
+Standing upon the shore of all we know 1
+Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1
+Sunday: this satisfied procession 1

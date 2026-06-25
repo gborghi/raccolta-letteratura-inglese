@@ -1,0 +1,275 @@
+---
+title: "The Merchant of Venice — Act II, Scene 5"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Merchant of Venice — Act II, Scene 5
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Merchant_of_Venice/Act_2/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Merchant_of_Venice/Act_2/Scene_8">Scene 8 ›</a></div>
+</nav>
+
+
+Enter Shylock the Jew and his man that was, Lancelot the clown
+SHYLOCK
+Well, thou shalt see, thy eyes shall be thy judge,
+The difference of old Shylock and Bassanio.
+(Calling) What, Jessica! (To Lancelot) Thou shalt not
+gormandize
+As thou hast done with me. (Calling) What, Jessica!
+(To Lancelot) And sleep and snore and rend apparel
+out.
+(Calling) Why, Jessica, I say!
+LANCELOT (calling) Why, Jessica!
+SHYLOCK
+Who bids thee call? I do not bid thee call.
+LANCELOT Your worship was wont to tell me I could do nothing without bidding.
+Enter Jessica
+JESSICA (to Shylock) Call you? What is your will?
+SHYLOCK
+I am bid forth to supper, Jessica.
+There are my keys. But wherefore should I go?
+I am not bid for love. They flatter me,
+But yet I’ll go in hate, to feed upon
+The prodigal Christian. Jessica, my girl, 15
+Look to my house. I am right loath to go.
+There is some ill a-brewing towards my rest,
+For I did dream of money-bags tonight.
+LANCELOT I beseech you, sir, go. My young master doth
+expect your reproach.
+SHYLOCK So do I his.
+LANCELOT And they have conspired together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six o’clock i’th’ morning, falling out that year on Ash Wednesday was four year in th’afternoon.
+SHYLOCK
+What, are there masques? Hear you me, Jessica,
+Lock up my doors; and when you hear the drum
+And the vile squealing of the wry-necked fife,
+Clamber not you up to the casements then,
+Nor thrust your head into the public street
+To gaze on Christian fools with varnished faces,
+But stop my house’s ears—I mean my casements.
+Let not the sound of shallow fopp’ry enter
+My sober house. By Jacob’s staff I swear
+I have no mind of feasting forth tonight.
+But I will go. (To Lancelot) Go you before me, sirrah.
+Say I will come.
+LANCELOT I will go before, sir.
+(Aside to Jessica)
+Mistress, look out at window for all this.
+There will come a Christian by
+Will be worth a Jewës eye. Exit
+SHYLOCK (to Jessica)
+What says that fool of Hagar’s offspring, ha?
+JESSICA
+His words were ‘Farewell, mistress’; nothing else.
+SHYLOCK
+The patch is kind enough, but a huge feeder,
+Snail-slow in profit, and he sleeps by day
+More than the wildcat. Drones hive not with me;
+Therefore I part with him, and part with him
+To one that I would have him help to waste
+His borrowed purse. Well, Jessica, go in.
+Perhaps I will return immediately.
+Do as I bid you. Shut doors after you.
+Fast bind, fast find—
+A proverb never stale in thrifty mind.
+Exit at one door
+JESSICA
+Farewell; and if my fortune be not crossed,
+I have a father, you a daughter lost.
+Exit at another door
+
+2.6 Enter the masquers, Graziano and Salerio, ⌈with torchbearers⌉
+GRAZIANO
+This is the penthouse under which Lorenzo
+Desired us to make stand.
+SALERIO His hour is almost past.
+GRAZIANO
+And it is marvel he outdwells his hour,
+For lovers ever run before the clock.
+SALERIO
+O, ten times faster Venus’ pigeons fly
+To seal love’s bonds new made than they are wont
+To keep obligèd faith unforfeited.
+GRAZIANO
+That ever holds. Who riseth from a feast
+With that keen appetite that he sits down?
+Where is the horse that doth untread again
+His tedious measures with the unbated fire
+That he did pace them first? All things that are
+Are with more spirit chased than enjoyed.
+How like a younker or a prodigal
+The scarfed barque puts from her native bay,
+Hugged and embraced by the strumpet wind!
+How like the prodigal doth she return,
+With over-weathered ribs and ragged sails,
+Lean, rent, and beggared by the strumpet wind!
+Enter Lorenzo, ⌈with a torch⌉
+SALERIO
+Here comes Lorenzo. More of this hereafter.
+LORENZO
+Sweet friends, your patience for my long abode.
+Not I but my affairs have made you wait.
+When you shall please to play the thieves for wives
+I’ll watch as long for you therein. Approach.
+Here dwells my father Jew. (Calling) Ho, who’s
+within?
+Enter Jessica above in boy’s apparel
+JESSICA
+Who are you? Tell me for more certainty,
+Albeit I’ll swear that I do know your tongue.
+LORENZO Lorenzo, and thy love.
+JESSICA
+Lorenzo, certain, and my love indeed,
+For who love I so much? And now who knows
+But you, Lorenzo, whether I am yours?
+LORENZO
+Heaven and thy thoughts are witness that thou art.
+JESSICA
+Here, catch this casket. It is worth the pains.
+I am glad ’tis night, you do not look on me,
+For I am much ashamed of my exchange;
+But love is blind, and lovers cannot see
+The pretty follies that themselves commit;
+For if they could, Cupid himself would blush
+To see me thus transformèd to a boy.
+LORENZO
+Descend, for you must be my torchbearer.
+JESSICA
+What, must I hold a candle to my shames?
+They in themselves, good sooth, are too too light.
+Why, ’tis an office of discovery, love,
+And I should be obscured.
+LORENZO So are you, sweet,
+Even in the lovely garnish of a boy.
+But come at once,
+For the close night doth play the runaway,
+And we are stayed for at Bassanio’s feast.
+JESSICA
+I will make fast the doors, and gild myself
+With some more ducats, and be with you straight.
+Exit above
+GRAZIANO
+Now, by my hood, a gentile, and no Jew.
+LORENZO
+Beshrew me but I love her heartily,
+For she is wise, if I can judge of her;
+And fair she is, if that mine eyes be true;
+And true she is, as she hath proved herself;
+And therefore like herself, wise, fair, and true,
+Shall she be placed in my constant soul.
+Enter Jessica below
+What, art thou come? On, gentlemen, away.
+Our masquing mates by this time for us stay.
+Exit with Jessica and Salerio
+Enter Antonio
+ANTONIO
+Who’s there?
+GRAZIANO Signor Antonio? 60
+ANTONIO
+Fie, fie, Graziano, where are all the rest?
+‘Tis nine o’clock. Our friends all stay for you.
+No masque tonight. The wind is come about.
+Bassanio presently will go aboard.
+I have sent twenty out to seek for you. 65
+GRAZIANO
+I am glad on’t. I desire no more delight
+Than to be under sail and gone tonight. Exeunt
+
+2.7 ⌈Flourish of cornetts.⌉ Enter Portia with Morocco and both their trains
+PORTIA
+Go, draw aside the curtains, and discover
+The several caskets to this noble prince.
+The curtains are drawn aside, revealing three caskets
+(To Morocco) Now make your choice.
+MOROCCO
+This first of gold, who this inscription bears:
+‘Who chooseth me shall gain what many men desire.’
+The second silver, which this promise carries:
+‘Who chooseth me shall get as much as he deserves.’
+This third dull lead, with warning all as blunt:
+‘Who chooseth me must give and hazard all he hath.’
+How shall I know if I do choose the right?
+PORTIA
+The one of them contains my picture, Prince.
+If you choose that, then I am yours withal.
+MOROCCO
+Some god direct my judgement! Let me see.
+I will survey th‘inscriptions back again.
+What says this leaden casket? 15
+‘Who chooseth me must give and hazard all he hath.’
+Must give, for what? For lead? Hazard for lead?
+This casket threatens. Men that hazard all
+Do it in hope of fair advantages.
+A golden mind stoops not to shows of dross.
+I’ll then nor give nor hazard aught for lead.
+What says the silver with her virgin hue?
+‘Who chooseth me shall get as much as he deserves.’
+‘As much as he deserves’: pause there, Morocco,
+And weigh thy value with an even hand.
+If thou beest rated by thy estimation
+Thou dost deserve enough, and yet ‘enough’
+May not extend so far as to the lady.
+And yet to be afeard of my deserving
+Were but a weak disabling of myself.
+As much as I deserve—why, that’s the lady!
+I do in birth deserve her, and in fortunes,
+In graces, and in qualities of breeding;
+But more than these, in love I do deserve.
+What if I strayed no farther, but chose here?
+Let’s see once more this saying graved in gold:
+‘Who chooseth me shall gain what many men desire.’
+Why, that’s the lady! All the world desires her.
+From the four corners of the earth they come
+To kiss this shrine, this mortal breathing saint.
+The Hyrcanian deserts and the vasty wilds
+Of wide Arabia are as throughfares now
+For princes to come view fair Portia.
+The watery kingdom, whose ambitious head
+Spits in the face of heaven, is no bar
+To stop the foreign spirits, but they come
+As o‘er a brook to see fair Portia.
+One of these three contains her heavenly picture.
+Is’t like that lead contains her? ’Twere damnation
+To think so base a thought. It were too gross
+To rib her cerecloth in the obscure grave.
+Or shall I think in silver she’s immured,
+Being ten times undervalued to tried gold?
+O sinful thought! Never so rich a gem
+Was set in worse than gold. They have in England
+A coin that bears the figure of an angel
+Stamped in gold, but that’s insculped upon;
+But here an angel in a golden bed
+Lies all within. Deliver me the key.
+Here do I choose, and thrive I as I may.
+He is given a key
+PORTIA
+There, take it, Prince; and if my form lie there,
+Then I am yours.
+Morocco opens the golden casket
+MOROCCO O hell! What have we here?
+A carrion death, within whose empty eye
+There is a written scroll. I’ll read the writing.
+‘All that glisters is not gold;
+Often have you heard that told.
+Many a man his life hath sold
+But my outside to behold.
+Gilded tombs do worms infold.
+Had you been as wise as bold,
+Young in limbs, in judgement old,
+Your answer had not been enscrolled.
+Fare you well; your suit is cold.’
+Cold indeed, and labour lost.
+Then farewell heat, and welcome frost.
+Portia, adieu. I have too grieved a heart
+To take a tedious leave. Thus losers part.
+⌈Flourish of cornetts.⌉ Exit with his train
+PORTIA
+A gentle riddance. Draw the curtains, go.
+Let all of his complexion choose me so.
+The curtains are drawn. Exeunt

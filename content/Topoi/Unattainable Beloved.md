@@ -1,0 +1,17 @@
+---
+title: Unattainable Beloved
+type: topos
+cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
+tags:
+  - graph/topos
+---
+
+# Unattainable Beloved
+
+*Topos* — appears in **72** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Topoi/Unattainable-Beloved"></div>
+
+#graph/topos

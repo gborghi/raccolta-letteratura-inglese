@@ -1,0 +1,17 @@
+---
+title: Self
+type: concept
+cluster: Identity · Free Verse · Eternal Return
+tags:
+  - graph/concept
+---
+
+# Self
+
+*Theme/Concept* — appears in **15** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Concepts/Self"></div>
+
+#graph/concept

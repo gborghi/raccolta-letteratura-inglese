@@ -1,0 +1,191 @@
+---
+title: "Victorian Age — Chapter 1 (part 8)"
+author: "Chesterton"
+unitType: excerpt
+parentWork: "Works/Victorian-Age-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# Victorian Age — Chapter 1 (part 8)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/Victorian-Age-(Chesterton)">Victorian Age</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_01/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_01/part_09">part 09 ›</a></div>
+</nav>
+
+
+sceptical omissions, with the grisly Old Testament God he had heard
+
+about in the black Sabbaths of his childhood; and so promulgated
+
+(against both Rationalists and Catholics) a sort of heathen Puritanism:
+
+Protestantism purged of its evidences of Christianity.
+
+
+
+His great and real work was the attack on Utilitarianism: which did real
+
+good, though there was much that was muddled and dangerous in the
+
+historical philosophy which he preached as an alternative. It is his
+
+real glory that he was the first to see clearly and say plainly the
+
+great truth of our time; that the wealth of the state is not the
+
+prosperity of the people. Macaulay and the Mills and all the regular run
+
+of the Early Victorians, took it for granted that if Manchester was
+
+getting richer, we had got hold of the key to comfort and progress.
+
+Carlyle pointed out (with stronger sagacity and humour than he showed on
+
+any other question) that it was just as true to say that Manchester was
+
+getting poorer as that it was getting richer: or, in other words, that
+
+Manchester was not getting richer at all, but only some of the less
+
+pleasing people in Manchester. In this matter he is to be noted in
+
+connection with national developments much later; for he thus became the
+
+first prophet of the Socialists. _Sartor Resartus_ is an admirable
+
+fantasia; _The French Revolution_ is, with all its faults, a really
+
+fine piece of history; the lectures on Heroes contain some masterly
+
+sketches of personalities. But I think it is in _Past and Present_, and
+
+the essay on _Chartism_, that Carlyle achieves the work he was chosen by
+
+gods and men to achieve; which possibly might not have been achieved by
+
+a happier or more healthy-minded man. He never rose to more deadly irony
+
+than in such _macabre_ descriptions as that of the poor woman proving
+
+her sisterhood with the rich by giving them all typhoid fever; or that
+
+perfect piece of _badinage_ about "Overproduction of Shirts"; in which
+
+he imagines the aristocrats claiming to be quite clear of this offence.
+
+"Will you bandy accusations, will you accuse _us_ of overproduction? We
+
+take the Heavens and the Earth to witness that we have produced nothing
+
+at all.... He that accuses us of producing, let him show himself. Let
+
+him say what and when." And he never wrote so sternly and justly as when
+
+he compared the "divine sorrow" of Dante with the "undivine sorrow" of
+
+Utilitarianism, which had already come down to talking about the
+
+breeding of the poor and to hinting at infanticide. This is a
+
+representative quarrel; for if the Utilitarian spirit reached its
+
+highest point in Mill, it certainly reached its lowest point in Malthus.
+
+
+
+One last element in the influence of Carlyle ought to be mentioned;
+
+because it very strongly dominated his disciples--especially Kingsley,
+
+and to some extent Tennyson and Ruskin. Because he frowned at the
+
+cockney cheerfulness of the cheaper economists, they and others
+
+represented him as a pessimist, and reduced all his azure infinities to
+
+a fit of the blues. But Carlyle's philosophy, more carefully considered,
+
+will be found to be dangerously optimist rather than pessimist. As a
+
+thinker Carlyle is not sad, but recklessly and rather unscrupulously
+
+satisfied. For he seems to have held the theory that good could not be
+
+definitely defeated in this world; and that everything in the long run
+
+finds its right level. It began with what we may call the "Bible of
+
+History" idea: that all affairs and politics were a clouded but unbroken
+
+revelation of the divine. Thus any enormous and unaltered human
+
+settlement--as the Norman Conquest or the secession of America--we must
+
+suppose to be the will of God. It lent itself to picturesque treatment;
+
+and Carlyle and the Carlyleans were above all things picturesque. It
+
+gave them at first a rhetorical advantage over the Catholic and other
+
+older schools. They could boast that their Creator was still creating;
+
+that he was in Man and Nature, and was not hedged round in a Paradise or
+
+imprisoned in a pyx. They could say their God had not grown too old for
+
+war: that He was present at Gettysburg and Gravelotte as much as at
+
+Gibeon and Gilboa. I do not mean that they literally said these
+
+particular things: they are what I should have said had I been bribed to
+
+defend their position. But they said things to the same effect: that
+
+what manages finally to happen, happens for a higher purpose. Carlyle
+
+said the French Revolution was a thing settled in the eternal councils
+
+to be; and therefore (and not because it was right) attacking it was
+
+"fighting against God." And Kingsley even carried the principle so far
+
+as to tell a lady she should remain in the Church of England mainly
+
+because God had put her there. But in spite of its superficial
+
+spirituality and encouragement, it is not hard to see how such a
+
+doctrine could be abused. It practically comes to saying that God is on
+
+the side of the big battalions--or at least, of the victorious ones.
+
+Thus a creed which set out to create conquerors would only corrupt
+
+soldiers; corrupt them with a craven and unsoldierly worship of success:
+
+and that which began as the philosophy of courage ends as the philosophy
+
+of cowardice. If, indeed, Carlyle were right in saying that right is
+
+only "rightly articulated" might, men would never articulate or move in
+
+any way. For no act can have might before it is done: if there is no
+
+right, it cannot rationally be done at all. This element, like the
+
+Anti-Utilitarian element, is to be kept in mind in connection with after
+
+developments: for in this Carlyle is the first cry of Imperialism, as
+
+(in the other case) of Socialism: and the two babes unborn who stir at
+
+the trumpet are Mr. Bernard Shaw and Mr. Rudyard Kipling. Kipling also
+
+carries on from Carlyle the concentration on the purely Hebraic parts of
+
+the Bible. The fallacy of this whole philosophy is that if God is indeed
+
+present at a modern battle, He may be present not as on Gilboa but

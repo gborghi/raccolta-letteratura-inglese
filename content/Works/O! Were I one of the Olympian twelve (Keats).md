@@ -2,7 +2,7 @@
 title: O! Were I one of the Olympian twelve
 author: Keats
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Keats/_raw/084_O_Were_I_one_of_the_Olympian_twelve.md
 tags:
   - graph/work
@@ -18,21 +18,29 @@ tags:
 
 # O! Were I one of the Olympian twelve
 
-*by Keats*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > A fragment wishing for an Olympian decree rewarding the lover's quest after a veiled beauty with ever-ripening kisses. It joins the toil after unattainable beauty with romantic love and Greek myth.
 
 ## Connections
 
-**Topoi:** [[The Unattainable Beloved]], [[The Quest (2)]]
-**Motifs:** [[Desire (2)]]
+**Topoi:** [[Unattainable Beloved]], [[Quest]]
+**Motifs:** [[Desire]]
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Fragment]]
 **Historical References:** [[Greek Mythology]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!084_O_Were_I_one_of_the_Olympian_twelve
+O! Were I one of the Olympian twelve,
+Their godships should pass this into a law, -
+That when a man doth set himself in toil
+After some beauty veiled far away,
+Each step he took should make his lady’s hand
+More soft, more white, and her fair cheek more fair;
+And for each briar-berry he might eat,
+A kiss should bud upon the tree of love,
+And pulp and ripen richer every hour,
+To melt away upon the traveller’s lips.
+10

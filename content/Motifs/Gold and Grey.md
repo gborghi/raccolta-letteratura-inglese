@@ -1,7 +1,7 @@
 ---
 title: Gold and Grey
 type: motif
-cluster: Essay · Critique of Progress · The Common Man
+cluster: Essay · Critique of Progress · Common Man
 tags:
   - graph/motif
 ---

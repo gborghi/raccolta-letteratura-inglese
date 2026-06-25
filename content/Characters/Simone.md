@@ -1,0 +1,17 @@
+---
+title: Simone
+type: character
+cluster: Blood · Verse Drama · Revenge
+tags:
+  - graph/character
+---
+
+# Simone
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Simone"></div>
+
+#graph/character

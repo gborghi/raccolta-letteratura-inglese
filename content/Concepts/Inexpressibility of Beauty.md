@@ -1,7 +1,7 @@
 ---
 title: Inexpressibility of Beauty
 type: concept
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Flowers · Spring · Garden
 tags:
   - graph/concept
 ---

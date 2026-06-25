@@ -2,7 +2,7 @@
 title: elegy
 author: Chesterton
 type: work
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: Grief and Loss · Elegy · Clothing and Costume
 source: Authors/Chesterton/_raw/elegy.md
 tags:
   - graph/work
@@ -18,20 +18,41 @@ tags:
 
 # elegy
 
-*by Chesterton*  ·  **Cluster:** [[Nationalism and Patriotism · The First World War · Flags and Banners]]
+*by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
 > Short ironic elegy: those who worked for England have home graves, those who fought lie afar, but those who rule 'have no graves as yet' — patriotic satire on the ruling class.
 
 ## Connections
 
-**Motifs:** [[The Grave]]
+**Motifs:** [[Grave]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]], [[Satire of Society]], [[Mortality]]
 **Forms & Genres:** [[Elegy]]
 **Settings:** [[Rural England]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Elegy in a Country Churchyard
 
-!elegy
+	       -------------------------------------------------------------
+
+	       The men that worked for England
+	       They have their graves at home:
+	       And bees and birds of England
+	       About the cross can roam.
+
+	       But they that fought for England,
+	       Following a falling star,
+	       Alas, alas for England
+	       They have their graves afar.
+
+	       And they that rule in England,
+	       In stately conclave met,
+	       Alas, alas for England,
+	       They have no graves as yet.
+				   - G.K. Chesterton
+
+	       -------------------------------------------------------------
+
+
+===== FINE FILE: elegy.txt =====

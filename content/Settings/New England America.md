@@ -1,7 +1,7 @@
 ---
 title: New England / America
 type: setting
-cluster: Death · Mortality · Immortality
+cluster: New England / America · New England
 tags:
   - graph/setting
 ---

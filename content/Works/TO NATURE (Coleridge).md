@@ -2,7 +2,7 @@
 title: TO NATURE
 author: Coleridge
 type: work
-cluster: Nature · The Book of Nature · The Natural Order
+cluster: Nature · Book of Nature · Natural Order
 source: Authors/Coleridge/_raw/257_TO_NATURE.md
 tags:
   - graph/work
@@ -18,20 +18,32 @@ tags:
 
 # TO NATURE
 
-*by Coleridge*  ·  **Cluster:** [[Nature · The Book of Nature · The Natural Order]]
+*by Coleridge*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
 > A sonnet making nature itself a temple: the poet builds an altar in the fields and worships God through leaves and flowers. Themes: nature as worship, piety, the book of nature.
 
 ## Connections
 
-**Topoi:** [[The Book of Nature]]
+**Topoi:** [[Book of Nature]]
 **Motifs:** [[Nature]], [[Flowers]]
 **Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Humility]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!257_TO_NATURE
+It may indeed be phantasy, when I
+Essay to draw from all created things
+Deep, heartfelt, inward joy that closely clings;
+And trace in leaves and flowers that round me lie
+Lessons of love and earnest piety.   5
+So let it be; and if the wide world rings
+In mock of this belief, it brings
+Nor fear, nor grief, nor vain perplexity.
+So will I build my altar in the fields,
+And the blue sky my fretted dome shall be,   10
+And the sweet fragrance that the wild flower yields
+Shall be the incense I will yield to Thee,
+Thee only God! and thou shalt not despise
+Even me, the priest of this poor sacrifice.
+? 1820.

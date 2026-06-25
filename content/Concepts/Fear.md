@@ -1,7 +1,7 @@
 ---
 title: Fear
 type: concept
-cluster: Self-Knowledge · Identity · The Self
+cluster: Despair · Fear
 tags:
   - graph/concept
 ---

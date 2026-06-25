@@ -1,0 +1,225 @@
+---
+title: "Persuasion — Chapter 10 (part 3)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Persuasion-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Persuasion — Chapter 10 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_10/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_10/part_04">part 04 ›</a></div>
+</nav>
+
+
+infuse as much of your own spirit into her as you can. But this, no
+
+doubt, you have been always doing. It is the worst evil of too yielding
+
+and indecisive a character, that no influence over it can be depended
+
+on. You are never sure of a good impression being durable; everybody
+
+may sway it. Let those who would be happy be firm. Here is a nut,” said
+
+he, catching one down from an upper bough, “to exemplify: a beautiful
+
+glossy nut, which, blessed with original strength, has outlived all the
+
+storms of autumn. Not a puncture, not a weak spot anywhere. This nut,”
+
+he continued, with playful solemnity, “while so many of his brethren
+
+have fallen and been trodden under foot, is still in possession of all
+
+the happiness that a hazel nut can be supposed capable of.” Then
+
+returning to his former earnest tone—“My first wish for all whom I am
+
+interested in, is that they should be firm. If Louisa Musgrove would be
+
+beautiful and happy in her November of life, she will cherish all her
+
+present powers of mind.”
+
+
+
+He had done, and was unanswered. It would have surprised Anne if Louisa
+
+could have readily answered such a speech: words of such interest,
+
+spoken with such serious warmth! She could imagine what Louisa was
+
+feeling. For herself, she feared to move, lest she should be seen.
+
+While she remained, a bush of low rambling holly protected her, and
+
+they were moving on. Before they were beyond her hearing, however,
+
+Louisa spoke again.
+
+
+
+“Mary is good-natured enough in many respects,” said she; “but she does
+
+sometimes provoke me excessively, by her nonsense and pride—the Elliot
+
+pride. She has a great deal too much of the Elliot pride. We do so wish
+
+that Charles had married Anne instead. I suppose you know he wanted to
+
+marry Anne?”
+
+
+
+After a moment’s pause, Captain Wentworth said—
+
+
+
+“Do you mean that she refused him?”
+
+
+
+“Oh! yes; certainly.”
+
+
+
+“When did that happen?”
+
+
+
+“I do not exactly know, for Henrietta and I were at school at the time;
+
+but I believe about a year before he married Mary. I wish she had
+
+accepted him. We should all have liked her a great deal better; and
+
+papa and mamma always think it was her great friend Lady Russell’s
+
+doing, that she did not. They think Charles might not be learned and
+
+bookish enough to please Lady Russell, and that therefore, she
+
+persuaded Anne to refuse him.”
+
+
+
+The sounds were retreating, and Anne distinguished no more. Her own
+
+emotions still kept her fixed. She had much to recover from, before she
+
+could move. The listener’s proverbial fate was not absolutely hers; she
+
+had heard no evil of herself, but she had heard a great deal of very
+
+painful import. She saw how her own character was considered by Captain
+
+Wentworth, and there had been just that degree of feeling and curiosity
+
+about her in his manner which must give her extreme agitation.
+
+
+
+As soon as she could, she went after Mary, and having found, and walked
+
+back with her to their former station, by the stile, felt some comfort
+
+in their whole party being immediately afterwards collected, and once
+
+more in motion together. Her spirits wanted the solitude and silence
+
+which only numbers could give.
+
+
+
+Charles and Henrietta returned, bringing, as may be conjectured,
+
+Charles Hayter with them. The minutiae of the business Anne could not
+
+attempt to understand; even Captain Wentworth did not seem admitted to
+
+perfect confidence here; but that there had been a withdrawing on the
+
+gentleman’s side, and a relenting on the lady’s, and that they were now
+
+very glad to be together again, did not admit a doubt. Henrietta looked
+
+a little ashamed, but very well pleased;—Charles Hayter exceedingly
+
+happy: and they were devoted to each other almost from the first
+
+instant of their all setting forward for Uppercross.
+
+
+
+Everything now marked out Louisa for Captain Wentworth; nothing could
+
+be plainer; and where many divisions were necessary, or even where they
+
+were not, they walked side by side nearly as much as the other two. In
+
+a long strip of meadow land, where there was ample space for all, they
+
+were thus divided, forming three distinct parties; and to that party of
+
+the three which boasted least animation, and least complaisance, Anne
+
+necessarily belonged. She joined Charles and Mary, and was tired enough
+
+to be very glad of Charles’s other arm; but Charles, though in very
+
+good humour with her, was out of temper with his wife. Mary had shewn
+
+herself disobliging to him, and was now to reap the consequence, which
+
+consequence was his dropping her arm almost every moment to cut off the
+
+heads of some nettles in the hedge with his switch; and when Mary began
+
+to complain of it, and lament her being ill-used, according to custom,
+
+in being on the hedge side, while Anne was never incommoded on the
+
+other, he dropped the arms of both to hunt after a weasel which he had
+
+a momentary glance of, and they could hardly get him along at all.
+
+
+
+This long meadow bordered a lane, which their footpath, at the end of
+
+it was to cross, and when the party had all reached the gate of exit,
+
+the carriage advancing in the same direction, which had been some time
+
+heard, was just coming up, and proved to be Admiral Croft’s gig. He and
+
+his wife had taken their intended drive, and were returning home. Upon
+
+hearing how long a walk the young people had engaged in, they kindly
+
+offered a seat to any lady who might be particularly tired; it would
+
+save her a full mile, and they were going through Uppercross. The
+
+invitation was general, and generally declined. The Miss Musgroves were
+
+not at all tired, and Mary was either offended, by not being asked
+
+before any of the others, or what Louisa called the Elliot pride could
+
+not endure to make a third in a one horse chaise.
+
+
+
+The walking party had crossed the lane, and were surmounting an
+
+opposite stile, and the Admiral was putting his horse in motion again,
+
+when Captain Wentworth cleared the hedge in a moment to say something
+
+to his sister. The something might be guessed by its effects.

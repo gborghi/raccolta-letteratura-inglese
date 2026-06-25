@@ -2,7 +2,7 @@
 title: 'J, K, L'
 author: Eliot
 type: work
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Eliot/_raw/119_J_K_L.md
 tags:
   - graph/work
@@ -15,18 +15,28 @@ tags:
 
 # J, K, L
 
-*by Eliot*  ·  **Cluster:** [[The Artist and Society · The Book Reading · Clothing and Costume]]
+*by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > Index-of-first-lines fragment (J–L) listing openings including 'Let us go then, you and I' (Prufrock) and Practical Cats lines; apparatus to the collected poems.
 
 ## Connections
 
-**Motifs:** [[The Book Reading]], [[Animals]], [[The Journey]]
+**Motifs:** [[Book Reading]], [[Animals]], [[Journey]]
 **Themes & Concepts:** [[Alienation]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Jellicle Cats are black and white 1
 
-!119_J_K_L
+Le garçon délabré qui n’a rien à faire 1
+Let these memorials of built stone — music’s 1
+Let us go then, you and I 1
+Lord, the Roman hyacinths are blooming in bowls and 1
+
+Macavity’s a Mystery Cat: he’s called the Hidden Paw 1
+Malheur à la malheureuse Tamise  1
+Midwinter spring is its own season 1
+Miss Helen Slingsby was my maiden aunt 1
+Miss Nancy Ellicott 1
+Mungojerrie and Rumpelteazer were a very notorious couple of cats 1

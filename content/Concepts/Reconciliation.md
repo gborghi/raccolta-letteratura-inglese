@@ -1,7 +1,7 @@
 ---
 title: Reconciliation
 type: concept
-cluster: Paradise Lost · Serpent / Snake · Mercy
+cluster: Stars · Night · Military Camp
 tags:
   - graph/concept
 ---

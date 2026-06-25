@@ -1,7 +1,7 @@
 ---
 title: Battle of Lepanto
 type: histref
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/histref
 ---

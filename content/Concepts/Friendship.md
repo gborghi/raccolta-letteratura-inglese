@@ -1,7 +1,7 @@
 ---
 title: Friendship
 type: concept
-cluster: Friendship · The Nightingale
+cluster: Friendship · Tears
 tags:
   - graph/concept
 ---

@@ -2,7 +2,7 @@
 title: A METRICAL ACCIDENT
 author: Coleridge
 type: work
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Martyrdom · Martyr / Saint · Cross
 source: Authors/Coleridge/_raw/410_A_METRICAL_ACCIDENT.md
 tags:
   - graph/work
@@ -18,21 +18,32 @@ tags:
 
 # A METRICAL ACCIDENT
 
-*by Coleridge*  ·  **Cluster:** [[Martyrdom · The Martyr Saint · The Cross]]
+*by Coleridge*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
 > A note on casual metre and rhyme found in a prose narrative of Jerome of Prague, who from the flames summons his judges before God; martyrdom rendered as accidental verse.
 
 ## Connections
 
-**Archetypes:** [[The Martyr Saint]]
+**Archetypes:** [[Martyr Saint]]
 **Motifs:** [[Fire]], [[Blood]]
 **Themes & Concepts:** [[Martyrdom]], [[Justice Right and Wrong]]
 **Forms & Genres:** [[Fragment]]
-**Historical References:** [[The Reformation]]
+**Historical References:** [[Reformation]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!410_A_METRICAL_ACCIDENT
+Curious instance of casual metre and rhyme in a prose narrative (The
+Life of Jerome of Prague). The metre is Amphibrach dimeter Catalectic
+Ø ¯ Ø | Ø ¯, and the rhymes antistrophic.
+Then Jerome did call       a
+From his flame-pointed Fence;       b
+Which under he trod,       c
+As upward to mount    d
+From the fiery flood, —  e
+‘I summon you all,    a
+A hundred years hence,     b
+To appear before God,      c
+To give an account    d
+Of my innocent blood!’     e
+July 7, 1826. Now first published from an MS.

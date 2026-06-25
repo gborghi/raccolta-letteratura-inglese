@@ -1,14 +1,14 @@
 ---
 title: Verse Epistle
 type: form
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Artist and Society · Truth · Regency/Georgian England
 tags:
   - graph/form
 ---
 
 # Verse Epistle
 
-*Form/Genre* — appears in **2** work(s).
+*Form/Genre* — appears in **1** work(s).
 
 ## Works
 

@@ -1,9 +1,7 @@
 ---
 title: Spiritual Emptiness
 type: concept
-cluster: >-
-  Spiritual Emptiness · Eastern Religion / Comparative Religion · Self and
-  Cosmos
+cluster: Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
 tags:
   - graph/concept
 ---

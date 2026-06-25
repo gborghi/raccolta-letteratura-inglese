@@ -1,7 +1,7 @@
 ---
 title: Riddle
 type: form
-cluster: Joy · Animals · Riddle
+cluster: White and Red · Riddle · Secrecy and Concealment
 tags:
   - graph/form
 ---

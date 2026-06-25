@@ -1,7 +1,7 @@
 ---
 title: Serpent / Snake
 type: motif
-cluster: Paradise Lost · Serpent / Snake · Mercy
+cluster: Temptation · Good vs Evil · Serpent / Snake
 tags:
   - graph/motif
 ---

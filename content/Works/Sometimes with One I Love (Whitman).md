@@ -2,7 +2,7 @@
 title: Sometimes with One I Love
 author: Whitman
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 source: Authors/Whitman/_raw/075_Sometimes_with_One_I_Love.md
 tags:
   - graph/work
@@ -15,7 +15,7 @@ tags:
 
 # Sometimes with One I Love
 
-*by Whitman*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Whitman*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
 > Brief lyric on the fear of unreturned love resolved by the insight that out of unrequited love come these songs; love, unrequited love and the making of art.
@@ -23,10 +23,16 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Romantic Love]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Unrequited Frustrated Love]], [[Romantic Love]], [[Artist and Society]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!075_Sometimes_with_One_I_Love
+
+  Sometimes with one I love I fill myself with rage for fear I effuse
+      unreturn’d love,
+  But now I think there is no unreturn’d love, the pay is certain one
+      way or another,
+  (I loved a certain person ardently and my love was not return’d,
+  Yet out of that I have written these songs.)

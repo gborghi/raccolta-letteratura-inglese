@@ -1,7 +1,7 @@
 ---
 title: Bells
 type: motif
-cluster: Lyric · Flowers · Stars
+cluster: Death · Silence · Bells
 tags:
   - graph/motif
 ---

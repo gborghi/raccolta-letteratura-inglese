@@ -2,7 +2,7 @@
 title: LINES ON THE MERMAID TAVERN
 author: Keats
 type: work
-cluster: Wine and Drink · Food and Feasting · The Inn / Tavern
+cluster: Wine and Drink · Ballad / Ballade · Road
 source: Authors/Keats/_raw/037_LINES_ON_THE_MERMAID_TAVERN.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # LINES ON THE MERMAID TAVERN
 
-*by Keats*  ·  **Cluster:** [[Wine and Drink · Food and Feasting · The Inn Tavern]]
+*by Keats*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
 > Convivial lyric imagining the souls of dead poets carousing in the old Mermaid Tavern; conviviality, wine, the fellowship of poets and a nostalgic golden age of song.
@@ -26,13 +26,38 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]]
-**Motifs:** [[The Inn Tavern]], [[Wine and Drink]], [[Food and Feasting]]
+**Motifs:** [[Inn Tavern]], [[Wine and Drink]], [[Food and Feasting]]
 **Themes & Concepts:** [[Nostalgia]]
-**Historical References:** [[The Renaissance]]
+**Historical References:** [[Renaissance]]
 **Characters:** [[Robin Hood]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Souls of Poets dead and gone,
+What Elysium have ye known,
+Happy field or mossy cavern,
+Choicer than the Mermaid Tavern?
+Have ye tippled drink more fine
+Than mine host’s Canary wine?
+Or are fruits of Paradise
+Sweeter than those dainty pies
+Of venison? O generous food!
+Drest as though bold Robin Hood  10
+Would, with his maid Marian,
+Sup and bowse from horn and can.
 
-!037_LINES_ON_THE_MERMAID_TAVERN
+I have heard that on a day
+Mine host’s sign-board flew away,
+Nobody knew whither, till
+An astrologer’s old quill
+To a sheepskin gave the story,
+Said he saw you in your glory,
+Underneath a new old-sign
+Sipping beverage divine,  20
+And pledging with contented smack
+The Mermaid in the Zodiac.
+
+Souls of Poets dead and gone,
+What Elysium have ye known,
+Happy field or mossy cavern,
+Choicer than the Mermaid Tavern?

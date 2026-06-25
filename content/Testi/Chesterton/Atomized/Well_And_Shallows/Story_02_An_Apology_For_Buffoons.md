@@ -1,0 +1,63 @@
+---
+title: "Well And Shallows — An Apology For Buffoons"
+author: "Chesterton"
+unitType: story
+parentWork: "Works/Well-And-Shallows-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# Well And Shallows — An Apology For Buffoons
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_01_Introduction">‹ Story 01 Introduction</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_03_Introductory_Note">Story 03 Introductory Note ›</a></div>
+</nav>
+
+
+AN APOLOGY FOR BUFFOONS
+
+MY SIX CONVERSIONS
+I. THE RELIGION OF FOSSILS
+II. WHEN THE WORLD TURNED BACK
+III. THE SURRENDER UPON SEX
+IV. THE PRAYER-BOOK PROBLEM
+V. THE COLLAPSE OF MATERIALISM
+VI. THE CASE OF SPAIN
+VII. THE WELL AND THE SHALLOWS
+
+THE RETURN TO RELIGION
+THE REACTION OF THE INTELLECTUALS
+LEVITY--OR LEVITATION
+THE CASE FOR HERMITS
+KILLING THE NERVE
+THE CASE OF CLAUDEL
+THE HIGHER NlHILISM
+THE ASCETIC AT LARGE
+THE BACKWARD BOLSHIE
+THE LAST TURN
+THE NEW LUTHER
+BABIES AND DlSTRIBUTISM
+THREE FOES OF THE FAMILY
+THE DON AND THE CAVALIER
+THE CHURCH AND AGORAPHOBIA
+BACK IN THE FOG
+THE HISTORIC MOMENT
+MARY AND THE CONVERT
+A CENTURY OF EMANCIPATION
+TRADE TERMS
+FROZEN FREE THOUGHT
+SHOCKING THE MODERNISTS
+A GRAMMAR OF KNIGHTHOOD
+REFLECTIONS ON A ROTTEN APPLE
+SEX AND PROPERTY
+ST. THOMAS MORE
+THE RETURN OF CAESAR
+AUSTRIA
+THE SCRIPTURE READER
+AN EXPLANATION
+WHY PROTESTANTS PROHIBIT
+WHERE IS THE PARADOX?
+
+-/-

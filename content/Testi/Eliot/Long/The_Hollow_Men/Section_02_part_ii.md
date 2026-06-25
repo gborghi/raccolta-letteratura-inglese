@@ -1,0 +1,38 @@
+---
+title: "The Hollow Men — II"
+author: "Eliot"
+unitType: section
+tags:
+  - graph/excerpt
+  - author/Eliot
+---
+
+# The Hollow Men — II
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Eliot · The Hollow Men</div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/The_Hollow_Men/Section_01_part_i">‹ Section 01 part i</a><a class="ex-next" href="/Testi/Eliot/Long/The_Hollow_Men/Section_03_part_iii">Section 03 part iii ›</a></div>
+</nav>
+
+
+II
+Eyes I dare not meet in dreams
+In death’s dream kingdom
+These do not appear:
+There, the eyes are
+Sunlight on a broken column
+There, is a tree swinging
+And voices are
+In the wind’s singing
+More distant and more solemn
+Than a fading star.
+Let me be no nearer
+In death’s dream kingdom
+Let me also wear
+Such deliberate disguises
+Rat’s coat, crowskin, crossed staves
+In a field
+Behaving as the wind behaves
+No nearer —
+Not that final meeting
+In the twilight kingdom

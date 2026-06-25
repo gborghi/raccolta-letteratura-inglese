@@ -1,0 +1,17 @@
+---
+title: Heathcliff
+type: character
+cluster: Ghosts · Ghost · Death and Love
+tags:
+  - graph/character
+---
+
+# Heathcliff
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Heathcliff"></div>
+
+#graph/character

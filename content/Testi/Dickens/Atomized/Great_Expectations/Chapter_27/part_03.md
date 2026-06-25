@@ -1,0 +1,103 @@
+---
+title: "Great Expectations — Chapter 27 (part 3)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Great-Expectations-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Great Expectations — Chapter 27 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_27/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_28/part_01">part 01 ›</a></div>
+</nav>
+
+
+“Well, sir,” pursued Joe, “this is how it were. I were at the Bargemen
+t’other night, Pip;”—whenever he subsided into affection, he called me
+Pip, and whenever he relapsed into politeness he called me sir; “when
+there come up in his shay-cart, Pumblechook. Which that same
+identical,” said Joe, going down a new track, “do comb my ’air the
+wrong way sometimes, awful, by giving out up and down town as it were
+him which ever had your infant companionation and were looked upon as a
+playfellow by yourself.”
+
+“Nonsense. It was you, Joe.”
+
+“Which I fully believed it were, Pip,” said Joe, slightly tossing his
+head, “though it signify little now, sir. Well, Pip; this same
+identical, which his manners is given to blusterous, come to me at the
+Bargemen (wot a pipe and a pint of beer do give refreshment to the
+workingman, sir, and do not over stimilate), and his word were,
+‘Joseph, Miss Havisham she wish to speak to you.’”
+
+“Miss Havisham, Joe?”
+
+“‘She wish,’ were Pumblechook’s word, ‘to speak to you.’” Joe sat and
+rolled his eyes at the ceiling.
+
+“Yes, Joe? Go on, please.”
+
+“Next day, sir,” said Joe, looking at me as if I were a long way off,
+“having cleaned myself, I go and I see Miss A.”
+
+“Miss A., Joe? Miss Havisham?”
+
+“Which I say, sir,” replied Joe, with an air of legal formality, as if
+he were making his will, “Miss A., or otherways Havisham. Her
+expression air then as follering: ‘Mr. Gargery. You air in
+correspondence with Mr. Pip?’ Having had a letter from you, I were able
+to say ‘I am.’ (When I married your sister, sir, I said ‘I will;’ and
+when I answered your friend, Pip, I said ‘I am.’) ‘Would you tell him,
+then,’ said she, ‘that which Estella has come home and would be glad to
+see him.’”
+
+I felt my face fire up as I looked at Joe. I hope one remote cause of
+its firing may have been my consciousness that if I had known his
+errand, I should have given him more encouragement.
+
+“Biddy,” pursued Joe, “when I got home and asked her fur to write the
+message to you, a little hung back. Biddy says, ‘I know he will be very
+glad to have it by word of mouth, it is holiday time, you want to see
+him, go!’ I have now concluded, sir,” said Joe, rising from his chair,
+“and, Pip, I wish you ever well and ever prospering to a greater and a
+greater height.”
+
+“But you are not going now, Joe?”
+
+“Yes I am,” said Joe.
+
+“But you are coming back to dinner, Joe?”
+
+“No I am not,” said Joe.
+
+Our eyes met, and all the “Sir” melted out of that manly heart as he
+gave me his hand.
+
+“Pip, dear old chap, life is made of ever so many partings welded
+together, as I may say, and one man’s a blacksmith, and one’s a
+whitesmith, and one’s a goldsmith, and one’s a coppersmith. Diwisions
+among such must come, and must be met as they come. If there’s been any
+fault at all to-day, it’s mine. You and me is not two figures to be
+together in London; nor yet anywheres else but what is private, and
+beknown, and understood among friends. It ain’t that I am proud, but
+that I want to be right, as you shall never see me no more in these
+clothes. I’m wrong in these clothes. I’m wrong out of the forge, the
+kitchen, or off th’ meshes. You won’t find half so much fault in me if
+you think of me in my forge dress, with my hammer in my hand, or even
+my pipe. You won’t find half so much fault in me if, supposing as you
+should ever wish to see me, you come and put your head in at the forge
+window and see Joe the blacksmith, there, at the old anvil, in the old
+burnt apron, sticking to the old work. I’m awful dull, but I hope I’ve
+beat out something nigh the rights of this at last. And so GOD bless
+you, dear old Pip, old chap, GOD bless you!”
+
+I had not been mistaken in my fancy that there was a simple dignity in
+him. The fashion of his dress could no more come in its way when he
+spoke these words than it could come in its way in Heaven. He touched
+me gently on the forehead, and went out. As soon as I could recover
+myself sufficiently, I hurried out after him and looked for him in the
+neighbouring streets; but he was gone.

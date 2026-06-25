@@ -2,7 +2,7 @@
 title: To a Certain Cantatrice
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/014_To_a_Certain_Cantatrice.md
 tags:
   - graph/work
@@ -16,20 +16,26 @@ tags:
 
 # To a Certain Cantatrice
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Gift reserved for a hero or rebel is bestowed instead on a singer; music and song, the cause of freedom, the rebel/common artist.
 
 ## Connections
 
-**Archetypes:** [[The Rebel]]
+**Archetypes:** [[Rebel]]
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Democracy]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Democracy]], [[Artist and Society]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!014_To_a_Certain_Cantatrice
+
+  Here, take this gift,
+  I was reserving it for some hero, speaker, or general,
+  One who should serve the good old cause, the great idea, the
+      progress and freedom of the race,
+  Some brave confronter of despots, some daring rebel;
+  But I see that what I was reserving belongs to you just as much as to any.

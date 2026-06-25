@@ -1,0 +1,17 @@
+---
+title: Ariel
+type: character
+cluster: Blank Verse · Tragicomedy · Romance Play
+tags:
+  - graph/character
+---
+
+# Ariel
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Ariel"></div>
+
+#graph/character

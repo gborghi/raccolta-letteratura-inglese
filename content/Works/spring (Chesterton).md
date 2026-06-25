@@ -2,7 +2,7 @@
 title: spring
 author: Chesterton
 type: work
-cluster: Christ · Divine Love · Hymn
+cluster: Faith · Providence · Divine Love
 source: Authors/Chesterton/_raw/spring.md
 tags:
   - graph/work
@@ -25,7 +25,7 @@ tags:
 
 # spring
 
-*by Chesterton*  ·  **Cluster:** [[Christ · Divine Love · Hymn]]
+*by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
 > A Christmas lyric on the Nativity, where the homeless Christ in the stable makes all men at home; themes of exile, wonder, faith and the longing for a true home.
@@ -34,14 +34,68 @@ tags:
 
 **Topoi:** [[Paradise Lost]]
 **Archetypes:** [[Christ Figure]]
-**Motifs:** [[Stars]], [[The Inn Tavern]]
+**Motifs:** [[Stars]], [[Inn Tavern]]
 **Themes & Concepts:** [[Faith]], [[Wonder and Gratitude]], [[Exile]], [[Divine Love]], [[Paradox]]
 **Forms & Genres:** [[Hymn]], [[Lyric]]
-**Historical References:** [[Christianity]], [[The Bible]]
+**Historical References:** [[Christianity]], [[Bible]]
 **Characters:** [[Christ]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Second Spring
 
-!spring
+
+The House of Christmas 
+
+
+By G.K. Chesterton
+
+
+There fared a mother driven forth
+Out of an inn to roam;
+In the place where she was homeless
+All men are at home.
+The crazy stable close at hand,
+With shaking timber and shifting sand,
+Grew a stronger thing to abide and stand
+Than the square stones of Rome.
+
+For men are homesick in their homes,
+And strangers under the sun,
+And they lay their heads in a foreign land
+Whenever the day is done.
+
+Here we have battle and blazing eyes,
+And chance and honour and high surprise,
+But our homes are under miraculous skies
+Where the yule tale was begun.
+
+A child in a foul stable,
+Where the beasts feed and foam;
+Only where He was homeless
+Are you and I at home;
+We have hands that fashion and heads that know,
+But our hearts we lost---how long ago!
+In a place no chart nor ship can show
+Under the sky's dome.
+
+This world is wild as an old wife's tale,
+And strange the plain things are,
+The earth is enough and the air is enough
+For our wonder and our war;
+But our rest is as far as the fire-drake swings
+And our peace is put in impossible things
+Where clashed and thundered unthinkable wings
+Round an incredible star.
+
+To an open house in the evening
+Home shall all men come,
+To an older place than Eden
+And a taller town than Rome.
+To the end of the way of the wandering star,
+To the things that cannot be and that are,
+To the place where God was homeless
+And all men are at home.
+
+
+===== FINE FILE: spring.txt =====

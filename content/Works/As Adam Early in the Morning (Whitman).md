@@ -2,7 +2,7 @@
 title: As Adam Early in the Morning
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/042_As_Adam_Early_in_the_Morning.md
 tags:
   - graph/work
@@ -17,21 +17,26 @@ tags:
 
 # As Adam Early in the Morning
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Closing Children of Adam lyric: the speaker as Adam at dawn inviting touch of his unashamed body; the body, innocence, dawn, Eden.
 
 ## Connections
 
-**Archetypes:** [[The Innocent]]
+**Archetypes:** [[Innocent]]
 **Motifs:** [[Dawn]]
-**Themes & Concepts:** [[The Body]], [[Innocence and Experience]]
+**Themes & Concepts:** [[Body]], [[Innocence and Experience]]
 **Forms & Genres:** [[Free Verse]]
-**Historical References:** [[The Bible]]
+**Historical References:** [[Bible]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CHILDREN OF ADAM_
 
-!042_As_Adam_Early_in_the_Morning
+
+  As Adam early in the morning,
+  Walking forth from the bower refresh’d with sleep,
+  Behold me where I pass, hear my voice, approach,
+  Touch me, touch the palm of your hand to my body as I pass,
+  Be not afraid of my body.

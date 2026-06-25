@@ -1,0 +1,68 @@
+---
+title: "Twelfth Night — Act III, Scene 1 — exchange (VIOLA) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/TWELFTH-NIGHT-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Twelfth Night — Act III, Scene 1 — exchange (VIOLA) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
+</nav>
+
+
+VIOLA
+Then westward ho!
+Grace and good disposition attend your ladyship.
+You’ll nothing, madam, to my lord by me?
+
+OLIVIA
+Stay. I prithee tell me what thou think’st of me.
+
+VIOLA
+That you do think you are not what you are.
+
+OLIVIA
+If I think so, I think the same of you.
+
+VIOLA
+Then think you right, I am not what I am.
+
+OLIVIA
+I would you were as I would have you be.
+
+VIOLA
+Would it be better, madam, than I am?
+I wish it might, for now I am your fool.
+
+OLIVIA (aside)
+O, what a deal of scorn looks beautiful
+In the contempt and anger of his lip!
+A murd’rous guilt shows not itself more soon
+Than love that would seem hid. Love’s night is noon.
+(To Viola) Cesario, by the roses of the spring,
+By maidhood, honour, truth, and everything,
+I love thee so that, maugre all thy pride,
+Nor wit nor reason can my passion hide.
+Do not extort thy reasons from this clause,
+For that I woo, thou therefore hast no cause.
+But rather reason thus with reason fetter:
+Love sought is good, but given unsought, is better.
+
+VIOLA
+By innocence I swear, and by my youth,
+I have one heart, one bosom, and one truth,
+And that no woman has, nor never none
+Shall mistress be of it save I alone.
+And so adieu, good madam. Never more
+Will I my master’s tears to you deplore.
+
+OLIVIA
+Yet come again, for thou perhaps mayst move
+That heart which now abhors, to like his love.
+Exeunt
+⌈severally⌉

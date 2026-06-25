@@ -2,7 +2,7 @@
 title: A HINT TO PREMIERS AND FIRST CONSULS
 author: Coleridge
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Coleridge/_raw/339_A_HINT_TO_PREMIERS_AND_FIRST_CONSULS.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # A HINT TO PREMIERS AND FIRST CONSULS
 
-*by Coleridge*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > An epigram (from an old tragedy) reminding rulers that power derives from law and that they too must die, paired with a barb on faded beauty; memento mori as political counsel.
@@ -28,8 +28,17 @@ tags:
 **Themes & Concepts:** [[Mortality]], [[Power and Corruption]], [[Justice Right and Wrong]], [[Transience]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!339_A_HINT_TO_PREMIERS_AND_FIRST_CONSULS
+FROM AN OLD TRAGEDY, VIZ. AGATHA TO KING ARCHELAUS
+Three truths should make thee often think and pause;
+The first is, that thou govern’st over men;
+The second, that thy power is from the laws;
+And this the third, that thou must die! — and then? —
+First published in Morning Post, Sept. 27, 1802. Included in Essays,
+&c., iii. 992. First collected P. and D. W., 1877, ii. 162.
+From me, Aurelia! you desired
+Your proper praise to know;
+Well! you’re the FAIR by all admired —
+Some twenty years ago.
+First published in Morning Post, Oct. 2, 1802.

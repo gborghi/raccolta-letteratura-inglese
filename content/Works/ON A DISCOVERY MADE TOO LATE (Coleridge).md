@@ -2,7 +2,7 @@
 title: ON A DISCOVERY MADE TOO LATE
 author: Coleridge
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Coleridge/_raw/074_ON_A_DISCOVERY_MADE_TOO_LATE.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # ON A DISCOVERY MADE TOO LATE
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Sonnet probing the bleeding heart wounded by jealousy and lost hope; grief, jealousy, madness, and the painful self-reproach of reason. Form: sonnet.
@@ -29,8 +29,20 @@ tags:
 **Themes & Concepts:** [[Jealousy]], [[Grief and Loss]], [[Madness]], [[Hope]], [[Unrequited Frustrated Love]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!074_ON_A_DISCOVERY_MADE_TOO_LATE
+Thou bleedest, my poor Heart! and thy distress
+Reasoning I ponder with a scornful smile
+And probe thy sore wound sternly, though the while
+Swoln be mine eye and dim with heaviness.
+Why didst thou listen to Hope’s whisper bland?   5
+Or, listening, why forget the healing tale,
+When Jealousy with feverous fancies pale
+Jarr’d thy fine fibres with a maniac’s hand?
+Faint was that Hope, and rayless! — Yet ‘twas fair
+And sooth’d with many a dream the hour of rest:   10
+Thou should’st have lov’d it most, when most opprest,
+And nurs’d it with an agony of care,
+Even as a mother her sweet infant heir
+That wan and sickly droops upon her breast!
+1794.

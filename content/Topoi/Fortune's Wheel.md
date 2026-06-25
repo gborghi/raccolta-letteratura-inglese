@@ -1,7 +1,7 @@
 ---
 title: Fortune's Wheel
 type: topos
-cluster: Power and Corruption · The Crown · Pride
+cluster: Crown · Pride · Fortune's Wheel
 tags:
   - graph/topos
 ---

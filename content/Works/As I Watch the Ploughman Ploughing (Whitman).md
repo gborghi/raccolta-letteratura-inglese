@@ -2,7 +2,7 @@
 title: As I Watch the Ploughman Ploughing
 author: Whitman
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: Authors/Whitman/_raw/251_As_I_Watch_the_Ploughman_Ploughing.md
 tags:
   - graph/work
@@ -16,20 +16,24 @@ tags:
 
 # As I Watch the Ploughman Ploughing
 
-*by Whitman*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > Quatrain reading agricultural labor as an analogy for mortality: life is the tillage and death the harvest according.
 
 ## Connections
 
-**Topoi:** [[The Book of Nature]]
-**Motifs:** [[Seasons]], [[Death (2)]]
+**Topoi:** [[Book of Nature]]
+**Motifs:** [[Seasons]], [[Death]]
 **Themes & Concepts:** [[Mortality]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: WHISPERS OF HEAVENLY DEATH_
 
-!251_As_I_Watch_the_Ploughman_Ploughing
+
+  As I watch’d the ploughman ploughing,
+  Or the sower sowing in the fields, or the harvester harvesting,
+  I saw there too, O life and death, your analogies;
+  (Life, life is the tillage, and Death is the harvest according.)

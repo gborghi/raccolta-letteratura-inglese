@@ -1,7 +1,7 @@
 ---
 title: Wine and Drink
 type: motif
-cluster: Wine and Drink · Food and Feasting · The Inn / Tavern
+cluster: Wine and Drink · Ballad / Ballade · Road
 tags:
   - graph/motif
 ---

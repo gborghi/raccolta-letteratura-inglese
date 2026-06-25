@@ -1,0 +1,17 @@
+---
+title: Belarius
+type: character
+cluster: Blank Verse · Tragicomedy · Romance Play
+tags:
+  - graph/character
+---
+
+# Belarius
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Belarius"></div>
+
+#graph/character

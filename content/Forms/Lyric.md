@@ -1,7 +1,7 @@
 ---
 title: Lyric
 type: form
-cluster: Lyric · Flowers · Stars
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 tags:
   - graph/form
 ---

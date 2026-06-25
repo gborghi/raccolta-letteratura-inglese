@@ -1,7 +1,7 @@
 ---
 title: Egypt
 type: setting
-cluster: Lust / Sexual Desire · Desire · Sin and the Fall
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 tags:
   - graph/setting
 ---

@@ -1,7 +1,7 @@
 ---
 title: Deception
 type: concept
-cluster: Appearance vs Reality · Deception · Short Story
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 tags:
   - graph/concept
 ---

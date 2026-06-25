@@ -1,7 +1,7 @@
 ---
 title: Home
 type: motif
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Alienation · Outsider · Exile
 tags:
   - graph/motif
 ---

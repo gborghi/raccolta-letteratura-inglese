@@ -2,7 +2,7 @@
 title: ADDRESSED TO HAYDON
 author: Keats
 type: work
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Artist and Society · Truth · Regency/Georgian England
 source: Authors/Keats/_raw/024_ADDRESSED_TO_HAYDON.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # ADDRESSED TO HAYDON
 
-*by Keats*  ·  **Cluster:** [[The Artist and Society · The Book Reading · Clothing and Costume]]
+*by Keats*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
 > Sonnet praising disinterested 'singleness of aim' and the steadfast genius who defies envy and a money-mongering world; the artist against society.
@@ -24,11 +24,22 @@ tags:
 ## Connections
 
 **Motifs:** [[Money and Gold]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Friendship]], [[Heroism]]
+**Themes & Concepts:** [[Artist and Society]], [[Friendship]], [[Heroism]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!024_ADDRESSED_TO_HAYDON
+Highmindedness, a jealousy for good,
+  A loving-kindness for the great man’s fame,
+  Dwells here and there with people of no name,
+In noisome alley, and in pathless wood:
+And where we think the truth least understood,
+  Oft may be found a “singleness of aim,”
+  That ought to frighten into hooded shame
+A money mong’ring, pitiable brood.
+How glorious this affection for the cause
+  Of stedfast genius, toiling gallantly!
+What when a stout unbending champion awes
+  Envy, and Malice to their native sty?
+Unnumber’d souls breathe out a still applause,
+  Proud to behold him in his country’s eye.

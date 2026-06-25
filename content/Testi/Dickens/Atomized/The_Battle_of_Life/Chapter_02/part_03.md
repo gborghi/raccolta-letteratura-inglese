@@ -1,0 +1,147 @@
+---
+title: "The Battle of Life — Part 2 (part 3)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Battle-of-Life-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Battle of Life — Part 2 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_04">part 04 ›</a></div>
+</nav>
+
+
+‘He can’t, Mr. Craggs,’ said Snitchey, evidently anxious and discomfited.
+‘He can’t do it, sir.  She dotes on Mr. Alfred.’
+
+‘Does she?’ returned the client.
+
+‘Mr. Craggs, she dotes on him, sir,’ persisted Snitchey.
+
+‘I didn’t live six weeks, some few months ago, in the Doctor’s house for
+nothing; and I doubted that soon,’ observed the client.  ‘She would have
+doted on him, if her sister could have brought it about; but I watched
+them.  Marion avoided his name, avoided the subject: shrunk from the
+least allusion to it, with evident distress.’
+
+‘Why should she, Mr. Craggs, you know?  Why should she, sir?’ inquired
+Snitchey.
+
+‘I don’t know why she should, though there are many likely reasons,’ said
+the client, smiling at the attention and perplexity expressed in Mr.
+Snitchey’s shining eye, and at his cautious way of carrying on the
+conversation, and making himself informed upon the subject; ‘but I know
+she does.  She was very young when she made the engagement—if it may be
+called one, I am not even sure of that—and has repented of it, perhaps.
+Perhaps—it seems a foppish thing to say, but upon my soul I don’t mean it
+in that light—she may have fallen in love with me, as I have fallen in
+love with her.’
+
+‘He, he!  Mr. Alfred, her old playfellow too, you remember, Mr. Craggs,’
+said Snitchey, with a disconcerted laugh; ‘knew her almost from a baby!’
+
+‘Which makes it the more probable that she may be tired of his idea,’
+calmly pursued the client, ‘and not indisposed to exchange it for the
+newer one of another lover, who presents himself (or is presented by his
+horse) under romantic circumstances; has the not unfavourable
+reputation—with a country girl—of having lived thoughtlessly and gaily,
+without doing much harm to anybody; and who, for his youth and figure,
+and so forth—this may seem foppish again, but upon my soul I don’t mean
+it in that light—might perhaps pass muster in a crowd with Mr. Alfred
+himself.’
+
+There was no gainsaying the last clause, certainly; and Mr. Snitchey,
+glancing at him, thought so.  There was something naturally graceful and
+pleasant in the very carelessness of his air.  It seemed to suggest, of
+his comely face and well-knit figure, that they might be greatly better
+if he chose: and that, once roused and made earnest (but he never had
+been earnest yet), he could be full of fire and purpose.  ‘A dangerous
+sort of libertine,’ thought the shrewd lawyer, ‘to seem to catch the
+spark he wants, from a young lady’s eyes.’
+
+‘Now, observe, Snitchey,’ he continued, rising and taking him by the
+button, ‘and Craggs,’ taking him by the button also, and placing one
+partner on either side of him, so that neither might evade him.  ‘I don’t
+ask you for any advice.  You are right to keep quite aloof from all
+parties in such a matter, which is not one in which grave men like you
+could interfere, on any side.  I am briefly going to review in
+half-a-dozen words, my position and intention, and then I shall leave it
+to you to do the best for me, in money matters, that you can: seeing,
+that, if I run away with the Doctor’s beautiful daughter (as I hope to
+do, and to become another man under her bright influence), it will be,
+for the moment, more chargeable than running away alone.  But I shall
+soon make all that up in an altered life.’
+
+‘I think it will be better not to hear this, Mr. Craggs?’ said Snitchey,
+looking at him across the client.
+
+‘_I_ think not,’ said Craggs.—Both listened attentively.
+
+‘Well!  You needn’t hear it,’ replied their client.  ‘I’ll mention it,
+however.  I don’t mean to ask the Doctor’s consent, because he wouldn’t
+give it me.  But I mean to do the Doctor no wrong or harm, because
+(besides there being nothing serious in such trifles, as he says) I hope
+to rescue his child, my Marion, from what I see—I _know_—she dreads, and
+contemplates with misery: that is, the return of this old lover.  If
+anything in the world is true, it is true that she dreads his return.
+Nobody is injured so far.  I am so harried and worried here just now,
+that I lead the life of a flying-fish.  I skulk about in the dark, I am
+shut out of my own house, and warned off my own grounds; but, that house,
+and those grounds, and many an acre besides, will come back to me one
+day, as you know and say; and Marion will probably be richer—on your
+showing, who are never sanguine—ten years hence as my wife, than as the
+wife of Alfred Heathfield, whose return she dreads (remember that), and
+in whom or in any man, my passion is not surpassed.  Who is injured yet?
+It is a fair case throughout.  My right is as good as his, if she decide
+in my favour; and I will try my right by her alone.  You will like to
+know no more after this, and I will tell you no more.  Now you know my
+purpose, and wants.  When must I leave here?’
+
+‘In a week,’ said Snitchey.  ‘Mr. Craggs?’
+
+‘In something less, I should say,’ responded Craggs.
+
+‘In a month,’ said the client, after attentively watching the two faces.
+‘This day month.  To-day is Thursday.  Succeed or fail, on this day month
+I go.’
+
+‘It’s too long a delay,’ said Snitchey; ‘much too long.  But let it be
+so.  I thought he’d have stipulated for three,’ he murmured to himself.
+‘Are you going?  Good night, sir!’
+
+‘Good night!’ returned the client, shaking hands with the Firm.
+
+‘You’ll live to see me making a good use of riches yet.  Henceforth the
+star of my destiny is, Marion!’
+
+‘Take care of the stairs, sir,’ replied Snitchey; ‘for she don’t shine
+there.  Good night!’
+
+‘Good night!’
+
+So they both stood at the stair-head with a pair of office-candles,
+watching him down.  When he had gone away, they stood looking at each
+other.
+
+‘What do you think of all this, Mr. Craggs?’ said Snitchey.
+
+Mr. Craggs shook his head.
+
+‘It was our opinion, on the day when that release was executed, that
+there was something curious in the parting of that pair; I recollect,’
+said Snitchey.
+
+‘It was,’ said Mr. Craggs.
+
+‘Perhaps he deceives himself altogether,’ pursued Mr. Snitchey, locking
+up the fireproof box, and putting it away; ‘or, if he don’t, a little bit
+of fickleness and perfidy is not a miracle, Mr. Craggs.  And yet I
+thought that pretty face was very true.  I thought,’ said Mr. Snitchey,
+putting on his great-coat (for the weather was very cold), drawing on his
+gloves, and snuffing out one candle, ‘that I had even seen her character
+becoming stronger and more resolved of late.  More like her sister’s.’

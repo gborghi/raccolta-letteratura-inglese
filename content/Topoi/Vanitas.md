@@ -1,7 +1,7 @@
 ---
 title: Vanitas
 type: topos
-cluster: Vanitas · The Wheel · Contemptus Mundi
+cluster: Vanitas · Contemptus Mundi · Vanity of Worldly Things
 tags:
   - graph/topos
 ---

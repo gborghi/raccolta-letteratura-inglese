@@ -2,7 +2,7 @@
 title: PSYCHE
 author: Coleridge
 type: work
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Self-Knowledge · Immortality · Self-Reliance
 source: Authors/Coleridge/_raw/236_PSYCHE.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # PSYCHE
 
-*by Coleridge*  ·  **Cluster:** [[Greek Mythology · Classical Antiquity · Ode]]
+*by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
 > Epigram on the Greek butterfly-emblem of the soul, contrasting the soul's freedom with the reptile toil of mortal life. Themes of the soul, mortality and Greek myth.
@@ -30,8 +30,13 @@ tags:
 **Forms & Genres:** [[Epigram]]
 **Historical References:** [[Greek Mythology]], [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!236_PSYCHE
+The butterfly the ancient Grecians made
+The soul’s fair emblem, and its only name —
+But of the soul, escaped the slavish trade
+Of mortal life! — For in this earthly frame
+Ours is the reptile’s lot, much toil, much blame,   5
+Manifold motions making little speed,
+And to deform and kill the things whereon we feed.
+1808.

@@ -1,7 +1,7 @@
 ---
 title: New England
 type: histref
-cluster: Satire of Society · Epigram · Satire
+cluster: New England / America · New England
 tags:
   - graph/histref
 ---

@@ -1,0 +1,42 @@
+---
+title: "The Taming of the Shrew — Act I, Scene 1 — monologue (LUCENTIO) [2]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Taming of the Shrew — Act I, Scene 1 — monologue (LUCENTIO) [2]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
+</nav>
+
+
+LUCENTIO
+Tranio, since for the great desire I had
+To see fair Padua, nursery of arts,
+I am arrived fore fruitful Lombardy,
+The pleasant garden of great Italy,
+And by my father’s love and leave am armed
+With his good will and thy good company,
+My trusty servant, well approved in all,
+Here let us breathe, and haply institute
+A course of learning and ingenious studies.
+Pisa, renowned for grave citizens,
+Gave me my being, and my father first—
+A merchant of great traffic through the world,
+Vincentio, come of the Bentivolii.
+Vincentio’s son, brought up in Florence,
+It shall become to serve all hopes conceived
+To deck his fortune with his virtuous deeds.
+And therefore, Tranio, for the time I study,
+Virtue and that part of philosophy
+Will I apply that treats of happiness
+By virtue specially to be achieved.
+Tell me thy mind, for I have Pisa left
+And am to Padua come as he that leaves
+A shallow plash to plunge him in the deep,
+And with satiety seeks to quench his thirst.

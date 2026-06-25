@@ -1,7 +1,7 @@
 ---
 title: Poison
 type: motif
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/motif
 ---

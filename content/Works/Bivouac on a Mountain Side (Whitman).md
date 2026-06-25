@@ -2,7 +2,7 @@
 title: Bivouac on a Mountain Side
 author: Whitman
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Stars · Night · Military Camp
 source: Authors/Whitman/_raw/152_Bivouac_on_a_Mountain_Side.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # Bivouac on a Mountain Side
 
-*by Whitman*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > An imagistic night-camp scene: a halting army, scattered camp-fires, shadowy men and horses, and over all the eternal stars; war set against cosmic permanence.
@@ -26,10 +26,19 @@ tags:
 
 **Motifs:** [[Stars]], [[Night]], [[Fire]], [[Nature]]
 **Themes & Concepts:** [[War and its Cost]]
-**Settings:** [[The Military Camp]]
+**Settings:** [[Military Camp]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!152_Bivouac_on_a_Mountain_Side
+
+  I see before me now a traveling army halting,
+  Below a fertile valley spread, with barns and the orchards of summer,
+  Behind, the terraced sides of a mountain, abrupt, in places rising high,
+  Broken, with rocks, with clinging cedars, with tall shapes dingily seen,
+  The numerous camp-fires scatter’d near and far, some away up on the
+      mountain,
+  The shadowy forms of men and horses, looming, large-sized, flickering,
+  And over all the sky--the sky! far, far out of reach, studded,
+      breaking out, the eternal stars.

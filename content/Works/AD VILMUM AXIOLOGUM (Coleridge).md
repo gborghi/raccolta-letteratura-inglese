@@ -2,7 +2,7 @@
 title: AD VILMUM AXIOLOGUM
 author: Coleridge
 type: work
-cluster: The Poet as Prophet · The Great Mother · The Prophet
+cluster: Poet as Prophet · Prophet · Romantic Movement (Sensibility)
 source: Authors/Coleridge/_raw/220_AD_VILMUM_AXIOLOGUM.md
 tags:
   - graph/work
@@ -17,20 +17,28 @@ tags:
 
 # AD VILMUM AXIOLOGUM
 
-*by Coleridge*  ·  **Cluster:** [[The Poet as Prophet · The Great Mother · The Prophet]]
+*by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
 > Hexameter address to Wordsworth, hymning his song as a divine, immortal word, love the spirit of life and music the life of the spirit. The poet as prophet.
 
 ## Connections
 
-**Topoi:** [[The Poet as Prophet]], [[Immortality Through Verse]]
-**Archetypes:** [[The Prophet]]
+**Topoi:** [[Poet as Prophet]], [[Immortality Through Verse]]
+**Archetypes:** [[Prophet]]
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Immortality of Art Fame]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Immortality of Art Fame]], [[Artist and Society]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!220_AD_VILMUM_AXIOLOGUM
+TO WILLIAM WORDSWORTH
+This be the meed, that thy song creates a thousand-fold echo!
+Sweet as the warble of woods, that awakes at the gale of the morning!
+List! the Hearts of the Pure, like caves in the ancient mountains
+Deep, deep in the Bosom, and from the Bosom resound it,
+Each with a different tone, complete or in musical fragments — 5
+All have welcomed thy Voice, and receive and retain and prolong it!
+This is the word of the Lord! it is spoken, and Beings Eternal
+Live and are borne as an Infant; the Eternal begets the Immortal:
+Love is the Spirit of Life, and Music the Life of the Spirit!
+? 1805.

@@ -27,12 +27,25 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Memory (2)]], [[Death (2)]], [[Money and Gold]]
+**Motifs:** [[Memory]], [[Death]], [[Money and Gold]]
 **Themes & Concepts:** [[Memory and Time]], [[Grief and Loss]], [[Melancholy]], [[Friendship]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+When to the sessions of sweet silent thought 
+I summon up remembrance of things past, 
+I sigh the lack of many a thing I sought, 
+And with old woes new wail my dear time’s waste. 
+Then can I drown an eye unused to flow 
+For precious friends hid in death’s dateless night, 
+And weep afresh love’s long-since-cancelled woe, 
+And moan th‘expense of many a vanished sight. 
+Then can I grieve at grievances foregone, 
+And heavily from woe to woe tell o’er 
+The sad account of fore-bemoaned moan, 
+Which I new pay as if not paid before.
 
-!Sonnet_030
+But if the while I think on thee, dear friend,
+
+All losses are restored, and sorrows end.

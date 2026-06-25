@@ -2,7 +2,7 @@
 title: OLD POSSUM’S BOOK  OF PRACTICAL CATS
 author: Eliot
 type: work
-cluster: Joy · Animals · Riddle
+cluster: Joy · Animals · Comic Verse / Song
 source: Authors/Eliot/_raw/079_OLD_POSSUMS_BOOK_OF_PRACTICAL_CATS.md
 tags:
   - graph/work
@@ -16,20 +16,56 @@ tags:
 
 # OLD POSSUM’S BOOK  OF PRACTICAL CATS
 
-*by Eliot*  ·  **Cluster:** [[Joy · Animals · Riddle]]
+*by Eliot*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
 > Collection header for Eliot's light comic verse about cats; opens with The Naming of Cats on the inscrutable third name each cat keeps secret.
 
 ## Connections
 
-**Topoi:** [[Inexpressibility (3)]]
+**Topoi:** [[Inexpressibility]]
 **Motifs:** [[Animals]]
 **Themes & Concepts:** [[Joy]], [[Identity]]
 **Forms & Genres:** [[Comic Verse Song]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+OLD POSSUM’S BOOK
+OF PRACTICAL CATS
 
-!079_OLD_POSSUMS_BOOK_OF_PRACTICAL_CATS
+The Naming of Cats
+The Naming of Cats is a difficult matter,
+   It isn’t just one of your holiday games;
+You may think at first I’m as mad as a hatter
+When I tell you, a cat must have THREE DIFFERENT NAMES.
+
+
+First of all, there’s the name that the family use daily,
+   Such as Peter, Augustus, Alonzo or James,
+Such as Victor or Jonathan, George or Bill Bailey —
+   All of them sensible everyday names.
+There are fancier names if you think they sound sweeter,
+   Some for the gentlemen, some for the dames:
+Such as Plato, Admetus, Electra, Demeter —
+   But all of them sensible everyday names.
+But I tell you, a cat needs a name that’s particular,
+   A name that’s peculiar, and more dignified,
+Else how can he keep up his tail perpendicular,
+   Or spread out his whiskers, or cherish his pride?
+Of names of this kind, I can give you a quorum,
+   Such as Munkustrap, Quaxo, or Coricopat,
+Such as Bombalurina, or else Jellylorum —
+   Names that never belong to more than one cat.
+But above and beyond there’s still one name left over,
+   And that is the name that you never will guess;
+The name that no human research can discover —
+   But THE CAT HIMSELF KNOWS, and will never confess.
+
+
+When you notice a cat in profound meditation,
+   The reason, I tell you, is always the same:
+His mind is engaged in a rapt contemplation
+   Of the thought, of the thought, of the thought of his name:
+      His ineffable effable
+      Effanineffable
+Deep and inscrutable singular Name.

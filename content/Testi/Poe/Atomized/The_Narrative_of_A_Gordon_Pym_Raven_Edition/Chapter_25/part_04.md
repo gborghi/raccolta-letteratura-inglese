@@ -1,0 +1,239 @@
+---
+title: "The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 4)"
+author: "Poe"
+unitType: excerpt
+parentWork: "Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)"
+tags:
+  - graph/excerpt
+  - author/Poe
+---
+
+# The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_25/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_25/part_05">part 05 ›</a></div>
+</nav>
+
+
+      found, upon minute philological scrutiny, to betray either some
+
+      alliance with the chasms themselves, or some reference to the
+
+      Ethiopian characters so mysteriously written in their windings.
+
+
+
+      _“I have graven it within the hills, and my vengeance upon the
+
+      dust within the rock.”_
+
+
+
+
+
+
+
+
+
+NOTES TO THE THIRD VOLUME
+
+
+
+
+
+      {*1} Whaling vessels are usually fitted with iron oil-tanks—why
+
+      the _Grampus_ was not I have never been able to ascertain.
+
+
+
+      {*2} The case of the brig _Polly_, of Boston, is one so much in
+
+      point, and her fate, in many respects, so remarkably similar to
+
+      our own, that I cannot forbear alluding to it here. This vessel,
+
+      of one hundred and thirty tons burden, sailed from Boston, with a
+
+      cargo of lumber and provisions, for Santa Croix, on the twelfth
+
+      of December, 1811, under the command of Captain Casneau. There
+
+      were eight souls on board besides the captain—the mate, four
+
+      seamen, and the cook, together with a Mr. Hunt, and a negro girl
+
+      belonging to him. On the fifteenth, having cleared the shoal of
+
+      Georges, she sprung a leak in a gale of wind from the southeast,
+
+      and was finally capsized; but, the masts going by the board, she
+
+      afterward righted. They remained in this situation, without fire,
+
+      and with very little provision, for the period of one hundred and
+
+      ninety-one days (from December the fifteenth to June the
+
+      twentieth), when Captain Casneau and Samuel Badger, the only
+
+      survivors, were taken off the wreck by the Fame, of Hull, Captain
+
+      Featherstone, bound home from Rio Janeiro. When picked up, they
+
+      were in latitude 28 degrees N., longitude 13 degrees W., having
+
+      drifted above two thousand miles! On the ninth of July the Fame
+
+      fell in with the brig Dromero, Captain Perkins, who landed the
+
+      two sufferers in Kennebeck. The narrative from which we gather
+
+      these details ends in the following words:
+
+
+
+      “It is natural to inquire how they could float such a vast
+
+      distance, upon the most frequented part of the Atlantic, and not
+
+      be discovered all this time. They were passed by more than a
+
+      dozen sail, one of which came so nigh them that they could
+
+      distinctly see the people on deck and on the rigging looking at
+
+      them; but, to the inexpressible disappointment of the starving
+
+      and freezing men, they stifled the dictates of compassion,
+
+      hoisted sail, and cruelly abandoned them to their fate.”
+
+
+
+      {*3} Among the vessels which at various times have professed to
+
+      meet with the Auroras may be mentioned the ship San Miguel, in
+
+      1769; the ship Aurora, in 1774; the brig Pearl, in 1779; and the
+
+      ship Dolores, in 1790. They all agree in giving the mean latitude
+
+      fifty-three degrees south.
+
+
+
+      {*4} The terms morning and evening, which I have made use of to
+
+      avoid confusion in my narrative, as far as possible, must not, of
+
+      course, be taken in their ordinary sense. For a long time past we
+
+      had had no night at all, the daylight being continual. The dates
+
+      throughout are according to nautical time, and the bearing must
+
+      be understood as per compass. I would also remark, in this place,
+
+      that I cannot, in the first portion of what is here written,
+
+      pretend to strict accuracy in respect to dates, or latitudes and
+
+      longitudes, having kept no regular journal until after the period
+
+      of which this first portion treats. In many instances I have
+
+      relied altogether upon memory.
+
+
+
+      {*5} This day was rendered remarkable by our observing in the
+
+      south several huge wreaths of the grayish vapour I have spoken
+
+      of.
+
+
+
+      {*6} The marl was also black; indeed, we noticed no light colored
+
+      substances of any kind upon the island.
+
+
+
+      {*7}For obvious reasons I cannot pretend to strict accuracy in
+
+      these dates. They are given principally with a view to perspicity
+
+      of narrative, and as set down in my pencil memorandum.
+
+
+
+
+
+
+
+
+
+LIGEIA
+
+
+
+
+
+      And the will therein lieth, which dieth not. Who knoweth the
+
+      mysteries of the will, with its vigor? For God is but a great
+
+      will pervading all things by nature of its intentness. Man doth
+
+      not yield himself to the angels, nor unto death utterly, save
+
+      only through the weakness of his feeble will.—_Joseph Glanvill_.
+
+
+
+      I cannot, for my soul, remember how, when, or even precisely
+
+      where, I first became acquainted with the lady Ligeia. Long years
+
+      have since elapsed, and my memory is feeble through much
+
+      suffering. Or, perhaps, I cannot now bring these points to mind,
+
+      because, in truth, the character of my beloved, her rare
+
+      learning, her singular yet placid cast of beauty, and the
+
+      thrilling and enthralling eloquence of her low musical language,
+
+      made their way into my heart by paces so steadily and stealthily
+
+      progressive that they have been unnoticed and unknown. Yet I
+
+      believe that I met her first and most frequently in some large,
+
+      old, decaying city near the Rhine. Of her family—I have surely
+
+      heard her speak. That it is of a remotely ancient date cannot be
+
+      doubted. Ligeia! Ligeia! Buried in studies of a nature more than
+
+      all else adapted to deaden impressions of the outward world, it
+
+      is by that sweet word alone—by Ligeia—that I bring before mine
+
+      eyes in fancy the image of her who is no more. And now, while I
+
+      write, a recollection flashes upon me that I have never known the
+
+      paternal name of her who was my friend and my betrothed, and who
+
+      became the partner of my studies, and finally the wife of my
+
+      bosom. Was it a playful charge on the part of my Ligeia? or was
+
+      it a test of my strength of affection, that I should institute no
+
+      inquiries upon this point? or was it rather a caprice of my own—a

@@ -2,7 +2,7 @@
 title: TO ASRA
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Coleridge/_raw/202_TO_ASRA.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # TO ASRA
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > A love-sonnet to Asra (Sara Hutchinson) whose ever-welling love, likened to spring-waters through snow, the poet would transmute into a dower of happy life and eternity for her.
@@ -26,13 +26,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Love as Religion]]
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Water]], [[Spring]]
 **Themes & Concepts:** [[Romantic Love]], [[Joy]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!202_TO_ASRA
+Are there two things, of all which men possess,
+That are so like each other and so near,
+As mutual Love seems like to Happiness?
+Dear Asra, woman beyond utterance dear!
+This Love which ever welling at my heart,   5
+Now in its living fount doth heave and fall,
+Now overflowing pours thro’ every part
+Of all my frame, and fills and changes all,
+Like vernal waters springing up through snow,
+This Love that seeming great beyond the power   10
+Of growth, yet seemeth ever more to grow,
+Could I transmute the whole to one rich Dower
+Of Happy Life, and give it all to Thee,
+Thy lot, methinks, were Heaven, thy age, Eternity!
+1801.

@@ -1,0 +1,17 @@
+---
+title: Christabel
+type: character
+cluster: Supernatural · Uncanny · Double
+tags:
+  - graph/character
+---
+
+# Christabel
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Christabel"></div>
+
+#graph/character

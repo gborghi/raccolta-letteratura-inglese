@@ -1,0 +1,123 @@
+---
+title: "American Notes — Chapter 18 (part 1)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/American-Notes-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# American Notes — Chapter 18 (part 1)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/American-Notes-(Dickens)">American Notes</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/American_Notes/Chapter_18/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/American_Notes/Chapter_19/part_02">part 02 ›</a></div>
+</nav>
+
+
+CHAPTER XVIII
+CONCLUDING REMARKS
+
+
+THERE are many passages in this book, where I have been at some pains to
+resist the temptation of troubling my readers with my own deductions and
+conclusions: preferring that they should judge for themselves, from such
+premises as I have laid before them.  My only object in the outset, was,
+to carry them with me faithfully wheresoever I went: and that task I have
+discharged.
+
+But I may be pardoned, if on such a theme as the general character of the
+American people, and the general character of their social system, as
+presented to a stranger’s eyes, I desire to express my own opinions in a
+few words, before I bring these volumes to a close.
+
+They are, by nature, frank, brave, cordial, hospitable, and affectionate.
+Cultivation and refinement seem but to enhance their warmth of heart and
+ardent enthusiasm; and it is the possession of these latter qualities in
+a most remarkable degree, which renders an educated American one of the
+most endearing and most generous of friends.  I never was so won upon, as
+by this class; never yielded up my full confidence and esteem so readily
+and pleasurably, as to them; never can make again, in half a year, so
+many friends for whom I seem to entertain the regard of half a life.
+
+These qualities are natural, I implicitly believe, to the whole people.
+That they are, however, sadly sapped and blighted in their growth among
+the mass; and that there are influences at work which endanger them still
+more, and give but little present promise of their healthy restoration;
+is a truth that ought to be told.
+
+It is an essential part of every national character to pique itself
+mightily upon its faults, and to deduce tokens of its virtue or its
+wisdom from their very exaggeration.  One great blemish in the popular
+mind of America, and the prolific parent of an innumerable brood of
+evils, is Universal Distrust.  Yet the American citizen plumes himself
+upon this spirit, even when he is sufficiently dispassionate to perceive
+the ruin it works; and will often adduce it, in spite of his own reason,
+as an instance of the great sagacity and acuteness of the people, and
+their superior shrewdness and independence.
+
+‘You carry,’ says the stranger, ‘this jealousy and distrust into every
+transaction of public life.  By repelling worthy men from your
+legislative assemblies, it has bred up a class of candidates for the
+suffrage, who, in their very act, disgrace your Institutions and your
+people’s choice.  It has rendered you so fickle, and so given to change,
+that your inconstancy has passed into a proverb; for you no sooner set up
+an idol firmly, than you are sure to pull it down and dash it into
+fragments: and this, because directly you reward a benefactor, or a
+public servant, you distrust him, merely because he is rewarded; and
+immediately apply yourselves to find out, either that you have been too
+bountiful in your acknowledgments, or he remiss in his deserts.  Any man
+who attains a high place among you, from the President downwards, may
+date his downfall from that moment; for any printed lie that any
+notorious villain pens, although it militate directly against the
+character and conduct of a life, appeals at once to your distrust, and is
+believed.  You will strain at a gnat in the way of trustfulness and
+confidence, however fairly won and well deserved; but you will swallow a
+whole caravan of camels, if they be laden with unworthy doubts and mean
+suspicions.  Is this well, think you, or likely to elevate the character
+of the governors or the governed, among you?’
+
+The answer is invariably the same: ‘There’s freedom of opinion here, you
+know.  Every man thinks for himself, and we are not to be easily
+overreached.  That’s how our people come to be suspicious.’
+
+Another prominent feature is the love of ‘smart’ dealing: which gilds
+over many a swindle and gross breach of trust; many a defalcation, public
+and private; and enables many a knave to hold his head up with the best,
+who well deserves a halter; though it has not been without its
+retributive operation, for this smartness has done more in a few years to
+impair the public credit, and to cripple the public resources, than dull
+honesty, however rash, could have effected in a century.  The merits of a
+broken speculation, or a bankruptcy, or of a successful scoundrel, are
+not gauged by its or his observance of the golden rule, ‘Do as you would
+be done by,’ but are considered with reference to their smartness.  I
+recollect, on both occasions of our passing that ill-fated Cairo on the
+Mississippi, remarking on the bad effects such gross deceits must have
+when they exploded, in generating a want of confidence abroad, and
+discouraging foreign investment: but I was given to understand that this
+was a very smart scheme by which a deal of money had been made: and that
+its smartest feature was, that they forgot these things abroad, in a very
+short time, and speculated again, as freely as ever.  The following
+dialogue I have held a hundred times: ‘Is it not a very disgraceful
+circumstance that such a man as So-and-so should be acquiring a large
+property by the most infamous and odious means, and notwithstanding all
+the crimes of which he has been guilty, should be tolerated and abetted
+by your Citizens?  He is a public nuisance, is he not?’  ‘Yes, sir.’  ‘A
+convicted liar?’  ‘Yes, sir.’  ‘He has been kicked, and cuffed, and
+caned?’  ‘Yes, sir.’  ‘And he is utterly dishonourable, debased, and
+profligate?’  ‘Yes, sir.’  ‘In the name of wonder, then, what is his
+merit?’  ‘Well, sir, he is a smart man.’
+
+In like manner, all kinds of deficient and impolitic usages are referred
+to the national love of trade; though, oddly enough, it would be a
+weighty charge against a foreigner that he regarded the Americans as a
+trading people.  The love of trade is assigned as a reason for that
+comfortless custom, so very prevalent in country towns, of married
+persons living in hotels, having no fireside of their own, and seldom
+meeting from early morning until late at night, but at the hasty public
+meals.  The love of trade is a reason why the literature of America is to
+remain for ever unprotected ‘For we are a trading people, and don’t care
+for poetry:’ though we _do_, by the way, profess to be very proud of our
+poets: while healthful amusements, cheerful means of recreation, and
+wholesome fancies, must fade before the stern utilitarian joys of trade.

@@ -1,7 +1,7 @@
 ---
 title: Allegory
 type: form
-cluster: Faith and Doubt · Doubt · Allegory
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/form
 ---

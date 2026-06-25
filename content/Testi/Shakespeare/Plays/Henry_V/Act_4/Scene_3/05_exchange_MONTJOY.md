@@ -1,0 +1,33 @@
+---
+title: "Henry V — Act IV, Scene 3 — exchange (MONTJOY) [5]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/HENRY-V-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Henry V — Act IV, Scene 3 — exchange (MONTJOY) [5]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
+</nav>
+
+
+MONTJOY
+I shall, King Harry. And so fare thee well.
+Thou never shalt hear herald any more.
+
+KING HARRY
+I fear thou wilt once more come for a ransom.
+Exit Montjoy
+Enter the Duke of York
+
+YORK
+My lord, most humbly on my knee I beg
+The leading of the vanguard.
+
+KING HARRY
+Take it, brave York.—Now soldiers, march away,
+And how thou pleasest, God, dispose the day. Exeunt

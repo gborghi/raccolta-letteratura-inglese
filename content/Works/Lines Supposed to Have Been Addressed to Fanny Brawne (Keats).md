@@ -2,7 +2,7 @@
 title: Lines Supposed to Have Been Addressed to Fanny Brawne
 author: Keats
 type: work
-cluster: Death · Mortality · Immortality
+cluster: Mortality · Grave · Memento Mori
 source: >-
   Authors/Keats/_raw/138_Lines_Supposed_to_Have_Been_Addressed_to_Fanny_Brawne.md
 tags:
@@ -19,7 +19,7 @@ tags:
 
 # Lines Supposed to Have Been Addressed to Fanny Brawne
 
-*by Keats*  ·  **Cluster:** [[Death · Mortality · Immortality]]
+*by Keats*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
 > A brief, intense blank-verse fragment ('This living hand') imagining the poet's hand cold in the tomb haunting the beloved; mortality, the grave and possessive love made tangible.
@@ -27,12 +27,17 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[The Grave]], [[Blood]], [[Ghosts]]
+**Motifs:** [[Grave]], [[Blood]], [[Ghosts]]
 **Themes & Concepts:** [[Mortality]], [[Romantic Love]]
 **Forms & Genres:** [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!138_Lines_Supposed_to_Have_Been_Addressed_to_Fanny_Brawne
+This living hand, now warm and capable
+Of earnest grasping, would, if it were cold
+And in the icy silence of the tomb,
+So haunt thy days and chill thy dreaming nights
+That thou wouldst wish thine own heart dry of blood
+So in my veins red life might stream again,
+And thou be conscience-calm’d - see here it is -
+I hold it towards you.

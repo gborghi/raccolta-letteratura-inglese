@@ -2,7 +2,7 @@
 title: Sonnet 14
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
 source: Authors/Shakespeare/Sonnets/Sonnet_014.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 14
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
 > Astronomy-and-prognostication sonnet; the youth's eyes are constant stars from which truth and beauty are read, thriving only if he procreates.
@@ -30,8 +30,21 @@ tags:
 **Themes & Concepts:** [[Beauty and Truth]], [[Procreation]], [[Fate and Free Will]], [[Truth]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Not from the stars do I my judgement pluck, 
+And yet methinks I have astronomy; 
+But not to tell of good or evil luck, 
+Of plagues, of dearths, or seasons’ quality. 
+Nor can I fortune to brief minutes tell, 
+’Pointing to each his thunder, rain, and wind, 
+Or say with princes if it shall go well 
+By oft predict that I in heaven find; 
+But from thine eyes my knowledge I derive, 
+And, constant stars, in them I read such art 
+As truth and beauty shall together thrive 
+If from thyself to store thou wouldst convert.
 
-!Sonnet_014
+Or else of thee this I prognosticate:
+
+Thy end is truth’s and beauty’s doom and date.

@@ -2,7 +2,7 @@
 title: 'How fever’d is the man, who cannot look'
 author: Keats
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Keats/_raw/128_How_feverd_is_the_man_who_cannot_look.md
 tags:
   - graph/work
@@ -17,19 +17,33 @@ tags:
 
 # How fever’d is the man, who cannot look
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > A sonnet on accepting mortal life with temperate calm rather than vexing oneself; uses rose, plum and lake imagery to counsel against spoiling one's salvation by feverish self-torment.
 
 ## Connections
 
-**Motifs:** [[The Rose]], [[Nature]]
+**Motifs:** [[Rose]], [[Nature]]
 **Themes & Concepts:** [[Mortality]], [[Humility]], [[Grace and Redemption]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+You cannot eat your cake and have it too. - Proverb
 
-!128_How_feverd_is_the_man_who_cannot_look
+How fever’d is the man, who cannot look
+Upon his mortal days with temperate blood,
+Who vexes all the leaves of his life’s book,
+And robs his fair name of its maidenhood;
+It is as if the rose should pluck herself,
+Or the ripe plum finger its misty bloom,
+As if a Naiad, like a meddling elf,
+Should darken her pure grot with muddy gloom,
+But the rose leaves herself upon the briar,
+For winds to kiss and grateful bees to feed,
+10
+And the ripe plum still wears its dim attire
+The undisturbed lake has crystal space,
+Why then should man, teasing the world for grace,
+Spoil his salvation for a fierce miscreed?

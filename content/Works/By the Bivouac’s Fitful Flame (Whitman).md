@@ -2,7 +2,7 @@
 title: By the Bivouac’s Fitful Flame
 author: Whitman
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Stars · Night · Military Camp
 source: Authors/Whitman/_raw/154_By_the_Bivouac_s_Fitful_Flame.md
 tags:
   - graph/work
@@ -17,19 +17,32 @@ tags:
 
 # By the Bivouac’s Fitful Flame
 
-*by Whitman*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > By a flickering camp-fire the speaker's thoughts wind in solemn procession over life and death, home and the absent loved; a meditative night-camp lyric.
 
 ## Connections
 
-**Motifs:** [[Fire]], [[Night]], [[Silence (2)]], [[Memory (2)]]
+**Motifs:** [[Fire]], [[Night]], [[Silence]], [[Memory]]
 **Themes & Concepts:** [[Mortality]]
-**Settings:** [[The Military Camp]]
+**Settings:** [[Military Camp]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: DRUM-TAPS_
 
-!154_By_the_Bivouac_s_Fitful_Flame
+
+  By the bivouac’s fitful flame,
+  A procession winding around me, solemn and sweet and slow--but
+      first I note,
+  The tents of the sleeping army, the fields’ and woods’ dim outline,
+  The darkness lit by spots of kindled fire, the silence,
+  Like a phantom far or near an occasional figure moving,
+  The shrubs and trees, (as I lift my eyes they seem to be stealthily
+      watching me,)
+  While wind in procession thoughts, O tender and wondrous thoughts,
+  Of life and death, of home and the past and loved, and of those that
+      are far away;
+  A solemn and slow procession there as I sit on the ground,
+  By the bivouac’s fitful flame.

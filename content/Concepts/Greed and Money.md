@@ -1,7 +1,7 @@
 ---
 title: Greed and Money
 type: concept
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: City · London · Theatrum Mundi
 tags:
   - graph/concept
 ---

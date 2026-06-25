@@ -2,7 +2,7 @@
 title: BURKE
 author: Coleridge
 type: work
-cluster: The French Revolution · Liberty / Political Freedom · Pindaric Ode
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Coleridge/_raw/083_BURKE.md
 tags:
   - graph/work
@@ -17,19 +17,31 @@ tags:
 
 # BURKE
 
-*by Coleridge*  ·  **Cluster:** [[The French Revolution · Liberty Political Freedom · Pindaric Ode]]
+*by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A sonnet in which a personified Freedom mourns Burke's apostasy from the cause of liberty; themes of genius corrupted, political betrayal, and lost ideals.
 
 ## Connections
 
-**Archetypes:** [[The Great Mother]]
+**Archetypes:** [[Great Mother]]
 **Themes & Concepts:** [[Liberty Political Freedom]], [[Deception]], [[Power and Corruption]], [[Grief and Loss]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!083_BURKE
+As late I lay in Slumber’s shadowy vale,
+With wetted cheek and in a mourner’s guise,
+I saw the sainted form of FREEDOM rise:
+She spake! not sadder moans the autumnal gale —
+‘Great Son of Genius! sweet to me thy name,   5
+Ere in an evil hour with alter’d voice
+Thou bad’st Oppression’s hireling crew rejoice
+Blasting with wizard spell my laurell’d fame.
+‘Yet never, BURKE! thou drank’st Corruption’s bowl!
+Thee stormy Pity and the cherish’d lure   10
+Of Pomp, and proud Precipitance of soul
+Wilder’d with meteor fires. Ah Spirit pure!
+‘That Error’s mist had left thy purgéd eye:
+So might I clasp thee with a Mother’s joy!’
+December 9, 1794.

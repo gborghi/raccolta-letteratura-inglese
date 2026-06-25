@@ -1,0 +1,17 @@
+---
+title: Monks
+type: character
+cluster: Money and Gold · Poverty · Imprisonment
+tags:
+  - graph/character
+---
+
+# Monks
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Monks"></div>
+
+#graph/character

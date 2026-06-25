@@ -1,7 +1,7 @@
 ---
 title: Despair
 type: concept
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Despair · Fear
 tags:
   - graph/concept
 ---

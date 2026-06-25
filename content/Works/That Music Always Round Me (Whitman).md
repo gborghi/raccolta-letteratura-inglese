@@ -2,7 +2,7 @@
 title: That Music Always Round Me
 author: Whitman
 type: work
-cluster: Birds · Music and Song · Tears
+cluster: Birds · Music and Song · Nightingale
 source: Authors/Whitman/_raw/243_That_Music_Always_Round_Me.md
 tags:
   - graph/work
@@ -16,18 +16,33 @@ tags:
 
 # That Music Always Round Me
 
-*by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Tears]]
+*by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
 > The speaker awakens to the unceasing cosmic chorus of voices and instruments, hearing in it exquisite meanings and beginning to know the performers.
 
 ## Connections
 
-**Motifs:** [[Music and Song]], [[The Sea]]
-**Themes & Concepts:** [[Self-Knowledge]], [[The Sublime]], [[Wonder and Gratitude]]
+**Motifs:** [[Music and Song]], [[Sea]]
+**Themes & Concepts:** [[Self-Knowledge]], [[Sublime]], [[Wonder and Gratitude]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: WHISPERS OF HEAVENLY DEATH_
 
-!243_That_Music_Always_Round_Me
+
+  That music always round me, unceasing, unbeginning, yet long
+      untaught I did not hear,
+  But now the chorus I hear and am elated,
+  A tenor, strong, ascending with power and health, with glad notes of
+      daybreak I hear,
+  A soprano at intervals sailing buoyantly over the tops of immense waves,
+  A transparent base shuddering lusciously under and through the universe,
+  The triumphant tutti, the funeral wailings with sweet flutes and
+      violins, all these I fill myself with,
+  I hear not the volumes of sound merely, I am moved by the exquisite
+      meanings,
+  I listen to the different voices winding in and out, striving,
+      contending with fiery vehemence to excel each other in emotion;
+  I do not think the performers know themselves--but now I think
+      begin to know them.

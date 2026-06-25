@@ -2,7 +2,7 @@
 title: To the Pending Year
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 source: Authors/Whitman/_raw/360_To_the_Pending_Year.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # To the Pending Year
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
 > A fierce, self-interrogating address to the coming year, the poet searching for a last weapon-word against affectation and his own rebellious self.
@@ -29,8 +29,16 @@ tags:
 **Themes & Concepts:** [[Memory and Time]], [[Satire of Society]], [[Conscience]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: GOOD-BYE MY FANCY_
 
-!360_To_the_Pending_Year
+
+  Have I no weapon-word for thee--some message brief and fierce?
+  (Have I fought out and done indeed the battle?) Is there no shot left,
+  For all thy affectations, lisps, scorns, manifold silliness?
+  Nor for myself--my own rebellious self in thee?
+
+  Down, down, proud gorge!--though choking thee;
+  Thy bearded throat and high-borne forehead to the gutter;
+  Crouch low thy neck to eleemosynary gifts.

@@ -1,7 +1,7 @@
 ---
 title: Bees
 type: motif
-cluster: Lyric · Flowers · Stars
+cluster: Rose · Desire · Value and Scarcity
 tags:
   - graph/motif
 ---

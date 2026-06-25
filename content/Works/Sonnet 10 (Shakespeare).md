@@ -2,7 +2,7 @@
 title: Sonnet 10
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_010.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 10
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > Accuses the youth of murderous self-hate and pleads he make another self for love; beauty should live in offspring.
@@ -29,8 +29,21 @@ tags:
 **Themes & Concepts:** [[Procreation]], [[Self-Knowledge]], [[Beauty]], [[Romantic Love]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+For shame deny that thou bear‘st love to any, 
+Who for thyself art so unprovident. 
+Grant, if thou wilt, thou art beloved of many, 
+But that thou none lov’st is most evident; 
+For thou art so possessed with murd‘rous hate 
+That ’gainst thyself thou stick’st not to conspire, 
+Seeking that beauteous roof to ruinate 
+Which to repair should be thy chief desire. 
+O, change thy thought, that I may change my mind! 
+Shall hate be fairer lodged than gentle love? 
+Be as thy presence is, gracious and kind, 
+Or to thyself at least kind-hearted prove.
 
-!Sonnet_010
+Make thee another self for love of me,
+
+That beauty still may live in thine or thee.

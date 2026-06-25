@@ -1,7 +1,7 @@
 ---
 title: Paris
 type: setting
-cluster: Appearance vs Reality · Deception · Short Story
+cluster: Disillusionment · First World War · Italy
 tags:
   - graph/setting
 ---

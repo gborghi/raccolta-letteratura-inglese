@@ -1,7 +1,7 @@
 ---
 title: Spenserian Stanza
 type: form
-cluster: Education · Spenserian Stanza
+cluster: Education · Self-Made Man · Wheel
 tags:
   - graph/form
 ---

@@ -1,0 +1,58 @@
+---
+title: "Antony and Cleopatra — Act II, Scene 7 — exchange (CAESAR) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/ANTONY-AND-CLEOPATRA-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Antony and Cleopatra — Act II, Scene 7 — exchange (CAESAR) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
+</nav>
+
+
+CAESAR
+What would you more? Pompey, good night.
+(To Antony)
+Good-brother,
+Let me request you off. Our graver business
+Frowns at this levity. Gentle lords, let’s part.
+You see we have burnt our cheeks. Strong Enobarb
+Is weaker than the wine, and mine own tongue
+Splits what it speaks. The wild disguise hath almost
+Anticked us all. What needs more words? Good night.
+Good Antony, your hand.
+
+POMPEY
+I’ll try you on the shore.
+
+ANTONY
+And shall, sir. Give’s your hand.
+
+POMPEY
+O Antony,
+You have my father’s house. But what, we are friends!
+Come down into the boat.
+Exeunt all but Enobarbus and Menas
+
+ENOBARBUS
+Take heed you fall not, Menas.
+
+MENAS
+I’ll not on shore.
+No, to my cabin. These drums, these trumpets, flutes,
+what!
+Let Neptune hear we bid a loud farewell
+To these great fellows. Sound and be hanged, sound out!
+Sound a flourish, with drums
+
+ENOBARBUS (throwing his cap in the air)
+Hoo, says a! There’s my cap.
+
+MENAS
+Ho, noble captain, come!
+Exeunt

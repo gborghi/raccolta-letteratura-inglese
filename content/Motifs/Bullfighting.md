@@ -1,7 +1,7 @@
 ---
 title: Bullfighting
 type: motif
-cluster: Disillusionment · Odysseus / Ulysses · Grace Under Pressure / Stoic Endurance
+cluster: Disillusionment · First World War · Italy
 tags:
   - graph/motif
 ---

@@ -1,7 +1,7 @@
 ---
 title: Bread and Wine / Eucharist
 type: motif
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
 tags:
   - graph/motif
 ---

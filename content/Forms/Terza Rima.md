@@ -1,7 +1,7 @@
 ---
 title: Terza Rima
 type: form
-cluster: The Supernatural · Terror and Horror · Guilt
+cluster: Supernatural · Uncanny · Double
 tags:
   - graph/form
 ---

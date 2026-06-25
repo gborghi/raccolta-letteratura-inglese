@@ -1,0 +1,67 @@
+---
+title: "Mansfield Park — Chapter 8 (part 3)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Mansfield-Park-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Mansfield Park — Chapter 8 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_08/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_09/part_01">part 01 ›</a></div>
+</nav>
+
+
+When they came within the influence of Sotherton associations, it was
+better for Miss Bertram, who might be said to have two strings to her
+bow. She had Rushworth feelings, and Crawford feelings, and in the
+vicinity of Sotherton the former had considerable effect. Mr.
+Rushworth’s consequence was hers. She could not tell Miss Crawford that
+“those woods belonged to Sotherton,” she could not carelessly observe
+that “she believed that it was now all Mr. Rushworth’s property on each
+side of the road,” without elation of heart; and it was a pleasure to
+increase with their approach to the capital freehold mansion, and
+ancient manorial residence of the family, with all its rights of
+court-leet and court-baron.
+
+“Now we shall have no more rough road, Miss Crawford; our difficulties
+are over. The rest of the way is such as it ought to be. Mr. Rushworth
+has made it since he succeeded to the estate. Here begins the village.
+Those cottages are really a disgrace. The church spire is reckoned
+remarkably handsome. I am glad the church is not so close to the great
+house as often happens in old places. The annoyance of the bells must
+be terrible. There is the parsonage: a tidy-looking house, and I
+understand the clergyman and his wife are very decent people. Those are
+almshouses, built by some of the family. To the right is the steward’s
+house; he is a very respectable man. Now we are coming to the
+lodge-gates; but we have nearly a mile through the park still. It is
+not ugly, you see, at this end; there is some fine timber, but the
+situation of the house is dreadful. We go down hill to it for half a
+mile, and it is a pity, for it would not be an ill-looking place if it
+had a better approach.”
+
+Miss Crawford was not slow to admire; she pretty well guessed Miss
+Bertram’s feelings, and made it a point of honour to promote her
+enjoyment to the utmost. Mrs. Norris was all delight and volubility;
+and even Fanny had something to say in admiration, and might be heard
+with complacency. Her eye was eagerly taking in everything within her
+reach; and after being at some pains to get a view of the house, and
+observing that “it was a sort of building which she could not look at
+but with respect,” she added, “Now, where is the avenue? The house
+fronts the east, I perceive. The avenue, therefore, must be at the back
+of it. Mr. Rushworth talked of the west front.”
+
+“Yes, it is exactly behind the house; begins at a little distance, and
+ascends for half a mile to the extremity of the grounds. You may see
+something of it here—something of the more distant trees. It is oak
+entirely.”
+
+Miss Bertram could now speak with decided information of what she had
+known nothing about when Mr. Rushworth had asked her opinion; and her
+spirits were in as happy a flutter as vanity and pride could furnish,
+when they drove up to the spacious stone steps before the principal
+entrance.

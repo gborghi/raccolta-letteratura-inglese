@@ -1,14 +1,14 @@
 ---
 title: Sun
 type: motif
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Sun · Light and Dark · Fire
 tags:
   - graph/motif
 ---
 
 # Sun
 
-*Motif* — appears in **138** work(s).
+*Motif* — appears in **139** work(s).
 
 ## Works
 

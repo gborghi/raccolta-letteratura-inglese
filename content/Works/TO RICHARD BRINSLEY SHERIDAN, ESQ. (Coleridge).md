@@ -2,7 +2,7 @@
 title: 'TO RICHARD BRINSLEY SHERIDAN, ESQ.'
 author: Coleridge
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Coleridge/_raw/092_TO_RICHARD_BRINSLEY_SHERIDAN_ESQ.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # TO RICHARD BRINSLEY SHERIDAN, ESQ.
 
-*by Coleridge*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > A sonnet praising Sheridan's eloquence and wit, ranging from Petrarchan sweetness to patriot rage that scorches the political apostate; themes of eloquence, satire, and patriotism.
@@ -25,12 +25,24 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[The Artist and Society (2)]], [[Nationalism and Patriotism]], [[Deception]]
+**Themes & Concepts:** [[Artist and Society]], [[Nationalism and Patriotism]], [[Deception]]
 **Forms & Genres:** [[Sonnet]]
 **Historical References:** [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!092_TO_RICHARD_BRINSLEY_SHERIDAN_ESQ
+It was some Spirit, SHERIDAN! that breath’d
+O’er thy young mind such wildly-various power!
+My soul hath mark’d thee in her shaping hour,
+Thy temples with Hymettian flow’rets wreath’d:
+And sweet thy voice, as when o’er LAURA’S bier   5
+Sad Music trembled thro’ Vauclusa’s glade;
+Sweet, as at dawn the love-lorn Serenade
+That wafts soft dreams to SLUMBER’S listening ear.
+Now patriot Rage and Indignation high
+Swell the full tones! And now thine eye-beams dance   10
+Meanings of Scorn and Wit’s quaint revelry!
+Writhes inly from the bosom-probing glance
+The Apostate by the brainless rout ador’d,
+As erst that elder Fiend beneath great Michael’s sword.
+January 29, 1795.

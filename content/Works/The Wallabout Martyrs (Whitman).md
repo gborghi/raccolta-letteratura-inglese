@@ -2,7 +2,7 @@
 title: The Wallabout Martyrs
 author: Whitman
 type: work
-cluster: Nationalism and Patriotism · The First World War · Flags and Banners
+cluster: War and its Cost · American Civil War · Battlefield
 source: Authors/Whitman/_raw/304_The_Wallabout_Martyrs.md
 tags:
   - graph/work
@@ -21,22 +21,27 @@ tags:
 
 # The Wallabout Martyrs
 
-*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · The First World War · Flags and Banners]]
+*by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
 > Elegy for Revolutionary War prison-ship dead, ranked above classical heroes as the foundation stones of America.
 
 ## Connections
 
-**Archetypes:** [[The Martyr Saint]]
-**Motifs:** [[Dust]], [[The Grave]]
+**Archetypes:** [[Martyr Saint]]
+**Motifs:** [[Dust]], [[Grave]]
 **Themes & Concepts:** [[Nationalism and Patriotism]], [[War and its Cost]]
 **Forms & Genres:** [[Epigram]], [[Free Verse]]
 **Historical References:** [[American Civil War]], [[Classical Antiquity]]
 **Characters:** [[Odysseus Ulysses]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!304_The_Wallabout_Martyrs
+
+  Greater than memory of Achilles or Ulysses,
+  More, more by far to thee than tomb of Alexander,
+  Those cart loads of old charnel ashes, scales and splints of mouldy bones,
+  Once living men--once resolute courage, aspiration, strength,
+  The stepping stones to thee to-day and here, America.

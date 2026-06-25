@@ -2,7 +2,7 @@
 title: VERSES TRIVOCULAR
 author: Coleridge
 type: work
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/374_VERSES_TRIVOCULAR.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # VERSES TRIVOCULAR
 
-*by Coleridge*  ·  **Cluster:** [[The Artist and Society · The Book Reading · Clothing and Costume]]
+*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A nonsense jeu d'esprit built on a chain of '-ocular' rhymes about unilocular hearts, roquelaures and periwinkles; comic verbal play and wit for its own sake.
@@ -27,8 +27,13 @@ tags:
 **Themes & Concepts:** [[Paradox]], [[Joy]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!374_VERSES_TRIVOCULAR
+Of one scrap of science I’ve evidence ocular.
+A heart of one chamber they call unilocular,
+And in a sharp frost, or when snow-flakes fall floccular,
+Your wise man of old wrapp’d himself in a Roquelaure,
+Which was called a Wrap-rascal when folks would be jocular.
+And shell-fish, the small, Periwinkle and Cockle are,
+So with them will I finish these verses trivocular.
+Now first published from an MS.

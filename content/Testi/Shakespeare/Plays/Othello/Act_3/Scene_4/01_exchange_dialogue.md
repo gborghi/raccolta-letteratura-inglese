@@ -1,0 +1,135 @@
+---
+title: "Othello — Act III, Scene 4 — exchange (dialogue) [1]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/OTHELLO-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Othello — Act III, Scene 4 — exchange (dialogue) [1]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
+</nav>
+
+
+Enter Desdemona, Emilia, and the Clown
+
+DESDEMONA Do you know, sirrah, where Lieutenant Cassio lies?
+
+CLOWN I dare not say he lies anywhere.
+
+DESDEMONA Why, man?
+
+CLOWN He’s a soldier, and for me to say a soldier lies, ’tis stabbing.
+
+DESDEMONA Go to. Where lodges he?
+
+CLOWN To tell you where he lodges is to tell you where I lie.
+
+DESDEMONA Can anything be made of this?
+
+CLOWN I know not where he lodges, and for me to devise a lodging and say he lies here, or he lies there, were to lie in mine own throat.
+
+DESDEMONA Can you enquire him out, and be edified by report?
+
+CLOWN I will catechize the world for him; that is, make questions, and by them answer.
+
+DESDEMONA Seek him, bid him come hither, tell him I have moved my lord on his behalf, and hope all will be well.
+
+CLOWN To do this is within the compass of man’s wit, and therefore I will attempt the doing it.
+Exit
+
+DESDEMONA
+Where should I lose the handkerchief, Emilia?
+
+EMILIA I know not, madam.
+
+DESDEMONA
+Believe me, I had rather have lost my purse
+Full of crusadoes, and but my noble Moor
+Is true of mind, and made of no such baseness
+As jealous creatures are, it were enough
+To put him to ill thinking.
+
+EMILIA Is he not jealous?
+
+DESDEMONA
+Who, he? I think the sun where he was born
+Drew all such humours from him.
+Enter Othello
+
+EMILIA Look where he comes.
+
+DESDEMONA
+I will not leave him now till Cassio
+Be called to him. How is’t with you, my lord?
+
+OTHELLO
+Well, my good lady. (Aside) O hardness to dissemble!—
+How do you, Desdemona?
+
+DESDEMONA Well, my good lord.
+
+OTHELLO
+Give me your hand. This hand is moist, my lady.
+
+DESDEMONA
+It hath felt no age, nor known no sorrow.
+
+OTHELLO
+This argues fruitfulness and liberal heart.
+Hot, hot and moist—this hand of yours requires
+A sequester from liberty; fasting, and prayer,
+Much castigation, exercise devout,
+For here’s a young and sweating devil here
+That commonly rebels. ’Tis a good hand,
+A frank one.
+
+DESDEMONA You may indeed say so,
+For ’twas that hand that gave away my heart.
+
+OTHELLO
+A liberal hand. The hearts of old gave hands,
+But our new heraldry is hands, not hearts.
+
+DESDEMONA
+I cannot speak of this. Come now, your promise.
+
+OTHELLO What promise, chuck?
+
+DESDEMONA
+I have sent to bid Cassio come speak with you.
+
+OTHELLO
+I have a salt and sorry rheum offends me.
+Lend me thy handkerchief.
+
+DESDEMONA (offering a handkerchief) Here, my lord.
+
+OTHELLO
+That which I gave you.
+
+DESDEMONA I have it not about me.
+
+OTHELLO Not?
+
+DESDEMONA
+No, faith, my lord.
+
+OTHELLO That’s a fault. That handkerchief
+Did an Egyptian to my mother give.
+She was a charmer, and could almost read
+The thoughts of people. She told her, while she kept it
+’Twould make her amiable, and subdue my father
+Entirely to her love; but if she lost it,
+Or made a gift of it, my father’s eye
+Should hold her loathèd, and his spirits should hunt
+After new fancies. She, dying, gave it me,
+And bid me, when my fate would have me wived,
+To give it her. I did so, and take heed on’t.
+Make it a darling, like your precious eye.
+To lose’t or give’t away were such perdition
+As nothing else could match.

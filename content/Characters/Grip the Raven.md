@@ -1,0 +1,17 @@
+---
+title: Grip the Raven
+type: character
+cluster: Order vs Chaos · Historical Novel · Fanaticism
+tags:
+  - graph/character
+---
+
+# Grip the Raven
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Grip-the-Raven"></div>
+
+#graph/character

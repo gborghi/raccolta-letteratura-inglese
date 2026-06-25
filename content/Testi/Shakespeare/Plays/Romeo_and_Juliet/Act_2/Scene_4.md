@@ -1,0 +1,109 @@
+---
+title: "Romeo and Juliet — Act II, Scene 4"
+author: "Shakespeare"
+unitType: scene
+parentWork: "Works/ROMEO-AND-JULIET-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Romeo and Juliet — Act II, Scene 4
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_2/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_2/Scene_5">Scene 5 ›</a></div>
+</nav>
+
+
+Enter Juliet
+JULIET
+The clock struck nine when I did send the Nurse.
+In half an hour she promised to return.
+Perchance she cannot meet him. That’s not so.
+O, she is lame! Love’s heralds should be thoughts,
+Which ten times faster glides than the sun’s beams
+Driving back shadows over louring hills.
+Therefore do nimble-pinioned doves draw Love,
+And therefore hath the wind-swift Cupid wings.
+Now is the sun upon the highmost hill
+Of this day’s journey, and from nine till twelve
+Is three long hours, yet she is not come.
+Had she affections and warm youthful blood
+She would be as swift in motion as a ball.
+My words would bandy her to my sweet love,
+And his to me.
+But old folks, many feign as they were dead—
+Unwieldy, slow, heavy, and pale as lead.
+Enter the Nurse and Peter
+O God, she comes! O honey Nurse, what news?
+Hast thou met with him ? Send thy man away.
+NURSE Peter, stay at the gate. Exit Peter
+JULIET
+Now, good sweet Nurse—O Lord, why look‘st thou sad ?
+Though news be sad, yet tell them merrily;
+If good, thou sham’st the music of sweet news
+By playing it to me with so sour a face.
+NURSE
+I am a-weary. Give me leave a while.
+Fie, how my bones ache. What a jaunce have I!
+JULIET
+I would thou hadst my bones and I thy news.
+Nay, come, I pray thee speak, good, good Nurse, speak.
+NURSE
+Jesu, what haste! Can you not stay a while?
+Do you not see that I am out of breath?
+JULIET
+How art thou out of breath when thou hast breath
+To say to me that thou art out of breath?
+The excuse that thou dost make in this delay
+Is longer than the tale thou dost excuse.
+Is thy news good or bad? Answer to that.
+Say either, and I’ll stay the circumstance.
+Let me be satisfied: is’t good or bad?
+NURSE Well, you have made a simple choice. You know not how to choose a man. Romeo? No, not he; though his face be better than any man‘s, yet his leg excels all men’s, and for a hand and a foot and a body, though they be not to be talked on, yet they are past compare. He is not the flower of courtesy, but, I’ll warrant him, as gentle as a lamb. Go thy ways, wench. Serve God. What, have you dined at home?
+JULIET
+No, no. But all this did I know before.
+What says he of our marriage—what of that?
+NURSE
+Lord, how my head aches! What a head have I!
+It beats as it would fall in twenty pieces.
+My back—
+⌈Juliet rubs her back⌉
+a’ t’other side—ah, my back, my back!
+Beshrew your heart for sending me about
+To catch my death with jauncing up and down.
+JULIET
+I’faith, I am sorry that thou art not well.
+Sweet, sweet, sweet Nurse, tell me, what says my love?
+NURSE Your love says, like an honest gentleman, and a
+courteous, and a kind, and a handsome, and, I warrant,
+a virtuous—where is your mother?
+JULIET
+Where is my mother? Why, she is within.
+Where should she be? How oddly thou repliest!
+‘Your love says like an honest gentleman
+“Where is your mother?” ’
+NURSE O, God’s Lady dear!
+Are you so hot? Marry come up, I trow.
+Is this the poultice for my aching bones?
+Henceforward do your messages yourself.
+JULIET
+Here’s such a coil ! Come, what says Romeo?
+NURSE
+Have you got leave to go to shrift today?
+JULIET I have.
+NURSE
+Then hie you hence to Friar Laurence’ cell.
+There stays a husband to make you a wife.
+Now comes the wanton blood up in your cheeks.
+They’ll be in scarlet straight at any news.
+Hie you to church. I must another way,
+To fetch a ladder by the which your love
+Must climb a bird’s nest soon, when it is dark.
+I am the drudge, and toil in your delight,
+But you shall bear the burden soon at night.
+Go, I’ll to dinner. Hie you to the cell.
+JULIET
+Hie to high fortune! Honest Nurse, farewell.
+Exeunt ⌈severally⌉

@@ -1,0 +1,199 @@
+---
+title: "Sense and Sensibility — Chapter 33 (part 3)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Sense-and-Sensibility-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Sense and Sensibility — Chapter 33 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_34/part_01">part 01 ›</a></div>
+</nav>
+
+
+be exceedingly pretty. We have cleared away all the old thorns that
+
+grew in patches over the brow.”
+
+
+
+Elinor kept her concern and her censure to herself; and was very
+
+thankful that Marianne was not present, to share the provocation.
+
+
+
+Having now said enough to make his poverty clear, and to do away the
+
+necessity of buying a pair of ear-rings for each of his sisters, in his
+
+next visit at Gray’s, his thoughts took a cheerfuller turn, and he
+
+began to congratulate Elinor on having such a friend as Mrs. Jennings.
+
+
+
+“She seems a most valuable woman indeed. Her house, her style of
+
+living, all bespeak an exceeding good income; and it is an acquaintance
+
+that has not only been of great use to you hitherto, but in the end may
+
+prove materially advantageous. Her inviting you to town is certainly a
+
+vast thing in your favour; and indeed, it speaks altogether so great a
+
+regard for you, that in all probability when she dies you will not be
+
+forgotten. She must have a great deal to leave.”
+
+
+
+“Nothing at all, I should rather suppose; for she has only her
+
+jointure, which will descend to her children.”
+
+
+
+“But it is not to be imagined that she lives up to her income. Few
+
+people of common prudence will do _that_ and whatever she saves, she
+
+will be able to dispose of.”
+
+
+
+“And do you not think it more likely that she should leave it to her
+
+daughters, than to us?”
+
+
+
+“Her daughters are both exceedingly well married, and therefore I
+
+cannot perceive the necessity of her remembering them farther. Whereas,
+
+in my opinion, by her taking so much notice of you, and treating you in
+
+this kind of way, she has given you a sort of claim on her future
+
+consideration, which a conscientious woman would not disregard. Nothing
+
+can be kinder than her behaviour; and she can hardly do all this,
+
+without being aware of the expectation it raises.”
+
+
+
+“But she raises none in those most concerned. Indeed, brother, your
+
+anxiety for our welfare and prosperity carries you too far.”
+
+
+
+“Why, to be sure,” said he, seeming to recollect himself, “people have
+
+little, have very little in their power. But, my dear Elinor, what is
+
+the matter with Marianne?—she looks very unwell, has lost her colour,
+
+and is grown quite thin. Is she ill?”
+
+
+
+“She is not well, she has had a nervous complaint on her for several
+
+weeks.”
+
+
+
+“I am sorry for that. At her time of life, any thing of an illness
+
+destroys the bloom for ever! Hers has been a very short one! She was as
+
+handsome a girl last September, as I ever saw; and as likely to attract
+
+the man. There was something in her style of beauty, to please them
+
+particularly. I remember Fanny used to say that she would marry sooner
+
+and better than you did; not but what she is exceedingly fond of _you_,
+
+but so it happened to strike her. She will be mistaken, however. I
+
+question whether Marianne _now_, will marry a man worth more than five
+
+or six hundred a-year, at the utmost, and I am very much deceived if
+
+_you_ do not do better. Dorsetshire! I know very little of Dorsetshire;
+
+but, my dear Elinor, I shall be exceedingly glad to know more of it;
+
+and I think I can answer for your having Fanny and myself among the
+
+earliest and best pleased of your visitors.”
+
+
+
+Elinor tried very seriously to convince him that there was no
+
+likelihood of her marrying Colonel Brandon; but it was an expectation
+
+of too much pleasure to himself to be relinquished, and he was really
+
+resolved on seeking an intimacy with that gentleman, and promoting the
+
+marriage by every possible attention. He had just compunction enough
+
+for having done nothing for his sisters himself, to be exceedingly
+
+anxious that everybody else should do a great deal; and an offer from
+
+Colonel Brandon, or a legacy from Mrs. Jennings, was the easiest means
+
+of atoning for his own neglect.
+
+
+
+They were lucky enough to find Lady Middleton at home, and Sir John
+
+came in before their visit ended. Abundance of civilities passed on all
+
+sides. Sir John was ready to like anybody, and though Mr. Dashwood did
+
+not seem to know much about horses, he soon set him down as a very
+
+good-natured fellow: while Lady Middleton saw enough of fashion in his
+
+appearance to think his acquaintance worth having; and Mr. Dashwood
+
+went away delighted with both.
+
+
+
+“I shall have a charming account to carry to Fanny,” said he, as he
+
+walked back with his sister. “Lady Middleton is really a most elegant
+
+woman! Such a woman as I am sure Fanny will be glad to know. And Mrs.
+
+Jennings too, an exceedingly well-behaved woman, though not so elegant
+
+as her daughter. Your sister need not have any scruple even of visiting
+
+_her_, which, to say the truth, has been a little the case, and very
+
+naturally; for we only knew that Mrs. Jennings was the widow of a man
+
+who had got all his money in a low way; and Fanny and Mrs. Ferrars were
+
+both strongly prepossessed, that neither she nor her daughters were
+
+such kind of women as Fanny would like to associate with. But now I can
+
+carry her a most satisfactory account of both.”

@@ -1,7 +1,7 @@
 ---
 title: Unrequited / Frustrated Love
 type: concept
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
 tags:
   - graph/concept
 ---

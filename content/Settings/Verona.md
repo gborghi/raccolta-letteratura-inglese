@@ -1,7 +1,7 @@
 ---
 title: Verona
 type: setting
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Verona
 tags:
   - graph/setting
 ---

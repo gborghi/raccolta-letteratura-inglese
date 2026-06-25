@@ -2,7 +2,7 @@
 title: alliterativism
 author: Chesterton
 type: work
-cluster: Parody · Heroic Couplet · Mock Epic
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Chesterton/_raw/alliterativism.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # alliterativism
 
-*by Chesterton*  ·  **Cluster:** [[Parody · Heroic Couplet · Mock Epic]]
+*by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A 1914 comic light-verse squib mocking, through relentless alliteration, the wartime newspaper rhetoric about 'violating Belgian neutrality'. A satirical patriotic parody touching on the First World War.
@@ -27,10 +27,39 @@ tags:
 
 **Themes & Concepts:** [[Satire of Society]], [[War and its Cost]], [[Nationalism and Patriotism]]
 **Forms & Genres:** [[Satire]], [[Parody]], [[Comic Verse Song]]
-**Historical References:** [[The First World War]]
+**Historical References:** [[First World War]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+ALLITERATIVISM (1914)
 
-!alliterativism
+(THE LATEST SCHOOL)
+
+(FRENCH AIRMEN HAVE BEEN FLYING OVER BADEN AND 
+BAVARIA, VIOLATING BELGIAN NEUTRALITY
+--Stated on German authority in the "Westminster Gazette")
+
+SEE the flying French depart
+Like the bees of Bonaparte,
+Swarming up with a most venomous vitality.
+Over Baden and Bavaria,
+And Brighton and Bulgaria,
+Thus violating Belgian neutrality.
+
+And the injured Prussian may
+Not unreasonably say
+"Why, it cannot be so small a nationality
+Since Brixton and Batavia,
+Bolivia and Belgravia,
+Are bursting with the Belgian neutrality."
+
+By pure Alliteration
+You may trace this curious nation,
+And respect this somewhat scattered Principality;
+When you see a B in Both
+You may take your Bible oath
+You are violating Belgian neutrality.
+
+
+
+===== FINE FILE: alliterativism.txt =====

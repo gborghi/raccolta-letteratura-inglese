@@ -1,0 +1,165 @@
+---
+title: "Hard Times — Chapter 5 (part 2)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/Hard-Times-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# Hard Times — Chapter 5 (part 2)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_60/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_61/part_01">part 01 ›</a></div>
+</nav>
+
+
+‘Now, my friend,’ said Mr. Bounderby, whom he could not have exasperated
+more, quite unconscious of it though he was, than by seeming to appeal to
+any one else, ‘if you will favour me with your attention for half a
+minute, I should like to have a word or two with you.  You said just now,
+that you had nothing to tell us about this business.  You are quite sure
+of that before we go any further.’
+
+‘Sir, I am sure on ’t.’
+
+‘Here’s a gentleman from London present,’ Mr. Bounderby made a backhanded
+point at Mr. James Harthouse with his thumb, ‘a Parliament gentleman.  I
+should like him to hear a short bit of dialogue between you and me,
+instead of taking the substance of it—for I know precious well,
+beforehand, what it will be; nobody knows better than I do, take
+notice!—instead of receiving it on trust from my mouth.’
+
+Stephen bent his head to the gentleman from London, and showed a rather
+more troubled mind than usual.  He turned his eyes involuntarily to his
+former refuge, but at a look from that quarter (expressive though
+instantaneous) he settled them on Mr. Bounderby’s face.
+
+‘Now, what do you complain of?’ asked Mr. Bounderby.
+
+‘I ha’ not coom here, sir,’ Stephen reminded him, ‘to complain.  I coom
+for that I were sent for.’
+
+‘What,’ repeated Mr. Bounderby, folding his arms, ‘do you people, in a
+general way, complain of?’
+
+Stephen looked at him with some little irresolution for a moment, and
+then seemed to make up his mind.
+
+‘Sir, I were never good at showin o ’t, though I ha had’n my share in
+feeling o ’t.  ’Deed we are in a muddle, sir.  Look round town—so rich as
+’tis—and see the numbers o’ people as has been broughten into bein heer,
+fur to weave, an’ to card, an’ to piece out a livin’, aw the same one
+way, somehows, ’twixt their cradles and their graves.  Look how we live,
+an’ wheer we live, an’ in what numbers, an’ by what chances, and wi’ what
+sameness; and look how the mills is awlus a goin, and how they never
+works us no nigher to ony dis’ant object—ceptin awlus, Death.  Look how
+you considers of us, and writes of us, and talks of us, and goes up wi’
+yor deputations to Secretaries o’ State ’bout us, and how yo are awlus
+right, and how we are awlus wrong, and never had’n no reason in us sin
+ever we were born.  Look how this ha growen an’ growen, sir, bigger an’
+bigger, broader an’ broader, harder an’ harder, fro year to year, fro
+generation unto generation.  Who can look on ’t, sir, and fairly tell a
+man ’tis not a muddle?’
+
+‘Of course,’ said Mr. Bounderby.  ‘Now perhaps you’ll let the gentleman
+know, how you would set this muddle (as you’re so fond of calling it) to
+rights.’
+
+‘I donno, sir.  I canna be expecten to ’t.  ’Tis not me as should be
+looken to for that, sir.  ’Tis them as is put ower me, and ower aw the
+rest of us.  What do they tak upon themseln, sir, if not to do’t?’
+
+‘I’ll tell you something towards it, at any rate,’ returned Mr.
+Bounderby.  ‘We will make an example of half a dozen Slackbridges.  We’ll
+indict the blackguards for felony, and get ’em shipped off to penal
+settlements.’
+
+Stephen gravely shook his head.
+
+‘Don’t tell me we won’t, man,’ said Mr. Bounderby, by this time blowing a
+hurricane, ‘because we will, I tell you!’
+
+‘Sir,’ returned Stephen, with the quiet confidence of absolute certainty,
+‘if yo was t’ tak a hundred Slackbridges—aw as there is, and aw the
+number ten times towd—an’ was t’ sew ’em up in separate sacks, an’ sink
+’em in the deepest ocean as were made ere ever dry land coom to be, yo’d
+leave the muddle just wheer ’tis.  Mischeevous strangers!’ said Stephen,
+with an anxious smile; ‘when ha we not heern, I am sure, sin ever we can
+call to mind, o’ th’ mischeevous strangers!  ’Tis not by _them_ the
+trouble’s made, sir.  ’Tis not wi’ _them_ ’t commences.  I ha no favour
+for ’em—I ha no reason to favour ’em—but ’tis hopeless and useless to
+dream o’ takin them fro their trade, ’stead o’ takin their trade fro
+them!  Aw that’s now about me in this room were heer afore I coom, an’
+will be heer when I am gone.  Put that clock aboard a ship an’ pack it
+off to Norfolk Island, an’ the time will go on just the same.  So ’tis
+wi’ Slackbridge every bit.’
+
+Reverting for a moment to his former refuge, he observed a cautionary
+movement of her eyes towards the door.  Stepping back, he put his hand
+upon the lock.  But he had not spoken out of his own will and desire; and
+he felt it in his heart a noble return for his late injurious treatment
+to be faithful to the last to those who had repudiated him.  He stayed to
+finish what was in his mind.
+
+‘Sir, I canna, wi’ my little learning an’ my common way, tell the
+genelman what will better aw this—though some working men o’ this town
+could, above my powers—but I can tell him what I know will never do ’t.
+The strong hand will never do ’t.  Vict’ry and triumph will never do ’t.
+Agreeing fur to mak one side unnat’rally awlus and for ever right, and
+toother side unnat’rally awlus and for ever wrong, will never, never do
+’t.  Nor yet lettin alone will never do ’t.  Let thousands upon thousands
+alone, aw leading the like lives and aw faw’en into the like muddle, and
+they will be as one, and yo will be as anoother, wi’ a black unpassable
+world betwixt yo, just as long or short a time as sich-like misery can
+last.  Not drawin nigh to fok, wi’ kindness and patience an’ cheery ways,
+that so draws nigh to one another in their monny troubles, and so
+cherishes one another in their distresses wi’ what they need
+themseln—like, I humbly believe, as no people the genelman ha seen in aw
+his travels can beat—will never do ’t till th’ Sun turns t’ ice.  Most o’
+aw, rating ’em as so much Power, and reg’latin ’em as if they was figures
+in a soom, or machines: wi’out loves and likens, wi’out memories and
+inclinations, wi’out souls to weary and souls to hope—when aw goes quiet,
+draggin on wi’ ’em as if they’d nowt o’ th’ kind, and when aw goes
+onquiet, reproachin ’em for their want o’ sitch humanly feelins in their
+dealins wi’ yo—this will never do ’t, sir, till God’s work is onmade.’
+
+Stephen stood with the open door in his hand, waiting to know if anything
+more were expected of him.
+
+‘Just stop a moment,’ said Mr. Bounderby, excessively red in the face.
+‘I told you, the last time you were here with a grievance, that you had
+better turn about and come out of that.  And I also told you, if you
+remember, that I was up to the gold spoon look-out.’
+
+‘I were not up to ’t myseln, sir; I do assure yo.’
+
+‘Now it’s clear to me,’ said Mr. Bounderby, ‘that you are one of those
+chaps who have always got a grievance.  And you go about, sowing it and
+raising crops.  That’s the business of _your_ life, my friend.’
+
+Stephen shook his head, mutely protesting that indeed he had other
+business to do for his life.
+
+‘You are such a waspish, raspish, ill-conditioned chap, you see,’ said
+Mr. Bounderby, ‘that even your own Union, the men who know you best, will
+have nothing to do with you.  I never thought those fellows could be
+right in anything; but I tell you what!  I so far go along with them for
+a novelty, that _I_’ll have nothing to do with you either.’
+
+Stephen raised his eyes quickly to his face.
+
+‘You can finish off what you’re at,’ said Mr. Bounderby, with a meaning
+nod, ‘and then go elsewhere.’
+
+‘Sir, yo know weel,’ said Stephen expressively, ‘that if I canna get work
+wi’ yo, I canna get it elsewheer.’
+
+The reply was, ‘What I know, I know; and what you know, you know.  I have
+no more to say about it.’
+
+Stephen glanced at Louisa again, but her eyes were raised to his no more;
+therefore, with a sigh, and saying, barely above his breath, ‘Heaven help
+us aw in this world!’ he departed.

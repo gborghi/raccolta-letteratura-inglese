@@ -1,7 +1,7 @@
 ---
 title: Spring
 type: motif
-cluster: Seasons · Winter · Spring
+cluster: Flowers · Spring · Garden
 tags:
   - graph/motif
 ---

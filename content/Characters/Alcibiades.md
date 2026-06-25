@@ -1,0 +1,17 @@
+---
+title: Alcibiades
+type: character
+cluster: Misanthropy
+tags:
+  - graph/character
+---
+
+# Alcibiades
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Alcibiades"></div>
+
+#graph/character

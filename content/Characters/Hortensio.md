@@ -1,0 +1,17 @@
+---
+title: Hortensio
+type: character
+cluster: World Upside Down · Comedy
+tags:
+  - graph/character
+---
+
+# Hortensio
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Hortensio"></div>
+
+#graph/character

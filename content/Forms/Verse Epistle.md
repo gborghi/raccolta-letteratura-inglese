@@ -1,14 +1,14 @@
 ---
 title: Verse Epistle
 type: form
-cluster: The Artist and Society · The Book / Reading · Clothing and Costume
+cluster: Melancholy · Suffering · Pain and Suffering
 tags:
   - graph/form
 ---
 
 # Verse Epistle
 
-*Form/Genre* — appears in **1** work(s).
+*Form/Genre* — appears in **2** work(s).
 
 ## Works
 

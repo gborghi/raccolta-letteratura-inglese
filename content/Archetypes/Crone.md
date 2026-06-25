@@ -1,7 +1,7 @@
 ---
 title: Crone
 type: archetype
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Alienation · Outsider · Exile
 tags:
   - graph/archetype
 ---

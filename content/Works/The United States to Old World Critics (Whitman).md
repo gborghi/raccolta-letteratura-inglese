@@ -2,7 +2,7 @@
 title: The United States to Old World Critics
 author: Whitman
 type: work
-cluster: Free Verse · Democracy · Eternal Return
+cluster: Nationalism and Patriotism · Democracy · Liberty / Political Freedom
 source: Authors/Whitman/_raw/329_The_United_States_to_Old_World_Critics.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # The United States to Old World Critics
 
-*by Whitman*  ·  **Cluster:** [[Free Verse · Democracy · Eternal Return]]
+*by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
 > America answers European critics by pointing to its concrete daily building of a vast perpetual edifice rising to the stars.
@@ -26,12 +26,17 @@ tags:
 ## Connections
 
 **Motifs:** [[Stars]]
-**Themes & Concepts:** [[Nationalism and Patriotism]], [[Critique of Progress]], [[The Artist and Society (2)]], [[Democracy]]
+**Themes & Concepts:** [[Nationalism and Patriotism]], [[Critique of Progress]], [[Artist and Society]], [[Democracy]]
 **Forms & Genres:** [[Free Verse]]
 **Settings:** [[America]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!329_The_United_States_to_Old_World_Critics
+
+  Here first the duties of to-day, the lessons of the concrete,
+  Wealth, order, travel, shelter, products, plenty;
+  As of the building of some varied, vast, perpetual edifice,
+  Whence to arise inevitable in time, the towering roofs, the lamps,
+  The solid-planted spires tall shooting to the stars.

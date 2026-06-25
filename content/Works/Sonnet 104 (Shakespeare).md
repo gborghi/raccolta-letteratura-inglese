@@ -2,7 +2,7 @@
 title: Sonnet 104
 author: Shakespeare
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Time · Tempus Fugit · Clock
 source: Authors/Shakespeare/Sonnets/Sonnet_104.md
 tags:
   - graph/work
@@ -20,7 +20,7 @@ tags:
 
 # Sonnet 104
 
-*by Shakespeare*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Shakespeare*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
 > Three years of seasons pass yet the friend seems unaged; beauty steals away imperceptibly like a dial-hand, hinting at mutability.
@@ -28,12 +28,23 @@ tags:
 ## Connections
 
 **Topoi:** [[Tempus Fugit]]
-**Motifs:** [[Time]], [[Mutability]], [[Seasons]], [[The Clock]]
+**Motifs:** [[Time]], [[Mutability]], [[Seasons]], [[Clock]]
 **Themes & Concepts:** [[Transience]], [[Beauty]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_104
+To me, fair friend, you never can be old; 
+For as you were when first your eye I eyed, 
+Such seems your beauty still. Three winters cold 
+Have from the forests shook three summers’ pride; 
+Three beauteous springs to yellow autumn turned 
+In process of the seasons have I seen, 
+Three April perfumes in three hot Junes burned 
+Since first I saw you fresh, which yet are green. 
+Ah yet doth beauty, like a dial hand, 
+Steal from his figure and no pace perceived; 
+So your sweet hue, which methinks still doth stand, 
+Hath motion, and mine eye may be deceived. 
+For fear of which, hear this, thou age unbred: 
+Ere you were born was beauty’s summer dead.

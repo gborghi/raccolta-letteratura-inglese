@@ -1,7 +1,7 @@
 ---
 title: Inner Conflict
 type: concept
-cluster: Self-Knowledge · Identity · The Self
+cluster: Self-Knowledge · Immortality · Self-Reliance
 tags:
   - graph/concept
 ---

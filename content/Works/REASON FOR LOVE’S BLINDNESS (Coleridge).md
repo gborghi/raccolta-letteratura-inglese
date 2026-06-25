@@ -2,7 +2,7 @@
 title: REASON FOR LOVE’S BLINDNESS
 author: Coleridge
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Coleridge/_raw/245_REASON_FOR_LOVES_BLINDNESS.md
 tags:
   - graph/work
@@ -17,20 +17,26 @@ tags:
 
 # REASON FOR LOVE’S BLINDNESS
 
-*by Coleridge*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > Epigram on why Love is blind: his eyes are in his mind, seeing inward goodness with the heart. Themes of love and inward versus outward worth.
 
 ## Connections
 
-**Archetypes:** [[The Lover]]
+**Archetypes:** [[Lover]]
 **Motifs:** [[Eyes and Sight]]
 **Themes & Concepts:** [[Romantic Love]], [[Appearance vs Reality]], [[Truth]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!245_REASON_FOR_LOVES_BLINDNESS
+I have heard of reasons manifold
+Why Love must needs be blind,
+But this the best of all I hold —
+His eyes are in his mind.
+What outward form and feature are   5
+He guesseth but in part;
+But that within is good and fair
+He seeth with the heart.
+? 1811.

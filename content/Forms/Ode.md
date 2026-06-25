@@ -1,7 +1,7 @@
 ---
 title: Ode
 type: form
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Ode · Nature vs Civilization · Pastoral Retreat
 tags:
   - graph/form
 ---

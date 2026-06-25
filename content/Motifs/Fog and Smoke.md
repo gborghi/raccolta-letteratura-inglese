@@ -1,7 +1,7 @@
 ---
 title: Fog and Smoke
 type: motif
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Fog and Smoke
 tags:
   - graph/motif
 ---

@@ -2,7 +2,7 @@
 title: Sonnet 112
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_112.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 112
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The friend's love fills the brand of vulgar scandal; the speaker, deaf as an adder to others, counts the world besides as dead.
@@ -26,11 +26,22 @@ tags:
 ## Connections
 
 **Motifs:** [[Serpent Snake]]
-**Themes & Concepts:** [[Alienation]], [[Romantic Love]], [[The Artist and Society (2)]], [[Friendship]]
+**Themes & Concepts:** [[Alienation]], [[Romantic Love]], [[Artist and Society]], [[Friendship]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_112
+Your love and pity doth th‘impression fill 
+Which vulgar scandal stamped upon my brow; 
+For what care I who calls me well or ill, 
+So you o’er-green my bad, my good allow? 
+You are my all the world, and I must strive 
+To know my shames and praises from your tongue—
+None else to me, nor I to none alive, 
+That my steeled sense or changes, right or wrong. 
+In so profound abyss I throw all care 
+Of others’ voices that my adder’s sense 
+To critic and to flatterer stopped are. 
+Mark how with my neglect I do dispense: 
+You are so strongly in my purpose bred 
+That all the world besides, methinks, they’re dead.

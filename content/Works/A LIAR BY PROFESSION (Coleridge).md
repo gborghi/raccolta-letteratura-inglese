@@ -26,8 +26,15 @@ tags:
 **Themes & Concepts:** [[Deception]], [[Satire of Society]], [[Truth]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!324_A_LIAR_BY_PROFESSION
+As Dick and I at Charing Cross were walking,
+Whom should we see on t’other side pass by
+But Informator with a stranger talking,
+So I exclaim’d, ‘Lord, what a lie!’
+Quoth Dick—’What, can you hear him?’
+‘Hear him! stuff!
+I saw him open his mouth — an’t that enough?’
+First published in An. Anth., 1800. First collected P. and D. W.,
+ii. 163. Adapted from Lessing’s Sinngedicht No. 142. Auf den Ley.
+‘Der gute Mann, den Ley beiseite dort gezogen!’

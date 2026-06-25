@@ -1,0 +1,43 @@
+---
+title: "The Merchant of Venice — Act I, Scene 1 — monologue (GRAZIANO) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/THE-MERCHANT-OF-VENICE-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# The Merchant of Venice — Act I, Scene 1 — monologue (GRAZIANO) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
+</nav>
+
+
+GRAZIANO Let me play the fool.
+With mirth and laughter let old wrinkles come,
+And let my liver rather heat with wine
+Than my heart cool with mortifying groans.
+Why should a man whose blood is warm within
+Sit like his grandsire cut in alabaster,
+Sleep when he wakes, and creep into the jaundice
+By being peevish? I tell thee what, Antonio—
+I love thee, and ‘tis my love that speaks—
+There are a sort of men whose visages
+Do cream and mantle like a standing pond,
+And do a wilful stillness entertain
+With purpose to be dressed in an opinion
+Of wisdom, gravity, profound conceit,
+As who should say ‘I am Sir Oracle,
+And when I ope my lips, let no dog bark.’
+O my Antonio, I do know of these
+That therefore only are reputed wise
+For saying nothing, when I am very sure,
+If they should speak, would almost damn those ears
+Which, hearing them, would call their brothers fools.
+I’ll tell thee more of this another time.
+But fish not with this melancholy bait
+For this fool gudgeon, this opinion.—
+Come, good Lorenzo.—Fare ye well a while.
+I’ll end my exhortation after dinner.

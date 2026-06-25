@@ -1,7 +1,7 @@
 ---
 title: Italy
 type: setting
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Disillusionment · First World War · Italy
 tags:
   - graph/setting
 ---

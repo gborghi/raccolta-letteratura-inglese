@@ -1,0 +1,17 @@
+---
+title: Macbeth
+type: character
+cluster: Guilt · Conscience · Fate and Free Will
+tags:
+  - graph/character
+---
+
+# Macbeth
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Macbeth"></div>
+
+#graph/character

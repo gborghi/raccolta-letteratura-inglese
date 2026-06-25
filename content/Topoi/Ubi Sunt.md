@@ -1,7 +1,7 @@
 ---
 title: Ubi Sunt
 type: topos
-cluster: Transience · Time · Tempus Fugit
+cluster: Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
 tags:
   - graph/topos
 ---

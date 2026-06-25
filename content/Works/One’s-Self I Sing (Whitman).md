@@ -2,7 +2,7 @@
 title: One’s-Self I Sing
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/001_One_s_Self_I_Sing.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # One’s-Self I Sing
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Programmatic opening lyric of Leaves of Grass balancing the single self against the democratic en-masse, celebrating body and soul, male and female equally; free-verse manifesto.
@@ -25,11 +25,22 @@ tags:
 ## Connections
 
 **Motifs:** [[Music and Song]]
-**Themes & Concepts:** [[Identity]], [[Democracy]], [[The Body]], [[Self-Knowledge]]
+**Themes & Concepts:** [[Identity]], [[Democracy]], [[Body]], [[Self-Knowledge]]
 **Forms & Genres:** [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: INSCRIPTIONS_
 
-!001_One_s_Self_I_Sing
+
+  One’s-self I sing, a simple separate person,
+  Yet utter the word Democratic, the word En-Masse.
+
+  Of physiology from top to toe I sing,
+  Not physiognomy alone nor brain alone is worthy for the Muse, I say
+      the Form complete is worthier far,
+  The Female equally with the Male I sing.
+
+  Of Life immense in passion, pulse, and power,
+  Cheerful, for freest action form’d under the laws divine,
+  The Modern Man I sing.

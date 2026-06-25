@@ -1,7 +1,7 @@
 ---
 title: Rhyme Royal
 type: form
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 tags:
   - graph/form
 ---

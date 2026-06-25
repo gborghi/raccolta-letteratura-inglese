@@ -1,7 +1,7 @@
 ---
 title: Slavery
 type: concept
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Essay · Critique of Progress · Common Man
 tags:
   - graph/concept
 ---

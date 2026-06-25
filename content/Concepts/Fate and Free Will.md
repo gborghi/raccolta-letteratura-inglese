@@ -1,7 +1,7 @@
 ---
 title: Fate and Free Will
 type: concept
-cluster: Power and Corruption · The Crown · Pride
+cluster: Guilt · Conscience · Fate and Free Will
 tags:
   - graph/concept
 ---

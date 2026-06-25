@@ -1,7 +1,7 @@
 ---
 title: Secrecy and Concealment
 type: concept
-cluster: Joy · Animals · Riddle
+cluster: White and Red · Riddle · Secrecy and Concealment
 tags:
   - graph/concept
 ---

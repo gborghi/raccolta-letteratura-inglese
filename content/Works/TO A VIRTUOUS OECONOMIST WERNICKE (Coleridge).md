@@ -27,8 +27,14 @@ tags:
 **Themes & Concepts:** [[Poverty]], [[Humility]], [[Money and Avarice]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!318_TO_A_VIRTUOUS_OECONOMIST_WERNICKE
+You’re careful o’er your wealth ‘tis true:
+Yet so that of your plenteous store
+The needy takes and blesses you,
+For you hate Poverty, but not the Poor.
+First published in Morning Post, Oct. 28, 1799. Now reprinted for the
+first time. Adapted from Wernicke’s Epigrams (Bk. I, No. 49). An den
+sparsamen Celidon.
+‘Du liebst zwar Geld und Gut, doch so dass dein Erbarmen
+Der Arme fühlt.’

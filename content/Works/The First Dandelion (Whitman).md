@@ -2,7 +2,7 @@
 title: The First Dandelion
 author: Whitman
 type: work
-cluster: Seasons · Winter · Spring
+cluster: Flowers · Spring · Garden
 source: Authors/Whitman/_raw/305_The_First_Dandelion.md
 tags:
   - graph/work
@@ -20,20 +20,25 @@ tags:
 
 # The First Dandelion
 
-*by Whitman*  ·  **Cluster:** [[Seasons · Winter · Spring]]
+*by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 
 > A spring nature lyric celebrating the season's first dandelion as innocent and renewing after winter.
 
 ## Connections
 
-**Topoi:** [[Eternal Return (2)]]
+**Topoi:** [[Eternal Return]]
 **Motifs:** [[Spring]], [[Nature]], [[Flowers]], [[Seasons]], [[Dawn]], [[Grass Leaves of Grass]]
 **Themes & Concepts:** [[Innocence and Experience]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!305_The_First_Dandelion
+
+  Simple and fresh and fair from winter’s close emerging,
+  As if no artifice of fashion, business, politics, had ever been,
+  Forth from its sunny nook of shelter’d grass--innocent, golden, calm
+      as the dawn,
+  The spring’s first dandelion shows its trustful face.

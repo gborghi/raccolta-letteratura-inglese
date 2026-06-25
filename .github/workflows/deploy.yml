@@ -27,7 +27,11 @@ jobs:
       - name: Install dependencies
         run: npm ci
       - name: Build Quartz
+        # ~19k pages (full texts + atomized excerpts): raise Node heap so the
+        # parse/emit phases don't OOM on the runner.
         run: npx quartz build
+        env:
+          NODE_OPTIONS: "--max-old-space-size=14336"
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

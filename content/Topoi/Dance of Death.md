@@ -1,7 +1,7 @@
 ---
 title: Dance of Death
 type: topos
-cluster: Transience · Time · Tempus Fugit
+cluster: Mortality · Grave · Memento Mori
 tags:
   - graph/topos
 ---

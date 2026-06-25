@@ -2,7 +2,7 @@
 title: 'Fame, like a wayward Giri, will still be coy'
 author: Keats
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Keats/_raw/127_Fame_like_a_wayward_Giri_will_still_be_coy.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Fame, like a wayward Giri, will still be coy
 
-*by Keats*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > A sonnet personifying Fame as a coy, jilting gipsy-girl who shuns those who court her; reflection on the artist, ambition and the elusiveness of poetic renown.
@@ -24,12 +24,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Combat Strife]]
-**Themes & Concepts:** [[Ambition]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Ambition]], [[Artist and Society]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[The Bible]]
+**Historical References:** [[Bible]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!127_Fame_like_a_wayward_Giri_will_still_be_coy
+I
+Fame, like a wayward Giri, will still be coy
+To those who woo her with too slavish knees,
+But makes surrender to some thoughtless boy.
+And dotes the more upon a heart at ease;
+She is a Gipsey, will not speak to those
+Who have not learnt to be content without her;
+A Jilt, whose ear was never whisper’d close,
+Who thinks they scandal her who talk about her;
+A very Gipsey is she, Nilus-born,
+Sister-in-law to jealous Potiphar;
+10
+Ye lovesick Bards, repay her scorn for scorn,
+Ye Artists lovelorn, madmen that ye are!
+Make your best bow to her and bid adieu,
+Then, if she likes it, she will follow you.

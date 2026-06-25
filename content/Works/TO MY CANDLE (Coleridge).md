@@ -2,7 +2,7 @@
 title: TO MY CANDLE
 author: Coleridge
 type: work
-cluster: Night · Fire · Comic Verse / Song
+cluster: Satire of Society · Epigram · Satire
 source: Authors/Coleridge/_raw/346_TO_MY_CANDLE.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # TO MY CANDLE
 
-*by Coleridge*  ·  **Cluster:** [[Night · Fire · Comic Verse Song]]
+*by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
 > A 'farewell epigram' addressed to a candle, whose short pointed flame is itself an image of the epigram; a self-reflexive meditation on light, brevity, and the art of the epigram.
@@ -24,11 +24,19 @@ tags:
 ## Connections
 
 **Motifs:** [[Fire]], [[Light and Dark]]
-**Themes & Concepts:** [[Friendship]], [[The Artist and Society (2)]]
+**Themes & Concepts:** [[Friendship]], [[Artist and Society]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!346_TO_MY_CANDLE
+THE FAREWELL EPIGRAM
+Good Candle, thou that with thy brother, Fire,
+Art my best friend and comforter at night,
+Just snuff’d, thou look’st as if thou didst desire
+That I on thee an epigram should write.
+Dear Candle, burnt down to a finger-joint,
+Thy own flame is an epigram of sight;
+‘Tis short, and pointed, and all over light,
+Yet gives most light and burns the keenest at the point.
+Valete et Plaudite.
+First published in Morning Post, Oct. 11, 1802.

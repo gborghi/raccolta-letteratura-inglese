@@ -23,11 +23,13 @@ tags:
 
 ## Connections
 
-**Themes & Concepts:** [[The Common Man (2)]], [[Satire of Society]], [[Humility]], [[Truth]]
+**Themes & Concepts:** [[Common Man]], [[Satire of Society]], [[Humility]], [[Truth]]
 **Forms & Genres:** [[Epigram]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!210_THE_GOOD_GREAT_MAN
+‘How seldom, friend! a good great man inherits
+Honour or wealth with all his worth and pains!
+It sounds like stories from the land of spirits
+If any man obtain that which he merits
+Or any merit that which he obtains.’   5

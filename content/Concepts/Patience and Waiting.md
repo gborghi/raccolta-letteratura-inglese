@@ -1,7 +1,7 @@
 ---
 title: Patience and Waiting
 type: concept
-cluster: Maturation and Growth · Childhood · Innocence and Experience
+cluster: Paradox · Food and Feasting · Aphorism
 tags:
   - graph/concept
 ---

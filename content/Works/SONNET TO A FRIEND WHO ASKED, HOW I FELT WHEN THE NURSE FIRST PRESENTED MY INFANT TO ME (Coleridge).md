@@ -27,13 +27,25 @@ tags:
 
 ## Connections
 
-**Archetypes:** [[The Child]], [[The Great Mother]]
+**Archetypes:** [[Child]], [[Great Mother]]
 **Motifs:** [[Childhood]]
 **Themes & Concepts:** [[Romantic Love]], [[Maturation and Growth]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!120_SONNET_TO_A_FRIEND_WHO_ASKED_HOW_I_FELT_WHEN_THE_NURSE_FIRST_PRESENTED_MY_INFANT
+Charles! my slow heart was only sad, when first
+I scann’d that face of feeble infancy:
+For dimly on my thoughtful spirit burst
+All I had been, and all my child might be!
+But when I saw it on its mother’s arm,   5
+And hanging at her bosom (she the while
+Bent o’er its features with a tearful smile)
+Then I was thrill’d and melted, and most warm
+Impress’d a father’s kiss: and all beguil’d
+Of dark remembrance and presageful fear,   10
+I seem’d to see an angel-form appear —
+‘Twas even thine, belovéd woman mild!
+So for the mother’s sake the child was dear,
+And dearer was the mother for the child.
+1796.

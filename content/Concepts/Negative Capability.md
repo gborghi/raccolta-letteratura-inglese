@@ -1,7 +1,7 @@
 ---
 title: Negative Capability
 type: concept
-cluster: Seasons · Winter · Spring
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/concept
 ---

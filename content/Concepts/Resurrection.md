@@ -1,7 +1,7 @@
 ---
 title: Resurrection
 type: concept
-cluster: Dreams · Sleep · Resurrection
+cluster: Sleep · Sleeper Awakes · Resurrection
 tags:
   - graph/concept
 ---

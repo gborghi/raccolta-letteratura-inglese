@@ -1,7 +1,7 @@
 ---
 title: Original Sin
 type: concept
-cluster: Paradox · Truth · Aphorism
+cluster: Temptation · Good vs Evil · Serpent / Snake
 tags:
   - graph/concept
 ---

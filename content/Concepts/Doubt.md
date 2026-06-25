@@ -1,7 +1,7 @@
 ---
 title: Doubt
 type: concept
-cluster: Faith and Doubt · Doubt · Allegory
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/concept
 ---

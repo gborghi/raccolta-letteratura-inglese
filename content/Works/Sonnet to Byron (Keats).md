@@ -2,7 +2,7 @@
 title: Sonnet to Byron
 author: Keats
 type: work
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Birds · Music and Song · Nightingale
 source: Authors/Keats/_raw/045_Sonnet_to_Byron.md
 tags:
   - graph/work
@@ -19,20 +19,31 @@ tags:
 
 # Sonnet to Byron
 
-*by Keats*  ·  **Cluster:** [[Grief and Loss · Melancholy · Elegy]]
+*by Keats*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
 > A sonnet praising Byron's sweetly sad melody and the melancholy beauty of his verse; a tribute on poetry, sorrow and the artist.
 
 ## Connections
 
-**Motifs:** [[Music and Song]], [[The Moon]], [[Birds]]
-**Themes & Concepts:** [[Melancholy]], [[The Artist and Society (2)]], [[Grief and Loss]]
+**Motifs:** [[Music and Song]], [[Moon]], [[Birds]]
+**Themes & Concepts:** [[Melancholy]], [[Artist and Society]], [[Grief and Loss]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[The Romantic Movement (Sensibility)]]
+**Historical References:** [[Romantic Movement (Sensibility)]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!045_Sonnet_to_Byron
+Byron! how sweetly sad thy melody!
+Attuning still the soul to tenderness,
+As if soft Pity, with unusual stress,
+Had touch’d her plaintive lute, and thou, being by,
+Hadst caught the tones, nor suffer’d them to die.
+O’ershadowing sorrow doth not make thee less
+Delightful: thou thy griefs dost dress
+With a bright halo, shining beamily,
+As when a cloud the golden moon doth veil,
+Its sides are ting’d with a resplendent glow,  10
+Through the dark robe oft amber rays prevail,
+And like fair veins in sable marble flow;
+Still warble, dying swan! still tell the tale,
+The enchanting tale, the tale of pleasing woe.

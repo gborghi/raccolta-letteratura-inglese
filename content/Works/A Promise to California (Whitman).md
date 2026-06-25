@@ -2,7 +2,7 @@
 title: A Promise to California
 author: Whitman
 type: work
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 source: Authors/Whitman/_raw/066_A_Promise_to_California.md
 tags:
   - graph/work
@@ -16,19 +16,26 @@ tags:
 
 # A Promise to California
 
-*by Whitman*  ·  **Cluster:** [[Comradeship · The Open Road Homecoming · The Union]]
+*by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
 > Promise to travel west to teach 'robust American love'; comradeship bound to westward expansion, the road, and democratic nationhood.
 
 ## Connections
 
-**Topoi:** [[The Open Road Homecoming]]
-**Motifs:** [[The Sea]]
+**Topoi:** [[Open Road Homecoming]]
+**Motifs:** [[Sea]]
 **Themes & Concepts:** [[Comradeship]], [[Romantic Love]], [[Nationalism and Patriotism]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: CALAMUS_
 
-!066_A_Promise_to_California
+
+  A promise to California,
+  Or inland to the great pastoral Plains, and on to Puget sound and Oregon;
+  Sojourning east a while longer, soon I travel toward you, to remain,
+      to teach robust American love,
+  For I know very well that I and robust love belong among you,
+      inland, and along the Western sea;
+  For these States tend inland and toward the Western sea, and I will also.

@@ -1,7 +1,7 @@
 ---
 title: Greed
 type: concept
-cluster: Appearance vs Reality · Deception · Short Story
+cluster: Education · Self-Made Man · Wheel
 tags:
   - graph/concept
 ---

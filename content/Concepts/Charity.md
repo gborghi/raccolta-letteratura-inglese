@@ -1,7 +1,7 @@
 ---
 title: Charity
 type: concept
-cluster: Paradox · Truth · Aphorism
+cluster: Grace and Redemption · Humility · Bread and Wine / Eucharist
 tags:
   - graph/concept
 ---

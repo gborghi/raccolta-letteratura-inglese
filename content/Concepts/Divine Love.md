@@ -1,7 +1,7 @@
 ---
 title: Divine Love
 type: concept
-cluster: Christ · Divine Love · Hymn
+cluster: Faith · Providence · Divine Love
 tags:
   - graph/concept
 ---

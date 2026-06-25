@@ -2,7 +2,7 @@
 title: To Isadore
 author: Poe
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Poe/_raw/To Isadore.md
 tags:
   - graph/work
@@ -20,20 +20,72 @@ tags:
 
 # To Isadore
 
-*by Poe*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > A musical love lyric celebrating Isadore as a dream-enchantress whose voice and violet eyes wake old memories and turn the speaker's name to melody. Themes of idealized love, beauty, dreams and memory.
 
 ## Connections
 
-**Topoi:** [[The Unattainable Beloved]]
+**Topoi:** [[Unattainable Beloved]]
 **Motifs:** [[Love]], [[Eyes and Sight]], [[Dreams]], [[Music and Song]], [[Flowers]]
 **Themes & Concepts:** [[Romantic Love]], [[Beauty]]
 **Forms & Genres:** [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!To Isadore
+I
+     Beneath the vine-clad eaves,
+         Whose shadows fall before
+         Thy lowly cottage door
+     Under the lilac’s tremulous leaves—
+     Within thy snowy claspeèd hand
+         The purple flowers it bore.
+     Last eve in dreams, I saw thee stand,
+     Like queenly nymphs from Fairy-land—
+     Enchantress of the flowery wand,
+         Most beauteous Isadore!
+              II
+     And when I bade the dream
+         Upon thy spirit flee,
+         Thy violet eyes to me
+     Upturned, did overflowing seem
+     With the deep, untold delight
+         Of Love’s serenity;
+     Thy classic brow, like lilies white
+     And pale as the Imperial Night
+     Upon her throne, with stars bedight,
+         Enthralled my soul to thee!
+                 III
+     Ah I ever I behold
+         Thy dreamy, passionate eyes,
+         Blue as the languid skies
+     Hung with the sunset’s fringe of gold;
+     Now strangely clear thine image grows,
+         And olden memories
+     Are startled from their long repose
+     Like shadows on the silent snows
+     When suddenly the night-wind blows
+         Where quiet moonlight ties.
+              IV
+     Like music heard in dreams,
+         Like strains of harps unknown,
+         Of birds forever flown
+     Audible as the voice of streams
+     That murmur in some leafy dell,
+         I hear thy gentlest tone,
+     And Silence cometh with her spell
+     Like that which on my tongue doth dwell,
+     When tremulous in dreams I tell
+         My love to thee alone!
+              V
+     In every valley heard,
+         Floating from tree to tree,
+         Less beautiful to, me,
+     The music of the radiant bird,
+     Than artless accents such as thine
+         Whose echoes never flee!
+     Ah! how for thy sweet voice I pine:—
+     For uttered in thy tones benign
+     (Enchantress!) this rude name of mine
+         Doth seem a melody!

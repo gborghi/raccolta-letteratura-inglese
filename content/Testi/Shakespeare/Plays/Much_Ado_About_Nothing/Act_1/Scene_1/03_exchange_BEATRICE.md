@@ -1,0 +1,64 @@
+---
+title: "Much Ado About Nothing — Act I, Scene 1 — exchange (BEATRICE) [3]"
+author: "Shakespeare"
+unitType: work
+parentWork: "Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)"
+tags:
+  - graph/excerpt
+  - author/Shakespeare
+---
+
+# Much Ado About Nothing — Act I, Scene 1 — exchange (BEATRICE) [3]
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
+</nav>
+
+
+BEATRICE You always end with a jade’s trick. I know you of old.
+
+DON PEDRO That is the sum of all, Leonato. Signor Claudio and Signor Benedick, my dear friend Leonato hath invited you all. I tell him we shall stay here at the least a month, and he heartily prays some occasion may detain us longer. I dare swear he is no hypocrite, but prays from his heart.
+
+LEONATO If you swear, my lord, you shall not be forsworn. (To Don John) Let me bid you welcome, my lord. Being reconciled to the Prince your brother, I owe you all duty.
+
+DON JOHN I thank you. I am not of many words, but I thank you.
+
+LEONATO (to Don Pedro) Please it your grace lead on?
+
+DON PEDRO Your hand, Leonato. We will go together. Exeunt all but Benedick and Claudio
+
+CLAUDIO Benedick, didst thou note the daughter of Signor Leonato?
+
+BENEDICK I noted her not, but I looked on her.
+
+CLAUDIO Is she not a modest young lady?
+
+BENEDICK Do you question me as an honest man should do, for my simple true judgement, or would you have me speak after my custom, as being a professed tyrant to their sex?
+
+CLAUDIO No, I pray thee speak in sober judgement.
+
+BENEDICK Why, i’faith, methinks she’s too low for a high praise, too brown for a fair praise, and too little for a great praise. Only this commendation I can afford her, that were she other than she is she were unhandsome, and being no other but as she is, I do not like her.
+
+CLAUDIO Thou thinkest I am in sport. I pray thee tell me truly how thou likest her.
+
+BENEDICK Would you buy her, that you enquire after her?
+
+CLAUDIO Can the world buy such a jewel?
+
+BENEDICK Yea, and a case to put it into. But speak you this with a sad brow, or do you play the flouting jack, to tell us Cupid is a good hare-finder and Vulcan a rare carpenter? Come, in what key shall a man take you to go in the song?
+
+CLAUDIO In mine eye she is the sweetest lady that ever I looked on.
+
+BENEDICK I can see yet without spectacles, and I see no such matter. There’s her cousin, an she were not possessed with a fury, exceeds her as much in beauty as the first of May doth the last of December. But I hope you have no intent to turn husband, have you?
+
+CLAUDIO I would scarce trust myself though I had sworn the contrary, if Hero would be my wife.
+
+BENEDICK Is’t come to this? In faith, hath not the world one man but he will wear his cap with suspicion? Shall I never see a bachelor of three-score again? Go to, i’faith, an thou wilt needs thrust thy neck into a yoke, wear the print of it, and sigh away Sundays. Look, Don Pedro is returned to seek you. Enter Don Pedro
+
+DON PEDRO What secret hath held you here that you followed not to Leonato’s?
+
+BENEDICK I would your grace would constrain me to tell.
+
+DON PEDRO I charge thee on thy allegiance.
+
+BENEDICK You hear, Count Claudio? I can be secret as a dumb man, I would have you think so. But on my allegiance, mark you this, on my allegiance! He is in love. With who? Now that is your grace’s part. Mark how short his answer is: with Hero, Leonato’s short daughter.

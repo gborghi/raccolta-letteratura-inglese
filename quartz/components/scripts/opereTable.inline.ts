@@ -62,6 +62,12 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
     ["nconnections", "Links", true],
   ]
 
+  const noArticle = (s: unknown) =>
+    String(s)
+      .toLowerCase()
+      .replace(/^\s*(the|a|an)\s+/, "")
+      .trim()
+
   function cmp(a: Work, b: Work): number {
     let av: any = a[sortKey]
     let bv: any = b[sortKey]
@@ -69,8 +75,8 @@ function buildTable(el: HTMLElement, rows: Work[], prefix: string) {
       av = Number(av)
       bv = Number(bv)
     } else {
-      av = String(av).toLowerCase()
-      bv = String(bv).toLowerCase()
+      av = noArticle(av)
+      bv = noArticle(bv)
     }
     if (av < bv) return -sortDir
     if (av > bv) return sortDir

@@ -1,0 +1,185 @@
+---
+title: "Sense and Sensibility — Chapter 38 (part 3)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Sense-and-Sensibility-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Sense and Sensibility — Chapter 38 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_38/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_40/part_01">part 01 ›</a></div>
+</nav>
+
+
+Such was her parting concern; for after this, she had time only to pay
+
+her farewell compliments to Mrs. Jennings, before her company was
+
+claimed by Mrs. Richardson; and Elinor was left in possession of
+
+knowledge which might feed her powers of reflection some time, though
+
+she had learnt very little more than what had been already foreseen and
+
+foreplanned in her own mind. Edward’s marriage with Lucy was as firmly
+
+determined on, and the time of its taking place remained as absolutely
+
+uncertain, as she had concluded it would be;—every thing depended,
+
+exactly after her expectation, on his getting that preferment, of
+
+which, at present, there seemed not the smallest chance.
+
+
+
+As soon as they returned to the carriage, Mrs. Jennings was eager for
+
+information; but as Elinor wished to spread as little as possible
+
+intelligence that had in the first place been so unfairly obtained, she
+
+confined herself to the brief repetition of such simple particulars, as
+
+she felt assured that Lucy, for the sake of her own consequence, would
+
+choose to have known. The continuance of their engagement, and the
+
+means that were able to be taken for promoting its end, was all her
+
+communication; and this produced from Mrs. Jennings the following
+
+natural remark.
+
+
+
+“Wait for his having a living!—ay, we all know how _that_ will
+
+end:—they will wait a twelvemonth, and finding no good comes of it,
+
+will set down upon a curacy of fifty pounds a-year, with the interest
+
+of his two thousand pounds, and what little matter Mr. Steele and Mr.
+
+Pratt can give her. Then they will have a child every year! and Lord
+
+help ’em! how poor they will be! I must see what I can give them
+
+towards furnishing their house. Two maids and two men, indeed! as I
+
+talked of t’ other day. No, no, they must get a stout girl of all
+
+works. Betty’s sister would never do for them _now_.”
+
+
+
+The next morning brought Elinor a letter by the two-penny post from
+
+Lucy herself. It was as follows:
+
+
+
+“Bartlett’s Building, March.
+
+
+
+
+
+“I hope my dear Miss Dashwood will excuse the liberty I take of writing
+
+to her; but I know your friendship for me will make you pleased to hear
+
+such a good account of myself and my dear Edward, after all the
+
+troubles we have went through lately, therefore will make no more
+
+apologies, but proceed to say that, thank God! though we have suffered
+
+dreadfully, we are both quite well now, and as happy as we must always
+
+be in one another’s love. We have had great trials, and great
+
+persecutions, but however, at the same time, gratefully acknowledge
+
+many friends, yourself not the least among them, whose great kindness I
+
+shall always thankfully remember, as will Edward too, who I have told
+
+of it. I am sure you will be glad to hear, as likewise dear Mrs.
+
+Jennings, I spent two happy hours with him yesterday afternoon, he
+
+would not hear of our parting, though earnestly did I, as I thought my
+
+duty required, urge him to it for prudence sake, and would have parted
+
+for ever on the spot, would he consent to it; but he said it should
+
+never be, he did not regard his mother’s anger, while he could have my
+
+affections; our prospects are not very bright, to be sure, but we must
+
+wait, and hope for the best; he will be ordained shortly; and should it
+
+ever be in your power to recommend him to any body that has a living to
+
+bestow, am very sure you will not forget us, and dear Mrs. Jennings
+
+too, trust she will speak a good word for us to Sir John, or Mr.
+
+Palmer, or any friend that may be able to assist us.—Poor Anne was much
+
+to blame for what she did, but she did it for the best, so I say
+
+nothing; hope Mrs. Jennings won’t think it too much trouble to give us
+
+a call, should she come this way any morning, ’twould be a great
+
+kindness, and my cousins would be proud to know her.—My paper reminds
+
+me to conclude; and begging to be most gratefully and respectfully
+
+remembered to her, and to Sir John, and Lady Middleton, and the dear
+
+children, when you chance to see them, and love to Miss Marianne,
+
+
+
+
+
+“I am, &c.”
+
+
+
+
+
+As soon as Elinor had finished it, she performed what she concluded to
+
+be its writer’s real design, by placing it in the hands of Mrs.
+
+Jennings, who read it aloud with many comments of satisfaction and
+
+praise.
+
+
+
+“Very well indeed!—how prettily she writes!—aye, that was quite proper
+
+to let him be off if he would. That was just like Lucy. Poor soul! I
+
+wish I _could_ get him a living, with all my heart. She calls me dear
+
+Mrs. Jennings, you see. She is a good-hearted girl as ever lived. Very
+
+well upon my word. That sentence is very prettily turned. Yes, yes, I
+
+will go and see her, sure enough. How attentive she is, to think of
+
+every body!—Thank you, my dear, for showing it me. It is as pretty a
+
+letter as ever I saw, and does Lucy’s head and heart great credit.”

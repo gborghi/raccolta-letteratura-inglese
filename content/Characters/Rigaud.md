@@ -1,0 +1,17 @@
+---
+title: Rigaud
+type: character
+cluster: Money and Gold · Poverty · Imprisonment
+tags:
+  - graph/character
+---
+
+# Rigaud
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Rigaud"></div>
+
+#graph/character

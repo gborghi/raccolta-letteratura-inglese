@@ -1,0 +1,145 @@
+---
+title: "Jane Eyre — Chapter 17 (part 6)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/Jane-Eyre-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# Jane Eyre — Chapter 17 (part 6)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_17/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_17/part_07">part 07 ›</a></div>
+</nav>
+
+
+Coffee is handed. The ladies, since the gentlemen entered, have become
+lively as larks; conversation waxes brisk and merry. Colonel Dent and
+Mr. Eshton argue on politics; their wives listen. The two proud
+dowagers, Lady Lynn and Lady Ingram, confabulate together. Sir
+George—whom, by-the-bye, I have forgotten to describe,—a very big, and
+very fresh-looking country gentleman, stands before their sofa,
+coffee-cup in hand, and occasionally puts in a word. Mr. Frederick Lynn
+has taken a seat beside Mary Ingram, and is showing her the engravings
+of a splendid volume: she looks, smiles now and then, but apparently
+says little. The tall and phlegmatic Lord Ingram leans with folded arms
+on the chair-back of the little and lively Amy Eshton; she glances up
+at him, and chatters like a wren: she likes him better than she does
+Mr. Rochester. Henry Lynn has taken possession of an ottoman at the
+feet of Louisa: Adèle shares it with him: he is trying to talk French
+with her, and Louisa laughs at his blunders. With whom will Blanche
+Ingram pair? She is standing alone at the table, bending gracefully
+over an album. She seems waiting to be sought; but she will not wait
+too long: she herself selects a mate.
+
+Mr. Rochester, having quitted the Eshtons, stands on the hearth as
+solitary as she stands by the table: she confronts him, taking her
+station on the opposite side of the mantelpiece.
+
+“Mr. Rochester, I thought you were not fond of children?”
+
+“Nor am I.”
+
+“Then, what induced you to take charge of such a little doll as that?”
+(pointing to Adèle). “Where did you pick her up?”
+
+“I did not pick her up; she was left on my hands.”
+
+“You should have sent her to school.”
+
+“I could not afford it: schools are so dear.”
+
+“Why, I suppose you have a governess for her: I saw a person with her
+just now—is she gone? Oh, no! there she is still, behind the
+window-curtain. You pay her, of course; I should think it quite as
+expensive,—more so; for you have them both to keep in addition.”
+
+I feared—or should I say, hoped?—the allusion to me would make Mr.
+Rochester glance my way; and I involuntarily shrank farther into the
+shade: but he never turned his eyes.
+
+“I have not considered the subject,” said he indifferently, looking
+straight before him.
+
+“No, you men never do consider economy and common sense. You should
+hear mama on the chapter of governesses: Mary and I have had, I should
+think, a dozen at least in our day; half of them detestable and the
+rest ridiculous, and all incubi—were they not, mama?”
+
+“Did you speak, my own?”
+
+The young lady thus claimed as the dowager’s special property,
+reiterated her question with an explanation.
+
+“My dearest, don’t mention governesses; the word makes me nervous. I
+have suffered a martyrdom from their incompetency and caprice. I thank
+Heaven I have now done with them!”
+
+Mrs. Dent here bent over to the pious lady and whispered something in
+her ear; I suppose, from the answer elicited, it was a reminder that
+one of the anathematised race was present.
+
+“Tant pis!” said her Ladyship, “I hope it may do her good!” Then, in a
+lower tone, but still loud enough for me to hear, “I noticed her; I am
+a judge of physiognomy, and in hers I see all the faults of her class.”
+
+“What are they, madam?” inquired Mr. Rochester aloud.
+
+“I will tell you in your private ear,” replied she, wagging her turban
+three times with portentous significancy.
+
+“But my curiosity will be past its appetite; it craves food now.”
+
+“Ask Blanche; she is nearer you than I.”
+
+“Oh, don’t refer him to me, mama! I have just one word to say of the
+whole tribe; they are a nuisance. Not that I ever suffered much from
+them; I took care to turn the tables. What tricks Theodore and I used
+to play on our Miss Wilsons, and Mrs. Greys, and Madame Jouberts! Mary
+was always too sleepy to join in a plot with spirit. The best fun was
+with Madame Joubert: Miss Wilson was a poor sickly thing, lachrymose
+and low-spirited, not worth the trouble of vanquishing, in short; and
+Mrs. Grey was coarse and insensible; no blow took effect on her. But
+poor Madame Joubert! I see her yet in her raging passions, when we had
+driven her to extremities—spilt our tea, crumbled our bread and butter,
+tossed our books up to the ceiling, and played a charivari with the
+ruler and desk, the fender and fire-irons. Theodore, do you remember
+those merry days?”
+
+“Yaas, to be sure I do,” drawled Lord Ingram; “and the poor old stick
+used to cry out, ‘Oh you villains childs!’—and then we sermonised her on
+the presumption of attempting to teach such clever blades as we were,
+when she was herself so ignorant.”
+
+“We did; and, Tedo, you know, I helped you in prosecuting (or
+persecuting) your tutor, whey-faced Mr. Vining—the parson in the pip,
+as we used to call him. He and Miss Wilson took the liberty of falling
+in love with each other—at least Tedo and I thought so; we surprised
+sundry tender glances and sighs which we interpreted as tokens of ‘la
+belle passion,’ and I promise you the public soon had the benefit of
+our discovery; we employed it as a sort of lever to hoist our
+dead-weights from the house. Dear mama, there, as soon as she got an
+inkling of the business, found out that it was of an immoral tendency.
+Did you not, my lady-mother?”
+
+“Certainly, my best. And I was quite right: depend on that: there are a
+thousand reasons why liaisons between governesses and tutors should
+never be tolerated a moment in any well-regulated house; firstly—”
+
+“Oh, gracious, mama! Spare us the enumeration! _Au reste_, we all know
+them: danger of bad example to innocence of childhood; distractions and
+consequent neglect of duty on the part of the attached—mutual alliance
+and reliance; confidence thence resulting—insolence accompanying—mutiny
+and general blow-up. Am I right, Baroness Ingram, of Ingram Park?”
+
+“My lily-flower, you are right now, as always.”
+
+“Then no more need be said: change the subject.”
+
+Amy Eshton, not hearing or not heeding this dictum, joined in with her
+soft, infantine tone: “Louisa and I used to quiz our governess too; but
+she was such a good creature, she would bear anything: nothing put her
+out. She was never cross with us; was she, Louisa?”

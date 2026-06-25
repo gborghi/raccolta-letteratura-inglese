@@ -1,0 +1,17 @@
+---
+title: Robert Martin
+type: character
+cluster: Social Novel (Novel of Manners)
+tags:
+  - graph/character
+---
+
+# Robert Martin
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Robert-Martin"></div>
+
+#graph/character

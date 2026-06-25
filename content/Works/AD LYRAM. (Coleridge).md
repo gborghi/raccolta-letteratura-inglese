@@ -2,7 +2,7 @@
 title: AD LYRAM.
 author: Coleridge
 type: work
-cluster: Transience · Time · Tempus Fugit
+cluster: Transience · Decay · Carpe Diem
 source: Authors/Coleridge/_raw/057_AD_LYRAM.md
 tags:
   - graph/work
@@ -17,7 +17,7 @@ tags:
 
 # AD LYRAM.
 
-*by Coleridge*  ·  **Cluster:** [[Transience · Time · Tempus Fugit]]
+*by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
 > Latin original (after Casimir) of the lyre poem: hang up the lyre, recline by the bank, while clouds gather and joys flee on fleeting foot; on transience and the lyre.
@@ -30,8 +30,20 @@ tags:
 **Forms & Genres:** [[Ode]]
 **Historical References:** [[Classical Antiquity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!057_AD_LYRAM
+Sonori buxi Filia sutilis,
+Pendebis alta, Barbite, populo,
+Dum ridet aer, et supinas
+Solicitat levis aura frondes:
+Te sibilantis lenior halitus
+Perflabit Euri: me iuvet interim
+Collum reclinasse, et virenti
+Sic temere iacuisse ripa.
+Eheu! serenum quae nebulae tegunt
+Repente caelum! quis sonus imbrium!
+Surgamus — heu semper fugaci
+Gaudia praeteritura passu!
+‘Advertisement’ to Ad Lyram,
+in Watchman, II, March 9, 1796.
+Title] Song. [Note. Imitated from Casimir.] MS. E.

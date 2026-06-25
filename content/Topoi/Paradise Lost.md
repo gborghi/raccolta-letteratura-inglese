@@ -1,7 +1,7 @@
 ---
 title: Paradise Lost
 type: topos
-cluster: Paradise Lost · Serpent / Snake · Mercy
+cluster: Bible · Sin and the Fall · Fall from Innocence
 tags:
   - graph/topos
 ---

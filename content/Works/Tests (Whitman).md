@@ -2,7 +2,7 @@
 title: Tests
 author: Whitman
 type: work
-cluster: Self-Knowledge · Identity · The Self
+cluster: Identity · Free Verse · Eternal Return
 source: Authors/Whitman/_raw/219_Tests.md
 tags:
   - graph/work
@@ -16,7 +16,7 @@ tags:
 
 # Tests
 
-*by Whitman*  ·  **Cluster:** [[Self-Knowledge · Identity · The Self]]
+*by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
 > Brief free-verse fragment asserting that the soul's inner judgments, not outer authorities or traditions, are the true tests of all things.
@@ -26,8 +26,16 @@ tags:
 **Themes & Concepts:** [[Self-Knowledge]], [[Truth]], [[Identity]]
 **Forms & Genres:** [[Fragment]], [[Free Verse]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!219_Tests
+
+  All submit to them where they sit, inner, secure, unapproachable to
+      analysis in the soul,
+  Not traditions, not the outer authorities are the judges,
+  They are the judges of outer authorities and of all traditions,
+  They corroborate as they go only whatever corroborates themselves,
+      and touches themselves;
+  For all that, they have it forever in themselves to corroborate far
+      and near without one exception.

@@ -1,7 +1,7 @@
 ---
 title: Storm
 type: motif
-cluster: Wonder and Gratitude · The Sublime · Sun
+cluster: Wonder and Gratitude · Sublime · Storm
 tags:
   - graph/motif
 ---

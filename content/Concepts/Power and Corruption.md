@@ -1,7 +1,7 @@
 ---
 title: Power and Corruption
 type: concept
-cluster: Power and Corruption · The Crown · Pride
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/concept
 ---

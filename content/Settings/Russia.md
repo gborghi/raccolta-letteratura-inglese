@@ -1,7 +1,7 @@
 ---
 title: Russia
 type: setting
-cluster: Money and Gold · Marriage and Fidelity · Social Injustice
+cluster: Swords and Weapons · Power and Corruption · Tyrant
 tags:
   - graph/setting
 ---

@@ -1,7 +1,7 @@
 ---
 title: Puritanism
 type: histref
-cluster: Christianity · Catholic Church · Conversion
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/histref
 ---

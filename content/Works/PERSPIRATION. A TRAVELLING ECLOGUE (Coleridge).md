@@ -29,8 +29,16 @@ tags:
 **Themes & Concepts:** [[Class Conflict]], [[Satire of Society]]
 **Forms & Genres:** [[Fragment]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!051_PERSPIRATION_A_TRAVELLING_ECLOGUE
+The dust flies smothering, as on clatt’ring wheel
+Loath’d Aristocracy careers along;
+The distant track quick vibrates to the eye,
+And white and dazzling undulates with heat,
+Where scorching to the unwary traveller’s touch,   5
+The stone fence flings its narrow slip of shade;
+Or, where the worn sides of the chalky road
+Yield their scant excavations (sultry grots!),
+Emblem of languid patience, we behold
+The fleecy files faint-ruminating lie.   10
+1794.

@@ -1,0 +1,17 @@
+---
+title: Parolles
+type: character
+cluster: Problem Play
+tags:
+  - graph/character
+---
+
+# Parolles
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Parolles"></div>
+
+#graph/character

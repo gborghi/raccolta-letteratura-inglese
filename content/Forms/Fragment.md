@@ -1,7 +1,7 @@
 ---
 title: Fragment
 type: form
-cluster: Night · Fire · Comic Verse / Song
+cluster: Imagination · Fragment · Heroic Couplet
 tags:
   - graph/form
 ---

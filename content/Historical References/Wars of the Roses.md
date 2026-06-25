@@ -1,7 +1,7 @@
 ---
 title: Wars of the Roses
 type: histref
-cluster: Power and Corruption · The Crown · Pride
+cluster: Wars of the Roses
 tags:
   - graph/histref
 ---

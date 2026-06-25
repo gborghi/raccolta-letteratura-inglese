@@ -1,7 +1,7 @@
 ---
 title: Mercy
 type: concept
-cluster: Paradise Lost · Serpent / Snake · Mercy
+cluster: Allegory · Quest · Pilgrim
 tags:
   - graph/concept
 ---

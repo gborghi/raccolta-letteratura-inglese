@@ -2,7 +2,7 @@
 title: Sonnet 7
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Shakespeare/Sonnets/Sonnet_007.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Sonnet 7
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > The sun's daily rise and decline as emblem of youth and age; the youth must get a son to be looked on in his decline.
@@ -27,12 +27,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Tempus Fugit]]
-**Motifs:** [[Sun]], [[The Journey]], [[Eyes and Sight]]
+**Motifs:** [[Sun]], [[Journey]], [[Eyes and Sight]]
 **Themes & Concepts:** [[Procreation]], [[Transience]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Lo, in the orient when the gracious light 
+Lifts up his burning head, each under eye 
+Doth homage to his new-appearing sight, 
+Serving with looks his sacred majesty, 
+And having climbed the steep-up heavenly hill, 
+Resembling strong youth in his middle age, 
+Yet mortal looks adore his beauty still, 
+Attending on his golden pilgrimage. 
+But when from highmost pitch, with weary car, 
+Like feeble age he reeleth from the day, 
+The eyes, ’‘fore duteous, now converted are 
+From his low tract, and look another way.
 
-!Sonnet_007
+So thou, thyself outgoing in thy noon,
+
+Unlooked on diest unless thou get a son.

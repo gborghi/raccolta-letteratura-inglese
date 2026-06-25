@@ -2,7 +2,7 @@
 title: The Dismantled Ship
 author: Whitman
 type: work
-cluster: The Sea · Water · River
+cluster: Journey · Ship
 source: Authors/Whitman/_raw/346_The_Dismantled_Ship.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # The Dismantled Ship
 
-*by Whitman*  ·  **Cluster:** [[The Sea · Water · River]]
+*by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
 > An old battered dismasted ship, after all its voyages, lies rusting and mouldering in a nameless bay, an image of aged decline.
@@ -27,13 +27,19 @@ tags:
 ## Connections
 
 **Topoi:** [[Memento Mori]]
-**Motifs:** [[Decay]], [[The Sea]]
+**Motifs:** [[Decay]], [[Sea]]
 **Themes & Concepts:** [[Mortality]], [[Transience]]
 **Forms & Genres:** [[Lyric]]
-**Settings:** [[A Ship]], [[The Sea (2)]]
+**Settings:** [[Ship]], [[Sea (2)]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!346_The_Dismantled_Ship
+
+  In some unused lagoon, some nameless bay,
+  On sluggish, lonesome waters, anchor’d near the shore,
+  An old, dismasted, gray and batter’d ship, disabled, done,
+  After free voyages to all the seas of earth, haul’d up at last and
+      hawser’d tight,
+  Lies rusting, mouldering.

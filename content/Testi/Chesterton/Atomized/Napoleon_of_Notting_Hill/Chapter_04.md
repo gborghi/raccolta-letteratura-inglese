@@ -1,0 +1,19 @@
+---
+title: "Napoleon of Notting Hill — Book 2"
+author: "Chesterton"
+unitType: chapter
+parentWork: "Works/Napoleon-of-Notting-Hill-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# Napoleon of Notting Hill — Book 2
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/Napoleon-of-Notting-Hill-(Chesterton)">Napoleon of Notting Hill</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_03">‹ Chapter 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_05">Chapter 05 ›</a></div>
+</nav>
+
+
+BOOK II

@@ -1,7 +1,7 @@
 ---
 title: Don John of Austria
 type: character
-cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+cluster: Heroism · Hero · Last Stand
 tags:
   - graph/character
 ---

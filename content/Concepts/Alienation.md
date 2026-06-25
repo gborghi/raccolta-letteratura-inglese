@@ -1,7 +1,7 @@
 ---
 title: Alienation
 type: concept
-cluster: Alienation · Exile · Fog and Smoke
+cluster: Alienation · Outsider · Exile
 tags:
   - graph/concept
 ---

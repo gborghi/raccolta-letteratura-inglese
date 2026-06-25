@@ -23,11 +23,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Memory (2)]], [[Death (2)]]
+**Motifs:** [[Memory]], [[Death]]
 **Themes & Concepts:** [[Memory and Time]], [[Imagination]], [[Identity]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: AUTUMN RIVULETS_
 
-!227_My_Picture_Gallery
+
+  In a little house keep I pictures suspended, it is not a fix’d house,
+  It is round, it is only a few inches from one side to the other;
+  Yet behold, it has room for all the shows of the world, all memories!
+  Here the tableaus of life, and here the groupings of death;
+  Here, do you know this? this is cicerone himself,
+  With finger rais’d he points to the prodigal pictures.

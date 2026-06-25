@@ -2,7 +2,7 @@
 title: Sonnet 152
 author: Shakespeare
 type: work
-cluster: Sonnet · Beauty · Shakespearean Sonnet
+cluster: Appearance vs Reality · Beauty · Eyes and Sight
 source: Authors/Shakespeare/Sonnets/Sonnet_152.md
 tags:
   - graph/work
@@ -19,20 +19,31 @@ tags:
 
 # Sonnet 152
 
-*by Shakespeare*  ·  **Cluster:** [[Sonnet · Beauty · Shakespearean Sonnet]]
+*by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
 > Mutual perjury: her broken bed-vow and his twenty broken oaths swearing her fair; deception, broken faith, guilt and the fallen woman.
 
 ## Connections
 
-**Archetypes:** [[The (Reputed) Fallen Woman]]
+**Archetypes:** [[(Reputed) Fallen Woman]]
 **Motifs:** [[Eyes and Sight]]
 **Themes & Concepts:** [[Deception]], [[Marriage and Fidelity]], [[Guilt]], [[Truth]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_152
+In loving thee thou know’st I am forsworn, 
+But thou art twice forsworn to me love swearing: 
+In act thy bed-vow broke, and new faith torn 
+In vowing new hate after new love bearing. 
+But why of two oaths’ breach do I accuse thee 
+When I break twenty? I am perjured most, 
+For all my vows are oaths but to misuse thee, 
+And all my honest faith in thee is lost. 
+For I have sworn deep oaths of thy deep kindness, 
+Oaths of thy love, thy truth, thy constancy, 
+And to enlighten thee gave eyes to blindness, 
+Or made them swear against the thing they see. 
+For I have sworn thee fair—more perjured eye 
+To swear against the truth so foul a lie.

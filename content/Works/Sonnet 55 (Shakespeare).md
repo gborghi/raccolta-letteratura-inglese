@@ -27,12 +27,25 @@ tags:
 ## Connections
 
 **Topoi:** [[Immortality Through Verse]], [[Sic Transit Gloria Mundi]]
-**Motifs:** [[Ruins the Abbey]], [[Swords and Weapons]], [[Memory (2)]], [[Time]]
+**Motifs:** [[Ruins the Abbey]], [[Swords and Weapons]], [[Memory]], [[Time]]
 **Themes & Concepts:** [[Immortality of Art Fame]]
 **Forms & Genres:** [[Shakespearean Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+Not marble nor the gilded monuments 
+Of princes shall outlive this powerful rhyme, 
+But you shall shine more bright in these contents 
+Than unswept stone besmeared with sluttish time. 
+When wasteful war shall statues overturn, 
+And broils root out the work of masonry, 
+Nor Mars his sword nor war’s quick fire shall burn 
+The living record of your memory. 
+’Gainst death and all oblivious enmity 
+Shall you pace forth; your praise shall still find room 
+Even in the eyes of all posterity 
+That wear this world out to the ending doom.
 
-!Sonnet_055
+So, till the judgement that yourself arise,
+
+You live in this, and dwell in lovers’ eyes.

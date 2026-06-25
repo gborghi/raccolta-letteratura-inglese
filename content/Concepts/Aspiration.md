@@ -1,7 +1,7 @@
 ---
 title: Aspiration
 type: concept
-cluster: Birds · Music and Song · Tears
+cluster: Aspiration
 tags:
   - graph/concept
 ---

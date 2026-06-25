@@ -23,12 +23,17 @@ tags:
 
 ## Connections
 
-**Motifs:** [[The City]], [[Wine and Drink]]
+**Motifs:** [[City]], [[Wine and Drink]]
 **Themes & Concepts:** [[Satire of Society]]
 **Forms & Genres:** [[Epigram]], [[Satire]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!285_ON_MY_JOYFUL_DEPARTURE_FROM_THE_SAME_CITY
+As I am a Rhymer,
+And now at least a merry one,
+Mr. Mum’s Rudesheimer
+And the church of St. Geryon
+Are the two things alone   5
+That deserve to be known
+In the body-and-soul-stinking town of Cologne.
+1828.

@@ -1,7 +1,7 @@
 ---
 title: Hope
 type: concept
-cluster: Grief and Loss · Melancholy · Elegy
+cluster: Paradox · Food and Feasting · Aphorism
 tags:
   - graph/concept
 ---

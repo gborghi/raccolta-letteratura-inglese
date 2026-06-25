@@ -2,7 +2,7 @@
 title: Out of May’s Shows Selected
 author: Whitman
 type: work
-cluster: Lyric · Flowers · Stars
+cluster: Flowers · Spring · Garden
 source: Authors/Whitman/_raw/311_Out_of_May_s_Shows_Selected.md
 tags:
   - graph/work
@@ -19,7 +19,7 @@ tags:
 
 # Out of May’s Shows Selected
 
-*by Whitman*  ·  **Cluster:** [[Lyric · Flowers · Stars]]
+*by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 
 > A catalogue of springtime natural beauty: blossoming orchards, wheat fields, morning freshness, lilac.
@@ -31,8 +31,13 @@ tags:
 **Forms & Genres:** [[Lyric]]
 **Settings:** [[Pastoral Countryside]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!311_Out_of_May_s_Shows_Selected
+
+  Apple orchards, the trees all cover’d with blossoms;
+  Wheat fields carpeted far and near in vital emerald green;
+  The eternal, exhaustless freshness of each early morning;
+  The yellow, golden, transparent haze of the warm afternoon sun;
+  The aspiring lilac bushes with profuse purple or white flowers.

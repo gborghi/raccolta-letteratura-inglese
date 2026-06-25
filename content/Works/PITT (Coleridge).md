@@ -2,7 +2,7 @@
 title: PITT
 author: Coleridge
 type: work
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: Sonnet · Shakespearean Sonnet · Jealousy
 source: Authors/Coleridge/_raw/087_PITT.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # PITT
 
-*by Coleridge*  ·  **Cluster:** [[Martyrdom · The Martyr Saint · The Cross]]
+*by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
 > A bitter sonnet denouncing Pitt as a Judas-apostate crucifying Freedom; invokes Mercy turned to wrath; themes of political betrayal, corruption, and Christ-imagery.
@@ -26,13 +26,25 @@ tags:
 ## Connections
 
 **Archetypes:** [[Christ Figure]]
-**Motifs:** [[The Cross]]
+**Motifs:** [[Cross]]
 **Themes & Concepts:** [[Power and Corruption]], [[Deception]], [[Liberty Political Freedom]]
 **Forms & Genres:** [[Sonnet]]
-**Historical References:** [[The Bible]]
+**Historical References:** [[Bible]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!087_PITT
+Not always should the Tear’s ambrosial dew
+Roll its soft anguish down thy furrow’d cheek!
+Not always heaven-breath’d tones of Suppliance meek
+Beseem thee, Mercy! Yon dark Scowler view,
+Who with proud words of dear-lov’d Freedom came — 5
+More blasting than the mildew from the South!
+And kiss’d his country with Iscariot mouth
+(Ah! foul apostate from his Father’s fame!)
+Then fix’d her on the Cross of deep distress,
+And at safe distance marks the thirsty Lance   10
+Pierce her big side! But O! if some strange trance
+The eye-lids of thy stern-brow’d Sister press,
+Seize, Mercy! thou more terrible the brand,   13
+And hurl her thunderbolts with fiercer hand!
+December 23, 1794.

@@ -1,7 +1,7 @@
 ---
 title: White and Red
 type: motif
-cluster: Martyrdom · The Martyr / Saint · The Cross
+cluster: White and Red · Riddle · Secrecy and Concealment
 tags:
   - graph/motif
 ---

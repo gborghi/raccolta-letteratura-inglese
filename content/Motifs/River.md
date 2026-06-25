@@ -1,7 +1,7 @@
 ---
 title: River
 type: motif
-cluster: The Sea · Water · River
+cluster: Memory and Time · Memory · Nostalgia
 tags:
   - graph/motif
 ---

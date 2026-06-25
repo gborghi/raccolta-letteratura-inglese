@@ -1,7 +1,7 @@
 ---
 title: Revenge
 type: concept
-cluster: Justice / Right and Wrong · Revenge · Avenger
+cluster: Blood · Verse Drama · Revenge
 tags:
   - graph/concept
 ---

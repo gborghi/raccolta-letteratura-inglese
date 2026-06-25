@@ -1,7 +1,7 @@
 ---
 title: Conversion
 type: concept
-cluster: Christianity · Catholic Church · Conversion
+cluster: Christianity · Faith and Doubt · Doubt
 tags:
   - graph/concept
 ---

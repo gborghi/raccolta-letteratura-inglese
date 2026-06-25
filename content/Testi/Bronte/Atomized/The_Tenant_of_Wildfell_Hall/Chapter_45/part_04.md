@@ -1,0 +1,215 @@
+---
+title: "The Tenant of Wildfell Hall — Chapter 45 (part 4)"
+author: "Bronte"
+unitType: excerpt
+parentWork: "Works/The-Tenant-of-Wildfell-Hall-(Bronte)"
+tags:
+  - graph/excerpt
+  - author/Bronte
+---
+
+# The Tenant of Wildfell Hall — Chapter 45 (part 4)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_45/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_45/part_05">part 05 ›</a></div>
+</nav>
+
+
+me in a sea of glory?”
+
+
+
+“I own I cannot; but we know not that it will be so;—and I do know that
+
+to regret the exchange of earthly pleasures for the joys of heaven, is
+
+as if the grovelling caterpillar should lament that it must one day
+
+quit the nibbled leaf to soar aloft and flutter through the air, roving
+
+at will from flower to flower, sipping sweet honey from their cups, or
+
+basking in their sunny petals. If these little creatures knew how great
+
+a change awaited them, no doubt they would regret it; but would not all
+
+such sorrow be misplaced? And if that illustration will not move you,
+
+here is another:—We are children now; we feel as children, and we
+
+understand as children; and when we are told that men and women do not
+
+play with toys, and that our companions will one day weary of the
+
+trivial sports and occupations that interest them and us so deeply now,
+
+we cannot help being saddened at the thoughts of such an alteration,
+
+because we cannot conceive that as we grow up our own minds will become
+
+so enlarged and elevated that we ourselves shall then regard as
+
+trifling those objects and pursuits we now so fondly cherish, and that,
+
+though our companions will no longer join us in those childish
+
+pastimes, they will drink with us at other fountains of delight, and
+
+mingle their souls with ours in higher aims and nobler occupations
+
+beyond our present comprehension, but not less deeply relished or less
+
+truly good for that, while yet both we and they remain essentially the
+
+same individuals as before. But, Gilbert, can you really derive no
+
+consolation from the thought that we may meet together where there is
+
+no more pain and sorrow, no more striving against sin, and struggling
+
+of the spirit against the flesh; where both will behold the same
+
+glorious truths, and drink exalted and supreme felicity from the same
+
+fountain of light and goodness—that Being whom both will worship with
+
+the same intensity of holy ardour—and where pure and happy creatures
+
+both will love with the same divine affection? If you cannot, never
+
+write to me!”
+
+
+
+“Helen, I can! if faith would never fail.”
+
+
+
+“Now, then,” exclaimed she, “while this hope is strong within us—”
+
+
+
+“We will part,” I cried. “You shall not have the pain of another effort
+
+to dismiss me. I will go at once; but—”
+
+
+
+I did not put my request in words: she understood it instinctively, and
+
+_this_ time she yielded too—or rather, there was nothing so deliberate
+
+as requesting or yielding in the matter: there was a sudden impulse
+
+that neither could resist. One moment I stood and looked into her face,
+
+the next I held her to my heart, and we seemed to grow together in a
+
+close embrace from which no physical or mental force could rend us. A
+
+whispered “God bless you!” and “Go—go!” was all she said; but while she
+
+spoke she held me so fast that, without violence, I could not have
+
+obeyed her. At length, however, by some heroic effort, we tore
+
+ourselves apart, and I rushed from the house.
+
+
+
+I have a confused remembrance of seeing little Arthur running up the
+
+garden-walk to meet me, and of bolting over the wall to avoid him—and
+
+subsequently running down the steep fields, clearing the stone fences
+
+and hedges as they came in my way, till I got completely out of sight
+
+of the old hall and down to the bottom of the hill; and then of long
+
+hours spent in bitter tears and lamentations, and melancholy musings in
+
+the lonely valley, with the eternal music in my ears, of the west wind
+
+rushing through the overshadowing trees, and the brook babbling and
+
+gurgling along its stony bed; my eyes, for the most part, vacantly
+
+fixed on the deep, chequered shades restlessly playing over the bright
+
+sunny grass at my feet, where now and then a withered leaf or two would
+
+come dancing to share the revelry; but my heart was away up the hill in
+
+that dark room where she was weeping desolate and alone—she whom I was
+
+not to comfort, not to see again, till years or suffering had overcome
+
+us both, and torn our spirits from their perishing abodes of clay.
+
+
+
+There was little business done that day, you may be sure. The farm was
+
+abandoned to the labourers, and the labourers were left to their own
+
+devices. But one duty must be attended to; I had not forgotten my
+
+assault upon Frederick Lawrence; and I must see him to apologise for
+
+the unhappy deed. I would fain have put it off till the morrow; but
+
+what if he should denounce me to his sister in the meantime? No, no! I
+
+must ask his pardon to-day, and entreat him to be lenient in his
+
+accusation, if the revelation must be made. I deferred it, however,
+
+till the evening, when my spirits were more composed, and when—oh,
+
+wonderful perversity of human nature!—some faint germs of indefinite
+
+hopes were beginning to rise in my mind; not that I intended to cherish
+
+them, after all that had been said on the subject, but there they must
+
+lie for a while, uncrushed though not encouraged, till I had learnt to
+
+live without them.
+
+
+
+Arrived at Woodford, the young squire’s abode, I found no little
+
+difficulty in obtaining admission to his presence. The servant that
+
+opened the door told me his master was very ill, and seemed to think it
+
+doubtful whether he would be able to see me. I was not going to be
+
+baulked, however. I waited calmly in the hall to be announced, but
+
+inwardly determined to take no denial. The message was such as I
+
+expected—a polite intimation that Mr. Lawrence could see no one; he was
+
+feverish, and must not be disturbed.
+
+
+
+“I shall not disturb him long,” said I; “but I must see him for a
+
+moment: it is on business of importance that I wish to speak to him.”
+
+
+
+“I’ll tell him, sir,” said the man. And I advanced further into the
+
+hall and followed him nearly to the door of the apartment where his
+
+master was—for it seemed he was not in bed. The answer returned was
+
+that Mr. Lawrence hoped I would be so good as to leave a message or a
+
+note with the servant, as he could attend to no business at present.

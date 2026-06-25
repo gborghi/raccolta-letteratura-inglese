@@ -25,12 +25,29 @@ tags:
 
 ## Connections
 
-**Motifs:** [[Memory (2)]]
-**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Friendship]], [[The Artist and Society (2)]]
+**Motifs:** [[Memory]]
+**Themes & Concepts:** [[Memory and Time]], [[Nostalgia]], [[Friendship]], [[Artist and Society]]
 **Forms & Genres:** [[Sonnet]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!091_OF_BALIOL_COLLEGE_OXFORD_AUTHOR_OF_THE_RETROSPECT_AND_OTHER_POEMS
+SOUTHEY! thy
+melodies
+steal
+o’er
+mine
+ear
+Like far-off joyance, or the murmuring
+Of wild bees in the sunny showers of Spring —
+Sounds of such mingled import as may cheer
+The lonely breast, yet rouse a mindful tear:   5
+Wak’d by the Song doth Hope-born FANCY fling
+Rich showers of dewy fragrance from her wing,
+Till sickly PASSION’S drooping Myrtles sear
+Blossom anew! But O! more thrill’d, I prize
+Thy sadder strains, that bid in MEMORY’S Dream   10
+The faded forms of past Delight arise;
+Then soft, on Love’s pale cheek, the tearful gleam
+Of Pleasure smiles — as faint yet beauteous lies
+The imag’d Rainbow on a willowy stream.
+January 14, 1795.

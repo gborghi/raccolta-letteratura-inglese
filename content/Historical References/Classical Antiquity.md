@@ -1,7 +1,7 @@
 ---
 title: Classical Antiquity
 type: histref
-cluster: Greek Mythology · Classical Antiquity · Ode
+cluster: Greek Mythology · Lust / Sexual Desire · Desire
 tags:
   - graph/histref
 ---

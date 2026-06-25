@@ -1,0 +1,122 @@
+---
+title: "The Cricket on the Hearth — Chirp The Second (part 5)"
+author: "Dickens"
+unitType: excerpt
+parentWork: "Works/The-Cricket-on-the-Hearth-(Dickens)"
+tags:
+  - graph/excerpt
+  - author/Dickens
+---
+
+# The Cricket on the Hearth — Chirp The Second (part 5)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Second/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Second/part_06">part 06 ›</a></div>
+</nav>
+
+
+"None at all. I'm--I'm sure there's none at all."
+
+"Yes," said the Carrier, with his eyes attracted to her face by the
+great earnestness of her manner. "I am glad you feel so certain of it,
+because it's a confirmation to me. It's curious that he should have
+taken it into his head to ask leave to go on lodging with us; an't it?
+Things come about so strangely."
+
+"So very strangely," she rejoined in a low voice, scarcely audible.
+
+"However, he's a good-natured old gentleman," said John, "and pays as a
+gentleman, and I think his word is to be relied upon, like a
+gentleman's. I had quite a long talk with him this morning: he can hear
+me better already, he says, as he gets more used to my voice. He told me
+a great deal about himself, and I told him a good deal about myself, and
+a rare lot of questions he asked me. I gave him information about my
+having two beats, you know, in my business; one day to the right from
+our house and back again; another day to the left from our house and
+back again (for he's a stranger, and don't know the names of places
+about here); and he seemed quite pleased. 'Why, then I shall be
+returning home to-night your way,' he says, 'when I thought you'd be
+coming in an exactly opposite direction. That's capital! I may trouble
+you for another lift, perhaps, but I'll engage not to fall so sound
+asleep again.' He _was_ sound asleep, sure-ly!--Dot! what are you
+thinking of?"
+
+"Thinking of, John? I--I was listening to you."
+
+"Oh! That's all right!" said the honest Carrier. "I was afraid, from the
+look of your face, that I had gone rambling on so long as to set you
+thinking about something else. I was very near it, I'll be bound."
+
+Dot making no reply, they jogged on, for some little time, in silence.
+But, it was not easy to remain silent very long in John Peerybingle's
+cart, for everybody on the road had something to say. Though it might
+only be "How are you?" and, indeed, it was very often nothing else,
+still, to give that back again in the right spirit of cordiality,
+required, not merely a nod and a smile, but as wholesome an action of
+the lungs withal as a long-winded Parliamentary speech. Sometimes,
+passengers on foot, or horseback, plodded on a little way beside the
+cart, for the express purpose of having a chat; and then there was a
+great deal to be said on both sides.
+
+Then, Boxer gave occasion to more good-natured recognitions of, and by,
+the Carrier, than half-a-dozen Christians could have done! Everybody
+knew him all along the road--especially the fowls and pigs, who, when
+they saw him approaching, with his body all on one side, and his ears
+pricked up inquisitively, and that knob of a tail making the most of
+itself in the air, immediately withdrew into remote back-settlements,
+without waiting for the honour of a nearer acquaintance. He had business
+elsewhere; going down all the turnings, looking into all the wells,
+bolting in and out of all the cottages, dashing into the midst of all
+the Dame Schools, fluttering all the pigeons, magnifying the tails of
+all the cats, and trotting into the public-houses like a regular
+customer. Wherever he went, somebody or other might have been heard to
+cry, "Halloa! here's Boxer!" and out came that somebody forthwith,
+accompanied by at least two or three other somebodies, to give John
+Peerybingle and his pretty wife Good day.
+
+The packages and parcels for the errand cart were numerous; and there
+were many stoppages to take them in and give them out, which were not by
+any means the worst parts of the journey. Some people were so full of
+expectation about their parcels, and other people were so full of wonder
+about their parcels, and other people were so full of inexhaustible
+directions about their parcels, and John had such a lively interest in
+all the parcels, that it was as good as a play. Likewise, there were
+articles to carry, which required to be considered and discussed, and in
+reference to the adjustment and disposition of which councils had to be
+holden by the Carrier and the senders: at which Boxer usually assisted,
+in short fits of the closest attention, and long fits of tearing round
+and round the assembled sages, and barking himself hoarse. Of all these
+little incidents, Dot was the amused and open-eyed spectatress from her
+chair in the cart; and as she sat there, looking on--a charming little
+portrait framed to admiration by the tilt--there was no lack of nudgings
+and glancings and whisperings and envyings among the younger men. And
+this delighted John the Carrier beyond measure; for he was proud to have
+his little wife admired, knowing that she didn't mind it--that, if
+anything, she rather liked it perhaps.
+
+The trip was a little foggy, to be sure, in the January weather; and was
+raw and cold. But who cared for such trifles? Not Dot, decidedly. Not
+Tilly Slowboy, for she deemed sitting in a cart, on any terms, to be the
+highest point of human joys; the crowning circumstance of earthly hope.
+Not the Baby, I'll be sworn; for it's not in Baby nature to be warmer or
+more sound asleep, though its capacity is great in both respects, than
+that blessed young Peerybingle was, all the way.
+
+You couldn't see very far in the fog, of course; but you could see a
+great deal! It's astonishing how much you may see in a thicker fog than
+that, if you will only take the trouble to look for it. Why, even to sit
+watching for the Fairyrings in the fields, and for the patches of hoar
+frost still lingering in the shade, near hedges and by trees, was a
+pleasant occupation, to make no mention of the unexpected shapes in
+which the trees themselves came starting out of the mist, and glided
+into it again. The hedges were tangled and bare, and waved a multitude
+of blighted garlands in the wind; but there was no discouragement in
+this. It was agreeable to contemplate; for it made the fireside warmer
+in possession, and the summer greener in expectancy. The river looked
+chilly; but it was in motion, and moving at a good pace--which was a
+great point. The canal was rather slow and torpid; that must be
+admitted. Never mind. It would freeze the sooner when the frost set
+fairly in, and then there would be skating and sliding; and the heavy
+old barges, frozen up somewhere near a wharf, would smoke their rusty
+iron chimney-pipes all day, and have a lazy time of it.

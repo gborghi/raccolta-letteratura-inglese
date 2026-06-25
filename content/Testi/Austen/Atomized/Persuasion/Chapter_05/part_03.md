@@ -1,0 +1,263 @@
+---
+title: "Persuasion — Chapter 5 (part 3)"
+author: "Austen"
+unitType: excerpt
+parentWork: "Works/Persuasion-(Austen)"
+tags:
+  - graph/excerpt
+  - author/Austen
+---
+
+# Persuasion — Chapter 5 (part 3)
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_05/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_06/part_01">part 01 ›</a></div>
+</nav>
+
+
+word I say, and Walter is growing quite as bad.”
+
+
+
+“Well, you will soon be better now,” replied Anne, cheerfully. “You
+
+know I always cure you when I come. How are your neighbours at the
+
+Great House?”
+
+
+
+“I can give you no account of them. I have not seen one of them to-day,
+
+except Mr Musgrove, who just stopped and spoke through the window, but
+
+without getting off his horse; and though I told him how ill I was, not
+
+one of them have been near me. It did not happen to suit the Miss
+
+Musgroves, I suppose, and they never put themselves out of their way.”
+
+
+
+“You will see them yet, perhaps, before the morning is gone. It is
+
+early.”
+
+
+
+“I never want them, I assure you. They talk and laugh a great deal too
+
+much for me. Oh! Anne, I am so very unwell! It was quite unkind of you
+
+not to come on Thursday.”
+
+
+
+“My dear Mary, recollect what a comfortable account you sent me of
+
+yourself! You wrote in the cheerfullest manner, and said you were
+
+perfectly well, and in no hurry for me; and that being the case, you
+
+must be aware that my wish would be to remain with Lady Russell to the
+
+last: and besides what I felt on her account, I have really been so
+
+busy, have had so much to do, that I could not very conveniently have
+
+left Kellynch sooner.”
+
+
+
+“Dear me! what can _you_ possibly have to do?”
+
+
+
+“A great many things, I assure you. More than I can recollect in a
+
+moment; but I can tell you some. I have been making a duplicate of the
+
+catalogue of my father’s books and pictures. I have been several times
+
+in the garden with Mackenzie, trying to understand, and make him
+
+understand, which of Elizabeth’s plants are for Lady Russell. I have
+
+had all my own little concerns to arrange, books and music to divide,
+
+and all my trunks to repack, from not having understood in time what
+
+was intended as to the waggons: and one thing I have had to do, Mary,
+
+of a more trying nature: going to almost every house in the parish, as
+
+a sort of take-leave. I was told that they wished it. But all these
+
+things took up a great deal of time.”
+
+
+
+“Oh! well!” and after a moment’s pause, “but you have never asked me
+
+one word about our dinner at the Pooles yesterday.”
+
+
+
+“Did you go then? I have made no enquiries, because I concluded you
+
+must have been obliged to give up the party.”
+
+
+
+“Oh yes! I went. I was very well yesterday; nothing at all the matter
+
+with me till this morning. It would have been strange if I had not
+
+gone.”
+
+
+
+“I am very glad you were well enough, and I hope you had a pleasant
+
+party.”
+
+
+
+“Nothing remarkable. One always knows beforehand what the dinner will
+
+be, and who will be there; and it is so very uncomfortable not having a
+
+carriage of one’s own. Mr and Mrs Musgrove took me, and we were so
+
+crowded! They are both so very large, and take up so much room; and Mr
+
+Musgrove always sits forward. So, there was I, crowded into the back
+
+seat with Henrietta and Louisa; and I think it very likely that my
+
+illness to-day may be owing to it.”
+
+
+
+A little further perseverance in patience and forced cheerfulness on
+
+Anne’s side produced nearly a cure on Mary’s. She could soon sit
+
+upright on the sofa, and began to hope she might be able to leave it by
+
+dinner-time. Then, forgetting to think of it, she was at the other end
+
+of the room, beautifying a nosegay; then, she ate her cold meat; and
+
+then she was well enough to propose a little walk.
+
+
+
+“Where shall we go?” said she, when they were ready. “I suppose you
+
+will not like to call at the Great House before they have been to see
+
+you?”
+
+
+
+“I have not the smallest objection on that account,” replied Anne. “I
+
+should never think of standing on such ceremony with people I know so
+
+well as Mrs and the Miss Musgroves.”
+
+
+
+“Oh! but they ought to call upon you as soon as possible. They ought to
+
+feel what is due to you as _my_ sister. However, we may as well go and
+
+sit with them a little while, and when we have that over, we can enjoy
+
+our walk.”
+
+
+
+Anne had always thought such a style of intercourse highly imprudent;
+
+but she had ceased to endeavour to check it, from believing that,
+
+though there were on each side continual subjects of offence, neither
+
+family could now do without it. To the Great House accordingly they
+
+went, to sit the full half hour in the old-fashioned square parlour,
+
+with a small carpet and shining floor, to which the present daughters
+
+of the house were gradually giving the proper air of confusion by a
+
+grand piano-forte and a harp, flower-stands and little tables placed in
+
+every direction. Oh! could the originals of the portraits against the
+
+wainscot, could the gentlemen in brown velvet and the ladies in blue
+
+satin have seen what was going on, have been conscious of such an
+
+overthrow of all order and neatness! The portraits themselves seemed to
+
+be staring in astonishment.
+
+
+
+The Musgroves, like their houses, were in a state of alteration,
+
+perhaps of improvement. The father and mother were in the old English
+
+style, and the young people in the new. Mr and Mrs Musgrove were a very
+
+good sort of people; friendly and hospitable, not much educated, and
+
+not at all elegant. Their children had more modern minds and manners.
+
+There was a numerous family; but the only two grown up, excepting
+
+Charles, were Henrietta and Louisa, young ladies of nineteen and
+
+twenty, who had brought from school at Exeter all the usual stock of
+
+accomplishments, and were now like thousands of other young ladies,
+
+living to be fashionable, happy, and merry. Their dress had every
+
+advantage, their faces were rather pretty, their spirits extremely
+
+good, their manner unembarrassed and pleasant; they were of consequence
+
+at home, and favourites abroad. Anne always contemplated them as some
+
+of the happiest creatures of her acquaintance; but still, saved as we
+
+all are, by some comfortable feeling of superiority from wishing for
+
+the possibility of exchange, she would not have given up her own more
+
+elegant and cultivated mind for all their enjoyments; and envied them
+
+nothing but that seemingly perfect good understanding and agreement
+
+together, that good-humoured mutual affection, of which she had known
+
+so little herself with either of her sisters.
+
+
+
+They were received with great cordiality. Nothing seemed amiss on the
+
+side of the Great House family, which was generally, as Anne very well
+
+knew, the least to blame. The half hour was chatted away pleasantly
+
+enough; and she was not at all surprised, at the end of it, to have
+
+their walking party joined by both the Miss Musgroves, at Mary’s
+
+particular invitation.

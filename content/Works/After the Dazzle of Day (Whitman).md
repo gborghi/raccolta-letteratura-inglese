@@ -2,7 +2,7 @@
 title: After the Dazzle of Day
 author: Whitman
 type: work
-cluster: Lyric · Flowers · Stars
+cluster: Stars · Night · Military Camp
 source: Authors/Whitman/_raw/309_After_the_Dazzle_of_Day.md
 tags:
   - graph/work
@@ -19,19 +19,23 @@ tags:
 
 # After the Dazzle of Day
 
-*by Whitman*  ·  **Cluster:** [[Lyric · Flowers · Stars]]
+*by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
 > Short lyric: only after day's dazzle and clangor fade do stars and the true inner symphony emerge.
 
 ## Connections
 
-**Motifs:** [[Stars]], [[Night]], [[Light and Dark]], [[Silence (2)]], [[Music and Song]]
+**Motifs:** [[Stars]], [[Night]], [[Light and Dark]], [[Silence]], [[Music and Song]]
 **Themes & Concepts:** [[Self-Knowledge]]
 **Forms & Genres:** [[Lyric]], [[Fragment]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
+_Cluster: SANDS AT SEVENTY_
 
-!309_After_the_Dazzle_of_Day
+
+  After the dazzle of day is gone,
+  Only the dark, dark night shows to my eyes the stars;
+  After the clangor of organ majestic, or chorus, or perfect band,
+  Silent, athwart my soul, moves the symphony true.

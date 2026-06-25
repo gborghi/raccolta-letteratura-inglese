@@ -2,7 +2,7 @@
 title: Sonnet 145
 author: Shakespeare
 type: work
-cluster: Romantic Love · The Lover · Unrequited / Frustrated Love
+cluster: Lyric · Romantic Love · Marriage and Fidelity
 source: Authors/Shakespeare/Sonnets/Sonnet_145.md
 tags:
   - graph/work
@@ -18,7 +18,7 @@ tags:
 
 # Sonnet 145
 
-*by Shakespeare*  ·  **Cluster:** [[Romantic Love · The Lover · Unrequited Frustrated Love]]
+*by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
 > Lighter octosyllabic lyric: 'I hate' softened to 'not you', mercy saving his life; love, mercy and the heaven/hell antithesis.
@@ -29,8 +29,19 @@ tags:
 **Themes & Concepts:** [[Romantic Love]], [[Mercy]]
 **Forms & Genres:** [[Shakespearean Sonnet]], [[Lyric]]
 
-## Text
+## Testo integrale / Full text
 
-> 📄 Read full text
-
-!Sonnet_145
+Those lips that love’s own hand did make 
+Breathed forth the sound that said ‘I hate’ 
+To me that languished for her sake; 
+But when she saw my woeful state, 
+Straight in her heart did mercy come, 
+Chiding that tongue that ever sweet 
+Was used in giving gentle doom, 
+And taught it thus anew to greet: 
+‘I hate’ she altered with an end 
+That followed it as gentle day 
+Doth follow night who, like a fiend, 
+From heaven to hell is flown away. 
+‘I hate’ from hate away she threw, 
+And saved my life, saying ‘not you.’

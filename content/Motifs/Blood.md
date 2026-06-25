@@ -1,7 +1,7 @@
 ---
 title: Blood
 type: motif
-cluster: War and its Cost · Blood · American Civil War
+cluster: Blood · Verse Drama · Revenge
 tags:
   - graph/motif
 ---

@@ -1,7 +1,7 @@
 ---
 title: Comradeship
 type: concept
-cluster: Comradeship · The Open Road / Homecoming · The Union
+cluster: Comradeship · Union · Hands / Hand in Hand
 tags:
   - graph/concept
 ---

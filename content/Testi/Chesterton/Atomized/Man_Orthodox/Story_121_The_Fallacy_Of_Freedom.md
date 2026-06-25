@@ -1,0 +1,40 @@
+---
+title: "Man Orthodox — The Fallacy Of Freedom"
+author: "Chesterton"
+unitType: story
+parentWork: "Works/Man-Orthodox-(Chesterton)"
+tags:
+  - graph/excerpt
+  - author/Chesterton
+---
+
+# Man Orthodox — The Fallacy Of Freedom
+
+<nav class="excerpt-nav">
+<div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
+<div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_120_Two_Great_Tories">‹ Story 120 Two Great Tories</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_122_Liberty">Story 122 Liberty ›</a></div>
+</nav>
+
+
+THE FALLACY OF FREEDOM
+
+Anarchism, appeals to absolute liberty, renunciation of
+limitations as such--all this is incurably futile and childish,
+because it will not face a fundamental logical fact.
+This fact is that there is no such thing as a condition of complete
+emancipation, unless we can speak of a condition of nonentity.
+What we call emancipation is always and of necessity simply the free
+choice of the soul between one set of limitations and another.
+If I have a piece of chalk in my hand, I can make either
+a circle or a square; that is the sacred thing called liberty.
+But I cannot make a thing that is both a circle and a square.
+I cannot make an unlimited square.  I cannot draw an emancipated circle.
+If I wish to make anything at all, I must abide by the limitations
+and principles of the thing I make.  ... And any man who makes
+anything whatever, if it be with a piece of chalk, is doing
+exactly what a man does when he marries or enlists in an army.
+He is courageously selling himself into a splendid slavery.
+And, of course, in moral matters it is the same; there is
+no lawlessness, there is only a free choice between limitations.
+
+                                           Daily News, December 21st, 1905

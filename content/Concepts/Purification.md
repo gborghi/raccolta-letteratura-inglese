@@ -1,7 +1,7 @@
 ---
 title: Purification
 type: concept
-cluster: Night · Fire · Comic Verse / Song
+cluster: Sun · Light and Dark · Fire
 tags:
   - graph/concept
 ---

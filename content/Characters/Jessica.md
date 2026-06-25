@@ -1,0 +1,17 @@
+---
+title: Jessica
+type: character
+cluster: Blood · Verse Drama · Revenge
+tags:
+  - graph/character
+---
+
+# Jessica
+
+*Character* — appears in **1** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Characters/Jessica"></div>
+
+#graph/character
