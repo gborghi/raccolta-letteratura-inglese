@@ -11,3 +11,10 @@ replit.nix
 .playwright-mcp
 home-eng-lit.png
 docs/
+
+scripts-download-emblems.mjs
+scripts-resize-emblems.mjs
+build2.log
+wheels-home.png
+authors-wheel-zoom.png
+axes-wheel.png

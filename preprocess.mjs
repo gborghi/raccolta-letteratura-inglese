@@ -318,11 +318,14 @@ async function main() {
       const hit = topClustersAll.find((x) => re.test(x.c))
       if (!hit) return null
       const short = hit.c.split(" · ")[0]
+      // The on-disk cluster filename has no "/" (Obsidian can't put it in a name),
+      // so strip it from the frontmatter value before slugging to match the page.
+      const fileName = hit.c.replace(/\s*\/\s*/g, " ").replace(/\s+/g, " ").trim()
       return {
         label: short,
         sub: `${hit.n} works`,
         img,
-        href: sluggify("Clusters/" + hit.c),
+        href: sluggify("Clusters/" + fileName),
       }
     })
     .filter(Boolean)
