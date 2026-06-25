@@ -1,0 +1,17 @@
+---
+title: Labor and Work
+type: concept
+cluster: Free Verse · Democracy · Eternal Return
+tags:
+  - graph/concept
+---
+
+# Labor and Work
+
+*Theme/Concept* — appears in **7** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Concepts/Labor-and-Work"></div>
+
+#graph/concept

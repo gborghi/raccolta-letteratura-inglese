@@ -1,0 +1,131 @@
+@use "./base.scss";
+
+// ---- "saralynncreativ" warm editorial aesthetic ----
+
+:root {
+  --warm-shadow: 0 6px 24px rgba(120, 90, 60, 0.10);
+  --warm-shadow-sm: 0 2px 10px rgba(120, 90, 60, 0.08);
+}
+
+body {
+  line-height: 1.65;
+}
+
+h1, h2, h3, h4, h5, h6,
+.page-title, article h1 {
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+// ----- Hero / editorial landing -----
+.hero {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 1.5rem 0 1rem;
+  margin-bottom: 1rem;
+  border-bottom: 1px solid var(--lightgray);
+}
+.hero-art {
+  flex: 0 0 auto;
+  color: var(--secondary);
+  opacity: 0.9;
+}
+.hero-text { flex: 1 1 320px; }
+.hero-kicker {
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.72rem;
+  color: var(--tertiary);
+  margin: 0 0 0.3rem;
+  font-weight: 600;
+}
+.hero-title {
+  font-family: var(--headerFont);
+  font-size: clamp(2.4rem, 6vw, 3.6rem);
+  line-height: 1.04;
+  margin: 0 0 0.6rem;
+  color: var(--dark);
+}
+.hero-lead {
+  font-size: 1.05rem;
+  color: var(--darkgray);
+  max-width: 46ch;
+  margin: 0 0 1.1rem;
+}
+.hero-actions { display: flex; gap: 0.7rem; flex-wrap: wrap; }
+.btn {
+  display: inline-block;
+  padding: 0.55rem 1.1rem;
+  border-radius: 999px;
+  border: 1px solid var(--secondary);
+  color: var(--secondary);
+  background: transparent;
+  font-size: 0.92rem;
+  font-weight: 500;
+  transition: all 0.15s ease;
+  text-decoration: none !important;
+}
+.btn:hover { background: var(--highlight); }
+.btn-primary { background: var(--secondary); color: var(--light); }
+.btn-primary:hover { opacity: 0.92; background: var(--secondary); }
+
+// ----- Author cards grid -----
+.author-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(190px, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 2rem;
+}
+.author-card {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+  padding: 1rem 1.1rem;
+  border-radius: 16px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  box-shadow: var(--warm-shadow-sm);
+  text-decoration: none !important;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  color: var(--dark);
+}
+.author-card:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--warm-shadow);
+  border-color: var(--secondary);
+}
+.author-card-name {
+  font-family: var(--headerFont);
+  font-size: 1.25rem;
+  color: var(--dark);
+}
+.author-card-count { font-size: 0.78rem; color: var(--secondary); font-weight: 600; }
+.author-card-blurb { font-size: 0.82rem; color: var(--gray); line-height: 1.4; margin-top: 0.15rem; }
+
+// ----- Cluster cloud -----
+.cluster-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1rem 0; }
+.cluster-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: 999px;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  color: var(--darkgray);
+  font-size: 0.85rem;
+  text-decoration: none !important;
+  transition: all 0.15s ease;
+}
+.cluster-chip:hover { border-color: var(--tertiary); background: var(--highlight); }
+.cluster-chip span { font-size: 0.72rem; color: var(--tertiary); font-weight: 700; }
+
+.popover .popover-inner { border-radius: 12px; }
+article > blockquote { border-radius: 8px; }

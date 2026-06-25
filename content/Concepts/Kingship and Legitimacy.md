@@ -1,0 +1,17 @@
+---
+title: Kingship and Legitimacy
+type: concept
+cluster: Power and Corruption · The Crown · Pride
+tags:
+  - graph/concept
+---
+
+# Kingship and Legitimacy
+
+*Theme/Concept* — appears in **32** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Concepts/Kingship-and-Legitimacy"></div>
+
+#graph/concept

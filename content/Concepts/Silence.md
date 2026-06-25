@@ -1,0 +1,16 @@
+---
+title: Silence
+type: concept
+tags:
+  - graph/concept
+---
+
+# Silence
+
+*Theme/Concept* — appears in **2** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Concepts/Silence"></div>
+
+#graph/concept

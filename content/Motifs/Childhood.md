@@ -1,0 +1,17 @@
+---
+title: Childhood
+type: motif
+cluster: Maturation and Growth · Childhood · Innocence and Experience
+tags:
+  - graph/motif
+---
+
+# Childhood
+
+*Motif* — appears in **76** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Motifs/Childhood"></div>
+
+#graph/motif

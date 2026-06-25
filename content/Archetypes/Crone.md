@@ -1,0 +1,17 @@
+---
+title: Crone
+type: archetype
+cluster: Ballad / Ballade · Narrative Poem · The Last Stand
+tags:
+  - graph/archetype
+---
+
+# Crone
+
+*Archetype* — appears in **3** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Archetypes/Crone"></div>
+
+#graph/archetype

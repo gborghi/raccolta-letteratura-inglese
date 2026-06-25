@@ -1,0 +1,17 @@
+---
+title: Aphorism
+type: form
+cluster: Paradox · Truth · Aphorism
+tags:
+  - graph/form
+---
+
+# Aphorism
+
+*Form/Genre* — appears in **36** work(s).
+
+## Works
+
+<div class="concept-works" data-slug="Forms/Aphorism"></div>
+
+#graph/form
