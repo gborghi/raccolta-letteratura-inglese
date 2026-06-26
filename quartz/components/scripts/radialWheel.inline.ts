@@ -84,7 +84,7 @@ function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
   // For crowded wheels (≥10 spokes) alternate between two inner radii so adjacent
   // labels sit at different distances and don't overlap each other.
   const crowded = n >= 10
-  const labelR_inner = crowded ? 18 : 22 // closer ring (even spokes)
+  const labelR_inner = crowded ? 19 : 22 // closer ring (even spokes)
   const labelR_outer = crowded ? 25 : 22 // farther ring (odd spokes, still inner side)
   for (let i = 0; i < n; i++) {
     const angle = (i / n) * 2 * Math.PI - Math.PI / 2 // start at 12 o'clock

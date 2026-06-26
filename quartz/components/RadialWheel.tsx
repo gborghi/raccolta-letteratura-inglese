@@ -93,8 +93,8 @@ const style = `
 }
 .rw-label-anchor .rw-label { white-space: normal; }
 /* Crowded wheels (≥10 spokes): shrink labels so the two-tier inner ring fits cleanly */
-.rw-stage[data-crowded] .rw-label-anchor { max-width: 22%; }
-.rw-stage[data-crowded] .rw-label { font-size: 0.72rem; padding: 0.1rem 0.32rem; }
+.rw-stage[data-crowded] .rw-label-anchor { max-width: 24%; }
+.rw-stage[data-crowded] .rw-label { font-size: 0.68rem; padding: 0.08rem 0.28rem; line-height: 1.15; }
 
 /* hover/focus: lift the emblem; the label sits in a separate top layer so it never
    gets covered when the tile scales up. */
