@@ -1,7 +1,8 @@
 // Reusable radial "option wheel": renders <div class="radial-wheel" data-wheel="...">
-// placeholders into a circle of clickable emblem tiles, with a center medallion,
-// counter-rotated upright labels, hover lift, keyboard focus, and a grid fallback
-// on narrow screens. Data comes from quartz/static/wheel.json.
+// placeholders into a circle of clickable emblem tiles, with a center medallion and
+// upright labels placed on the INNER side of each emblem in a top layer (so a label
+// is always in the foreground and never hidden when the emblem is hovered/scaled).
+// A grid fallback kicks in on narrow screens. Data: quartz/static/wheel.json.
 
 interface Spoke {
   label: string
@@ -25,38 +26,77 @@ function esc(s: unknown): string {
   )
 }
 
-function buildSpoke(s: Spoke, prefix: string, imgPrefix: string): HTMLAnchorElement {
+// attach the author -> Cerca sessionStorage handoff to a clickable element
+function wireCerca(a: HTMLAnchorElement, s: Spoke) {
+  if (!s.cercaAuthor) return
+  a.dataset.cercaAuthor = s.cercaAuthor
+  a.addEventListener("click", () => {
+    try {
+      sessionStorage.setItem("cercaPreselect", "author::" + s.cercaAuthor)
+    } catch {}
+  })
+}
+
+// emblem-only clickable tile (circle layout)
+function buildTile(s: Spoke, prefix: string, imgPrefix: string): HTMLAnchorElement {
+  const a = document.createElement("a")
+  a.className = "rw-spoke rw-tilespoke"
+  a.href = prefix + s.href
+  a.setAttribute("aria-label", s.label)
+  wireCerca(a, s)
+  a.innerHTML = `<span class="rw-tile"><img src="${imgPrefix}static/wheel/${esc(
+    s.img,
+  )}.webp" alt="${esc(s.label)} emblem" loading="lazy" width="320" height="320"></span>`
+  return a
+}
+
+// standalone label chip (circle layout, lives in the top label layer)
+function buildLabelAnchor(s: Spoke, prefix: string): HTMLAnchorElement {
+  const a = document.createElement("a")
+  a.className = "rw-label-anchor"
+  a.href = prefix + s.href
+  wireCerca(a, s)
+  a.innerHTML =
+    `<span class="rw-label">${esc(s.label)}</span>` +
+    (s.sub ? `<span class="rw-sub">${esc(s.sub)}</span>` : "")
+  return a
+}
+
+// combined tile+label stack, used only by the narrow-screen grid fallback
+function buildCombined(s: Spoke, prefix: string, imgPrefix: string): HTMLAnchorElement {
   const a = document.createElement("a")
   a.className = "rw-spoke"
-  // Author spokes deep-link via the existing sessionStorage -> Cerca handoff.
   a.href = prefix + s.href
-  if (s.cercaAuthor) {
-    a.dataset.cercaAuthor = s.cercaAuthor
-    a.addEventListener("click", () => {
-      try {
-        sessionStorage.setItem("cercaPreselect", "author::" + s.cercaAuthor)
-      } catch {}
-    })
-  }
+  wireCerca(a, s)
   a.innerHTML =
-    `<span class="rw-tile"><img src="${imgPrefix}static/wheel/${esc(s.img)}.webp" alt="${esc(s.label)} emblem" loading="lazy" width="320" height="320"></span>` +
+    `<span class="rw-tile"><img src="${imgPrefix}static/wheel/${esc(
+      s.img,
+    )}.webp" alt="${esc(s.label)} emblem" loading="lazy" width="320" height="320"></span>` +
     `<span class="rw-label">${esc(s.label)}` +
     (s.sub ? `<span class="rw-sub">${esc(s.sub)}</span>` : "") +
     `</span>`
   return a
 }
 
-function layoutCircle(stage: HTMLElement, spokes: HTMLElement[]) {
-  // Place each spoke center on a circle of radius ~37% of the stage, starting at top.
-  const n = spokes.length
-  const radiusPct = 37
+function layoutCircle(tiles: HTMLElement[], labels: HTMLElement[]) {
+  const n = tiles.length
+  const tileR = 37 // emblem ring radius (% of stage)
+  // For crowded wheels (≥10 spokes) alternate between two inner radii so adjacent
+  // labels sit at different distances and don't overlap each other.
+  const crowded = n >= 10
+  const labelR_inner = crowded ? 18 : 22 // closer ring (even spokes)
+  const labelR_outer = crowded ? 25 : 22 // farther ring (odd spokes, still inner side)
   for (let i = 0; i < n; i++) {
     const angle = (i / n) * 2 * Math.PI - Math.PI / 2 // start at 12 o'clock
-    const x = 50 + radiusPct * Math.cos(angle)
-    const y = 50 + radiusPct * Math.sin(angle)
-    const sp = spokes[i]
-    sp.style.left = x + "%"
-    sp.style.top = y + "%"
+    const cos = Math.cos(angle)
+    const sin = Math.sin(angle)
+    const t = tiles[i]
+    t.style.left = 50 + tileR * cos + "%"
+    t.style.top = 50 + tileR * sin + "%"
+    const labelR = i % 2 === 0 ? labelR_inner : labelR_outer
+    const l = labels[i]
+    l.style.left = 50 + labelR * cos + "%"
+    l.style.top = 50 + labelR * sin + "%"
   }
 }
 
@@ -75,22 +115,27 @@ function renderWheel(root: HTMLElement, spokes: Spoke[], prefix: string, imgPref
   center.innerHTML =
     `<span class="rw-center-title">${esc(title)}</span>` +
     (sub ? `<span class="rw-center-sub">${esc(sub)}</span>` : "")
-  stage.appendChild(center)
 
-  const circleSpokes: HTMLElement[] = []
+  const tiles: HTMLElement[] = []
+  const labels: HTMLElement[] = []
   const fallback = document.createElement("div")
   fallback.className = "rw-fallback"
 
   for (const s of spokes) {
-    circleSpokes.push(buildSpoke(s, prefix, imgPrefix))
-    fallback.appendChild(buildSpoke(s, prefix, imgPrefix))
+    tiles.push(buildTile(s, prefix, imgPrefix))
+    labels.push(buildLabelAnchor(s, prefix))
+    fallback.appendChild(buildCombined(s, prefix, imgPrefix))
   }
-  for (const sp of circleSpokes) stage.appendChild(sp)
-  layoutCircle(stage, circleSpokes)
+  // Mark crowded wheels so CSS can reduce label font size
+  if (spokes.length >= 10) stage.dataset.crowded = "1"
+  // paint order: ring -> tiles -> center medallion -> LABELS (top layer)
+  for (const t of tiles) stage.appendChild(t)
+  stage.appendChild(center)
+  for (const l of labels) stage.appendChild(l)
+  layoutCircle(tiles, labels)
 
   root.replaceChildren(stage, fallback)
 
-  // Responsive: switch to grid when the wheel would be cramped.
   const apply = () => {
     const narrow = root.clientWidth < 460
     root.classList.toggle("rw-grid", narrow)
