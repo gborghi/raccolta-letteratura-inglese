@@ -11,12 +11,5 @@ tags:
 [[Ghosts]] (9), [[Ghost]] (7), [[Supernatural]] (5), [[Grief and Loss]] (4), [[Romantic Love]] (4), [[Grave]] (3), [[Death]] (3), [[Lyric]] (3), [[Innocence and Experience]] (2), [[Gothic Novel]] (2), [[Rural England]] (2), [[Nostalgia]] (2), [[Nature]] (2), [[Outsider]] (2), [[Sea]] (2)
 
 ## Works
-- [[75. She died at play, (Dickinson)]]
-- [[ANNA AND HARLAND (Coleridge)]]
-- [[As If a Phantom Caress’d Me (Whitman)]]
-- [[Red Jacket (From Aloft) (Whitman)]]
-- [[shop-of-ghosts (Chesterton)]]
-- [[The Canterville Ghost (Wilde)]]
-- [[THE COMPLAINT OF NINATHÓMA FROM THE SAME (Coleridge)]]
-- [[The Mystic Trumpeter (Whitman)]]
-- [[Wuthering Heights (Bronte)]]
+
+<div class="concept-works" data-slug="Clusters/Ghosts-·-Ghost-·-Death-and-Love"></div>

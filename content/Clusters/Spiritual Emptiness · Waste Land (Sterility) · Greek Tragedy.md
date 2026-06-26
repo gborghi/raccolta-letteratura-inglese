@@ -11,15 +11,5 @@ tags:
 [[Spiritual Emptiness]] (8), [[Waste Land (Sterility)]] (8), [[Greek Tragedy]] (4), [[Death]] (4), [[London]] (4), [[Alienation]] (3), [[Verse Drama]] (3), [[Fragment]] (3), [[Tiresias]] (3), [[Stars]] (2), [[Sweeney]] (2), [[Guilt]] (2), [[Terror and Horror]] (2), [[Dreams]] (2), [[Wine and Drink]] (2)
 
 ## Works
-- [[985. The Missing All — prevented Me (Dickinson)]]
-- [[Gerontion (Eliot)]]
-- [[I. The Burial of the Dead (Eliot)]]
-- [[III. The Fire Sermon (Eliot)]]
-- [[Notes on the Waste Land (Eliot)]]
-- [[Sweeney Agonistes (Eliot)]]
-- [[Sweeney Among the Nightingales (Eliot)]]
-- [[THE COCKTAIL PARTY (Eliot)]]
-- [[THE HOLLOW MEN 1925 (Eliot)]]
-- [[THE WASTE LAND 1922 (Eliot)]]
-- [[UNFINISHED POEMS (Eliot)]]
-- [[V, W, X (Eliot)]]
+
+<div class="concept-works" data-slug="Clusters/Spiritual-Emptiness-·-Waste-Land-(Sterility)-·-Greek-Tragedy"></div>

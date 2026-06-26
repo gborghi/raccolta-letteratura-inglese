@@ -71,3 +71,36 @@
     }
   }
 }
+
+// Lazy graph: the local graph container holds a "Mostra grafo" button until the
+// user opts in (the force sim + pixi scene is too heavy for low-RAM phones).
+.graph .graph-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.graph .graph-load-btn {
+  cursor: pointer;
+  background: var(--lightgray);
+  color: var(--dark);
+  border: 1px solid var(--gray);
+  border-radius: 6px;
+  padding: 0.45rem 0.9rem;
+  font-family: inherit;
+  font-size: 0.85rem;
+  transition: background 0.15s;
+}
+.graph .graph-load-btn:hover {
+  background: var(--secondary);
+  color: var(--light);
+}
+.graph .graph-loading {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  color: var(--gray);
+  font-size: 0.85rem;
+  font-family: var(--bodyFont);
+}

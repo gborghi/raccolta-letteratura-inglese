@@ -122,25 +122,43 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     }
   }
 
+  // Build an undirected adjacency map ONCE so neighbourhood discovery is O(V+E)
+  // instead of filtering every link per node (which is O(V*E) and locks up the
+  // browser on a 15k-node / 113k-link vault).
+  const adj = new Map<SimpleSlug, SimpleSlug[]>()
+  const pushAdj = (a: SimpleSlug, b: SimpleSlug) => {
+    const cur = adj.get(a)
+    if (cur) cur.push(b)
+    else adj.set(a, [b])
+  }
+  for (const l of links) {
+    pushAdj(l.source, l.target)
+    pushAdj(l.target, l.source)
+  }
+
+  // Hard cap on rendered nodes: a force simulation + pixi scene of the whole vault
+  // freezes low-end devices. We BFS outward from the current page (nearest first)
+  // and stop at MAX_NODES. depth >= 0 still bounds by hops; depth < 0 ("global")
+  // is bounded only by MAX_NODES.
+  const MAX_NODES = 220
   const neighbourhood = new Set<SimpleSlug>()
-  const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
-  if (depth >= 0) {
-    while (depth >= 0 && wl.length > 0) {
-      // compute neighbours
-      const cur = wl.shift()!
-      if (cur === "__SENTINEL") {
-        depth--
-        wl.push("__SENTINEL")
-      } else {
-        neighbourhood.add(cur)
-        const outgoing = links.filter((l) => l.source === cur)
-        const incoming = links.filter((l) => l.target === cur)
-        wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
+  const maxDepth = depth < 0 ? Infinity : depth
+  const queue: { id: SimpleSlug; d: number }[] = [{ id: slug, d: 0 }]
+  neighbourhood.add(slug)
+  let truncated = false
+  while (queue.length > 0) {
+    const { id, d } = queue.shift()!
+    if (d >= maxDepth) continue
+    for (const nb of adj.get(id) ?? []) {
+      if (neighbourhood.has(nb)) continue
+      if (neighbourhood.size >= MAX_NODES) {
+        truncated = true
+        break
       }
+      neighbourhood.add(nb)
+      queue.push({ id: nb, d: d + 1 })
     }
-  } else {
-    validLinks.forEach((id) => neighbourhood.add(id))
-    if (showTags) tags.forEach((tag) => neighbourhood.add(tag))
+    if (truncated) break
   }
 
   const nodes = [...neighbourhood].map((url) => {
@@ -151,14 +169,22 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       tags: data.get(url)?.tags ?? [],
     }
   })
+  const nodeById = new Map<SimpleSlug, NodeData>(nodes.map((n) => [n.id, n]))
   const graphData: { nodes: NodeData[]; links: LinkData[] } = {
     nodes,
     links: links
       .filter((l) => neighbourhood.has(l.source) && neighbourhood.has(l.target))
       .map((l) => ({
-        source: nodes.find((n) => n.id === l.source)!,
-        target: nodes.find((n) => n.id === l.target)!,
+        source: nodeById.get(l.source)!,
+        target: nodeById.get(l.target)!,
       })),
+  }
+
+  // degree map for node sizing — precomputed to avoid O(V*E) per-node filtering
+  const degree = new Map<SimpleSlug, number>()
+  for (const l of graphData.links) {
+    degree.set(l.source.id, (degree.get(l.source.id) ?? 0) + 1)
+    degree.set(l.target.id, (degree.get(l.target.id) ?? 0) + 1)
   }
 
   const width = graph.offsetWidth
@@ -206,10 +232,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   function nodeRadius(d: NodeData) {
-    const numLinks = graphData.links.filter(
-      (l) => l.source.id === d.id || l.target.id === d.id,
-    ).length
-    return 2 + Math.sqrt(numLinks)
+    return 2 + Math.sqrt(degree.get(d.id) ?? 0)
   }
 
   let hoveredNodeId: string | null = null
@@ -585,9 +608,42 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     }
   }
 
-  await renderLocalGraph()
+  // Lazy load: the graph data fetch + pixi scene is too heavy for low-RAM phones,
+  // so we do NOT render on page load. Instead show a button; the local graph is
+  // built only when the user asks for it.
+  function showGraphLoader() {
+    const localGraphContainers = document.getElementsByClassName("graph-container")
+    for (const container of localGraphContainers) {
+      const el = container as HTMLElement
+      if (el.dataset.loaded === "1") continue
+      removeAllChildren(el)
+      const btn = document.createElement("button")
+      btn.className = "graph-load-btn"
+      btn.textContent = "Mostra grafo"
+      btn.addEventListener("click", async () => {
+        el.dataset.loaded = "1"
+        removeAllChildren(el)
+        const loading = document.createElement("div")
+        loading.className = "graph-loading"
+        loading.textContent = "Caricamento grafo…"
+        el.appendChild(loading)
+        // yield a frame so the loader paints before the (node-capped) build runs
+        await new Promise((r) => requestAnimationFrame(() => r(null)))
+        cleanupLocalGraphs()
+        localGraphCleanups.push(await renderGraph(el, slug))
+      })
+      el.appendChild(btn)
+    }
+  }
+
+  showGraphLoader()
   const handleThemeChange = () => {
-    void renderLocalGraph()
+    const localGraphContainers = document.getElementsByClassName("graph-container")
+    let anyLoaded = false
+    for (const container of localGraphContainers) {
+      if ((container as HTMLElement).dataset.loaded === "1") anyLoaded = true
+    }
+    if (anyLoaded) void renderLocalGraph()
   }
 
   document.addEventListener("themechange", handleThemeChange)

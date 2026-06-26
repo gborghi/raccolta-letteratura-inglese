@@ -167,6 +167,7 @@ const AXIS_FOLDERS = {
   "Historical References": "histref",
   Settings: "setting",
   Characters: "character",
+  Clusters: "cluster",
 }
 
 // Transform note body: rewrite wikilinks that point at Authors/* unit files
