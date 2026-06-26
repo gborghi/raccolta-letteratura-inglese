@@ -12,6 +12,7 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Communication-and-Isolation"></div>
+
+
 
 #graph/concept

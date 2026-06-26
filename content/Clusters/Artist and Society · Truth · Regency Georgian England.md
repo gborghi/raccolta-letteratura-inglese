@@ -28,7 +28,7 @@ tags:
 - [[dickens Britannica (Chesterton)]]
 - [[GKC All is Grist (Chesterton)]]
 - [[GKC Come to Think (Chesterton)]]
-- [[Hemingway — copyright status of acquired vs. excluded works (Hemingway)]]
+
 - [[How to Write a Blackwood Article (Poe)]]
 - [[Humour (Chesterton)]]
 - [[ILN-1930-04-19 (Chesterton)]]

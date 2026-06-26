@@ -16,9 +16,9 @@ tags:
 - [[1264. This is the place they hoped before, (Dickinson)]]
 - [[1293. The things we thought that we should do (Dickinson)]]
 - [[472. Except the Heaven had come so near — (Dickinson)]]
-- [[A Farewell to Arms (Hemingway)]]
-- [[in our time (1924 Paris edition) (Hemingway)]]
-- [[Men Without Women (Hemingway)]]
+
+
+
 - [[OCCASIONAL VERSES (Eliot)]]
-- [[The Sun Also Rises (Hemingway)]]
-- [[Three Stories & Ten Poems (Hemingway)]]
+
+

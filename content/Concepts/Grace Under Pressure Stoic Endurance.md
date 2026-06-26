@@ -12,6 +12,8 @@ tags:
 
 ## Works
 
-<div class="concept-works" data-slug="Concepts/Grace-Under-Pressure-Stoic-Endurance"></div>
+
+
+
 
 #graph/concept

@@ -66,6 +66,9 @@ function parseFrontmatter(raw) {
 
 const VAULT = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Knowledge Graph"
 const AUTHORS_DIR = "E:/giovanni/Dropbox/insegnamento/Wiligelmo/SubjectBrain/English/Authors"
+// Authors fully excluded from the PUBLIC site (e.g. still under copyright).
+// Their work pages, full text, atomized units and index rows are all dropped.
+const EXCLUDE_AUTHORS = new Set(["Hemingway"])
 const ROOT = path.resolve(".")
 const CONTENT = path.join(ROOT, "content")
 // Where atomized excerpts / play scenes / long-poem sections get published.
@@ -153,6 +156,20 @@ function transform(content, unitHref) {
     const seg = tgt.split("/").pop().replace(/\.md$/, "")
     return href ? `[${seg}](/${href})` : seg
   })
+  // Remove wikilinks to excluded-author work pages (e.g. "[[Title (Hemingway)]]")
+  // so no dead links remain, plus their "**Hemingway**" group header + the now
+  // empty bullet lines under it.
+  for (const ex of EXCLUDE_AUTHORS) {
+    // bullet list items that are solely a link to an excluded work -> drop the line
+    const bulletRe = new RegExp(`^[ \\t]*[-*][ \\t]*\\[\\[[^\\]]*\\(${ex}\\)(?:\\|[^\\]]*)?\\]\\][ \\t]*$\\n?`, "gm")
+    content = content.replace(bulletRe, "")
+    // any remaining inline wikilink to an excluded work -> keep label as plain text
+    const inlineRe = new RegExp(`\\[\\[([^\\]|]*\\(${ex}\\))(?:\\|([^\\]]*))?\\]\\]`, "g")
+    content = content.replace(inlineRe, (_m, tgt, label) => label || tgt)
+    // a bold author header line ("**Hemingway**") left with no items under it
+    const headerRe = new RegExp(`^[ \\t]*\\*\\*${ex}\\*\\*[ \\t]*$\\n?`, "gm")
+    content = content.replace(headerRe, "")
+  }
   return content
 }
 
@@ -228,6 +245,7 @@ async function publishUnits(rawSourceToWork) {
   for (const adir of authors) {
     if (!adir.isDirectory()) continue
     const author = adir.name
+    if (EXCLUDE_AUTHORS.has(author)) continue // excluded from public site
     for (const sub of ["Atomized", "Plays", "Long"]) {
       const subRoot = path.join(AUTHORS_DIR, author, sub)
       let stat
@@ -372,6 +390,8 @@ async function main() {
     if (relU === "_Home.md") continue
     const raw = await fs.readFile(path.join(VAULT, rel), "utf8")
     const { data, content } = parseFrontmatter(raw)
+    // Drop excluded-author notes entirely: no page, no index row, no links.
+    if (data.author && EXCLUDE_AUTHORS.has(data.author)) continue
     parsed.push({ rel, relU, data, content })
     if (data.type === "work") {
       const tags = Array.isArray(data.tags) ? data.tags : data.tags ? [data.tags] : []
@@ -489,7 +509,6 @@ async function main() {
     Wilde: "Epigram, aestheticism and the comedy of surfaces.",
     Coleridge: "Imagination, the supernatural and the One Life.",
     Whitman: "The open road, democracy and the body electric.",
-    Hemingway: "Grace under pressure, the spare modern sentence.",
   }
   const authorCounts = {}
   for (const w of works) authorCounts[w.author] = (authorCounts[w.author] || 0) + 1
@@ -510,9 +529,11 @@ async function main() {
     Shakespeare: "author-shakespeare", Keats: "author-keats", Dickinson: "author-dickinson",
     Eliot: "author-eliot", Chesterton: "author-chesterton", Dickens: "author-dickens",
     Austen: "author-austen", Bronte: "author-bronte", Poe: "author-poe", Wilde: "author-wilde",
-    Coleridge: "author-coleridge", Whitman: "author-whitman", Hemingway: "author-hemingway",
+    Coleridge: "author-coleridge", Whitman: "author-whitman",
   }
-  const authorsWheel = authors.map((a) => ({
+  const authorsWheel = authors
+    .filter((a) => !EXCLUDE_AUTHORS.has(a))
+    .map((a) => ({
     label: a === "Bronte" ? "Brontë" : a,
     sub: `${authorCounts[a] || 0} works`,
     img: authorEmblem[a] || "author-shakespeare",
