@@ -75,9 +75,3 @@ in art as much as in ethics, in poetry as much as in politics,
 is choice; a creative power in the will as well as in the mind.
 Without that self-limitation of somebody, nothing living will ever
 see the light.
-
-
-
-
-
-===== FINE FILE: divorce.txt =====

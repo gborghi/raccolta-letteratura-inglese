@@ -253,6 +253,3 @@ Then he made the formal salute with his halberd, and they went away
 together into the unknown world.
 
 THE END.
-
-
-===== FINE FILE: Napoleon_of_Notting_Hill.txt =====

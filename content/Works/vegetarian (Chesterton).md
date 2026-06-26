@@ -39,14 +39,12 @@ vegetarians ought to stick to wine or beer, plain vegetable drinks,
 instead of filling their goblets with the blood of bulls and elephants,  
 as all conventional meat-eaters do, I suppose"--Dalroy.  
 
-
   You will find me drinking rum,  
   Like a sailor in a slum,  
 You will find me drinking beer like a Bavarian  
   You will find me drinking gin  
   In the lowest kind of inn  
 Because I am a rigid Vegetarian.  
-
 
   So I cleared the inn of wine,  
   And I tried to climb the sign,  
@@ -55,14 +53,12 @@ And I tried to hail the constable as "Marion."
   And he bowled me to the Beak  
 Because I was a Happy Vegetarian.  
 
-
   Oh, I know a Doctor Gluck,  
   And his nose it had a hook,  
 And his attitudes were anything but Aryan;  
   So I gave him all the pork  
   That I had, upon a fork  
 Because I am myself a Vegetarian.  
-
 
   I am silent in the Club,  
   I am silent in the pub.,  
@@ -71,15 +67,9 @@ I am silent on a bally peak in Darien;
   Shoving peas in with a knife,  
 Because I am a rigid Vegetarian.  
 
-
   No more the milk of cows  
   Shall pollute my private house  
 Than the milk of the wild mares of the Barbarian  
   I will stick to port and sherry,  
   For they are so very, very,  
-So very, very, very, Vegetarian.  
-
-
-
-
-===== FINE FILE: vegetarian.txt =====  
+So very, very, very, Vegetarian.

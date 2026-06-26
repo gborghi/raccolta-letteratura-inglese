@@ -102,9 +102,4 @@ There was some one thing that was too great for God to show us when
 He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
 
-
 End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
-
-
-
-===== FINE FILE: ortho14.txt =====

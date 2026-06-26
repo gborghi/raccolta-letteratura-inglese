@@ -186,7 +186,3 @@ And I stood there in a trance of pleasure, realizing that this
 Southern England is not only a grand peninsula, and a tradition
 and a civilization; it is something even more admirable.
 It is a piece of chalk.
-
-
-
-===== FINE FILE: chalk.txt =====

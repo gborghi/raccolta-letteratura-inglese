@@ -361,6 +361,3 @@ could see, or would probably ever understand.
 -^-
 
 END
-
-
-===== FINE FILE: Don_Quixote.txt =====

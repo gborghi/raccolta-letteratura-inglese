@@ -15,8 +15,6 @@ tags:
 
 The Project Gutenberg EBook of The Crimes of England, by G.K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -25,87 +23,37 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
 
-
-
-
-
 Title: The Crimes of England
-
-
 
 Author: G.K. Chesterton
 
-
-
 Release Date: March 13, 2004 [EBook #11554]
-
-
 
 Language: English
 
-
-
 Character set encoding: ISO-8859-1
-
-
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE CRIMES OF ENGLAND ***
 
-
-
-
-
-
-
-
-
 Produced by Robert Shimmin, Caitlin and PG Distributed Proofreaders
-
-
-
-
-
-
-
-
-
-
 
 THE CRIMES OF
 
 ENGLAND
 
-
-
 BY
 
 GILBERT K. CHESTERTON
 
-
-
 MCMXVI
-
-
 
 1916
 
-
-
-
-
 _CONTENTS_
-
-
-
-
 
 CHAPTER I
 
-
-
 SOME WORDS TO PROFESSOR WHIRLWIND
-
-
 
 The German Professor, his need of Education
 
@@ -123,17 +71,9 @@ Welt-Politik--Where England is really
 
 Wrong.
 
-
-
-
-
 CHAPTER II
 
-
-
 THE PROTESTANT HERO
-
-
 
 Suitable Finale for the German Emperor--Frederick
 
@@ -145,17 +85,9 @@ Lather--Our German Kings and Allies--
 
 Triumph of Frederick the Great.
 
-
-
-
-
 CHAPTER III
 
-
-
 THE ENIGMA OF WATERLOO
-
-
 
 How we helped Napoleon--The Revolution
 
@@ -177,17 +109,9 @@ Personality of England; the Double Battle--Triumph
 
 of Blucher.
 
-
-
-
-
 CHAPTER IV
 
-
-
 THE COMING OF THE JANISSARIES
-
-
 
 The Sad Story of Lord Salisbury--Ireland
 
@@ -199,17 +123,9 @@ German Mercenaries--The Unholy Alliance--Triumph
 
 of the German Mercenaries.
 
-
-
-
-
 CHAPTER V
 
-
-
 THE LOST ENGLAND
-
-
 
 Truth about England and Ireland--Murder
 
@@ -227,17 +143,9 @@ Exaggerated Lies--Defeat of the People--Triumph
 
 of the German Mercenaries.
 
-
-
-
-
 CHAPTER VI
 
-
-
 HAMLET AND THE DANES
-
-
 
 Degeneration of Grimm's Fairy Tales--From
 
@@ -257,17 +165,9 @@ The Peace of the Plutocrats--Hamlet
 
 the Englishman--The Triumph of Bismarck.
 
-
-
-
-
 CHAPTER VII
 
-
-
 THE MIDNIGHT OF EUROPE
-
-
 
 The Two Napoleons--Their Ultimate
 
@@ -279,17 +179,9 @@ Versailles--The True Innocence of England--
 
 Triumph of the Kaiser.
 
-
-
-
-
 CHAPTER VIII
 
-
-
 THE WRONG HORSE
-
-
 
 Lord Salisbury Again--The Influence of
 
@@ -301,17 +193,9 @@ the Cynics--Last Words to Professor
 
 Whirlwind.
 
-
-
-
-
 CHAPTER IX
 
-
-
 THE AWAKENING OF ENGLAND
-
-
 
 The March of Montenegro--The Anti-Servile
 
@@ -321,43 +205,19 @@ Sleep of England--The Awakening of
 
 England.
 
-
-
-
-
 CHAPTER X
 
-
-
 THE BATTLE OF THE MARNE
-
-
 
 The Hour of Peril--The Human Deluge--The
 
 English at the Marne.
 
-
-
-
-
 THE CRIMES OF ENGLAND
-
-
-
-
-
-
 
 I--_Some Words to Professor Whirlwind_
 
-
-
-
-
 DEAR PROFESSOR WHIRLWIND,
-
-
 
 Your name in the original German is too much for me; and this is the
 
@@ -392,8 +252,6 @@ part of my task I have here little to say that is not covered by a
 general adjuration to you to observe certain elementary rules. They are,
 
 roughly speaking, as follows:--
-
-
 
 First, stick to one excuse. Thus if a tradesman, with whom your social
 
@@ -485,8 +343,6 @@ yourself so clearly to the Americans they may quite possibly do the
 
 same.
 
-
-
 Second, when telling such lies as may seem necessary to your
 
 international standing, do not tell the lies to the people who know the
@@ -532,8 +388,6 @@ England; but he is not universally admired in England. Tell the Russians
 that he is by all means; but do not tell us. We have seen him; we have
 
 also seen Scarborough. You should think of this before you speak.
-
-
 
 Third, don't perpetually boast that you are cultured in language which
 
@@ -627,8 +481,6 @@ criticism. In time you might come to use whole sentences without
 
 revealing the real state of things.
 
-
-
 Through neglect of these maxims, my dear Professor, every one of your
 
 attacks upon England has gone wide. In pure fact they have not touched
@@ -697,8 +549,6 @@ support of the tearing up of the promise of peace to Belgium, it is
 
 simply because there was nothing to be said.
 
-
-
 You were the first people to talk about World-Politics; and the first
 
 people to disregard them altogether. Even your foreign policy is
@@ -763,8 +613,6 @@ and that we cannot really kill you. But if you say that we do not really
 
 want to kill you, you do us an injustice. You do indeed.
 
-
-
 I need not consider the yet crazier things that some of you have said;
 
 as that the English intend to keep Calais and fight France as well as
@@ -788,8 +636,6 @@ too light and fickle to understand the Latin seriousness. My only
 concern is to point out that about England, at least, you are invariably
 
 and miraculously wrong.
-
-
 
 Now speaking seriously, my dear Professor, it will not do. It could be
 
@@ -831,8 +677,6 @@ quote dining with Duke Humphrey as an example of it. In more ways than
 
 one you forget what is meant by idiom.
 
-
-
 I have therefore thought it advisable to provide you with a catalogue of
 
 the real crimes of England; and I have selected them on a principle
@@ -867,25 +711,11 @@ mine over this record of English wrong-doing, I dedicate it to you, and
 
 I remain,
 
-
-
 Yours reverently,
-
-
 
 G. K. CHESTERTON
 
-
-
-
-
-
-
 II--_The Protestant Hero_
-
-
-
-
 
 A question is current in our looser English journalism touching what
 
@@ -919,8 +749,6 @@ hereditary kingship has a horrible and degenerate truth. The king never
 
 dies; he only decays for ever.
 
-
-
 If it were a matter of the smallest importance what happened to the
 
 Emperor William when once his house had been disarmed, I should satisfy
@@ -928,8 +756,6 @@ Emperor William when once his house had been disarmed, I should satisfy
 my fancy with another picture of his declining years; a conclusion that
 
 would be peaceful, humane, harmonious, and forgiving.
-
-
 
 In various parts of the lanes and villages of South England the
 
@@ -981,8 +807,6 @@ have known what Poland was and was yet to be; he might have known that
 
 he ate and drank to his damnation, discerning not the body of God.
 
-
-
 Whether the placing of the present German Emperor in charge of one of
 
 these wayside public-houses would be a jest after _his_ own heart
@@ -1020,8 +844,6 @@ time when one solitary Hohenzollern did not only set fire to fields and
 cities, but did truly set on fire the minds of men, even though it were
 
 fire from hell.
-
-
 
 Everything was young once, even Frederick the Great. It was an
 
@@ -1101,8 +923,6 @@ mere misdirection of courage. Before the whisper of war had come to him
 
 the foundations of his audacity had been laid in fear.
 
-
-
 Of the work he did in this world there need be no considerable debate.
 
 It was romantic, if it be romantic that the dragon should swallow St.
@@ -1151,8 +971,6 @@ pacifists. He did not want any more wars. He had tortured and beggared
 
 all his neighbours; but he bore them no malice for it.
 
-
-
 The immediate cause of that spirited disaster, the intervention of
 
 England on behalf of the new Hohenzollern throne, was due, of course,
@@ -1176,8 +994,6 @@ ultimately a religious war. He had not a shade of irony in his whole
 being; and beside Frederick, already as old as sin, he was like a rather
 
 brilliant schoolboy.
-
-
 
 But the direct causes were not the only causes, nor the true ones. The
 
@@ -1229,8 +1045,6 @@ the situation that the King to whom Tories appealed as a refuge from
 
 Germanism was himself a German.
 
-
-
 We have thus to refer the origins of the German influence in England
 
 back to the beginning of the Hanoverian Succession; and thence back to
@@ -1275,8 +1089,6 @@ thing, called the Kirk. There is something expressive of him in the fact
 
 that he called even his work of abstract theology "The Institutes."
 
-
-
 In England, however, there were elements of chaos more akin to Luther
 
 than to Calvin. And we may thus explain many things which appear rather
@@ -1311,8 +1123,6 @@ Latin, and, strange as it may sound, is in nothing so French as in its
 
 Presbyterianism.
 
-
-
 In this loose and negative sense only it may be said that the great
 
 modern mistakes of England can be traced to Luther. It is true only in
@@ -1336,8 +1146,6 @@ weakness, reached, as it were, symbolic culmination when the mediæval
 monarchy was extinguished, and the English squires gave to what was
 
 little more than a German squire the damaged and diminished crown.
-
-
 
 It must be remembered that the Germanics were at that time used as a
 
@@ -1379,8 +1187,6 @@ utterly reversed, and we find ourselves at war with a Germany whose
 
 powers are the widest and whose outlook is the narrowest in the world.
 
-
-
 It is true, of course, that the English squires put themselves over the
 
 new German prince rather than under him. They put the crown on him as an
@@ -1408,8 +1214,6 @@ But all such pacific and only slowly growing Teutonism was brought to a
 crisis and a decision when the voice of Pitt called us, like a trumpet,
 
 to the rescue of the Protestant Hero.
-
-
 
 Among all the monarchs of that faithless age, the nearest to a man was a
 
@@ -1463,8 +1267,6 @@ English. It is not pleasant for an Englishman to have to write the
 
 words.
 
-
-
 This was the first act of the tragedy, and with it we may leave
 
 Frederick, for we are done with the fellow though not with his work. It
@@ -1491,17 +1293,7 @@ and the trumpet of the resurrection of the peoples should be blown from
 
 Warsaw to the western isles.
 
-
-
-
-
-
-
 III--_The Enigma of Waterloo_
-
-
-
-
 
 That great Englishman Charles Fox, who was as national as Nelson, went
 
@@ -1615,8 +1407,6 @@ Germanics "in shining armour." Austria is already becoming a loyal
 
 _sekundant_.
 
-
-
 But there still remains one great difference between Austria and Prussia
 
 which developed more and more as the energy of the young Napoleon was
@@ -1656,8 +1446,6 @@ responsibility for Christendom. And it was this that made the difference
 between its proceedings and those of the purely selfish adventurer from
 
 the north, the wild dog of Pomerania.
-
-
 
 It may be believed, as Fox himself came at last to believe, that
 
@@ -1700,8 +1488,6 @@ only as subordinates or seconds. That duel, first, last, and for ever,
 was a duel between the Frenchman and the German; that is, between the
 
 citizen and the barbarian.
-
-
 
 It is not necessary nowadays to defend the French Revolution, it is not
 
@@ -1752,8 +1538,6 @@ obey, they are none the less organised by it and obeying it, nobly
 living or splendidly dead for it, along the line from Switzerland to the
 
 sea.
-
-
 
 But for Austria, and even more for Russia, there was this to be said;
 
@@ -1811,8 +1595,6 @@ earth without heaven, as a landscape is not a landscape without the sky.
 
 And in, a universe without God there is not room enough for a man.
 
-
-
 It may be held, therefore, that there must in any case have come a
 
 conflict between the old world and the new; if only because the old are
@@ -1842,8 +1624,6 @@ had any tincture of Jacobin idealism. Neither of them, therefore, had
 any real moral reason for being in the war at all. The first was
 
 England, and the second was Prussia.
-
-
 
 It is very arguable that England must, in any case, have fought to keep
 
@@ -1885,8 +1665,6 @@ still, as it was called in the Middle Ages, a garden; but it is the kind
 
 where grow the plants called "lords and ladies."
 
-
-
 We became more and more insular even about our continental conquests; we
 
 stood upon our island as if on an anchored ship. We never thought of
@@ -1902,8 +1680,6 @@ true. It only changes the tale from a tragedy of choice to a tragedy of
 chance. And the tragedy was that, for a second time, we were at one with
 
 the Germans.
-
-
 
 But if England had nothing to fight for but a compromise, Prussia had
 
@@ -1930,8 +1706,6 @@ Restoration with the Revolution. Alone in all that agony of peoples, she
 had not the star of one solitary ideal to light the night of her
 
 nihilism.
-
-
 
 The French Revolution has a quality which all men feel; and which may be
 
@@ -2029,17 +1803,7 @@ what thoughts we care not; and his soldiers entered Paris, and stole the
 
 sword of Joan of Arc.
 
-
-
-
-
-
-
 IV--_The Coming of the Janissaries_
-
-
-
-
 
 The late Lord Salisbury, a sad and humorous man, made many public and
 
@@ -2072,8 +1836,6 @@ instrumentality of another fragment of the British robe which he cast
 away almost contemptuously in the North Sea. The name of it is
 
 Heligoland; and he gave it to the Germans.
-
-
 
 The subsequent history of the two islands on either side of England has
 
@@ -2120,8 +1882,6 @@ was to doubt whether we were worthy to kiss the hem of her garment. If
 there be still any Englishman who thinks such language extravagant, this
 
 chapter is written to enlighten him.
-
-
 
 In the last two chapters I have sketched in outline the way in which
 
@@ -2233,8 +1993,6 @@ very awful door, on a scene which was called Ireland, but which then
 
 might well have been called hell.
 
-
-
 Having chosen our part and made war upon the new world, we were soon
 
 made to understand what such spiritual infanticide involved; and were
@@ -2343,8 +2101,6 @@ such that any man, of any party, felt that Tone had died like Cato and
 
 Castlereagh had died like Judas.
 
-
-
 The march of Pitt's policy went on; and the chasm between light and
 
 darkness deepened. Order was restored; and wherever order spread, there
@@ -2377,8 +2133,6 @@ was a part of the price paid by the Irish body and the English soul, for
 
 the privilege of patching up a Prussian after the sabre-stroke of Jena.
 
-
-
 But Germany was not merely present in the spirit: Germany was present in
 
 the flesh. Without any desire to underrate the exploits of the English
@@ -2408,8 +2162,6 @@ than the Orangemen, they say as much as human mouth can utter. Beyond
 that there is nothing but the curse of God, which shall be uttered in
 
 an unknown tongue.
-
-
 
 The practice of using German soldiers, and even whole German regiments,
 
@@ -2470,8 +2222,6 @@ French Alliance. Yet his appearance in the red trousers of a French
 soldier would have struck many people as funny; as funny as if he had
 
 dressed up as a Chinaman.
-
-
 
 But the German hirelings or allies had another character which (by that
 
@@ -2535,17 +2285,7 @@ to the effect on the England of that time of the Alliance with Germany.
 
 With that man I shall deal in the chapter that follows.
 
-
-
-
-
-
-
 V--_The Lost England_
-
-
-
-
 
 Telling the truth about Ireland is not very pleasant to a patriotic
 
@@ -2566,8 +2306,6 @@ all appropriate to the case, and will not do. It may be a good thing to
 forget and forgive; but it is altogether too easy a trick to forget and
 
 be forgiven.
-
-
 
 The truth about Ireland is simply this: that the relations between
 
@@ -2693,8 +2431,6 @@ We, as a matter of fact, have not even failed to save Ireland. We have
 
 simply failed to destroy her.
 
-
-
 It is not possible to reverse this judgment or to take away a single
 
 count from it. Is there, then, anything whatever to be said for the
@@ -2756,8 +2492,6 @@ which is the subject of this book. It is a fact, and I think it is not a
 coincidence, that in standing for a moment where this Englishman stood,
 
 I again find myself confronted by the German soldier.
-
-
 
 The son of a small Surrey farmer, a respectable Tory and churchman,
 
@@ -2823,8 +2557,6 @@ green. But in England also it meant the ruin of anything and everything
 
 English, from the Habeas Corpus Act to Cobbett.
 
-
-
 After this affair of the scourging, he wielded his pen like a scourge
 
 until he died. This terrible pamphleteer was one of those men who exist
@@ -2887,8 +2619,6 @@ looking for England in Birmingham than of looking for Ireland in
 
 Belfast.
 
-
-
 The prestige of Cobbett's excellent literary style has survived the
 
 persecution of his equally excellent opinions. But that style also is
@@ -2921,15 +2651,11 @@ continental culture, by Mr. George Moore as by Mr. Belloc. One (to
 
 which I am much attached) had a chorus--
 
-
-
   "O wind from the South
 
   Blow mud in the mouth
 
   Of Jane, Jane, Jane."
-
-
 
 Note, again, not only the tremendous vision of clinging soils carried
 
@@ -2940,8 +2666,6 @@ Say "bone" and "bouche" for mud and mouth and it is not the same.
 Cobbett was a wind from the South; and if he occasionally seemed to stop
 
 his enemies' mouths with mud, it was the real soil of South England.
-
-
 
 And as his seemingly mad language is very literary, so his seemingly mad
 
@@ -2994,8 +2718,6 @@ less saintly than the parsonages believed; he was not a saint at all;
 and not very attractive even as a sinner. He was no more a martyr for
 
 being burned than Crippen for being hanged.
-
-
 
 Cobbett was defeated because the English people was defeated. After the
 
@@ -3091,17 +2813,7 @@ has walked about in the sunlight, magnificent, and a model for men. I
 
 do not think that even the Prussians ever boasted about "Merry Prussia."
 
-
-
-
-
-
-
 VI--_Hamlet and the Danes_
-
-
-
-
 
 In the one classic and perfect literary product that ever came out of
 
@@ -3279,8 +2991,6 @@ this English Hamlet, as we shall see, played a great part, or rather
 
 refused to play it.
 
-
-
 There were, then, two elements in the German influence; a sort of pretty
 
 playing with terror and a solemn recognition of terrorism. The first
@@ -3292,8 +3002,6 @@ that unconscious symbolism with which all this story develops, it was
 soon to be dramatically tested, by a definite political query, whether
 
 what we really respected was the Teutonic fantasy or the Teutonic fear.
-
-
 
 The Germanisation of England, its transition and turning-point, was well
 
@@ -3322,8 +3030,6 @@ always turns to mere immoralism. The wilfulness is no longer liked, but
 is actually obeyed. The fear becomes a philosophy. Panic hardens into
 
 pessimism; or else, what is often equally depressing, optimism.
-
-
 
 Carlyle, the most influential English writer of that time, marks all
 
@@ -3410,8 +3116,6 @@ wonder. His philosophy had brought out the result that the Prussian was
 the first of Germans, and, therefore, the first of men. No wonder he
 
 looked at the rest of us with little hope.
-
-
 
 But a stronger test was coming both for Carlyle and England. Prussia,
 
@@ -3587,8 +3291,6 @@ down the great gutter, down that colossal _cloaca_ that leads to the
 
 vast cesspool of Berlin.
 
-
-
 Why, as a fact, did not England interpose? There were a great many
 
 reasons given, but I think they were all various inferences from one
@@ -3653,8 +3355,6 @@ the upstart despotism, must have looked on at its cold brutality not
 
 without that ugly question which Hamlet asked himself--am I a coward?
 
-
-
                       It cannot be
 
   But I am pigeon-livered and lack gall
@@ -3665,21 +3365,9 @@ without that ugly question which Hamlet asked himself--am I a coward?
 
   With this slave's offal.
 
-
-
 We made dumb our anger and our honour; but it has not brought us peace.
 
-
-
-
-
-
-
 VII--_The Midnight of Europe_
-
-
-
-
 
 Among the minor crimes of England may be classed the shallow criticism
 
@@ -3716,8 +3404,6 @@ him a sea-piece and had brought him a piece of the sea; or if, during
 the decoration of his house, the same aesthetic humourist had undertaken
 
 to procure some Indian Red and had produced a Red Indian.
-
-
 
 The Englishman would not see that if there was only a verbal difference
 
@@ -3764,8 +3450,6 @@ Louis Napoleon far behind in the grey dust of the dead despotisms, it is
 not at all improbable that our most extreme revolutionary developments
 
 may end where Louis Napoleon began.
-
-
 
 In other words, the Victorian Englishman did not understand the words
 
@@ -3823,8 +3507,6 @@ written in the corrupt and fanciful chronicles of mankind: "The King of
 
 the Belgians."
 
-
-
 It is a common phrase, recurring constantly in the real if rabid
 
 eloquence of Victor Hugo, that Napoleon III. was a mere ape of Napoleon
@@ -3866,8 +3548,6 @@ he deceived Europe twice; once when he made men think him an imbecile,
 and once when he made them think him a statesman. But he deceived them a
 
 third time; when he made them think he was dead; and had done nothing.
-
-
 
 In spite of the unbridled verse of Hugo and the even more unbridled
 
@@ -3931,8 +3611,6 @@ the nations and the mountainous annihilation of men, the story of the
 
 world ends well.
 
-
-
 There are, as it were, valleys of history quite close to us, but hidden
 
 by the closer hills. One, as we have seen, is that fold in the soft
@@ -3991,21 +3669,15 @@ before Rome," and expressed a rhythmic impatience for the time when the
 
 world
 
-
-
   "Shall ring to the roar of the lion
 
   Proclaiming Republican Rome."
-
-
 
 But he might have remembered, after all, that it was not the British
 
 lion, that a British poet should have the right to say so imperiously,
 
 "Let him roar again. Let him roar again."
-
-
 
 It is true that there was no clear call to England from Italy, as there
 
@@ -4069,8 +3741,6 @@ and spurs: the gallantry was in the gutter. English draymen had more
 
 chivalry than Teuton aristocrats--or English ones.
 
-
-
 I have dwelt a little on this Italian experiment because it lights up
 
 Louis Napoleon as what he really was before the eclipse, a
@@ -4109,8 +3779,6 @@ of a barbarian. Louis XI. had returned, and not Louis IX.; and Europe
 
 was to know that sceptre on which there is no dove.
 
-
-
 The instant evidence that Europe was in the grip of the savage was as
 
 simple as it was sinister. The invaders behaved with an innocent impiety
@@ -4133,8 +3801,6 @@ after another, and by name. Her last cry ended in a stillness like that
 
 which had encircled Denmark.
 
-
-
 One man answered; one who had quarrelled with the French and their
 
 Emperor; but who knew it was not an emperor that had fallen. Garibaldi,
@@ -4151,17 +3817,7 @@ Aspromonte. But England went away sorrowful, for she had great
 
 possessions.
 
-
-
-
-
-
-
 VIII--_The Wrong Horse_
-
-
-
-
 
 In another chapter I mentioned some of the late Lord Salisbury's remarks
 
@@ -4203,8 +3859,6 @@ through wilder and wilder places, until we knew that we were riding on
 
 the nightmare.
 
-
-
 What was this thing to which we trusted? And how may we most quickly
 
 explain its development from a dream to a nightmare, and the
@@ -4224,8 +3878,6 @@ the word Teutonism or Pan-Germanism; and with this (which was what
 appeared to win in 1870) we had better begin. The nature of
 
 Pan-Germanism may be allegorised and abbreviated somewhat thus:
-
-
 
 The horse asserts that all other creatures are morally bound to
 
@@ -4265,8 +3917,6 @@ divide him from the horse, he is by the all-filling nature-might of the
 
 same horse-moving energy sustained.
 
-
-
 Now this horse is intellectually the wrong horse. It is not perhaps
 
 going too far to say that this horse is a donkey. For it is obviously
@@ -4288,8 +3938,6 @@ any accomplishments." When thus gently reasoned with, the horse flings
 up his heels, kicks the cat, crushes the oyster, eats the haddock and
 
 pursues the nightingale, and that is how the war began.
-
-
 
 This apologue is not in the least more fantastic than the facts of the
 
@@ -4373,8 +4021,6 @@ Baltic, the very lowest of all possible Teutons, and worship him--and
 
 find he is a Slav. So much for Pan-Germanism.
 
-
-
 But though Teutonism is indefinable, or at least is by the Teutons
 
 undefined, it is not unreal. A vague but genuine soul does possess all
@@ -4386,8 +4032,6 @@ as we have been touched by that folly. Not a race, but rather a
 religion, the thing exists; and in 1870 its sun was at noon. We can most
 
 briefly describe it under three heads.
-
-
 
 The victory of the German arms meant before Leipzic, and means now, the
 
@@ -4447,8 +4091,6 @@ critical and creative Citizen, which in 1870 lay prostrate under United
 
 Germany--under the undivided hoof.
 
-
-
 Nevertheless, when the German says he has or loves freedom, what he says
 
 is not false. He means something; and what he means is the second
@@ -4472,8 +4114,6 @@ brilliant book, between the wildness of German theory and the tameness
 of German practice. The Germans _sterilise_ thought, making it active
 
 with a wild virginity; which can bear no fruit.
-
-
 
 But though there are so many mad theories, most of them have one root;
 
@@ -4519,8 +4159,6 @@ cannot be left out of mind while we are making appeals to Greece--or
 
 considering the crimes of England.
 
-
-
 But the same principle serves to keep the internal politics of the
 
 Germans quiet, and prevent Socialism being the practical hope or peril
@@ -4560,8 +4198,6 @@ wages. In 1911 it was introduced into England by Mr. Lloyd George, who
 had studied its operations in Germany, and, by the Prussian prestige in
 
 "social reform," was passed.
-
-
 
 These three tendencies cohere, or are cohering, in an institution which
 
@@ -4626,8 +4262,6 @@ was fought in the Wilderness; men who had the courage to fight for it,
 the courage to die for it and, above all, the courage to call it by its
 
 name.
-
-
 
 With the acceptance by England of the German Insurance Act, I bring this
 
@@ -4703,8 +4337,6 @@ a dirty work which we did under the whips of moneylenders. I think
 
 Mitchelstown was a disgrace; I think Denshawi was a devilry.
 
-
-
 Yet there is one part of life and history in which I would assert the
 
 absolute spotlessness of England. In one department we wear a robe of
@@ -4727,17 +4359,7 @@ as we have served _their_ kings, there would not be to-day one remnant
 
 of them in our path, either to slander or to slay us.
 
-
-
-
-
-
-
 IX--_The Awakening of England_
-
-
-
-
 
 In October 1912 silent and seemingly uninhabited crags and chasms in the
 
@@ -4770,8 +4392,6 @@ purpose, led them also to expect him to lead in a foreign campaign, and
 it was with his own hand that he fired the first shot of the war which
 
 brought down into the dust the ancient empire of the Grand Turk.
-
-
 
 His kingdom was little more than the black mountain after which it was
 
@@ -4806,8 +4426,6 @@ intelligible than tendencies which elsewhere are mingled with subtler
 tendencies; and of this unmixed European simplicity Montenegro is an
 
 excellent model.
-
-
 
 Moreover, the instance of one small Christian State will serve to
 
@@ -4867,8 +4485,6 @@ stabled in Byzantium. It is hard enough to rule vagabond people, like
 
 the gypsies. To be ruled by them is impossible.
 
-
-
 Nevertheless what was called the nineteenth century, and named with a
 
 sort of transcendental faith (as in a Pythagorean worship of number),
@@ -4904,8 +4520,6 @@ slave and a spy. The old and the new tyrants had taken hands. The "sack"
 of the boss was as silent and fatal as the sack of the Bosphorus. And
 
 the dream of the citizen was at an end.
-
-
 
 It was under a sky so leaden and on a road so strewn with bones that the
 
@@ -4946,8 +4560,6 @@ knew that these peasants had done what all the politicians had long
 despaired of doing, and that the spirit of the first Christian Emperor
 
 was already standing over the city that is named after his name.
-
-
 
 For Germany this quite unexpected rush was a reversal of the whole tide
 
@@ -5027,8 +4639,6 @@ rending, calling for the old hunting of princes and fit to be the crests
 
 of kings.
 
-
-
 The Prussian saw these things and his mind was made up. He was silent;
 
 but he laboured: laboured for three long years without intermission at
@@ -5085,8 +4695,6 @@ English neutrality. That is to say, she used the rope, the razor, and
 
 the well.
 
-
-
 But it was either by accident or by individual diplomatic skill that
 
 England at the end of the three years even had her own hands free to
@@ -5140,8 +4748,6 @@ whence we also had come; and far and high upon that mountain from which
 the Crescent was cast down, behold what was everywhere the real enemy of
 
 the Iron Cross--the peasant's cross, which is of wood.
-
-
 
 Even our very slight ripples of panic, therefore, were provincial, and
 
@@ -5231,8 +4837,6 @@ Liberal and Tory, as attacks upon the State. And so they were; upon the
 
 Servile State.
 
-
-
 Such was the condition of England in 1914, when Prussia, now at last
 
 armed to the teeth and secure of triumph, stood up before the world, and
@@ -5264,8 +4868,6 @@ rocking-horse and the wooden toys in a nursery laboriously hacked to
 pieces. Those two facts together will be enough to satisfy some of us of
 
 the name of the Spirit that had passed.
-
-
 
 And then a strange thing happened. England, that had not in the modern
 
@@ -5299,17 +4901,7 @@ islanders went forth from their island, as simply as the mountaineers
 
 had gone forth from their mountain, with their faces to the dawn.
 
-
-
-
-
-
-
 X--_The Battle of the Marne_
-
-
-
-
 
 The impression produced by the first week of war was that the British
 
@@ -5324,8 +4916,6 @@ of the sickening terror of the time. For it was a day of judgment in
 which upon the throne in heaven and above the cherubim, sat not God, but
 
 another.
-
-
 
 The British had been posted at the extreme western end of the allied
 
@@ -5377,8 +4967,6 @@ in which so many of our young men knew war first and at its worst in
 
 this terrible world; and so many never returned.
 
-
-
 In that blackness began to grow strange emotions, long unfamiliar to our
 
 blood. Those six dark days are as full of legends as the six centuries
@@ -5428,8 +5016,6 @@ martyrologies--St. George. One soldier is asserted to have claimed to
 identify the saint because he was "on every quid." On the coins, St.
 
 George is a Roman soldier.
-
-
 
 But these fancies, if they were fancies, might well seem the last sickly
 
@@ -5515,8 +5101,6 @@ of life. That artist was there in triumph; but he had no name. The
 
 ancient world called him the Slave.
 
-
-
 From this advancing machine of millions, the slighter array of the
 
 Allies, and especially the British at their ultimate outpost, saved
@@ -5561,8 +5145,6 @@ expressed by saying that some thousands of Englishmen were dead: and
 
 that England was not.
 
-
-
 The fortress of Maubeuge had gaped, so to speak, offering a refuge for
 
 the unresting and tormented retreat; the British Generals had refused it
@@ -5589,8 +5171,6 @@ river, something other than that battered remnant was saved; it was the
 
 honour of the thing by which we live.
 
-
-
 The driven and defeated line stood at last almost under the walls of
 
 Paris; and the world waited for the doom of the city. The gates seemed
@@ -5614,8 +5194,6 @@ dragging on the retreat, as in despair, to the last desperate leagues
 before the capital; and he stood and watched. And even as he watched the
 
 whole huge invasion swerved.
-
-
 
 Out through Paris and out and around beyond Paris, other men in dim blue
 
@@ -5647,8 +5225,6 @@ Creçy, and stamped it with their seal for the second time, in the
 
 highest moment of all the secular history of man.
 
-
-
 But it was not now the Creçy in which English and French knights had met
 
 in a more coloured age, in a battle that was rather a tournament. It was
@@ -5673,17 +5249,7 @@ side by side as after a long lover's quarrel, went the ensigns of St.
 
 Denys and St. George.
 
-
-
-
-
-
-
 _NOTE ON THE WORD "ENGLISH"_
-
-
-
-
 
 _The words "England" and "English" as used here require a word of
 
@@ -5723,25 +5289,9 @@ think that British policy as a whole has suffered from the English lack
 
 of one, with its inevitable result of plutocracy and class contempt_.
 
-
-
-
-
-
-
-
-
-
-
-
-
 End of Project Gutenberg's The Crimes of England, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE CRIMES OF ENGLAND ***
-
-
 
 ***** This file should be named 11554-8.txt or 11554-8.zip *****
 
@@ -5749,17 +5299,11 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/1/5/5/11554/
 
-
-
 Produced by Robert Shimmin, Caitlin and PG Distributed Proofreaders
-
-
 
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -5793,21 +5337,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -5821,15 +5355,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -5851,8 +5379,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -5870,8 +5396,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -5903,8 +5427,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -5923,11 +5445,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -5941,8 +5459,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -5950,8 +5466,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -5973,8 +5487,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -5987,15 +5499,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -6006,8 +5514,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -6031,23 +5537,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -6073,8 +5573,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -6089,8 +5587,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -6099,13 +5595,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -6119,11 +5611,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -6144,8 +5632,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -6173,8 +5659,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -6199,8 +5683,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -6208,8 +5690,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -6224,8 +5704,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -6247,13 +5725,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -6264,8 +5736,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -6285,15 +5755,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -6311,8 +5775,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -6327,8 +5789,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -6337,13 +5797,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -6358,8 +5814,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -6377,8 +5831,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -6387,15 +5839,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -6405,15 +5853,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -6423,8 +5865,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -6433,15 +5873,11 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Each eBook is in a subdirectory of the same number as the eBook's
 
 eBook number, often in several formats including plain vanilla ASCII,
 
 compressed (zipped), HTML and others.
-
-
 
 Corrected EDITIONS of our eBooks replace the old file and take over
 
@@ -6451,15 +5887,9 @@ VERSIONS based on separate sources are treated as new eBooks receiving
 
 new filenames and etext numbers.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -6468,8 +5898,6 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
 
 EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
 
@@ -6481,17 +5909,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-
-
      http://www.gutenberg.net/etext06
-
-
 
     (Or /etext 05, 04, 03, 02, 01, 00, 99,
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
-
-
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -6505,26 +5927,12 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-
-
      http://www.gutenberg.net/1/0/2/3/10234
-
-
 
 or filename 24689 would be found at:
 
      http://www.gutenberg.net/2/4/6/8/24689
 
-
-
 An alternative method of locating eBooks:
 
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-
-
-
-===== FINE FILE: TheCrimesOfEngland.txt =====

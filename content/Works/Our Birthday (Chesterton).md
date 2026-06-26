@@ -34,7 +34,6 @@ Our Birthday
 From G. K.s Weekly, March 21, 1935.
 This was written on the occasion of the paper's 10th anniversary.
 
-
 As this is a Birthday Number, I propose to write about birthdays
 in a futile and irresponsible manner, as befits a festive occasion;
 and to leave for a later issue some of the serious questions
@@ -138,8 +137,3 @@ the only representative of the implications of my Birthday.
 I do not even mind calling it the pride of birth, which of course
 has nothing to do with the pride of rank; so long as it involves
 the humility of birth also.
-
-
-
-
-===== FINE FILE: Our_Birthday.txt =====

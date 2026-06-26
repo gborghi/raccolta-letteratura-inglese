@@ -53,11 +53,6 @@ To the woman that never was you--
 O nothing nearer than all that is,  
 In Nevercometrue come true.  
 
-
         G.K. Chesterton  
 
-[Published in G.K.'s Weekly, 28th March, 1925]  
-
-
-
-===== FINE FILE: Nevercometrue.txt =====  
+[Published in G.K.'s Weekly, 28th March, 1925]

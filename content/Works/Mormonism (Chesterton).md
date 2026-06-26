@@ -158,8 +158,3 @@ hats, chin bears or mutton-chop whiskers, managed to reproduce in their
 own souls the richness and the peril of an ancient Oriental experience.
 If we think from this end we may possibly guess how it was that
 they added polygamy.
-
-
-
-
-===== FINE FILE: Mormonism.txt =====

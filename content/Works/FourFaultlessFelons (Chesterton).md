@@ -70,12 +70,9 @@ tags:
 - [Story 37 THE SPEAKING OF THE WORD](/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_37_THE_SPEAKING_OF_THE_WORD)
 - [Story 38 OLONEL GRIMM of the Pavonian Police was](/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_38_OLONEL_GRIMM_of_the_Pavonian_Police_was)
 
-
 ## Testo integrale / Full text
 
 A Project Gutenberg of Australia eBook
-
-
 
 Title: Four Faultless Felons
 
@@ -93,11 +90,7 @@ Date first posted:          May 2003
 
 Date most recently updated: January 2006
 
-
-
 ***** A Project Gutenberg of Australia eBook *****
-
-
 
 Project Gutenberg of Australia eBooks are created from printed editions
 
@@ -107,15 +100,11 @@ is included. We do NOT keep any eBooks in compliance with a particular
 
 paper edition.
 
-
-
 Copyright laws are changing all over the world. Be sure to check the
 
 copyright laws for your country before downloading or redistributing this
 
 file.
-
-
 
 This eBook is made available at no cost and with almost no restrictions
 
@@ -127,35 +116,15 @@ at
 
 http://gutenberg.net.au/licence.html
 
-
-
 To contact Project Gutenberg of Australia go to http://gutenberg.net.au
-
-
-
-
-
-
-
-
 
 Title: Four Faultless Felons
 
 Author: G.K. Chesterton
 
-
-
-
-
-
-
 CLUE OF THE PRESSMAN
 
-
-
 I PROLOGUE OF THE PRESSMAN
-
-
 
 MR. ASA LEE PINION, of the Chicago Comet, had crossed half of America,
 
@@ -178,8 +147,6 @@ Mr. Pinion decided not to risk his readers' comments. But that is no
 reason why the present writer, writing for more exalted, spiritual and
 
 divinely credulous readers, should imitate his silence.
-
-
 
 Really, the anecdote he heard was quite incredible: and Mr. Pinion was
 
@@ -213,8 +180,6 @@ this book, to introduce the four stories which were put forth as
 
 parallels to his own.
 
-
-
 But there was one fact which struck the journalist as odd even at the
 
 beginning. He understood well enough that it would be difficult to catch
@@ -239,13 +204,9 @@ to stand about after the Count himself had made his beaming and flashing
 
 exit.
 
-
-
 "I suppose," said one of them, "that the naughty old man has gone to see
 
 the naughty new play with all the naughty new people."
-
-
 
 "Yes," grunted a big man standing in front of the fire. "He's gone with
 
@@ -253,15 +214,11 @@ the naughtiest person of all, the author, Mrs. Prague. Authoress, I
 
 suppose she'd call herself--being only cultured and not educated."
 
-
-
 "He always goes to the first night of those plays," assented the other.
 
 "P'raps he thinks there won't be a second night, if the police raid the
 
 place."
-
-
 
 "What play is it?" asked the American in a gentle voice. He was a quiet
 
@@ -269,15 +226,11 @@ little man with a very long head and a refined falcon profile; he was
 
 much less loud and casual than the Englishmen.
 
-
-
 "Naked Souls," said the first man with a faint groan. "Dramatized version
 
 of the world-shaking novel Pan's Pipes. Grapples grimly with the facts of
 
 life."
-
-
 
 "Also bold, breezy and back to Nature," said the man by the fire. "We
 
@@ -285,19 +238,13 @@ hear a lot just now about Pan's Pipes. They seem to me a little too like
 
 drain-pipes."
 
-
-
 "You see," said the other, "Mrs. Prague is so very Modern, she has to go
 
 back to Pan. She says she cannot bear to believe that Pan is dead."
 
-
-
 "I think," said the large man, with a touch of heavy violence, "that Pan
 
 is not only dead but rotting and stinking in the street."
-
-
 
 It was the four friends of Marillac who puzzled Mr. Pinion. They were
 
@@ -365,8 +312,6 @@ head and yet, by a paradox, standing out like signals. The visitor found
 
 himself continually drawn to them, as if they were magnets.
 
-
-
 But, all together, the group bothered and bewildered him. It was not
 
 merely a difference of social class, it was an atmosphere of sobriety and
@@ -385,8 +330,6 @@ strain as he might have felt in facing one of the fabulous Luculline
 
 banquets of their friend the Count de Marillac.
 
-
-
 For however seriously Marillac might or might not be taking the serious
 
 drama of Sex and Science, there was no doubt that he would take the
@@ -403,31 +346,21 @@ fare, Mr. Pinion," he said. "You'd have had a much more carefully
 
 selected menu if Marillac had been here."
 
-
-
 The American reassured him with polite expressions about the club dinner;
 
 but added: "I suppose it is true that he does make rather an art of
 
 dining?"
 
-
-
 "Oh, yes," said the man in spectacles. "Always has all the right things
 
 at the wrong times. That's the ideal, I suppose."
 
-
-
 "I suppose he takes a lot of trouble?" said Pinion.
-
-
 
 "Yes," said the other. "He chooses his meals very carefully. Not
 
 carefully from my point of view. But then I'm a doctor."
-
-
 
 Pinion could not keep his eyes off the magnetic eyes of the man with the
 
@@ -437,19 +370,13 @@ table with a curious intentness, and in the ensuing silence, he suddenly
 
 intervened.
 
-
-
 "Everybody knows he's very particular in choosing his dinner. But I bet
 
 not one man in a million knows the principle on which he chooses it."
 
-
-
 "You must remember," said Pinion, with his soft accent, "that I am a
 
 journalist, and I should like to be the one man in a million."
-
-
 
 The man opposite looked at him steadily and rather strangely for a
 
@@ -459,8 +386,6 @@ human curiosity as well as journalistic curiosity? I mean, would the one
 
 man like to know, even if the million never knew?"
 
-
-
 "Oh, yes," replied the journalist, "I have plenty of curiosity, even
 
 about things I am told in confidence. But I can't quite see why
@@ -469,23 +394,15 @@ Marillac's taste in champagne and ortolans should be so very
 
 confidential."
 
-
-
 "Well," answered the other gravely, "why do you think he chooses them?"
-
-
 
 "I guess I've got a bromide mind," said the American, "but I should
 
 rather suspect him of choosing the things he likes."
 
-
-
 "Au contraire, as the other gourmet said when asked if he lunched on the
 
 boat."
-
-
 
 The man with the peculiar eyes broke off from his flippant speech,
 
@@ -494,8 +411,6 @@ plunged for a few moments into profound silence, and then resumed in so
 different a tone that it was like another man suddenly speaking at the
 
 table.
-
-
 
 "Every age has its bigotry, which is blind to some particular need of
 
@@ -523,8 +438,6 @@ with withered arms rigidly uplifted, crucified upon empty air. It is the
 
 appetite for what one does not like. Marillac has it."
 
-
-
 "What on earth--" began the startled journalist, but the other continued:
 
 "In short, it is what people call Asceticism, and one of the modern
@@ -545,15 +458,11 @@ imposing on himself, not abstinence from wine, but abstinence from
 
 worldly pleasures of every sort. ..."
 
-
-
 "Excuse me," said Pinion in his most courteous tones, "I trust I'd never
 
 have the incivility to suggest that you have gone mad, so I must ask you
 
 to tell me candidly whether I have."
-
-
 
 "Most people," replied the other, "would answer that it is Marillac who
 
@@ -579,17 +488,11 @@ seen of men to fast. On the contrary, he is seen of men to feast. Only,
 
 don't you see, he has invented a new kind of fasting."
 
-
-
 Mr. Pinion of the Comet suddenly laughed, a curt and startled laugh, for
 
 he was very quick and had already guessed the joke.
 
-
-
 "You don't really mean--" he began.
-
-
 
 "Well, it's quite simple, isn't it?" replied his informant. "He feasts on
 
@@ -607,13 +510,9 @@ hides in the latest luxurious gilded hotels, because that's where they
 
 have the worst cooking."
 
-
-
 "This is a very extraordinary tale," said the American, arching his
 
 eyebrows.
-
-
 
 "You begin to see the idea?" said the other. "If he has twenty different
 
@@ -629,13 +528,9 @@ that's the nastiest--even of Hocks? Whereas, if he were to demand dried
 
 peas or a mouldy crust at the Ritz, he would probably attract attention."
 
-
-
 "I never can quite see," said the man in spectacles restlessly, "what is
 
 the good of it all."
-
-
 
 The other man lowered his magnetic eyes and looked down with some
 
@@ -655,8 +550,6 @@ to dragoon the others, the mystic sinks into a mire of degradation and
 
 becomes the moral reformer."
 
-
-
 There was a pause, and then the journalist said suddenly: "But, look
 
 here, this won't do. It isn't only wasting his money on wining and dining
@@ -667,25 +560,17 @@ fan for these rotten erotic plays and things? Why does he go about with a
 
 woman like Mrs. Prague? That doesn't seem like a hermit, anyhow."
 
-
-
 The man facing Pinion smiled and the heavier man on his right half turned
 
 with a sort of grunt of laughter.
-
-
 
 "Well," he said, "it's pretty plain you've never been about with Mrs.
 
 Prague."
 
-
-
 "Why, what do you mean?" asked Pinion; and this time there was something
 
 like a general laugh.
-
-
 
 "Some say she's his Maiden Aunt and it's his duty to be kind to her,"
 
@@ -693,25 +578,17 @@ began the first man, but the second man interrupted him gruffly: "Why do
 
 you call her a Maiden Aunt when she looks like a--"
 
-
-
 "Quite so, quite so," said the first man rather hastily, "and why 'looks
 
 like'--if it comes to that?"
-
-
 
 "But her conversation!" groaned his friend. "And Marillac stands it for
 
 hours on end!"
 
-
-
 "And her play!" assented the other. "Marillac sits through five mortal
 
 acts of it. If that isn't being a martyr--"
-
-
 
 "Don't you see?" cried the shabby man with something like excitement.
 
@@ -747,8 +624,6 @@ know what an utterly egotistical fool is like. And he suffers even those
 
 fools gladly."
 
-
-
 "In fact," put in the big man in his brooding manner, "you might say he
 
 has invented the Modern Penance. The Penance of Boredom. Hair-shirts and
@@ -757,8 +632,6 @@ hermits' caves in a howling wilderness would not be so horrible to modern
 
 nerves as that."
 
-
-
 "By your account," ruminated Pinion, "I've been chasing a pleasure-seeker
 
 tripping on the light fantastic toe and only found a hermit standing on
@@ -766,8 +639,6 @@ tripping on the light fantastic toe and only found a hermit standing on
 his head." After a silence he said abruptly, "Is this really true? How
 
 did you find it out?"
-
-
 
 "That's rather a long story," replied the man opposite. "The truth is
 
@@ -781,15 +652,11 @@ forced into confidential conversation. You will understand, of course,
 
 that this is a confidential conversation."
 
-
-
 "I certainly shan't print it," answered the journalist. "I should be
 
 regarded as a lunatic if I did. People don't understand that sort of
 
 lunacy nowadays, and I rather wonder you take to it so much yourself."
-
-
 
 "Well, I put my own case before him, you see," answered the other. "In a
 
@@ -797,23 +664,15 @@ small way it was a little like his own. And then I introduced him to my
 
 friends, and so he became a sort of President of our little club."
 
-
-
 "Oh," said Pinion rather blankly, "I didn't know you were a club."
-
-
 
 "Well, we are four men with a common bond at least. We have all had
 
 occasion, like Marillac, to look rather worse than we were."
 
-
-
 "Yes," grunted the large man rather sourly, "we've all been
 
 Misunderstood. Like Mrs. Prague."
-
-
 
 "The Club of Men Misunderstood is rather more cheerful than that,
 
@@ -831,8 +690,6 @@ artfully concealed. As you will doubtless be justified in retorting, we
 
 conceal our own virtues with brilliant success."
 
-
-
 The journalist's head began to go round a little, though he thought
 
 himself pretty well accustomed both to crazy and criminal surroundings.
@@ -841,15 +698,11 @@ himself pretty well accustomed both to crazy and criminal surroundings.
 
 blasted with crime. What sort of crime?"
 
-
-
 "Well, mine was murder," said the man next to him. "The people who
 
 blasted me did it because they disapproved of murder, apparently. It's
 
 true I was rather a failure at murder, as at everything else."
-
-
 
 Pinion's gaze wandered in some bewilderment to the next man who answered
 
@@ -859,19 +712,13 @@ sort that gets you kicked out of your profession sometimes. Rather like
 
 Dr. Cook's sham discovery of the North Pole."
 
-
-
 "What does all this mean?" asked Pinion; and he looked inquiringly at the
 
 man opposite, who had done so much of the explaining so far.
 
-
-
 "Oh, theft," said the man opposite, indifferently; "the charge on which I
 
 was actually arrested was petty larceny."
-
-
 
 There was a profound silence, which seemed to settle in a mysterious
 
@@ -889,8 +736,6 @@ to stone and when he spoke at last, his foreign accent seemed something
 
 more than alien, as if it were almost inhuman.
 
-
-
 "I have committed the Unpardonable Sin," he said. "For what sin did Dante
 
 reserve the last and lowest hell; the Circle of Ice?" Still no one spoke;
@@ -901,8 +746,6 @@ betrayed the four companions of my party, and gave them up to the
 
 Government for a bribe."
 
-
-
 Something turned cold inside the sensitive stranger, and for the first
 
 time he really felt the air around him sinister and strange. The
@@ -910,8 +753,6 @@ time he really felt the air around him sinister and strange. The
 stillness continued for another half minute, and then all the four men
 
 burst out into a great uproar of laughter.
-
-
 
 The stories they told, to justify their boasts or confessions, are here
 
@@ -927,19 +768,9 @@ not exactly what he had expected, out of his pursuit of the dashing and
 
 extravagant Count Raoul de Marillac.
 
-
-
-
-
-
-
 THE MODERATE MURDERER
 
-
-
 I THE MAN WITH THE GREEN UMBRELLA
-
-
 
 THE new Governor was Lord Tallboys, commonly called Top-hat Tallboys,
 
@@ -965,8 +796,6 @@ concerned only with one catastrophe, and that was rather a personal and
 
 even private catastrophe.
 
-
-
 Top-hat Tallboys was a bachelor and yet he brought a family with him. He
 
 had a nephew and two nieces of whom one, as it happened, had married the
@@ -978,8 +807,6 @@ the interregnum after the murder of the previous ruler. The other niece
 was unmarried; her name was Barbara Traill, and she may well be the first
 
 figure to cross the stage of this story.
-
-
 
 For indeed she was rather a solitary and striking figure, raven dark and
 
@@ -1023,8 +850,6 @@ pilgrims for five thousand years. Anyone seeing it really for the first
 
 time, as the girl did, can hardly avoid uttering a cry: "The Pyramids!"
 
-
-
 Almost as she said it a voice said in her ear, not loud but with alarming
 
 clearness and very exact articulation: "The foundations were traced in
@@ -1032,8 +857,6 @@ clearness and very exact articulation: "The foundations were traced in
 blood and in blood shall they be traced anew. These things are written
 
 for our instruction."
-
-
 
 It has been said that Barbara Traill was not without imagination; it
 
@@ -1066,8 +889,6 @@ probably through this sudden acceleration of movement that she seemed to
 become aware, rather abruptly, that a man was marching steadily in front
 
 of her along the same track towards the gates of the Governorate.
-
-
 
 He was a very large man, and seemed to take up the whole of the narrow
 
@@ -1117,8 +938,6 @@ face and manner, something that she had seen before, but to which she
 
 could not put a name.
 
-
-
 He explained, with the most formal courtesy, that he was going to leave a
 
 note for an official at the Governorate, and there was really no reason
@@ -1130,8 +949,6 @@ together, talking of things in general, and she had not exchanged more
 than a few sentences before she realized that she was talking to a
 
 remarkable man.
-
-
 
 We hear much in these days about the dangers of innocence, much that is
 
@@ -1159,23 +976,15 @@ an equally stupid Bolshevism. The hour of Barbara Traill was come, though
 
 she probably did not know it.
 
-
-
 "If England keeps her promises," said the man with the beard, frowning,
 
 "there is still a chance that things may be quiet."
-
-
 
 And Barbara had answered, like a schoolboy: "England always keeps her
 
 promises."
 
-
-
 "The Waba have not noticed it," he answered with an air of triumph.
-
-
 
 The omniscient are often ignorant. They are often especially ignorant of
 
@@ -1184,8 +993,6 @@ ignorance. The stranger imagined that he was uttering a very crushing
 repartee, as perhaps he was, to anybody who knew what he meant. But
 
 Barbara had never heard of the Waba. The newspapers had seen to that.
-
-
 
 "The British Government," he was saying, "definitely pledged itself two
 
@@ -1197,25 +1004,17 @@ incomplete scheme, a compromise, it will be very far from well. I shall
 
 be very sorry for everybody, but especially for my English friends."
 
-
-
 She answered with a young and innocent sneer, "Oh yes-I suppose you are a
 
 great friend of the English."
 
-
-
 "Yes," he replied calmly. "A friend: but a candid friend."
-
-
 
 "Oh, I know all about that sort," she said with hot sincerity. "I know
 
 what they mean by a candid friend. I've always found it meant a nasty,
 
 sneering, sneaking, treacherous friend."
-
-
 
 He seemed stung for an instant and answered, "Your politicians have no
 
@@ -1225,15 +1024,9 @@ you know on Lord Jaffray's raid they shot a child? Do you know anything
 
 at all? Do you even know how England tacked on Egypt to her Empire?"
 
-
-
 "England has a glorious Empire," said the patriot stoutly.
 
-
-
 "England had a glorious Empire," he said. "So had Egypt."
-
-
 
 They had come, somewhat symbolically, to the end of their common path and
 
@@ -1249,13 +1042,9 @@ lay in long bands of burning crimson across the purple desolation of that
 
 dry inland sea.
 
-
-
 "A glorious Empire," he said. "An Empire on which the sun never sets.
 
 Look . . the sun is setting in blood."
-
-
 
 She went through the iron gate like the wind and let it clang behind her.
 
@@ -1272,8 +1061,6 @@ her nearest approach to home, and at the end of the long perspective of
 gaily coloured garden walks, she could see her sister Olive picking
 
 flowers.
-
-
 
 The sight soothed her; but she was a little puzzled about why she should
 
@@ -1293,8 +1080,6 @@ vases or to decorate English dinner-tables, with decanters and salted
 
 almonds.
 
-
-
 But as she drew nearer to that distant figure, it grew more puzzling. The
 
 blossoms grasped in her sister's hand looked like mere ragged and random
@@ -1313,11 +1098,7 @@ Then Olive looked up and her face was ghastly. It might have been the
 
 face of Medea in the garden, gathering the poisonous flowers.
 
-
-
 II THE BOY WHO MADE A SCENE
-
-
 
 BARBARA TRAILL was a girl with a good deal of the boy about her. This is
 
@@ -1371,8 +1152,6 @@ problems, indeed to much more secret problems, for she had never admitted
 
 them to anyone but herself.
 
-
-
 The Traills had a tragedy, or rather, perhaps, something that Barbara's
 
 brooding spirit had come to regard as the dawn of a tragedy. Her younger
@@ -1389,8 +1168,6 @@ Tallboys. Thus it happened that she said quickly, at the sight of her
 
 sister's strange expression: "Is anything wrong about Tom?"
 
-
-
 Olive started slightly, and then said, rather crossly than otherwise:
 
 "No, not particularly. . . . Uncle has put him with a tutor here, and
@@ -1399,27 +1176,19 @@ they say he's getting on better. . . . Why do you ask? There's nothing
 
 special the matter with him."
 
-
-
 "Then I suppose," said Barbara, "that there is something special the
 
 matter with you."
 
-
-
 "Well," answered the other, "isn't there something the matter with all of
 
 us?"
-
-
 
 With that she turned abruptly and went back towards the house, dropping
 
 the flowers she had been making a pretence of gathering, and her sister
 
 followed, still deeply disturbed in mind.
-
-
 
 As they came near the portico and veranda, she heard the high voice of
 
@@ -1457,21 +1226,15 @@ he had a military point of view, which is sufficiently common and even
 
 commonplace.
 
-
-
 "In short," the Governor was saying, "I believe the Government scheme is
 
 admirably adapted to meet a somewhat difficult situation. Extremists of
 
 both types will object to it, but extremists object to everything."
 
-
-
 "Quite so," answered the other, "the question isn't so much whether they
 
 object as whether they can make themselves objectionable."
-
-
 
 Barbara, with her new and nervous political interests, found herself
 
@@ -1507,8 +1270,6 @@ experience of pretending to conduct one conversation while trying to
 
 listen to another.
 
-
-
 This was the more difficult because the Rev. Ernest Snow, the clergyman
 
 in question, had (for all his mildness) not a little gentle pertinacity.
@@ -1537,15 +1298,11 @@ can still make sure that our proclamation is a proclamation of a
 
 reasonable liberty. We have therefore decided--"
 
-
-
 And then, at that particular moment, the poor clergyman would pierce her
 
 consciousness with the pathetic question: "Now how many cubits do you
 
 think that would be?"
-
-
 
 A little while later she managed to hear Smythe, who talked much less
 
@@ -1557,11 +1314,7 @@ haven't got sufficient forces, and there are no rows when we have got
 
 sufficient forces. That's all."
 
-
-
 "And what is our position at present?" asked the Governor gravely.
-
-
 
 "Our position is damned bad, if you ask me," grumbled the other in a low
 
@@ -1573,13 +1326,9 @@ twice a year. I've put up proper rifle butts beyond the olive walk there
 
 now, but there are other things. The munitions are not--"
 
-
-
 "But in that case," came the mild but penetrating voice of Mr. Snow, "in
 
 that case what becomes of the Shunamites?"
-
-
 
 Barbara had not the least idea what became of them, but in this case she
 
@@ -1589,19 +1338,13 @@ listen a little more closely to the views of the venerable mystic, and
 
 she only heard one more fragment of the political conversation.
 
-
-
 "Shall we really want all these military preparations?" asked Lord
 
 Tallboys rather anxiously. "When do you think we shall want them?"
 
-
-
 "I can tell you," said Smythe with a certain grimness. "We shall want
 
 them when you publish your proclamation of reasonable liberty."
-
-
 
 Lord Tallboys made an abrupt movement in the garden chair, like one
 
@@ -1635,19 +1378,13 @@ definite proof about the Shunamites. But she was still very vague about
 
 what it was supposed to prove.
 
-
-
 He thanked her and said gravely: "If the prophecy is fulfilled now, there
 
 will be a grave calamity."
 
-
-
 "I suppose," she said with a rather dreary flippancy, "if the prophecy
 
 were not fulfilled, it would be an even greater calamity."
-
-
 
 Even as she spoke there was a stir behind some of the garden palms and
 
@@ -1677,8 +1414,6 @@ expression, as well it might. Teaching the defective is not always a
 
 hilarious parlour game.
 
-
-
 Lord Tallboys had a brief and kindly conversation with the tutor. Lord
 
 Tallboys asked a few simple questions. Lord Tallboys gave a little
@@ -1697,8 +1432,6 @@ fulfilled and a highly regrettable Calamity occurred at the Governor's
 
 tea-party.
 
-
-
 For the boy burst out abruptly into a sort of high, gurgling crow and
 
 began to flap his hands about like the wings of a penguin, repeating over
@@ -1707,25 +1440,17 @@ and over again, "On the one hand. On the other hand. On the one hand. On
 
 the other hand. On the one hand. On the other hand. . . . Golly!"
 
-
-
 "Tom!" cried Olive on a sharp accent of agony and there was a ghastly
 
 silence over all the garden.
-
-
 
 "Well," said the tutor in a reasonable undertone, which was as clear as a
 
 bell in that stillness, "you can't expect to have three hands, can you?"
 
-
-
 "Three hands?" repeated the boy, and then after a long silence, "Why, how
 
 could you?"
-
-
 
 "One would have to be in the middle, like an elephant's trunk," went on
 
@@ -1737,17 +1462,11 @@ way and that and pick up things on the breakfast-table, and never let go
 
 of your knife and fork?"
 
-
-
 "Oh, you're mad!" ejaculated Tom with a sort of explosion that had a
 
 queer touch of exultation.
 
-
-
 "I'm not the only mad person in the world, old boy," said Mr. Hume.
-
-
 
 Barbara stood staring as she listened to this extraordinary conversation
 
@@ -1757,15 +1476,11 @@ most extraordinary thing about it was that the tutor said these crazy and
 
 incongruous things with an absolutely blank face.
 
-
-
 "Didn't I ever tell you," he said in the same heavy and indifferent
 
 voice, "about the clever dentist who could pull out his own teeth with
 
 his own nose? I'll tell you tomorrow."
-
-
 
 He was still quite dull and serious; but he had done the trick. The boy
 
@@ -1778,8 +1493,6 @@ at the tutor and followed him everywhere with his eyes. Perhaps he was
 not the only member of his family who did so. For the tutor, Barbara
 
 thought, was certainly a very odd person.
-
-
 
 There was no more political talk that day, but there was not a little
 
@@ -1799,11 +1512,7 @@ Polybia, had been shot down by the last of the line of olives, at the
 
 corner of the wall.
 
-
-
 III THE MAN WHO COULD NOT HATE
-
-
 
 IMMEDIATELY after leaving the little garden-party, Tom and his tutor
 
@@ -1817,29 +1526,19 @@ had indignantly expected him to say in public, and remonstrated with the
 
 youth for his display of imitative drama.
 
-
-
 "Well, I won't like him," said Tom warningly. "I'd like to kill him. His
 
 nose sticks out."
-
-
 
 "You can hardly expect it to stick in," said Mr. Hume mildly. "I wonder
 
 whether there's an old story about the man whose nose stuck in."
 
-
-
 "Is there?" demanded the other in the literal spirit of infancy.
-
-
 
 "There may be tomorrow," replied the tutor and began to climb the steep
 
 path to his abode.
-
-
 
 It was a lodge built mostly of bamboo and light timber with a gallery
 
@@ -1868,8 +1567,6 @@ the Eastern sunset; then it was rapidly rolled in the purple gloom in
 which the strong stars stood out over his head and seemed nearer than the
 
 things of earth.
-
-
 
 He stood for some moments on the gallery looking down on the darkening
 
@@ -1908,8 +1605,6 @@ and triangles on the blackboard. But the diagrams were drawn very
 precisely, as if the draughtsman had an exact eye and excelled in
 
 anything depending on that organ.
-
-
 
 John Hume sat down at his desk and began to draw more diagrams. A little
 
@@ -1953,8 +1648,6 @@ in the old swaying waltzes moved through his subconsciousness and must be
 
 allowed for in estimating what he suddenly looked up and saw.
 
-
-
 It seems for one instant as if, in rising through the mist, the tune had
 
 taken outline and colour and burst into his room with the bodily presence
@@ -1989,8 +1682,6 @@ almost as crudely as her brother: "I'm afraid Tom is very rude to you,"
 
 she said. "I'm very sorry. How do you think he is getting on?"
 
-
-
 "I think most people would say," he said slowly at last, "that I ought to
 
 apologize for his schooling more than you for his family. I'm sorry about
@@ -2004,8 +1695,6 @@ look after my charge. And I know that is the right way with him. Don't
 you be worried about him. He's perfectly all right if you understand him,
 
 and it's only a matter of making up for lost time."
-
-
 
 She was listening, or not listening, with her characteristic frown of
 
@@ -2031,8 +1720,6 @@ eyeglass. Do you know who he is? He said all sorts of horrid things
 
 against England."
 
-
-
 Hume got to his feet with his hands in his pockets and the expression of
 
 one about to whistle. He stared at the girl and said softly: "Hullo! Has
@@ -2051,23 +1738,15 @@ a very clever fellow and knows a frightful lot of the facts about these
 
 parts."
 
-
-
 "Do you mean," she said sharply, "that I'm to believe that man and all
 
 the things he said?"
-
-
 
 "No," said Hume. "I shouldn't believe that man; not even if you believe
 
 all the things he said."
 
-
-
 "What do you mean?" she demanded.
-
-
 
 "Frankly, I think he is a thoroughly bad egg," said the tutor. "He's got
 
@@ -2077,13 +1756,9 @@ have gone to prison twice but for suborning perjury. I only say, whatever
 
 you may come to believe, don't believe in him."
 
-
-
 "He dared to say that our Government broke its word," said Barbara
 
 indignantly.
-
-
 
 John Hume was silent. Something in his silence affected her like a
 
@@ -2097,17 +1772,11 @@ hard and all that; I suppose that's natural prejudice. But can't we stop
 
 these wild, wicked lies?"
 
-
-
 "Well," replied Hume rather wearily, "nobody can say that Jaffray is cold
 
 and hard. The excuse for the whole thing was that he was blind drunk."
 
-
-
 "Then I am to take the word of that liar!" she said fiercely.
-
-
 
 "He's a liar all right," said the tutor gloomily. "And it's a very
 
@@ -2115,15 +1784,11 @@ dangerous condition of the Press and the public, when only the liars tell
 
 the truth."
 
-
-
 Something of a massive gravity in his grim humour for the moment
 
 overpowered her breathless resentment, and she said in a quieter tone:
 
 "Do you believe in this demand for self-government?"
-
-
 
 "I'm not very good at believing," he said. "I find it very hard to
 
@@ -2141,11 +1806,7 @@ born right to a top-hat, I can't help answering: 'Then why the devil
 
 didn't you make one for yourself?'"
 
-
-
 "You don't seem to care much for the Nationalists either," she said.
-
-
 
 "Their politicians are often frauds, but they're not alone in that.
 
@@ -2157,8 +1818,6 @@ blasted blackguards and a lot of damned drivelling, doddering idiots. You
 
 see I'm a Moderate."
 
-
-
 He laughed a little for the first time, and his plain face was suddenly
 
 altered for the better. She was moved to say in a more friendly tone:
@@ -2167,21 +1826,15 @@ altered for the better. She was moved to say in a more friendly tone:
 
 murdered."
 
-
-
 "Only a little murdered," he said, still smiling. "Yes, I think I should
 
 like some of them rather murdered. Not too much, of course; it's a
 
 question of a sense of proportion."
 
-
-
 "Now you're talking nonsense," she said, "and people in our position
 
 can't stand any nonsense. Harry says we may have to make an example."
-
-
 
 "I know," he said. "He made several examples when he was in command here,
 
@@ -2189,19 +1842,11 @@ before Lord Tallboys came out. It was vigorous-very vigorous. But I think
 
 I know what would be better than making an example."
 
-
-
 "And what is that?"
-
-
 
 "Setting an example," said Hume. "What about our own politicians?"
 
-
-
 She said suddenly: "Well, why don't you do something yourself?"
-
-
 
 There was a silence. Then he drew a deep breath. "Ah, there you have me.
 
@@ -2209,17 +1854,11 @@ I can't do anything myself. I am futile; naturally and inevitably futile.
 
 I suffer from a deadly weakness."
 
-
-
 She felt suddenly rather frightened; she had encountered his blank and
 
 empty eyes.
 
-
-
 "I cannot hate," he said. "I cannot be angry."
-
-
 
 Something in his heavy voice seemed full of quality, like the fall of a
 
@@ -2230,8 +1869,6 @@ subconsciousness yawned a disappointment. She half realized the depth of
 her strange reliance and felt like one who had dug in the desert and
 
 found a very deep well, and found it dry.
-
-
 
 When she went out on to the veranda the steep garden and plantation were
 
@@ -2271,8 +1908,6 @@ like the Greek statues of gold and ivory, and at the temples were two
 
 golden curls, that might have been the horns of Pan.
 
-
-
 For the moment that motionless head might indeed have been that of some
 
 terminal god of gardens. But the next moment it had found legs and came
@@ -2309,8 +1944,6 @@ that in that scene there was something sinister in a fair Jew, as in a
 
 white negro.
 
-
-
 "We meet under a yet more beautiful sky," he said; she hardly heard what
 
 else he said. Broken phrases from what she had heard recently tumbled
@@ -2329,13 +1962,9 @@ chimpanzee, surprised her into a cry. Then she stumbled and ran, but not
 
 in the direction of the house of her own people.
 
-
-
 Mr. John Hume got out of his chair more quickly than was his wont and
 
 went to meet someone who stumbled up the stair without.
-
-
 
 "My dear child," he said, and put a hand on her shaking shoulder, giving
 
@@ -2369,8 +1998,6 @@ the hill, the white face and the furious gesture of malediction were
 
 turned, not towards the assailant, but towards the house of the Governor.
 
-
-
 The tutor was frowning ponderously as he came again up the veranda steps,
 
 as if over some of his geometrical problems. She asked him rather wildly
@@ -2379,13 +2006,9 @@ what he had done and he answered in his heavy voice: "I hope I half
 
 killed him. You know I am in favour of half measures."
 
-
-
 She laughed rather hysterically and cried: "You said you could not be
 
 angry."
-
-
 
 Then they suddenly became very stiff and silent and it was with an almost
 
@@ -2403,13 +2026,9 @@ fingers. There was something upon them both beyond speech or even
 
 silence. He even went so far as to say it was a fine night.
 
-
-
 "Yes," she answered, "it is a fine night"; and felt instantly as if she
 
 had betrayed some secret.
-
-
 
 They went through the inner gardens to the gate of the vestibule, which
 
@@ -2417,13 +2036,7 @@ was crowded with people in uniform and evening dress. They parted with
 
 the utmost formality; and that night neither of them slept.
 
-
-
-
-
 IV THE DETECTIVE AND THE PARSON
-
-
 
 IT was not until the following evening, as already noted, that the news
 
@@ -2469,8 +2082,6 @@ her friend the tutor in the very centre of the group, being questioned
 
 about his own recent experiences.
 
-
-
 The next moment she felt a strange sort of surge of subconscious
 
 annoyance, as she realized the subject-matter of the questions. The
@@ -2503,13 +2114,9 @@ in his curiosity. She told herself, in a highly unreasonable fashion,
 
 that she had always hated Arthur Meade.
 
-
-
 "I gather," the secretary was saying, "that you have excellent reasons of
 
 your own for regarding this man as a dangerous character."
-
-
 
 "I regard him as a rotter and I always did," replied Hume in a rather
 
@@ -2518,8 +2125,6 @@ sulky and reluctant manner. "I did have a bit of a kick up with him last
 night, but it didn't make any difference to my views, nor to his either,
 
 I should think."
-
-
 
 "It seems to me it might make a considerable difference," persisted
 
@@ -2533,23 +2138,17 @@ after, and nobody seems to have seen his assailant; but he might have
 
 hung about in the woods and then crept out along the wall at dusk."
 
-
-
 "Having helped himself to a gun from the gun-tree that grows wild in
 
 these woods, I suppose," said the tutor sardonically. "I swear he had no
 
 gun or pistol on him when I threw him into the prickly pear."
 
-
-
 "You seem to be making the speech for the defence," said the secretary
 
 with a faint sneer. "But you yourself said he was a pretty doubtful
 
 character."
-
-
 
 "I don't think he is in the least a doubtful character," replied the
 
@@ -2561,17 +2160,11 @@ sensual mountebank. So I'm pretty sure that he didn't shoot the Governor,
 
 whoever else did."
 
-
-
 Colonel Hayter cocked a shrewd eye at the speaker and spoke himself for
 
 the first time.
 
-
-
 "Ah-and what do you mean by that exactly?"
-
-
 
 "I mean what I say," answered Hume. "It's exactly because he's that sort
 
@@ -2589,13 +2182,9 @@ two other little bits of evidence, which I think clear the fellow
 
 completely."
 
-
-
 He put two fingers in his waistcoat pocket and slowly and thoughtfully
 
 drew out a round, flat piece of glass with a broken string.
-
-
 
 "I picked this up on the spot where we struggled," he said. "It's
 
@@ -2609,27 +2198,19 @@ the end of the wall from the sycamore, which is whereabouts they think
 
 the shot must have been fired from."
 
-
-
 "There may be something in that," said Hayter, "though the man might have
 
 had another glass, of course. You said you had a second reason for
 
 thinking him innocent."
 
-
-
 "The second reason," said Hume, "is that Sir Harry Smythe has just
 
 arrested him."
 
-
-
 "What on earth do you mean?" asked Meade sharply. "Why, you brought us
 
 the message from Sir Harry yourself."
-
-
 
 "I'm afraid I brought it rather imperfectly," said the other, in a dull
 
@@ -2645,25 +2226,17 @@ its beautiful peroration about the time when Tallboys was being shot at,
 
 here at the corner of the road."
 
-
-
 "Good Lord!" cried Meade, staring, "you seem to know a lot about this
 
 business."
-
-
 
 The rather sullen tutor lifted his head and looked straight at the
 
 secretary with a steady but rather baffling gaze.
 
-
-
 "Perhaps I do know a little about it," he said. "Anyhow, I'm quite sure
 
 Gregory's got a good alibi."
-
-
 
 Barbara had listened to this curious conversation with a confused and
 
@@ -2684,8 +2257,6 @@ the criminal had again become a nameless shadow, he began to haunt her
 mind with dreadful hints of identity and she had spasms of fear, in which
 
 that shadowy figure was suddenly fitted with a face.
-
-
 
 As has been already noted, Barbara Traill was a little morbid about her
 
@@ -2708,8 +2279,6 @@ any difficulty in finding reasons for their worst fears. And it was
 enough for her that, the very morning before her uncle was shot, he had
 
 been publicly insulted, and even crazily threatened, by her brother.
-
-
 
 That sort of psychological poison works itself deeper and deeper into the
 
@@ -2757,8 +2326,6 @@ young, and thousands of young people go through such a phase of
 
 nightmare, and nobody knows or helps.
 
-
-
 But she was moved with a curious impulse in the search for help, and it
 
 was the same impulse that had driven her back across the moonlit glade to
@@ -2766,8 +2333,6 @@ was the same impulse that had driven her back across the moonlit glade to
 the wooden hut upon the hill. She was actually mounting that hill again,
 
 when she met John Hume coming down.
-
-
 
 She poured out all her domestic terrors and suspicions in a flood, as she
 
@@ -2777,15 +2342,11 @@ confidence which rested on no defined reason or relation and yet was sure
 
 of itself.
 
-
-
 "So there it is," she said at the end of her impetuous monologue. "I
 
 began by being quite sure that poor Tom had done it. But by this time I
 
 feel as if I might have done it myself."
-
-
 
 "Well, that's logical enough," agreed Hume. "It's about as sensible to
 
@@ -2793,15 +2354,11 @@ say that you are guilty as that Tom is. And about as sensible to say the
 
 Archbishop of Canterbury is guilty as either of you."
 
-
-
 She attempted to explain her highly scientific guesses about heredity,
 
 and their effect was more marked. They succeeded at least in arousing
 
 this large and slow person to a sort of animation.
-
-
 
 "Now the devil take all doctors and scientists," he cried, "or rather the
 
@@ -2837,15 +2394,11 @@ Even remaining a child is not a disease; don't you sometimes wish we
 
 could all remain children?"
 
-
-
 She was of the sort that grapples with notions and suggestions one after
 
 another, as they come, and she stood silent, but her mind was busy like a
 
 mill. It was he who spoke again, and more lightly.
-
-
 
 "It's like what we were saying about making examples. I think the world
 
@@ -2861,19 +2414,13 @@ millionaire and make him stand in the corner! Such an appropriate
 
 penalty."
 
-
-
 When she spoke again there was in her tones something of relief and a
 
 renewed curiosity.
 
-
-
 "What do you do with Tom?" she asked, "and what's the meaning of all
 
 those funny triangles?"
-
-
 
 "I play the fool," he replied gravely. "What he wants is to have his
 
@@ -2889,8 +2436,6 @@ I mean or what I shall do next. It means being an ass, but it's the only
 
 way."
 
-
-
 "Yes," she answered slowly, "there's something awfully rousing about
 
 riddles .. all sorts of riddles. Even that old parson with his riddles
@@ -2901,8 +2446,6 @@ way, I believe we promised to go to tea there this afternoon; I've been
 
 in a state to forget everything."
 
-
-
 Even as she spoke she saw her sister Olive coming up the path attired in
 
 the unmistakable insignia of one paying calls, and accompanied by her
@@ -2910,8 +2453,6 @@ the unmistakable insignia of one paying calls, and accompanied by her
 sturdy husband, the Deputy Governor, who did not often attend these
 
 social functions.
-
-
 
 They all went down the road together and Barbara was vaguely surprised to
 
@@ -2922,8 +2463,6 @@ figure of Mr. Meade the secretary, but also the more angular outline of
 Colonel Hayter. The clergyman's invitation had evidently been a
 
 comprehensive one.
-
-
 
 The Rev. Ernest Snow lived in a very modest manner in one of the little
 
@@ -2951,8 +2490,6 @@ was so prim and narrow that the group of guests from the Governorate had
 
 some difficulty in squeezing through it.
 
-
-
 Mr. Snow bowed over Olive's hand with a ceremony that seemed to make his
 
 white hair a ghost of eighteenth-century powder, but also with something
@@ -2969,25 +2506,17 @@ were very bright and steady. Barbara suddenly realized that he was
 
 conducting a funeral, and she was not far out.
 
-
-
 "I need not tell you, Lady Smythe," he said in the same soft accents,
 
 "what sympathy we all feel in this terrible hour. If only from a public
 
 standpoint, the death of your distinguished uncle--"
 
-
-
 Olive Smythe struck in with a rather wild stare.
-
-
 
 "But my uncle isn't dead, Mr. Snow. I know they said so at first, but he
 
 only got a shot in his leg and he is trying to limp about already."
-
-
 
 A shock of transformation passed over the clergyman's face, too quick for
 
@@ -2997,11 +2526,7 @@ it readjusted itself, it was in a grin of utterly artificial
 
 congratulation.
 
-
-
 "My dear lady," he breathed, "for this relief--"
-
-
 
 He looked round a little vacantly at the furniture. Whether the Rev.
 
@@ -3019,13 +2544,9 @@ apparently astronomical or astrological, but giving as a whole a hazy
 
 impression of a magician's spells or a library of the black art.
 
-
-
 "Apocalyptic studies," he stammered, "a hobby of mine. I believed that my
 
 calculations . . . These things are written for our instruction."
-
-
 
 And then Barbara felt a final stab of astonishment and alarm. For two
 
@@ -3043,13 +2564,7 @@ same words, out of the shadow of the sycamore, that sounded in her ears
 
 like a wild cry for blood.
 
-
-
-
-
 V THE THEORY OF MODERATE MURDER
-
-
 
 COLONEL HAYTER, the Chief of the Police, was moving towards the inner
 
@@ -3067,13 +2582,9 @@ seemed almost that he was muttering to himself. He was a little like a
 
 man looking up a quotation on which he has been challenged.
 
-
-
 "I hear you have a very nice garden here, Mr. Snow," said Hayter. "I
 
 should rather like to look at your garden."
-
-
 
 Snow turned a startled face over his shoulder; he seemed at first unable
 
@@ -3082,8 +2593,6 @@ to detach his mind from his preoccupation; then he said sharply but a
 little shakily, "There's nothing to see in my garden; nothing at all. I
 
 was just wondering--"
-
-
 
 "Do you mind if I have a squint at it?" asked Hayter indifferently, and
 
@@ -3095,15 +2604,9 @@ what they did. Hume, who was just behind the detective, said to him in an
 
 undertone: "What do you expect to find growing in the old man's garden?"
 
-
-
 Hayter looked over his shoulder with a grim geniality.
 
-
-
 "Only a particular sort of tree you were talking of lately," he said.
-
-
 
 But when they went out into the neat and narrow strip of back garden, the
 
@@ -3113,15 +2616,11 @@ Barbara remembered with another subconscious thrill that this was the
 
 spot from which, as the experts calculated, the bullet had been fired.
 
-
-
 Hayter strode across the lawn and was seen stooping over something in the
 
 tangle of tropical plants under the wall. When he straightened himself
 
 again he was seen to be holding a long and heavy cylindrical object.
-
-
 
 "Here is something fallen from the gun-tree you said grew in these
 
@@ -3131,21 +2630,15 @@ back-garden, isn't it? Especially as it's a double-barrelled gun with one
 
 barrel discharged."
 
-
-
 Hume was staring at the big gun in the detective's hand, and for the
 
 first time his usually stolid face wore an expression of amazement and
 
 even consternation.
 
-
-
 "Damn it all!" he said softly, "I forgot about that. What a rotten fool I
 
 am!"
-
-
 
 Few except Barbara even heard his strange whisper, and nobody could make
 
@@ -3153,15 +2646,11 @@ any sense of it. Suddenly he swung round and addressed the whole company
 
 aloud, almost as if they were a public meeting.
 
-
-
 "Look here," he said, "do you know what this means? This means that poor
 
 old Snow, who is probably still fussing over his hieroglyphics, is going
 
 to be charged with attempted murder."
-
-
 
 "It's a bit premature," said Hayter, "and some would say you were
 
@@ -3169,21 +2658,15 @@ interfering in our job, Mr. Hume. But I owe you something for putting us
 
 right about the other fellow, when I admit we were wrong."
 
-
-
 "You were wrong about the other fellow and you are wrong about this
 
 fellow," said Hume, frowning savagely. "But I happened to be able to
 
 offer you evidence in the other case. What evidence can I give now?"
 
-
-
 "Why should you have any evidence to give?" asked the other, very much
 
 puzzled.
-
-
 
 "Well, I have," said Hume, "and I jolly well don't want to give it." He
 
@@ -3195,13 +2678,9 @@ you see he'd only fallen in love with his own prophecies of disaster, and
 
 was a bit put off when they didn't come true after all?"
 
-
-
 "There are a good many more suspicious circumstances," cut in Smythe
 
 curtly. "There's the gun in the garden and the position of the sycamore."
-
-
 
 There was a long silence during which Hume stood with huge hunched
 
@@ -3209,21 +2688,15 @@ shoulders frowning resentfully at his boots. Then he suddenly threw up
 
 his head and spoke with a sort of explosive lightness.
 
-
-
 "Oh, well then, I must give my evidence," he said, with a smile that was
 
 almost gay: "I shot the Governor myself."
-
-
 
 There was a stillness as if the place had been full of statues, and for a
 
 few seconds nobody moved or spoke. Then Barbara heard her own voice in
 
 the silence, crying out: "Oh, you didn't!"
-
-
 
 A moment later the Chief of Police was speaking with a new and much more
 
@@ -3233,15 +2706,11 @@ official voice: "I should like to know whether you are joking," he said,
 
 of Lord Tallboys."
 
-
-
 Hume held up one hand in an arresting gesture, almost like a public
 
 speaker. He was still smiling slightly, but his manner had grown more
 
 grave.
-
-
 
 "Pardon me," he said. "Pardon me. Let us distinguish. The distinction is
 
@@ -3249,11 +2718,7 @@ of great value to my self-esteem. I did not try to murder the Governor. I
 
 tried to shoot him in the leg and I did shoot him in the leg."
 
-
-
 "What is the sense of all this?" cried Smythe with impatience.
-
-
 
 "I am sorry to appear punctilious," said Hume calmly. "Imputations on my
 
@@ -3273,13 +2738,9 @@ think even a fool would have shot again, if that was what he wanted to
 
 do? Only, you see, it was not what I wanted to do."
 
-
-
 "You seem to fancy yourself a lot as a marksman," said the Deputy
 
 Governor rudely.
-
-
 
 "Ah, you are sceptical," replied the tutor in the same airy tone. "Well,
 
@@ -3297,27 +2758,19 @@ could see the long line of the butts stretching along the border of the
 
 desert.
 
-
-
 "Suppose we say," he said pleasantly, in the tone of a popular lecturer,
 
 "that I put this bullet about an inch inside the white on the second
 
 target."
 
-
-
 The group awoke from its paralysis of surprise; Hayter ran forward and
 
 Smythe burst out with: "Of all the damned tomfoolery--"
 
-
-
 His sentence was drowned in the deafening explosion, and amid the echoes
 
 of it the tutor dropped serenely from the wall.
-
-
 
 "If anybody cares to go and look," he said, "I think he will find the
 
@@ -3325,23 +2778,15 @@ demonstration of my innocence-not indeed of shooting the Governor, but of
 
 wanting to shoot him anywhere else but where I did shoot him."
 
-
-
 There was another silence, and then this comedy of unexpected happenings
 
 was crowned with another that was still more unexpected; coming from the
 
 one person whom everybody had naturally forgotten.
 
-
-
 Tom's high, crowing voice was suddenly heard above the crowd.
 
-
-
 "Who's going to look?" he cried. "Well, why don't you go and look?"
-
-
 
 It was almost as if a tree in the garden had spoken. And indeed the
 
@@ -3357,15 +2802,11 @@ lanky limbs against the sky as Tom Traill cleared the garden wall and
 
 went plunging away through the sand towards the targets.
 
-
-
 "Is this place a lunatic asylum?" cried Sir Harry Smythe, his face still
 
 more congested with colour and a baleful light in his eyes, as if a big
 
 but buried temper was working its way to the surface.
-
-
 
 "Come, Mr. Hume," said Hayter in a cooler tone, "everybody regards you as
 
@@ -3373,19 +2814,13 @@ a very sensible man. Do you mean to tell me seriously that you put a
 
 bullet in the Governor's leg for no reason at all, not even murder?"
 
-
-
 "I did it for an excellent reason," answered the tutor, still beaming at
 
 him in a rather baffling manner. "I did it because I am a sensible man.
 
 In fact, I am a Moderate Murderer."
 
-
-
 "And what the blazes may that be?"
-
-
 
 "The philosophy of moderation in murder," continued the tutor blandly,
 
@@ -3403,13 +2838,9 @@ and how much it is; the little less and the Governor of Polybia gets
 
 clean away, as Browning said."
 
-
-
 "Do you really ask me to believe," snorted the Chief of Police, "that you
 
 make a practice of potting every public man in the left leg?"
-
-
 
 "No, no," said Hume, with a sort of hasty solemnity. "The treatment, I
 
@@ -3453,39 +2884,27 @@ distinction between oneself and God Almighty, which is so easily
 
 overlooked."
 
-
-
 "Don't listen to any more of this rubbish," cried the Deputy-Governor.
 
 "If he says he shot Tallboys, we've got to take him up for it, I suppose.
 
 He ought to know."
 
-
-
 "You've hit it at last, Sir Harry," said Hume heartily, "I'm arousing a
 
 lot of dormant intellects this afternoon."
-
-
 
 "We won't have any more of your joking," cried Smythe with sudden fury;
 
 "I'm arresting you for attempted murder."
 
-
-
 "I know," answered the smiling tutor, "that's the joke."
-
-
 
 At this moment there was another leap and scurry by the sycamore and the
 
 boy Tom hurled himself back into the garden, panting aloud: "It's quite
 
 right. It's just where he said."
-
-
 
 For the rest of the interview, and until that strange group had broken up
 
@@ -3505,23 +2924,15 @@ was rather as if he believed what Hume had not said, rather than what he
 
 had.
 
-
-
 "It's a riddle," repeated Tom with stubborn solemnity. "He's awfully fond
 
 of riddles. He says silly things just to make you think. That's what
 
 we've got to do. He doesn't like you to give it up."
 
-
-
 "What we've got to do?" repeated Barbara.
 
-
-
 "Think what it really means," said Tom.
-
-
 
 There was some truth perhaps in the suggestion that Mr. John Hume was
 
@@ -3529,29 +2940,17 @@ fond of riddles, for he fired off one more of them at the Chief of
 
 Police, even as that official took him into custody.
 
-
-
 "Well," he said cheerfully, "you can only half hang me because I'm only
 
 half a murderer. I suppose you have hanged people sometimes?"
 
-
-
 "Occasionally, I'm sorry to say," replied Colonel Hayter.
-
-
 
 "Did you ever hang somebody to prevent him being hanged?" asked the tutor
 
 with interest.
 
-
-
-
-
 VI THE THING THAT REALLY HAPPENED
-
-
 
 IT is not true that Lord Tallboys wore his top-hat in bed, during his
 
@@ -3591,15 +2990,11 @@ filthy fools . . shooting him in the leg .. moderate murderer . . mouldy
 
 swine!"
 
-
-
 "He's not a mouldy swine," said Barbara Traill emphatically, as if it
 
 were an exact point of natural history. "I don't believe a word of what
 
 you people are saying against him."
-
-
 
 "Do you believe what he is saying against himself?" asked her uncle,
 
@@ -3617,8 +3012,6 @@ felt that they had never liked him so much before. It seemed almost as if
 
 there were some truth in the theory of the Moderate Murderer.
 
-
-
 On the other hand, Sir Harry Smythe, usually so much more good-humoured
 
 with his family, seemed to be in an increasingly bad humour. The dark red
@@ -3627,37 +3020,25 @@ of his complexion deepened, until by contrast there was something almost
 
 alarming about the light of his pale eyes.
 
-
-
 "I tell you of all these measly, meddlesome blighters," he began.
-
-
 
 "And I tell you you know nothing about it," retorted his sister-in-law.
 
 "He isn't a bit like that; he--"
 
-
-
 At this point, for some reason or other, it was Olive who intervened
 
 swiftly and quietly: she looked a little wan and worried.
 
-
-
 "Don't let's talk about all that now," she said hastily. "Harry has got
 
 such a lot of things to do. . . ."
-
-
 
 "I know what I'm going to do," said Barbara stubbornly. "I'm going to ask
 
 Lord Tallboys, as Governor of this place, if he will let me visit Mr.
 
 Hume and see if I can find out what it means."
-
-
 
 She had become for some reason violently excited and her own voice
 
@@ -3672,8 +3053,6 @@ staring, and hovering over all, with something approaching to an elvish
 mockery, the benevolent amusement of her uncle. She felt as if he had let
 
 out too much, or that he had gained a new subtlety of perception.
-
-
 
 Meanwhile John Hume was sitting in his place of detention, staring at a
 
@@ -3729,8 +3108,6 @@ was their saying he was mad and putting him under more humane and
 
 hygienic treatment.
 
-
-
 And indeed, anyone watching his demeanour for the next hour or so might
 
 be excused for entertaining doubts and fancies on the point. He was still
@@ -3740,8 +3117,6 @@ staring before him in a rather strange fashion. But he was no longer
 staring as if he saw nothing, but rather as if he saw something. It
 
 seemed to himself that, like a hermit in his cell, he was seeing visions.
-
-
 
 "Well, I suppose I am, after all," he said aloud in a dead and distinct
 
@@ -3763,35 +3138,23 @@ think that must have been a dream-that is supposing you weren't a dream
 
 and could think anything? But I did rather hope you were real then."
 
-
-
 "Don't!" said Barbara Trail, "I am real now."
-
-
 
 "Do you mean to tell me in cold blood that I am not mad," asked Hume,
 
 still staring at her, "and you are here?"
 
-
-
 "You are the only sane person I ever knew," she replied.
-
-
 
 "Good Lord," he said, "then I've said a good deal just now that ought
 
 only to be said in lunatic asylums-or in heavenly visions."
-
-
 
 "You have said so much," she said in a low voice, "that I want you to say
 
 much more. I mean about the whole of this trouble. After what you have
 
 said . . don't you think I might be allowed to know?"
-
-
 
 He frowned at the table and then said rather more abruptly: "The trouble
 
@@ -3801,13 +3164,9 @@ there is your family, and you might be brought into it, and one might
 
 have to hold one's tongue for the sake of someone you would care about."
 
-
-
 "Well," she said steadily, "I have been brought into it for the sake of
 
 someone I care about."
-
-
 
 She paused a moment and went on: "The others never did anything for me.
 
@@ -3818,8 +3177,6 @@ as I was finished at a fashionable school, they wouldn't have cared if
 I'd finished myself with laudanum. I never really talked to anybody
 
 before. I don't want to talk to anybody else now."
-
-
 
 He sprang to his feet; something like an earthquake had shaken him at
 
@@ -3833,8 +3190,6 @@ and starry eyes, as if she were older and wiser; and at the end only
 
 said: "You will tell me now."
 
-
-
 "You must understand," he said at last more soberly, "that what I said
 
 was true. I was not making up fairy-tales to shield my long-lost brother
@@ -3843,19 +3198,13 @@ from Australia, or any of that business in the novels. I really did put a
 
 bullet in your uncle, and I meant to put it there."
 
-
-
 "I know," she said, "but for all that I'm sure I don't know everything.
 
 I'm sure there is some extraordinary story behind all this."
 
-
-
 "No," he answered. "It isn't an extraordinary story, except an
 
 extraordinarily ordinary story."
-
-
 
 He paused a moment reflectively and then went on: "It's really a
 
@@ -3864,8 +3213,6 @@ particularly plain and simple story. I wonder it hasn't happened hundreds
 of times before. I wonder it hasn't been told in hundreds of stories
 
 before. It might so easily happen anywhere, given certain conditions.
-
-
 
 "In this case you know some of the conditions. You know that sort of
 
@@ -3899,8 +3246,6 @@ moment I saw something else. Well, I saw one thing, anyhow. I saw why
 
 Lady Smythe is worried, and wandered distracted in the garden."
 
-
-
 Barbara stared, but he went on: "Travelling along the path from the
 
 Governorate and towards the sycamore was a familiar shape. It just showed
@@ -3925,8 +3270,6 @@ over me in a cataract a solid, an overwhelming and a most shocking
 
 certainty.
 
-
-
 "I will not say much about that now. I will say as little as I can for
 
 the rest of my life. But there were things I knew and you probably don't
@@ -3948,8 +3291,6 @@ I reached the sycamore, I knew I was too late. He was already half-way
 down the grove of olives and no mortal runner could reach him before he
 
 came to the corner.
-
-
 
 "I felt a rage against the fool which a man looks against the background
 
@@ -3973,8 +3314,6 @@ is the sort of practical joke I played. I shot a man to prevent his being
 
 shot.
 
-
-
 "I put a bullet in his calf and he dropped, about two yards from the
 
 corner. I waited a moment and saw that people were coming out of the last
@@ -3989,17 +3328,11 @@ into trouble. Then I went home and waited till they summoned me to give
 
 evidence about Gregory."
 
-
-
 He concluded with all his normal composure, but the girl was still
 
 staring at him with an abnormal attention and even alarm.
 
-
-
 "But what was it all about?' she asked. "Who could have--?"
-
-
 
 "It was one of the best planned things I ever knew," he said. "I don't
 
@@ -4007,11 +3340,7 @@ believe I could have proved anything. It would have looked just like an
 
 accident."
 
-
-
 "You mean," she said, "that it wouldn't have been."
-
-
 
 "As I said before, I don't want to say much about that now, but . . .
 
@@ -4020,8 +3349,6 @@ Look here, you are the sort of person who likes to think about things.
 I'll just ask you to take two things and think about them, and then you
 
 can get used to the idea in your own way.
-
-
 
 "The first thing is this. I am a Moderate, as I told you; I really am
 
@@ -4032,8 +3359,6 @@ clubs say that, they generally forget that there really are different
 sorts of Extremists. In practice they think only of revolutionary
 
 Extremists.
-
-
 
 Believe me, the reactionary Extremists are quite as likely to go to
 
@@ -4048,8 +3373,6 @@ Ku-Klux-Klan as well as the Black Hand. And when a politician comes from
 London with a compromise in his pocket-it is not only Nationalists who
 
 see their plans frustrated.
-
-
 
 "The other point is more personal, especially to you. You once told me
 
@@ -4069,8 +3392,6 @@ room for one idea and take it literally. The sort of man who seems to be
 
 silent but stuffed to bursting, congested--"
 
-
-
 "I know," she said hastily; "you needn't say it, because I believe I
 
 understand everything now. Let me tell you two things also; they are
@@ -4081,17 +3402,11 @@ officer who has an order for your release . . and the Deputy-Governor is
 
 going home . . resignation on the grounds of ill-health."
 
-
-
 "Tallboys is no fool," said John Hume; "he has guessed."
-
-
 
 She laughed with a little air of embarrassment. "I'm afraid he has
 
 guessed a good many things," she said.
-
-
 
 What the other things were is no necessary part of this story, but Hume
 
@@ -4103,21 +3418,9 @@ protest. She said she did not believe that he could really be a Moderate
 
 after all.
 
-
-
-
-
-
-
 THE HONEST QUACK
 
-
-
-
-
 I THE PROLOGUE OF THE TREE
-
-
 
 MR. WALTER WINDRUSH, the eminent and eccentric painter and poet, lived in
 
@@ -4134,8 +3437,6 @@ first that he thought it quite remarkable enough to bring crowds from the
 ends of the earth to look at it, and, second, that if or when the crowds
 
 did come to look at it, he would not let them look.
-
-
 
 To begin with, he had not planted it at all. Oddly enough, it looked very
 
@@ -4167,8 +3468,6 @@ Beanstalk, had tried to haul the tree out of the earth by the hair of its
 
 head.
 
-
-
 Nobody indeed had ever planted this particular garden tree. It had grown
 
 like grass, and even like the wild grass of the wildest prairies. It was,
@@ -4195,8 +3494,6 @@ and it was not really so very long ago that the strange tree had stood
 
 alone on a windy and pathless heath.
 
-
-
 The circumstances of its ultimate preservation or captivity were as
 
 follows. Nearly half a lifetime before, it happened that Windrush, who
@@ -4220,8 +3517,6 @@ and the elder man especially showed some impatience to reach its shelter,
 as the wind was rising and dusk was falling over that rather desolate
 
 landscape.
-
-
 
 It was at this point that their progress was delayed by the highly
 
@@ -4261,27 +3556,19 @@ tree, to stare down into the straggling pools of water and then up to the
 
 wide cup or nest formed by the crown of boughs.
 
-
-
 "At first," he said at last, "I did not know what had happened to me. Now
 
 I understand."
 
-
-
 "Can't say I do," said his friend shortly, "unless it's going dotty. How
 
 long are you going to hang about here?"
-
-
 
 Windrush did not answer immediately; then he said: "Don't you know that
 
 all poets and painters and people like me are naturally Communists? And
 
 don't you know that, for the same reason, we're all naturally vagabonds?"
-
-
 
 "I confess," said their business adviser rather grimly, "that some of
 
@@ -4291,27 +3578,19 @@ vagabonds, I imagine that vagabonds at least have the virtue of getting a
 
 move on."
 
-
-
 "You don't understand me," said Windrush with a strange sort of dreamy
 
 patience; "I mean that I'm not a Communist now. I'm not a vagabond any
 
 more."
 
-
-
 There was a staring silence and then he said in the same tone: "I never
 
 before in all my life saw anything that I wanted to possess."
 
-
-
 "Do you really mean," expostulated the other, "that you would like to
 
 possess this one rotten old tree?"
-
-
 
 Windrush went on as if the other had not spoken. "I have never before
 
@@ -4328,8 +3607,6 @@ if by Alph the subterranean river and rising stark and clear of the
 clinging earth like the dead at the trump of doom. I have never seen
 
 anything like it. I do not really want to see anything else."
-
-
 
 There was perhaps some excuse for his freak of imagination, in the
 
@@ -4357,15 +3634,9 @@ pipe and tobacco pouch, rather as if he had just sat down in an arm-chair
 
 at the club.
 
-
-
 "May I ask what you are doing?" asked his friend.
 
-
-
 "I am acquiring squatter's rights," said the other.
-
-
 
 They both besieged him with remonstrances, and it became more and more
 
@@ -4385,8 +3656,6 @@ gravely for the advice and took out a piece of paper to note down the
 
 agent's name and address.
 
-
-
 "Meanwhile," said the commercial gentleman with great decision, "as this
 
 does not seem to me at all an agreeable place to squat in, you will have
@@ -4395,13 +3664,9 @@ to come and squat in the Three Peacocks if you want to do any further
 
 business with me."
 
-
-
 "Don't be a fool, Windrush," said his other companion sharply, "you can't
 
 really want to be left here all night."
-
-
 
 "That happens to be exactly what I do want," replied Windrush. "I have
 
@@ -4410,8 +3675,6 @@ seen the sun sink in my own private pool, and I want to see the moon rise
 out of it. You can't blame a prospective purchaser for testing the
 
 property under all conditions."
-
-
 
 The business friend had already turned away, and his dark, sturdy figure,
 
@@ -4429,13 +3692,9 @@ pipe with an apologetic word and pursued his friends with an entirely new
 
 style and gesture, bowing with sweeping motions of courtesy.
 
-
-
 "I beg your pardon," he said magnificently; "I do hope you will come down
 
 to my little place again. I fear I have failed in hospitality."
-
-
 
 After he had himself lingered a moment or two by the tree and then
 
@@ -4481,8 +3740,6 @@ sufficient serenity, until the coming of the great tragedy of his later
 
 life.
 
-
-
 The name of that tragedy was London. The endless expansion of the city
 
 came crawling over those hills and commons like a rising sea, and the
@@ -4523,11 +3780,7 @@ through long days and nights nothing ever stirred in that strange
 
 enclosure but its lonely master walking round and round his tree.
 
-
-
 II THE MAN WITH THE BLACK BAG
-
-
 
 ENID WINDRUSH, a very good-looking young woman with a brilliant shock of
 
@@ -4561,8 +3814,6 @@ most inexplicable cases of assault and battery in all the annals of
 
 crime.
 
-
-
 One of the men in question was tall and bearded, with rather long hair
 
 under a wide hat; he wore loose clothes and was walking with loose
@@ -4586,8 +3837,6 @@ clerk who prided himself on being punctual, but feared he was a little
 late. Anyhow, he seemed to look straight in front of him and to take no
 
 interest in anything but his goal.
-
-
 
 Quite suddenly he turned at right angles from the pavement, hurled
 
@@ -4643,8 +3892,6 @@ superstitious, but from which she had never been able entirely to
 
 emancipate herself. He was her father.
 
-
-
 By the time she arrived on the scene, or possibly because she had arrived
 
 on the scene, the violence of the pantomime had somewhat abated, but both
@@ -4661,25 +3908,17 @@ reticent than otherwise, and there was certainly nothing about him to
 
 explain his antic of attack.
 
-
-
 Nor indeed did he appear to think that the explanation was required from
 
 him.
-
-
 
 "Well!" he said, breathing hard, "of all the blasted old fools! ... Of
 
 all the damned doddering old donkeys. ..."
 
-
-
 "This man," declared Windrush with fiery hauteur, "criminally assaulted
 
 me in the middle of the road for no reason whatever and--"
-
-
 
 "That's what he says!" cried the young man in a sort of triumphant
 
@@ -4687,11 +3926,7 @@ derision. "For no reason whatever! And in the middle of the road! Oh, my
 
 green-eyed grandmother!"
 
-
-
 "Well, what reason?" began Miss Windrush, making an attempt to intervene.
-
-
 
 "Why, because he was in the middle of the road, of course!" exploded the
 
@@ -4711,8 +3946,6 @@ what's on the other side of this hill when they come over it, and if I
 
 hadn't happened to hear the car--"
 
-
-
 "The car!" said the artist with a grave and severe astonishment, as one
 
 who convicts a child of romancing. "What car?" He turned round in a
@@ -4721,25 +3954,17 @@ lordly manner and surveyed the street. "Where is this car?" he said
 
 sarcastically.
 
-
-
 "By the rate it was going at, I should say it was about seven miles
 
 away," said the other.
-
-
 
 "Why, of course it's quite true," said Enid, as a light broke upon her.
 
 "There was a car that came very fast over the hill, just as you--"
 
-
-
 "Just as I committed my criminal assault," said the young man in the
 
 top-hat.
-
-
 
 Walter Windrush was a gentleman and, what is by no means always the same
 
@@ -4767,8 +3992,6 @@ a good deal of the sublime liberty of the artistic life. Also, she had
 
 not been seized suddenly by the throat in the middle of the road.
 
-
-
 Cards and courtesies began to be exchanged; the young man learned with
 
 surprise that he had insulted or rescued a distinguished man of letters,
@@ -4778,8 +4001,6 @@ and the other learned that his insulter or rescuer was a young doctor,
 whose brass plate they had seen somewhere in the neighbourhood, inscribed
 
 with the name of John Judson.
-
-
 
 "Oh, if you're a doctor," said the poet, joking in a rather jerky
 
@@ -4795,8 +4016,6 @@ ledger. Why, if I had been half killed with the car, you could have
 
 finished me off with an operation."
 
-
-
 It seemed destined, from the first, that these two somewhat controversial
 
 characters should always say the wrong thing to each other. The young
@@ -4808,8 +4027,6 @@ answered: "Oh, I think we generally try to save anybody, in the street or
 the gutter or anywhere. Of course I didn't know I was saving a poet; I
 
 thought I was only saving an ordinary useful citizen."
-
-
 
 It must be admitted with regret that this was a sample of the common
 
@@ -4850,8 +4067,6 @@ and, as far as possible, treated it as if it were not there; even, as we
 have seen, to the extent of standing in the middle of a main road with
 
 his back to a motor-car.
-
-
 
 Dr. Judson was the sort of man of whom his more foolish friends say that
 
@@ -4895,21 +4110,15 @@ poet himself upon his own poetical eccentricity: the Tree, which the poet
 
 always talked of as the type of radiating energy in the universe.
 
-
-
 "But what's the good of it?" Judson would cry out of the depths of dark
 
 exasperation. "What's the use of having a thing like that?"
-
-
 
 "Why, no use whatever," replied his host. "I suppose it is quite useless
 
 as you understand use. But even if art and poetry have no use, it does
 
 not follow that they have no value."
-
-
 
 "But look here," the doctor would start in again, scowling painfully. "I
 
@@ -4923,8 +4132,6 @@ could go and see all the woods and forests in England-every blessed tree
 
 between Cornwall and Caithness."
 
-
-
 "Yes," retorted Windrush, "and wherever I went, I should see petrol-pumps
 
 instead of trees. That is the logical end of your great progress of
@@ -4935,8 +4142,6 @@ progress. Every spot of England is to be covered with petrol stations, so
 
 that people can travel about and see more petrol stations."
 
-
-
 "It's only a question of knowing their way about when they travel about,"
 
 insisted the doctor. "People born in the motoring age have got a new
@@ -4945,13 +4150,9 @@ motor-sense, and they don't mind these things so much as you think. I
 
 suppose that's the real difference between the generations."
 
-
-
 "All right," said the elder gentleman tartly. "Let us say you have all
 
 the motor-sense, and we have all the horse-sense."
-
-
 
 "Well," said the other, also with a sharpened accent. "If you'd had a
 
@@ -4959,13 +4160,9 @@ little more motor-sense, or any sort of sense, you wouldn't have been so
 
 bally near killed the other day."
 
-
-
 "If there were no motors at all," answered the poet calmly, "there would
 
 have been nothing to kill me."
-
-
 
 And then Dr. Judson would lose his temper and say the poet was cracked,
 
@@ -5003,8 +4200,6 @@ dim whirlpool might have guessed that there could arise out of it, in
 
 some strange hour of stress, a thing like a monster.
 
-
-
 Enid Windrush was a sufficient contrast to this intellectualism and
 
 secrecy, and seemed always walking in the sunlight. She was healthy,
@@ -5041,19 +4236,13 @@ dancing and fighting on the sunlit road against the white cloud; like two
 
 living letters of an alphabet struggling to spell out a word.
 
-
-
 III THE TRESPASSER IN THE GARDEN
-
-
 
 FOR various causes, which accumulated in his dark and brooding brain for
 
 the next day or two, Dr. Judson eventually summoned up all his courage
 
 and decided to go and consult Doone.
-
-
 
 That he referred to him in his mind in this fashion indicated no
 
@@ -5090,8 +4279,6 @@ cropped up, and how it had come to seem so important, it is necessary to
 return once more (after the habit of Dr. Judson) to the house of the poet
 
 Windrush.
-
-
 
 When last Dr. Judson had paid a call there, he had found the one thing in
 
@@ -5137,8 +4324,6 @@ in which a man dislikes another man for all that is repulsive and all
 
 that is attractive about him.
 
-
-
 The name of the gentleman from next door appeared to be Wilmot, and there
 
 was nothing to indicate that he had anything to do in the world except
@@ -5175,8 +4360,6 @@ the books, but Wilmot had read the newspapers. This naturally gave Wilmot
 
 a great advantage in discussion before any modern cultivated audience.
 
-
-
 The debate had arisen out of a chance boast of the poet touching his
 
 early experiments as a painter. He showed them some old rhythmic designs
@@ -5187,15 +4370,11 @@ hands simultaneously, and had sometimes begun to detect the beginnings of
 
 a difference or independence in the action of the two hands.
 
-
-
 "So you might end up, I suppose," said Wilmot smiling, "by drawing a
 
 caricature of your publisher with one hand while you worked out the
 
 details of a piece of town-planning with the other."
-
-
 
 "A new version," said Judson rather grimly, "of not letting your left
 
@@ -5203,15 +4382,11 @@ hand know what your right hand doeth. If you ask me, I should say it was
 
 a damned dangerous trick."
 
-
-
 "I should have thought," said the strange gentleman languidly, "that your
 
 friend Doone would have approved of a man using two hands, since his
 
 sacred ancestor the monkey actually uses four."
-
-
 
 Judson sprang up in his explosive way. "Doone deals with the brains of
 
@@ -5219,21 +4394,15 @@ men and monkeys, and uses his own like a man," he said. "I can't help it
 
 if some men prefer to use theirs like monkeys."
 
-
-
 When he had gone, Windrush appeared not a little annoyed with such abrupt
 
 manners, though Wilmot was entirely serene.
-
-
 
 "That young man is becoming insufferable," said the artist. "He turns
 
 every talk into an argument and every argument into a quarrel. What the
 
 devil does it matter to anybody what Doone really said?"
-
-
 
 To the scowling Dr. Judson, however, it did evidently matter very much
 
@@ -5252,8 +4421,6 @@ perhaps he had other motives or reasons mixed up in his mind. Anyhow, he
 went off stormily in the direction of that scientific shrine or tribunal,
 
 leaving Windrush angry, Wilmot supercilious and Enid puzzled and pained.
-
-
 
 The great West End mansion of Dr. Doone, with its classic and pillared
 
@@ -5289,8 +4456,6 @@ wander and run along the serried ranks of the bookcases, and Doone went
 
 on talking, as old men will, of old friends and of old enemies.
 
-
-
 "It was that egregious Grossmark," he was saying with reawakening
 
 animation, "who made the same absurd muddle of my meaning. Do you
@@ -5299,11 +4464,7 @@ remember Grossmark? Of all the extraordinary examples of what concerted
 
 boosting can do--"
 
-
-
 "Rather like the way Cubbitt is being boosted now," said Judson.
-
-
 
 "I dare say," said Doone rather irritably. "But Grossmark really made a
 
@@ -5317,17 +4478,11 @@ time, though he could not quite see that his time was past. But
 
 Grossmark-well, really!"
 
-
-
 And Dr. Doone settled himself back in his arm-chair and laughed genially.
-
-
 
 "Well," said Judson, "I am much obliged to you. I knew I should learn a
 
 great deal if I came here."
-
-
 
 "Not at all," said the great man, rising and shaking hands. "You say you
 
@@ -5336,8 +4491,6 @@ have been discussing it with Windrush, the landscape painter, I think. I
 met him years ago, but he would hardly remember me. An able man; but
 
 eccentric, very eccentric."
-
-
 
 Dr. John Judson came away from the house with a very thoughtful
 
@@ -5358,8 +4511,6 @@ which brought him to a standstill, staring up at it with a sort of stolid
 suspicion. For some instants he stood quite motionless, then crossed the
 
 road with catlike swiftness and peered round the corner of the house.
-
-
 
 Night had fallen and a large moon painted everything with pale colours.
 
@@ -5388,8 +4539,6 @@ glimmer of moonlight on the leaves. But the stranger in the street (if
 Dr. Judson may be so described) could at this moment see something else,
 
 and something that surprised him very much.
-
-
 
 A long, slim figure, dark against the moonshine, was most unmistakably
 
@@ -5423,11 +4572,7 @@ alighting with a graceful leap, greeted him with no shade of gloom in his
 
 condescension.
 
-
-
 "What the devil are you doing there?" asked Judson angrily.
-
-
 
 "Why, it's the doctor!" said the other, with an air of pleased surprise.
 
@@ -5435,15 +4580,11 @@ condescension.
 
 must be quite a case for a psychologist."
 
-
-
 "It seems to me to be a case for a policeman," said Dr. Judson. "May I
 
 ask what you are doing in Windrush's garden, which he likes to keep
 
 locked up-and anyhow, why you should leave it in that fashion?"
-
-
 
 "I might very well ask why you should ask," replied the other pleasantly.
 
@@ -5451,13 +4592,9 @@ locked up-and anyhow, why you should leave it in that fashion?"
 
 more than I am. But I assure you I don't want to quarrel, Dr. Judson."
 
-
-
 "You are taking a rum way to avoid it," said the doctor in a bellicose
 
 manner.
-
-
 
 The mysterious Mr. Wilmot drew near in a curious confidential manner that
 
@@ -5469,8 +4606,6 @@ you, doctor, that I have excellent authority, the best possible
 
 authority, for being in Windrush's garden."
 
-
-
 And with that the mystic neighbour appeared to melt into the shadows,
 
 presumably eventually vanishing into his own house next door, and Dr.
@@ -5478,8 +4613,6 @@ presumably eventually vanishing into his own house next door, and Dr.
 Judson turned abruptly and, walking up to the front door of the Windrush
 
 house, furiously rang the bell.
-
-
 
 Mr. Windrush was not at home. He had gone out to some grand banquet of
 
@@ -5513,13 +4646,9 @@ and prosaic life. She waited, rather as she would have sat watching a
 
 round, black bomb that was ticking and smoking in the parlour.
 
-
-
 At last he said in a harsh voice: "I wish I could see that tree your
 
 father's so fond of."
-
-
 
 "I'm afraid that's impossible," she said. "It's really the only point he
 
@@ -5529,37 +4658,25 @@ favourite tree--meaning a place of solitude for himself. But he says he
 
 won't lend anybody else his tree any more than his toothbrush."
 
-
-
 "This is all nonsense," said the doctor gruffly. "What would he do if I
 
 just jumped over a wall, or somehow went into his garden?"
-
-
 
 "I'm awfully sorry," she said in a wavering voice, "but if you came into
 
 his garden, you wouldn't ever come again into his house."
 
-
-
 Judson sprang to his feet and she felt somehow that the last click had
 
 sounded before the catch and the detonation.
-
-
 
 "And yet he allows Mr. Wilmot to go into his garden. The gentleman seems
 
 privileged in many ways."
 
-
-
 Enid sat staring at him for a few seconds without speech. "Allows Mr.
 
 Wilmot to go into his garden!" she repeated.
-
-
 
 "Thank God for that," said the doctor. "You don't seem to know anything
 
@@ -5571,15 +4688,11 @@ course, it's just possible . . . Here, wait a minute. . . . I'll let you
 
 know later.. . . Your father will forbid me the house! Will he?"
 
-
-
 And with that, this far from soothing medical practitioner bolted from
 
 the house as abruptly as he had come into it. It struck her that he must
 
 have a remarkable bedside manner.
-
-
 
 Enid dined alone, very thoughtfully revolving very complex and even
 
@@ -5610,8 +4723,6 @@ it disturbed her father, and she looked rather moodily out of the trench
 windows at the extreme end of the studio, into the gloom of the secluded
 
 garden.
-
-
 
 At first she was subconsciously puzzled that there should be anything
 
@@ -5647,8 +4758,6 @@ It was as if he were dumb like a fish, floating up to a porthole, and his
 
 face was as pale as the underside of the deep-sea fishes.
 
-
-
 The windows giving on to the garden were locked, like all such exits, but
 
 she knew where her father kept the keys, and in a moment they were open.
@@ -5659,15 +4768,11 @@ hoarse voice she had never heard from any human being: "Your father .. he
 
 must be mad."
 
-
-
 He stopped and seemed startled at his own words. Then he put his hands to
 
 his bulging brows, as if clutching his short, dark hair, and after a
 
 silence said, but with a different emphasis: "He must be mad."
-
-
 
 Enid's instinct told her that he had said two quite different things,
 
@@ -5677,11 +4782,7 @@ understand the difference between those two exclamations, or what had
 
 happened between them.
 
-
-
 IV THE DISEASE OF DUODIAPSYCHOSIS
-
-
 
 ENID WINDRUSH was a human being, a very human being. She had several
 
@@ -5709,8 +4810,6 @@ it was long before there came from him even the impatient reply: "Can't
 
 you see I'm thinking?"
 
-
-
 Then he jumped up in his energetic way and ran to one of the large,
 
 unfinished pictures and peered into it. Then, equally feverishly, he
@@ -5723,17 +4822,11 @@ say it, Miss Windrush. In plain words, your father is suffering from
 
 Duodiapsychosis."
 
-
-
 "Is that your notion of plain words?" she asked.
-
-
 
 He added in a low, hoarse voice: "It began as an example of Arboreal
 
 Atavism."
-
-
 
 It is an error for the man of science to lapse into being intelligible.
 
@@ -5741,13 +4834,9 @@ The last two words were sufficiently familiar, in an age of popular
 
 science, to cause the lady to leap up like a leaping flame.
 
-
-
 "Have you the impudence to suggest," she cried, "that my father ever
 
 wanted to live in a tree like a monkey?"
-
-
 
 "What other explanation is there?" he said gloomily. "This is a very
 
@@ -5777,13 +4866,9 @@ evolutionary origin of man. It can only have been an anthropoid appetite.
 
 It is a melancholy but most convincing example of Doone's Law."
 
-
-
 "What is all this nonsense?" cried Enid. "Do you imagine my father had
 
 never seen a tree before?"
-
-
 
 "You must remember," replied the other in the same hollow and hopeless
 
@@ -5801,31 +4886,21 @@ unfortunately the case has since grown more complex. It has developed
 
 into a case of Semi-Quadrumanous Ambidexterity."
 
-
-
 "That's not what you said before," she said suspiciously.
-
-
 
 "I admit," he said, with a shudder, "that it is in a sense a discovery of
 
 my own."
 
-
-
 "And I suppose," she said, "you are so fond of your horrible discoveries
 
 that you would sacrifice anybody to them-my father or me."
-
-
 
 "Not sacrifice you. Save you," said Judson, and shuddered again. Then he
 
 mastered himself with an effort, and went on in the same maddening
 
 mechanical tone like that of a lecturer.
-
-
 
 "The anthropoid reaction carries with it an attempt to recover the use of
 
@@ -5837,13 +4912,9 @@ paint with both hands. At a later stage he would probably attempt also to
 
 paint with his feet."
 
-
-
 They stared across at each other; it measures the horror of that
 
 interview that neither of them laughed.
-
-
 
 "The result," went on the doctor, "the really dangerous result lies in a
 
@@ -5857,11 +4928,7 @@ unconscious of what is attempted by the other part. Such a person is not
 
 responsible . . and really should be under supervision."
 
-
-
 "I will not believe a word of all this," said the lady angrily.
-
-
 
 He lifted one finger and pointed in a sombre manner at the sombre
 
@@ -5870,8 +4937,6 @@ canvases and frames of brown paper that hung above them, on which were
 traced in vortical lines and lurid colours the visions of the
 
 ambidextrous artist.
-
-
 
 "Look at those pictures," he said. "Look at them long enough and you will
 
@@ -5887,13 +4952,9 @@ wheel. Though a tree has branches on each side, they are not the same on
 
 each side. And that is where the curse and the creeping peril begins."
 
-
-
 This time there was a deadly silence, which he himself broke by going on
 
 with the lecture.
-
-
 
 "The attempt to render the variation of branches by simultaneous
 
@@ -5903,19 +4964,13 @@ continuity, a breach of responsible moral control and co-ordinated
 
 consecutive conservation--"
 
-
-
 In the black storm of her mind she had a lightning blaze of intuition and
 
 said: "Is this a sort of revenge?"
 
-
-
 He stopped in the very middle of a polysyllable and turned pale to the
 
 lips.
-
-
 
 "Have you come to the end of your long words, you liar and quack and
 
@@ -5925,21 +4980,15 @@ I don't know why you're trying to make out my father isn't responsible?
 
 Because I told you he could turn you out of the house . . because ..."
 
-
-
 The pale lips seemed to move as if with a grin of agony: "And why should
 
 I mind that?"
-
-
 
 "Because," she began and then stopped dead. An abyss had opened in
 
 herself into which she did not look. For a moment he sat on the sofa
 
 stiff as a corpse and then suddenly the corpse came to life.
-
-
 
 "Yes!" he cried, leaping up. "You are right! It is you. It is you all the
 
@@ -5951,8 +5000,6 @@ swear to God I am afraid he will kill you! And how should I live after
 
 that?"
 
-
-
 She was so astounded at this burst of passion after all the pedantry,
 
 that for the first time something broke or wavered in her hard voice and
@@ -5961,21 +5008,15 @@ she could only say: "If it is me you are thinking about, you must leave
 
 him alone."
 
-
-
 And with that a sort of stony detachment suddenly settled back upon him
 
 and he said, in a voice that seemed a hundred miles away: "You forget
 
 that I am a doctor. I have in any case a duty to the public."
 
-
-
 "And now I know you are a skunk and a scoundrel," she said. "They always
 
 have a duty to the public."
-
-
 
 And then, in the silence that followed, they both heard the sounds which
 
@@ -5997,17 +5038,11 @@ artist looked across his studio, he saw the windows open and the
 
 festivity faded from his face.
 
-
-
 "I have just walked through your garden," said the doctor in a soft
 
 voice.
 
-
-
 "Then you will kindly walk out of my house," said the artist.
-
-
 
 He had turned pale with anger or some other passion, but he spoke clearly
 
@@ -6015,27 +5050,19 @@ and firmly. After a silence he said: "I must ask you to cease from any
 
 communications with me and my family."
 
-
-
 Judson started and stepped forward with a violent gesture which he
 
 checked as he made it. But his voice broke out of him like something
 
 beyond his control.
 
-
-
 "You say I am to go out of this house. I say it is you who shall go out
 
 of this house!"
 
-
-
 Then, as if grinding his teeth, he added with what seemed inconceivable
 
 intellectual cruelty: "I am going to have you certified as a lunatic."
-
-
 
 He walked furiously out of the room towards the front door, and Windrush
 
@@ -6044,8 +5071,6 @@ turned to his daughter. She was staring at him with wide eyes, but her
 colour was such that he thought, for the fraction of an instant, that she
 
 was dead.
-
-
 
 Of the next frightful forty-eight hours in which the threat was carried
 
@@ -6085,8 +5110,6 @@ that riveted her eye. And even as she gazed, the next-door neighbour, Mr.
 
 Wilmot, came out of his front door with a light suitcase in his hand.
 
-
-
 She felt a sudden impulse to consult him, perhaps it was an impulse to
 
 consult anybody. But he had always seemed to be a man of many types of
@@ -6115,8 +5138,6 @@ wisps that looked like whiskers but the face underneath had so altered in
 
 expression that one might almost fancy the whiskers were part of a wig.
 
-
-
 Dazed and doubtful in a new fashion, she felt impelled to put her point
 
 in a more impersonal way, and asked whether he could give any advice to a
@@ -6127,8 +5148,6 @@ Could he tell her if there was such a disease, as she knew he knew a lot
 
 about those things?
 
-
-
 He admitted that he knew a little about those things. But he still seemed
 
 hurried-courteously but convincingly hurried. He looked it up in a work
@@ -6137,13 +5156,9 @@ of reference, turning the pages very rapidly; no, he doubted whether
 
 there was any such thing.
 
-
-
 "It seems to me," he said, looking gravely at her through his spectacles,
 
 "that your friend may be the victim of a quack."
-
-
 
 With that repetition of her suspicions, she turned homewards and he
 
@@ -6156,8 +5171,6 @@ well-known residents. But she did think it odd that he said to the
 policeman, as he went off: "There's one thing more I must make sure of.
 
 Unless I wire, things can go forward here as arranged."
-
-
 
 When she came back to her own house, she knew it was something worse than
 
@@ -6181,13 +5194,9 @@ she gathered from the conversation that his name was Doone. The other
 
 doctor was the abominable John Judson.
 
-
-
 She had paused an instant just outside the room and heard the tail-end of
 
 their scientific talk.
-
-
 
 "You and I know, of course," Judson was saying, "how much the mere idea
 
@@ -6197,19 +5206,13 @@ superseded by vertical division of the mind. But the layman has hardly
 
 heard yet of the new double or ambidextrous consciousness."
 
-
-
 "Quite so," said Dr. Doone in a level and soothing voice.
-
-
 
 He had a very soothing voice, and with it he earnestly did his best to
 
 soothe Enid Windrush. He really seemed to be profoundly touched with the
 
 tragedy of her position.
-
-
 
 "I cannot expect you to believe how much I feel for your misfortunes," he
 
@@ -6229,11 +5232,7 @@ friends. These things are very terrible, my child, but perhaps we may all
 
 draw nearer to each other in--"
 
-
-
 "Oh, sign the thing and be done," said Dr. Judson rudely.
-
-
 
 "Be silent, sir," said Doone, with fine dignity and indignation. "If you
 
@@ -6243,29 +5242,19 @@ misfortune, I, at least, have more experience. Miss Windrush, I am
 
 sorry."
 
-
-
 He held out his hand and Enid stood hesitating and then retreated like
 
 one distraught; so distraught that she actually turned to Dr. Judson.
-
-
 
 "Send that man away," she cried with the shrillness of hysteria. "Send
 
 him away! He is more horrible even than--"
 
-
-
 "More horrible than--" repeated Judson, waiting,
-
-
 
 She looked at him with a wild inscrutable stare and said: "More horrible
 
 than you."
-
-
 
 "Have you signed that damned thing yet?" said Judson, boiling with
 
@@ -6274,8 +5263,6 @@ impatience. But, even as they had turned away from him, Doone had signed
 the paper and Judson snatched it up with furious haste and ran out of the
 
 house.
-
-
 
 And then she saw something that finally put him beyond pardon. For as he
 
@@ -6286,8 +5273,6 @@ like a boy on a holiday; like a man who has at last got what he wanted.
 She felt she could have forgiven him everything except that last little
 
 leap of joy.
-
-
 
 Some time after-she could not have said how long-she still sat staring
 
@@ -6303,11 +5288,7 @@ uncomfortable explanations, announced that they had a warrant for the
 
 arrest of Walter Windrush on a charge of murder.
 
-
-
 V THE SECRET OF THE TREE
-
-
 
 THE motives of the simple are more subtle than those of the subtle. The
 
@@ -6327,8 +5308,6 @@ something more crushing and complicated than she could carry alone, and
 
 she must have a friend.
 
-
-
 She therefore went straight out of the front door and down the road to
 
 find a friend. She went to find a charlatan, a schemer, a grotesque lying
@@ -6347,29 +5326,19 @@ of her strange story and spoke to him quite naturally, as if he were her
 
 brother.
 
-
-
 "I wish you would come back to our place a moment," she said. "Another
 
 ghastly thing has happened now and I can't make head or tail of
 
 anything."
 
-
-
 He turned promptly and threw a sharp glance up the street.
 
-
-
 "Ah," he said, "then the police have come already."
-
-
 
 She stared at him speechless for a moment, as a light gradually began to
 
 break upon her rocking brain.
-
-
 
 "Did you know they were coming?" she cried; and then in a final universal
 
@@ -6381,35 +5350,23 @@ the expression of incredulous astonishment: "But aren't you wicked,
 
 then?"
 
-
-
 "Only moderately so," he replied. "But I dare say what I did would be
 
 considered indefensible. It was the only thing I could think of to save
 
 him. It had to be done in rather a hurry."
 
-
-
 She drew a deep breath and there dawned upon her gradually, like
 
 something seen in the distance, a memory and a meaning.
-
-
 
 "Why, I see now," she said. "It was just like what you did, when you
 
 shoved him from under the car."
 
-
-
 "I'm afraid I'm impetuous," said Judson, "and perhaps I jump too soon."
 
-
-
 "But on both occasions," she said, "you only jumped just in time."
-
-
 
 Then she went into the house alone; her mind was still stratified with
 
@@ -6418,8 +5375,6 @@ terror; the notion of her father as a monkey, as a lunatic, as something
 worse. And yet in a corner of her sunken subconscious soul something was
 
 singing, because her friend was not so wicked after all.
-
-
 
 Ten minutes later, when Inspector Brandon, a sandy-haired representative
 
@@ -6435,8 +5390,6 @@ the late peril and crisis, could have recognized him, in the placid
 
 impenetrable friend of the family who now sat facing the policeman.
 
-
-
 "I am sure, Inspector, that you agree with me in wishing to spare the
 
 unfortunate lady as far as possible," he said smoothly. "I happen to be
@@ -6451,8 +5404,6 @@ your way in doing your duty. I hope you have no objection, for the
 
 moment, to explaining the general nature of your business to me."
 
-
-
 "Well, sir," said the Inspector, "so far as that is concerned, it's
 
 generally rather a relief in these cases to be able to talk to a third
@@ -6461,27 +5412,17 @@ party. But you'll understand, of course, that I shall expect you to talk
 
 straight."
 
-
-
 "I'll talk straight enough," answered the doctor coolly. "I understand
 
 you have a warrant for the arrest of Mr. Walter Windrush."
 
-
-
 The policeman nodded.
-
-
 
 "For the murder of Isaac Morse," he said. "Do you know where Windrush is
 
 at present?"
 
-
-
 "Yes," said Judson gravely, "I know where Windrush is at present."
-
-
 
 He looked across the table tranquilly, with level brows, and added: "I
 
@@ -6489,19 +5430,13 @@ will tell you, if you like. I will take you to him, if you like. I know
 
 exactly where he is just now."
 
-
-
 "We mustn't have any hiding or hanky-panky, you know," said the
 
 Inspector. "You will be taking a serious responsibility, if there's any
 
 chance that he will escape."
 
-
-
 "He will not escape." said Dr. Judson.
-
-
 
 There was a silence, which was broken by a slight scurry outside and a
 
@@ -6511,13 +5446,9 @@ official read it with a frown of surprise, and then looked across at his
 
 companion.
 
-
-
 "This comes opportunely in one sense," he said. "It seems to justify our
 
 pausing for an explanation, if you're quite sure of what you say."
-
-
 
 He handed the telegram to the doctor, who read with his rapid glance the
 
@@ -6525,25 +5456,17 @@ words: DON'T DO ANYTHING ABOUT W. W. TILL I COME. SHALL BE ROUND IN HALF
 
 AN HOUR. HARRINGTON.
 
-
-
 "That is from my superior officer." said the official. "The chief
 
 detective who has been studying this matter on the spot. Indeed, one of
 
 the chief detectives in the world today, I suppose."
 
-
-
 "Yes," said the doctor, dryly. "Didn't Mr. Harrington pursue his studies
 
 under the name of Mr. Wilmot? And live next door?"
 
-
-
 "You seem to know a thing or two," said Inspector Brandon with a smile.
-
-
 
 "Well, your friend behaved so much like a burglar that I guessed he must
 
@@ -6553,8 +5476,6 @@ found it wasn't the authority of the family, so I assumed it was probably
 
 the authority of the law."
 
-
-
 "Whatever he said was pretty sound, you may be certain," said the other.
 
 "Harrington is pretty nearly infallible in the long run. And in this case
@@ -6562,8 +5483,6 @@ the authority of the law."
 he was certainly justified by what he found, though nobody would ever
 
 have guessed it."
-
-
 
 "What he found," said the doctor, "was the skeleton of a man, stuffed
 
@@ -6573,17 +5492,11 @@ marked by an unmistakable injury to the occiput, done by violence and
 
 inflicted with the left hand."
 
-
-
 Brandon stared across at him. "And how do you know that he found that?"
 
 he asked.
 
-
-
 "I know because I found it myself," answered Judson.
-
-
 
 There was a pause, and then he added: "Yes, Inspector, it is quite true
 
@@ -6598,8 +5511,6 @@ moment, and I may be in a position to help, do you mind doing me a favour
 in return? Will you tell me the whole story? Or perhaps I should say the
 
 whole theory?"
-
-
 
 The face of Brandon of the C.I.D was not only humorous and good-humoured;
 
@@ -6621,8 +5532,6 @@ seen it twenty times. Suppose a real Man of Genius wanted to commit a
 
 crime?"
 
-
-
 He ruminated a little and then went on. "From our point of view, the
 
 great problem in any crime of killing is always what to do with the body.
@@ -6639,8 +5548,6 @@ And in the study of such stories, this story does stand out as the very
 
 extraordinary and yet effective expedient of what I call a Man of Genius.
 
-
-
 "Isaac Morse flourished about twenty years ago as a financial agent and
 
 adviser; I imagine you know what that means. In fact he flourished as a
@@ -6656,8 +5563,6 @@ people whose circumstances were not so flourishing. Among these were two
 students; the one, who was a less interesting person, was a medical
 
 student named Duveen. The other was an art student named Windrush.
-
-
 
 "The financial adviser was imprudent enough to leave his car and
 
@@ -6709,8 +5614,6 @@ his solitary figure looked as tragic as Cain, and the pools under the red
 
 sunset looked like blood.
 
-
-
 "The rest of his audacious scheme, or artistic pose, worked easily
 
 enough. By bragging of being cranky, he escaped all chance of the
@@ -6725,15 +5628,11 @@ examine the tree, he locked everybody out of the garden. Except
 
 Harrington-and, apparently, you."
 
-
-
 "I suppose," said Judson, "that Harrington, or Wilmot, or whatever you
 
 call him, told you that the artist admitted being ambidexterous-doing
 
 things with his left hand as well as his right."
-
-
 
 "Quite so," replied the Inspector. "Well, Dr. Judson, I have obliged you
 
@@ -6745,21 +5644,13 @@ you are bound to return the favour. This is a deadly serious business. It
 
 is a hanging matter."
 
-
-
 "No," said Dr. Judson thoughtfully; "not a hanging matter."
-
-
 
 As the other only stared he added, still in a meditative style: "You will
 
 never hang Walter Windrush."
 
-
-
 "What do you mean?" demanded the officer, in a new sharp voice.
-
-
 
 "Because," said the doctor, beaming at him, "Walter Windrush has been in
 
@@ -6773,8 +5664,6 @@ noted the symptom of ambidexterous action and a somewhat excessive
 
 development of power in the left hand."
 
-
-
 Inspector Brandon was staring like one stunned at the brisk and smiling
 
 doctor, who rose to his feet as if the interview were over. But even as
@@ -6787,13 +5676,9 @@ long, smiling visage of the gentleman he had so heartily disliked under
 
 the name of Mr. Wilmot.
 
-
-
 "Back again," said Wilmot, or Harrington, his smile widening to a grin,
 
 "and apparently just in time."
-
-
 
 The Inspector had recovered from his stupefaction and his senses and
 
@@ -6801,19 +5686,13 @@ perceptions were quick enough. He got to his feet quickly and said: "Is
 
 anything the matter?"
 
-
-
 "No," said the great detective; "nothing is the matter. Except that we
 
 are after the wrong man."
 
-
-
 And he settled himself comfortably in a chair and smiled at the
 
 Inspector.
-
-
 
 "The wrong man!" repeated Brandon. "You can't mean that Windrush is the
 
@@ -6821,21 +5700,15 @@ wrong man! I've just been taking the liberty of telling Dr. Judson the
 
 real story--"
 
-
-
 "Under the impression," said Harrington, "that you knew the real story.
 
 For my part, I never knew it till about twenty minutes ago."
-
-
 
 His face and manner were eminently cheerful; but as he turned to speak to
 
 the doctor, they took on a sort of business-like gravity and he seemed to
 
 choose and weigh his words.
-
-
 
 "Doctor," he said, "you are a man of science and you understand what
 
@@ -6847,15 +5720,11 @@ you must have had the experience of building up a very elaborate, a very
 
 complete and even a very convincing theory."
 
-
-
 "Why, yes," said John Judson, with a grim smile; "I have certainly had
 
 the experience of building up a very elaborate, very complete and even
 
 convincing theory."
-
-
 
 "But," went on the detective thoughtfully, "as a man of science, you were
 
@@ -6863,15 +5732,11 @@ nevertheless ready to entertain the possibility, even if it were the
 
 remote possibility, that your theory was after all untrue."
 
-
-
 "You are right again," said Judson, and the smile grew grimmer. "I was
 
 ready to entertain the remote possibility that my theory was quite
 
 untrue."
-
-
 
 "Well, I take full responsibility for the unexpected collapse of my
 
@@ -6887,17 +5752,11 @@ There's really nothing to be said against it, except that it can't be
 
 true. Everything has a little weakness somewhere."
 
-
-
 "But why can't it be true?" asked the astonished Brandon.
-
-
 
 "Only," answered his commanding officer, "because I have just discovered
 
 the real murderer."
-
-
 
 Amid the startled silence that followed he added, as in a pleasant
 
@@ -6913,8 +5772,6 @@ I have found the other student. Naturally, you know rather less about the
 
 other student."
 
-
-
 "Pardon me," said the Inspector stiffly; "of course, we traced the
 
 movements of the other student, and of everybody who could be involved.
@@ -6925,25 +5782,17 @@ York on business and thence to the Argentine, where he set up a
 
 successful and highly respectable practice as a doctor."
 
-
-
 "Exactly," said Harrington. "He did the dull, ordinary thing that the
 
 real criminal does. He bolted."
-
-
 
 Dr. Judson seemed to find his voice for the first time since the last
 
 turn of events, and it was like the voice of a new man.
 
-
-
 "Are you quite certain," he said at last, "that Windrush is innocent
 
 after all?"
-
-
 
 "I am quite certain," said Harrington seriously. "This is not a
 
@@ -6965,25 +5814,17 @@ special knowledge. He is a surgeon and a skilful man. He is also a
 
 left-handed man."
 
-
-
 "If you are certain, sir, the thing is settled," said the Inspector
 
 rather regretfully. "As Dr. Judson has explained, the left-handed
 
 business was also a part of the disease or aberration of Windrush--"
 
-
-
 "You will agree that I never said I was certain about Windrush," said
 
 Harrington calmly; "I do say I am certain now."
 
-
-
 "Doctor Judson says--" began the Inspector.
-
-
 
 "Dr. Judson says," said that physician himself, springing up like a
 
@@ -7001,11 +5842,7 @@ Duodiapsychosis! Huh!" And he snorted with a violent and indescribable
 
 noise.
 
-
-
 "This is very extraordinary," said Inspector Brandon.
-
-
 
 "I bet it is," said the doctor. "We all seem to have made pretty damned
 
@@ -7019,13 +5856,9 @@ some sort of document admitting a mistake, or announcing a recovery, or
 
 some nonsense, and get him out again."
 
-
-
 "But," said Harrington gravely, "I understood that no less a person than
 
 Dr. Doone also signed the emergency order, and his authority--"
-
-
 
 "Doone!" cried Judson with a quite indescribable frenzy of contempt,
 
@@ -7049,13 +5882,9 @@ dared not question. I had great fun with something newer than
 
 Psycho-analysis."
 
-
-
 "All the same," said Harrington, "as Dr. Doone has signed the order,
 
 he'll have to sign the countermanding of it."
-
-
 
 "Oh, very well," cried the impetuous Judson, who had already scribbled
 
@@ -7063,11 +5892,7 @@ something on a page and was already rushing from the room, "I'll cut
 
 round and get him to sign it, too."
 
-
-
 "I think I should rather like to go with you," said Harrington.
-
-
 
 In the track of the headlong Judson, they trailed round with tolerable
 
@@ -7087,11 +5912,7 @@ recantation, and, carelessly picking up a quill pen, he signed the paper
 
 with his left hand.
 
-
-
 VI THE EPILOGUE OF THE GARDEN
-
-
 
 A FORTNIGHT afterwards, Mr. Walter Windrush was walking round his
 
@@ -7106,8 +5927,6 @@ Walter Windrush, which neither medical non legal experts were ever in the
 least likely to fathom. That was the real Secret, which no detective
 
 would ever detect.
-
-
 
 He had been turned into a monstrosity in the eyes of his nearest and
 
@@ -7141,8 +5960,6 @@ if in another world. It is possible that Inspector Brandon did not
 
 completely comprehend the monster called a Man of Genius.
 
-
-
 Indeed, he was much less affected by the morbid memories than the man of
 
 common sense. When he had strolled about alone for a few moments, he was
@@ -7153,8 +5970,6 @@ comparatively gloomy and embarrassed; so much so that the artist rallied
 
 him about it.
 
-
-
 "Well," said Dr. Judson, with something of his old sort of sullen
 
 candour, "I ought to be ashamed of it, I suppose, as well as of
@@ -7162,8 +5977,6 @@ candour, "I ought to be ashamed of it, I suppose, as well as of
 everything else. But I confess I can't think how you can bear to hang
 
 about in the place."
-
-
 
 "My dear fellow, and you are the cold and rational man of science," said
 
@@ -7180,8 +5993,6 @@ sanatorium for a day or two. I was quite happy there, and as for the
 lunatics, well I came to the conclusion that they were rather saner than
 
 my friends outside."
-
-
 
 "There's no need to rub it in," said Judson with a groan. "I won't
 
@@ -7223,23 +6034,15 @@ the horrors I made up, even though they were horrors that never happened.
 
 But what must one feel about the horrors that really have happened?"
 
-
-
 "Well," replied the artist cheerfully, "and what do you feel about them?"
-
-
 
 "I can't help feeling," said Judson, "that men might avoid the place like
 
 a plague-spot."
 
-
-
 "The birds perch on the tree," said Windrush, "as if it were the shoulder
 
 of St. Francis."
-
-
 
 There was a silence and then the brooding Judson said: "After all, sir,
 
@@ -7251,17 +6054,11 @@ pretty quickly, because the stream carried away the decomposition, but
 
 you might have been pulling the tree about any day."
 
-
-
 Walter Windrush looked at him steadily with his clear, glassy eyes.
-
-
 
 "I have never even touched the tree," he said. "I have never been within
 
 two yards of it."
-
-
 
 Something in his manner suggested to the young man that they had come
 
@@ -7277,13 +6074,9 @@ believe in Adam and Eve. Above all, you do not believe in the Forbidden
 
 Tree."
 
-
-
 The doctor shook his head in half-humorous deprecation, but the other
 
 went on with the same grave fixity of gaze.
-
-
 
 "But I say to you, always have in your garden a Forbidden Tree. Always
 
@@ -7295,13 +6088,9 @@ story you call a fable. But you will evolve and explore and eat of the
 
 tree of knowledge, and what comes of it?"
 
-
-
 "Well," said the doctor defensively, "a good many things have come of it
 
 that are not so bad."
-
-
 
 "My friend," said the poet. "You once asked me what was the Use of this
 
@@ -7335,8 +6124,6 @@ nightmare. But I repeat that it was useless to me, and I am still in the
 
 broad daylight."
 
-
-
 As he spoke, Judson looked up across the lawn and saw Enid Windrush come
 
 out of the shadow of the house into the sun. Something in the golden
@@ -7363,25 +6150,17 @@ man. He doesn't believe in Adam and Eve or anything they tell you about
 
 on Sundays."
 
-
-
 The young man said nothing; at that moment he was wholly occupied with
 
 seeing.
 
-
-
 "I don't know whether there are any snakes about," she said, laughing.
-
-
 
 "Some of us," said Judson, "have been in the sort of delirium in which
 
 men see snakes. But I think we are all cured now, and there are other
 
 things to see."
-
-
 
 "I suppose you would say," said Windrush dreamily, "that we have evolved
 
@@ -7401,17 +6180,11 @@ cigarette's gone out. I think I must go and smoke in the library
 
 henceforward."
 
-
-
 "Why do you say henceforward?"
-
-
 
 They did not hear his answer as he walked away, but he said: "Because it
 
 is The Garden of Eden."
-
-
 
 A sudden silence fell between the two who were left facing each other on
 
@@ -7421,29 +6194,19 @@ with great gravity said: "In one respect your father underrates my
 
 orthodoxy."
 
-
-
 Her own smile grew a little graver as she asked him why he said so.
-
-
 
 "Because I do believe in Adam and Eve," answered the man of science, and
 
 he suddenly seized both her hands.
 
-
-
 She left them where they were and continued to gaze at him with an utter
 
 stillness and steadiness. Only her eyes had altered.
 
-
-
 "I believe in Adam," she said, "though I was once quite firmly convinced
 
 that he was the Serpent."
-
-
 
 "I never thought you were the Serpent," he answered in the same new tone
 
@@ -7451,17 +6214,11 @@ of musing, that was almost mystical, "but I thought you were the Angel of
 
 the Flaming Sword."
 
-
-
 "I have thrown away the sword," said Enid Windrush.
-
-
 
 "And left only the angel," he answered, and she rejoined: "Left only the
 
 woman."
-
-
 
 On the top of the once accursed tree a small bird burst into song, and at
 
@@ -7479,19 +6236,9 @@ net of some resisting Nothing that obstructs creation, and God had made a
 
 new garden and they stood alive on the first foundations of the world.
 
-
-
-
-
-
-
 THE ECSTATIC THIEF
 
-
-
 I THE NAME OF NADOWAY
-
-
 
 THE name of Nadoway was in one sense famous, and even after a fashion,
 
@@ -7545,8 +6292,6 @@ advertisements, which seemed to surround Nadoway with flamboyant
 
 pageantry and splendid heraldic and historic processions.
 
-
-
 In the midst of all this encircling blazonry and blowing of trumpets,
 
 there was nothing but a little, plain, hard-faced man with a grey,
@@ -7575,8 +6320,6 @@ being the Honourable Millicent's patron. The Honourable Millicent could
 
 not afford the luxury of not being Mr. Nadoway's secretary.
 
-
-
 It was, however, a luxury of which she sometimes had golden dreams. Not
 
 that old Nadoway treated her badly, or even paid her badly, or would have
@@ -7600,8 +6343,6 @@ yet she had found friends there, and had once been even in danger of
 finding not only friends but a friend. Perhaps, at one time, not only a
 
 friend.
-
-
 
 Nadoway had two sons, who went to school and college, and in the
 
@@ -7643,8 +6384,6 @@ wrong with life. It seemed somehow as if he was always growing bigger and
 
 growing smaller.
 
-
-
 Norman Nadoway, on the other hand, began to be interesting just about the
 
 moment when Jack Nadoway began to be uninteresting. He was one that
@@ -7681,8 +6420,6 @@ and practised. It was so different that his father, in a memorable
 
 explosion at the breakfast-table, described it as Socialism.
 
-
-
 "Somebody must go down to Cambridge and stop him!" said the elder Mr.
 
 Nadoway fidgeting in his chair and rapping restlessly on the table. "You
@@ -7690,8 +6427,6 @@ Nadoway fidgeting in his chair and rapping restlessly on the table. "You
 must go and talk to him, John; or you must bring him here and I'll talk
 
 to him. Otherwise the business will simply go smash."
-
-
 
 Both parts of the alternative programme apparently had to be carried out.
 
@@ -7704,8 +6439,6 @@ him back to Jacob Nadoway, that Jacob might talk to him. Jacob was in no
 way reluctant to do so, and yet the interview did not turn quite as he
 
 had intended. Indeed, it was a rather puzzling interview.
-
-
 
 It took place in old Jacob's study, which looked out through round
 
@@ -7753,8 +6486,6 @@ interview, even Mr. Sitwell could write a poem about Mr. Nadoway, I will
 
 not undertake to decide.
 
-
-
 Millicent Milton had come through the garden to the study, at about the
 
 same moment as the junior partner arrived there. She was tall and fair
@@ -7775,19 +6506,13 @@ becoming very domestic. But old Nadoway motioned her back with irritable
 
 reassurance and she remained the spectator of the whole scene.
 
-
-
 Old Nadoway had barked out rather abruptly, like one bothered for the
 
 first time: "But I thought you two had had a talk."
 
-
-
 "Yes, father," said John Nadoway, looking at the carpet, "we have had a
 
 talk."
-
-
 
 "I hope you got Norman to see," went on the old man in a milder tone,
 
@@ -7803,8 +6528,6 @@ everywhere that my methods are not fit for a dog? Is it reasonable?
 
 Didn't John explain to you that it's not reasonable?"
 
-
-
 The large, pale face of the curate, rather to everybody's surprise,
 
 wrinkled into a dry smile, and he said: "Yes, Jack explained a great deal
@@ -7813,19 +6536,11 @@ of that to me, but I also did a little explaining. I explained, for
 
 instance, that I have a business, too."
 
-
-
 "What about your father's business?" asked Jacob.
-
-
 
 "I am about my Father's business," said the priest in a hard voice.
 
-
-
 There was a glaring silence, broken rather nervously.
-
-
 
 "The fact is, father, it won't do," said John Nadoway heavily, and still
 
@@ -7833,15 +6548,11 @@ studying the carpet. "I believe I said everything for you you could have
 
 said yourself. But Norman knows the new conditions, and it won't do."
 
-
-
 Old Mr. Nadoway made a motion as if swallowing something, and then said:
 
 "Do you mean to sit there and tell me you're against me, too? Against me
 
 and the whole concern?"
-
-
 
 "I'm in favour of the whole concern, and that's the whole point," said
 
@@ -7849,21 +6560,15 @@ John. "I suppose I shall be responsible for it-well, some time. But I'm
 
 damned if I'll be responsible for all the old ways of doing things."
 
-
-
 "You're glad enough of the money that was got by the old way of doing
 
 things," said his father savagely, "and now you come back to me with this
 
 nonsensical namby-pamby Socialism."
 
-
-
 "My dear Dad," said John Nadoway, staring stolidly. "Do I look like a
 
 Socialist?"
-
-
 
 Millicent, as an onlooker, took in the whole of his heavy and handsome
 
@@ -7871,39 +6576,25 @@ figure, from its beautifully blacked boots to its beautifully oiled hair,
 
 and could hardly repress a laugh.
 
-
-
 The voice of Norman Nadoway clove into it with a sudden vibrancy, not
 
 without violence.
 
-
-
 "We must clear the Nadoway name."
-
-
 
 "Do you dare to tell me," cried the old man fiercely, "that my name needs
 
 any clearing?"
 
-
-
 "By the new standards, yes," said John after a silence.
-
-
 
 The old merchant sat down suddenly and silently in his chair and turned
 
 to his secretary, as if the interview were ended.
 
-
-
 "I find I shall not want you this evening," he said. "You had better take
 
 a little time off."
-
-
 
 She rose rather waveringly and went towards the french windows that gave
 
@@ -7921,13 +6612,9 @@ prosaic people. She was already outside the glass doors and in the
 
 garden, when she heard old Nadoway speak again.
 
-
-
 "The hand of the Lord is heavy upon me," he said. "It seems hard that I
 
 have had three sons and they all turned against me."
-
-
 
 "There is no question of turning against you, father," said John rapidly
 
@@ -7937,19 +6624,13 @@ to suit new conditions and a rather different public opinion. I am sure
 
 that neither of your sons intends to show ingratitude or impertinence."
 
-
-
 "If either of your sons did that," said Norman in his deep voice, "it
 
 would be every bit as wicked as going on in the old way."
 
-
-
 "Well," said his father rather wearily, "we will leave it at that just
 
 now. I shall not go on much longer."
-
-
 
 But Millicent Milton was staring at the dark house in a new fit of
 
@@ -7958,8 +6639,6 @@ mystification. The two brothers had ignored and slurred over, with
 something resembling skill, a certain phrase used by their father. But
 
 she had quite unmistakably heard the old man say: "Three sons."
-
-
 
 She had never heard of any other son. She remained staring at the rococo
 
@@ -7975,11 +6654,7 @@ moonshine and darkness, and she wondered for the first time if it held a
 
 secret.
 
-
-
 II THE BURGLAR AND THE BROOCH
-
-
 
 IT was the scare of the burglary that actually started the story towards
 
@@ -7990,8 +6665,6 @@ enough, in the sense that the thief did not apparently succeed in taking
 anything, being surprised before he could do so. But it was certainly not
 
 only the burglar who was surprised.
-
-
 
 Jacob Nadoway had provided his secretary with some excellent apartments
 
@@ -8033,8 +6706,6 @@ is produced by metal working its way into metal. And she remembered that
 
 in the angle between the two rooms stood the safe.
 
-
-
 She had the best sort of quite unconscious courage, and she simply walked
 
 out into the hall and looked. What she saw astounded her by being so
@@ -8065,15 +6736,11 @@ a tone entirely cold and commonplace, when she said: "What are you doing
 
 here?"
 
-
-
 "Well, I'm not climbing the Matterhorn or playing the trombone at
 
 present," grunted the man in a gruff and distant voice. "I suppose it's
 
 plain enough what I am doing."
-
-
 
 Then, after a silence, he resumed in a warning tone: "Don't you go saying
 
@@ -8089,8 +6756,6 @@ everything, and force is no remedy and all that. But I've forced this
 
 safe: I never found a safe I could open by just loving what was inside."
 
-
-
 There was something rather paralysing about the way in which the burglar
 
 placidly went on talking without even looking round; and she thought it a
@@ -8100,8 +6765,6 @@ little odd that he should know the meaning of the Latin inscription,
 simple as it was. Nor could she bring herself to scream or run or stop
 
 him in any way, when he went on with the same conversational composure.
-
-
 
 "Must be meant for a model of the big clasp that Chaucer's Prioress wore;
 
@@ -8123,17 +6786,11 @@ thing even down to talking French, but talking it so that Frenchmen can't
 
 understand."
 
-
-
 He turned very slowly and stared at her.
-
-
 
 "Why, you're an English Lady!" he cried as if astonished. "Do you know
 
 they are getting rare?"
-
-
 
 Miss Millicent Milton probably did possess, like the Prioress of Chaucer,
 
@@ -8179,8 +6836,6 @@ other people she saw from the outside, whether they were burglars or
 
 bricklayers.
 
-
-
 The young man who was staring at her was dark, shaggy and unshaven, but
 
 the neglect of shaving had passed its most repellent stage of transition
@@ -8211,15 +6866,11 @@ life; or perhaps he had had a tragedy with a woman or something. She
 
 wondered what the real story was, and what the woman was like.
 
-
-
 While she was forming these confused impressions, the remarkable burglar
 
 went on talking; whatever else he felt, he seemed to feel no
 
 embarrassment about talking.
-
-
 
 "It's jolly fine of you to stand there like that-well, that's another
 
@@ -8249,8 +6900,6 @@ furniture of society; to regroup-if you follow me-its goods and chattels,
 
 as if after a spring-cleaning; to--"
 
-
-
 At this important point in the social programme, it was interrupted by a
 
 gasp and snort as startling as a trumpet-blast. And Millicent, looking
@@ -8267,11 +6916,7 @@ fact that she had stood listening to the criminal in front of the safe,
 
 as if he had been talking to her over the tea-table.
 
-
-
 "What! A burglar?" gasped Mr. Nadoway.
-
-
 
 Almost at the same moment there was a scurry of running and the big,
 
@@ -8285,8 +6930,6 @@ in the same incredulous and curiously emphatic voice: "Damn it all! A
 
 burglar!"
 
-
-
 The Rev. Norman Nadoway was not long behind his brother-he was
 
 respectably muffled in a greatcoat and looked very pale and solemn. But
@@ -8294,8 +6937,6 @@ respectably muffled in a greatcoat and looked very pale and solemn. But
 perhaps the most curious thing about him was that he also confined
 
 himself to saying, with the same inscrutable intensity: "A burglar!"
-
-
 
 Millicent thought there was, on the face of it, something singularly
 
@@ -8311,8 +6952,6 @@ that their surprise was not at a burglar paying them a particular visit,
 
 but rather at this particular visitor being a burglar.
 
-
-
 "Yes," said the visitor, looking round at them with a smile, "it's quite
 
 true I'm a burglar now. I think I was only a begging-letter writer when
@@ -8323,25 +6962,17 @@ a very paltry little misdemeanour compared to this, wasn't it, for which
 
 father first turned me out?"
 
-
-
 "Alan," said Norman Nadoway very gravely, "why do you come back here like
 
 this? Why here, of all places?"
-
-
 
 "Why, to tell you the truth," said the other, "I thought that our
 
 respected Papa might want a little moral support."
 
-
-
 "What the devil do you mean?" asked John Nadoway irritably. "A nice sort
 
 of moral support you are!"
-
-
 
 "I am a very moral support," observed the stranger with proper pride.
 
@@ -8351,13 +6982,9 @@ who is really carrying on the business. I am an example of atavism; I am
 
 a reversion to type."
 
-
-
 "I don't know what you're talking about," cried old Nadoway with sudden
 
 fury.
-
-
 
 "Jack and Norman know," said the burglar grimly. "They know what I'm
 
@@ -8367,15 +6994,11 @@ representative of Nadoway and Son. It's the fact they've been trying to
 
 cover up, poor old chaps, for the last five or six years."
 
-
-
 "You were born to disgrace me," said the old man, trembling with anger;
 
 "you would have dragged my name in the dirt, if I hadn't sent you to
 
 Australia and got rid of you, and now you come back as a common thief."
-
-
 
 "And the real representative," said the other, "of the methods that made
 
@@ -8385,25 +7008,17 @@ of me. Good Lord, my dear Dad! Haven't you discovered yet that both your
 
 other sons are ashamed of you? Look at their faces!"
 
-
-
 It was enough that the other two sons involuntarily turned their faces
 
 away, and even as it was, turned them too late.
-
-
 
 "They are ashamed of you. But I am not ashamed of you. We are the
 
 Adventurers of the family."
 
-
-
 Norman Nadoway raised a protesting hand, but the other went on with a
 
 sweep of spontaneous satire.
-
-
 
 "Do you think I don't know? Do you think everybody doesn't know? Don't I
 
@@ -8421,23 +7036,17 @@ And, above all, on robbery-on robbing rivals and partners and everybody
 
 else, exactly as I have robbed that safe!"
 
-
-
 "Do you think it decent," asked his brother angrily, "to come here and
 
 not only rob your father's safe, but insult and attack your father before
 
 his face?"
 
-
-
 "I am not attacking my father," said Alan Nadoway; "I am defending my
 
 father. And I am the only man here who can defend him. For I am a
 
 criminal, too."
-
-
 
 He let loose the next few words with an energy that made everybody jump.
 
@@ -8459,15 +7068,11 @@ that end by taking a dishonest one. You've no right to be so damned
 
 superior to the Two Thieves of the family."
 
-
-
 Old Nadoway made an abrupt movement, adjusting his spectacles, and
 
 Millicent, who was an acute observer, suspected that for one instant he
 
 was not only staggered but strongly moved.
-
-
 
 "All this," said John Nadoway after a silence, "doesn't explain what
 
@@ -8477,15 +7082,11 @@ that safe, and the thing you've got there certainly doesn't come out of
 
 it. I can't quite make out what you're up to, in any case."
 
-
-
 "Well," said Alan, with his ironical smile, "you can examine the safe and
 
 the rest of the premises after I've gone. Perhaps you may make a few
 
 discoveries. And perhaps on the whole I--"
-
-
 
 In the middle of his words there arose, faint but shrill and
 
@@ -8507,8 +7108,6 @@ somebody at least had shrieked, in a respectable manner, on hearing a
 
 house-breaker.
 
-
-
 The five people looked at each other and realized that, after that
 
 shriek, the extraordinary family situation could no longer be kept in the
@@ -8529,8 +7128,6 @@ they all, for varied and rather complex reasons, heaved their separate
 
 sighs of relief.
 
-
-
 Millicent, needless to say, had to resume in a serious manner the duties
 
 of soothing an aunt; so that the shriek faded into shrill questions. Then
@@ -8549,11 +7146,7 @@ clasp which had been fancifully dedicated to the Prioress, and on which
 
 was written in Latin "Love Conquers All".
 
-
-
 III A QUEER REFORMATION
-
-
 
 MILLICENT MILTON could not help wondering a good deal, especially when
 
@@ -8591,8 +7184,6 @@ turned them over as he was turning the leaves of the tree nearest his
 
 perch.
 
-
-
 "Another way to burgle a house," he said, in a clear distant voice like a
 
 popular lecturer, "is to get over the garden wall. It sounds simple, but
@@ -8605,13 +7196,9 @@ begin by stealing a little of your time. But don't be alarmed, in any
 
 secretarial sense. I assure you I have an appointment."
 
-
-
 He jumped from the wall and alighted on the turf beside her, but without
 
 in any way disturbing the flow of his remarks.
-
-
 
 "Yes; it is really true that I am summoned to quite a family council; an
 
@@ -8623,8 +7210,6 @@ a completely criminal state of mind, I should rather like to have a talk
 
 with you."
 
-
-
 She said nothing but gazed at the distant line of rather grotesque
 
 palm-trees planted as a frontier in the garden and felt returning upon
@@ -8632,8 +7217,6 @@ palm-trees planted as a frontier in the garden and felt returning upon
 her that irrational sense that this place had always been rather
 
 romantic, in spite of the people who lived in it.
-
-
 
 "I suppose you know," said Alan Nadoway, "that my father flew into a
 
@@ -8655,13 +7238,9 @@ study I have given to it since. But what I want to tell you is what
 
 happened to me on my way back from Australia."
 
-
-
 "Wouldn't your family like to hear about it?" she could not help asking,
 
 with a touch of experimental irony.
-
-
 
 "I dare say they would," he said. "But I am not sure they'd understand
 
@@ -8679,13 +7258,9 @@ every Sunday. But he could hardly believe in anything so simple as one of
 
 those parables, if it happened in real life."
 
-
-
 "Do you mean that you are the Prodigal Son?" she asked, "and he is the
 
 Elder Brother?"
-
-
 
 "Rather hard if the Australians had to be the Swine," said Alan Nadoway.
 
@@ -8695,13 +7270,9 @@ magnanimity of my brother Norman. On the other hand, it perhaps slightly
 
 exaggerates the leaping and ecstatic hospitality of my father."
 
-
-
 She could not repress a smile, but, filled with the loftiest secretarial
 
 traditions, refrained from comment.
-
-
 
 "No; what I mean," he said, "is that stories told in that simple way, for
 
@@ -8717,11 +7288,7 @@ Somehow the student or the schoolboy always feels inclined to say there
 
 never was any man on any island. All the same, there was."
 
-
-
 She began to feel a little bewildered. "Was what?" she asked.
-
-
 
 "There was me," said Alan. "You can't believe this story because there's
 
@@ -8729,13 +7296,9 @@ a desert island in it. It's like telling a story with a dragon in it. All
 
 the same, there's a moral to the dragon."
 
-
-
 "Do you mean," she asked, growing rather impatient, "that you have been
 
 on a desert island?"
-
-
 
 "Yes, and on one or two other odd things. But the extraordinary thing was
 
@@ -8776,8 +7339,6 @@ there's fire. It's a greater proverb, and one too near to God to be
 written often, that where there's fire there's man, and nobody knows
 
 which is the greater miracle.
-
-
 
 "Well, I found somebody; he wasn't anybody in particular; I dare say you
 
@@ -8851,8 +7412,6 @@ lend me some. I was immediately arrested for begging and began my career
 
 as a criminal by sleeping in jail.
 
-
-
 "Now I suppose you see the point of the economic parable. I had been in
 
 the ends of the earth, and among the scum of the earth; I had been among
@@ -8876,8 +7435,6 @@ drowning and the dying. I was never actually punished for being in want
 till I came to a civilized city. I was never called a criminal for asking
 
 for sympathy, till I returned to my own home.
-
-
 
 "Well, if you have understood that parable of the New Prodigal Son, you
 
@@ -8909,15 +7466,11 @@ call the parable of the exile. Always remember that as long as he was
 
 among strangers, not to say scoundrels, he had a chance."
 
-
-
 They had been sitting on a garden seat during the conversation and
 
 Millicent rose from it, as she saw the black-clad group of the father and
 
 brothers approaching across the lawn.
-
-
 
 Alan Nadoway remained seated with somewhat ostentatious languor, and its
 
@@ -8929,21 +7482,15 @@ thunderstorm in the sunshine. It was instantly apparent that something
 
 new and nasty had occurred.
 
-
-
 "Perhaps it would be affectation to inform you," said the father with
 
 heavy bitterness, "that there has been another burglary in the
 
 neighbourhood."
 
-
-
 "Another?" said Alan, raising his eyebrows. "That, when you come to think
 
 of it, is a rather curious word. And what is the other?"
-
-
 
 "Mrs. Mowbray," said the father sternly, "went over yesterday to visit
 
@@ -8953,13 +7500,9 @@ happened in our own house, and it seems that something happened about an
 
 hour earlier at the Crayles."
 
-
-
 "What did they lift off the Crayles?" asked the young man, with patient
 
 interest. "How did they know there was a burglary?"
-
-
 
 "The burglar was surprised and bolted," said Jacob Nadoway.
 
@@ -8967,21 +7510,15 @@ interest. "How did they know there was a burglary?"
 
 his flight."
 
-
-
 "Unfortunately!" repeated Alan with an air of being mildly and
 
 conventionally shocked. "Unfortunately for whom?"
-
-
 
 "Unfortunately for you," said his father. There was a painful silence and
 
 John Nadoway broke into it in his blundering but unconquerably
 
 good-humoured way.
-
-
 
 "Look here, Alan," he said. "If anybody is going to help you, these sort
 
@@ -8995,15 +7532,11 @@ you out of the police-court if you break into the neighbours' houses and
 
 leave your cigar-case with a card inside?"
 
-
-
 "Careless-careless," said Alan in a vexed tone, rising with his hands in
 
 his pockets. "You must remember I am only at the beginning of my career
 
 as a burglar."
-
-
 
 "You are at the end of your career as a burglar," said old Nadoway, "or
 
@@ -9017,8 +7550,6 @@ you've thrown away a thousand chances. Drop this thieving business, here
 
 and now, and I'll find you a job. Take it or leave it."
 
-
-
 "Your father and I," said Norman Nadoway, in his detached and delicate
 
 accent, "have not always agreed about the treatment of hard cases. But he
@@ -9030,8 +7561,6 @@ in many ways, but it is one thing to forgive a man thieving when he may
 be starving-it is quite another to forgive him, when he would rather go
 
 on starving, if only he may go on thieving."
-
-
 
 "That's the point," assented the stolid John in fraternal admiration.
 
@@ -9045,8 +7574,6 @@ job, or a fellow out of the street whom we have simply to hand over to
 
 the police? But, by God, you can't be both."
 
-
-
 Alan's eyes roamed round the family house and garden and rested for a
 
 moment on Millicent, with a certain expression of pathos. Then he sat
@@ -9059,29 +7586,21 @@ perplexity of spirit. The three other men stood watching him with an
 
 awkward rigidity.
 
-
-
 At last he threw up his head again, flinging back his black, plume-like
 
 locks, and they all saw instantly that his pale face had a new
 
 expression.
 
-
-
 "Well," said old Jacob, not without a new note of appeal, "won't you give
 
 up all this blackguard burglary business?"
-
-
 
 Alan Nadoway rose. "Yes, father," he said gravely. "Now I come to look at
 
 it seriously, I see you have a right to my promise. I will give up the
 
 burglary business."
-
-
 
 "Thank God for that," said his brother Norman, his hard delicate voice
 
@@ -9090,8 +7609,6 @@ shaken for the first time. "I'm not going to moralize now, but you'll
 find there is one thing about any other job you get; it will be one in
 
 which a man need not hide."
-
-
 
 "After all, it's a rotten job, burglary," said John with his jerky
 
@@ -9102,8 +7619,6 @@ nightmare always getting into the wrong house at the wrong end, something
 like putting on your trousers upside down. It'll pay you better really,
 
 and you'll get peace of mind."
-
-
 
 "Yes," said Alan thoughtfully; "all that you say is true, and there is a
 
@@ -9117,13 +7632,9 @@ simpler, more straightforward line. I am told that picking pockets is
 
 much more lucrative nowadays."
 
-
-
 He continued to gaze thoughtfully at the distant palms, but all the other
 
 faces were turned towards him with an incredulous stare.
-
-
 
 "A friend of mine down Lambeth way," said Alan, "does most frightfully
 
@@ -9139,15 +7650,11 @@ sixpences and coppers off people coming out of the cinema, but then he's
 
 awfully nifty with his fingers. I reckon I can learn the knack."
 
-
-
 There was a startled silence and then Norman said in a controlled voice:
 
 "It would be of some importance to me to know that this is a joke. I will
 
 risk my reputation for humour."
-
-
 
 "Joke," said Alan, with an absent-minded air. "Joke.... Oh, no, it isn't
 
@@ -9155,23 +7662,17 @@ a joke. It's a job. And a jolly sight better job than any my father will
 
 offer me."
 
-
-
 "Then you can follow it to jail!" said the old man, and his voice rang
 
 out in the garden like a gun announcing sunset. "Clear out of this place
 
 in three minutes and I will not call the policeman down the road."
 
-
-
 And with that he turned his back and strode away followed by his other
 
 sons, and Alan remained standing alone by the garden seat, and he might
 
 have been a statue in the garden.
-
-
 
 The garden indeed had grown more still, and in a manner grey and
 
@@ -9195,27 +7696,17 @@ stillness he became conscious of the last incongruity. Her face, which
 
 was commonly very grave, was puckered with derision, like that of an elf.
 
-
-
 "Well," she said, "you've done it now."
-
-
 
 "If you mean," he answered, "that I've done for my prospects here, I
 
 never thought I had any."
 
-
-
 "No, I don't mean that," she said. "When I say you've done it, I mean
 
 you've overdone it."
 
-
-
 "Overdone what?" he asked in the same stony style.
-
-
 
 "Overdone the lie," she said, smiling steadily. "Overdressed the part, if
 
@@ -9231,33 +7722,21 @@ pictures, I simply know you're not, and there's an end of it. It's the
 
 last finishing touch that spoils a work of art."
 
-
-
 "What do you suppose I am?" he asked harshly.
 
-
-
 "Well, won't you tell me?" she inquired with a certain brightness.
-
-
 
 After a strained silence he said with a curious intonation, "I would do
 
 anything for you."
 
-
-
 "Well," she answered, "everybody knows that the curse of my sex is
 
 curiosity."
 
-
-
 He buried his head in his hands and after a silence said with a great
 
 groan: "Amor Vincit Omnia."
-
-
 
 A moment or two later he lifted his head again and began to talk, and her
 
@@ -9265,11 +7744,7 @@ eyes grew starry with astonishment as she stood and listened under the
 
 stars.
 
-
-
 IV THE PROBLEMS OF DETECTIVE PRICE
-
-
 
 MR. PETER PRICE, the private inquiry agent, did not glow with that
 
@@ -9294,8 +7769,6 @@ the type, a certain Mrs. Milton-Mowbray, who had talked to him in clear
 and decisive tones for about three-quarters of an hour, without telling
 
 him anything of which he could make any sort of sense.
-
-
 
 So far as he could piece it out from his notes, it was something like
 
@@ -9323,8 +7796,6 @@ about it; they were all keeping things from her-that is, from the
 
 indignant Mrs. Milton-Mowbray.
 
-
-
 "He seems to be rather a careless burglar," Mr. Price had said, looking
 
 at the ceiling, "and not what you might call fortunate in his profession.
@@ -9337,8 +7808,6 @@ Did he actually steal anything from Lady Crayle? And at whose house did
 
 he leave that?"
 
-
-
 He was a short, fat, baldish man whose features seemed to fold in on
 
 themselves so that it was impossible to say for certain whether he
@@ -9346,8 +7815,6 @@ themselves so that it was impossible to say for certain whether he
 smiled, but the lady at any rate was neither of the temper nor in the
 
 mood to search his face for irony.
-
-
 
 "That," she said triumphantly, "is just what I say! Nobody will tell me.
 
@@ -9360,8 +7827,6 @@ And the Nadoways are vaguer still. I've told them again and again they
 needn't consider my feelings, I'm not going to faint, even if I have been
 
 robbed. But I really think I have a right to know."
-
-
 
 "Perhaps it would assist them a little," said the private detective, "if
 
@@ -9383,13 +7848,9 @@ understand, belonged to any of the people he was then in the act of
 
 robbing. None of these things, for instance, belonged to you."
 
-
-
 "How can I tell?" she said with a sweeping gesture of agnosticism.
 
 "Nobody will tell me the truth. I am--"
-
-
 
 "My dear madam," said Mr. Price with belated firmness, "you cannot
 
@@ -9399,13 +7860,9 @@ anything yourself? Have you missed anything yourself? For that matter,
 
 has Lady Crayle missed anything herself?"
 
-
-
 "Lady Crayle wouldn't know whether she'd missed anything or not," said
 
 Mrs. Mowbray with sudden acrimony. "She's the very vaguest of the lot."
-
-
 
 "I see," said Mr. Price, nodding thoughtfully. "Lady Crayle wouldn't know
 
@@ -9413,15 +7870,11 @@ whether she'd missed anything or not. And I rather gather that you
 
 yourself are in the same difficulty."
 
-
-
 Then, before she could realize the affront sufficiently to reply he said
 
 rapidly: "I always thought Lady Crayle was supposed to be very capable, a
 
 great organizer and all that."
-
-
 
 "Oh, she can organize meetings and movements and all that nonsense," said
 
@@ -9430,8 +7883,6 @@ the Victorian lady scornfully. "Talk about her League Against Tobacco or
 her controversy about defining drugs, and she's all there. But she never
 
 notices anything that's lying about in her own house."
-
-
 
 "Does she notice her husband, for instance?" inquired Mr. Price. "Is he
 
@@ -9447,23 +7898,17 @@ tobacco. So they must be pretty poor, and would surely know whether
 
 they've lost anything of great value."
 
-
-
 He was silent for a moment, ruminating and then said as suddenly as a
 
 pistol-shot: "What was it exactly they picked up after the burglar
 
 bolted?"
 
-
-
 "I believe it was nothing but cigars," replied Mrs. Mowbray shortly. "A
 
 whole big case stuffed with them. But as it had a card of one of the
 
 Nadoways, we presume the burglar had stolen it from their house."
-
-
 
 "Quite so," he answered. "And now about the other things he had stolen
 
@@ -9477,15 +7922,11 @@ think I may infer that her taking such a position implies to some extent
 
 the necessity of working for her living."
 
-
-
 "I was against her going to work for such people at all," said Mrs.
 
 Mowbray. "But when all these Socialistic Governments have taken away all
 
 our money, what can we do?"
-
-
 
 "I know-I know," said the detective, nodding in an almost dreamy fashion;
 
@@ -9513,19 +7954,13 @@ having a Puritanical wife with a fad against all his old luxuries and
 
 especially against tobacco. . . . Does that suggest anything to you?"
 
-
-
 "No, it doesn't," said Mrs. Mowbray, rising and rustling. "I consider all
 
 this most unsatisfactory, and I don't know what you're talking about."
 
-
-
 "He was really a very absent-minded housebreaker," said the detective.
 
 "If he had known what he was about, he would have dropped two brooches."
-
-
 
 Ten minutes later Mrs. Mowbray had shaken the dust of the very dusty
 
@@ -9545,8 +7980,6 @@ Mr. Price added the notes of this telephone conversation to his notes of
 
 the conversation with the aristocratic Mrs. Milton-Mowbray.
 
-
-
 Then he once more leaned back in his chair and remained staring at the
 
 ceiling, plunged in profound thought and with an almost Napoleonic
@@ -9556,8 +7989,6 @@ expression, for, after all, Napoleon also was short and in his later
 years fat, and in Mr. Peter Price also it is possible that there was more
 
 than met the eye.
-
-
 
 The truth was that Mr. Peter Price was awaiting another arrival, in
 
@@ -9591,8 +8022,6 @@ Nadoway once more betook himself, when faced with a family scandal on a
 
 far more ghastly and gigantic scale.
 
-
-
 For Alan Nadoway, no longer acting anonymously or even like a thief in
 
 the night, but announcing his name even more plainly than when he left
@@ -9615,8 +8044,6 @@ He had tried three times, he pathetically declared, to call himself
 
 Nogglewop and in each case his voice had failed through emotion.
 
-
-
 It was three or four days after the receipt of this letter that the
 
 thunderbolt fell. The Name of Nadoway, the subject of so many strivings,
@@ -9633,8 +8060,6 @@ appeared in the police court, charged with picking pockets not only once
 
 but regularly and successfully for several weeks.
 
-
-
 The situation was the more sensationally insulting or exasperating,
 
 because the thief had not only robbed the poor in a most heartless and
@@ -9645,13 +8070,9 @@ brother, the Rev. Norman Nadoway, had recently become a charitable and
 
 popular parish priest, abounding in every kind of good works.
 
-
-
 "It seems incredible," said John Nadoway with heavy emphasis, "that any
 
 man could be so wicked."
-
-
 
 "Yes," said Peter Price, a little sleepily; "it seems incredible." Then
 
@@ -9661,11 +8082,7 @@ remarked: "You know, when you come to think of it, that's just the word
 
 for it. It seems incredible."
 
-
-
 "And yet it's happened," said John with a groan.
-
-
 
 Peter Price was silent so long that John suddenly jumped up as a man
 
@@ -9673,15 +8090,11 @@ might on hearing a noise. "What the devil is the matter with you?" he
 
 asked. "Isn't it quite certain that it has happened?"
 
-
-
 Price nodded and answered: "If you say it has happened, yes, I am quite
 
 certain. But if you ask what has happened, I am not certain at all. Only
 
 I begin to have a large general sort of suspicion."
-
-
 
 Then after another silence he said abruptly: "Look here, I won't risk
 
@@ -9690,8 +8103,6 @@ raising hopes or suspicions yet, but if you'll let me see the solicitor
 who's arranging the defence of your brother, I rather think I might have
 
 something to suggest to him."
-
-
 
 John Nadoway left the offices of the detective with a slow gait and a
 
@@ -9731,8 +8142,6 @@ the sort of doom he had tried to avert all his life, and now it had come
 
 he could hardly even pretend it was not deserved.
 
-
-
 In the shadow of the veranda, with a sort of silent shock, he came upon
 
 Millicent, sitting in a garden chair and gazing out into the dark. And in
@@ -9740,8 +8149,6 @@ Millicent, sitting in a garden chair and gazing out into the dark. And in
 all that black and tragic house of riddles, perhaps her face was the
 
 darkest and most inscrutable riddle, for it was happy.
-
-
 
 As she gazed, indeed, and became conscious of the sturdy figure of the
 
@@ -9769,8 +8176,6 @@ who thought that telling the truth was as right as cleaning the teeth. It
 
 would be like loving somebody quite flat-only in two dimensions.
 
-
-
 For she felt that in herself a depth had opened like a new dimension,
 
 full of topsy-turvy stars and the inverted infinities of Einstein. She
@@ -9781,21 +8186,15 @@ novelty, but only the sharp negative, that she was not in love with John
 
 Nadoway.
 
-
-
 All the more her cold compassion went out to him, without shyness, as to
 
 a brother. "I am so sorry," she cried, "for all you must be suffering
 
 just now. It must seem so dreadful to you."
 
-
-
 "Thank you," he said, not without emotion. "We are having a trying time,
 
 of course-and sympathy from old friends does not hurt."
-
-
 
 "I know how good you have been," she said, "and how hard you worked to
 
@@ -9803,29 +8202,19 @@ keep off anything like discredit. And this must seem to you so
 
 discreditable."
 
-
-
 The repetition of the one word "seem" at last penetrated his solid mind
 
 as a little queer.
-
-
 
 "I'm afraid it doesn't only seem so," he said, "a Nadoway picking pockets
 
 is about the worst one could imagine."
 
-
-
 "That is it," she said, nodding rather strangely. "Through the worst one
 
 could imagine comes the best one could not imagine."
 
-
-
 "I'm afraid I don't follow," said the Junior Partner.
-
-
 
 "You go through the worst to the best, as you go through the west to the
 
@@ -9835,11 +8224,7 @@ where the east and the west are one. Can't you feel there is something so
 
 frightfully and frantically good that it must seem bad?"
 
-
-
 He stared at her blankly, and she went on as if thinking aloud.
-
-
 
 "A blaze in the sky makes a blot on the eyesight. And after all," she
 
@@ -9847,19 +8232,13 @@ added, almost in a whisper, "the sun was blotted out, because one man was
 
 too good to live."
 
-
-
 The Junior Partner resumed his plodding march with the new addition to
 
 his list of worries; that among the inmates of the house, was a lady who
 
 was a lunatic.
 
-
-
 V THE THIEF ON TRIAL
-
-
 
 THERE was an extraordinary amount of fuss and delay about the hearing of
 
@@ -9884,8 +8263,6 @@ pleading Not Guilty after all. Then there was the same sort of rumour and
 dispute about his choice of a counsel, and finally it was announced that
 
 he had insisted on conducting his own defence.
-
-
 
 He had been committed for trial after purely formal evidence, and in his
 
@@ -9923,8 +8300,6 @@ convicted, of attempts at burglary in the houses of his family and
 
 friends.
 
-
-
 Here the judge intervened, saying: "That is a most improper remark. I
 
 find nothing about burglary in the indictment on which the prisoner is
@@ -9943,15 +8318,11 @@ little doubt upon the charge of petty larceny, in face of the witnesses
 
 whom he intended to put in the box.
 
-
-
 Police-constable Brindle was sworn and gave his evidence in one long
 
 rippling monotone, without any apparent punctuation, as if it were not
 
 only all one sentence but all one word.
-
-
 
 "Acting on information received I followed the prisoner from the house of
 
@@ -9977,11 +8348,7 @@ tail-coat pocket of a man in the queue. I then told this man to examine
 
 his pockets and took the prisoner into custody."
 
-
-
 "Do you wish to cross-examine this witness?" asked the judge.
-
-
 
 "I am sure your lordship will pardon me in the circumstances," said the
 
@@ -9991,8 +8358,6 @@ may I at this stage ask whether the prosecution is going to call these
 
 three persons whom I am supposed to have robbed?"
 
-
-
 "I have no objection to stating," said the prosecuting counsel, "that we
 
 are calling Harry Hamble, bookmaker's clerk, the man who is said to have
@@ -10001,31 +8366,21 @@ threatened to fight the prisoner, and Isidor Green, music-teacher, the
 
 last man robbed by the prisoner before his arrest."
 
-
-
 "And what about the first man?" asked the prisoner. "Why isn't he being
 
 called?"
-
-
 
 "As a matter of fact, my lord," said the counsel, "the police have been
 
 unable to discover his name and address."
 
-
-
 "May I ask the witness," said Alan Nadoway, "how this curious state of
 
 things came about?"
 
-
-
 "Well," said the constable, "the fact is that as soon as I'd turned my
 
 back on him for a minute, he was gone."
-
-
 
 "Do you mean to say," asked Nadoway, "that you told a man he was the
 
@@ -10033,11 +8388,7 @@ victim of theft and might recover his money, and he instantly bolted
 
 without leaving his name, as if he were a thief himself?"
 
-
-
 "Well, I don't understand it, and that's flat," said the policeman.
-
-
 
 "Under your lordship's indulgence," said the prisoner, "there is another
 
@@ -10047,13 +8398,9 @@ Hamble, appears as prosecuting. It looks as if there was something vague
 
 about the third witness, too. Did you think so, constable?"
 
-
-
 Outside the inhuman hurdy-gurdy of his official evidence, the policeman
 
 was a human being and capable of being amused.
-
-
 
 "Well, I must say he was vague enough," he admitted with a faint grin.
 
@@ -10067,15 +8414,11 @@ added it up six times. And sometimes it was 2s. 8d. and sometimes it was
 
 enough on the spot...."
 
-
-
 "This is most irregular," said the judge. "I understand that the witness,
 
 Isidor Green, is to give his own evidence later. The prosecution had
 
 better begin calling their witnesses as soon as possible."
-
-
 
 Mr. Harry Hamble wore a very sporting tie and that expression of demure
 
@@ -10093,19 +8436,13 @@ pugnacity. In answer to the prisoner, he admitted that he had immediately
 
 adjourned to the Pig and Whistle at the corner.
 
-
-
 The prosecuting counsel, springing up with theatrical indignation,
 
 demanded the meaning of this insinuation.
 
-
-
 "I imagine," said the judge somewhat severely, "that the prisoner implies
 
 that the witness did not know exactly what he had lost."
-
-
 
 "Yes," said Alan Nadoway, and there was something odd and arresting in
 
@@ -10113,19 +8450,13 @@ the roll of his deep voice; "I do mean to imply that he did not know
 
 exactly what he had lost."
 
-
-
 Then, turning to the witness, he said briskly: "Did you go to the Pig and
 
 Whistle and stand drinks all round, in a regular festive style?"
 
-
-
 "My lord," exploded the prosecuting counsel, "I must emphatically protest
 
 against the prisoner wantonly aspersing the character of the witness."
-
-
 
 "Aspersing his character! Why, I am glorifying his character!" cried
 
@@ -10141,21 +8472,13 @@ you conceal it like a crime? Are you ashamed of your handsome
 
 hospitality, Mr. Hamble? Are you a miser and a man-hater?"
 
-
-
 "Oh, no, sir," said Mr. Hamble, who appeared slightly dazed.
 
-
-
 "Are you an enemy of the human race, Mr. Hamble?"
-
-
 
 "Well, no, sir," said Mr. Hamble, almost modestly. "No, certainly not,
 
 sir," he added more firmly.
-
-
 
 "You always, I take it," went on the prisoner, "feel friendly to your
 
@@ -10163,11 +8486,7 @@ fellow-creatures, and especially your chosen companions. You would always
 
 do them a good turn or stand them a drink, if you could."
 
-
-
 "I hope so, sir," said the virtuous bookmaker.
-
-
 
 "You do not always do it, of course," went on Alan smoothly, "because you
 
@@ -10175,19 +8494,13 @@ are not always in a position to do so. Why did you do so on this
 
 occasion?"
 
-
-
 "Well," admitted Mr. Hamble, a little puzzled, "I suppose I must have
 
 been rather flush that evening."
 
-
-
 "Immediately after being robbed?" said Nadoway. "Thank you, that is all I
 
 want to ask."
-
-
 
 Mr. Isidor Green, professional teacher of the violin, with long, stringy
 
@@ -10213,19 +8526,13 @@ then realized, for the first time, that he had never had any notion of
 
 what he possessed before he was robbed.
 
-
-
 "My thoughts are considerably concentrated on my artistic work," he said,
 
 with not a little dignity. "It is possible that my wife might know."
 
-
-
 "An admirable idea, Mr. Green," said Alan Nadoway heartily. "As a matter
 
 of fact, I am calling your wife as a witness for the defence."
-
-
 
 Everybody stared, but it was plain that Nadoway was serious, and with a
 
@@ -10234,8 +8541,6 @@ gravity tinged with courtliness he proceeded to summon his own witnesses,
 who actually were no other than the two wives of the two witnesses for
 
 the prosecution.
-
-
 
 The wife of the violinist was a straightforward and, save for one point,
 
@@ -10251,8 +8556,6 @@ with no extravagant tastes and had certainly had 2s. 8d. in his pocket
 
 that afternoon.
 
-
-
 "In that case, Mrs. Green," said Alan, "it would seem that your husband's
 
 taste in mathematical friends is as eccentric as his taste in
@@ -10261,13 +8564,9 @@ mathematics. He and his friends finally added it up and brought it out as
 
 4s. 7d."
 
-
-
 "Well, he's a genius," she said with some pride. "He could bring out
 
 anythink as anythink."
-
-
 
 Mrs. Harry Hamble was a very different type; and, by comparison with Mr.
 
@@ -10283,13 +8582,9 @@ orter 'ave if 'e'd told me. 'E must 'ave 'ad a raise in wages and not
 
 told me."
 
-
-
 "I understand," Nadoway asked, "that he treated several of his friends to
 
 drinks that afternoon?"
-
-
 
 "Treated!" cried the amiable lady, in a withering voice. "Treated to
 
@@ -10297,21 +8592,13 @@ drinks! Cadged for drinks, more likely! 'E got all the drinks 'e could
 
 for nothink, I daresay. But 'e didn't pay for nobody else's."
 
-
-
 "And how do you know that?" asked the prisoner.
-
-
 
 "'Cos he brought back his usual wages and a bit more," said Mrs. Hamble,
 
 as if this alone were a sufficient grievance.
 
-
-
 "This is all very puzzling," said the judge and leaned back in his chair.
-
-
 
 "I think I can explain it," said Alan Nadoway, "if your lordship will
 
@@ -10319,43 +8606,27 @@ allow me to go into the box for two minutes, before I wind up for the
 
 defence."
 
-
-
 There was no official difficulty, of course, about the prisoner appearing
 
 in both capacities.
-
-
 
 Alan Nadoway took the oath and stood gazing at the prosecuting counsel
 
 with gloomy composure.
 
-
-
 "Do you deny," asked the barrister, "that you were caught by the
 
 policeman with your hand in the pockets of these people?"
 
-
-
 "No," said Nadoway, mournfully shaking his head. "Oh, no."
-
-
 
 "This is very extraordinary," said the examiner. "I understood that you
 
 were pleading Not Guilty."
 
-
-
 "Yes," said Nadoway sadly. "Oh, yes."
 
-
-
 "What on earth does all this mean?" said the judge in sudden irritation.
-
-
 
 "My lord," said Alan Nadoway, "I can put it all straight in five words.
 
@@ -10367,17 +8638,11 @@ their pockets. Only I put money in their pockets, instead of taking it
 
 out. And if you look at it, you'll see that explains everything."
 
-
-
 "But why in the world should you do such a crazy thing?" asked the judge.
-
-
 
 "Ah," said Nadoway; "I'm afraid that would take longer to explain, and
 
 perhaps this isn't the best place to explain it."
-
-
 
 The explanation of the practical problem was indeed set forth in further
 
@@ -10421,8 +8686,6 @@ supported the prisoner's strange contention-that he had filled pockets
 
 and not emptied them.
 
-
-
 Amid a dazed silence, the judge could only find it possible to charge the
 
 jury to acquit, and the jury acquitted. But Mr. Alan Nadoway made a very
@@ -10433,11 +8696,7 @@ his family. For one thing, he had seen two pinch-faced men with
 
 spectacles, who looked as if they might be psychologists.
 
-
-
 VI THE CLEANSING OF THE NAME
-
-
 
 THE trial and acquittal of Alan Nadoway in a court of law was only an
 
@@ -10473,13 +8732,9 @@ of harmony these fanciful thoughts were mingling, but she knew that the
 
 music was like an old tune.
 
-
-
 She had just said the words: "I cannot bear the silence, because it is
 
 unjust. It is unjust to you."
-
-
 
 And he had answered: "It is because it is unjust to me that it is just.
 
@@ -10487,15 +8742,11 @@ That is the whole story; though I suppose you would call it a strange
 
 story."
 
-
-
 "I do not mind your talking in riddles," answered Millicent Milton
 
 steadily, "but I want you to understand something more. It is unjust to
 
 me."
-
-
 
 After a silence he said in a low voice: "Yes; that is what has got me.
 
@@ -10505,25 +8756,17 @@ than the whole plan I made for my life. Well, I suppose I shall have to
 
 tell you my story."
 
-
-
 "I thought," she said with a faint smile, "that you had already told me
 
 your story."
-
-
 
 "Yes," replied Alan; "I told you my story all right. All quite true, with
 
 nothing but the important things left out."
 
-
-
 "Well," said Millicent, "I should certainly like to hear it with the
 
 important things put in."
-
-
 
 "The difficulty is," he said, "that the important things can't be
 
@@ -10533,21 +8776,15 @@ were bigger than shipwrecks or desert islands, but they all happened
 
 inside my head."
 
-
-
 After a silence he resumed, more slowly, like a man trying to find new
 
 words.
-
-
 
 "When I was drowning in the Pacific, I think I had a Vision. I rose for
 
 the third time to the top of a great wave and I saw a Vision. I think
 
 that what I saw was Religion."
-
-
 
 Something in the involuntary mental movements of the English Lady was
 
@@ -10566,8 +8803,6 @@ that they have "found Jesus" or been to a revivalist meeting somewhere;
 and the whole thing seemed socially incongruous with his culture and
 
 hers. It was not in the least like Alfred de Musset.
-
-
 
 With the uncanny clairvoyance of the mystic he seemed to seize on her
 
@@ -10594,8 +8829,6 @@ religion, and that lots of people with a high moral code don't know what
 religion means. They would run screaming with terror, if they got so much
 
 as a glimpse of Religion. It's an awful thing.
-
-
 
 "I learnt something about it from the lunatic with whom I lived on the
 
@@ -10635,15 +8868,11 @@ not God himself, will stop me, if I want to suffer injustice. To forbid
 
 me to suffer injustice would be the greatest injustice of all."
 
-
-
 "You are rather disconnected," she said, "but I begin to have a
 
 glimmering of what you mean. I presume you don't mean that you saw from
 
 the top of the wave the vision of the divine umbrella."
-
-
 
 "And do you think," he asked, "that what I saw was a picture of angels
 
@@ -10659,23 +8888,15 @@ with his glass of water beside him, because he is a strict temperance
 
 man. Oh, my God!"
 
-
-
 "Well," said Millicent, the smile rising slowly to the surface again; "it
 
 certainly seems rather different from heaven and the harps."
-
-
 
 "But I," went on Alan, "was lost like loose seaweed and sinking like a
 
 stone, to be forgotten in the slime under the sea."
 
-
-
 "It was horribly hard," she said in a trembling voice.
-
-
 
 To her surprise he answered with a rather jarring laugh. "Do you think I
 
@@ -10688,8 +8909,6 @@ down and saw him with a clear horror of pity. From the top of the wave I
 prayed, for one passionate instant, that my miserable death might avail
 
 to deliver him from that hell.
-
-
 
 "Horrible hospitality, horrible courtesy, horrible compliments and
 
@@ -10711,8 +8930,6 @@ triumph. And most horrible of all, to add to all the horrors, that I
 
 loved my father.
 
-
-
 "He had been good to me when I was little, and when he was poorer and
 
 simpler, and as a boy I began by making hero-worship of his success. The
@@ -10729,19 +8946,13 @@ I hated, before you see afar off the thing called Religion, and the other
 
 name of it is Human Sacrifice."
 
-
-
 "But surely," said Millicent, "things are ever so much better with the
 
 business now."
 
-
-
 "Yes," he said, "things are better and that is what makes it worse. That
 
 is the worst of all."
-
-
 
 He paused a moment and went on in a lower key: "Jack and Norman are good
 
@@ -10785,13 +8996,9 @@ it. Somebody else must be kind and get no credit for it. Don't you
 
 understand?"
 
-
-
 "Yes, I begin to understand," she said. "I think you are rather
 
 incredible."
-
-
 
 "I swore in that moment," said Alan, "that I would be called everything
 
@@ -10803,8 +9010,6 @@ because I chose after that fashion to be my father. Yes, I would inherit.
 
 I would be his heir."
 
-
-
 He spoke the last words upon a note that shook her out of her statuesque
 
 stillness, and she came towards him with an unconscious movement, crying:
@@ -10813,23 +9018,17 @@ stillness, and she came towards him with an unconscious movement, crying:
 
 such a stupendously stupid thing."
 
-
-
 He caught her as she came forward, with an abrupt and crushing
 
 compression of the hands, and then answered: "You are the most wonderful
 
 and amazing woman in the world, to have stopped me doing it."
 
-
-
 "And that seems terrible, too," she said. "I don't want to feel that I
 
 smashed such a magnificent mad thing; perhaps I was wrong after all. But
 
 don't you think yourself it was getting impossible-in other ways."
-
-
 
 He nodded gravely, continuing to gaze into her eyes, which no one now
 
@@ -10847,17 +9046,11 @@ more harm than good. Then I thought I was only sorry for you. I should be
 
 sorry for anybody who was secretary in our family."
 
-
-
 She laughed on a low and tremulous note. "And so you chucked me a silver
 
 clasp and chain to cheer me up."
 
-
-
 "But in that case," he said, "the clasp caught and held."
-
-
 
 "It also scratched my aunt a bit," she said. "And altogether, it did make
 
@@ -10866,8 +9059,6 @@ complications, didn't it? And all that business of the poor people's
 pockets-well, somehow I couldn't help feeling it might get them as well
 
 as you into trouble."
-
-
 
 "The poor people are always in trouble," he said gloomily. "They're all
 
@@ -10899,13 +9090,9 @@ and routine there is the wildest freedom of the will of man; a whirlwind
 
 of liberty."
 
-
-
 "Alan, you frighten me again," she said, "as if you yourself were
 
 something strange and solitary, as if you also. ..."
-
-
 
 He shook his head, with a complete understanding. "No," he said; "I've
 
@@ -10916,8 +9103,6 @@ about themselves when they're young. But a man is either of that sort or
 the other sort, and I'm the other sort. Do you remember when we first met
 
 and talked about Chaucer and the chain with Amor Vincit Omnia..?"
-
-
 
 And without moving his eyes or hands from where they rested, he repeated
 
@@ -10933,25 +9118,13 @@ the fair chain of love Great was the effect and high was his intent: Well
 
 wist he why, and what thereof he meant."
 
-
-
 And then he bent swiftly towards her; and she understood why that garden
 
 had always seemed to hold a secret and to be waiting for a surprise.
 
-
-
-
-
-
-
 THE LOYAL TRAITOR
 
-
-
 I THE MENACE OF THE WORD
-
-
 
 IT will be best, both for the reader and the writer, not to bother about
 
@@ -10980,8 +9153,6 @@ large financial operations. In short, in the Balkan kingdom-there is some
 safety and continuity for the Family, so long as it is not the Royal
 
 Family.
-
-
 
 But with the kingdom in question here, how different! Whatever name we
 
@@ -11019,8 +9190,6 @@ revolution; probably beginning with a General Strike and probably ending
 
 with bankruptcy and famine.
 
-
-
 It was all the more possible, because breezy events of this sort had
 
 already broken out in a neighbouring industrial state, and after some
@@ -11040,8 +9209,6 @@ considerably consoled those who had been defeated by him. For our own
 territory, which we will call Pavonia, he was only of importance-as an
 
 unluckily lucky example.
-
-
 
 The public crisis became acute in Pavonia with the appearance of the
 
@@ -11079,8 +9246,6 @@ invocation full of allusions to The Word. Many repeated the lines which
 
 ran:
 
-
-
 As Aaron's serpent swallowed snakes and rods,
 
 As God alone is greater than the gods,
@@ -11089,15 +9254,11 @@ As all stars shrivel in the single sun,
 
 The words are many, but The Word is one.
 
-
-
 But nobody in office ever saw the revolutionary poet who tossed these
 
 little trifles at the Government and the public; until he was identified
 
 one day in the street by the very last person who was likely to meet him.
-
-
 
 The Princess Aurelia Augusta Augustina, etc. etc. (who had embedded
 
@@ -11142,8 +9303,6 @@ afternoon and announced that she had actually seen the seditious
 minstrel, who was apparently responsible for the somewhat obscure
 
 revolutionary rhyme and the somewhat mysterious revolutionary movement.
-
-
 
 Her car was moving slowly down a quiet street, because she was on the
 
@@ -11197,8 +9356,6 @@ For this was no other than the poet Sebastian, whose verses counted for
 
 so much in the revolutionary movement of the moment.
 
-
-
 The Princess, of course, was quite unaware of his identity, and would
 
 have passed him with no particular comment beyond a disapproval of his
@@ -11231,8 +9388,6 @@ motto: "As God alone is greater than the gods, As all stars shrivel in
 
 the single sun, The words are many, but The Word is one.
 
-
-
 "But The Word will not pass my lips, nor those of the Four Wardens of The
 
 Word who already know it, until the first part of the work has been
@@ -11242,8 +9397,6 @@ accomplished. When the powerless have risen against the powerful, when
 the poor have risen above the rich, when the weak have risen and proved
 
 stronger than the strong, when--"
-
-
 
 At this moment he and his hearers suddenly became conscious of the sober
 
@@ -11261,15 +9414,9 @@ attitude of sublime impudence and cried aloud: "But how hard it is for
 
 ugliness to rise against beauty. And we are an ugly lot!"
 
-
-
 And the Princess drove on in a condition of towering rage.
 
-
-
 II THE PROCESSION OF THE PLOTTERS
-
-
 
 IT has already been explained that Pavonia was governed on enlightened
 
@@ -11288,8 +9435,6 @@ none of them had ever pushed matters to a rupture and all four of them
 were often in the habit of discussing, at an informal Privy Council, the
 
 growing problems of the State.
-
-
 
 The King, whose historical title was Clovis the Third, was a lank and
 
@@ -11387,8 +9532,6 @@ possible, both equally catastrophic. Either the great Phocus had suddenly
 
 gone mad, or there was really something in it.
 
-
-
 For some time the banker had succeeded in allaying the fears of the
 
 Council, by what might seem a professional, but is in these days a
@@ -11421,13 +9564,9 @@ its backing was a little more financial. But to this Council the Chief of
 
 Police had brought news which seemed to alter everything.
 
-
-
 "Of course," he said in his slow fashion, "I'd often seen the poet going
 
 into the pawnbroker's."
-
-
 
 "The natural resort of poets, I suppose," said the Prime Minister, and
 
@@ -11455,25 +9594,17 @@ all the more because he lives like a poor man. The general belief is that
 
 he is a miser."
 
-
-
 The banker had put on the goggles that made his eyes look twice as big,
 
 and as they peered across the table they were like gimlets.
-
-
 
 "He isn't a miser," said Simon, "and if he's a millionaire, then my
 
 question is answered."
 
-
-
 "Do you know him?" asked the King, speaking for the first time. "Why do
 
 you say he isn't a miser?"
-
-
 
 "Because no Jew was ever a miser," answered the banker. "Avarice is not a
 
@@ -11491,17 +9622,11 @@ revolution. But not hoarding it. That is the madness of sane men; of men
 
 who have a soil."
 
-
-
 "How do you know?" asked the King with mild curiosity. "How did you come
 
 to make a study of Jews?"
 
-
-
 "Only by being one myself," replied the banker.
-
-
 
 There was a short silence, and then the King went on with a reassuring
 
@@ -11509,15 +9634,11 @@ smile: "And so you think he may be spending his millions on financing a
 
 revolution."
 
-
-
 "It would have to be that or a super-cinema or something," assented
 
 Simon, "and that would explain the pamphlets and printed songs, and may
 
 explain other things yet."
-
-
 
 "The most difficult thing to explain," observed the King thoughtfully,
 
@@ -11536,8 +9657,6 @@ where he lives. And, from what I can gather, though any number of people
 go to Lobb's pawnshop, very few of them ever see Lobb. I was told he was
 
 dead: but that may be part of the plot, of course."
-
-
 
 "It is exactly upon that point," said the Chief of Police gravely, "that
 
@@ -11579,8 +9698,6 @@ muffled up in cloaks and coats, but he says he could swear to three of
 
 them."
 
-
-
 "Look here," said the banker after a grave silence, "the fewer people who
 
 know about this the better. I think it would be well if one or two of us
@@ -11595,15 +9712,11 @@ professor and the pawnbroker by sight, and I dare say we might make a
 
 guess at the poet."
 
-
-
 King Clovis, in a dry and rather reluctant voice, gave the details of the
 
 poet's purple and peacock-green appearance, as conveyed to him by his
 
 indignant niece.
-
-
 
 "Well, that may be a guide, too, sir," said the banker briskly. And that
 
@@ -11616,8 +9729,6 @@ their heels patiently or impatiently for several hours, a little way
 beyond the circle of light thrown by the last lamp-post in the silent and
 
 deserted Crescent.
-
-
 
 Peacock Crescent was so called, not because its pallid and classical
 
@@ -11638,8 +9749,6 @@ looked very cold and marmoreal in the moon which was rising over the
 clump of trees opposite, and it seemed to the watchers that every sound
 
 they made echoed and re-echoed as through a hollow, silver shell.
-
-
 
 Their vigil had already been a long one. They had seen, from about the
 
@@ -11681,8 +9790,6 @@ moonlight, and at one corner of the railing there lurked a plain-clothes
 
 officer with a motor-cycle, ready to start on any errand.
 
-
-
 Suddenly, and in utter stillness, a small shadow seemed to detach itself
 
 from the big shadow and seemed to skim across the road as lightly as a
@@ -11709,11 +9816,7 @@ Then Simon looked at Grimm and said, with a faint smile: "The hurry is
 
 hospitality. That is the owner of the house."
 
-
-
 "Yes, I suppose that is the pawnbroker."
-
-
 
 "That is the Revolution," observed the banker. "At least, that is the
 
@@ -11725,19 +9828,13 @@ as they are poor. Why, these four men would have nowhere to meet like
 
 this, if Lobb had not bought the house for them."
 
-
-
 "I should be the last to deny that money is useful," answered Grimm, "but
 
 money alone won't make either a revolution or a realm."
 
-
-
 "My dear Grimm," said Simon, "I know you are an officer and a gentleman;
 
 you can't help that, but really you are becoming romantic."
-
-
 
 "Do I look romantic?" asked the bilious officer and gentleman. "No
 
@@ -11749,11 +9846,7 @@ money doesn't make soldiers. You can give a mob a mountain of munitions,
 
 and it's no good if they won't use them or can't use them."
 
-
-
 "Well, I should say. . . . Look out, here's somebody else."
-
-
 
 The other had already become conscious of a dull clang of sound for which
 
@@ -11769,13 +9862,9 @@ Phocus of the National Museum. He also disappeared rapidly into the
 
 hospitable house.
 
-
-
 "That's the Professor," said Simon. "Perhaps, as he is so learned, he
 
 will lecture to them on munitions."
-
-
 
 "Yes," replied Grimm, "I saw who it was. . . . But I'm bothered about
 
@@ -11787,21 +9876,15 @@ believe they must both have come out of that dingy little garden. What
 
 could they be doing there?"
 
-
-
 "Nesting in the trees, perhaps; they look queer enough birds for
 
 anything," answered the other.
-
-
 
 "Well, the railing isn't high," said the police chief at last. "They may
 
 simply have clambered in and out again to confuse the scent, but it's rum
 
 that my man over there didn't see them."
-
-
 
 A long interval followed, and the two companions pacing up and down to
 
@@ -11819,13 +9902,9 @@ drill them to recite poems? Will Mr. Lobb drill them to fill in
 
 pawn-tickets?"
 
-
-
 "Well," said Simon, making a sign of warning, "here is Mr. Sebastian; so
 
 you had better ask him."
-
-
 
 This time it was unmistakable that the newcomer threw open the gate of
 
@@ -11839,15 +9918,9 @@ with a ringing clash and even the door of the house seemed to open and
 
 shut again with a shade of greater pomposity.
 
-
-
 "Those are all we know of," said Simon thoughtfully.
 
-
-
 "The man said there were four," answered Grimm.
-
-
 
 The intervals between these flitting appearances seemed to grow longer
 
@@ -11881,11 +9954,7 @@ that are the highlights on the African complexion, and Grimm knew that
 
 the man was General Case, the Dictator from beyond the frontier.
 
-
-
 III THE PRINCESS INTERVENES
-
-
 
 THE moment that Colonel Grimm of the Pavonian Police saw that black face
 
@@ -11906,8 +9975,6 @@ anything but stare, Grimm had sent his motor-cyclist down the street like
 a stone from a sling, and knew that police and soldiers were closing
 
 round and stopping the mouths of all the streets.
-
-
 
 For Grimm had a special score to settle with the great General Case. He
 
@@ -11957,8 +10024,6 @@ eagerly for the two or three files of gendarmes already advancing down
 
 it.
 
-
-
 It was likely enough that there was little time to lose. The presence of
 
 the foreign military leader might mean all sorts of things. It might mean
@@ -11989,8 +10054,6 @@ after a moment's hesitation, he struck once and heavily upon the door,
 
 and the light in the lighted dining-room instantly went out.
 
-
-
 For some time there was no other response; then he hammered on the door
 
 again, calling out in his strong voice in the King's name and threatening
@@ -12015,8 +10078,6 @@ him with the rest." Then he thrust his way down the dark passage and
 
 threw open the door of the dining-room.
 
-
-
 It was undoubtedly the dining-room, for it offered a convincing picture
 
 of unfinished, or barely finished dinner. Of the four places laid, one at
@@ -12034,8 +10095,6 @@ even more formidable object, was a large and by no means untouched bottle
 of brandy, and opposite that, by a sort of meek fantasy of contrast,
 
 stood an untasted glass of milk.
-
-
 
 Cigars and cigarettes of the best quality were placed on a small side
 
@@ -12057,8 +10116,6 @@ and all the rest had vanished; suddenly, silently and completely, as the
 
 light had vanished from the window with the first blow upon the door.
 
-
-
 "Pretty quick work," said the Chief of Police, "but I suppose they're
 
 bolting for some other exit. Send the men down to the basement at once,
@@ -12069,13 +10126,9 @@ off yet; this coffee is still quite hot and I think he was just going to
 
 help himself to sugar."
 
-
-
 "Who was?" inquired Simon a little hazily. "Do you think they were all
 
 here?"
-
-
 
 "Obviously they were," replied Grimm. "One doesn't need to be much of a
 
@@ -12115,15 +10168,11 @@ Jews, with their delicate and cautious art of pleasure. Some say it's
 
 because they don't believe in a future life."
 
-
-
 While he was talking thus, apparently at random, he was thoroughly
 
 ransacking the room, leaving to his subordinates the ransacking of the
 
 house, and his frown was heavy though his tone was light.
-
-
 
 The ransacking of the room could for the present be only superficial, but
 
@@ -12197,8 +10246,6 @@ chemical gas, that made solid human bodies vanish like smoke or turn
 
 transparent like glass.
 
-
-
 A searching and scientific examination, covering days and weeks, brought
 
 them no farther than those first few observations of the first few
@@ -12219,8 +10266,6 @@ of Police and the financier, playing the amateur detective, went back to
 
 report to the Prime Minister and the King.
 
-
-
 Despite the swiftness with which Colonel Grimm had darted out of the rear
 
 of the house after the fugitives, he was brought up all standing at the
@@ -12238,8 +10283,6 @@ the runaway rebels, like the paper scattered by the hares in a
 paper-chase. He put one finger to the paper-covered wall and found the
 
 paste on it still wet.
-
-
 
 But it was the proclamations themselves that were most arresting. They
 
@@ -12262,8 +10305,6 @@ adjured especially to "Look to the Frontiers" and it was not only implied
 that the mysterious "Word" was now to be spoken, but hinted that the
 
 thick and thunderous lips of the sinister African would speak it.
-
-
 
 Passing up the Poplar Avenue towards the red-brick Georgian palace, they
 
@@ -12295,21 +10336,15 @@ imparted a nameless nuance of fussiness, and the King had a great
 
 objection to fuss.
 
-
-
 The Chief of Police told the story of his dramatic disappointment and the
 
 King listened to it with mild wonder but without any appearance of
 
 irritation.
 
-
-
 "I suppose," he said, "that if that old Jew really bought the house
 
 specially for them, he must have fixed up some sort of trick in it."
-
-
 
 "So I had supposed, sir," assented Grimm. "But we cannot as yet come on
 
@@ -12319,13 +10354,9 @@ about what these four rascals may be doing. Their proclamations make it
 
 quite plain that they are preparing a big move."
 
-
-
 "If you can't catch them," put in Simon, "can't you arrest anybody else?
 
 Surely the Party must have some other leaders."
-
-
 
 The Chief of Police shook his head. "That is the queerest thing about
 
@@ -12355,11 +10386,7 @@ private and it melts at a touch. We can convict nobody but these four,
 
 and the only people we can convict are the only people we can't catch."
 
-
-
 "Then we have actually nobody in custody," said Simon.
-
-
 
 Grimm made a wry face. "We hung on to one stupid footman who opened the
 
@@ -12367,13 +10394,9 @@ door to us," he said. "Not a very glorious bag to boast of when you are
 
 out gunning for General Case."
 
-
-
 "We must be thankful for small things," said the King. "What does the
 
 stupid footman say?"
-
-
 
 "He doesn't say anything. It's possible he doesn't know anything. Indeed
 
@@ -12385,21 +10408,15 @@ say people choose flunkeys for their calves. Or he may have some dull
 
 idea of being loyal to his master."
 
-
-
 The Princess turned her head for the first time and said: "Has anybody
 
 suggested the rather brighter idea of being loyal to his King?"
-
-
 
 "I'm afraid," said Clovis, in a nervous and uneasy manner, "that the time
 
 has gone by for cavaliers and gallant courtiers, Mary. You can't solve
 
 modern political problems by telling people to be loyal to the King."
-
-
 
 "Why do they tell them to be loyal to everything else except the King?"
 
@@ -12419,8 +10436,6 @@ tell me I'm old-fashioned. Or else you tell me I'm young. It seems to be
 
 considered the same thing."
 
-
-
 His Majesty the King of Pavonia stared at his niece with a sort of vague
 
 alarm, as if a kitten had turned into a tiger-cat on the hearth-rug. But
@@ -12428,8 +10443,6 @@ alarm, as if a kitten had turned into a tiger-cat on the hearth-rug. But
 she went on like one who is resolved to release an accumulation of
 
 impatience.
-
-
 
 "Why must the King be the only private gentleman in Pavonia? All the
 
@@ -12467,8 +10480,6 @@ and cardinals and peers and judges used to be Red, when we weren't
 
 ashamed of having a little colour in our lives."
 
-
-
 The constitutional monarch seemed more and more embarrassed. "Perhaps,"
 
 he said, "we have wandered a little from the point. It was a small point
@@ -12476,8 +10487,6 @@ he said, "we have wandered a little from the point. It was a small point
 we were mentioning at the moment, about the questioning of the footman
 
 and--"
-
-
 
 "I have every intention of sticking to the point," said the Princess
 
@@ -12495,13 +10504,9 @@ to a conspirator, because we were afraid to put him into a uniform and
 
 ask him to be loyal to a king."
 
-
-
 "Personally," said Grimm, "I have a great deal of sympathy with Your
 
 Royal Highness's view. But I'm afraid it's too late to do that now."
-
-
 
 "How do you know?" demanded the lady with some heat. "Have you ever put
 
@@ -12516,8 +10521,6 @@ details of time and place that no healthy human being ever remembers, and
 he's reduced to looking like the village idiot, and I don't wonder. I
 
 should like to talk to him myself."
-
-
 
 "My dear Mary--" began her uncle, now thrown thoroughly into disarray,
 
@@ -12549,8 +10552,6 @@ hero at the head of armies, and really to stand quarrelling over the
 
 ignorance of a chance lackey--"
 
-
-
 As he spoke he found himself wavering between the door and the advancing
 
 Princess, and in his throat also the words seemed to dry up. For both men
@@ -12567,11 +10568,7 @@ flunkey, as if there were something in her of that great peasant girl
 
 from Domremy when she demanded audience of a King.
 
-
-
 IV THE UNREASONABLENESS OF WOMAN
-
-
 
 WHEN the great police raid on Peacock Crescent had a conclusion pour rire
 
@@ -12603,8 +10600,6 @@ police who had questioned and cross-questioned him came to the conclusion
 
 that they had to deal with a case of stubbornness as well as stupidity.
 
-
-
 He had, of course, been bullied and badgered, and threatened with all
 
 sorts of entirely illegal things, according to the method which the
@@ -12633,8 +10628,6 @@ altogether without sympathy and subtlety, still suspected that the
 
 taciturnity was tinged with fidelity.
 
-
-
 Anyhow, the servant in his capacity of prisoner was drearily accustomed
 
 by this time to see the door of his cell open and some uniformed official
@@ -12661,8 +10654,6 @@ with a resolute clang and faced the astounded lackey with an equally
 
 resolute smile.
 
-
-
 He knew who she was, of course; he had seen her in the illustrated papers
 
 and even driving about the city in her car. In reply to her first
@@ -12673,15 +10664,11 @@ waved them on one side with a direct familiarity that paralysed him even
 
 more.
 
-
-
 "Don't let us worry about all that," she said. "We are both subjects of
 
 the King and patriots of Pavonia. At least I'm sure you must be really a
 
 patriot and I want to know why you don't behave like one."
-
-
 
 There was a long silence, and then he said, looking at the floor and in a
 
@@ -12690,8 +10677,6 @@ rather hang-dog fashion: "I don't want any misunderstandings, Your
 Highness. I don't set up to be much of a patriot, and these people were
 
 always good to me."
-
-
 
 "Why, what did they do for you?" she demanded. "Gave you tips from time
 
@@ -12707,19 +10692,13 @@ walk down the street in safety or liberty, without relying on the law
 
 that defends the citizens of the State."
 
-
-
 He suddenly threw up his head, and the very blank emptiness of his blue
 
 eyes affected her with something dizzy and even dazzling.
 
-
-
 "You see," he said, without a smile, "I am not walking in liberty down
 
 the street just now."
-
-
 
 "I know," she said obstinately, "but it's your own fault, isn't it? I'm
 
@@ -12729,21 +10708,15 @@ over all of us like a thundercloud, and you won't say a word to save us,
 
 by telling us where the bolt will fall."
 
-
-
 He continued to stare in a vacant manner, and then repeated like an
 
 automaton: "The men were always good to me."
-
-
 
 She wrung one hand with a gesture of exasperation, and said rather
 
 unreasonably: "I don't believe they did anything at all. I expect they
 
 treated you rottenly, really."
-
-
 
 He seemed to meditate in his heavy way, and then said haltingly, but with
 
@@ -12777,13 +10750,9 @@ like a blanket. At least, I suppose some people think it would. You have
 
 to have rather rum experiences to find out that it doesn't."
 
-
-
 His figure remained heavy and motionless, but his voice took a new and
 
 rather indescribable turn or change.
-
-
 
 "But I did get food at Peacock Crescent. Those horrible revolutionists,
 
@@ -12799,17 +10768,11 @@ deserting them. Is thy servant less than a dog, that he should do this
 
 thing?"
 
-
-
 Something in the lift of his voice on the Scriptural phrase startled her
 
 and made her stare at him with a new curiosity.
 
-
-
 "What is your name?" she said.
-
-
 
 "My name is John Conrad," he said quite readily. "I have no family now to
 
@@ -12820,8 +10783,6 @@ present. But I assure Your Royal Highness there's no particular mystery
 about that. Coming down in the world is common enough in these days.
 
 Commoner than coming up in the world, which is even worse."
-
-
 
 She spoke in a lowered voice. "If you are really an educated man and a
 
@@ -12839,8 +10800,6 @@ with any general sense of right to say you are a dog, and on that excuse
 
 fill the whole town with mad dogs?"
 
-
-
 He gazed at her with a painful intensity; in some strange fashion the
 
 staring and startling social disparity between them had really faded away
@@ -12855,8 +10814,6 @@ over his face and he seemed to realize some meaning to the situation he
 
 had as yet been too stunned to see.
 
-
-
 "It's beyond all possible goodness that you should trouble to talk to me
 
 like this," he said. "You, at least, are more generous to me than the men
@@ -12869,11 +10826,7 @@ Pavonia with its peacocks and palaces and police courts, and I wouldn't
 
 give up an inch of my own scruples for them."
 
-
-
 "If you like to put it so," she said quite steadily, "do it for me."
-
-
 
 "I certainly wouldn't do it for the others," he said, "but you see,
 
@@ -12884,8 +10837,6 @@ pleasure, but I don't believe a bit of what you say about it being a
 duty. And what sort of a dog is it that won't do it for duty, but will do
 
 it for pleasure."
-
-
 
 "Oh, I hate that obstinate expression you've got!" she cried with a
 
@@ -12901,21 +10852,15 @@ long sentence for treason, if they do nothing else, if you will protect
 
 these devils who want to blow us all up tomorrow."
 
-
-
 "Very well," he said in a hard voice. "Then I must make up my mind to be
 
 punished for treason because I will not be a traitor."
-
-
 
 Something compact in his curt epigram seemed to savour almost of
 
 contempt, and her self-control suddenly gave way before a blaze of really
 
 royal anger.
-
-
 
 "Very well, then," she cried, turning furiously towards the door, "you
 
@@ -12931,15 +10876,11 @@ all. And perhaps God cares, but you don't. You don't care for anything or
 
 anybody but your own chin and your own brutal pride. I've done with you."
 
-
-
 And she flung open the door, incongruously giving another glimpse of the
 
 pudding-faced policeman outside; then she vanished through the opening
 
 and the door clanged again and the prisoner was left alone in his cell.
-
-
 
 He sat down on the plank-bed and put his head in his hands, remaining in
 
@@ -12956,8 +10897,6 @@ coming to bother him once more. But on this occasion the official
 interview was somewhat longer than usual, and of a somewhat different
 
 character.
-
-
 
 A few hours afterwards, when the Princess was declining, and the King
 
@@ -12979,19 +10918,13 @@ going to tell us where they're hidden, I expect we shall be too quick for
 
 them after all. Grimm says--"
 
-
-
 The Princess Aurelia Augusta, otherwise Mary, had risen to her feet as if
 
 she had received a personal insult.
 
-
-
 "What's all this mean?" she cried. "The footman hasn't spoken. He refuses
 
 absolutely to speak."
-
-
 
 "Your Royal Highness will pardon me," said the Prime Minister stiffly. "I
 
@@ -12999,13 +10932,9 @@ have the news straight from the Chief of Police. The footman has
 
 certainly confessed the facts."
 
-
-
 "It's not true!" said Her Royal Highness obstinately. "I don't believe it
 
 for a minute."
-
-
 
 She seemed quite indignant about it, and indeed those who retain any
 
@@ -13017,15 +10946,11 @@ prison, she was very harsh and scornful towards him for having decided
 
 upon betraying all that she had told him to betray.
 
-
-
 "So that's the end of all your heroics and stubbornness and sticking out
 
 your chin," she said. "You're going to save yourself after all, and give
 
 up all these poor deluded creatures that are in hiding."
-
-
 
 He threw up his head in the rather startling fashion he had and stared at
 
@@ -13033,13 +10958,9 @@ her with the blank but blazing blue eyes, that had always something about
 
 them of vertigo and the empty air, making the spectator dizzy.
 
-
-
 "Well," he said, "I certainly didn't suppose you regarded them with so
 
 much sympathy."
-
-
 
 "I regard them with great sympathy for having to do with you," she said,
 
@@ -13048,8 +10969,6 @@ in a somewhat vicious manner. "Of course, I don't agree with them, but
 I'm quite sorry for them, being hunted and having to trust such people to
 
 hide them. I expect it was you who led them into mischief."
-
-
 
 The last clause was perhaps an afterthought. She said it on those sound
 
@@ -13061,19 +10980,13 @@ surprised in her life than when he smiled and said: "Yes, perhaps you are
 
 right. It was I who led them into mischief."
 
-
-
 As she looked at him with a painful curiosity, he added: "But remember
 
 what you said. If I did them wrong, I did it for you."
 
-
-
 An instant afterwards he burst out in a new and volcanic voice, that she
 
 had never heard before from him or from any man.
-
-
 
 "Do you suppose I don't know that it's all utterly unfair? Why should you
 
@@ -13087,29 +11000,19 @@ against power, but who is going to raise up ugliness against beauty?
 
 Who--?"
 
-
-
 He had taken a stride forward, but, what was much stranger, she had
 
 herself started and moved forward in response. She was staring into his
 
 face as if it had been blasted by a lightning-flash.
 
-
-
 "Oh, my God!" she cried. "It can't be that!"
-
-
 
 For she had in that instant become aware of an amazing possibility, and
 
 the rest of their interview was too wonderful to be believed.
 
-
-
 V THE TERMS OF A TRAITOR
-
-
 
 ONE single thought like a thundercloud brooded over Pavonia, its palace
 
@@ -13151,8 +11054,6 @@ stop the work of the Four Destroyers for ever and put them henceforth in
 
 your power. But I must name my conditions."
 
-
-
 Whatever may have been the historical facts about the decayed family of
 
 John Conrad, there is no doubt that he entered on the scene of a
@@ -13187,13 +11088,9 @@ is only reasonable, in consideration of what you regard yourself as
 
 sacrificing, that you should receive a really handsome equivalent."
 
-
-
 "May I respectfully ask," inquired Conrad, "who is to decide exactly what
 
 is an equivalent?"
-
-
 
 "Your Majesty," interposed Colonel Grimm, "I do not believe in beating
 
@@ -13213,21 +11110,15 @@ fails, there is nothing else but bribery. And the plain common sense of
 
 it is that he can name the bribe."
 
-
-
 The Prime Minister coughed and said a little huskily: "That is rather a
 
 sweeping statement, but if Mr. Conrad would give us some idea of what he
 
 would regard as a reasonable settlement. ..."
 
-
-
 "I shall require," said John Conrad, "nothing less than ten thousand a
 
 year."
-
-
 
 "Really," said the Prime Minister, in his rather flustered fashion, "this
 
@@ -13235,21 +11126,15 @@ sort of thing seems to me quite extravagant. You could do anything you
 
 wanted to do, in your class of life, on much less."
 
-
-
 "You are wrong," replied Conrad calmly. "My class of life is much more
 
 exacting than you suppose. I do not see how I could keep up the position
 
 of a Grand Duke of Pavonia on less."
 
-
-
 "Of a Grand . . ." began Mr. Valence, and his voice seemed to fail and
 
 fade away.
-
-
 
 "Obviously," said Conrad in a reasonable tone. "It would be a gross
 
@@ -13259,8 +11144,6 @@ Royal Houses of Europe, to ask His Majesty to allow his own niece to be
 
 married to anybody under the rank of a Grand Duke of Pavonia."
 
-
-
 The rest of the company regarded the affable footman much as the King and
 
 Court may have regarded Perseus when he turned them all to stone. But
@@ -13268,8 +11151,6 @@ Court may have regarded Perseus when he turned them all to stone. But
 Grimm recovered his voice first with a good gross military oath, followed
 
 by a demand to know what the devil it was all about.
-
-
 
 "I shall not ask for any formal political office in the government of the
 
@@ -13301,19 +11182,13 @@ position with which you will shortly honour me, I can promise you that
 
 though there will be no revolution, there will be a very drastic reform."
 
-
-
 The Prime Minister rose to his feet in uncontrollable agitation, for
 
 professional reformers do not like to hear about drastic reform.
 
-
-
 "These suggestions are intolerable," he cried. "They are fantastic. They
 
 are not to be listened to for a moment."
-
-
 
 "They are my terms," said Conrad gravely. "I am quite ready to go back to
 
@@ -13327,13 +11202,9 @@ wait in my prison, and you will sit here and wait in your palace, for you
 
 know not what."
 
-
-
 There was a long silence and then Colonel Grimm said very softly: "Oh,
 
 ten million howling devils in hell!"
-
-
 
 The twilight was settling slowly over the long tapestried apartment, of
 
@@ -13377,8 +11248,6 @@ fancied they could hear something like the steady ticking of a bomb and
 
 they waited for the catch that comes before the deafening death.
 
-
-
 At length, in that silence as of the ages, Clovis the Third spoke for
 
 Pavonia and all his people, as it was in the days of old. He knew not
@@ -13388,8 +11257,6 @@ whether it should be called a surrender or a stroke of victory, but he
 knew it was necessary and he spoke with a fullness and firmness of voice
 
 which had long been rare in him.
-
-
 
 "The time is short," he said, "and there is no other course, I think, but
 
@@ -13401,13 +11268,9 @@ of Professor Phocus, of Case and Loeb, as enemies of this State, and to
 
 deliver them up to us, to deal with them as we will."
 
-
-
 "I promise," said John Conrad, and the King rose suddenly to his feet,
 
 like one who dissolves an audience.
-
-
 
 Nevertheless, most of the company that had formed the Council broke up in
 
@@ -13434,8 +11297,6 @@ none of them felt any longer any particular incongruity between him and
 such high ambitions. He gave rather the impression of a man familiar, not
 
 only with high ambitions, but with high aspirations.
-
-
 
 He moved with the indescribable poise of those who have never really lost
 
@@ -13475,8 +11336,6 @@ that he could imagine Conrad more easily as a man blowing up the town
 
 with dynamite than as a man betraying his accomplices.
 
-
-
 Nevertheless, the man's word was given, and Grimm felt certain that he
 
 would keep it, and heaved a huge sigh of relief on reflecting that they
@@ -13489,13 +11348,9 @@ sense wildly wrong about all his calculations in the case, he was, in
 
 fact, perfectly right in that one.
 
-
-
 He joined John Conrad outside the palace and said to him with military
 
 brevity: "Well, I suppose we had better leave the next step to you."
-
-
 
 The next step led them together down the long poplar avenue, past the
 
@@ -13529,8 +11384,6 @@ stooped down and seemed to be moving his finger like one writing in the
 
 dust.
 
-
-
 "Perhaps you do not know," he said, without lifting his head, "that most
 
 of the proclamations and phrases in this revolution are jokes. Almost
@@ -13547,8 +11400,6 @@ you have traced every curve in an extremely complicated outline. Only it
 
 ought to be a familiar outline. Only it isn't."
 
-
-
 As he spoke, he appeared to jerk up a certain section of the turf, which
 
 seemed to be in reality a board with grass growing on top of it, like a
@@ -13561,8 +11412,6 @@ it was of a very elaborate outline, indented and diversified as if with
 
 capes and bays.
 
-
-
 "You ought to know that," he said. "You must have studied it often enough
 
 in the Atlas, especially the military Atlas. That is the map of Pavonia.
@@ -13570,8 +11419,6 @@ in the Atlas, especially the military Atlas. That is the map of Pavonia.
 And that, if you will excuse our little joke, is what we meant when we
 
 said that we should look for safety to the frontiers."
-
-
 
 Before the Chief of Police could reply, his informant had abruptly
 
@@ -13584,8 +11431,6 @@ newly-uncovered abyss, and saying cheerily: "Come along down. There's
 quite an easy ladder. Just follow me, and you shall see the last of the
 
 men you fear."
-
-
 
 Colonel Grimm stood for a moment like a statue in the moonlight. Then he
 
@@ -13655,8 +11500,6 @@ the upper air of the little garden, and he sometimes fancied afterwards
 
 that it was the power to laugh.
 
-
-
 The light like a distant star above him disappeared, and he continued to
 
 descend the ladder, rung by rung, only very vaguely imagining what sort
@@ -13665,11 +11508,7 @@ of perils or horrors might be below. But whatever he thought of it, it
 
 was nothing so extraordinary as what he found.
 
-
-
 VI THE SPEAKING OF THE WORD
-
-
 
 COLONEL GRIMM of the Pavonian Police was very exactly described as a
 
@@ -13715,8 +11554,6 @@ tone: "Stay where you are a moment. I will go on and look round; they
 
 won't be alarmed at me."
 
-
-
 He remained hanging on the ladder and looking up at a pale disc of light
 
 like the moon itself, which showed the opening of the well. A moment
@@ -13741,15 +11578,11 @@ catch us so easily. We've only to say The Word and the world will be
 
 destroyed."
 
-
-
 Then the grotesque stopper was taken out of the strange bottle; the disc
 
 of dull light reappeared; and after a few moments of bewildered waiting,
 
 he heard the voice of his guide whispering over the brink.
-
-
 
 "He's gone," said Conrad. "You can come up now." When he came up, it was
 
@@ -13765,15 +11598,11 @@ to watch the place, standing round and composedly answering the rather
 
 conspiratorial signals of Conrad.
 
-
-
 "You can go into the house in a minute," said Conrad in the same low
 
 voice. "I'll just nip in and see that everything's all right, but I'm
 
 sure they're all boxed up in there. Bring your men with you, of course."
-
-
 
 He darted into the back of a house, which Grimm fancied was the house
 
@@ -13786,8 +11615,6 @@ consider the advisability of following their solitary leader into the den
 of criminals, when they caught their breath and stood still, staring up
 
 at the house.
-
-
 
 One of the window blinds was jerked up and there appeared at the window
 
@@ -13815,23 +11642,17 @@ stars shrivel in the single sun, The words are many, but The Word is
 
 one."
 
-
-
 Then he suddenly snapped the blind down and vanished, the room behind him
 
 turning dark. They could hardly believe that the incident, especially so
 
 senseless an incident, had really happened at all.
 
-
-
 The next moment they were conscious that their creepy friend the
 
 conspirator had come close to them again in complete silence and was
 
 whispering: "You can go in now and nab them all."
-
-
 
 Grimm, at the head of his stolid policemen, stumped up some stairs and
 
@@ -13857,15 +11678,11 @@ sign a single name. "This is where they live," said John Conrad, "and I
 
 promise you they shall not escape."
 
-
-
 Then after a pause he added: "But before we seek them out in their
 
 separate suites of apartments, I want to talk to you about something. I
 
 want to talk to you about The Word."
-
-
 
 "I suppose," said the official grimly, "that we are to be allowed to hear
 
@@ -13873,19 +11690,13 @@ The Word also, though somebody has just told me that it will destroy the
 
 world."
 
-
-
 "I do not think it will destroy the world," answered Conrad gravely. "I
 
 hope it will rather recreate it."
 
-
-
 "Then," said Grimm, "I may take it that when we do know The Word, we
 
 shan't find that is a joke too."
-
-
 
 "In one sense it's a joke," answered the other. "In one sense when you
 
@@ -13893,15 +11704,9 @@ know it, you will know it's a joke. But the joke is that you know it
 
 already."
 
-
-
 "I'm sure I don't know what you mean by saying so," said the other.
 
-
-
 "You have heard The Word twenty times," said Conrad.
-
-
 
 "You heard it only ten minutes ago. We have shouted and bellowed The Word
 
@@ -13911,8 +11716,6 @@ whole secret of this conspiracy is really in one word; only that we've
 
 never kept it a secret."
 
-
-
 Grimm was looking at him with gleaming eyes under his heavy brows, and
 
 something like a suspicion was creeping into his face. Conrad repeated
@@ -13921,13 +11724,9 @@ very seriously, with a slow and heavy enunciation the words: "As all
 
 stars shrivel in the single sun . . ."
 
-
-
 Grimm leapt to his feet with an oath and suddenly made a dash at the door
 
 labelled "Sebastian".
-
-
 
 "Yes, you've got it," said Conrad with a smile. "It's only a question of
 
@@ -13935,11 +11734,7 @@ which word you italicize. Or, if you like, of which word you begin with a
 
 big letter."
 
-
-
 "The words are many," muttered Grimm, fumbling at the door.
-
-
 
 "Yes," answered the other, "but the word is One." Colonel Grimm flung
 
@@ -13951,8 +11746,6 @@ and from these were hanging a red wig, a red artificial beard, a scarf of
 
 peacock colours and all the externals of the popular poet.
 
-
-
 "All the history of the great revolution," went on John Conrad, in the
 
 calm tone of a lecturer, "the whole method by which it was enabled to
@@ -13962,8 +11755,6 @@ spread and menace the great State of Pavonia is and always was to be
 summed up in a single word: a word I constantly repeated, but a word that
 
 you never guessed. It is the word One."
-
-
 
 He stepped from the table to the door at right angles to the open one;
 
@@ -13975,8 +11766,6 @@ narrow, tall hat, a dilapidated waterproof and a bulbous mask bridged by
 
 a pair of green spectacles.
 
-
-
 "These are the luxurious apartments of the celebrated Professor Phocus,"
 
 he said. "Need I explain to you that there never was any Professor
@@ -13986,8 +11775,6 @@ Phocus?-except myself, of course, who professed to be the Professor. In
 the case of Loeb and Case I ran rather a greater risk, for they were, or
 
 had been, real people."
-
-
 
 He paused a moment, rubbing his long chin, and then said: "But it's odd
 
@@ -14022,8 +11809,6 @@ even the King himself, that old Loeb the pawnbroker was dead, and so he
 was. He died years before I began to impersonate him with these trifling
 
 adornments."
-
-
 
 And he threw open another cupboard, displaying a dusty interior festooned
 
@@ -14111,13 +11896,9 @@ General Case, but it's only the uniform. The rest consists chiefly of
 
 blacking,"
 
-
-
 "Quite so," said Colonel Grimm, politely. "I will excuse you from
 
 exhibiting the blacking. And now, what is to happen?"
-
-
 
 The chief conspirator seemed to be still sunken in a sort of reverie. At
 
@@ -14135,13 +11916,9 @@ great soldier Case is captured and hanged; Phocus and Loeb are captured
 
 and hanged. You can see them hanging-on hat-pegs."
 
-
-
 Then he added, with a bow of profound modesty: "But their humble tool,
 
 John Conrad, has the pardon of the King."
-
-
 
 Grimm once more sprang erect with a ringing curse which cracked and
 
@@ -14159,13 +11936,9 @@ you have done what you said you would do, and kept your own word in your
 
 own way."
 
-
-
 "Yes," said Conrad, with a new sobriety, "it is the only thing worth
 
 calling The Word."
-
-
 
 It has been already explained that Pavonia possessed a modern and
 
@@ -14185,15 +11958,7 @@ purely personal honour, but there was a rumour that his niece had a good
 
 deal to do with it.
 
-
-
-
-
-
-
 EPILOGUE OF THE PRESSMAN
-
-
 
 THE Thief, the Quack, the Murderer and the Traitor, had made their
 
@@ -14207,8 +11972,6 @@ whole of that time Mr. Pinion had preserved an air of polite attention
 
 and had not interrupted by so much as a word.
 
-
-
 When they were over, he coughed slightly and said: "Well, gentlemen, I'm
 
 sure I've been very much interested in your remarkable narratives. But I
@@ -14221,13 +11984,9 @@ you, or prompted you, or stuck my oar in anyway, but have enjoyed your
 
 hospitality without taking advantage of it."
 
-
-
 "I am sure," said the doctor heartily, "nobody could possibly have been
 
 more patient and considerate."
-
-
 
 "I only ask," proceeded Mr. Pinion, in his gentle tones, "because in the
 
@@ -14247,13 +12006,9 @@ hung on to Judge Grogan by one leg, when he was climbing into the
 
 aeroplane."
 
-
-
 "Well," said the doctor, "I own I never should have guessed it of you.
 
 Nobody would think you'd ever done a thing like that."
-
-
 
 "I never did," replied Mr. Pinion calmly. "Judge Grogan and I had a
 
@@ -14263,13 +12018,9 @@ request. But each of us has got to keep up his own professional
 
 reputation, whether it's as a Murderer, a Robber or a Reporter."
 
-
-
 "Do you mean," asked the big man intervening, "that you didn't really
 
 batter or wreck or rip anything or anybody?"
-
-
 
 "Well, not quite so much as you murdered anybody," answered the American
 
@@ -14283,11 +12034,7 @@ polite. My experience is," he added mildly and gravely, "that most folks
 
 are only too ready to talk about themselves."
 
-
-
 The four men around him looked at each other and then broke into a laugh.
-
-
 
 "That's certainly one for us," said the doctor. "You've certainly got our
 
@@ -14296,8 +12043,6 @@ stories out of us and done it by being perfectly polite. Do you really
 mean to say that if you publish them, you'd have to pretend you could
 
 only do it by being rude?"
-
-
 
 "I guess so," said Mr. Pinion, nodding gravely. "If I publish your story,
 
@@ -14321,19 +12066,13 @@ at appropriate times. Or rather," and he again suppressed a smile,
 
 "letting them talk to you."
 
-
-
 "Do you think," asked the big man thoughtfully, "that that sort of
 
 sensationalism really impresses the public?"
 
-
-
 "I don't know," said the journalist. "I should rather think not. It
 
 impresses the editor, and that's what I've got to think about."
-
-
 
 "But, if you'll excuse me, don't you mind yourself," pursued the other.
 
@@ -14343,13 +12082,9 @@ Battering-Ram when you're really a perfectly normal and well-educated
 
 gentleman?"
 
-
-
 "Well," said the journalist, "I suppose, as I say, that most of us are
 
 misunderstood one way or another."
-
-
 
 There was a momentary silence at the table, and then Dr. Judson turned in
 
@@ -14357,20 +12092,6 @@ his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 
 Lee Pinion as a member of the Club."
 
-
-
-
-
-
-
 End of this Project Gutenberg of Australia eBook
 
 Four Faultless Felons by G.K. Chesterton
-
-
-
-
-
-
-
-===== FINE FILE: FourFaultlessFelons.txt =====

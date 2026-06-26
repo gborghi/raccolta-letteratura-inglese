@@ -17,7 +17,6 @@ G.K. Chesterton, A Short History of England, 1917.
 
 --/--
 
-
 I-- Introduction
 
 II-- The Province of Britain
@@ -53,7 +52,6 @@ XVI-- Aristocracy and the Discontents
 XVII-- The Return of the Barbarian
 
 XVIII-- Conclusion
-
 
 --/--
 
@@ -5882,7 +5880,3 @@ of our story, is half inclined to wish that the wave of
 Teutonic barbarism had washed out us and our armies together;
 and that the world should never know anything more of the last
 of the English, except that they died for liberty.
-
-
-
-===== FINE FILE: history.txt =====

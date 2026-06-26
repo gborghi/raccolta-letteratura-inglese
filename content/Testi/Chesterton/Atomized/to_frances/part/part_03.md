@@ -167,6 +167,3 @@ in this.  The third is that he has tried to love everything alive:
 a dim preparation for loving you.  And the fourth is--but no words
 can express that.  Here ends my previous existence.  Take it:
 it led me to you.
-
-
-===== FINE FILE: to-frances.txt =====

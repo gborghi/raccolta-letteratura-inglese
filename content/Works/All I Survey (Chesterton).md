@@ -86,7 +86,6 @@ tags:
 - [Chapter 43](/Testi/Chesterton/Atomized/All_I_Survey/Chapter_43)
 - [Chapter 44](/Testi/Chesterton/Atomized/All_I_Survey/Chapter_44)
 
-
 ## Testo integrale / Full text
 
 ALL I SURVEY A BOOK OF ESSAYS by G. K. CHESTERTON
@@ -1729,7 +1728,6 @@ jerk of disappointment--
         The temper and mind
         Religion-refined
     Will shine through the veil with sweet lustre.
-
 
 If you read much of it, you will reach a state of mind in which,
 even though you know the jolt is coming, you can hardly forbear
@@ -6272,6 +6270,3 @@ can be a plague or carry a pestilence; and the ancient name
 of Beelzebub has the meaning of the Lord of Flies.
 
 -*-
-
-
-===== FINE FILE: All_I_Survey.txt =====

@@ -99,7 +99,6 @@ Cornish churchyard; and as he went briskly on his way he rehearsed
 all the details of that old story, which he was to tell to the lady
 at his journey's end.
 
-
 Nearly fourteen years before, Gabriel Gale had come of age and
 inherited the moderate debts and the small freehold of a rather
 unsuccessful gentleman farmer.  But though he grew up with the
@@ -841,7 +840,6 @@ Gale added reflectively:
 
 "I knew you would never fail to take a hint."
 
-
 A street or two away from the strange madhouse there was a sort
 of toy park, not much bigger than a back garden, but laid out
 in ornamental paths and planted with flowering shrubs, as an oasis
@@ -910,7 +908,3 @@ The children in the corner of the little garden gazed with interest at
 a gentleman in funeral full-dress behaving in a somewhat unusual manner.
 
 THE END
-
-
-
-===== FINE FILE: Poet_and_Lunatics.txt =====

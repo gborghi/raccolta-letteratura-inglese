@@ -156,7 +156,3 @@ if only for a moment.  If you wish to realize how fearfully
 and wonderfully God's image is made, stand on one leg.
 If you want to realize the splendid vision of all visible things--
 wink the other eye.
-
-
-
-===== FINE FILE: one_leg.txt =====

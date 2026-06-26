@@ -55,8 +55,4 @@ Gifts for his children terrible and sweet,
 Touched by such tiny hands and  
 Oh such tiny feet.  
 
-Frances Chesterton  
-
-
-
-===== FINE FILE: Little_Door.txt =====  
+Frances Chesterton

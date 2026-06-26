@@ -56,8 +56,4 @@ You may trace this curious nation,
 And respect this somewhat scattered Principality;  
 When you see a B in Both  
 You may take your Bible oath  
-You are violating Belgian neutrality.  
-
-
-
-===== FINE FILE: alliterativism.txt =====  
+You are violating Belgian neutrality.

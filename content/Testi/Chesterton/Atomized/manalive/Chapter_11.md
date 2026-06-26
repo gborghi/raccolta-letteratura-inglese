@@ -19,7 +19,6 @@ tags:
 		   How the Great Wind Went
 		      from Beacon House
 
-
 Mary was walking between Diana and Rosamund slowly up and down the garden;
 they were silent, and the sun had set.  Such spaces of daylight as remained
 open in the west were of a warm-tinted white, which can be compared
@@ -146,11 +145,4 @@ but when the wind died down, and the party, at the top of
 their evening's merriment, looked again for Mary and for him,
 they were not to be found.
 
-
-
 			   The End
-
-
-
-
-===== FINE FILE: manalive.txt =====

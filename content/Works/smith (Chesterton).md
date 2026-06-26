@@ -87,7 +87,4 @@ For your God or dream or devil
 Talk about the pews and steeples  
    And the cash that goes therewith!  
 But the souls of Christian peoples...  
-                      Chuck it, Smith!  
-
-
-===== FINE FILE: smith.txt =====  
+                      Chuck it, Smith!

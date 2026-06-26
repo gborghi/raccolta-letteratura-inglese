@@ -19,12 +19,7 @@ ORTHODOXY
 
                      GILBERT K. CHESTERTON
 
-
-
-
-
 PREFACE
-
 
      This book is meant to be a companion to "Heretics,"
 and to put the positive side in addition to the negative. 
@@ -48,12 +43,7 @@ a repeated and surprising coincidence.
 
                                                 Gilbert K. Chesterton.
 
-
-
-
-
 CONTENTS
-
 
 I.    Introduction in Defence of Everything Else
 
@@ -73,16 +63,9 @@ VIII. The Romance of Orthodoxy
 
 IX.   Authority and the Adventurer
 
-
-
-
-
 ORTHODOXY
 
-
-
 I INTRODUCTION IN DEFENCE OF EVERYTHING ELSE
-
 
      THE only possible excuse for this book is that it is an
 answer to a challenge.  Even a bad shot is dignified when he
@@ -258,10 +241,7 @@ autobiography.  But if any one wants my opinions about the
 actual nature of the authority, Mr. G.S.Street has only to throw
 me another challenge, and I will write him another book.
 
-
-
 II THE MANIAC
-
 
      Thoroughly worldly people never understand even the world;
 they rely altogether on a few cynical maxims which are not
@@ -654,7 +634,6 @@ and (according to Haeckel) the whole of life is something much
 more grey, narrow, and trivial than many separate aspects of it. 
 The parts seem greater than the whole.
 
-
      For we must remember that the materialist philosophy
 (whether true or not) is certainly much more limiting than any religion. 
 In one sense, of course, all intelligent ideas are narrow. 
@@ -768,7 +747,6 @@ his own insane pencil on the walls of his cell.  But over his
 cell shall be written, with dreadful truth, "He believes in
 himself."
 
-
      All that concerns us here, however, is to note that this
 panegoistic extreme of thought exhibits the same paradox as
 the other extreme of materialism.  It is equally complete in theory
@@ -878,10 +856,7 @@ as the circle of Euclid on a blackboard.  For the moon is
 utterly reasonable; and the moon is the mother of lunatics
 and has given to them all her name.
 
-
-
 III THE SUICIDE OF THOUGHT
-
 
      The phrases of the street are not only forcible but subtle: 
 for a figure of speech can often get into a crack too small for
@@ -1479,10 +1454,7 @@ insane meekness.  They have parted His garments among them,
 and for His vesture they have cast lots; though the coat was
 without seam woven from the top throughout.
 
-
-
 IV THE ETHICS OF ELFLAND
-
 
      When the business man rebukes the idealism of his office-boy,
 it is commonly in some such speech as this:  "Ah, yes, when one
@@ -2259,10 +2231,7 @@ he had saved them from a wreck.  All this I felt and the age gave me
 no encouragement to feel it.  And all this time I had not even thought
 of Christian theology.
 
-
-
 V THE FLAG OF THE WORLD
-
 
      When I was a boy there were two curious men running about
 who were called the optimist and the pessimist.  I constantly
@@ -2831,10 +2800,7 @@ forgotten chambers in the dark house of infancy.  I knew now why
 grass had always seemed to me as queer as the green beard of a giant,
 and why I could feel homesick at home.
 
-
-
 VI THE PARADOXES OF CHRISTIANITY
-
 
      The real trouble with this world of ours is not that it is
 an unreasonable world, nor even that it is a reasonable one.
@@ -3620,10 +3586,7 @@ and in my vision the heavenly chariot flies thundering through the ages,
 the dull heresies sprawling and prostrate, the wild truth
 reeling but erect.
 
-
-
 VII THE ETERNAL REVOLUTION
-
 
      The following propositions have been urged:  First,
 that some faith in our life is required even to improve it; second,
@@ -4457,10 +4420,7 @@ from beyond the world.  "You will have real obligations,
 and therefore real adventures when you get to my Utopia. 
 But the hardest obligation and the steepest adventure is to get there."
 
-
-
 VIII THE ROMANCE OF ORTHODOXY
-
 
      It is customary to complain of the bustle and strenuousness
 of our epoch.  But in truth the chief mark of our epoch is
@@ -5084,10 +5044,7 @@ The secularists have not wrecked divine things; but the secularists
 have wrecked secular things, if that is any comfort to them.
 The Titans did not scale heaven; but they laid waste the world.
 
-
-
 IX AUTHORITY AND THE ADVENTURER
-
 
      The last chapter has been concerned with the contention
 that orthodoxy is not only (as is often urged) the only safe guardian
@@ -5849,9 +5806,4 @@ There was some one thing that was too great for God to show us when
 He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
 
-
 End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
-
-
-
-===== FINE FILE: ortho14.txt =====

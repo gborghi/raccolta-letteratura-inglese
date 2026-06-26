@@ -43,7 +43,4 @@ Surely, friends, I might have guessed
 Death was but the good King's jest,  
 It was hid so carefully.  
 
-G.K. CHESTERTON  
-
-
-===== FINE FILE: skeleton.txt =====  
+G.K. CHESTERTON

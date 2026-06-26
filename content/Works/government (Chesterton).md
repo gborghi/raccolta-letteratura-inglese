@@ -125,6 +125,3 @@ It is the question of whether in these days the claims of government
 are to leave anything whatever of the rights of man.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: government.txt =====

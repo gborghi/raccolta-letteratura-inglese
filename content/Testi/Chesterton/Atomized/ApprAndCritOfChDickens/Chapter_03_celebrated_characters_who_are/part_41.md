@@ -24,8 +24,6 @@ computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
 
-
-
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
 of Replacement or Refund" described in paragraph 1.F.3, the Project
@@ -52,8 +50,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -78,8 +74,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -87,8 +81,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -103,8 +95,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -126,13 +116,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -143,8 +127,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -164,15 +146,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -190,8 +166,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -206,8 +180,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -216,15 +188,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -239,8 +205,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -258,8 +222,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -268,15 +230,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -286,15 +244,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -304,10 +256,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -316,17 +264,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -335,7 +275,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: ApprAndCritOfChDickens.txt =====

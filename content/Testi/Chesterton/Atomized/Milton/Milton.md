@@ -15,13 +15,7 @@ tags:
 
 Milton: Man and Poet
 
-
-
 			   G K Chesterton
-
-
-
-
 
 All the mass of acute and valuable matter written or compiled
 
@@ -65,8 +59,6 @@ been polygamists from passion, he was polygamous on principle.
 
 While other artists were merely selfish, he was egoistic.
 
-
-
 The public has a quick eye for portraits, a very keen nose
 
 for personality; and across two centuries the traditional picture
@@ -101,11 +93,7 @@ Even his religion is not always heathen in his poetry.
 
 If you heard for the first time the line,
 
-
-
   By the dear might of Him that walked the waves,
-
-
 
 you would only fancy that some heart of true religious heat
 
@@ -115,13 +103,9 @@ achieved a technical triumph and found a faultless line.
 
 If you read for the first time,
 
-
-
   But come, thou Goddess fair and free,
 
   In heaven yclept Euphrosyne,
-
-
 
 you would think that the most irresponsible of the Elizabethans
 
@@ -129,23 +113,15 @@ had uttered it as he went dancing down the street, believing himself
 
 in A ready.  If you read,
 
-
-
   Blossoms and fruits at once of golden hue
 
   Appeared, with gay enamelled colors mixed,
 
-
-
 or
-
-
 
   Silence was pleased. Now glowed the firmament
 
   With living sapphires,
-
-
 
 you would think that all the rich dyes of the Orient and
 
@@ -187,8 +163,6 @@ an instance, of course, is the well-known superlative about Adam
 
 and his children.
 
-
-
 Milton was not a simple epic poet like Homer, nor was he even
 
 a specially clear epic poet like Virgil.  If these two gentlemen
@@ -203,21 +177,13 @@ I might even say that Homer reading Milton might have much the same
 
 feelings as Milton reading Browning.  He would have found
 
-
-
   Or of the eternal coeternal beam
 
-
-
 a trifle obscure, and
-
-
 
   nor sometimes forget,
 
   Those other two, equalled with me in fate, etc., etc.,
-
-
 
 almost entirely unintelligible.  In this sense it is absurd
 
@@ -228,8 +194,6 @@ In the art of turning his sentences inside out he never had an equal;
 and the only answer is to say that the result is perfect;
 
 though it is inside out, yet somehow it is right side out.
-
-
 
 Nevertheless, the tradition which puts Milton with Virgil and the large
 
@@ -291,8 +255,6 @@ was horribly complex; it was learned, it was crabbed, and in nearly
 
 all its art and utterance, it was crooked.
 
-
-
 Remember the wonderfully witty poets of Charles I.;
 
 those wonderfully witty poets who were incomprehensible at
@@ -323,8 +285,6 @@ appeared more pure and translucent than it really was in contrast
 
 with all the mad mystification and darkness.
 
-
-
 A riddle itself, that time is full of minor riddles; and one of
 
 the most inexplicable of them involves the whole position of Milton.
@@ -342,8 +302,6 @@ after the Reformation, lay the real seed of modern self-government
 and freedom, or, to speak more strictly, of the modern belief in them;
 
 for we rather praise these things than possess them.
-
-
 
 The first and fundamental fact is certainly against the liberalizing
 
@@ -402,8 +360,6 @@ is a fierce insistence on the utterly arbitrary nature of power.
 The King of the Cavaliers was certainly not so purely willful,
 
 so sublimely capricious a sultan, as the God of the Puritans.
-
-
 
 But we can add something much more plain and practical.
 
@@ -497,8 +453,6 @@ went to jail and the whipping-post after the Reformation.
 
 All this is scarcely denied.
 
-
-
 Yet against all this must be put in fairness certain important facts;
 
 especially two facts illustrated in the figure and career of Milton.
@@ -559,13 +513,9 @@ or stupid characters, but into that of the one wise character,
 
 the Chorus, who is supposed to express the moral of a play:
 
-
-
   Nor do I name of men the common rout...
 
   But such as thou hast solemnly elected.
-
-
 
 I cannot help thinking that Milton was successful with Satan,
 
@@ -611,8 +561,6 @@ felt for the Puritans, and no unjust dislike either, had reference
 
 to this nameless feeling.
 
-
-
 It is possible, I fancy, to frame a fair statement that shall
 
 admit this element of the pride of the elect while doing justice
@@ -648,8 +596,6 @@ of the harshness of democracy without any of its sympathy or abandon.
 Thus arose the great race of the aristocratic republicans,
 
 half pagan and half Puritan, the greatest of whom was Milton.
-
-
 
 The effect of this great type has been immense; but it has been
 
@@ -695,14 +641,4 @@ we do not know what he really saw with his sightless eyes.
 
 We only know that it turned him to stone.
 
-
-
-
-
-
-
 THE END
-
-
-
-===== FINE FILE: Milton.txt =====

@@ -71,8 +71,4 @@ Eater of stones, may haply hear
 "When God to all his paladins  
   By his own splendour swore  
 To make a fairer face than heaven,  
-  Of dust and nothing more."  
-
-
-
-===== FINE FILE: praise_of_dust.txt =====  
+  Of dust and nothing more."

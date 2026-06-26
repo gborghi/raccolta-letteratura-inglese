@@ -17,11 +17,6 @@ Manalive
 
 		     by G. K. Chesterton
 
-
-
-
-
-
        First published 1912 by Thomas Nelson and Sons
 
  Electronic edition MANALIV0 published 1993 by Jim Henry III, 
@@ -29,25 +24,17 @@ Manalive
 
  Edited by Martin Ward (martin@gkc.org.uk)
 
-
 PLEASE report any typos you may happen to notice, such as misplaced
 punctuation and the like, to
-
 
 Jim Henry III 405 Gardner Road Stockbridge, GA 30281-1515
 
 Or send email to JIM HENRY on Jim.Henry@pobox.com
 
-
 Thank you!  I hope you enjoy reading _Manalive_ as much as I have.
 I will soon be releasing _Tales of the Long Bow_, also by G. K. Chesterton.
 
-
-
-
-
 			   Table of Contents
-
 
    Part I: The Enigmas of Innocent Smith
       I.   How the Great Wind Came to Beacon House    
@@ -56,7 +43,6 @@ I will soon be releasing _Tales of the Long Bow_, also by G. K. Chesterton.
       IV.  The Garden of the God                      
       V.   The Allegorical Practical Joker            
 
-
   Part II: The Explanations of Innocent Smith
       I.   The Eye of Death; or, the Murder Charge    
       II.  The Two Curates; or, the Burglary Charge   
@@ -64,19 +50,14 @@ I will soon be releasing _Tales of the Long Bow_, also by G. K. Chesterton.
       IV.  The Wild Weddings; or, the Polygamy Charge 
       V.   How the Great Wind went from Beacon House  
 
-
-
 			   Part I
 
 		The Enigmas of Innocent Smith
-
-
 
 			  Chapter I
 
 		   How the Great Wind Came
 		       to Beacon House
-
 
 A wind sprang high in the west, like a wave of unreasonable happiness,
 and tore eastward across England, trailing with it the frosty scent
@@ -462,7 +443,6 @@ and was amused to find himself almost quoting Shakespeare--
 	"For valour.  Is not love a Hercules,
 	 Still climbing trees in the Hesperides?"
 
-
 Even the immovable man of science had a bright, bewildered sensation
 that the Time Machine had given a great jerk, and gone forward
 with rather rattling rapidity.
@@ -542,13 +522,9 @@ The strident, tearing gale in that garden carried away
 the stranger's card to join the wild waste paper of the universe;
 and that great western wind shook the whole house and passed.
 
-
-
-
 			 Chapter II
 
 		 The Luggage of an Optimist
-
 
 We all remember the fairy tales of science in our infancy, which played
 with the supposition that large animals could jump in the proportion
@@ -926,7 +902,6 @@ fashionable coon song:-
 	"Darkies sing a song on the old plantation,
 	 Sing it as we sang it in days long since gone by."
 
-
 Inglewood's brown eyes softened and saddened still more as he continued
 his monologue of resignation to such a rollicking and romantic tune.
 But the blue eyes of Michael Moon brightened and hardened with a light
@@ -975,14 +950,9 @@ death out of that machine gun?"
 "Oh, that!" said Smith, throwing it a single glance; "I deal life
 out of that," and he went bounding down the stairs.
 
-
-
-
-
 			 Chapter III
 
 		    The Banner of Beacon
-
 
 All next day at Beacon House there was a crazy sense that it was
 everybody's birthday.  It is the fashion to talk of institutions
@@ -1035,7 +1005,6 @@ like a sort of fresco, with the inscription,--
 	 These three alone will make a man a prig."
 
 						-- Tennyson.
-
 
 Nothing, again, could be more prosaic and impenetrable than
 the domestic energies of Miss Diana Duke.  But Innocent had somehow
@@ -1270,7 +1239,6 @@ the New Jerusalem.
 	 All is gold that glitters,
 	   For the glitter is the gold."
 
-
 "And who wrote that?" asked Rosamund, amused.
 
 "No one will ever write it," answered Smith, and cleared the rockery
@@ -1428,13 +1396,9 @@ but beyond the hedge and railings, in the road outside
 the garden gate, a hansom cab was waiting, with the yellow
 Gladstone bag on top of it.
 
-
-
-
 			 Chapter IV
 
 		    The Garden of the God
-
 
 Diana Duke seemed inexplicably irritated at the abrupt entrance
 and utterance of the other girl.
@@ -1933,13 +1897,9 @@ Then her eyes strayed to Michael, who was leaning on the gate;
 but he continued to lean on it without moving, with his face turned
 away towards the darkening road.
 
-
-
-
 			  Chapter V
 
 	       The Allegorical Practical Joker
-
 
 The criminal specialist who had come with Dr. Warner was a somewhat
 more urbane and even dapper figure than he had appeared when
@@ -2278,7 +2238,6 @@ And in a voice like a drum he rolled the noble lines of Ronsard--
 
 "Ou pour l'honneur de Dieu, ou pour le droit de mon prince, Navre,
 poitrine ouverte, au bord de mon province."
-
 
 "Sakes alive!" said the American gentleman, almost in an awed tone.
 Then he added, "Are there two maniacs here?"
@@ -2796,21 +2755,14 @@ Homer Danton Michaelangelo Shakespeare Brakespeare--"
 "that's my real name."  And he broke a branch, and one or two autumn
 leaves fluttered away across the moon.
 
-
-
-
 			   Part II
 
 	     The Explanations of Innocent Smith
-
-
-
 
 			  Chapter I
 
 		      The Eye of Death;
 		    or, the Murder Charge
-
 
 The dining-room of the Dukes had been set out for the Court
 of Beacon with a certain impromptu pomposity that seemed somehow
@@ -2934,13 +2886,10 @@ paper in his hand and a fever of importance on his face.
 He began in a loud, high, cockney voice that was as abrupt
 as a cock-crow:--
 
-
 "Sir,--Hi am the Sub-Warden of Brikespeare College, Cambridge--"
-
 
 "Lord have mercy on us," muttered Moon, making a backward movement as men
 do when a gun goes off.
-
 
 "Hi am the Sub-Warden of Brikespeare College, Cambridge,"
 proclaimed the uncompromising Moses, "and I can endorse the description
@@ -2965,17 +2914,14 @@ The photograph I enclose is from the group of the University Rifle Club
 prizemen, and represents him as he was when at the College.--
 Hi am, your obedient servant, Amos Boulter.
 
-
 "The other letter," continued Gould in a glow of triumph, "is from the porter,
 and won't take long to read.
-
 
 "Dear Sir,--It is quite true that I am the porter of Brikespeare College,
 and that I 'elped the Warden down when the young man was shooting at him,
 as Mr. Boulter has said in his letter.  The young man who was shooting at
 him was Mr. Smith, the same that is in the photograph Mr. Boulter sends.--
 Yours respectfully, Samuel Barker."
-
 
 Gould handed the two letters across to Moon, who examined them.
 But for the vocal divergences in the matter of h's and a's,
@@ -3067,7 +3013,6 @@ of Dr. Warner whom that remarkable man has affected in the same way.
 Following the example of my learned friends I will read only two of them.
 The first is from an honest and laborious matron living off the Harrow Road.
 
-
 "Mr. Moon, Sir,--Yes, I did throw a sorsepan at him.  Wot then?
 It was all I had to throw, all the soft things being porned,
 and if your Docter Warner doesn't like having sorsepans thrown at him,
@@ -3075,11 +3020,9 @@ don't let him wear his hat in a respectable woman's parler, and tell
 him to leave orf smiling or tell us the joke.--Yours respectfully,
 					       Hannah Miles.
 
-
 "The other letter is from a physician of some note in Dublin,
 with whom Dr. Warner was once engaged in consultation.
 He writes as follows:--
-
 
 "Dear Sir,--The incident to which you refer is one which I regret,
 and which, moreover, I have never been able to explain.
@@ -3092,7 +3035,6 @@ what regret); but pulling seems to me to imply a precision of objective
 with which I cannot reproach myself.  In comparison with this, the act
 of punching was an outward, instantaneous, and even natural gesture.--
 Believe me, yours faithfully, Burton Lestrange.
-
 
 "I have numberless other letters," continued Moon, "all bearing witness
 to this widespread feeling about my eminent friend; and I therefore think
@@ -3240,7 +3182,6 @@ of the Cambridge incident is contained, and then that document itself.
 When you have heard both, there will be no doubt about your decision.
 The covering letter runs as follows:--
 
-
 "Dear Sir,--The following is a very exact and even vivid account of the
 incident as it really happened at Brakespeare College.  We, the undersigned,
 do not see any particular reason why we should refer it to any
@@ -3253,9 +3194,7 @@ But every word of it is true.--We are, yours faithfully,
 
 					    "Innocent Smith.
 
-
 "The enclosed statement," continued Inglewood, "runs as follows:--
-
 
 "A celebrated English university backs so abruptly on the river,
 that it has, so to speak, to be propped up and patched
@@ -3318,7 +3257,6 @@ your client was a bird of some sort--say, a flamingo?"
 No one quite knowing what to make of this, Mr. Moon resumed his seat
 and Inglewood resumed the reading of his document:--
 
-
 "There is something pleasing to a mystic in such a land of mirrors.
 For a mystic is one who holds that two worlds are better than one.
 In the highest sense, indeed, all thought is reflection.
@@ -3331,7 +3269,6 @@ This duplication of mentality, as in a mirror, is (we repeat)
 the inmost thing of human philosophy.  There is a mystical, even a
 monstrous truth, in the statement that two heads are better than one.
 But they ought both to grow on the same body."
-
 
 "I know it's a little transcendental at first," interposed Inglewood,
 beaming round with a broad apology, "but you see this document was written
@@ -3346,7 +3283,6 @@ bears here and there the trace of coming from two authors."
 
 "In that case," said Dr. Pym, leaning back and sniffing,
 "I cannot agree with them that two heads are better than one."
-
 
 "The undersigned persons think it needless to touch on a kindred
 problem so often discussed at committees for University Reform:
@@ -3363,10 +3299,8 @@ other hand, they are puddles--puddles, puddles, puddles, puddles.
 The undersigned persons ask you to excuse an emphasis inseparable
 from strong conviction."
 
-
 Inglewood ignored a somewhat wild expression on the faces of some present,
 and continued with eminent cheerfulness:--
-
 
 "Such were the thoughts that failed to cross the mind of
 the undergraduate Smith as he picked his way among the stripes
@@ -3595,7 +3529,6 @@ give us a song!'
 	  And perched me on this curious place,
 	    A happy English child.'
 
-
 "Dr. Emerson Eames having briefly complied, his persecutor abruptly
 told him to hold his hands up in the air.  Vaguely connecting this
 proceeding with the usual conduct of brigands and bushrangers,
@@ -3774,15 +3707,10 @@ for beer.  Farewell.
 
 					   "Innocent Smith."
 
-
-
-
-
 			 Chapter II
 
 		      The Two Curates;
 		   or, the Burglary Charge
-
 
 Arthur Inglewood handed the document he had just read to the leaders
 of the prosecution, who examined it with their heads together.
@@ -3865,7 +3793,6 @@ There was a cold crash of stillness in the room; and Moon said, "Pax populi
 vox Dei; it is the silence of the people that is the voice of God.  Or in
 Dr. Pym's more civilized language, it is up to him to open the next charge.
 On this we claim an acquittal."
-
 
 It was about an hour later.  Dr. Cyrus Pym had remained for an unprecedented
 time with his eyes closed and his thumb and finger in the air.
@@ -3971,7 +3898,6 @@ of the letter was so much obscured by the extraordinary leaps and gasps of his
 pronunciation that it is perhaps better to print it here as Moon read it when,
 a little later, it was handed across the table.
 
-
 "Dear Sir,--I can scarcely feel surprise that the incident
 you mention, private as it was, should have filtered through
 our omnivorous journals to the mere populace; for the position
@@ -4042,10 +3968,8 @@ When gathered together into gangs and conspiracies they seem
 to lose altogether that lovable good-nature and readiness to accept
 anything one tells them which distinguishes them as individuals."
 
-
 With a slight start, Michael rose to his feet, bowed solemnly,
 and sat down again.
-
 
 "These persons, if not silent, were at least applausive during the speech
 of Mr. Percy.  He descended to their level with witticisms about rent
@@ -4175,7 +4099,6 @@ When I got home that night I looked at his card, and he was inscribed
 there under the name of Innocent Smith.--Yours faithfully,
 				      John Clement Hawkins."
 
-
 Moon merely went through the form of glancing at the paper.  He knew that
 the prosecutors could not have invented so heavy a document; that Moses Gould
 (for one) could no more write like a canon than he could read like one.
@@ -4262,7 +4185,6 @@ We concede, then, the canon's story so far as it goes.
 This must necessarily be valuable to the prosecutor and also convenient
 to the court.  I begin Mr. Percy's letter, then, at the point
 when all three men were standing on the garden wall:--
-
 
 "As I watched Hawkins wavering on the wall, I made up my own mind
 not to waver.  A cloud of wrath was on my brain, like the cloud
@@ -4369,7 +4291,6 @@ who had woken up, observed that she was sure it was all very nice,
 and the decision was duly noted down by Moses with a blue,
 and by Michael with a red pencil.  Inglewood then resumed
 the reading of the document.
-
 
 "Then I read the writing of the smoke.  Smoke was like the modern
 city that makes it; it is not always dull or ugly, but it is always
@@ -4765,7 +4686,6 @@ the everlasting violence of that double passion with which God hates
 and loves the world.--I am, yours faithfully,
 					    "Raymond Percy."
 
-
 "Oh, 'oly, 'oly, 'oly!" said Mr. Moses Gould.
 
 The instant he had spoken all the rest knew they had been
@@ -4806,15 +4726,10 @@ and a wrinkle was on his forehead that might have been worry or shame.
 He carefully plucked out one corner of a complicated paper and tucked it
 in elsewhere; then the wrinkle vanished and he looked relieved.
 
-
-
-
-
 			 Chapter III
 
 		       The Round Road;
 		  or, the Desertion Charge
-
 
 Pym rose with sincere embarrassment; for he was an American,
 and his respect for ladies was real, and not at all scientific.
@@ -4928,7 +4843,6 @@ By Mr. Inglewood's favour we will hear the French innkeeper."
 Before the company had decided the delicate point Inglewood was already
 reading the account in question.  It was in French.  It seemed to them
 to run something like this:--
-
 
 "Sir,--Yes; I am Durobin of Durobin's Cafe on the sea-front at Gras,
 rather north of Dunquerque.  I am willing to write all I know
@@ -5054,11 +4968,9 @@ Accept, Sir, the assurances of the very high consideration,
 with which I have the honour to be your obedient servant,
 					    "Jules Durobin."
 
-
 "The next document in our dossier," continued Inglewood,
 "comes from the town of Crazok, in the central plains of Russia,
 and runs as follows:--
-
 
 "Sir,--My name is Paul Nickolaiovitch:  I am the stationmaster
 at the station near Crazok.  The great trains go by across
@@ -5231,13 +5143,11 @@ like to find out if he has produced any literary works.--Yours, etc.,
 
 				       "Paul Nickolaiovitch."
 
-
 There was something in this odd set of glimpses into foreign lives which kept
 the absurd tribunal quieter than it had hitherto been, and it was again
 without interruption that Inglewood opened another paper upon his pile.
 "The Court will be indulgent," he said, "if the next note lacks the special
 ceremonies of our letter-writing. It is ceremonious enough in its own way:--
-
 
 "The Celestial Principles are permanent:  Greeting.--I am Wong-Hi,
 and I tend the temple of all the ancestors of my family in the forest
@@ -5330,11 +5240,9 @@ I have not seen this man again nor any other man.
 The virtues of the wise are of fine brass.
 						  "Wong-Hi."
 
-
 "The next letter I have to read," proceeded Arthur Inglewood, "will probably
 make clear the nature of our client's curious but innocent experiment.
 It is dated from a mountain village in California, and runs as follows:--
-
 
 "Sir,--A person answering to the rather extraordinary
 description required certainly went, some time ago,
@@ -5506,10 +5414,8 @@ I am troubled by rainy meadows and mud cabins that I have
 never seen; and I wonder whether America will endure.--
 Yours faithfully, Louis Hara."
 
-
 After a short silence Inglewood said:  "And, finally, we desire
 to put in as evidence the following document:--
-
 
 "This is to say that I am Ruth Davis, and have been housemaid to
 Mrs. I. Smith at `The Laurels' in Croydon for the last six months.
@@ -5533,7 +5439,6 @@ though I sometimes fancy he is a little weak in his head.
 "P.S.--I forgot to say that he looked round at the garden and said,
 very loud and strong:  `Oh, what a lovely place you've got;'
 just as if he'd never seen it before."
-
 
 The room had been growing dark and drowsy; the afternoon sun sent one
 heavy shaft of powdered gold across it, which fell with an intangible
@@ -5640,14 +5545,10 @@ and scientific manner."
 Nothing but a faint groan from Michael broke the silence
 of the darkening room.
 
-
-
-
 			 Chapter IV
 
 		     The Wild Weddings;
 		   or, the Polygamy Charge
-
 
 "A modern man," said Dr. Cyrus Pym, "must, if he be thoughtful,
 approach the problem of marriage with some caution.
@@ -5767,7 +5668,6 @@ with the high haughtiness which must be excused in those who look
 out upon all mankind from the turrets of a Norman and ancestral keep.
 The communication she has sent to us runs as follows:--
 
-
 "Lady Bullingdon recalls the painful incident to which reference
 is made, and has no desire to deal with it in detail.
 The girl Polly Green was a perfectly adequate dressmaker,
@@ -5806,12 +5706,10 @@ but thinks it was Smith.  He was always called in the village
 the Innocent.  Later, Lady Bullingdon believes he murdered
 Green in a mental outbreak."
 
-
 "The next communication," proceeded Pym, "is more conspicuous for brevity,
 but I am of the opinion that it will adequately convey the upshot.
 It is dated from the offices of Messrs.  Hanbury and Bootle, publishers,
 and is as follows:--
-
 
 "Sir,--Yrs.  rcd.  and conts.  noted.  Rumour re typewriter possibly refers
 to a Miss Blake or similar name, left here nine years ago to marry an
@@ -5820,9 +5718,7 @@ Girl worked excellently till about Oct. 1907, when apparently went mad.
 Record was written at the time, part of which I enclose.--
 Yrs., etc., W. Trip.
 
-
 "The fuller statement runs as follows:--
-
 
 "On October 12 a letter was sent from this office to Messrs.
 Bernard and Juke, bookbinders.  Opened by Mr. Juke, it was found
@@ -5832,7 +5728,6 @@ To this Mr. Juke, a person of a playful mind, returned the answer:
 `Sir, I am in a position to give it as my most decided opinion
 that it is not really decided that 00000073bb!!!!!xy. Yrs., etc.,
 						  J. Juke.'
-
 
 "On receiving this extraordinary reply, our Mr. Trip asked for the original
 letter sent from him, and found that the typewriter had indeed substituted
@@ -5876,12 +5771,10 @@ these things in a record and leave it with them.
 				     (Signed) Aubrey Clarke,
 					Publishers' Reader.
 
-
 "And the last document," said Dr. Pym complacently, "is from
 one of those high-souled women who have in this age introduced
 your English girlhood to hockey, the higher mathematics,
 and every form of ideality.
-
 
 "Dear Sir (she writes),--I have no objection to telling you
 the facts about the absurd incident you mention; though I would
@@ -5948,7 +5841,6 @@ suddenly and surreptitiously leave us only a day or two afterwards.
 I should never have thought that her head would be the one
 to be really turned by so absurd an excitement.--Believe me,
 yours faithfully, Ada Gridley.
-
 
 "I think," said Pym, with a really convincing simplicity and seriousness,
 "that these letters speak for themselves."
@@ -6241,15 +6133,10 @@ There was a long and mainly unmeaning silence, and then
 Moon said suddenly, "We have been sitting with a ghost.
 Dr. Herbert Warner died years ago."
 
-
-
-
-
 			  Chapter V
 
 		   How the Great Wind Went
 		      from Beacon House
-
 
 Mary was walking between Diana and Rosamund slowly up and down the garden;
 they were silent, and the sun had set.  Such spaces of daylight as remained
@@ -6377,11 +6264,4 @@ but when the wind died down, and the party, at the top of
 their evening's merriment, looked again for Mary and for him,
 they were not to be found.
 
-
-
 			   The End
-
-
-
-
-===== FINE FILE: manalive.txt =====

@@ -63,7 +63,6 @@ tags:
 - [Chapter 19](/Testi/Chesterton/Atomized/Don_Quixote/Chapter_19)
 - [Chapter 20](/Testi/Chesterton/Atomized/Don_Quixote/Chapter_20)
 
-
 ## Testo integrale / Full text
 
 THE RETURN OF DON QUIXOTE
@@ -71,7 +70,6 @@ THE RETURN OF DON QUIXOTE
 BY
 
 G. K. CHESTERTON
-
 
 DODD, MEAD & COMPANY
 
@@ -8158,6 +8156,3 @@ could see, or would probably ever understand.
 -^-
 
 END
-
-
-===== FINE FILE: Don_Quixote.txt =====

@@ -67,10 +67,4 @@ God, grown adventurous from all time's repose,
 Or your tall body climed the ivory tower  
 And kissed upon your mouth the mystic rose.  
 
-
---G.K.Chesterton  
-
-
-
-
-===== FINE FILE: litany.txt =====  
+--G.K.Chesterton

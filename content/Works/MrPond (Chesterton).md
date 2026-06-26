@@ -43,12 +43,9 @@ tags:
 - [Story 07 The Terrible Troubadour](/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour)
 - [Story 08 A Tall Story](/Testi/Chesterton/Atomized/MrPond/Story_08_A_Tall_Story)
 
-
 ## Testo integrale / Full text
 
 A Project Gutenberg of Australia eBook
-
-
 
 Title:      The Paradoxes of Mr Pond (1937)
 
@@ -66,11 +63,7 @@ Date first posted:          May 2005
 
 Date most recently updated: May 2005
 
-
-
 This eBook was produced by: Don Lainson dlainson@sympatico.ca
-
-
 
 Project Gutenberg of Australia eBooks are created from printed editions
 
@@ -80,15 +73,11 @@ is included. We do NOT keep any eBooks in compliance with a particular
 
 paper edition.
 
-
-
 Copyright laws are changing all over the world. Be sure to check the
 
 copyright laws for your country before downloading or redistributing this
 
 file.
-
-
 
 This eBook is made available at no cost and with almost no restrictions
 
@@ -98,73 +87,31 @@ of the Project Gutenberg of Australia License which may be viewed online at
 
 http://gutenberg.net.au/licence.html
 
-
-
 To contact Project Gutenberg of Australia go to http://gutenberg.net.au
-
-
-
-
 
 Title:      The Paradoxes of Mr Pond (1937)
 
 Author:     G. K. Chesterton
 
-
-
-
-
-
-
-
-
 CONTENTS
-
-
 
 I.  The Three Horsemen of Apocalypse
 
-
-
 II.  The Crime of Captain Gahagan
-
-
 
 III.  When Doctors Agree
 
-
-
 IV.  Pond the Pantaloon
-
-
 
 V.  The Unmentionable Man
 
-
-
 VI.  Ring of Lovers
-
-
 
 VII.  The Terrible Troubadour
 
-
-
 VIII.  A Tall Story
 
-
-
-
-
-
-
-
-
 THE THREE HORSEMEN OF APOCALYPSE
-
-
-
-
 
 The curious and sometimes creepy effect which Mr. Pond produced
 
@@ -208,8 +155,6 @@ in the midst of his sanest conversation.  But even they had to
 
 admit that he must have suddenly gone sane again.
 
-
-
 Perhaps, again, this foolish fantasy was fixed in the youthful mind
 
 because, at certain moments, Mr. Pond looked rather like a fish
@@ -240,8 +185,6 @@ suppose, he swallowed the unwelcome proposal of explaining what on
 
 earth he meant.
 
-
-
 He was talking quite quietly one day to Sir Hubert Wotton, the well-
 
 known diplomatist; they were seated under gaily-striped tents or
@@ -270,8 +213,6 @@ broad enough for two horsemen to ride abreast.  That is the
 
 beginning of the story.
 
-
-
 It concerned a time not very long ago, but a time in which horsemen
 
 were still used much more than they are at present, though already
@@ -291,8 +232,6 @@ necessary to expound the politics of the matter, or discuss its
 rights and wrongs here.  Let us merely say, more lightly, that Mr.
 
 Pond amused the company with a riddle.
-
-
 
 "I expect you remember hearing," said Pond, "of all the excitement
 
@@ -346,8 +285,6 @@ too good.  Grock's soldiers obeyed him too well; so he simply
 
 couldn't do a thing he wanted."
 
-
-
 "I suppose that's a paradox," said Wotton, heaving a sigh.  "Of
 
 course, it's very clever and all that; but really, it's all
@@ -357,8 +294,6 @@ nonsense, isn't it?  Oh, I know people say in a general way that
 there's too much discipline in the German army.  But you can't have
 
 too much discipline in an army."
-
-
 
 "But I don't say it in a general way," said Pond plaintively.  "I
 
@@ -372,8 +307,6 @@ TWO of his soldiers obeyed him--why, really, the poor old devil had
 
 no chance."
 
-
-
 Wotton laughed in a guttural fashion.  "I'm glad to hear your new
 
 military theory.  You'd allow one soldier in a regiment to obey
@@ -381,8 +314,6 @@ military theory.  You'd allow one soldier in a regiment to obey
 orders; but two soldiers obeying orders strikes you as carrying
 
 Prussian discipline a bit too far."
-
-
 
 "I haven't got any military theory.  I'm talking about a military
 
@@ -396,13 +327,9 @@ disobeyed him.  You can make up what theories you like about it
 
 afterwards."
 
-
-
 "I don't go in much for theories myself," said Wotton rather
 
 stiffly, as if he had been touched by a trivial insult.
-
-
 
 At this moment could be seen striding across the sun-chequered
 
@@ -428,8 +355,6 @@ contradiction of all this in his very soft brown eyes, which looked
 
 sad and even a little anxious.
 
-
-
 Mr. Pond, interrupting his monologue, was almost in a twitter of
 
 apologies:  "I'm afraid I'm talking too much, as usual; the truth
@@ -450,29 +375,19 @@ sent afterwards to save him; but as the man carrying the reprieve
 
 died on the way, the prisoner was released, after all."
 
-
-
 "But as--" repeated Wotton mechanically.
-
-
 
 "The man carrying the REPRIEVE," added Gahagan somewhat
 
 sarcastically.
 
-
-
 "Died on the way," muttered Wotton.
-
-
 
 "Why then, of course, the prisoner was released," observed Gahagan
 
 in a loud and cheerful voice.  "All as clear as clear can be.  Tell
 
 us another of those stories, Grandpapa."
-
-
 
 "It's a perfectly true story," protested Pond, "and it happened
 
@@ -482,23 +397,13 @@ Only, of course, you have to know the story to see how simple it
 
 is."
 
-
-
 "Yes," agreed Gahagan.  "I think I should have to know the story,
 
 before realizing how simple it is."
 
-
-
 "Better tell us the story and have done with it," said Wotton
 
 shortly.
-
-
-
-
-
-
 
 Paul Petrowski was one of those utterly unpractical men who are of
 
@@ -536,8 +441,6 @@ a prisoner in the town at one end, the Prussian soldier a commander
 
 in the camp at the other.
 
-
-
 For Marshal Von Grock was a true Prussian, not only entirely
 
 practical but entirely prosaic.  He had never read a line of poetry
@@ -556,8 +459,6 @@ poet should die.  It was his one compliment to poetry; and it was
 
 sincere.
 
-
-
 He was at the moment sitting at a table in his tent; the spiked
 
 helmet that he always wore in public was lying in front of him; and
@@ -574,21 +475,15 @@ standing by, a German of the pale-haired and rather pudding-faced
 
 variety, whose blue saucer-eyes were staring vacantly.
 
-
-
 "Lieutenant Von Hocheimer," he said, "did you say His Highness
 
 would reach the camp to-night?"
-
-
 
 "Seven forty-five, Marshal," replied the Lieutenant, who seemed
 
 rather reluctant to speak at all, like a large animal learning a
 
 new trick of talking.
-
-
 
 "Then there is just time," said Grock, "to send you with that order
 
@@ -602,19 +497,13 @@ placed at His Highness's disposal.  He will be leaving again for
 
 the next outpost in an hour."
 
-
-
 The large Lieutenant seemed partially to come to life and made a
 
 shadowy salute.  "Of course, Marshal, we must all obey His
 
 Highness."
 
-
-
 "I said we must all serve His Highness," said the Marshal.
-
-
 
 With a sharper movement than usual, he unhooked his heavy
 
@@ -646,8 +535,6 @@ to the commonalty of Christian men that they hardly know whether it
 
 be good or evil.
 
-
-
 "I said we must all serve His Highness," repeated Grock.  "I will
 
 speak more plainly, and say we must all save His Highness.  Is it
@@ -657,8 +544,6 @@ not enough for our kings that they should be our gods?  Is it not
 enough for them to be served and saved?  It is we who must do the
 
 serving and saving."
-
-
 
 Marshal Von Grock seldom talked, or even thought, as more
 
@@ -681,8 +566,6 @@ that Grock in one of his rare moments of reflection, had the
 comfort and safety of feeling that he was reflecting aloud in the
 
 presence of a cow or a cabbage.
-
-
 
 "Again and again, in the history of our Royal House, the servant
 
@@ -708,15 +591,11 @@ order for Petrowski's instant execution--and that you must remain
 
 to see it obeyed?"
 
-
-
 The inarticulate Hocheimer saluted; he could understand that all
 
 right.  And he had some qualities of a dog, after all: he was as
 
 brave as a bulldog; and he could be faithful to the death.
-
-
 
 "You must mount and ride at once," went on Grock, "and see that
 
@@ -725,8 +604,6 @@ nothing delays or thwarts you.  I know for a fact that fool Arnheim
 is going to release Petrowski to-night, if no message comes.  Make
 
 all speed."
-
-
 
 And the Lieutenant again saluted and went out into the night; and
 
@@ -739,8 +616,6 @@ narrow road along the ridge, almost like the top of a wall, which
 overlooked the dark horizon, the dim patterns and decaying colours
 
 of those mighty marshes.
-
-
 
 Almost as the last echoes of his horse's hoofs died away along the
 
@@ -755,12 +630,6 @@ him; and all along the more distant lines there were the sounds of
 ritual salutation and the shouting of orders.  His Highness the
 
 Prince had come.
-
-
-
-
-
-
 
 His Highness the Prince was something of a contrast, at least in
 
@@ -790,8 +659,6 @@ abstracted face was consonant with the legend that the one true
 
 passion of his life was music.
 
-
-
 In truth, the grumbling Grock was inclined to connect with that
 
 remote eccentricity the, to him, highly irritating and exasperating
@@ -810,8 +677,6 @@ popularity and his peril; for the Prince had heard some of the
 
 man's songs sung in half the opera-houses of Europe.
 
-
-
 "To talk of executing a man like that is madness," said the Prince,
 
 scowling under his black helmet.  "He is not a common Pole.  He is
@@ -821,8 +686,6 @@ a European institution.  He would be deplored and deified by our
 allies, by our friends, even by our fellow-Germans.  Do you want to
 
 be the mad women who murdered Orpheus?"
-
-
 
 "Highness," said the Marshal, "he would be deplored; but he would
 
@@ -834,43 +697,29 @@ do no more.  Death is the fact of all facts; and I am rather fond
 
 of facts."
 
-
-
 "Do you know nothing of the world?" demanded the Prince.
-
-
 
 "I care nothing for the world," answered Grock, "beyond the last
 
 black and white post of the Fatherland."
 
-
-
 "God in heaven," cried His Highness, "you would have hanged Goethe
 
 for a quarrel with Weimar!"
-
-
 
 "For the safety of your Royal House," answered Grock, "without one
 
 instant's hesitation."
 
-
-
 There was a short silence and the Prince said sharply and suddenly:
 
 "What does this mean?"
-
-
 
 "It means that I had not an instant's hesitation," replied the
 
 Marshal steadily.  "I have already myself sent orders for the
 
 execution of Petrowski."
-
-
 
 The Prince rose like a great dark eagle, the swirl of his cloak
 
@@ -886,21 +735,15 @@ stocky man with a square head, who had stood in the background as
 
 motionless as a stone.
 
-
-
 "Who has the best horse in your cavalry division, General?  Who is
 
 the best rider?"
-
-
 
 "Arnold Von Schacht has a horse that might beat a racehorse,"
 
 replied the General promptly.  "And rides it as well as a jockey.
 
 He is of the White Hussars."
-
-
 
 "Very well," said the Prince, with the same new ring in his voice.
 
@@ -910,8 +753,6 @@ him.  I will give him authority, which I think the distinguished
 
 Marshal will not dispute.  Bring me pen and ink."
 
-
-
 He sat down, shaking out the cloak, and they brought him writing
 
 materials; and he wrote firmly and with a flourish the order,
@@ -919,12 +760,6 @@ materials; and he wrote firmly and with a flourish the order,
 overriding all other orders, for the reprieve and release of
 
 Petrowski the Pole.
-
-
-
-
-
-
 
 Then amid a dead silence, in the midst of which old Grock stood
 
@@ -946,8 +781,6 @@ sprang on his horse and flew along the high, narrow road like a
 
 silver arrow or a shooting star.
 
-
-
 The old Marshal went back slowly and calmly to his tent, slowly and
 
 calmly removed his spiked helmet and his spectacles, and laid them
@@ -957,8 +790,6 @@ on the table as before.  Then he called out to an orderly just
 outside the tent; and bade him fetch Sergeant Schwartz of the White
 
 Hussars immediately.
-
-
 
 A minute later, there presented himself before the Marshal a gaunt
 
@@ -978,19 +809,13 @@ that of all the men who have talked in this tale, these two men
 
 alone looked and understood each other without words.
 
-
-
 "Sergeant," said the Marshal, curtly, "I have seen you twice
 
 before.  Once, I think, when you won the prize of the whole army
 
 for marksmanship with the carbine."
 
-
-
 The sergeant saluted and said nothing.
-
-
 
 "And once again," went on Von Grock, "when you were questioned for
 
@@ -1002,13 +827,9 @@ time, even in some of our own circles.  Influence, however, was
 
 exerted on your side.  My influence."
 
-
-
 The sergeant saluted again; and was still silent.  The Marshal
 
 continued to speak in a colourless but curiously candid way.
-
-
 
 "His Highness the Prince has been misinformed and deceived on a
 
@@ -1022,15 +843,11 @@ executed to-night.  You must immediately ride after Von Schacht,
 
 who carried the reprieve, and stop him."
 
-
-
 "I can hardly hope to overtake him, Marshal," said Sergeant
 
 Schwartz.  "He has the swiftest horse in the regiment, and is the
 
 finest rider."
-
-
 
 "I did not tell you to overtake him.  I told you to stop him," said
 
@@ -1042,13 +859,9 @@ dragged still more ponderously, but without a pause.  "The
 
 discharge of a carbine might attract his attention."
 
-
-
 And then the dark sergeant saluted for the third time; and his grim
 
 mouth was again shut tight.
-
-
 
 "The world is changed," said Grock, "not by what is said, or what
 
@@ -1060,15 +873,11 @@ a thing that must be done."  He suddenly flashed his brilliant eyes
 
 of steel at the other, and added:  "I mean, of course, Petrowski."
 
-
-
 And Sergeant Schwartz smiled still more grimly; and he also,
 
 lifting the flap of the tent, went out into the darkness and
 
 mounted his horse and rode.
-
-
 
 The last of the three riders was even less likely than the first to
 
@@ -1094,8 +903,6 @@ nor capable of any form; and he felt its presence behind the forms
 
 of all things.
 
-
-
 He was atheist, like so many thousands of dull, clever men in
 
 Northern Germany; but he was not that happier sort of pagan who can
@@ -1119,8 +926,6 @@ a disease than a development; and the land-locked pools might have
 been of poison rather than water.  He remembered some humanitarian
 
 fuss or other about the poisoning of pools.
-
-
 
 But the reflections of the sergeant, like most reflections of men
 
@@ -1150,8 +955,6 @@ descend and spread itself vaguely over the desolate landscape, he
 
 saw him at last.
 
-
-
 A white spot, which slightly, slowly, enlarged into something like
 
 a white figure, appeared far ahead, riding furiously.  It enlarged
@@ -1165,8 +968,6 @@ across the white uniform that marked the regiment of the Hussars.
 The winner of the prize for shooting, in the whole army, had hit
 
 the white of smaller targets than that.
-
-
 
 He unslung his carbine; and a shock of unnatural noise shook up all
 
@@ -1191,8 +992,6 @@ second shot; and the whole equestrian group heeled over and slipped
 and slid and vanished in one white flash into the dark fenland
 
 below.
-
-
 
 The hard-headed sergeant was certain that his work was done.  Hard-
 
@@ -1230,8 +1029,6 @@ desperate project.  With his whole strength he leaned on the
 
 strength of the great Marshal.
 
-
-
 And truly the great Marshal had this greatness about him; that
 
 after the monstrous thing he had done, or caused to be done, he
@@ -1252,23 +1049,17 @@ if all was quiet in the town after the execution, or whether there
 
 remained some danger from popular resentment.
 
-
-
 "Is it here, then, Marshal?" asked the sergeant in a low voice.  "I
 
 fancied it was further on; but it's a fact the infernal road seemed
 
 to lengthen out like a nightmare."
 
-
-
 "It is here," answered Grock, and swung himself heavily from saddle
 
 and stirrup, and then went to the edge of the long parapet and
 
 looked down.
-
-
 
 The moon had risen over the marshes and gone up strengthening in
 
@@ -1316,8 +1107,6 @@ looking down on the broken wings and white and golden armour of
 
 some defeated champion of the Cherubim.
 
-
-
 Grock said no prayer and uttered no pity; but in some dark way his
 
 mind was moved, as even the dark and mighty swamp will sometimes
@@ -1330,8 +1119,6 @@ he tried to formulate his only faith and confront it with the stark
 
 universe and the staring moon.
 
-
-
 "After and before the deed the German Will is the same.  It cannot
 
 be broken by changes and by time, like that of those others who
@@ -1339,8 +1126,6 @@ be broken by changes and by time, like that of those others who
 repent.  It stands outside time like a thing of stone, looking
 
 forward and backward with the same face."
-
-
 
 The silence that followed lasted long enough to please his cold
 
@@ -1356,25 +1141,17 @@ rather racing, back along the uplifted road, and his scarred and
 
 swarthy visage was no longer merely grim but ghastly in the moon.
 
-
-
 "Marshal," he said, saluting with a strange stiffness, "I have seen
 
 Petrowski the Pole!"
-
-
 
 "Haven't they buried him yet?" asked the Marshal, still staring
 
 down and in some abstraction.
 
-
-
 "If they have," said Schwartz, "he has rolled the stone away and
 
 risen from the dead."
-
-
 
 He stared in front of him at the moon and marshes; but, indeed,
 
@@ -1400,33 +1177,21 @@ though perhaps less hostile to the government than it might have
 
 been, since it was rejoicing at the release of its popular hero.
 
-
-
 "Do you mean," cried Grock with a sudden croaking stridency of
 
 voice, "that they have dared to release him in defiance of my
 
 message?"
 
-
-
 Schwartz saluted again and said:
 
-
-
 "They had already released him and they have received no message."
-
-
 
 "Do you ask me, after all this," said Grock, "to believe that no
 
 messenger came from our camp at all?"
 
-
-
 "No messenger at all," said the sergeant.
-
-
 
 There was a much longer silence, and then Grock said, hoarsely:
 
@@ -1434,25 +1199,17 @@ There was a much longer silence, and then Grock said, hoarsely:
 
 to explain it all?"
 
-
-
 "I have seen something," said the sergeant, "which I think does
 
 explain it all."
-
-
 
 When Mr. Pond had told the story up to this point, he paused with
 
 an irritating blankness of expression.
 
-
-
 "Well," said Gahagan impatiently, "and do YOU know anything that
 
 would explain it all?"
-
-
 
 "Well, I think I do," said Mr. Pond meekly.  "You see, I had to
 
@@ -1465,8 +1222,6 @@ obedience.  It also arose from an excess of another Prussian
 weakness: contempt.  And of all the passions that blind and madden
 
 and mislead men, the worst is the coldest: contempt.
-
-
 
 "Grock had talked much too comfortably before the cow, and much too
 
@@ -1518,8 +1273,6 @@ hand held the carbine levelled like a pistol, and he shot the boy
 
 between the eyes.
 
-
-
 "Then he turned again and rode on, carrying the death-warrant of
 
 the Pole.  Behind him horse and man had crashed over the edge of
@@ -1536,8 +1289,6 @@ disappearing in the distance, and he shot also.  Only he did not
 
 kill the second messenger, but the first.
 
-
-
 "That was why no messenger came alive to the Polish town that
 
 night.  That was why the prisoner walked out of his prison alive.
@@ -1546,17 +1297,7 @@ Do you think I was quite wrong in saying that Von Grock had two
 
 faithful servants, and one too many?"
 
-
-
-
-
-
-
 THE CRIME OF CAPTAIN GAHAGAN
-
-
-
-
 
 It must be confessed that some people thought Mr. Pond a bore.  He
 
@@ -1588,8 +1329,6 @@ Violet Varney, could see no sense in it.  They thought Mr. Pond,
 
 when he was not boring, was only bewildering.
 
-
-
 Anyhow, Mr. Pond did sometimes indulge in long speeches.  Triumph
 
 therefore and great glory belongs to anyone who could successfully
@@ -1602,23 +1341,17 @@ interview Mr. Pond for The Live Wire, touching his alleged views on
 
 the Haggis Mystery; and she did not let him get a word in edgeways.
 
-
-
 "I believe," began Mr. Pond, rather nervously, "that your paper is
 
 inquiring about what some call Private Execution, and I call
 
 murder, but--"
 
-
-
 "Forget it," said the young lady briefly.  "It's just too wonderful
 
 for me to be sitting here next to all secrets of your government;
 
 why--"
-
-
 
 She continued her monologue; though in a style of dots and dashes.
 
@@ -1629,8 +1362,6 @@ only fair to interrupt herself.  Somehow it seemed at once as if
 her speech would never end; and not one sentence of it was ever
 
 ended.
-
-
 
 We have all heard of American interviewers who rip up family
 
@@ -1672,13 +1403,9 @@ against clubs and saloons and the selfishness of man.  She had
 
 written a play; and she just longed to read it to Mr. Pond.
 
-
-
 "About that question of Private Execution," said Mr. Pond politely,
 
 "I suppose we've all been tempted in desperate moments--"
-
-
 
 "Well, I'm just desperate to read you this play, and--you know how
 
@@ -1688,11 +1415,7 @@ people haven't done just that--I mean, beginning in the water and
 
 then--"
 
-
-
 "Beginning in the water?" inquired Mr. Pond.
-
-
 
 "Yes, isn't it just too--oh, you know.  I suppose they will have
 
@@ -1706,45 +1429,27 @@ be a splash, won't it?  I mean to say, it begins like that."  She
 
 began to read very rapidly:
 
-
-
-
-
 "Scene, sea outside the Lido.
-
-
 
 "Voice of Tom Toxin (from above):  'See me make a splash, if--'
 
 (Toxin dives from above to stage in pea-green bathing-suit).
 
-
-
 "Voice of Duchess (from above):  'Only sort of splash you'll ever
 
 make, you--'  (Duchess dives from above in scarlet bathing-suit).
-
-
 
 "Toxin (coming up spluttering):  'Splutter as splutter . . . splosh
 
 is the only splash by your--.'
 
-
-
 "Duchess:  'Oh, Grandpa!'"
-
-
-
-
 
 "She calls him Grandpa, you see, because 'splosh' means money in
 
 that ever-so-old comic song--they're quite young really, of course,
 
 and rather . . . you know.  But--"
-
-
 
 Mr. Pond interposed with delicacy and firmness:  "I wonder whether
 
@@ -1759,8 +1464,6 @@ nobody ever seems to finish a sentence.  But do you think you can
 persuade our leading actors and actresses to dive from great
 
 heights into a stage sea?"
-
-
 
 "Oh, I dare say some of the old-stagers would be stuffy about it,"
 
@@ -1778,23 +1481,15 @@ Gahagan guy is a good swimmer, and he's acted, too, and--oh, well,
 
 he'd click if Joan Varney's in it."
 
-
-
 The face of Mr. Pond, hitherto patient and stoical, became quite
 
 silently alert and alive.  He said with a new gravity:
-
-
 
 "Captain Gahagan is a great friend of mine, and he has introduced
 
 me to Miss Varney.  As to her sister, the one on the stage--"
 
-
-
 "Not a patch on Joan, is she?  But--" said Miss Asa-Smith.
-
-
 
 Mr. Pond had formed an impression.  He liked Miss Asa-Smith.  He
 
@@ -1836,15 +1531,11 @@ eager to get on to the next.  There was within her, somehow, a
 
 thing, a spirit of life, which survives every criticism of America.
 
-
-
 "Joan Varney's much nicer," continued Artemis, "and you bet your
 
 friend Gahagan thinks so.  Do you think they'll really hitch up?
 
 He's a queer fellow, you know."
-
-
 
 Mr. Pond did not deny it.  Captain Gahagan, that swaggering and
 
@@ -1853,8 +1544,6 @@ restless and sometimes sullen man-about-town, was queer in many
 ways; and in none more than in his almost incongruous affection for
 
 the precise and prosaic Mr. Pond.
-
-
 
 "Some say he's a rotter," said the candid American.  "I don't say
 
@@ -1866,19 +1555,13 @@ the great Olivia--your only tragic actress.  Only she's so jolly
 
 tragic."
 
-
-
 "God send she doesn't play in a real tragedy," said Pond.
-
-
 
 He knew what he meant; but he had not the faintest foreshadowing of
 
 the awful tragedy of real life and death in which Olivia Feversham
 
 was to play within the next twenty-four hours.
-
-
 
 He was only thinking of his Irish friend as he knew him; and he was
 
@@ -1920,8 +1603,6 @@ anyone else; and if so a storm might be brewing.  For Olivia was
 
 married; and to no complaisant husband, either.
 
-
-
 Frederick Feversham was something worse than an unsuccessful actor;
 
 he was one who had been successful.  He was now forgotten in the
@@ -1941,8 +1622,6 @@ no special quarrel with his wife, younger than himself and still
 popular in the profession.  But he was much less intimate with his
 
 wife than with his solicitor.
-
-
 
 Through court after court Feversham passed, pursuing his rights and
 
@@ -1968,8 +1647,6 @@ he dreamed of.  Twenty-four hours after Pond's talk with the
 
 interviewer, he learned that Frederick Feversham was dead.
 
-
-
 Like other litigious persons, Mr. Feversham had left a legal
 
 problem behind him, to feed many lawyers with fees.  But it was not
@@ -1985,12 +1662,6 @@ broken off.  Frederick Feversham, that legalist, had suffered at
 least one final and indisputable illegality; he had been stabbed to
 
 death as he entered his own home.
-
-
-
-
-
-
 
 Long before certain facts, slowly collected, were put before the
 
@@ -2028,13 +1699,9 @@ rather goggling expression which led some of his friends to compare
 
 him to a fish.
 
-
-
 He had already thought of about two-thirds of what the solicitor
 
 was going to tell him.
-
-
 
 "The truth is, Mr. Pond," said the solicitor, in a confidential but
 
@@ -2047,8 +1714,6 @@ possibilities of this affair, painful in any case, may be specially
 painful for you.  Most of us find it impossible to imagine that a
 
 personal friend might come under suspicion in such matters."
-
-
 
 The mild eyes of Mr. Pond opened very wide, and even his mouth made
 
@@ -2084,8 +1749,6 @@ inside, about this particular case; but he still did not understand
 
 that way of talking.
 
-
-
 "I am sorry to say," continued the lawyer in a low voice, "that
 
 private investigation which we have already made, on our own
@@ -2093,8 +1756,6 @@ private investigation which we have already made, on our own
 account, places your friend, Captain Gahagan, in a position
 
 requiring explanation."
-
-
 
 "Yes," thought Pond, "and, my God, Gahagan really does require
 
@@ -2109,8 +1770,6 @@ whether men were capable of murder, he was rather inclined to think
 that Gahagan WAS capable of murder--more capable of murder than of
 
 meanness to a cabman.
-
-
 
 Suddenly, with extraordinary vividness, the image of Gahagan
 
@@ -2127,8 +1786,6 @@ crumbling purple pomp, rather like the pomp of poor Gahagan
 himself.  No; the Irishman was a man seventy-and-seven times to be
 
 forgiven; but not a man to be lightly acquitted.
-
-
 
 "Mr. Luke," said Pond suddenly, "will it save time if I tell you,
 
@@ -2160,8 +1817,6 @@ involved.  That is the case against Captain Gahagan; and I tell you
 
 at the start that I don't believe in it."
 
-
-
 "Unfortunately it is not the whole case against Captain Gahagan,"
 
 replied Luke smoothly, "and I fear the full Statement may make even
@@ -2178,8 +1833,6 @@ murder.  Allowing him the highest possible marks for truthfulness
 
 in the matter, he must at least have told two lies to one truth."
 
-
-
 "I have always found Gahagan truthful enough," replied Pond,
 
 "except when he was telling lies for amusement; which is really
@@ -2190,8 +1843,6 @@ lying to the base uses of necessity.  About all ordinary practical
 
 things, I have found him not only frank but also rather precise."
 
-
-
 "Even accepting what you say," answered Mr. Luke dubiously, "we
 
 should still have to answer:  If he was commonly candid and
@@ -2200,19 +1851,13 @@ truthful, it must have been a mortal and desperate occasion that
 
 made him lie."
 
-
-
 "To whom did he tell these lies?" asked Pond.
-
-
 
 "That is where the whole matter is so painful and delicate," said
 
 the lawyer, shaking his head.  "That afternoon, it seems, Gahagan
 
 had been talking to several ladies."
-
-
 
 "He generally has," said Pond.  "Or was it they who were talking to
 
@@ -2221,8 +1866,6 @@ him?  If one of them happened, for instance, to be that very
 charming lady, Miss Asa-Smith of Pentapolis, I would venture to
 
 guess that it was she who was talking to him."
-
-
 
 "This is rather extraordinary," said Luke in some surprise.  "I do
 
@@ -2240,11 +1883,7 @@ really attached to this last lady, that his statement to her was
 
 apparently much the nearest to the truth."
 
-
-
 "Ah," said Mr. Pond, and pulled his beard thoughtfully.
-
-
 
 "Joan Varney," observed the lawyer gravely, "stated most
 
@@ -2254,13 +1893,9 @@ in this case, that Captain Gahagan had left the house saying:  'I
 
 am going round to the Fevershams'.'"
 
-
-
 "And you say that is contradicted by his statement to the others,"
 
 said Mr. Pond.
-
-
 
 "Most emphatically," replied Luke.  "The other sister, well known
 
@@ -2272,13 +1907,9 @@ distinctly said to her:  'I'm not going to the Fevershams'; they're
 
 still at Brighton,' or something like that."
 
-
-
 "And now we come," said Mr. Pond, smiling, "to my young friend from
 
 Pentapolis.  What was she doing there, by the way?"
-
-
 
 "He found her on the doorstep when he opened the front door,"
 
@@ -2296,11 +1927,7 @@ flourish of his grey top-hat, telling her that he was going
 
 immediately to the club."
 
-
-
 "Are you certain of that?" asked Pond, frowning.
-
-
 
 "She was certain of it; because she was in a red-hot rage about
 
@@ -2318,13 +1945,9 @@ interview, either for herself or The Live Wire.  But I'll swear
 
 she's quite honest."
 
-
-
 "Oh, yes," said Mr. Pond emphatically but rather gloomily, "she's
 
 absolutely honest."
-
-
 
 "Well, there it is," said Luke, speaking also not without a decent
 
@@ -2348,8 +1971,6 @@ third interview, he thinks of a really good lie, normal and
 
 sufficiently vague, and says he is going to the club."
 
-
-
 "It might be like that," replied Pond, "or it might--"  And Mr.
 
 Pond fell for the first time into the lax habit of Miss Asa-Smith,
@@ -2362,19 +1983,13 @@ put his head on his hands, said apologetically:  "Please pardon me
 
 if I think for a minute," and buried his bald brows once more.
 
-
-
 The bearded fish came to the surface again with a somewhat new
 
 expression, and said with a brisk and almost sharp tone:
 
-
-
 "You seem very much bent on bringing the crime home to poor
 
 Gahagan."
-
-
 
 For the first time Luke's features stiffened to hardness, or even
 
@@ -2382,19 +1997,13 @@ harshness.  "We naturally wish to bring the murderer of our client
 
 to justice."
 
-
-
 Pond bent forward and his eyes were penetrating as he repeated:
 
 "But you will have it that the murderer was Gahagan."
 
-
-
 "I've given you the evidence," said Luke, lowering; "you know the
 
 witnesses."
-
-
 
 "And yet, oddly enough," said Pond very slowly, "you haven't
 
@@ -2402,11 +2011,7 @@ mentioned the really damning thing against him in the report of
 
 those witnesses."
 
-
-
 "It's damning enough--what do you mean?" snapped the lawyer.
-
-
 
 "I mean the fact that they are UNWILLING witnesses," replied Pond.
 
@@ -2420,19 +2025,13 @@ yet they all give evidence to contradict him or, at least, show he
 
 contradicted himself.  And yet they're all wrong."
 
-
-
 "What the devil do you mean," cried Luke with sudden impatience,
 
 "by saying they're all wrong?"
 
-
-
 "They're all wrong about what he said," answered Pond.  "Did you
 
 ask them if he said anything else?"
-
-
 
 "What else is needed?" cried the lawyer, now really angry.  "They
 
@@ -2442,15 +2041,11 @@ going to the Fevershams'; going to some unnamed club--and then
 
 bolting down the street so as to leave a lady in a rage."
 
-
-
 "Precisely," said Pond.  "You say he said three different things.
 
 I say he said the same thing to all three.  He turned it the other
 
 way round and made it the same."
-
-
 
 "He turned it the other way round all right," retorted Luke almost
 
@@ -2460,19 +2055,11 @@ whether the law of perjury says that turning a thing round makes it
 
 the same."
 
-
-
 There was a pause and then Mr. Pond said serenely:
-
-
 
 "So now we know all about the Crime of Captain Gahagan."
 
-
-
 "Who says we know all about anything?  I don't.  Do you?"
-
-
 
 "Yes," said Mr. Pond.  "The Crime of Captain Gahagan was that he
 
@@ -2482,13 +2069,9 @@ vague air of being lady-killers seldom do.  Don't you know that
 
 dear old Gahagan is really your great-great-grandfather?"
 
-
-
 Mr. Luke made a movement as of sudden and sincere alarm; he was not
 
 the first man to fancy for a moment that Mr. Pond was mad.
-
-
 
 "Can't you see," went on Pond, "that he belongs to the school of
 
@@ -2504,15 +2087,11 @@ suggest, it is not quite relevant.  But you see what I mean by
 
 Gahagan being the old sort of lady-killer?"
 
-
-
 "I know he's a very old sort of gentleman-killer," cried Luke quite
 
 violently, "and that he killed the worthy and greatly wronged
 
 gentleman who was my client and friend!"
-
-
 
 "You seem a little annoyed," said Mr. Pond.  "Have you tried
 
@@ -2522,11 +2101,7 @@ Believe me, those eighteenth-century writers I wanted to quote are
 
 very soothing.  Have you read Addison's play about Cato?"
 
-
-
 "You appear to be mad," said the lawyer, now positively pale.
-
-
 
 "Or again," continued Mr. Pond in a chatty way, "have you read Miss
 
@@ -2534,11 +2109,7 @@ Asa-Smith's play about the duchess in the bathing-suit?  All the
 
 sentences curiously cut short--like the bathing-suit."
 
-
-
 "Do you mean anything whatever?" asked the lawyer in a low voice.
-
-
 
 "Oh, yes, I mean a great deal," replied Pond.  "But it takes quite
 
@@ -2566,8 +2137,6 @@ ends with a point.  But the modern sort of sentence never ends; and
 
 nobody waits for it to end.
 
-
-
 "Now women were always a little like that.  It isn't that they
 
 don't think, they think quicker than we do.  They often talk
@@ -2585,8 +2154,6 @@ sort, the old oratorical sort, would always end his sentence
 properly, and be as careful to say what he meant at the end as the
 
 beginning.
-
-
 
 "I suggest to you, as the barristers say, that what Captain Gahagan
 
@@ -2630,8 +2197,6 @@ pleased at this and condescended to chat with him; but did not
 
 condescend to pay any attention whatever to anything else he said.
 
-
-
 "Now for the third case.  What Gahagan said to Miss Artemis Asa-
 
 Smith on the doorstep was this:  'I'm going to the club; I promised
@@ -2653,8 +2218,6 @@ of this shameless avowal, of course she could not stoop to pick up
 the pieces of any other silly things he had said.  He was simply
 
 the man who went to the club.
-
-
 
 "Now all those three real statements of Gahagan are exactly the
 
@@ -2696,19 +2259,13 @@ in the language of Addison or Johnson than in the splutterings of
 
 Mr. Toxin and the Diving Duchess?"
 
-
-
 During this monologue, certainly rather long, the lawyer had grown
 
 more and more restless and full of nervous irritation.
 
-
-
 "This is all fancywork," he said almost feverishly.  "You haven't
 
 proved any of this."
-
-
 
 "No," said Pond gravely, "as you say, I fancied it.  At least I
 
@@ -2716,11 +2273,7 @@ guessed it.  But I did ring up Gahagan and hear something of the
 
 truth of his words and movements that afternoon."
 
-
-
 "Truth!" cried Luke, with very extraordinary bitterness.
-
-
 
 Pond looked at him curiously.  That woodenness of visage which was
 
@@ -2748,8 +2301,6 @@ certainly not one worked by Artemis or Joan.  At last he broke the
 
 silence very abruptly.
 
-
-
 "Mr. Luke," he said, "you are naturally concerned for your late
 
 client; but some might feel you had a more than professional
@@ -2762,19 +2313,13 @@ come back from Brighton that day?  Was Mrs. Feversham at the house
 
 that afternoon, whether Gahagan went there, or not?"
 
-
-
 "She was not," said Luke shortly.  "They were both expected to
 
 return next morning.  I have no idea why Feversham himself did
 
 return that night."
 
-
-
 "Looks almost as if somebody had sent for him," said Mr. Pond.
-
-
 
 Mr. Luke the solicitor rose abruptly from his seat and turned away.
 
@@ -2783,8 +2328,6 @@ Mr. Luke the solicitor rose abruptly from his seat and turned away.
 and, making a stiff salute, he took his top-hat and was gone from
 
 the house with a swiftness that seemed hardly normal.
-
-
 
 Next day Mr. Pond clad himself even more conventionally and
 
@@ -2840,8 +2383,6 @@ himself.  "She's as good as gold.  A great deal better than gold.
 
 And oh, how much better than platinum!"
 
-
-
 Stopping at the next stage of his pilgrimage, he visited the
 
 monstrous and ludicrous large hotel which had the honour of housing
@@ -2887,8 +2428,6 @@ murdered, to that high and sinister house where his widow was still
 living alone: the great Olivia, queen of tragedy, now tragic by a
 
 double claim.
-
-
 
 He stepped, not without repugnance, across that dark corner inside
 
@@ -2946,8 +2485,6 @@ he forced himself to colder considerations, that it really resolved
 
 itself into a matter of time.
 
-
-
 Gahagan had certainly spent a huge amount of TIME with Olivia; that
 
 was really the only external proof of his passion for her.  The
@@ -2982,8 +2519,6 @@ descent from the great Shakespearian critic.  But, anyhow, she must
 
 be Irish--at least by tradition. . . .
 
-
-
 As he bent over the shabby book in the dusky anteroom, there shot
 
 into his mind a white ray of serene and complete understanding: so
@@ -2996,13 +2531,9 @@ it wrote themselves rapidly across his brain with the bewildering
 
 brevity of a hieroglyphic.
 
-
-
 "Love never needs time.  But Friendship always needs time.  More
 
 and more and more time, up to long past midnight."
-
-
 
 When Gahagan had done those crazy things that blazoned his devotion
 
@@ -3038,8 +2569,6 @@ the rich and faintly Irish voice of Olivia welcoming him; and he
 
 knew he was right.
 
-
-
 "Don't you know," asked the widow with a mournful smile, when he
 
 had tactfully steered the conversation past condolences to Captain
@@ -3064,8 +2593,6 @@ a joke.  But you see how it was.  The English won't allow the poor
 
 fellow to recite Shakespeare."
 
-
-
 Mr. Pond did indeed see how it was.  He knew enough about men to
 
 know that a man must have a friend, if possible a female friend, to
@@ -3085,8 +2612,6 @@ little while they began to gather again, though more remotely.
 After all, as he had said before, SOMEBODY had killed poor Fred
 
 Feversham.
-
-
 
 He was quite certain now that it was not Feversham's wife.  He was
 
@@ -3114,8 +2639,6 @@ his professional standing, had taken very prompt steps to prevent
 
 Mr. Feversham telling anybody else.
 
-
-
 "It makes me feel very bad," said Mr. Pond, meekly and almost
 
 tremulously.  "At that last meeting of ours I could see he was
@@ -3124,17 +2647,7 @@ awfully frightened already; and, do you know, I'm very much afraid
 
 that it was I who frightened him."
 
-
-
-
-
-
-
 WHEN DOCTORS AGREE
-
-
-
-
 
 Mr. Ponds paradoxes were of a very peculiar kind.  They were indeed
 
@@ -3174,8 +2687,6 @@ effect"; and then the writers answer:  "What the devil else should
 
 we talk for?  Ineffectualness?"  It is a sordid scene.
 
-
-
 But Mr. Pond belonged to a more polite world and his paradoxes were
 
 quite different.  It was quite impossible to imagine Mr. Pond
@@ -3211,8 +2722,6 @@ Vienna, he was once entertaining a lady; and five minutes later she
 rejoined her friends with a very white face; and whispered to them
 
 the shocking secret that the mild little man was mad.
-
-
 
 The peculiarity of his conversation was this: in the middle of a
 
@@ -3250,8 +2759,6 @@ queer compact contradictions, there was a very queer story--like
 
 the queer story to be narrated here.
 
-
-
 His friend Gahagan, that ginger-haired giant and somewhat flippant
 
 Irish dandy, declared that Pond put in these senseless phrases
@@ -3273,8 +2780,6 @@ India, he naturally visited Toronto," will pass harmlessly in at
 one ear and out at the other, without disturbing the cultured mind
 
 within.
-
-
 
 It was at a little dinner given by old Wotton to Gahagan and Pond
 
@@ -3316,8 +2821,6 @@ very military.  He kept the peace by staccato sentences under a
 
 stiff grey moustache.  He had more chin than forehead.
 
-
-
 "They tell me," Wotton was saying, "that the Poles and Lithuanians
 
 have come to an agreement about Wilno.  It was an old row, of
@@ -3325,8 +2828,6 @@ have come to an agreement about Wilno.  It was an old row, of
 course; and I expect it was six to one and half a dozen to the
 
 other."
-
-
 
 "You are a real Englishman, Wotton," said Gahagan, "and you say in
 
@@ -3346,21 +2847,15 @@ the Holy Roman Empire, and you still say in your hearts, 'What can
 
 the difference be betwixt Tweedledum and Tweedledee?'"
 
-
-
 "There was no difference," said Pond, "between Tweedledum and
 
 Tweedledee.  You will remember that it is distinctly recorded that
 
 they agreed.  But remember what they agreed about."
 
-
-
 Wotton looked a little baffled and finally grunted:  "Well, if
 
 these fellows have agreed, I suppose there will be a little peace."
-
-
 
 "Funny things, agreements," said Pond.  "Fortunately people
 
@@ -3372,21 +2867,15 @@ men who came to agree so completely that one of them naturally
 
 murdered the other; but as a rule . . ."
 
-
-
 "'Agreed so completely,'" said Wotton thoughtfully.  "Don't you--
 
 are you quite sure you don't mean:  'Disagreed so completely'?"
-
-
 
 Gahagan uttered a sort of low whoop of laughter.  "Oh, no," he
 
 said, "he doesn't mean that.  I don't know what the devil he does
 
 mean; but he doesn't mean anything so sensible as that."
-
-
 
 But Wotton, in his ponderous way, still attempted to pin down the
 
@@ -3395,8 +2884,6 @@ narrator to a more responsible statement; and the upshot of it was
 that Mr. Pond was reluctantly induced to explain what he really
 
 meant and let us hear the whole story.
-
-
 
 The mystery was involved at first in another mystery: the strange
 
@@ -3440,8 +2927,6 @@ actually hoped all his neighbours were damned before they were born
 
 is too personal an interpretation of theological theory.
 
-
-
 On the other side, he was admittedly honest in business and
 
 faithful to his wife and family; so that there was a general
@@ -3461,8 +2946,6 @@ the stiletto; and it was generally fell that to be knifed and left
 unburied among the buried dead was an exaggerated penalty for being
 
 a rather narrow Scottish merchant of the old school.
-
-
 
 It happened that Mr. Pond himself had been present at a little
 
@@ -3491,8 +2974,6 @@ young friend of his named Angus, whom he was understood to be
 coaching and instructing generally for his medical examinations and
 
 his scientific career.
-
-
 
 Responsible people naturally love to be irresponsible.  All these
 
@@ -3548,8 +3029,6 @@ will, therefore, be rendered here with difficulty and in doubt and
 
 trembling.
 
-
-
 "Weel, ye will a' be asking wha dirked Jamie Haggis?  And I'll tell
 
 ye fair at the start that I winna gie a bawbee to ken wha dirked
@@ -3572,8 +3051,6 @@ So ye'll get nae guesses out of me; beyond saying I've lang been
 
 seekin' a man of sic prudence and public spirit."
 
-
-
 There followed that sort of silence in which people are not certain
 
 whether to laugh, at a deliberate stroke of wit; but before they
@@ -3582,13 +3059,9 @@ could do so, young Angus, who kept his eyes fixed on his venerable
 
 preceptor, had spoken with the eagerness of the ardent student.
 
-
-
 "But you'll not say, Dr. Campbell, that murder is right because
 
 some acts or opinions of the murdered man are wrong?"
-
-
 
 "Aye, if they're wrang enough," replied the benevolent Dr. Campbell
 
@@ -3596,15 +3069,11 @@ blandly.  "After all, we've nae ither test o' richt and wrang.
 
 Salus populi suprema lex."
 
-
-
 "Aren't the Ten Commandments a bit of a test?" asked the young man,
 
 with a rather heated countenance, emphasized by his red hair, that
 
 stood up on his head like stiff flames.
-
-
 
 The silver-haired saint of sociology continued to regard him with a
 
@@ -3612,21 +3081,15 @@ wholly benevolent smile; but there was an odd gleam in his eye as
 
 he answered:
 
-
-
 "Aye, the Ten Commandments are a test.  What we doctors are
 
 beginning to ca' an Intelligence Test."
-
-
 
 Whether it was an accident, or whether the intuitions of Lady
 
 Glenorchy were a little alarmed by the seriousness of the subject,
 
 it was at this point that she struck in.
-
-
 
 "Well, if Dr. Campbell won't pronounce for us, I suppose we must
 
@@ -3636,27 +3099,19 @@ cigarettes in the middle of dinner; it's a fashion I can't get used
 
 to myself."
 
-
-
 At this point in his narrative, Mr. Pond threw himself back in his
 
 chair with a more impatient movement than he commonly permitted
 
 himself.
 
-
-
 "Of course, they will do it," he said, with a mild explosiveness.
 
 "They're admired and thought very tactful when they do it."
 
-
-
 "When who do what?" said Wotton.  "What on earth are you talking
 
 about now?"
-
-
 
 "I'm talking about hostesses," said Pond, with an air of pain.
 
@@ -3674,15 +3129,11 @@ awful damage.  You see, they stop conversations that are not worth
 
 starting again.  And that's horrible, like murder."
 
-
-
 "But if the conversation's not worth starting again, why is it
 
 horrible to stop it?" asked the conscientious Wotton, still
 
 laboriously in pursuit.
-
-
 
 "Why, THAT'S why it's horrible to stop it," answered Pond, almost
 
@@ -3714,13 +3165,9 @@ catastrophes and everything, and would have started a splendid talk
 
 about a political question on the Continent."
 
-
-
 "The Catalonian question, I suppose," said Gahagan, laughing, "but
 
 I fear I've quite forgotten my lovely theory."
-
-
 
 "That's just what I say," said Pond, gloomily.  "It could only have
 
@@ -3744,21 +3191,15 @@ and yet bad results enough followed from it being stopped.  But
 
 that, as they say, is another story."
 
-
-
 "You must tell it to us another time," said Gahagan.  "At present I
 
 am still curious about the man who murdered another man because he
 
 agreed with him."
 
-
-
 "Yes," assented Wotton, "we've rather strayed from the subject,
 
 haven't we?"
-
-
 
 "So Mrs. Trefusis said," murmured Mr. Pond sadly.  "I suppose we
 
@@ -3775,8 +3216,6 @@ they call a confession.  Pardon my little interlude on the tactful
 hostess; it had something to do with what followed and I have a
 
 reason for mentioning it.
-
-
 
 "Lady Glenorchy quite calmly changed the subject from murder to
 
@@ -3798,13 +3237,9 @@ he had married the daughter of a very wealthy squire near Lowestoft
 
 in Suffolk."
 
-
-
 "Lowestoft, Suffolk.  These are dark hints," said Gahagan.  "Do
 
 these in themselves point to some awful and suspicious fact?"
-
-
 
 "They point," said Pond, "to the awful fact that Lady Glenorchy is
 
@@ -3836,15 +3271,11 @@ so exclusively with his coach that he failed in his examination.
 
 That was what first convinced me that my guess was right."
 
-
-
 "And very lucid, too," said Gahagan with a grin.  "He worked so
 
 hard with his coach that he failed in his examination.  Another
 
 statement that might seem to some to require expansion."
-
-
 
 "It's very simple, really," said Mr. Pond innocently.  "But in
 
@@ -3888,13 +3319,9 @@ off going to any church at all.  So I realized that I was still on
 
 the right track."
 
-
-
 "Oh," said Wotton blankly, "so you realized that you were still on
 
 the right track."
-
-
 
 "I fear I did not realize that you were on any track," said
 
@@ -3926,8 +3353,6 @@ really do find something sacred about futile conversation, I should
 
 say that you were on the track of that all right."
 
-
-
 "I know," said Mr. Pond patiently, "all I've said is quite relevant
 
 to what really happened; but, of course, you don't know what really
@@ -3944,8 +3369,6 @@ pointless by the necessity of telling stories without telling the
 
 story."
 
-
-
 "Well, then," said Gahagan, "let us try to get some sense out of
 
 all this nonsense, which has not even the excuses of newspaper
@@ -3955,8 +3378,6 @@ nonsense.  To take one of your nonsense remarks as a test, why do
 you say that Angus failed to pass because he worked so much with
 
 his coach?"
-
-
 
 "Because he didn't work with his coach," replied Pond.  "Because I
 
@@ -3968,11 +3389,7 @@ he spent days and nights with his coach; but they weren't preparing
 
 for any examination."
 
-
-
 "Well, what were they doing?" asked Wotton gruffly.
-
-
 
 "They were going on with the argument," cried Pond, in a squeak
 
@@ -3994,17 +3411,9 @@ as they went out of the gate, and only a Scottish poet can describe
 
 what they did then:
 
-
-
-
-
      And the tane went hame with the ither; and then,
 
      The tither went hame with the ither again.
-
-
-
-
 
 "And for hours and weeks and months they never turned aside from
 
@@ -4020,25 +3429,17 @@ good man has a moral right to murder the bad man, and thereby only
 
 increases his own goodness."
 
-
-
 Pond paused a moment, pulling his beard and staring at the table;
 
 then he began again:
 
-
-
 "For reasons I've already mentioned but not explained--"
-
-
 
 "That's what's the matter with you, my boy," said Gahagan genially.
 
 "There are always such a damned lot of things you have mentioned
 
 but not explained."
-
-
 
 "For those reasons," went on Pond deliberately, "I happen to know a
 
@@ -4066,8 +3467,6 @@ suppose they would say I couldn't describe the debate fairly;
 
 because the side I sympathize with was not the side that won.
 
-
-
 "Society hostesses, especially when they come from near Lowestoft,
 
 do not know where an argument is tending.  They will drop not only
@@ -4083,8 +3482,6 @@ Campbell said they were an Intelligence Test, I knew what would
 come next.  In another minute, he would be saying that nobody of
 
 intelligence now troubles about the Ten Commandments.
-
-
 
 "What a disguise there is in snowy hair and the paternal stoop of
 
@@ -4107,8 +3504,6 @@ The white hair had turned into a white wig, the powder of the
 eighteenth century; and the smiling face underneath it was the face
 
 of Voltaire.
-
-
 
 "Dr. Andrew Glenlyon Campbell was a real philanthropist; so was
 
@@ -4142,8 +3537,6 @@ dead with fatigue.  But it was not of disagreement that either of
 
 them died.
 
-
-
 "But the advantage was with the older and more learned man in his
 
 attack; and you must remember that the younger man had only a
@@ -4162,13 +3555,9 @@ is paraphrased by Synesius of Samothrace and attributed to the lost
 
 code of Lycurgus."
 
-
-
 "Who was Synesius of Samothrace?" inquired Gahagan, with an
 
 appearance of sudden and eager curiosity.
-
-
 
 "He was a mythical character of the Minoan Age first discovered in
 
@@ -4187,8 +3576,6 @@ religion only founded on texts.  I knew how the fight was going;
 and I knew when it ended.  I knew when Robert Angus left off going
 
 to kirk on the Sabbath."
-
-
 
 The end of the debate may best be described more directly; for,
 
@@ -4220,19 +3607,13 @@ climbed through the semi-circular rows of seats, when Campbell said
 
 to him casually.
 
-
-
 "Ye'll find the facts I mentioned aboot the Aztec hymns in the--"
-
-
 
 Angus tossed the tool on the table like a man throwing down his
 
 sword, and turned on his companion with a new and transfigured air
 
 of candour and finality.
-
-
 
 "You needn't trouble about hymns any more; I may as well tell you
 
@@ -4246,15 +3627,11 @@ last.  You are right, you must be right; I don't see any way out of
 
 it."
 
-
-
 After a silence, Campbell answered very softly:  "I'll no mak'
 
 apologies for fighting for the truth; but, man, ye made a real
 
 bonny fight for the falsehood."
-
-
 
 It might well have seemed that the old blasphemer had never spoken
 
@@ -4270,19 +3647,13 @@ his hand: a surgical knife made upon an odd pattern for special
 
 purposes.  At last he said in a hoarse and almost inaudible voice:
 
-
-
 "A knife of an unusual shape."
-
-
 
 "See report o' inquest on Jamie Haggis," said the old man, nodding
 
 benevolently.  "Aye, ye've guessed richt, I'm thinking."  Then,
 
 after a pause, he added, with equal calm:
-
-
 
 "Noo that we are agreed, and a' of one mind, aboot the need for sic
 
@@ -4300,13 +3671,9 @@ when he rose from his prayers, I followed him and killed him i' the
 
 kirkyard."
 
-
-
 Angus was still looking at the knife in silence; then he said
 
 suddenly:  "Why did you kill him?"
-
-
 
 "Ye needna ask, noo we are agreed in moral philosophy," replied the
 
@@ -4322,27 +3689,17 @@ slums and the lave.  And I understand that, upon reflection, ye tak
 
 the same view."
 
-
-
 Angus nodded grimly.
-
-
 
 The proverb asks:  "Who shall decide when doctors disagree?"  But
 
 in that dark and ominous theatre of doctoring the doctors agreed.
 
-
-
 "Yes," said Angus, "I take the same view.  Also, I have had the
 
 same experience."
 
-
-
 "And what's that?" inquired the other.
-
-
 
 "I have had daily dealings with a man I thought was doing nothing
 
@@ -4370,8 +3727,6 @@ an individual suffered.  But, after all, you also are only an
 
 individual."
 
-
-
 Something in the last words, that were said very softly, made the
 
 old doctor stiffen suddenly and then start backwards towards the
@@ -4381,8 +3736,6 @@ steps behind.  Angus sprang like a wildcat and pinned him to his
 place with a choking violence; still talking, but now at the top of
 
 his voice.
-
-
 
 "Day after day, I have itched and tingled to kill you; and been
 
@@ -4395,8 +3748,6 @@ defended you from death.  You wise thinker; you wary reasoner; you
 fool!  It would be better for you to-night if I still believed in
 
 God and in his Commandment against murder."
-
-
 
 The old man twisted speechlessly in the throttling grip, but he was
 
@@ -4416,8 +3767,6 @@ shape as the flint knife of some prehistoric sacrifice; and still
 
 he talked on in the high tones of madness.
 
-
-
 "One thing alone protected you and kept the peace between us: that
 
 we disagreed.  Now we agree, now we are at one in thought--and
@@ -4425,8 +3774,6 @@ we disagreed.  Now we agree, now we are at one in thought--and
 deed, I can do as you would do.  I can do as you have done.  We are
 
 at peace."
-
-
 
 And with the sound of that word he struck; and Andrew Campbell
 
@@ -4438,12 +3785,6 @@ bent and fled from the building and from the city and across the
 
 Highland line at night, to hide himself in the hills.
 
-
-
-
-
-
-
 When Pond had told this story, Gahagan rose slowly to his gigantic
 
 height and knocked out his cigar in an ashtray:  "I darkly suspect,
@@ -4453,8 +3794,6 @@ Pond," he said, "that you are not quite so irrelevant as you sound.
 Not quite irrelevant, I mean, even to our opening talk about
 
 European affairs."
-
-
 
 "Tweedledum and Tweedledee agreed--to have a battle," said Pond.
 
@@ -4466,25 +3805,11 @@ ask what they've agreed on.  But agreement can be rather risky,
 
 unless it's agreement with the truth."
 
-
-
 Wotton looked at him with a smouldering suspicion; but finally
 
 decided, with a sigh of relief, that it was only metaphysics.
 
-
-
-
-
-
-
-
-
 POND THE PANTALOON
-
-
-
-
 
 "No, no, no," said Mr. Pond, with a gentle shrillness which he
 
@@ -4508,15 +3833,11 @@ not quite correctly.  The most ordinary and obvious truths, when
 
 reported in that way, may be made to sound almost absurd."
 
-
-
 "Almost," said Captain Gahagan, nodding gravely and gazing at the
 
 little man opposite him, rather as if he were a mysterious monster
 
 in a tank.
-
-
 
 Mr. Pond was in his private tank, or private office, in a hive of
 
@@ -4533,8 +3854,6 @@ as usual; his large figure lounged in a chair that looked too small
 for him; he was attached to Mr. Pond and even more attached to
 
 watching other people work.
-
-
 
 "I may resemble Polonius," said Pond, modestly; and, indeed, his
 
@@ -4566,8 +3885,6 @@ the department would hardly move in the matter without further
 
 inquiries."
 
-
-
 "No doubt you have my dossier," said Gahagan, "with official
 
 calculations and statistics about the number of my legs, not to
@@ -4583,8 +3900,6 @@ hardly seem to have noticed what was really peculiar in your own
 remark.  In any case, I do not quite understand what you mean by a
 
 pencil being relatively red. . . ."
-
-
 
 "Even that phrase might be defended," observed Mr. Pond, with a
 
@@ -4610,8 +3925,6 @@ blue.  If the red end were worn away, you would say it was mostly
 
 blue, though a little red."
 
-
-
 "I should say nothing of the sort," exclaimed Gahagan with abrupt
 
 impatience.  "I should say what I said before; that the queer thing
@@ -4622,8 +3935,6 @@ your statement.  You can't see the paradox in your own remark.  You
 
 can't see the point of your own remark."
 
-
-
 "The point of my remark," said Mr. Pond, with dignity, "which I
 
 thought I had made sufficiently clear, was that people are very
@@ -4632,8 +3943,6 @@ inexact in reporting statements, as in cases like a camel and
 
 'something like a camel.'"
 
-
-
 Peter Gahagan continued to stare with round eyes at his friend,
 
 like a buffalo in a very ruminant phase; and eventually heaved
@@ -4641,8 +3950,6 @@ like a buffalo in a very ruminant phase; and eventually heaved
 himself up, collecting his grey top-hat and walking-stick with a
 
 sort of clatter.
-
-
 
 "No," he said, "I will not point out the point.  It would be
 
@@ -4662,8 +3969,6 @@ Wotton.  As he has often breezily observed, there is no nonsense
 
 about him."
 
-
-
 And he sauntered out of the room, swinging his stick, in the
 
 direction of the very important department presided over by Sir
@@ -4673,8 +3978,6 @@ Hubert Wotton; that he might enjoy the inspiriting spectacle of
 another friend doing his day's work and being interrupted by an
 
 idle man.
-
-
 
 Sir Hubert Wotton, however, was of a type somewhat different from
 
@@ -4690,13 +3993,9 @@ on his desk.  He recognized the entry of the beaming Captain with a
 
 grim but not ungracious smile, and waved him to a seat.
 
-
-
 Gahagan sat down with his hands crossed on his stick and thumped it
 
 on the floor.
-
-
 
 "Wotton," he said, "I've solved the problem of the Paradoxes of
 
@@ -4722,8 +4021,6 @@ was not a blue pencil; but he somehow forgot all about the black
 
 marks."
 
-
-
 "Black marks!" said Wotton; and sat up so abruptly that he spilt
 
 the ash of his cigar over his usually immaculate waistcoat.  He
@@ -4733,8 +4030,6 @@ dusted off the defilement with a frown; and then, after a pause,
 spoke in the staccato fashion that occasionally revealed that he
 
 was much less conventional than he looked.
-
-
 
 "Most fellows who talk paradoxes are only trying to show off.  It's
 
@@ -4764,8 +4059,6 @@ of those crazy sentences simply stands for one of the adventures in
 
 what would be called by most people a very unadventurous life."
 
-
-
 "I think I see what you mean," said Gahagan, after a pause of
 
 radiant reflection.  "Yes, you're right.  You can't expect me to be
@@ -4788,8 +4081,6 @@ every paradox of Pond.  Certainly that is true--of all those cases
 
 when I have been told the story."
 
-
-
 "I know all about this story," said Wotton, "and it was one of the
 
 most remarkable things that Pond ever did.  It was a matter of
@@ -4810,17 +4101,11 @@ hurry and change the subject.  But he certainly saved England; also
 
 he nearly got killed."
 
-
-
 "What!" exclaimed Gahagan with some astonishment.
-
-
 
 "The fellow must have fired five times at him," said Wotton
 
 reminiscently, "before he turned the sixth shot on himself."
-
-
 
 "Well, I'm blowed," said the Captain elegantly.  "I always thought
 
@@ -4846,15 +4131,11 @@ nonsense--you know my unfortunate mind only becomes fertile about
 
 impossible things."
 
-
-
 "It's curious you should call it impossible," said Sir Hubert
 
 Wotton, knitting his brows, "because that's almost exactly what
 
 really happened to us."
-
-
 
 Sir Hubert Wotton showed a certain reticence and deliberate
 
@@ -4916,8 +4197,6 @@ dispatching and in finally receiving the box or parcel--and several
 
 other conditions of the kind.
 
-
-
 "Pond will think all this terribly expensive," said Wotton, with a
 
 sad smile.  "Pond is quite the Old Liberal in the matter of economy
@@ -4926,17 +4205,11 @@ and retrenchment.  But he will agree that we are all bound to show
 
 particular care in this case."
 
-
-
 "N-no," said Mr. Pond, pursing his lips dubiously.  "I don't think
 
 I should show any particular care in this case."
 
-
-
 "Not show any particular care!" repeated the astonished Wotton.
-
-
 
 "I certainly shouldn't SHOW it," said Mr. Pond.  "In such cases,
 
@@ -4944,15 +4217,11 @@ nobody of sense would take such particular precautions, any more
 
 than anybody would send an important letter by registered post."
 
-
-
 "Well, you must pardon my dullness," said Sir Hubert, "but, as a
 
 matter of fact, I have heard of people sending an important letter
 
 by registered post."
-
-
 
 "It is done, I believe," said Mr. Pond, with distant disparagement.
 
@@ -4960,13 +4229,9 @@ by registered post."
 
 Just now you are trying to prevent a letter being found."
 
-
-
 "That sounds rather interesting," said Dyer, with some restrained
 
 amusement.
-
-
 
 "Don't you see?  It's quite simple," answered Pond.  "If you want
 
@@ -4998,8 +4263,6 @@ it would be far safer from a watchful enemy, if it were unmarked
 
 and sent along with a thousand others looking exactly the same."
 
-
-
 It is a tribute to the essential shrewdness, underlying the
 
 apparent woodenness of Wotton and Dyer, that the paradox of Pond
@@ -5020,8 +4283,6 @@ headed Dyer continued to insist was that of putting guards and
 
 searchers at essential points of the route of travel.
 
-
-
 "I suppose there'll be some damned fuss about it afterwards," he
 
 said, "and people will pester us about interfering with the liberty
@@ -5029,8 +4290,6 @@ said, "and people will pester us about interfering with the liberty
 of the subject.  We're handicapped in this confounded constitutional
 
 country.  Now if we were in--"
-
-
 
 He shut his mouth rather sharply, as a discreet knock sounded on
 
@@ -5068,12 +4327,6 @@ superior; and, last but not least, that he had started visibly when
 
 he saw the detective from Scotland Yard.
 
-
-
-
-
-
-
 The second Council, if it may be called so, was held in what all
 
 agreed was the strategical centre of the whole manoeuvre: a certain
@@ -5096,23 +4349,17 @@ orders which stopped, detained or examined persons attempting to
 
 enter or leave the station.
 
-
-
 "I have told our people they mustn't even let US out of the
 
 station," he said, "without close examination, for fear somebody
 
 should have a fancy for dressing up as Mr. Pond."
 
-
-
 "It has quite a festive sound, so near Christmas," said Mr. Pond
 
 dolefully.  "So I take it that for the present we must stay on the
 
 station; and one can hardly say it looks particularly festive."
-
-
 
 Nothing, indeed, can well look more desolate than one of the
 
@@ -5144,23 +4391,17 @@ surprised those who only knew his catlike love of comfortable
 
 domestic routine.
 
-
-
 He entered this empty and unsightly apartment with a brisk step,
 
 stopping for a moment to stare reflectively at the dried ink and
 
 broken pens on the corner table.
 
-
-
 "Well," he said, turning away, "they couldn't do very much with
 
 those, anyhow; but, of course, they might have pencils or fountain-
 
 pens.  I'm rather glad I did it, on the whole."
-
-
 
 "Pond," said Wotton gravely, "this is in your department anyhow;
 
@@ -5169,8 +4410,6 @@ and I'm sure that Dyer will agree that we've done well to follow
 your advice so far.  But I hope you don't mind my having a mild
 
 curiosity about what it is that you've done."
-
-
 
 "Not at all," replied Pond.  "Perhaps I ought to have told you
 
@@ -5204,11 +4443,7 @@ stations like fortresses.  An isolated man or so could do very
 
 little against them.  But what could an isolated man do?"
 
-
-
 "Well," said Wotton rather impatiently.  "What could he do?"
-
-
 
 "As I say," continued Mr. Pond calmly, "I sat down and had a good
 
@@ -5240,15 +4475,11 @@ which is more than some waiting-rooms do; but it looks as if it
 
 were dying of depression; and I don't wonder."
 
-
-
 He stirred up the neglected fire, making quite a creditable blaze,
 
 with his usual instinct for the comforts of life; then he added:
 
 "I hope you don't disagree with that second precaution of mine."
-
-
 
 "No; I think that also is a very sensible precaution; though I hope
 
@@ -5262,13 +4493,9 @@ when people at Christmas are going to the pantomime.  Or, at any
 
 rate, to the pictures."
 
-
-
 Mr. Pond nodded; he seemed to be suddenly smitten with a fit of
 
 abstraction.  At last he said:
-
-
 
 "I sometimes wonder whether things weren't better when pictures
 
@@ -5276,15 +4503,11 @@ meant the pictures in the fire, instead of the pictures on the
 
 film."
 
-
-
 Sir Hubert Wotton gruffly suggested, in a general way, that the
 
 dingy fire in a Third Class Waiting-Room was not one in which he
 
 would prefer to look for pictures.
-
-
 
 "The fire pictures, like the cloud pictures," went on Mr. Pond,
 
@@ -5300,8 +4523,6 @@ because you don't like the face of a film-star, there is all sorts
 
 of trouble."
 
-
-
 Dyer, who had stamped out on to the platform during this
 
 imaginative interlude, returned at this moment with highly
@@ -5316,8 +4537,6 @@ have some sort of lunch; which had been a silent problem for all
 
 three of the officials involved.
 
-
-
 "I'll stay on this platform," he said; "in fact I shall stay on
 
 this platform all night if necessary.  This is my particular job.
@@ -5329,8 +4548,6 @@ I can get some afterwards.  Never mind about the trains; I've
 arranged for all that; and, anyhow, I shall be there when the only
 
 possible moment of danger comes."
-
-
 
 In fact, his last words were almost drowned in the throb and racket
 
@@ -5354,8 +4571,6 @@ train, was beginning to shift and puff out of the station; and when
 
 they rejoined their companion, the platform was already bare.
 
-
-
 "All safe," said Dyer, with satisfaction.  "I saw all the boxes and
 
 things into the van myself; and nobody's been here to interfere
@@ -5363,8 +4578,6 @@ things into the van myself; and nobody's been here to interfere
 with them.  Our main trouble is really over; and I shouldn't mind
 
 having a little lunch myself."
-
-
 
 He grinned at them, rubbing his hands in a congratulatory manner;
 
@@ -5374,23 +4587,17 @@ once more with the intention of returning to the hollow and smoky
 
 cell of the waiting-room.
 
-
-
 "It does seem as if there were nothing more for us to do here,"
 
 said Wotton.  "It rather increases the freezing futility of this
 
 shack."
 
-
-
 "I consider it quite a Christmas triumph," said Mr. Pond, with
 
 undiminished cheerfulness, "that we have managed to keep the fire
 
 in, anyhow. . . .  Why, I believe it's begun to snow."
-
-
 
 For some time they had noted that the afternoon, already darkening
 
@@ -5408,8 +4615,6 @@ fire was burning briskly inside; Dyer had evidently been keeping
 
 himself warm.
 
-
-
 "It's devilish queer," said Wotton, "but the whole thing is really
 
 beginning to look like a Christmas card.  Our dismal salle
@@ -5418,21 +4623,13 @@ d'attente will soon be a parody of Father Christmas's cottage in a
 
 pantomime."
 
-
-
 "The whole thing is like the parody of a pantomime," said Pond in a
 
 lower and more disquieted tone, "and as you say, it is very queer."
 
-
-
 After a pause, Wotton added abruptly:
 
-
-
 "What is worrying you, Pond?"
-
-
 
 "I'm wondering, if not worrying," answered Pond, "about exactly
 
@@ -5442,15 +4639,11 @@ like this, with no pens or anything. . . .  Of course, there's not
 
 much in that; he might have a fountain-pen or a pencil."
 
-
-
 "Oh, you've settled all that; you seem to be mad on pencils," said
 
 Wotton impatiently.  "It comes of always blue-pencilling those
 
 everlasting proofs of yours."
-
-
 
 "It wouldn't be a blue pencil," said Pond, shaking his head.  "I
 
@@ -5462,29 +4655,19 @@ more ways of doing anything than you'd fancy, even in a place like
 
 this."
 
-
-
 "But you've blocked all that already," insisted the other; "by
 
 telephoning as you did."
-
-
 
 "Well," said Pond obstinately, "and what would they do then; if
 
 they knew I'd telephoned?"
 
-
-
 Wotton looked puzzled; and Pond sat down in silence, stirring the
 
 fire and staring at it.
 
-
-
 After a silence he said abruptly:  "I wish Dyer were back."
-
-
 
 "What do you want him now for?" asked his friend.  "I should say
 
@@ -5492,23 +4675,15 @@ he'd earned a little late lunch.  As far as I can see, he's
 
 finished the business; and it's all over here."
 
-
-
 "I fear," said Pond, without taking his head out of the fireplace,
 
 "that it's only just going to begin."
-
-
 
 There was another silence of growing mystification, like the
 
 gathering darkness outside.  And then Pond observed suddenly:
 
-
-
 "I suppose we've come back to the right platform."
-
-
 
 Wotton's face only expressed the stolid stupefaction natural under
 
@@ -5522,11 +4697,7 @@ of a problem, but all those doubts beyond reason which revolve
 
 round place and time.  Before he could speak, Pond added:
 
-
-
 "This is a different shaped poker."
-
-
 
 "What the devil do you mean?" exploded Wotton at last.  "They have
 
@@ -5536,13 +4707,9 @@ except that girl in the bar.  You don't imagine she has put a new
 
 set of furniture and fire-irons in all the waiting-rooms?"
 
-
-
 "No," said Mr. Pond.  "I didn't say a new poker.  I said a new
 
 shape of poker."
-
-
 
 Almost as he spoke, he leapt away from the fireplace, leaving the
 
@@ -5574,8 +4741,6 @@ mounted the platform, and stood there like a passenger waiting for
 
 a train.
 
-
-
 Apart from the fact that the stranger had practically burgled the
 
 station, against such very special difficulties, Wotton's mind,
@@ -5604,8 +4769,6 @@ despair manufactures the many revolutionary movements which it had
 
 been his duty to combat; but, of necessity, his duty prevailed.
 
-
-
 He stepped up to the man, asking him who and what he was, and why
 
 he had thus evaded the police blockade.  The man appeared to ignore
@@ -5616,11 +4779,7 @@ about what he was, his tragic lantern-jaw moved and emitted a very
 
 unexpected reply.
 
-
-
 "I am a Clown," he said in a depressed voice.
-
-
 
 At this answer Mr. Pond seemed to start with altogether a new sort
 
@@ -5638,8 +4797,6 @@ undignified change came over him.  It can only be said that, having
 
 begun by goggling, he ended by giggling.
 
-
-
 "Oh, Lord, this is an extra!" he exclaimed, and seemed once more
 
 broken up by almost senile laughter.  "This has nothing to do with
@@ -5649,8 +4806,6 @@ the story; but it is a marvellous addition to the pantomime.  I
 always noticed that the chief features in the pantomime had nothing
 
 to do with the story."
-
-
 
 But Sir Hubert Wotton was having no more for the moment of Mr.
 
@@ -5692,13 +4847,9 @@ firmness and simplicity, and Pond evidently believed it; but Wotton
 
 was still smouldering with some suspicions.
 
-
-
 "I must ask you to come with us to the waiting-room," he said.
 
 "Have you anything about you to confirm your story?"
-
-
 
 "I haven't got my visiting-card," said the sombre Mr. Hankin.  "I
 
@@ -5707,8 +4858,6 @@ lost it along with my Rolls-Royce and my little castle in Scotland.
 But you can see me in my resplendent and fashionable evening-dress,
 
 if you like.  I think that ought to convince you."
-
-
 
 The man was carrying a shabby and misshapen bag, which he lugged
 
@@ -5728,8 +4877,6 @@ before their eyes, was the genuine clown of the old-fashioned
 
 pantomime, such as they had been discussing.
 
-
-
 "He came up through a trapdoor, I suppose we must say," murmured
 
 the awestruck Mr. Pond.  "But I feel as if he had fallen out of the
@@ -5746,21 +4893,15 @@ Christmas!  Screams of joy from all the tiny tots. . . .  Oh, my
 
 God, how ghastly it all is!"
 
-
-
 His friend looked at him and received a second shock in realizing
 
 that the bearded face, though it still wore the elfish look of its
 
 first amusement at the accident, was in fact terribly pale.
 
-
-
 "And the ghastliest part of it," said Mr. Pond, "is that I am going
 
 to complete your costume, Sir."
-
-
 
 He suddenly plucked out the poker, from where it was standing in
 
@@ -5768,15 +4909,11 @@ the fire, and it emerged already red-hot.  He handed it politely to
 
 the Clown.
 
-
-
 "I may look like a pantaloon," he said, "but this will obviously be
 
 more suitable to the Clown.  This is the red-hot poker, with which
 
 you make the Policeman jump."
-
-
 
 Wotton stared at a scene to which he had now entirely lost the
 
@@ -5787,8 +4924,6 @@ resounded with a firm and heavy stride coming nearer and nearer.
 The large figure of Dyer the detective appeared framed in the
 
 doorway; and he stood as if turned to stone by what he saw.
-
-
 
 Wotton was not astonished at his astonishment.  He presumed that it
 
@@ -5814,13 +4949,9 @@ fear and fury; and he looked at the red pantomime poker rather as
 
 if it had been the flaming sword of an accusing angel.
 
-
-
 "Yes, it's the red-hot poker," said Pond, in a low and almost
 
 forced voice, "and it does make the policeman jump."
-
-
 
 The policeman jumped; he jumped back three paces, and as he leapt
 
@@ -5844,12 +4975,6 @@ in their arms; and Dyer of the detective service lay dead on the
 
 floor before the dancing fire.
 
-
-
-
-
-
-
 The explanation of events was given by Mr. Pond some time later;
 
 for his first action after the catastrophe left no time for
@@ -5872,13 +4997,9 @@ telephoning a description of the package.  It'll be all right now;
 
 they will hold it up."
 
-
-
 "Do you mean THE package?" asked Wotton.  "I thought that was just
 
 like all the rest."
-
-
 
 "I'll tell you all about it presently," replied Pond.  "Let us go
 
@@ -5887,8 +5008,6 @@ and take a polite farewell of the public entertainer, who has given
 us such a delightful entertainment.  I really think we ought to
 
 give him a fiver or so in compensation."
-
-
 
 Wotton was very much the gentleman, in the more generous sense, and
 
@@ -5910,17 +5029,9 @@ warming their hands at that rather too blood-red fire that still
 
 burned in the sinister waiting-room.
 
-
-
-
-
-
-
 "It was curious you were able to corner Dyer like that," said
 
 Wotton.  "I never had a thought of him."
-
-
 
 "I never had a thought of him either," said Pond, "and he cornered
 
@@ -5963,8 +5074,6 @@ do now?  What can he do, shut up in this enormous shed, bare of all
 conveniences and appliances?  But don't you see that with that very
 
 thought came the overpowering suspicion of who the enemy was?
-
-
 
 "Nobody was there but you and Dyer when I said I had 'phoned to
 
@@ -6044,11 +5153,7 @@ your unfortunate clerk Franks, who is rather exceptionally
 
 innocent."
 
-
-
 "Franks!" exclaimed Wotton.  "Why on earth did you suspect him?"
-
-
 
 "Because I was an ass," said Pond, "and much more like a Pantaloon
 
@@ -6080,12 +5185,6 @@ might say on the logical premises."  He coughed slightly.  "Pray
 
 excuse the pun."
 
-
-
-
-
-
-
 "Well," said Captain Gahagan, when Wotton had told him the story
 
 long afterwards.  "My favourite character in your drama is the
@@ -6094,13 +5193,9 @@ Clown.  He is so irrelevant.  I am like that myself.  I am so
 
 irrelevant."
 
-
-
 "You are," said Sir Hubert Wotton, and resumed the study of his
 
 documents.
-
-
 
 "He is like the Clown in Shakespeare," went on Gahagan with
 
@@ -6126,19 +5221,7 @@ busy at the moment with oppressing and delicate problems about
 
 American claims concerning the commerce of Vancouver.
 
-
-
-
-
-
-
-
-
 THE UNMENTIONABLE MAN
-
-
-
-
 
 Mr. Pond was eating oysters--a serious and improving sight.  His
 
@@ -6165,8 +5248,6 @@ as a mere hors d'oeuvre.  But Mr. Pond was really caring for
 oysters: counting them like sheep and consuming them with the
 
 utmost care.
-
-
 
 "It is comparatively little known," observed Gahagan, "that Pond
 
@@ -6200,8 +5281,6 @@ price."  And he waved a glass towards Pond, as if concluding a
 
 speech and proposing a toast.
 
-
-
 Mr. Pond bowed gravely and swallowed another oyster.  "As a matter
 
 of fact, I was reminded of something relevant to the discussion by
@@ -6216,11 +5295,7 @@ one rather queer case, in which a government had to consider the
 
 deporting of a desirable alien--"
 
-
-
 "I suppose you mean an undesirable alien," said Wotton.
-
-
 
 Mr. Pond digested another oyster with an unobtrusive gulp and
 
@@ -6236,13 +5311,9 @@ word 'desirable' as the word 'alien.'  In one sense, he might have
 
 been described as a very desirable native."
 
-
-
 "Oysters," said Gahagan mournfully.  "The Mind is still brooding
 
 upon oysters.  They are certainly very desirable natives."
-
-
 
 "If he was not desirable, he was at least desired," continued the
 
@@ -6260,11 +5331,7 @@ world's desire.  And yet he was not deported.  Although he was
 
 desired, he was not deported.  That is the only real paradox."
 
-
-
 "Oh," said the staring Wotton.  "So that's the real paradox."
-
-
 
 "You should remember something of the case, Wotton," went on Mr.
 
@@ -6272,15 +5339,11 @@ Pond.  "It was about that time when we went over to Paris together
 
 about a rather delicate--"
 
-
-
 "Pond in Paris," murmured Gahagan.  "Pond in his Pagan Youth, when
 
 (as Swinburne says so beautifully) 'Love was the pearl of his
 
 oyster and Venus rose red out of wine.'"
-
-
 
 "Paris is on the way to many capitals," replied Pond with
 
@@ -6323,12 +5386,6 @@ Mr. Pond then proceeded to narrate his little experience, which,
 when purged of Gahagan's interruptions and Pond's somewhat needless
 
 exactitudes, was substantially this.
-
-
-
-
-
-
 
 Pond was rather lonely in this strange capital; for Wotton had gone
 
@@ -6398,8 +5455,6 @@ café with this second acquaintance, that Mr. Pond became conscious
 
 of the third, who was by far the most extraordinary of the three.
 
-
-
 This man was a sort of magnet for the human eye; Pond soon realized
 
 that this was true of everybody's eyes and not merely his own.  One
@@ -6436,8 +5491,6 @@ but in fact, for some reason or other, he had looked at him with
 
 great curiosity from the first.
 
-
-
 The man wore a wide white hat and a rather shabby dark blue suit;
 
 he had a high-bridged nose and a pale yellow beard brushed to a
@@ -6470,17 +5523,11 @@ queer and eccentric popularity led everybody to use his Christian
 
 name, did not very clearly emerge.
 
-
-
 "Marcus," said Mr. Pond to his young companion, "who IS this man?"
-
-
 
 "Everybody knows him and nobody knows who he is," replied Marcus in
 
 a rather grating voice.  "But I'm jolly well going to find out."
-
-
 
 As he spoke, the hawkers of the revolutionary paper, published by
 
@@ -6502,17 +5549,11 @@ definite disapproval, was the gentleman with the beard and the blue
 
 ring: M. Louis.
 
-
-
 "Well," said Marcus, with a darkening brow.  "Let them.  It's their
 
 last chance, I suppose."
 
-
-
 "Why, what do you mean?" inquired Pond.
-
-
 
 The brow of Marcus became still more corrugated and troubled; at
 
@@ -6534,13 +5575,9 @@ Anyhow, they're going to raid the offices with police to-morrow;
 
 and that's probably the last issue."
 
-
-
 M. Marcus proved himself a true prophet, so far as concerned the
 
 general situation next morning.
-
-
 
 There had apparently been another issue; but if it had ever been
 
@@ -6564,8 +5601,6 @@ seated at a table close by and eyeing the reader of the red paper
 
 with bristling suspicion.
 
-
-
 Marcus and Pond took their seats at their own original table; and
 
 even as they did so, a contingent of police came by, marching very
@@ -6586,19 +5621,13 @@ spot in the corner of the crowded café.  He planted himself before
 
 M. Louis; and shouted as if on parade:
 
-
-
 "You are forbidden to read that paper.  It contains direct
 
 incitement to crime."
 
-
-
 "And how," asked M. Louis courteously, "and how can I discover this
 
 deplorable fact except by reading it?"
-
-
 
 Something in that polite tone seemed, for some odd reason, to cause
 
@@ -6608,23 +5637,17 @@ the handle.  Pointing his umbrella at the man in the café, he
 
 vociferated with a violent distinctness:
 
-
-
 "You could be arrested, you could be deported; and you know why.
 
 Not for all that bloody nonsense.  You don't need that scrap of a
 
 scarlet rag to mark you out among decent citizens."
 
-
-
 "Because my own sins are as scarlet," said the other, gently
 
 inclining his head, "the scandal of my presence here is indeed
 
 highly scandalous.  And why don't you arrest me?"
-
-
 
 "You wait and see whether we arrest you," said the Minister
 
@@ -6635,8 +5658,6 @@ whole machinery of society by a trick like this.  Do you think we
 will let that sort of dirty little red rusty nail in the road stop
 
 all the wheels of progress?"
-
-
 
 "And do you think," answered the other sternly, "that all the
 
@@ -6654,8 +5675,6 @@ State; and you will have quite a peculiar difficulty in deporting
 
 me back to my own country."
 
-
-
 The Minister took one furious step forward; and then stopped.  Then
 
 he walked off twirling his moustaches, as if suddenly forgetting
@@ -6664,33 +5683,23 @@ the very existence of the other; and followed in the track of the
 
 police.
 
-
-
 "There seem to be a number of mysteries here," said Mr. Pond to his
 
 friend.  "First, why should he be deported?  Second, why shouldn't
 
 he be deported?"
 
-
-
 "I don't know," said Marcus, and stood up stiff and frowning.
-
-
 
 "All the same," said Mr. Pond, "I am beginning to have a sort of
 
 fancy about who he is."
-
-
 
 "Yes," said Marcus grimly, "and I'm beginning to have a fancy about
 
 what he is.  Not a nice fancy."  And he strode abruptly away from
 
 the table and up the street alone.
-
-
 
 Mr. Pond remained seated in a condition of profound thought.  After
 
@@ -6699,8 +5708,6 @@ some minutes he rose and made his way towards the table where his
 friend the bookseller, the excellent Huss, was still seated in
 
 somewhat darkling majesty.
-
-
 
 Even as he crossed the crowded trottoir, a roar broke from the
 
@@ -6734,13 +5741,9 @@ applauding mob.  Mr. Pond sat down opposite his friend the
 
 bookseller and scrutinized his whiskered face with interest.
 
-
-
 "Well," said Mr. Pond, "our friend over there looks as if he might
 
 soon be the leader of the revolutionary party."
-
-
 
 This remark had a rather strange effect on Mr. Huss; he started as
 
@@ -6749,8 +5752,6 @@ in disorder by saying:  "No, no"; controlled his countenance, and
 then enunciated a number of short sentences with an extraordinary
 
 exactitude.
-
-
 
 "Myself of the bourgeoisie, I have yet remained apart from
 
@@ -6762,21 +5763,15 @@ with the protest of the proletariat or with the present phase of
 
 capitalism."
 
-
-
 "Oh," said Mr. Pond; and an understanding began to dawn in his
 
 eyes.  After a moment he said:  "I apologize most sincerely, old
 
 man.  I didn't know you were a Communist."
 
-
-
 "I have confessed to nothing of the sort," said Huss heatedly; then
 
 he added abruptly:  "You will say somebody has betrayed me."
-
-
 
 "Your speech betrays you, like the Galilean," said Pond.  "Every
 
@@ -6789,8 +5784,6 @@ mine; and I won't mention it to a soul, if you prefer not.  I only
 ventured to say that the man over there seems to be very popular
 
 with the strikers, and might lead the movement."
-
-
 
 "No, no, no," cried Huss, beating on the table with his two fists.
 
@@ -6808,25 +5801,17 @@ infamous, there are persons so infamous, that they must always be
 
 excluded from the Party."
 
-
-
 "You mean somebody is so wicked that he has awakened a dormant
 
 moral sense even in a Bolshevist bookseller," said Pond.  "Why,
 
 what has he done?"
 
-
-
 "It is not only what he does but what he is," said Mr. Huss.
-
-
 
 "Curious that you should say that," said Pond.  "For I have just
 
 made a sort of a guess about what he is."
-
-
 
 He took a newspaper-cutting from his waistcoat pocket and pushed it
 
@@ -6840,13 +5825,9 @@ capital.  Well, our friend in the white hat seems to me to be
 
 rather an old hand."
 
-
-
 Huss was still drumming faintly on the table and obscurely
 
 muttering:  "Never, never, shall he be the leader."
-
-
 
 "But suppose he is the leader?" said Pond.  "He obviously has a
 
@@ -6855,8 +5836,6 @@ sort of habit of old leadership about him; a sort of gesture of
 authority.  Isn't he going on exactly as Tarnowski the Tiger
 
 probably would go on?"
-
-
 
 Mr. Pond may have expected to surprise the bookseller; but it was
 
@@ -6872,8 +5851,6 @@ nightmare story of a man at a solitary table finding he was dining
 
 with a devil.
 
-
-
 "My God," said the atheist at last, in a small, weak rather squeaky
 
 voice, "and so you think HE is Tarnowski!"  And with that, the
@@ -6884,21 +5861,15 @@ laughter, like the dismal noises of an owl, shrill and monotonous
 
 and apparently to be repeated indefinitely without control.
 
-
-
 "Well," interrupted Pond, mildly exasperated, "how can you possibly
 
 know that he is not Tarnowski?"
-
-
 
 "Only because I am Tarnowski," said the bookseller, with sudden
 
 sobriety.  "You say you are not a spy.  But you can betray me if
 
 you choose."
-
-
 
 "I assure Your Excellency," said Mr. Pond, "that I am not a spy or
 
@@ -6914,23 +5885,13 @@ man always says exactly what he means; but especially when he hides
 
 it."
 
-
-
 "That," observed the other with guttural slowness, "is what I think
 
 you call a paradox."
 
-
-
 "Oh, don't say that," groaned Mr. Pond.  "Everybody in England says
 
 that.  And I have honestly no notion of what it means."
-
-
-
-
-
-
 
 "But in that case," said Mr. Pond to himself, "who on earth IS the
 
@@ -6939,8 +5900,6 @@ man in the white hat?  What crime has he committed?  What crime is
 it for which he can be arrested or deported?  Or again, what crime
 
 is it for which he CAN'T be arrested or deported?"
-
-
 
 It was in a burst of splendid sunshine, on the following morning,
 
@@ -6990,19 +5949,13 @@ with a visage which announced vividly that that political Puritan
 
 did not believe in puppet-shows.
 
-
-
 "Well," he said, glaring at Pond with a sort of controlled rage, "I
 
 fancy I can guess the truth about HIM."
 
-
-
 Pond made polite inquiries; and was answered by an unexpectedly
 
 ugly and jeering laugh.
-
-
 
 "What sort of man is it," asked Marcus, "who is received everywhere
 
@@ -7014,13 +5967,9 @@ What holy Father of the Poor?  Deported!  That sort of fellow ought
 
 to be hanged."
 
-
-
 "I fear I do not understand anything yet," answered Pond mildly,
 
 "except that for some reason he cannot even be deported."
-
-
 
 "Looks very patriarchal, doesn't he, sitting in the sunshine and
 
@@ -7052,15 +6001,11 @@ who can play the Sultan in society and be sure that everybody will
 
 smile and be polite?  Only the very basest sort of criminal."
 
-
-
 "In plain words," said Mr. Pond, "you mean he ought to be arrested
 
 because he's a blackmailer.  You also mean he can't be arrested
 
 because he's a blackmailer."
-
-
 
 For the first time the rage of Marcus seemed mixed with a sort of
 
@@ -7068,15 +6013,11 @@ embarrassment, almost amounting to shame, as he looked down
 
 scowling at the table.
 
-
-
 "It has no doubt occurred to you," proceeded Pond placidly, "that
 
 the second inference involves some suggestions that are rather
 
 delicate; especially if I may say so, for a man in your position."
-
-
 
 Marcus remained in a silence swollen with anger; then at last he
 
@@ -7084,13 +6025,9 @@ broke out abruptly, as if beyond control:  "I'll swear the Prime
 
 Minister is perfectly honest."
 
-
-
 "I do not think," said Mr. Pond, "that I have ever regaled you with
 
 any scandals about the Prime Minister."
-
-
 
 "And I can't believe the little doctor is really in it," went on
 
@@ -7100,25 +6037,15 @@ made him spluttering and spiteful.  It was just trying to be
 
 straight amid all this--"
 
-
-
 "All this what?" asked Mr. Pond.
-
-
 
 Marcus turned in his chair with an abrupt gesture of the elbow,
 
 saying:  "Oh, you don't understand."
 
-
-
 "On the contrary," replied Pond.  "I think I do understand."
 
-
-
 There was a lengthy silence and then Pond resumed:
-
-
 
 "I understand the horrid truth that you yourself are a perfectly
 
@@ -7132,15 +6059,11 @@ idea of equality and justice, that you swore loyalty; and to that
 
 you have been loyal."
 
-
-
 "You had better say what you think." said Marcus gloomily.  "You
 
 mean that I am really only serving a gang of crooks, whom any
 
 blackguard can blackmail."
-
-
 
 "No, I will not ask you to admit that now," answered Pond.  "Just
 
@@ -7150,8 +6073,6 @@ a man sympathizing with the strikers, or even being a sincere
 
 Socialist?"
 
-
-
 "Well," replied Marcus, after a spasm of concentration, "I suppose
 
 one ought to imagine.  I suppose he might hold that, the Republic
@@ -7160,8 +6081,6 @@ resting on the Social Contract, it might supersede even free
 
 contracts."
 
-
-
 "Thank you," said Mr. Pond with satisfaction, "that is exactly what
 
 I wanted.  It is an important contribution to Pond's Law of
@@ -7169,8 +6088,6 @@ I wanted.  It is an important contribution to Pond's Law of
 Paradox, if I may be pardoned for expressing myself so playfully.
 
 And now let us go and talk to M. Louis."
-
-
 
 He stood up before the astonished official, who had no apparent
 
@@ -7184,13 +6101,9 @@ saying something about "my young friends often enliven my solitude
 
 with their rather Socialistic views."
 
-
-
 "I should not agree with your young friends," said Marcus curtly,
 
 "I am so old-fashioned as to believe in free contract."
-
-
 
 "I, being older, perhaps believe in it even more," answered M.
 
@@ -7226,8 +6139,6 @@ cannot bargain at all.  You are not supporting contract; you are
 
 opposing all contract; for yours cannot be a real contract at all."
 
-
-
 While the smoke of his cigarette mounted towards the balcony, Mr.
 
 Pond's eye followed it and found the balcony fitted out with what
@@ -7240,15 +6151,11 @@ sword, such as might have come from a curiosity shop.  Mr. Pond
 
 eyed this last object with considerable curiosity.
 
-
-
 "Please permit me to play the host," said M. Louis affably.
 
 "Perhaps you would like a cocktail or something; I stick to a
 
 little benedictine."
-
-
 
 As he turned in his chair towards the waiter, a shot rang through
 
@@ -7268,8 +6175,6 @@ meant anything, could only mean that the policeman himself had
 
 turned for an instant and fired.
 
-
-
 "A little reminder, perhaps, that it is time to go to bed," said M.
 
 Louis gaily.  "I go up by the fire-escape and I sleep on the
@@ -7280,27 +6185,19 @@ my people have always gone to bed in public; so many tramps do,
 
 don't they?  Good night, gentlemen."
 
-
-
 He lightly scaled the iron ladder and began on the balcony, before
 
 their astonished eyes, to assume a capacious dressing-gown and
 
 prepare for slumber.
 
-
-
 "Pond," said Marcus, "we are in a nightmare of nonsense."
-
-
 
 "No," replied Pond, "for the first lime it begins to make sense.  I
 
 have been stupid; but I am beginning at last to see what it all
 
 means."  After ruminating a moment, he resumed rather apologetically:
-
-
 
 "Forgive me if I refer again to my foolish jest about Pond's Law.
 
@@ -7352,8 +6249,6 @@ crime.  And yet again, he cannot be arrested.  He can only be
 
 assassinated.
 
-
-
 "The blackmail charge rests on one scene, in which a lady knelt to
 
 him in the street.  You argued truly that ladies in your country
@@ -7365,8 +6260,6 @@ this except in some extreme of agony and despair.  It did not occur
 to you that, perhaps, it might be only an extreme of formality and
 
 propriety."
-
-
 
 Marcus began slowly:  "What the devil--"  And then Mr. Pond rapped
 
@@ -7390,17 +6283,11 @@ Long ago a man could be knighted by any knight; but by all modern
 
 custom it can only be done--"
 
-
-
 "Only--" began Marcus, beginning to stare.
-
-
 
 "Only by a King," said Pond.  And the young Republican sprang up
 
 rigid at the challenge.
-
-
 
 "Yes," continued Pond, "the King has crept back among you.  It is
 
@@ -7420,11 +6307,7 @@ against Royalist claimants remaining in the realm.  But if they did
 
 it publicly, he would proclaim himself and--"
 
-
-
 "Why don't they do it publicly?" asked the Republican explosively.
-
-
 
 "Politicians do not understand much; but politicians do understand
 
@@ -7446,12 +6329,6 @@ the world is to answering:  'Yes; he is the King and, by God, he
 
 shall stay.'"
 
-
-
-
-
-
-
 Mr. Pond had told this story, at somewhat greater length but in far
 
 more classic diction; and by that time had actually finished the
@@ -7468,17 +6345,7 @@ case he should have been exiled for being important; but he was so
 
 very important that nobody could be told of his importance."
 
-
-
-
-
-
-
 RING OF LOVERS
-
-
-
-
 
 "As I said before," observed Mr. Pond, towards the end of one of
 
@@ -7487,8 +6354,6 @@ his lucid but rather lengthy speeches, "our friend Gahagan here is
 a very truthful man and tells wanton and unnecessary lies.  But
 
 this very truthfulness--"
-
-
 
 Captain Gahagan waved a gloved hand as in courteous acknowledgement
 
@@ -7504,11 +6369,7 @@ while Gahagan, though radiant, seemed rather abstracted; and these
 
 abrupt absurdities always brought Sir Hubert up standing.
 
-
-
 "Say that again," he said, not without sarcasm.
-
-
 
 "Surely that is obvious enough," pleaded Mr. Pond.  "A real liar
 
@@ -7546,8 +6407,6 @@ sea-serpent, and would be the less likely to accept the narrative
 
 in its present form.
 
-
-
 "Or again, when Captain Gahagan told us he had been a Broad
 
 Church missionary, and had readily preached in the pulpits of
@@ -7574,39 +6433,25 @@ it was quite unnecessary and it was obviously untrue.  And when a
 
 thing is obviously untrue, it is obviously not a lie."
 
-
-
 "Suppose," said Gahagan abruptly, "suppose I were to tell you a
 
 story that really is true?"
 
-
-
 "I should regard it with great suspicion," said Wotton grimly.
-
-
 
 "You mean you would think I was still romancing.  But why?"
 
-
-
 "Because it would be so very like a romance," retorted Wotton.
-
-
 
 "But don't you think," asked the Captain thoughtfully, "that real
 
 life sometimes is like a romance?"
-
-
 
 "I think," replied Wotton, with a certain genuine shrewdness that
 
 lay very deep in him, "that I could always really tell the
 
 difference."
-
-
 
 "You are right," said Pond; "and it seems to me the difference is
 
@@ -7626,8 +6471,6 @@ that one social situation is like being in a novel; but it doesn't
 
 finish like the novel--at least, not the same novel."
 
-
-
 "Pond," said Gahagan, "I sometimes think you are inspired, or
 
 possessed of a devil in a quiet way.  It's queer you should say
@@ -7644,33 +6487,21 @@ another story.  Sort of dissolving view, or a nightmare.
 
 Especially a nightmare."
 
-
-
 "And why especially?" asked Wotton.
-
-
 
 "It's a horrible story," said Gahagan, lowering his voice.  "But
 
 it's not so horrible now."
 
-
-
 "Of course," said Mr. Pond, nodding.  "You are happy and wish to
 
 tell us a horrible story."
 
-
-
 "And what does THAT mean?" demanded Wotton.
-
-
 
 "It means," said Gahagan, "that I got engaged to be married this
 
 morning."
-
-
 
 "The devil you--I beg your pardon," said Wotton, very red in the
 
@@ -7678,21 +6509,15 @@ face.  "Congratulations, of course, and all that.  But what has it
 
 to do with the nightmare?"
 
-
-
 "There is a connexion," said Gahagan dreamily.  "But you want the
 
 horrible story and not the happy one.  Well, it was a bit of a
 
 mystery, at least to me; but I understood it at last."
 
-
-
 "And when you've done mystifying us, you will tell us the
 
 solution?"
-
-
 
 "No; Pond will tell you the solution," said Gahagan maliciously.
 
@@ -7702,11 +6527,7 @@ before he even heard it.  If he can't finish the story, when he has
 
 heard it--"
 
-
-
 He broke off and then resumed more solidly:
-
-
 
 "It began with a dinner-party, what they call a stag-party, given
 
@@ -7735,8 +6556,6 @@ some of his male guests for a little dinner after the at-home was
 over.  I happened to be one of them; but, in spite of that, it was
 
 a select company.
-
-
 
 "It was a select company; and yet it hardly seemed to have been
 
@@ -7814,8 +6633,6 @@ remember.  And I was saying to myself all the time:  'What a funny
 
 collection!'"
 
-
-
 "I know this story," said Wotton positively.  "A humorous host
 
 collects a lot of incompatible people for the pleasure of hearing
@@ -7823,8 +6640,6 @@ collects a lot of incompatible people for the pleasure of hearing
 them quarrel.  Done very well in one of Anthony Berkeley's
 
 detective stories."
-
-
 
 "No," replied Gahagan.  "I think their incompatibility was quite
 
@@ -7856,8 +6671,6 @@ beyond him was silent, and rather sulky, under his bush of black
 
 hair.
 
-
-
 "'That's an interesting-looking ring you are wearing yourself, Lord
 
 Crome,' said the Pole politely.  'Those heavy rings are generally
@@ -7869,8 +6682,6 @@ or, better still, a Papal ring.  But then there are all those
 tiresome preliminaries about being made Pope; it involves celibacy;
 
 and I--'  And he shrugged his shoulders.
-
-
 
 "'Very annoying, no doubt,' said Lord Crome, smiling at him grimly.
 
@@ -7894,29 +6705,21 @@ French which meant something like 'From the lover only and only to
 
 the beloved.'
 
-
-
 "'A romance in your family history, I suppose?' suggested the
 
 Hungarian Count.  'And about the sixteenth century.  But you do not
 
 know the story?"
 
-
-
 "'No,' said Crome, 'but I suppose it was, as you say, a romance in
 
 the family.'
-
-
 
 "They began talking about sixteenth-century romances, at some
 
 length; and at last Crome asked very courteously if everybody had
 
 seen the ring."
-
-
 
 "Oh," cried Wotton, with a deep breath, rather like a schoolboy at
 
@@ -7930,21 +6733,15 @@ there was some awfully romantic reason for his refusing to be
 
 searched."
 
-
-
 "You are right," said Gahagan.  "Right, up to a point.  The ring
 
 was not returned.  We were all searched.  We all insisted on being
 
 searched.  Nobody refused to be searched.  But the ring was gone."
 
-
-
 Gahagan turned rather restlessly and threw an elbow over the back
 
 of his chair; after a moment he went on:
-
-
 
 "Please don't imagine I didn't feel all you say; that we seemed to
 
@@ -7974,11 +6771,7 @@ coffee cup to his lips, Lord Crome sprang up stiff and bristling
 
 and called out like the crack of a whip:
 
-
-
 "'Gentlemen, do not touch this coffee.  It is poisoned.'"
-
-
 
 "But dash it all," interrupted Wotton, "that's a different story!
 
@@ -7990,8 +6783,6 @@ the results?  Of course we know the story about a whole company
 
 laid out with poison--"
 
-
-
 "The results in this case were rather more extraordinary," said
 
 Gahagan calmly.  "Most of us naturally sat like stone statues under
@@ -8002,19 +6793,13 @@ cold, clean-cut, classical face, rose to his feet with the coffee
 
 cup in his hand and said in the coolest way:
 
-
-
 "'Awfully sorry; but I do hate letting my coffee get cold.'
-
-
 
 "And he drained his cup; and, as God sees me, his face turned black
 
 or a blend of dreadful colours; and after horrible and inhuman
 
 noises, he fell down as in a fit before our eyes.
-
-
 
 "Of course, we were not certain at first.  But the Hungarian
 
@@ -8024,39 +6809,25 @@ by the local doctor, who was sent for at once.  There was no doubt
 
 that he was dead."
 
-
-
 "You mean," said Wotton, "that the doctors agreed that he was
 
 poisoned?"
-
-
 
 Gahagan shook his head and repeated:  "I said they agreed that he
 
 was dead."
 
-
-
 "But why should he be dead unless he was poisoned?"
-
-
 
 "He was choked," said Gahagan; and for one instant a shudder caught
 
 his whole powerful frame.
 
-
-
 After a silence that seemed suddenly imposed by his agitation,
 
 Wotton said at last:
 
-
-
 "I don't understand a word you say.  Who poisoned the coffee?"
-
-
 
 "Nobody poisoned the coffee; because it wasn't poisoned," answered
 
@@ -8068,23 +6839,17 @@ Poor Pitt-Palmer had put in a very large lump of sugar just before;
 
 but the sugar would melt.  Some things do not melt."
 
-
-
 Sir Hubert Wotton stared for some seconds into vacancy; and then
 
 his eyes began to glow with his own very real though not very rapid
 
 intelligence.
 
-
-
 "You mean," he said, "that Pitt-Palmer somehow dropped the ring
 
 into the black coffee, where it wouldn't be seen, before he was
 
 searched.  In other words, Pitt-Palmer was the thief?"
-
-
 
 "Pitt-Palmer is dead," said Gahagan very gravely, "and it is the
 
@@ -8096,23 +6861,15 @@ than many a man has done.  You may say what you like about that
 
 very common sort of wrong-doing.  But he was not a thief."
 
-
-
 "Will you or will you not explain what all this means?" cried
 
 Wotton with abrupt annoyance.
-
-
 
 "No," replied Gahagan, with a sudden air of relapsing into laziness
 
 and fatigue.  "Mr. Pond will now oblige."
 
-
-
 "Pond wasn't there, was he?" asked Wotton sharply.
-
-
 
 "Oh, no," answered Gahagan, rather with the air of one about to go
 
@@ -8120,21 +6877,15 @@ to sleep.  "But I can see by his eyebrows that he knows all about
 
 it.  Besides, it's somebody else's turn."
 
-
-
 He closed his eyes with so hopeless a placidity that the baffled
 
 Wotton was forced to turn on the third party, rather like a
 
 bewildered bull.
 
-
-
 "Do you really know anything about this?" he demanded.  "What does
 
 he mean by saying that the man who hid the ring wasn't a thief?"
-
-
 
 "Well, perhaps I can guess a little," said Mr. Pond modestly.  "But
 
@@ -8166,41 +6917,27 @@ the wrong question.  In this case, you've got a mystery; but you've
 
 got hold of the wrong mystery."
 
-
-
 "Gahagan said you would explain everything," said Wotton, with
 
 controlled satire.  "May I ask if this is the explanation?  Is this
 
 the solution or the mystery?"
 
-
-
 "The real mystery of the ring," said Pond gravely, "is not where it
 
 went to, but where it came from."
-
-
 
 Wotton stared at him steadily for an instant, and then said in
 
 rather a new voice:  "Go on."
 
-
-
 Mr. Pond went on.  "Gahagan has said very truly that poor Pitt-
 
 Palmer was not the thief.  Pitt-Palmer did not steal the ring."
 
-
-
 "Then," exploded Wotton, "who the devil was it who stole the ring?"
 
-
-
 "Lord Crome stole the ring," said Mr. Pond.
-
-
 
 There was a silence upon the whole group for a brief space; and
 
@@ -8208,19 +6945,13 @@ then the somnolent Gahagan stirred and said:  "I knew you would see
 
 the point."
 
-
-
 By way of making things clearer, Mr. Pond added almost
 
 apologetically:
 
-
-
 "But, you see, he had to hand it round, to find out whom he had
 
 stolen it from."
-
-
 
 After a moment he resumed in his usual logical but laborious
 
@@ -8239,8 +6970,6 @@ meant something much blacker and bitterer than that when he said,
 with a dreadful irony, that it commemorated a romance in his
 
 family.
-
-
 
 "Lord Crome had stolen that ring by intercepting correspondence;
 
@@ -8304,8 +7033,6 @@ any baser suggestions, and that a gentleman is certainly not a
 
 robber when he prefers to choke himself with his own ring."
 
-
-
 Mr. Pond coughed delicately, having brought his argument to a
 
 close; and Sir Hubert Wotton remained staring at him, rather more
@@ -8318,8 +7045,6 @@ something that was still an evil dream, even when he knew that it
 
 had happened.
 
-
-
 "Well, I've got to be going, anyhow," he said, with an air of heavy
 
 relief.  "Got to look in at Whitehall and I fancy I'm late already.
@@ -8330,23 +7055,13 @@ lately.  So far as I know, the news of Pitt-Palmer's suicide hasn't
 
 come through yet--at least it hadn't come through this morning."
 
-
-
 "It happened last night," said Gahagan, and rose from the chair
 
 where he had been sprawling, to take leave of his friend.
 
-
-
-
-
-
-
 When Wotton had departed, a long silence fell upon the two other
 
 friends who remained looking gravely at each other.
-
-
 
 "It happened last night," repeated Gahagan.  "That is why I told
 
@@ -8354,11 +7069,7 @@ you it had something to do with what happened this morning.  I got
 
 engaged to Joan Varney this morning."
 
-
-
 "Yes," said Mr. Pond gently.  "I think I understand."
-
-
 
 "Yes, I think you do," said Gahagan, "but I am going to try to
 
@@ -8369,8 +7080,6 @@ awful than that poor fellow's death?  And it only hit me when I was
 half a mile from that accursed house.  I knew why I had been one of
 
 the guests."
-
-
 
 He was standing and staring out of the window, with his broad back
 
@@ -8383,8 +7092,6 @@ something in it stirred another memory, for when he spoke again, it
 was as if he started a new subject, though it was another aspect of
 
 the same one.
-
-
 
 "I didn't tell you anything much about the sort of garden party,
 
@@ -8440,8 +7147,6 @@ saw was dark red.  That's as near as I can get to the feeling; for
 
 it was a feeling from the first; and I guessed nothing.
 
-
-
 "And then that sinister and revolting thing happened before my eyes
 
 at the table; I can see the dark red wine in the port decanters and
@@ -8473,8 +7178,6 @@ incongruous but grotesquely congruous; as in a hideous camaraderie.
 Of course, this was a mood, and a morbid one; they really had been
 
 different enough; but they had something in common.
-
-
 
 "I liked the Pole best; he had a sense of humour, and admirable
 
@@ -8512,8 +7215,6 @@ women as well.  As to the Italian tenor, he was uncommonly like the
 
 English actor.  One could not say any worse of him than that.
 
-
-
 "Yes; they were, after all, a very select company.  They were
 
 selected by a clever if nearly crazy man as being the six men in
@@ -8527,8 +7228,6 @@ my own presence.  I was there, too.  Crome had made up a choice
 party of profligates and picked them carefully.  And he had
 
 honoured ME with an invitation to the feast.
-
-
 
 "That was what I was.  That, at least, was what I was supposed to
 
@@ -8562,19 +7261,11 @@ refusing Lancelot at the last, says in words that had for me a ring
 
 of iron:
 
-
-
-
-
      "For well ye wot that of this life
 
      There comes but lewd and bitter strife
 
      And death of men and great travail.
-
-
-
-
 
 "I had hung round all that sort of thing, and yet never quite
 
@@ -8588,25 +7279,17 @@ neck until I was dead.  And, worse still, I received an invitation
 
 from Lord Crome."
 
-
-
 He continued to gaze out of the window; but Pond heard him mutter
 
 again, like the faint grumbling of the thunder:  "And death of men
 
 and great travail."
 
-
-
 In the vast silence that followed, Mr. Pond said in a very small
 
 voice:
 
-
-
 "What was the matter with you was that you liked being libelled."
-
-
 
 Gahagan faced about, almost with the gesture of throwing up his
 
@@ -8614,17 +7297,11 @@ hands, which seemed to fill the frame of the window with his own
 
 gigantic frame; but he was noticeably pale.
 
-
-
 "Kamerad, yes," he said.  "I was as small as that."
-
-
 
 He smiled at his friend, but with a glassy and rather ghastly
 
 smile, and then went on:
-
-
 
 "Yes; I cared more for that dirty rag of vanity, worse than any
 
@@ -8642,13 +7319,9 @@ of my love.  I dawdled, I lounged about, because I could not give
 
 up a bad name.  And, by God, it nearly hanged the dog."
 
-
-
 "That is what I supposed," said Mr. Pond in his most prime and
 
 polite manner.  And then Gahagan broke out again:
-
-
 
 "I was better than I seemed.  But what did that mean, except the
 
@@ -8662,15 +7335,11 @@ there.  I was the new hypocrite; but mine was the homage that
 
 virtue pays to vice."
 
-
-
 "I understand, however," said Mr. Pond, in that curiously cold and
 
 distant tone, which had yet a very soothing effect on everybody,
 
 "that you are now effectually cured."
-
-
 
 "I am cured," said Gahagan grimly.  "But it took two dead men and a
 
@@ -8680,15 +7349,11 @@ have diagnosed it exactly right, my dear doctor, if I may call you
 
 so.  I could not give up the secret pleasure of being slandered."
 
-
-
 "By this time, however," said Mr. Pond, "other considerations have
 
 come in and induced you to support the insupportable charge of
 
 virtue."
-
-
 
 Gahagan suddenly laughed, harshly and yet, somehow, heartily.  Some
 
@@ -8714,8 +7379,6 @@ that's the paradox.  But a damned sight sillier paradox than any of
 
 your paradoxes, Pond."
 
-
-
 Mr. Pond laughed gently, as he generally did when somebody had told
 
 him, at considerable length, all that he knew already.  And he was
@@ -8725,12 +7388,6 @@ not so old, nor despite his manner so cold, as not to form some
 sort of guess about the actual termination of the rather
 
 exasperating romance of Captain Gahagan.
-
-
-
-
-
-
 
 This story started with some statements about the way in which
 
@@ -8762,8 +7419,6 @@ beginning "Confident as I am that our cause is independent even of
 
 the noblest personality, I yet have to lament, etc."
 
-
-
 Anyhow, it is really very irrelevant to the central plot of this
 
 story that it should stray from the funeral of Pitt-Palmer to the
@@ -8794,8 +7449,6 @@ that other story here.  Are not all these things written in the
 
 Chronicles of the Kings of Israel?
 
-
-
 It is enough to say that on that particular morning, swept clear
 
 and shining after the storm, Captain Gahagan came out of the church
@@ -8820,21 +7473,9 @@ this engagement about a month afterwards; but she got HER
 
 engagement into the society papers first.
 
-
-
-
-
-
-
 THE TERRIBLE TROUBADOUR
 
-
-
-
-
 "In nature you must go very low to find things that go so high."
-
-
 
 This was commonly included by collectors among the Paradoxes of Mr.
 
@@ -8852,23 +7493,17 @@ Studies in the Domestication of Anthropoids, Notes on Neanderthal
 
 Development, etc., etc.
 
-
-
 Dr. Paul Green was a smallish man, pale, slender and slightly lame;
 
 but his activity, even in bodily movement, was relatively
 
 remarkable, and his mind moved as quickly as a quick-firing gun.
 
-
-
 It was this old acquaintance who, on one sunny afternoon, came out
 
 of Mr. Pond's past to bring him shocking and even nerve-shattering
 
 news; a report as alarming as the report of a gun.
-
-
 
 But when Mr. Pond was told, on such very solid authority, that his
 
@@ -8892,8 +7527,6 @@ sharpness of dialogue, for on this point of Darwin and Natural
 
 Selection the two friends had never agreed.
 
-
-
 "I never can see," said Mr. Pond, "how a change, that might have
 
 helped an animal if it came quickly, could have helped him if it
@@ -8910,15 +7543,11 @@ better if I had three legs; but it wouldn't be better if I only had
 
 a rudimentary leg."
 
-
-
 "It might be better if I had two legs," said the doctor grimly,
 
 "instead of one lame leg that is hardly a leg at all.  And yet I
 
 find it fairly useful."
-
-
 
 Mr. Pond, who was commonly very tactful, chid himself softly for
 
@@ -8928,15 +7557,11 @@ But, at least, he was far too tactful to apologize, or even too
 
 obviously to change the subject.
 
-
-
 He proceeded in his mild and fluent way:  "I mean that till a leg
 
 is long enough to run or climb, it would only be an extra weight
 
 for the runner or climber to carry."
-
-
 
 "It's pretty queer," said the doctor, "that we should have started
 
@@ -8958,13 +7583,9 @@ to you, and he wants to tell you about things that happened rather
 
 later than the later Stone Age."
 
-
-
 "Then, what do you mean," asked Pond, "by talking about running and
 
 climbing?"
-
-
 
 "I meant, I am sorry to say," replied Dr. Green, "that the vicar
 
@@ -8974,13 +7595,9 @@ whose legs seem to be very good at climbing, and still better at
 
 running away."
 
-
-
 "It's a serious thing," said Pond, gravely, "to accuse a soldier of
 
 running away."
-
-
 
 "It's a much more serious thing of which the vicar accuses him,"
 
@@ -8990,19 +7607,13 @@ rival, and then running away.  But it's not my story; I'm not the
 
 story, but only the introduction."
 
-
-
 "Climbing a balcony," mused Mr. Pond; "for a vicar it sounds rather
 
 a romantic story."
 
-
-
 "I know," said the doctor, "the sort of story that begins with a
 
 rope-ladder and ends with a rope."
-
-
 
 Mr. Pond, as he heard the unequal step of his lame friend echoing
 
@@ -9030,13 +7641,9 @@ savour of murder.  In both cases he had been cleared.  But three is
 
 an unlucky number.
 
-
-
 Finally, the Rev. Cyprian Whiteways was a shock; a shock because of
 
 his frankness and fair-mindedness.
-
-
 
 Mr. Pond would never, at any time, have stooped to the stupid idea
 
@@ -9060,8 +7667,6 @@ descriptive writer who only talked.  But nobody could doubt that it
 
 was truth; or, at least, truthfulness.
 
-
-
 It was so substantial a witness who told Mr. Pond in considerable
 
 detail the black and bloody story of Gahagan's hidden sin.  And the
@@ -9076,12 +7681,6 @@ all right, they had only to ask Gahagan himself, and he would tell
 
 them all about it.  Confrontation, it was sometimes called.
 
-
-
-
-
-
-
 As for Dr. Green, with the letter of introduction, his job was
 
 done, and he was somewhat impatient of Pond's formalities; he
@@ -9089,8 +7688,6 @@ done, and he was somewhat impatient of Pond's formalities; he
 stumped off, merely warning the vicar that he had better have a
 
 lawyer, if he was to confront that plausible Irish rogue.
-
-
 
 So, when the scientist was already far away, reabsorbed in the
 
@@ -9100,15 +7697,11 @@ intervention was a solicitor named Luke Little, very much on the
 
 spot.
 
-
-
 Mr. Pond's friend, Sir Hubert Wotton, the well-known diplomatist,
 
 took the chair; but Mr. Little did not mind who took chairs so long
 
 as he took charge.
-
-
 
 "This is a very irregular inquiry, gentlemen," he said.  "Only a
 
@@ -9118,21 +7711,15 @@ before it.  Sir Hubert and Mr. Pond declare, I understand, that an
 
 explanation will be demanded here and now."
 
-
-
 Then he added:  "It is a painful matter, as I think Mr. Pond will
 
 agree."
-
-
 
 "It is a very painful matter, indeed," replied Pond, gravely, "that
 
 an old friend of mine should be under suspicion of a horrible
 
 action."
-
-
 
 His friend, Wotton, looked at Pond for a moment with a frosty stare
 
@@ -9142,25 +7729,17 @@ by Gahagan himself, speaking, suddenly, for the first and last time
 
 in all the first hours of the interview.
 
-
-
 "Yes," he said, with a grim and inscrutable visage.  "It is
 
 certainly a horrible story."
-
-
 
 "In any case, then," resumed the lawyer, "I can now ask my client,
 
 without prejudice, to repeat the story."
 
-
-
 "It's an ugly story," said the clergyman in his honest way, "and
 
 I'll tell it as shortly as I can."
-
-
 
 Pond had heard the story, already, told in a way at once looser and
 
@@ -9174,15 +7753,11 @@ could not get rid of a feeling that the scene described was
 
 unnaturally vivid to him, but with the vividness of a nightmare.
 
-
-
 There was no particular reason, at that stage, for comparing the
 
 story to a nightmare; except that the two principal incidents
 
 happened at night.
-
-
 
 They happened in the vicar's garden, close to the balcony of the
 
@@ -9195,8 +7770,6 @@ night; a living night of vegetation; for it was suggested,
 throughout, that the balcony was loaded with pots and palms and
 
 clutched by climbing plants with heavy and pendent leaves.
-
-
 
 Perhaps, after all, it was only some vague, verbal association with
 
@@ -9211,8 +7784,6 @@ his creed of blind growth and a groping life-force in a godless
 dark; for Green developed his view of development with every fancy
 
 from botany as well as biology.
-
-
 
 On the whole, however, Mr. Pond concluded that his own queer mood
 
@@ -9229,8 +7800,6 @@ creeper, with ribbed and interlaced limbs and large, fantastic
 leaves.  It is not altogether an exaggeration to say that the
 
 creeper was the principal character in the story.
-
-
 
 "This business happened during the Great War," explained the
 
@@ -9254,19 +7823,13 @@ cats and pet marmosets and monkeys, and so on; and my daughter, who
 
 is interested in such pets, helped him a little with his work.
 
-
-
 "It is a happy time to look back upon, for us who were old cronies;
 
 perhaps because it was a quiet time.
 
-
-
 "And then our solitude was broken, as it seemed by accident, and
 
 all the trouble and tragedy began.
-
-
 
 "First of all, a young artist of the name of Albert Ayres rented
 
@@ -9283,8 +7846,6 @@ straight away next morning on one of his sketching tours.  I mean
 that we cannot, in any case, actually prove what became of him.
 
 Unfortunately, I know only too well what became of him.
-
-
 
 "He was an interesting individual; perhaps a little too like the
 
@@ -9304,8 +7865,6 @@ doing was a necessary job and not a funk-hole; and, at the moment,
 
 he was enjoying a short and very well-earned holiday.
 
-
-
 "It is only fair to Captain Gahagan to say that, even in their
 
 subsequent quarrel, even in the last, blackest days of hatred, and,
@@ -9322,8 +7881,6 @@ supposed to spend at the neighbouring inn, but did spend mostly in
 
 my house.
 
-
-
 "You will understand my reluctance in speaking of the matter; the
 
 fact that he was on short leave may have given a certain impatience
@@ -9337,8 +7894,6 @@ to that; but I would much prefer not to presume on any speculations
 about that matter.  But to deal entirely with the facts.  They are
 
 as follows:
-
-
 
 "One evening, just after sunset, or about dusk, I was walking in my
 
@@ -9354,8 +7909,6 @@ declined in a rather distant and distracted manner.  In fact, I
 
 thought he was looking ill."
 
-
-
 "He has not very good health," interposed Mr. Pond, suddenly.  "He
 
 doesn't go about very much.  You must remember he is lame."  The
@@ -9366,11 +7919,7 @@ interruption; and again they were still more puzzled by his further
 
 comment; for he added quite calmly:
 
-
-
 "The clue to all this mystery is the fact that Dr. Green is lame."
-
-
 
 "I have not the wildest notion what you mean," said the vicar of
 
@@ -9379,8 +7928,6 @@ Hanging Burgess briskly.  "But, anyhow, I had better get on and
 tell you what really happened; and you will see that it certainly
 
 had nothing to do with either lameness or Dr. Green.
-
-
 
 "In strolling round the garden we had paused under the giant
 
@@ -9404,15 +7951,11 @@ Gahagan, missing his last foothold, fell on his feet on the gravel
 
 path and faced us with a broad grin.
 
-
-
 "'Pray forgive me,' he said,' I have been paying an afternoon call.
 
 I dropped in to tea, or perhaps I should say, hopped up to tea; and
 
 I have just dropped out again.'
-
-
 
 "I told him, perhaps a little frigidly, that we were always pleased
 
@@ -9438,13 +7981,9 @@ Climbing doesn't seem a safe way of classifying.  In nature, you
 
 must go very low to find things that go so high.'"
 
-
-
 Mr. Pond sat up abruptly and seemed to exhale a breath; but all he
 
 said was, "I thought so."
-
-
 
 "The artist named Ayres," continued the vicar, "seemed more annoyed
 
@@ -9455,8 +7994,6 @@ really much more provocative, though he only said, coolly:  'Well,
 it looks an easy thing to climb; as easy as a great, green ladder.
 
 I fancy I could climb it myself, if it came to that.'
-
-
 
 "Then I realized for the first lime, for I'm rather slow in these
 
@@ -9469,8 +8006,6 @@ that they were both glaring at each other; and I guessed, for the
 first time, why they hated each other; and what was the meaning of
 
 that scene in my quiet garden.
-
-
 
 "Well, I will get on as quickly as I can to the culmination of
 
@@ -9485,8 +8020,6 @@ later, cutting up the shady garden into a new pattern of shadows,
 when I happened to look out of my study window, which is on an
 
 upper floor.
-
-
 
 "I was smoking and reading a book, when a noise like a dog barking,
 
@@ -9503,8 +8036,6 @@ stirred, or some more mysterious premonition of what was to follow,
 made the howl sound more hollow and even horrible than it really
 
 was.
-
-
 
 "A clear moon was rising high behind me; most of the shady garden
 
@@ -9528,8 +8059,6 @@ saw one of the pantomime figures passing in black silhouette across
 
 the wall.
 
-
-
 "I knew at once whose shadow it was.  Of course, it was drawn out
 
 and distorted; you know how deceptive shadows are; but I could see
@@ -9546,8 +8075,6 @@ there was the high-shouldered stoop exaggerated, as shadows do
 
 exaggerate.
 
-
-
 "The next moment, another of these dark caricatures had appeared on
 
 the wall; and it was even more unmistakable.  It was also more
@@ -9555,8 +8082,6 @@ the wall; and it was even more unmistakable.  It was also more
 active; it was not only a shadow-pantomime but--in a pretty creepy
 
 sense--a knockabout pantomime."
-
-
 
 "Shadows are very deceptive," said Mr. Pond; and again his friends
 
@@ -9566,13 +8091,9 @@ because it seemed trivial and totally unnecessary.  But before he
 
 relapsed again into silence, he added:
 
-
-
 "The most deceptive thing about a shadow is that it may be quite
 
 accurate."
-
-
 
 "Well, really!" exploded Wotton; but his moderately mild explosion
 
@@ -9586,8 +8107,6 @@ to his accuser with a bow of overbearing courtesy, or even
 
 courtliness, and said:
 
-
-
 "You need not be alarmed, sir.  That is one of Mr. Pond's
 
 paradoxes.  We are all very proud of our Pond and of his paradoxes.
@@ -9596,25 +8115,17 @@ Try them in your bath.  Pond's paradoxes are in every home.  What
 
 would Mother do without Pond's--"
 
-
-
 "Don't be a fool, Gahagan!" said Hubert Wotton; and his voice had a
 
 ring of steel which his friends had always respected.  There was a
 
 silence, in which Mr. Pond said simply:
 
-
-
 "I never uttered a paradox in my life.  What I said was a truism."
-
-
 
 The vicar of Hanging Burgess looked considerably baffled, but did
 
 not lose his composure, and continued his story.
-
-
 
 "I'm afraid all this seems to me rather off the point; especially
 
@@ -9628,8 +8139,6 @@ It's true I only saw one of them for a minute, you might say for a
 
 flash; but the other I saw plainly enough.
 
-
-
 "The first figure, the long-haired figure I had already identified
 
 with the artist, ran very quickly across the moonlit patch and
@@ -9637,8 +8146,6 @@ with the artist, ran very quickly across the moonlit patch and
 vanished into the vast shadow of the creeper that climbed the
 
 balcony; but there is no doubt that he began to climb the creeper.
-
-
 
 "The second figure stood for a moment, staring, in the full stare
 
@@ -9654,8 +8161,6 @@ romantic rope-ladder of leaves, exactly as he had climbed it
 
 himself.
 
-
-
 "At that instant the whole situation became finally clear; for I
 
 saw the hairy head of the unfortunate artist rising out of the
@@ -9670,13 +8175,9 @@ portrait; and it glared with a frightful grin or grimace of
 
 hatred."
 
-
-
 Mr. Pond again interposed gently, but with the general effect of a
 
 jerk:  "You say it was hatred.  Are you sure it was not horror?"
-
-
 
 The vicar was very intelligent, and thought before he answered,
 
@@ -9686,13 +8187,9 @@ think so.  Besides, why should Captain Gahagan be horrified merely
 
 at seeing Mr. Ayres?"
 
-
-
 "Perhaps," said Pond, after a pause, "because he had not had his
 
 hair cut."
-
-
 
 "Pond!" said Wotton very sharply.  "Do you fancy this is a case for
 
@@ -9700,21 +8197,15 @@ jokes?  You seem to have forgotten that you said, yourself, it was
 
 a painful matter."
 
-
-
 "I said it was a painful matter," said Pond, "to think a horrible
 
 thing was done by an old friend."  Then he said, after one of his
 
 sudden pauses:  "But I wasn't thinking of Gahagan."
 
-
-
 The stupefied vicar seemed to have given up everything but the
 
 stubborn pursuit of his story.
-
-
 
 "As I have told you, Captain Gahagan cursed his rival from below,
 
@@ -9734,8 +8225,6 @@ man on the green ladder fell crashing like a stone through the
 
 thrashing great leaves to the dark space below.
 
-
-
 "I could not see so clearly what was happening in that dark space;
 
 but I knew, for all practical purposes, that the man was dead; for
@@ -9748,8 +8237,6 @@ heard a distant splash, I knew he had thrown the corpse into the
 
 river.
 
-
-
 "Well, as I told you before, that is my very serious testimony to
 
 what I saw and knew; but I give it only from a sense of social duty
@@ -9758,15 +8245,11 @@ to any individuals who may be involved; I admit the circumstances
 
 are such that legal proof would be very difficult now.
 
-
-
 "Albert Ayres had entirely disappeared by next morning; but it is
 
 true, as I have said, that he had once spoken of going off on a
 
 sketching-tour very early.
-
-
 
 "Captain Gahagan had also entirely disappeared by next morning; but
 
@@ -9792,25 +8275,17 @@ brought the matter up again now.  And I have stated nothing that I
 
 did not see."
 
-
-
 "You have stated it very clearly," said Mr. Pond.  "More clearly
 
 than you know.  But even on the clearest moonlight night, as we
 
 agreed, shadows can be very deceptive."
 
-
-
 "You've said that before," said Sir Hubert rather irritably.
-
-
 
 "And, as I have also said before," observed the unruffled Mr. Pond,
 
 "a shadow is most misleading when it is precisely correct."
-
-
 
 Silence suddenly fell on the group; and the silence became more and
 
@@ -9830,21 +8305,15 @@ for his statement, he was, at first, understood to declare
 
 seriously, not to say grimly, that he had nothing to say.
 
-
-
 "What can I say, except what they call pleading guilty?  What can I
 
 say, except that I did do a horrible thing; I did commit a hateful
 
 crime; and my sin is ever before me."
 
-
-
 The solicitor seemed suddenly to bristle with electric needles of a
 
 sort of cold excitement.
-
-
 
 "Pardon me, pardon me!" he cried.  "Before you say any more, before
 
@@ -9856,15 +8325,11 @@ permitted a certain discretion; but if we are to listen to an
 
 actual confession of murder--"
 
-
-
 Gahagan shouted; he shouted so loud that the others were almost too
 
 surprised to notice that it was a shout of laughter, but not very
 
 genial laughter.
-
-
 
 "What!" he cried.  "Do you think I'm confessing to a murder?  Oh,
 
@@ -9874,15 +8339,11 @@ I said I committed a crime; but it's not to any damned little
 
 lawyer that I have to apologize for it."
 
-
-
 He swung round, facing the clergyman; and his whole bodily and
 
 mental attitude seemed to alter; so that, when he spoke at last, it
 
 was like a new man speaking.
-
-
 
 "I mean, it's for you.  What can I say to you?  It's personal for
 
@@ -9906,23 +8367,15 @@ still in a rage with him, when I think of what he did.  Only--"  He
 
 paused, as with a new embarrassment.
 
-
-
 "Go on," said Mr. Pond gently.
 
-
-
 "Only my rival wasn't the artist with the long hair," said Gahagan.
-
-
 
 Hubert Wotton again looked up sharply, with a frowning stare; but
 
 he spoke quietly as he directed Gahagan to tell his story properly
 
 from the start.
-
-
 
 "I had better start," said Gahagan, "where the other story started:
 
@@ -9935,8 +8388,6 @@ the artist, for that night; we had become quite good friends,
 really; though there may have been a bit of romantic swagger about
 
 the troubadour business at an earlier time.
-
-
 
 "I was packing up and sorting out some of my light luggage; that is
 
@@ -9951,8 +8402,6 @@ over that sudden noise in the night.  Only I heard what he did not
 hear.  I not only heard what sounded like the howl of a dog, but I
 
 also heard a whistle, such as a man uses when calling a dog.
-
-
 
 "Also, I saw what he did not see.  For an instant, in a gap in the
 
@@ -9972,8 +8421,6 @@ for, at that precise moment, it wore a sort of smile of hatred that
 
 turned one's blood cold.
 
-
-
 "Then the face vanished; and again my experience was much like the
 
 vicar's, except that I did not see everything which happened just
@@ -9985,8 +8432,6 @@ run across the path, and begun to climb the creeper.  He climbed it
 very quickly, much quicker than I had done, but it was not easy to
 
 see him or recognize him in the dark shadow of the leaves.
-
-
 
 "I had an idea that he was long in the limbs and had the sort of
 
@@ -10004,8 +8449,6 @@ I saw it in profile, a black shape against the moon.  And I said to
 
 myself:  'My God!  It's a dog, after all.'"
 
-
-
 The vicar echoed the invocation faintly; the lawyer made a sharp
 
 movement as if to intervene; and Wotton told his friend rather
@@ -10013,8 +8456,6 @@ movement as if to intervene; and Wotton told his friend rather
 brusquely to go on; which had the effect of producing a sort of
 
 abrupt languor, alarmingly like a disposition to leave off.
-
-
 
 "Rather interesting man, Marco Polo," said Captain Gahagan, in a
 
@@ -10036,13 +8477,9 @@ that his head really is very like a dog's; not nearly so much like
 
 a man's as the head of one of the smaller monkeys."
 
-
-
 Mr. Little, the lawyer, was rapidly turning over some of his
 
 papers, with a shrewd frown and a sharp, alert manner.
-
-
 
 "One moment, Captain Gahagan," he interposed.  "I have a fancy that
 
@@ -10052,11 +8489,7 @@ travellers' tales in many different places.  It looks to me as if
 
 you had picked up this one in the Rue Morgue."
 
-
-
 "I wish I had," replied the Captain.
-
-
 
 "In the story there," pursued the solicitor, "I think there was an
 
@@ -10064,13 +8497,9 @@ escaped anthropoid ape who disobeyed his master and would not
 
 return."
 
-
-
 "Yes," said Mr. Pond, in a low voice, rather like a groan.  "But in
 
 this case it was not disobeying its master."
-
-
 
 "You had better tell the rest of this story, Pond," said the
 
@@ -10079,8 +8508,6 @@ Captain, with one of his curious collapses into irresponsible
 repose.  "You evidently guessed the real story, I don't know how,
 
 before I began to tell it."
-
-
 
 Mr. Little appeared to be somewhat annoyed, and snapped out:  "I
 
@@ -10092,8 +8519,6 @@ notes, that he certainly said that 'Somebody ran across the path
 
 and began to climb the creeper.'"
 
-
-
 "I was quite pedantically correct," said Gahagan, waving his hand,
 
 condescendingly.  "I was careful to state that some BODY ran and
@@ -10102,19 +8527,13 @@ climbed.  I attempted no theological or metaphysical speculations
 
 about the soul of an ape."
 
-
-
 "But this is perfectly ghastly!" cried the clergyman, who was
 
 deeply shaken.  "Are you sure the thing I saw was an ape?"
 
-
-
 "I was quite close," said the Captain.  "I saw the shape and you
 
 only saw the shadow."
-
-
 
 "No," said Pond softly, "he saw the shape and could not believe it
 
@@ -10140,8 +8559,6 @@ much more unmistakable.  Why should it be unmistakable, unless the
 
 other was a mistake?"
 
-
-
 "From where I was, there could be no mistake," said Gahagan.  "I
 
 knew it was an ape, and I guessed it was from the cages or kennels
@@ -10155,8 +8572,6 @@ risks; I happen to know that sort of anthropoid is no joke.  At the
 best, he might easily bite and then--well, there were all sorts of
 
 nightmare notions half-formed in one's mind.
-
-
 
 "There was another side to your biological friend's interest in
 
@@ -10172,15 +8587,11 @@ nothing more was ever heard of it.  Certainly, Dr. Paul Green did
 
 not venture to advertise for it in the papers."
 
-
-
 The solid and deep-chested rustic parson suddenly shuddered from
 
 head to foot.  The spasm passed and he said, heavily, that it was
 
 an awful business.
-
-
 
 "And THAT is what I meant," said Mr. Pond, "by saying how bad it is
 
@@ -10190,13 +8601,9 @@ also, what I meant by saying that the key to all this riddle is the
 
 fact that Dr. Green is lame."
 
-
-
 "Even now," muttered the vicar, "I'm not so clear what you mean by
 
 that."
-
-
 
 "It's all ugly enough," answered Pond, "but I suppose we may fairly
 
@@ -10213,8 +8620,6 @@ truly says, he's really a very fine-looking fellow and, naturally,
 quite active; only everything was conditioned by the accident that
 
 he was lame.
-
-
 
 "What put the finishing touch to his madness, on that terrible
 
@@ -10236,8 +8641,6 @@ he actually sneered at doing it because it was so easy to do when,
 
 for Green, it was impossible to do.
 
-
-
 "Naturally, a mind like his leapt, as we know it did leap, even in
 
 conversation, to the retort that climbing is no great sign of
@@ -10258,15 +8661,11 @@ of demonstration; but, anyhow, that was what he was trying to
 
 demonstrate."
 
-
-
 Mr. Little, the lawyer, still turned a flinty face to the company;
 
 he had obviously taken a dislike to Gahagan, who had a way of
 
 irritating legal and law-abiding persons.
-
-
 
 "I do not know if we are required to accept this extraordinary
 
@@ -10275,8 +8674,6 @@ story, on the strength of Mr. Pond's ingenious hypothesis," he said
 rather sharply; "but there is one more question I should like to
 
 ask."
-
-
 
 He looked down at his papers, as if consulting them, and then
 
@@ -10300,8 +8697,6 @@ the sky.  Your interesting account of the discovery of the ruins of
 
 the Tower of Babel--"
 
-
-
 Sir Hubert Wotton, with all his apparent simplicity, had a quality
 
 of sense that sometimes struck like a sledge-hammer.  He had
@@ -10311,8 +8706,6 @@ preserved the silence of perfect impartiality throughout; but he
 suddenly stopped the last splutter of the solicitor's spitefulness,
 
 as if he had struck him physically dumb.
-
-
 
 "I cannot have all this," he said.  "We know Gahagan; and his yarns
 
@@ -10326,8 +8719,6 @@ things that nobody alive ever took seriously, least of all Gahagan,
 
 I rule them out."
 
-
-
 "Very well," snapped Mr. Little, "my last question shall be a very
 
 practical one.  If Captain Gahagan only did what he says he did,
@@ -10336,33 +8727,23 @@ why the devil didn't he say so?  Why did he disappear?  Why did he
 
 do a bolt early next morning?"
 
-
-
 Peter Gahagan lifted his large figure laboriously out of the seat;
 
 he did not even look at the lawyer; but his eyes were fixed on the
 
 old clergyman, with a profound expression of sorrow.
 
-
-
 "There is an answer to that," he said.  "But I would much rather
 
 give it to anybody except Mr. Whiteways."
-
-
 
 And, strangely enough perhaps, the moment Mr. Whiteways heard this
 
 refusal he rose also and held out his hand to Gahagan.
 
-
-
 "I believe you," he said.  "It's just that last sentence that has
 
 made me believe you."
-
-
 
 The scornful solicitor, being thus deserted by his own client,
 
@@ -10370,19 +8751,11 @@ stuffed his papers back into his little black bag; and the
 
 irregular conference broke up.
 
-
-
-
-
-
-
 Gahagan did tell the truth about the last question afterwards, to
 
 the person to whom he told everything, to Joan Varney, to whom he
 
 was engaged.  And, queer as it sounded, she seemed to understand.
-
-
 
 "If you like to put it so," he said, "I didn't run away from the
 
@@ -10401,8 +8774,6 @@ know that her old friend, the friend of her pets, was a horrible
 lunatic who had offered her a sort of disgusting insult at the
 
 best.
-
-
 
 "But it wasn't only that.  I had behaved as badly as anybody; I was
 
@@ -10426,17 +8797,11 @@ humiliated.  A mad whisper kept on repeating to me that in the long
 
 run she would be--a little proud."
 
-
-
 "I think you're right about her," said Joan, in her straight way.
 
 "But, all the same, you ought to have told her the truth."
 
-
-
 "Joan," he said, "I simply hadn't the courage."
-
-
 
 "I know," she said.  "I also know all about your having the D.S.O.;
 
@@ -10448,17 +8813,7 @@ gentlemen."  Her head lifted very slightly.  "You haven't the
 
 courage."
 
-
-
-
-
-
-
 A TALL STORY
-
-
-
-
 
 They had been discussing the new troubles in Germany: the three old
 
@@ -10480,8 +8835,6 @@ married; and the presence of Joan Gahagan still stimulated the
 
 Captain to rather excessive flights of showing-off.
 
-
-
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
 round-eyed fish, with the beard and brow of Socrates; Sir Hubert
@@ -10489,8 +8842,6 @@ round-eyed fish, with the beard and brow of Socrates; Sir Hubert
 Wotton looked like Sir Hubert Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
-
-
 
 "It's an infernal shame," Wotton was saying, "the way these fellows
 
@@ -10501,8 +8852,6 @@ no more Communists than I am; little men who'd worked their way up
 by merit and industry, all kicked out of their posts without a
 
 penny of compensation.  Surely you agree with that, Gahagan?"
-
-
 
 "Of course I do," replied Gahagan.  "I never kicked a Jew.  I can
 
@@ -10519,8 +8868,6 @@ kicked at all.  But I fancy they must be kicking themselves, for
 having been so faithful to Germany and even, everywhere else,
 
 pretty generally pro-German."
-
-
 
 "Even that can be exaggerated," said Mr. Pond.  "Do you remember
 
@@ -10560,25 +8907,17 @@ too tall to be seen; one was apparently paralysed in a hospital and
 
 got out of the window at night--"
 
-
-
 Joan looked across at him with a troubled expression in her honest
 
 brown eyes.
-
-
 
 "Please, Mr. Pond, do tell us what you mean by a man being too tall
 
 to be seen."
 
-
-
 Gahagan's spirits, already high, soared into laughter and light
 
 improvisation.
-
-
 
 "These things do happen, my dear girl," he said.  "I can throw out
 
@@ -10628,11 +8967,7 @@ on the contrary, they would soon find that the face was too small.
 
 To cut a long story short--"
 
-
-
 "Or a tall story shorter," said Joan in a trenchant manner.
-
-
 
 "When the Titan was extricated, he was so tall that by the common
 
@@ -10650,8 +8985,6 @@ lectures in America; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
-
-
 "Well, have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
@@ -10659,8 +8992,6 @@ your yarns; and they don't mean anything.  But when Mr. Pond says
 that somebody was too tall to be seen, he does mean something.  And
 
 what can he possibly mean?"
-
-
 
 "Well," said Mr. Pond, coughing slightly, "it was really a part of
 
@@ -10673,12 +9004,6 @@ on second thought, that it is, perhaps, a phrase requiring
 explanation."  And he proceeded, in his slightly pedantic way, to
 
 narrate the story which is now retold here.
-
-
-
-
-
-
 
 It all happened in a fashionable watering-place, which was also a
 
@@ -10710,8 +9035,6 @@ worked in the office upstairs, where there were some very valuable
 
 State papers, including the only plan of the mines in the harbour.
 
-
-
 Mr. Pond himself always spent several hours in the office, but he
 
 had more occasion than the others to pay visits in the town, and
@@ -10735,8 +9058,6 @@ an old curiosity shop opposite, with a display of ancient Asiatic
 weapons; and there was Mrs. Hartog-Haggard next door, more alarming
 
 than all the weapons of the world.
-
-
 
 Mrs. Hartog-Haggard was one of those persons, to be found here and
 
@@ -10774,8 +9095,6 @@ responsible official, a theory had fully formed and hardened in her
 
 mind.
 
-
-
 "That man is a SOCIALIST, Mr. Pond," she declared in the ear of
 
 that unfortunate functionary.  "I heard him with my own ears mutter
@@ -10783,8 +9102,6 @@ that unfortunate functionary.  "I heard him with my own ears mutter
 something about what his Trade Union would say.  What is he doing
 
 so near to your office?"
-
-
 
 "We must distinguish," said Mr. Pond.  "A Trade Unionist, even a
 
@@ -10800,21 +9117,15 @@ Strike leaders is in a mood to make recruiting speeches all over
 
 the Empire."
 
-
-
 "I'm sure he's not English; he doesn't look a bit English," said
 
 the lady, still thinking of her wicked proletarian without.
-
-
 
 "Thank you, Mrs. Hartog-Haggard," said Pond, patiently.  "I will
 
 certainly make a note of your warning and see that inquiries are
 
 made about it."
-
-
 
 And so he did, with the laborious precision of one who could not
 
@@ -10827,8 +9138,6 @@ was Peterson: it was possible that it was really Petersen.  But
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
 man: that the fool is sometimes right.
-
-
 
 He soon forgot the incident in the details of his work; and next
 
@@ -10870,8 +9179,6 @@ we would talk about a fairy-tale.  But he knew a good deal about
 
 the lady; and saw no reason to move in the matter.
 
-
-
 "She shuts herself up for hours in her room and won't come out,"
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
@@ -10879,8 +9186,6 @@ Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 you think she is signalling, or does she climb down the fire-
 
 escape?  What do you think it means, Mr. Pond?"
-
-
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
@@ -10900,15 +9205,11 @@ pupils do not love her, and thinking about weltschmerz and suicide.
 
 And really, poor woman, she is in a very hard position."
 
-
-
 "She won't come to family prayers," continued the patriotic matron,
 
 not to be turned from her course, "because we pray for a British
 
 victory."
-
-
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
@@ -10922,8 +9223,6 @@ doors, that may show she is too much of a German.  It also shows
 
 she is not much of a German spy."
 
-
-
 Here again, however, Mr. Pond was careful not to ignore or entirely
 
 despise the warning; he kept an eye on the German governess, and
@@ -10932,19 +9231,13 @@ even engaged that learned lady in talk upon some trivial pretext--
 
 if anything she touched could remain trivial.
 
-
-
 "Your study of our national drama," he said gravely, "must
 
 sometimes recall to you the greatest and noblest work that ever
 
 came out of Germany."
 
-
-
 "You refer to Goethe's Faust, I presume," she replied.
-
-
 
 "I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I fear I have
 
@@ -10955,8 +9248,6 @@ exists in Grimm's collection in the same form; but I am pretty
 certain there is some variant of it.  It always seems to me about
 
 the best story in the world."
-
-
 
 The German governess obliged him with a short lecture on the
 
@@ -10971,8 +9262,6 @@ Pickles, in lights and various other embellishments, supported by
 that world-famed comedian who called himself Alberto Tizzi and was
 
 born in the Blackfriars Road.
-
-
 
 When he returned to his office at twilight, and, turning, beheld
 
@@ -10994,15 +9283,9 @@ ever; she ducked under the frame of scaffolding and darted into the
 
 room, crying out as she came:
 
-
-
 "Mr. Pond, do you know what is right opposite your own house?"
 
-
-
 "Well, I think so," said Mr. Pond, doubtfully, "more or less."
-
-
 
 "I never read the name over the shop before!" cried the lady.  "You
 
@@ -11012,25 +9295,17 @@ I mean; with all the spears and daggers.  Think of the impudence of
 
 the man!  He's actually written up his name there:  'C. Schiller.'"
 
-
-
 "He's written up C. Schiller; I'm not so sure he's written up his
 
 name," said Mr. Pond.
-
-
 
 "Do you mean," she cried, "that you actually know he goes by two
 
 names?  Why, that makes it worse than ever!"
 
-
-
 "Well," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
-
-
 
 And for the third time did Mr. Pond take some steps to verify the
 
@@ -11045,8 +9320,6 @@ peaceable-looking person who waited behind all this array of arms;
 not to say a rather smooth and sleek one; and Pond, leaning across
 
 the counter, addressed him in a low and confidential voice.
-
-
 
 "Why the dickens do you people do it?  It will be more than half
 
@@ -11074,19 +9347,13 @@ day, if you go about calling yourself Schiller.  You might as well
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
-
-
 "There'th a lot of prejudith againth my rathe," said the warden of
 
 the armoury.
 
-
-
 "There'll be a lot more, unless you take my advice," said Mr. Pond
 
 with unusual brevity; and left the shop to return to the office.
-
-
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
@@ -11116,8 +9383,6 @@ watched.  Mr. Pond was very glad that Mr. Levy lived in the shop
 
 exactly opposite.
 
-
-
 Indeed, he found himself gazing across the street in the gathering
 
 dusk with feelings which he found it hard to analyse.  He could
@@ -11143,8 +9408,6 @@ there arose within him the terror of Mrs. Hartog-Haggard, which is
 the terror of boredom and a sort of paralysed impatience, one of
 
 the worst of the woes of life.
-
-
 
 Then he saw that the shifting shadow must have been produced by the
 
@@ -11176,8 +9439,6 @@ he felt the peculiar oppression of his work as he had never felt it
 
 before.
 
-
-
 Then he shook himself awake, telling himself sharply that his
 
 business was working and not worrying about the atmosphere of the
@@ -11198,13 +9459,9 @@ and prosaic of subordinates; but the look on his face was quite
 
 enough to prove that something was really the matter.
 
-
-
 "Is anything bothering you?" asked Pond, in a gentle voice which
 
 people found very encouraging.
-
-
 
 "Yes, sir," said Mr. Butt.  "I'm bothering about whether I'm going
 
@@ -11216,17 +9473,11 @@ them.  But after all--well, sir, there is the country, isn't
 
 there?"
 
-
-
 "There is certainly the country," said Mr. Pond, very seriously.
-
-
 
 "Well," Butt blurted out at last, "I'm not a bit comfortable about
 
 Arthur."
-
-
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
@@ -11236,13 +9487,9 @@ the nastier to have put it like that.  But you know he got engaged
 
 last week.  Have you met his fiancée, sir?"
 
-
-
 "I have not yet had the honour," replied Pond, in his punctilious
 
 way.
-
-
 
 "Well, sir, Arthur brought her in here to-day while you were out;
 
@@ -11276,11 +9523,7 @@ somehow that's just the one word that wouldn't jump to my mind
 
 about her--innocence."
 
-
-
 "Why, what sort of a girl is she?" asked Pond.
-
-
 
 "Well," said Mr. Butt, gloomily seeking words, "we all know that
 
@@ -11294,8 +9537,6 @@ might be perfectly honest, she WOULD know very decidedly whether a
 
 thing is done or not."
 
-
-
 "If she is engaged to him," said Pond, with a rather unusual
 
 severity, "she must know that he is here on highly confidential
@@ -11305,8 +9546,6 @@ work, and she must be as anxious to protect his honour as we are.
 I'm afraid that I shall have to ask you for some sort of
 
 description."
-
-
 
 "Well," said Butt, "she's very tall and elegant, or . . . no,
 
@@ -11322,27 +9561,17 @@ the shape of the skull; and though she's not at all long in the
 
 tooth, in any sense, her teeth are just a little to the fore."
 
-
-
 "Did he meet her in Besançon, near Belfort?"
-
-
 
 "Pretty rum you should say that," said Butt, miserably; "because he
 
 did."
 
-
-
 Mr. Pond received the news in silence.
-
-
 
 "I hope, sir, you won't assume anything against Arthur," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
-
-
 
 As he spoke, the ceiling above them shook with a thud like thunder;
 
@@ -11353,8 +9582,6 @@ stillness.  No one acquainted with Mr. Pond's usual process of
 ambulation could have believed that he flew up the staircase as he
 
 did just then.
-
-
 
 They flung open the door, and they saw all that was to be seen.
 
@@ -11374,8 +9601,6 @@ had already touched the wrist and felt the rigidity of the muscles
 
 and he waved his subordinate away.
 
-
-
 "I am sorry to say that our friend is certainly dead," he said
 
 steadily.  "In that case, you had better not touch things till they
@@ -11384,21 +9609,15 @@ can be properly examined."  Then, looking at Butt very solemnly, he
 
 added:
 
-
-
 "You said you would do anything to clear him.  One thing is
 
 certain: that he is quite cleared."
-
-
 
 Pond then walked in silence to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
 lips when he saw that the drawer was empty.
-
-
 
 Pond walked to the telephone and issued orders to about six
 
@@ -11410,21 +9629,15 @@ same time that the stunned and bewildered Butt stumbled into
 
 speech.
 
-
-
 "I simply can't make head or tail of anything.  That woman had
 
 gone; and, besides, no woman could have nailed him to the floor
 
 like that."
 
-
-
 "And with such an extraordinary nail," said Pond, and was silent
 
 once more.
-
-
 
 And indeed the riddle revolved more and more on the one thing that
 
@@ -11470,8 +9683,6 @@ barbaric or Oriental arms said that they had never seen such a
 
 thing before.
 
-
-
 Touching many other things, the darkness began to thin away to a
 
 somewhat dreary dawn.  It was ascertained that poor Arthur's
@@ -11490,8 +9701,6 @@ floor; and quite impossible to imagine why she should select it for
 
 the purpose.
 
-
-
 "It would all be as clear as death," said Mr. Butt, bitterly,
 
 "except for that lumbering, long-hilted short-sword, or whatever it
@@ -11502,19 +9711,13 @@ or any of the tribes the learned jossers tell us about.  It's the
 
 real remaining mystery of the whole thing."
 
-
-
 Mr. Pond seemed to be waking up slowly from a trance of hours or
 
 days.
 
-
-
 "Oh, THAT," he said, "that's the only thing about it I'm really
 
 beginning to understand."
-
-
 
 It has been hinted, with every delicacy, we may hope, that the
 
@@ -11538,8 +9741,6 @@ the triumph of the fool.  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
-
-
 She darted in under the scaffolding by the doorway, the same dark
 
 and almost antic figure.  Full of the Cause, she was utterly
@@ -11562,8 +9763,6 @@ pantomime at all; regarding it as a ruse for filling them with the
 
 gruesome tales of Grimm and the terrors of the barbaric forest.
 
-
-
 "They're SENT to do that," she repeated in the fierce, confidential
 
 voice she used in such cases.  "They're sent here to undermine all
@@ -11580,13 +9779,9 @@ stop it; and my life is simply ruined.  My three girls are all
 
 twittering with terror; and my boy is mad."
 
-
-
 The symptoms of Mr. Pond were still mainly those of fatigue; and
 
 she rapped out a repetition.
-
-
 
 "He is MAD, I tell you, Mr. Pond; he is actually SEEING things out
 
@@ -11596,8 +9791,6 @@ great knife walking through the town by moonlight . . . a GIANT,
 
 Mr. Pond."
 
-
-
 Mr. Pond staggered to his feet and for once really goggled and
 
 gulped like a fish.  Mrs. Hartog-Haggard watched him with wild
@@ -11606,19 +9799,13 @@ eyes, intermittently exclaiming:  "Have you no word of consolation
 
 for a mother?"
 
-
-
 Mr. Pond abruptly controlled himself and managed to recapture, at
 
 least, a hazy courtesy.
 
-
-
 "Yes, madam," he said.  "I have the best possible consolation for a
 
 mother.  Your son is not mad."
-
-
 
 He looked more judicial, and even severe, when he next sat in
 
@@ -11626,27 +9813,19 @@ consultation with Mr. Butt, Sir Hubert Wotton, and Inspector Grote,
 
 the leading detective of the district.
 
-
-
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
 this as an epoch of Education."
 
-
-
 "Oh, I know it's about a clever cat and all the rest of it," said
 
 Butt, vaguely.  "A cat that helps its master to get things--"
 
-
-
 The Inspector smote his knee with a smack that rang through the
 
 office.
-
-
 
 "A cat burglar!" he cried.  "So that's what you mean.  I fancied at
 
@@ -11658,8 +9837,6 @@ to climb up to the window by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
-
-
 "Pardon me," said Mr. Pond, "does a cat burglar, or for that matter
 
 any burglar, any more than any cat, load himself with a gigantic
@@ -11668,13 +9845,9 @@ knife rather bigger than a garden spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
-
-
 They all stared at him; but he resumed with the same air of frigid
 
 rebuke:
-
-
 
 "What I remark upon, what I regret and regard as symptomatic of
 
@@ -11734,13 +9907,9 @@ outside our doorway, among the poles of the little scaffolding,
 
 while he climbed in at the upper window and killed poor Travers."
 
-
-
 "If you are sure of this," cried Sir Hubert Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
-
-
 
 "I did act on it at once," replied Pond, with a slight sigh.  "This
 
@@ -11753,12 +9922,6 @@ of them was arrested and found to be Signor Tizzi.  He was also
 found, I am glad to say, to be still in possession of the plans."
 
 But he sighed again.
-
-
-
-
-
-
 
 "For after all," as Mr. Pond observed, in telling the tale long
 
@@ -11790,20 +9953,6 @@ only," said Mr. Pond, ending, as he had begun, with an apologetic
 
 little laugh, "he was too tall to be seen."
 
-
-
-
-
-
-
 End of this Project Gutenberg of Australia eBook
 
 The Paradoxes of Mr Pond by G. K. Chesterton
-
-
-
-
-
-
-
-===== FINE FILE: MrPond.txt =====

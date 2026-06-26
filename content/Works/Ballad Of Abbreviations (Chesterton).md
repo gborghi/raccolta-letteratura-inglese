@@ -30,7 +30,6 @@ tags:
 
 A BALLAD OF ABBREVIATIONS  
 
-
 The American's a hustler, for he says so,  
   And surely the American must know.  
 He will prove to you with figures why it pays so  
@@ -39,7 +38,6 @@ When the slow-maturing anecdote is ripest,
   He'll dictate it like a Board of Trade Report,  
 And because he has no time to call a typist,  
   He calls her a Stenographer for short.  
-
 
 He is never known to loiter or malinger,  
   He rushes, for he knows he has "a date" ;  
@@ -50,7 +48,6 @@ When he guesses that it's getting even later,
 And he yells for what he calls the Elevator,  
   A slang abbreviation for a lift.  
 
-
 Then nothing can be nattier or nicer  
   For those who like a light and rapid style.  
 Than to trifle with a work of Mr Dreiser  
@@ -60,7 +57,6 @@ He has taught us what a swift selective art meant
 And his dwelling, which he says is an Apartment,  
   Because he cannot stop to say a flat.  
 
-
 We may whisper of his wild precipitation,  
   That it's speed in rather longer than a span,  
 But there really is a definite occasion  
@@ -68,8 +64,4 @@ But there really is a definite occasion
 When he substitutes, I freely make admission,  
   One shorter and much easier to spell ;  
 If you ask him what he thinks of Prohibition,  
-  He may tell you quite succinctly it is Hell.  
-
-
-
-===== FINE FILE: Ballad_Of_Abbreviations.txt =====  
+  He may tell you quite succinctly it is Hell.

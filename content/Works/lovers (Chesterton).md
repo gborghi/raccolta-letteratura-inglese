@@ -89,7 +89,3 @@ Gabriel Gale was standing on his head again.
 _________________________________________________________________
 
 From Chesterton's The Poet and the Lunatics
-
-
-
-===== FINE FILE: lovers.txt =====

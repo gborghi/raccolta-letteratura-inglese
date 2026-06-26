@@ -16,17 +16,11 @@ tags:
 Etext prepared by Michael Pullen
 globaltraveler5565@yahoo.com
 
-
-
-
-
 A MISCELLANY OF MEN
 
 By G. K. CHESTERTON
 
 1912
-
-
 
 CONTENTS
 
@@ -69,11 +63,7 @@ THE CHARTERED LIBERTINE
 THE CONTENTED MAN
 THE ANGRY AUTHOR: HIS FAREWELL
 
-
-
-
 THE SUFFRAGIST
-
 
 Rightly or wrongly, it is certain that a man both liberal and chivalric,
 can and very often does feel a dis-ease and distrust touching
@@ -215,10 +205,7 @@ world to judge whether such instincts are indeed danger signals;
 and whether the hurting of moral as of material nerves is a tocsin
 and a warning of nature.
 
-
-
 THE POET AND THE CHEESE
-
 
 There is something creepy in the flat Eastern Counties;
 a brush of the white feather.  There is a stillness,
@@ -354,10 +341,7 @@ I confess I feel myself as if some literary influence, something that
 has haunted me, were present in this otherwise original poem;
 but it is hopeless to disentangle it now.
 
-
-
 THE THING
-
 
 The wind awoke last night with so noble a violence that it
 was like the war in heaven; and I thought for a moment that
@@ -475,10 +459,7 @@ only a branch or two was broken off the tree in my garden; and none
 of the great country houses in the neighbourhood were blown down,
 as would have happened if the Thing had really been abroad.
 
-
-
 THE MAN WHO THINKS BACKWARDS
-
 
 The man who thinks backwards is a very powerful person to-day: indeed,
 if he is not omnipotent, he is at least omnipresent.  It is he who writes
@@ -625,10 +606,7 @@ In all such bewilderment he is wise who resists this temptation of
 trivial triumph or surrender, and happy (in an echo of the Roman poet)
 who remembers the roots of things.
 
-
-
 THE NAMELESS MAN
-
 
 There are only two forms of government the monarchy or personal
 government, and the republic or impersonal government.  England is not
@@ -643,7 +621,6 @@ ruled by personages, these personages do not permit personalities.
 In England names are honoured, and therefore names are suppressed.
 But in the republics, in France especially, a man can put his enemies'
 names into his article and his own name at the end of it.
-
 
 This is the essential condition of such candour.  If we merely made our
 anonymous articles more violent, we should be baser than we are now.
@@ -773,10 +750,7 @@ than other revolutions.  It will contain, I fear, a great deal of that
 rude accomplishment described among little boys as "calling names";
 but that will not matter much so long as they are the right names.
 
-
-
 THE GARDENER AND THE GUINEA
-
 
 Strictly speaking, there is no such thing as an
 English Peasant.  Indeed, the type can only exist in community,
@@ -872,7 +846,6 @@ in wealth beyond the dreams of avarice since I know that avarice has
 no dreams, but only insomnia.  And, for the other party, my gardener
 would never consent to dig up the garden.
 
-
 Nevertheless, I was overwhelmed with intellectual emotions when I saw
 that answer to my question; the question of why the garden did not belong
 to the gardener.  No better epigram could be put in reply than simply
@@ -901,10 +874,7 @@ Perhaps he thought there was a curse on such capital:
 on the coal of the coal-owners, on the gold of the gold-seekers.
 Perhaps there is.
 
-
-
 THE VOTER AND THE TWO VOICES
-
 
 The real evil of our Party System is commonly stated wrong.
 It was stated wrong by Lord Rosebery, when he said that it
@@ -1064,10 +1034,7 @@ of taking one course or the other.  The lord will take two things
 so much alike that he would not mind choosing from them blindfold--
 and then for a great jest he will allow the slaves to choose.
 
-
-
 THE MAD OFFICIAL
-
 
 Going mad is the slowest and dullest business in the world.
 I have very nearly done it more than once in my boyhood,
@@ -1200,10 +1167,7 @@ oil is boiling; and the Tenth Mandarin is already reciting
 the "Seventeen Serious Principles and the Fifty-three Virtues
 of the Sacred Emperor."
 
-
-
 THE ENCHANTED MAN
-
 
 When I arrived to see the performance of the Buckinghamshire Players,
 who acted Miss Gertrude Robins's POT LUCK at Naphill a short time ago,
@@ -1327,10 +1291,7 @@ Whether he kept it I doubt; I fancy he sometimes shot a pheasant
 even after that.  But I am sure he never shot a policeman.
 For we live in an enchanted land.
 
-
-
 THE SUN WORSHIPPER
-
 
 There is a shrewd warning to be given to all people who are in revolt.
 And in the present state of things, I think all men are revolting
@@ -1526,10 +1487,7 @@ And you opened on them the eyes of owls, and said, "It must be
 the sunshine."  You could only go on saying, "The sun, the sun."
 That was what the man in Ibsen said, when he had lost his wits.
 
-
-
 THE WRONG INCENDIARY
-
 
 I stood looking at the Coronation Procession--I mean the one
 in Beaconsfield; not the rather elephantine imitation of it which,
@@ -1664,10 +1622,7 @@ of brass fit for a pagan conqueror, so high that one could fancy
 it visible away among the goblin trees of Burnham or along
 the terraces of the Chiltern Hills.
 
-
-
 THE FREE MAN
-
 
 The idea of liberty has ultimately a religious root; that is why
 men find it so easy to die for and so difficult to define.
@@ -1784,10 +1739,7 @@ One cannot say, for instance, that--But I am afraid I must leave out
 that instance, because one cannot say it.  I cannot prove my case--
 because it is so true.
 
-
-
 THE HYPOTHETICAL HOUSEHOLDER
-
 
 We have read of some celebrated philosopher who was so absent-minded that
 he paid a call at his own house.  My own absent-mindedness is extreme,
@@ -1926,10 +1878,7 @@ for him in the neighbourhood; but I excused her from such exertion.
 I had one moment's impulse to look for him all over the world;
 and then decided not to look for him at all.
 
-
-
 THE PRIEST OF SPRING
-
 
 The sun has strengthened and the air softened just before
 Easter Day.  But it is a troubled brightness which has a breath
@@ -2085,10 +2034,7 @@ There is somebody or something walking there, to be crowned with flowers:
 and my pleasure is in some promise yet possible and in the resurrection
 of the dead.
 
-
-
 THE REAL JOURNALIST
-
 
 Our age which has boasted of realism will fail chiefly through lack
 of reality.  Never, I fancy, has there been so grave and startling
@@ -2242,10 +2188,7 @@ egotistic and ask what is the use of it I think I could tell you.
 You might remember it when next some ordinary young workman
 is going to be hanged by the neck on circumstantial evidence.
 
-
-
 THE SENTIMENTAL SCOT
-
 
 Of all the great nations of Christendom, the Scotch are by far
 the most romantic.  I have just enough Scotch experience and just
@@ -2360,10 +2303,7 @@ Just at the moment when I saw them, moreover, they were not dancing;
 nor were they working.  They were doing nothing.  Which, in my opinion
 (and I trust yours), was the finest thing they could do.
 
-
-
 THE SECTARIAN OF SOCIETY
-
 
 A fixed creed is absolutely indispensable to freedom.
 For while men are and should be various, there must be some
@@ -2496,10 +2436,7 @@ eschewing all change or disagreement, though it is to dine
 to a brass band in a big London hotel.  For birds of a feather
 flock together, but birds of the white feather most of all.
 
-
-
 THE FOOL
-
 
 For many years I had sought him, and at last I found him in a club.
 I had been told that he was everywhere; but I had almost begun to think
@@ -2658,11 +2595,7 @@ He is a deadly public danger.  But as I have given him his name
 at the beginning of this article there is no need for me to repeat
 it at the end.
 
-
-
-
 THE CONSCRIPT AND THE CRISIS
-
 
 Very few of us ever see the history of our own time happening.
 And I think the best service a modern journalist can do to society
@@ -2837,10 +2770,7 @@ But when I came out of the church there were none of these things,
 but only a lot of Shops, including a paper-shop, on which the posters
 announced that the negotiations were proceeding satisfactorily.
 
-
-
 THE MISER AND HIS FRIENDS
-
 
 It is a sign of sharp sickness in a society when it is actually
 led by some special sort of lunatic.  A mild touch of madness
@@ -2972,10 +2902,7 @@ have more respect for the old miser, gnawing bones in an attic:
 if he was not nearer to God, he was at least a little nearer to men.
 His simple life was a little more like the life of the real poor.
 
-
-
 THE MYSTAGOGUE
-
 
 Whenever you hear much of things being unutterable and indefinable
 and impalpable and unnamable and subtly indescribable, then elevate
@@ -3100,10 +3027,7 @@ that they are good it is because the artists are bad.
 They can explain nothing because they have found nothing;
 and they have found nothing because there is nothing to be found.
 
-
-
 THE RED REACTIONARY
-
 
 The one case for Revolution is that it is the only quite
 clean and complete road to anything--even to restoration.
@@ -3239,10 +3163,7 @@ of the French Revolution.
 
 For no such scene could conceivably have happened under Louis XVI.
 
-
-
 THE SEPARATIST AND SACRED THINGS
-
 
 In the very laudable and fascinating extensions of our interest
 in Asiatic arts or faiths, there are two incidental injustices
@@ -3388,10 +3309,7 @@ He claims the right to be saved, in spite of Moslem fatalism.
 He claims the right to be damned in spite of theosophical optimism.
 He refuses to be the Cosmos; because he refuses to forget it.
 
-
-
 THE MUMMER
-
 
 The night before Christmas Eve I heard a burst of musical voices
 so close that they might as well have been inside the house instead
@@ -3514,10 +3432,7 @@ and there is an old tale of a tyrant to whom a walking forest was
 the witness of doom.  That, indeed, is the very intensity of the notion:
 a masked man is ominous; but who shall face a mob of masks?
 
-
-
 THE ARISTOCRATIC 'ARRY
-
 
 The Cheap Tripper, pursued by the curses of the aesthetes and
 the antiquaries, really is, I suppose, a symptom of the strange
@@ -3650,10 +3565,7 @@ visiting the deep-sea fishes--fed along a lengthy tube by
 another atmosphere, and seeing the sights without breathing the air.
 It is very real bad manners.
 
-
-
 THE NEW THEOLOGIAN
-
 
 It is an old story that names do not fit things; it is an old story
 that the oldest forest is called the New Forest, and that Irish
@@ -3812,10 +3724,7 @@ that the poor must be as meek as Buddhists, while the rich
 may be as ruthless as Mohammedans.  That is what they call
 the reunion of all religions.
 
-
-
 THE ROMANTIC IN THE RAIN
-
 
 The middle classes of modern England are quite fanatically fond
 of washing; and are often enthusiastic for teetotalism.  I cannot
@@ -3831,7 +3740,6 @@ But the scheme of rain in itself is one of an enormous purification.
 It realises the dream of some insane hygienist:  it scrubs the sky.
 Its giant brooms and mops seem to reach the starry rafters and Starless
 corners of the cosmos; it is a cosmic spring-cleaning.
-
 
 If the Englishman is really fond of cold baths, he ought
 not to grumble at the English climate for being a cold bath.
@@ -3918,10 +3826,7 @@ the transcendental instinct about this dreamy and dual life of ours.
 It will always give a man the strange sense of looking down
 at the skies.
 
-
-
 THE FALSE PHOTOGRAPHER
-
 
 When, as lately, events have happened that seem (to the fancy,
 at least) to test if not stagger the force of official government,
@@ -4037,10 +3942,7 @@ albino or a prize-fighter or an imbecile or an American.  These are
 the realities by which the people really recognise each other.
 They are almost always left out of the inquiry.
 
-
-
 THE SULTAN
-
 
 There is one deep defect in our extension of cosmopolitan and
 Imperial cultures.  That is, that in most human things if you spread
@@ -4145,10 +4047,7 @@ of luxury without uproar; of prostrate provinces and a chosen race.
 Indeed Cecil Rhodes illustrated almost every quality essential
 to the Sultan, from the love of diamonds to the scorn of woman.
 
-
-
 THE ARCHITECT OF SPEARS
-
 
 The other day, in the town of Lincoln, I suffered an optical
 illusion which accidentally revealed to me the strange greatness
@@ -4267,10 +4166,7 @@ of the Gothic; then the last furniture-van shifted itself away;
 and I saw only a church tower in a quiet English town, round which
 the English birds were floating.
 
-
-
 THE MAN ON TOP
-
 
 There is a fact at the root of all realities to-day which cannot
 be stated too simply.  It is that the powers of this world
@@ -4398,10 +4294,7 @@ against tyranny; it is against a sort of treason.  It is the suspicion
 that even at the top of the tree, even in the seats of the mighty,
 our very success is unsuccessful.
 
-
-
 THE OTHER KIND OF MAN
-
 
 There are some who are conciliated by Conciliation Boards.  There are
 some who, when they hear of Royal Commissions, breathe again--
@@ -4530,10 +4423,7 @@ of compulsory powers to such councils to prevent strikes,
 you will be driving the first Kind of Man to work for a particular
 master as much as if you drove him with a whip.
 
-
-
 THE MEDIAEVAL VILLAIN
-
 
 I see that there have been more attempts at the whitewashing
 of King John.
@@ -4672,10 +4562,7 @@ still less, "Onward, Futurist soldiers"; what they said
 to high emperors and to whole empires was, "Turn ye, turn ye,
 why will ye die?"
 
-
-
 THE DIVINE DETECTIVE
-
 
 Every person of sound education enjoys detective stories,
 and there are even several points on which they have a hearty
@@ -4787,10 +4674,7 @@ Whoever read a detective story about poor people?  The poor have crimes;
 but the poor have no secrets.  And it is because the proud have
 secrets that they need to be detected before they are forgiven.
 
-
-
 THE ELF OF JAPAN
-
 
 There are things in this world of which I can say seriously
 that I love them but I do not like them.  The point is not
@@ -4904,10 +4788,7 @@ that the assertion and denial about the Japanese use of torture
 was a mere matter of verbal translation.  "The Japanese would not
 call twisting the thumbs back 'torture.'"
 
-
-
 THE CHARTERED LIBERTINE
-
 
 I find myself in agreement with Mr. Robert Lynd for his most just
 remark in connection with the Malatesta case, that the police are
@@ -4964,7 +4845,6 @@ a man for wine-bibbing when it is proved that he had no wine.
 Rifts in right reason widen down the ages.  And when we have
 begun by shutting up a confessedly kind person for cruelty,
 we may yet come to shutting up Mr. Tom Mann for feeble-mindedness.
-
 
 But even if such laws do good to children or idiots,
 it is wrong to use the word "charter."  A charter does not
@@ -5033,10 +4913,7 @@ But remember that in the days when free men had charters,
 they held that the wind itself was wild by authority;
 and was only free because it had a father.
 
-
-
 THE CONTENTED MAN
-
 
 The word content is not inspiring nowadays; rather it is irritating
 because it is dull.  It prepares the mind for a little sermon
@@ -5169,10 +5046,7 @@ And though we would not have them back again on any account,
 we feel that they are both beautiful, because we have
 drunk them dry.
 
-
-
 THE ANGRY AUTHOR:  HIS FAREWELL
-
 
 I have republished all these old articles of mine because they
 cover a very controversial period, in which I was in nearly
@@ -5305,8 +5179,3 @@ to discuss these public questions properly.  But I fear my list
 of protests grows too long; and I know it could grow longer for ever.
 The reader must forgive my elongations and elaborations.
 I fancied for the moment that I was writing a book.
-
-
-
-
-===== FINE FILE: misc.txt =====

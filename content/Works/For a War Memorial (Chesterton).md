@@ -57,8 +57,4 @@ For a War Memorial
       How many men of England died  
       To prove they were not dead.  
 
-          G.K. Chesterton  
-
-
-
-===== FINE FILE: For_a_War_Memorial.txt =====  
+          G.K. Chesterton

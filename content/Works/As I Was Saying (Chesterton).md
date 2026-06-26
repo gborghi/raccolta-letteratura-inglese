@@ -77,7 +77,6 @@ tags:
 - [Story 44 T amuses me to think that amid all the i](/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_44_T_amuses_me_to_think_that_amid_all_the_i)
 - [Story 45 MAY explain that I am one of the people](/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_45_MAY_explain_that_I_am_one_of_the_people)
 
-
 ## Testo integrale / Full text
 
 As I Was Saying G. K. Chesterton Contents
@@ -5213,7 +5212,3 @@ and temporary solution; and warn us against allowing the present
 to become more narrow than the past.
 
 ~||~
-
-
-
-===== FINE FILE: As_I_Was_Saying.txt =====

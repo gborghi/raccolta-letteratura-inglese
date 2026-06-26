@@ -203,6 +203,3 @@ she wept.
 not without tears of her own.
 
 * * *
-
-
-===== FINE FILE: The_Flying_Inn.txt =====

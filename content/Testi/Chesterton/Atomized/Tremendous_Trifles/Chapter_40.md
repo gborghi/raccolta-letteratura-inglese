@@ -172,6 +172,3 @@ And second, because I have got to go into the next room
 and dress up as Dr. Johnson.
 
 The End
-
-
-===== FINE FILE: Tremendous_Trifles.txt =====

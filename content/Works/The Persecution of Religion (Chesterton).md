@@ -189,7 +189,3 @@ that there can be nothing more ideal that the ideal; and the only thing
 that affects humanity as an ideal at all is that which is fully human
 in being divine.  For some of us it is fixed by a divine humanity,
 and even by a divine child.
-
-
-
-===== FINE FILE: The_Persecution_of_Religion.txt =====

@@ -41,12 +41,9 @@ tags:
 - [Story 10 SAVONAROLA](/Testi/Chesterton/Atomized/Twelve_Types/Story_10_SAVONAROLA)
 - [Story 11 THE POSITION OF SIR WALTER SCOTT](/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT)
 
-
 ## Testo integrale / Full text
 
 The Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
-
-
 
 This eBook is for the use of anyone anywhere at no cost and with
 
@@ -56,61 +53,25 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
 
-
-
-
-
 Title: Twelve Types
-
-
 
 Author: G.K. Chesterton
 
-
-
 Release Date: June 2, 2004 [EBook #12491]
-
-
 
 Language: English
 
-
-
 Character set encoding: ASCII
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK TWELVE TYPES ***
-
-
-
-
-
-
-
-
 
 Produced by Robert Shimmin, Stephen Hope and the Online Distributed
 
 Proofreading Team.
 
-
-
-
-
-
-
-
-
-
-
 TWELVE TYPES
 
-
-
 BY G.K. CHESTERTON
-
-
 
 LONDON
 
@@ -118,37 +79,17 @@ ARTHUR L. HUMPHREYS
 
 1902
 
-
-
-
-
 NOTE
-
-
 
 These papers, with certain alterations and additions, are reprinted with
 
 the kind permission of the Editors of _The Daily News_ and _The Speaker_.
 
-
-
 G.K.C.
 
 KENSINGTON.
 
-
-
-
-
-
-
-
-
 CONTENTS
-
-
-
-
 
 CHARLOTTE BRONTE
 
@@ -174,19 +115,7 @@ SAVONAROLA
 
 THE POSITION OF SIR WALTER SCOTT
 
-
-
-
-
-
-
-
-
 CHARLOTTE BRONTE
-
-
-
-
 
 Objection is often raised against realistic biography because it reveals
 
@@ -215,8 +144,6 @@ thinks about himself as a strange animal with two legs. What a man's
 name was, what his income was, whom he married, where he lived, these
 
 are not sanctities; they are irrelevancies.
-
-
 
 A very strong case of this is the case of the Brontes. The Bronte is in
 
@@ -277,8 +204,6 @@ interior might be made sublime. She chose the ugliest of women in the
 ugliest of centuries, and revealed within them all the hells and heavens
 
 of Dante.
-
-
 
 It may, therefore, I think, be legitimately said that the externals of
 
@@ -352,8 +277,6 @@ essential is dislocated. His hands are on his legs and his feet on his
 
 arms, his nose is above his eyes, but his heart is in the right place.
 
-
-
 The great and abiding truth for which the Bronte cycle of fiction stands
 
 is a certain most important truth about the enduring spirit of youth,
@@ -415,8 +338,6 @@ as black and barren as routine. The faculty of being shy is the first
 and the most delicate of the powers of enjoyment. The fear of the Lord
 
 is the beginning of pleasure.
-
-
 
 Upon the whole, therefore, I think it may justifiably be said that the
 
@@ -482,19 +403,7 @@ house of all those millions which has not seemed to some one at some
 
 time the heart of all things and the end of travel.
 
-
-
-
-
-
-
-
-
 WILLIAM MORRIS AND HIS SCHOOL
-
-
-
-
 
 It is proper enough that the unveiling of the bust of William Morris
 
@@ -559,8 +468,6 @@ the blue forest a mile behind, he would be serenely happy. So he would
 be, no doubt, if he were really fitted for a decorative existence; if he
 
 were a piece of exquisitely coloured cardboard.
-
-
 
 But although Morris took little account of the terrible solidity of
 
@@ -640,8 +547,6 @@ have called down the fire of Heaven on us as a race of half-witted
 
 atheists. Probably they would have been quite right.
 
-
-
 This clear and fine perception of what may be called the anaesthetic
 
 element in the Victorian era was, undoubtedly, the work of a great
@@ -673,8 +578,6 @@ decoration, has, nine times out of ten in history, made things uglier
 than they were before, from the 'coiffure' of a Papuan savage to the
 
 wall-paper of a British merchant in 1830.
-
-
 
 But great and beneficent as was the aesthetic revolution of Morris, there
 
@@ -804,8 +707,6 @@ supreme courage to face the ugliness of things; Beauty shrank from the
 
 Beast and the fairy-tale had a different ending.
 
-
-
 But herein, indeed, lay Morris's deepest claim to the name of a great
 
 reformer: that he left his work incomplete. There is, perhaps, no better
@@ -848,17 +749,7 @@ we now live is, in spite of all the pessimists, not of the greyness of
 
 death, but the greyness of dawn.
 
-
-
-
-
-
-
-
-
 THE OPTIMISM OF BYRON
-
-
 
 Everything is against our appreciating the spirit and the age of Byron.
 
@@ -878,8 +769,6 @@ wall-paper pattern. The whole is like a revel of dead men, a revel with
 
 splendid vesture and half-witted faces.
 
-
-
 But the more shrewdly and earnestly we study the histories of men, the
 
 less ready shall we be to make use of the word "artificial." Nothing in
@@ -897,8 +786,6 @@ darkling deserts, in the hermit and in the wild beasts that crawl around
 him. It may be good or evil, but assuredly it is not artificial: vanity
 
 is a voice out of the abyss.
-
-
 
 The remarkable fact is, however, and it bears strongly on the present
 
@@ -932,8 +819,6 @@ extinct volcano now; it is the dead stick of a rocket. It is the remains
 
 not of a natural but of an artificial fire.
 
-
-
 But Byron and Byronism were something immeasurably greater than anything
 
 that is represented by such a view as this: their real value and meaning
@@ -952,15 +837,11 @@ what is known as Byron's pessimism is better worth study than any real
 
 pessimism could ever be.
 
-
-
 It is the standing peculiarity of this curious world of ours that almost
 
 everything in it has been extolled enthusiastically and invariably
 
 extolled to the disadvantage of everything else.
-
-
 
 One after another almost every one of the phenomena of the universe has
 
@@ -979,8 +860,6 @@ indefensible world. Thus while the world is almost always condemned in
 summary, it is always justified, and indeed extolled, in detail after
 
 detail.
-
-
 
 Existence has been praised and absolved by a chorus of pessimists. The
 
@@ -1003,8 +882,6 @@ written some shameless and terrible indictment of Creation, his one pang
 of joy in the achievement joins the universal chorus of gratitude, with
 
 the scent of the wild flower and the song of the bird.
-
-
 
 Now Byron had a sensational popularity, and that popularity was, as far
 
@@ -1056,8 +933,6 @@ that somebody else may be exalted. It was merely a recognition of the
 
 fact that one cannot write in white chalk except on a blackboard.
 
-
-
 Surely it is ridiculous to maintain seriously that Byron's love of the
 
 desolate and inhuman in nature was the mark of vital scepticism and
@@ -1087,8 +962,6 @@ only too dense a purple. They would prefer the sullen hostility of the
 earth because amid all the cold and darkness their own hearts were
 
 flaming like their own firesides.
-
-
 
 Matters are very different with the more modern school of doubt and
 
@@ -1136,8 +1009,6 @@ shout of hilarious laughter announced to the world that Lord Byron had
 
 really become a pessimist.
 
-
-
 One of the best tests in the world of what a poet really means is his
 
 metre. He may be a hypocrite in his metaphysics, but he cannot be a
@@ -1154,8 +1025,6 @@ in a spring morning when all the limbs are swinging and all the blood
 
 alive in the body, the lips may be caught repeating:
 
-
-
     'Oh, there's not a joy the world can give like that it takes away,
 
     When the glow of early youth declines in beauty's dull decay;
@@ -1164,11 +1033,7 @@ alive in the body, the lips may be caught repeating:
 
     But the tender bloom of heart is gone ere youth itself be past.'
 
-
-
 That automatic recitation is the answer to the whole pessimism of Byron.
-
-
 
 The truth is that Byron was one of a class who may be called the
 
@@ -1194,19 +1059,7 @@ may emerge suddenly at the sight of the grass of a meadow or the spears
 
 of the enemy.
 
-
-
-
-
-
-
-
-
 POPE AND THE ART OF SATIRE
-
-
-
-
 
 The general critical theory common in this and the last century is that
 
@@ -1246,27 +1099,17 @@ at least a fool could not be a poet. If we take, for the sake of
 
 example, such a line as Pope's
 
-
-
     'Damn with faint praise, assent with civil leer,'
-
-
 
 the test is comparatively simple. A great poet would not have written
 
 such a line, perhaps. But a minor poet could not.
 
-
-
 Supposing that a lyric poet of the new school really had to deal with
 
 such an idea as that expressed in Pope's line about Man:
 
-
-
     'A being darkly wise and rudely great.'
-
-
 
 Is it really so certain that he would go deeper into the matter than
 
@@ -1276,17 +1119,11 @@ really be any wiser or weirder or more imaginative or more profound. The
 
 one thing that he would really be, would be longer. Instead of writing
 
-
-
     'A being darkly wise and rudely great,'
-
-
 
 the contemporary poet, in his elaborately ornamented book of verses,
 
 would produce something like the following:--
-
-
 
     'A creature
 
@@ -1306,15 +1143,11 @@ would produce something like the following:--
 
     And darkly wise, and darkly wise.'
 
-
-
 Have we really learnt to think more broadly? Or have we only learnt to
 
 spread our thoughts thinner? I have a dark suspicion that a modern poet
 
 might manufacture an admirable lyric out of almost every line of Pope.
-
-
 
 There is, of course, an idea in our time that the very antithesis of
 
@@ -1350,8 +1183,6 @@ were fully in harmony with existence, which is itself a contradiction in
 
 terms.
 
-
-
 Pope was really a great poet; he was the last great poet of
 
 civilisation. Immediately after the fall of him and his school come
@@ -1370,8 +1201,6 @@ especially he was supreme--the great and civilised art of satire. And
 
 in this we have fallen away utterly.
 
-
-
 We have had a great revival in our time of the cult of violence and
 
 hostility. Mr Henley and his young men have an infinite number of
@@ -1387,8 +1216,6 @@ yet, despite all this, these people produce no satire. Political and
 social satire is a lost art, like pottery and stained glass. It may be
 
 worth while to make some attempt to point out a reason for this.
-
-
 
 It may seem a singular observation to say that we are not generous
 
@@ -1466,8 +1293,6 @@ touch the man at whom it is aimed. And to reach these it must pass and
 
 salute a whole army of virtues.
 
-
-
 If we turn to the great English satirists of the seventeenth and
 
 eighteenth centuries, for example, we find that they had this rough but
@@ -1480,19 +1305,11 @@ splendid and spirited account of the insane valour and inspired cunning
 
 of the
 
-
-
     'daring pilot in extremity,'
-
-
 
 who was more untrustworthy in calm than in storm, and
 
-
-
     'Steered too near the rocks to boast his wit.'
-
-
 
 The whole is, so far as it goes, a sound and picturesque version of the
 
@@ -1566,8 +1383,6 @@ a man is angry at a libel because it is false, but at a satire because
 
 it is true.
 
-
-
 Mr Henley and his young men are very fond of invective and satire: if
 
 they wish to know the reason of their failure in these things, they need
@@ -1588,8 +1403,6 @@ said, go quietly and read Pope's 'Atticus,' they would see how a great
 
 satirist approaches a great enemy:
 
-
-
     'Peace to all such! But were there one whose fires
 
     True genius kindles, and fair fame inspires,
@@ -1599,8 +1412,6 @@ satirist approaches a great enemy:
     And born to write, converse, and live with ease.
 
     Should such a man--'
-
-
 
 And then follows the torrent of that terrible criticism. Pope was not
 
@@ -1618,19 +1429,13 @@ everlasting colours he painted the picture of the evil of the literary
 
 temperament:
 
-
-
     'Bear like the Turk, no brother near the throne,
 
     View him with scornful, yet with jealous eyes,
 
     And hate for arts that caused himself to rise.
 
-
-
            *       *       *       *       *
-
-
 
     Like Cato give his little Senate laws,
 
@@ -1640,8 +1445,6 @@ temperament:
 
     And wonder with a foolish face of praise.'
 
-
-
 This is the kind of thing which really goes to the mark at which it
 
 aims. It is penetrated with sorrow and a kind of reverence, and it is
@@ -1649,8 +1452,6 @@ aims. It is penetrated with sorrow and a kind of reverence, and it is
 addressed directly to a man. This is no mock-tournament to gain the
 
 applause of the crowd. It is a deadly duel by the lonely seashore.
-
-
 
 In current political materialism there is everywhere the assumption
 
@@ -1660,19 +1461,7 @@ benefit a man practically. Without understanding his case and his
 
 merits, we cannot even hurt him.
 
-
-
-
-
-
-
-
-
 FRANCIS
-
-
-
-
 
 Asceticism is a thing which in its very nature, we tend in these days to
 
@@ -1708,8 +1497,6 @@ other things one may choose to tabulate are unnecessary. When Omar
 
 Khayyam says:
 
-
-
     'A book of verse beneath the bough
 
     A loaf of bread, a jug of wine and thou
@@ -1717,8 +1504,6 @@ Khayyam says:
     Sitting beside me in the wilderness
 
     O wilderness were Paradise enow.'
-
-
 
 It is clear that he speaks fully as much ascetically as he does
 
@@ -1730,8 +1515,6 @@ be multiplied a hundred-fold. One of the most genuinely poetical of our
 
 younger poets says, as the one thing certain, that
 
-
-
     'From quiet home and first beginning
 
       Out to the undiscovered ends--
@@ -1740,13 +1523,9 @@ younger poets says, as the one thing certain, that
 
       But laughter and the love of friends.'
 
-
-
 Here we have a perfect example of the main important fact, that all true
 
 joy expresses itself in terms of asceticism.
-
-
 
 But if in any case it should happen that a class or a generation lose
 
@@ -1802,8 +1581,6 @@ feel the love of religious offices. We see only the price in the one
 
 case and only the purchase in the other.
 
-
-
 The only question that remains is what was the joy of the old Christian
 
 ascetics of which their ascetism was merely the purchasing price. The
@@ -1850,8 +1627,6 @@ of an eternity of happiness is by its very nature ten thousand times
 
 more optimistic than ten thousand pagan saturnalias.
 
-
-
 Mr Adderley's life of Francis of Assisi does not, of course, bring this
 
 out; nor does it fully bring out the character of Francis. It has rather
@@ -1875,8 +1650,6 @@ in biography. The successful examples of it may be found, for instance,
 in the more idealistic odes of Spenser. The design is sometimes almost
 
 indecipherable, for the poet draws in silver upon white.
-
-
 
 It is natural, of course, that Mr Adderley should see Francis primarily
 
@@ -1922,8 +1695,6 @@ as the phrase goes. Quite as often, however, they discovered that he had
 
 nobility.
 
-
-
 Conceiving of St Francis as primarily the founder of the Franciscan
 
 Order, Mr Adderley opens his narrative with an admirable sketch of the
@@ -1941,8 +1712,6 @@ he does not throw any light on what must be for the outsider the
 absorbing problem of this Catholic asceticism, for the excellent reason
 
 that not being an outsider he does not find it a problem at all.
-
-
 
 To most people, however, there is a fascinating inconsistency in the
 
@@ -1996,8 +1765,6 @@ young. It was the monks who were the spendthrifts of happiness, and we
 
 who are its misers.
 
-
-
 Doubtless, as is apparent from Mr Adderley's book, the clear and
 
 tranquil life of the Three Vows had a fine and delicate effect on the
@@ -2021,8 +1788,6 @@ the weakness of Burns' verses to animals, the occasional morbidity,
 bombast and moralisation on himself, the credit is surely due to a
 
 cleaner and more transparent life.
-
-
 
 The general attitude of St Francis, like that of his Master, embodied a
 
@@ -2052,19 +1817,7 @@ madness of an astronomer can conceive, he would have only beheld in it
 
 the features of a new friend.
 
-
-
-
-
-
-
-
-
 ROSTAND
-
-
-
-
 
 When 'Cyrano de Bergerac' was published, it bore the subordinate title
 
@@ -2155,8 +1908,6 @@ a grinning mask. It is a refuge from the world, and not even, properly
 speaking, a part of it. Their wit is a thin sheet of shining ice over
 
 the eternal waters of bitterness.
-
-
 
 'Cyrano de Bergerac' came to us as the new decoration of an old truth,
 
@@ -2358,19 +2109,7 @@ answered in a thousand philosophies and religions with a single voice
 
 and in a sense most sacred and tremendous, 'Vive l'Empereur.'
 
-
-
-
-
-
-
-
-
 CHARLES II
-
-
-
-
 
 There are a great many bonds which still connect us with Charles II.,
 
@@ -2402,8 +2141,6 @@ But he has quite equally profound doubts as to whether the tree he is
 
 looking at is a tree and not a rhinoceros.
 
-
-
 This is the real meaning of that mystery which appears so prominently in
 
 the lives of great sceptics, which appears with especial prominence in
@@ -2421,8 +2158,6 @@ of judgment. For it is the assertion of a universal negative; for a man
 to say that there is no God in the universe is like saying that there
 
 are no insects in any of the stars.
-
-
 
 Thus it was with that wholesome and systematic sceptic, Charles II. When
 
@@ -2454,8 +2189,6 @@ sanctity, with the cross uplifted and the prayers poured out, was
 
 consummated the last great act of logical unbelief.
 
-
-
 The problem of Charles II. consists in this, that he has scarcely a
 
 moral virtue to his name, and yet he attracts us morally. We feel that
@@ -2469,8 +2202,6 @@ these wild and unmentionable virtues. The real truth of this matter and
 the real relation of Charles II. to the moral ideal is worth somewhat
 
 more exhaustive study.
-
-
 
 It is a commonplace that the Restoration movement can only be understood
 
@@ -2524,8 +2255,6 @@ madness can be homely. The Puritans fell, not because they were
 
 fanatics, but because they were rationalists.
 
-
-
 When we consider these things, when we remember that Puritanism, which
 
 means in our day a moral and almost temperamental attitude, meant in
@@ -2575,8 +2304,6 @@ George IV. he was a gentleman, and a gentleman is a man who obeys
 strange statutes, not to be found in any moral text-book, and practises
 
 strange virtues nameless from the beginning of the world.
-
-
 
 So much may be said and should be said for the Restoration, that it was
 
@@ -2628,8 +2355,6 @@ of lawn tennis. It would have appeared to Charles II.'s poets quite as
 
 arduous to write 'Paradise Lost' as to regain Paradise.
 
-
-
 All old and vigorous languages abound in images and metaphors, which,
 
 though lightly and casually used, are in truth poems in themselves, and
@@ -2654,8 +2379,6 @@ to those lower epicureans who kill time, as opposed to those higher
 
 epicureans who make time live.
 
-
-
 Of a people in this temper Charles II. was the natural and rightful
 
 head. He may have been a pantomime King, but he was a King, and with all
@@ -2676,15 +2399,11 @@ it was greatly due to the temper of the nation and the age. Despotism is
 
 the easiest of all governments, at any rate for the governed.
 
-
-
 It is indeed a form of slavery, and it is the despot who is the slave.
 
 Men in a state of decadence employ professionals to fight for them,
 
 professionals to dance for them, and a professional to rule them.
-
-
 
 Almost all the faces in the portraits of that time look, as it were,
 
@@ -2696,19 +2415,7 @@ problems, we can afford to rejoice. Our tears are less desolate than
 
 their laughter, our restraints are larger than their liberty.
 
-
-
-
-
-
-
-
-
 STEVENSON[A]
-
-
-
-
 
 A recent incident has finally convinced us that Stevenson was, as we
 
@@ -2746,8 +2453,6 @@ the principles of art and ethics which would have struck us as the very
 
 things that Stevenson nearly killed himself to express.
 
-
-
 Mr Baildon, for example, is perpetually lecturing Stevenson for his
 
 'pessimism'; surely a strange charge against the man who has done more
@@ -2780,8 +2485,6 @@ is strange that men should see sublime inspiration in the ruins of an
 
 old church and see none in the ruins of a man.
 
-
-
 The author has most extraordinary ideas about Stevenson's tales of blood
 
 and spoil; he appears to think that they prove Stevenson to have had (we
@@ -2809,8 +2512,6 @@ gibbets in his Latin grammar. It was not that he took pleasure in death,
 but that he took pleasure in life, in every muscular and emphatic action
 
 of life, even if it were an action that took the life of another.
-
-
 
 Let us suppose that one gentleman throws a knife at another gentleman
 
@@ -2851,8 +2552,6 @@ his own hand and the table. There is always in his work a certain
 clean-cut angularity which makes us remember that he was fond of cutting
 
 wood with an axe.
-
-
 
 Stevenson's new biographer, however, cannot make any allowance for this
 
@@ -2895,8 +2594,6 @@ man in real life. For ourselves, Prince Florizel is almost our favourite
 character in fiction; but we willingly add the proviso that if we met
 
 him in real life we should kill him.
-
-
 
 The fact is, that the whole mass of Stevenson's spiritual and
 
@@ -2946,8 +2643,6 @@ as that of Dante, as confident as that of Whitman, and as practical as
 
 that of James Watt.
 
-
-
 The conception which unites the whole varied work of Stevenson was that
 
 romance, or the vision of the possibilities of things, was far more
@@ -2990,25 +2685,11 @@ three of his soul's adventures that he happened to tell. But he died
 
 with a thousand stories in his heart.
 
-
-
 [Footnote A: 'Robert Louis Stevenson: A Life Study in Criticism.' By H.
 
 Bellyse Baildon. Chatto & Windus.]
 
-
-
-
-
-
-
-
-
 THOMAS CARLYLE
-
-
-
-
 
 There are two main moral necessities for the work of a great man: the
 
@@ -3017,8 +2698,6 @@ first is that he should believe in the truth of his message; the second
 is that he should believe in the acceptability of his message. It was
 
 the whole tragedy of Carlyle that he had the first and not the second.
-
-
 
 The ordinary capital, however, which is made out of Carlyle's alleged
 
@@ -3074,8 +2753,6 @@ and without condescension. It was this simplicity of confidence, not
 
 only in God, but in the image of God, that was lacking in Carlyle.
 
-
-
 But the attempts to discredit Carlyle's religious sentiment must
 
 absolutely fall to the ground. The profound security of Carlyle's sense
@@ -3120,8 +2797,6 @@ unending ages, insult the face of the sun any more ... and we go on, if
 
 not to better forms of beastliness, at least to fresher ones.'
 
-
-
 The supreme value of Carlyle to English literature was that he was the
 
 founder of modern irrationalism; a movement fully as important as modern
@@ -3141,8 +2816,6 @@ trowel, and argument is the sword. A wide experience of actual
 intellectual affairs will lead most people to the conclusion that logic
 
 is mainly valuable as a weapon wherewith to exterminate logicians.
-
-
 
 But though this may be true enough in practice, it scarcely clears up
 
@@ -3169,8 +2842,6 @@ mean the failure of liver and the absence of digestion. And in the same
 manner we speak of the dangers of logic, when what we really mean is the
 
 danger of fallacy.
-
-
 
 But the real point about the limitation of logic and the partial
 
@@ -3218,11 +2889,7 @@ denies any such duty at the very start, and regards man as an animal
 
 who has preferences, as a bird has feathers.
 
-
-
        *       *       *       *       *
-
-
 
 Thus it was with Carlyle: he startled men by attacking not arguments but
 
@@ -3250,8 +2917,6 @@ according to him depended entirely upon whether we chose or deserved to
 
 be.
 
-
-
 He denied every type and species of prop or association or support which
 
 threw the responsibility upon civilisation or society, or anything but
@@ -3263,8 +2928,6 @@ ground of the truth of this phrase is often neglected. Since the last
 era of purely religious literature, the era of English Puritanism, there
 
 has been no writer in whose eyes the soul stood so much alone.
-
-
 
 Carlyle was, as we have suggested, a mystic, and mysticism was with him,
 
@@ -3412,8 +3075,6 @@ places into which that remarkable animal, 'the whole hog,' more than
 
 once led him.
 
-
-
 In this respect Carlyle has had unquestionably long and an
 
 unquestionably bad influence. The whole of that recent political ethic
@@ -3452,19 +3113,7 @@ can hardly be denied, has Carlyle's intellectual courage brought many at
 
 last.
 
-
-
-
-
-
-
-
-
 TOLSTOY AND THE CULT OF SIMPLICITY
-
-
-
-
 
 The whole world is certainly heading for a great simplicity, not
 
@@ -3499,8 +3148,6 @@ if we gazed long at a design full of disconnected objects, and,
 suddenly, with a stunning thrill, they came together into a huge and
 
 staring face.
-
-
 
 Few people will dispute that all the typical movements of our time are
 
@@ -3566,8 +3213,6 @@ nature by seeing how much he can accept, Tolstoy by seeing how much he
 
 can reject.
 
-
-
 Now, this heroic desire to return to nature is, of course, in some
 
 respects, rather like the heroic desire of a kitten to return to its own
@@ -3610,8 +3255,6 @@ the Hebrew poet. It may be said with all reverence that it is behind a
 
 man's back that the spirit of nature hides.
 
-
-
 It is this consideration that lends a certain air of futility even to
 
 all the inspired simplicities and thunderous veracities of Tolstoy. We
@@ -3630,8 +3273,6 @@ sense. It was born of an almost babyish receptiveness; it was the work
 
 of men who had eyes to wonder and men who had ears to hear.
 
-
-
     'King Solomon brought merchant men
 
       Because of his desire
@@ -3639,8 +3280,6 @@ of men who had eyes to wonder and men who had ears to hear.
     With peacocks, apes and ivory,
 
       From Tarshish unto Tyre.'
-
-
 
 But this proceeding was not a part of the wisdom of Solomon; it was a
 
@@ -3653,8 +3292,6 @@ all his glory.' With fierce and unimpeachable logic he would go a step
 further. He would spend days and nights in the meadows stripping the
 
 shameless crimson coronals off the lilies of the field.
-
-
 
 The new collection of 'Tales from Tolstoy,' translated and edited by Mr
 
@@ -3716,8 +3353,6 @@ has vanished. We know not what to do with this small and noisy moralist
 
 who is inhabiting one corner of a great and good man.
 
-
-
 It is difficult in every case to reconcile Tolstoy the great artist with
 
 Tolstoy the almost venomous reformer. It is difficult to believe that a
@@ -3759,8 +3394,6 @@ kinship with humanity would lie in doing as humanity has always done,
 accepting with a sportsmanlike relish the estate to which we are called,
 
 the star of our happiness, and the fortunes of the land of our birth.
-
-
 
 The work of Tolstoy has another and more special significance. It
 
@@ -3828,8 +3461,6 @@ the bovine stupidity and bovine fury of this world is accurately summed
 
 up in the celebrated verse of Mr Edward Lear:
 
-
-
     'There was an old man who said, "How
 
     Shall I flee from this terrible cow?
@@ -3837,8 +3468,6 @@ up in the celebrated verse of Mr Edward Lear:
     I will sit on a stile and continue to smile,
 
     Till I soften the heart of this cow."'
-
-
 
 Their confidence in human nature is really honourable and magnificent;
 
@@ -3860,8 +3489,6 @@ modern civilisation. It represents a tribute to the Christian religion
 
 more sensational than the breaking of seals or the falling of stars.
 
-
-
 From the point of view of a rationalist, the whole world is rendered
 
 almost irrational by the single phenomenon of Christian Socialism. It
@@ -3873,8 +3500,6 @@ possible that the key of all social evolution may be found in the dusty
 casket of some discredited creed. It cannot be amiss to consider this
 
 phenomenon as it really is.
-
-
 
 The religion of Christ has, like many true things, been disproved an
 
@@ -3966,8 +3591,6 @@ dark sayings handed down through eighteen centuries may, indeed, contain
 
 in themselves the revolutions of which we have only begun to dream.
 
-
-
 This value which we have above suggested, unquestionably belongs to the
 
 Tolstoians, who may roughly be described as the new Quakers. With their
@@ -4000,17 +3623,11 @@ expressed Himself more clearly. Here is an instance of question and
 
 answer:
 
-
-
 Q. 'How did our Master Himself sum up the law in a few words?'
-
-
 
 A. 'Be ye merciful, be ye perfect even as your Father; your Father in
 
 the spirit world is merciful, is perfect.'
-
-
 
 There is nothing in this, perhaps, which Christ might not have said
 
@@ -4084,8 +3701,6 @@ humanity is a logical love, a love into which they are coerced by their
 
 own theories, a love which would be an insult to a tom-cat.
 
-
-
 But the greatest error of all lies in the mere act of cutting up the
 
 teaching of the New Testament into five rules. It precisely and
@@ -4110,19 +3725,7 @@ words that the cross was set up on Calvary, and the earth gaped, and the
 
 sun was darkened at noonday.
 
-
-
-
-
-
-
-
-
 SAVONAROLA
-
-
-
-
 
 Savonarola is a man whom we shall probably never understand until we
 
@@ -4131,8 +3734,6 @@ know what horror may lie at the heart of civilisation. This we shall not
 know until we are civilised. It may be hoped, in one sense, that we may
 
 never understand Savonarola.
-
-
 
 The great deliverers of men have, for the most part, saved them from
 
@@ -4159,8 +3760,6 @@ psychological fact at the back of all our brains, but for which no name
 has ever been found, that ease is the worst enemy of happiness, and
 
 civilisation potentially the end of man.
-
-
 
 For I fancy that Savonarola's thrilling challenge to the luxury of his
 
@@ -4202,8 +3801,6 @@ of what no one but a narrow moralist would call harmless. Ascetics are
 
 sometimes more advanced than the average man, as well as less.
 
-
-
 Such, at least, was the hatred in the heart of Savonarola. He was making
 
 war against no trivial human sins, but against godless and thankless
@@ -4231,8 +3828,6 @@ for anything else. To let no bird fly past unnoticed, to spell patiently
 the stones and weeds, to have the mind a storehouse of sunset, requires
 
 a discipline in pleasure, and an education in gratitude.
-
-
 
 The civilisation which surrounded Savonarola on every side was a
 
@@ -4271,8 +3866,6 @@ Christianity, in Savonarola's mind, identical with democracy, is the
 hardest of gospels; there is nothing that so strikes men with fear as
 
 the saying that they are all the sons of God.
-
-
 
 Savonarola and his republic fell. The drug of despotism was administered
 
@@ -4350,8 +3943,6 @@ into madness and the chamber of civilisation is no longer merely a
 
 cushioned apartment, but a padded cell.
 
-
-
 This last and worst of human miseries Savonarola saw afar off, and bent
 
 his whole gigantic energies to turning the chariot into another course.
@@ -4370,8 +3961,6 @@ danger, and who bend themselves to the same silent resistance. They also
 
 are supposed to be contending for some trivial political scruple.
 
-
-
 Mr M'Hardy says, in defending Savonarola, that the number of fine works
 
 of art destroyed in the Burning of the Vanities has been much
@@ -4388,19 +3977,7 @@ burnt them to ashes, if only he had been certain that the glow
 
 transfiguring the sky was the dawn of a younger and wiser world.
 
-
-
-
-
-
-
-
-
 THE POSITION OF SIR WALTER SCOTT
-
-
-
-
 
 Walter Scott is a writer who should just now be re-emerging into his own
 
@@ -4423,8 +4000,6 @@ case, we have learnt in our day to arrange our literary effects
 carefully, and the only point in which we fall short of Scott is in the
 
 incidental misfortune that we have nothing particular to arrange.
-
-
 
 It is said that Scott is neglected by modern readers; if so, the matter
 
@@ -4480,8 +4055,6 @@ of hearts, probably would have liked to write an endless story without
 
 either beginning or close.
 
-
-
 Walter Scott is a great, and, therefore, mysterious man. He will never
 
 be understood until Romance is understood, and that will be only when
@@ -4527,8 +4100,6 @@ it does not perceive the deepest of sins--the sin of vanity--vanity
 which is the mother of all day-dreams and adventures, the one sin that
 
 is not shared with any boon companion, or whispered to any priest.
-
-
 
 In estimating, therefore, the ground of Scott's pre-eminence in romance
 
@@ -4594,8 +4165,6 @@ these scenes, except that the wind bloweth where it listeth, and that
 
 here the wind blows strong.
 
-
-
 It is in this quality of what may be called spiritual adventurousness
 
 that Scott stands at so different an elevation to the whole of the
@@ -4652,8 +4221,6 @@ adventure is concerned with a man who lived for years on a desert
 
 island with two guns and a sword, which he never had to use on an enemy.
 
-
-
 Closely connected with this is one of the charges most commonly brought
 
 against Scott, particularly in his own day--the charge of a fanciful and
@@ -4704,8 +4271,6 @@ menial in a procession, but it was something important and immeasurably
 
 fascinating--it was a two-handed sword.
 
-
-
 There is one quality which is supreme and continuous in Scott which is
 
 little appreciated at present. One of the values we have really lost in
@@ -4739,8 +4304,6 @@ for despising any of his characters. He did not scorn the most revolting
 miscreant as the realist of to-day commonly scorns his own hero. Though
 
 his soul may be in rags, every man of Scott can speak like a king.
-
-
 
 This quality, as I have said, is sadly to seek in the fiction of the
 
@@ -4798,8 +4361,6 @@ does not couch on the hearthstane of Ellangowan. Ride your ways, Godfrey
 
 Bertram.'
 
-
-
 The reason is, of course, that these men are afraid of bombast and Scott
 
 was not. A man will not reach eloquence if he is afraid of bombast, just
@@ -4842,8 +4403,6 @@ and the face of friends, that and that alone will almost certainly
 
 remain our vital philosophy to our dying day.
 
-
-
 Scott's bombast, therefore, will always be stirring to anyone who
 
 approaches it, as he should approach all literature, as a little child.
@@ -4877,8 +4436,6 @@ children or a brass band. They are afraid of making fools of themselves,
 and are unaware that that transformation has already been triumphantly
 
 effected.
-
-
 
 Scott is separated, then, from much of the later conception of fiction
 
@@ -4915,8 +4472,6 @@ never anything in the world that was really artificial. It had some
 motive or ideal behind it, and generally a much better one than we
 
 think.
-
-
 
 Of the faults of Scott as an artist it is not very necessary to speak,
 
@@ -4964,29 +4519,9 @@ strange old world which is as confused and as indefensible and as
 
 inspiring and as healthy as he.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Twelve Types, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK TWELVE TYPES ***
-
-
 
 ***** This file should be named 12491.txt or 12491.zip *****
 
@@ -4994,21 +4529,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/2/4/9/12491/
 
-
-
 Produced by Robert Shimmin, Stephen Hope and the Online Distributed
 
 Proofreading Team.
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -5042,21 +4569,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -5070,15 +4587,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -5100,8 +4611,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -5119,8 +4628,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -5152,8 +4659,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -5172,11 +4677,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -5190,8 +4691,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -5199,8 +4698,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -5222,8 +4719,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -5236,15 +4731,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -5255,8 +4746,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -5280,23 +4769,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -5322,8 +4805,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -5338,8 +4819,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -5348,13 +4827,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -5368,11 +4843,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -5393,8 +4864,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -5422,8 +4891,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -5448,8 +4915,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -5457,8 +4922,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -5473,8 +4936,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -5496,13 +4957,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -5513,8 +4968,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -5534,15 +4987,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -5560,8 +5007,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -5576,8 +5021,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -5586,13 +5029,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -5607,8 +5046,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -5626,8 +5063,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -5636,15 +5071,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -5654,15 +5085,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -5672,8 +5097,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -5682,15 +5105,11 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Each eBook is in a subdirectory of the same number as the eBook's
 
 eBook number, often in several formats including plain vanilla ASCII,
 
 compressed (zipped), HTML and others.
-
-
 
 Corrected EDITIONS of our eBooks replace the old file and take over
 
@@ -5700,15 +5119,9 @@ VERSIONS based on separate sources are treated as new eBooks receiving
 
 new filenames and etext numbers.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -5717,8 +5130,6 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
 
 EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
 
@@ -5730,17 +5141,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-
-
      http://www.gutenberg.net/etext06
-
-
 
     (Or /etext 05, 04, 03, 02, 01, 00, 99,
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
-
-
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -5754,26 +5159,12 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-
-
      http://www.gutenberg.net/1/0/2/3/10234
-
-
 
 or filename 24689 would be found at:
 
      http://www.gutenberg.net/2/4/6/8/24689
 
-
-
 An alternative method of locating eBooks:
 
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-
-
-
-===== FINE FILE: Twelve_Types.txt =====

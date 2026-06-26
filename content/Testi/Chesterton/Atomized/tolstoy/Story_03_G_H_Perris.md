@@ -16,7 +16,6 @@ tags:
 
 G. H. PERRIS.
 
-
 Tolstoy's Place in European Literature
 
 The justness of the word _great_ applied to a nation's writers is perhaps
@@ -203,6 +202,3 @@ In this sense Tolstoy will stand in European literature as the conscience
 of the modern world.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: tolstoy.txt =====

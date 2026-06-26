@@ -3652,6 +3652,3 @@ like a multitude of moving candles, that were the light of the world.
 ~||~
 
 THE END
-
-
-===== FINE FILE: Irish_Impressions.txt =====

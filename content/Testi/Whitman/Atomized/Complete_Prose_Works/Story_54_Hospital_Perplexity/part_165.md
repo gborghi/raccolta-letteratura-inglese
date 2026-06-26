@@ -32,7 +32,6 @@ too great a body to be slighted. They have stood by the government, and
 help'd us their very best. I have had no better friends; and as the case
 stands, I have decided to appoint Mr. Harlan."
 
-
 NOTE TO A FRIEND
 
 [_Written on the fly-leaf of a copy of_ Specimen Days, _sent to Peter
@@ -54,7 +53,6 @@ never will.
 
 W.W.
 
-
 WRITTEN IMPROMPTU IN AN ALBUM
 
 _Germantown, Phila., Dec. 26, '83_. In memory of these merry Christmas
@@ -64,7 +62,6 @@ and keeping us in. But souls, hearts, thoughts, unloos'd. And so--one
 and all, little and big--hav'n't we had a good time?
 
 W.W.
-
 
 THE PLACE GRATITUDE FILLS IN A FINE CHARACTER
 
@@ -96,13 +93,9 @@ would quite lack vitality without it. There are people--shall I call
 them even religious people, as things go?--who have no such trend to
 their disposition."
 
-
-
-
 LAST OF THE WAR CASES
 
 _Memorandized at the time, Washington, 1865-'66_
-
 
 [Of reminiscences of the secession war, after the rest is said, I have
 thought it remains to give a few special words--in some respects at the

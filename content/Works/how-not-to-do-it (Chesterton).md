@@ -32,7 +32,6 @@ How Not To Do It
 G.K.'s Weekly
 16th May, 1935
 
-
 G.K.C.
 
 There are two recognised ways of arguing with a Communist; and they
@@ -100,7 +99,3 @@ here and might take some time to expound it to the Communist.
 But the Communist would listen at least longer than he would
 to a man merely boasting of self-righteousness or a man merely
 boasting of avarice.
-
-
-
-===== FINE FILE: how-not-to-do-it.txt =====

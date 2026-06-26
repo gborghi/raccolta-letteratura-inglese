@@ -102,7 +102,3 @@ for one generation.
 
 --From GK's Weekly, July 26, 1930
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: sexlessness.txt =====

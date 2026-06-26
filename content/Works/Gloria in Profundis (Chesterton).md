@@ -39,7 +39,6 @@ tags:
 
 GLORIA IN PROFUNDIS  
 
-
 There has fallen on earth for a token  
 A god too great for the sky.  
 He has burst out of all things and broken  
@@ -76,7 +75,4 @@ Pursuing, we hunt and hound it,
 The fallen star has found it  
 In the cavern of Bethlehem.  
 
-                        Gilbert Keith Chesterton  
-
-
-===== FINE FILE: Gloria_in_Profundis.txt =====  
+                        Gilbert Keith Chesterton

@@ -39,7 +39,6 @@ Originally published in The Illustrated London News, 8th August 1925.
 The Illustrated London News 1923-1925,
 Ignatius Press, San Francisco, 1990. Pages 602-606.)
 
-
 My remarks last week about the Dayton controversy were written
 just before, though they were published just after, the sensational
 news of the sad death of Mr. Bryan.  I should like to state this fact,
@@ -188,6 +187,3 @@ of secular education, they say what is exceedingly probable--
 and, if they say it is intolerable, they tell the truth.
 
 === end ==
-
-
-===== FINE FILE: Compulsory_Education.txt =====

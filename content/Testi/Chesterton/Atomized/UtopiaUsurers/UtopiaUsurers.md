@@ -17,8 +17,6 @@ The Project Gutenberg EBook of Utopia of Usurers and other Essays, by
 
 Gilbert Keith Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -27,77 +25,29 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: Utopia of Usurers and other Essays
 
-
-
 Author: Gilbert Keith Chesterton
-
-
 
 Release Date: April, 2000 [EBook #2134]
 
 Last Updated: July 26, 2012
 
-
-
 Language: English
-
-
 
 Character set encoding: ASCII
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK UTOPIA OF USURERS AND OTHER ESSAYS ***
-
-
-
-
-
-
-
-
 
 Produced by Mike Pullen
 
-
-
-
-
-
-
-
-
-
-
-
-
 UTOPIA OF USURERS AND OTHER ESSAYS
-
-
 
 By Gilbert Keith Chesterton
 
-
-
-
-
-
-
-
-
 CONTENTS
 
-
-
      A Song of Swords
-
-
 
      Utopia of Usurers
 
@@ -118,10 +68,6 @@ CONTENTS
       VIII. The Lash for Labour
 
       IX. The Mask of Socialism
-
-
-
-
 
      The Escape
 
@@ -159,25 +105,11 @@ CONTENTS
 
      The Poetry of the Revolution
 
-
-
-
-
-
-
-
-
-
-
 A SONG OF SWORDS
-
-
 
   "A drove of cattle came into a village called Swords;
 
   and was stopped by the rioters."--Daily Paper.
-
-
 
   In the place called Swords on the Irish road
 
@@ -191,8 +123,6 @@ A SONG OF SWORDS
 
   Is crowned in Dublin town.
 
-
-
   Light in the East and light in the West,
 
   And light on the cruel lords,
@@ -204,8 +134,6 @@ A SONG OF SWORDS
   And many a wheel of the world stopped, too,
 
   When the cattle were stopped at Swords.
-
-
 
   Be they sinners or less than saints
 
@@ -219,8 +147,6 @@ A SONG OF SWORDS
 
   This is your lawful wage.
 
-
-
   You pinched a child to a torture price
 
   That you dared not name in words;
@@ -232,8 +158,6 @@ A SONG OF SWORDS
   And the coward was plain as a cow they hit
 
   When the cattle have strayed at Swords.
-
-
 
   The wheel of the torrent of wives went round
 
@@ -247,8 +171,6 @@ A SONG OF SWORDS
 
   And you saw that it was good.
 
-
-
   The rope of the rich is long and long--
 
   The longest of hangmen's cords;
@@ -260,8 +182,6 @@ A SONG OF SWORDS
   Where God stands holding the scales of Death
 
   Between the cattle and Swords.
-
-
 
   Haply the lords that hire and lend
 
@@ -275,23 +195,9 @@ A SONG OF SWORDS
 
   Faces of men--and Swords.
 
-
-
-
-
-
-
-
-
 UTOPIA OF USURERS
 
-
-
-
-
 I. Art and Advertisement
-
-
 
 I propose, subject to the patience of the reader, to devote two or
 
@@ -339,13 +245,7 @@ for an equally destructive social policy; and destroy, while it is still
 
 half-constructed, the accursed thing which they construct.
 
-
-
-
-
 The Example of the Arts
-
-
 
 Now I propose to take, one after another, certain aspects and
 
@@ -362,8 +262,6 @@ human interests and institutions, such as art, science, jurisprudence,
 or religion--unless we strike soon enough to prevent them. And for the
 
 sake of argument I will take in this article the example of the arts.
-
-
 
 Most people have seen a picture called "Bubbles," which is used for the
 
@@ -427,13 +325,7 @@ just as there is no such thing as a white man. A fairly clear line
 
 separated advertisement from art.
 
-
-
-
-
 The First Effect
-
-
 
 I should say the first effect of the triumph of the capitalist (if
 
@@ -497,13 +389,7 @@ that may correctly be called soap; and the enterprises of a kind that
 
 may truly be described as Bubbles.
 
-
-
-
-
 II. Letters and the New Laureates
-
-
 
 In these articles I only take two or three examples of the first and
 
@@ -522,8 +408,6 @@ I really think it would be Pears who condescended to Millais. But here
 I turn to an art I know more about, that of journalism. Only in my ease
 
 the art verges on artlessness.
-
-
 
 The great difficulty with the English lies in the absence of something
 
@@ -571,13 +455,7 @@ some of the carelessness of the colossus of Arcis; "Que mon nom soit
 
 fletri, que la France soit libre."
 
-
-
-
-
 A Dance of Degradation
-
-
 
 It is needless to say that this respecting of persons has led all the
 
@@ -600,8 +478,6 @@ And the form it takes is the next example I shall give of the way in
 which the capitalists are now appearing, more and more openly, as the
 
 masters and princes of the community.
-
-
 
 I will take a Victorian instance to mark the change; as I did in the
 
@@ -661,13 +537,7 @@ instead, the shock to Victorian England would have been very great
 
 indeed.
 
-
-
-
-
 Haloes for Employers
-
-
 
 Now something very like that is happening; the mere wealthy employer is
 
@@ -719,8 +589,6 @@ Harrod; or compare the simple stoicism of Marshall with the saintly
 
 charm of Snelgrove.
 
-
-
 Any man can be praised--and rightly praised. If he only stands on two
 
 legs he does something a cow cannot do. If a rich man can manage to
@@ -745,13 +613,7 @@ becoming court poets, under kings that have taken no oath, nor led us
 
 into any battle.
 
-
-
-
-
 III. Unbusinesslike Business
-
-
 
 The fairy tales we were all taught did not, like the history we were all
 
@@ -795,8 +657,6 @@ princesses under the shapes of falcons or stags. He has truly turned men
 
 into sheep, as Circe turned them into swine.
 
-
-
 Now, the chief of the fairy tales, by which he gains this glory and
 
 glamour, is a certain hazy association he has managed to create between
@@ -834,8 +694,6 @@ But complexity is no guarantee of accuracy--in clockwork or in anything
 else. A clock can be as wrong as the human head; and a clock can stop,
 
 as suddenly as the human heart.
-
-
 
 But this strange poetry of plutocracy prevails over people against their
 
@@ -887,8 +745,6 @@ to know how big the business is: and what an enormous number of people
 
 were needed to make such a mistake.
 
-
-
 That is the romance that has been told about the big shops; in the
 
 literature and art which they have bought, and which (as I said in
@@ -900,8 +756,6 @@ ordinary advertisements. The literature is commercial; and it is
 only fair to say that the commerce is often really literary. It is no
 
 romance, but only rubbish.
-
-
 
 The big commercial concerns of to-day are quite exceptionally
 
@@ -925,8 +779,6 @@ have already said. I say here that in the only sense that can be called
 
 human, it will ruin trade, too.
 
-
-
 I will not let Christmas go by, even when writing for a revolutionary
 
 paper necessarily appealing to many with none of my religious
@@ -939,13 +791,7 @@ broken. I think that is exactly all that business men have now the sense
 
 to do.
 
-
-
-
-
 IV. The War on Holidays
-
-
 
 The general proposition, not always easy to define exhaustively, that
 
@@ -975,8 +821,6 @@ unless he is a lunatic he will for certain periods let sleeping dogs
 
 lie.
 
-
-
 But humane and reasonable hours for labour have nothing whatever to do
 
 with the idea of holidays. It is not even a question of ten hours day
@@ -1005,13 +849,7 @@ and brain. His sacks are still filling silently when the doors are shut
 
 on the streets and the sound of the grinding is low.
 
-
-
-
-
 The Great Holiday
-
-
 
 Now a holiday has no connection with using a man either by beating or
 
@@ -1032,10 +870,6 @@ of the man. If people ever looked at the printed word under their eye,
 the word "recreation" would be like the word "resurrection," the blast
 
 of a trumpet.
-
-
-
-
 
 A man, being merely useful, is necessarily incomplete, especially if
 
@@ -1083,13 +917,7 @@ worse: stained with the cobwebs and dust of this dustbin of all the
 
 centuries.
 
-
-
-
-
 The Supreme Adventure
-
-
 
 All the words dedicated to places of eating and drinking are pure
 
@@ -1113,8 +941,6 @@ was braver than you. If you are kind, think of the man who was kinder
 
 than you.
 
-
-
 That is what was meant by having a patron saint. That is the link
 
 between the poor saint who received bodily lepers and the great hotel
@@ -1130,8 +956,6 @@ statue to "restore"; that ineffaceable image of man that some call the
 image of God. And that is the holiday; it is the restaurant or restoring
 
 thing that, by a blast of magic, turns a man into himself.
-
-
 
 This complete and reconstructed man is the nightmare of the modern
 
@@ -1151,8 +975,6 @@ will give time to eat, time to sleep; they are in terror of a time to
 
 think.
 
-
-
 To anyone who knows any history it is wholly needless to say that
 
 holidays have been destroyed. As Mr. Belloc, who knows much more
@@ -1169,21 +991,13 @@ or factories might ask their employers for twelve days' holidays after
 
 Christmas. And they might let me know the reply.
 
-
-
-
-
 V. THE CHURCH OF THE SERVILE STATE
-
-
 
 I confess I cannot see why mere blasphemy by itself should be an excuse
 
 for tyranny and treason; or how the mere isolated fact of a man not
 
 believing in God should be a reason for my believing in Him.
-
-
 
 But the rather spinsterish flutter among some of the old Freethinkers
 
@@ -1257,8 +1071,6 @@ men, especially comfortable men, cannot endure. They fight; and they
 
 fight fair.
 
-
-
 Every religion, apart from open devil worship, must appeal to a virtue
 
 or the pretence of a virtue. But a virtue, generally speaking, does some
@@ -1280,8 +1092,6 @@ there are other pleasures of the poor which cannot mean profits for the
 rich? Watch this one contrast, and you will watch the whole creation of
 
 a careful slavery.
-
-
 
 In the last resort the two things called Beer and Soap end only in a
 
@@ -1305,15 +1115,7 @@ insisted on Soap. You will find it in the New Testament attributed to
 
 the Pharisees.
 
-
-
-
-
-
-
 VI. SCIENCE AND THE EUGENISTS
-
-
 
 The key fact in the new development of plutocracy is that it will use
 
@@ -1332,8 +1134,6 @@ visible means of subsistence. And the most monstrous feature in this
 enormous meanness may be noted in the plutocratic appeal to science, or,
 
 rather, to the pseudo-science that they call Eugenics.
-
-
 
 The Eugenists get the ear of the humane but rather hazy cliques by
 
@@ -1389,8 +1189,6 @@ his mind a new and curious idea--one of the most strange, simple, and
 
 horrible ideas that have ever risen from the deep pit of original sin.
 
-
-
 The roof could not be mended, or, at least, it could not be mended much,
 
 without upsetting the capitalist balance, or, rather, disproportion in
@@ -1430,8 +1228,6 @@ mills, they would use this natural force as something even cheaper; and
 turn their wheels by diverting from its channel the blood of a man in
 
 his youth. That is what Eugenics means; and that is all that it means.
-
-
 
 Of the moral state of those who think of such things it does not become
 
@@ -1477,15 +1273,7 @@ we should need a perfectly Wise Man to do the thing at all. And if he
 
 were a Wise Man he would not do it.
 
-
-
-
-
-
-
 VII. THE EVOLUTION OF THE PRISON
-
-
 
 I have never understood why it is that those who talk most about
 
@@ -1527,8 +1315,6 @@ things. What happens when everyone is asleep is called Evolution. What
 
 happens when everyone is awake is called Revolution.
 
-
-
 There was once an honest man, whose name I never knew, but whose face
 
 I can almost see (it is framed in Victorian whiskers and fixed in a
@@ -1555,13 +1341,7 @@ You may call it evolution, if you happen to like maggots. In either
 
 case, it is what happens to things if you leave them alone.
 
-
-
-
-
 The Evolutionists' Error
-
-
 
 Now, the modern Evolutionists have made no real use of the idea of
 
@@ -1587,8 +1367,6 @@ grown triumphant; primroses bigger than sunflowers, and sparrows
 
 stalking about like flamingoes.
 
-
-
 In other words, we must ask what modern institution has a future before
 
 it? What modern institution may have swollen to six times its present
@@ -1611,13 +1389,7 @@ But the one flowering tree on the estate, the one natural expansion
 
 which I think will expand, is the institution we call the Prison.
 
-
-
-
-
 Prisons for All
-
-
 
 If the capitalists are allowed to erect their constructive capitalist
 
@@ -1663,8 +1435,6 @@ smoke in prison, on condition, of course, that he had been put in prison
 
 for smoking.
 
-
-
 Now that is the process which, in the absence of democratic protest,
 
 will certainly proceed, will increase and multiply and replenish the
@@ -1685,8 +1455,6 @@ rather for that rather simple reason that makes a cat spring or a rat
 
 run away.
 
-
-
 It matters little whether our masters stoop to state the matter in the
 
 form that every prison should be a school; or in the more candid form
@@ -1701,15 +1469,7 @@ prophesy that (unless our revolt succeeds) nearly everyone will be going
 
 to Prison, with a precisely similar patience.
 
-
-
-
-
-
-
 VIII. THE LASH FOR LABOUR
-
-
 
 If I were to prophesy that two hundred years hence a grocer would have
 
@@ -1755,13 +1515,7 @@ arbitration courts, and so on, then, I say, quite seriously, "I think it
 
 will be labour under the lash."
 
-
-
-
-
 The Sultan and the Sack
-
-
 
 Let us arrange in some order a number of converging considerations that
 
@@ -1849,8 +1603,6 @@ ground for believing that the process will go beyond fines before it is
 
 completed.
 
-
-
 (2) The fine is based on the old European idea that everybody possesses
 
 private property in some reasonable degree; but not only is this not
@@ -1915,13 +1667,7 @@ has not got. You cannot imprison a slave, because you cannot enslave a
 
 slave.
 
-
-
-
-
 The Barbarous Revival
-
-
 
 (3) Most people, on hearing the suggestion that it may come to corporal
 
@@ -1973,8 +1719,6 @@ could have counted on a mass of honest hatred of such things. We cannot
 
 count on it now.
 
-
-
 (4) But lastly, it is not necessary that in the factories of the future
 
 the institution of physical punishment should actually remind people of
@@ -1995,13 +1739,7 @@ their victim as exhausted as one who had come off the rack. I think it
 
 extremely likely that they will be.
 
-
-
-
-
 IX. THE MASK OF SOCIALISM
-
-
 
 The chief aim of all honest Socialists just now is to prevent the coming
 
@@ -2016,8 +1754,6 @@ sham Socialism that the modern politicians may quite possibly agree to
 set up; if they do succeed in setting it up, the battle for the poor is
 
 lost.
-
-
 
 We must note, first of all, a general truth about the curious time we
 
@@ -2151,8 +1887,6 @@ Investigation Department," and the "State of Cuban Tobacco Trade:
 
 Imperial Inspector's Report."
 
-
-
 Such is the society I think they will build unless we can knock it down
 
 as fast as they build it. Everything in it, tolerable or intolerable,
@@ -2173,17 +1907,7 @@ enough to crush all the critics of usurers: the truth of it will be
 
 Slavery: and the title of it may quite possibly be Socialism.
 
-
-
-
-
-
-
-
-
 THE ESCAPE
-
-
 
      We watched you building, stone by stone,
 
@@ -2201,10 +1925,6 @@ THE ESCAPE
 
      And all is ready now but we.
 
-
-
-
-
      But you have not caught us yet, my lords,
 
      You have us still to get.
@@ -2218,10 +1938,6 @@ THE ESCAPE
      Its baggage is--an empty cot;
 
      But you have not caught us yet.
-
-
-
-
 
      A little; and we might have slipped
 
@@ -2239,10 +1955,6 @@ THE ESCAPE
 
      You are but Masters.  We are Men.
 
-
-
-
-
      We give you all good thanks, my lords,
 
      We buy at easy price;
@@ -2256,10 +1968,6 @@ THE ESCAPE
      That hath delivered our flesh and soul
 
      Out of your Paradise.
-
-
-
-
 
      We had held safe your parks; but when
 
@@ -2277,10 +1985,6 @@ THE ESCAPE
 
      What Rats now own the granary.
 
-
-
-
-
      It is too late, too late, my lords,
 
      We give you back your grace:
@@ -2295,19 +1999,7 @@ THE ESCAPE
 
      Than a smile upon your face.
 
-
-
-
-
-
-
-
-
-
-
 THE NEW RAID
-
-
 
 The two kinds of social reform, one of which might conceivably free
 
@@ -2367,8 +2059,6 @@ food. In short, she has the holy satisfaction of being worth more
 
 without being paid more.
 
-
-
 This Capitalist is an ingenious person, and has many polished
 
 characteristics; but I think the most singular thing about him is his
@@ -2412,8 +2102,6 @@ quite common among cabmen. He finds this social reform by half-rations
 on the whole to his mercantile profit, and it will be hard to get him to
 
 think of anything else.
-
-
 
 But there are people assisting him, people like the Duchess of
 
@@ -2471,17 +2159,7 @@ eleven a.m. is not early in the day for a woman who gets up before six.
 
 (6) The bodies and minds of these women belong to God and to themselves.
 
-
-
-
-
-
-
-
-
 THE NEW NAME
-
-
 
 Something has come into our community, which is strong enough to save
 
@@ -2506,8 +2184,6 @@ minute by the clock, by brutes who refuse them bread, by liars who
 refuse them news, and by fools who cannot govern, and therefore wish to
 
 enslave.
-
-
 
 Let me explain first why I am not satisfied with the word commonly used,
 
@@ -2557,13 +2233,7 @@ Rockefeller "I am a rebel." I should say "I am a respectable man: and
 
 you are not."
 
-
-
-
-
 Our Lawless Enemies
-
-
 
 But the vital point is that the confession of mere rebellion softens
 
@@ -2609,8 +2279,6 @@ misers who rule us will put us in a mad-house--unless we can put them
 
 there.
 
-
-
 Or suppose a bank cashier were admittedly allowed to take the money out
 
 of the till, and put it loose in his pocket, more or less mixed up with
@@ -2655,8 +2323,6 @@ shouting, "Communism! Communism! Share! Share!" after a man who had run
 
 away with your watch.
 
-
-
 We want a term that will tell everybody that there is, by the common
 
 standard, frank fraud and cruelty pushed to their fierce extreme; and
@@ -2677,13 +2343,7 @@ distinguish us from our more powerful and prosperous opponents, unless
 
 it were the name the old Jacobites gave themselves; the Honest Party.
 
-
-
-
-
 Captured Our Standards
-
-
 
 I think it is plain that for the purpose of facing these new and
 
@@ -2717,8 +2377,6 @@ sense of the word. And it is useless for us to march under colours which
 
 they can carry as well as we.
 
-
-
 Do you believe in Democracy? The devils also believe and tremble. Do you
 
 believe in Trades Unionism? The Labour Members also believe; and tremble
@@ -2749,17 +2407,7 @@ my prejudices to want it christened. I advertise for godfathers and
 
 godmothers.
 
-
-
-
-
-
-
-
-
 A WORKMAN'S HISTORY OF ENGLAND
-
-
 
 A thing which does not exist and which is very much wanted is "A
 
@@ -2772,8 +2420,6 @@ written by working men or from the working men's standpoint. I wish five
 generations of a fisher's or a miner's family could incarnate themselves
 
 in one man and tell the story.
-
-
 
 It is impossible to ignore altogether any comment coming from so eminent
 
@@ -2800,8 +2446,6 @@ that, so long as we get hold of the right story and not the wrong story,
 it seems to me a matter of secondary importance whether we link it up
 
 with Female Suffrage or not.
-
-
 
 Now the ordinary version of recent English history that most moderately
 
@@ -2837,13 +2481,7 @@ culture of all the classes that count for much in government; and there
 
 is not one word of truth in it from beginning to end.
 
-
-
-
-
 That Great Reform Bill
-
-
 
 Wealth and political power were very much more popularly distributed
 
@@ -2899,8 +2537,6 @@ of all power or wealth, until they find themselves to-day upon the
 
 threshold of slavery. That is The Working Man's History of England.
 
-
-
 Now, as I have said, I care comparatively little what is done with the
 
 mere voting part of the matter, so long as it is not claimed in such
@@ -2955,13 +2591,7 @@ said of old, "Let us fall into the hands of God, for His mercies are
 
 great; but let us not fall into the hands of Man."
 
-
-
-
-
 The Capitalist Is in the Dock
-
-
 
 Now it is this offering of a false economic excuse for the sweater that
 
@@ -3005,17 +2635,7 @@ capitalist is in the dock to-day; and so far as I at least can prevent
 
 him, he shall not get out of it.
 
-
-
-
-
-
-
-
-
 THE FRENCH REVOLUTION AND THE IRISH
-
-
 
 It will be long before the poison of the Party System is worked out
 
@@ -3042,8 +2662,6 @@ And any human familiarity with history will teach a man this first of
 all: that Party practically does not exist in a real revolution. It is a
 
 game for quiet times.
-
-
 
 If you take a boy who has been to one of those big private schools which
 
@@ -3073,13 +2691,7 @@ knows nothing really about England, still less about Ireland or France,
 
 and, least of all, of course, about anything like the French Revolution.
 
-
-
-
-
 Revolution by Snap Division
-
-
 
 Now what general notion does the ordinary English boy, thus taught to
 
@@ -3130,8 +2742,6 @@ Mirabeau, Robespierre, Danton, Marat, and so on. And it is conceded that
 their united frenzy may have been forced on them by the evils of the old
 
 regime.
-
-
 
 That, I think, is the commonest English view of the French Revolution;
 
@@ -3199,13 +2809,7 @@ very sacred truth, to say that when men really understand that they are
 
 brothers they instantly begin to fight.
 
-
-
-
-
 The Revival of Reality
-
-
 
 Now these things are repeating themselves with an enormous reality in
 
@@ -3233,8 +2837,6 @@ party discipline see nothing either past or present. And where there is
 
 nothing there is Satan.
 
-
-
 For a long time past in our politics there has not only been no real
 
 battle, but no real bargain. No two men have bargained as Gladstone and
@@ -3245,17 +2847,7 @@ revolutions men discover that no one man can really agree with another
 
 man until he has disagreed with him.
 
-
-
-
-
-
-
-
-
 LIBERALISM: A SAMPLE
-
-
 
 There is a certain daily paper in England towards which I feel very much
 
@@ -3319,13 +2911,7 @@ this article to considering one case of the astounding baseness to which
 
 Liberal journalism has sunk.
 
-
-
-
-
 Mental Breakdown in Fleet Street
-
-
 
 One of the two or three streaks of light on our horizon can be perceived
 
@@ -3395,8 +2981,6 @@ the whole power of the commonwealth. In other words, the Government will
 
 judge the Government.
 
-
-
 Now this is a perfectly plain piece of brute logic. We need not go into
 
 the other delicious things in the article, as when it says that "in old
@@ -3413,13 +2997,7 @@ What is interesting is the blank and staring fallacy of the attempted
 
 reply.
 
-
-
-
-
 When the Journalist Is Ruined
-
-
 
 A long while ago, before all the Liberals died, a Liberal introduced
 
@@ -3453,8 +3031,6 @@ Common Informer may be paid if he tells the truth. The common journalist
 
 will be ruined if he does.
 
-
-
 Now the quite plain point before the party journalist is this: If
 
 he really means that a corrupt bargain between a Government and a
@@ -3471,17 +3047,7 @@ characteristic qualities of a corrupt Government to denounce its own
 
 corruption. I laugh; and I leave him his choice.
 
-
-
-
-
-
-
-
-
 THE FATIGUE OF FLEET STREET
-
-
 
 Why is the modern party political journalism so bad? It is worse even
 
@@ -3537,13 +3103,7 @@ which his hearers thrilled with terror or thundered with applause. And
 
 then they tell you what it was that he said. Silly asses!
 
-
-
-
-
 Insane Exaggeration
-
-
 
 Here is an example from a leading Liberal paper touching the debates on
 
@@ -3555,8 +3115,6 @@ an example of this ridiculous way of writing, which, by insane
 
 exaggeration, actually makes its hero look smaller than he is.
 
-
-
 This was strange language to use about the "hypocritical sham," and Mr.
 
 Asquith, knowing that the biggest battle of his career was upon him,
@@ -3564,8 +3122,6 @@ Asquith, knowing that the biggest battle of his career was upon him,
 hit back without mercy. "I should like first to know," said he, with a
 
 glance at his supporters, "whether my proposals are accepted?"
-
-
 
 That's all. And I really do not see why poor Mr. Asquith should be
 
@@ -3587,8 +3143,6 @@ Service,' he said firmly, with his face to the congregation, 'will be
 
 held at half-past four this afternoon as usual.'"
 
-
-
 Or, we might have:--"Lord Roberts, recognising that he had now to face
 
 Armageddon, and that if he lost this last battle against overwhelming
@@ -3602,8 +3156,6 @@ horse) a speech which brought their national passions to boiling point,
 and might well have seemed blood-thirsty in quieter times. It ended with
 
 the celebrated declaration that it was a fine day."
-
-
 
 Or we might have the much greater excitement of reading something like
 
@@ -3622,8 +3174,6 @@ agnosticism. This address (which he delivered without any attempt to
 stand on his head) included a fierce and even ferocious declaration that
 
 it is generally easier to see the stars by night than by day."
-
-
 
 Now, I cannot see, on my conscience and reason, that any one of my
 
@@ -3655,13 +3205,7 @@ than to follow the new fashion and select the stupidest reporters you
 
 can find.
 
-
-
-
-
 Their Load of Lies
-
-
 
 Now, why do people in Fleet-street talk such tosh? People in
 
@@ -3674,8 +3218,6 @@ damnably like it. I think it is simply and seriously true that they
 are tired of their job. As the general said in M. Rostand's play, "la
 
 fatigue!"
-
-
 
 I do really believe that this is one of the ways in which God (don't get
 
@@ -3707,17 +3249,7 @@ curious thing about it is that no man has loved it; and no man died for
 
 it.
 
-
-
-
-
-
-
-
-
 THE AMNESTY FOR AGGRESSION
-
-
 
 If there is to rise out of all this red ruin something like a republic
 
@@ -3734,8 +3266,6 @@ returning to the purely practical and realistic point I urged last week:
 the fact that we shall lose everything we might have gained if we lose
 
 the idea that the responsible person is responsible.
-
-
 
 For instance, it is almost specially so with the one or two things in
 
@@ -3771,13 +3301,7 @@ really private schools. Anyhow, the wrong is of the sort that ought to
 
 be resisted, as much in war as in peace.
 
-
-
-
-
 Ought to Be Hammered
-
-
 
 But as long as we speak of it as a cloudy conclusion, come to by an
 
@@ -3808,8 +3332,6 @@ at a ballad of the Rhine. It is certain that we should find they
 are capitalists. It is very probable that we should find they are
 
 foreigners.
-
-
 
 Some days ago the Official Council of the Independent Labour Party, or
 
@@ -3853,13 +3375,7 @@ share the memory as they are to share the spoil. The Powers will divide
 
 responsibility as calmly as they divided Poland.
 
-
-
-
-
 The Whole Loathsome Load
-
-
 
 But I still stubbornly and meekly submit my point: that you cannot
 
@@ -3919,13 +3435,7 @@ In the healthy and highly theological words of Robert Blatchford, drive
 
 it back to the Hell from which it came.
 
-
-
-
-
 Crying Over Spilt Blood
-
-
 
 But whatever you do, do not blame everybody for what was certainly done
 
@@ -3953,17 +3463,7 @@ Party will rise, with a slight cough, and say: "It would be a difficult
 
 task to apportion the blame between the various claims which..."
 
-
-
-
-
-
-
-
-
 REVIVE THE COURT JESTER
-
-
 
 I hope the Government will not think just now about appointing a Poet
 
@@ -4033,21 +3533,13 @@ ship vanishing with all the valiant memories of the English:
 
   And she's fading down the river....
 
-
-
 Well, well, neither you nor I know whether she is fading down the river
 
 or not. It is quite enough for us to know, as King Alfred did, that a
 
 great many pirates have landed on both banks of the Thames.
 
-
-
-
-
 Praise and Prophecy Impossible
-
-
 
 At this moment that is the only kind of patriotic poem that could
 
@@ -4087,13 +3579,7 @@ cannot have a great poet praising kings. We cannot have a great prophet
 
 denouncing kings. So I have to fall back on a third suggestion.
 
-
-
-
-
 The Field for a Fool
-
-
 
 Instead of reviving the Court Poet, why not revive the Court Fool? He is
 
@@ -4129,13 +3615,7 @@ now. But if you say it now you will be fined a hundred pounds at the
 
 least.
 
-
-
-
-
 Carson's Dilemma
-
-
 
 For the things that have been happening lately are not merely things
 
@@ -4207,13 +3687,7 @@ and emeralds and followed by green-clad minstrels of the Clan-na-Gael,
 
 playing "The Wearing of the Green."
 
-
-
-
-
 Belated Chattiness by Wireless
-
-
 
 But all the recent events are like that. They are practical jokes. The
 
@@ -4251,13 +3725,7 @@ into the region of farce; and should be dealt with farcically, not even
 
 ferociously.
 
-
-
-
-
 A Fool Who Shall Be Free
-
-
 
 In the Roman Republic there was a Tribune of the People, whose person
 
@@ -4273,19 +3741,7 @@ best we deserve or can expect is a Fool who shall be free; and who shall
 
 deliver us with laughter.
 
-
-
-
-
-
-
-
-
-
-
 THE ART OF MISSING THE POINT
-
-
 
 Missing the point is a very fine art; and has been carried to something
 
@@ -4343,13 +3799,7 @@ that anybody is talking about in High Wycombe. This is the first and
 
 simplest way of missing the point: deliberately to avoid and ignore it.
 
-
-
-
-
 The Candid Candidate
-
-
 
 It would be an amusing experiment, by the way, to go to the point
 
@@ -4417,13 +3867,7 @@ anybody else; nobody having dreamed of reading an election address any
 
 more than an advertisement of a hair restorer.
 
-
-
-
-
 Tyranny and Head-Dress
-
-
 
 But there is another and more subtle way in which we may miss the point;
 
@@ -4465,8 +3909,6 @@ who wears a horsehair wig is excusable. To be judged by soldiers is
 
 hell; but to be judged by lawyers is paradise.
 
-
-
 Now the point must not be missed in this way. What is wrong with the
 
 tyranny in Africa is not that it is run by soldiers. It would be quite
@@ -4493,17 +3935,7 @@ present system we call them Militants. And there will be none in the
 
 Servile State.
 
-
-
-
-
-
-
-
-
 THE SERVILE STATE AGAIN
-
-
 
 I read the other day, in a quotation from a German newspaper, the highly
 
@@ -4514,8 +3946,6 @@ re-establish its commerce and prosperity, and that, in particular,
 arrangements were already being made for introducing into the new
 
 province the German laws for the protection of workmen.
-
-
 
 I am quite content with that paragraph for the purpose of any
 
@@ -4570,8 +4000,6 @@ Germans, but actually to be protected by Germans, I think he may be
 excused for staring. His first impulse, I imagine, will be to ask,
 
 "Against whom? Are there any worse people to come along?"
-
-
 
 But apart from the hellish irony of this humanitarian idea, the question
 
@@ -4633,8 +4061,6 @@ atmosphere masters bear upon them the signs that they are more than men;
 
 and to insult an officer is death.
 
-
-
 If anyone ask how this extreme and unmistakable subordination of the
 
 employed to the employers is brought about, we all know the answer.
@@ -4666,8 +4092,6 @@ Germany is full of this sort of legislation; and if you asked an
 innocent German, who honestly believed in it, what it was, he would
 
 answer that it was for the protection of workmen.
-
-
 
 And if you asked again "Their protection from what?" you would have
 
@@ -4703,8 +4127,6 @@ What then are such laws designed to protect workmen against? Tigers,
 
 rattlesnakes, hyenas?
 
-
-
 Oh, my young friends; oh, my Christian brethren, they are designed to
 
 protect this poor person from something which to those of established
@@ -4721,23 +4143,11 @@ to protect a man against himself--that is, they are meant to protect a
 
 man against his manhood.
 
-
-
 And if anyone reminds me that there is a Socialist Party in Germany, I
 
 reply that there isn't.
 
-
-
-
-
-
-
-
-
 THE EMPIRE OF THE IGNORANT
-
-
 
 That anarchic future which the more timid Tories professed to fear has
 
@@ -4752,8 +4162,6 @@ it with the smallest petulance or even distaste; these classes are
 often really beneficent in their breeding or their hospitality, or their
 
 humanity to animals.
-
-
 
 There is still no better company than the young at the two Universities,
 
@@ -4773,13 +4181,7 @@ fashionable wedding, we shall be safe in saying that they are, for the
 
 most part, the most ill-taught, or untaught, creatures in these islands.
 
-
-
-
-
 Literally Illiterate
-
-
 
 It is indeed their feeble boast that they are not literally illiterate.
 
@@ -4803,8 +4205,6 @@ of the mighty I can only say, with something of despair, what Robert
 
 Lowe said of the enfranchised workmen: "We must educate our masters."
 
-
-
 I do not mean this as paradoxical, or even as symbolical; it is simply
 
 tame and true. The modern English rich know nothing about things, not
@@ -4827,13 +4227,7 @@ of these revolted, they were concerned with things they knew, pains,
 
 practical impossibilities, or the personal record.
 
-
-
-
-
 But They Know
-
-
 
 The apprentice cried "Clubs?" and cracked his neighbours' heads with
 
@@ -4850,8 +4244,6 @@ the sense of falling off the rigging or letting the water into the hold.
 Similarly the modern proletariat, however little it may know, knows what
 
 it is talking about.
-
-
 
 But the curious thing about the educated class is that exactly what it
 
@@ -4875,8 +4267,6 @@ is treated for the time with some human respect (by the Coroner) it
 
 almost seems a pity he is not alive to hear how legally he died.
 
-
-
 Against this bitter shrewdness and bleak realism in the suffering
 
 classes it is commonly supposed that the more leisured classes stand for
@@ -4897,13 +4287,7 @@ the modern rich is their real and sincere ignorance--especially of the
 
 things they like.
 
-
-
-
-
 No!
-
-
 
 Take the most topical case you can find in any drawing-room: Belfast.
 
@@ -4925,8 +4309,6 @@ Ulstermen were in Grattan's time; do any of them know what was the
 
 tell what part of the old Catholic system it really denied?
 
-
-
 It was generally something that the fluttering ladies find in their own
 
 Anglican churches every Sunday. It were vain to ask them to state the
@@ -4945,13 +4327,7 @@ ritual are the only things aristocrats are supposed to know; and they
 
 don't know them.
 
-
-
-
-
 Smile and Smile
-
-
 
 I am not fed on turtle soup and Tokay because of my exquisite intimacy
 
@@ -4965,25 +4341,13 @@ represent the religious traditions of the State, when it does not know
 
 three words of theology, as I do not know three words of German.
 
-
-
 This is the last insult offered by the proud to the humble. They rule
 
 them by the smiling terror of an ancient secret. They smile and smile;
 
 but they have forgotten the secret.
 
-
-
-
-
-
-
-
-
 THE SYMBOLISM OF KRUPP
-
-
 
 The curious position of the Krupp firm in the awful story developing
 
@@ -5047,8 +4411,6 @@ ought to comfort us for the extreme fewness of those who have anything
 
 in the bank to sign it for, but I am not one of these.
 
-
-
 In any case, the position of Krupp has certain interesting aspects. When
 
 we talk of Army contractors as among the base but active actualities of
@@ -5102,8 +4464,6 @@ or the page who pilfers tarts and sweets from the dishes as they go up
 and down. How angry one is with him depends on temperament, on the stage
 
 of the dinner--also on the number of tarts.
-
-
 
 Now here comes in the real and sinister significance of Krupps. There
 
@@ -5159,17 +4519,7 @@ believe in the kind of men who fight best with bayonets and whose
 
 fathers hammered their own pikes for the French Revolution.
 
-
-
-
-
-
-
-
-
 THE TOWER OF BEBEL
-
-
 
 Among the cloudy and symbolic stories in the beginning of the Bible
 
@@ -5209,8 +4559,6 @@ reason, what is said to have happened to the people of Shinak has
 
 precisely and practically happened to us.
 
-
-
 None of us who have known Socialists (or rather, to speak more
 
 truthfully, none of us who have been Socialists) can entertain the
@@ -5226,8 +4574,6 @@ In the formula of Karl Marx men could find that frigid fellowship which
 they find when they agree that two and two make four. It was almost as
 
 broadminded as a religious dogma.
-
-
 
 Yet this universal language has not succeeded, at a moment of crisis,
 
@@ -5251,8 +4597,6 @@ new union of hearts, there has really and truly been a new division of
 
 tongues.
 
-
-
 How are we to explain this singular truth, even if we deplore it? I
 
 dismiss with fitting disdain the notion that it is a mere result of
@@ -5274,8 +4618,6 @@ conventional countrymen because they share it; and they share it because
 there is (though perhaps only at certain great moments) such a thing as
 
 pure democracy.
-
-
 
 Timour the Tartar, I think, celebrated some victory with a tower built
 
@@ -5301,10 +4643,6 @@ in the "The Vision of Sin"--"Welcome fellow-citizens, Hollow hearts and
 
 empty heads."
 
-
-
-
-
 Not that the people were personally hollow or empty, but they had come
 
 on a hollow and empty business: to help the good Mr. Binks to strengthen
@@ -5316,8 +4654,6 @@ to fortify the Insurance Act. That night it did not blow the democratic
 gale. Yet it can blow on these as on others; and when it does blow men
 
 learn many things. I, for one, am not above learning them.
-
-
 
 The Marxian dogma which simplifies all conflicts to the Class War is so
 
@@ -5344,8 +4680,6 @@ that can feel a familiar soil--if things were so the Marxian calculation
 would be not only complete but correct. As we know to-day, the Marxian
 
 calculation is complete, but it is not correct.
-
-
 
 Now, this is the answer to the questions of some kind critics, whose
 
@@ -5385,8 +4719,6 @@ fellowship of communities under certain conditions to which the four or
 
 five most independent minds of Europe willingly bear witness to-day.
 
-
-
 But is there no exception: is there no one faithful among the unfaithful
 
 found? Is no great Socialist politician still untouched by the
@@ -5403,17 +4735,7 @@ will be as industrious in damping down democracy in this form as in
 
 every other.
 
-
-
-
-
-
-
-
-
 A REAL DANGER
-
-
 
 Heaven forbid that I should once more wade in those swamps of logomachy
 
@@ -5469,13 +4791,7 @@ which the restless rich, now walking the world with an awful insomnia,
 
 may manage to catch us napping.
 
-
-
-
-
 Must Be a Mystery
-
-
 
 There are two letters in the "Clarion" this week which in various ways
 
@@ -5523,8 +4839,6 @@ presence of mind to call out "Fire!" when Mr. Pickwick fell through the
 
 ice.
 
-
-
 The other letter consists of the usual wiredrawn argument for fatalism.
 
 Man cannot imagine the universe being created, and therefore is
@@ -5552,8 +4866,6 @@ whole new class of people, who were "incapable of managing their affairs
 with prudence." Read the supporters' names on the back of that Bill, and
 
 see what sort of democrats they were.
-
-
 
 Now, clearing our heads of what is called popular science (which means
 
@@ -5589,13 +4901,7 @@ from the old punishment. It is of this that the plutocrats will take
 
 advantage.
 
-
-
-
-
 The Plain Difference
-
-
 
 The perfectly plain difference is this. All punishment, even the most
 
@@ -5645,8 +4951,6 @@ and unalterable laws of heredity, all your poor little papers will
 
 inherit it."
 
-
-
 This is a purely practical question; and that is why I insist on it,
 
 even in such strenuous times. The writers on the "Clarion" have a
@@ -5675,25 +4979,13 @@ beings. But it is the governments that will be irresponsible, not the
 
 governed.
 
-
-
 But I will tell them one small secret in conclusion. There is nothing
 
 whatever wrong in the ancient and universal idea of Punishment--except
 
 that we are not punishing the right people.
 
-
-
-
-
-
-
-
-
 THE DREGS OF PURITANISM
-
-
 
 One peculiarity of the genuine kind of enemy of the people is that his
 
@@ -5718,8 +5010,6 @@ one could write a volume on that sentence, a great thick volume called
 philosophy, in feeling, in political project, the horrors of it are as
 
 unfathomable as hell.
-
-
 
 First, to begin with the trifle, note something slipshod and vague in
 
@@ -5771,8 +5061,6 @@ I have quoted is that his brain stopped working as a clock stops, years
 
 and years ago.
 
-
-
 Second, consider the quality of the religious literature! These people
 
 are always telling us that the English translated Bible is sufficient
@@ -5802,8 +5090,6 @@ patience of the saints, we will have this cigarette business stopped.
 Where has all the tradition of the great religious literatures gone to
 
 that a man should come on such a bathos with such a bump?
-
-
 
 Thirdly, of course, there is the lack of imaginative proportion, which
 
@@ -5857,8 +5143,6 @@ hospital. Hit or unhit, conqueror or conquered, he is, by nature of the
 
 case, having less pleasure than is proper and natural to a man.
 
-
-
 Fourth (for I need not dwell here on the mere diabolical idiocy that can
 
 regard beer or tobacco as in some way evil and unseemly in themselves),
@@ -5881,17 +5165,7 @@ recurrent ideas of the servile State: it is mentioned in the passive
 
 mood. It must be stopped, and we must not even ask who has stopped it!
 
-
-
-
-
-
-
-
-
 THE TYRANNY OF BAD JOURNALISM
-
-
 
 The amazing decision of the Government to employ methods quite alien to
 
@@ -5915,8 +5189,6 @@ the English nothing but bad journalism. Very bad journalism, simply
 
 considered as journalism.
 
-
-
 It always takes a considerable time to see the simple and central fact
 
 about anything. All sorts of things have been said about the modern
@@ -5926,8 +5198,6 @@ Press, especially the Yellow Press; that it is Jingo or Philistine or
 sensational or wrongly inquisitive or vulgar or indecent or trivial; but
 
 none of these have anything really to do with the point.
-
-
 
 The point about the Press is that it is not what it is called. It is not
 
@@ -5952,8 +5222,6 @@ his political marching orders from what is by this time a sort of
 half-conscious secret society, with very few members, but a great deal
 
 of money.
-
-
 
 This enormous and essential fact is concealed for us by a number of
 
@@ -6007,8 +5275,6 @@ which has been unbroken until lately, and still largely prevails; the
 
 ghastly monotony of the Press.
 
-
-
 Then comes that other legend; the notion that men like the masters of
 
 the Newspaper Trusts "give the people what they want." Why, it is the
@@ -6043,8 +5309,6 @@ jumped up and said that people always bought his bread when they could
 
 get none anywhere else.
 
-
-
 Well, that is a perfect parallel. "After bread, the need of the people
 
 is knowledge," said Danton. Knowledge is now a monopoly, and comes
@@ -6074,8 +5338,6 @@ make a joke, or do any other stricken human thing. But this discovery
 has been quite recent. The capitalist newspaper was never actually
 
 unread until it was actually unreadable.
-
-
 
 If you retain the servile superstition that the Press, as run by the
 
@@ -6108,8 +5370,6 @@ the new plutocratic raid, one of the most important is mere journalistic
 jealousy. The Yellow Press is bad journalism: and wishes to stop the
 
 appearance of good journalism.
-
-
 
 There is no average member of the public who would not prefer to have
 
@@ -6145,17 +5405,7 @@ point out that his papers are dull. And we propose to print some papers
 
 that are interesting.
 
-
-
-
-
-
-
-
-
 THE POETRY OF THE REVOLUTION
-
-
 
 Everyone but a consistent and contented capitalist, who must be
 
@@ -6180,8 +5430,6 @@ on this earth in that style is simply invisible to him. But let us be
 charitable to the eye for business; the eye has been pretty well blacked
 
 this time.
-
-
 
 But I wish to insist here that it is exactly what is called the
 
@@ -6219,13 +5467,7 @@ men with an eye to business. This is also the method by which battles
 
 are won.
 
-
-
-
-
 The Symbolism of the Badge
-
-
 
 The badge on a Trade Unionist's coat is a piece of poetry in the
 
@@ -6301,13 +5543,7 @@ also that they would have been better and braver still if they had never
 
 used a scientific word, and never read anything but fairy tales.
 
-
-
-
-
 The Beastly Individualist
-
-
 
 Suppose I go on to a ship, and the ship sinks almost immediately; but
 
@@ -6342,8 +5578,6 @@ be as his bodily slave, having no human claims henceforward forever,
 then, by the whole theory and practice of capitalism, he becomes a
 
 capitalist, he also becomes a cad.
-
-
 
 Now, the language of poetry is simpler than that of prose; as anyone
 
@@ -6393,27 +5627,11 @@ triumphant and acquitted. It is no subject for science. It is a subject
 
 for poetry. But for poetry of a terrible sort.
 
-
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Utopia of Usurers and other Essays, by
 
 Gilbert Keith Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK UTOPIA OF USURERS AND OTHER ESSAYS ***
-
-
 
 ***** This file should be named 2134.txt or 2134.zip *****
 
@@ -6421,17 +5639,11 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/2/1/3/2134/
 
-
-
 Produced by Mike Pullen
-
-
 
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -6465,21 +5677,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -6493,15 +5695,9 @@ Gutenberg-tm License available with this file or online at
 
   www.gutenberg.org/license.
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -6523,8 +5719,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -6542,8 +5736,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -6575,8 +5767,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -6595,11 +5785,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -6613,8 +5799,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -6622,8 +5806,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -6645,8 +5827,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -6659,15 +5839,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -6678,8 +5854,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -6703,23 +5877,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -6745,8 +5913,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -6761,8 +5927,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -6771,13 +5935,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -6791,11 +5951,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -6816,8 +5972,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -6845,8 +5999,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -6871,8 +6023,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -6880,8 +6030,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -6896,8 +6044,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -6919,13 +6065,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -6936,8 +6076,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -6957,15 +6095,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation information page at www.gutenberg.org
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -6981,8 +6113,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -6995,8 +6125,6 @@ contact links and up to date contact information can be found at the
 
 Foundation's web site and official page at www.gutenberg.org/contact
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -7005,13 +6133,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -7026,8 +6150,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -7045,8 +6167,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit www.gutenberg.org/donate
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -7055,15 +6175,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -7073,15 +6189,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit:  www.gutenberg.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart was the originator of the Project Gutenberg-tm
 
@@ -7091,8 +6201,6 @@ with anyone.  For forty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -7101,15 +6209,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -7118,9 +6220,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-
-
-===== FINE FILE: UtopiaUsurers.txt =====

@@ -178,6 +178,3 @@ They would not be citizens.
 
 -from The Illustrated London News, March 21, 1925
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: leisure-state.txt =====

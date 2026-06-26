@@ -177,6 +177,3 @@ something sinister about putting a Leprechaun in the workhouse.
 The only solid comfort is that he certainly will not work.
 
 THE END
-
-
-===== FINE FILE: The_Uses_of_Diversity.txt =====

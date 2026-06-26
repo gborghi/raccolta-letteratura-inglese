@@ -1122,7 +1122,3 @@ I heard the barking of a dog.
 = = = = = = = = = = = = = = = =
 
 THE END
-
-
-
-===== FINE FILE: New_Jerusalem.txt =====

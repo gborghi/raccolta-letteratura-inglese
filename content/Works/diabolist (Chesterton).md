@@ -55,7 +55,6 @@ It was the last sentence spoken; and it was not spoken to me.
 
 * * *
 
-
 The thing befell me in the days when I was at an art school.
 An art school is different from almost all other schools or
 colleges in this respect:  that, being of new and crude creation
@@ -102,7 +101,6 @@ the last time.
 
 * * *
 
-
 Along the front of the big building of which our school
 was a part ran a huge slope of stone steps, higher, I think,
 than those that lead up to St. Paul's Cathedral.  On a black
@@ -119,7 +117,6 @@ of the Doric building, phantasmal, yet filling the sky, as if
 Heaven were still filled with the gigantic ghost of Paganism.
 
 * * *
-
 
 The man asked me abruptly why I was becoming orthodox.
 Until he said it, I really had not known that I was;
@@ -208,8 +205,3 @@ but I have never known, or even dared to think, what was that place
 at which he stopped and refrained.
 
 (from Tremendous Trifles, 1909)
-
-
-
-
-===== FINE FILE: diabolist.txt =====

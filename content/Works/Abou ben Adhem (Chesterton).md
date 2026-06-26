@@ -64,8 +64,4 @@ To your vague Allah in the skies above."
 Gently replied the angel of the pen:  
 "Labour in peace and love your fellow-men:  
 And love not God, since men alone are dear,  
-Only fear God; for you have Cause to fear."  
-
-
-
-===== FINE FILE: Abou_ben_Adhem.txt =====  
+Only fear God; for you have Cause to fear."

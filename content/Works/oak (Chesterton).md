@@ -76,6 +76,4 @@ The Song of the Oak
                As the dragon of the ivy would  
                That has us in his grips.  
 
-               G. K. Chesterton  
-
-===== FINE FILE: oak.txt =====  
+               G. K. Chesterton

@@ -60,8 +60,4 @@ To the glory of the Lord.
 Not undone were the heaven and earth,  
 This hollow world thrown up,  
 Before one man had stood up straight,  
-And drained it like a cup.  
-
-
-
-===== FINE FILE: deluge.txt =====  
+And drained it like a cup.

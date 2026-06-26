@@ -183,8 +183,4 @@ is better god than Fashion.
 August 08, 1925, "Compulsory Education and the Monkey Trial,"
 which describes what the Monkey Trial was really about.  )
 
-
 === end ===
-
-
-===== FINE FILE: American_Fundamentalists.txt =====

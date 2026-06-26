@@ -40,7 +40,6 @@ Originally published in The Illustrated London News, 26th January 1929.
 The Illustrated London News 1929-1931,
 Ignatius Press, San Francisco, 1991. Pages 29-33.)
 
-
 What I venture to criticize in certain men, whom some call scientists
 and I call materialists, is their perpetual use of Mythology.
 One half of what they say is so true as to be trite; the other
@@ -165,6 +164,3 @@ Footnote 1:  This is the title of a collection of Swinburne's poems
 (1871) with a strongly political cast.
 
 === End ===
-
-
-===== FINE FILE: Myths_and_Metaphors.txt =====

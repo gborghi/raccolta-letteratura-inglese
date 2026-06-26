@@ -34,7 +34,6 @@ tags:
 (Originally appeared in "The Daily News", Oct. 16, 1909,
 and in "Alarms and Discursions", NY: Dodd, Mead. 1911)
 
-
 The Nightmare
 
 A SUNSET of copper and gold had just broken down and gone
@@ -161,9 +160,4 @@ that mad infinite where there is neither up nor down, the high
 topsy-turveydom of the heavens.  I will ride on the Nightmare;
 but she shall not ride on me.
 
-
 --G.K.Chesterton
-
-
-
-===== FINE FILE: nightmare.txt =====

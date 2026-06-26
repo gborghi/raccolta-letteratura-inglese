@@ -157,8 +157,3 @@ That is the literary use of the trick, and is poetic as well as pointed:
 a landscape as well as a trap.
 
 (from The Daily News, 1911 reprinted in Lunacy + Letters.)
-
-
-
-
-===== FINE FILE: pun.txt =====

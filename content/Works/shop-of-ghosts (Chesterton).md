@@ -227,6 +227,3 @@ a mob to rise.
 
 "I understand it now," he cried, "you will never die."
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: shop-of-ghosts.txt =====

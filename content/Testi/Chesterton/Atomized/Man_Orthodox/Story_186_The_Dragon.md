@@ -30,7 +30,3 @@ on the painted crests of Imposture and Injustice when the Dark Herald
 comes to lead us to the pavilion of the King.
 
                                            The Debater, March--April, 1891
-
-
-
-===== FINE FILE: Man_Orthodox.txt =====

@@ -42,7 +42,6 @@ tags:
 - [Story 12 R CHESTERTON I am sure Mr Shaw is very w](/Testi/Chesterton/Atomized/debate/Story_12_R_CHESTERTON_I_am_sure_Mr_Shaw_is_very_w)
 - [Story 13 R BELLOC I was told when I accepted this](/Testi/Chesterton/Atomized/debate/Story_13_R_BELLOC_I_was_told_when_I_accepted_this)
 
-
 ## Testo integrale / Full text
 
 DO WE AGREE?
@@ -54,7 +53,6 @@ with
 HILAIRE BELLOC
 
 in the chair
-
 
 A PREFATORY NOTE
 
@@ -894,8 +892,3 @@ with a few rich men controlling them.  Take your choice.
 You will all be dead before any of the three things comes off.
 One of the three things is going to happen, or a mixture of two,
 or possibly a mixture of the three combined.
-
-
-
-
-===== FINE FILE: debate.txt =====

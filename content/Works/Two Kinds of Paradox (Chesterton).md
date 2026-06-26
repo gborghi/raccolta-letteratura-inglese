@@ -171,8 +171,3 @@ of things at all unless he had thought they were things and there was some
 truth about them.  Here we have the black nonsense, like black magic,
 that shuts down the brain.  "A lie is that which you do not believe."
 That is a lie; so perhaps Mr. Jackson does not believe it
-
-
-
-
-===== FINE FILE: Two_Kinds_of_Paradox.txt =====

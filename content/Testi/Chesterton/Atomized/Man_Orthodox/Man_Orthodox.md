@@ -15,8 +15,6 @@ tags:
 
 Selections from G.K.Chesterton
 
-
-
 THE DEBATER
 
 HUMOUR AND GRAVITY
@@ -208,8 +206,6 @@ THE PERSON OF JESUS CHRIST
 THE DIVINE COMEDY
 
 THE DRAGON
-
-
 
 THE DEBATER
 
@@ -2205,8 +2201,6 @@ by his own hand.
 
     [The two men were John Davidson, the poet, and St John Hankin, the
                                dramatist.]
-
-
 
 WHAT WAS RATIONALISM?
 
@@ -4573,7 +4567,3 @@ on the painted crests of Imposture and Injustice when the Dark Herald
 comes to lead us to the pavilion of the King.
 
                                            The Debater, March--April, 1891
-
-
-
-===== FINE FILE: Man_Orthodox.txt =====

@@ -15,8 +15,6 @@ tags:
 
 The Project Gutenberg EBook of What I Saw in America, by G. K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -25,39 +23,17 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: What I Saw in America
-
-
 
 Author: G. K. Chesterton
 
-
-
 Release Date: November 13, 2008 [EBook #27250]
-
-
 
 Language: English
 
-
-
 Character set encoding: ISO-8859-1
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN AMERICA ***
-
-
-
-
-
-
-
-
 
 Produced by Irma Špehar, Martin Pettit and the Online
 
@@ -67,149 +43,65 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-
-
-
-
-
-
-
-
-
-
-
-
 WHAT I SAW IN AMERICA
-
-
 
 BY
 
-
-
 G. K. CHESTERTON
-
-
 
 HODDER AND STOUGHTON
 
-
-
 LIMITED LONDON
 
-
-
 MCMXXII
-
-
 
 Printed in Great Britain by T. and A. CONSTABLE LTD. at the Edinburgh
 
 University Press
 
-
-
-
-
-
-
-
-
 _Contents_
-
-
 
                                     PAGE
 
-
-
 WHAT IS AMERICA?                       1
-
-
 
 A MEDITATION IN A NEW YORK HOTEL      19
 
-
-
 A MEDITATION IN BROADWAY              33
-
-
 
 IRISH AND OTHER INTERVIEWERS          47
 
-
-
 SOME AMERICAN CITIES                  63
-
-
 
 IN THE AMERICAN COUNTRY               80
 
-
-
 THE AMERICAN BUSINESS MAN             97
-
-
 
 PRESIDENTS AND PROBLEMS              121
 
-
-
 PROHIBITION IN FACT AND FANCY        145
-
-
 
 FADS AND PUBLIC OPINION              163
 
-
-
 THE EXTRAORDINARY AMERICAN           182
-
-
 
 THE REPUBLICAN IN THE RUINS          195
 
-
-
 IS THE ATLANTIC NARROWING?           208
-
-
 
 LINCOLN AND LOST CAUSES              222
 
-
-
 WELLS AND THE WORLD STATE            235
-
-
 
 A NEW MARTIN CHUZZLEWIT              253
 
-
-
 THE SPIRIT OF AMERICA                267
-
-
 
 THE SPIRIT OF ENGLAND                281
 
-
-
 THE FUTURE OF DEMOCRACY              295
 
-
-
-
-
-
-
-
-
 _What is America?_
-
-
-
-
 
 I have never managed to lose my old conviction that travel narrows the
 
@@ -255,8 +147,6 @@ when they meet. We might shiver, as at the old euphemism by which a
 
 meeting meant a duel.
 
-
-
 Travel ought to combine amusement with instruction; but most travellers
 
 are so much amused that they refuse to be instructed. I do not blame
@@ -284,8 +174,6 @@ consists of laughter; a form of friendship between nations which is
 actually founded on differences. To hint at some such better way is the
 
 only excuse of this book.
-
-
 
 Let me begin my American impressions with two impressions I had before I
 
@@ -322,8 +210,6 @@ sort of thing that a man has a right to enjoy as a joke, and the sort of
 thing he has a duty to understand and respect, because it is the
 
 explanation of the joke.
-
-
 
 When I went to the American consulate to regularise my passports, I was
 
@@ -366,8 +252,6 @@ in the front garden, what would you do?' One of my friends, I remember,
 wrote, 'Take the pledge.' But that is another story, and might bring Mr.
 
 Pussyfoot Johnson on the scene before his time.
-
-
 
 One of the questions on the paper was, 'Are you an anarchist?' To which
 
@@ -425,8 +309,6 @@ are so pure and good that the police have only to ask them questions and
 
 they are certain to tell no lies.
 
-
-
 Now that is a model of the sort of foreign practice, founded on foreign
 
 problems, at which a man's first impulse is naturally to laugh. Nor have
@@ -444,8 +326,6 @@ very fact of its unfamiliarity and mystery ought to set him thinking
 about the deeper causes that make people so different from himself, and
 
 that without merely assuming that they must be inferior to himself.
-
-
 
 Superficially this is rather a queer business. It would be easy enough
 
@@ -495,8 +375,6 @@ fancy that, as compared with the sultans of Turkey or Egypt, the
 
 American Constitution is a thing like the Spanish Inquisition.
 
-
-
 Only the traveller who stops at that point is totally wrong; and the
 
 traveller only too often does stop at that point. He has found something
@@ -524,8 +402,6 @@ In short, it is to get some ultimate idea of what America _is_; and the
 answer to that question will reveal something much deeper and grander
 
 and more worthy of our intelligent interest.
-
-
 
 It may have seemed something less than a compliment to compare the
 
@@ -562,8 +438,6 @@ and in the matter of God and Government it is naturally God whose claim
 is taken more lightly. The point is that there is a creed, if not about
 
 divine, at least about human things.
-
-
 
 Now a creed is at once the broadest and the narrowest thing in the
 
@@ -629,8 +503,6 @@ something of the same spirit the American may exclude a polygamist,
 
 precisely because he cannot exclude a Turk.
 
-
-
 Now for America this is no idle theory. It may have been theoretical,
 
 though it was thoroughly sincere, when that great Virginian gentleman
@@ -645,10 +517,6 @@ invaded by Jews or Bulgars. In the most exquisitely inconsequent of the
 
 _Bab Ballads_, we are told concerning Pasha Bailey Ben:--
 
-
-
-
-
      One morning knocked at half-past eight
 
      A tall Red Indian at his gate.
@@ -656,10 +524,6 @@ _Bab Ballads_, we are told concerning Pasha Bailey Ben:--
      In Turkey, as you 'r' p'raps aware,
 
      Red Indians are extremely rare.
-
-
-
-
 
 But the converse need by no means be true. There is nothing in the
 
@@ -695,8 +559,6 @@ the American international examination paper, and laugh and be satisfied
 
 with saying, 'We don't have any of that nonsense in England.'
 
-
-
 We do not have any of that nonsense in England because we have never
 
 attempted to have any of that philosophy in England. And, above all,
@@ -724,8 +586,6 @@ got a character. In any of the old nations the national unity is
 preserved by the national type. Because we have a type we do not need to
 
 have a test.
-
-
 
 Take that innocent question, 'Are you an anarchist?' which is
 
@@ -799,8 +659,6 @@ conscientious objector will probably have a conscientious objection to
 
 throwing bombs.
 
-
-
 Now I am very far from intending to imply that these American tests are
 
 good tests, or that there is no danger of tyranny becoming the
@@ -826,8 +684,6 @@ Americans are doing something heroic, or doing something insane, or
 doing it in an unworkable or unworthy fashion, instead of simply
 
 wondering what the devil they are doing.
-
-
 
 When we realise the democratic design of such a cosmopolitan
 
@@ -895,8 +751,6 @@ insist on his wearing clothes, will he recognise the authority of the
 
 police? In short, as in the American formula, is he an anarchist?
 
-
-
 Of course this generalisation about America, like other historical
 
 things, is subject to all sorts of cross divisions and exceptions, to
@@ -954,8 +808,6 @@ abnormal. In short, it has long been recognised that America was an
 asylum. It is only since Prohibition that it has looked a little like a
 
 lunatic asylum.
-
-
 
 It was before sailing for America, as I have said, that I stood with the
 
@@ -1111,8 +963,6 @@ tawdry hotel lounges, and tell each other twenty times over, with
 
 unwearied iteration, that equality is an illusion.
 
-
-
 In truth it is inequality that is the illusion. The extreme
 
 disproportion between men, that we seem to see in life, is a thing of
@@ -1147,19 +997,7 @@ skies with a fleeting and almost theatrical conflagration; and wherever
 
 the old shadow stoops upon the earth, the stars return.
 
-
-
-
-
-
-
-
-
 _A Meditation in a New York Hotel_
-
-
-
-
 
 All this must begin with an apology and not an apologia. When I went
 
@@ -1229,8 +1067,6 @@ impressions are subject; and among them the negative generalisation with
 
 which I shall begin this rambling meditation on American hotels.
 
-
-
 In all my American wanderings I never saw such a thing as an inn. They
 
 may exist; but they do not arrest the traveller upon every road as they
@@ -1282,8 +1118,6 @@ covering the acreage of villages, hotels in multitudinous number like a
 mob of Babylonian or Assyrian monuments; but the hotels also are not
 
 inns.
-
-
 
 Broadly speaking, there is only one hotel in America. The pattern of it,
 
@@ -1383,8 +1217,6 @@ is undoubtedly an hotel of exactly the same sort, with all its floors
 
 exactly the same.
 
-
-
 Anyhow the general plan of the American hotel is commonly the same, and,
 
 as I have said, it is a very sound one so far as it goes. When I first
@@ -1459,8 +1291,6 @@ and above that the bulk of the block of bedrooms, the huge hive with its
 
 innumerable and identical cells.
 
-
-
 The ladder of ascent in this tower is of course the lift, or, as it is
 
 called, the elevator. With all that we hear of American hustle and
@@ -1528,8 +1358,6 @@ no difficulty, except what I cannot but regard as the chief moral
 problem of all optimistic modernism. I mean the difficulty of imagining
 
 a lift which is free to go up, if it is not also free to go down.
-
-
 
 I think I know my American friends and acquaintances too well to
 
@@ -1619,8 +1447,6 @@ come to the town to attend the Laundry Convention, and had made an
 
 eloquent speech to that senate, no doubt exhibiting my tubs.
 
-
-
 Such was the penalty of too passionate and unrestrained an admiration
 
 for American bathrooms; yet the connection of ideas, however
@@ -1667,8 +1493,6 @@ of Diogenes. On these points there is really something a million times
 
 better than efficiency, and that is something like equality.
 
-
-
 In short, the American hotel is not America; but it is American. In some
 
 respects it is as American as the English inn is English. And it is
@@ -1703,8 +1527,6 @@ said, that it is a criticism of modern machinery that the effort should
 
 be gigantic as well as generous.
 
-
-
 While there is so much repetition there is little repose. It is the
 
 pattern of a kaleidoscope rather than a wall-paper; a pattern of figures
@@ -1736,8 +1558,6 @@ without it; but the thing was symbolic even if it was not evidential. I
 felt as if I stood indeed upon English soil, in a place where people
 
 liked to have their meals in peace.
-
-
 
 The process of the summons is called 'paging,' and consists of sending a
 
@@ -1775,8 +1595,6 @@ frequently visit the mind in the centres of highly active and successful
 
 industrial civilisation.
 
-
-
 Such are the first idle impressions of the great American hotel, gained
 
 by sitting for the first time in its gallery and gazing on its drifting
@@ -1796,8 +1614,6 @@ unearthly about that vast system to an insular traveller who sees it for
 the first time. It is as if he were wandering in another world among the
 
 fixed stars; or worse still, in an ideal Utopia of the future.
-
-
 
 Yet I am not certain; and perhaps the best of all news is that nothing
 
@@ -1885,19 +1701,7 @@ inhabit its halls and vestibules, there may come a new noise like
 
 thunder; of D'Artagnan knocking at the door.
 
-
-
-
-
-
-
-
-
 _A Meditation in Broadway_
-
-
-
-
 
 When I had looked at the lights of Broadway by night, I made to my
 
@@ -1914,8 +1718,6 @@ two most vivid and most mystical of the gifts of God; colour and fire. I
 said to them, in my simplicity, 'What a glorious garden of wonders this
 
 would be, to any one who was lucky enough to be unable to read.'
-
-
 
 Here it is but a text for a further suggestion. But let us suppose that
 
@@ -1987,8 +1789,6 @@ and peacock plumage of the seraphim; so long as he did not go near the
 
 Tree of Knowledge.
 
-
-
 In other words, if once he went to school it would be all up; and indeed
 
 I fear in any case he would soon discover his error. If he stood wildly
@@ -2041,8 +1841,6 @@ moment when they are cosmopolitans. But very often the exiles bring with
 
 them not only rooted traditions, but rooted truths.
 
-
-
 Indeed it is to a great extent the thought of these strange souls in
 
 crude American garb that gives a meaning to the masquerade of New York.
@@ -2075,8 +1873,6 @@ dark pools in the depth of a darker forest, but I do not think he had
 
 ever been deceived by the lights of Broadway.
 
-
-
 But I found something like my real innocent abroad, my real peasant
 
 among the sky-signs, in another part of the same establishment. He was a
@@ -2101,8 +1897,6 @@ said, 'Yes. From the earth we come and to the earth we return; when
 
 people get away from that they are lost.'
 
-
-
 To hear such a thing said by the waiter was alone an epoch in the life
 
 of an unfortunate writer of fantastic novels. To see him clear away the
@@ -2126,8 +1920,6 @@ hotel, and all the ghastly artificial life of the city; and his heart
 was like his own remote and rocky valley, where those unchanging words
 
 were carved as on a rock.
-
-
 
 I do not profess to discuss here at all adequately the question this
 
@@ -2178,8 +1970,6 @@ it is in New York that we see the argument most clearly, because we see
 the thing thus towering into its own turrets and breaking into its own
 
 fireworks.
-
-
 
 I disagree with the aesthetic condemnation of the modern city with its
 
@@ -2307,8 +2097,6 @@ such people the Seventh Heaven Cigar, like the nineteenth-century city,
 
 will have ended in smoke. And even the smoke of it will have vanished.
 
-
-
 But the next stage of reflection brings us back to the peasant looking
 
 at the lights of Broadway. It is not true to say in the strict sense
@@ -2355,8 +2143,6 @@ philosopher, would be a little disappointed ... possibly a little
 
 disdainful.
 
-
-
 Compare, for instance, these everlasting fireworks with the damp squibs
 
 and dying bonfires of Guy Fawkes Day. That quaint and even queer
@@ -2399,17 +2185,9 @@ literary or musical, to bear upon the little boys who drag about a
 
 bolster and a paper mask, calling out
 
-
-
-
-
      Guy Fawkes Guy
 
      Hit him in the eye.
-
-
-
-
 
 But I admit it is a disadvantage that they have not a saint or hero to
 
@@ -2493,8 +2271,6 @@ guys, in the sense of dummies. We are only the victims of his
 
 pyrotechnic violence; and it is he who hits us in the eye.
 
-
-
 This is the real case against that modern society that is symbolised by
 
 such art and architecture. It is not that it is toppling, but that it is
@@ -2538,8 +2314,6 @@ city; and that the sky-scraper is truly named because its top, towering
 in such insolence, is scraping the stars off the American sky, the very
 
 heaven of the American spirit.
-
-
 
 That seems to me the main outline of the whole problem. In the first
 
@@ -2599,25 +2373,11 @@ sympathy with those many-coloured solar systems turning so dizzily, far
 
 up in the divine vacuum of the night.
 
-
-
 'From the earth we come and to the earth we return; when people get away
 
 from that they are lost.'
 
-
-
-
-
-
-
-
-
 _Irish and other Interviewers_
-
-
-
-
 
 It is often asked what should be the first thing that a man sees when he
 
@@ -2649,8 +2409,6 @@ at that moment that I knew most vividly that what I wanted was to do
 
 something for England.
 
-
-
 Then, as it chanced, I looked across at the statue of Liberty, and saw
 
 that the great bronze was gleaming green in the morning light. I had
@@ -2681,8 +2439,6 @@ country seemed to change with the infusion; as the bronze of the great
 
 statue took on a semblance of the wearing of the green.
 
-
-
 It is a commonplace that the Englishman has been stupid in his relations
 
 with the Irish; but he has been far more stupid in his relations with
@@ -2709,8 +2465,6 @@ apology can be worse than the action. The best we can say for ourselves
 
 is worse than the worst that we can do.
 
-
-
 There was a time when English poets and other publicists could always be
 
 inspired with instantaneous indignation about the persecuted Jews in
@@ -2735,8 +2489,6 @@ Semites. A moneylender in London might be like Judas Iscariot; but a
 
 moneylender in Moscow must be like Judas Maccabaeus.
 
-
-
 Nevertheless there remained in our common sense an unconscious but
 
 fundamental comprehension of the unity of Israel; a sense that some
@@ -2750,8 +2502,6 @@ English protest against Russian Anti-Semitism had been answered by the
 Russian Anti-Semites, and suppose the answer had been somewhat as
 
 follows:--
-
-
 
 'It is all very well for foreigners to complain of our denying civic
 
@@ -2799,8 +2549,6 @@ These people are our subjects; and we understand them. We accept full
 
 responsibility for treating such troglodytes on our own terms.'
 
-
-
 It would not be entirely convincing. It would sound a little far-fetched
 
 and unreal. But it would sound exactly like our utterances about the
@@ -2830,8 +2578,6 @@ themselves. They are like children; but they are our own children, and
 we understand them. We accept full responsibility for acting as their
 
 parents and guardians.'
-
-
 
 Now the point is not only that this view of the Irish is false, but that
 
@@ -2870,8 +2616,6 @@ despise the English. Thus both the friends of Ireland and the foes of
 Ireland tend to be the foes of England. We make one set of enemies by
 
 our action, and another by our apology.
-
-
 
 It is a thing that can from time to time be found in history; a
 
@@ -2941,8 +2685,6 @@ Whitechapel. We do not say it is inhabited by Jews too stupid to count
 
 or know the value of a coin.
 
-
-
 The first thing for any honest Englishman to send across the sea is
 
 this; that the English have not the shadow of a notion of what they are
@@ -2972,8 +2714,6 @@ with whom we can decide to be friends or foes; and that is why I thought
 first of that still and solid brown house in Buckinghamshire, standing
 
 back in the shadow of the trees.
-
-
 
 Among my impressions of America I have deliberately put first the figure
 
@@ -3017,8 +2757,6 @@ rather bad journalism; it would have an air of stolen thunder, not to
 
 say stage thunder.
 
-
-
 But in America the fact of my landing and lecturing was evidently
 
 regarded in the same light as a murder or a great fire, or any other
@@ -3044,8 +2782,6 @@ since it has reference to a rather common and a rather unjust conception
 of American journalism, I think it well to take it first as a fallacy to
 
 be refuted, though the refutation may require a rather longer approach.
-
-
 
 I have generally found that the traveller fails to understand a foreign
 
@@ -3103,8 +2839,6 @@ For it is so, as I have said, that nations necessarily die of the
 
 undiluted poison called progress.
 
-
-
 It is so in this much-abused and over-abused example of the American
 
 journalist. The American interviewers really have exceedingly good
@@ -3157,8 +2891,6 @@ railway compartments, are not so much retiring as a race of Trappists as
 
 escaping from a race of talkers.
 
-
-
 However this may be, there is obviously something of practical advantage
 
 in the ease with which the American butterfly flits from flower to
@@ -3199,8 +2931,6 @@ may still admit that American interviewing has many of the qualities of
 
 American dentistry.
 
-
-
 Another effect that has given rise to this fallacy, this exaggeration of
 
 the vulgarity and curiosity of the press, is the distinction between the
@@ -3219,8 +2949,6 @@ himself at random, while the neat, polite, and rational pressman can
 
 safely be let loose to wander about the town.
 
-
-
 For instance, I talked to two decidedly thoughtful fellow journalists
 
 immediately on my arrival at a town in which there had been some labour
@@ -3238,8 +2966,6 @@ breaking down as that it had never really stood up. Slaveries could
 last, and peasantries could last; but wage-earning communities could
 
 hardly even live, and were already dying.
-
-
 
 All this moral and even metaphysical generalisation was most fairly and
 
@@ -3270,8 +2996,6 @@ and written the title. But I know that we have here to deal with two
 different types of journalists; and the man who writes the headlines I
 
 will not dare to describe; for I have not seen him except in dreams.
-
-
 
 Another innocent complication is that the interviewer does sometimes
 
@@ -3367,8 +3091,6 @@ that I meant it was a matter of dollar sign; probably because he knew
 
 very well that it is.
 
-
-
 Then again there is a curious convention by which American interviewing
 
 makes itself out much worse than it is. The reports are far more rowdy
@@ -3415,8 +3137,6 @@ pressman, who is a harmless clubman in private, and becomes a sort of
 
 highway-robber in print.
 
-
-
 I have turned this chapter into something like a defence of
 
 interviewers, because I really think they are made to bear too much of
@@ -3461,19 +3181,7 @@ the modern world is the modern world; and the cure will come from
 
 another.
 
-
-
-
-
-
-
-
-
 _Some American Cities_
-
-
-
-
 
 There is one point, almost to be called a paradox, to be noted about New
 
@@ -3514,8 +3222,6 @@ growth of age like mosses, that one half expects to see ivy climbing
 quickly up the broken walls as in the nightmare of the Time Machine, or
 
 in some incredibly accelerated cinema.
-
-
 
 There is no sight in any country that raises my own spirits so much as
 
@@ -3591,17 +3297,9 @@ myself repeating about this vista of the West two vivid lines in which
 
 Mr. W. B. Yeats has called up a vision of the East:--
 
-
-
-
-
      And coloured like the eastern birds
 
      At evening in their rainless skies.
-
-
-
-
 
 To invoke a somewhat less poetic parallel, even the untravelled
 
@@ -3612,8 +3310,6 @@ of a patchy and gaudy kind, in which a white house or a yellow motor-car
 are cut out as in cardboard against a sky like blue marble. I used to
 
 think it was only New Art, but I found that it is really New York.
-
-
 
 It is not for nothing that the very nature of local character has gained
 
@@ -3673,8 +3369,6 @@ where the trees were like brushes of green paint and the hills were of
 
 coloured chalks.
 
-
-
 But here what accentuates this arid freshness is the fragmentary look of
 
 the continual reconstruction and change. The strong daylight finds
@@ -3731,8 +3425,6 @@ everything and that nothing endures but its invisible name; and even its
 
 name, as I have said, seems to make a boast of novelty.
 
-
-
 That is something like a sincere first impression of the atmosphere of
 
 New York. Those who think that is the atmosphere of America have never
@@ -3782,8 +3474,6 @@ theatrical upon ancient and quiet villages folded in the everlasting
 hills. Philadelphia and Boston and Baltimore are more like those quiet
 
 villages than they are like New York.
-
-
 
 If I were to call this book 'The Antiquities of America,' I should give
 
@@ -3844,8 +3534,6 @@ Penn upon his pinnacle like the graven figure of a god who had fashioned
 a new world; and remembered that his body lay buried in a field at the
 
 turning of a lane, a league from my own door.
-
-
 
 For this aspect of America is rather neglected in the talk about
 
@@ -3925,8 +3613,6 @@ its close; for it was but a few days after I left the city that I
 
 learned that Cardinal Gibbons was dead.
 
-
-
 On the top of a hill on one side of the town stood the first monument
 
 raised after the Revolution to Washington. Beyond it was a new monument
@@ -3955,17 +3641,9 @@ had even stirring in my head the suggestion of some verses that I shall
 
 never finish--
 
-
-
-
-
      If I ever go back to Baltimore
 
      The city of Maryland.
-
-
-
-
 
 But the poem would have to contain far too much; for I was thinking of a
 
@@ -3996,8 +3674,6 @@ seat under that quiet sky, I had some experience of the thronging
 thousands of living thoughts and things, noisy and numberless as birds,
 
 that give its everlasting vivacity and vitality to a dead town.
-
-
 
 Two other cities I visited which have this particular type of
 
@@ -4041,8 +3717,6 @@ But few have noted a blasphemy, or even a somewhat challenging
 
 benediction, to be found in the very name of San Francisco.
 
-
-
 But on the other hand a place like Boston is much more beautiful than
 
 its name. And, as I have suggested, an Englishman's general information,
@@ -4073,17 +3747,9 @@ invented by Yale at the expense of Harvard, describes it as very small
 
 indeed:--
 
-
-
-
-
      Here is to jolly old Boston, the home of the bean and the cod,
 
      Where Cabots speak only to Lowells, and Lowells speak only to God.
-
-
-
-
 
 But an aristocracy must be a minority, and it is arguable that the
 
@@ -4115,8 +3781,6 @@ may be supposed to have walked with the schoolmistress, I felt I had
 
 come to the land where old tales come true.
 
-
-
 I pause in this place upon this particular aspect of America because it
 
 is very much missed in a mere contrast with England. I need not say that
@@ -4138,8 +3802,6 @@ dim and deserted upper floor where I found myself before a faded
 picture; and from the dark canvas looked forth the face of Andrew
 
 Jackson, watchful like a white eagle.
-
-
 
 At that moment, perhaps, I was in more than one sense alone. Most
 
@@ -4193,8 +3855,6 @@ and it will have ended by giving the power to people who refuse to give
 
 us their names.
 
-
-
 But I have a special reason for ending this chapter on the name of the
 
 great popular dictator who made war on the politicians and the
@@ -4238,8 +3898,6 @@ moved. With all respect to the colonial place of that name, I do not
 suppose that Wellington is particularly like Wellington. But Washington
 
 really is like Washington.
-
-
 
 In this, as in so many things, there is no harm in our criticising
 
@@ -4329,19 +3987,7 @@ and here at least they have lifted it higher than all the sky-scrapers,
 
 and set it in a stainless sky.
 
-
-
-
-
-
-
-
-
 _In the American Country_
-
-
-
-
 
 The sharpest pleasure of a traveller is in finding the things which he
 
@@ -4384,8 +4030,6 @@ from the wise and the understanding. I had a similar and simple
 impression when I discovered America. I cannot avoid the phrase; for it
 
 would really seem that each man discovers it for himself.
-
-
 
 Thus I had heard a great deal, before I saw them, about the tall and
 
@@ -4449,8 +4093,6 @@ Americans as if they all lived in the backwoods. But, in a sense, if
 
 they do not live in the woods, they are not yet out of the wood.
 
-
-
 I do not say this in any sense as a criticism. As it happens, I am
 
 particularly fond of wood. Of all the superstitions which our fathers
@@ -4495,8 +4137,6 @@ downfall of Troy, as something plain and staring, and perhaps spotted,
 
 like his own rocking-horse in the nursery.
 
-
-
 It might be said symbolically that Americans have a taste for
 
 rocking-horses, as they certainly have a taste for rocking-chairs. A
@@ -4540,8 +4180,6 @@ only describing the mood of discovery; in which all these cottages built
 of lath, like the palaces of a pantomime, really seemed coloured like
 
 the clouds of morning; which are both fugitive and eternal.
-
-
 
 There is also in all this an atmosphere that comes in another sense from
 
@@ -4613,17 +4251,9 @@ like iron for things like these.' But I will say that the experience
 
 illuminates some other lines by Holmes himself:--
 
-
-
-
-
      Little I ask, my wants are few,
 
      I only ask a hut of stone.
-
-
-
-
 
 I should not have known, in England, that he was already asking for a
 
@@ -4632,8 +4262,6 @@ good deal even in asking for that. In the presence of this wooden world
 the very combination of words seems almost a contradiction, like a hut
 
 of marble, or a hovel of gold.
-
-
 
 It was therefore with an almost infantile pleasure that I looked at all
 
@@ -4650,8 +4278,6 @@ brought back body-armour; the next war may bring back bows and arrows.
 And I suddenly had a memory of old wooden houses in London; and a model
 
 of Shakespeare's town.
-
-
 
 It is possible indeed that such Elizabethan memories may receive a check
 
@@ -4703,8 +4329,6 @@ prairies. And the answer is agriculture. Wooden houses may or may not
 
 last; but farms will last; and farming will always last.
 
-
-
 The houses may look like gipsy caravans on a heath or common; but they
 
 are not on a heath or common. They are on the most productive and
@@ -4751,8 +4375,6 @@ society tends to the agrarian law. But in Puritan America there is an
 
 additional problem, which I can hardly explain without a periphrasis.
 
-
-
 There was a time when the progress of the cities seemed to mock the
 
 decay of the country. It is more and more true, I think, to-day that it
@@ -4781,8 +4403,6 @@ that they reach, and this is the real point about many perplexing
 
 questions.
 
-
-
 For instance, so far as I am concerned, it is the whole point about
 
 feminism and the factory. It is very largely the point about feminism
@@ -4806,8 +4426,6 @@ bankrupt business. It seems to me very much as if the peasant women,
 just before the French Revolution, had insisted on being made duchesses
 
 or (as is quite as logical and likely) on being made dukes.
-
-
 
 It is as if those ragged women, instead of crying out for bread, had
 
@@ -4840,8 +4458,6 @@ and demanding to be made Gold Stick in Waiting in the name of Liberty,
 Equality, and Fraternity; but I fear the stick in waiting would be
 
 waiting still.
-
-
 
 One of the first topics on which I heard conversation turning in America
 
@@ -4876,8 +4492,6 @@ great many advanced persons would tell us that wooden house in which
 she lived really was like a wooden coffin. But this appears to me to be
 
 taking a somewhat funereal view of the life of humanity.
-
-
 
 For, after all, on the face of it at any rate, this is merely the life
 
@@ -4921,8 +4535,6 @@ comparative equality is a true counterweight to the toppling injustice
 
 of the towns.
 
-
-
 And, even in places like that described as Main Street, that comparative
 
 equality can immediately be felt. The men may be provincials, but they
@@ -4946,8 +4558,6 @@ Jerusalem, has been very largely the march to Main Street. And the
 latest modern sensation is a book written to show how wretched it is to
 
 live there.
-
-
 
 All this is true, and I think the lady might be more contented in her
 
@@ -4975,8 +4585,6 @@ choking up the growth of natural things everywhere and turning the green
 
 world grey.
 
-
-
 In this relative agricultural equality the Americans of the Middle West
 
 are far in advance of the English of the twentieth century. It is not
@@ -4994,8 +4602,6 @@ peasantries, create other kinds of culture besides the kind called
 agriculture. Their culture comes from the great cities; and that is
 
 where all the evil comes from.
-
-
 
 If a man had gone across England in the Middle Ages, or even across
 
@@ -5016,8 +4622,6 @@ adventures of a traveller passing from one patch of peasantry to
 another, and finding women wearing strange head-dresses and men singing
 
 new songs.
-
-
 
 A traveller in America would be somewhat surprised if he found the
 
@@ -5059,8 +4663,6 @@ and that democracy may yet save their country even from the calamities
 
 of wealth and science.
 
-
-
 But, while these farmers do not need to become industrial in order to
 
 become industrious, they do tend to become industrial in so far as they
@@ -5074,8 +4676,6 @@ and bring with them a blast of death and a reek of rotting things. It is
 that influence that alone prevents the Middle West from progressing
 
 towards the Middle Ages.
-
-
 
 For, after all, linked up in a hundred legends of the Middle Ages, may
 
@@ -5140,8 +4740,6 @@ drinkers and monomaniacs and hideous hypocrites of that happy village,
 almost the only record of respect and a recognition of wider hopes is
 
 dedicated to the Catholic priest.
-
-
 
 But Main Street is Main Street in the main. Main Street is Modern Street
 
@@ -5211,19 +4809,7 @@ telegraph pole, I saw vast and far and faint, as the first men saw it,
 
 the silver pattern of the Plough.
 
-
-
-
-
-
-
-
-
 _The American Business Man_
-
-
-
-
 
 It is a commonplace that men are all agreed in using symbols, and all
 
@@ -5251,8 +4837,6 @@ difficulties with the authorities, if he shot a man for using the red
 
 flag on the railway between Willesden and Clapham Junction.
 
-
-
 But, of course, the difficulty about symbols is generally much more
 
 subtle than in these simple cases. I have remarked elsewhere that the
@@ -5262,8 +4846,6 @@ first thing which a traveller should write about is the thing which he
 has not read about. It may be a small or secondary thing, but it is a
 
 thing that he has seen and not merely expected to see.
-
-
 
 I gave the example of the great multitude of wooden houses in America;
 
@@ -5279,8 +4861,6 @@ it; but even on the face of it, it might mean many different and even
 
 opposite things.
 
-
-
 For instance, a wooden house might suggest an almost savage solitude; a
 
 rude shanty put together by a pioneer in a forest; or it might mean a
@@ -5295,8 +4875,6 @@ England. It might mean a grey ruin at Stratford or a white exhibition at
 
 Earl's Court.
 
-
-
 It is when we come to this interpretation of international symbols that
 
 we make most of the international mistakes. Without the smallest error
@@ -5310,8 +4888,6 @@ skirts. Merely to apply it to this case, I will take the example of two
 very commonplace and trivial objects of modern life--a walking stick and
 
 a fur coat.
-
-
 
 As it happened, I travelled about America with two sticks, like a
 
@@ -5337,8 +4913,6 @@ given me by the Knights of Columbus at Yale, and I wish I could think
 
 that their chivalric title allowed me to regard it as a sword.
 
-
-
 Now, I do not know whether the Americans I met, struck by the fastidious
 
 foppery of my dress and appearance, concluded that it is the custom of
@@ -5353,8 +4927,6 @@ by Englishmen than by Americans; it is that the sticks which are carried
 
 by Americans stand for something entirely different.
 
-
-
 In America a stick is commonly called a cane, and it has about it
 
 something of the atmosphere which the poet described as the nice conduct
@@ -5368,8 +4940,6 @@ deduce that if he does that he does nothing else. But there is about it
 a faint flavour of luxury and lounging, and most of the energetic
 
 citizens of this energetic society avoid it by instinct.
-
-
 
 Now, in an Englishman like myself, carrying a stick may imply lounging,
 
@@ -5392,8 +4962,6 @@ in lanes and meadows and knocks the tops off thistles. It suggests the
 sort of man who has carried the stick through his native woods, and
 
 perhaps even cut it in his native woods.
-
-
 
 There are plenty of these vigorous loungers, no doubt, in the rural
 
@@ -5419,8 +4987,6 @@ a handle is less free than the hand on a stick or even a tool. But these
 
 again are controversial questions and I am only noting a fact.
 
-
-
 If an Englishman wished to imagine more or less exactly what the
 
 impression is, and how misleading it is, he could find something like a
@@ -5434,8 +5000,6 @@ exaggerated impression of the luxury of the place was largely produced
 by the number of men in fur coats, and what we should consider rather
 
 ostentatious fur coats, with all the fur outside.
-
-
 
 Now an Englishman has a number of atmospheric but largely accidental
 
@@ -5452,8 +5016,6 @@ mob of American millionaires, or even African millionaires; for the
 millionaires of Chicago must be like the Knights of the Round Table
 
 compared with the millionaires of Johannesburg.
-
-
 
 But, as a matter of fact, the man in the fur coat was not even an
 
@@ -5491,8 +5053,6 @@ stick which would here suggest a lounger would in England suggest a
 
 plodder and almost a pilgrim.
 
-
-
 And these two trifles are types which I should like to put, by way of
 
 proviso and apology, at the very beginning of any attempt at a record of
@@ -5525,8 +5085,6 @@ sort of potential criticism, and that even when I am certain of the
 
 facts I do not profess to be certain of the deductions.
 
-
-
 In this chapter I hope to point out how a misunderstanding of this kind
 
 affects the common impression, not altogether unfounded, that the
@@ -5546,8 +5104,6 @@ substances, I am always open to correction. That error is the price we
 pay for the great glory of nationality. And in this sense I am quite
 
 ready, at the start, to warn my own readers against my own opinions.
-
-
 
 The fact without the truth is futile; indeed the fact without the truth
 
@@ -5631,8 +5187,6 @@ deeper things in the Englishman, of which the Englishman is even more
 
 ignorant.
 
-
-
 To begin with, I fancy that the American, quite apart from any love of
 
 money, has a great love of measurement. He will mention the exact size
@@ -5670,8 +5224,6 @@ particularity with which a boy will distinguish the uniforms of
 regiments, the rigs of ships, or even the colours of tram tickets. It is
 
 a certain godlike appetite for things, as distinct from thoughts.
-
-
 
 But there is also, of course, a much deeper cause of the difference; and
 
@@ -5729,8 +5281,6 @@ has achieved some degree of democracy; which is the most difficult
 
 achievement in the world.
 
-
-
 On the other hand, there is a good side to the Englishman's day-dream of
 
 leisure, and one which the American spirit tends to miss. It may be
@@ -5751,10 +5301,6 @@ it may be said of many an Englishman that his heart is not where his
 
 treasure is. Browning expressed a very English sentiment when he said:--
 
-
-
-
-
      I like to know a butcher paints,
 
      A baker rhymes for his pursuit,
@@ -5764,10 +5310,6 @@ treasure is. Browning expressed a very English sentiment when he said:--
      His soul with song, or haply mute
 
      Blows out his brains upon the flute.
-
-
-
-
 
 Stevenson touched on the same insular sentiment when he said that many
 
@@ -5851,8 +5393,6 @@ brains upon the flute there is always a danger that he may blow them out
 
 somewhere else, owing to depressed conditions in the candlestick market.
 
-
-
 Now certainly one of the first impressions of America, or at any rate
 
 of New York, which is by no means the same thing as America, is that of
@@ -5901,8 +5441,6 @@ that these are something more than men smoking cigars and talking about
 
 dollars we had much better not see them at all.
 
-
-
 It is customary to condemn the American as a materialist because of his
 
 worship of success. But indeed this very worship, like any worship,
@@ -5938,8 +5476,6 @@ they pay a compliment to his fine spirituality more true and delicate
 than they imagine. The dollar is an idol because it is an image; but it
 
 is an image of success and not of enjoyment.
-
-
 
 That this romance is also a religion is shown in the fact that there is
 
@@ -6043,8 +5579,6 @@ even in the fiction of aristocracy; that a gentleman may at least be
 
 allowed to be good without being bothered to make it.
 
-
-
 Another objection to the phrase about the almighty dollar is that it is
 
 an almighty phrase, and therefore an almighty nuisance. I mean that it
@@ -6092,8 +5626,6 @@ better than we do. We have found the one thing that we did not expect;
 and therefore the one thing that we cannot explain. And we are moved to
 
 an effort, probably an unsuccessful effort, to explain it.
-
-
 
 For instance, Americans are very unpunctual. That is the last thing that
 
@@ -6188,8 +5720,6 @@ romance, though it revolves round pork or petrol, is really like a
 love-affair in this; that it involves not only rushing but also
 
 lingering.
-
-
 
 The American is too busy to have business habits. He is also too much in
 
@@ -6294,8 +5824,6 @@ but harm; but it does them good to buy and sell them. The claim of the
 romantic salesman is better justified than he realises. Business really
 
 is romance; for it is not reality.
-
-
 
 There is one real advantage that America has over England, largely due
 
@@ -6425,19 +5953,7 @@ fantastic glory or chivalry about us, the very shaft we sent against
 
 them shone with the name of Nelson, a shooting and a falling star.
 
-
-
-
-
-
-
-
-
 _Presidents and Problems_
-
-
-
-
 
 All good Americans wish to fight the representatives they have chosen.
 
@@ -6486,8 +6002,6 @@ that their social luxury, and especially their sport, are a little
 lacking in humanity and humour. It is the American, much more than the
 
 Englishman, who takes his pleasures sadly, not to say savagely.
-
-
 
 The genuine popularity of constitutional monarchs, in parliamentary
 
@@ -6571,8 +6085,6 @@ know is not their ruler. We need not be surprised that he is popular,
 
 knowing how they are ruled.
 
-
-
 The popularity of a President in America is exactly the opposite. The
 
 American Republic is the last mediaeval monarchy. It is intended that
@@ -6590,8 +6102,6 @@ constitutional monarchs. In short, the names have become curiously
 interchanged; and as a historical reality it is the President who ought
 
 to be called a King.
-
-
 
 But it is not only true that the President could correctly be called a
 
@@ -6636,8 +6146,6 @@ that the President rules; and some Senators and members of Congress
 would prefer to say that he rebels. But there is no doubt that he moves;
 
 he does not take the chair or even the stool, but rather the stump.
-
-
 
 Some people seem to suppose that the fall of President Wilson was a
 
@@ -6692,8 +6200,6 @@ for the threat against Prussia. But in so far as the democracy did
 disagree with him, it was but the occasional and inevitable result of
 
 the theory by which the despot has to anticipate the democracy.
-
-
 
 Thus the American King and the English President are the very opposite
 
@@ -6752,8 +6258,6 @@ conserved. It was from the first a problem; and those who will not even
 admit the Capitalist problem deserve to get the Bolshevist solution. All
 
 things considered, I cannot say anything worse of them than that.
-
-
 
 The recent Presidential election preserved some trace of the old Party
 
@@ -6977,8 +6481,6 @@ who will do things. What is wanted is a strong man who will undo things;
 
 and that will be a real test of strength.
 
-
-
 Anyhow, we could have believed, in the time of the Free Silver fight,
 
 that the Democratic party was democratic with a small d. In Mr. Wilson
@@ -7036,8 +6538,6 @@ rapidly to enormous size. Men are left free to judge of them with fresh
 minds. And that is the truth in the statement that the Washington
 
 Conference has opened the gates of a new world.
-
-
 
 On the relations to England and Ireland I will not attempt to dwell
 
@@ -7119,8 +6619,6 @@ divorcée, fill up the round of their good and happy lives, and fleet the
 
 time carelessly as in the golden age.
 
-
-
 But putting aside all this vast and distant democracy, which is the real
 
 'majority of Americans,' and confining ourselves to that older culture
@@ -7162,8 +6660,6 @@ he will dismiss this conjecture, and come to the conclusion that a
 number of educated Americans are very warmly and sincerely sympathetic
 
 with England.
-
-
 
 What I began to feel, with a certain creeping chill, was that they were
 
@@ -7210,8 +6706,6 @@ the mood and movement of a hundred years, was one of furious anger. But
 the anger has given place to anxiety; and the anxiety is not yet at an
 
 end.
-
-
 
 It is not my business here to expound my view of English politics, still
 
@@ -7317,8 +6811,6 @@ impossible, of those jolly Bavarians!' or, 'I will never believe it,
 
 when I think of the time I had at Heidelberg!'
 
-
-
 But there are other things besides the parallel of Prussia or the
 
 problem of Ireland. The American press is much freer than our own; the
@@ -7350,8 +6842,6 @@ of exactly how the important part of every story is left out, and even
 the part that is reported is not understood, he could hardly have a
 
 stronger case than the story of Henry Ford of Detroit.
-
-
 
 When I was in Detroit I had the pleasure of meeting Mr. Ford, and it
 
@@ -7443,8 +6933,6 @@ peace; but we cannot say that he was so mad on peace that he made war on
 
 Israel.
 
-
-
 It happened that, when I was in America, I had just published some
 
 studies on Palestine; and I was besieged by Rabbis lamenting my
@@ -7482,8 +6970,6 @@ be an opinion; and one I should be perfectly entitled to hold; though as
 a matter of fact I do not hold it. No extravagance of hatred merely
 
 following on _experience_ of Jews can properly be called a prejudice.
-
-
 
 Now the point is that this new American Anti-Semitism springs from
 
@@ -7524,8 +7010,6 @@ themselves, who are trying to find a solution. That is the meaning of
 the incident of Mr. Henry Ford of Detroit; and you will hardly hear an
 
 intelligible word about it in England.
-
-
 
 The talk of prejudice against the Japs is not unlike the talk of
 
@@ -7570,8 +7054,6 @@ our friendship with Japan and our friendship with America, when they
 finally tend in a sort of summing up to dwell on the superior virtues of
 
 Japan, I may be permitted to make a single comment.
-
-
 
 We are perpetually boring the world and each other with talk about the
 
@@ -7637,19 +7119,7 @@ heroic stories revolve round polygamy and suicide, and whose heroes wore
 
 two swords and worshipped the ancestors of the Mikado.
 
-
-
-
-
-
-
-
-
 _Prohibition in Fact and Fancy_
-
-
-
-
 
 I went to America with some notion of not discussing Prohibition. But I
 
@@ -7693,8 +7163,6 @@ crown of all the victories of the Crescent is that nobody reads the
 
 Koran and everybody reads the Rubaiyat.
 
-
-
 Most of us remember with satisfaction an old picture in _Punch_,
 
 representing a festive old gentleman in a state of collapse on the
@@ -7706,8 +7174,6 @@ of a cabman to the calamity. The old lady says, 'I'm sure this poor
 gentleman is ill,' and the cabman replies with fervour, 'Ill! I wish I
 
 'ad 'alf 'is complaint.'
-
-
 
 We talk about unconscious humour; but there is such a thing as
 
@@ -7736,8 +7202,6 @@ of the English people, spoke through him as the god spoke through a
 teraph-head or brazen mask of oracle. And the oracle is an omen; and in
 
 some sense an omen of doom.
-
-
 
 Observe, to begin with, the sobriety of the cabman. Note his measure,
 
@@ -7811,8 +7275,6 @@ more practical experience embodied in the practical speech of the
 
 English; and in the proverb that says 'as drunk as a lord.'
 
-
-
 Now Prohibition, whether as a proposal in England or a pretence in
 
 America, simply means that the man who has drunk less shall have no
@@ -7848,8 +7310,6 @@ of men. So long as you do not believe in justice, and so long as you are
 rich and really confident of remaining so, you can have Prohibition and
 
 be as drunk as you choose.
-
-
 
 I see that some remarks by the Rev. R. J. Campbell, dealing with social
 
@@ -7890,8 +7350,6 @@ is different from mine. But he does state both sides of the inequality
 with equal logic and clearness; and in these days of intellectual fog
 
 that alone is like a ray of sunshine.
-
-
 
 Now my primary objection to Prohibition is not based on any arguments
 
@@ -7939,8 +7397,6 @@ servile implication; the test of what we can get out of him, instead of
 
 the test of what he can get out of life.
 
-
-
 Mr. Campbell is reported to have suggested, doubtless rather as a
 
 conjecture than a prophecy, that England may find it necessary to become
@@ -7978,8 +7434,6 @@ Calhoun collapsed before it could spread to Europe. And there is always
 the hope that the same may happen to the far more materialistic Utopia
 
 of Mr. Campbell and Soft Drinks.
-
-
 
 Abstract morality is very important; and it may well clear the mind to
 
@@ -8027,8 +7481,6 @@ government that does defend those rights. Still less do I doubt what it
 
 would say of a republican government that does destroy those rights.
 
-
-
 But what are those rights? Sophists can always debate about their
 
 degree; but even sophists cannot debate about their direction. Nobody in
@@ -8070,8 +7522,6 @@ that a man has a right to a vote, but not a right to a voice about the
 choice of his dinner, is like saying that he has a right to his hat but
 
 not a right to his head.
-
-
 
 Prohibition, therefore, plainly violates the rights of man, if there are
 
@@ -8200,8 +7650,6 @@ will be all right. So it will be if ever the Puritans bring back the
 Scold's Bridle and the statutory silence of the populace. It will only
 
 be the populace that is silent. The politicians will go on talking.
-
-
 
 These I believe to be the broad facts of the problem of Prohibition; but
 
@@ -8335,8 +7783,6 @@ comes back on the defenders like a boomerang. For it proves only that
 
 Prohibition ought to be ephemeral, unless war ought to be eternal.
 
-
-
 The other excuse is much less romantic and much more realistic. I have
 
 already said enough of the cause which is really realistic. The real
@@ -8465,8 +7911,6 @@ occasional inquiries about how long it was likely to go on. It is even
 
 conceivable that some steps might have been taken to stop it.
 
-
-
 No steps are taken to stop the drinking of the rich, chiefly because
 
 the rich now make all the rules and therefore all the exceptions, but
@@ -8525,8 +7969,6 @@ which cannot be present in ours; and this chapter may well conclude upon
 
 so important a change.
 
-
-
 America can now say with pride that she has abolished the colour bar. In
 
 this matter the white labourer and the black labourer have at last been
@@ -8551,19 +7993,7 @@ Voodoo, crying aloud to some ancestral Mumbo Jumbo that the Poor White
 
 Trash was being treated according to its name.
 
-
-
-
-
-
-
-
-
 _Fads and Public Opinion_
-
-
-
-
 
 A foreigner is a man who laughs at everything except jokes. He is
 
@@ -8597,8 +8027,6 @@ humorous. And it is in the very nature of the best sort of joke to be
 
 the worst sort of insult if it is not taken as a joke.
 
-
-
 The English and the American types of humour are in one way directly
 
 contrary. The most American sort of fun involves a soaring imagination,
@@ -8626,8 +8054,6 @@ hatch an egg. But it will be inevitable, when the two come first into
 contact, that the bathos will sound like vulgarity and the extravagance
 
 will sound like boasting.
-
-
 
 Suppose an American soldier said to an English soldier in the trenches,
 
@@ -8677,8 +8103,6 @@ more flat and farcical than it is; the one escaping from the house of
 
 life by a skylight and the other by a trap-door.
 
-
-
 This difficulty of different humours is a very practical one for
 
 practical people. Most of those who profess to remove all international
@@ -8704,8 +8128,6 @@ farther than to effect an international reconciliation of all
 internationalists. But we have not solved the normal and popular problem
 
 until we have an international reconciliation of all nationalists.
-
-
 
 It is very difficult to see how humour can be translated at all. When
 
@@ -8757,8 +8179,6 @@ certainly an inconsistency; and it is an inconsistency in the moral
 
 make-up of America which both puzzles and amuses me.
 
-
-
 The danger of democracy is not anarchy but convention. There is even a
 
 sort of double meaning in the word 'convention'; for it is also used for
@@ -8802,8 +8222,6 @@ riotous to lynch him. I do not object to it being called 'the herd
 instinct,' so long as we realise that it is a metaphor and not an
 
 explanation.
-
-
 
 Public opinion can be a prairie fire. It eats up everything that opposes
 
@@ -8893,8 +8311,6 @@ when they are unconscious they are like bulls and cows. But it is when
 
 they are self-conscious that they are like each other.
 
-
-
 Individualism is the death of individuality. It is so, if only because
 
 it is an 'ism.' Many Americans become almost impersonal in their worship
@@ -8969,8 +8385,6 @@ them. He was not compressed into the mould of positive beauty, like
 
 that of the Apollo Belvedere or the American citizen.
 
-
-
 This criticism is sometimes true even of the American woman, who is
 
 certainly a much more delightful person than the mesmeric millionaire
@@ -9031,8 +8445,6 @@ in a village in the mountains where the people could hardly read or
 
 write; but all the men were like soldiers, and all the women had pride.'
 
-
-
 It sounds like a poem about an Earthly Paradise to say that in this land
 
 the old women can be more beautiful than the young. Indeed, I think Walt
@@ -9087,8 +8499,6 @@ illusion, like the spinning prairies scattered by the wheel of the
 
 train.
 
-
-
 Anyhow there is enough of this equality, and of a certain social unity
 
 favourable to sanity, to make the next point about America very much of
@@ -9126,8 +8536,6 @@ anything else that anybody chooses to fancy. There is an American
 atmosphere in which people may some day be shot for shaking hands, or
 
 hanged for writing a post-card.
-
-
 
 As for the sort of thing to which I refer, the American newspapers are
 
@@ -9173,8 +8581,6 @@ imaginative logic to prove the madness of such people, when they
 
 themselves praise it for being mad?
 
-
-
 There is also the cult of the Infant Phenomenon, of which Dickens made
 
 fun and of which educationalists make fusses. When I was in America
@@ -9215,8 +8621,6 @@ reason for hoping that a little boy of six will grow a magnificent and
 
 bushy beard.
 
-
-
 Now there is any amount of this nonsense cropping up among American
 
 cranks. Anybody may propose to establish coercive Eugenics; or enforce
@@ -9232,8 +8636,6 @@ possible causes rather peculiar to America, which may have made this
 great democracy so unlike all other democracies, and in this so
 
 manifestly hostile to the whole democratic idea.
-
-
 
 The first historical cause is Puritanism; but not Puritanism merely in
 
@@ -9327,8 +8729,6 @@ ancestor-worship of China; and instead of vainly appealing to something
 
 that is dead, they appeal to something that may never be born.
 
-
-
 There is another cause of this strange servile disease in American
 
 democracy. It is to be found in American feminism, and feminist America
@@ -9370,8 +8770,6 @@ against the social evil of beer or buttons is seen to be walking clothed
 in light, like a prophetess. Perhaps it is something of the holy aureole
 
 which the East sees shining around an idiot.
-
-
 
 But I think there is another explanation, feminine rather than feminist,
 
@@ -9461,8 +8859,6 @@ influence government of the people, by the people, for the people, will
 
 most assuredly perish from the earth.
 
-
-
 But there is always another possibility. Hints of it may be noted here
 
 and there like muffled gongs of doom. The other day some people
@@ -9509,19 +8905,7 @@ knew shall tell them that his name is Leviathan, and he is lord over all
 
 the children of pride.
 
-
-
-
-
-
-
-
-
 _The Extraordinary American_
-
-
-
-
 
 When I was in America I had the feeling that it was far more foreign
 
@@ -9536,8 +8920,6 @@ almost eerie title of the stranger. And I saw there more clearly than in
 countries counted as more remote from us, in race or religion, a paradox
 
 that is one of the great truths of travel.
-
-
 
 We have never even begun to understand a people until we have found
 
@@ -9568,8 +8950,6 @@ conjectures about its meaning. But though I do not understand it, I do
 sincerely believe that if I did understand it, I should understand
 
 America.
-
-
 
 It happened in the city of Oklahoma, which would require a book to
 
@@ -9605,8 +8985,6 @@ air of having authority to put the question, what I was doing in that
 
 city.
 
-
-
 He was a lean brown man, having rather the look of a shabby tropical
 
 traveller, with a grey moustache and a lively and alert eye. But the
@@ -9638,8 +9016,6 @@ Oklahoma, I replied with restraint that I was lecturing. To which he
 replied without restraint, but rather with an expansive and radiant
 
 pride, 'I also am lecturing. I am lecturing on astronomy.'
-
-
 
 So far a certain wild rationality seemed to light up the affair. I knew
 
@@ -9681,8 +9057,6 @@ the wheel of topsy-turvydom, and all the logic was scattered to the
 
 wind.
 
-
-
 Expanding his starry bosom and standing astraddle, with the air of one
 
 who owned the street, the strange being continued, 'Yes, I am lecturing
@@ -9706,8 +9080,6 @@ simultaneously occupying the chairs of all the faculties already
 mentioned. But these apparently were trifles to him, and something far
 
 more serious was clouding his brow.
-
-
 
 'I feel it to be my duty,' he said, 'to acquaint myself with any
 
@@ -9759,15 +9131,11 @@ master; and said, 'Oh, those are not things we expect from members of
 
 the Upper Ten.'
 
-
-
 Then that moving constellation moved away, disappearing in the dark
 
 tides of humanity, as the vision passed away down the dark tides from
 
 Sir Galahad and, starlike, mingled with the stars.
-
-
 
 That is the problem I would put to all Americans, and to all who claim
 
@@ -9833,8 +9201,6 @@ mystery of America. Because I understand nothing, I recognise the thing
 
 that we call a nation; and I salute the flag.
 
-
-
 But even in connection with this mysterious figure there is a moral
 
 which affords another reason for mentioning him. Whether he was a
@@ -9872,8 +9238,6 @@ much as to say, 'Do not imagine that our local energies are exhausted in
 shooting a Senator,' or 'Come, now, the world is young, even if Clara
 
 Smith is acquitted, and the enthusiasm of Oklahoma is not yet cold.'
-
-
 
 But my particular reason for mentioning the matter is this. Despite my
 
@@ -9965,8 +9329,6 @@ Ten. McLean was appealing to an implicit public opinion when he pelted
 
 the Senator with his gold.
 
-
-
 But something more is involved. I became conscious, as I have been
 
 conscious in reading the crime novels of America, that the millionaire
@@ -10009,8 +9371,6 @@ but in America the upper class of criminals is recognised. In both
 
 America and England, of course, it exists.
 
-
-
 This is an assumption at the back of the American mind which makes a
 
 great difference in many ways; and in my opinion a difference for the
@@ -10050,8 +9410,6 @@ house-breaker when he will not behave as a guest. An impartial
 intelligence will be much less shocked at the policeman's disrespect for
 
 the home-visitor than by the home-visitor's disrespect for the home.
-
-
 
 But that story smacks of the western soil, precisely because of the
 
@@ -10147,19 +9505,7 @@ the Seventh Heaven of sentimentalism I touch on elements that I do not
 
 understand; and when I do not understand, I say so.
 
-
-
-
-
-
-
-
-
 _The Republican in the Ruins_
-
-
-
-
 
 The heathen in his blindness bows down to wood and stone; especially to
 
@@ -10227,8 +9573,6 @@ the chief errors, at once evasive and pervasive, which perplex the
 
 problem of America.
 
-
-
 America is always spoken of as a young nation; and whether or no this be
 
 a valuable and suggestive metaphor, very few people notice that it is a
@@ -10272,8 +9616,6 @@ had a separate existence since the eighteenth century. And that is
 exactly like saying that a new chapel must be growing taller, or that a
 
 limited liability company will soon have its second teeth.
-
-
 
 Now in truth this particular conception of American hopefulness would be
 
@@ -10333,8 +9675,6 @@ rationalism; they were built in broad daylight by men who believed in
 
 nothing but the light of common day; and already their day is done.
 
-
-
 If then the promise of America were in the fact that she is one of the
 
 latest births of progress, we should point out that it is exactly the
@@ -10358,8 +9698,6 @@ and is mixed not only of good and bad, and rational and mystical, but
 also of old and new. That is what makes the task of tracing the true
 
 proportions of American life so interesting and so impossible.
-
-
 
 To begin with, such a metaphor is always as distracting as a mixed
 
@@ -10388,8 +9726,6 @@ America is in some ways what is called in advance of the times, and in
 some ways what is called behind the times; but it seems a little
 
 confusing to convey both notions by the same word.
-
-
 
 On the one hand, Americans often are successful in the last inventions.
 
@@ -10433,8 +9769,6 @@ youth. We can imagine a very young person forgetting the old toy in the
 
 excitement of a new one.
 
-
-
 But on the other hand, American manners contain much that is called
 
 young in the contrary sense; in the sense of an earlier stage of
@@ -10468,8 +9802,6 @@ abolished. The tone of American society suggests some sort of
 compromise, by which women will be allowed to smoke, but men forbidden
 
 to do so.
-
-
 
 In one respect, however, America is very old indeed. In one respect
 
@@ -10555,8 +9887,6 @@ no monuments and wrote no masterpieces. You will find no traces of it in
 
 England; but you will find them in America.
 
-
-
 The thing I mean was the real religion of the eighteenth century. Its
 
 religion, in the more defined sense, was generally Deism, as in
@@ -10609,8 +9939,6 @@ we can feel so suddenly in the silence its plain garb and formal
 
 manners, that the walking ghost of Jefferson would hardly surprise us.
 
-
-
 There is not the ghost of such a thing in England. In England the real
 
 religion of the eighteenth century never found freedom or scope. It
@@ -10620,8 +9948,6 @@ never cleared a space in which to build that cold and classic building
 called the Capitol. It never made elbow-room for that free if sometimes
 
 frigid figure called the Citizen.
-
-
 
 In eighteenth-century England he was crowded out, partly perhaps by the
 
@@ -10650,8 +9976,6 @@ There was this idealism at the very beginning of their individualism.
 There was a note of heroic publicity and honourable poverty which
 
 lingers in the very name of Cincinnati.
-
-
 
 But I have another and special reason for noting this historical fact;
 
@@ -10701,8 +10025,6 @@ That is why I went about looking for the fading traces of that lost
 
 cause, in the old-world atmosphere of the new world.
 
-
-
 But I do not, as a fact, feel that the cathedral is a ruin; I doubt if I
 
 should feel it even if I wished to lay it in ruins. I doubt if Mr.
@@ -10740,8 +10062,6 @@ there that I feel like one who treads alone some banquet hall deserted,
 whose lights are fled, whose garlands dead, and all save he departed. It
 
 is then that I feel as if I were the last Republican.
-
-
 
 But when I say that the Republic of the Age of Reason is now a ruin, I
 
@@ -10785,10 +10105,6 @@ thousand years, what about the pure Republic that has rotted into a
 
 filthy plutocracy in less than a hundred?
 
-
-
-
-
      O, hidden face of man, whereover
 
      The years have woven a viewless veil,
@@ -10801,10 +10117,6 @@ filthy plutocracy in less than a hundred?
 
      And in gold shekels coin thy love.
 
-
-
-
-
 Which has most to do with shekels to-day, the priests or the
 
 politicians? Can we say in any special sense nowadays that clergymen, as
@@ -10814,8 +10126,6 @@ such, make a poison out of the blood of the martyrs? Can we say it in
 anything like the real sense, in which we do say that yellow journalists
 
 make a poison out of the blood of the soldiers?
-
-
 
 But I understand how Swinburne felt when confronted by the image of the
 
@@ -10827,11 +10137,7 @@ not without regret, not even really without respect. I felt the same
 
 myself when I looked for the last time on the Statue of Liberty.
 
-
-
 FOOTNOTE:
-
-
 
 [1] In the conclusion of this chapter I mean by the Republic
 
@@ -10839,19 +10145,7 @@ not merely the American Republic, but the whole modern representative
 
 system, as in France or even in England.
 
-
-
-
-
-
-
-
-
 _Is the Atlantic Narrowing?_
-
-
-
-
 
 A certain kind of question is asked very earnestly in our time. Because
 
@@ -10903,8 +10197,6 @@ special analysis. It is so with the international _rapprochement_ I have
 
 to consider here.
 
-
-
 In other places I have ventured to express a doubt about whether nations
 
 can be drawn together by an ancient rumour about races; by a sort of
@@ -10922,8 +10214,6 @@ haunting my morbid mind, which it will be better for my constitution to
 confess frankly. And that is the doubt about whether they are being
 
 drawn together at all.
-
-
 
 It has long been a conversational commonplace among the enlightened that
 
@@ -10983,8 +10273,6 @@ sight of Mr. Rudyard Kipling and Mr. W. B. Yeats walking down the street
 
 arm in arm would now arouse some remark.
 
-
-
 I could give any number of other examples of the same new estrangement
 
 of nations. I could cite the obvious facts that Norway and Sweden parted
@@ -11008,8 +10296,6 @@ and sufficing example, which is here more to my purpose, and is at least
 equally sufficient for it. And that is the deepening national difference
 
 between the Americans and the English.
-
-
 
 Let me test it first by my individual experience in the matter of
 
@@ -11071,8 +10357,6 @@ the illusion. I said to myself, 'People are like this in
 
 boarding-houses,' not 'People are like this in Boston.'
 
-
-
 This can be seen even in the simple matter of language, especially in
 
 the sense of slang. Take, for instance, the delightful sketch in the
@@ -11120,8 +10404,6 @@ totally different language. After a few centuries the signatures of
 American ambassadors would look as fantastic as Gaelic, and the very
 
 name of the Republic be as strange as Sinn Fein.
-
-
 
 It is true that there has been on the surface a certain amount of give
 
@@ -11180,8 +10462,6 @@ Anglicisation of America. They have called down the punishment of the
 Americanisation of England. We must not murmur; but it is a heavy
 
 punishment.
-
-
 
 It may lift a little of its load, however, if we look at it more
 
@@ -11301,8 +10581,6 @@ in both cases they are only using jocular language without seeing the
 
 joke.
 
-
-
 There is indeed a considerable trade in the transplantation of these
 
 American jokes to England just now. They generally pine and die in our
@@ -11388,8 +10666,6 @@ would as soon express sympathy with the Republic of Switzerland by
 erecting a small Alp, with imitation snow, in the middle of St. James's
 
 Park.
-
-
 
 But all this commercial copying is very superficial; and above all, it
 
@@ -11515,8 +10791,6 @@ being merely receptive and accepting things with astonishing patience,
 
 we are not dead yet; and we have lingering gleams of sanity.
 
-
-
 For the best things do not travel. As I appear here as a traveller, I
 
 may say with all modesty that the best people do not travel either. Both
@@ -11539,19 +10813,7 @@ lands of sunset, where it shines upon wide places full of a very simple
 
 and a very happy people; and those who would see it must seek for it.
 
-
-
-
-
-
-
-
-
 _Lincoln and Lost Causes_
-
-
-
-
 
 It has already been remarked here that the English know a great deal
 
@@ -11600,8 +10862,6 @@ struggling with sea-waves or Red Indians. The whole thing would suddenly
 become clear to him if (by a simple reform) the chickens were called
 
 Pilgrim Fathers.
-
-
 
 Then he would remember all about it. The Pilgrim Fathers were champions
 
@@ -11671,8 +10931,6 @@ the North, there was something very like Old England in the South.
 
 Relatively speaking, there is still.
 
-
-
 Whenever the anniversary of the _Mayflower_ comes round, there is a
 
 chorus of Anglo-American congratulation and comradeship, as if this at
@@ -11704,8 +10962,6 @@ doubtful war. And in the leader of the Southern armies it produced what
 is perhaps the one modern figure that may come to shine like St. Louis
 
 in the lost battle, or Hector dying before holy Troy.
-
-
 
 Again, it is characteristic that while the modern English know nothing
 
@@ -11787,8 +11043,6 @@ the truth that they endure under one of the ironic silences of heaven,
 
 over the pageants and the passing triumphs of hell.
 
-
-
 But the name of Lincoln has a more immediate reference to the
 
 international matters I am considering here. His name has been much
@@ -11798,8 +11052,6 @@ invoked by English politicians and journalists in connection with the
 quarrel with Ireland. And if we study the matter, we shall hardly admire
 
 the tact and sagacity of those journalists and politicians.
-
-
 
 History is an eternal tangle of cross-purposes; and we could not take a
 
@@ -11850,8 +11102,6 @@ containing people more pro-English than Englishmen. He finds Virginians
 not only of British blood, like George Washington, but of British
 
 opinions almost worthy of George the Third.
-
-
 
 But I do not say this, as will be seen in a moment, as a criticism of
 
@@ -11947,8 +11197,6 @@ ruffians; and who will not, I regret to say, by any means enjoy even
 
 being classed with Fenians and Sinn Feiners.
 
-
-
 Now touching the actual comparison between the conquest of the
 
 Confederacy and the conquest of Ireland, there are, of course, a good
@@ -12005,8 +11253,6 @@ the opposite sense. For reasons I have already given elsewhere, I do
 
 believe that in the main Abraham Lincoln was right. But right in what?
 
-
-
 If Lincoln was right, he was right in guessing that there was not
 
 really a Northern nation and a Southern nation, but only one American
@@ -12061,8 +11307,6 @@ as indestructible as nations. If the South were as rebellious as
 
 Ireland, the North would be as wrong as England.
 
-
-
 But I desire a new English diplomacy that will exhibit, not the things
 
 in which England is wrong but the things in which England is right. And
@@ -12104,8 +11348,6 @@ elsewhere, or anywhere but in New England. And it is well, perhaps, that
 they have not yet found England where it is hidden in England; for if
 
 they found it, they would kill it.
-
-
 
 All I am concerned to consider here is the inevitable failure of this
 
@@ -12177,19 +11419,7 @@ Englishman who appended to it the answer, 'And therefore as a stranger
 
 give it welcome.'
 
-
-
-
-
-
-
-
-
 _Wells and the World State_
-
-
-
-
 
 There was recently a highly distinguished gathering to celebrate the
 
@@ -12209,8 +11439,6 @@ after-dinner speech, without an impulse to leap up and yell, and smash
 
 the decanters and wreck the dinner-table.
 
-
-
 Long ago, when I was a boy, I heard it with fury; and never since have I
 
 been able to understand any free man hearing it without fury. I heard it
@@ -12228,8 +11456,6 @@ all these wise and well-meaning persons began to talk about the
 inevitable effect of aviation in bridging the Atlantic, and establishing
 
 alliance and affection between England and America.
-
-
 
 I resent the suggestion that a machine can make me bad. But I resent
 
@@ -12272,8 +11498,6 @@ a typewriter, but I will not be dictated to by a typewriter, even of the
 newest and most complicated mechanism; nor have I ever met a typewriter,
 
 however complex, that attempted such a tyranny.
-
-
 
 Yet this and nothing else is what is implied in all such talk of the
 
@@ -12363,8 +11587,6 @@ must look far deeper into the soul of man for the thing that produces
 
 friendliness.
 
-
-
 But apart from this fallacy about the facts, I feel, as I say, a strong
 
 abstract anger against the idea, or what some would call the ideal. If
@@ -12406,8 +11628,6 @@ their visions will not materialise. The worst we suffer; but the best we
 shall at any rate escape. We may continue to endure the realities of
 
 cosmopolitan capitalism; but we shall be spared its ideals.
-
-
 
 But I am not primarily interested in the plutocrats whose vision takes
 
@@ -12476,8 +11696,6 @@ American States have such a peace, and by adding, truly enough, that
 another turn of history might easily have seen them broken up by war.
 
 The pattern of the World State is to be found in the New World.
-
-
 
 Oddly enough, as it seems to me, he proposes almost cosmic conquests for
 
@@ -12563,8 +11781,6 @@ acephalous aristocracy. But while Mr. Wells's decision seems to me
 
 strange, his reason for it seems to me still more extraordinary.
 
-
-
 He suggests that no such dictator will be needed in his World State
 
 because 'there will be no wars and no diplomacy.' A World State ought
@@ -12597,8 +11813,6 @@ first that the World State will be needed because it is strong, and
 
 then that it may safely be weak because it will not be needed.
 
-
-
 Internationalism is in any case hostile to democracy. I do not say it is
 
 incompatible with it; but any combination of the two will be a
@@ -12629,8 +11843,6 @@ been to the Cannibal Islands; or rather of the still smaller and more
 
 select minority who have come back.
 
-
-
 Given this difficulty about quite direct democracy over large areas, I
 
 think the nearest thing to democracy is despotism. At any rate I think
@@ -12644,8 +11856,6 @@ men whom the modern world really and almost reluctantly regards with
 impersonal respect, as clothed by their office with something historic
 
 and honourable, are the Pope and the President of the United States.
-
-
 
 But to admire the United States as the United States is one thing. To
 
@@ -12701,8 +11911,6 @@ black. The objection to spreading anything all over the world is that,
 
 among other things, you have to spread it very thin.
 
-
-
 But America, which Mr. Wells takes as a model, is in another sense
 
 rather a warning. Mr. Wells says very truly that there was a moment in
@@ -12755,8 +11963,6 @@ It may yet turn out to be as unfortunate as a triumph of the North
 
 Germans over the Southern traditions of Germany and of Europe.
 
-
-
 The men who will not face this fact are men whose minds are not free.
 
 They are more crushed by Progress than any pietists by Providence. They
@@ -12806,8 +12012,6 @@ introduction of the negroes was a mistake; but it may yet be found that
 the sacrifice of the Southern white man to them was even more of a
 
 mistake.
-
-
 
 The reason of this doubt is in one word. We have not yet seen the end of
 
@@ -12993,8 +12197,6 @@ second method of uniting England and America; which is not only
 
 Americanising England, but Americanising everything else.
 
-
-
 But the essential reason is that a type of culture came out on top in
 
 America and England in the nineteenth century, which cannot and would
@@ -13077,19 +12279,7 @@ social stratification, who had the courage to call a spade a spade and a
 
 slave a slave.
 
-
-
-
-
-
-
-
-
 _A New Martin Chuzzlewit_
-
-
-
-
 
 The aim of this book, if it has one, is to suggest this thesis; that the
 
@@ -13128,8 +12318,6 @@ they did, I am sure it was a quadruped that reared and bucked and kicked
 up its heels. Then the flaming sword of some angel divided them, and
 
 they fell in love with each other.
-
-
 
 Should the reader require an example a little more within historical
 
@@ -13176,8 +12364,6 @@ the Swiss climb mountains better than the Dutch build dykes; just as
 nobody can argue about whether a triangle is more triangular than a
 
 circle is round.
-
-
 
 This fancy example is alphabetically and indeed artificially simple;
 
@@ -13241,8 +12427,6 @@ dressed according to its own dignity, and expressing itself by its own
 
 creations.
 
-
-
 The sketch of America left by Charles Dickens is generally regarded as
 
 something which is either to be used as a taunt or covered with an
@@ -13296,8 +12480,6 @@ peculiar art. In a word, he created a laughable Pogram for the same
 reason that he created a laughable Pecksniff; and that was only because
 
 no other creature could have created them.
-
-
 
 It is often said that we learn to love the characters in romances as if
 
@@ -13365,8 +12547,6 @@ the American amusing because he was American; nor can I imagine a better
 
 ground for his amusement.
 
-
-
 Now many will debate on the psychological possibility of such a
 
 friendship founded on reciprocal ridicule, or rather on a comedy of
@@ -13382,8 +12562,6 @@ possible except war. If we cannot have friends in this fashion, then we
 shall sooner or later have enemies in some other fashion. There is no
 
 hope in the pompous impersonalities of internationalism.
-
-
 
 And this brings us to the real and relevant mistake of Dickens. It was
 
@@ -13454,8 +12632,6 @@ also make us smile and not be a villain. He may make us smile and not
 even be a fool. He may make us roar with laughter and be an exceedingly
 
 wise man.
-
-
 
 Now that is the paradox of America which Dickens never discovered.
 
@@ -13543,8 +12719,6 @@ Jefferson, or even Jefferson Davis, entirely in favour of Jefferson
 
 Brick.
 
-
-
 For all these three things, good, bad, and indifferent, go together to
 
 form something that Dickens missed, merely because the England of his
@@ -13586,8 +12760,6 @@ complicate them by the French faults. The notion that the Frenchman has
 the French faults and _not_ the English faults is a paradox too wild to
 
 cross his mind.
-
-
 
 He is like an old Chinaman who should laugh at Europeans for wearing
 
@@ -13659,8 +12831,6 @@ and it is based, as in all these cases, on the English misunderstanding
 
 of England.
 
-
-
 For the truth is that England has suffered of late from not having
 
 enough of the free shooting of Hannibal Chollop; from not understanding
@@ -13725,8 +12895,6 @@ have wished a better fate to the frame-breakers and the fury against the
 
 first machinery, and luck to the Luddite fires.
 
-
-
 Anyhow, what is wanted is a new Martin Chuzzlewit, told by a wiser Mark
 
 Tapley. It is typical of something sombre and occasionally stale in the
@@ -13781,19 +12949,7 @@ converse is also true; they have probably forgotten me; but if they
 
 remember they laugh.
 
-
-
-
-
-
-
-
-
 _The Spirit of America_
-
-
-
-
 
 I suggest that diplomatists of the internationalist school should spend
 
@@ -13895,8 +13051,6 @@ used in contrary senses, about which the same figure can be used to
 
 illustrate a more serious fact.
 
-
-
 Suppose that, in such an international interlude, an English girl and an
 
 American girl are talking about the fiancé of the former, who is coming
@@ -13943,8 +13097,6 @@ surmount any obstacle to do it. The two young ladies will then embrace
 
 as the curtain falls.
 
-
-
 Now when I was lecturing in America I was often told, in a radiant and
 
 congratulatory manner, that such and such a person was bound to come and
@@ -13981,8 +13133,6 @@ found among the people who say, perhaps with a self-revealing
 
 simplicity, that they are bound to go to a lecture.
 
-
-
 If I were asked for a single symbolic figure summing up the whole of
 
 what seems eccentric and interesting about America to an Englishman, I
@@ -14008,8 +13158,6 @@ truth individual and indescribable in any other way, is that she used
 these words: 'I've risen from a sick-bed to come and hear her, and I
 
 want my money back.'
-
-
 
 The element in that which really amuses an Englishman is precisely the
 
@@ -14065,8 +13213,6 @@ thing can excite him; that he can lose his breath in running, or lose
 
 his balance in reaching, after something that might be called silly.
 
-
-
 Now that is where the American is fundamentally different. To him the
 
 enthusiasm itself is meritorious. To him the excitement itself is
@@ -14114,8 +13260,6 @@ He is not ashamed of his emotion, of the fire or even the tear in his
 manly eye, when he tells you that the great wheel of his machine breaks
 
 four billion butterflies an hour.
-
-
 
 That is the point about American sport; that it is not in the least
 
@@ -14165,8 +13309,6 @@ would fast or bleed to win a race of paper boats on a pond. They would
 
 rise from a sick-bed to listen to Mrs. Asquith.
 
-
-
 But it is the real reason that interests me here. It is certainly not
 
 that Americans are so stupid as not to know that cocoa-nuts are only
@@ -14200,8 +13342,6 @@ in a hot crowd at a trivial lecture, he has self-respect; his dignity
 is at rest. That is what he means when he says he is bound to come to
 
 the lecture.
-
-
 
 Now the Englishman is fond of occasional larks. But these things are not
 
@@ -14293,8 +13433,6 @@ when they smash windows. But I doubt if many Americans understand
 
 exactly what we mean by the mood; especially the passive mood.
 
-
-
 It is only by trying to get some notion of all this that an Englishman
 
 can enjoy the final crown and fruit of all international friendship;
@@ -14353,8 +13491,6 @@ should be like wires; but rather that the very wires should be like
 
 nerves.
 
-
-
 Another approximation to the truth would be to say that an American is
 
 really not ashamed of curiosity. It is not so simple as it looks. Men
@@ -14403,8 +13539,6 @@ when they are fools, by what they think they are; and when they are
 
 wise, by what they wish to be.
 
-
-
 There are truths that have almost become untrue by becoming untruthful.
 
 There are statements so often stale and insincere that one hesitates to
@@ -14435,8 +13569,6 @@ Americans do not understand, even when they possess it; but I think they
 
 do possess it.
 
-
-
 The devil can quote Scripture for his purpose; and the text of Scripture
 
 which he now most commonly quotes is, 'The kingdom of heaven is within
@@ -14465,19 +13597,7 @@ the whole advantage of having the kingdom within is that we look for it
 
 somewhere else.
 
-
-
-
-
-
-
-
-
 _The Spirit of England_
-
-
-
-
 
 Nine times out of ten a man's broad-mindedness is necessarily the
 
@@ -14522,8 +13642,6 @@ possible for the larger thing to be swallowed by the smaller; and for
 men to move about not only in a Clapham sect but in a Clapham cosmos
 
 under Clapham moon and stars.
-
-
 
 But if this danger exists for all men, it exists especially for the
 
@@ -14585,8 +13703,6 @@ And in the same way the Englishman never cuts a less convincing figure
 
 before other nations than when he tries to arbitrate between them.
 
-
-
 I have by this time heard a great deal about the necessity of saving
 
 Anglo-American friendship, a necessity which I myself feel rather too
@@ -14608,8 +13724,6 @@ nationalism is English nationalism, which is a reality; and not English
 imperialism, which is a reactionary fiction, or English
 
 internationalism, which is a revolutionary one.
-
-
 
 For the English are reviled for their imperialism because they are not
 
@@ -14654,8 +13768,6 @@ saw a thousand strange things and remained a stranger. He was the
 Robinson Crusoe on a hundred desert islands; and on each he remained as
 
 insular as on his own island.
-
-
 
 What is wanted for the cause of England to-day is an Englishman with
 
@@ -14709,8 +13821,6 @@ doing. It is to make England attractive as a nationality, and even as a
 
 small nationality.
 
-
-
 For it is a wild folly to suppose that nations will love each other
 
 because they are alike. They will never really do that unless they are
@@ -14754,8 +13864,6 @@ even in the scalp-hunter and the cannibal, the torturer and the
 devil-worshipper, that sort of interest has never been felt in the
 
 Englishman.
-
-
 
 And this is the more extraordinary because the Englishman is really very
 
@@ -14805,8 +13913,6 @@ has already been done to Ireland; and as an indignant patriot I demand a
 
 more equal treatment for the two nations.
 
-
-
 I have already noted the commonplace that in order to teach
 
 internationalism we must talk nationalism. We must make the nations as
@@ -14855,8 +13961,6 @@ but level; that the hilarious American spirit is like a plateau, and the
 
 humorous English spirit like a ragged mountain range.
 
-
-
 The Englishman is moody; which does not in the least mean that the
 
 Englishman is morose. Dickens, as we all feel in reading his books, was
@@ -14876,8 +13980,6 @@ all the more of a typical Englishman for being a man of moods. But it
 was because of this, almost entirely, that he had a misunderstanding
 
 with America.
-
-
 
 In America there are no moods, or there is only one mood. It is the same
 
@@ -14908,8 +14010,6 @@ it is always rather overpowering for an Englishman, whose mood changes
 like his own mutable and shifting sky. The English mood is very like the
 
 English weather; it is a nuisance and a national necessity.
-
-
 
 If any one wishes to understand the quarrel between Dickens and the
 
@@ -14976,8 +14076,6 @@ feel hospitable and yet not welcome those whom he really loves. He can
 think, almost with tears of tenderness, about people at a distance who
 
 would be bores if they came in at the door.
-
-
 
 American sociability sweeps away any such subtlety. It cannot be
 
@@ -15071,8 +14169,6 @@ defiance and of death for an idea. Touching the souls of great nations,
 
 these criticisms are generally false because they are critical.
 
-
-
 But when we are quite sure that we rejoice in a nation's strength, then
 
 and not before we are justified in judging its weakness. I am quite sure
@@ -15134,8 +14230,6 @@ side have still to learn the meaning of the public thing, the republic;
 and how great are the dangers of cowardice and corruption when the very
 
 State itself has become a State secret.
-
-
 
 The English are patriotic; but patriotism is the unconscious form of
 
@@ -15201,19 +14295,7 @@ dizziest heights of the divine understanding before he saw, as from a
 
 peak far above a whirlpool, how precious is his perishing soul.
 
-
-
-
-
-
-
-
-
 _The Future of Democracy_
-
-
-
-
 
 The title of this final chapter requires an apology. I do not need to be
 
@@ -15300,8 +14382,6 @@ a summary of what has really happened to the idea of democracy in recent
 times; the second a suggestion of the fundamental doctrine which is
 
 necessary for its triumph at any time.
-
-
 
 The last hundred years has seen a general decline in the democratic
 
@@ -15431,8 +14511,6 @@ Missing Link. The Missing Link was a true metaphor in more ways than
 
 one; and most of all in its suggestion of a chain.
 
-
-
 By a symbolic coincidence, indeed, slavery grew more brazen and brutal
 
 under the encouragement of more than one movement of the progressive
@@ -15482,8 +14560,6 @@ South had begun by agreeing reluctantly to the enslavement of men. The
 South ended by agreeing equally reluctantly to the emancipation of
 
 monkeys.
-
-
 
 That is what had happened to the democratic ideal in a hundred years.
 
@@ -15599,8 +14675,6 @@ eating dago. There were different sorts of apes; but there was no doubt
 
 that we were the superior sort.
 
-
-
 Against all this irresistible force stood one immovable post. Against
 
 all this dance of doubt and degree stood something that can best be
@@ -15641,17 +14715,9 @@ tradition that alone is sure of itself. Hundreds have heard the story
 
 about the mediaeval demagogue who went about repeating the rhyme
 
-
-
-
-
      When Adam delved and Eve span,
 
      Who was then the gentleman?
-
-
-
-
 
 Many have doubtless offered the obvious answer to the question, 'The
 
@@ -15723,8 +14789,6 @@ all men equal; and it is right; for if they were not created equal, they
 
 were certainly evolved unequal.
 
-
-
 There is no basis for democracy except in a dogma about the divine
 
 origin of man. That is a perfectly simple fact which the modern world
@@ -15748,8 +14812,6 @@ decision, 'No, I don't,' and there is no more disputing about it further
 than about the beauty of a fading cloud. And the modern world of moods
 
 is a world of clouds, even if some of them are thunderclouds.
-
-
 
 For I have only taken here, as a convenient working model, the case of
 
@@ -15792,8 +14854,6 @@ eighteenth century, will be about as effective as telling them that they
 are not observing the creed of St. Athanasius or keeping the rule of St.
 
 Benedict.
-
-
 
 The world cannot keep its own ideals. The secular order cannot make
 
@@ -15851,8 +14911,6 @@ Thomas More is the only surviving Humanist. St. Louis is the only
 
 surviving knight.
 
-
-
 It would be the worst sort of insincerity, therefore, to conclude even
 
 so hazy an outline of so great and majestic a matter as the American
@@ -15909,31 +14967,15 @@ of legends, where instincts find their true images, that the cry went
 
 forth that freedom is an eagle, whose glory is gazing at the sun.
 
-
-
-
-
-
-
-
-
-
-
 End of Project Gutenberg's What I Saw in America, by G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK WHAT I SAW IN AMERICA ***
-
-
 
 ***** This file should be named 27250-8.txt or 27250-8.zip *****
 
 This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/2/7/2/5/27250/
-
-
 
 Produced by Irma Špehar, Martin Pettit and the Online
 
@@ -15943,15 +14985,9 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -15985,21 +15021,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -16013,15 +15039,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -16043,8 +15063,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -16062,8 +15080,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -16095,8 +15111,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -16115,11 +15129,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -16133,8 +15143,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -16142,8 +15150,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -16165,8 +15171,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -16179,15 +15183,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -16198,8 +15198,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -16223,23 +15221,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -16265,8 +15257,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -16281,8 +15271,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -16291,13 +15279,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -16311,11 +15295,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -16336,8 +15316,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -16365,8 +15343,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -16391,8 +15367,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -16400,8 +15374,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -16416,8 +15388,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -16439,13 +15409,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -16456,8 +15420,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -16477,15 +15439,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -16503,8 +15459,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -16519,8 +15473,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -16529,15 +15481,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -16552,8 +15498,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -16571,8 +15515,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -16581,15 +15523,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -16599,15 +15537,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -16617,10 +15549,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -16629,17 +15557,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -16648,7 +15568,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: WhatISawInAmerica.txt =====

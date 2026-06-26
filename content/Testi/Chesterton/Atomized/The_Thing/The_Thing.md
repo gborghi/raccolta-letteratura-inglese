@@ -3150,7 +3150,6 @@ that is the inevitable intellectual disaster in which they have already
 involved themselves; and we have only to wait as patiently as we can,
 to see how long it is before they realise what has happened.
 
-
 -/-
 
 THE CALL TO THE BARBARIANS
@@ -3715,7 +3714,6 @@ save us from all this gunpowder, for God's sake let us listen to them."
 Even logic they are prepared, in their despair, to accept.
 They will not only listen to religion, they will even perhaps listen
 to reason, if it will promise them a little peace.
-
 
 -/-
 
@@ -4898,7 +4896,6 @@ And when we have reached that point, it is not difficult to see
 that the very invasion and spoliation proclaim it to be a Holy City;
 unique and universal and towering over the tribes of men.
 
-
 -/-
 
 A SPIRITUALIST LOOKS BACK
@@ -5270,7 +5267,6 @@ do not use the word here in a contemptuous sense, for in these
 things there is a very close kinship between sentiment and sense.
 But the fact remains that all the people in his position can only go
 on being sensible.  It is left for us to be also reasonable.
-
 
 -/-
 
@@ -7134,6 +7130,3 @@ and one day when men seek for all that is buried in themselves,
 and discover, where she is indeed hidden, behind locked gates
 and shuttered windows, and doors thrice barred and bolted,
 the spirit of liberty.
-
-
-===== FINE FILE: The_Thing.txt =====

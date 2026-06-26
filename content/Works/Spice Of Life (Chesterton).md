@@ -36,14 +36,11 @@ tags:
 - [Chapter 05 AT HOME AND ABROAD](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD)
 - [Chapter 06 THE SPICE OF LIFE](/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_06_THE_SPICE_OF_LIFE)
 
-
 ## Testo integrale / Full text
 
 THE SPICE OF LIFE
 
 AND OTHER ESSAYS
-
-
 
 by
 
@@ -53,24 +50,15 @@ Edited by
 
 DOROTHY COLLINS
 
-
-
-
 These essays cover a wide range of time and source.  The Spice
 of Life was written only three months before G.K. Chesterton died.
 None of them has appeared in a collection before.
 
 D.E.C.
 
-
-
-
 CONTENTS
 
-
-
 Part One:  Essays on Literature in General
-
 
 Sentimental Literature
 
@@ -82,9 +70,7 @@ Fiction as Food
 
 The Soul in Every Legend
 
-
 Part Two:  On Particular Books and Writers
-
 
 The Macbeths
 
@@ -104,9 +90,7 @@ Disputes on Dickens
 
 Charlotte Bronte as a Romantic
 
-
 Part Three:  Thought and Belief
-
 
 Anti-Religious Thought in the Eighteenth Century
 
@@ -118,9 +102,7 @@ The Religious Aim of Education
 
 The Philosophy of Islands
 
-
 Part Four:  At Home and Abroad
-
 
 On Holidays
 
@@ -136,9 +118,7 @@ Scipio and the Children
 
 The Real Issue
 
-
 Part Five:  The Spice of Life
-
 
 The Comic Constable
 
@@ -152,16 +132,7 @@ On Fragments
 
 Sources
 
-
-
-
-
-
-
-
 THE ESSAY by G. K. Chesterton.
-
-
 
 THE ESSAY is the only literary form which confesses, in its very name,
 that the rash act known as writing is really a leap in the dark.
@@ -191,8 +162,6 @@ the sonnet or the ode the contemplative life.  The essay is the joke.
 
 Extract from introductory essay by G. K. Chesterton to Essays
 of the Year.  See pp.  173-5 for all sources.
-
-
 
 PART ONE:  LITERATURE IN GENERAL
 
@@ -322,7 +291,6 @@ But the supreme fact remains, that we can never estimate the value
 of a dream; that we can never know whether the ascetics, who drugged
 themselves with visions and scourged themselves with rods,
 were not the happiest of all the children of men.
-
 
 HOW TO WRITE A DETECTIVE STORY
 
@@ -525,7 +493,6 @@ which is in itself a simple notion; some fact of daily life
 that the writer can remember and the reader can forget.
 But anyhow, a tale has to be founded on a truth; and though opium
 may be added to it, it must not merely be an opium dream.
-
 
 HUMOUR
 
@@ -772,7 +739,6 @@ so it is the worst sort of pomposity to be monotonously proud of humour;
 for it is itself the chief antidote to pride; and has been,
 ever since the time of the Book of Proverbs, the hammer of fools.
 
-
 FICTION AS FOOD
 
 I have been asked to explain what I meant by saying that "Literature
@@ -975,7 +941,6 @@ that represents our life as dangerous and startling is truer
 than any literature that represents it as dubious and languid.
 For life is a fight and is not a conversation.
 
-
 THE SOUL IN EVERY LEGEND
 
 I THINK it was that very fine and subtle writer, Vernon Lee, who lapsed
@@ -1146,8 +1111,6 @@ as positive and as personal; that the light which we follow first
 as a wide white star actually narrows as we draw nearer to it,
 till we find that trailing meteor is something like a light in a
 window or a candle in a room.
-
-
 
 PART TWO:  PARTICULAR BOOKS AND WRITERS
 
@@ -1455,8 +1418,6 @@ and gratitude which ultimately place the soul in heaven.
 But wherever they are they are together.  For alone among so many
 of the figures of human fiction, they are actually married.
 
-
-
 THE TRAGEDY OF KING LEAR
 
 THE TRAGEDY of King Lear, on some of its elements perhaps the very
@@ -1590,7 +1551,6 @@ and that Goneril and Regan are not only daughters but traitors.
 Treason, or what is felt as treason, does break the heart of the world;
 and it has seldom been so nearly broken as here.
 
-
 THE EVERLASTING NIGHTS
 
 No one has any business with the Arabian Nights who objects
@@ -1686,7 +1646,6 @@ For as the most hideous nightmare in the world is an empty leisure,
 so the most enduring pleasure is a full leisure.  We can defend ourselves,
 even on the Day of Judgment, if our work has been useless,
 with pleas of opportunity, competition and fulness of days.
-
 
 AESOP'S FABLES
 
@@ -1828,7 +1787,6 @@ You will not find any other legend but this written upon the rocks
 by any hand of man.  There is every type and time of fable;
 but there is only one moral to the fable; because there is only
 one moral to everything.
-
 
 BOTH SIDES OF THE LOOKING-GLASS
 
@@ -1976,7 +1934,6 @@ original note, the great fairy-tale that is really a folk-tale?
 I only know that if you try to deprive me of either of them,
 there will be a row.
 
-
 AND SO TO BED
 
 I WILL not say that the Englishman is the most subtle of all the beasts
@@ -2089,7 +2046,6 @@ and moral Comfort.  And we know, because Mr. Winston Churchill
 tells us in the Strand Magazine, that we have a noble Parliament
 and more freedom than any foreigners; and a poor man has as much
 chance as a rich man in our courts of law.  And so to bed.
-
 
 AS LARGE AS LIFE IN DICKENS
 
@@ -2212,7 +2168,6 @@ He saw deeper than a hundred statisticians and philanthropic economists.
 No man on earth was ever a more fierce and mutinous Radical than he;
 but he saw that all calculations of the mortal hours of men left
 out the everlasting moment.
-
 
 DISPUTES ON DICKENS
 
@@ -2381,7 +2336,6 @@ sense of a world almost choked with adventure and a hero constant
 only in the mutability of a comic Ulysses, faithful only to his
 own omnivorous fickleness.
 
-
 CHARLOTTE BRONTE AS A ROMANTIC
 
 THE GENIUS OF Charlotte Bronte is unique in the only valuable sense in
@@ -2513,8 +2467,6 @@ had run like a silver thread through the purple tapestries of Ariosto;
 and we may willingly salute in our great country-woman, especially amid
 the greatest epic of our country, something of that nobility
 which is in the very name of Britomart.
-
-
 
 PART THREE:  THOUGHT AND BELIEF
 
@@ -2787,7 +2739,6 @@ But men were not rationalistic because they were scientists.
 Rather they became scientists because they were rationalists.
 Here as everywhere the soul of man went first, even when it denied itself.
 
-
 THE CAMP AND THE CATHEDRAL
 
 IT MUST always be something of a problem how far the private amateur
@@ -2939,7 +2890,6 @@ of history against it.  It will be because others do not feel
 as I do the enormous argument from the scale of popular stories;
 the sense that a story we have all heard from childhood is something
 solid and colossal, like a Gothic cathedral or a Roman camp.
-
 
 THE RELIGIOUS ASPECT OF WESTMINSTER ABBEY
 
@@ -3232,7 +3182,6 @@ Or it will become more and more what that mysterious energy was before
 which the Roman religion of the poets and the historians perished--
 a voice out of the catacombs and a cry from the Cross.
 
-
 THE RELIGIOUS AIM OF EDUCATION
 
 By G.K. Chesterton
@@ -3450,7 +3399,6 @@ would have taught them to be really spirited and warlike atheists.
 And to see atheists lose their one great virtue of ferocity would
 indeed be a serious loss to religion.
 
-
 THE PHILOSOPHY OF ISLANDS
 
 From The Venture Annual, 1903
@@ -3646,7 +3594,6 @@ painful resemblance to the men of Thermopylae, the Zealots,
 who raged round the fall of Jerusalem.  If we are rushing upon
 any destruction it is not, at least, upon this.
 
-
 PART FOUR:  AT HOME AND ABROAD
 
 ON HOLIDAYS
@@ -3738,7 +3685,6 @@ But this holiday sentiment will continue to weaken so long as men
 try to make all our holidays duties, or all our days holidays;
 and cannot understand that when anything is being woven the shuttle
 flies back and forth.
-
 
 THE PEASANT
 
@@ -3840,7 +3786,6 @@ never heard of either of them; he took no interest in politics.
 I think he thought politics a sort of mutiny among slaves.
 He was a free man.  I think my sociological friends really ought
 to remember that there are many millions of him in Europe.
-
 
 THE LOST RAILWAY STATION
 
@@ -3945,7 +3890,6 @@ and accumulated in the wrong place.  But I cannot pursue my guess;
 for something has happened in the Scotch railway station which
 dissipates all my dreams of the happier English railway station.
 My train has come in.
-
 
 BETHLEHEM AND THE GREAT CITIES
 
@@ -4063,7 +4007,6 @@ But no poetry even of the greatest poets will ever express all that is
 hidden in that image of the light of the world like a subterranean sun;
 only these prosaic notes remain to suggest what one individual
 felt about Bethlehem.
-
 
 THE SACREDNESS OF SITES
 
@@ -4198,7 +4141,6 @@ It would mean the sort of cities which we only call ancient because they
 are still alive.  But it would repose on the real and profoundly
 human sentiment about sites, for sites are generally shrines.
 
-
 SCIPIO AND THE CHILDREN
 
 I HAVE lately found myself in the town of Tarragona; famous for
@@ -4309,7 +4251,6 @@ and though Apollo was a Pagan god, I am glad that such a sun-god
 slew the Punic Python; and that even before the Faith, those ancient
 arrows cast down Moloch for us all.
 
-
 THE REAL ISSUE
 
 THE FOLLOWING incident took place the other day outside a crowded
@@ -4371,8 +4312,6 @@ in truth the poor lady suffered from delusions; for she laboured
 under the extraordinary notion that she had seen ignorant people
 giving a child Alcohol; and she was ridden with a sort of nightmare,
 to the effect that a beggar is a horrible thing.
-
-
 
 PART FIVE:  THE SPICE OF LIFE
 
@@ -4525,7 +4464,6 @@ it merely in this way:  What would any six streets in Hoxton
 or Whitechapel give if they could elect (however indirectly)
 the policeman who should stand at the street corner?
 
-
 CAPONE'S PAL
 
 I HAVE sometimes shocked the conventions of our time by defending
@@ -4575,7 +4513,6 @@ saying that Barrabas was a publisher.
 
 "Sure," he said with explosive emphasis; and we parted excellent friends.
 "It was just Robbery!"
-
 
 ON LOSING ONE'S HEAD
 
@@ -4666,7 +4603,6 @@ This man is the heretic; and in this way all the heresies were made.
 The anarchist goes off his head and the sophist goes off his body;
 I will not renew the old dispute about which is the worse amputation;
 but I should recommend the prudent reader to avoid both.
-
 
 THE SPICE OF LIFE**
 
@@ -4869,7 +4805,6 @@ and say to the young pessimists:
   And they may end with a whimper
   But we will end with a bang.
 
-
 ON FRAGMENTS
 
 As I have said before I am a believer in staring blankly at things;
@@ -5028,7 +4963,6 @@ Charlotte Bronte as a Contributed to a Centenary
 Romantic Memorial Volume prepared by the Bronte Society.
 Published by T. Fisher Unwin, 1917
 
-
 THOUGHT AND BELIEF
 
 Anti-Religious Thought in Contributed to An Outline of
@@ -5078,13 +5012,8 @@ The Spice of Life The Listener, March 18, 1936
 
 On Fragments Daily News, March 31, 1906
 
-
 ------------------------
 
 ** This is the text of a broadcast talk given by G. K. Chesterton
 for the British Broadcasting Corporation in their series
 THE SPICE OF LIFE.
-
-
-
-===== FINE FILE: Spice_Of_Life.txt =====

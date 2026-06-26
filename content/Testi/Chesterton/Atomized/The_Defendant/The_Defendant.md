@@ -20,7 +20,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
-
 Title: The Defendant
 
 Author: G.K. Chesterton
@@ -33,17 +32,8 @@ Character set encoding: ISO-8859-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK THE DEFENDANT ***
 
-
-
-
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
-
-
-
-
-
-
 
 THE DEFENDANT
 
@@ -69,7 +59,6 @@ _October_, 1901.
        *       *       *       *       *
 
 CONTENTS
-
 
 IN DEFENCE OF A NEW EDITION
 
@@ -107,9 +96,7 @@ A DEFENCE OF DETECTIVE STORIES
 
 A DEFENCE OF PATRIOTISM
 
-
        *       *       *       *       *
-
 
 _IN DEFENCE OF A NEW EDITION
 
@@ -307,12 +294,9 @@ despise the world--that a counsel for the defence would not have been
 out of place in that terrible day when the sun was darkened over Calvary
 and Man was rejected of men.
 
-
        *       *       *       *       *
 
-
 A DEFENCE OF PENNY DREADFULS
-
 
 One of the strangest examples of the degree to which ordinary life is
 undervalued is the example of popular literature, the vast mass of which
@@ -489,7 +473,6 @@ never hopeless. That is a class privilege, like cigars. Their drivelling
 literature will always be a 'blood and thunder' literature, as simple as
 the thunder of heaven and the blood of men.
 
-
        *       *       *       *       *
 
 A DEFENCE OF RASH VOWS
@@ -663,11 +646,9 @@ and retreats, but surely, sooner or later, the towering flame will rise
 from the harbour announcing that the reign of the cowards is over and a
 man is burning his ships.
 
-
        *       *       *       *       *
 
 A DEFENCE OF SKELETONS
-
 
 Some little time ago I stood among immemorial English trees that seemed
 to take hold upon the stars like a brood of Ygdrasils. As I walked among
@@ -798,11 +779,9 @@ much my face clouds with sombre vanity, or vulgar vengeance, or
 contemptible contempt, the bones of my skull beneath it are laughing for
 ever.
 
-
        *       *       *       *       *
 
 A DEFENCE OF PUBLICITY
-
 
 It is a very significant fact that the form of art in which the modern
 world has certainly not improved upon the ancient is what may roughly be
@@ -944,11 +923,9 @@ and blossoms underground, if the flowers closed at dawn and opened at
 sunset, if the sunflower turned towards the darkness, and the birds
 flew, like bats, by night.
 
-
        *       *       *       *       *
 
 A DEFENCE OF NONSENSE
-
 
 There are two equal and eternal ways of looking at this twilight world
 of ours: we may see it as the twilight of evening or the twilight of
@@ -1107,11 +1084,9 @@ things, has decided that 'faith is nonsense,' does not know how truly he
 speaks; later it may come back to him in the form that nonsense is
 faith.
 
-
        *       *       *       *       *
 
 A DEFENCE OF PLANETS
-
 
 A book has at one time come under my notice called 'Terra Firma: the
 Earth not a Planet.' The author was a Mr. D. Wardlaw Scott, and he
@@ -1250,11 +1225,9 @@ the blind tournament of the spheres. All this, indeed, we may surely do
 yet; for with all the multiplicity of knowledge there is one thing
 happily that no man knows: whether the world is old or young.
 
-
        *       *       *       *       *
 
 A DEFENCE OF CHINA SHEPHERDESSES
-
 
 There are some things of which the world does not like to be reminded,
 for they are the dead loves of the world. One of these is that great
@@ -1382,11 +1355,9 @@ heavily with his friend in a pot-house, the man himself is on his soul's
 holiday, crowned with the flowers of a passionate idleness, and far more
 like the Happy Peasant than the world will ever know.
 
-
        *       *       *       *       *
 
 A DEFENCE OF USEFUL INFORMATION
-
 
 It is natural and proper enough that the masses of explosive ammunition
 stored up in detective stories and the replete and solid sweet-stuff
@@ -1557,11 +1528,9 @@ science and human nature is one of the greatest needs of mankind. We
 have all to show that before we go on to any visions or creations we can
 be contented with a planet of miracles.
 
-
        *       *       *       *       *
 
 A DEFENCE OF HERALDRY
-
 
 The modern view of heraldry is pretty accurately represented by the
 words of the famous barrister who, after cross-examining for some time a
@@ -1673,11 +1642,9 @@ shall never make anything of democracy until we make fools of ourselves.
 For if a man really cannot make a fool of himself, we may be quite
 certain that the effort is superfluous.
 
-
        *       *       *       *       *
 
 A DEFENCE OF UGLY THINGS
-
 
 There are some people who state that the exterior, sex, or physique of
 another person is indifferent to them, that they care only for the
@@ -1795,12 +1762,9 @@ children. The moment we have snapped the spell of conventional beauty,
 there are a million beautiful faces waiting for us everywhere, just as
 there are a million beautiful spirits.
 
-
-
        *       *       *       *       *
 
 A DEFENCE OF FARCE
-
 
 I have never been able to understand why certain forms of art should be
 marked off as something debased and trivial. A comedy is spoken of as
@@ -1937,11 +1901,9 @@ even find pleasure, which outraged sanity and could not attain to
 exuberance, which contented itself with the fool's cap without the
 bells!
 
-
        *       *       *       *       *
 
 A DEFENCE OF HUMILITY
-
 
 The act of defending any of the cardinal virtues has to-day all the
 exhilaration of a vice. Moral truisms have been so much disputed that
@@ -2086,11 +2048,9 @@ strange-coloured oceans and strange-shaped trees, of dust like the wreck
 of temples, and thistledown like the ruin of stars--all this colossal
 vision shall perish with the last of the humble.
 
-
        *       *       *       *       *
 
 A DEFENCE OF SLANG
-
 
 The aristocrats of the nineteenth century have destroyed entirely their
 one solitary utility. It is their business to be flaunting and arrogant;
@@ -2216,11 +2176,9 @@ kind of topsy-turveydom of poetry, full of blue moons and white
 elephants, of men losing their heads, and men whose tongues run away
 with them--a whole chaos of fairy tales.
 
-
        *       *       *       *       *
 
 A DEFENCE OF BABY-WORSHIP
-
 
 The two facts which attract almost every normal person to children are,
 first, that they are very serious, and, secondly, that they are in
@@ -2321,12 +2279,9 @@ lustrous eyes seem to hold all the stars in their astonishment; their
 fascinating absence of nose seems to give to us the most perfect hint of
 the humour that awaits us in the kingdom of heaven.
 
-
-
        *       *       *       *       *
 
 A DEFENCE OF DETECTIVE STORIES
-
 
 In attempting to reach the genuine psychological reason for the
 popularity of detective stories, it is necessary to rid ourselves of
@@ -2434,11 +2389,9 @@ of conspiracies. It reminds us that the whole noiseless and unnoticeable
 police management by which we are ruled and protected is only a
 successful knight-errantry.
 
-
        *       *       *       *       *
 
 A DEFENCE OF PATRIOTISM
-
 
 The decay of patriotism in England during the last year or two is a
 serious and distressing matter. Only in consequence of such a decay
@@ -2581,16 +2534,9 @@ judged, it will not be for the merely intellectual transgression of
 failing to appreciate other nations, but for the supreme spiritual
 transgression of failing to appreciate ourselves.
 
-
 THE END
 
 BILLING AND SONS, LTD., PRINTERS, GUILDFORD
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of The Defendant, by G.K. Chesterton
 
@@ -2602,7 +2548,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -2624,8 +2569,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -2637,7 +2580,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -2851,7 +2793,6 @@ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
@@ -2869,7 +2810,6 @@ and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
@@ -2930,7 +2870,6 @@ methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
@@ -2987,8 +2926,3 @@ or filename 24689 would be found at:
 
 An alternative method of locating eBooks:
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-===== FINE FILE: The_Defendant.txt =====

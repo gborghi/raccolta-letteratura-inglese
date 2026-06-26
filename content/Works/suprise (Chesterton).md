@@ -49,8 +49,4 @@ Than all the things they see
 Sunder me from my soul, that I may see  
 The sins like streaming wounds, the life's brave beat  
 Till I shall save myself as I would save  
-A stranger in the street.  
-
-
-
-===== FINE FILE: suprise.txt =====  
+A stranger in the street.

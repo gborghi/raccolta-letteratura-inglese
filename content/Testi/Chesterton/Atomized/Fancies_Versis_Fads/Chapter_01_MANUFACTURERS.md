@@ -6066,7 +6066,3 @@ but I know not when we shall find our way back to our own land.
 --
 
 THE END
-
-
-
-===== FINE FILE: Fancies_Versis_Fads.txt =====

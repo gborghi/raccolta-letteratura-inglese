@@ -182,7 +182,3 @@ you with it after all.'
 The next instant the Magnetic Sword of the Royal Society vanished
 from men's view for ever; and Tryon could see nothing but Jeremy's
 little cross of wood heaving with the heaving stream.
-
-
-
-===== FINE FILE: Sword.txt =====

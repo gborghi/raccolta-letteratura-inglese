@@ -37,13 +37,8 @@ whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg of Australia License which may be viewed online at
 http://gutenberg.net.au/licence.html
 
-
-
 Title:      The Secret of Father Brown
 Author:     G. K. Chesterton
-
-
-
 
 To father John O'Connor, of St. Cuthbert's Bradford, whose truth is
 stranger than fiction, with a gratitude greater than the world
@@ -6767,6 +6762,3 @@ conceive any man being such a Judas?"
 "I could try." said Father Brown.
 
 THE END
-
-
-===== FINE FILE: secret_Fr_Brown.txt =====

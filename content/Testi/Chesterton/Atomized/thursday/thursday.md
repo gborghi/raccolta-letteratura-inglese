@@ -16,21 +16,11 @@ tags:
 The Man Who Was Thursday, by G. K. Chesterton Scanned and Edited by
 Harry Plantinga, planting@cs.pitt.edu This text is in the public domain
 
-
-
-
-
                    THE MAN WHO WAS THURSDAY
 
                           A NIGHTMARE
 
-
-
-
                         G. K. CHESTERTON
-
-
-
 
                   To Edmund Clerihew Bentley
 
@@ -83,13 +73,9 @@ Harry Plantinga, planting@cs.pitt.edu This text is in the public domain
 
                                                   G. K. C.
 
-
-
-
                           CHAPTER I
 
                  THE TWO POETS OF SAFFRON PARK
-
 
 THE suburb of Saffron Park lay on the sunset side of London, as red and
 ragged as a cloud of sunset.  It was built of a bright brick throughout;
@@ -493,12 +479,9 @@ address of an obscure public-house on the Chiswick bank of the river.
 The cab whisked itself away again, and in it these two fantastics
 quitted their fantastic town.
 
-
-
                           CHAPTER II
 
                  THE SECRET OF GABRIEL SYME
-
 
 THE cab pulled up before a particularly dreary and greasy beershop,
 into which Gregory rapidly conducted his companion.  They seated
@@ -831,12 +814,9 @@ repeated twice and thrice, and then thirty times, and the crowd
 of Joseph Chamberlains (a solemn thought) could be heard trampling
 down the corridor.
 
-
-
                          CHAPTER III
 
                   THE MAN WHO WAS THURSDAY
-
 
 BEFORE one of the fresh faces could appear at the doorway,
 Gregory's stunned surprise had fallen from him.  He was beside
@@ -1280,12 +1260,9 @@ by the end of it."
 "A very entertaining evening," said Syme, and he made a military salute
 with the sword-stick as the steamboat slid away.
 
-
-
                          CHAPTER IV
 
                    THE TALE OF A DETECTIVE
-
 
 GABRIEL SYME was not merely a detective who pretended to be
 a poet; he was really a poet who had become a detective.
@@ -1666,12 +1643,9 @@ and stood, a dark and slender figure, amid the enormous masonry.
 The two men in the tug put her off again and turned up stream.
 They had never spoken a word.
 
-
-
                           CHAPTER V
 
                       THE FEAST OF FEAR
-
 
 AT first the large stone stair seemed to Syme as deserted as a pyramid;
 but before he reached the top he had realised that there was a man leaning
@@ -1985,12 +1959,9 @@ that he might be the wickedest of all those wicked men.
 Syme even had the thought that his eyes might be covered up
 because they were too frightful to see.
 
-
-
                           CHAPTER VI
 
                          THE EXPOSURE
-
 
 SUCH were the six men who had sworn to destroy the world.
 Again and again Syme strove to pull together his common sense
@@ -2186,9 +2157,7 @@ that the President was wrong and that the barrel-organ was right.
 There clanged in his mind that unanswerable and terrible truism
 in the song of Roland--
 
-
 "Pagens ont tort et Chretiens ont droit."
-
 
 which in the old nasal French has the clang and groan of great iron.
 This liberation of his spirit from the load of his weakness went
@@ -2303,12 +2272,9 @@ of the scene, for he was blinded with a beneficent darkness;
 he had sunk down into his seat shuddering, in a palsy
 of passionate relief.
 
-
-
                          CHAPTER VII
 
        THE UNACCOUNTABLE CONDUCT OF PROFESSOR DE WORMS
-
 
 "SIT down!" said Sunday in a voice that he used once or twice in his life,
 a voice that made men drop drawn swords.
@@ -2642,12 +2608,9 @@ might be smoked or knives drawn.
 A moment later Professor de Worms entered the place, sat down carefully,
 and asked for a glass of milk.
 
-
-
                          CHAPTER VIII
 
                     THE PROFESSOR EXPLAINS
-
 
 WHEN Gabriel Syme found himself finally established in a chair,
 and opposite to him, fixed and final also, the lifted eyebrows
@@ -3165,12 +3128,9 @@ Syme laid down his knife and fork.
 
 Professor de Worms nodded and drained his glass.
 
-
-
                          CHAPTER IX
 
                     THE MAN IN SPECTACLES
-
 
 "BURGUNDY is a jolly thing," said the Professor sadly, as he set
 his glass down.
@@ -3799,12 +3759,9 @@ his teeth shining in his thick, black beard, and his bold,
 brown face shadowed by a light yellow straw hat and outlined
 against the violet sea.
 
-
-
                           CHAPTER X 
 
                            THE DUEL
-
 
 SYME sat down at a cafe table with his companions, his blue eyes
 sparkling like the bright sea below, and ordered a bottle of Saumur
@@ -4434,12 +4391,9 @@ clean-shaven jaws and chins of the men talking in the front.
 But presently as they talked they all smiled and one of them
 smiled on one side.
 
-
-
                          CHAPTER XI
 
                 THE CRIMINALS CHASE THE POLICE
-
 
 SYME put the field-glasses from his eyes with an almost ghastly relief.
 
@@ -4768,12 +4722,9 @@ the innkeeper, there appeared an army of black-clad and marching men.
 They seemed to hang above the good man and his house like a black cloud
 of locusts.  The horses had been saddled none too soon.
 
-
-
                          CHAPTER XII
 
                     THE EARTH IN ANARCHY
-
 
 URGING the horses to a gallop, without respect to the rather rugged
 descent of the road, the horsemen soon regained their advantage over
@@ -5449,12 +5400,9 @@ which stretched away to the distance on both sides.
 "Vulgar people are never mad.  I'm vulgar myself, and I know.
 I am now going on shore to stand a drink to everybody here."
 
-
-
                          CHAPTER XIII
 
                 THE PURSUIT OF THE PRESIDENT
-
 
 NEXT morning five bewildered but hilarious people took the boat
 for Dover.  The poor old Colonel might have had some cause
@@ -5679,9 +5627,7 @@ string of letters after his name.  Dr. Bull's address was,
 at any rate, considerably longer than his communication,
 for the communication consisted entirely of the words:--
 
-
 "What about Martin Tupper now?"
-
 
 "What does the old maniac mean?" asked Bull, staring at the words.
 "What does yours say, Syme?"
@@ -5849,9 +5795,7 @@ pieces of paper of no value wrapped one round the other.
 When the last covering was torn away it reduced itself to a small
 slip of paper, on which was written:--
 
-
 "The word, I fancy, should be 'pink'."
-
 
 The man once known as Gogol said nothing, but the movements of his hands
 and feet were like those of a man urging a horse to renewed efforts.
@@ -5939,12 +5883,9 @@ There was a short silence, and then Syme said, biting his beard--
 "I'm not beaten yet.  The blasted thing must come down somewhere.
 Let's follow it!"
 
-
-
                          CHAPTER XIV
 
                     THE SIX PHILOSOPHERS
-
 
 ACROSS green fields, and breaking through blooming hedges, toiled six
 draggled detectives, about five miles out of London.  The optimist
@@ -6409,12 +6350,9 @@ As he passed out of the room he flung the folds across his shoulder with
 a gesture, his sword stood out at an angle, and he had all the swagger
 of a troubadour.  For these disguises did not disguise, but reveal.
 
-
-
                           CHAPTER XV
 
                           THE ACCUSER
-
 
 AS Syme strode along the corridor he saw the Secretary standing at
 the top of a great flight of stairs.  The man had never looked so noble.
@@ -6709,7 +6647,6 @@ a distant voice saying a commonplace text that he had heard somewhere,
 
                          *    *    *
 
-
 When men in books awake from a vision, they commonly find
 themselves in some place in which they might have fallen asleep;
 they yawn in a chair, or lift themselves with bruised limbs
@@ -6744,12 +6681,6 @@ with the great unconscious gravity of a girl.
 
                            THE END
 
-
-
-
-
-
-
       A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
                    THE MAN WHO WAS THURSDAY
@@ -6757,7 +6688,6 @@ with the great unconscious gravity of a girl.
                       by G. K. Chesterton
 
               author of the Father Brown stories
-
 
 It is very difficult to classify THE MAN WHO WAS THURSDAY.  It is possible
 to say that it is a gripping adventure story of murderous criminals
@@ -6774,7 +6704,3 @@ unforeseeable denouement will prove for the modern reader, as it has
 for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
 discover who Sunday is.
-
-
-
-===== FINE FILE: thursday.txt =====

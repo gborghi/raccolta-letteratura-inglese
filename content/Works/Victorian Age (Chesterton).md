@@ -35,12 +35,9 @@ tags:
 - [Chapter 03](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_03)
 - [Chapter 04](/Testi/Chesterton/Atomized/Victorian_Age/Chapter_04)
 
-
 ## Testo integrale / Full text
 
 Project Gutenberg's The Victorian Age in Literature, by G. K. Chesterton
-
-
 
 This eBook is for the use of anyone anywhere at no cost and with
 
@@ -50,195 +47,81 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: The Victorian Age in Literature
-
-
 
 Author: G. K. Chesterton
 
-
-
 Release Date: June 20, 2006 [EBook #18639]
-
-
 
 Language: English
 
-
-
 Character set encoding: ISO-8859-1
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK THE VICTORIAN AGE IN LITERATURE ***
-
-
-
-
-
-
-
-
 
 Produced by Karina Aleksandrova, Juliet Sutherland and the
 
 Online Distributed Proofreading Team at http://www.pgdp.net
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 HOME UNIVERSITY LIBRARY
-
-
 
 OF MODERN KNOWLEDGE
 
-
-
-
-
 No. 61
-
-
 
 _Editors:_
 
-
-
 THE RT. HON. H. A. L. FISHER, M.A., F.B.A.
-
-
 
 PROF. GILBERT MURRAY, LITT.D., LL.D., F.B.A.
 
-
-
 PROF. SIR J. ARTHUR THOMSON, M.A.
 
-
-
 PROF. WILLIAM T. BREWSTER, M.A.
-
-
 
 _A complete classified list of the volumes of The Home University
 
 Library already published to be found at the back of this book._
 
-
-
-
-
-
-
-
-
 THE VICTORIAN AGE
 
 IN LITERATURE
 
-
-
 BY
 
-
-
 G. K. CHESTERTON
-
-
 
 NEW YORK
 
 HENRY HOLT AND COMPANY
 
-
-
 LONDON
 
 THORNTON BUTTERWORTH LTD.
 
-
-
 COPYRIGHT, 1913,
-
-
 
 BY
 
-
-
 HENRY HOLT AND COMPANY
-
-
-
-
-
-
-
-
 
 CONTENTS
 
-
-
-
-
 CHAP.                                           PAGE
-
-
 
       INTRODUCTION                                 7
 
-
-
     I THE VICTORIAN COMPROMISE AND ITS ENEMIES    12
-
-
 
    II THE GREAT VICTORIAN NOVELISTS               90
 
-
-
   III THE GREAT VICTORIAN POETS                  156
-
-
 
    IV THE BREAK-UP OF THE COMPROMISE             204
 
-
-
       BIBLIOGRAPHICAL NOTE                       253
 
-
-
       INDEX                                      255
-
-
-
-
 
 The Editors wish to explain that this book is not put forward as an
 
@@ -248,29 +131,9 @@ statement of views and impressions about the significance of Victorian
 
 literature made by Mr. Chesterton at the Editors' express invitation.
 
-
-
-
-
-
-
-
-
 THE VICTORIAN AGE IN LITERATURE
 
-
-
-
-
-
-
-
-
 INTRODUCTION
-
-
-
-
 
 A section of a long and splendid literature can be most conveniently
 
@@ -291,8 +154,6 @@ of an epoch, must be always running backwards and forwards among its
 mere dates; just as a branch bends back and forth continually; yet the
 
 grain in the branch runs true like an unbroken river.
-
-
 
 Mere chronological order, indeed, is almost as arbitrary as alphabetical
 
@@ -352,8 +213,6 @@ from his attitude to his age. His attitude to his age is his
 
 individuality: men are never individual when alone.
 
-
-
 It only remains for me, therefore, to take the more delicate and
 
 entangled task; and deal with the great Victorians, not only by dates
@@ -388,23 +247,9 @@ shall not make religion more important than it was to Keble, or politics
 
 more sacred than they were to Mill.
 
-
-
-
-
-
-
-
-
 CHAPTER I
 
-
-
 THE VICTORIAN COMPROMISE AND ITS ENEMIES
-
-
-
-
 
 The previous literary life of this country had left vigorous many old
 
@@ -514,15 +359,11 @@ Shakespeare seems rather proud of talking nonsense: I never can read
 
 that rousing and mounting description of the storm, where it comes to--
 
-
-
     "Who take the ruffian billows by the top,
 
     Curling their monstrous heads, and _hanging_ them
 
     With deafening clamour in the slippery clouds."
-
-
 
 without seeing an immense balloon rising from the ground, with
 
@@ -533,8 +374,6 @@ stop me: I am above reason now." That is the nearest we can get to the
 general national spirit, which we have now to follow through one brief
 
 and curious but very national episode.
-
-
 
 Three years before the young queen was crowned, William Cobbett was
 
@@ -561,8 +400,6 @@ with after Liberals in the ideal of Man under an equal law, a citizen of
 no mean city. He differed from after Liberals in strongly affirming that
 
 Liverpool and Leeds are mean cities.
-
-
 
 It is no idle Hibernianism to say that towards the end of the eighteenth
 
@@ -617,8 +454,6 @@ it was what people wrote. It is a quaint comment on the notion that the
 English are practical and the French merely visionary, that we were
 
 rebels in arts while they were rebels in arms.
-
-
 
 It has been well and wittily said (as illustrating the mildness of
 
@@ -679,8 +514,6 @@ revolutionary than the real French Revolution: and if Carrier, in an
 exaggerative phrase, empurpled the Loire with carnage, Turner almost
 
 literally set the Thames on fire.
-
-
 
 This trend of the English Romantics to carry out the revolutionary idea
 
@@ -792,8 +625,6 @@ their "art for art" epigrams--he will find most of what they said said
 
 better in _Murder as One of the Fine Arts_.
 
-
-
 One great man remains of this elder group, who did their last work only
 
 under Victoria; he knew most of the members of it, yet he did not belong
@@ -852,8 +683,6 @@ would have been a great epigrammatist, like Hugo. In England he is a
 
 punster.
 
-
-
 There was nothing at least in this group I have loosely called the
 
 Eccentrics that disturbs the general sense that all their generation was
@@ -889,8 +718,6 @@ sterility; since the pantheist Shelley was in fact washed under by the
 wave of the world, or Byron sank in death as he drew the sword for
 
 Hellas.
-
-
 
 The chief turn of nineteenth-century England was taken about the time
 
@@ -966,8 +793,6 @@ is marked even more significantly in his speech against the Chartists.
 
 Cobbett was dead.
 
-
-
 Macaulay makes the foundation of the Victorian age in all its very
 
 English and unique elements: its praise of Puritan politics and
@@ -991,8 +816,6 @@ derives from the dull parliamentarism of men like Sir James Mackintosh;
 but all that was great in him has much more kinship with the festive
 
 antiquarianism of Sir Walter Scott.
-
-
 
 As a philosopher he had only two thoughts; and neither of them is true.
 
@@ -1051,8 +874,6 @@ upheld this one-sidedly but not malignantly in a style of rounded and
 ringing sentences, which at its best is like steel and at its worst like
 
 tin.
-
-
 
 This was the small conscious Macaulay; the great unconscious Macaulay
 
@@ -1114,8 +935,6 @@ mad; one sees the map of England come alive and march and mix under the
 
 eye.
 
-
-
 The chief tragedy in the trend of later literature may be expressed by
 
 saying that the smaller Macaulay conquered the larger. Later men had
@@ -1125,8 +944,6 @@ less and less of that hot love of history he had inherited from Scott.
 They had more and more of that cold science of self-interests which he
 
 had learnt from Bentham.
-
-
 
 The name of this great man, though it belongs to a period before the
 
@@ -1164,8 +981,6 @@ all the more touching because, in his department, as it were, he could
 
 only offer them so dry a gift as the Victorian Parliamentary Franchise.
 
-
-
 Now in trying to describe how the Victorian writers stood to each other,
 
 we must recur to the very real difficulty noted at the beginning: the
@@ -1195,8 +1010,6 @@ delivered, that was coming from the club of Darwin. For this reason no
 one can understand tradition, or even history, who has not some
 
 tenderness for anachronism.
-
-
 
 Now for the great part of the Victorian era the utilitarian tradition
 
@@ -1240,8 +1053,6 @@ his religion: but Huxley was always talking about the religion he hadn't
 
 got.
 
-
-
 But though this simple Victorian rationalism held the centre, and in a
 
 certain sense _was_ the Victorian era, it was assailed on many sides,
@@ -1280,8 +1091,6 @@ the Victorian poets. From Ruskin, again, descend those who may be called
 
 the Pre-Raphaelites of prose and poetry.
 
-
-
 It is really with this rationalism triumphant, and with the romance of
 
 these various attacks on it, that the study of Victorian literature
@@ -1313,8 +1122,6 @@ mirrors. With every allowance for aliens and eccentrics and all the
 accidents that must always eat the edges of any systematic
 
 circumference, it may still be said that the Utilitarians held the fort.
-
-
 
 Of the Oxford Movement what remains most strongly in the Victorian Epoch
 
@@ -1355,8 +1162,6 @@ your cake and eating it too. It saw that the solid and serious
 Victorians were fundamentally frivolous--because they were
 
 fundamentally inconsistent.
-
-
 
 A man making the confession of any creed worth ten minutes' intelligent
 
@@ -1401,8 +1206,6 @@ a Christian had a feast day he must have a fast day too. Otherwise, all
 days ought to be alike; and this was that very Utilitarianism against
 
 which their Oxford Movement was the first and most rational assault.
-
-
 
 This idea, even by reason of its reason, narrowed into a sort of sharp
 
@@ -1500,8 +1303,6 @@ Ruskin's Socialism) he has no followers in his own age: but very many in
 
 ours.
 
-
-
 The next group of reactionaries or romantics or whatever we elect to
 
 call them, gathers roughly around one great name. Scotland, from which
@@ -1588,8 +1389,6 @@ considered as a kind of poet than considered as anything else; and the
 
 central idea of poetry is the idea of guessing right, like a child.
 
-
-
 He first emerged, as it were, as a student and disciple of Goethe. The
 
 connection was not wholly fortunate. With much of what Goethe really
@@ -1658,8 +1457,6 @@ historian. It bears most resemblance to the incurable prejudices of a
 
 woman.
 
-
-
 For the rest there hovered behind all this transcendental haze a certain
 
 presence of old northern paganism; he really had some sympathy with the
@@ -1677,8 +1474,6 @@ about in the black Sabbaths of his childhood; and so promulgated
 (against both Rationalists and Catholics) a sort of heathen Puritanism:
 
 Protestantism purged of its evidences of Christianity.
-
-
 
 His great and real work was the attack on Utilitarianism: which did real
 
@@ -1747,8 +1542,6 @@ breeding of the poor and to hinting at infanticide. This is a
 representative quarrel; for if the Utilitarian spirit reached its
 
 highest point in Mill, it certainly reached its lowest point in Malthus.
-
-
 
 One last element in the influence of Carlyle ought to be mentioned;
 
@@ -1846,8 +1639,6 @@ present at a modern battle, He may be present not as on Gilboa but
 
 Golgotha.
 
-
-
 Carlyle's direct historical worship of strength and the rest of it was
 
 fortunately not very fruitful; and perhaps lingered only in Froude the
@@ -1911,8 +1702,6 @@ as he wrote on the Elizabethan seamen and adventurers, represent very
 triumphantly the sort of romance of England that all this school was
 
 attempting to establish; and link him up with Kingsley and the rest.
-
-
 
 Ruskin may be very roughly regarded as the young lieutenant of Carlyle
 
@@ -1986,8 +1775,6 @@ say of him that he seemed to want all parts of the Cathedral except the
 
 altar.
 
-
-
 As an artist in prose he is one of the most miraculous products of the
 
 extremely poetical genius of England. The length of a Ruskin sentence is
@@ -2029,8 +1816,6 @@ Ruskin sentence (occupying one or two pages of small print) does not
 remind us of the growth of a tree, the only other thing it does remind
 
 of is the triumphant passage of a railway train.
-
-
 
 Ruskin left behind him in his turn two quite separate streams of
 
@@ -2086,8 +1871,6 @@ to understand. Within his own limits, he talked the most cold common
 
 sense about political economy, which was no business of his at all.
 
-
-
 On the other side of his literary soul, his mere unwrapping of the
 
 wealth and wonder of European art, he set going another influence,
@@ -2111,8 +1894,6 @@ Catholic ethics had borne rapid or even flagrant fruit by the time that
 Swinburne, writing about a harlot, composed a learned and sympathetic
 
 and indecent parody on the Litany of the Blessed Virgin.
-
-
 
 With the poets I deal in another part of this book; but the influence of
 
@@ -2152,8 +1933,6 @@ peroration of _The Renaissance_. The only objection to being where all
 
 the keenest emotions meet is that you feel none of them.
 
-
-
 In this sense Pater may well stand for a substantial summary of the
 
 æsthetes, apart from the purely poetical merits of men like Rossetti and
@@ -2191,8 +1970,6 @@ Mary. But it is the high-water mark of that vast attempt at an
 impartiality reached through art: and no other mere artist ever rose so
 
 high again.
-
-
 
 Apart from this Ruskinian offshoot through Pre-Raphaelitism into what
 
@@ -2235,8 +2012,6 @@ things is not to be forgotten: but they leave the domain of letters. The
 voice of Carlyle is not heard again in letters till the coming of
 
 Kipling and Henley.
-
-
 
 One other name of great importance should appear here, because it cannot
 
@@ -2314,8 +2089,6 @@ illiberal life in Islington to a dismal and illiberal life in
 
 Camberwell?"
 
-
-
 His attitude to that great religious enigma round which all these great
 
 men were grouped as in a ring, was individual and decidedly curious. He
@@ -2359,8 +2132,6 @@ belief, actually was the practice of the ancient world. Arnold may have
 thought that he was building an altar to the Unknown God; but he was
 
 really building it to Divus Cæsar.
-
-
 
 As a critic he was chiefly concerned to preserve criticism itself; to
 
@@ -2410,8 +2181,6 @@ error was that he sometimes thus wearied us of his own phrases, as well
 
 as of his enemies'.
 
-
-
 These names are roughly representative of the long series of protests
 
 against the cold commercial rationalism which held Parliament and the
@@ -2425,8 +2194,6 @@ heroism and desecrated religion. But already the Utilitarian citadel had
 been more heavily bombarded on the other side by one lonely and
 
 unlettered man of genius.
-
-
 
 The rise of Dickens is like the rising of a vast mob. This is not only
 
@@ -2474,8 +2241,6 @@ proceeding towards heaven or hell. When humanity is going to hell, the
 
 poor are always nearest to heaven.
 
-
-
 Dickens was a mob--and a mob in revolt; he fought by the light of
 
 nature; he had not a theory, but a thirst. If any one chooses to offer
@@ -2519,8 +2284,6 @@ gone very far--infecting many finer minds who had fought the
 Utilitarians. In the _Edinburgh Review_, a thing like Malthus could be
 
 championed by a man like Macaulay.
-
-
 
 The twin root facts of the revolution called Dickens are these: first,
 
@@ -2624,8 +2387,6 @@ his mouth and shut his eyes and saw what the Age of Reason would give
 
 him. And, having tasted it, he spat it out.
 
-
-
 I am constrained to consider Dickens here among the fighters; though I
 
 ought (on the pure principles of Art) to be considering him in the
@@ -2676,8 +2437,6 @@ For he had no abstractions: he had nothing except realities out of which
 
 to make a romance.
 
-
-
 With Dickens, then, re-arises that reality with which I began and which
 
 (curtly, but I think not falsely) I have called Cobbett. In dealing with
@@ -2724,23 +2483,9 @@ industrialism: and if indeed it has ever been taken, it was taken by the
 
 rush of that unreal army.
 
-
-
-
-
-
-
-
-
 CHAPTER II
 
-
-
 THE GREAT VICTORIAN NOVELISTS
-
-
-
-
 
 The Victorian novel was a thing entirely Victorian; quite unique and
 
@@ -2884,8 +2629,6 @@ collars and documents, cut across this purely female discovery and
 
 destroyed it.
 
-
-
 It may seem mere praise of the novel to say it is the art of sympathy
 
 and the study of human variations. But indeed, though this is a good
@@ -2934,8 +2677,6 @@ overpoweringly plain; whether they are expressed in the high caricatures
 
 of Dickens or the low lunacies of Zola.
 
-
-
 This can be seen in a sort of picture in the Prologue of the _Canterbury
 
 Tales_; which is already pregnant with the promise of the English novel.
@@ -2980,8 +2721,6 @@ d'Ivry and Warrington and Captain Blackball and Lady Kew travel,
 
 laughing and telling tales together?
 
-
-
 The growth of the novel, therefore, must not be too easily called an
 
 increase in the interest in humanity. It is an increase in the interest
@@ -3007,8 +2746,6 @@ unquestionable benefit than these: and in that development women played
 a peculiar part, English women especially, and Victorian women most of
 
 all.
-
-
 
 It is perhaps partly, though certainly not entirely, this influence of
 
@@ -3108,8 +2845,6 @@ the road outside would have stamped with a word as vile and as vulgar as
 
 it deserved.
 
-
-
 This reticence, right or wrong, may have been connected with the
 
 participation of women with men in the matter of fiction. It is an
@@ -3146,8 +2881,6 @@ the attempt to locate it as an idea. But every one will understand me if
 
 I call it George Eliot.
 
-
-
 I begin with this great woman of letters for both the two reasons
 
 already mentioned. She represents the rationalism of the old Victorian
@@ -3178,8 +2911,6 @@ and subtlety of woman had certainly sunk deep into English letters when
 
 George Eliot began to write.
 
-
-
 Her originals and even her contemporaries had shown the feminine power
 
 in fiction as well or better than she. Charlotte Brontë, understood
@@ -3203,8 +2934,6 @@ She knew what she knew, like a sound dogmatist: she did not know what
 she did not know--like a sound agnostic. But she belongs to a vanished
 
 world before the great progressive age of which I write.
-
-
 
 One of the characteristics of the central Victorian spirit was a
 
@@ -3258,8 +2987,6 @@ have a few more Marners than that rich maturity that gave us the
 
 analysed dust-heaps of _Daniel Deronda_.
 
-
-
 In her best novels there is real humour, of a cool sparkling sort; there
 
 is a strong sense of substantial character that has not yet degenerated
@@ -3287,8 +3014,6 @@ of a cloudless day on the parade at Brighton. She sees people clearly,
 but not through an atmosphere. And she can conjure up storms in the
 
 conscious, but not in the subconscious mind.
-
-
 
 It is true (though the idea should not be exaggerated) that this
 
@@ -3338,8 +3063,6 @@ later rivals; but I have always believed in the victory of small
 
 nationalities.
 
-
-
 The Brontës suggest themselves here; because their superficial
 
 qualities, the qualities that can be seized upon in satire, were in this
@@ -3377,8 +3100,6 @@ not quite free from this air of studying something alien. The reply may
 be made that the women in men's novels are equally fallacious. The reply
 
 is probably just.
-
-
 
 What the Brontës really brought into fiction was exactly what Carlyle
 
@@ -3452,8 +3173,6 @@ broadness of her religious views; but never, of course, so much as
 
 George Eliot.
 
-
-
 In any case, it is Charlotte Brontë who enters Victorian literature. The
 
 shortest way of stating her strong contribution is, I think, this: that
@@ -3483,8 +3202,6 @@ books (better even than _Villette_) because while it is a human document
 written in blood, it is also one of the best blood-and-thunder detective
 
 stories in the world.
-
-
 
 But while Emily Brontë was as unsociable as a storm at midnight, and
 
@@ -3529,8 +3246,6 @@ Victorians. The woman felt obscurely that she was still running her
 mortal risk, while the man was not still running his. But I know nothing
 
 about it; nor does anybody else.
-
-
 
 In so short a book on so vast, complex and living a subject, it is
 
@@ -3589,8 +3304,6 @@ on. On a general review I do not think I have been wrong in taking the
 female novelists first. I think they gave its special shape, its
 
 temporary twist, to the Victorian novel.
-
-
 
 Nevertheless it is a shock (I almost dare to call it a relief) to come
 
@@ -3680,8 +3393,6 @@ and priceless people; and anything subtler added to that truth really
 
 only weakens it.
 
-
-
 The mention of Mrs. Wilfer (whom the heart is loth to leave) reminds one
 
 of the only elementary ethical truth that is essential in the study of
@@ -3735,8 +3446,6 @@ in sin as well as in aspiration. And he was not only larger than the old
 factions he satirised; he was larger than any of our great social
 
 schools that have gone forward since he died.
-
-
 
 The seemingly quaint custom of comparing Dickens and Thackeray existed
 
@@ -3826,8 +3535,6 @@ excitement about his characters; and no man on earth but he could have
 
 kept it up.
 
-
-
 It may be said, in approximate summary, that Thackeray is the novelist
 
 of memory--of our memories as well as his own. Dickens seems to expect
@@ -3847,8 +3554,6 @@ in some trivial grimace: we smell the strong smell of social cliques
 now quite incongruous to us; and there stir in all the little rooms at
 
 once the hundred ghosts of oneself.
-
-
 
 For this purpose Thackeray was equipped with a singularly easy and
 
@@ -3879,8 +3584,6 @@ dance of wealth and fashion look stiff and monstrous, like a Babylonian
 masquerade. But he never quite did it in such a way as to turn the
 
 course of the Victorian Age.
-
-
 
 It may seem strange to say that Thackeray did not know enough of the
 
@@ -3945,8 +3648,6 @@ the progressive road with more votes and more Free Trade, England must
 either sharply become very much more democratic or as rapidly become
 
 very much less so.
-
-
 
 There gathers round these two great novelists a considerable group of
 
@@ -4018,8 +3719,6 @@ Finally, _The Moonstone_ is probably the best detective tale in the
 
 world.
 
-
-
 Anthony Trollope, a clear and very capable realist, represents rather
 
 another side of the Victorian spirit of comfort; its leisureliness, its
@@ -4057,8 +3756,6 @@ notable in the Victorian spirit once more that though his clergymen are
 all of them real men and many of them good men, it never really occurs
 
 to us to think of them as the priests of a religion.
-
-
 
 Charles Reade may be said to go along with these; and Disraeli and even
 
@@ -4107,8 +3804,6 @@ Thackeray missed. Disraeli did do something towards revealing the
 dishonesty of our politics--even if he had done a good deal towards
 
 bringing it about.
-
-
 
 Between this group and the next there hovers a figure very hard to
 
@@ -4168,8 +3863,6 @@ the hesitating Crimean Parliament: "Destroy your Government and save
 
 your army."
 
-
-
 With the next phase of Victorian fiction we enter a new world; the
 
 later, more revolutionary, more continental, freer but in some ways
@@ -4200,8 +3893,6 @@ collided in a sceptical age, which is like colliding in a London fog.
 
 There can never be any clear controversy in a sceptical age.
 
-
-
 Nevertheless both Hardy and Meredith did mean something; and they did
 
 mean diametrically opposite things. Meredith was perhaps the only man
@@ -4227,8 +3918,6 @@ This division between the two points of view is vital; because the turn
 of the nineteenth century was a very sharp one; by it we have reached
 
 the rapids in which we find ourselves to-day.
-
-
 
 Meredith really is a Pantheist. You can express it by saying that God is
 
@@ -4259,8 +3948,6 @@ those who can see Dickens' mind in Little Nell. Both were chivalrous
 pronouncements on behalf of oppressed females: neither has any earthly
 
 meaning as ideas.
-
-
 
 But what Meredith did do for women was not to emancipate them (which
 
@@ -4314,8 +4001,6 @@ man--or by anything else. When we have got that, we have got the real
 
 Pagan--the man that does believe in Pan.
 
-
-
 It is proper to put this philosophic matter first, before the æsthetic
 
 appreciation of Meredith, because with Meredith a sort of passing bell
@@ -4351,8 +4036,6 @@ free-thinkers, as a school, have hardly made up their minds whether they
 want to be more optimist or more pessimist than Christianity that their
 
 small but sincere movement has failed.
-
-
 
 For the duel is deadly; and any agnostic who wishes to be anything more
 
@@ -4404,8 +4087,6 @@ it is a cruel practical joke. But it is a practical joke at which even
 
 its author cannot brighten up enough to laugh.
 
-
-
 But it is when we consider the great artistic power of these two
 
 writers, with all their eccentricities, that we see even more clearly
@@ -4438,13 +4119,9 @@ he actually says of those who live nearest to that Nature he was always
 
 praising--
 
-
-
     "Have they but held her laws and nature dear,
 
     They mouth no sentence of inverted wit";
-
-
 
 which certainly was what Meredith himself was doing most of the time.
 
@@ -4461,8 +4138,6 @@ entangled in its own branches; or it may be that the cheerful mind cares
 less whether it is understood or not; as a man is less articulate when
 
 he is humming than when he is calling for help.
-
-
 
 Certainly Meredith suffers from applying a complex method to men and
 
@@ -4526,8 +4201,6 @@ chief feeling among those that enjoy him is a mere wish that more people
 
 could enjoy him too.
 
-
-
 I end here upon Hardy and Meredith; because this parting of the ways to
 
 open optimism and open pessimism really was the end of the Victorian
@@ -4551,8 +4224,6 @@ remembered Hobbes. But Shorthouse is outside the period in fiction in
 the same sort of way in which Francis Thompson is outside it in poetry.
 
 He did not accept the Victorian basis. He knew too much.
-
-
 
 There is one more matter that may best be considered here, though
 
@@ -4600,8 +4271,6 @@ section devoted to novelists, or the section devoted to liars, nobody
 
 else has ever known, even if he did.
 
-
-
 But the strongest case of this Victorian power of being abruptly
 
 original in a corner can be found in two things: the literature meant
@@ -4648,8 +4317,6 @@ the Victorians than even their just and exquisite appreciation of
 
 children. It came from the deep Victorian sense of humour.
 
-
-
 It may appear, because I have used from time to time the only possible
 
 phrases for the case, that I mean the Victorian Englishman to appear as
@@ -4672,8 +4339,6 @@ had largely forgotten both art and arms: but the gods had left them
 
 laughter.
 
-
-
 But the final proof that the Victorians were alive by this laughter, can
 
 be found in the fact they could manage and master for a moment even the
@@ -4685,8 +4350,6 @@ Ballads" on the stage. To turn a private name into a public epithet is a
 thing given to few: but the word "Gilbertian" will probably last longer
 
 than the name Gilbert.
-
-
 
 It meant a real Victorian talent; that of exploding unexpectedly and
 
@@ -4702,23 +4365,9 @@ an opportunist, a formalist. But remember also that he was really a
 
 humorist; and may still be laughing at you.
 
-
-
-
-
-
-
-
-
 CHAPTER III
 
-
-
 THE GREAT VICTORIAN POETS
-
-
-
-
 
 What was really unsatisfactory in Victorian literature is something much
 
@@ -4842,8 +4491,6 @@ must be (to use an Irishism) something shallow in the depths of any man
 
 who talks about the _Zeitgeist_ as if it were a living thing.
 
-
-
 But this defect is very specially the key to the case of the two great
 
 Victorian poets, Tennyson and Browning; the two spirited or beautiful
@@ -4952,15 +4599,11 @@ _were_ mighty and who _were_ vanquished. But when Tennyson wrote verses
 
 like--
 
-
-
     "Of freedom in her regal seat,
 
     Of England; not the schoolboy heat,
 
     The blind hysterics of the Celt"
-
-
 
 he quite literally did not know one word of what he was talking about;
 
@@ -4969,8 +4612,6 @@ he did not know what Celts are, or what hysterics are, or what freedom
 was, or what regal was or even of what England was--in the living Europe
 
 of that time.
-
-
 
 His religious range was very much wider and wiser than his political;
 
@@ -4989,8 +4630,6 @@ deal to say; but he had much more power of expression than was wanted
 for anything he had to express. He could not think up to the height of
 
 his own towering style.
-
-
 
 For whatever else Tennyson was, he was a great poet; no mind that feels
 
@@ -5046,13 +4685,9 @@ make the main poem mean exactly what he did not mean. Thus, these two
 
 lines which simply say that
 
-
-
     "Lancelot was the first in tournament,
 
     But Arthur mightiest in the battle-field"
-
-
 
 do really express what he meant to express about Arthur being after all
 
@@ -5072,8 +4707,6 @@ has always seemed to me splendid, and which does express what the whole
 
 poem should express--but hardly does.
 
-
-
     "That we may lift from out the dust,
 
     A voice as unto him that hears
@@ -5081,8 +4714,6 @@ poem should express--but hardly does.
     A cry above the conquered years
 
     Of one that ever works, and trust."
-
-
 
 The poem should have been a cry above the conquered years. It might well
 
@@ -5107,8 +4738,6 @@ something militant, dogmatic and structural in him: whereby he could not
 be trusted with the trail of a very long literary process without
 
 entangling himself like a kitten playing cat's-cradle.
-
-
 
 Browning, as above suggested, got on much better with eccentric and
 
@@ -5220,8 +4849,6 @@ persecution, that "Tommy-make-room-for-your-uncle-us" does not rhyme to
 
 it.
 
-
-
 The obscurity, to which he must in a large degree plead guilty, was,
 
 curiously enough, the result rather of the gay artist in him than the
@@ -5326,8 +4953,6 @@ garden of Watteau, and the "blue spirt of a lighted match" for the
 
 monotony of the evening star.
 
-
-
 Before leaving him it should be added that he was fitted to deepen the
 
 Victorian mind, but not to broaden it. With all his Italian sympathies
@@ -5390,13 +5015,9 @@ any positive political fact, such as the final fall of Napoleon.
 
 Tennyson wrote these profoundly foolish lines--
 
-
-
     "He thought to quell the stubborn hearts of oak
 
     Madman!"
-
-
 
 as if the defeat of an English regiment were a violation of the laws of
 
@@ -5406,11 +5027,7 @@ Tennyson did; but she knew the truth. Her epigram on Napoleon's fall is
 
 in one line
 
-
-
     "And kings crept out again to feel the sun."
-
-
 
 Talleyrand would have clapped his horrible old hands at that. Her
 
@@ -5484,8 +5101,6 @@ inferiority to him in literature is that he was consciously while she
 
 was unconsciously absurd.
 
-
-
 It is natural, in the matter of Victorian moral change, to take
 
 Swinburne as the next name here. He is the only poet who was also, in
@@ -5542,8 +5157,6 @@ Swinburne could have found round about Putney plenty of slaves who had
 
 no crucifixes: but only crucifixions.
 
-
-
 When we come to ethics and philosophy, doubtless we find Swinburne in
 
 full revolt, not only against the temperate idealism of Tennyson, but
@@ -5577,8 +5190,6 @@ went forth, as it were, as the champion of pagan change and pleasure, he
 heard uplifted the grand choruses of his own _Atalanta_, in his rear,
 
 refusing hope.
-
-
 
 The splendid diction that blazes through the whole of that drama, that
 
@@ -5616,13 +5227,9 @@ one small "e" gets outside the monosyllable. Through all his
 
 interminable tragedies, he was fondest of lines like--
 
-
-
     "If ever I leave off to honour you
 
     God give me shame; I were the worst churl born."
-
-
 
 The dramas were far from being short and dramatic; but the words really
 
@@ -5642,8 +5249,6 @@ is, not that he is smooth and without ridges, but that he always crests
 
 the ridge triumphantly and Browning often does not--
 
-
-
     "On thy bosom though many a kiss be,
 
     There are none such as knew it of old.
@@ -5660,8 +5265,6 @@ the ridge triumphantly and Browning often does not--
 
     Across the fig-leaves."
 
-
-
 Look at the rhymes in that verse, and you will see they are as stiff a
 
 task as Browning's: only they are successful. That is the real strength
@@ -5675,8 +5278,6 @@ through his later years. He was, if ever there was one, an inspired
 poet. I do not think it the highest sort of poet. And you never discover
 
 who is an inspired poet until the inspiration goes.
-
-
 
 With Swinburne we step into the circle of that later Victorian influence
 
@@ -5736,8 +5337,6 @@ and Pre-Raphaelite movements, which all agreed in two things at least:
 
 strictness in the line and strength, nay violence, in the colour.
 
-
-
 Rossetti was a remarkable man in more ways than one; he did not succeed
 
 in any art; if he had he would probably never have been heard of. It was
@@ -5759,8 +5358,6 @@ pictorial. His pictures were too poetical. That is why they really
 conquered the cold satisfaction of the Victorians, because they did mean
 
 something, even if it was a small artistic thing.
-
-
 
 Rossetti was one with Ruskin, on the one hand, and Swinburne on the
 
@@ -5797,8 +5394,6 @@ great mediæval civilisation; but Rossetti used the religious imagery (on
 the whole) irreligiously, Christina Rossetti used it religiously but (on
 
 the whole) so to make it seem a narrower religion.
-
-
 
 One poet, or, to speak more strictly, one poem, belongs to the same
 
@@ -5852,23 +5447,15 @@ are successful in the same sense as "Pinnacled dim in the intense inane"
 
 or "Through verdurous glooms and winding mossy ways." But--
 
-
-
     "Indeed, indeed, repentance oft before
 
     I swore; but was I sober when I swore?"
 
-
-
 is equally successful in the same sense as--
-
-
 
     "Damn with faint praise, assent with civil leer
 
     And without sneering teach the rest to sneer."
-
-
 
 It thus earned a right to be considered the complete expression of that
 
@@ -5930,8 +5517,6 @@ not only to think but to live, not only to live but to grow, and not
 
 only to grow but to build.
 
-
-
 And, indeed, we see the insufficiency of such sad extremes even in the
 
 next name among the major poets; we see the Swinburnian parody of
@@ -5956,33 +5541,23 @@ moments; which were (if they had only known it) much more mediæval than
 
 their mediæval moments. Swinburne could write--
 
-
-
     "We shall see Buonaparte the bastard
 
     Kick heels with his throat in a rope."
-
-
 
 One has an uneasy feeling that William Morris would have written
 
 something like--
 
-
-
     "And the kin of the ill king Bonaparte
 
     Hath a high gallows for all his part."
-
-
 
 Rossetti could, for once in a way, write poetry about a real woman and
 
 call her "Jenny." One has a disturbed suspicion that Morris would have
 
 called her "Jehanne."
-
-
 
 But all that seems at first more archaic and decorative about Morris
 
@@ -6013,8 +5588,6 @@ conventions of the mediævals, it was largely because they were (whatever
 else they were) the very finest fraternity of free workmen the world is
 
 ever likely to see.
-
-
 
 The very things that were urged against Morris are in this sense part of
 
@@ -6086,8 +5659,6 @@ of the Æsthetes to smell mediævalism as a smell of the morning; and not
 
 as a mere scent of decay.
 
-
-
 With him the poetry that had been peculiarly Victorian practically
 
 ends; and, on the whole, it is a happy ending. There are many other
@@ -6138,15 +5709,11 @@ he made a manly attempt to tread down the decadents and return to the
 
 right reason of Wordsworth--
 
-
-
         "I have not paid the world
 
     The evil and the insolent courtesy
 
     Of offering it my baseness as a gift."
-
-
 
 But none of them were able even to understand Francis Thompson; his
 
@@ -6156,23 +5723,9 @@ and unashamed weakness, his sudden and sacred blasphemies. Perhaps the
 
 shortest definition of the Victorian Age is that he stood outside it.
 
-
-
-
-
-
-
-
-
 CHAPTER IV
 
-
-
 THE BREAK-UP OF THE COMPROMISE
-
-
-
-
 
 If it be curiously and carefully considered it will, I think, appear
 
@@ -6229,8 +5782,6 @@ outposts, as it seemed, for ever. Neither was strong enough to expel the
 other; and Victorian England was in a state which some call liberty and
 
 some call lockjaw.
-
-
 
 But the situation can be stated another way. There came a time, roughly
 
@@ -6398,8 +5949,6 @@ have felt that the train could be a substitute for its own passengers;
 
 or the telephone a substitute for its own voice.
 
-
-
 In any case it is clear that a change had begun to pass over scientific
 
 inquiry, of which we have seen the culmination in our own day. There had
@@ -6427,8 +5976,6 @@ twist of the rationalistic mind in the direction of arbitrary power,
 certainly weakened the Liberal movement from within. And meanwhile it
 
 was being weakened by heavy blows from without.
-
-
 
 There is a week that is the turn of the year; there was a year that was
 
@@ -6468,8 +6015,6 @@ blood and bones. The enormous depression which infects many excellent
 
 people born about this time, probably has this cause.
 
-
-
 It was a great calamity that the freedom of Wilkes and the faith of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
@@ -6497,8 +6042,6 @@ Radicalism had not heart enough for the business. Down fell they dead
 together, exactly as Macaulay's Lay says, and still stood all who saw
 
 them fall almost until the hour at which I write.
-
-
 
 This coincident collapse of both religious and political idealism
 
@@ -6542,8 +6085,6 @@ century later; but if creative politics were at their lowest, creative
 
 theology was almost at its highest point of energy.
 
-
-
 The modern world, in fact, had fallen between two stools. It had fallen
 
 between that austere old three-legged stool which was the tripod of the
@@ -6570,8 +6111,6 @@ would not have despised a vote. We hardly find them both despised till
 
 we come to the age of Oscar Wilde.
 
-
-
 These years that followed on that double disillusionment were like one
 
 long afternoon in a rich house on a rainy day. It was not merely that
@@ -6591,8 +6130,6 @@ through it. But this time did produce an interregnum of art that had a
 truth of its own; though that truth was near to being only a consistent
 
 lie.
-
-
 
 The movement of those called Æsthetes (as satirised in _Patience_) and
 
@@ -6700,8 +6237,6 @@ fairly boast of being subtle; but they must not mind if they are called
 
 narrow.
 
-
-
 This is the spirit of Wilde's work and of most of the literary work done
 
 in that time and fashion. It is, as Mr. Arthur Symons said, an attitude;
@@ -6718,11 +6253,7 @@ just going too far. "Plant lilies at my head" has something wrong about
 
 it; something silly that is not there in--
 
-
-
     "And put a grey stone at my head"
-
-
 
 in the old ballad. But even where Wilde was right, he had a way of being
 
@@ -6736,15 +6267,11 @@ as hostile to the art and civilisation that were his only gods; but ends
 
 by saying--
 
-
-
                                   "And yet
 
     These Christs that die upon the barricades
 
     God knows that I am with them--in some ways."
-
-
 
 Now that is really very true; that is the way a man of wide reading and
 
@@ -6771,8 +6298,6 @@ cigarette that martyrdom is martyrdom in some respects, has seized on
 and mastered all more delicate considerations in the mind. It is unwise
 
 in a poet to goad the sleeping lion of laughter.
-
-
 
 In less dexterous hands the decadent idea, what there was of it, went
 
@@ -6848,8 +6373,6 @@ trace against the grand barbaric forests the sin and the sorrow of
 
 Lancelot.
 
-
-
 To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
@@ -6875,8 +6398,6 @@ very much deeper, more democratic and more true to the real trend of the
 populace to-day, than anything the Socialists ever uttered even in the
 
 boldest pages of Bernard Shaw.
-
-
 
 Before we pass on to the two expansive movements in which the Victorian
 
@@ -6940,8 +6461,6 @@ admire the figures that walk about in his afternoon drawing-rooms; but
 
 we have a certain sense that they are figures that have no faces.
 
-
-
 For the rest, he is most widely known, or perhaps only most widely
 
 chaffed, because of a literary style that lends itself to parody and is
@@ -6992,8 +6511,6 @@ Beerbohm has been able to imagine Mr. Henry James writing about
 
 Christmas.
 
-
-
 Now upon this interregnum, this cold and brilliant waiting-room which
 
 was Henry James at its highest and Wilde at its worst, there broke in
@@ -7009,8 +6526,6 @@ Rudyard Kipling and the Imperialists. I take the Socialists first not
 because they necessarily came so in order of time, but because they were
 
 less the note upon which the epoch actually ended.
-
-
 
 William Morris, of whom we have already spoken, may be said to
 
@@ -7049,8 +6564,6 @@ beliefs of Victorianism. The Industrial System, so run, had become
 another name for hell. By Morris's time and ever since, England has been
 
 divided into three classes: Knaves, Fools, and Revolutionists.
-
-
 
 History is full of forgotten controversies; and those who speak of
 
@@ -7092,8 +6605,6 @@ thought we might perhaps get out of the mess if everybody did as he
 
 liked.
 
-
-
 Thus the Anarchists and Socialists fought a battle over the death-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
@@ -7105,8 +6616,6 @@ a complete victory and have almost exterminated their enemy. The
 Anarchist one meets here and there nowadays is a sad sight; he is
 
 disappointed with the future, as well as with the past.
-
-
 
 This victory of the Socialists was largely a literary victory; because
 
@@ -7204,8 +6713,6 @@ widowers' houses?" There is a sort of insane equity about it which was
 
 what Bernard Shaw had the power to give, and gave.
 
-
-
 Out of the same social ferment arose a man of equally unquestionable
 
 genius, Mr. H. G. Wells. His first importance was that he wrote great
@@ -7230,8 +6737,6 @@ Victorian. But because, even from the beginning, his whole trend was
 
 Socialist, it is right to place him here.
 
-
-
 While the old Victorian ideas were being disturbed by an increasing
 
 torture at home, they were also intoxicated by a new romance from
@@ -7253,8 +6758,6 @@ Victorian idea. From the point of view of a Victorian aristocrat like
 Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
 
 would be the intrusion of cads. But cads are not alone concerned.
-
-
 
 Broadly, the phase in which the Victorian epoch closed was what can only
 
@@ -7294,8 +6797,6 @@ This was the last note of the Victorians: procrastination was called
 
 progress.
 
-
-
 Now if we look for the worst fruits of this fallacy we shall find them
 
 in historical criticism. There is a curious habit of treating any one
@@ -7313,8 +6814,6 @@ obviously, such a phrase only applies to an alleged or real divine
 event: otherwise the forerunner would be a founder. Unless Jesus had
 
 been the Baptist's God, He would simply have been his disciple.
-
-
 
 Nevertheless the fallacy of the "forerunner" has been largely used in
 
@@ -7369,8 +6868,6 @@ failure of the poet. Yet when we look back up the false perspective of
 time, Stevenson does seem in a sense to have prepared that imperial and
 
 downward path.
-
-
 
 I shall not talk here, any more than anywhere else in this book, about
 
@@ -7454,8 +6951,6 @@ good art, has missed its main intention merely because it was also good
 
 story-telling.
 
-
-
 If the rather vague Victorian public did not appreciate the deep and
 
 even tragic ethics with which Stevenson was concerned, still less were
@@ -7493,8 +6988,6 @@ of sport, war, or comradeship: and here and there his note is false in
 these matters, and reminds one (though very remotely) of the mere
 
 provincial bully that Henley sometimes sank to be.
-
-
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
@@ -7538,8 +7031,6 @@ the stamp of the thing called genius; that indefinable, dangerous and
 
 often temporary thing.
 
-
-
 For it is really impossible to criticise Rudyard Kipling as part of
 
 Victorian literature, because he is the end of such literature. He has
@@ -7553,8 +7044,6 @@ makes him sympathetic with the man that crushes the Indian; a vague
 journalistic sympathy with the men that misrepresent everything that has
 
 happened to the Indian; but of the Victorian virtues, nothing.
-
-
 
 All that was right or wrong in Kipling was expressed in the final
 
@@ -7578,11 +7067,7 @@ forces, gold was sighted from far in a sort of cynical romanticism: the
 
 guns opened across Africa; and the great queen died.
 
-
-
        *       *       *       *       *
-
-
 
 Of what will now be the future of so separate and almost secretive an
 
@@ -7608,19 +7093,7 @@ external arms, it will lie heavy on the living. The dishonour will not
 
 be on the dead.
 
-
-
-
-
-
-
-
-
 BIBLIOGRAPHICAL NOTE
-
-
-
-
 
 After having surveyed the immense field presented in such a volume as
 
@@ -7637,8 +7110,6 @@ of Victoria_, the wise reader will choose some portion for closer study,
 and will go straight to the originals before he has any further traffic
 
 with critics or commentators, however able.
-
-
 
 He will then need the aid of fuller biographies. Some Victorian _Lives_
 
@@ -7680,8 +7151,6 @@ _Short Biographical Dictionary of English Literature_ is useful for
 
 dates.
 
-
-
 The latter half of the second volume of Mr. F. A. Mumby's _Letters of
 
 Literary Men_ is devoted to the Victorian Age. There are fuller
@@ -7691,8 +7160,6 @@ collections of the _Letters_ of Leigh Hunt, Thackeray, Dickens, the
 Brownings, Fitzgerald, Charles Kingsley, Matthew Arnold, and more
 
 recently the _Letters of George Meredith_, edited by his son.
-
-
 
 Among the important critical writers of the period, Matthew Arnold
 
@@ -7716,27 +7183,13 @@ Edmund Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
 
 Couch.
 
-
-
-
-
-
-
-
-
 INDEX
-
-
-
-
 
 Æsthetes, the, and Decadents, 218-27
 
 Arnold, Matthew, 73-79, 87
 
 Austen, Jane, 92, 105, 109
-
-
 
 Bentham, 36
 
@@ -7754,8 +7207,6 @@ Browning, Elizabeth B., 176-82
 
 Byron, 22
 
-
-
 Carlyle, 40, 49-62, 158
 
 Carroll, Lewis, 153
@@ -7766,8 +7217,6 @@ Coleridge, 20
 
 Collins, Wilkie, 130, 132
 
-
-
 Darwin, 38, 206-7, 209
 
 De Quincey, 23-25, 65
@@ -7776,11 +7225,7 @@ Dickens, 40, 79-89, 100, 106, 119-23, 129, 131
 
 Disraeli, 42, 135
 
-
-
 Eliot, George, 92, 103-9, 157
-
-
 
 Faber, 46
 
@@ -7790,13 +7235,9 @@ French Revolution, Influence of, 18-21
 
 Froude, 60, 62
 
-
-
 Gaskell, Mrs., 94
 
 Gilbert, 154
-
-
 
 Hardy, Thomas, 138-39, 143-45
 
@@ -7814,15 +7255,9 @@ Hunt, Leigh, 23
 
 Huxley, 39-40, 205
 
-
-
 Imperialism, 60, 239
 
-
-
 James, Henry, 228-31
-
-
 
 Keats, 20
 
@@ -7831,8 +7266,6 @@ Keble, 45
 Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
-
-
 
 Lamb, 23
 
@@ -7843,8 +7276,6 @@ Lear, Edward, 153
 Literary temperament, the English, 13-16
 
 Lytton, Bulwer, 135-37
-
-
 
 Macaulay, 28-36, 55
 
@@ -7860,13 +7291,9 @@ Mill, J. S., 36-37, 55
 
 Morris, Wm., 196-200, 232
 
-
-
 Newman, 38, 40, 45-48, 78, 159
 
 Novel, The Modern, 90-99
-
-
 
 Oliphant, Mrs., 116-17
 
@@ -7874,23 +7301,17 @@ Oliphant, Mrs., 116-17
 
 Oxford Movement, 42-45
 
-
-
 Pater, Walter, 69-71
 
 Patmore, 48, 201-2
 
 Pre-Raphaelite School, 68, 72
 
-
-
 Reade, Charles, 134
 
 Rossetti, D. G. and C., 71, 188-91
 
 Ruskin, 40, 62-8, 70, 158
-
-
 
 Science, Victorian, 208-12
 
@@ -7908,8 +7329,6 @@ Stevenson, R. L., 243-49
 
 Swinburne, 69, 159, 181-88
 
-
-
 Tennyson, 40, 64, 160-69
 
 Thackeray, 100, 110, 123-30, 158
@@ -7917,8 +7336,6 @@ Thackeray, 100, 110, 123-30, 158
 Thompson, Francis, 48, 201, 202
 
 Trollope, Anthony, 130, 132-33
-
-
 
 Watson, Wm., 202
 
@@ -7928,25 +7345,11 @@ Wilde, Oscar, 218-23
 
 Women, Victorian, 91, 99, 104, 115-16, 140
 
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of The Victorian Age in Literature, by 
 
 G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE VICTORIAN AGE IN LITERATURE ***
-
-
 
 ***** This file should be named 18639-8.txt or 18639-8.zip *****
 
@@ -7954,21 +7357,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/1/8/6/3/18639/
 
-
-
 Produced by Karina Aleksandrova, Juliet Sutherland and the
 
 Online Distributed Proofreading Team at http://www.pgdp.net
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -8002,21 +7397,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -8030,15 +7415,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -8060,8 +7439,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -8079,8 +7456,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -8112,8 +7487,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -8132,11 +7505,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -8150,8 +7519,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -8159,8 +7526,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -8182,8 +7547,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -8196,15 +7559,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -8215,8 +7574,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -8240,23 +7597,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -8282,8 +7633,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -8298,8 +7647,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -8308,13 +7655,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -8328,11 +7671,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -8353,8 +7692,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -8382,8 +7719,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -8408,8 +7743,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -8417,8 +7750,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -8433,8 +7764,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -8456,13 +7785,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -8473,8 +7796,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -8494,15 +7815,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -8520,8 +7835,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -8536,8 +7849,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -8546,15 +7857,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -8569,8 +7874,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -8588,8 +7891,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -8598,15 +7899,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -8616,15 +7913,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -8634,10 +7925,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -8646,17 +7933,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -8665,7 +7944,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: Victorian_Age.txt =====

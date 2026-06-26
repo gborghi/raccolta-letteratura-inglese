@@ -84,9 +84,7 @@ each one of us his Vita Nuova?"
 
 "No, sir," said Mr. Archer.
 
-
      *     *     *     *     *     *     *     *     *
-
 
 Thus does the chronicler of the League of the Long Bow come to
 the end of his singularly unproductive and unprofitable labours,
@@ -111,6 +109,3 @@ all over the neighbourhood, or expecting to find it still sticking
 in a mortal and murderous manner in the heart of a friend. 
 His is only a toy bow; and when a boy shoots with such a bow,
 it is generally very difficult to find the arrow--or the boy.
-
-
-===== FINE FILE: longbow2.txt =====

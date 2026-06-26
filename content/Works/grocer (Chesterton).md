@@ -102,8 +102,4 @@ Is loudly urged therein;
 But now the sands are running out  
 From sugar of a sort,  
 The Grocer trembles; for his time,  
-Just like his weight, is short.  
-
-
-
-===== FINE FILE: grocer.txt =====  
+Just like his weight, is short.

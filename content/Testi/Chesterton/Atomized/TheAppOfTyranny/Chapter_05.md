@@ -16,13 +16,7 @@ tags:
 
 IV
 
-
-
 THE ESCAPE OF FOLLY
-
-
-
-
 
 In considering the Prussian point of view we have been considering what
 
@@ -94,8 +88,6 @@ this almost invisible earwig; and let the impure blood of this cockroach
 
 redden the Rhine down to the sea.
 
-
-
 But it would be unfair to base the criticism on the utterance of any
 
 accidental and hereditary prince: and it is quite equally clear in the case
@@ -151,8 +143,6 @@ Frenchmen almost rise to a Germanic loveliness of character. But through
 all there is, hazy but not hypocritical, this sense of some common
 
 Teutonism.
-
-
 
 Professor Haeckel, another of the witnesses raised up against us, attained
 
@@ -288,8 +278,6 @@ having an obligation to Europe, but no sort of sense whatever of having any
 
 obligation to Teutonism.
 
-
-
 This is the last and strongest of the Prussian qualities we have here
 
 considered. There is in stupidity of this sort a strange slippery
@@ -309,8 +297,6 @@ quite certain that a total stranger is his long-lost brother, has a greater
 advantage until it comes to matters of detail. "We must have chaos within"
 
 said Nietzsche, "that we may give birth to a dancing star."
-
-
 
 In these slight notes I have suggested the principal strong points of the
 
@@ -352,17 +338,7 @@ under-rated soldiers. For what their professors call roads of progress are
 
 really routes of escape.
 
-
-
-
-
-
-
 LETTERS TO AN OLD GARIBALDIAN
-
-
-
-
 
 Italy, twice hast thou spoken; and time is athirst
 
@@ -370,13 +346,7 @@ for the third.
 
                              --SWINBURNE.
 
-
-
-
-
 My Dear ------
-
-
 
 It is a long time since we met; and I fear these letters may never reach
 
@@ -397,8 +367,6 @@ and terrible about Venetian Red; and something quite catastrophic about
 Burnt Sienna. But somehow or other, when I saw in the street yesterday the
 
 colours on your flag, it reminded me of the colours on your palette.
-
-
 
 You need not fear that I shall try to entangle you or your countrymen in
 
@@ -431,8 +399,6 @@ one's hair. But I repeat that I am not concerned to interfere with your
 decision, save in so far as I may provide some materials for it by
 
 describing our own.
-
-
 
 For I think the first, perhaps the only, fruitful work an Englishman can do
 
@@ -492,8 +458,6 @@ is very great. But to give up one's hate for one's country, this may also
 
 have in it something of pride and something of purification.
 
-
-
 What is it that has made the British peoples thus defer not only their
 
 artificial parade of party politics but their real social and moral
@@ -525,8 +489,6 @@ the baby is interested in the ticking of a watch; and the time will come
 when you will have to tell him, if you only tell him the wrong time. And
 
 that is exactly what the second-rate civilisation does.
-
-
 
 But the vital point is here. The abstract barbarian would copy. The cockney
 
@@ -560,8 +522,6 @@ professors. Lord Palmerston, I fear, used the word "damned" more or less
 
 flippantly. I use it reverently.
 
-
-
 Rome, at her very weakest, has always been a river that wanders and widens
 
 and that waters many fields. Berlin, at its strongest, will never be
@@ -579,8 +539,6 @@ expressed more often in the slangs than in the tongues of men. The English
 call it a fad. I do not know what the Italians call it; the Prussians call
 
 it philosophy.
-
-
 
 Here is the sort of instance that made me think of you. What would you feel
 
@@ -609,8 +567,6 @@ worthy of the man's terrible paganism and his more terrible Christianity.
 Who but God could have graven Michael Angelo; who came so near to graving
 
 the Mother of God?
-
-
 
 German culture deals with the matter as follows:--"Michelangelo Buonarotti
 
@@ -652,8 +608,6 @@ though originally of German family he was a hybrid between the North and
 
 West brunette race."
 
-
-
 Would you take the trouble to prove that Michael Angelo was an Italian that
 
 this man takes to prove that he was a German? Of course not. The only
@@ -691,8 +645,6 @@ cry of "Bis!" We might say Goethe was an Englishman, because his name
 begins with the popular sporting cry "Go!" But the ultimate difference
 
 between us and the Prussian professor is simply that we are not mad.
-
-
 
 The father of Frederick the Great, the founder of the more modern
 
@@ -744,8 +696,6 @@ really Germans; and if they weren't really Germans, well then, they weren't
 
 really great. It is an occupation for an old maid.
 
-
-
 Three or four hundred years ago, in the sad silence that had followed the
 
 comparative failure of the noble effort of the Middle Ages, there came upon
@@ -766,21 +716,13 @@ volumes) that it could only have come from a Prussian Eagle. He had seen
 
 one--in a cage.
 
-
-
          Yours ------,
 
               G.K. CHESTERTON.
 
-
-
        *       *       *       *       *
 
-
-
 My Dear ------
-
-
 
 The facts before all Europeans to-day are so fundamental that I still find
 
@@ -795,8 +737,6 @@ is second-rate. The second is that to almost any Prussian, Prussia is
 really first-rate; and is prepared, quite literally, to police the rest of
 
 the world.
-
-
 
 For the first matter, the comparative inferiority of German culture cannot
 
@@ -851,8 +791,6 @@ only a half understanding of what was once heroic and is now largely
 caddish. The German Emperor's naval vision is a bad copy of Nelson, as
 
 certainly as Frederick the Great's verses were a bad copy of Voltaire.
-
-
 
 But the second point was even more important; that weak as the thing is
 
@@ -915,8 +853,6 @@ demagogy. They have stupid plots, stupid explanations, and even stupid
 apologies. But there is one thing they really do not fail in. They do not
 
 fail in finding people stupid enough to carry them out.
-
-
 
 Now, it is this question I would ask you to consider; you, as a good middle
 
@@ -1038,8 +974,6 @@ ill adapted to popular propaganda; and I cannot but say that on this third
 
 point of persuasion, the German attempt is not striking.
 
-
-
 Now all this is important for this reason. If you consider it carefully
 
 you will see why Europe must, at whatever cost, break Germany in battle:
@@ -1136,8 +1070,6 @@ cannot go the whole length of those severe critics who say that a Prussian
 
 will never keep his promise.
 
-
-
 Unfortunately, it is precisely this sort of actuality and fulfilment that
 
 makes it urgent that Europe should put forth her whole energy to drag down
@@ -1158,15 +1090,9 @@ from us, my friend. There is only one thing of which the Prussian would be
 
 ashamed; and of that, we have sworn to God, he shall taste before the end.
 
-
-
        *       *       *       *       *
 
-
-
 My Dear ------
-
-
 
 The Prussianised German, of whatever blend of races he may be, has one
 
@@ -1308,13 +1234,9 @@ toy-trade of Germany had begun to flood this country, there was a priggish
 
 British couplet, engraven on the minds of governesses, which ran--
 
-
-
     What the German children delight to make
 
     The English children delight to break.
-
-
 
 I can answer for the delight of the English children; a just and godlike
 
@@ -1327,8 +1249,6 @@ factories. But, for the present, I am only concerned to say that I do not
 accept this line of historical division. I do not think history supports
 
 the view that those who could break things could not make them.
-
-
 
 This is the least intrusive approach by which I can touch on a topic that
 
@@ -1362,8 +1282,6 @@ turnip-face of _ce type là_, as the French say, who conceives that he can
 
 make them both like himself and yet remain superior to both.
 
-
-
 I implore you to keep out of the hands of this Fool the quarrel of the
 
 great saints and of the great blasphemers. He will do to religion what he
@@ -1394,8 +1312,6 @@ victory in Flanders. And I suppose (now I come to think of it) that the
 
 Germans do.
 
-
-
 By the fulness of your faith and even the fulness of your despair, you that
 
 remember Rome, have earned a right to prevent all our quarrels being
@@ -1407,8 +1323,6 @@ that neither religion at its worst nor republicanism at its worst ever
 offered the coarse insult to all mankind that is offered by this new and
 
 nakedly universal monarchy.
-
-
 
 There has always been something common to civilised men, whether they
 
@@ -1432,8 +1346,6 @@ the completeness of this silly creature we discuss. I shall not answer his
 
 boasts with boasts; but with blows.
 
-
-
 My front-door is beaten in and broken down suddenly. I see nothing outside,
 
 except a sort of smiling, straw-haired commercial traveller with a notebook
@@ -1456,13 +1368,9 @@ Permit me, therefore, to bless your house by the passage of my beautiful
 
 boots; that I may burgle the house next door."
 
-
-
 And then something European that is prouder than pride will rise up in me;
 
 and I shall answer:--
-
-
 
 "I am that Englishman who has tortured Ireland, who has been tortured by
 
@@ -1472,23 +1380,9 @@ And he tells you, Faultless Being, with a truth as deep as his own guilt,
 
 and as deathless as his own remembrance, that you shall not pass this way."
 
-
-
-
-
-
-
-
-
-
-
 End of Project Gutenberg's The Appetite of Tyranny, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE APPETITE OF TYRANNY ***
-
-
 
 ***** This file should be named 11605-8.txt or 11605-8.zip *****
 
@@ -1496,21 +1390,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/1/6/0/11605/
 
-
-
 Produced by Robert Shimmin, Piotr Przemyslaw Karwasz and PG Distributed
 
 Proofreaders
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -1544,21 +1430,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -1572,15 +1448,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -1602,8 +1472,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -1621,8 +1489,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -1654,8 +1520,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -1674,11 +1538,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -1692,8 +1552,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -1701,8 +1559,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -1724,8 +1580,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -1738,15 +1592,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -1757,8 +1607,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -1782,23 +1630,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -1824,8 +1666,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -1840,8 +1680,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -1850,13 +1688,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -1870,11 +1704,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -1895,8 +1725,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -1924,8 +1752,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -1950,8 +1776,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -1959,8 +1783,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -1975,8 +1797,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -1998,13 +1818,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -2015,8 +1829,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -2036,15 +1848,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -2062,8 +1868,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -2078,8 +1882,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -2088,13 +1890,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -2109,8 +1907,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -2128,8 +1924,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -2138,15 +1932,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -2156,15 +1946,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -2174,8 +1958,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -2184,15 +1966,11 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Each eBook is in a subdirectory of the same number as the eBook's
 
 eBook number, often in several formats including plain vanilla ASCII,
 
 compressed (zipped), HTML and others.
-
-
 
 Corrected EDITIONS of our eBooks replace the old file and take over
 
@@ -2202,15 +1980,9 @@ VERSIONS based on separate sources are treated as new eBooks receiving
 
 new filenames and etext numbers.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -2219,8 +1991,6 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
 
 EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
 
@@ -2232,17 +2002,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-
-
      http://www.gutenberg.net/etext06
-
-
 
     (Or /etext 05, 04, 03, 02, 01, 00, 99,
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
-
-
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -2256,26 +2020,12 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-
-
      http://www.gutenberg.net/1/0/2/3/10234
-
-
 
 or filename 24689 would be found at:
 
      http://www.gutenberg.net/2/4/6/8/24689
 
-
-
 An alternative method of locating eBooks:
 
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-
-
-
-===== FINE FILE: TheAppOfTyranny.txt =====

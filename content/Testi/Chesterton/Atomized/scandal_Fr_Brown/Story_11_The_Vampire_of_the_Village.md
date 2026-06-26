@@ -711,11 +711,4 @@ than your dead one.'
 cushions. 'If it comes to a little cosy company on a railway journey, I
 should prefer the corpse.'
 
-
-
-
 THE END
-
-
-
-===== FINE FILE: scandal_Fr_Brown.txt =====

@@ -140,6 +140,3 @@ that asparagus is now lowered into the open mouth on a string,
 or shot into the mouth with a small gun, or eaten with the toes, or not
 eaten at all?  No; I do not know, that is what I wish to point out.
 They have changed the password.
-
-
-===== FINE FILE: asparagus.txt =====

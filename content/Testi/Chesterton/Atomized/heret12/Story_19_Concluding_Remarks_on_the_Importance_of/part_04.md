@@ -91,8 +91,4 @@ yet have believed.
 
 THE END
 
-
 End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
-
-
-===== FINE FILE: heret12.txt =====

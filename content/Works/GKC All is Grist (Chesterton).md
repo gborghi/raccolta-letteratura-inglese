@@ -37,7 +37,6 @@ tags:
 - [Chapter 03](/Testi/Chesterton/Atomized/GKC_All_is_Grist/Chapter_03)
 - [Chapter 04](/Testi/Chesterton/Atomized/GKC_All_is_Grist/Chapter_04)
 
-
 ## Testo integrale / Full text
 
 All Is Grist
@@ -88,8 +87,6 @@ XXXV.             ON THE BAD WORD FOR GUILD
 XXXVI.            ON SOPHISTICATION
 XXXVII.           ON DRESS AND DECORUM
 XXXVIII.          ON ALGERNON CHARLES SWINBURNE
-
-
 
 I. On the Prudery of Slang
 
@@ -5406,11 +5403,3 @@ actually come and tell me that the world is on an endless march
 towards wild liberty and indefinite relaxation of everything,
 I really do not know how to answer, except with a melancholy smile.
 `I have lived long enough to have seen one thing . . .'
-
-
-
-
-
-
-
-===== FINE FILE: GKC_All_is_Grist.txt =====

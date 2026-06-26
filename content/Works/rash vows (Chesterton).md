@@ -184,7 +184,3 @@ will rise from the harbour announcing that the reign of the cowards
 is over and a man is burning his ships.
 
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: rash_vows.txt =====

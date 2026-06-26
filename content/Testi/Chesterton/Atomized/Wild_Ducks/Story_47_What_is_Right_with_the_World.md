@@ -16,7 +16,6 @@ tags:
 
 What is Right With the World
 
-
 The above excellent title is not of my own invention.
 It was suggested to me by the Editor of this paper, and I
 consented to fill up the bill, partly because of the pleasure
@@ -397,7 +396,3 @@ But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
 T.P's Weekly.
-
-
-
-===== FINE FILE: Wild_Ducks.txt =====

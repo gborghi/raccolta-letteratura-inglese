@@ -16,13 +16,7 @@ tags:
 
 CHAPTER IV
 
-
-
 THE BREAK-UP OF THE COMPROMISE
-
-
-
-
 
 If it be curiously and carefully considered it will, I think, appear
 
@@ -79,8 +73,6 @@ outposts, as it seemed, for ever. Neither was strong enough to expel the
 other; and Victorian England was in a state which some call liberty and
 
 some call lockjaw.
-
-
 
 But the situation can be stated another way. There came a time, roughly
 
@@ -248,8 +240,6 @@ have felt that the train could be a substitute for its own passengers;
 
 or the telephone a substitute for its own voice.
 
-
-
 In any case it is clear that a change had begun to pass over scientific
 
 inquiry, of which we have seen the culmination in our own day. There had
@@ -277,8 +267,6 @@ twist of the rationalistic mind in the direction of arbitrary power,
 certainly weakened the Liberal movement from within. And meanwhile it
 
 was being weakened by heavy blows from without.
-
-
 
 There is a week that is the turn of the year; there was a year that was
 
@@ -318,8 +306,6 @@ blood and bones. The enormous depression which infects many excellent
 
 people born about this time, probably has this cause.
 
-
-
 It was a great calamity that the freedom of Wilkes and the faith of Dr.
 
 Johnson fought each other. But it was an even worse calamity that they
@@ -347,8 +333,6 @@ Radicalism had not heart enough for the business. Down fell they dead
 together, exactly as Macaulay's Lay says, and still stood all who saw
 
 them fall almost until the hour at which I write.
-
-
 
 This coincident collapse of both religious and political idealism
 
@@ -392,8 +376,6 @@ century later; but if creative politics were at their lowest, creative
 
 theology was almost at its highest point of energy.
 
-
-
 The modern world, in fact, had fallen between two stools. It had fallen
 
 between that austere old three-legged stool which was the tripod of the
@@ -420,8 +402,6 @@ would not have despised a vote. We hardly find them both despised till
 
 we come to the age of Oscar Wilde.
 
-
-
 These years that followed on that double disillusionment were like one
 
 long afternoon in a rich house on a rainy day. It was not merely that
@@ -441,8 +421,6 @@ through it. But this time did produce an interregnum of art that had a
 truth of its own; though that truth was near to being only a consistent
 
 lie.
-
-
 
 The movement of those called Æsthetes (as satirised in _Patience_) and
 
@@ -550,8 +528,6 @@ fairly boast of being subtle; but they must not mind if they are called
 
 narrow.
 
-
-
 This is the spirit of Wilde's work and of most of the literary work done
 
 in that time and fashion. It is, as Mr. Arthur Symons said, an attitude;
@@ -568,11 +544,7 @@ just going too far. "Plant lilies at my head" has something wrong about
 
 it; something silly that is not there in--
 
-
-
     "And put a grey stone at my head"
-
-
 
 in the old ballad. But even where Wilde was right, he had a way of being
 
@@ -586,15 +558,11 @@ as hostile to the art and civilisation that were his only gods; but ends
 
 by saying--
 
-
-
                                   "And yet
 
     These Christs that die upon the barricades
 
     God knows that I am with them--in some ways."
-
-
 
 Now that is really very true; that is the way a man of wide reading and
 
@@ -621,8 +589,6 @@ cigarette that martyrdom is martyrdom in some respects, has seized on
 and mastered all more delicate considerations in the mind. It is unwise
 
 in a poet to goad the sleeping lion of laughter.
-
-
 
 In less dexterous hands the decadent idea, what there was of it, went
 
@@ -698,8 +664,6 @@ trace against the grand barbaric forests the sin and the sorrow of
 
 Lancelot.
 
-
-
 To return to the chief of the decadents, I will not speak of the end of
 
 the individual story: there was horror and there was expiation. And, as
@@ -725,8 +689,6 @@ very much deeper, more democratic and more true to the real trend of the
 populace to-day, than anything the Socialists ever uttered even in the
 
 boldest pages of Bernard Shaw.
-
-
 
 Before we pass on to the two expansive movements in which the Victorian
 
@@ -790,8 +752,6 @@ admire the figures that walk about in his afternoon drawing-rooms; but
 
 we have a certain sense that they are figures that have no faces.
 
-
-
 For the rest, he is most widely known, or perhaps only most widely
 
 chaffed, because of a literary style that lends itself to parody and is
@@ -842,8 +802,6 @@ Beerbohm has been able to imagine Mr. Henry James writing about
 
 Christmas.
 
-
-
 Now upon this interregnum, this cold and brilliant waiting-room which
 
 was Henry James at its highest and Wilde at its worst, there broke in
@@ -859,8 +817,6 @@ Rudyard Kipling and the Imperialists. I take the Socialists first not
 because they necessarily came so in order of time, but because they were
 
 less the note upon which the epoch actually ended.
-
-
 
 William Morris, of whom we have already spoken, may be said to
 
@@ -899,8 +855,6 @@ beliefs of Victorianism. The Industrial System, so run, had become
 another name for hell. By Morris's time and ever since, England has been
 
 divided into three classes: Knaves, Fools, and Revolutionists.
-
-
 
 History is full of forgotten controversies; and those who speak of
 
@@ -942,8 +896,6 @@ thought we might perhaps get out of the mess if everybody did as he
 
 liked.
 
-
-
 Thus the Anarchists and Socialists fought a battle over the death-bed of
 
 Victorian Industrialism; in which the Socialists (that is, those who
@@ -955,8 +907,6 @@ a complete victory and have almost exterminated their enemy. The
 Anarchist one meets here and there nowadays is a sad sight; he is
 
 disappointed with the future, as well as with the past.
-
-
 
 This victory of the Socialists was largely a literary victory; because
 
@@ -1054,8 +1004,6 @@ widowers' houses?" There is a sort of insane equity about it which was
 
 what Bernard Shaw had the power to give, and gave.
 
-
-
 Out of the same social ferment arose a man of equally unquestionable
 
 genius, Mr. H. G. Wells. His first importance was that he wrote great
@@ -1080,8 +1028,6 @@ Victorian. But because, even from the beginning, his whole trend was
 
 Socialist, it is right to place him here.
 
-
-
 While the old Victorian ideas were being disturbed by an increasing
 
 torture at home, they were also intoxicated by a new romance from
@@ -1103,8 +1049,6 @@ Victorian idea. From the point of view of a Victorian aristocrat like
 Palmerston, Socialism would be the cheek of gutter snipes; Imperialism
 
 would be the intrusion of cads. But cads are not alone concerned.
-
-
 
 Broadly, the phase in which the Victorian epoch closed was what can only
 
@@ -1144,8 +1088,6 @@ This was the last note of the Victorians: procrastination was called
 
 progress.
 
-
-
 Now if we look for the worst fruits of this fallacy we shall find them
 
 in historical criticism. There is a curious habit of treating any one
@@ -1163,8 +1105,6 @@ obviously, such a phrase only applies to an alleged or real divine
 event: otherwise the forerunner would be a founder. Unless Jesus had
 
 been the Baptist's God, He would simply have been his disciple.
-
-
 
 Nevertheless the fallacy of the "forerunner" has been largely used in
 
@@ -1219,8 +1159,6 @@ failure of the poet. Yet when we look back up the false perspective of
 time, Stevenson does seem in a sense to have prepared that imperial and
 
 downward path.
-
-
 
 I shall not talk here, any more than anywhere else in this book, about
 
@@ -1304,8 +1242,6 @@ good art, has missed its main intention merely because it was also good
 
 story-telling.
 
-
-
 If the rather vague Victorian public did not appreciate the deep and
 
 even tragic ethics with which Stevenson was concerned, still less were
@@ -1343,8 +1279,6 @@ of sport, war, or comradeship: and here and there his note is false in
 these matters, and reminds one (though very remotely) of the mere
 
 provincial bully that Henley sometimes sank to be.
-
-
 
 For Stevenson had at his elbow a friend, an invalid like himself, a man
 
@@ -1388,8 +1322,6 @@ the stamp of the thing called genius; that indefinable, dangerous and
 
 often temporary thing.
 
-
-
 For it is really impossible to criticise Rudyard Kipling as part of
 
 Victorian literature, because he is the end of such literature. He has
@@ -1403,8 +1335,6 @@ makes him sympathetic with the man that crushes the Indian; a vague
 journalistic sympathy with the men that misrepresent everything that has
 
 happened to the Indian; but of the Victorian virtues, nothing.
-
-
 
 All that was right or wrong in Kipling was expressed in the final
 
@@ -1428,11 +1358,7 @@ forces, gold was sighted from far in a sort of cynical romanticism: the
 
 guns opened across Africa; and the great queen died.
 
-
-
        *       *       *       *       *
-
-
 
 Of what will now be the future of so separate and almost secretive an
 
@@ -1458,19 +1384,7 @@ external arms, it will lie heavy on the living. The dishonour will not
 
 be on the dead.
 
-
-
-
-
-
-
-
-
 BIBLIOGRAPHICAL NOTE
-
-
-
-
 
 After having surveyed the immense field presented in such a volume as
 
@@ -1487,8 +1401,6 @@ of Victoria_, the wise reader will choose some portion for closer study,
 and will go straight to the originals before he has any further traffic
 
 with critics or commentators, however able.
-
-
 
 He will then need the aid of fuller biographies. Some Victorian _Lives_
 
@@ -1530,8 +1442,6 @@ _Short Biographical Dictionary of English Literature_ is useful for
 
 dates.
 
-
-
 The latter half of the second volume of Mr. F. A. Mumby's _Letters of
 
 Literary Men_ is devoted to the Victorian Age. There are fuller
@@ -1541,8 +1451,6 @@ collections of the _Letters_ of Leigh Hunt, Thackeray, Dickens, the
 Brownings, Fitzgerald, Charles Kingsley, Matthew Arnold, and more
 
 recently the _Letters of George Meredith_, edited by his son.
-
-
 
 Among the important critical writers of the period, Matthew Arnold
 
@@ -1566,27 +1474,13 @@ Edmund Gosse, Prof. Dowden, Sir Walter Raleigh, and Sir A. T. Quiller
 
 Couch.
 
-
-
-
-
-
-
-
-
 INDEX
-
-
-
-
 
 Æsthetes, the, and Decadents, 218-27
 
 Arnold, Matthew, 73-79, 87
 
 Austen, Jane, 92, 105, 109
-
-
 
 Bentham, 36
 
@@ -1604,8 +1498,6 @@ Browning, Elizabeth B., 176-82
 
 Byron, 22
 
-
-
 Carlyle, 40, 49-62, 158
 
 Carroll, Lewis, 153
@@ -1616,8 +1508,6 @@ Coleridge, 20
 
 Collins, Wilkie, 130, 132
 
-
-
 Darwin, 38, 206-7, 209
 
 De Quincey, 23-25, 65
@@ -1626,11 +1516,7 @@ Dickens, 40, 79-89, 100, 106, 119-23, 129, 131
 
 Disraeli, 42, 135
 
-
-
 Eliot, George, 92, 103-9, 157
-
-
 
 Faber, 46
 
@@ -1640,13 +1526,9 @@ French Revolution, Influence of, 18-21
 
 Froude, 60, 62
 
-
-
 Gaskell, Mrs., 94
 
 Gilbert, 154
-
-
 
 Hardy, Thomas, 138-39, 143-45
 
@@ -1664,15 +1546,9 @@ Hunt, Leigh, 23
 
 Huxley, 39-40, 205
 
-
-
 Imperialism, 60, 239
 
-
-
 James, Henry, 228-31
-
-
 
 Keats, 20
 
@@ -1681,8 +1557,6 @@ Keble, 45
 Kingsley, 40, 59, 64, 72, 134-35
 
 Kipling, R., 60, 249-50
-
-
 
 Lamb, 23
 
@@ -1693,8 +1567,6 @@ Lear, Edward, 153
 Literary temperament, the English, 13-16
 
 Lytton, Bulwer, 135-37
-
-
 
 Macaulay, 28-36, 55
 
@@ -1710,13 +1582,9 @@ Mill, J. S., 36-37, 55
 
 Morris, Wm., 196-200, 232
 
-
-
 Newman, 38, 40, 45-48, 78, 159
 
 Novel, The Modern, 90-99
-
-
 
 Oliphant, Mrs., 116-17
 
@@ -1724,23 +1592,17 @@ Oliphant, Mrs., 116-17
 
 Oxford Movement, 42-45
 
-
-
 Pater, Walter, 69-71
 
 Patmore, 48, 201-2
 
 Pre-Raphaelite School, 68, 72
 
-
-
 Reade, Charles, 134
 
 Rossetti, D. G. and C., 71, 188-91
 
 Ruskin, 40, 62-8, 70, 158
-
-
 
 Science, Victorian, 208-12
 
@@ -1758,8 +1620,6 @@ Stevenson, R. L., 243-49
 
 Swinburne, 69, 159, 181-88
 
-
-
 Tennyson, 40, 64, 160-69
 
 Thackeray, 100, 110, 123-30, 158
@@ -1767,8 +1627,6 @@ Thackeray, 100, 110, 123-30, 158
 Thompson, Francis, 48, 201, 202
 
 Trollope, Anthony, 130, 132-33
-
-
 
 Watson, Wm., 202
 
@@ -1778,25 +1636,11 @@ Wilde, Oscar, 218-23
 
 Women, Victorian, 91, 99, 104, 115-16, 140
 
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of The Victorian Age in Literature, by 
 
 G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE VICTORIAN AGE IN LITERATURE ***
-
-
 
 ***** This file should be named 18639-8.txt or 18639-8.zip *****
 
@@ -1804,21 +1648,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/1/8/6/3/18639/
 
-
-
 Produced by Karina Aleksandrova, Juliet Sutherland and the
 
 Online Distributed Proofreading Team at http://www.pgdp.net
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -1852,21 +1688,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -1880,15 +1706,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -1910,8 +1730,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -1929,8 +1747,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -1962,8 +1778,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -1982,11 +1796,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -2000,8 +1810,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -2009,8 +1817,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -2032,8 +1838,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -2046,15 +1850,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -2065,8 +1865,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -2090,23 +1888,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -2132,8 +1924,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -2148,8 +1938,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -2158,13 +1946,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -2178,11 +1962,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -2203,8 +1983,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -2232,8 +2010,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -2258,8 +2034,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -2267,8 +2041,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -2283,8 +2055,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -2306,13 +2076,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -2323,8 +2087,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -2344,15 +2106,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -2370,8 +2126,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -2386,8 +2140,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -2396,15 +2148,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -2419,8 +2165,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -2438,8 +2182,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -2448,15 +2190,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -2466,15 +2204,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -2484,10 +2216,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -2496,17 +2224,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -2515,7 +2235,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: Victorian_Age.txt =====

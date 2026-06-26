@@ -41,7 +41,6 @@ tags:
 - [Story 08 THE PHILOSOPHER](/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER)
 - [Story 09 THE LATER PHASES](/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES)
 
-
 ## Testo integrale / Full text
 
 GEORGE BERNARD SHAW
@@ -50,14 +49,10 @@ By
 
 GILBERT K. CHESTERTON
 
-
-
 * * * *
 
 This contains the first 1909 edition, and an appendix,
 "The Later Phases", from 1935.
-
-
 
 * * * *
 
@@ -4949,8 +4944,6 @@ spear was never broken.
 
 THE END
 
-
-
 THE LATER PHASES*
 
 * Specially written for this edition, 1935
@@ -5780,9 +5773,3 @@ And it is not the Superman but very truly and actually the Son
 of Man, Who comes in clouds of glory to judge the world.
 
 THE END
-
-
-
-
-
-===== FINE FILE: Shaw.txt =====

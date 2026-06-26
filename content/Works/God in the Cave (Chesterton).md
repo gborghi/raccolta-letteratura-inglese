@@ -217,6 +217,3 @@ him filling the dome of night and hovering for the last time over history,
 that vast and fearful fact that was Moloch of the Carthaginians;
 awaiting his last tribute from a ruler of the races of Shem.  The demons
 in that first festival of Christmas, feasted also in their own fashion.
-
-
-===== FINE FILE: God_in_the_Cave.txt =====

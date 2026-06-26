@@ -154,7 +154,3 @@ a relic of medievalism.
 This newspaper column was collected into the book All I Survey,
 published in 1933.
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: turnpikes.txt =====

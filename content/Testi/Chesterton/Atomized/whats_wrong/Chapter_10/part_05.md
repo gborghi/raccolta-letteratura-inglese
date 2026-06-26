@@ -185,8 +185,3 @@ and that I dislike Socialism because it will (according to Socialists)
 be so like that shop.  It is its fulfilment, not its reversal.
 I do not object to Socialism because it will revolutionize our commerce,
 but because it will leave it so horribly the same.
-
-
-
-
-===== FINE FILE: whats_wrong.txt =====

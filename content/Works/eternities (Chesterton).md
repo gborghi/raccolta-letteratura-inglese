@@ -50,10 +50,4 @@ And I will name the leaves upon the trees,
 In heaven I shall stand on gold and glass,  
   Still brooding earth's arithmetic to spell;  
   Or see the fading of the fires of hell  
-Ere I have thanked my God for all the grass.  
-
-
-
-
-
-===== FINE FILE: eternities.txt =====  
+Ere I have thanked my God for all the grass.

@@ -61,10 +61,4 @@ And very pleased to dine,
 It isn't safe to give him nuts  
 Unless you give him wine.  
 
-
--- G.K.Chesterton  
-
-
-
-
-===== FINE FILE: the-englishman.txt =====  
+-- G.K.Chesterton

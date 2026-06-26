@@ -99,7 +99,4 @@ Healing all shattered hopes and failure sore:
 Since he had bravely looked on death and pain  
 For what he chose to worship and adore,  
 Cast boldly down his life for loss or gain  
-In the eternal lottery: not to be in vain.  
-
-
-===== FINE FILE: Francis_Xavier.txt =====  
+In the eternal lottery: not to be in vain.

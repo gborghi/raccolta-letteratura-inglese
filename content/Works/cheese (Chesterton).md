@@ -141,7 +141,3 @@ to raise my voice, not against the waiter, but against Modern Society,
 for this huge and unparalleled modern wrong.
 
 _________________________________________________________________
-
-
-
-===== FINE FILE: cheese.txt =====

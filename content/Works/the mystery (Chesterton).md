@@ -36,7 +36,6 @@ The Mystery
 
 G. K. Chesterton  
 
-
 If sunset clouds could grow on trees  
 It would but match the may in flower;  
 And skies be underneath the seas  
@@ -55,8 +54,4 @@ Has left him in the garden blind.
 Witness, O Sun that blinds our eyes,  
 Unthinkable and unthankable King,  
 That though all other wonder dies  
-I wonder at not wondering.  
-
-
-
-===== FINE FILE: the_mystery.txt =====  
+I wonder at not wondering.

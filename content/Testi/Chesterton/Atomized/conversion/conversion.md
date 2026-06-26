@@ -15,8 +15,6 @@ tags:
 
 THE CATHOLIC CHURCH AND CONVERSION
 
-
-
 BY G. K. CHESTERTON
 
 Nihil Obstat:  Arthur J. Scanlan, S.T.D. Censor Librorum.
@@ -26,8 +24,6 @@ Imprimatur:  Patrick Cardinal Hayes +Archbishop, New York.
 New York, September 16, 1926.
 
 Copyright, 1926 by MacMillan Company
-
-
 
 EDITOR'S NOTE
 
@@ -147,8 +143,6 @@ of our religion reposes.
 
 --The Editor.
 
-
-
 CONTENTS
 
 CHAPTER:
@@ -164,8 +158,6 @@ IV.  THE WORLD INSIDE OUT
 V. THE EXCEPTION PROVES THE RULE
 
 VI.  A NOTE ON PRESENT PROSPECTS
-
-
 
 CHAPTER I:  INTRODUCTORY:  A NEW RELIGION
 
@@ -367,8 +359,6 @@ of our Fathers" may realise almost with amusement that they
 might well be singing "Faith of our Children."  And in many cases
 the return has been so recent as almost to deserve the description
 of a Children's Crusade.
-
-
 
 CHAPTER II:  THE OBVIOUS BLUNDERS
 
@@ -857,8 +847,6 @@ the first loyalties of men who had not yet even conceived the notion
 of founding such a national and separate state; that the Faith really
 was not only the faith of our fathers, but the faith of our fathers
 before they had even named our fatherland.
-
-
 
 CHAPTER III:  THE REAL OBSTACLES
 
@@ -1424,8 +1412,6 @@ and the third, running away from the Church.  When those three
 phases are over, a larger truth begins to come into sight;
 it is much too large to describe and we will proceed to describe it.
 
-
-
 CHAPTER IV:  THE WORLD INSIDE OUT
 
 The first fallacy about the Catholic Church is the idea that it
@@ -1802,8 +1788,6 @@ and that international experience, humanity had a vision.
 It has not had another; but only quarrels about that one.
 Paganism was the largest thing in the world and Christianity
 was larger; and everything else has been comparatively small.
-
-
 
 CHAPTER V:  THE EXCEPTION PROVES THE RULE
 
@@ -2208,8 +2192,6 @@ But I know that Universalism is too small for me; and I could
 not creep back into that dull safety, who have looked on the dizzy
 vision of liberty.
 
-
-
 CHAPTER VI:  A NOTE ON PRESENT PROSPECTS
 
 On reconsidering these notes I find them to be far too personal;
@@ -2324,8 +2306,3 @@ that rests on nothing but natural passion; it is bound to change
 in its proportion with the coming of experience; and, at the worst,
 it will become a battle between bad Catholics and good Catholics,
 with the great dome over all.
-
-
-
-
-===== FINE FILE: conversion.txt =====

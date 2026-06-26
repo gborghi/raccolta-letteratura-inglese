@@ -155,7 +155,6 @@ understood from that day to this.  He tried to be reasonable.
 It is not surprising that his life was a martyrdom, and that
 he died murdered.
 
-
 XL.  On Myself on Abraham Lincoln
 
 AN American critic, apparently of the Baptist persuasion, has uttered a
@@ -282,9 +281,3 @@ I do not think any of these things especially admirable;
 I do not think any of them even reason ably arguable; and I do not
 think any of them any more characteristic of Lincoln than of Lee
 or Bayard or Joan of Arc, or any hero or heroine in history.
-
-
-
-
-
-===== FINE FILE: On_Abraham_Lincoln.txt =====

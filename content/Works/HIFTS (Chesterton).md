@@ -182,6 +182,3 @@ Martin Ward, Software Technology Research Lab,
 De Montfort University, Leicester.
 Email: martin@gkc.org.uk
 -------------------------------------------------------------------------------
-
-
-===== FINE FILE: HIFTS.txt =====

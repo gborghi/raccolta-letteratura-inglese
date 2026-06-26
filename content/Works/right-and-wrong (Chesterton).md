@@ -69,7 +69,3 @@ The Song of Right and Wrong
 	       Heaven sent us Soda Water  
 	       As a torment for our crimes.  
 				   - G.K. Chesterton
-
-
-
-===== FINE FILE: right-and-wrong.txt =====  

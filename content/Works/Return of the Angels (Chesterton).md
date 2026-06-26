@@ -152,7 +152,3 @@ theory because of this or that triviality--because of a
 justification of the Fourth Gospel or a rap on the table.
 We have returned to it because, by the rejection of rationalism,
 the world becomes suddenly rational.
-
-
-
-===== FINE FILE: Return_of_the_Angels.txt =====

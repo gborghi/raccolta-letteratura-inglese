@@ -16,8 +16,6 @@ tags:
 
 CHAPTER II.
 
-
-
 A FINE October morning succeeded to the foggy evening that had witnessed
 
 my first introduction to Crimsworth Hall. I was early up and walking in
@@ -50,8 +48,6 @@ A dense, permanent vapour brooded over this locality--there lay Edward’s
 
 “Concern.”
 
-
-
 I forced my eye to scrutinize this prospect, I forced my mind to dwell
 
 on it for a time, and when I found that it communicated no pleasurable
@@ -69,8 +65,6 @@ be a tradesman. Look!” I continued mentally--“Look at the sooty smoke in
 that hollow, and know that there is your post! There you cannot dream,
 
 you cannot speculate and theorize--there you shall out and work!”
-
-
 
 Thus self-schooled, I returned to the house. My brother was in the
 
@@ -114,8 +108,6 @@ stern, forbidding manner told me he would not spare. Had I then force of
 
 mind to cope with him? I did not know; I had never been tried.
 
-
-
 Mrs. Crimsworth’s entrance diverted my thoughts for a moment. She looked
 
 well, dressed in white, her face and her attire shining in morning
@@ -127,8 +119,6 @@ night’s careless gaiety seemed to warrant, but she replied with coolness
 and restraint: her husband had tutored her; she was not to be too
 
 familiar with his clerk.
-
-
 
 As soon as breakfast was over Mr. Crimsworth intimated to me that they
 
@@ -153,8 +143,6 @@ triumph in the result of the contest; he scarcely spoke to me during the
 whole of the brief drive, only opening his lips at intervals to damn his
 
 horse.
-
-
 
 X---- was all stir and bustle when we entered it; we left the clean
 
@@ -190,19 +178,13 @@ Mr. Crimsworth entered, and in an instant was again absorbed in his
 
 occupation of writing or calculating--I know not which.
 
-
-
 Mr. Crimsworth, having removed his mackintosh, sat down by the fire. I
 
 remained standing near the hearth; he said presently--
 
-
-
 “Steighton, you may leave the room; I have some business to transact
 
 with this gentleman. Come back when you hear the bell.”
-
-
 
 The individual at the desk rose and departed, closing the door as he
 
@@ -216,27 +198,15 @@ he was! Whence, then, came that air of contraction--that narrow and hard
 
 aspect on his forehead, in all his lineaments?
 
-
-
 Turning to me he began abruptly:
-
-
 
 “You are come down to ----shire to learn to be a tradesman?”
 
-
-
 “Yes, I am.”
-
-
 
 “Have you made up your mind on the point? Let me know that at once.”
 
-
-
 “Yes.”
-
-
 
 “Well, I am not bound to help you, but I have a place here vacant, if
 
@@ -246,35 +216,21 @@ you know anything besides that useless trash of college learning--Greek,
 
 Latin, and so forth?”
 
-
-
 “I have studied mathematics.”
-
-
 
 “Stuff! I dare say you have.”
 
-
-
 “I can read and write French and German.”
-
-
 
 “Hum!” He reflected a moment, then opening a drawer in a desk near him
 
 took out a letter, and gave it to me.
 
-
-
 “Can you read that?” he asked.
-
-
 
 It was a German commercial letter; I translated it; I could not tell
 
 whether he was gratified or not--his countenance remained fixed.
-
-
 
 “It is well,” he said, after a pause, “that you are acquainted with
 
@@ -306,8 +262,6 @@ establishment--business-like habits, feelings, and ideas, suit me best.
 
 Do you understand?”
 
-
-
 “Partly,” I replied. “I suppose you mean that I am to do my work for my
 
 wages; not to expect favour from you, and not to depend on you for any
@@ -316,15 +270,11 @@ help but what I earn; that suits me exactly, and on these terms I will
 
 consent to be your clerk.”
 
-
-
 I turned on my heel, and walked to the window; this time I did not
 
 consult his face to learn his opinion: what it was I do not know, nor
 
 did I then care. After a silence of some minutes he recommenced:--
-
-
 
 “You perhaps expect to be accommodated with apartments at Crimsworth
 
@@ -338,17 +288,11 @@ business reasons I may wish to take down to the hall for a night or so.
 
 You will seek out lodgings in X----.”
 
-
-
 Quitting the window, I walked back to the hearth.
-
-
 
 “Of course I shall seek out lodgings in X----,” I answered. “It would
 
 not suit me either to lodge at Crimsworth Hall.”
-
-
 
 My tone was quiet. I always speak quietly. Yet Mr. Crimsworth’s blue eye
 
@@ -356,25 +300,15 @@ became incensed; he took his revenge rather oddly. Turning to me he said
 
 bluntly--
 
-
-
 “You are poor enough, I suppose; how do you expect to live till your
 
 quarter’s salary becomes due?”
 
-
-
 “I shall get on,” said I.
-
-
 
 “How do you expect to live?” he repeated in a louder voice.
 
-
-
 “As I can, Mr. Crimsworth.”
-
-
 
 “Get into debt at your peril! that’s all,” he answered. “For aught I
 
@@ -384,11 +318,7 @@ them; I tolerate nothing of the sort here, and I will never give you a
 
 shilling extra, whatever liabilities you may incur--mind that.”
 
-
-
 “Yes, Mr. Crimsworth, you will find I have a good memory.”
-
-
 
 I said no more. I did not think the time was come for much parley. I
 
@@ -422,15 +352,11 @@ first clerk, the individual dismissed previously to our conference,
 
 re-entered.
 
-
-
 “Mr. Steighton,” said he, “show Mr. William the letters from Voss,
 
 Brothers, and give him English copies of the answers; he will translate
 
 them.”
-
-
 
 Mr. Steighton, a man of about thirty-five, with a face at once sly and
 

@@ -43,7 +43,6 @@ The Waverley Book Co., London
 
 Reprinted in "The Spice of Life"
 
-
 The eclipse of Christian theology during the rationalist advance
 of the eighteenth century is one of the most interesting of
 historical episodes.  In order to see it clearly, we must first
@@ -304,6 +303,3 @@ pursued persistently partly through a tradition that already existed.
 But men were not rationalistic because they were scientists.
 Rather they became scientists because they were rationalists.
 Here as everywhere the soul of man went first, even when it denied itself.
-
-
-===== FINE FILE: anti_religious_thought.txt =====

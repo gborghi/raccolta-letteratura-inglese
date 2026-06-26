@@ -18,19 +18,13 @@ eyes, intermittently exclaiming:  "Have you no word of consolation
 
 for a mother?"
 
-
-
 Mr. Pond abruptly controlled himself and managed to recapture, at
 
 least, a hazy courtesy.
 
-
-
 "Yes, madam," he said.  "I have the best possible consolation for a
 
 mother.  Your son is not mad."
-
-
 
 He looked more judicial, and even severe, when he next sat in
 
@@ -38,27 +32,19 @@ consultation with Mr. Butt, Sir Hubert Wotton, and Inspector Grote,
 
 the leading detective of the district.
 
-
-
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
 this as an epoch of Education."
 
-
-
 "Oh, I know it's about a clever cat and all the rest of it," said
 
 Butt, vaguely.  "A cat that helps its master to get things--"
 
-
-
 The Inspector smote his knee with a smack that rang through the
 
 office.
-
-
 
 "A cat burglar!" he cried.  "So that's what you mean.  I fancied at
 
@@ -70,8 +56,6 @@ to climb up to the window by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
-
-
 "Pardon me," said Mr. Pond, "does a cat burglar, or for that matter
 
 any burglar, any more than any cat, load himself with a gigantic
@@ -80,13 +64,9 @@ knife rather bigger than a garden spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
-
-
 They all stared at him; but he resumed with the same air of frigid
 
 rebuke:
-
-
 
 "What I remark upon, what I regret and regard as symptomatic of
 
@@ -146,13 +126,9 @@ outside our doorway, among the poles of the little scaffolding,
 
 while he climbed in at the upper window and killed poor Travers."
 
-
-
 "If you are sure of this," cried Sir Hubert Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
-
-
 
 "I did act on it at once," replied Pond, with a slight sigh.  "This
 
@@ -165,12 +141,6 @@ of them was arrested and found to be Signor Tizzi.  He was also
 found, I am glad to say, to be still in possession of the plans."
 
 But he sighed again.
-
-
-
-
-
-
 
 "For after all," as Mr. Pond observed, in telling the tale long
 
@@ -202,20 +172,6 @@ only," said Mr. Pond, ending, as he had begun, with an apologetic
 
 little laugh, "he was too tall to be seen."
 
-
-
-
-
-
-
 End of this Project Gutenberg of Australia eBook
 
 The Paradoxes of Mr Pond by G. K. Chesterton
-
-
-
-
-
-
-
-===== FINE FILE: MrPond.txt =====

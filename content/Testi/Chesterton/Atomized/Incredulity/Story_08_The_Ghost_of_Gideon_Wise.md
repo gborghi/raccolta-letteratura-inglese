@@ -843,8 +843,3 @@ the climbing adventure.'
 And how very literary!  Home is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in history,
 he is also a poet.'
-
-
-
-
-===== FINE FILE: Incredulity.txt =====

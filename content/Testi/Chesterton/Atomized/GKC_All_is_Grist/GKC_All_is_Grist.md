@@ -62,8 +62,6 @@ XXXVI.            ON SOPHISTICATION
 XXXVII.           ON DRESS AND DECORUM
 XXXVIII.          ON ALGERNON CHARLES SWINBURNE
 
-
-
 I. On the Prudery of Slang
 
 WHAT puzzles me is that so many things which boast of being
@@ -5379,11 +5377,3 @@ actually come and tell me that the world is on an endless march
 towards wild liberty and indefinite relaxation of everything,
 I really do not know how to answer, except with a melancholy smile.
 `I have lived long enough to have seen one thing . . .'
-
-
-
-
-
-
-
-===== FINE FILE: GKC_All_is_Grist.txt =====

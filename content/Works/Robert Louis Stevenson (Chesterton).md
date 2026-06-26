@@ -59,7 +59,6 @@ tags:
 - [Chapter 09](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_09)
 - [Chapter 10](/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_10)
 
-
 ## Testo integrale / Full text
 
 ROBERT LOUIS STEVENSON BY G. K. CHESTERTON
@@ -3939,6 +3938,3 @@ For of such is the kingdom of heaven."
 THE END
 
 * * * *
-
-
-===== FINE FILE: Robert_Louis_Stevenson.txt =====

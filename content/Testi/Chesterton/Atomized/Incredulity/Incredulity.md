@@ -17,7 +17,6 @@ The Incredulity of Father Brown (1926)
 
 G. K. Chesterton
 
-
 ONE:  The Resurrection of Father Brown
 
 THERE was a brief period during which Father Brown enjoyed,
@@ -7730,8 +7729,3 @@ the climbing adventure.'
 And how very literary!  Home is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in history,
 he is also a poet.'
-
-
-
-
-===== FINE FILE: Incredulity.txt =====

@@ -68,8 +68,6 @@ went to jail and the whipping-post after the Reformation.
 
 All this is scarcely denied.
 
-
-
 Yet against all this must be put in fairness certain important facts;
 
 especially two facts illustrated in the figure and career of Milton.
@@ -130,13 +128,9 @@ or stupid characters, but into that of the one wise character,
 
 the Chorus, who is supposed to express the moral of a play:
 
-
-
   Nor do I name of men the common rout...
 
   But such as thou hast solemnly elected.
-
-
 
 I cannot help thinking that Milton was successful with Satan,
 
@@ -182,8 +176,6 @@ felt for the Puritans, and no unjust dislike either, had reference
 
 to this nameless feeling.
 
-
-
 It is possible, I fancy, to frame a fair statement that shall
 
 admit this element of the pride of the elect while doing justice
@@ -219,8 +211,6 @@ of the harshness of democracy without any of its sympathy or abandon.
 Thus arose the great race of the aristocratic republicans,
 
 half pagan and half Puritan, the greatest of whom was Milton.
-
-
 
 The effect of this great type has been immense; but it has been
 
@@ -266,14 +256,4 @@ we do not know what he really saw with his sightless eyes.
 
 We only know that it turned him to stone.
 
-
-
-
-
-
-
 THE END
-
-
-
-===== FINE FILE: Milton.txt =====

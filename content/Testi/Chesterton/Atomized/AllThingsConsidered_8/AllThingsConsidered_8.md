@@ -20,7 +20,6 @@ almost no restrictions whatsoever.  You may copy it, give it away
 or re-use it under the terms of the Project Gutenberg License
 included with this eBook or online at www.gutenberg.net
 
-
 Title:  All Things Considered
 
 Author:  G. K. Chesterton
@@ -33,30 +32,16 @@ Character set encoding:  ISO-8859-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK ALL THINGS CONSIDERED ***
 
-
-
-
 Produced by Robert Shimmin, jayam and the Online Distributed
 Proofreading Team
 
-
-
-
-
 ALL THINGS CONSIDERED
-
-
 
 BY
 
 G. K. CHESTERTON
 
-
-
-
 Ninth Edition
-
-
 
 CONTENTS
 
@@ -132,11 +117,7 @@ CHRISTMAS
 
 ALL THINGS CONSIDERED
 
-
-
-
 THE CASE FOR THE EPHEMERAL
-
 
 I cannot understand the people who take literature seriously;
 but I can love them, and I do.  Out of my love I warn them to keep
@@ -304,11 +285,7 @@ In the end it will not matter to us whether we wrote well or ill;
 whether we fought with flails or reeds.  It will matter to us
 greatly on what side we fought.
 
-
-
-
 COCKNEYS AND THEIR JOKES
-
 
 A writer in the _Yorkshire Evening Post_ is very angry indeed with my
 performances in this column.  His precise terms of reproach are,
@@ -521,11 +498,7 @@ out into the daylight, that the scriptures might be fulfilled.
 For the two things that a healthy person hates most between heaven
 and hell are a woman who is not dignified and a man who is.
 
-
-
-
 THE FALLACY OF SUCCESS
-
 
 There has appeared in our time a particular class of books and articles
 which I sincerely and solemnly think may be called the silliest ever
@@ -717,11 +690,7 @@ but still virtues.  But what shall we say of the gospel preached
 to the new Industrious Apprentice; the Apprentice who rises not
 by his virtues, but avowedly by his vices?
 
-
-
-
 ON RUNNING AFTER ONE'S HAT
-
 
 I feel an almost savage envy on hearing that London has been flooded
 in my absence, while I am in the mere country.  My own Battersea has been,
@@ -844,11 +813,7 @@ For as the Roman Catholic priest in the story said:  "Wine is
 good with everything except water," and on a similar principle,
 water is good with everything except wine.
 
-
-
-
 THE VOTE AND THE HOUSE
-
 
 Most of us will be canvassed soon, I suppose; some of us may
 even canvass.  Upon which side, of course, nothing will induce me
@@ -1052,11 +1017,7 @@ for the battle?  And what if the remarks of the trumpet take this form,
 "I charge you as you love your King and country to come to this Council.
 And I know you won't."
 
-
-
-
 CONCEIT AND CARICATURE
-
 
 If a man must needs be conceited, it is certainly better that he should be
 conceited about some merits or talents that he does not really possess.
@@ -1226,11 +1187,7 @@ it is because they are both exclusive.
 
 * * * * *
 
-
-
-
 PATRIOTISM AND SPORT.
-
 
 I notice that some papers, especially papers that call themselves
 patriotic, have fallen into quite a panic over the fact that we
@@ -1378,9 +1335,6 @@ that Monsieur Clemenceau might challenge me to meet him with pistols.
 But I do not think that it is at all likely that Mr. C. B. Fry
 will ever challenge me to meet him with cricket-bats.
 
-
-
-
 AN ESSAY ON TWO CITIES.
 
 A little while ago I fell out of England into the town of Paris.
@@ -1507,11 +1461,7 @@ He cannot see anything anywhere, except Sapolio and the _Daily Mail_.
 We must either alter London to suit the ideals of our education,
 or else alter our education to suit the great beauty of London.
 
-
-
-
 FRENCH AND ENGLISH
-
 
 It is obvious that there is a great deal of difference between being
 international and being cosmopolitan.  All good men are international.
@@ -1661,11 +1611,7 @@ of the revolutionary mood.  Frenchmen, seeking revolution,
 may find the humiliation of humanity inspiring.  But God forbid
 that two pleasure-seeking Englishmen should ever find it pleasant!"
 
-
-
-
 THE ZOLA CONTROVERSY
-
 
 The difference between two great nations can be illustrated
 by the coincidence that at this moment both France and England
@@ -1824,11 +1770,7 @@ Zola was worse than a pornographer, he was a pessimist.
 He did worse than encourage sin:  he encouraged discouragement.
 He made lust loathsome because to him lust meant life.
 
-
-
-
 OXFORD FROM WITHOUT
-
 
 Some time ago I ventured to defend that race of hunted and
 persecuted outlaws, the Bishops; but until this week I had no
@@ -1914,23 +1856,19 @@ never been rubbed down by an old English University.  The reader
 will remember that when the Periwinkle-girl was adored by two Dukes,
 the poet added--
 
-
   "A third adorer had the girl,
     A man of lowly station;
    A miserable grovelling Earl
     Besought her approbation."
 
-
 Perhaps, indeed, some allusion to our University system, and to
 the universal clash in it of all the classes of the community,
 may be found in the verse a little farther on, which says--
-
 
   "He'd had, it happily befell,
     A decent education;
   His views would have befitted well
     A far superior station."
-
 
 Possibly there was as simple a chasm between Lord Curzon and Lord Milner.
 But I am afraid that the chasm will become almost imperceptible,
@@ -2046,11 +1984,7 @@ in the _Outlook_, to enjoy the pleasures and deny the perils.
 Oh what a happy place England would be to live in if only one did
 not love it!
 
-
-
-
 WOMAN
-
 
 A correspondent has written me an able and interesting letter in the
 matter of some allusions of mine to the subject of communal kitchens.
@@ -2218,11 +2152,7 @@ Yet all men talk about men, and that is the whole difference.
 Men represent the deliberative and democratic element in life.
 Woman represents the despotic.
 
-
-
-
 THE MODERN MARTYR
-
 
 The incident of the Suffragettes who chained themselves with iron
 chains to the railings of Downing Street is a good ironical
@@ -2376,11 +2306,7 @@ with fundamental indifference; for, while it is a demonstration
 that probably is adopted from the most fanatical motives, it is
 a demonstration which might be adopted from the most frivolous.
 
-
-
-
 ON POLITICAL SECRECY
-
 
 Generally, instinctively, in the absence of any special reason,
 humanity hates the idea of anything being hidden--that is,
@@ -2551,7 +2477,6 @@ that are unpronounceable; the important things known only to the few.
 In fact we lack nothing except the religion.
 
 * * * * *
-
 
 EDWARD VII.  AND SCOTLAND
 
@@ -2728,11 +2653,7 @@ The saints, the most exalted of human figures, were also the most local.
 It was exactly the men whom we most easily connected with heaven
 whom we also most easily connected with earth.
 
-
-
-
 THOUGHTS AROUND KOEPENICK
-
 
 A famous and epigrammatic author said that life copied literature;
 it seems clear that life really caricatures it.  I suggested recently
@@ -2905,11 +2826,7 @@ and fashionable, whose manner is at once diffident and frank.
 Beware how you admit him into your domestic secrets, for he may be
 a bogus Earl.  Or, worse still, a real one.
 
-
-
-
 THE BOY
-
 
 I have no sympathy with international aggression when it is
 taken seriously, but I have a certain dark and wild sympathy with it
@@ -3112,10 +3029,7 @@ it has all the charms and virtues of a game.  I only say that it
 would be a stark impossibility in a nation which believed in
 telling the truth.
 
-
-
 LIMERICKS AND COUNSELS OF PERFECTION
-
 
 It is customary to remark that modern problems cannot easily be
 attacked because they are so complex.  In many cases I believe it
@@ -3385,11 +3299,7 @@ But in our time even the plutocrat has become a Socialist.
 They have science and combination, and may easily inaugurate a much
 greater tyranny than the world has ever seen.
 
-
-
-
 ON THE CRYPTIC AND THE ELLIPTIC
-
 
 Surely the art of reporting speeches is in a strange state
 of degeneration.  We should not object, perhaps, to the reporter's
@@ -3577,11 +3487,7 @@ The modern who paints too cleverly produces a picture of a cow
 which might be the earthquake at San Francisco.  And the journalist
 who reports a speech too cleverly makes it mean nothing at all.
 
-
-
-
 THE WORSHIP OF THE WEALTHY
-
 
 There has crept, I notice, into our literature and journalism
 a new way of flattering the wealthy and the great.  In more
@@ -3712,10 +3618,7 @@ not as simplicity.  When next I meet a rich man I intend to walk
 up to him in the street and address him with Oriental hyperbole.
 He will probably run away.
 
-
-
 SCIENCE AND RELIGION
-
 
 In these days we are accused of attacking science because we want it
 to be scientific.  Surely there is not any undue disrespect to our doctor
@@ -3855,11 +3758,7 @@ are not at all revolutionary.  They are the party of platitude.
 They do not shake religion:  rather religion seems to shake them.
 They can only answer the great paradox by repeating the truism.
 
-
-
-
 THE METHUSELAHITE
-
 
 I Saw in a newspaper paragraph the other day the following
 entertaining and deeply philosophical incident.  A man was enlisting
@@ -3946,10 +3845,7 @@ For there is one riddle in that case which cannot easily be cleared up.
 If it was the man's religion to live as long as he could, why on
 earth was he enlisting as a soldier?
 
-
-
 SPIRITUALISM.
-
 
 I have received a letter from a gentleman who is very indignant at what
 he considers my flippancy in disregarding or degrading Spiritualism.
@@ -4087,11 +3983,7 @@ Praise them; or leave them alone; but do not look for them unless you
 know they are there.  Do not look for them unless you want them.
 It annoys them very much.
 
-
-
-
 THE ERROR OF IMPARTIALITY
-
 
 The refusal of the jurors in the Thaw trial to come to an
 agreement is certainly a somewhat amusing sequel to the frenzied
@@ -4192,10 +4084,7 @@ We say that the judge is not a judge because he gives judgment.
 We say that the sincere believer has no right to vote, simply because
 he has voted.
 
-
-
 PHONETIC SPELLING
-
 
 A correspondent asks me to make more lucid my remarks about
 phonetic spelling.  I have no detailed objection to items
@@ -4313,10 +4202,7 @@ reverent courtesy of demeanour deserts him quite suddenly.
 This does seem to me the case against any extreme revolution in spelling.
 If you spell a word wrong you have some temptation to think it wrong.
 
-
-
 HUMANITARIANISM AND STRENGTH
-
 
 Somebody writes complaining of something I said about progress.
 I have forgotten what I said, but I am quite certain that it was
@@ -4341,10 +4227,8 @@ only in some particular thing.  Have you ever noticed that strange
 line of Tennyson, in which he confesses, half consciously,
 how very _conventional_ progress is?--
 
-
   "Let the great world spin for ever down the ringing
   grooves of change."
-
 
 Even in praising change, he takes for a simile the most unchanging thing.
 He calls our modern change a groove.  And it is a groove;
@@ -4494,10 +4378,7 @@ but they forget that it needed the very doctrinal "Declaration
 of Independence" to make the United States of America.  You cannot
 agree about nothing any more than you can quarrel about nothing.
 
-
-
 WINE WHEN IT IS RED
-
 
 I suppose that there will be some wigs on the green in connection
 with the recent manifesto signed by a string of very eminent doctors
@@ -4618,10 +4499,7 @@ official we might be taking one step towards making it careless.
 In such things to be careless is to be sane:  for neither drunkards
 nor Moslems can be careless about drink.
 
-
-
 DEMAGOGUES AND MYSTAGOGUES
-
 
 I once heard a man call this age the age of demagogues.
 Of this I can only say, in the admirably sensible words of
@@ -4766,10 +4644,7 @@ is capable of climbing an omnibus while holding an umbrella."
 It seems a simple method; if ever I should master it perhaps I
 may govern England.
 
-
-
 THE "EATANSWILL GAZETTE."
-
 
 The other day some one presented me with a paper called the
 _Eatanswill Gazette_.  I need hardly say that I could not have been
@@ -4925,11 +4800,7 @@ glory and meaning of Dickens that he confined himself to making
 jokes that anybody might have made a little better than anybody
 would have made them.
 
-
-
-
 FAIRY TALES
-
 
 Some solemn and superficial people (for nearly all very superficial
 people are solemn) have declared that the fairy tales are immoral;
@@ -4956,10 +4827,8 @@ familiar with the practice of physical assault), he has, I say,
 called up a hundred times the picture of the terrible freedom
 of the fairies, who typify the ultimate anarchy of art--
 
-
   "Where nobody grows old or weary or wise,
   Where nobody grows old or godly or grave."
-
 
 But, after all (it is a shocking thing to say), I doubt whether
 Mr. Yeats really knows the real philosophy of the fairies.  He is not
@@ -5046,11 +4915,7 @@ Not only can these fairy tales be enjoyed because they are moral,
 but morality can be enjoyed because it puts us in fairyland,
 in a world at once of wonder and of war.
 
-
-
-
 TOM JONES AND MORALITY
-
 
 The two hundredth anniversary of Henry Fielding is very justly celebrated,
 even if, as far as can be discovered, it is only celebrated by
@@ -5212,10 +5077,7 @@ Whenever he alludes to right and wrong it is always with this
 old implication.  Right is right, even if nobody does it.
 Wrong is wrong, even if everybody is wrong about it.
 
-
-
 THE MAID OF ORLEANS
-
 
 A considerable time ago (at far too early an age, in fact)
 I read Voltaire's "La Pucelle," a savage sarcasm on the
@@ -5350,10 +5212,7 @@ I could take my place with those subtle clerks who thought her divine
 mission devilish, rather than with those rustic aunts and uncles
 who thought it impossible.
 
-
-
 A DEAD POET
-
 
 With Francis Thompson we lose the greatest poetic energy
 since Browning.  His energy was of somewhat the same kind.
@@ -5482,10 +5341,7 @@ Religious imagery, so far from being subtle, is the only simple
 thing left for poets.  So far from being merely superhuman,
 it is the only human thing left for human beings.
 
-
-
 CHRISTMAS
-
 
 There is no more dangerous or disgusting habit than that of celebrating
 Christmas before it comes, as I am doing in this article.
@@ -5762,10 +5618,6 @@ us what a turkey means.  And if you go and stare at a live turkey
 for an hour or two, you will find by the end of it that the enigma
 has rather increased than diminished.
 
-
-
-
-
 End of Project Gutenberg's All Things Considered, by G. K. Chesterton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ALL THINGS CONSIDERED ***
@@ -5776,7 +5628,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Robert Shimmin, jayam and the Online Distributed Proofreading
 Team
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -5798,8 +5649,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -5811,7 +5660,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -6025,7 +5873,6 @@ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
@@ -6043,7 +5890,6 @@ and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
@@ -6104,7 +5950,6 @@ methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
@@ -6161,7 +6006,3 @@ or filename 24689 would be found at:
 
 An alternative method of locating eBooks:
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-===== FINE FILE: AllThingsConsidered-8.txt =====

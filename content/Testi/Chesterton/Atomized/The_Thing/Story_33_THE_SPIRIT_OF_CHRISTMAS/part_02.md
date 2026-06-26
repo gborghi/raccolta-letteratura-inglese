@@ -96,6 +96,3 @@ and one day when men seek for all that is buried in themselves,
 and discover, where she is indeed hidden, behind locked gates
 and shuttered windows, and doors thrice barred and bolted,
 the spirit of liberty.
-
-
-===== FINE FILE: The_Thing.txt =====

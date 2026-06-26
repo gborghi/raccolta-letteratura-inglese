@@ -96,8 +96,4 @@ Hark! Laughter like a lion wakes
 And the whole heaven shouts and shakes,  
 For God Himself is born again,  
 And we are little children walking  
-  Through the snow and rain.  
-
-
-
-===== FINE FILE: the_wise_men.txt =====  
+  Through the snow and rain.

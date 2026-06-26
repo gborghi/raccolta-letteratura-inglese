@@ -32,14 +32,12 @@ A Ballade of Theatricals
 
 By G.K. Chesterton  
 
-
 [From a souvenir programme produced for a fund raising benefit  
 in London on 14th May 1912, for those affected by the sinking  
 of the Titanic just a month previously.  It includes poems  
 and prose by many famous and lesser known authors of the day,  
 at least one of which, (Thomas Hardy's "The Convergence of the Twain")  
 is a first published appearance, in an early form.]  
-
 
 Though all the critics' canons grow--  
 Far seedier than the actors' own--  
@@ -73,8 +71,4 @@ Believe me, there are real things.
 Prince, though your hair is not your own  
 And half your face held on by strings,  
 And if you sat, you'd smash your throne--  
---Believe me, there are real things.  
-
-
-
-===== FINE FILE: titanicGKC.txt =====  
+--Believe me, there are real things.

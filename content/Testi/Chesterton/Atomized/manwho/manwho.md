@@ -15,8 +15,6 @@ tags:
 
 The Project Gutenberg EBook of The Man Who Knew Too Much, by G.K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -25,69 +23,27 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
 
-
-
-
-
 Title: The Man Who Knew Too Much
-
-
 
 Author: G.K. Chesterton
 
-
-
 Release Date: June 12, 2004 [EBook #1720]
-
-
 
 Language: English
 
-
-
 Character set encoding: ASCII
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK THE MAN WHO KNEW TOO MUCH ***
-
-
-
-
-
-
-
-
 
 Scanned by Georges Allaire <gall@globetrotter.net>
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.
 
-
-
-
-
-
-
-
-
-
-
 THE MAN WHO KNEW TOO MUCH
 
 By Gilbert K. Chesterton
 
-
-
-
-
-
-
-
-
 CONTENTS
-
-
 
 THE MAN WHO KNEW TOO MUCH:
 
@@ -107,21 +63,9 @@ THE MAN WHO KNEW TOO MUCH:
 
   VIII. THE VENGEANCE OF THE STATUE
 
-
-
-
-
-
-
-
-
 THE MAN WHO KNEW TOO MUCH
 
-
-
 I. THE FACE IN THE TARGET
-
-
 
 Harold March, the rising reviewer and social critic, was walking
 
@@ -154,8 +98,6 @@ knew a great deal about art, letters, philosophy, and general
 culture; about almost everything, indeed, except the world he was
 
 living in.
-
-
 
 Abruptly, in the middle of those sunny and windy flats, he came upon
 
@@ -193,8 +135,6 @@ like a large bird, it was perhaps with some of the premonition's
 
 proper to a man who meets the strangest friendship of his life.
 
-
-
 The man was apparently fishing; or at least was fixed in a
 
 fisherman's attitude with more than a fisherman's immobility. March
@@ -221,8 +161,6 @@ short scrutiny, was that, though he looked like a fisherman, he was
 
 not fishing.
 
-
-
 He was holding, instead of a rod, something that might have been a
 
 landing-net which some fishermen use, but which was much more like
@@ -235,8 +173,6 @@ into the water at intervals, gravely regarding its harvest of weed
 
 or mud, and emptying it out again.
 
-
-
 "No, I haven't caught anything," he remarked, calmly, as if
 
 answering an unspoken query. "When I do I have to throw it back
@@ -245,11 +181,7 @@ again; especially the big fish. But some of the little beasts
 
 interest me when I get 'em."
 
-
-
 "A scientific interest, I suppose?" observed March.
-
-
 
 "Of a rather amateurish sort, I fear," answered the strange
 
@@ -259,11 +191,7 @@ of phosphorescence.' But it would be rather awkward to go about in
 
 society carrying stinking fish."
 
-
-
 "I suppose it would," said March, with a smile.
-
-
 
 "Rather odd to enter a drawing-room carrying a large luminous cod,"
 
@@ -279,23 +207,17 @@ starlight; and some of the red starfish really shine like red stars.
 
 But, naturally, I'm not looking for them here."
 
-
-
 March thought of asking him what he was looking for; but, feeling
 
 unequal to a technical discussion at least as deep as the deep-sea
 
 fishes, he returned to more ordinary topics.
 
-
-
 "Delightful sort of hole this is," he said.  "This little dell and
 
 river here. It's like those places Stevenson talks about, where
 
 something ought to happen."
-
-
 
 "I know," answered the other.  "I think it's because the place
 
@@ -311,8 +233,6 @@ sweeping up to it. That's like a silent collision. It's like a
 
 breaker and the back-wash of a wave."
 
-
-
 March looked at the low-browed crag overhanging the green slope and
 
 nodded. He was interested in a man who turned so easily from the
@@ -320,8 +240,6 @@ nodded. He was interested in a man who turned so easily from the
 technicalities of science to those of art; and asked him if he
 
 admired the new angular artists.
-
-
 
 "As I feel it, the Cubists are not Cubist enough," replied the
 
@@ -339,8 +257,6 @@ calm, eternal, mathematical sort of truths; what somebody calls the
 
 'white radiance of'--"
 
-
-
 He stopped, and before the next word came something had happened
 
 almost too quickly and completely to be realized. From behind the
@@ -355,8 +271,6 @@ some wild epic. March automatically put out his hand in one futile
 
 gesture, as if to catch a falling tea-cup in a drawing-room.
 
-
-
 For the fraction of a flash it seemed to leave the ledge of rock
 
 like a flying ship; then the very sky seemed to turn over like a
@@ -369,8 +283,6 @@ the figure of a man with gray hair lay tumbled down the steep green
 
 slope, his limbs lying all at random, and his face turned away.
 
-
-
 The eccentric fisherman dropped his net and walked swiftly toward
 
 the spot, his new acquaintance following him. As they drew near
@@ -380,8 +292,6 @@ there seemed a sort of monstrous irony in the fact that the dead
 machine was still throbbing and thundering as busily as a factory,
 
 while the man lay so still.
-
-
 
 He was unquestionably dead. The blood flowed in the grass from a
 
@@ -415,11 +325,7 @@ and from among them March extracted a card-case. He read the name on
 
 the card aloud.
 
-
-
 "Sir Humphrey Turnbull. I'm sure I've heard that name somewhere."
-
-
 
 His companion only gave a sort of a little sigh and was silent for a
 
@@ -428,8 +334,6 @@ moment, as if ruminating, then he merely said, "The poor fellow is
 quite gone," and added some scientific terms in which his auditor
 
 once more found himself out of his depth.
-
-
 
 "As things are," continued the same curiously well-informed person,
 
@@ -447,8 +351,6 @@ come down to see my cousin at Torwood; my name is Horne Fisher.
 
 Might be a pun on my pottering about here, mightn't it?"
 
-
-
 "Is Sir Howard Horne your cousin?" asked March.  "I'm going to
 
 Torwood Park to see him myself; only about his public work, of
@@ -461,21 +363,13 @@ fails, it will be the most heroic failure in English history. Are
 
 you an admirer of your great kinsman, Mr. Fisher?"
 
-
-
 "Rather," said Mr. Fisher.  "He's the best shot I know."
-
-
 
 Then, as if sincerely repentant of his nonchalance, he added, with a
 
 sort of enthusiasm:
 
-
-
 "No, but really, he's a _beautiful_ shot."
-
-
 
 As if fired by his own words, he took a sort of leap at the ledges
 
@@ -491,8 +385,6 @@ before his companion had collected himself sufficiently to scramble
 
 up after him.
 
-
-
 The level above was a stretch of common turf on which the tracks of
 
 the fated car were plowed plainly enough; but the brink of it was
@@ -505,21 +397,13 @@ deliberately driven into such a death trap, especially in broad
 
 daylight.
 
-
-
 "I can't make head or tail of it," said March.  "Was he blind? Or
 
 blind drunk?"
 
-
-
 "Neither, by the look of him," replied the other.
 
-
-
 "Then it was suicide."
-
-
 
 "It doesn't seem a cozy way of doing it," remarked the man called
 
@@ -527,13 +411,9 @@ Fisher. "Besides, I don't fancy poor old Puggy would commit suicide,
 
 somehow."
 
-
-
 "Poor old who?" inquired the wondering journalist. "Did you know
 
 this unfortunate man?"
-
-
 
 "Nobody knew him exactly," replied Fisher, with some vagueness. "But
 
@@ -555,19 +435,13 @@ believe Hoggs--I mean my cousin Howard--was coming down specially to
 
 meet him."
 
-
-
 "Torwood Park doesn't belong to your cousin?" inquired March.
-
-
 
 "No; it used to belong to the Winthrops, you know," replied the
 
 other. "Now a new man's got it; a man from Montreal named Jenkins.
 
 Hoggs comes for the shooting; I told you he was a lovely shot."
-
-
 
 This repeated eulogy on the great social statesman affected Harold
 
@@ -579,8 +453,6 @@ flood of unfamiliar things, and he brought it to the surface before
 
 it could vanish.
 
-
-
 "Jenkins," he repeated.  "Surely you don't mean Jefferson Jenkins,
 
 the social reformer? I mean the man who's fighting for the new
@@ -588,8 +460,6 @@ the social reformer? I mean the man who's fighting for the new
 cottage-estate scheme. It would be as interesting to meet him as any
 
 Cabinet Minister in the world, if you'll excuse my saying so."
-
-
 
 "Yes; Hoggs told him it would have to be cottages," said Fisher.
 
@@ -600,8 +470,6 @@ beginning to laugh. And, of course, you must hang a peerage on to
 something; though the poor chap hasn't got it yet. Hullo, here's
 
 somebody else."
-
-
 
 They had started walking in the tracks of the car, leaving it behind
 
@@ -651,15 +519,11 @@ a small thing, but it was only the first in a string of singular
 
 antics on which his new and eccentric friend was leading him.
 
-
-
 The man they had passed looked after them in rather a suspicious
 
 fashion, but Fisher continued serenely on his way along the straight
 
 road that ran past the gates of the great estate.
-
-
 
 "That's John Burke, the traveler," he condescended to explain. "I
 
@@ -669,8 +533,6 @@ couldn't stop to introduce you, but I dare say you'll meet him later
 
 on."
 
-
-
 "I know his book, of course," said March, with renewed interest.
 
 "That is certainly a fine piece of description, about their being
@@ -678,8 +540,6 @@ on."
 only conscious of the closeness of the elephant when the colossal
 
 head blocked out the moon."
-
-
 
 "Yes, young Halkett writes jolly well, I think. What?  Didn't you
 
@@ -691,19 +551,13 @@ in his way, you know, as brave as a lion, or a good deal braver by
 
 all accounts."
 
-
-
 "You seem to know all about him," observed March, with a rather
 
 bewildered laugh, "and about a good many other people."
 
-
-
 Fisher's bald brow became abruptly corrugated, and a curious
 
 expression came into his eyes.
-
-
 
 "I know too much," he said.  "That's what's the matter with me.
 
@@ -715,15 +569,9 @@ That's why I'm really interested, just now, about one thing that I
 
 don't know."
 
-
-
 "And that is?" inquired the other.
 
-
-
 "Why that poor fellow is dead."
-
-
 
 They had walked along the straight road for nearly a mile,
 
@@ -744,8 +592,6 @@ newspapers. Yet no fury of revolt could have seemed to him more
 utterly revolutionary than this cold familiarity. It was like
 
 daylight on the other side of stage scenery.
-
-
 
 They reached the great lodge gates of the park, and, to March's
 
@@ -775,8 +621,6 @@ away all day. And about two hundred yards farther on they came to
 
 the first turn of the road.
 
-
-
 At the corner stood a sort of decayed inn with the dingy sign of The
 
 Grapes. The signboard was dark and indecipherable by now, and hung
@@ -787,15 +631,11 @@ inviting as a gallows. March remarked that it looked like a tavern
 
 for vinegar instead of wine.
 
-
-
 "A good phrase," said Fisher, "and so it would be if you were silly
 
 enough to drink wine in it. But the beer is very good, and so is the
 
 brandy."
-
-
 
 March followed him to the bar parlor with some wonder, and his dim
 
@@ -837,15 +677,11 @@ words the somewhat inhospitable host had walked hastily out of the
 
 bar, and they heard him banging doors in the dark interior.
 
-
-
 Fisher's weary eye wandered round the dusty and dreary inn parlor
 
 and rested dreamily on a glass case containing a stuffed bird, with
 
 a gun hung on hooks above it, which seemed to be its only ornament.
-
-
 
 "Puggy was a humorist," he observed, "at least in his own rather
 
@@ -853,15 +689,11 @@ grim style. But it seems rather too grim a joke for a man to buy a
 
 packet of sandwiches when he is just going to commit suicide."
 
-
-
 "If you come to that," answered March, "it isn't very usual for a
 
 man to buy a packet of sandwiches when he's just outside the door of
 
 a grand house he's going to stop at."
-
-
 
 "No . . . no," repeated Fisher, almost mechanically; and then
 
@@ -869,13 +701,9 @@ suddenly cocked his eye at his interlocutor with a much livelier
 
 expression.
 
-
-
 "By Jove! that's an idea. You're perfectly right. And that suggests
 
 a very queer idea, doesn't it?"
-
-
 
 There was a silence, and then March started with irrational
 
@@ -892,8 +720,6 @@ about with a rather wild stare, March had yet another unexpected
 emotion, for his guide hailed the man as Hoggs and introduced him as
 
 Sir Howard Horne.
-
-
 
 He looked rather older than his boyish portraits in the illustrated
 
@@ -913,13 +739,9 @@ had never pictured him with a gun under his arm, drinking brandy in
 
 a public house.
 
-
-
 "So you're stopping at Jink's, too," said Fisher.  "Everybody seems
 
 to be at Jink's."
-
-
 
 "Yes," replied the Chancellor of the Exchequer.  "Jolly good
 
@@ -941,8 +763,6 @@ only cock he'll ever kill, I should think. Are you coming up there
 
 now?"
 
-
-
 Fisher said, rather vaguely, that he was following soon, when he had
 
 fixed something up; and the Chancellor of the Exchequer left the
@@ -963,27 +783,15 @@ walked back about two hundred yards in that direction and stood
 
 still again.
 
-
-
 "I should think this is about the place," he said.
-
-
 
 "What place?" asked his companion.
 
-
-
 "The place where the poor fellow was killed," said Fisher, sadly.
-
-
 
 "What do you mean?" demanded March.
 
-
-
 "He was smashed up on the rocks a mile and a half from here."
-
-
 
 "No, he wasn't," replied Fisher.  "He didn't fall on the rocks at
 
@@ -991,11 +799,7 @@ all. Didn't you notice that he only fell on the slope of soft grass
 
 underneath? But I saw that he had a bullet in him already."
 
-
-
 Then after a pause he added:
-
-
 
 "He was alive at the inn, but he was dead long before he came to the
 
@@ -1011,13 +815,9 @@ found far away, and most people would say, as you do, that it was an
 
 accident to a motorist. The murderer must have been a clever brute."
 
-
-
 "But wouldn't the shot be heard at the inn or somewhere?" asked
 
 March.
-
-
 
 "It would be heard. But it would not be noticed. That," continued
 
@@ -1029,13 +829,9 @@ to drown it in a number of others. Certainly he was a first-class
 
 criminal. And he was something else as well."
 
-
-
 "What do you mean?" asked his companion, with a creepy premonition
 
 of something coming, he knew not why.
-
-
 
 "He was a first-class shot," said Fisher. He had turned his back
 
@@ -1061,15 +857,11 @@ the titanic shadows of the poplars lengthened over a third of the
 
 landscape.
 
-
-
 "Are you a first-class criminal?" asked Fisher, in a friendly tone.
 
 "I'm afraid I'm not. But I think I can manage to be a sort of
 
 fourth-rate burglar."
-
-
 
 And before his companion could reply he had managed to swing himself
 
@@ -1111,8 +903,6 @@ it is disused. It is regularly swept and garnished for a master who
 
 never comes.
 
-
-
 Looking over the lawn, however, he saw one object which he had not
 
 apparently expected. It was a sort of tripod supporting a large disk
@@ -1133,13 +923,9 @@ crinolines and gentlemen in outlandish hats and whiskers revisiting
 
 that lost garden like ghosts.
 
-
-
 Fisher, who was peering more closely at the target, startled him by
 
 an exclamation.
-
-
 
 "Hullo!" he said.  "Somebody has been peppering this thing with
 
@@ -1147,15 +933,11 @@ shot, after all, and quite lately, too. Why, I believe old Jink's
 
 been trying to improve his bad shooting here."
 
-
-
 "Yes, and it looks as if it still wanted improving," answered March,
 
 laughing. "Not one of these shots is anywhere near the bull's-eye;
 
 they seem just scattered about in the wildest way."
-
-
 
 "In the wildest way," repeated Fisher, still peering intently at the
 
@@ -1164,8 +946,6 @@ target. He seemed merely to assent, but March fancied his eye was
 shining under its sleepy lid and that he straightened his stooping
 
 figure with a strange effort.
-
-
 
 "Excuse me a moment," he said, feeling in his pockets. "I think I've
 
@@ -1179,8 +959,6 @@ a dull-gray smear. Then they went through the gathering twilight up
 
 the long green avenues to the great house.
 
-
-
 Here again, however, the eccentric investigator did not enter by the
 
 front door. He walked round the house until he found a window open,
@@ -1192,8 +970,6 @@ the gun-room. Rows of the regular instruments for bringing down
 birds stood against the walls; but across a table in the window lay
 
 one or two weapons of a heavier and more formidable pattern.
-
-
 
 "Hullo! these are Burke's big-game rifles," said Fisher. "I never
 
@@ -1207,13 +983,9 @@ sturdy, with a bumpy forehead and a bulldog jaw, and he spoke with a
 
 curt apology.
 
-
-
 "I left Major Burke's guns here," he said, "and he wants them packed
 
 up. He's going away to-night."
-
-
 
 And he carried off the two rifles without casting a glance at the
 
@@ -1222,8 +994,6 @@ stranger; through the open window they could see his short, dark
 figure walking away across the glimmering garden. Fisher got out of
 
 the window again and stood looking after him.
-
-
 
 "That's Halkett, whom I told you about," he said.  "I knew he was a
 
@@ -1237,8 +1007,6 @@ the sort of man you know for years before you find he's a chess
 
 champion."
 
-
-
 He had begun to walk in the direction of the disappearing secretary,
 
 and they soon came within sight of the rest of the house-party
@@ -1246,8 +1014,6 @@ and they soon came within sight of the rest of the house-party
 talking and laughing on the lawn. They could see the tall figure and
 
 loose mane of the lion-hunter dominating the little group.
-
-
 
 "By the way," observed Fisher, "when we were talking about Burke and
 
@@ -1259,8 +1025,6 @@ that he could draw with a gun? There's a wonderful chap loose about
 
 here."
 
-
-
 Sir Howard hailed Fisher and his friend the journalist with almost
 
 boisterous amiability. The latter was presented to Major Burke and
@@ -1270,8 +1034,6 @@ Mr. Halkett and also (by way of a parenthesis) to his host, Mr.
 Jenkins, a commonplace little man in loud tweeds, whom everybody
 
 else seemed to treat with a sort of affection, as if he were a baby.
-
-
 
 The irrepressible Chancellor of the Exchequer was still talking
 
@@ -1283,15 +1045,11 @@ had failed to bring down. It seemed to be a sort of sociable
 
 monomania.
 
-
-
 "You and your big game," he ejaculated, aggressively, to Burke.
 
 "Why, anybody could shoot big game. You want to be a shot to shoot
 
 small game."
-
-
 
 "Quite so," interposed Horne Fisher.  "Now if only a hippopotamus
 
@@ -1299,15 +1057,11 @@ could fly up in the air out of that bush, or you preserved flying
 
 elephants on the estate, why, then--"
 
-
-
 "Why even Jink might hit that sort of bird," cried Sir Howard,
 
 hilariously slapping his host on the back. "Even he might hit a
 
 haystack or a hippopotamus."
-
-
 
 "Look here, you fellows," said Fisher.  "I want you to come along
 
@@ -1319,15 +1073,9 @@ It's an animal with three legs and one eye, and it's all the colors
 
 of the rainbow."
 
-
-
 "What the deuce are you talking about?" asked Burke.
 
-
-
 "You come along and see," replied Fisher, cheerfully.
-
-
 
 Such people seldom reject anything nonsensical, for they are always
 
@@ -1345,8 +1093,6 @@ by the poplars and accepted the new and aimless game of shooting at
 
 the old mark.
 
-
-
 The last light seemed to fade from the lawn, and the poplars against
 
 the sunset were like great plumes upon a purple hearse, when the
@@ -1362,8 +1108,6 @@ he touched seemed unnaturally stiff and angular. Mr. Jenkins was
 holding his gun in an attitude more awkward than any that his
 
 satiric friends had seen or expected.
-
-
 
 At the same instant a horrible scream seemed to come from nowhere.
 
@@ -1403,19 +1147,13 @@ of the submarine monsters had crawled into the twilight garden; but
 
 it had the head of a dead man.
 
-
-
 "It's only luminous paint," said Burke.  "Old Fisher's been having a
 
 joke with that phosphorescent stuff of his."
 
-
-
 "Seems to be meant for old Puggy"' observed Sir Howard.  "Hits him
 
 off very well."
-
-
 
 With that they all laughed, except Jenkins. When they had all done,
 
@@ -1423,11 +1161,7 @@ he made a noise like the first effort of an animal to laugh, and
 
 Horne Fisher suddenly strode across to him and said:
 
-
-
 "Mr. Jenkins, I must speak to you at once in private."
-
-
 
 It was by the little watercourse in the moors, on the slope under
 
@@ -1436,8 +1170,6 @@ the hanging rock, that March met his new friend Fisher, by
 appointment, shortly after the ugly and almost grotesque scene that
 
 had broken up the group in the garden.
-
-
 
 "It was a monkey-trick of mine," observed Fisher, gloomily, "putting
 
@@ -1451,13 +1183,9 @@ infernal light, he did jump. Quite enough for my own intellectual
 
 satisfaction."
 
-
-
 "I'm afraid I don't quite understand even now," said March, "exactly
 
 what he did or why he did it."
-
-
 
 "You ought to," replied Fisher, with his rather dreary smile, "for
 
@@ -1489,13 +1217,9 @@ another shooting-affair, but you see the shooting gentleman had
 
 another shot in his locker."
 
-
-
 "But you said he would have to be a very good shot," protested
 
 March.
-
-
 
 "Jenkins is a very good shot," said Fisher.  "A very good shot who
 
@@ -1524,8 +1248,6 @@ crooked weathercock in the summerhouse to perpetuate the story of a
 legend. And then he lay in wait with his evil eye and wicked gun,
 
 safely ambushed behind the legend of his own incompetence.
-
-
 
 "But there is more than that. There is the summerhouse itself. I
 
@@ -1570,8 +1292,6 @@ character in Punch. But that's because he is a character in Punch. I
 mean he's a fictitious character. He's a fabulous animal. He doesn't
 
 exist.
-
-
 
 "Have you ever considered what it must be like to be a man who
 
@@ -1629,13 +1349,9 @@ man who can work those miracles will always itch to work them, if
 
 it's only in the dark."
 
-
-
 After a pause March observed, thoughtfully, "But he couldn't have
 
 brought him down like a bird with one of those little guns."
-
-
 
 "No; that was why I went into the gun-room," replied Fisher.  "He
 
@@ -1647,8 +1363,6 @@ wild. He saw nothing but a car passing quickly, which he followed
 
 for a little way, and then concluded he'd made a mistake."
 
-
-
 There was another silence, during which Fisher sat on a great stone
 
 as motionless as on their first meeting, and watched the gray and
@@ -1657,31 +1371,21 @@ silver river eddying past under the bushes. Then March said,
 
 abruptly, "Of course he knows the truth now."
 
-
-
 "Nobody knows the truth but you and I," answered Fisher, with a
 
 certain softening in his voice. "And I don't think you and I will
 
 ever quarrel."
 
-
-
 "What do you mean?" asked March, in an altered accent. "What have
 
 you done about it?"
-
-
 
 Horne Fisher continued to gaze steadily at the eddying stream. At
 
 last he said, "The police have proved it was a motor accident."
 
-
-
 "But you know it was not."
-
-
 
 "I told you that I know too much," replied Fisher, with his eye on
 
@@ -1713,11 +1417,7 @@ believe it; it's not in the picture. The crooked weathercock would
 
 always turn it into a joke."
 
-
-
 "Don't you think this is infamous?" asked March, quietly.
-
-
 
 "I think a good many things," replied the other.  "If you people
 
@@ -1729,25 +1429,13 @@ But don't be too hard on me merely because I know what society is.
 
 That's why I moon away my time over things like stinking fish."
 
-
-
 There was a pause as he settled himself down again by the stream;
 
 and then he added:
 
-
-
 "I told you before I had to throw back the big fish."
 
-
-
-
-
-
-
 II. THE VANISHING PRINCE
-
-
 
 This tale begins among a tangle of tales round a name that is at
 
@@ -1806,8 +1494,6 @@ quite capable of hiding myself." In which proceeding he acted with a
 tragic ignorance of the nature of women; and there fell on his path
 
 in that sunshine a shadow of doom.
-
-
 
 While he disappeared through the farmhouse the girl remained for a
 
@@ -1873,8 +1559,6 @@ its back to her in a battered old black hat and a tattered garment,
 
 and with all its tatters flying, it strode away across the hill.
 
-
-
 She did not analyze the audacious trick by which the man had turned
 
 to his advantage the subtle effects of the expected and the obvious;
@@ -1912,8 +1596,6 @@ woman to wind up the rope. And men say it was when this news was
 told to the other woman that her soul walked over the border line of
 
 treason.
-
-
 
 Such, at least, were the stories told of him in the countryside, and
 
@@ -1953,8 +1635,6 @@ of the country were reading and discussing when the more remarkable
 
 part of this story begins.
 
-
-
 Night was far advanced and the lights shone in the cottage that
 
 served for a temporary police station near the coast. On one side of
@@ -1981,8 +1661,6 @@ rank, was a sturdy man with a short white beard, and frosty eyebrows
 
 fixed in a frown which suggested rather worry than severity.
 
-
-
 His name was Morton, and he was a Liverpool man long pickled in the
 
 Irish quarrels, and doing his duty among them in a sour fashion not
@@ -1997,25 +1675,17 @@ rang in another room. The subordinate he had summoned immediately
 
 appeared with a sheaf of papers in his hand.
 
-
-
 "Sit down, Wilson," he said.  "Those are the dispositions, I
 
 suppose."
-
-
 
 "Yes," replied the third officer.  "I think I've got all there is to
 
 be got out of them, so I sent the people away."
 
-
-
 "Did Mary Cregan give evidence?" asked Morton, with a frown that
 
 looked a little heavier than usual.
-
-
 
 "No, but her master did," answered the man called Wilson, who had
 
@@ -2027,33 +1697,21 @@ rival. There's always some reason of that sort when we are told the
 
 truth about anything. And you bet the other girl told right enough."
 
-
-
 "Well, let's hope they'll be some sort of use," remarked Nolan, in a
 
 somewhat hopeless manner, gazing out into the darkness.
-
-
 
 "Anything is to the good," said Morton, "that lets us know anything
 
 about him."
 
-
-
 "Do we know anything about him?" asked the melancholy Irishman.
-
-
 
 "We know one thing about him," said Wilson, "and it's the one thing
 
 that nobody ever knew before. We know where he is."
 
-
-
 "Are you sure?" inquired Morton, looking at him sharply.
-
-
 
 "Quite sure," replied his assistant.  "At this very minute he is in
 
@@ -2061,15 +1719,11 @@ that tower over there by the shore. If you go near enough you'll see
 
 the candle burning in the window."
 
-
-
 As he spoke the noise of a horn sounded on the road outside, and a
 
 moment after they heard the throbbing of a motor car brought to a
 
 standstill before the door. Morton instantly sprang to his feet.
-
-
 
 "Thank the Lord that's the car from Dublin," he said. "I can't do
 
@@ -2079,8 +1733,6 @@ top of the tower and putting out his tongue at us. But the chief can
 
 do what he thinks best."
 
-
-
 He hurried out to the entrance and was soon exchanging greetings
 
 with a big handsome man in a fur coat, who brought into the dingy
@@ -2088,8 +1740,6 @@ with a big handsome man in a fur coat, who brought into the dingy
 little station the indescribable glow of the great cities and the
 
 luxuries of the great world.
-
-
 
 For this was Sir Walter Carey, an official of such eminence in
 
@@ -2108,8 +1758,6 @@ it was a question whether at the moment he was amenable to the law
 or not. It might be necessary to stretch a point, but a man like Sir
 
 Walter could probably stretch it as far as he liked.
-
-
 
 Whether he intended to do so was a question to be considered.
 
@@ -2145,15 +1793,11 @@ castle; and those who knew him thought him capable of imitating the
 
 primitive Irish chieftains who fell fighting against the sea.
 
-
-
 "I saw some queer-looking people leaving as I came in," said Sir
 
 Walter Carey. "I suppose they were your witnesses. But why do they
 
 turn up here at this time of night?"
-
-
 
 Morton smiled grimly.  "They come here by night because they would
 
@@ -2161,21 +1805,13 @@ be dead men if they came here by day. They are criminals committing
 
 a crime that is more horrible here than theft or murder."
 
-
-
 "What crime do you mean?" asked the other, with some curiosity.
 
-
-
 "They are helping the law," said Morton.
-
-
 
 There was a silence, and Sir Walter considered the papers before him
 
 with an abstracted eye. At last he spoke.
-
-
 
 "Quite so; but look here, if the local feeling is as lively as that
 
@@ -2191,8 +1827,6 @@ done what looks a little like sharp practice, and then only raised a
 
 revolution."
 
-
-
 "It's all the other way," said the man called Wilson, rather
 
 quickly. "There won't be half so much of a revolution if you arrest
@@ -2203,17 +1837,11 @@ anyhow, there can't be anything nowadays that the proper police
 
 can't manage."
 
-
-
 "Mr. Wilson is a Londoner," said the Irish detective, with a smile.
-
-
 
 "Yes, I'm a cockney, all right," replied Wilson, "and I think I'm
 
 all the better for that. Especially at this job, oddly enough."
-
-
 
 Sir Walter seemed slightly amused at the pertinacity of the third
 
@@ -2223,13 +1851,9 @@ which he spoke, which rendered rather needless his boast about his
 
 origin.
 
-
-
 "Do you mean to say," he asked, "that you know more about the
 
 business here because you have come from London?"
-
-
 
 "Sounds funny, I know, but I do believe it," answered Wilson.  "I
 
@@ -2237,13 +1861,9 @@ believe these affairs want fresh methods. But most of all I believe
 
 they want a fresh eye."
 
-
-
 The superior officers laughed, and the redhaired man went on with a
 
 slight touch of temper:
-
-
 
 "Well, look at the facts. See how the fellow got away every time,
 
@@ -2267,19 +1887,13 @@ so you don't see it. I don't look for it, and therefore I do look at
 
 it."
 
-
-
 "It is certainly an idea," said Sir Walter, smiling, "but what about
 
 the balcony? Balconies are occasionally seen in London."
 
-
-
 "But not rivers right under them, as if it was in Venice," replied
 
 Wilson.
-
-
 
 "It is certainly a new idea," repeated Sir Walter, with something
 
@@ -2288,8 +1902,6 @@ like respect. He had all the love of the luxurious classes for new
 ideas. But he also had a critical faculty, and was inclined to
 
 think, after due reflection, that it was a true idea as well.
-
-
 
 Growing dawn had already turned the window panes from black to gray
 
@@ -2301,8 +1913,6 @@ their leader stood for a moment in deep thought, as if conscious
 
 that he had come to a parting of the ways.
 
-
-
 Suddenly the silence was pierced by a long, wailing cry from the
 
 dark moors outside. The silence that followed it seemed more
@@ -2311,17 +1921,11 @@ startling than the shriek itself, and it lasted until Nolan said,
 
 heavily:
 
-
-
 "'Tis the banshee. Somebody is marked for the grave."
-
-
 
 His long, large-featured face was as pale as a moon, and it was easy
 
 to remember that he was the only Irishman in the room.
-
-
 
 "Well, I know that banshee," said Wilson, cheerfully, "ignorant as
 
@@ -2333,23 +1937,17 @@ sing out like that if she could get a glimpse of our friend writing
 
 his proclamation."
 
-
-
 "Do you mean that girl Bridget Royce?" asked Morton, drawing his
 
 frosty brows together. "Has she turned king's evidence to that
 
 extent?"
 
-
-
 "Yes," answered Wilson.  "I know very little of these local things,
 
 you tell me, but I reckon an angry woman is much the same in all
 
 countries."
-
-
 
 Nolan, however, seemed still moody and unlike himself. "It's an ugly
 
@@ -2361,31 +1959,21 @@ well. When the spirit is on him he would escape by a ladder of dead
 
 men, and wade through that sea if it were made of blood."
 
-
-
 "Is that the real reason of your pious alarms?" asked Wilson, with a
 
 slight sneer.
 
-
-
 The Irishman's pale face blackened with a new passion.
-
-
 
 "I have faced as many murderers in County Clare as you ever fought
 
 with in Clapham junction, Mr. Cockney," he said.
-
-
 
 "Hush, please," said Morton, sharply.  "Wilson, you have no kind of
 
 right to imply doubt of your superior's conduct. I hope you will
 
 prove yourself as courageous and trustworthy as he has always been."
-
-
 
 The pale face of the red-haired man seemed a shade paler, but he was
 
@@ -2395,15 +1983,11 @@ courtesy, saying, "Shall we go outside now, and get this business
 
 done?"
 
-
-
 Dawn had lifted, leaving a wide chasm of white between a great gray
 
 cloud and the great gray moorland, beyond which the tower was
 
 outlined against the daybreak and the sea.
-
-
 
 Something in its plain and primitive shape vaguely suggested the
 
@@ -2427,15 +2011,11 @@ knew the man inside had realized the daylight and blown out his
 
 candle.
 
-
-
 "There are other windows, aren't there?" asked Morton, "and a door,
 
 of course, somewhere round the corner? Only a round tower has no
 
 corners."
-
-
 
 "Another example of my small suggestion," observed Wilson, quietly.
 
@@ -2453,8 +2033,6 @@ of triangle. But the fourth is just above the third, and I suppose
 
 it looks on an upper floor."
 
-
-
 "It's only a sort of loft, reached by a ladder, said Nolan.  "I've
 
 played in the place when I was a child. It's no more than an empty
@@ -2462,8 +2040,6 @@ played in the place when I was a child. It's no more than an empty
 shell." And his sad face grew sadder, thinking perhaps of the
 
 tragedy of his country and the part that he played in it.
-
-
 
 "The man must have got a table and chair, at any rate," said Wilson,
 
@@ -2477,19 +2053,13 @@ one to each window; Macbride here has a ladder for the upper
 
 window."
 
-
-
 Mr. Horne Fisher languidly turned to his distinguished relative and
 
 spoke for the first time.
 
-
-
 "I am rather a convert to the cockney school of psychology," he said
 
 in an almost inaudible voice.
-
-
 
 The others seemed to feel the same influence in different ways, for
 
@@ -2507,19 +2077,13 @@ himself, followed by his secretary, began to walk round toward the
 
 only door, to demand admittance in a more regular fashion.
 
-
-
 "He will be armed, of course," remarked Sir Walter, casually.
-
-
 
 "By all accounts," replied Horne Fisher, "he can do more with a
 
 candlestick than most men with a pistol. But he is pretty sure to
 
 have the pistol, too."
-
-
 
 Even as he spoke the question was answered with a tongue of thunder.
 
@@ -2538,8 +2102,6 @@ the tower. A puff of smoke floated from the window like a little
 cloud. The two men behind rushed to the spot and raised him, but he
 
 was dead.
-
-
 
 Sir Walter straightened himself and called out something that was
 
@@ -2583,8 +2145,6 @@ was but momentary, for he began to move and rise as the others came
 
 round the tower.
 
-
-
 "My God! it's like an explosion!" cried Sir Walter; and indeed it
 
 was the only word for this unearthly energy, by which one man had
@@ -2592,8 +2152,6 @@ was the only word for this unearthly energy, by which one man had
 been able to deal death or destruction on three sides of the same
 
 small triangle at the same instant.
-
-
 
 Wilson had already scrambled to his feet and with splendid energy
 
@@ -2610,8 +2168,6 @@ curious silence; and Sir Walter, walking to the window through the
 thinning smoke, looked into the hollow shell of the ancient tower.
 
 Except for Wilson, staring around him, there was nobody there.
-
-
 
 The inside of the tower was a single empty room, with nothing but a
 
@@ -2633,8 +2189,6 @@ large notebook. The writer had suddenly stopped writing, even in the
 
 middle of a word.
 
-
-
 "I said it was like an explosion," said Sir Walter Carey at last.
 
 "And really the man himself seems to have suddenly exploded. But he
@@ -2643,13 +2197,9 @@ has blown himself up somehow without touching the tower. He's burst
 
 more like a bubble than a bomb."
 
-
-
 "He has touched more valuable things than the tower," said Wilson,
 
 gloomily.
-
-
 
 There was a long silence, and then Sir Walter said, seriously:
 
@@ -2663,8 +2213,6 @@ myself have the strongest confidence in your capacity for carrying
 
 on the work. What do you think we should do next?"
 
-
-
 Wilson seemed to rouse himself from his depression and acknowledged
 
 the speaker's words with a warmer civility than he had hitherto
@@ -2674,8 +2222,6 @@ shown to anybody. He called in a few of the police to assist in
 routing out the interior, leaving the rest to spread themselves in a
 
 search party outside.
-
-
 
 "I think," he said, "the first thing is to make quite sure about the
 
@@ -2689,13 +2235,9 @@ for disembodied spirits when I'm dealing with facts. And the facts
 
 before me are an empty tower with a ladder, a chair, and a table."
 
-
-
 "The spiritualists," said Sir Walter, with a smile, "would say that
 
 spirits could find a great deal of use for a table."
-
-
 
 "I dare say they could if the spirits were on the table--in a
 
@@ -2707,15 +2249,11 @@ believe in such things. I think they want a little education in this
 
 country."
 
-
-
 Horne Fisher's heavy eyelids fluttered in a faint attempt to rise,
 
 as if he were tempted to a lazy protest against the contemptuous
 
 tone of the investigator.
-
-
 
 "The Irish believe far too much in spirits to believe in
 
@@ -2724,8 +2262,6 @@ spiritualism," he murmured. "They know too much about 'em. If you
 want a simple and childlike faith in any spirit that comes along you
 
 can get it in your favorite London."
-
-
 
 "I don't want to get it anywhere," said Wilson, shortly. "I say I'm
 
@@ -2749,13 +2285,9 @@ original furniture, an heirloom in this magnificent palace of the
 
 Irish kings."
 
-
-
 Again Fisher looked at him under his eyelids, but seemed too sleepy
 
 to speak, and Wilson went on with his argument.
-
-
 
 "Now it's quite clear that something very odd has just happened in
 
@@ -2771,13 +2303,9 @@ family, so that altogether, I think, everything points to something
 
 in the construction of the tower itself."
 
-
-
 "Your reasoning seems to me excellent," said Sir Walter, who was
 
 listening attentively. "But what could it be?"
-
-
 
 "You see now what I mean about the ladder," went on the detective;
 
@@ -2795,8 +2323,6 @@ can't find anything unusual down here, that it might pay us to look
 
 up there."
 
-
-
 He got briskly off the table on which he was sitting (for the only
 
 chair was allotted to Sir Walter) and ran rapidly up the ladder to
@@ -2804,8 +2330,6 @@ chair was allotted to Sir Walter) and ran rapidly up the ladder to
 the platform above. He was soon followed by the others, Mr. Fisher
 
 going last, however, with an appearance of considerable nonchalance.
-
-
 
 At this stage, however, they were destined to disappointment; Wilson
 
@@ -2821,49 +2345,33 @@ having been the last to climb up the ladder, seemed now to lack the
 
 energy even to climb down again.
 
-
-
 "Come along, Fisher," called out Sir Walter from below, when the
 
 others had regained the floor. "We must consider whether we'll pull
 
 the whole place to pieces to see what it's made of."
 
-
-
 "I'm coming in a minute," said the voice from the ledge above their
 
 heads, a voice somewhat suggestive of an articulate yawn.
-
-
 
 "What are you waiting for?" asked Sir Walter, impatiently. "Can you
 
 see anything there?"
 
-
-
 "Well, yes, in a way," replied the voice, vaguely.  "In fact, I see
 
 it quite plain now."
-
-
 
 "What is it?" asked Wilson, sharply, from the table on which he sat
 
 kicking his heels restlessly.
 
-
-
 "Well, it's a man," said Horne Fisher.
-
-
 
 Wilson bounded off the table as if he had been kicked off it. "What
 
 do you mean?" he cried. "How can you possibly see a man?"
-
-
 
 "I can see him through the window," replied the secretary, mildly.
 
@@ -2877,11 +2385,7 @@ polite if we were all at the door to receive him." And in a
 
 leisurely manner the secretary came down the ladder.
 
-
-
 "Who it seems to be!" repeated Sir Walter in astonishment.
-
-
 
 "Well, I think it's the man you call Prince Michael," observed Mr.
 
@@ -2889,13 +2393,9 @@ Fisher, airily. "In fact, I'm sure it is. I've seen the police
 
 portraits of him."
 
-
-
 There was a dead silence, and Sir Walter's usually steady brain
 
 seemed to go round like a windmill.
-
-
 
 "But, hang it all!" he said at last, "even supposing his own
 
@@ -2909,25 +2409,17 @@ The murderer does not generally revisit the scene of his crime so
 
 rapidly as all that."
 
-
-
 "He doesn't know yet that it is the scene of his crime," answered
 
 Horne Fisher.
-
-
 
 "What on earth do you mean?  You credit him with rather singular
 
 absence of mind."
 
-
-
 "Well, the truth is, it isn't the scene of his crime," said Fisher,
 
 and went and looked out of the window.
-
-
 
 There was another silence, and then Sir Walter said, quietly:  "What
 
@@ -2937,8 +2429,6 @@ developed a new theory about how this fellow escaped out of the ring
 
 round him?"
 
-
-
 "He never escaped at all," answered the man at the window, without
 
 turning round. "He never escaped out of the ring because he was
@@ -2947,15 +2437,11 @@ never inside the ring. He was not in this tower at all, at least not
 
 when we were surrounding it."
 
-
-
 He turned and leaned back against the window, but, in spite of his
 
 usual listless manner, they almost fancied that the face in shadow
 
 was a little pale.
-
-
 
 "I began to guess something of the sort when we were some way from
 
@@ -2967,8 +2453,6 @@ was only the last leap the flame gives when a candle burns itself
 
 out. And then I came into this room and I saw that."
 
-
-
 He pointed at the table and Sir Walter caught his breath with a sort
 
 of curse at his own blindness. For the candle in the candlestick had
@@ -2976,8 +2460,6 @@ of curse at his own blindness. For the candle in the candlestick had
 obviously burned itself away to nothing and left him, mentally, at
 
 least, very completely in the dark.
-
-
 
 "Then there is a sort of mathematical question," went on Fisher,
 
@@ -2991,31 +2473,21 @@ they are at the base of an isosceles. I am sorry if it sounds like a
 
 lecture on geometry, but--"
 
-
-
 "I'm afraid we have no time for it," said Wilson, coldly. "If this
 
 man is really coming back, I must give my orders at once."
-
-
 
 "I think I'll go on with it, though," observed Fisher, staring at
 
 the roof with insolent serenity.
 
-
-
 "I must ask you, Mr. Fisher, to let me conduct my inquiry on my own
 
 lines," said Wilson, firmly. "I am the officer in charge now."
 
-
-
 "Yes," remarked Horne Fisher, softly, but with an accent that
 
 somehow chilled the hearer. "Yes. But why?"
-
-
 
 Sir Walter was staring, for he had never seen his rather
 
@@ -3025,8 +2497,6 @@ at Wilson with lifted lids, and the eyes under them seemed to have
 
 shed or shifted a film, as do the eyes of an eagle.
 
-
-
 "Why are you the officer in charge now?" he asked. "Why can you
 
 conduct the inquiry on your own lines now? How did it come about, I
@@ -3034,8 +2504,6 @@ conduct the inquiry on your own lines now? How did it come about, I
 wonder, that the elder officers are not here to interfere with
 
 anything you do?"
-
-
 
 Nobody spoke, and nobody can say how soon anyone would have
 
@@ -3046,8 +2514,6 @@ the heavy and hollow sound of a blow upon the door of the tower, and
 to their shaken spirits it sounded strangely like the hammer of
 
 doom.
-
-
 
 The wooden door of the tower moved on its rusty hinges under the
 
@@ -3067,39 +2533,27 @@ silenced everyone for an instant with a slight but splendid gesture
 
 of hospitality.
 
-
-
 "Gentlemen," he said, "this is a poor place now, but you are
 
 heartily welcome."
-
-
 
 Wilson was the first to recover, and he took a stride toward the
 
 newcomer.
 
-
-
 "Michael O'Neill, I arrest you in the king's name for the murder of
 
 Francis Morton and James Nolan. It is my duty to warn you--"
 
-
-
 "No, no, Mr. Wilson," cried Fisher, suddenly.  "You shall not commit
 
 a third murder."
-
-
 
 Sir Walter Carey rose from his chair, which fell over with a crash
 
 behind him. "What does all this mean?" he called out in an
 
 authoritative manner.
-
-
 
 "It means," said Fisher, "that this man, Hooker Wilson, as soon as
 
@@ -3113,8 +2567,6 @@ how many times he is supposed to have fired and then count the
 
 charges left in his revolver."
 
-
-
 Wilson, who was still sitting on the table, abruptly put a hand out
 
 for the weapon that lay beside him. But the next movement was the
@@ -3124,8 +2576,6 @@ most unexpected of all, for the prince standing in the doorway
 passed suddenly from the dignity of a statue to the swiftness of an
 
 acrobat and rent the revolver out of the detective's hand.
-
-
 
 "You dog!" he cried.  "So you are the type of English truth, as I am
 
@@ -3145,27 +2595,19 @@ what I call assassination. But killing may be no murder; there is
 
 one shot left in this little gun, and I know where it should go."
 
-
-
 Wilson turned quickly on the table, and even as he turned he twisted
 
 in agony, for Michael shot him through the body where he sat, so
 
 that he tumbled off the table like lumber.
 
-
-
 The police rushed to lift him; Sir Walter stood speechless; and
 
 then, with a strange and weary gesture, Horne Fisher spoke.
 
-
-
 "You are indeed a type of the Irish tragedy," he said. "You were
 
 entirely in the right, and you have put yourself in the wrong."
-
-
 
 The prince's face was like marble for a space then there dawned in
 
@@ -3173,13 +2615,9 @@ his eyes a light not unlike that of despair. He laughed suddenly and
 
 flung the smoking pistol on the ground.
 
-
-
 "I am indeed in the wrong," he said.  "I have committed a crime that
 
 may justly bring a curse on me and my children."
-
-
 
 Horne Fisher did not seem entirely satisfied with this very sudden
 
@@ -3187,21 +2625,15 @@ repentance; he kept his eyes on the man and only said, in a low
 
 voice, "What crime do you mean?"
 
-
-
 "I have helped English justice," replied Prince Michael.  "I have
 
 avenged your king's officers; I have done the work of his hangman.
 
 For that truly I deserve to be hanged."
 
-
-
 And he turned to the police with a gesture that did not so much
 
 surrender to them, but rather command them to arrest him.
-
-
 
 This was the story that Horne Fisher told to Harold March, the
 
@@ -3228,8 +2660,6 @@ recorded the first occasion on which he had ever come in contact
 with crime, or discovered how darkly and how terribly crime can be
 
 entangled with law.
-
-
 
 "Hooker Wilson was the first criminal I ever knew, and he was a
 
@@ -3271,8 +2701,6 @@ and to throw himself on the ground as another victim of the
 
 catastrophe.
 
-
-
 "But there was mixed up with his murderous ambition a real belief,
 
 not only in his own talents, but in his own theories. He did believe
@@ -3305,11 +2733,7 @@ sees most, and that the man on the spot may know too much to know
 
 anything. He was right about some things. He was right about me."
 
-
-
 "About you?" asked Harold March in some wonder.
-
-
 
 "I am the man who knows too much to know anything, or, at any rate,
 
@@ -3355,23 +2779,13 @@ Burgundy? It's rather a discovery of mine, like the restaurant
 
 itself."
 
-
-
 And he proceeded to talk learnedly and luxuriantly on all the wines
 
 of the world; on which subject, also, some moralists would consider
 
 that he knew too much.
 
-
-
-
-
-
-
 III. THE SOUL OF THE SCHOOLBOY
-
-
 
 A large map of London would be needed to display the wild and zigzag
 
@@ -3415,8 +2829,6 @@ have found even in that day's journey at least as much of the
 
 uncle's hobby as of the nephew's holiday.
 
-
-
 His original purpose had been wholly paternal and festive. But,
 
 like many other intelligent people, he was not above the weakness of
@@ -3448,8 +2860,6 @@ and round it raged the most vital controversies about the ancient
 British Church. It could hardly be denied, however, that the
 
 controversies left Summers Minor comparatively cold.
-
-
 
 Indeed, the things that interested Summers Minor, and the things
 
@@ -3487,19 +2897,13 @@ Bayswater vehicle, as his uncle would at the identification of a
 
 Greek ikon and a Roman image.
 
-
-
 "Do you collect omnibuses like stamps?" asked his uncle. "They must
 
 need a rather large album. Or do you keep them in your locker?"
 
-
-
 "I keep them in my head," replied the nephew, with legitimate
 
 firmness.
-
-
 
 "It does you credit, I admit," replied the clergyman. "I suppose it
 
@@ -3513,13 +2917,9 @@ into the wrong bus. Well, we must get out of this one, for this is
 
 our place. I want to show you what they call St. Paul's Penny."
 
-
-
 "Is it like St. Paul's Cathedral?" asked the youth with resignation,
 
 as they alighted.
-
-
 
 At the entrance their eyes were arrested by a singular figure
 
@@ -3540,8 +2940,6 @@ flat decorative eyes painted in old Egyptian profiles. Before they
 had gathered more than a general impression of him, he had dived
 
 into the doorway that was their own destination.
-
-
 
 Nothing could be seen above ground of the sunken sanctuary except a
 
@@ -3589,8 +2987,6 @@ conduct, for he at once derided the safeguards and yet insisted on
 
 them.
 
-
-
 "I don't care a button myself for Paul's Penny, or such things," he
 
 admitted in answer to some antiquarian openings from the clergyman
@@ -3605,15 +3001,11 @@ relics and things, I fear I'm a bit of a Voltairian; what you would
 
 call a skeptic."
 
-
-
 "I'm not sure it's even skeptical to believe in the royal family and
 
 not in the 'Holy' Family," replied Mr. Twyford. "But, of course, I
 
 can easily empty my pockets, to show I don't carry a bomb."
-
-
 
 The little heap of the parson's possessions which he left on the
 
@@ -3649,39 +3041,23 @@ gentleman in the black gown, he did not turn out his pockets, but
 
 merely spread out his hands.
 
-
-
 "I have no possessions," he said.
-
-
 
 "I'm afraid I must ask you to empty your pockets and make sure,"
 
 observed the colonel, gruffly.
 
-
-
 "I have no pockets," said the stranger.
-
-
 
 Mr. Twyford was looking at the long black gown with a learned eye.
 
-
-
 "Are you a monk?" he asked, in a puzzled fashion.
-
-
 
 "I am a magus," replied the stranger.  "You have heard of the magi,
 
 perhaps? I am a magician."
 
-
-
 "Oh, I say!" exclaimed Summers Minor, with prominent eyes.
-
-
 
 "But I was once a monk," went on the other.  "I am what you would
 
@@ -3692,8 +3068,6 @@ monks held one truth at least, that the highest life should be
 without possessions. I have no pocket money and no pockets, and all
 
 the stars are my trinkets."
-
-
 
 "They are out of reach, anyhow," observed Colonel Morris, in a tone
 
@@ -3708,8 +3082,6 @@ showing them up. More fun than I have over this dreary job, anyhow.
 But here comes Mr. Symon, who will show you over the old cellar
 
 downstairs."
-
-
 
 Mr. Symon, the official guardian and guide, was a young man,
 
@@ -3737,15 +3109,11 @@ caught fire, and he eagerly asked if the lights and the door worked
 
 together.
 
-
-
 "Yes, it's all one system," replied Symon.  "It was all fitted up
 
 for the day His Royal Highness deposited the thing here. You see,
 
 it's locked up behind a glass case exactly as he left it."
-
-
 
 A glance showed that the arrangements for guarding the treasure were
 
@@ -3769,8 +3137,6 @@ interested him much more--the dull silver disk which shone in the
 
 white light against a plain background of black velvet.
 
-
-
 "St. Paul's Penny, said to commemorate the visit of St. Paul to
 
 Britain, was probably preserved in this chapel until the eighth
@@ -3791,8 +3157,6 @@ placed it here with his own hand. It was immediately sealed up in
 
 such a manner--"
 
-
-
 Unluckily at this point Summers Minor, whose attention had somewhat
 
 strayed from the religious wars of the ninth century, caught sight
@@ -3803,8 +3167,6 @@ He precipitated himself at it, calling out, "I say, say, does that
 
 connect?"
 
-
-
 It was evident that it did connect, for no sooner had the boy given
 
 it a twitch than the whole room went black, as if they had all been
@@ -3812,8 +3174,6 @@ it a twitch than the whole room went black, as if they had all been
 struck blind, and an instant afterward they heard the dull crash of
 
 the closing door.
-
-
 
 "Well, you've done it now," said Symon, in his tranquil fashion.
 
@@ -3823,21 +3183,13 @@ later, and no doubt they can get it open; but it may take some
 
 little time."
 
-
-
 There was a silence, and then the unconquerable Stinks observed:
 
-
-
 "Rotten that I had to leave my electric torch."
-
-
 
 "I think," said his uncle, with restraint, "that we are sufficiently
 
 convinced of your interest in electricity."
-
-
 
 Then after a pause he remarked, more amiably:  "I suppose if I
 
@@ -3846,8 +3198,6 @@ regretted any of my own impedimenta, it would be the pipe. Though,
 as a matter of fact, it's not much fun smoking in the dark.
 
 Everything seems different in the dark."
-
-
 
 "Everything is different in the dark," said a third voice, that of
 
@@ -3865,19 +3215,13 @@ you. Something else may be standing now where you saw a table or a
 
 chair. The face of your friend may be quite different in the dark."
 
-
-
 A short, indescribable noise broke the stillness. Twyford started
 
 for a second, and then said, sharply:
 
-
-
 "Really, I don't think it's a suitable occasion for trying to
 
 frighten a child."
-
-
 
 "Who's a child?" cried the indignant Summers, with a voice that had
 
@@ -3885,29 +3229,19 @@ a crow, but also something of a crack in it. "And who's a funk,
 
 either? Not me."
 
-
-
 "I will be silent, then," said the other voice out of the darkness.
 
 "But silence also makes and unmakes."
-
-
 
 The required silence remained unbroken for a long time until at last
 
 the clergyman said to Symon in a low voice:
 
-
-
 "I suppose it's all right about air?"
-
-
 
 "Oh, yes," replied the other aloud; "there's a fireplace and a
 
 chimney in the office just by the door."
-
-
 
 A bound and the noise of a falling chair told them that the
 
@@ -3916,8 +3250,6 @@ irrepressible rising generation had once more thrown itself across
 the room. They heard the ejaculation: "A chimney! Why, I'll be--"
 
 and the rest was lost in muffled, but exultant, cries.
-
-
 
 The uncle called repeatedly and vainly, groped his way at last to
 
@@ -3937,25 +3269,17 @@ light, and looking over the other man's shoulder, he saw that the
 
 door was standing open.
 
-
-
 "So they've got at us at last," he observed to Symon.
-
-
 
 The man in the black robe was leaning against the wall some yards
 
 away, with a smile carved on his face.
-
-
 
 "Here comes Colonel Morris," went on Twyford, still speaking to
 
 Symon. "One of us will have to tell him how the light went out. Will
 
 you?"
-
-
 
 But Symon still said nothing. He was standing as still as a statue,
 
@@ -3964,8 +3288,6 @@ and looking steadily at the black velvet behind the glass screen. He
 was looking at the black velvet because there was nothing else to
 
 look at. St. Paul's Penny was gone.
-
-
 
 Colonel Morris entered the room with two new visitors; presumably
 
@@ -3985,25 +3307,17 @@ in a guilty fashion, and when he saw the elder of the two strangers,
 
 his pale face seemed to turn a shade paler.
 
-
-
 "Why it's Horne Fisher!" and then after a pause he said in a low
 
 voice, "I'm in the devil of a hole, Fisher."
-
-
 
 "There does seem a bit of a mystery to be cleared up," observed the
 
 gentleman so addressed.
 
-
-
 "It will never be cleared up," said the pale Symon.  "If anybody
 
 could clear it up, you could. But nobody could."
-
-
 
 "I rather think I could," said another voice from outside the group,
 
@@ -4011,13 +3325,9 @@ and they turned in surprise to realize that the man in the black
 
 robe had spoken again.
 
-
-
 "You!" said the colonel, sharply.  "And how do you propose to play
 
 the detective?"
-
-
 
 "I do not propose to play the detective," answered the other, in a
 
@@ -4025,29 +3335,19 @@ clear voice like a bell. "I propose to play the magician. One of the
 
 magicians you show up in India, Colonel."
 
-
-
 No one spoke for a moment, and then Horne Fisher surprised everybody
 
 by saying, "Well, let's go upstairs, and this gentleman can have a
 
 try."
 
-
-
 He stopped Symon, who had an automatic finger on the button, saying:
 
 "No, leave all the lights on. It's a sort of safeguard."
 
-
-
 "The thing can't be taken away now," said Symon, bitterly.
 
-
-
 "It can be put back," replied Fisher.
-
-
 
 Twyford had already run upstairs for news of his vanishing nephew,
 
@@ -4065,8 +3365,6 @@ Uncle; I am all right. Meet you at the hotel later on," and then the
 
 signature.
 
-
-
 Insensibly comforted by this, the clergyman found his thoughts
 
 reverting voluntarily to his favorite relic, which came a good
@@ -4082,8 +3380,6 @@ excitement. But an undercurrent of query continued to run in his
 mind, as to what had really happened to the boy, and what was the
 
 boy's exact definition of being all right.
-
-
 
 Meanwhile Horne Fisher had considerably puzzled everybody with his
 
@@ -4113,13 +3409,9 @@ prepared to follow the wildest ways of investigation in which that
 
 magus might lead him.
 
-
-
 "How would you begin now?" he inquired, with an anxious politeness
 
 that reduced the colonel to a congestion of rage.
-
-
 
 "It is all a question of a force; of establishing communications for
 
@@ -4139,19 +3431,13 @@ force beyond can give him, as it were, an electric shock, and awaken
 
 his higher senses. It opens the sleeping eye of the mind."
 
-
-
 "I'm suspectible," said Fisher, either with simplicity or with a
 
 baffling irony. "Why not open my mind's eye for me? My friend Harold
 
 March here will tell you I sometimes see things, even in the dark."
 
-
-
 "Nobody sees anything except in the dark," said the magician.
-
-
 
 Heavy clouds of sunset were closing round the wooden hut, enormous
 
@@ -4163,15 +3449,11 @@ were prowling round the place. But the purple was already deepening
 
 to dark gray; it would soon be night.
 
-
-
 "Do not light the lamp," said the magus with quiet authority,
 
 arresting a movement in that direction. "I told you before that
 
 things happen only in the dark."
-
-
 
 How such a topsy-turvy scene ever came to be tolerated in the
 
@@ -4203,21 +3485,15 @@ up any such masquerade, and with lighting a cigar, the red end of
 
 which, in the gathering darkness, glowed with protest.
 
-
-
 "Yes, I see pockets," the man in the trance was saying. "I see many
 
 pockets, but they are all empty. No; I see one pocket that is not
 
 empty."
 
-
-
 There was a faint stir in the stillness, and the magician said, "Can
 
 you see what is in the pocket?"
-
-
 
 "Yes," answered the other; "there are two bright things. I think
 
@@ -4225,27 +3501,17 @@ they are two bits of steel. One of the pieces of steel is bent or
 
 crooked."
 
-
-
 "Have they been used in the removal of the relic from downstairs?"
 
-
-
 "Yes."
-
-
 
 There was another pause and the inquirer added, "Do you see anything
 
 of the relic itself?"
 
-
-
 "I see something shining on the floor, like the shadow or the ghost
 
 of it. It is over there in the corner beyond the desk."
-
-
 
 There was a movement of men turning and then a sudden stillness, as
 
@@ -4254,8 +3520,6 @@ of their stiffening, for over in the corner on the wooden floor
 there was really a round spot of pale light. It was the only spot of
 
 light in the room. The cigar had gone out.
-
-
 
 "It points the way," came the voice of the oracle. "The spirits are
 
@@ -4271,8 +3535,6 @@ metal on the floor, and the sound of something spinning and falling
 
 like a tossed halfpenny.
 
-
-
 "Light the lamp!" cried Fisher in a loud and even jovial voice,
 
 leaping to his feet with far less languor than usual. "I must be
@@ -4281,21 +3543,15 @@ going now, but I should like to see it before I go. Why, I came on
 
 purpose to see it."
 
-
-
 The lamp was lit, and he did see it, for St. Paul's Penny was lying
 
 on the floor at his feet.
-
-
 
 "Oh, as for that," explained Fisher, when he was entertaining March
 
 and Twyford at lunch about a month later, "I merely wanted to play
 
 with the magician at his own game."
-
-
 
 "I thought you meant to catch him in his own trap," said Twyford.
 
@@ -4311,19 +3567,13 @@ out of some religious mania. A runaway monk turned mystic might well
 
 want it for some mystical purpose."
 
-
-
 "No," replied Fisher, "the runaway monk is not a thief. At any rate
 
 he is not the thief. And he's not altogether a liar, either. He said
 
 one true thing at least that night."
 
-
-
 "And what was that?" inquired March.
-
-
 
 "He said it was all magnetism. As a matter of fact, it was done by
 
@@ -4333,23 +3583,15 @@ added, "It was that toy magnet belonging to your nephew, Mr.
 
 Twyford."
 
-
-
 "But I don't understand," objected March.  "If it was done with the
 
 schoolboy's magnet, I suppose it was done by the schoolboy."
-
-
 
 "Well," replied Fisher, reflectively, "it rather depends which
 
 schoolboy."
 
-
-
 "What on earth do you mean?"
-
-
 
 "The soul of a schoolboy is a curious thing," Fisher continued, in a
 
@@ -4377,19 +3619,13 @@ magicians in India. But here the skeptic had the temptation of
 
 showing up a much more tremendous sham nearer home."
 
-
-
 A light came into Harold March's eyes as he suddenly saw, as if afar
 
 off, the wider implication of the suggestion. But Twyford was still
 
 wrestling with one problem at a time.
 
-
-
 "Do you really mean," he said, "that Colonel Morris took the relic?"
-
-
 
 "He was the only person who could use the magnet," replied Fisher.
 
@@ -4407,33 +3643,23 @@ that case," he cried, in a new and altered voice, "why then of
 
 course-- You said a piece of steel--?"
 
-
-
 "I said there were two pieces of steel," said Fisher.  "The bent
 
 piece of steel was the boy's magnet. The other was the relic in the
 
 glass case."
 
-
-
 "But that is silver," answered the archaeologist, in a voice now
 
 almost unrecognizable.
-
-
 
 "Oh," replied Fisher, soothingly, "I dare say it was painted with
 
 silver a little."
 
-
-
 There was a heavy silence, and at last Harold March said, "But where
 
 is the real relic?"
-
-
 
 "Where it has been for five years," replied Horne Fisher, "in the
 
@@ -4444,8 +3670,6 @@ a playful little photograph about him in a society paper the other
 day, mentioning his delusion, and saying he was always being taken
 
 in about relics."
-
-
 
 Harold March frowned at the tablecloth; then, after an interval, he
 
@@ -4467,35 +3691,23 @@ lot of details now. But it's just the whole thing that knocks me.
 
 How did it all come to be like that?"
 
-
-
 Fisher was looking at him with level lids and an immovable manner.
-
-
 
 "Every precaution was taken," he said.  "The Duke carried the relic
 
 on his own person, and locked it up in the case with his own hands."
 
-
-
 March was silent; but Twyford stammered.  "I don't understand you.
 
 You give me the creeps. Why don't you speak plainer?"
-
-
 
 "If I spoke plainer you would understand me less," said Horne
 
 Fisher.
 
-
-
 "All the same I should try," said March, still without lifting his
 
 head.
-
-
 
 "Oh, very well," replied Fisher, with a sigh; "the plain truth is,
 
@@ -4509,8 +3721,6 @@ princess that's as stiff as a Dutch doll, and they have their fling.
 
 In this case it was a pretty big fling."
 
-
-
 The face of the Rev. Thomas Twyford certainly suggested that he was
 
 a little out of his depth in the seas of truth, but as the other
@@ -4518,8 +3728,6 @@ a little out of his depth in the seas of truth, but as the other
 went on speaking vaguely the old gentleman's features sharpened and
 
 set.
-
-
 
 "If it were some decent morganatic affair I wouldn't say; but he
 
@@ -4531,11 +3739,7 @@ ass didn't get it out of the taxpayers. He could only get it out of
 
 the Yank, and there you are."
 
-
-
 The Rev. Thomas Twyford had risen to his feet.
-
-
 
 "Well, I'm glad my nephew had nothing to do with it," he said. "And
 
@@ -4543,13 +3747,9 @@ if that's what the world is like, I hope he will never have anything
 
 to do with it."
 
-
-
 "I hope not," answered Horne Fisher.  "No one knows so well as I do
 
 that one can have far too much to do with it."
-
-
 
 For Summers Minor had indeed nothing to do with it; and it is part
 
@@ -4571,15 +3771,7 @@ sufficiently enraptured in rushing after it, and riding away upon
 
 that fairy ship.
 
-
-
-
-
-
-
 IV. THE BOTTOMLESS WELL
-
-
 
 In an oasis, or green island, in the red and yellow seas of sand
 
@@ -4641,8 +3833,6 @@ had just come down from the clubhouse to find another gazing
 
 somewhat moodily into the well.
 
-
-
 Both the Englishmen wore light clothes and white pith helmets and
 
 puggrees, but there, for the most part, their resemblance ended. And
@@ -4651,11 +3841,7 @@ they both almost simultaneously said the same word, but they said it
 
 on two totally different notes of the voice.
 
-
-
 "Have you heard the news?" asked the man from the club.  "Splendid."
-
-
 
 "Splendid," replied the man by the well. But the first man
 
@@ -4664,8 +3850,6 @@ pronounced the word as a young man might say it about a woman, and
 the second as an old man might say it about the weather, not without
 
 sincerity, but certainly without fervor.
-
-
 
 And in this the tone of the two men was sufficiently typical of
 
@@ -4685,8 +3869,6 @@ paradox of the Englishman in the East. He was much too hot to be
 
 anything but cool.
 
-
-
 Neither of them thought it necessary to mention what it was that was
 
 splendid. That would indeed have been superfluous conversation about
@@ -4701,13 +3883,9 @@ was already spread by the newspapers all over the Empire, let alone
 
 to this small garrison so near to the battlefield.
 
-
-
 "Now, no other nation in the world could have done a thing like
 
 that," cried Captain Boyle, emphatically.
-
-
 
 Horne Fisher was still looking silently into the well; a moment
 
@@ -4719,11 +3897,7 @@ mistakes and stick to them. There is really a certain talent in
 
 unmaking a mistake."
 
-
-
 "What do you mean," asked Boyle, "what mistakes?"
-
-
 
 "Well, everybody knows it looked like biting off more than he could
 
@@ -4741,13 +3915,9 @@ even when a great man was first in command. Like Colborne at
 
 Waterloo."
 
-
-
 "It ought to add a whole province to the Empire," observed the
 
 other.
-
-
 
 "Well, I suppose the Zimmernes would have insisted on it as far as
 
@@ -4755,37 +3925,25 @@ the canal," observed Fisher, thoughtfully, "though everybody knows
 
 adding provinces doesn't always pay much nowadays."
 
-
-
 Captain Boyle frowned in a slightly puzzled fashion. Being cloudily
 
 conscious of never having heard of the Zimmernes in his life, he
 
 could only remark, stolidly:
 
-
-
 "Well, one can't be a Little Englander."
 
-
-
 Horne Fisher smiled, and he had a pleasant smile.
-
-
 
 "Every man out here is a Little Englander," he said. "He wishes he
 
 were back in Little England."
-
-
 
 "I don't know what you're talking about, I'm afraid," said the
 
 younger man, rather suspiciously. "One would think you didn't really
 
 admire Hastings or--or--anything."
-
-
 
 "I admire him no end," replied Fisher.  "He's by far the best man
 
@@ -4795,13 +3953,9 @@ them. That's why I'm all against pushing Travers against him, merely
 
 because of this last affair."
 
-
-
 "I really don't understand what you're driving at," said the other,
 
 frankly.
-
-
 
 "Perhaps it isn't worth understanding," answered Fisher, lightly,
 
@@ -4809,13 +3963,9 @@ frankly.
 
 about that well?"
 
-
-
 "I'm afraid I don't know much about Arab legends," said Boyle,
 
 rather stiffly.
-
-
 
 "That's rather a mistake," replied Fisher, "especially from your
 
@@ -4861,19 +4011,13 @@ inverted tower of darkness the soul of the proud Sultan is falling
 
 forever and ever."
 
-
-
 "What a queer chap you are," said Boyle.  "You talk as if a fellow
 
 could believe those fables."
 
-
-
 "Perhaps I believe the moral and not the fable," answered Fisher.
 
 "But here comes Lady Hastings. You know her, I think."
-
-
 
 The clubhouse on the golf links was used, of course, for many other
 
@@ -4937,8 +4081,6 @@ said, with a smile, and then added, more sadly, "but I doubt if I
 
 was right, after all!"
 
-
-
 A strong but genial voice broke in on his meditations and he looked
 
 up and smiled, seeing the face of an old friend. The voice was,
@@ -4971,15 +4113,11 @@ had a curious capacity for talking to almost anybody about almost
 
 anything.
 
-
-
 "Studying botany, or is it archaeology?" inquired Grayne.  "I shall
 
 never come to the end of your interests, Fisher. I should say that
 
 what you don't know isn't worth knowing."
-
-
 
 "You are wrong," replied Fisher, with a very unusual abruptness, and
 
@@ -4993,25 +4131,17 @@ of having been down all these sewers that I should brag about it to
 
 the little boys in the street."
 
-
-
 "What do you mean?  What's the matter with you?" asked his friend.
 
 "I never knew you taken like this before."
-
-
 
 "I'm ashamed of myself," replied Fisher.  "I've just been throwing
 
 cold water on the enthusiasms of a boy."
 
-
-
 "Even that explanation is hardly exhaustive," observed the criminal
 
 expert.
-
-
 
 "Damned newspaper nonsense the enthusiasms were, of course,"
 
@@ -5023,19 +4153,13 @@ there is one very ugly responsibility about jolting a young man out
 
 of the rut of the most rotten ideal."
 
-
-
 "And what may that be?" inquired his friend.
-
-
 
 "It's very apt to set him off with the same energy in a much worse
 
 direction," answered Fisher; "a pretty endless sort of direction, a
 
 bottomless pit as deep as the bottomless well."
-
-
 
 Fisher did not see his friend until a fortnight later, when he found
 
@@ -5067,8 +4191,6 @@ forehead which is sometimes seen among them, and gave an irrational
 
 impression of something sinister, in spite of his agreeable smile.
 
-
-
 "I never feel as if I could quite trust that fellow," said Grayne,
 
 when the man had gone away. "It's very unjust, I take it, for he was
@@ -5079,37 +4201,25 @@ Arabs are often like that, loyal to one man. I can't help feeling he
 
 might cut anybody else's throat, and even do it treacherously."
 
-
-
 "Well," said Travers, with a rather sour smile, "so long as he
 
 leaves Hastings alone the world won't mind much."
-
-
 
 There was a rather embarrassing silence, full of memories of the
 
 great battle, and then Horne Fisher said, quietly:
 
-
-
 "The newspapers aren't the world, Tom. Don't you worry about them.
 
 Everybody in your world knows the truth well enough."
-
-
 
 "I think we'd better not talk about the general just now," remarked
 
 Grayne, "for he's just coming out of the club."
 
-
-
 "He's not coming here," said Fisher.  "He's only seeing his wife to
 
 the car."
-
-
 
 As he spoke, indeed, the lady came out on the steps of the club,
 
@@ -5125,8 +4235,6 @@ three that lingered in the garden. Fisher peered for a moment into
 
 the shadow, and saw that it was Captain Boyle.
 
-
-
 The next moment, rather to their surprise, the general reappeared
 
 and, remounting the steps, spoke a word or two to Boyle in his turn.
@@ -5141,8 +4249,6 @@ showed that the electric lamps had been turned on in the library
 
 beyond.
 
-
-
 "Coffee and scientific researches," said Travers, grimly. "All the
 
 luxuries of learning and theoretical research. Well, I must be
@@ -5151,15 +4257,11 @@ going, for I have my work to do as well." And he got up rather
 
 stiffly, saluted his companions, and strode away into the dusk.
 
-
-
 "I only hope Boyle is sticking to scientific researches," said Horne
 
 Fisher. "I'm not very comfortable about him myself. But let's talk
 
 about something else."
-
-
 
 They talked about something else longer than they probably imagined,
 
@@ -5173,17 +4275,11 @@ abruptly extinguished. He waited for the two men to come out by the
 
 garden entrance, but nobody came.
 
-
-
 "They must have gone for a stroll on the links," he said.
-
-
 
 "Very possibly," replied Grayne.  "It's going to be a beautiful
 
 night."
-
-
 
 A moment or two after he had spoken they heard a voice hailing them
 
@@ -5191,13 +4287,9 @@ out of the shadow of the clubhouse, and were astonished to perceive
 
 Travers hurrying toward them, calling out as he came:
 
-
-
 "I shall want your help, you fellows," he cried. "There's something
 
 pretty bad out on the links."
-
-
 
 They found themselves plunging through the club smoking room and the
 
@@ -5245,8 +4337,6 @@ almost to gape at him in an ugly fashion, like a gap in the teeth of
 
 some sinister face.
 
-
-
 A run brought them in a few minutes to the other side of the ground
 
 in front of the bottomless well, and a few yards from it, in a
@@ -5254,8 +4344,6 @@ in front of the bottomless well, and a few yards from it, in a
 moonlight almost as broad as daylight, they saw what they had come
 
 to see.
-
-
 
 The great Lord Hastings lay prone on his face, in a posture in which
 
@@ -5283,8 +4371,6 @@ atmosphere that men could fancy they traced in them enormous and
 
 evil faces, looking down.
 
-
-
 Horne Fisher stooped and touched the strong hand that was still
 
 clutching the grass, and it was as cold as a stone. He knelt by the
@@ -5293,11 +4379,7 @@ body and was busy for a moment applying other tests; then he rose
 
 again, and said, with a sort of confident despair:
 
-
-
 "Lord Hastings is dead."
-
-
 
 There was a stony silence, and then Travers remarked, gruffly: "This
 
@@ -5305,29 +4387,21 @@ is your department, Grayne; I will leave you to question Captain
 
 Boyle. I can make no sense of what he says."
 
-
-
 Boyle had pulled himself together and risen to his feet, but his
 
 face still wore an awful expression, making it like a new mask or
 
 the face of another man.
 
-
-
 "I was looking at the well," he said, "and when I turned he had
 
 fallen down."
-
-
 
 Grayne's face was very dark.  "As you say, this is my affair," he
 
 said. "I must first ask you to help me carry him to the library and
 
 let me examine things thoroughly."
-
-
 
 When they had deposited the body in the library, Grayne turned to
 
@@ -5343,8 +4417,6 @@ later. And just telephone to headquarters for a policeman, and let
 
 him come here at once and stand by till I want him."
 
-
-
 Without more words the great criminal investigator went into the
 
 lighted library, shutting the door behind him, and Fisher, without
@@ -5355,27 +4427,19 @@ curious," he said, "that the thing should happen just in front of
 
 that place."
 
-
-
 "It would certainly be very curious," replied Travers, "if the place
 
 played any part in it."
 
-
-
 "I think," replied Fisher, "that the part it didn't play is more
 
 curious still."
-
-
 
 And with these apparently meaningless words he turned to the shaken
 
 Boyle and, taking his arm, began to walk him up and down in the
 
 moonlight, talking in low tones.
-
-
 
 Dawn had begun to break abrupt and white when Cuthbert Grayne turned
 
@@ -5387,19 +4451,13 @@ messenger for whom he had sent was standing at attention in the
 
 background.
 
-
-
 "I sent Boyle off with Travers," observed Fisher, carelessly; "he'll
 
 look after him, and he'd better have some sleep, anyhow."
 
-
-
 "Did you get anything out of him?" asked Grayne.  "Did he tell you
 
 what he and Hastings were doing?"
-
-
 
 "Yes," answered Fisher, "he gave me a pretty clear account, after
 
@@ -5429,13 +4487,9 @@ of that; people caught in a real shock of surprise are sometimes
 
 found in the queerest postures."
 
-
-
 Grayne wore a grim smile of attention, and said, after a short
 
 silence:
-
-
 
 "Well, he hasn't told you many lies. It's really a creditably clear
 
@@ -5443,21 +4497,13 @@ and consistent account of what happened, with everything of
 
 importance left out."
 
-
-
 "Have you discovered anything in there?" asked Fisher.
 
-
-
 "I have discovered everything," answered Grayne.
-
-
 
 Fisher maintained a somewhat gloomy silence, as the other resumed
 
 his explanation in quiet and assured tones.
-
-
 
 "You were quite right, Fisher, when you said that young fellow was
 
@@ -5487,15 +4533,11 @@ was confronted with an awful alternative, in which the life of one
 
 old man meant ruin and his death meant triumph and even happiness."
 
-
-
 "Well," observed Fisher, at last, "I don't blame him for not telling
 
 you the woman's part of the story. But how do you know about the
 
 letter?"
-
-
 
 "I found it on the general's body," answered Grayne, "but I found
 
@@ -5517,27 +4559,17 @@ takes about ten minutes to act, and ten minutes' walk would bring
 
 them to the bottomless well."
 
-
-
 "Yes," remarked Fisher, "and what about the bottomless well?"
 
-
-
 "What has the bottomless well got to do with it?" asked his friend.
-
-
 
 "It has nothing to do with it," replied Fisher.  "That is what I
 
 find utterly confounding and incredible."
 
-
-
 "And why should that particular hole in the ground have anything to
 
 do with it?"
-
-
 
 "It is a particular hole in your case," said Fisher.  "But I won't
 
@@ -5547,41 +4579,27 @@ to tell you. I said I sent Boyle away in charge of Travers. It would
 
 be just as true to say I sent Travers in charge of Boyle."
 
-
-
 "You don't mean to say you suspect Tom Travers?" cried the other.
-
-
 
 "He was a deal bitterer against the general than Boyle ever was,"
 
 observed Horne Fisher, with a curious indifference.
 
-
-
 "Man, you're not saying what you mean," cried Grayne.  "I tell you I
 
 found the poison in one of the coffee cups."
-
-
 
 "There was always Said, of course," added Fisher, "either for hatred
 
 or hire. We agreed he was capable of almost anything."
 
-
-
 "And we agreed he was incapable of hurting his master," retorted
 
 Grayne.
 
-
-
 "Well, well," said Fisher, amiably, "I dare say you are right; but I
 
 should just like to have a look at the library and the coffee cups."
-
-
 
 He passed inside, while Grayne turned to the policeman in attendance
 
@@ -5593,13 +4611,9 @@ his friend into the library, found him beside the bookstand in the
 
 middle of the room, on which were the empty cups.
 
-
-
 "This is where Boyle looked for Budge, or pretended to look for him,
 
 according to your account," he said.
-
-
 
 As Fisher spoke he bent down in a half-crouching attitude, to look
 
@@ -5609,11 +4623,7 @@ was not much higher than an ordinary table. The next moment he
 
 sprang up as if he had been stung.
 
-
-
 "Oh, my God!" he cried.
-
-
 
 Very few people, if any, had ever seen Mr. Horne Fisher behave as he
 
@@ -5631,17 +4641,11 @@ limpness and air of leisure. He was fanning himself slowly with a
 
 piece of paper, the telegram he had so violently intercepted.
 
-
-
 "Lucky I stopped that," he observed.  "We must keep this affair as
 
 quiet as death. Hastings must die of apoplexy or heart disease."
 
-
-
 "What on earth is the trouble?" demanded the other investigator.
-
-
 
 "The trouble is," said Fisher, "that in a few days we should have
 
@@ -5649,21 +4653,13 @@ had a very agreeable alternative--of hanging an innocent man or
 
 knocking the British Empire to hell."
 
-
-
 "Do you mean to say," asked Grayne, "that this infernal crime is not
 
 to be punished?"
 
-
-
 Fisher looked at him steadily.
 
-
-
 "It is already punished," he said.
-
-
 
 After a moment's pause he went on.  "You reconstructed the crime
 
@@ -5685,15 +4681,11 @@ on the wall. It was part of that grim game that he should find it
 
 first.
 
-
-
 "Now, how does a man search a revolving bookcase?  He does not
 
 generally hop all round it in a squatting attitude, like a frog. He
 
 simply gives it a touch and makes it revolve."
-
-
 
 He was frowning at the floor as he spoke, and there was a light
 
@@ -5705,8 +4697,6 @@ awake and moving in the depths. His voice took unexpected turns and
 
 inflections, almost as if two men were speaking.
 
-
-
 "That was what Boyle did; he barely touched the thing, and it went
 
 round as easily as the world goes round. Yes, very much as the
@@ -5717,13 +4707,9 @@ turns the wheel of all the stars, touched that wheel and brought it
 
 full circle, that His dreadful justice might return."
 
-
-
 "I am beginning," said Grayne, slowly, "to have some hazy and
 
 horrible idea of what you mean."
-
-
 
 "It is very simple," said Fisher, "when Boyle straightened himself
 
@@ -5733,15 +4719,11 @@ noticed, which his enemy had not noticed, which nobody had noticed.
 
 The two coffee cups had exactly changed places."
 
-
-
 The rocky face of Grayne seemed to have sustained a shock in
 
 silence; not a line of it altered, but his voice when it came was
 
 unexpectedly weakened.
-
-
 
 "I see what you mean," he said, "and, as you say, the less said
 
@@ -5753,15 +4735,11 @@ like that would ruin us here. Had you any guess of this at the
 
 start?"
 
-
-
 "The bottomless well, as I told you," answered Fisher, quietly;
 
 "that was what stumped me from the start. Not because it had
 
 anything to do with it, because it had nothing to do with it."
-
-
 
 He paused a moment, as if choosing an approach, and then went on:
 
@@ -5787,13 +4765,9 @@ knew everything, for I saw the two cups revolve once more, like
 
 moons in the sky."
 
-
-
 After a pause, Cuthbert Grayne said, "And what are we to say to the
 
 newspapers?"
-
-
 
 "My friend, Harold March, is coming along from Cairo to-day," said
 
@@ -5803,21 +4777,15 @@ all that he's a thoroughly honorable man, so you must not tell him
 
 the truth."
 
-
-
 Half an hour later Fisher was again walking to and fro in front of
 
 the clubhouse, with Captain Boyle, the latter by this time with a
 
 very buffeted and bewildered air; perhaps a sadder and a wiser man.
 
-
-
 "What about me, then?" he was saying.  "Am I cleared? Am I not going
 
 to be cleared?"
-
-
 
 "I believe and hope," answered Fisher, "that you are not going to be
 
@@ -5837,13 +4805,9 @@ partly because of his own little dose of Eastern blood; he got it
 
 from his mother, the dancer from Damascus; everybody knows that."
 
-
-
 "Oh," repeated Boyle, mechanically, staring at him with round eyes,
 
 "everybody knows that."
-
-
 
 "I dare say there was a touch of it in his jealousy and ferocious
 
@@ -5857,27 +4821,17 @@ horrid for me. But there are some things that damned well can't be
 
 done, and while I'm alive that's one of them."
 
-
-
 "What do you mean?" asked Boyle, glancing at him curiously. "Why
 
 should you, of all people, be so passionate about it?"
 
-
-
 Horne Fisher looked at the young man with a baffling expression.
 
-
-
 "I suppose," he said, "it's because I'm a Little Englander."
-
-
 
 "I can never make out what you mean by that sort of thing," answered
 
 Boyle, doubtfully.
-
-
 
 "Do you think England is so little as all that?" said Fisher, with a
 
@@ -5911,13 +4865,9 @@ one score was Hastings and his victory, which was really somebody
 
 else's victory. Tom Travers has to suffer, and so have you."
 
-
-
 Then, after a moment's silence, he pointed toward the bottomless
 
 well and said, in a quieter tone:
-
-
 
 "I told you that I didn't believe in the philosophy of the Tower of
 
@@ -5943,19 +4893,13 @@ shares in twenty swindling mines. If the thing is really tottering,
 
 God help it, it mustn't be we who tip it over."
 
-
-
 Boyle was regarding him with a bewilderment that was almost fear,
 
 and had even a touch of distaste.
 
-
-
 "Somehow," he said, "there seems to be something rather horrid about
 
 the things you know."
-
-
 
 "There is," replied Horne Fisher.  "I am not at all pleased with my
 
@@ -5965,21 +4909,11 @@ responsible for your not being hanged, I don't know that you need
 
 complain of it."
 
-
-
 And, as if a little ashamed of his first boast, he turned and
 
 strolled away toward the bottomless well.
 
-
-
-
-
-
-
 V. THE FAD OF THE FISHERMAN
-
-
 
 A thing can sometimes be too extraordinary to be remembered. If it
 
@@ -6011,8 +4945,6 @@ nor did he even recover the memory till he had long afterward
 
 discovered the meaning.
 
-
-
 Pale mists of morning lay on the fields and the rushes along one
 
 margin of the river; along the other side ran a wall of tawny brick
@@ -6032,8 +4964,6 @@ river still stood very high, with dwarfish trees waist deep in it,
 and rather a narrow arc of white dawn gleamed under the curve of the
 
 bridge.
-
-
 
 As his own boat went under the dark archway he saw another boat
 
@@ -6082,8 +5012,6 @@ the trees round the bridgehead opposite the wall he saw a lamp-post;
 and, beside the lamp-post, the broad blue back of an unconscious
 
 policeman.
-
-
 
 Even before reaching the shrine of his political pilgrimage he had
 
@@ -6163,8 +5091,6 @@ premonition that he was about to walk into as strange a story in
 
 real life.
 
-
-
 A little before sunset he arrived, with his light suitcase in hand,
 
 before the gate of the long riverside gardens of Willowood Place,
@@ -6209,13 +5135,9 @@ was the nephew of Sir Isaac; but, what was much more important at
 
 the moment, he was also the private secretary of the Prime Minister.
 
-
-
 "Hullo, Bunker!" observed Horne Fisher.  "You're the sort of man I
 
 wanted to see. Has your chief come down yet?"
-
-
 
 "He's only staying for dinner," replied Bullen, with his eye on the
 
@@ -6225,15 +5147,11 @@ he's going straight through to-night. He's motoring himself there;
 
 driving the car, I mean. It's the one thing he's really proud of."
 
-
-
 "You mean you're staying here with your uncle, like a good boy?"
 
 replied Fisher. "But what will the Chief do at Birmingham without
 
 the epigrams whispered to him by his brilliant secretary?"
-
-
 
 "Don't you start ragging me," said the young man called Bunker.
 
@@ -6245,13 +5163,9 @@ about like a courier. As for my uncle, as I'm supposed to come into
 
 the estate, it's only decent to be here sometimes."
 
-
-
 "Very proper," replied the other.  "Well, I shall see you later on,"
 
 and, crossing the lawn, he passed out through a gap in the hedge.
-
-
 
 He was walking across the lawn toward the landing stage on the
 
@@ -6266,8 +5180,6 @@ sight quite deserted, till he saw in the twilight of trees in one
 corner of it a hammock and in the hammock a man, reading a newspaper
 
 and swinging one leg over the edge of the net.
-
-
 
 Him also he hailed by name, and the man slipped to the ground and
 
@@ -6303,8 +5215,6 @@ property was a point about which Mr. Fisher's opinion might have
 
 been more interesting to discover.
 
-
-
 "You were looking so comfortable," said Fisher, "that I thought you
 
 must be one of the servants. I'm looking for somebody to take this
@@ -6312,8 +5222,6 @@ must be one of the servants. I'm looking for somebody to take this
 bag of mine; I haven't brought a man down, as I came away in a
 
 hurry."
-
-
 
 "Nor have I, for that matter," replied the duke, with some pride. "I
 
@@ -6325,21 +5233,15 @@ decently. I may be in my second childhood, but I've not go so far as
 
 being dressed like a child."
 
-
-
 "The Prime Minister hasn't brought a valet; he's brought a secretary
 
 instead," observed Fisher. "Devilish inferior job. Didn't I hear
 
 that Harker was down here?"
 
-
-
 "He's over there on the landing stage," replied the duke,
 
 indifferently, and resumed the study of the Morning Post.
-
-
 
 Fisher made his way beyond the last green wall of the garden on to a
 
@@ -6359,19 +5261,13 @@ brow and hollow temples clung dull red hair, quite flat, like plates
 
 of copper.
 
-
-
 "I haven't seen my host yet," said Horne Fisher, in a slightly more
 
 serious tone than he had used to the others, "but I suppose I shall
 
 meet him at dinner."
 
-
-
 "You can see him now; but you can't meet him," answered Harker.
-
-
 
 He nodded his head toward one end of the island opposite, and,
 
@@ -6389,8 +5285,6 @@ that his face could not be seen, but the shape of his head was
 
 unmistakable.
 
-
-
 "He doesn't like to be disturbed when he's fishing," continued
 
 Harker. "It's a sort of fad of his to eat nothing but fish, and he's
@@ -6401,8 +5295,6 @@ like so many of these millionaires. He likes to come in saying he's
 
 worked for his daily bread like a laborer."
 
-
-
 "Does he explain how he blows all the glass and stuffs all the
 
 upholstery," asked Fisher, "and makes all the silver forks, and
@@ -6411,13 +5303,9 @@ grows all the grapes and peaches, and designs all the patterns on
 
 the carpets? I've always heard he was a busy man."
 
-
-
 "I don't think he mentioned it," answered the lawyer. "What is the
 
 meaning of this social satire?"
-
-
 
 "Well, I am a trifle tired," said Fisher, "of the Simple Life and
 
@@ -6455,15 +5343,11 @@ things. I don't include you; you've worked too hard to enjoy playing
 
 at work."
 
-
-
 "I sometimes think," said Harker, "that you conceal a horrid secret
 
 of being useful sometimes. Haven't you come down here to see Number
 
 One before he goes on to Birmingham?"
-
-
 
 Horne Fisher answered, in a lower voice:  "Yes; and I hope to be
 
@@ -6471,15 +5355,11 @@ lucky enough to catch him before dinner. He's got to see Sir Isaac
 
 about something just afterward."
 
-
-
 "Hullo!" exclaimed Harker.  "Sir Isaac's finished his fishing. I
 
 know he prides himself on getting up at sunrise and going in at
 
 sunset."
-
-
 
 The old man on the island had indeed risen to his feet, facing round
 
@@ -6497,31 +5377,21 @@ civilly saluting them. There were several fish in his basket and he
 
 was in a good temper.
 
-
-
 "Yes," he said, acknowledging Fisher's polite expression of
 
 surprise, "I get up before anybody else in the house, I think. The
 
 early bird catches the worm."
 
-
-
 "Unfortunately," said Harker, "it is the early fish that catches the
 
 worm."
 
-
-
 "But the early man catches the fish," replied the old man, gruffly.
-
-
 
 "But from what I hear, Sir Isaac, you are the late man, too,"
 
 interposed Fisher. "You must do with very little sleep."
-
-
 
 "I never had much time for sleeping," answered Hook, "and I shall
 
@@ -6530,8 +5400,6 @@ have to be the late man to-night, anyhow. The Prime Minister wants
 to have a talk, he tells me, and, all things considered, I think
 
 we'd better be dressing for dinner."
-
-
 
 Dinner passed off that evening without a word of politics and little
 
@@ -6545,19 +5413,13 @@ skill and patience he displayed; the conversation flowed like the
 
 shallow stream through the stepping-stones.
 
-
-
 "It wants patience to wait for them, no doubt," said Sir Isaac, "and
 
 skill to play them, but I'm generally pretty lucky at it."
 
-
-
 "Does a big fish ever break the line and get away?" inquired the
 
 politician, with respectful interest.
-
-
 
 "Not the sort of line I use," answered Hook, with satisfaction. "I
 
@@ -6565,11 +5427,7 @@ rather specialize in tackle, as a matter of fact. If he were strong
 
 enough to do that, he'd be strong enough to pull me into the river."
 
-
-
 "A great loss to the community," said the Prime Minister, bowing.
-
-
 
 Fisher had listened to all these futilities with inward impatience,
 
@@ -6581,27 +5439,19 @@ Lord Merivale before Sir Isaac bore him off for the final interview.
 
 He had only a few words to say, but he wanted to get them said.
 
-
-
 He said, in a low voice as he opened the door for the Premier, "I
 
 have seen Montmirail; he says that unless we protest immediately on
 
 behalf of Denmark, Sweden will certainly seize the ports."
 
-
-
 Lord Merivale nodded.  "I'm just going to hear what Hook has to say
 
 about it," he said.
 
-
-
 "I imagine," said Fisher, with a faint smile, "that there is very
 
 little doubt what he will say about it."
-
-
 
 Merivale did not answer, but lounged gracefully toward the library,
 
@@ -6611,17 +5461,11 @@ the billiard room, Fisher merely remarking to the lawyer: "They
 
 won't be long. We know they're practically in agreement."
 
-
-
 "Hook entirely supports the Prime Minister," assented Harker.
-
-
 
 "Or the Prime Minister entirely supports Hook," said Horne Fisher,
 
 and began idly to knock the balls about on the billiard table.
-
-
 
 Horne Fisher came down next morning in a late and leisurely fashion,
 
@@ -6653,8 +5497,6 @@ like a quiet and well-behaved thunderbolt, but he was a thunderbolt
 
 without knowing it.
 
-
-
 The first exchange of salutations and introductions was commonplace
 
 enough, and consisted, indeed, of the inevitable repetition of
@@ -6665,15 +5507,11 @@ again, of course, and must not be disturbed till the appointed hour,
 
 though he sat within a stone's throw of where they stood.
 
-
-
 "You see it's his only hobby," observed Harker, apologetically,
 
 "and, after all, it's his own house; and he's very hospitable in
 
 other ways."
-
-
 
 "I'm rather afraid," said Fisher, in a lower voice, "that it's
 
@@ -6693,8 +5531,6 @@ doubt whether he cares now for any of those big things as he cares
 
 for those little fish."
 
-
-
 "Oh, come, come," protested the Attorney-General. "You'll make Mr.
 
 March think he has come to call on a lunatic. Believe me, Hook only
@@ -6705,13 +5541,9 @@ takes his fun sadly. But I bet if there were big news about timber
 
 or shipping, he would drop his fun and his fish all right."
 
-
-
 "Well, I wonder," said Horne Fisher, looking sleepily at the island
 
 in the river.
-
-
 
 "By the way, is there any news of anything?" asked Harker of Harold
 
@@ -6719,15 +5551,11 @@ March. "I see you've got an evening paper; one of those enterprising
 
 evening papers that come out in the morning."
 
-
-
 "The beginning of Lord Merivale's Birmingham speech," replied March,
 
 handing him the paper. "It's only a paragraph, but it seems to me
 
 rather good."
-
-
 
 Harker took the paper, flapped and refolded it, and looked at the
 
@@ -6743,13 +5571,9 @@ fashion like a very old man. Then, hardening his voice and handing
 
 the paper to Fisher without a tremor, he simply said:
 
-
-
 "Well, here's a chance for the bet. You've got your big news to
 
 disturb the old man's fishing."
-
-
 
 Horne Fisher was looking at the paper, and over his more languid and
 
@@ -6761,13 +5585,9 @@ encountered, "Sensational Warning to Sweden," and, "We Shall
 
 Protest."
 
-
-
 "What the devil--" he said, and his words softened first to a
 
 whisper and then a whistle.
-
-
 
 "We must tell old Hook at once, or he'll never forgive us," said
 
@@ -6781,13 +5601,9 @@ his way hurriedly along the riverside to the causeway of flat
 
 stones.
 
-
-
 March was staring at Fisher, in amazement at the effect his pink
 
 paper had produced.
-
-
 
 "What does it all mean?" he cried.  "I always supposed we should
 
@@ -6797,17 +5613,11 @@ What is all this botheration about Sir Isaac and the rest of you? Do
 
 you think it bad news?"
 
-
-
 "Bad news!" repeated Fisher, with a sort of soft emphasis beyond
 
 expression.
 
-
-
 "Is it as bad as all that?" asked his friend, at last.
-
-
 
 "As bad as all that?" repeated Fisher.  "Why of course it's as good
 
@@ -6817,15 +5627,11 @@ devil of it comes in, to knock us all silly. It's admirable. It's
 
 inestimable. It is also quite incredible."
 
-
-
 He gazed again at the gray and green colors of the island and the
 
 river, and his rather dreary eye traveled slowly round to the hedges
 
 and the lawns.
-
-
 
 "I felt this garden was a sort of dream," he said, "and I suppose I
 
@@ -6833,13 +5639,9 @@ must be dreaming. But there is grass growing and water moving; and
 
 something impossible has happened."
 
-
-
 Even as he spoke the dark figure with a stoop like a vulture
 
 appeared in the gap of the hedge just above him.
-
-
 
 "You have won your bet," said Harker, in a harsh and almost croaking
 
@@ -6847,13 +5649,9 @@ voice. "The old fool cares for nothing but fishing. He cursed me and
 
 told me he would talk no politics."
 
-
-
 "I thought it might be so," said Fisher, modestly.  "What are you
 
 going to do next?"
-
-
 
 "I shall use the old idiot's telephone, anyhow," replied the lawyer.
 
@@ -6862,8 +5660,6 @@ going to do next?"
 the Government myself to-morrow." And he hurried away toward the
 
 house.
-
-
 
 In the silence that followed, a very bewildering silence so far as
 
@@ -6883,15 +5679,11 @@ standing and staring outside some antiquated shop. Then March heard
 
 his voice, and it was high and almost hysterical:
 
-
-
 "But he must see it; he must be made to understand. It cannot have
 
 been put to him properly." Then, with a certain recovery of fullness
 
 and even pomposity in the voice, "I shall go and tell him myself."
-
-
 
 Among the queer incidents of that afternoon, March always remembered
 
@@ -6907,8 +5699,6 @@ March and Fisher turned to meet the Attorney-General, who was coming
 
 out of the house with a visage of grim assurance.
 
-
-
 "Everybody is saying," he said, "that the Prime Minister has made
 
 the greatest speech of his life. Peroration and loud and prolonged
@@ -6917,21 +5707,15 @@ cheers. Corrupt financiers and heroic peasants. We will not desert
 
 Denmark again."
 
-
-
 Fisher nodded and turned away toward the towing path, where he saw
 
 the duke returning with a rather dazed expression. In answer to
 
 question, he said, in a husky and confidential voice:
 
-
-
 "I really think our poor friend cannot be himself. He refused to
 
 listen; he--ah--suggested that I might frighten the fish."
-
-
 
 A keen ear might have detected a murmur from Mr. Fisher on the
 
@@ -6939,15 +5723,11 @@ subject of a white hat, but Sir John Harker struck it more
 
 decisively:
 
-
-
 "Fisher was quite right. I didn't believe it myself, but it's quite
 
 clear that the old fellow is fixed on this fishing notion by now. If
 
 the house caught fire behind him he would hardly move till sunset."
-
-
 
 Fisher had continued his stroll toward the higher embanked ground of
 
@@ -6967,23 +5747,15 @@ of a half-stifled exclamation from Horne Fisher, and Harold March
 
 looked up at him in wonder.
 
-
-
 "You spoke of bad news," said Fisher.  "Well, there is really bad
 
 news now. I am afraid this is a bad business."
-
-
 
 "What bad news do you mean?" asked his friend, conscious of
 
 something strange and sinister in his voice.
 
-
-
 "The sun has set," answered Fisher.
-
-
 
 He went on with the air of one conscious of having said something
 
@@ -6999,13 +5771,9 @@ the whole place getting dark. Where's his nephew? I believe he's
 
 really fond of his nephew."
 
-
-
 "Look!" cried March, abruptly.  "Why, he's been across already.
 
 There he is coming back."
-
-
 
 And, looking up the river once more, they saw, dark against the
 
@@ -7017,17 +5785,11 @@ a slight splash. When he rejoined the group on the bank his olive
 
 face was unnaturally pale.
 
-
-
 The other four men had already gathered on the same spot and almost
 
 simultaneously were calling out to him, "What does he say now?"
 
-
-
 "Nothing. He says--nothing."
-
-
 
 Fisher looked at the young man steadily for a moment; then he
 
@@ -7041,8 +5803,6 @@ island, to the other side of it where the fisherman sat. Then they
 
 stood and looked at him, without a word.
 
-
-
 Sir Isaac Hook was still sitting propped up against the stump of the
 
 tree, and that for the best of reasons. A length of his own
@@ -7055,13 +5815,9 @@ investigator ran forward and touched the fisherman's hand, and it
 
 was as cold as a fish.
 
-
-
 "The sun has set," said Horne Fisher, in the same terrible tones,
 
 "and he will never see it rise again."
-
-
 
 Ten minutes afterward the five men, shaken by such a shock, were
 
@@ -7070,8 +5826,6 @@ again together in the garden, looking at one another with white but
 watchful faces. The lawyer seemed the most alert of the group; he
 
 was articulate if somewhat abrupt.
-
-
 
 "We must leave the body as it is and telephone for the police," he
 
@@ -7083,8 +5837,6 @@ that concerns them. Of course, none of you gentlemen must leave this
 
 place."
 
-
-
 Perhaps there was something in his rapid and rigorous legality that
 
 suggested the closing of a net or trap. Anyhow, young Bullen
@@ -7093,27 +5845,19 @@ suddenly broke down, or perhaps blew up, for his voice was like an
 
 explosion in the silent garden.
 
-
-
 "I never touched him," he cried.  "I swear I had nothing to do with
 
 it!"
 
-
-
 "Who said you had?" demanded Harker, with a hard eye. "Why do you
 
 cry out before you're hurt?"
-
-
 
 "Because you all look at me like that," cried the young man,
 
 angrily. "Do you think I don't know you're always talking about my
 
 damned debts and expectations?"
-
-
 
 Rather to March's surprise, Fisher had drawn away from this first
 
@@ -7123,23 +5867,13 @@ When he was out of earshot of the others he said, with a curious
 
 simplicity of manner:
 
-
-
 "Westmoreland, I am going straight to the point."
-
-
 
 "Well?" said the other, staring at him stolidly.
 
-
-
 "You have a motive for killing him," said Fisher.
 
-
-
 The duke continued to stare, but he seemed unable to speak.
-
-
 
 "I hope you had a motive for killing him," continued Fisher, mildly.
 
@@ -7149,11 +5883,7 @@ murdering, you probably didn't murder. But if you hadn't any motive,
 
 why, then perhaps, you did."
 
-
-
 "What on earth are you talking about?" demanded the duke, violently.
-
-
 
 "It's quite simple," said Fisher.  "When you went across he was
 
@@ -7171,13 +5901,9 @@ Romantic scenery and romantic people. Very intoxicating for a young
 
 man."
 
-
-
 The duke suddenly clenched his hands and said, thickly, "Well, I had
 
 a motive."
-
-
 
 "Then you're all right," said Fisher, holding out his hand with an
 
@@ -7187,8 +5913,6 @@ you had a fright when you saw it done, as was only natural. Like a
 
 bad dream come true, wasn't it?"
 
-
-
 While this curious conversation was passing, Harker had gone into
 
 the house, disregarding the demonstrations of the sulky nephew, and
@@ -7196,8 +5920,6 @@ the house, disregarding the demonstrations of the sulky nephew, and
 came back presently with a new air of animation and a sheaf of
 
 papers in his hand.
-
-
 
 "I've telephoned for the police," he said, stopping to speak to
 
@@ -7209,8 +5931,6 @@ stopped, for Fisher was looking at him with a singular expression;
 
 and it was Fisher who spoke next:
 
-
-
 "Are there any papers that are not there, I wonder? I mean that are
 
 not there now?" After a pause he added: "Let us have the cards on
@@ -7221,13 +5941,9 @@ weren't you looking for something to--to make sure it shouldn't be
 
 found?"
 
-
-
 Harker did not turn a red hair on his hard head, but he looked at
 
 the other out of the corners of his eyes.
-
-
 
 "And I suppose," went on Fisher, smoothly, "that is why you, too,
 
@@ -7239,11 +5955,7 @@ dare tell us he was killed. But, believe me, it's much better to be
 
 honest now."
 
-
-
 Harker's haggard face suddenly lit up as if with infernal flames.
-
-
 
 "Honest," he cried, "it's not so damned fine of you fellows to be
 
@@ -7263,21 +5975,13 @@ law which are pretty dingy, anyhow, there's always some old vampire
 
 to hang on to him all his life for it."
 
-
-
 "Guatemalan Golcondas, wasn't it?" said Fisher, sympathetically.
-
-
 
 Harker suddenly shuddered. Then he said, "I believe you must know
 
 everything, like God Almighty."
 
-
-
 "I know too much," said Horne Fisher, "and all the wrong things."
-
-
 
 The other three men were drawing nearer to them, but before they
 
@@ -7285,19 +5989,13 @@ came too near, Harker said, in a voice that had recovered all its
 
 firmness:
 
-
-
 "Yes, I did destroy a paper, but I really did find a paper, too; and
 
 I believe that it clears us all."
 
-
-
 "Very well," said Fisher, in a louder and more cheerful tone; "let
 
 us all have the benefit of it."
-
-
 
 "On the very top of Sir Isaac's papers," explained Harker, "there
 
@@ -7317,8 +6015,6 @@ in a rather ugly fashion, "the crime must have been committed by a
 
 man passing in a boat."
 
-
-
 "Why, dear me!" cried the duke, with something almost amounting to
 
 animation. "Why, I remember the man called Hugo quite well! He was a
@@ -7333,8 +6029,6 @@ remember him well. He was a great big Hungarian fellow with great
 
 mustaches that stood out on each side of his face."
 
-
-
 A door opened in the darkness of Harold March's memory, or, rather,
 
 oblivion, and showed a shining landscape, like that of a lost dream.
@@ -7347,15 +6041,9 @@ instant he saw again the man with mustaches like dark horns leap up
 
 on to the bridge and disappear.
 
-
-
 "Good heavens!" he cried.  "Why, I met the murderer this morning!"
 
-
-
         *       *       *
-
-
 
 Horne Fisher and Harold March had their day on the river, after all,
 
@@ -7375,8 +6063,6 @@ the boat cushions, smoking, and watching the swaying reeds slide
 
 past.
 
-
-
 "It was a very good notion to hop up on to the bridge," he said. "An
 
 empty boat means very little; he hasn't been seen to land on either
@@ -7389,11 +6075,7 @@ disappear, and then he will disappear. I think there is every hope
 
 of his escape."
 
-
-
 "Hope?" repeated March, and stopped sculling for an instant.
-
-
 
 "Yes, hope," repeated the other.  "To begin with, I'm not going to
 
@@ -7419,27 +6101,17 @@ dream. But I admit I have another reason for not wanting our
 
 Hungarian friend actually hanged for the murder."
 
-
-
 "And what is that?" asked his friend.
-
-
 
 "Only that he didn't commit the murder," answered Fisher.
 
-
-
 Harold March laid down the oars and let the boat drift for a moment.
-
-
 
 "Do you know, I was half expecting something like that," he said.
 
 "It was quite irrational, but it was hanging about in the
 
 atmosphere, like thunder in the air."
-
-
 
 "On the contrary, it's finding Hugo guilty that's irrational,"
 
@@ -7457,8 +6129,6 @@ that would make him look like the murderer. He had written it
 
 himself the day before."
 
-
-
 "But in that case," said March, frowning, "at what sort of unearthly
 
 hour in the morning was the murder really committed? It was barely
@@ -7467,21 +6137,15 @@ daylight when I met him at the bridge, and that's some way above the
 
 island."
 
-
-
 "The answer is very simple," replied Fisher.  "The crime was not
 
 committed in the morning. The crime was not committed on the
 
 island."
 
-
-
 March stared at the shining water without replying, but Fisher
 
 resumed like one who had been asked a question:
-
-
 
 "Every intelligent murder involves taking advantage of some one
 
@@ -7504,8 +6168,6 @@ there all day. Then the murderer went back to the house, or, rather,
 to the garage, and went off in his motor car. The murderer drove his
 
 own motor car."
-
-
 
 Fisher glanced at his friend's face and went on.  "You look
 
@@ -7535,25 +6197,13 @@ you remember that silly talk about how old Isaac could always play
 
 his fish? In a pretty hellish sense he was a fisher of men."
 
-
-
 Harold March took the oars and began to row again.
-
-
 
 "I remember," he said, "and about how a big fish might break the
 
 line and get away."
 
-
-
-
-
-
-
 VI. THE HOLE IN THE WALL
-
-
 
 Two men, the one an architect and the other an archaeologist, met on
 
@@ -7577,8 +6227,6 @@ bull-necked young man, abounding in outward gestures, unconsciously
 
 flapping his gloves and flourishing his stick.
 
-
-
 "You two ought to have something to talk about," he said,
 
 cheerfully. "Old buildings and all that sort of thing; this is
@@ -7595,13 +6243,9 @@ affair--abbots and crusaders and all that. My ancestors, I suppose,
 
 after all."
 
-
-
 "I trust the abbot was not an ancestor," said the archaeological
 
 gentleman, with a smile.
-
-
 
 "Only a sort of great-uncle, I imagine," answered the other,
 
@@ -7615,19 +6259,13 @@ a park of tall trees now gray and black and frosty, for it was in
 
 the depth of a severe winter.
 
-
-
 "It's getting jolly cold," his lordship continued. "My sister hopes
 
 we shall have some skating as well as dancing."
 
-
-
 "If the crusaders come in full armor," said the other, "you must be
 
 careful not to drown your ancestors."
-
-
 
 "Oh, there's no fear of that," answered Bulmer; "this precious lake
 
@@ -7641,15 +6279,11 @@ the water, so that he seemed for a moment to lean his large weight
 
 on a breaking staff.
 
-
-
 "The worst you can expect is to see an abbot sit down rather
 
 suddenly," he added, turning away. "Well, au revoir; I'll let you
 
 know about it later."
-
-
 
 The archaeologist and the architect were left on the great stone
 
@@ -7701,8 +6335,6 @@ previous existence. On this occasion, nevertheless, he hastened to
 
 disclaim any authority on the other man's hobby.
 
-
-
 "I mustn't appear on false pretences," he said, with a smile. "I
 
 hardly even know what an archaeologist is, except that a rather
@@ -7711,29 +6343,19 @@ rusty remnant of Greek suggests that he is a man who studies old
 
 things."
 
-
-
 "Yes," replied Haddow, grimly.  "An archaeologist is a man who
 
 studies old things and finds they are new."
 
-
-
 Crane looked at him steadily for a moment and then smiled again.
-
-
 
 "Dare one suggest," he said, "that some of the things we have been
 
 talking about are among the old things that turn out not to be old?"
 
-
-
 His companion also was silent for a moment, and the smile on his
 
 rugged face was fainter as he replied, quietly:
-
-
 
 "The wall round the park is really old. The one gate in it is
 
@@ -7777,8 +6399,6 @@ accident. That's what I mean when I say that we don't so much find
 
 old things as we find new ones."
 
-
-
 Crane seemed to have grown somewhat inattentive to the little
 
 lecture on antiquities and novelties, and the cause of his
@@ -7792,8 +6412,6 @@ accompanied by one gentleman and followed by two others. The young
 architect was in the illogical condition of mind in which he
 
 preferred three to one.
-
-
 
 The man walking with the lady was no other than the eminent Prince
 
@@ -7851,8 +6469,6 @@ mouth. Though he had the look of one wasted by some tropical disease,
 
 his movements were much more alert than those of his lounging companion.
 
-
-
 "It's all settled," announced the lady, with great animation, when
 
 they came within hailing distance. "You've all got to put on
@@ -7863,19 +6479,13 @@ says they don't go with it; but we don't care about that. It's
 
 freezing already, and we don't often get such a chance in England."
 
-
-
 "Even in India we don't exactly skate all the year round," observed
 
 Mr. Brain.
 
-
-
 "And even Italy is not primarily associated with ice," said the
 
 Italian.
-
-
 
 "Italy is primarily associated with ices," remarked Mr. Horne
 
@@ -7887,8 +6497,6 @@ organ grinders. There certainly are a lot of them; perhaps they're
 
 an invading army in disguise."
 
-
-
 "How do you know they are not the secret emissaries of our
 
 diplomacy?" asked the prince, with a slightly scornful smile. "An
@@ -7897,8 +6505,6 @@ army of organ grinders might pick up hints, and their monkeys might
 
 pick up all sort of things."
 
-
-
 "The organs are organized in fact," said the flippant Mr. Fisher.
 
 "Well, I've known it pretty cold before now in Italy and even in
@@ -7906,8 +6512,6 @@ pick up all sort of things."
 India, up on the Himalayan slopes. The ice on our own little round
 
 pond will be quite cozy by comparison."
-
-
 
 Juliet Bray was an attractive lady with dark hair and eyebrows and
 
@@ -7932,8 +6536,6 @@ sharpened; that night the ice of the lake, glimmering in the
 moonlight, was like a marble floor, and they had begun to dance and
 
 skate on it before it was dark.
-
-
 
 Prior's Park, or, more properly, the surrounding district of
 
@@ -7967,8 +6569,6 @@ continuity. They had all that forgetfulness of history that goes
 
 everywhere with the extension of education.
 
-
-
 Nevertheless, when he came out of the library next morning and saw
 
 the wintry trees standing round the frozen pond like a black forest,
@@ -7993,8 +6593,6 @@ fancy dress, and the lawyer, with his neat black suit and red hair,
 
 was the only modern figure among them.
 
-
-
 "Aren't you going to dress up?" asked Juliet, indignantly shaking at
 
 him a horned and towering blue headdress of the fourteenth century
@@ -8015,8 +6613,6 @@ looks as if he could poison everybody. You simply must be
 
 something."
 
-
-
 "I will be something later in the day," he replied. "At present I am
 
 nothing but an antiquary and an attorney. I have to see your brother
@@ -8027,15 +6623,11 @@ investigations he asked me to make. I must look a little like a
 
 steward when I give an account of my stewardship."
 
-
-
 "Oh, but my brother has dressed up!" cried the girl.  "Very much so.
 
 No end, if I may say so. Why he's bearing down on you now in all his
 
 glory."
-
-
 
 The noble lord was indeed marching toward them in a magnificent
 
@@ -8061,8 +6653,6 @@ the spirit that is called fey. At the time it merely crossed a few
 
 people's minds that he might possibly be drunk.
 
-
-
 As he strode toward his sister the first figure he passed was that
 
 of Leonard Crane, clad in Lincoln green, with the horn and baldrick
@@ -8085,8 +6675,6 @@ somewhat too familiar Shakespearean quotation about a rodent and a
 
 Venetian coin.
 
-
-
 Probably in Crane also there was a subdued excitement just then;
 
 anyhow, in one flash he had drawn his own sword and parried; and
@@ -8097,13 +6685,9 @@ to spring out of his hand into the air and rolled away on the
 
 ringing ice.
 
-
-
 "Well, I never!" said the lady, as if with justifiable indignation.
 
 "You never told me you could fence, too."
-
-
 
 Bulmer put up his sword with an air rather bewildered than annoyed,
 
@@ -8113,8 +6697,6 @@ mood at the moment; then he turned rather abruptly to his lawyer,
 
 saying:
 
-
-
 "We can settle up about the estate after dinner; I've missed nearly
 
 all the skating as it is, and I doubt if the ice will hold till
@@ -8122,8 +6704,6 @@ all the skating as it is, and I doubt if the ice will hold till
 to-morrow night. I think I shall get up early and have a spin by
 
 myself."
-
-
 
 "You won't be disturbed with my company," said Horne Fisher, in his
 
@@ -8133,17 +6713,11 @@ fashion, I prefer it in smaller quantities. But no early hours for
 
 me in December. The early bird catches the cold."
 
-
-
 "Oh, I sha'n't die of catching a cold," answered Bulmer, and
 
 laughed.
 
-
-
         *       *       *
-
-
 
 A considerable group of the skating party had consisted of the
 
@@ -8223,8 +6797,6 @@ heard by the wakeful during the most ordinary night, and shrugging
 
 his shoulders, went wearily to bed.
 
-
-
 He awoke suddenly and sat up in bed with his ears filled, as with
 
 thunder, with the throbbing echoes of a rending cry. He remained
@@ -8269,8 +6841,6 @@ at daybreak. It was the awful articulate voice of man; and it was
 
 something worse, for he knew what man.
 
-
-
 He knew also that it had been a shout for help. It seemed to him
 
 that he had heard the very word; but the word, short as it was, had
@@ -8286,8 +6856,6 @@ had no doubt that the great bull's voice of Francis Bray, Baron
 Bulmer, had been heard for the last time between the darkness and
 
 the lifting dawn.
-
-
 
 How long he stood there he never knew, but he was startled into life
 
@@ -8313,45 +6881,29 @@ magnificent red cockatoo. It was as if the early bird had been up
 
 all night.
 
-
-
 "What is the matter?" he called, sharply, leaning out of the window,
 
 and the Italian turned up his great yellow face like a mask of
 
 brass.
 
-
-
 "We had better discuss it downstairs," said Prince Borodino.
-
-
 
 Fisher ran downstairs, and encountered the great, red-robed figure
 
 entering the doorway and blocking the entrance with his bulk.
 
-
-
 "Did you hear that cry?" demanded Fisher.
-
-
 
 "I heard a noise and I came out," answered the diplomatist, and his
 
 face was too dark in the shadow for its expression to be read.
 
-
-
 "It was Bulmer's voice," insisted Fisher.  "I'll swear it was
 
 Bulmer's voice."
 
-
-
 "Did you know him well?" asked the other.
-
-
 
 The question seemed irrelevant, though it was not illogical, and
 
@@ -8359,15 +6911,11 @@ Fisher could only answer in a, random fashion that he knew Lord
 
 Bulmer only slightly.
 
-
-
 "Nobody seems to have known him well," continued the Italian, in
 
 level tones. "Nobody except that man Brain. Brain is rather older
 
 than Bulmer, but I fancy they shared a good many secrets."
-
-
 
 Fisher moved abruptly, as if waking from a momentary trance, and
 
@@ -8375,13 +6923,9 @@ said, in a new and more vigorous voice, "But look here, hadn't we
 
 better get outside and see if anything has happened."
 
-
-
 "The ice seems to be thawing," said the other, almost with
 
 indifference.
-
-
 
 When they emerged from the house, dark stains and stars in the gray
 
@@ -8391,15 +6935,11 @@ their host had prophesied the day before, and the very memory of
 
 yesterday brought back the mystery of to-day.
 
-
-
 "He knew there would be a thaw," observed the prince. "He went out
 
 skating quite early on purpose. Did he call out because he landed in
 
 the water, do you think?"
-
-
 
 Fisher looked puzzled.  "Bulmer was the last man to bellow like that
 
@@ -8417,21 +6957,15 @@ afterward. We should have found him stamping and damning up and down
 
 this path, and calling for clean boots."
 
-
-
 "Let us hope we shall find him as happily employed," remarked the
 
 diplomatist. "In that case the voice must have come out of the
 
 wood."
 
-
-
 "I'll swear it didn't come out of the house," said Fisher; and the
 
 two disappeared together into the twilight of wintry trees.
-
-
 
 The plantation stood dark against the fiery colors of sunrise, a
 
@@ -8467,8 +7001,6 @@ alive. But his bald brow was wrinkled over an entirely new and
 
 unnatural problem, in not finding the man at all.
 
-
-
 He considered the possibility of Bulmer having gone off of his own
 
 accord, for some reason; but after fully weighing it he finally
@@ -8495,8 +7027,6 @@ from one of his own trees as from a gibbet, or floating in his own
 
 pool like a pallid weed. What horrified him was to find nothing.
 
-
-
 He soon become conscious that he was not alone even in his most
 
 individual and isolated experiments. He often found a figure
@@ -8517,8 +7047,6 @@ man, this seemed natural enough, and Fisher resolved to deal frankly
 
 with him.
 
-
-
 "This silence is rather a social strain," he said.  "May I break the
 
 ice by talking about the weather?--which, by the way, has already
@@ -8527,17 +7055,11 @@ broken the ice. I know that breaking the ice might be a rather
 
 melancholy metaphor in this case."
 
-
-
 "I don't think so," replied Brain, shortly.  "I don't fancy the ice
 
 had much to do with it. I don't see how it could."
 
-
-
 "What would you propose doing?" asked Fisher.
-
-
 
 "Well, we've sent for the authorities, of course, but I hope to find
 
@@ -8553,15 +7075,11 @@ collect the company and count them, so to speak. Nobody's left
 
 lately, except that lawyer who was poking about for antiquities."
 
-
-
 "Oh, he's out of it; he left last night," answered the other. "Eight
 
 hours after Bulmer's chauffeur saw his lawyer off by the train I
 
 heard Bulmer's own voice as plain as I hear yours now."
-
-
 
 "I suppose you don't believe in spirits?" said the man from India.
 
@@ -8573,8 +7091,6 @@ What's become of that fellow in green--the architect dressed up as
 
 a forester? I haven't seem him about."
 
-
-
 Mr. Brain managed to secure his assembly of all the distracted
 
 company before the arrival of the police. But when he first began
@@ -8585,8 +7101,6 @@ an appearance, he found himself in the presence of a minor mystery,
 
 and a psychological development of an entirely unexpected kind.
 
-
-
 Juliet Bray had confronted the catastrophe of her brother's
 
 disappearance with a somber stoicism in which there was, perhaps,
@@ -8594,8 +7108,6 @@ disappearance with a somber stoicism in which there was, perhaps,
 more paralysis than pain; but when the other question came to the
 
 surface she was both agitated and angry.
-
-
 
 "We don't want to jump to any conclusions about anybody," Brain was
 
@@ -8617,8 +7129,6 @@ anybody. Till the police come we are only a pack of very amateur
 
 sleuthhounds."
 
-
-
 "And I think you're a pack of snobs," said Juliet.  "Because Mr.
 
 Crane is a genius who's made his own way, you try to suggest he's a
@@ -8637,15 +7147,11 @@ you're wrong in that as you are in everything else, for here he
 
 comes."
 
-
-
 And, indeed, the green figure of the fictitious Robin Hood slowly
 
 detached itself from the gray background of the trees, and came
 
 toward them as she spoke.
-
-
 
 He approached the group slowly, but with composure; but he was
 
@@ -8657,15 +7163,11 @@ rest. The horn still swung from his baldrick, but the sword was
 
 gone.
 
-
-
 Rather to the surprise of the company, Brain did not follow up the
 
 question thus suggested; but, while retaining an air of leading the
 
 inquiry, had also an appearance of changing the subject.
-
-
 
 "Now we're all assembled," he observed, quietly, "there is a
 
@@ -8673,23 +7175,15 @@ question I want to ask to begin with. Did anybody here actually see
 
 Lord Bulmer this morning?"
 
-
-
 Leonard Crane turned his pale face round the circle of faces till he
 
 came to Juliet's; then he compressed his lips a little and said:
 
-
-
 "Yes, I saw him."
-
-
 
 "Was he alive and well?" asked Brain, quickly.  "How was he
 
 dressed?"
-
-
 
 "He appeared exceedingly well," replied Crane, with a curious
 
@@ -8699,23 +7193,15 @@ costume copied from the portrait of his ancestor in the sixteenth
 
 century. He had his skates in his hand."
 
-
-
 "And his sword at his side, I suppose," added the questioner. "Where
 
 is your own sword, Mr. Crane?"
 
-
-
 "I threw it away."
-
-
 
 In the singular silence that ensued, the train of thought in many
 
 minds became involuntarily a series of colored pictures.
-
-
 
 They had grown used to their fanciful garments looking more gay and
 
@@ -8741,23 +7227,15 @@ in the gray daybreak the same figures in the same posture might have
 
 been repeated as a tragedy.
 
-
-
 "Did you quarrel with him?" asked Brain, suddenly.
-
-
 
 "Yes," replied the immovable man in green.  "Or he quarreled with
 
 me."
 
-
-
 "Why did he quarrel with you?" asked the investigator; and Leonard
 
 Crane made no reply.
-
-
 
 Horne Fisher, curiously enough, had only given half his attention to
 
@@ -8769,13 +7247,9 @@ strolled away toward the fringe of the wood; and, after a pause, as
 
 of meditation, had disappeared into the darkness of the trees.
 
-
-
 He was recalled from his irrelevance by the voice of Juliet Bray,
 
 which rang out with an altogether new note of decision:
-
-
 
 "If that is the difficulty, it had best be cleared up. I am engaged
 
@@ -8783,21 +7257,15 @@ to Mr. Crane, and when we told my brother he did not approve of it;
 
 that is all."
 
-
-
 Neither Brain nor Fisher exhibited any surprise, but the former
 
 added, quietly:
-
-
 
 "Except, I suppose, that he and your brother went off into the wood
 
 to discuss it, where Mr. Crane mislaid his sword, not to mention his
 
 companion."
-
-
 
 "And may I ask," inquired Crane, with a certain flicker of mockery
 
@@ -8813,15 +7281,11 @@ Did I have it carried away by seven flying dragons, or was it merely
 
 a trifling matter of turning it into a milk-white hind?"
 
-
-
 "It is no occasion for sneering," said the Anglo-Indian judge, with
 
 abrupt authority. "It doesn't make it look better for you that you
 
 can joke about the loss."
-
-
 
 Fisher's dreamy, and even dreary, eye was still on the edge of the
 
@@ -8836,8 +7300,6 @@ pathway. Brain had had half a notion that the prince might have gone
 to look for the lost rapier. But when he reappeared he was carrying
 
 in his hand, not a sword, but an ax.
-
-
 
 The incongruity between the masquerade and the mystery had created a
 
@@ -8893,19 +7355,13 @@ terrible red, and carrying the ax for the execution of the criminal.
 
 And the criminal was not Crane.
 
-
-
 Mr. Brain of the Indian police was glaring at the new object, and it
 
 was a moment or two before he spoke, harshly and almost hoarsely.
 
-
-
 "What are you doing with that?" he asked.  "Seems to be a woodman's
 
 chopper."
-
-
 
 "A natural association of ideas," observed Horne Fisher.  "If you
 
@@ -8923,21 +7379,15 @@ getting the potato sacks with which I reconstructed a mediaeval
 
 hermit."
 
-
-
 "All the same, it is not without interest," remarked the prince,
 
 holding out the instrument to Fisher, who took it and examined it
 
 carefully. "A butcher's cleaver that has done butcher's work."
 
-
-
 "It was certainly the instrument of the crime," assented Fisher, in
 
 a low voice.
-
-
 
 Brain was staring at the dull blue gleam of the ax head with fierce
 
@@ -8945,33 +7395,23 @@ and fascinated eyes. "I don't understand you," he said. "There is
 
 no--there are no marks on it."
 
-
-
 "It has shed no blood," answered Fisher, "but for all that it has
 
 committed a crime. This is as near as the criminal came to the crime
 
 when he committed it."
 
-
-
 "What do you mean?"
-
-
 
 "He was not there when he did it," explained Fisher.  "It's a poor
 
 sort of murderer who can't murder people when he isn't there."
-
-
 
 "You seem to be talking merely for the sake of mystification," said
 
 Brain. "If you have any practical advice to give you might as well
 
 make it intelligible."
-
-
 
 "The only practical advice I can suggest," said Fisher,
 
@@ -8985,25 +7425,15 @@ of the late Mr. Prior would throw a light on this terrible
 
 business."
 
-
-
 "And you have nothing more immediate than your topography to offer,"
 
 said Brain, with a sneer, "to help me avenge my friend?"
-
-
 
 "Well," said Fisher, "I should find out the truth about the Hole in
 
 the Wall."
 
-
-
         *       *       *
-
-
-
-
 
 That night, at the close of a stormy twilight and under a strong
 
@@ -9081,8 +7511,6 @@ As a matter of fact, he had found that no local inquiries had
 
 revealed anything at all about the Prior family.
 
-
-
 The moonlight had broadened and brightened, the wind had driven off
 
 the clouds and itself died fitfully away, when he came round again
@@ -9109,13 +7537,9 @@ hermit. Nevertheless, he looked up at Leonard Crane and smiled,
 
 almost as if he had expected him.
 
-
-
 "Look here," said Crane, planting himself in front of him, "can you
 
 tell me anything about this business?"
-
-
 
 "I shall soon have to tell everybody everything about it," replied
 
@@ -9127,13 +7551,9 @@ you met Bulmer this morning? You did throw away your sword, but you
 
 didn't kill him."
 
-
-
 "I didn't kill him because I threw away my sword," said the other.
 
 "I did it on purpose--or I'm not sure what might have happened."
-
-
 
 After a pause he went on, quietly:  "The late Lord Bulmer was a very
 
@@ -9157,13 +7577,9 @@ coarseness of a gentleman. And it is the most horrible thing in
 
 humanity."
 
-
-
 "I know," said Fisher.  "The Renaissance nobles of the Tudor time
 
 were like that."
-
-
 
 "It is odd that you should say that," Crane went on. "For while we
 
@@ -9183,23 +7599,17 @@ walked away. I might really have killed him if I had not walked
 
 away."
 
-
-
 "Yes," said Fisher, nodding, "his ancestor was in possession and he
 
 was in possession, and this is the end of the story. It all fits
 
 in."
 
-
-
 "Fits in with what?" cried his companion, with sudden impatience. "I
 
 can't make head or tail of it. You tell me to look for the secret in
 
 the hole in the wall, but I can't find any hole in the wall."
-
-
 
 "There isn't any," said Fisher.  "That's the secret." After
 
@@ -9237,8 +7647,6 @@ intelligence won't accept anything on authority. But it will accept
 
 anything without authority. That's exactly what has happened here.
 
-
-
 "When some critic or other chose to say that Prior's Park was not a
 
 priory, but was named after some quite modern man named Prior,
@@ -9269,25 +7677,17 @@ ignorant and old-fashioned of the poor. But it is spelled wrong and
 
 pronounced right."
 
-
-
 "Do you mean to say," asked Crane, quickly, "that there really was a
 
 well?"
-
-
 
 "There is a well," said Fisher, "and the truth lies at the bottom of
 
 it."
 
-
-
 As he spoke he stretched out his hand and pointed toward the sheet
 
 of water in front of him.
-
-
 
 "The well is under that water somewhere," he said, "and this is not
 
@@ -9311,13 +7711,9 @@ four hundred years, it has been followed by an heir of the usurper,
 
 clad in the same purple and walking the world with the same pride."
 
-
-
 "But how did it happen," demanded Crane, "that for the first time
 
 Bulmer fell in at that particular spot?"
-
-
 
 "Because the ice was only loosened at that particular spot, by the
 
@@ -9341,13 +7737,9 @@ still be traced out, by any scholarly man determined to trace it.
 
 And this man was determined to trace it."
 
-
-
 "What man?" asked the other, with a shadow of the answer in his
 
 mind.
-
-
 
 "The only man who has an alibi," replied Fisher.  "James Haddow, the
 
@@ -9381,13 +7773,9 @@ rewarded, if being a successful assassin can be regarded as a
 
 reward."
 
-
-
 "And how did you get on the track of all this hidden history?" asked
 
 the young architect.
-
-
 
 A cloud came across the brow of Horne Fisher.  "I knew only too much
 
@@ -9423,27 +7811,15 @@ costume I think fit for a man who has inherited the position of a
 
 gentleman, and yet has not entirely lost the feelings of one."
 
-
-
 In answer to a look of inquiry, he rose with a sweeping and downward
 
 gesture.
-
-
 
 "Sackcloth," he said; "and I would wear the ashes as well if they
 
 would stay on my bald head."
 
-
-
-
-
-
-
 VII. THE TEMPLE OF SILENCE
-
-
 
 Harold March and the few who cultivated the friendship of Horne
 
@@ -9505,8 +7881,6 @@ society. He wondered whether Horne Fisher was both an orphan and an
 
 only child.
 
-
-
 It was, therefore, with something like a start that he found that
 
 Fisher had a brother, much more prosperous and powerful than
@@ -9535,17 +7909,11 @@ half-formed thoughts of others, glanced at the topic himself as they
 
 came away from the great house in Berkeley Square.
 
-
-
 "Why, don't you know," he observed quietly, "that I am the fool of
 
 the family?"
 
-
-
 "It must be a clever family," said Harold March, with a smile.
-
-
 
 "Very gracefully expressed," replied Fisher; "that is the best of
 
@@ -9555,13 +7923,9 @@ say I am the fool of the family. It's enough to say I am the failure
 
 of the family."
 
-
-
 "It seems queer to me that you should fail especially," remarked the
 
 journalist. "As they say in the examinations, what did you fail in?"
-
-
 
 "Politics," replied his friend.  "I stood for Parliament when I was
 
@@ -9571,13 +7935,9 @@ cheers and chairing round the town. Since then, of course, I've been
 
 rather under a cloud."
 
-
-
 "I'm afraid I don't quite understand the 'of course,'" answered
 
 March, laughing.
-
-
 
 "That part of it isn't worth understanding," said Fisher.  "But as a
 
@@ -9590,10 +7950,6 @@ first lesson I had in what modern politics are made of. If you like,
 I'll tell you all about it." And the following, recast in a less
 
 allusive and conversational manner, is the story that he told.
-
-
-
-
 
 Nobody privileged of late years to meet Sir Henry Harland Fisher
 
@@ -9643,8 +7999,6 @@ turned what might have been a dinner-table joke into a sort of small
 
 sensational novel.
 
-
-
 Save for Lord Saltoun, it was a family party of Fishers, for the
 
 only other distinguished stranger had just departed after dinner,
@@ -9679,8 +8033,6 @@ even in the Fisher circle everybody talked about it except Horne
 
 Fisher himself who sat in a corner, lowering over the fire.
 
-
-
 "We jolly well have to thank him for putting some new life into the
 
 old party," Ashton Fisher was saying. "This campaign against the old
@@ -9693,8 +8045,6 @@ bill; so you may say he's in the government even before he's in the
 
 House."
 
-
-
 "One's easier than the other," said Harry, carelessly.  "I bet the
 
 squire's a bigger pot than the county council in that county. Verner
@@ -9702,8 +8052,6 @@ squire's a bigger pot than the county council in that county. Verner
 is pretty well rooted; all these rural places are what you call
 
 reactionary. Damning aristocrats won't alter it."
-
-
 
 "He damns them rather well," observed Ashton.  "We never had a
 
@@ -9715,29 +8063,19 @@ blood; let us show we have red blood,' and went on to talk about
 
 manhood and liberty, the room simply rose at him."
 
-
-
 "Speaks very well," said Lord Saltoun, gruffly, making his only
 
 contribution to the conversation so far.
-
-
 
 Then the almost equally silent Horne Fisher suddenly spoke, without
 
 taking his brooding eyes off the fire.
 
-
-
 "What I can't understand," he said, "is why nobody is ever slanged
 
 for the real reason."
 
-
-
 "Hullo!" remarked Harry, humorously, "you beginning to take notice?"
-
-
 
 "Well, take Verner," continued Horne Fisher.  "If we want to attack
 
@@ -9759,17 +8097,11 @@ estate to a man named Verner. What did he make his money in? Oil?
 
 Army contracts?"
 
-
-
 "I don't know," said Saltoun, looking at him thoughtfully.
-
-
 
 "First thing I ever knew you didn't know," cried the exuberant
 
 Harry.
-
-
 
 "And there's more, besides," went on Horne Fisher, who seemed to
 
@@ -9787,13 +8119,9 @@ the squire's land to the squire's tenants, instead of dragging in
 
 the county council?"
 
-
-
 "Three acres and a cow," cried Harry, emitting what the
 
 Parliamentary reports call an ironical cheer.
-
-
 
 "Yes," replied his brother, stubbornly.  "Don't you think
 
@@ -9809,8 +8137,6 @@ what they are, which is something about as old and traditional as an
 
 American oil trust?"
 
-
-
 "You'd better lead the yeoman party yourself," laughed Harry.
 
 "Don't you think it would be a joke, Lord Saltoun, to see my brother
@@ -9819,21 +8145,15 @@ and his merry men, with their bows and bills, marching down to
 
 Somerset all in Lincoln green instead of Lincoln and Bennet hats?"
 
-
-
 "No," answered Old Saltoun, "I don't think it would be a joke. I
 
 think it would be an exceedingly serious and sensible idea."
-
-
 
 "Well, I'm jiggered!" cried Harry Fisher, staring at him. "I said
 
 just now it was the first fact you didn't know, and I should say
 
 this is the first joke you didn't see."
-
-
 
 "I've seen a good many things in my time," said the old man, in his
 
@@ -9855,25 +8175,17 @@ go into Parliament as a yeoman or a gentleman or a Jacobite or an
 
 Ancient Briton, I should say it would be a jolly good thing."
 
-
-
 In the rather startled silence that followed Horne Fisher sprang to
 
 his feet and all his dreary manner dropped off him.
-
-
 
 "I'm ready to do it to-morrow," he cried.  "I suppose none of you
 
 fellows would back me up."
 
-
-
 Then Harry Fisher showed the finer side of his impetuosity. He made
 
 a sudden movement as if to shake hands.
-
-
 
 "You're a sport," he said, "and I'll back you up, if nobody else
 
@@ -9881,17 +8193,11 @@ will. But we can all back you up, can't we? I see what Lord Saltoun
 
 means, and, of course, he's right. He's always right."
 
-
-
 "So I will go down to Somerset," said Horne Fisher.
-
-
 
 "Yes, it is on the way to Westminster," said Lord Saltoun, with a
 
 smile.
-
-
 
 And so it happened that Horne Fisher arrived some days later at the
 
@@ -9918,8 +8224,6 @@ still young, and could feel the sort of enthusiasm for his captain
 in electioneering that a schoolboy can feel for his captain in
 
 cricket.
-
-
 
 Nor was the admiration undeserved. As the new three-cornered
 
@@ -9973,8 +8277,6 @@ things in a new light, and knew not even whether it was the sunset
 
 or the dawn.
 
-
-
 Practical grievances were there to make the movement formidable. As
 
 Fisher went to and fro among the cottages and country inns, it was
@@ -10015,15 +8317,11 @@ Saltoun had not known. He could not find out how Verner had
 
 originally made his money.
 
-
-
 "He must have kept it specially dark," said Horne Fisher to himself.
 
 "It must be something he's really ashamed of. Hang it all! what _is_
 
 a man ashamed of nowadays?"
-
-
 
 And as he pondered on the possibilities they grew darker and more
 
@@ -10036,8 +8334,6 @@ things yet more unnatural but nearer home. The figure of Verner
 seemed to be blackened and transfigured in his imagination, and to
 
 stand against varied backgrounds and strange skies.
-
-
 
 As he strode up a village street, brooding thus, his eyes
 
@@ -10067,8 +8363,6 @@ high street of the little town, whistling, with political papers
 
 sticking out of his pocket.
 
-
-
 Fisher looked pensively after the resolute figure for a moment, and
 
 then, as if by an impulse, began to follow it. Through the busy
@@ -10089,8 +8383,6 @@ which was Mr. Gryce's name, and that individual turned and beheld
 
 his pursuer with a stare.
 
-
-
 "Could I have a word with you, sir?" asked Horne Fisher, politely.
 
 The agent stared still more, but assented civilly, and led the other
@@ -10100,8 +8392,6 @@ into an office littered with leaflets and hung all round with highly
 colored posters which linked the name of Hughes with all the higher
 
 interests of humanity.
-
-
 
 "Mr. Horne Fisher, I believe," said Mr. Gryce.  "Much honored by the
 
@@ -10113,8 +8403,6 @@ the old flag flying for freedom and reform, and you come in and
 
 break the battle line."
 
-
-
 For Mr. Elijah Gryce abounded in military metaphors and in
 
 denunciations of militarism. He was a square-jawed, blunt-featured
@@ -10124,8 +8412,6 @@ man with a pugnacious cock of the eyebrow. He had been pickled in
 the politics of that countryside from boyhood, he knew everybody's
 
 secrets, and electioneering was the romance of his life.
-
-
 
 "I suppose you think I'm devoured with ambition," said Horne Fisher,
 
@@ -10141,15 +8427,11 @@ I'm quite willing to retire from the contest if you can convince me
 
 that we really want to do the same thing."
 
-
-
 The agent of the Reform party looked at him with an odd and slightly
 
 puzzled expression, and before he could reply, Fisher went on in the
 
 same level tones:
-
-
 
 "You'd hardly believe it, but I keep a conscience concealed about
 
@@ -10166,8 +8448,6 @@ fair to him. If some of the things I've heard are true he ought to
 be turned out of Parliament and every other club in London. But I
 
 don't want to turn him out of Parliament if they aren't true."
-
-
 
 At this point the light of battle sprang into Mr. Gryce's eyes and
 
@@ -10187,25 +8467,17 @@ Biddle to the workhouse; he had stretched the law against Long Adam,
 
 the poacher, till all the magistrates were ashamed of him.
 
-
-
 "So if you'll serve under the old banner," concluded Mr. Gryce, more
 
 genially, "and turn out a swindling tyrant like that, I'm sure
 
 you'll never regret it."
 
-
-
 "And if that is the truth," said Horne Fisher, "are you going to
 
 tell it?"
 
-
-
 "What do you mean?  Tell the truth?" demanded Gryce.
-
-
 
 "I mean you are going to tell the truth as you have just told it,"
 
@@ -10227,8 +8499,6 @@ tell it. Upon those terms I come under the old flag, as you call it,
 
 and haul down my little pennon."
 
-
-
 The agent was eying him with a curious expression, surly but not
 
 entirely unsympathetic. "Well," he said, slowly, "you have to do
@@ -10243,8 +8513,6 @@ personalities aren't considered fair play. Looks like hitting below
 
 the belt."
 
-
-
 "Old Wilkins hasn't got a belt, I suppose," replied Horne Fisher.
 
 "Verner can hit him anyhow, and nobody must say a word. It's
@@ -10257,13 +8525,9 @@ thoughtfully--"possibly the explanation of the phrase 'a belted
 
 earl,' the meaning of which has always escaped me."
 
-
-
 "I mean those personalities won't do," returned Gryce, frowning at
 
 the table.
-
-
 
 "And Mother Biddle and Long Adam, the poacher, are not
 
@@ -10271,15 +8535,11 @@ personalities," said Fisher, "and suppose we mustn't ask how Verner
 
 made all the money that enabled him to become--a personality."
 
-
-
 Gryce was still looking at him under lowering brows, but the
 
 singular light in his eyes had brightened. At last he said, in
 
 another and much quieter voice:
-
-
 
 "Look here, sir. I like you, if you don't mind my saying so. I
 
@@ -10303,17 +8563,11 @@ you a hint about that, a hint about something precious few people
 
 know."
 
-
-
 "I am very grateful," said Fisher, gravely.  "What is it?"
-
-
 
 "It's in two words," said the other.  "The new squire was quite poor
 
 when he bought. The old squire was quite rich when he sold."
-
-
 
 Horne Fisher looked at him thoughtfully as he turned away abruptly
 
@@ -10322,8 +8576,6 @@ and busied himself with the papers on his desk. Then Fisher uttered
 a short phrase of thanks and farewell, and went out into the street,
 
 still very thoughtful.
-
-
 
 His reflection seemed to end in resolution, and, falling into a more
 
@@ -10358,8 +8610,6 @@ a second glance the twilight of the twinkling trees. There was
 something fascinating about that unexpected gate, like the opening
 
 of a fairy tale.
-
-
 
 Horne Fisher had in him something of the aristocrat, which is very
 
@@ -10413,8 +8663,6 @@ knew better than Horne Fisher that no god had ever dwelt in that
 
 shrine.
 
-
-
 "That's what makes all this classical landscape gardening so
 
 desolate," he said to himself. "More desolate than Stonehenge or the
@@ -10435,8 +8683,6 @@ gardens with these stone nymphs, had less hope than any men in all
 
 history of really meeting a nymph in the forest."
 
-
-
 His monologue stopped abruptly with a sharp noise like a thundercrack
 
 that rolled in dreary echoes round the dismal mere. He knew at once
@@ -10450,8 +8696,6 @@ his mind. The next moment he laughed; for he saw lying a little way
 along the path below him the dead bird that the shot had brought
 
 down.
-
-
 
 At the same moment, however, he saw something else, which interested
 
@@ -10473,8 +8717,6 @@ carried a gun under his arm. There came back into his memory at once
 
 the name Long Adam, the poacher.
 
-
-
 With a rapid sense of strategy he sometimes showed, Fisher sprang
 
 from the bank and raced round the lake to the head of the little
@@ -10495,8 +8737,6 @@ hair. The look in his eyes might well have been disquieting to
 
 anyone left alone with him on an island in the middle of a lake.
 
-
-
 "Good morning," said Horne Fisher, pleasantly.  "I thought at first
 
 you were a murderer. But it seems unlikely, somehow, that the
@@ -10504,8 +8744,6 @@ you were a murderer. But it seems unlikely, somehow, that the
 partridge rushed between us and died for love of me, like the
 
 heroines in the romances; so I suppose you are a poacher."
-
-
 
 "I suppose you would call me a poacher," answered the man; and his
 
@@ -10521,8 +8759,6 @@ aware that people of your sort take me for a thief, and I suppose
 
 you will try to land me in jail."
 
-
-
 "There are preliminary difficulties," replied Fisher.  "To begin
 
 with, the mistake is flattering, but I am not a gamekeeper. Still
@@ -10533,11 +8769,7 @@ fighting weight. But I confess I have another reason for not wanting
 
 to jail you."
 
-
-
 "And what is that?" asked the other.
-
-
 
 "Only that I quite agree with you," answered Fisher.  "I don't
 
@@ -10557,11 +8789,7 @@ respect. You ought to have land of your own; and I'm going to give
 
 you some if I can."
 
-
-
 "Going to give me some land!" repeated Long Adam.
-
-
 
 "I apologize for addressing you as if you were a public meeting,"
 
@@ -10583,25 +8811,17 @@ little place of his own. I don't say you could keep pheasants, but
 
 you might keep chickens."
 
-
-
 The man stiffened suddenly and he seemed at once to blanch and flame
 
 at the promise as if it were a threat.
 
-
-
 "Chickens!" he repeated, with a passion of contempt.
-
-
 
 "Why do you object?" asked the placid candidate. "Because keeping
 
 hens is rather a mild amusement for a poacher? What about poaching
 
 eggs?"
-
-
 
 "Because I am not a poacher," cried Adam, in a rending voice that
 
@@ -10621,21 +8841,15 @@ cutting it up like a cake, if I ever hear a word more of you and
 
 your leveling lies--"
 
-
-
 "You seem to be a rather turbulent public," observed Horne Fisher,
 
 "but do go on. What will happen if I try to divide this estate
 
 decently among decent people?"
 
-
-
 The poacher had recovered a grim composure as he replied. "There
 
 will be no partridge to rush in between."
-
-
 
 With that he turned his back, evidently resolved to say no more, and
 
@@ -10689,8 +8903,6 @@ looks like a prison. (5) Squire Hawker was not poor when he gave up
 
 the estate. (6) Verner was poor when he got the estate."
 
-
-
 He gazed at these notes with a gravity which gradually turned to a
 
 hard smile, threw away his cigarette, and resumed his search for a
@@ -10705,8 +8917,6 @@ not a private house, but a sort of public building sent into exile
 
 in the provinces.
 
-
-
 He first found himself in the presence of the butler, who really
 
 looked much older than the building, for the architecture was dated
@@ -10719,21 +8929,13 @@ eyes were alive and alert, as if with protest. Fisher glanced at
 
 him, and then stopped and said:
 
-
-
 "Excuse me. Weren't you with the late squire, Mr. Hawker?"
-
-
 
 'Yes, sir, said the man, gravely.  "Usher is my name. What can I do
 
 for you?"
 
-
-
 "Only take me into Sir Francis Verner," replied the visitor.
-
-
 
 Sir Francis Verner was sitting in an easy chair beside a small table
 
@@ -10749,11 +8951,7 @@ his fair mustache and the lie of his flat hair--it suddenly revealed
 
 that his name was Franz Werner.
 
-
-
 "You are Mr. Horne Fisher," he said.  "Won't you sit down?"
-
-
 
 "No, thank you," replied Fisher.  "I fear this is not a friendly
 
@@ -10761,15 +8959,11 @@ occasion, and I shall remain standing. Possibly you know that I am
 
 already standing--standing for Parliament, in fact--"
 
-
-
 "I am aware we are political opponents," replied Verner, raising his
 
 eyebrows. "But I think it would be better if we fought in a sporting
 
 spirit; in a spirit of English fair play."
-
-
 
 "Much better," assented Fisher.  "It would be much better if you
 
@@ -10785,11 +8979,7 @@ you. So whatever the law would say, I will say no more if you will
 
 retire from the election at once."
 
-
-
 "You are evidently a lunatic," said Verner.
-
-
 
 "My psychology may be a little abnormal," replied Horne Fisher, in a
 
@@ -10801,11 +8991,7 @@ way, as if it had happened before. Have you ever had that mystical
 
 feeling that things have happened before?"
 
-
-
 "I hope you are a harmless lunatic," said Verner.
-
-
 
 But Fisher was still staring in an absent fashion at the golden
 
@@ -10823,8 +9009,6 @@ stood where I stand." He paused a moment and then added, with
 
 simplicity, "I suppose I am a blackmailer, too."
 
-
-
 "If you are," said Sir Francis, "I promise you you shall go to
 
 jail." But his face had a shade on it that looked like the
@@ -10832,8 +9016,6 @@ jail." But his face had a shade on it that looked like the
 reflection of the green wine gleaming on the table. Horne Fisher
 
 regarded him steadily and answered, quietly enough:
-
-
 
 "Blackmailers do not always go to jail. Sometimes they go to
 
@@ -10845,23 +9027,15 @@ were in bargaining with crime. You made a squire give up his country
 
 seat. I only ask you to give up your Parliamentary seat."
 
-
-
 Sir Francis Verner sprang to his feet and looked about for one of
 
 the bell ropes of the old-fashioned, curtained room.
 
-
-
 "Where is Usher?" he cried, with a livid face.
-
-
 
 "And who is Usher?" said Fisher, softly.  "I wonder how much Usher
 
 knows of the truth."
-
-
 
 Verner's hand fell from the bell rope and, after standing for a
 
@@ -10872,8 +9046,6 @@ went but by the other door, by which he had entered, and, seeing no
 sign of Usher, let himself out and betook himself again toward the
 
 town.
-
-
 
 That night he put an electric torch in his pocket and set out alone
 
@@ -10912,8 +9084,6 @@ surprised to come to his desert island so soon. But he knew it for a
 place of inhuman silence and solitude; and he felt as if he had been
 
 walking for years.
-
-
 
 Nerving himself to a more normal mood, he paused under one of the
 
@@ -10957,8 +9127,6 @@ had made a stampede toward him, and when they laid their hands on
 
 him he knew that they were men.
 
-
-
 With the electric torch in his hand he struck the foremost of them
 
 so furiously in the face that the man stumbled and rolled over on
@@ -10976,8 +9144,6 @@ struggling, toward the doorway. Even in the bewilderment of the
 battle he was conscious that the door was standing open. Somebody
 
 was summoning the roughs from inside.
-
-
 
 The moment they were within they hurled him upon a sort of bench or
 
@@ -11017,8 +9183,6 @@ they were in too much haste to realize that they had left one of
 
 their company behind.
 
-
-
 The man sprang to his feet again and hammered and kicked furiously
 
 at the door. Fisher's sense of humor began to recover from the
@@ -11028,8 +9192,6 @@ struggle and he sat up on his sofa with something of his native
 nonchalance. But as he listened to the captive captor beating on the
 
 door of the prison, a new and curious reflection came to him.
-
-
 
 The natural course for a man thus wishing to attract his friends'
 
@@ -11057,8 +9219,6 @@ if the shape he could not trace in the darkness were some shape that
 
 should not see the sun.
 
-
-
 Then he had a flash of sanity and also of insight. The explanation
 
 was very simple, but rather interesting. Obviously the man did not
@@ -11073,8 +9233,6 @@ other of the four or five men with whom Fisher had already talked in
 
 these parts, and in the development of that strange story.
 
-
-
 "Now I wonder who you are," he said, aloud, with all his old lazy
 
 urbanity. "I suppose it's no use trying to throttle you in order to
@@ -11087,15 +9245,11 @@ my torch, so I can only speculate. Who could you be, now? Let us
 
 think."
 
-
-
 The man thus genially addressed had desisted from drumming on the
 
 door and retreated sullenly into a corner as Fisher continued to
 
 address him in a flowing monologue.
-
-
 
 "Probably you are the poacher who says he isn't a poacher. He says
 
@@ -11113,15 +9267,11 @@ criminal. And in that, you know, you are rather like somebody else.
 
 And, now I think of it, perhaps you are somebody else."
 
-
-
 There was a silence broken by breathing from the corner and the
 
 murmur of the rising storm, that came in through the small grating
 
 above the man's head. Horne Fisher continued:
-
-
 
 "Are you only a servant, perhaps, that rather sinister old servant
 
@@ -11138,8 +9288,6 @@ least patriotic. Doesn't England mean anything to you, Mr. Usher?
 All of which eloquence is possibly wasted, as perhaps you are not
 
 Mr. Usher.
-
-
 
 "More likely you are Verner himself; and it's no good wasting
 
@@ -11167,8 +9315,6 @@ the servant, is it the . . . No, I can't believe it . . . not the
 
 red blood of manhood and liberty . . . not the democratic ideal . . ."
 
-
-
 He sprang up in excitement, and at the same moment a growl of
 
 thunder came through the grating beyond. The storm had broken, and
@@ -11177,27 +9323,19 @@ with it a new light broke on his mind. There was something else that
 
 might happen in a moment.
 
-
-
 "Do you know what that means?" he cried.  "It means that God himself
 
 may hold a candle to show me your infernal face."
 
-
-
 Then next moment came a crash of thunder; but before the thunder a
 
 white light had filled the whole room for a single split second.
-
-
 
 Fisher had seen two things in front of him. One was the
 
 black-and-white pattern of the iron grating against the sky; the
 
 other was the face in the corner. It was the face of his brother.
-
-
 
 Nothing came from Horne Fisher's lips except a Christian name, which
 
@@ -11207,15 +9345,11 @@ other figure stirred and sprang up, and the voice of Harry Fisher
 
 was heard for the first time in that horrible room.
 
-
-
 "You've seen me, I suppose," he said, "and we may as well have a
 
 light now. You could have turned it on at any time, if you'd found
 
 the switch."
-
-
 
 He pressed a button in the wall and all the details of that room
 
@@ -11239,15 +9373,9 @@ caught a strip of faded tapestry, which startled him into speech, to
 
 the momentary oblivion of bigger matters.
 
-
-
 "This place was furnished from the great house," he said.
 
-
-
 "Yes," replied the other, "and I think you know why."
-
-
 
 "I think I do," said Horne Fisher, "and before I go on to more
 
@@ -11269,21 +9397,13 @@ something more difficult. And that is for you to explain what the
 
 devil you are doing kidnaping your born brother."
 
-
-
 After a pause Henry Fisher answered:
-
-
 
 "I suppose you didn't expect to see me," he said.  "But, after all,
 
 what could you expect?"'
 
-
-
 "I'm afraid I don't follow," said Horne Fisher.
-
-
 
 "I mean what else could you expect, after making such a muck of it?"
 
@@ -11293,8 +9413,6 @@ could we know you were going to be--well, really, such a rotten
 
 failure?"
 
-
-
 "This is rather curious," said the candidate, frowning.  "Without
 
 vanity, I was not under the impression that my candidature was a
@@ -11303,19 +9421,13 @@ failure. All the big meetings were successful and crowds of people
 
 have promised me votes."
 
-
-
 "I should jolly well think they had," said' Henry, grimly. "You've
 
 made a landslide with your confounded acres and a cow, and Verner
 
 can hardly get a vote anywhere. Oh, it's too rotten for anything!"
 
-
-
 "What on earth do you mean?"
-
-
 
 "Why, you lunatic," cried Henry, in tones of ringing sincerity, "you
 
@@ -11331,21 +9443,15 @@ the Reform vote because accidents might happen after Hughes had made
 
 a score at Barkington."
 
-
-
 "I see," said Fisher, "and you, I think, are a pillar and ornament
 
 of the Reform party. As you say, I am not clever."
-
-
 
 The appeal to party loyalty fell on deaf ears; for the pillar of
 
 Reform was brooding on other things. At last he said, in a more
 
 troubled voice:
-
-
 
 "I didn't want you to catch me; I knew it would be a shock. But I
 
@@ -11359,13 +9465,9 @@ in his voice as he added, "I got those cigars because I knew you
 
 liked them."
 
-
-
 Emotions are queer things, and the idiocy of this concession
 
 suddenly softened Horne Fisher like an unfathomable pathos.
-
-
 
 "Never mind, old chap," he said; "we'll say no more about it. I'll
 
@@ -11377,8 +9479,6 @@ There, I can't say handsomer than that. Thank you for the cigars,
 
 old man. I'll have one if you don't mind."
 
-
-
 By the time that Horne Fisher had ended his telling of this story to
 
 Harold March they had come out into one of the public parks and
@@ -11388,8 +9488,6 @@ taken a seat on a rise of ground overlooking wide green spaces under
 a blue and empty sky; and there was something incongruous in the
 
 words with which the narration ended.
-
-
 
 "I have been in that room ever since," said Horne Fisher.  "I am in
 
@@ -11405,15 +9503,7 @@ outside. I shall probably die there." And he smiled as he looked
 
 across the vast green park to the gray horizon.
 
-
-
-
-
-
-
 VIII. THE VENGEANCE OF THE STATUE
-
-
 
 It was on the sunny veranda of a seaside hotel, overlooking a
 
@@ -11422,8 +9512,6 @@ pattern of flower beds and a strip of blue sea, that Horne Fisher
 and Harold March had their final explanation, which might be called
 
 an explosion.
-
-
 
 Harold March had come to the little table and sat down at it with a
 
@@ -11465,8 +9553,6 @@ interest for March himself, seemed to fill his meeting with his
 
 friend with a mixture of embarrassment and indignation.
 
-
-
 Perhaps it increased his annoyance that there was a certain unusual
 
 liveliness about the usually languid figure of Fisher. The ordinary
@@ -11495,8 +9581,6 @@ over England, the pessimist seemed to be the only man who carried
 
 his own sunshine.
 
-
-
 "Look here," said Harold March, abruptly, "you've been no end of a
 
 friend to me, and I never was so proud of a friendship before; but
@@ -11507,13 +9591,9 @@ less I understood how you could stand it. And I tell you I'm going
 
 to stand it no longer."
 
-
-
 Horne Fisher gazed across at him gravely and attentively, but rather
 
 as if he were a long way off.
-
-
 
 "You know I always liked you," said Fisher, quietly, "but I also
 
@@ -11527,8 +9607,6 @@ I promise you this: that I will never try to keep you as somebody to
 
 be liked, at the price of your not being respected."
 
-
-
 "I know you are magnanimous," said March after a silence, "and yet
 
 you tolerate and perpetuate everything that is mean." Then after
@@ -11541,11 +9619,7 @@ you remember you said that, after all, it might do no harm if I
 
 could blow the whole tangle of this society to hell with dynamite."
 
-
-
 "Yes, and what of that?" asked Fisher.
-
-
 
 "Only that I'm going to blow it to hell with dynamite," said Harold
 
@@ -11563,13 +9637,9 @@ been put in charge of a big independent paper, with a free hand, and
 
 we're going to open a cannonade on corruption."
 
-
-
 "That will be--Attwood, I suppose," said Fisher, reflectively.
 
 "Timber merchant. Knows a lot about China."
-
-
 
 "He knows a lot about England," said March, doggedly, "and now I
 
@@ -11597,13 +9667,9 @@ complains of the exposure being personal. The engine driver is not a
 
 person."
 
-
-
 "I quite agree with you," said Fisher, calmly.  "You are perfectly
 
 right."
-
-
 
 "If you agree with us, why the devil don't you act with us?"
 
@@ -11612,8 +9678,6 @@ demanded his friend. "If you think it's right, why don't you do
 what's right? It's awful to think of a man of your abilities simply
 
 blocking the road to reform."
-
-
 
 "We have often talked about that," replied Fisher, with the same
 
@@ -11631,23 +9695,15 @@ sir. I am enjoying an emotion that is entirely new to me; a happy
 
 sensation I never remember having had before."
 
-
-
 "What the devil do you mean?"
 
-
-
 "I am feeling proud of my family," said Horne Fisher.
-
-
 
 Harold March stared at him with round blue eyes, and seemed too much
 
 mystified even to ask a question. Fisher leaned back in his chair in
 
 his lazy fashion, and smiled as he continued.
-
-
 
 "Look here, my dear fellow. Let me ask a question in turn. You
 
@@ -11667,11 +9723,7 @@ And therefore, as I have the honor to remark, I am proud of my
 
 family at last."
 
-
-
 "But why?" repeated March, rather feebly.
-
-
 
 "I am proud of the Chancellor because he gambled and the Foreign
 
@@ -11689,8 +9741,6 @@ and refusing to smash their country to save themselves. I salute
 
 them as if they were going to die on the battlefield."
 
-
-
 After a pause he continued:  "And it will be a battlefield, too, and
 
 not a metaphorical one. We have yielded to foreign financiers so
@@ -11701,11 +9751,7 @@ people, are beginning to suspect that they are being ruined. That is
 
 the meaning of the regrettable incidents in the newspapers."
 
-
-
 "The meaning of the outrages on Orientals?" asked March.
-
-
 
 "The meaning of the outrages on Orientals," replied Fisher, "is that
 
@@ -11757,19 +9803,13 @@ pedestal words like those of the noblest ruffian of the Revolution:
 
 'Que mon nom soit fletri; que la France soit libre.'"
 
-
-
 "Good God!" cried March, "shall we never get to the bottom of your
 
 mines and countermines?"
 
-
-
 After a silence Fisher answered in a lower voice, looking his friend
 
 in the eyes.
-
-
 
 "Did you think there was nothing but evil at the bottom of them?" he
 
@@ -11797,8 +9837,6 @@ to be. God alone knows what the conscience can survive, or how a man
 
 who has lost his honor will still try to save his soul."
 
-
-
 There was another silence, and March sat staring at the table and
 
 Fisher at the sea. Then Fisher suddenly sprang to his feet and
@@ -11806,8 +9844,6 @@ Fisher at the sea. Then Fisher suddenly sprang to his feet and
 caught up his hat and stick with all his new alertness and even
 
 pugnacity.
-
-
 
 "Look here, old fellow," he cried, "let us make a bargain. Before
 
@@ -11828,8 +9864,6 @@ we're really doing and what there is to be done, and do us justice.
 And after that, with unalterable love and affection for you, publish
 
 and be damned."
-
-
 
 Thus it came about that in the last week before war, when events
 
@@ -11860,8 +9894,6 @@ This detail fixed itself first in March's mind merely because it
 figured in the first conversation he had with one of the cabinet
 
 ministers.
-
-
 
 The cabinet ministers were rather older than he had expected to find
 
@@ -11919,8 +9951,6 @@ rather haggard eyes. For the Foreign Secretary made no secret of his
 
 somewhat nervous condition, whatever might be the cause of it.
 
-
-
 "Do you know that mood when one could scream because a mat is
 
 crooked?" he said to March, as they walked up and down in the back
@@ -11943,8 +9973,6 @@ done with it. See, it's clamped with an iron prop. Don't be
 
 surprised if I get up in the middle of the night to hike it down."
 
-
-
 They paced the path for a few moments in silence and then he
 
 continued. "It's odd those little things seem specially big when
@@ -11952,8 +9980,6 @@ continued. "It's odd those little things seem specially big when
 there are bigger things to worry about. We'd better go in and do
 
 some work."
-
-
 
 Horne Fisher evidently allowed for all the neurotic possibilities of
 
@@ -12007,8 +10033,6 @@ features. He was probably the one really efficient person in the
 
 house.
 
-
-
 After about four days of the informal council, March had come to
 
 feel a sort of grotesque sublimity about these dubious figures,
@@ -12025,17 +10049,11 @@ travel. He fancied that Fisher looked a little pale; and after a
 
 moment that gentleman shut the door behind him and said, quietly:
 
-
-
 "Well, the worst has happened. Or nearly the worst."
-
-
 
 "The enemy has landed," cried March, and sprang erect out of his
 
 chair.
-
-
 
 "Oh, I knew the enemy would land," said Fisher, with composure.
 
@@ -12051,13 +10069,9 @@ finding three honest men in politics. I ought not to be full of
 
 astonishment if I find only two."
 
-
-
 He ruminated a moment and then said, in such a fashion that March
 
 could hardly tell if he were changing the subject or no:
-
-
 
 "It's hard at first to believe that a fellow like Herries, who had
 
@@ -12073,11 +10087,7 @@ will swindle or seduce who will not sell his country. But who
 
 knows?"
 
-
-
 "But what is to be done?" cried March, indignantly.
-
-
 
 "My uncle has the papers safe enough," replied Fisher, "and is
 
@@ -12096,8 +10106,6 @@ find out what you can. Au revoir." He vanished down the stairs; and
 from the window March could see him mount a motor cycle and trail
 
 away toward the neighboring town.
-
-
 
 On the following morning, March was sitting in the window seat of
 
@@ -12125,31 +10133,21 @@ was like that of some horrible malady. As March moved he started
 
 violently and faced round.
 
-
-
 "My God!" he cried, "have you seen what's outside?"
-
-
 
 "Outside?" repeated the other, glancing over his shoulder at the
 
 garden.
 
-
-
 "Oh, go and look for yourself," cried Herries in a sort of fury.
 
 "Hewitt's murdered and his papers stolen, that's all."
-
-
 
 He turned his back again and sat down with a thud; his square
 
 shoulders were shaking. Harold March darted out of the doorway into
 
 the back garden with its steep slope of statues.
-
-
 
 The first thing he saw was Doctor Prince, the detective, peering
 
@@ -12158,8 +10156,6 @@ through his spectacles at something on the ground; the second was
 the thing he was peering at. Even after the sensational news he had
 
 heard inside, the sight was something of a sensation.
-
-
 
 The monstrous stone image of Britannia was lying prone and face
 
@@ -12175,13 +10171,9 @@ unfortunate uncle. There were pools of blood and the limbs were
 
 quite stiff in death.
 
-
-
 "Couldn't this have been an accident?" said March, finding words at
 
 last.
-
-
 
 "Look for yourself, I say," repeated the harsh voice of Herries, who
 
@@ -12192,8 +10184,6 @@ papers are gone, I tell you. The fellow tore the coat off the corpse
 and cut the papers out of the inner pocket. There's the coat over
 
 there on the bank, with the great slash in it."
-
-
 
 "But wait a minute," said the detective, Prince, quietly. "In that
 
@@ -12221,13 +10211,9 @@ than the conjurer's trick, when a man shuffles a coat off with his
 
 wrists tied."
 
-
-
 "Could he have thrown down the statue after he'd stripped the
 
 corpse?" asked March.
-
-
 
 "And why?" asked Prince, sharply.  "If he'd killed his man and got
 
@@ -12237,8 +10223,6 @@ a garden excavating the pedestals of statues. Besides--Hullo, who's
 
 that up there?"
 
-
-
 High on the ridge above them, drawn in dark thin lines against the
 
 sky, was a figure looking so long and lean as to be almost spidery.
@@ -12246,8 +10230,6 @@ sky, was a figure looking so long and lean as to be almost spidery.
 The dark silhouette of the head showed two small tufts like horns;
 
 and they could almost have sworn that the horns moved.
-
-
 
 "Archer!" shouted Herries, with sudden passion, and called to him
 
@@ -12273,39 +10255,27 @@ fashion, and look down on the wreck he had made. But the wreck he
 
 had made here was not only a wreck of stone.
 
-
-
 When the man emerged at last on to the garden path, with the full
 
 light on his face and figure, he was walking slowly indeed, but
 
 easily, and with no appearance of fear.
 
-
-
 "This is a terrible thing," he said.  "I saw it from above; I was
 
 taking a stroll along the ridge."
-
-
 
 "Do you mean that you saw the murder?" demanded March, "or the
 
 accident? I mean did you see the statue fall?"
 
-
-
 "No," said Archer, "I mean I saw the statue fallen."
-
-
 
 Prince seemed to be paying but little attention; his eye was riveted
 
 on an object lying on the path a yard or two from the corpse. It
 
 seemed to be a rusty iron bar bent crooked at one end.
-
-
 
 "One thing I don't understand," he said, "is all this blood. The
 
@@ -12319,8 +10289,6 @@ instance; but I don't see that even that is sharp enough. I suppose
 
 nobody knows what it is."
 
-
-
 "I know what it is," said Archer in his deep but somewhat shaky
 
 voice. "I've seen it in my nightmares. It was the iron clamp or prop
@@ -12333,13 +10301,9 @@ stonework there; and I suppose it came out when the thing
 
 collapsed."
 
-
-
 Doctor Prince nodded, but he continued to look down at the pools of
 
 blood and the bar of iron.
-
-
 
 "I'm certain there's something more underneath all this," he said at
 
@@ -12348,8 +10312,6 @@ last. "Perhaps something more underneath the statue. I have a huge
 sort of hunch that there is. We are four men now and between us we
 
 can lift that great tombstone there."
-
-
 
 They all bent their strength to the business; there was a silence
 
@@ -12381,8 +10343,6 @@ sword, but with a curious wavy edge; and there was a touch or two of
 
 blood on the point.
 
-
-
 "I should have expected more blood, hardly on the point," observed
 
 Doctor Prince, thoughtfully, "but this is certainly the instrument.
@@ -12392,8 +10352,6 @@ The slash was certainly made with a weapon shaped like this, and
 probably the slashing of the pocket as well. I suppose the brute
 
 threw in the statue, by way of giving him a public funeral."
-
-
 
 March did not answer; he was mesmerized by the strange stones that
 
@@ -12407,19 +10365,13 @@ curious Asiatic weapons. Lord James spoke his secret thought for
 
 him, and yet it startled him like an irrelevance.
 
-
-
 "Where is the Prime Minister?"  Herries had cried, suddenly, and
 
 somehow like the bark of a dog at some discovery.
 
-
-
 Doctor Prince turned on him his goggles and his grim face; and it
 
 was grimmer than ever.
-
-
 
 "I cannot find him anywhere," he said.  "I looked for him at once,
 
@@ -12427,21 +10379,15 @@ as soon as I found the papers were gone. That servant of yours,
 
 Campbell, made a most efficient search, but there are no traces."
 
-
-
 There was a long silence, at the end of which Herries uttered
 
 another cry, but upon an entirely new note.
-
-
 
 "Well, you needn't look for him any longer," he said, "for here he
 
 comes, along with your friend Fisher. They look as if they'd been
 
 for a little walking tour."
-
-
 
 The two figures approaching up the path were indeed those of Fisher,
 
@@ -12481,8 +10427,6 @@ blandly sauntered away toward a comfortable armchair in another part
 
 of the garden, Horne Fisher spoke directly to Harold March.
 
-
-
 "My friend," he said, "I want you to come with me at once; there is
 
 no one else I can trust so much as that. The journey will take us
@@ -12492,8 +10436,6 @@ most of the day, and the chief business cannot be done till
 nightfall. So we can talk things over thoroughly on the way. But I
 
 want you to be with me; for I rather think it is my hour."
-
-
 
 March and Fisher both had motor bicycles; and the first half of
 
@@ -12514,8 +10456,6 @@ wood behind, and the sun shone full on their ale bench and table;
 but the face of Fisher in the strong sunlight had a gravity never
 
 seen on it before.
-
-
 
 "Before we go any farther," he said, "there is something you ought
 
@@ -12539,8 +10479,6 @@ outside, but in this case I was inside. I myself was the very core
 
 and center of everything."
 
-
-
 Something in the speaker's pendent eyelids and grave gray eyes
 
 suddenly shook March to his foundations; and he cried, distractedly,
@@ -12551,17 +10489,11 @@ understand. There was no sound for a space but the happy chatter of
 
 the birds, and then Horne Fisher said, calmly:
 
-
-
 "It was I who killed my uncle. If you particularly want more, it
 
 was I who stole the state papers from him."
 
-
-
 "Fisher!" cried his friend in a strangled voice.
-
-
 
 "Let me tell you the whole thing before we part," continued the
 
@@ -12585,13 +10517,9 @@ first question easily. Horne Hewitt took off his own coat before he
 
 was killed. I might say he took off his coat to be killed."
 
-
-
 "Do you call that an explanation?" exclaimed March.  "The words seem
 
 more meaningless, than the facts."
-
-
 
 "Well, let us go on to the other facts," continued Fisher, equably.
 
@@ -12599,13 +10527,9 @@ more meaningless, than the facts."
 
 Hewitt's blood is that it was not used to kill Hewitt."
 
-
-
 "But the doctor," protested March, "declared distinctly that the
 
 wound was made by that particular sword."
-
-
 
 "I beg your pardon," replied Fisher.  "He did not declare that it
 
@@ -12613,13 +10537,9 @@ was made by that particular sword. He declared it was made by a
 
 sword of that particular pattern."
 
-
-
 "But it was quite a queer and exceptional pattern," argued March;
 
 "surely it is far too fantastic a coincidence to imagine--"
-
-
 
 "It was a fantastic coincidence," reflected Horne Fisher. "It's
 
@@ -12641,13 +10561,9 @@ himself. It may assist your speculations to recall the fact that I
 
 am not exactly an assassin."
 
-
-
 "A duel!" exclaimed March, recovering himself.  "Of course I ought
 
 to have thought of that. But who was the spy who stole the papers?"
-
-
 
 "My uncle was the spy who stole the papers," replied Fisher, "or who
 
@@ -12743,8 +10659,6 @@ at the statue and the body; and I think the thing I fled from was
 
 the sight of that appalling allegory.
 
-
-
 "Then I did the rest of what I had to do. All through the night and
 
 into the daybreak and the daylight I went humming through the
@@ -12787,8 +10701,6 @@ save Ireland,' and we could all have sung that just then, in one
 
 sense or another.
 
-
-
 "But there was another side to my mission. I carried the plans of
 
 the defense; and to a great extent, luckily, the plans of the
@@ -12808,8 +10720,6 @@ exactly where it was. They could hardly tell that unless somebody
 round about here sent up some sort of signal. But, somehow, I rather
 
 fancy that somebody will."
-
-
 
 With that he got up from the table, and they remounted their
 
@@ -12831,13 +10741,9 @@ tint that seemed ominous and dark. Here Horne Fisher dismounted once
 
 more.
 
-
-
 "We must walk the rest of the way," he said, "and the last bit of
 
 all I must walk alone."
-
-
 
 He bent down and began to unstrap something from his bicycle. It was
 
@@ -12861,19 +10767,13 @@ will only spoil the show; one man can barely crawl safely to the
 
 spot, and two would certainly be caught."
 
-
-
 "I would follow you anywhere," replied March, "but I would halt,
 
 too, if that is better."
 
-
-
 "I know you would," said his friend in a low voice. "Perhaps you're
 
 the only man I ever quite trusted in this world."
-
-
 
 A few paces farther on they came to the end of a great ridge or
 
@@ -12907,8 +10807,6 @@ knew he was looking at the apocalyptic meteor of something like a
 
 Day of judgment.
 
-
-
 Far up in the infinite heavens the rocket drooped and sprang into
 
 scarlet stars. For a moment the whole landscape out to the sea and
@@ -12921,13 +10819,9 @@ steeped in wine rather than blood, or the earth were an earthly
 
 paradise, over which paused forever the sanguine moment of morning.
 
-
-
 "God save England!" cried Fisher, with a tongue like the peal of a
 
 trumpet. "And now it is for God to save."
-
-
 
 As darkness sank again over land and sea, there came another sound;
 
@@ -12947,8 +10841,6 @@ and chaotic light. The artillery of the West country and the Irish
 
 had located the great enemy battery, and were pounding it to pieces.
 
-
-
 In the mad excitement of that moment March peered through the storm,
 
 looking again for the long lean figure that stood beside the stand
@@ -12956,8 +10848,6 @@ looking again for the long lean figure that stood beside the stand
 of the rocket. Then another flash lit up the whole ridge. The figure
 
 was not there.
-
-
 
 Before the fires of the rocket had faded from the sky, long before
 
@@ -12971,29 +10861,9 @@ the ridge, as stiff as the stick of the fallen rocket; and the man
 
 who knew too much knew what is worth knowing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 End of Project Gutenberg's The Man Who Knew Too Much, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE MAN WHO KNEW TOO MUCH ***
-
-
 
 ***** This file should be named 1720.txt or 1720.zip *****
 
@@ -13001,19 +10871,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/7/2/1720/
 
-
-
 Scanned by Georges Allaire <gall@globetrotter.net>
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.
 
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -13047,21 +10911,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -13075,15 +10929,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -13105,8 +10953,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -13124,8 +10970,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -13157,8 +11001,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -13177,11 +11019,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -13195,8 +11033,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -13204,8 +11040,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -13227,8 +11061,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -13241,15 +11073,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -13260,8 +11088,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -13285,23 +11111,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -13327,8 +11147,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -13343,8 +11161,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -13353,13 +11169,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -13373,11 +11185,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -13398,8 +11206,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -13427,8 +11233,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -13453,8 +11257,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -13462,8 +11264,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -13478,8 +11278,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -13501,13 +11299,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -13518,8 +11310,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -13539,15 +11329,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -13565,8 +11349,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -13581,8 +11363,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -13591,13 +11371,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -13612,8 +11388,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -13631,8 +11405,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -13641,15 +11413,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -13659,15 +11427,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -13677,8 +11439,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -13687,15 +11447,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -13704,9 +11458,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-
-
-===== FINE FILE: manwho.txt =====

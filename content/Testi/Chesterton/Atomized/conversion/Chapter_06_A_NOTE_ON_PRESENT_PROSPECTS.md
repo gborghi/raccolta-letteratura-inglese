@@ -128,8 +128,3 @@ that rests on nothing but natural passion; it is bound to change
 in its proportion with the coming of experience; and, at the worst,
 it will become a battle between bad Catholics and good Catholics,
 with the great dome over all.
-
-
-
-
-===== FINE FILE: conversion.txt =====

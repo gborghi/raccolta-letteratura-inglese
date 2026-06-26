@@ -18,7 +18,6 @@ VIII
 
 THE SEQUEL TO ST.  THOMAS
 
-
 It is often said that St. Thomas, unlike St. Francis, did not permit
 in his work the indescribable element of poetry.  As, for instance,
 that there is little reference to any pleasure in the actual flowers
@@ -465,8 +464,3 @@ not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,
 which is now daily dedicated to the philosophia perennis;
 to the Everlasting Philosophy.
-
-
-
-
-===== FINE FILE: aquinas.txt =====

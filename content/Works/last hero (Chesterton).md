@@ -87,8 +87,4 @@ You never laughed in all your life as I shall laugh in death.
 (Written in 1901)  
 
 Note: this poem has been set to music by Michael Longcor.  
-_________________________________________________________________  
-
-
-
-===== FINE FILE: last_hero.txt =====  
+_________________________________________________________________

@@ -76,10 +76,3 @@ nothing in return to establish against it; to have nothing to set
 up under the overhanging, overwhelming arches of such a temple
 of time and eternity, but this brief candle burnt out so quickly
 before his shrine.
-
-
-
-
-
-
-===== FINE FILE: St_Francis.txt =====

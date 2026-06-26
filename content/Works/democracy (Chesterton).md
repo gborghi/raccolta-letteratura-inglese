@@ -149,6 +149,3 @@ who appear to like the environment.
 -- from All I Survey. The original essay appeared as a column
 in the Illustrated London News, July 16th 1932.
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: democracy.txt =====

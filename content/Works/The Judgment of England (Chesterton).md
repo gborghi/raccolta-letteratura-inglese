@@ -43,8 +43,4 @@ While sinks the commerce reared upon that crime,
 The thriftless towns litter with lives undone,  
 To whom our madness left no joy but one;  
 And irony that glares like Judgment Day  
-Sees Men accumulate and Wealth decay.  
-
-
-
-===== FINE FILE: The_Judgment_of_England.txt =====  
+Sees Men accumulate and Wealth decay.

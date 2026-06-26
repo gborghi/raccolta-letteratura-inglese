@@ -179,8 +179,3 @@ that it should be occasionally discussed at least as intelligently
 as it is played.
 
 (An essay reprinted in "The Thing")
-
-
-
-
-===== FINE FILE: logic.txt =====

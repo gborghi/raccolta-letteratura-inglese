@@ -38,9 +38,7 @@ He called for his pipe
 and he called for his bowl  
 and he called for his fiddlers three  
 
-
 after Lord Tennyson  
-
 
 Cole, that unwearied prince of Colchester,  
 Growing more gay with age and with long days  
@@ -58,9 +56,7 @@ And these three played, and playing grew more fain
 Of mirth and music; till the heathen came  
 And the King slept beside the northern sea.  
 
-
 after W.B. Yeats  
-
 
 Of an old King in a story  
 From the grey sea-folk I have heard  
@@ -82,9 +78,7 @@ Of the world's desire;
 Before our hearts were broken  
 Like sticks in a fire.  
 
-
 after Walt Whitman  
-
 
 Me clairvoyant,  
 Me conscious of you, old camarado,  
@@ -103,9 +97,4 @@ I salute your three violinists, endlessly making vibrations,
 Rigid, relentless, capable of going on for ever;  
 They play my accompaniment; but I shall take no notice of any accompaniment;  
 I myself am a complete orchestra.  
-So long.  
-
-
-
-
-===== FINE FILE: kingcole.txt =====  
+So long.

@@ -122,8 +122,4 @@ Through the Gate of Treason, through the gate within,
 Cometh fear and greed of fame, cometh deadly sin;  
 If a man grow faint, master, take him ere he kneels,  
 Take him, break him, rend him, end him, roll him, crush him  
-   with the wheels.  
-
-
-
-===== FINE FILE: The_Song_of_the_Wheels.txt =====  
+   with the wheels.

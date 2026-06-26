@@ -57,8 +57,4 @@ Nor any curse of mine cut down a flower.
 Men say the sun was darkened: yet I had  
   Thought it beat brightly, even on--Calvary:  
   And He that hung upon the Torturing Tree  
-Heard all the crickets singing, and was glad.  
-
-
-
-===== FINE FILE: prayer.txt =====  
+Heard all the crickets singing, and was glad.

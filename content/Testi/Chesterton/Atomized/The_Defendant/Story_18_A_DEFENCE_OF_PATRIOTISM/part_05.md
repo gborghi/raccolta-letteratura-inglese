@@ -28,7 +28,6 @@ methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
@@ -85,8 +84,3 @@ or filename 24689 would be found at:
 
 An alternative method of locating eBooks:
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-===== FINE FILE: The_Defendant.txt =====

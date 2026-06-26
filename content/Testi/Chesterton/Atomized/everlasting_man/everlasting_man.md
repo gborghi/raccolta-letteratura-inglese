@@ -49,7 +49,6 @@ CONCLUSION:  THE SUMMARY OF THIS BOOK
  Appendix I.  On Prehistoric Man
  Appendix II. On Authority and Accuracy
 
-
 * * *
 
 PREFARATORY NOTE
@@ -489,7 +488,6 @@ and still as new as it is old.
 PART I
 
 On the Creature Called Man
-
 
 * * *
 
@@ -2675,9 +2673,7 @@ till the light of a new day was loosened, with the rushing of the eagles
 and the coming of the name; the name that came like a thunderclap
 when the world woke to Rome.
 
-
 * * *
-
 
 IV
 
@@ -3936,13 +3932,11 @@ And it is not the voice of a priest or a prophet saying 'These
 things are.'  It is the voice of a dreamer and an idealist crying,
 'Why cannot these things be?'
 
-
 * * *
 
 VI
 
 THE DEMONS AND THE PHILOSOPHERS
-
 
 I have dwelt at some little length on this imaginative sort of paganism,
 which has crowded the world with temples and is everywhere the parent of
@@ -4726,7 +4720,6 @@ crooked pattern; he seemed only to be distorting his diagram,
 when he began for the first time in all the ages to trace the lines
 of a form--and of a Face.
 
-
 * * *
 
 VII
@@ -5256,7 +5249,6 @@ remembered without dishonour; and we can see not altogether without
 tenderness the twilight sinking around the Sabine farm and hear
 the household gods rejoice when Catullus comes home to Sirmio.
 Deleta est Carthago.
-
 
 * * *
 
@@ -6428,7 +6420,6 @@ and the mountains resound no more with the feet of the shepherds;
 and only the night and the cavern lie in fold upon fold over something
 more human than humanity.
 
-
 * * *
 
 II
@@ -6899,7 +6890,6 @@ of simplicity, who should expect the grass to wither and the birds
 to drop dead out of the air, when a strolling carpenter's apprentice
 said calmly and almost carelessly, like one looking over his shoulder:
 'Before Abraham was, I am.'
-
 
 * * *
 
@@ -8133,7 +8123,6 @@ to unsay what it had said; I can find no explanation except that,
 like Pallas from the brain of Jove, it had indeed come forth
 out of the mind of God, mature and mighty and armed for judgement
 and for war.
-
 
 * * *
 
@@ -9638,7 +9627,6 @@ It is the duty of a solitary skull to prove that our fathers were
 our inferiors.  Any solitary skull presuming to prove that they
 were superior is felt to be suffering from swelled head.
 
-
 * * *
 
 APPENDIX II
@@ -9679,8 +9667,3 @@ speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
 plainer than the tracks of the desert; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.
-
-
-
-
-===== FINE FILE: everlasting_man.txt =====

@@ -41,7 +41,6 @@ tags:
 - [Story 05 Chapter 5](/Testi/Chesterton/Atomized/queertrades/Story_05_Chapter_5)
 - [Story 06 Chapter 6](/Testi/Chesterton/Atomized/queertrades/Story_06_Chapter_6)
 
-
 ## Testo integrale / Full text
 
 The Club of Queer Trades
@@ -1059,11 +1058,9 @@ But, like so many old soldiers, Brown is religious, and believes
 that he will realize the rest of those purple adventures in
 a better world.
 
-
 Chapter 2
 
 The Painful Fall of a Great Reputation
-
 
 Basil Grant and I were talking one day in what is perhaps the most perfect
 place for talking on earth--the top of a tolerably deserted tramcar.
@@ -1793,11 +1790,9 @@ to be in gaol."
 "Not at all," said Basil indulgently; "he ought to be in the Club
 of Queer Trades."
 
-
 Chapter 3
 
 The Awful Reason of the Vicar's Visit
-
 
 The revolt of Matter against Man (which I believe to exist)
 has now been reduced to a singular condition.  It is the small
@@ -2555,11 +2550,9 @@ to satisfy the firm with our work; and we are now permanently vicars.
 Before that we had two years as colonels, the next in our scale.
 Colonels are four guineas."
 
-
 Chapter 4
 
 The Singular Speculation of the House-Agent
-
 
 Lieutenant Drummond Keith was a man about whom conversation
 always burst like a thunderstorm the moment he left the room.
@@ -3494,12 +3487,9 @@ We drank, and as we did so, although the hanging house, by a
 cunning mechanism, swung only slightly, we knew that the great head
 of the elm tree swayed in the sky like a stricken thistle.
 
-
-
 Chapter 5
 
 The Noticeable Conduct of Professor Chadd
-
 
 Basil Grant had comparatively few friends besides myself; yet he was
 the reverse of an unsociable man.  He would talk to any one anywhere,
@@ -4254,11 +4244,9 @@ Will you come in my cab?"
 The conversation between Chadd and Grant appeared to be personal
 and friendly.  They were still dancing when I left.
 
-
 Chapter 6
 
 The Eccentric Seclusion of the Old Lady
-
 
 The conversation of Rupert Grant had two great elements
 of interest--first, the long fantasias of detective deduction
@@ -5284,10 +5272,4 @@ And we heard equally dimly Northover beginning the statement he had
 made long ago to Major Brown.  Thus our epic ended where it had begun,
 like a true cycle.
 
-
 THE END
-
-
-
-
-===== FINE FILE: queertrades.txt =====

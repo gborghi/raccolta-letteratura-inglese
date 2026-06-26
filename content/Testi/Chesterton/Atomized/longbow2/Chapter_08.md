@@ -19,7 +19,6 @@ Chapter VIII
 The Ultimate Ultimatum
 of the League of the Long Bow
 
-
 Mr. Robert Owen Hood came through his library that was lined with brown
 leather volumes with a brown paper parcel in his hand; a flippant person
 (such as his friend Mr. Pierce) might have said he was in a brown study. 
@@ -751,9 +750,7 @@ each one of us his Vita Nuova?"
 
 "No, sir," said Mr. Archer.
 
-
      *     *     *     *     *     *     *     *     *
-
 
 Thus does the chronicler of the League of the Long Bow come to
 the end of his singularly unproductive and unprofitable labours,
@@ -778,6 +775,3 @@ all over the neighbourhood, or expecting to find it still sticking
 in a mortal and murderous manner in the heart of a friend. 
 His is only a toy bow; and when a boy shoots with such a bow,
 it is generally very difficult to find the arrow--or the boy.
-
-
-===== FINE FILE: longbow2.txt =====

@@ -166,10 +166,3 @@ or any trifle of that kind, it uses up specialists.  But when it
 wishes anything done which is really serious, it collects twelve
 of the ordinary men standing round.  The same thing was done,
 if I remember right, by the Founder of Christianity.
-
-
-
-
-
-
-===== FINE FILE: twelve-men.txt =====

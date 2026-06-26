@@ -57,7 +57,6 @@ tags:
 - [Story 08 x](/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_08_x)
 - [Story 09 The Ghost of Gideon Wise](/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_09_The_Ghost_of_Gideon_Wise)
 
-
 ## Testo integrale / Full text
 
 Title:      The Incredulity of Father Brown (1926)
@@ -90,9 +89,6 @@ A Project Gutenberg of Australia eBook
 
 Title:      The Incredulity of Father Brown
 Author:     G. K. Chesterton, (1926)
-
-
-
 
 ONE: The Resurrection of Father Brown
 
@@ -7249,9 +7245,3 @@ how very literary! Home is a sneak and a skunk, but do not forget that,
 like many other sneaks and skunks in history, he is also a poet.'
 
 THE END
-
-
-
-
-
-===== FINE FILE: incredulity_Fr_Brown.txt =====

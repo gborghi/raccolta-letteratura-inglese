@@ -54,7 +54,6 @@ tags:
 - [Story 22 THE RELIGION OF SMALL PROPERTY](/Testi/Chesterton/Atomized/Sanity/Story_22_THE_RELIGION_OF_SMALL_PROPERTY)
 - [Story 23 A SUMMARY](/Testi/Chesterton/Atomized/Sanity/Story_23_A_SUMMARY)
 
-
 ## Testo integrale / Full text
 
 G. K. CHESTERTON
@@ -5765,6 +5764,3 @@ and I wonder when men will be like men.
 = = = = = = = = = = = = = = = =
 
 THE END
-
-
-===== FINE FILE: Sanity.txt =====

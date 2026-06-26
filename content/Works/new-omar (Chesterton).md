@@ -43,8 +43,4 @@ A loaf of bread, a jug of wine and Thou,
 But let the wine be unfermented, Pale,  
   Of chemicals compounded, God knows how--  
 This were indeed the Prophet's Paradise,  
-  O Paradise were Wilderness enow.  
-
-
-
-===== FINE FILE: new-omar.txt =====  
+  O Paradise were Wilderness enow.

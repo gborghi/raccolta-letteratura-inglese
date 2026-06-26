@@ -324,7 +324,3 @@ be defaced with enthusiasm.
 
 [From An Outline of Christianity (London, 1926). Reprinted
 in G.K. Chesterton, The Catholic Church and Conversion (1960).]
-
-
-
-===== FINE FILE: upon-this-rock.txt =====

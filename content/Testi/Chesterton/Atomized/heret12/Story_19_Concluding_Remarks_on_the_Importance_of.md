@@ -16,7 +16,6 @@ tags:
 
 XX.  Concluding Remarks on the Importance of Orthodoxy
 
-
 Whether the human mind can advance or not, is a question too
 little discussed, for nothing can be more dangerous than to found
 our social philosophy on any theory which is debatable but has
@@ -446,8 +445,4 @@ yet have believed.
 
 THE END
 
-
 End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
-
-
-===== FINE FILE: heret12.txt =====

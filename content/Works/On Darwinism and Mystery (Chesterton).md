@@ -156,7 +156,6 @@ admit that they are blind in the dark than be burdened in the dark
 with old-fashioned scientific spectacles, and told by a quack
 that they can see.
 
-
 [Footnote 1:  Edward Clodd (1840-1930) was the author of a number
 of books on primitive religions, myth, comparative religion, folklore,
 and philosophy.  He also wrote several books on science and evolution.]
@@ -164,7 +163,3 @@ and philosophy.  He also wrote several books on science and evolution.]
 [Footnote 2:  Marie Sklodowska Curie (1867-1934) was a Polish
 scientist who won two Nobel prizes, one in 1903 for her discovery
 of radioactivity and one for her discovery of radium and polonium.]
-
-
-
-===== FINE FILE: On_Darwinism_and_Mystery.txt =====

@@ -131,14 +131,3 @@ _____________________
 
 * "The Original Poem of Job."  Translated from the Restored Text
 by E. T. Dillon.  London:  Fisher Unwin, 5s.
-
-
-
-
-
-
-
-
-
-
-===== FINE FILE: The_Speaker.txt =====

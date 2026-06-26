@@ -18,7 +18,6 @@ Chapter 6
 
 The Eccentric Seclusion of the Old Lady
 
-
 The conversation of Rupert Grant had two great elements
 of interest--first, the long fantasias of detective deduction
 in which he was engaged, and, second, his genuine romantic
@@ -1043,10 +1042,4 @@ And we heard equally dimly Northover beginning the statement he had
 made long ago to Major Brown.  Thus our epic ended where it had begun,
 like a true cycle.
 
-
 THE END
-
-
-
-
-===== FINE FILE: queertrades.txt =====

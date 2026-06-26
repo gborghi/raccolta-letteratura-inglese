@@ -50,7 +50,4 @@ THE CONVERT
         And all these things are less than dust to me  
         Because my name is Lazarus and I live.  
 
-
-                                                --G. K. Chesterton  
-
-===== FINE FILE: convert.txt =====  
+                                                --G. K. Chesterton

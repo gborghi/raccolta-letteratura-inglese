@@ -40,7 +40,6 @@ Originally published in The Illustrated London News, 17th July 1920
 The Illustrated London News 1920-1922,
 Ignatius Press, San Francisco, 1989. Pages 55-59.)
 
-
 Since objections have been raised against remarks of mine,
 here and elsewhere, on the subject of science and the system of evolution,
 I feel it may be fair to acknowledge them here by explaining
@@ -180,5 +179,3 @@ When they have no explanation to offer, they give short dignified replies,
 disdainful of the ignorance of the multitude.
 
 === End ==
-
-===== FINE FILE: Doubts_About_Darwinism.txt =====

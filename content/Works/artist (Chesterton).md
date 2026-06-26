@@ -176,6 +176,4 @@ The simple love of sun and moon,
 "Now that my back is to my home  
   Could these again be found?"  
 I looked on him and only said,  
-  "Go on.  The world is round."  
-
-===== FINE FILE: artist.txt =====  
+  "Go on.  The world is round."

@@ -46,7 +46,6 @@ tags:
 - [Story 09 Viii The Chief Mourner Of Marne](/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne)
 - [Story 10 The Secret Of Flambeau](/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_10_The_Secret_Of_Flambeau)
 
-
 ## Testo integrale / Full text
 
 Title:      The Secret of Father Brown
@@ -73,13 +72,8 @@ whatsoever. You may copy it, give it away or re-use it under the terms
 of the Project Gutenberg of Australia License which may be viewed online at
 http://gutenberg.net.au/licence.html
 
-
-
 Title:      The Secret of Father Brown
 Author:     G. K. Chesterton
-
-
-
 
 To father John O'Connor, of St. Cuthbert's Bradford, whose truth is
 stranger than fiction, with a gratitude greater than the world
@@ -6803,6 +6797,3 @@ conceive any man being such a Judas?"
 "I could try." said Father Brown.
 
 THE END
-
-
-===== FINE FILE: secret_Fr_Brown.txt =====

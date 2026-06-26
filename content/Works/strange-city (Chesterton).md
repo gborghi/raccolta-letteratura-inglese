@@ -110,6 +110,3 @@ Even if it were in some sense found to be in everything, it would
 still be in everything and not merely in all.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: strange-city.txt =====

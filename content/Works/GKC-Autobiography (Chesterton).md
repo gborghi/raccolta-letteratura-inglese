@@ -40,7 +40,6 @@ Autobiography
 
 G.K. Chesterton
 
-
 CONTENTS
 
   I Hearsay Evidence
@@ -3430,7 +3429,6 @@ and of the blend of nations in his blood.
   And in his gait the narrow seas
   And on his mouth Burgundian songs
   And in his heart the Pyrenees?
-
 
 He sat down heavily on one of the benches and began to talk at once
 about some controversy or other; I gathered that the question
@@ -10527,6 +10525,3 @@ of my father's peep-show. But I know that he who is called Pontifex,
 the Builder of the Bridge, is called also Claviger, the Bearer of the Key;
 and that such keys were given him to bind and loose when he was a poor
 fisher in a far province, beside a small and almost secret sea.
-
-
-===== FINE FILE: GKC-Autobiography.txt =====

@@ -29,7 +29,6 @@ tags:
 
 On Lying in Bed
 
-
 Lying in bed would be an altogether perfect and supreme experience
 if only one had a colored pencil long enough to draw on the ceiling.
 This, however, is not generally a part of the domestic
@@ -67,8 +66,6 @@ it is Macedonian Massacres.  Everywhere that I went forlornly,
 with my pencil or my paint brush, I found that others had
 unaccountably been before me, spoiling the walls, the curtains,
 and the furniture with their childish and barbaric designs.
-
-
 
 Nowhere did I find a really clear space for sketching until this occasion
 when I prolonged beyond the proper limit the process of lying on my back
@@ -149,10 +146,4 @@ then he will get up a healthy man.  If he does it for some secondary
 hygienic reason, if he has some scientific explanation, he may get
 up a hypochondriac.
 
-
 		       -Gilbert Keith Chesterton
-
-
-
-
-===== FINE FILE: On_Lying_In_Bed.txt =====

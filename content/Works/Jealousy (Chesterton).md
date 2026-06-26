@@ -91,10 +91,4 @@ Her name upon the new born Nations
 But still she mourns the only thing  
 She ever really wanted badly;  
 The sympathy of Conan Doyle  
-The patronage of Dennis Bradley.  
-
-
-
-
-
-===== FINE FILE: Jealousy.txt =====  
+The patronage of Dennis Bradley.

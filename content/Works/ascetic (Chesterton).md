@@ -79,6 +79,4 @@ But I, I cannot read it
 (Although I run and run),  
 Of them that do not have the faith,  
 And will not have the fun.  
-          (G. K. Chesterton - 1913)  
-
-===== FINE FILE: ascetic.txt =====  
+          (G. K. Chesterton - 1913)

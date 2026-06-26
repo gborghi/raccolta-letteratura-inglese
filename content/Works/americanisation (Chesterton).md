@@ -64,8 +64,4 @@ Ere every shop shall be a store
 Lo, many men in many lands  
   Know when their cause is just.  
 There will be quite a large attendance  
-When we Declare our Independence.  
-
-
-
-===== FINE FILE: americanisation.txt =====  
+When we Declare our Independence.

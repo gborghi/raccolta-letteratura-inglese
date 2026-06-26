@@ -160,6 +160,3 @@ and I wonder when men will be like men.
 = = = = = = = = = = = = = = = =
 
 THE END
-
-
-===== FINE FILE: Sanity.txt =====

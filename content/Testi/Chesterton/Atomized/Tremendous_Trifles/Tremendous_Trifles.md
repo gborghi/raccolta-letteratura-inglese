@@ -19,12 +19,9 @@ by
 
 G. K. Chesterton
 
-
 New York Dodd, Mead and Company 1910
 
 Copyright, 1909, by Dodd, Mead and Company Published, October, 1909
-
-
 
 Preface
 
@@ -57,7 +54,6 @@ as plain as a painted fence.  Let us be ocular athletes.
 Let us learn to write essays on a stray cat or a coloured cloud.
 I have attempted some such thing in what follows; but anyone
 else may do it better, if anyone else will only try.
-
 
 		Contents 
 
@@ -100,7 +96,6 @@ Chapter
   XXXVI	A Somewhat Improbable Story
  XXXVII	The Shop of Ghosts
 XXXVIII The Ballade of a Strange Town XXXIX The Mystery of a Pageant
-
 
 I
 
@@ -220,7 +215,6 @@ I will sit still and let the marvels and the adventures settle
 on me like flies.  There are plenty of them, I assure you.
 The world will never starve for want of wonders; but only
 for want of wonder.
-
 
 II
 
@@ -372,7 +366,6 @@ Southern England is not only a grand peninsula, and a tradition
 and a civilisation; it is something even more admirable.
 It is a piece of chalk.
 
-
 III
 
 The Secret of a Train
@@ -510,7 +503,6 @@ I went out gladly enough into the streets and saw the lamps shining
 on the laughing faces.  Nor have I ever known from that day
 to this into what strange story I wandered or what frightful
 thing was my companion in the dark.
-
 
 IV
 
@@ -658,7 +650,6 @@ and hit the ball somewhere--somewhere where another ball might be.
 I heard the dull click of the balls touching, and ran into
 the house like one pursued.
 
-
 V
 
 The Extraordinary Cabman
@@ -792,7 +783,6 @@ Perhaps he had been sent to tempt me from my adherence to those
 sanities and certainties which I had defended earlier in the day.
 In any case it gave me pleasure to remember that my sense of reality,
 though it had rocked for an instant, had remained erect.
-
 
 VI
 
@@ -939,7 +929,6 @@ up my small injury, and I went out again into the Strand.  I felt upon
 me even a kind of unnatural youth; I hungered for something untried.
 So to open a new chapter in my life I got into a hansom cab.
 
-
 VII
 
 The Advantages of Having One Leg
@@ -1077,7 +1066,6 @@ if only for a moment.  If you wish to realise how fearfully
 and wonderfully God's image is made, stand on one leg.
 If you want to realise the splendid vision of all visible things--
 wink the other eye.
-
 
 VIII
 
@@ -1223,7 +1211,6 @@ we may as well drive back to Besançon."
 Only as the stars came out among those immortal hills I wept
 for Walham Green.
 
-
 IX
 
 In the Place de La Bastille
@@ -1351,7 +1338,6 @@ It is perpetually pulling down and building up, as it pulled down
 the prison and put up the column in the Place de La Bastille.
 France has always been at the point of dissolution.
 She has found the only method of immortality.  She dies daily.
-
 
 X
 
@@ -1481,7 +1467,6 @@ But if a healthy man lies in bed, let him do it without a rag of excuse;
 then he will get up a healthy man.  If he does it for some secondary
 hygienic reason, if he has some scientific explanation, he may get
 up a hypochondriac.
-
 
 XI
 
@@ -1624,7 +1609,6 @@ it collects twelve of the ordinary men standing round.
 The same thing was done, if I remember right, by the
 Founder of Christianity.
 
-
 XII
 
 The Wind and the Trees
@@ -1765,7 +1749,6 @@ in a clear sunlight.  The tossing of the trees and the blowing
 of the wind have ceased simultaneously.  So I suppose there
 are still modern philosophers who will maintain that the trees
 make the wind.
-
 
 XIII
 
@@ -1914,7 +1897,6 @@ aside her weddin' ring!"
 
 I stood and listened for more, but my friend went away.
 
-
 XIV
 
 In Topsy-Turvy Land
@@ -2045,7 +2027,6 @@ The slave does not say, "Are these chains worthy of me?"
 The slave says scientifically and contentedly, "Am I even worthy
 of these chains?"
 
-
 XV
 
 What I Found in My Pocket
@@ -2173,7 +2154,6 @@ splendid procession of poetical symbols that came pouring out.
 I cannot tell you all the things that were in my pocket.
 I can tell you one thing, however, that I could not find in my pocket.
 I allude to my railway ticket.
-
 
 XVI
 
@@ -2325,7 +2305,6 @@ good things--I charge you to avaunt and haunt this house no more."
 Whether or no it was the result of the exorcism, there is no doubt
 that he definitely went away.
 
-
 XVII
 
 The Red Angel
@@ -2468,7 +2447,6 @@ stands up in the room like a great red angel.  But, perhaps, you have
 never heard of a red angel.  But you have heard of a blue devil.
 That is exactly what I mean.
 
-
 XVIII
 
 The Tower
@@ -2595,7 +2573,6 @@ modern theories, but go on looking at the Belfry of Bruges.
 I would give them the greater attention if I were not pretty
 well convinced that the theories will have disappeared a long
 time before the Belfry.
-
 
 XIX
 
@@ -2750,7 +2727,6 @@ And at the same hour on the same night thousands upon thousands
 of English Krugers gave the same vote.  And thus Kruger was
 pulled down and the dark-faced men in the photograph reigned
 in his stead.
-
 
 XX
 
@@ -2908,7 +2884,6 @@ wavered twice as in a wind, and then went over into the great sea
 which washes the whole world, and which, alone of all things God
 has made, was big enough to drown him.
 
-
 XXI
 
 A Great Man
@@ -3032,7 +3007,6 @@ which is supernatural.  I had seen what Virgil calls the Old Man
 of the Forest:  I had seen an elf.  The trees thronged behind my path;
 I have never seen him again; and now I shall not see him,
 because he died last Tuesday.
-
 
 XXII
 
@@ -3186,7 +3160,6 @@ profoundly interested in what you told me about the New Shaving.
 Have you ever heard of a thing called the New theology?"
 
 He smiled and said that he had not.
-
 
 XXIII
 
@@ -3348,7 +3321,6 @@ for it is beyond human power to act a great poem upon so great a scale.
 You can only represent very big ideas in very small spaces.
 My toy theatre is as philosophical as the drama of Athens.
 
-
 XXIV
 
 A Tragedy of Twopence
@@ -3483,7 +3455,6 @@ how many of the things that make up our Society, the Law,
 or the Stocks and Shares, or the National Debt, you would be
 able to convey with your face and your ten fingers by grinning
 and gesticulating to a German innkeeper.
-
 
 XXV
 
@@ -3652,7 +3623,6 @@ that windmill that stood behind the hollyhocks in the garden.
 Let me pay you for . . . " Here it was, I think, that we
 were cut off.
 
-
 XXVI
 
 The Two Noises
@@ -3783,7 +3753,6 @@ and at random--
 
 But the sea would not stop for me any more than for Canute;
 and as for the German band, that would not stop for anybody.
-
 
 XXVII
 
@@ -3926,7 +3895,6 @@ systems to guard themselves against the power of our great financiers.
 But that is because a very just people would have shot them long ago,
 from mere native good feeling.
 
-
 XXVIII
 
 The Lion
@@ -4051,7 +4019,6 @@ and that there perhaps will be fought out finally the awful modern battle
 of the rich and poor.  And as I pass into quieter places for the last
 sign of France on the sky-line, I see the Lion of Belfort stand at bay,
 the last sight of that great people which has never been at peace.
-
 
 XXIX
 
@@ -4226,7 +4193,6 @@ broken from the first morning, and a huge grey horse champing
 his food within a foot of a child's head, as in the stable
 where Christ was born.
 
-
 XXX
 
 The Little Birds Who Won't Sing
@@ -4379,7 +4345,6 @@ and I had for an instant a fancy I had often had before:
 that with us the super-human is the only place where you can find
 the human.  Human nature is hunted and has fled into sanctuary.
 
-
 XXXI
 
 The Riddle of the Ivy
@@ -4528,7 +4493,6 @@ so full of a genial gloom and a grotesque tenderness.
 Let us admire the ivy; and let us pray to God in His mercy
 that it may not kill the tree."
 
-
 XXXII
 
 The Travellers in State
@@ -4674,7 +4638,6 @@ The train moves more swiftly through the sunny English fields.
 They have taken the prisoners away, and I do not know what they
 have done with them.
 
-
 XXXIII
 
 The Prehistoric Railway Station
@@ -4807,7 +4770,6 @@ in the middle.  But these modern cowards are all crustaceans;
 their hardness is all on the cover and their softness is inside.
 But the softness is there; everything in this twilight
 temple is soft.
-
 
 XXXIV
 
@@ -4976,7 +4938,6 @@ not with tools of pain.  God help him, I know the road he went;
 but I have never known, or even dared to think, what was that place
 at which he stopped and refrained.
 
-
 XXXV
 
 A Glimpse of My Country
@@ -5132,7 +5093,6 @@ sheet of ice, of wicked wealth and of lying journalism.
 
 And as I stood there in the darkness I could almost fancy that I
 heard it crack.
-
 
 XXXVI
 
@@ -5325,7 +5285,6 @@ Since then I have respected the things called inanimate."
 
 And bowing slightly to the mustard-pot, the man in
 the restaurant withdrew.
-
 
 XXXVII
 
@@ -5521,7 +5480,6 @@ Mr. Dickens took off his hat with a flourish like a man calling
 a mob to rise.
 
 "I understand it now," he cried, "you will never die."
-
 
 XXXVIII
 
@@ -5719,7 +5677,6 @@ HORS D'OEUVRES for me:  I shall get on to something solid at once."
 	Who drinks her cognac far from fine,
 	  The lovely city of Lierre.
 
-
 XXXIX
 
 The Mystery of a Pageant
@@ -5878,6 +5835,3 @@ And second, because I have got to go into the next room
 and dress up as Dr. Johnson.
 
 The End
-
-
-===== FINE FILE: Tremendous_Trifles.txt =====

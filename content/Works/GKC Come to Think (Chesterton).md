@@ -75,7 +75,6 @@ tags:
 - [Story 43 ON DICKENS AND AFTER](/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_43_ON_DICKENS_AND_AFTER)
 - [Story 44 ON THE KING](/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_44_ON_THE_KING)
 
-
 ## Testo integrale / Full text
 
 COME TO THINK OF IT
@@ -285,11 +284,7 @@ the most conclusive thing I can do is to conclude.
 
 G. K. CHESTERTON
 
-
-
 COME TO THINK OF IT
-
-
 
 I. On Essays
 
@@ -422,8 +417,6 @@ the theses of a medieval schoolman, he would have had to think
 much more clearly and make up his mind much more decisively.
 I will leave the last word with the essayist; and admit that I am
 not sure whether he would have written such good essays.
-
-
 
 II.  On What We Would Do with Two Million (If We Had It)
 
@@ -563,8 +556,6 @@ off those people who seem naturally designed to be murdered.
 But I do insist that they will be murdered, sooner or later, if we
 accept in every department the principle of the easiest way out.
 
-
-
 III.  On Boys
 
 ONE of the old sayings repeated eternally by everybody, and rather
@@ -699,8 +690,6 @@ It is now the custom to condemn youth as too frivolous.
 But youth is always too serious; and just now it is too serious
 about frivolity.  The conservatism of youth is a good thing;
 and it is not even necessary to conserve it.
-
-
 
 IV.  On Literary Parallels
 
@@ -842,8 +831,6 @@ and especially the coincidences that are overwhelmingly probable.
 And when I see these things neglected by a good writer in a good review,
 I venture to raise a mild protest.
 
-
-
 V. On a Censorship for Literature
 
 T HE recurring discussion about a Censorship for Literature or
@@ -966,8 +953,6 @@ do not mean, of course, that all our family life is like that.
 Nor is all our fiction like that.  But many who demand a Censorship
 are really demanding that we should tolerate in life what we will
 not tolerate in literature.
-
-
 
 VI.  On Detective Story Writers
 
@@ -1099,8 +1084,6 @@ But to make one man-trap that shall be inspected by experts through
 the length of a book, and never found to be a man-trap at all,
 that is work for a different sort of man; and even Trent called it
 his Last Case and has refused to try again.
-
-
 
 VII.  On the New Poetry
 
@@ -1412,8 +1395,6 @@ with the thoughts and associations of a thousand years.
 If they were not, he would not use them; he might just as well
 say `Grunk', or `Quoggle'.
 
-
-
 VIII.  On the Classics
 
 IN a moment of fine frenzy a young man has stood up and declared
@@ -1548,8 +1529,6 @@ when Stevenson says, `We have heard perhaps too much of lesser matters.
 Here is the door, here is the open air.  Itur in antiquam silvam,'
 we know that for such a mind lunacies will always be lesser matters
 and sanity be like the open air.
-
-
 
 IX.  On Psycho-analysis
 
@@ -1686,8 +1665,6 @@ Huxley's hatchet; but it would be a pity if science, by performing
 the most brilliant operations on the brain, should end by removing
 the brain altogether.
 
-
-
 X. On Egoists and Egoists
 
 MOST journalists abound in jokes on the subject of misprints--the fearful
@@ -1792,8 +1769,6 @@ in order to persuade him to print what was written down to be printed.
 Even in this place, it takes some little time to explain;
 and I prefer such simple truths in a shorter form, even if there
 are some who cannot see a simple truth without calling it a paradox.
-
-
 
 XI On Mr. Epstein
 
@@ -2033,8 +2008,6 @@ and stupefied.  Meanwhile, the clever and complex people are trying
 to return to direct ideas, but can only do it in an indirect way;
 they long for straight lines, but cannot go for them straight.
 
-
-
 XII On `Who Killed John Keats?'
 
 IN connexion with the celebrated attack on Keats in the Quarterly,
@@ -2171,8 +2144,6 @@ hacks I do not mean that they had the excuse of poverty or ignorance.
 I mean they were servants of a master, not lieges of a king;
 flunkeys whose livery had long ceased to be a uniform.
 
-
-
 XIII.  On Ingeland
 
 THE study called England which the Dean of St. Paul's wrote not
@@ -2298,8 +2269,6 @@ But I know very well that his hatred of Ireland is not really
 even a hatred of Ireland.  It is a hatred of something else,
 associated with Ireland, and something that I have no intention
 of bringing up here for discussion.
-
-
 
 XIV.  On Loneliness
 
@@ -2433,8 +2402,6 @@ down by the mere American herd-instinct. I have never been a Jingo,
 or uttered political boasts about the Splendid Isolation of England,
 but I would do a good deal to preserve the Splendid Isolation
 of the Englishman.
-
-
 
 XV.  On the Importance of Why We Do (or Don't)
 
@@ -2802,8 +2769,6 @@ elbows unless he owns a room large enough for them, that he does
 not own his own legs unless he has liberty to stretch them;
 or own his own feet unless he owns the soil on which they stand.
 
-
-
 XVIII.  On Current Claptrap
 
 IT is not often that we find the one book that ought to
@@ -2921,8 +2886,6 @@ in a thoughtless philosophy; and especially in a philosophy directed
 against thought.  Fortunately, we can all think, whether we
 are red, black, or yellow; and that is the only true beginning
 of Peace and Progress throughout the World.
-
-
 
 XIX.  On Evil Euphemisms
 
@@ -3053,8 +3016,6 @@ with the pain that often arises from loyalty and duty we all
 sympathize still more; but nobody need sympathize with publicity
 experts picking pleasant expressions for unpleasant things;
 and I for one prefer the coarse language of our fathers.
-
-
 
 XX.  On Encyclopaedias
 
@@ -3191,8 +3152,6 @@ And though the making of a dictionary sounds to us a mild occupation,
 Dr. Johnson was by no means a mild person, and sometimes almost
 made it a slang dictionary, when he had a chance of slinging abuse
 at the Whigs.
-
-
 
 XXI.  On Preaching
 
@@ -3333,8 +3292,6 @@ But a melancholy familiarity with most current thought,
 or thoughtlessness, leads me to advise him to listen to it,
 and then do the opposite.
 
-
-
 XXII.  On the Timid Thinkers
 
 I SHOULD like to write a book under the general title of
@@ -3465,8 +3422,6 @@ They begin each with his own wild and generally inhuman philosophy;
 but by the end they have, in a sense somewhat different from that
 of the old phrase, joined the religion of all sensible men.
 
-
-
 XXIII.  On the Mythology of Scientists
 
 WHAT I venture to criticize in certain men, whom some call scientists
@@ -3589,8 +3544,6 @@ to abstain from every thing but abstract terms.  Let us all agree
 that every Friday we will do without metaphors as without meat.
 I am sure it would be good for the intellectual digestion.
 
-
-
 XXIV.  On Change
 
 A PROFESSOR, filled with the spirit, has delivered an oracle on
@@ -3686,8 +3639,6 @@ that telescopes cannot see by themselves, telephones can not hear
 by themselves, books cannot write themselves or read themselves;
 and a man cannot even talk entirely without thinking.
 Though he sometimes comes pretty near it.
-
-
 
 XXV.  On Twilight Sleep
 
@@ -3816,8 +3767,6 @@ of science; and any number of thieves will steal it from him.
 But as men grow more used to the science, they may grow more sensible
 about the superstition.
 
-
-
 XXVI.  On Vulgarity
 
 MOST of us must have wondered if we could find a real definition
@@ -3910,8 +3859,6 @@ If they had been a little lax and casual and humble, we might never
 have found them out.  If they had not been so clever, we might never
 have known that they were fools.  If they had not been so gentlemanly,
 we should not have seen that they were cads.
-
-
 
 XXVII.  On a Humiliating Heresy
 
@@ -4044,8 +3991,6 @@ does certainly mislead many with a fallacious sense of fate.
 It has been used by materialists in many ways to destroy the sense
 of moral liberty; and it has murdered many things besides Duncan.
 
-
-
 XXVIII.  On Original Sin
 
 ONCE upon a time when Mr. H. G. Wells was setting forth
@@ -4153,8 +4098,6 @@ to the truths of the most modern science.  It is rather a case
 of the most modern science having come very near to the truths
 of the old religion--but not quite near enough.
 
-
-
 XXIX.  On the New Religion Coming
 
 THAT rather pleasant and even exciting cry that has been
@@ -4257,8 +4200,6 @@ be affirmed or denied.  But the New Religion in the weekly paper
 is Nothing; and I object to being told to bow down to Nothing,
 or to be bullied by Nothing, or to be made a slave of Nothing,
 because it is supposed to be New.
-
-
 
 XXX.  On the Great God Namse
 
@@ -4368,8 +4309,6 @@ Considering the strange way in which Christian traditions still
 linger about even in this enlightened age, it might often be safer
 to say that our reason and conscience required us to worship Namse,
 rather than that they required us to worship Mammon.
-
-
 
 XXXI.  On the Innocence of Macaulay
 
@@ -4505,8 +4444,6 @@ and occupations, with twenty quaint ceremonies peculiar to each.
 Religious unity can look like a carnival and religious liberty
 can look like a funeral.  But beyond that men are free to choose,
 not necessarily by looks.
-
-
 
 XXXII.  On Jane Austen in the General Election
 
@@ -4645,8 +4582,6 @@ and he might become a Cabinet Minister while poor old Darcy was
 sulking in the provinces, a decent, truthful, honourable Diehard,
 cursing the taxes and swearing the country was going to the dogs--
 and especially to the puppies.
-
-
 
 XXXIII.  On Dictatorships
 
@@ -5008,8 +4943,6 @@ Ask what they think about a thing like a glass of beer; which in fact
 does the workman no harm, but which does the employer no good.
 You will find the answer decisive and enlightening.
 
-
-
 XXXVI.  On America
 
 IT has always puzzled me to notice how little English people seem
@@ -5141,8 +5074,6 @@ particular blend for which the world was immeasurably the better;
 and for the loss of which it is immeasurably the worse.
 It may never be recovered; but it will certainly be missed.
 
-
-
 XXXVII.  On Bigness and America
 
 IT is well known that I am an unreasonable reactionary, who refuses
@@ -5273,8 +5204,6 @@ The title was truer than it was meant to be.  And the struggle
 is simply between those who know something, right or wrong,
 and the enormous natural strength of those who know nothing.
 
-
-
 XXXVIII.  On the American Revolt against Americanism
 
 IT is curious to compare the American reaction against realism
@@ -5387,8 +5316,6 @@ spectacles when he is writing the Modern Morality or the New Religion.
 I would venture to suggest that we should smash both sorts
 of spectacles and look at the real spectacle of the world--
 but including the spiritual world.
-
-
 
 XXXIX.  On Abraham Lincoln
 
@@ -5509,8 +5436,6 @@ and that in exactly the sense which his special admirers have never
 understood from that day to this.  He tried to be reasonable.
 It is not surprising that his life was a martyrdom, and that
 he died murdered.
-
-
 
 XL.  On Myself on Abraham Lincoln
 
@@ -5639,8 +5564,6 @@ I do not think any of them even reason ably arguable; and I do not
 think any of them any more characteristic of Lincoln than of Lee
 or Bayard or Joan of Arc, or any hero or heroine in history.
 
-
-
 XLI.  On Foch
 
 I AM always amused to notice that in this post-war society,
@@ -5736,8 +5659,6 @@ spaces of the story:  Alexander and Caesar and Godfrey and Napoleon.
 Both cults are open to corruption; but when the older cult returns,
 as it will, it will be known that a man died quietly some time ago
 who delivered Europe with a single blow.
-
-
 
 XLII.  On Dickens and After
 
@@ -5989,8 +5910,6 @@ But this is not the way in which the free fancy of the present age
 floats along.  The mere mood and fashion of democracy is rapidly passing;
 and he who wishes to preserve any idea of it must lock it up
 in the casket of a creed.
-
-
 
 XLIII.  On The King
 
@@ -6254,11 +6173,3 @@ of this perilous recovery has come to us so much in the common
 outlines of countless stories of the kind that for the first
 time in such cases the modern curiosity is not an intrusion.
 `The King is the King of the whole people.'
-
-
-
-
-
-
-
-===== FINE FILE: GKC_Come_to_Think.txt =====

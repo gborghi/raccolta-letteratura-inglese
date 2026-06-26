@@ -78,7 +78,6 @@ tags:
 - [Story 42 If I Had Only One Sermon To Preach](/Testi/Chesterton/Atomized/Common_Man/Story_42_If_I_Had_Only_One_Sermon_To_Preach)
 - [Story 43 If Don John Of Austria Had Married Mary](/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary)
 
-
 ## Testo integrale / Full text
 
 THE COMMON MAN
@@ -963,7 +962,6 @@ or as Kingsley put it in those fine and highly heathen hexameters:
    golden-haired rulers.
   Vainly rebelling, they rage till they die by the swords of
    the heroes.
-
 
 Sometimes the monster, once killed, could be used to kill other monsters;
 as Perseus used the Gorgon to kill the dragons of the sea.
@@ -3243,7 +3241,6 @@ one of the lines does really and truly run:
 
 Let the great world spin for ever down the ringing grooves of change.
 
-
 Psychologists will be interested in the curious displacement of words
 and disorder of ideas, which is characteristic of sentences invented
 in a dream.  To the ordinary waking intelligence the words would appear
@@ -4427,7 +4424,6 @@ There have been lovers whose thought love should be So much compounded
 of high courtesy, That they would sigh and quote with learned looks
 Precedents out of beautiful old books.
 
-
 The books of Henry James will always be beautiful; and I believe
 they are young enough to be old.
 
@@ -4585,7 +4581,6 @@ by the Envoi, which ran:
   You said that English people think it low
   To coax to life a half-extinct cigar?
   Good Lord, how little wealthy people know!
-
 
 Anyhow, the one assumption shared by these admirable public men seems
 to have been wrong somewhere.  Apple-women did not rush madly out
@@ -6238,7 +6233,6 @@ vision in his own work:
   Who strive to build a shadowy isle of bliss
   Midmost the beating of the steely sea.
 
-
 And it is the irony of the case that these men, who were rationalists
 and realists about the real world, were for that very reason resolved
 to be radiant optimists when once they were inside the city of dreams
@@ -6338,7 +6332,6 @@ in the same metre.
   Not to call it a lie
   That was worked upon William my pardner, and the same
   being W. Nye.
-
 
 It may be urged maliciously, by the unmelodious, that the identity
 is a mere accident of arrangement on the page; since the long line
@@ -6692,7 +6685,6 @@ writes verses appropriate to such vision; as, for instance:
   Bug-house underbogies belch daybreak back-firing.
   Daylight's a void-vomit; steadying legs to stump.
 
-
 And all the young critics know he is all right; he has got cosmic rhythm;
 he is a regular guy.
 
@@ -7019,7 +7011,6 @@ roughly like this:
 The mightiest gift that God of his largesse Made in creation,
 perfect even as He, Most of His substance, and to Him most dear,
 He gave to the Will and it was Liberty.
-
 
 A NOTE ON NUDISM
 
@@ -8281,7 +8272,3 @@ Perhaps there are things that are too great to happen, and too
 big to pass through the narrow doors of birth.  For this world
 is too small for the soul of man; and, since the end of Eden,
 the very sky is not large enough for lovers.
-
-
-
-===== FINE FILE: Common_Man.txt =====

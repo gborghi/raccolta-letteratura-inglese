@@ -45,12 +45,9 @@ tags:
 - [Story 07 THE MYSTERY OF THE WELL](/Testi/Chesterton/Atomized/trees_of_pride/Story_07_THE_MYSTERY_OF_THE_WELL)
 - [Story 08 THE CHASE AFTER THE TRUTH](/Testi/Chesterton/Atomized/trees_of_pride/Story_08_THE_CHASE_AFTER_THE_TRUTH)
 
-
 ## Testo integrale / Full text
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.
-
-
 
 THE TREES OF PRIDE
 
@@ -58,16 +55,12 @@ by Gilbert K. Chesterton
 
 1922
 
-
 THE TREES OF PRIDE:
 
   I. THE TALE OF THE PEACOCK TREES
   II. THE WAGER OF SQUIRE VANE
   III. THE MYSTERY OF THE WELL
   IV. THE CHASE AFTER THE TRUTH
-
-
-
 
 THE TREES OF PRIDE
 
@@ -699,8 +692,6 @@ a little bent, and one of his black elf-locks had fallen forward
 over his forehead.  And again she had the sense of a shadow over
 the grass; she almost felt as if the grass were a host of fairies,
 and that the fairies were not her friends.
-
-
 
 II.  THE WAGER OF SQUIRE VANE
 
@@ -1351,8 +1342,6 @@ and half masked by thistles and rank grass like a green beard.
 For where he stood now was three yards away from the well,
 and he had not yet himself realized that he had sprung back all
 that distance from the brink when the water spoke.
-
-
 
 III.  THE MYSTERY OF THE WELL
 
@@ -2063,8 +2052,6 @@ patiently to hang the wrong man."
 his shoulders, sprawling on the ale bench, and played with
 his empty pot.
 
-
-
 IV.  THE CHASE AFTER THE TRUTH
 
 Some time after the inquest, which had ended in the inconclusive
@@ -2695,13 +2682,4 @@ for the last time that day, they saw his rather sinister smile.
 And, turning his back on them, as if automatically, he set his face
 toward the village, where for so many years he had gone his round.
 
-
-
-
-
 End of The Trees of Pride, by G. K. Chesterton
-
-
-
-
-===== FINE FILE: trees_of_pride.txt =====

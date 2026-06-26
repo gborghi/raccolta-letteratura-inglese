@@ -56,7 +56,4 @@ Or all the angels of Los Angeles.
 They shall not storm the last unfallen fortress,  
 The lonely castle where uncowed and free,  
 Dwells the unknown and undefeated warrior  
-That did alone defeat Publicity.  
-
-
-===== FINE FILE: unknown-warrior.txt =====  
+That did alone defeat Publicity.

@@ -42,8 +42,4 @@ THE NEW FICTION
      The remarkable tales, with remarkable sales,  
      And Bonnets and Bees in disorder;  
      For the Bonnets we view are exceedingly Blue,  
-     And decidedly over the Border.  
-
-
-
-===== FINE FILE: New_Fiction.txt =====  
+     And decidedly over the Border.

@@ -250,6 +250,3 @@ conceive any man being such a Judas?"
 "I could try." said Father Brown.
 
 THE END
-
-
-===== FINE FILE: secret_Fr_Brown.txt =====

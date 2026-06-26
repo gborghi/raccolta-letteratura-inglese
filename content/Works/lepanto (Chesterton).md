@@ -47,7 +47,6 @@ Lepanto
 
 				    G.K.Chesterton  
 
-
 White founts falling in the Courts of the sun,  
 And the Soldan of Byzantium is smiling as they run;  
 There is laughter like the fountains in that face of all men feared,  
@@ -198,8 +197,4 @@ Cervantes on his galley sets the sword back in the sheath
 And he sees across a weary land a straggling road in Spain,  
 Up which a lean and foolish knight for ever rides in vain,  
 And he smiles, but not as Sultans smile, and settles back the blade....  
-(_But Don John of Austria rides home from the Crusade._)  
-
-
-
-===== FINE FILE: lepanto.txt =====  
+(_But Don John of Austria rides home from the Crusade._)

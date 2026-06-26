@@ -238,6 +238,3 @@ spirit was other than contented with a narrow domestic routine,
 in which she wrote a story as domestic as a diary in the intervals
 of pies and puddings, without so much as looking out of the window
 to notice the French Revolution.
-
-
-===== FINE FILE: intro-love-and-freindship.txt =====

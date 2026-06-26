@@ -441,8 +441,3 @@ this paradox of the best man in the worst fortune.
 I need not say that in the freest and most philosophical
 sense there is one Old Testament figure who is truly a type;
 or say what is prefigured in the wounds of Job.
-
-
-
-
-===== FINE FILE: job.txt =====

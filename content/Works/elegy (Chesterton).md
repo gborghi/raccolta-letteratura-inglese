@@ -50,7 +50,4 @@ Elegy in a Country Churchyard
 	       They have no graves as yet.  
 				   - G.K. Chesterton
 
-	       -------------------------------------------------------------  
-
-
-===== FINE FILE: elegy.txt =====  
+	       -------------------------------------------------------------

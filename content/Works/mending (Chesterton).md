@@ -108,7 +108,3 @@ begin to insult them when they begin to do good.
 
 Illustrated London News, December 23, 1905
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: mending.txt =====

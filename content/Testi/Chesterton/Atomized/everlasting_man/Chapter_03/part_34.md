@@ -68,7 +68,6 @@ It is the duty of a solitary skull to prove that our fathers were
 our inferiors.  Any solitary skull presuming to prove that they
 were superior is felt to be suffering from swelled head.
 
-
 * * *
 
 APPENDIX II
@@ -109,8 +108,3 @@ speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
 plainer than the tracks of the desert; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.
-
-
-
-
-===== FINE FILE: everlasting_man.txt =====

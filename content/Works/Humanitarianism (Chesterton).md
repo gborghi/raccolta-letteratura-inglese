@@ -176,8 +176,4 @@ of a great elemental movement, having in it something of the greatness
 of a new religion, or whether we are a knot of intransigeant pessimists,
 having nothing in our lives but the miserable pleasure of logic.
 
-G. K. Chesterton. 
-
-
-
-===== FINE FILE: Humanitarianism.txt =====
+G. K. Chesterton.

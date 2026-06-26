@@ -64,8 +64,4 @@ Yea, blessed are our eyes for they have seen:
 Let the thunder break on man and beast and bird  
 And the lightning. It is something to have been.  
 
-		  G.K.Chesterton  
-
-
-
-===== FINE FILE: great-minimum.txt =====  
+		  G.K.Chesterton

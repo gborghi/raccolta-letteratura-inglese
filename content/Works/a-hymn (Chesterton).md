@@ -63,9 +63,4 @@ Bind all our lives together,
 In ire and exultation  
   Aflame with faith, and free,  
 Lift up a living nation,  
-  A single sword to thee.  
-
-
-
-
-===== FINE FILE: a-hymn.txt =====  
+  A single sword to thee.

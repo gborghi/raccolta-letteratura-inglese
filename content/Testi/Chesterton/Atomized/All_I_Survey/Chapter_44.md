@@ -150,6 +150,3 @@ can be a plague or carry a pestilence; and the ancient name
 of Beelzebub has the meaning of the Lord of Flies.
 
 -*-
-
-
-===== FINE FILE: All_I_Survey.txt =====

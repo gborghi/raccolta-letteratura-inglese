@@ -174,7 +174,6 @@ throughout her unconquerable history, the colour of folly and of hope.
 
 G. K. C.
 
-
 How the Church Stands To-Day
 
 --October 27, 1900
@@ -483,7 +482,6 @@ lines of Goldsmith?--
 
 Have we realised that these ragged folk are the real riches
 of the Transvaal?  Can we work the mines of the human gold?
-
 
 Buddha Versus Buddhism
 
@@ -867,7 +865,6 @@ for certainly if it had been true no fair lady would ever have
 been won in this world.
 
 G.K.C.
-
 
 "Puritan and Anglican"
 
@@ -2026,8 +2023,6 @@ they were all the same person.
 
 G. K. C.
 
-
-
 "What We All Mean"
 
 February 16, 1901, The Speaker
@@ -2298,7 +2293,6 @@ awe and reverence for turnip-ghosts, but we do desire to create
 a general awe and reverence for turnips.
 
 --G.K.C.
-
 
 "The Morality of the Hat" March 2, 1901, The Speaker
 
@@ -2618,7 +2612,6 @@ of a martyred Jew upon an Aryan gibbet.
 
 G.K.C.
 
-
 A Denunciation of Parents
 
 --March 9, 1901, The Speaker
@@ -2931,7 +2924,6 @@ once more in darkness, before we can see the sun once more.
 
 G. K. C.
 
-
 How Not To Do It
 
 March 23, 1901, The Speaker
@@ -3140,7 +3132,6 @@ through the arch of which the earth shines like elfland.
 
 G.K.C.
 
-
 The Problem of Minor Poetry
 
 --March 30, 1901, The Speaker
@@ -3261,12 +3252,10 @@ We prefer her when the transformation is not quite complete.
 
 G.K.C.
 
-
 Patriotism and Ethics
 
 --May 18, 1901, The Speaker [Reprinted in The Living Age,
 volume 230, July-September 1901]
-
 
 Every kind of moral and personal credit is due to Mr. Godard for his
 courage and conscientiousness in publishing this interesting book
@@ -3479,7 +3468,6 @@ in the wrath of God.
 G. K. C
 
 * "Patriotism and Ethics," By John Godard.  London:  Grant Richards.  5s.
-
 
 Mr. William Watson's Poems
 
@@ -3810,14 +3798,3 @@ _____________________
 
 * "The Original Poem of Job."  Translated from the Restored Text
 by E. T. Dillon.  London:  Fisher Unwin, 5s.
-
-
-
-
-
-
-
-
-
-
-===== FINE FILE: The_Speaker.txt =====

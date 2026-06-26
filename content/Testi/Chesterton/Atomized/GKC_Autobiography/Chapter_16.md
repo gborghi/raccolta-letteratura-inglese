@@ -758,6 +758,3 @@ of my father's peep-show. But I know that he who is called Pontifex,
 the Builder of the Bridge, is called also Claviger, the Bearer of the Key;
 and that such keys were given him to bind and loose when he was a poor
 fisher in a far province, beside a small and almost secret sea.
-
-
-===== FINE FILE: GKC-Autobiography.txt =====

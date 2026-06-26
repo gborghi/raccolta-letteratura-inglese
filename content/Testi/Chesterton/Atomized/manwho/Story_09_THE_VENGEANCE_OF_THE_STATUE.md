@@ -16,8 +16,6 @@ tags:
 
 VIII. THE VENGEANCE OF THE STATUE
 
-
-
 It was on the sunny veranda of a seaside hotel, overlooking a
 
 pattern of flower beds and a strip of blue sea, that Horne Fisher
@@ -25,8 +23,6 @@ pattern of flower beds and a strip of blue sea, that Horne Fisher
 and Harold March had their final explanation, which might be called
 
 an explosion.
-
-
 
 Harold March had come to the little table and sat down at it with a
 
@@ -68,8 +64,6 @@ interest for March himself, seemed to fill his meeting with his
 
 friend with a mixture of embarrassment and indignation.
 
-
-
 Perhaps it increased his annoyance that there was a certain unusual
 
 liveliness about the usually languid figure of Fisher. The ordinary
@@ -98,8 +92,6 @@ over England, the pessimist seemed to be the only man who carried
 
 his own sunshine.
 
-
-
 "Look here," said Harold March, abruptly, "you've been no end of a
 
 friend to me, and I never was so proud of a friendship before; but
@@ -110,13 +102,9 @@ less I understood how you could stand it. And I tell you I'm going
 
 to stand it no longer."
 
-
-
 Horne Fisher gazed across at him gravely and attentively, but rather
 
 as if he were a long way off.
-
-
 
 "You know I always liked you," said Fisher, quietly, "but I also
 
@@ -130,8 +118,6 @@ I promise you this: that I will never try to keep you as somebody to
 
 be liked, at the price of your not being respected."
 
-
-
 "I know you are magnanimous," said March after a silence, "and yet
 
 you tolerate and perpetuate everything that is mean." Then after
@@ -144,11 +130,7 @@ you remember you said that, after all, it might do no harm if I
 
 could blow the whole tangle of this society to hell with dynamite."
 
-
-
 "Yes, and what of that?" asked Fisher.
-
-
 
 "Only that I'm going to blow it to hell with dynamite," said Harold
 
@@ -166,13 +148,9 @@ been put in charge of a big independent paper, with a free hand, and
 
 we're going to open a cannonade on corruption."
 
-
-
 "That will be--Attwood, I suppose," said Fisher, reflectively.
 
 "Timber merchant. Knows a lot about China."
-
-
 
 "He knows a lot about England," said March, doggedly, "and now I
 
@@ -200,13 +178,9 @@ complains of the exposure being personal. The engine driver is not a
 
 person."
 
-
-
 "I quite agree with you," said Fisher, calmly.  "You are perfectly
 
 right."
-
-
 
 "If you agree with us, why the devil don't you act with us?"
 
@@ -215,8 +189,6 @@ demanded his friend. "If you think it's right, why don't you do
 what's right? It's awful to think of a man of your abilities simply
 
 blocking the road to reform."
-
-
 
 "We have often talked about that," replied Fisher, with the same
 
@@ -234,23 +206,15 @@ sir. I am enjoying an emotion that is entirely new to me; a happy
 
 sensation I never remember having had before."
 
-
-
 "What the devil do you mean?"
 
-
-
 "I am feeling proud of my family," said Horne Fisher.
-
-
 
 Harold March stared at him with round blue eyes, and seemed too much
 
 mystified even to ask a question. Fisher leaned back in his chair in
 
 his lazy fashion, and smiled as he continued.
-
-
 
 "Look here, my dear fellow. Let me ask a question in turn. You
 
@@ -270,11 +234,7 @@ And therefore, as I have the honor to remark, I am proud of my
 
 family at last."
 
-
-
 "But why?" repeated March, rather feebly.
-
-
 
 "I am proud of the Chancellor because he gambled and the Foreign
 
@@ -292,8 +252,6 @@ and refusing to smash their country to save themselves. I salute
 
 them as if they were going to die on the battlefield."
 
-
-
 After a pause he continued:  "And it will be a battlefield, too, and
 
 not a metaphorical one. We have yielded to foreign financiers so
@@ -304,11 +262,7 @@ people, are beginning to suspect that they are being ruined. That is
 
 the meaning of the regrettable incidents in the newspapers."
 
-
-
 "The meaning of the outrages on Orientals?" asked March.
-
-
 
 "The meaning of the outrages on Orientals," replied Fisher, "is that
 
@@ -360,19 +314,13 @@ pedestal words like those of the noblest ruffian of the Revolution:
 
 'Que mon nom soit fletri; que la France soit libre.'"
 
-
-
 "Good God!" cried March, "shall we never get to the bottom of your
 
 mines and countermines?"
 
-
-
 After a silence Fisher answered in a lower voice, looking his friend
 
 in the eyes.
-
-
 
 "Did you think there was nothing but evil at the bottom of them?" he
 
@@ -400,8 +348,6 @@ to be. God alone knows what the conscience can survive, or how a man
 
 who has lost his honor will still try to save his soul."
 
-
-
 There was another silence, and March sat staring at the table and
 
 Fisher at the sea. Then Fisher suddenly sprang to his feet and
@@ -409,8 +355,6 @@ Fisher at the sea. Then Fisher suddenly sprang to his feet and
 caught up his hat and stick with all his new alertness and even
 
 pugnacity.
-
-
 
 "Look here, old fellow," he cried, "let us make a bargain. Before
 
@@ -431,8 +375,6 @@ we're really doing and what there is to be done, and do us justice.
 And after that, with unalterable love and affection for you, publish
 
 and be damned."
-
-
 
 Thus it came about that in the last week before war, when events
 
@@ -463,8 +405,6 @@ This detail fixed itself first in March's mind merely because it
 figured in the first conversation he had with one of the cabinet
 
 ministers.
-
-
 
 The cabinet ministers were rather older than he had expected to find
 
@@ -522,8 +462,6 @@ rather haggard eyes. For the Foreign Secretary made no secret of his
 
 somewhat nervous condition, whatever might be the cause of it.
 
-
-
 "Do you know that mood when one could scream because a mat is
 
 crooked?" he said to March, as they walked up and down in the back
@@ -546,8 +484,6 @@ done with it. See, it's clamped with an iron prop. Don't be
 
 surprised if I get up in the middle of the night to hike it down."
 
-
-
 They paced the path for a few moments in silence and then he
 
 continued. "It's odd those little things seem specially big when
@@ -555,8 +491,6 @@ continued. "It's odd those little things seem specially big when
 there are bigger things to worry about. We'd better go in and do
 
 some work."
-
-
 
 Horne Fisher evidently allowed for all the neurotic possibilities of
 
@@ -610,8 +544,6 @@ features. He was probably the one really efficient person in the
 
 house.
 
-
-
 After about four days of the informal council, March had come to
 
 feel a sort of grotesque sublimity about these dubious figures,
@@ -628,17 +560,11 @@ travel. He fancied that Fisher looked a little pale; and after a
 
 moment that gentleman shut the door behind him and said, quietly:
 
-
-
 "Well, the worst has happened. Or nearly the worst."
-
-
 
 "The enemy has landed," cried March, and sprang erect out of his
 
 chair.
-
-
 
 "Oh, I knew the enemy would land," said Fisher, with composure.
 
@@ -654,13 +580,9 @@ finding three honest men in politics. I ought not to be full of
 
 astonishment if I find only two."
 
-
-
 He ruminated a moment and then said, in such a fashion that March
 
 could hardly tell if he were changing the subject or no:
-
-
 
 "It's hard at first to believe that a fellow like Herries, who had
 
@@ -676,11 +598,7 @@ will swindle or seduce who will not sell his country. But who
 
 knows?"
 
-
-
 "But what is to be done?" cried March, indignantly.
-
-
 
 "My uncle has the papers safe enough," replied Fisher, "and is
 
@@ -699,8 +617,6 @@ find out what you can. Au revoir." He vanished down the stairs; and
 from the window March could see him mount a motor cycle and trail
 
 away toward the neighboring town.
-
-
 
 On the following morning, March was sitting in the window seat of
 
@@ -728,31 +644,21 @@ was like that of some horrible malady. As March moved he started
 
 violently and faced round.
 
-
-
 "My God!" he cried, "have you seen what's outside?"
-
-
 
 "Outside?" repeated the other, glancing over his shoulder at the
 
 garden.
 
-
-
 "Oh, go and look for yourself," cried Herries in a sort of fury.
 
 "Hewitt's murdered and his papers stolen, that's all."
-
-
 
 He turned his back again and sat down with a thud; his square
 
 shoulders were shaking. Harold March darted out of the doorway into
 
 the back garden with its steep slope of statues.
-
-
 
 The first thing he saw was Doctor Prince, the detective, peering
 
@@ -761,8 +667,6 @@ through his spectacles at something on the ground; the second was
 the thing he was peering at. Even after the sensational news he had
 
 heard inside, the sight was something of a sensation.
-
-
 
 The monstrous stone image of Britannia was lying prone and face
 
@@ -778,13 +682,9 @@ unfortunate uncle. There were pools of blood and the limbs were
 
 quite stiff in death.
 
-
-
 "Couldn't this have been an accident?" said March, finding words at
 
 last.
-
-
 
 "Look for yourself, I say," repeated the harsh voice of Herries, who
 
@@ -795,8 +695,6 @@ papers are gone, I tell you. The fellow tore the coat off the corpse
 and cut the papers out of the inner pocket. There's the coat over
 
 there on the bank, with the great slash in it."
-
-
 
 "But wait a minute," said the detective, Prince, quietly. "In that
 
@@ -824,13 +722,9 @@ than the conjurer's trick, when a man shuffles a coat off with his
 
 wrists tied."
 
-
-
 "Could he have thrown down the statue after he'd stripped the
 
 corpse?" asked March.
-
-
 
 "And why?" asked Prince, sharply.  "If he'd killed his man and got
 
@@ -840,8 +734,6 @@ a garden excavating the pedestals of statues. Besides--Hullo, who's
 
 that up there?"
 
-
-
 High on the ridge above them, drawn in dark thin lines against the
 
 sky, was a figure looking so long and lean as to be almost spidery.
@@ -849,8 +741,6 @@ sky, was a figure looking so long and lean as to be almost spidery.
 The dark silhouette of the head showed two small tufts like horns;
 
 and they could almost have sworn that the horns moved.
-
-
 
 "Archer!" shouted Herries, with sudden passion, and called to him
 
@@ -876,39 +766,27 @@ fashion, and look down on the wreck he had made. But the wreck he
 
 had made here was not only a wreck of stone.
 
-
-
 When the man emerged at last on to the garden path, with the full
 
 light on his face and figure, he was walking slowly indeed, but
 
 easily, and with no appearance of fear.
 
-
-
 "This is a terrible thing," he said.  "I saw it from above; I was
 
 taking a stroll along the ridge."
-
-
 
 "Do you mean that you saw the murder?" demanded March, "or the
 
 accident? I mean did you see the statue fall?"
 
-
-
 "No," said Archer, "I mean I saw the statue fallen."
-
-
 
 Prince seemed to be paying but little attention; his eye was riveted
 
 on an object lying on the path a yard or two from the corpse. It
 
 seemed to be a rusty iron bar bent crooked at one end.
-
-
 
 "One thing I don't understand," he said, "is all this blood. The
 
@@ -922,8 +800,6 @@ instance; but I don't see that even that is sharp enough. I suppose
 
 nobody knows what it is."
 
-
-
 "I know what it is," said Archer in his deep but somewhat shaky
 
 voice. "I've seen it in my nightmares. It was the iron clamp or prop
@@ -936,13 +812,9 @@ stonework there; and I suppose it came out when the thing
 
 collapsed."
 
-
-
 Doctor Prince nodded, but he continued to look down at the pools of
 
 blood and the bar of iron.
-
-
 
 "I'm certain there's something more underneath all this," he said at
 
@@ -951,8 +823,6 @@ last. "Perhaps something more underneath the statue. I have a huge
 sort of hunch that there is. We are four men now and between us we
 
 can lift that great tombstone there."
-
-
 
 They all bent their strength to the business; there was a silence
 
@@ -984,8 +854,6 @@ sword, but with a curious wavy edge; and there was a touch or two of
 
 blood on the point.
 
-
-
 "I should have expected more blood, hardly on the point," observed
 
 Doctor Prince, thoughtfully, "but this is certainly the instrument.
@@ -995,8 +863,6 @@ The slash was certainly made with a weapon shaped like this, and
 probably the slashing of the pocket as well. I suppose the brute
 
 threw in the statue, by way of giving him a public funeral."
-
-
 
 March did not answer; he was mesmerized by the strange stones that
 
@@ -1010,19 +876,13 @@ curious Asiatic weapons. Lord James spoke his secret thought for
 
 him, and yet it startled him like an irrelevance.
 
-
-
 "Where is the Prime Minister?"  Herries had cried, suddenly, and
 
 somehow like the bark of a dog at some discovery.
 
-
-
 Doctor Prince turned on him his goggles and his grim face; and it
 
 was grimmer than ever.
-
-
 
 "I cannot find him anywhere," he said.  "I looked for him at once,
 
@@ -1030,21 +890,15 @@ as soon as I found the papers were gone. That servant of yours,
 
 Campbell, made a most efficient search, but there are no traces."
 
-
-
 There was a long silence, at the end of which Herries uttered
 
 another cry, but upon an entirely new note.
-
-
 
 "Well, you needn't look for him any longer," he said, "for here he
 
 comes, along with your friend Fisher. They look as if they'd been
 
 for a little walking tour."
-
-
 
 The two figures approaching up the path were indeed those of Fisher,
 
@@ -1084,8 +938,6 @@ blandly sauntered away toward a comfortable armchair in another part
 
 of the garden, Horne Fisher spoke directly to Harold March.
 
-
-
 "My friend," he said, "I want you to come with me at once; there is
 
 no one else I can trust so much as that. The journey will take us
@@ -1095,8 +947,6 @@ most of the day, and the chief business cannot be done till
 nightfall. So we can talk things over thoroughly on the way. But I
 
 want you to be with me; for I rather think it is my hour."
-
-
 
 March and Fisher both had motor bicycles; and the first half of
 
@@ -1117,8 +967,6 @@ wood behind, and the sun shone full on their ale bench and table;
 but the face of Fisher in the strong sunlight had a gravity never
 
 seen on it before.
-
-
 
 "Before we go any farther," he said, "there is something you ought
 
@@ -1142,8 +990,6 @@ outside, but in this case I was inside. I myself was the very core
 
 and center of everything."
 
-
-
 Something in the speaker's pendent eyelids and grave gray eyes
 
 suddenly shook March to his foundations; and he cried, distractedly,
@@ -1154,17 +1000,11 @@ understand. There was no sound for a space but the happy chatter of
 
 the birds, and then Horne Fisher said, calmly:
 
-
-
 "It was I who killed my uncle. If you particularly want more, it
 
 was I who stole the state papers from him."
 
-
-
 "Fisher!" cried his friend in a strangled voice.
-
-
 
 "Let me tell you the whole thing before we part," continued the
 
@@ -1188,13 +1028,9 @@ first question easily. Horne Hewitt took off his own coat before he
 
 was killed. I might say he took off his coat to be killed."
 
-
-
 "Do you call that an explanation?" exclaimed March.  "The words seem
 
 more meaningless, than the facts."
-
-
 
 "Well, let us go on to the other facts," continued Fisher, equably.
 
@@ -1202,13 +1038,9 @@ more meaningless, than the facts."
 
 Hewitt's blood is that it was not used to kill Hewitt."
 
-
-
 "But the doctor," protested March, "declared distinctly that the
 
 wound was made by that particular sword."
-
-
 
 "I beg your pardon," replied Fisher.  "He did not declare that it
 
@@ -1216,13 +1048,9 @@ was made by that particular sword. He declared it was made by a
 
 sword of that particular pattern."
 
-
-
 "But it was quite a queer and exceptional pattern," argued March;
 
 "surely it is far too fantastic a coincidence to imagine--"
-
-
 
 "It was a fantastic coincidence," reflected Horne Fisher. "It's
 
@@ -1244,13 +1072,9 @@ himself. It may assist your speculations to recall the fact that I
 
 am not exactly an assassin."
 
-
-
 "A duel!" exclaimed March, recovering himself.  "Of course I ought
 
 to have thought of that. But who was the spy who stole the papers?"
-
-
 
 "My uncle was the spy who stole the papers," replied Fisher, "or who
 
@@ -1346,8 +1170,6 @@ at the statue and the body; and I think the thing I fled from was
 
 the sight of that appalling allegory.
 
-
-
 "Then I did the rest of what I had to do. All through the night and
 
 into the daybreak and the daylight I went humming through the
@@ -1390,8 +1212,6 @@ save Ireland,' and we could all have sung that just then, in one
 
 sense or another.
 
-
-
 "But there was another side to my mission. I carried the plans of
 
 the defense; and to a great extent, luckily, the plans of the
@@ -1411,8 +1231,6 @@ exactly where it was. They could hardly tell that unless somebody
 round about here sent up some sort of signal. But, somehow, I rather
 
 fancy that somebody will."
-
-
 
 With that he got up from the table, and they remounted their
 
@@ -1434,13 +1252,9 @@ tint that seemed ominous and dark. Here Horne Fisher dismounted once
 
 more.
 
-
-
 "We must walk the rest of the way," he said, "and the last bit of
 
 all I must walk alone."
-
-
 
 He bent down and began to unstrap something from his bicycle. It was
 
@@ -1464,19 +1278,13 @@ will only spoil the show; one man can barely crawl safely to the
 
 spot, and two would certainly be caught."
 
-
-
 "I would follow you anywhere," replied March, "but I would halt,
 
 too, if that is better."
 
-
-
 "I know you would," said his friend in a low voice. "Perhaps you're
 
 the only man I ever quite trusted in this world."
-
-
 
 A few paces farther on they came to the end of a great ridge or
 
@@ -1510,8 +1318,6 @@ knew he was looking at the apocalyptic meteor of something like a
 
 Day of judgment.
 
-
-
 Far up in the infinite heavens the rocket drooped and sprang into
 
 scarlet stars. For a moment the whole landscape out to the sea and
@@ -1524,13 +1330,9 @@ steeped in wine rather than blood, or the earth were an earthly
 
 paradise, over which paused forever the sanguine moment of morning.
 
-
-
 "God save England!" cried Fisher, with a tongue like the peal of a
 
 trumpet. "And now it is for God to save."
-
-
 
 As darkness sank again over land and sea, there came another sound;
 
@@ -1550,8 +1352,6 @@ and chaotic light. The artillery of the West country and the Irish
 
 had located the great enemy battery, and were pounding it to pieces.
 
-
-
 In the mad excitement of that moment March peered through the storm,
 
 looking again for the long lean figure that stood beside the stand
@@ -1559,8 +1359,6 @@ looking again for the long lean figure that stood beside the stand
 of the rocket. Then another flash lit up the whole ridge. The figure
 
 was not there.
-
-
 
 Before the fires of the rocket had faded from the sky, long before
 
@@ -1574,29 +1372,9 @@ the ridge, as stiff as the stick of the fallen rocket; and the man
 
 who knew too much knew what is worth knowing.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 End of Project Gutenberg's The Man Who Knew Too Much, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE MAN WHO KNEW TOO MUCH ***
-
-
 
 ***** This file should be named 1720.txt or 1720.zip *****
 
@@ -1604,19 +1382,13 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.net/1/7/2/1720/
 
-
-
 Scanned by Georges Allaire <gall@globetrotter.net>
 
 Etext prepared by Dianne Bean of Phoenix, Arizona.
 
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -1650,21 +1422,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -1678,15 +1440,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.net/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -1708,8 +1464,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -1727,8 +1481,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -1760,8 +1512,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -1780,11 +1530,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -1798,8 +1544,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -1807,8 +1551,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.net
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -1830,8 +1572,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -1844,15 +1584,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -1863,8 +1599,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -1888,23 +1622,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -1930,8 +1658,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -1946,8 +1672,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -1956,13 +1680,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -1976,11 +1696,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -2001,8 +1717,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -2030,8 +1744,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -2056,8 +1768,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
@@ -2065,8 +1775,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -2081,8 +1789,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -2104,13 +1810,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -2121,8 +1821,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -2142,15 +1840,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -2168,8 +1860,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -2184,8 +1874,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -2194,13 +1882,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -2215,8 +1899,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -2234,8 +1916,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -2244,15 +1924,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -2262,15 +1938,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -2280,8 +1950,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -2290,15 +1958,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -2307,9 +1969,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-
-
-===== FINE FILE: manwho.txt =====

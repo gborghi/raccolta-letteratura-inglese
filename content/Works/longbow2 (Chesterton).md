@@ -43,26 +43,18 @@ tags:
 - [Chapter 07](/Testi/Chesterton/Atomized/longbow2/Chapter_07)
 - [Chapter 08](/Testi/Chesterton/Atomized/longbow2/Chapter_08)
 
-
 ## Testo integrale / Full text
 
 Tales of the Long Bow
 
 by G. K. Chesterton
 
-
-
-
 First published 1925 by Cassell and Company, Ltd.
                               
 Electronic Edition 1993 by Jim Henry III, Jim.Henry@pobox.com,
 http://www.pobox.com/~Jim.Henry/etext/
 
-
-
-
                                Contents
-
 
   I.    The Unpresentable Appearance of Colonel Crane
   II.   The Improbable Success of Mr. Owen Hood
@@ -73,12 +65,9 @@ http://www.pobox.com/~Jim.Henry/etext/
   VII.  The Unprecedented Architecture of Commander Blair
   VIII. The Ultimate Ultimatum of the League of the Long Bow
 
-
-
                           Chapter I
 
         The Unpresentable Appearance of Colonel Crane
-
 
 These tales concern the doing of things recognized as
 impossible to do; impossible to believe; and, as the weary reader
@@ -923,12 +912,9 @@ to that question must deliver himself up to the intolerable tedium
 of reading the story of The Improbable Success of Mr. Owen Hood,
 and an interval must be allowed him before such torments are renewed.
 
-
-
 Chapter II
 
 The Improbable Success of Mr. Owen Hood
-
 
 Heroes who have endured the heavy labour of reading to the end the story
 of The Unpresentable Appearance of Colonel Crane are aware that his
@@ -1895,12 +1881,9 @@ either about Mr. Crane or Mr. Hood, then they must gird themselves
 for the ordeal of reading the story of The Unobtrusive Traffic
 of Captain Pierce, and their trials are for a time deferred.
 
-
-
 Chapter III
 
 The Unobtrusive Traffic of Captain Pierce
-
 
 Those acquainted with Colonel Crane and Mr. Owen Hood, the lawyer,
 may or may not be concerned to know that they partook of an early lunch
@@ -2309,7 +2292,6 @@ cutting that he had put aside as a curiosity some days before.
 It was a paragraph headed "Old Ladies as Mad Motorists," and ran
 as follows:
 
-
 "An unprecedented number of cases of motorists exceeding the speed limit
 have lately occurred on the Bath Road and other western highways. 
 The extraordinary feature of the case is that in so large a number
@@ -2318,7 +2300,6 @@ and respectability who professed to be merely taking their pugs
 and other pet animals for an airing.  They professed that the health
 of the animal required much more rapid transit through the air
 than is the case with human beings."
-
 
 He was gazing at this extract with as much perplexity as on his
 first perusal, when the Colonel entered with a newspaper in his hand.
@@ -2682,7 +2663,6 @@ and HE didn't want any competition from our cottagers.  And what he
 says goes, as he would express it.  Now, thank God, he's taken up
 another line."
 
-
 But if any indomitable reader wishes to know what was the new line
 Mr. Oates pursued and why, it is to be feared that his only course
 is to await and patiently read the story of the Exclusive Luxury
@@ -2691,12 +2671,9 @@ have to support the recital of The Elusive Companion of Parson White;
 for these, as has been said, are tales of topsy-turvydom, and they
 often work backwards.
 
-
-
 Chapter IV
 
 The Elusive Companion of Parson White
-
 
 In the scriptures and the chronicles of the League of the Long Bow,
 or fellowship of foolish persons doing impossible things,
@@ -2785,7 +2762,6 @@ It was written in what had once been a good hand-writing of the
 bolder sort, but which had degenerated through excessive energy
 and haste into an illegible scrawl.  It appeared to run as follows:
 
-
 "`My dear Owen,--My mind is quite made up; though I know the sort
 of legal long-winded things you will say against it; I know
 especially one thing a leathery old lawyer like you is bound to say;
@@ -2800,7 +2776,6 @@ the Game Laws.  You won't mind me talking like this; I know jolly
 well you'd think you were acting as a friend; but I think the time
 has come to speak plainly.'"
 
-
 "Quite right," said the Colonel.
 
 "Yes," said young Pierce, with a rather vague expression, "I'm glad
@@ -2808,14 +2783,12 @@ he feels that the time has come to speak plainly."
 
 "Quite so," observed the lawyer dryly; "he continues as follows:"
 
-
 "`I've got a lot to tell you about the new arrangement, which works
 much better even than I hoped.  I was afraid at first it would
 really be an encumbrance, as you know it's always supposed to be. 
 But there are more things, and all the rest of it, and God
 fulfils himself, and so on and so on.  It gives one quite a weird
 Asiatic feeling sometimes.'"
-
 
 "Yes," said the Colonel, "it does."
 
@@ -2825,7 +2798,6 @@ bear no more.
 "You are not used to the epistolary method," said Hood indulgently;
 "you haven't got into the swing of the style.  It goes on:"
 
-
 "`Of course, he's a big pot down here, and all sorts of skunks
 are afraid of him and pretend to boycott me.  Nobody could expect
 anything else of those pineapple people, but I confess I was
@@ -2834,7 +2806,6 @@ but she goes to Scotland a good deal and you can't blame her.
 Sometimes I'm left pretty severely alone, but I'm not downhearted;
 you'll probably laugh if I tell you that Snowdrop is really a very
 intelligent companion.'"
-
 
 "I confess I am long past laughter," said Hilary Pierce sadly;
 "but I rather wish I knew who Snowdrop is."
@@ -2851,12 +2822,10 @@ of fiction and film-drama if Snowdrop were the daughter of the lady,
 when she had married Another.  But there seems to be something
 more about Snowdrop, that little sunbeam in the house:"
 
-
 "`Snowdrop tries to enter our ways, as they always do; but, of course,
 it would be awkward if she played tricks.  How alarmed they would
 all be if she took it into her head to walk about on two legs,
 like everybody else.'"
-
 
 "Nonsense!" ejaculated Colonel Crane.  "Can't be a child--
 talking about it walking about on two legs."
@@ -2949,7 +2918,6 @@ you'd be surprised at what you saw."
 "I mean," replied Pierce, "that you'd find Mr. White talking
 to somebody who didn't seem to be there."
 
-
 Hilary Pierce, fired by his detective fever, made a good many
 more inquiries about the Rev. Wilding White, both of his two old
 friends and elsewhere.
@@ -3006,7 +2974,6 @@ by the way, that I had a letter from him too.  Came the day
 after I heard yours.  Shorter, and perhaps a little plainer." 
 And he handed the letter to Hood, who read it out slowly:
 
-
 "`I never knew the old British populace, here in Avalon itself,
 could be so broken down by squires and sneaking lawyers. 
 Nobody dared help me move my house again; said it was illegal
@@ -3015,7 +2982,6 @@ carted it all away in two or three journeys; took it right clean
 off the old fool's land altogether this time.  I fancy the old
 fool will have to admit there are things in this world he wasn't
 prepared to believe in.'"
-
 
 "But look here," began Hood as if impulsively, and then stopped
 and spoke more slowly and carefully.  "I don't understand this;
@@ -3204,7 +3170,6 @@ that he has been very much too exact."
 he used.  It was very exact; it was dull, deadly, literal truth. 
 But I can be exact, too, at times, and just now I should like to look
 at a time-table."
-
 
 They found the village of Ponder's End in a condition as comically
 incongruous as could well be with the mystical experiences
@@ -3507,15 +3472,11 @@ the reader has already been warned--nay, threatened--that they are
 involved in the narrative called the Exclusive Luxury of Enoch Oates,
 and for the moment the threat must hang like thunder in the air.
 
-
-
 Chapter V
 
 The Exclusive Luxury of Enoch Oates
 
-
 "Since the Colonel ate his hat the Lunatic Asylum has lacked a background."
-
 
 The conscientious scribe cannot but be aware that the above sentence,
 standing alone and without reference to previous matters, may not
@@ -4087,7 +4048,6 @@ That's the extraordinary part of it."
 "It means, my boy," answered the Colonel, "that I think you owe
 our guest an apology."
 
-
 So it came about that there was an epilogue, as there had been
 a prologue, to the drama of the entrance and exit of Mr. Enoch
 B. Oates; an epilogue which in its turn became a prologue to
@@ -4223,12 +4183,9 @@ itself when the prostrate reader has recovered sufficient strength
 to support the story of The Unthinkable Theory of Professor Green,
 which those who would endure to the end may read at some later date.
 
-
-
 Chapter VI
 
 The Unthinkable Theory of Professor Green
-
 
 If the present passage in the chronicles of the Long Bow seem but
 a side issue, an interlude and an idyll, a mere romantic episode
@@ -4666,7 +4623,6 @@ with considerable interest the meaning and possibilities of the new
 astronomical theory.  In Bath the lecture-hall was being prepared
 for the exposition of the theory.  The theorist had forgotten all about it.
 
-
 "I have been thinking a good deal," Hilary Pierce was saying,
 "about that astronomical fellow who is going to lecture in Bath
 to-night. It seemed to me somehow that he was a kindred spirit
@@ -4767,11 +4723,9 @@ The Colonel, sitting at his club with his favourite daily paper
 spread out before him, was regarding with a grave wonder a paragraph
 that began with the following head-lines:
 
-
               AMAZING SCENE AT SCIENTIFIC CONGRESS
 
                  LECTURER GOES MAD AND ESCAPES
-
 
 "A scene equally distressing and astonishing took place at the third
 meeting of the Astronomical Society now holding its congress
@@ -4831,7 +4785,6 @@ the young man, whose name is said to be Pierce, being a well-known
 aviator formerly connected with the Flying Corps.  The other young man,
 who assisted him and acted as pilot, has not yet been identified."
 
-
 Night closed and the stars stood out over Dale's Farm; and the
 telescope pointed at the stars in vain.  Its giant lenses had
 vainly mirrored the moon of which its owner had spoken in so vain
@@ -4842,7 +4795,6 @@ go to an hotel in Bath for the night, especially if the revels
 of the roystering astronomers were long and late.  "It's no affair
 of ours," said the farmer's wife cheerfully.  "He is not a child." 
 But the farmer's daughter was not quite so sure on the point.
-
 
 Next morning she rose even earlier than usual and went about her
 ordinary tasks, which by some accident or other seemed to look more
@@ -4895,7 +4847,6 @@ had scaled it, under its continuous canopy of low spreading trees,
 she had the sensation of having walked for a long time.  And when
 the ascent ended with a gap in the trees and a blank space of sky,
 she looked over the edge like one looking into another world.
-
 
 Mr. Enoch Oates, in his more expansive moments, had been known to
 allude to what he called God's Great Prairies.  Mr. Rosenbaum Low,
@@ -5044,13 +4995,10 @@ the story of the Unprecedented Architecture of Commander Blair;
 and with that, it is comforting to know, the story of all these things
 will be drawing near its explanation and its end.
 
-
-
 Chapter VII
 
 The Unprecedented Architecture
 of Commander Blair
-
 
 The Earl of Eden had become Prime Minister for the third time,
 and his face and figure were therefore familiar in the political
@@ -5371,7 +5319,6 @@ about your intentions touching Welkin Castle, my own estate,
 as it would enable me to make my own arrangements.--Yours very truly,
                                          "Welkyn of Welkin."
 
-
 "Who is Welkyn?" asked the puzzled politician; "he writes as if he knew me;
 but I can't recall him at the moment.  And where is Welkin Castle? 
 We must look at the maps again."
@@ -5407,7 +5354,6 @@ to make a protest of a more public kind; and when you next hear
 from me it will be in the form of a general appeal to the justice
 of the English people.--Yours truly,
                                           Welkyn of Welkin."
-
 
 The historic and even heroic traditions of Welkin Castle kept a
 dozen of the Prime Minister's private secretaries busy for a week,
@@ -5539,14 +5485,12 @@ about private property in air.  The most important of the documents,
 which Lord Eden studied more attentively, though with a grim smile,
 began with the sentence in large letters:
 
-
 "An Englishman's House Is No Longer His Castle On The Soil Of England. 
 If It Is To Be His Castle, It Must Be A Castle In The Air.
 
 "If There Seem To Be Something Unfamiliar And Even Fanciful In
 The Idea, We Reply That It Is Not Half So Fantastic To Own Your Own
 Houses In The Clouds As Not To Own Your Own Houses On The Earth."
-
 
 Then followed a passage of somewhat less solid political value,
 in which the acute reader might trace the influence of the poetical
@@ -5565,7 +5509,6 @@ of this section concluded with the great social and economic slogan:
 But when Lord Eden read on, his attention appeared graver than this
 particular sort of social reconstruction would seem to warrant. 
 The writer of the pamphlet resumed:
-
 
 "Do not be surprised if there seems to be something topsy-turvy
 in the above programme.  That topsy-turvydom marks the whole of
@@ -5602,12 +5545,10 @@ and keeping the house as well, is concealed from the public;
 along with the equally interesting fact that he is allowed to do
 these things chiefly because he lends money to the Prime Minister."
 
-
 The Prime Minister smiled still more grimly and glanced in a light
 yet lingering fashion at some of the accompanying leaflets. 
 They seemed to be in the form of electioneering leaflets, though not
 apparently connected with any particular election.
-
 
 "Vote for Crane.  He Said He would Heat His Hat and Did It. 
 Lord Normantowers said he would explain how people came to swallow
@@ -5619,7 +5560,6 @@ and they didn't. It was your money he made to fly.
 
 "Vote for the League of the Long Bow.  They Are The Only Men Who
 Don't Tell Lies."
-
 
 The Prime Minister stood gazing after the vanishing cloud-castle,
 as it faded into the clouds, with a curious expression in his eyes. 
@@ -5899,13 +5839,10 @@ his whole project fared, is a part of the story of The Ultimate
 Ultimatum of the League of the Long Bow, after which the exhausted
 and broken-spirited reader may find rest at last.
 
-
-
 Chapter VIII
 
 The Ultimate Ultimatum
 of the League of the Long Bow
-
 
 Mr. Robert Owen Hood came through his library that was lined with brown
 leather volumes with a brown paper parcel in his hand; a flippant person
@@ -6638,9 +6575,7 @@ each one of us his Vita Nuova?"
 
 "No, sir," said Mr. Archer.
 
-
      *     *     *     *     *     *     *     *     *
-
 
 Thus does the chronicler of the League of the Long Bow come to
 the end of his singularly unproductive and unprofitable labours,
@@ -6665,6 +6600,3 @@ all over the neighbourhood, or expecting to find it still sticking
 in a mortal and murderous manner in the heart of a friend. 
 His is only a toy bow; and when a boy shoots with such a bow,
 it is generally very difficult to find the arrow--or the boy.
-
-
-===== FINE FILE: longbow2.txt =====

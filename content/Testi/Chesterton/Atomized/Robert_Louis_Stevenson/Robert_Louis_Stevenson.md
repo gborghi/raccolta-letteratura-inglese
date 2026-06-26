@@ -3890,6 +3890,3 @@ For of such is the kingdom of heaven."
 THE END
 
 * * * *
-
-
-===== FINE FILE: Robert_Louis_Stevenson.txt =====

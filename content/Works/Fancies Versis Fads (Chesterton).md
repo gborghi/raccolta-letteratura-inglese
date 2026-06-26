@@ -32,7 +32,6 @@ tags:
 
 - [Chapter 01 MANUFACTURERS](/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS)
 
-
 ## Testo integrale / Full text
 
 FANCIES VERSUS FADS
@@ -40,15 +39,12 @@ FANCIES VERSUS FADS
 BY
 G. K. CHESTERTON
 
-
 NEW YORK
 DODD, MEAD AND COMPANY
 1923
 
-
 COPYRIGHT, 1923,
 By DODD, MEAD AND COMPANY, INC.
-
 
 PRINTED IN THE U. S. A. BY
 THE QUINN & BODEN COMPANY
@@ -6104,7 +6100,3 @@ but I know not when we shall find our way back to our own land.
 --
 
 THE END
-
-
-
-===== FINE FILE: Fancies_Versis_Fads.txt =====

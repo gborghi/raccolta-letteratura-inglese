@@ -51,13 +51,11 @@ tags:
 - [Story 07 The Doom of the Darnaways](/Testi/Chesterton/Atomized/Incredulity/Story_07_The_Doom_of_the_Darnaways)
 - [Story 08 The Ghost of Gideon Wise](/Testi/Chesterton/Atomized/Incredulity/Story_08_The_Ghost_of_Gideon_Wise)
 
-
 ## Testo integrale / Full text
 
 The Incredulity of Father Brown (1926)
 
 G. K. Chesterton
-
 
 ONE:  The Resurrection of Father Brown
 
@@ -7771,8 +7769,3 @@ the climbing adventure.'
 And how very literary!  Home is a sneak and a skunk, but do
 not forget that, like many other sneaks and skunks in history,
 he is also a poet.'
-
-
-
-
-===== FINE FILE: Incredulity.txt =====

@@ -38,7 +38,6 @@ Gold Leaves
 
 	    by G.K.Chesterton  
 
-
 	Lo! I am come to autumn,  
 	  When all the leaves are gold;  
 	Grey hairs and golden leaves cry out  
@@ -57,8 +56,4 @@ Gold Leaves
 	In youth I sought the golden flower  
 	  Hidden in wood or wold,  
 	But I am come to autumn,  
-	  When all the leaves are gold.  
-
-
-
-===== FINE FILE: gold-leaves.txt =====  
+	  When all the leaves are gold.

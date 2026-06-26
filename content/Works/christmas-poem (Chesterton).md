@@ -92,7 +92,4 @@ Christmas Poem
      To the place where God was homeless  
      And all men are at home.  
 
-     (Gilbert Keith Chesterton)  
-
-
-===== FINE FILE: christmas-poem.txt =====  
+     (Gilbert Keith Chesterton)

@@ -35,8 +35,6 @@ tags:
 
 The Project Gutenberg EBook of Magic, by G.K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -45,41 +43,19 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: Magic
 
        A Fantastic Comedy
 
-
-
 Author: G.K. Chesterton
-
-
 
 Release Date: August 21, 2006 [EBook #19094]
 
-
-
 Language: English
-
-
 
 Character set encoding: ASCII
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK MAGIC ***
-
-
-
-
-
-
-
-
 
 Produced by Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
 
@@ -87,57 +63,21 @@ and the Online Distributed Proofreading Team at
 
 http://www.pgdp.net
 
-
-
-
-
-
-
-
-
-
-
 MAGIC
 
 A FANTASTIC COMEDY
-
-
-
-
-
-
-
-
 
 [Illustration: G.K. Chesterton
 
 From a photograph]
 
-
-
-
-
-
-
-
-
 MAGIC
 
 A FANTASTIC COMEDY
 
-
-
 BY
 
 G.K. CHESTERTON
-
-
-
-
-
-
-
-
 
 G.P. PUTNAM'S SONS
 
@@ -147,37 +87,15 @@ The Knickerbocker Press
 
 1913
 
-
-
-
-
-
-
-
-
 COPYRIGHT, 1913
 
 BY
 
 G.K. CHESTERTON
 
-
-
-
-
 The Knickerbocker Press, New York
 
-
-
-
-
-
-
-
-
 THE CHARACTERS
-
-
 
 THE DUKE
 
@@ -193,27 +111,13 @@ THE STRANGER
 
 PATRICIA CARLEON
 
-
-
 _The action takes place in the Duke's Drawing-room._
 
-
-
-
-
-
-
-
-
 NOTE
-
-
 
 THIS play was presented under the management of Kenelm Foss at The
 
 Little Theatre, London, on November 7, 1913, with the following cast:
-
-
 
 THE STRANGER             FRANKLIN DYALL
 
@@ -229,27 +133,13 @@ HASTINGS                 FRANK RANDELL
 
 MORRIS CARLEON           LYONEL WATTS
 
-
-
-
-
-
-
-
-
 THE PRELUDE
-
-
-
-
 
      SCENE: _A plantation of thin young trees, in a misty and rainy
 
      twilight; some woodland blossom showing the patches on the earth
 
      between the stems._
-
-
 
      THE STRANGER _is discovered, a cloaked figure with a pointed hood.
 
@@ -258,8 +148,6 @@ THE PRELUDE
      conical hood is so drawn over the head that little can be seen of
 
      the face._
-
-
 
      _A distant voice, a woman's, is heard, half-singing, half-chanting,
 
@@ -279,17 +167,11 @@ THE PRELUDE
 
      back._
 
-
-
 PATRICIA. Oh! Who are you?
-
-
 
 STRANGER. Ah! Who am I? [_Commences to mutter to himself, and maps out
 
 the ground with his staff._]
-
-
 
      I have a hat, but not to wear;
 
@@ -299,31 +181,19 @@ the ground with his staff._]
 
      A pack of cards, but not to play.
 
-
-
 PATRICIA. What are you? What are you saying?
 
-
-
 STRANGER. It is the language of the fairies, O daughter of Eve.
-
-
 
 PATRICIA. But I never thought fairies were like you. Why, you are taller
 
 than I am.
 
-
-
 STRANGER. We are of such stature as we will. But the elves grow small,
 
 not large, when they would mix with mortals.
 
-
-
 PATRICIA. You mean they are beings greater than we are.
-
-
 
 STRANGER. Daughter of men, if you would see a fairy as he truly is, look
 
@@ -341,21 +211,13 @@ look for them in acorns and on toadstools and wonder that you never see
 
 them.
 
-
-
 PATRICIA. But you come in the shape and size of a man?
 
-
-
 STRANGER. Because I would speak with a woman.
-
-
 
 PATRICIA. [_Drawing back in awe._] I think you are growing taller as you
 
 speak.
-
-
 
      [_The scene appears to fade away, and give place to the milieu of_
 
@@ -377,41 +239,25 @@ speak.
 
      ass._
 
-
-
 [_To him enters_ MR. HASTINGS _with papers in his hand._
-
-
 
 HASTINGS. Oh, good evening. You are Mr. Smith. [_Pause._] I mean you are
 
 the Rector, I think.
 
-
-
 SMITH. I am the Rector.
-
-
 
 HASTINGS. I am the Duke's secretary. His Grace asks me to say that he
 
 hopes to see you very soon; but he is engaged just now with the Doctor.
 
-
-
 SMITH. Is the Duke ill?
-
-
 
 HASTINGS. [_Laughing._] Oh, no; the Doctor has come to ask him to help
 
 some cause or other. The Duke is never ill.
 
-
-
 SMITH. Is the Doctor with him now?
-
-
 
 HASTINGS. Why, strictly speaking, he is not. The Doctor has gone over
 
@@ -419,21 +265,13 @@ the road to fetch a paper connected with his proposal. But he hasn't far
 
 to go, as you can see. That's his red lamp at the end of his grounds.
 
-
-
 SMITH. Yes, I know. I am much obliged to you. I will wait as long as is
 
 necessary.
 
-
-
 HASTINGS. [_Cheerfully._] Oh, it won't be very long.
 
-
-
      [_Exit._
-
-
 
      [_Enter by the garden doors_ DR. GRIMTHORPE _reading an open paper.
 
@@ -443,25 +281,17 @@ HASTINGS. [_Cheerfully._] Oh, it won't be very long.
 
      sixty years old and might have been a friend of Huxley's._
 
-
-
 DOCTOR. [_Folding up the paper._] I beg your pardon, sir, I did not
 
 notice there was anyone here.
-
-
 
 SMITH. [_Amicably._] I beg yours. A new clergyman cannot expect to be
 
 expected. I only came to see the Duke about some local affairs.
 
-
-
 DOCTOR. [_Smiling._] And so, oddly enough, did I. But I suppose we
 
 should both like to get hold of him by a separate ear.
-
-
 
 SMITH. Oh, there's no disguise as far as I'm concerned. I've joined this
 
@@ -469,37 +299,25 @@ league for starting a model public-house in the parish; and in plain
 
 words, I've come to ask his Grace for a subscription to it.
 
-
-
 DOCTOR. [_Grimly._] And, as it happens, I have joined in the petition
 
 against the erection of a model public-house in this parish. The
 
 similarity of our position grows with every instant.
 
-
-
 SMITH. Yes, I think we must have been twins.
-
-
 
 DOCTOR. [_More good-humouredly._] Well, what is a model public-house? Do
 
 you mean a toy?
 
-
-
 SMITH. I mean a place where Englishmen can get decent drink and drink it
 
 decently. Do you call that a toy?
 
-
-
 DOCTOR. No; I should call that a conjuring trick. Or, in apology to your
 
 cloth, I will say a miracle.
-
-
 
 SMITH. I accept the apology to my cloth. I am doing my duty as a priest.
 
@@ -507,51 +325,33 @@ How can the Church have a right to make men fast if she does not allow
 
 them to feast?
 
-
-
 DOCTOR. [_Bitterly._] And when you have done feasting them, you will
 
 send them to me to be cured.
-
-
 
 SMITH. Yes; and when you've done curing them you'll send them to me to
 
 be buried.
 
-
-
 DOCTOR. [_After a pause, laughing._] Well, you have all the old
 
 doctrines. It is only fair you should have all the old jokes too.
-
-
 
 SMITH. [_Laughing also._] By the way, you call it a conjuring trick that
 
 poor people should drink moderately.
 
-
-
 DOCTOR. I call it a chemical discovery that alcohol is not a food.
 
-
-
 SMITH. You don't drink wine yourself?
-
-
 
 DOCTOR. [_Mildly startled._] Drink wine! Well--what else is there to
 
 drink?
 
-
-
 SMITH. So drinking decently is a conjuring trick that you can do,
 
 anyhow?
-
-
 
 DOCTOR. [_Still good-humouredly._] Well, well, let us hope so. Talking
 
@@ -559,59 +359,35 @@ about conjuring tricks, there is to be conjuring and all kinds of things
 
 here this afternoon.
 
-
-
 SMITH. Conjuring? Indeed? Why is that?
 
-
-
      _Enter_ HASTINGS _with a letter in each hand._
-
-
 
 HASTINGS. His Grace will be with you presently. He asked me to deal with
 
 the business matter first of all.
 
-
-
      [_He gives a note to each of them._
-
-
 
 SMITH. [_Turning eagerly to the_ DOCTOR.] But this is rather splendid.
 
 The Duke's given L50 to the new public-house.
 
-
-
 HASTINGS. The Duke is very liberal.
 
-
-
      [_Collects papers._
-
-
 
 DOCTOR. [_Examining his cheque._] Very. But this is rather curious. He
 
 has also given L50 to the league for opposing the new public-house.
 
-
-
 HASTINGS. The Duke is very liberal-minded.
 
-
-
      [_Exit._
-
-
 
 SMITH. [_Staring at his cheque._] Liberal-minded!... Absent-minded, I
 
 should call it.
-
-
 
 DOCTOR. [_Sitting down and lighting a cigar._] Well, yes. The Duke does
 
@@ -627,21 +403,13 @@ always trying to please everybody. He generally finishes by pleasing
 
 nobody.
 
-
-
 SMITH. Yes; I think I know the sort of thing.
-
-
 
 DOCTOR. Take this conjuring, for instance. You know the Duke has two
 
 wards who are to live with him now?
 
-
-
 SMITH. Yes. I heard something about a nephew and niece from Ireland.
-
-
 
 DOCTOR. The niece came from Ireland some months ago, but the nephew
 
@@ -653,15 +421,11 @@ precious public-house you seem to me to be a sane man. And I fancy I
 
 shall want all the sane men I can get to-night.
 
-
-
 SMITH. [_Rising also._] I am at your service. Do you know, I rather
 
 guessed you did not come here only to protest against my precious
 
 public-house.
-
-
 
 DOCTOR. [_Striding about in subdued excitement._] Well, you guessed
 
@@ -669,23 +433,15 @@ right. I was family physician to the Duke's brother in Ireland. I knew
 
 the family pretty well.
 
-
-
 SMITH. [_Quietly._] I suppose you mean you knew something odd about the
 
 family?
 
-
-
 DOCTOR. Well, they saw fairies and things of that sort.
-
-
 
 SMITH. And I suppose, to the medical mind, seeing fairies means much the
 
 same as seeing snakes?
-
-
 
 DOCTOR. [_With a sour smile._] Well, they saw them in Ireland. I suppose
 
@@ -699,17 +455,11 @@ and goblins and witches into the poor Duke's own back garden and within
 
 a yard of my own red lamp. It shows a lack of tact.
 
-
-
 SMITH. But I do understand that the Duke's nephew and niece see witches
 
 and fairies between here and your lamp.
 
-
-
      [_He walks to the garden window and looks out._
-
-
 
 DOCTOR. Well, the nephew has been in America. It stands to reason you
 
@@ -717,11 +467,7 @@ can't see fairies in America. But there is this sort of superstition in
 
 the family, and I am not easy in my mind about the girl.
 
-
-
 SMITH. Why, what does she do?
-
-
 
 DOCTOR. Oh, she wanders about the park and the woods in the evenings.
 
@@ -733,21 +479,13 @@ But what is worse, she is always talking about meeting somebody, some
 
 elf or wizard or something. I don't like it at all.
 
-
-
 SMITH. Have you told the Duke?
-
-
 
 DOCTOR. [_With a grim smile._] Oh, yes, I told the Duke. The result was
 
 the conjurer.
 
-
-
 SMITH. [_With amazement._] The _conjurer_?
-
-
 
 DOCTOR. [_Puts down his cigar in the ash-tray._] The Duke is
 
@@ -777,8 +515,6 @@ fraud, too. The conjurer satisfies nobody. That is why he satisfies the
 
 Duke.
 
-
-
      [_Enter the_ DUKE, _with_ HASTINGS, _carrying papers. The_ DUKE _is
 
      a healthy, hearty man in tweeds, with a rather wandering eye. In
@@ -786,8 +522,6 @@ Duke.
      the present state of the peerage it is necessary to explain that
 
      the_ DUKE, _though an ass, is a gentleman._
-
-
 
 DUKE. Good-morning, Mr. Smith. So sorry to have kept you waiting, but
 
@@ -797,13 +531,9 @@ to a table with the papers._] You know Mr. Carleon is coming this
 
 afternoon?
 
-
-
 HASTINGS. Yes, your Grace. His train will be in by now. I have sent the
 
 trap.
-
-
 
 DUKE. Thank you. [_Turning to the other two._] My nephew, Dr.
 
@@ -813,13 +543,9 @@ hear he's been doing great things out there. Petrol, or something. Must
 
 move with the times, eh?
 
-
-
 DOCTOR. I'm afraid Mr. Smith doesn't always agree with moving with the
 
 times.
-
-
 
 DUKE. Oh, come, come! Progress, you know, progress! Of course I know how
 
@@ -839,23 +565,15 @@ all; and he does good in _his_ way. We can't be Ancient Britons, you
 
 know.
 
-
-
      [_A prolonged and puzzled silence, such as always follows the more
 
      abrupt of the_ DUKE'S _associations or disassociations of thought._
 
-
-
 SMITH. [_At last, faintly._] Ancient Britons....
-
-
 
 DOCTOR. [_To_ SMITH _in a low voice._] Don't bother. It's only his
 
 broad-mindedness.
-
-
 
 DUKE. [_With unabated cheerfulness._] I saw the place you're putting up
 
@@ -867,29 +585,19 @@ glad to see you're using the new sort of graining ... why, it all
 
 reminds one of the French Revolution.
 
-
-
      [_Another silence. As the_ DUKE _lounges alertly about the room_,
 
      SMITH _speaks to the_ DOCTOR _in an undertone._
 
-
-
 SMITH. Does it remind you of the French Revolution?
-
-
 
 DOCTOR. As much as of anything else. His Grace never reminds me of
 
 anything.
 
-
-
      [_A young and very high American voice is heard calling in the
 
      garden. "Say, could somebody see to one of these trunks?"_
-
-
 
      [MR. HASTINGS _goes out into the garden. He returns with_ MORRIS
 
@@ -899,21 +607,13 @@ anything.
 
      active; and the racial type under his Americanism is Irish._
 
-
-
 MORRIS. [_Humorously, as he puts in his head at the window._] See here,
 
 does a Duke live here?
 
-
-
 DOCTOR. [_Who is nearest to him, with great gravity._] Yes, only one.
 
-
-
 MORRIS. I reckon he's the one I want, anyhow. I'm his nephew.
-
-
 
      [_The_ DUKE, _who is ruminating in the foreground, with one eye
 
@@ -921,13 +621,9 @@ MORRIS. I reckon he's the one I want, anyhow. I'm his nephew.
 
      hand._
 
-
-
 DUKE. Delighted to see you, my dear boy. I hear you've been doing very
 
 well for yourself.
-
-
 
 MORRIS. [_Laughing._] Well, pretty well, Duke; and better still for Paul
 
@@ -935,53 +631,31 @@ T. Vandam, I guess. I manage the old man's mines out in Arizona, you
 
 know.
 
-
-
 DUKE. [_Shaking his head sagaciously._] Ah, very go-ahead man! Very
 
 go-ahead methods, I'm told. Well, I dare say he does a great deal of
 
 good with his money. And we can't go back to the Spanish Inquisition.
 
-
-
      [_Silence, during which the three men look at each other._
-
-
 
 MORRIS. [_Abruptly._] And how's Patricia?
 
-
-
 DUKE. [_A little hazily._] Oh, she's very well, I think. She....
-
-
 
      [_He hesitates slightly._
 
-
-
 MORRIS. [_Smiling._] Well, then, where's Patricia?
-
-
 
      [_There is a slightly embarrassed pause, and the_ DOCTOR _speaks._
 
-
-
 DOCTOR. Miss Carleon is walking about the grounds, I think.
 
-
-
      [MORRIS _goes to the garden doors and looks out._
-
-
 
 MORRIS. It's a mighty chilly night to choose. Does my sister commonly
 
 select such evenings to take the air--and the damp?
-
-
 
 DOCTOR. [_After a pause._] If I may say so, I quite agree with you. I
 
@@ -989,23 +663,15 @@ have often taken the liberty of warning your sister against going out in
 
 all weathers like this.
 
-
-
 DUKE. [_Expansively waving his hands about._] The artist temperament!
 
 What I always call the artistic temperament! Wordsworth, you know, and
 
 all that.
 
-
-
      [_Silence._
 
-
-
 MORRIS. [_Staring._] All what?
-
-
 
 DUKE. [_Continuing to lecture with enthusiasm._] Why, everything's
 
@@ -1019,23 +685,13 @@ this wizard or whatever she calls it. For her there is somebody there.
 
 For us there would not be somebody there. Don't you see?
 
-
-
 MORRIS. [_Advancing excitedly._] Somebody there! What do you mean?
-
-
 
 DUKE. [_Airily._] Well, you can't quite call it a man.
 
-
-
 MORRIS. [_Violently._] A man!
 
-
-
 DUKE. Well, as old Buffle used to say, what is a man?
-
-
 
 MORRIS. [_With a strong rise of the American accent._] With your
 
@@ -1043,35 +699,21 @@ permission, Duke, I eliminate old Buffle. Do you mean that anybody has
 
 had the tarnation coolness to suggest that some man....
 
-
-
 DUKE. Oh, not a _man_, you know. A magician, something mythical, you
 
 know.
 
-
-
 SMITH. Not a _man_, but a medicine man.
-
-
 
 DOCTOR. [_Grimly._] I am a medicine man.
 
-
-
 MORRIS. And you don't look mythical, Doc.
-
-
 
      [_He bites his finger and begins to pace restlessly up and down the
 
      room._
 
-
-
 DUKE. Well, you know, the artistic temperament....
-
-
 
 MORRIS. [_Turning suddenly._] See here, Duke! In most commercial ways
 
@@ -1081,69 +723,41 @@ a pretty backward country. And if you ask me whether I like my sister
 
 walking about the woods on a night like this! Well, I don't.
 
-
-
 DUKE. I am afraid you Americans aren't so advanced as I'd hoped. Why! as
 
 old Buffle used to say....
-
-
 
      [_As he speaks a distant voice is heard singing in the garden; it
 
      comes nearer and nearer, and_ SMITH _turns suddenly to the_ DOCTOR.
 
-
-
 SMITH. Whose voice is that?
 
-
-
 DOCTOR. It is no business of mine to decide!
-
-
 
 MORRIS. [_Walking to the window._] You need not trouble. I know who it
 
 is.
 
-
-
      _Enter_ PATRICIA CARLEON
-
-
 
 [_Still agitated._] Patricia, where have you been?
 
-
-
 PATRICIA. [_Rather wearily._] Oh! in Fairyland.
 
-
-
 DOCTOR. [_Genially._] And whereabouts is that?
-
-
 
 PATRICIA. It's rather different from other places. It's either nowhere
 
 or it's wherever you are.
 
-
-
 MORRIS. [_Sharply._] Has it any inhabitants?
-
-
 
 PATRICIA. Generally only two. Oneself and one's shadow. But whether he
 
 is my shadow or I am his shadow is never found out.
 
-
-
 MORRIS. He? Who?
-
-
 
 PATRICIA. [_Seeming to understand his annoyance for the first time, and
 
@@ -1151,21 +765,13 @@ smiling._] Oh, you needn't get conventional about it, Morris. He is not
 
 a mortal.
 
-
-
 MORRIS. What's his name?
-
-
 
 PATRICIA. We have no names there. You never really know anybody if you
 
 know his name.
 
-
-
 MORRIS. What does he look like?
-
-
 
 PATRICIA. I have only met him in the twilight. He seems robed in a long
 
@@ -1177,21 +783,13 @@ this house like a shadow; and see his pointed hood, dark against the
 
 sunset or the rising of the moon.
 
-
-
 SMITH. What does he talk about?
 
-
-
 PATRICIA. He tells me the truth. Very many true things. He is a wizard.
-
-
 
 MORRIS. How do you know he's a wizard? I suppose he plays some tricks on
 
 you.
-
-
 
 PATRICIA. I should know he was a wizard if he played no tricks. But once
 
@@ -1199,25 +797,15 @@ he stooped and picked up a stone and cast it into the air, and it flew
 
 up into God's heaven like a bird.
 
-
-
 MORRIS. Was that what first made you think he was a wizard?
-
-
 
 PATRICIA. Oh, no. When I first saw him he was tracing circles and
 
 pentacles in the grass and talking the language of the elves.
 
-
-
 MORRIS. [_Sceptically._] Do you know the language of the elves?
 
-
-
 PATRICIA. Not until I heard it.
-
-
 
 MORRIS. [_Lowering his voice as if for his sister, but losing patience
 
@@ -1231,13 +819,9 @@ because you choose to read minor poetry about the fairies. If this gipsy
 
 or whatever he is troubles you again....
 
-
-
 DOCTOR. [_Putting his hand on_ MORRIS'S _shoulder._] Come, you must
 
 allow a little more for poetry. We can't all feed on nothing but petrol.
-
-
 
 DUKE. Quite right, quite right. And being Irish, don't you know, Celtic,
 
@@ -1247,17 +831,11 @@ girl who has a plaid shawl--and a Banshee. [_Sighs profoundly._] Poor
 
 old Gladstone!
 
-
-
      [_Silence as usual._
-
-
 
 SMITH. [_Speaking to_ DOCTOR.] I thought you yourself considered the
 
 family superstition bad for the health?
-
-
 
 DOCTOR. I consider a family superstition is better for the health than a
 
@@ -1277,11 +855,7 @@ Dream for us who can dream no longer. But do not quite forget the
 
 difference."
 
-
-
 PATRICIA. What difference?
-
-
 
 DOCTOR. The difference between the things that are beautiful and the
 
@@ -1293,43 +867,27 @@ of gold and silver have faded. I am an old man now, but some men are
 
 still glad to find my red star. I do not say they are the wise men.
 
-
-
 PATRICIA. [_Somewhat affected._] Yes, I know you are good to everybody.
 
 But don't you think there may be floating and spiritual stars which will
 
 last longer than the red lamps?
 
-
-
 SMITH. [_With decision._] Yes. But they are fixed stars.
 
-
-
 DOCTOR. The red lamp will last my time.
-
-
 
 DUKE. Capital! Capital! Why, it's like Tennyson. [_Silence._] I remember
 
 when I was an undergrad....
 
-
-
      [_The red light disappears; no one sees it at first except_
 
      PATRICIA, _who points excitedly._
 
-
-
 MORRIS. What's the matter?
 
-
-
 PATRICIA. The red star is gone.
-
-
 
 MORRIS. Nonsense! [_Rushes to the garden doors._] It's only somebody
 
@@ -1337,53 +895,31 @@ standing in front of it. Say, Duke, there's somebody standing in the
 
 garden.
 
-
-
 PATRICIA. [_Calmly._] I told you he walked about the garden.
-
-
 
 MORRIS. If it's that fortune-teller of yours....
 
-
-
      [_Disappears into the garden, followed by the_ DOCTOR.
-
-
 
 DUKE. [_Staring._] Somebody in the garden! Really, this Land
 
 Campaign....
 
-
-
      [_Silence._
 
-
-
      [MORRIS _reappears rather breathless._
-
-
 
 MORRIS. A spry fellow, your friend. He slipped through my hands like a
 
 shadow.
 
-
-
 PATRICIA. I told you he was a shadow.
-
-
 
 MORRIS. Well, I guess there's going to be a shadow hunt. Got a lantern,
 
 Duke?
 
-
-
 PATRICIA. Oh, you need not trouble. He will come if I call him.
-
-
 
      [_She goes out into the garden and calls out some half-chanted and
 
@@ -1397,49 +933,31 @@ PATRICIA. Oh, you need not trouble. He will come if I call him.
 
      doors._
 
-
-
 PATRICIA. You may enter all doors.
 
-
-
      [_The figure comes into the room_
-
-
 
 MORRIS. [_Shutting the garden doors behind him._] Now, see here, wizard,
 
 we've got you. And we know you're a fraud.
 
-
-
 SMITH. [_Quietly._] Pardon me, I do not fancy that we know that. For
 
 myself I must confess to something of the Doctor's agnosticism.
-
-
 
 MORRIS. [_Excited, and turning almost with a snarl._] I didn't know you
 
 parsons stuck up for any fables but your own.
 
-
-
 SMITH. I stick up for the thing every man has a right to. Perhaps the
 
 only thing that every man has a right to.
 
-
-
 MORRIS. And what is that?
-
-
 
 SMITH. The benefit of the doubt. Even your master, the petroleum
 
 millionaire, has a right to that. And I think he needs it more.
-
-
 
 MORRIS. I don't think there's much doubt about the question, Minister.
 
@@ -1449,39 +967,23 @@ wheedles money out of girls by telling them he can make stones
 
 disappear.
 
-
-
 DOCTOR. [_To the_ STRANGER.] Do you say you can make stones disappear?
 
-
-
 STRANGER. Yes. I can make stones disappear.
-
-
 
 MORRIS. [_Roughly._] I reckon you're the kind of tough who knows how to
 
 make a watch and chain disappear.
 
-
-
 STRANGER. Yes; I know how to make a watch and chain disappear.
-
-
 
 MORRIS. And I should think you were pretty good at disappearing
 
 yourself.
 
-
-
 STRANGER. I have done such a thing.
 
-
-
 MORRIS. [_With a sneer._] Will you disappear now?
-
-
 
 STRANGER. [_After reflection._] No, I think I'll appear instead. [_He
 
@@ -1499,75 +1001,37 @@ this gentleman [_with a gesture towards_ MORRIS] seemed rather impatient
 
 for it to begin.
 
-
-
 DUKE. [_Rather at a loss._] Oh, good-evening. Why, really--are you
 
 the...?
 
-
-
 STRANGER. [_Bowing._] Yes. I am the Conjurer.
-
-
 
      [_There is general laughter, except from_ PATRICIA. _As the others
 
      mingle in talk, the_ STRANGER _goes up to her._
 
-
-
 STRANGER. [_Very sadly._] I am very sorry I am not a wizard.
-
-
 
 PATRICIA. I wish you were a thief instead.
 
-
-
 STRANGER. Have I committed a worse crime than thieving?
-
-
 
 PATRICIA. You have committed the cruellest crime, I think, that there
 
 is.
 
-
-
 STRANGER. And what is the cruellest crime?
-
-
 
 PATRICIA. Stealing a child's toy.
 
-
-
 STRANGER. And what have I stolen?
-
-
 
 PATRICIA. A fairy tale.
 
-
-
-
-
      CURTAIN
 
-
-
-
-
-
-
-
-
 ACT II
-
-
-
-
 
      _The same room lighted more brilliantly an hour later in the
 
@@ -1579,23 +1043,15 @@ ACT II
 
      _and_ HASTINGS _with a number of papers._
 
-
-
 HASTINGS. There are only a few small matters. Here are the programmes of
 
 the entertainment your Grace wanted. Mr. Carleon wishes to see them very
 
 much.
 
-
-
 DUKE. Thanks, thanks. [_Takes the programmes._]
 
-
-
 HASTINGS. Shall I carry them for your Grace?
-
-
 
 DUKE. No, no; I shan't forget, I shan't forget. Why, you've no idea how
 
@@ -1615,8 +1071,6 @@ discussion._] Why, the Professor here who performs before the King
 
 know--performs before the King almost every night, I suppose....
 
-
-
 CONJURER. [_Smiling._] I sometimes let his Majesty have an evening off.
 
 And turn my attention, of course, to the very highest nobility. But
@@ -1625,39 +1079,25 @@ naturally I have performed before every sovereign potentate, white and
 
 black. There never was a conjurer who hadn't.
 
-
-
 DUKE. That's right, that's right! And you'll say with me that the great
 
 business for a King is remembering people?
 
-
-
 CONJURER. I should say it was remembering which people to remember.
-
-
 
 DUKE. Well, well, now.... [_Looks round rather wildly for something._]
 
 Being really businesslike....
 
-
-
 HASTINGS. Shall I take the programmes for your Grace?
-
-
 
 DUKE. [_Picking them up._] No, no, I shan't forget. Is there anything
 
 else?
 
-
-
 HASTINGS. I have to go down the village about the wire to Stratford. The
 
 only other thing at all urgent is the Militant Vegetarians.
-
-
 
 DUKE. Ah! The Militant Vegetarians! You've heard of them, I'm sure.
 
@@ -1665,27 +1105,17 @@ Won't obey the law [_to the_ CONJURER] so long as the Government serves
 
 out meat.
 
-
-
 CONJURER. Let them be comforted. There are a good many people who don't
 
 get much meat.
-
-
 
 DUKE. Well, well, I'm bound to say they're very enthusiastic. Advanced,
 
 too--oh, certainly advanced. Like Joan of Arc.
 
-
-
      [_Short silence, in which the_ CONJURER _stares at him._]
 
-
-
 CONJURER. _Was_ Joan of Arc a Vegetarian?
-
-
 
 DUKE. Oh, well, it's a very high ideal, after all. The Sacredness of
 
@@ -1693,13 +1123,9 @@ Life, you know--the Sacredness of Life. [_Shakes his head._] But they
 
 carry it too far. They killed a policeman down in Kent.
 
-
-
 CONJURER. Killed a policeman? How Vegetarian! Well, I suppose it was, so
 
 long as they didn't eat him.
-
-
 
 HASTINGS. They are asking only for small subscriptions. Indeed, they
 
@@ -1707,21 +1133,13 @@ prefer to collect a large number of half-crowns, to prove the popularity
 
 of their movement. But I should advise....
 
-
-
 DUKE. Oh, give them three shillings, then.
 
-
-
 HASTINGS. If I might suggest....
-
-
 
 DUKE. Hang it all! We gave the Anti-Vegetarians three shillings. It
 
 seems only fair.
-
-
 
 HASTINGS. If I might suggest anything, I think your Grace will be wise
 
@@ -1734,8 +1152,6 @@ if the Vegetarians use theirs to break up the meetings--well, it will
 look rather funny that we have paid roughs on both sides. It will be
 
 rather difficult to explain when it comes before the magistrate.
-
-
 
 DUKE. But I shall be the magistrate. [CONJURER _stares at him again._]
 
@@ -1755,33 +1171,21 @@ be sure to be hard on the Vegetarian roughs. But if I've paid both of
 
 Just perfect impartiality.
 
-
-
 HASTINGS. [_Restrainedly._] Shall I take the programmes, your Grace?
-
-
 
 DUKE. [_Heartily._] No, no; I won't forget 'em. [_Exit_ HASTINGS.] Well,
 
 Professor, what's the news in the conjuring world?
 
-
-
 CONJURER. I fear there is never any news in the conjuring world.
-
-
 
 DUKE. Don't you have a newspaper or something? Everybody has a newspaper
 
 now, you know. The--er--Daily Sword-Swallower or that sort of thing?
 
-
-
 CONJURER. No, I have been a journalist myself; but I think journalism
 
 and conjuring will always be incompatible.
-
-
 
 DUKE. Incompatible--Oh, but that's where I differ--that's where I take
 
@@ -1793,55 +1197,35 @@ about that. It's wonderful the way incompatibility has gone forward in
 
 the States.
 
-
-
 CONJURER. I only mean that the two trades rest on opposite principles.
 
 The whole point of being a conjurer is that you won't explain a thing
 
 that has happened.
 
-
-
 DUKE. Well, and the journalist?
-
-
 
 CONJURER. Well, the whole point of being a journalist is that you do
 
 explain a thing that hasn't happened.
 
-
-
 DUKE. But you'll want somewhere to discuss the new tricks.
-
-
 
 CONJURER. There are no new tricks. And if there were we shouldn't want
 
 'em discussed.
 
-
-
 DUKE. I'm afraid you're not _really_ advanced. Are you interested in
 
 modern progress?
 
-
-
 CONJURER. Yes. We are interested in all tricks done by illusion.
-
-
 
 DUKE. Well, well, I must go and see how Morris is. Pleasure of seeing
 
 you later.
 
-
-
      [_Exit_ DUKE, _leaving the programmes._
-
-
 
 CONJURER. Why are nice men such asses? [_Turns to arrange the table._]
 
@@ -1865,23 +1249,15 @@ I am a conjurer and nothing else but a conjurer. Unless I could show I
 
 was something else, and that would be worse.
 
-
-
      [_He begins to dash the cards rather irregularly about the table.
 
      Enter_ PATRICIA.
-
-
 
 PATRICIA. [_Coldly_] I beg your pardon. I came to get some programmes.
 
 My uncle wants them.
 
-
-
      [_She walks swiftly across and takes up the programmes._
-
-
 
 CONJURER. [_Still dashing cards about the table._] Miss Carleon, might I
 
@@ -1891,37 +1267,21 @@ table; and his face assumes a sardonic expression._] The question is
 
 purely practical.
 
-
-
 PATRICIA. [_Pausing at the door._] I can hardly imagine what the
 
 question can be.
 
-
-
 CONJURER. I am the question.
-
-
 
 PATRICIA. And what have I to do with that?
 
-
-
 CONJURER. You have everything to do with it. I am the question: you....
-
-
 
 PATRICIA. [_Angrily._] Well, what am I?
 
-
-
 CONJURER. You are the answer.
 
-
-
 PATRICIA. The answer to what?
-
-
 
 CONJURER. [_Coming round to the front of the table and sitting against
 
@@ -1935,19 +1295,13 @@ been a lie I should have told it just the same. I would have told twenty
 
 such lies. You may or may not know why.
 
-
-
 PATRICIA. I know nothing about such lies.
-
-
 
      [_She puts her hand on the handle of the door, but the_ CONJURER,
 
      _who is sitting on the table and staring at his boots, does not
 
      notice the action, and goes on as in a sincere soliloquy._
-
-
 
 CONJURER. I don't know whether you have any notion of what it means to a
 
@@ -1967,11 +1321,7 @@ good conversations, didn't we? I am a liar. But I told you a great deal
 
 of the truth.
 
-
-
      [_He turns and resumes the arrangement of the table._
-
-
 
 PATRICIA. [_Thinking._] Yes, you did tell me a great deal of the truth.
 
@@ -1979,37 +1329,23 @@ You told me hundreds and thousands of truths. But you never told me the
 
 truth that one wants to know.
 
-
-
 CONJURER. And what is that?
-
-
 
 PATRICIA. [_Turning back into the room._] You never told me the truth
 
 about yourself. You never told me you were only the Conjurer.
 
-
-
 CONJURER. I did not tell you that because I do not even know it. I do
 
 not know whether I am only the Conjurer....
 
-
-
 PATRICIA. What do you mean?
 
-
-
 CONJURER. Sometimes I am afraid I am something worse than the Conjurer.
-
-
 
 PATRICIA. [_Seriously._] I cannot think of anything worse than a
 
 conjurer who does not call himself a conjurer.
-
-
 
 CONJURER. [_Gloomily._] There is something worse. [_Rallying himself._]
 
@@ -2051,11 +1387,7 @@ of gibberish because he thinks he is alone. One evening this man found
 
 he was not alone. He found a very beautiful child was watching him.
 
-
-
 PATRICIA. A child?
-
-
 
 CONJURER. Yes. That was his first impression. He is an intimate friend
 
@@ -2063,29 +1395,17 @@ of mine. I have known him all my life. He tells me he has since
 
 discovered she is not a child. She does not fulfil the definition.
 
-
-
 PATRICIA. What is the definition of a child?
-
-
 
 CONJURER. Somebody you can play with.
 
-
-
 PATRICIA. [_Abruptly._] Why did you wear that cloak with the hood up?
-
-
 
 CONJURER. [_Smiling._] I think it escaped your notice that it was
 
 raining.
 
-
-
 PATRICIA. [_Smiling faintly._] And what did this friend of yours do?
-
-
 
 CONJURER. You have already told me what he did. He destroyed a fairy
 
@@ -2107,29 +1427,21 @@ classes have heard all the fairy tales. Do you blame him very much if
 
 he, too, tried to have a holiday in fairyland?
 
-
-
 PATRICIA. [_Simply._] I blame him less than I did. But I still say there
 
 can be nothing worse than false magic. And, after all, it was he who
 
 brought the false magic.
 
-
-
 CONJURER. [_Rising from his seat._] Yes. It was she who brought the real
 
 magic.
-
-
 
      [_Enter_ MORRIS, _in evening-dress. He walks straight up to the
 
      conjuring-table; and picks up one article after another, putting
 
      each down with a comment._
-
-
 
 MORRIS. I know that one. I know that. I know that. Let's see, that's the
 
@@ -2139,11 +1451,7 @@ the sleeve. That's the false bottom again. That's the substituted pack
 
 of cards--that....
 
-
-
 PATRICIA. Really, Morris, you mustn't talk as if you knew everything.
-
-
 
 CONJURER. Oh, I don't mind anyone knowing everything, Miss Carleon.
 
@@ -2151,23 +1459,15 @@ There is something that is much more important than knowing how a thing
 
 is done.
 
-
-
 MORRIS. And what's that?
 
-
-
 CONJURER. Knowing how to do it.
-
-
 
 MORRIS. [_Becoming nasal again in anger._] That's so, eh? Being the
 
 high-toned conjurer because you can't any longer take all the sidewalk
 
 as a fairy.
-
-
 
 PATRICIA. [_Crossing the room and speaking seriously to her brother._]
 
@@ -2181,8 +1481,6 @@ shake hands, or whatever men do when they apologize. Don't be silly. He
 
 won't turn you into a bowl of goldfish.
 
-
-
 MORRIS. [_Reluctantly._] Well, I guess that's so. [_Offering his hand._]
 
 Shake. [_They shake hands._] And you won't turn me into a bowl of
@@ -2193,13 +1491,9 @@ bowl of goldfish, they are generally slips of carrot. That is so,
 
 Professor?
 
-
-
 CONJURER. [_Sharply._] Yes. [_Produces a bowl of goldfish from his tail
 
 pockets and holds it under the other's nose._] Judge for yourself.
-
-
 
 MORRIS. [_In monstrous excitement._] Very good! Very good! But I know
 
@@ -2207,17 +1501,11 @@ how that's done--I know how that's done. You have an india-rubber cap,
 
 you know, or cover....
 
-
-
 CONJURER. Yes.
-
-
 
      [_Goes back gloomily to his table and sits on it, picking up a pack
 
      of cards and balancing it in his hand._
-
-
 
 MORRIS. Ah, most mysteries are tolerably plain if you know the
 
@@ -2231,13 +1519,9 @@ the world. I guess most of the old miracles and that were a matter of
 
 just panel and wires.
 
-
-
 CONJURER. I don't quite understand you. What old apparatus do you want
 
 so much?
-
-
 
 MORRIS. [_Breaking out with all the frenzy of the young free-thinker._]
 
@@ -2251,65 +1535,37 @@ machinery. I would like to have those old conjurers here that called
 
 themselves Patriarchs and Prophets in your precious Bible....
 
-
-
 PATRICIA. Morris, you mustn't talk like that.
-
-
 
 MORRIS. Well, I don't believe in religion....
 
-
-
 DOCTOR. [_Aside._] Hush, hush. Nobody but women believe in religion.
-
-
 
 PATRICIA. [_Humorously._] I think this is a fitting opportunity to show
 
 you another ancient conjuring trick.
 
-
-
 DOCTOR. Which one is that?
-
-
 
 PATRICIA. The Vanishing Lady!
 
-
-
      [_Exit_ PATRICIA.
-
-
 
 SMITH. There is one part of their old apparatus I regret especially
 
 being lost.
 
-
-
 MORRIS. [_Still excited._] Yes!
-
-
 
 SMITH. The apparatus for writing the Book of Job.
 
-
-
 MORRIS. Well, well, they didn't know everything in those old times.
-
-
 
 SMITH. No, and in those old times they knew they didn't. [_Dreamily._]
 
 Where shall wisdom be found, and what is the place of understanding?
 
-
-
 CONJURER. Somewhere in America, I believe.
-
-
 
 SMITH. [_Still dreamily._] Man knoweth not the price thereof; neither is
 
@@ -2328,8 +1584,6 @@ is wisdom, and to depart from evil is understanding. [_Turns suddenly to
 the_ DOCTOR.] How's that for Agnosticism, Dr. Grimthorpe? What a pity
 
 that apparatus is lost.
-
-
 
 MORRIS. Well, you may just smile how you choose, I reckon. But I say the
 
@@ -2355,13 +1609,9 @@ brought out a bowl of goldfish just now--an old trick that anybody could
 
 do.
 
-
-
 CONJURER. Oh, I quite agree. The apparatus is perfectly simple. By the
 
 way, let me have a look at those goldfish of yours, will you?
-
-
 
 MORRIS. [_Angrily._] I'm not a paid play-actor come here to conjure. I'm
 
@@ -2369,31 +1619,19 @@ not here to do stale tricks; I'm here to see through 'em. I say it's an
 
 old trick and....
 
-
-
 CONJURER. True. But as you said, we never show it except to schoolboys.
-
-
 
 MORRIS. And may I ask you, Professor Hocus Pocus, or whatever your name
 
 is, whom you are calling a schoolboy?
 
-
-
 CONJURER. I beg your pardon. Your sister will tell you I am sometimes
 
 mistaken about children.
 
-
-
 MORRIS. I forbid you to appeal to my sister.
 
-
-
 CONJURER. That is exactly what a schoolboy would do.
-
-
 
 MORRIS. [_With abrupt and dangerous calm._] I am not a schoolboy,
 
@@ -2403,27 +1641,17 @@ come from, the hand of a quiet business man goes to his hip pocket at an
 
 insult like that.
 
-
-
 CONJURER. [_Fiercely._] Let it go to his pocket! I thought the hand of a
 
 quiet business man more often went to someone else's pocket.
 
-
-
 MORRIS. You....
-
-
 
      [_Puts his hand to his hip. The_ DOCTOR _puts his hand on his
 
      shoulder._
 
-
-
 DOCTOR. Gentlemen, I think you are both forgetting yourselves.
-
-
 
 CONJURER. Perhaps. [_His tone sinks suddenly to weariness._] I ask
 
@@ -2433,15 +1661,11 @@ gentleman's deserts. [_Sighs._] I sometimes rather wish I could forget
 
 myself.
 
-
-
 MORRIS. [_Sullenly, after a pause._] Well, the entertainment's coming
 
 on; and you English don't like a scene. I reckon I'll have to bury the
 
 blamed old hatchet too.
-
-
 
 DOCTOR. [_With a certain dignity, his social type shining through his
 
@@ -2463,41 +1687,25 @@ hear you say, as your Irish ancestors would have said, that you have
 
 sheathed your sword with the dignity proper to a gentleman.
 
-
-
 MORRIS. Very well. I've sheathed my sword with the dignity proper to a
 
 gentleman.
-
-
 
 CONJURER. And I have sheathed my sword with the dignity proper to a
 
 conjurer.
 
-
-
 MORRIS. How does the Conjurer sheath a sword?
-
-
 
 CONJURER. Swallows it.
 
-
-
 DOCTOR. Then we all agree there shall be no quarrel.
-
-
 
 SMITH. May I say a word? I have a great dislike of a quarrel, for a
 
 reason quite beyond my duty to my cloth.
 
-
-
 MORRIS. And what is that?
-
-
 
 SMITH. I object to a quarrel because it always interrupts an argument.
 
@@ -2515,13 +1723,9 @@ great-grandfather. [_Points to a picture on the wall._] If I were to say
 
 it was a copy....
 
-
-
 MORRIS. Wal, the Duke's real amiable; but I reckon you'd find what you
 
 call the interruption of an argument.
-
-
 
 SMITH. Well, suppose I did say so, you wouldn't take it as meaning that
 
@@ -2531,13 +1735,9 @@ that real Saints and Prophets never lived. There may be sham magic and
 
 real magic also.
 
-
-
      [_The_ CONJURER _raises his head and listens with a strange air of
 
      intentness._
-
-
 
 SMITH. There may be turnip ghosts precisely because there are real
 
@@ -2547,25 +1747,15 @@ fairies. You do not abolish the Bank of England by pointing to a forged
 
 bank-note.
 
-
-
 MORRIS. I hope the Professor enjoys being called a forged bank-note.
-
-
 
 CONJURER. Almost as much as being called the Prospectus of some American
 
 Companies.
 
-
-
 DOCTOR. Gentlemen! Gentlemen!
 
-
-
 CONJURER. I am sorry.
-
-
 
 MORRIS. Wal, let's have the argument first, then I guess we can have the
 
@@ -2583,13 +1773,9 @@ ghosts; and make you look turnips yourselves for having taken any. I
 
 say....
 
-
-
 DOCTOR. [_In a low voice to_ SMITH.] I don't like this peaceful argument
 
 of yours. The boy is getting much too excited.
-
-
 
 MORRIS. You say old man Reynolds lived; and Science don't say no. [_He
 
@@ -2599,15 +1785,9 @@ no more raise your Saints and Prophets from the dead than you'll raise
 
 the Duke's great-grandfather to dance on that wall.
 
-
-
      [_The picture begins to sway slightly to and fro on the wall._
 
-
-
 DOCTOR. Why, the picture is moving!
-
-
 
 MORRIS. [_Turning furiously on the_ CONJURER.] You were in the room
 
@@ -2615,13 +1795,9 @@ before us. Do you reckon that will take us in? You can do all that with
 
 wires.
 
-
-
 CONJURER. [_Motionless and without looking up from the table._] Yes, I
 
 could do all that with wires.
-
-
 
 MORRIS. And you reckoned I shouldn't know. [_Laughs with a high crowing
 
@@ -2631,35 +1807,23 @@ They say they can make the furniture move of itself. If it does move
 
 they move it; and we mean to know how.
 
-
-
      [_A chair falls over with a slight crash._
-
-
 
      [MORRIS _almost staggers and momentarily fights for breath and
 
      words._
 
-
-
 MORRIS. You ... why ... that ... every one knows that ... a sliding
 
 plank. It can be done with a sliding plank.
-
-
 
 CONJURER. [_Without looking up._] Yes. It can be done with a sliding
 
 plank.
 
-
-
      [_The_ DOCTOR _draws nearer to_ MORRIS, _who faces about,
 
      addressing him passionately._
-
-
 
 MORRIS. You were right on the spot, Doc, when you talked about that red
 
@@ -2679,13 +1843,9 @@ too near the lamp an hour or two ago; and it turned him into a common
 
 society clown with a white tie.
 
-
-
      [_The lamp at the end of the garden turns blue. They all look at it
 
      in silence._
-
-
 
 MORRIS. [_Splitting the silence on a high unnatural note._] Wait a bit!
 
@@ -2695,23 +1855,15 @@ down the room, biting his finger._] You put a wire ... no, that can't be
 
 it....
 
-
-
 DOCTOR. [_Speaking to him soothingly._] Well, well, just at this moment
 
 we need not inquire....
-
-
 
 MORRIS. [_Turning on him furiously._] You call yourself a man of
 
 science, and you dare to tell me not to inquire!
 
-
-
 SMITH. We only mean that for the moment you might let it alone.
-
-
 
 MORRIS. [_Violently._] No, Priest, I will not let it alone. [_Pacing the
 
@@ -2723,263 +1875,151 @@ Mixture of lights! Why not? If you throw a green light on a red
 
 light....
 
-
-
      [_Sudden silence._
 
-
-
 SMITH. [_Quietly to the_ DOCTOR.] You don't get blue.
-
-
 
 DOCTOR. [_Stepping across to the_ CONJURER.] If you have done this
 
 trick, for God's sake undo it.
 
-
-
      [_After a silence, the light turns red again._
-
-
 
 MORRIS. [_Dashing suddenly to the glass doors and examining them._] It's
 
 the glass! You've been doing something to the glass!
 
-
-
      [_He stops suddenly and there is a long silence._
-
-
 
 CONJURER. [_Still without moving._] I don't think you will find anything
 
 wrong with the glass.
 
-
-
 MORRIS. [_Bursting open the glass doors with a crash._] Then I'll find
 
 out what's wrong with the lamp.
 
-
-
      [_Disappears into the garden._
-
-
 
 DOCTOR. It is still a wet night, I am afraid.
 
-
-
 SMITH. Yes. And somebody else will be wandering about the garden now.
-
-
 
      [_Through the broken glass doors_ MORRIS _can be seen marching
 
      backwards and forwards with swifter and swifter steps._
 
-
-
 SMITH. I suppose in this case the Celtic twilight will not get on the
 
 chest.
 
-
-
 DOCTOR. Oh, if it were only the chest!
-
-
 
      _Enter_ PATRICIA.
 
-
-
 PATRICIA. Where is my brother?
-
-
 
      [_There is an embarrassed silence, in which the_ CONJURER
 
      _answers._
 
-
-
 CONJURER. I am afraid he is walking about in Fairyland.
-
-
 
 PATRICIA. But he mustn't go out on a night like this; it's very
 
 dangerous!
 
-
-
 CONJURER. Yes, it is very dangerous. He might meet a fairy.
 
-
-
 PATRICIA. What do you mean?
-
-
 
 CONJURER. You went out in this sort of weather and you met this sort of
 
 fairy, and so far it has only brought you sorrow.
 
-
-
 PATRICIA. I am going out to find my brother.
 
-
-
      [_She goes out into the garden through the open doors._
-
-
 
 SMITH. [_After a silence, very suddenly._] What is that noise? She is
 
 not singing those songs to him, is she?
 
-
-
 CONJURER. No. He does not understand the language of the elves.
-
-
 
 SMITH. But what are all those cries and gasps I hear?
 
-
-
 CONJURER. The normal noises, I believe, of a quiet business man.
-
-
 
 DOCTOR. Sir, I can understand your being bitter, for I admit you have
 
 been uncivilly received; but to speak like that just now....
 
-
-
      [PATRICIA _reappears at the garden doors, very pale._
-
-
 
 PATRICIA. Can I speak to the Doctor?
 
-
-
 DOCTOR. My dear lady, certainly. Shall I fetch the Duke?
-
-
 
 PATRICIA. I would prefer the Doctor.
 
-
-
 SMITH. Can I be of any use?
 
-
-
 PATRICIA. I only want the Doctor.
-
-
 
      [_She goes out again, followed by_ DR. GRIMTHORPE. _The others look
 
      at each other._
 
-
-
 SMITH. [_Quietly._] That last was a wonderful trick of yours.
-
-
 
 CONJURER. Thank you. I suppose you mean it was the only one you didn't
 
 see through.
 
-
-
 SMITH. Something of the kind, I confess. Your last trick was the best
 
 trick I have ever seen. It is so good that I wish you had not done it.
 
-
-
 CONJURER. And so do I.
-
-
 
 SMITH. How do you mean? Do you wish you had never been a conjurer?
 
-
-
 CONJURER. I wish I had never been born.
-
-
 
      [_Exit_ CONJURER.
 
-
-
      [_A silence. The_ DOCTOR _enters, very grave._
 
-
-
 DOCTOR. It is all right so far. We have brought him back.
-
-
 
 SMITH. [_Drawing near to him._] You told me there was mental trouble
 
 with the girl.
 
-
-
 DOCTOR. [_Looking at him steadily._] No. I told you there was mental
 
 trouble in the family.
 
-
-
 SMITH. [_After a silence._] Where is Mr. Morris Carleon?
-
-
 
 DOCTOR. I have got him into bed in the next room. His sister is looking
 
 after him.
 
-
-
 SMITH. His sister! Oh, then do you believe in fairies?
 
-
-
 DOCTOR. Believe in fairies? What do you mean?
-
-
 
 SMITH. At least you put the person who does believe in them in charge of
 
 the person who doesn't.
 
-
-
 DOCTOR. Well, I suppose I do.
-
-
 
 SMITH. You don't think she'll keep him awake all night with fairy tales?
 
-
-
 DOCTOR. Certainly not.
-
-
 
 SMITH. You don't think she'll throw the medicine-bottle out of window
 
@@ -2987,11 +2027,7 @@ and administer--er--a dewdrop, or anything of that sort? Or a
 
 four-leaved clover, say?
 
-
-
 DOCTOR. No; of course not.
-
-
 
 SMITH. I only ask because you scientific men are a little hard on us
 
@@ -3011,11 +2047,7 @@ language of the elves. And you put her in charge of an invalid without
 
 a flicker of doubt: because you trust women.
 
-
-
 DOCTOR. [_Very seriously._] Yes, I trust women.
-
-
 
 SMITH. You trust a woman with the practical issues of life and death,
 
@@ -3023,11 +2055,7 @@ through sleepless hours when a shaking hand or an extra grain would
 
 kill.
 
-
-
 DOCTOR. Yes.
-
-
 
 SMITH. But if the woman gets up to go to early service at my church, you
 
@@ -3035,23 +2063,15 @@ call her weak-minded and say that nobody but women can believe in
 
 religion.
 
-
-
 DOCTOR. I should never call this woman weak-minded--no, by God, not even
 
 if she went to church.
-
-
 
 SMITH. Yet there are many as strong-minded who believe passionately in
 
 going to church.
 
-
-
 DOCTOR. Weren't there as many who believed passionately in Apollo?
-
-
 
 SMITH. And what harm came of believing in Apollo? And what a mass of
 
@@ -3065,11 +2085,7 @@ mania! Is there no such thing as irreligious mania? Is there no such
 
 thing in the house at this moment?
 
-
-
 DOCTOR. Then you think no one should question at all.
-
-
 
 SMITH. [_With passion, pointing to the next room._] I think _that_ is
 
@@ -3081,11 +2097,7 @@ men have made themselves silly by wondering what the devil it was if it
 
 wasn't Jupiter.
 
-
-
 DOCTOR. [_Looking at him._] Do you believe in your own religion?
-
-
 
 SMITH. [_Returning the look equally steadily._] Suppose I don't: I
 
@@ -3093,15 +2105,9 @@ should still be a fool to question it. The child who doubts about Santa
 
 Claus has insomnia. The child who believes has a good night's rest.
 
-
-
 DOCTOR. You are a Pragmatist.
 
-
-
      _Enter_ DUKE, _absent-mindedly._
-
-
 
 SMITH. That is what the lawyers call vulgar abuse. But I do appeal to
 
@@ -3110,8 +2116,6 @@ practise. Here is a family over which you tell me a mental calamity
 hovers. Here is the boy who questions everything and a girl who can
 
 believe anything. Upon which has the curse fallen?
-
-
 
 DUKE. Talking about the Pragmatists. I'm glad to hear.... Ah, very
 
@@ -3123,35 +2127,21 @@ _First_ there was Protoplasm--and _then_ there was the Missing Link; and
 
 Magna Carta and so on. [_Silence._] Why, look at the Insurance Act!
 
-
-
 DOCTOR. I would rather not.
-
-
 
 DUKE. [_Wagging a playful finger at him._] Ah, prejudice, prejudice! You
 
 doctors, you know! Well, I never had any myself.
 
-
-
      [_Silence._
 
-
-
 DOCTOR. [_Breaking the silence in unusual exasperation._] Any what?
-
-
 
 DUKE. [_Firmly._] Never had any Marconis myself. Wouldn't touch 'em.
 
 [_Silence._] Well, I must speak to Hastings.
 
-
-
      [_Exit_ DUKE, _aimlessly._
-
-
 
 DOCTOR. [_Exploding._] Well, of all the.... [_Turns to_ SMITH.] You
 
@@ -3159,35 +2149,15 @@ asked me just now which member of the family had inherited the family
 
 madness.
 
-
-
 SMITH. Yes; I did.
-
-
 
 DOCTOR. [_In a low, emphatic voice._] On my living soul, I believe it
 
 must be the Duke.
 
-
-
-
-
      CURTAIN
 
-
-
-
-
-
-
-
-
 ACT III
-
-
-
-
 
      _Room partly darkened, a table with a lamp on it, and an empty
 
@@ -3195,21 +2165,15 @@ ACT III
 
      tossing or talking of the invalid._
 
-
-
      _Enter_ DOCTOR GRIMTHORPE _with a rather careworn air, and a
 
      medicine bottle in his hand. He puts it on the table, and sits down
 
      in the chair as if keeping a vigil._
 
-
-
      _Enter_ CONJURER, _carrying his bag, and cloaked for departure. As he
 
      crosses the room the_ DOCTOR _rises and calls after him._
-
-
 
 DOCTOR. Forgive me, but may I detain you for one moment? I suppose you
 
@@ -3219,11 +2183,7 @@ developments in the case of illness which happened after your
 
 performance. I would not say, of course, because of your performance.
 
-
-
 CONJURER. Thank you.
-
-
 
 DOCTOR. [_Slightly encouraged, but speaking very carefully._]
 
@@ -3239,11 +2199,7 @@ which he can still partially ask and answer questions. The question he
 
 continually asks is how you managed to do your last trick.
 
-
-
 CONJURER. Ah! My last trick!
-
-
 
 DOCTOR. Now I was wondering whether we could make any arrangement which
 
@@ -3257,11 +2213,7 @@ This special condition of semi-delirious disputation is a rare one, and
 
 connected in my experience with rather unfortunate cases.
 
-
-
 CONJURER. [_Looking at him steadily._] Do you mean he is going mad?
-
-
 
 DOCTOR. [_Rather taken aback for the first time._] Really, you ask me an
 
@@ -3270,8 +2222,6 @@ unfair question. I could not explain the fine shades of these things to
 a layman. And even if--if what you suggest were so, I should have to
 
 regard it as a professional secret.
-
-
 
 CONJURER. [_Still looking at him._] And don't you think you ask me a
 
@@ -3283,51 +2233,31 @@ from the world, why may not I? You don't tell your tricks. I don't tell
 
 my tricks.
 
-
-
 DOCTOR. [_With some heat._] Ours are not tricks.
-
-
 
 CONJURER. [_Reflectively._] Ah, no one can be sure of that till the
 
 tricks are told.
 
-
-
 DOCTOR. But the public can see a doctor's cures as plain as....
-
-
 
 CONJURER. Yes. As plain as they saw the red lamp over his door this
 
 evening.
 
-
-
 DOCTOR. [_After a pause._] Your secret, of course, would be strictly
 
 kept by every one involved.
-
-
 
 CONJURER. Oh, of course. People in delirium always keep secrets
 
 strictly.
 
-
-
 DOCTOR. No one sees the patient but his sister and myself.
-
-
 
 CONJURER. [_Starts slightly._] Yes, his sister. Is she very anxious?
 
-
-
 DOCTOR. [_In a lower voice._] What would you suppose?
-
-
 
      [CONJURER _throws himself into the chair, his cloak slipping back
 
@@ -3335,27 +2265,17 @@ DOCTOR. [_In a lower voice._] What would you suppose?
 
      speaks._
 
-
-
 CONJURER. Doctor, there are about a thousand reasons why I should not
 
 tell you how I really did that trick. But one will suffice, because it
 
 is the most practical of all.
 
-
-
 DOCTOR. Well? And why shouldn't you tell me?
-
-
 
 CONJURER. Because you wouldn't believe me if I did.
 
-
-
      [_A silence, the_ DOCTOR _looking at him curiously._
-
-
 
      [_Enter the_ DUKE _with papers in his hand. His usual gaiety of
 
@@ -3367,8 +2287,6 @@ CONJURER. Because you wouldn't believe me if I did.
 
      forgets and falls into his more natural voice._
 
-
-
 DUKE. [_To_ CONJURER.] So very kind of you to have waited, Professor. I
 
 expect Dr. Grimthorpe has explained the little difficulty we are in
@@ -3377,19 +2295,13 @@ much better than I could. Nothing like the medical mind for a scientific
 
 statement. [_Hazily._] Look at Ibsen.
 
-
-
      [_Silence._
-
-
 
 DOCTOR. Of course the Professor feels considerable reluctance in the
 
 matter. He points out that his secrets are an essential part of his
 
 profession.
-
-
 
 DUKE. Of course, of course. Tricks of the trade, eh? Very proper, of
 
@@ -3405,8 +2317,6 @@ of your professional work and knowledge, and if I may have the pleasure
 
 of writing you a cheque....
 
-
-
 CONJURER. I thank your Grace, I have already received my cheque from
 
 your secretary. You will find it on the counterfoil just after the
@@ -3415,19 +2325,13 @@ cheque you so kindly gave to the Society for the Suppression of
 
 Conjuring.
 
-
-
 DUKE. Now I don't want you to take it in that way. I want you to take
 
 it in a broader way. Free, you know. [_With an expansive gesture._]
 
 Modern and all that! Wonderful man, Bernard Shaw!
 
-
-
      [_Silence._
-
-
 
 DOCTOR. [_With a slight cough, resuming._] If you feel any delicacy the
 
@@ -3435,19 +2339,13 @@ payment need not be made merely to you. I quite respect your feelings in
 
 the matter.
 
-
-
 DUKE. [_Approvingly._] Quite so, quite so. Haven't you got a Cause or
 
 something? Everybody has a cause now, you know. Conjurers' widows or
 
 something of that kind.
 
-
-
 CONJURER. [_With restraint._] No; I have no widows.
-
-
 
 DUKE. Then something like a pension or annuity for any widows you
 
@@ -3455,29 +2353,19 @@ may--er--procure. [_Gaily opening his cheque-book and talking slang to
 
 show there is no ill-feeling._] Come, let me call it a couple of thou.
 
-
-
      [_The_ CONJURER _takes the cheque and looks at it in a grave and
 
      doubtful way. As he does so the_ RECTOR _comes slowly into the
 
      room._
 
-
-
 CONJURER. You would really be willing to pay a sum like this to know
 
 the way I did that trick?
 
-
-
 DUKE. I would willingly pay much more.
 
-
-
 DOCTOR. I think I explained to you that the case is serious.
-
-
 
 CONJURER. [_More and more thoughtful._] You would pay much more....
 
@@ -3485,53 +2373,35 @@ CONJURER. [_More and more thoughtful._] You would pay much more....
 
 nothing in it?
 
-
-
 DOCTOR. You mean that it's really quite simple? Why, I should say that
 
 that would be the best thing that could possibly happen. A little
 
 healthy laughter is the best possible thing for convalescence.
 
-
-
 CONJURER. [_Still looking gloomily at the cheque._] I do not think you
 
 will laugh.
-
-
 
 DUKE. [_Reasoning genially._] But as you say it is something quite
 
 simple.
 
-
-
 CONJURER. It is the simplest thing there is in the world. That is why
 
 you will not laugh.
 
-
-
 DOCTOR. [_Almost nervously._] Why, what do you mean? What shall we do?
-
-
 
 CONJURER. [_Gravely._] You will disbelieve it.
 
-
-
 DOCTOR. And why?
-
-
 
 CONJURER. Because it is so simple. [_He springs suddenly to his feet,
 
 the cheque still in his hand._] You ask me how I really did the last
 
 trick. I will tell you how I did the last trick. I did it by magic.
-
-
 
      [_The_ DUKE _and_ DOCTOR _stare at him motionless; but the_ REV.
 
@@ -3541,39 +2411,25 @@ trick. I will tell you how I did the last trick. I did it by magic.
 
      departure, brings the_ DOCTOR _to his feet._
 
-
-
 DOCTOR. [_Astonished and angry._] Do you really mean that you take the
 
 cheque and then tell us it was only magic?
-
-
 
 CONJURER. [_Pulling the cheque to pieces._] I tear the cheque, and I
 
 tell you it was only magic.
 
-
-
 DOCTOR. [_With violent sincerity._] But hang it all, there's no such
 
 thing.
 
-
-
 CONJURER. Yes there is. I wish to God I did not know that there is.
 
-
-
 DUKE. [_Rising also._] Why, really, magic....
-
-
 
 CONJURER. [_Contemptuously._] Yes, your Grace, one of those larger laws
 
 you were telling us about.
-
-
 
      [_He buttons his cloak up at his throat and takes up his bag. As he
 
@@ -3581,15 +2437,9 @@ you were telling us about.
 
      him for a moment._
 
-
-
 SMITH. [_In a low voice._] One moment, sir.
 
-
-
 CONJURER. What do you want?
-
-
 
 SMITH. I want to apologize to you. I mean on behalf of the company. I
 
@@ -3609,51 +2459,31 @@ would you not expect people to tell you the whole truth if it could help
 
 you?
 
-
-
 CONJURER. Yes. And I have told you the whole truth. Go and find out if
 
 it helps you.
 
-
-
      [_Turns again to go, but more irresolutely._
-
-
 
 SMITH. You know quite well it will not help us.
 
-
-
 CONJURER. Why not?
-
-
 
 SMITH. You know quite well why not. You are an honest man; and you have
 
 said it yourself. Because he would not believe it.
 
-
-
 CONJURER. [_With a sort of fury._] Well, does anybody believe it? Do you
 
 believe it?
-
-
 
 SMITH. [_With great restraint._] Your question is quite fair. Come, let
 
 us sit down and talk about it. Let me take your cloak.
 
-
-
 CONJURER. I will take off my cloak when you take off your coat.
 
-
-
 SMITH. [_Smiling._] Why? Do you want me to fight?
-
-
 
 CONJURER. [_Violently._] I want you to be martyred. I want you to _bear_
 
@@ -3677,47 +2507,27 @@ that if you don't believe in it? [_With violence._] Or perhaps you don't
 
 believe in devils?
 
-
-
 SMITH. I believe.... [_After a pause._] I wish I could believe.
 
-
-
 CONJURER. Yes. I wish I could disbelieve.
-
-
 
      [_Enter_ PATRICIA _pale and in the slight negligee of the amateur
 
      nurse._
 
-
-
 PATRICIA. May I speak to the Conjurer?
-
-
 
 SMITH. [_Hastening forward._] You want the Doctor?
 
-
-
 PATRICIA. No, the Conjurer.
-
-
 
 DOCTOR. Are there any developments?
 
-
-
 PATRICIA. I only want to speak to the Conjurer.
-
-
 
      [_They all withdraw, either at the garden or the other doors._
 
      PATRICIA _walks up to_ CONJURER.
-
-
 
 PATRICIA. You must tell me how you did the trick. You will. I know you
 
@@ -3725,73 +2535,45 @@ will. O, I know my poor brother was rude to you. He's rude to everybody!
 
 [_Breaks down._] But he's such a little, little boy!
 
-
-
 CONJURER. I suppose you know there are things men never tell to women.
 
 They are too horrible.
-
-
 
 PATRICIA. Yes. And there are things women never tell to men. They also
 
 are too horrible. I am here to hear them all.
 
-
-
 CONJURER. Do you really mean I may say anything I like? However dark it
 
 is? However dreadful it is? However damnable it is?
-
-
 
 PATRICIA. I have gone through too much to be terrified now. Tell me the
 
 very worst.
 
-
-
 CONJURER. I will tell you the very worst. I fell in love with you when I
 
 first saw you.
 
-
-
      [_Sits down and crosses his legs._
-
-
 
 PATRICIA. [_Drawing back._] You told me I looked like a child and....
 
-
-
 CONJURER. I told a lie.
 
-
-
 PATRICIA. O; this is terrible.
-
-
 
 CONJURER. I was in love, I took an opportunity. You believed quite
 
 simply that I was a magician? but I....
 
-
-
 PATRICIA. It is terrible. It is terrible. I never believed you were a
 
 magician.
 
-
-
 CONJURER. [_Astounded._] Never believed I was a magician...!
 
-
-
 PATRICIA. I always knew you were a man.
-
-
 
 CONJURER. [_Doing whatever passionate things people do on the stage._] I
 
@@ -3805,21 +2587,13 @@ to-night, I think. What am I saying? As if _you_ could marry _me_! O my
 
 God!
 
-
-
 PATRICIA. This is the first time you have failed in courage.
 
-
-
 CONJURER. What do you mean?
-
-
 
 PATRICIA. I mean to draw your attention to the fact that you have
 
 recently made an offer, I accept it.
-
-
 
 CONJURER. Oh, it's nonsense, it's nonsense. How can a man marry an
 
@@ -3833,17 +2607,11 @@ dirtier and dirtier lodgings, darning socks with weaker and weaker eyes
 
 when she might have worn pearls by consenting to be a rational person.
 
-
-
 PATRICIA. And she might have grown pearls, by consenting to be an
 
 oyster.
 
-
-
 CONJURER. [_Seriously._] There was little pleasure in her life.
-
-
 
 PATRICIA. There is little, a very little, in everybody's. The question
 
@@ -3853,13 +2621,9 @@ such pleasures as are worthy of us and our immortal souls. Your mother
 
 chose and I have chosen.
 
-
-
 CONJURER. [_Staring._] Immortal souls!... And I suppose if I knelt down
 
 to worship you, you and every one else would laugh.
-
-
 
 PATRICIA. [_With a smile of perversity._] Well, I think this is a more
 
@@ -3873,11 +2637,7 @@ darn hats?--and cook the Conjurer's dinner. By the way, what is a
 
 Conjurer's dinner? There's always the goldfish, of course....
 
-
-
 CONJURER. [_With a groan._] Carrots.
-
-
 
 PATRICIA. And, of course, now I come to think of it, you can always take
 
@@ -3889,11 +2649,7 @@ we shall be as happy as is good for us. We'll have confidence in each
 
 other at least, and no secrets. I insist on knowing all the tricks.
 
-
-
 CONJURER. I don't think I know whether I'm on my head or my heels.
-
-
 
 PATRICIA. And now, as we're going to be so confidential and comfortable,
 
@@ -3901,27 +2657,17 @@ you'll just tell me the real, practical, tricky little way you did that
 
 last trick.
 
-
-
 CONJURER. [_Rising, rigid with horror._] How I did that trick? I did it
 
 by devils. [_Turning furiously on_ PATRICIA.] You could believe in
 
 fairies. Can't you believe in devils?
 
-
-
 PATRICIA. [_Seriously._] No, I can't believe in devils.
-
-
 
 CONJURER. Well, this room is full of them.
 
-
-
 PATRICIA. What does it all mean?
-
-
 
 CONJURER. It only means that I have done what many men have done; but
 
@@ -3935,11 +2681,7 @@ aid of spirits. I dabbled a little in table-rapping and table-turning.
 
 But I soon had reason to give it up.
 
-
-
 PATRICIA. Why did you give it up?
-
-
 
 CONJURER. It began by giving me headaches. And I found that every
 
@@ -3953,11 +2695,7 @@ happen to have what people call a strong head; and I have never been
 
 really drunk.
 
-
-
 PATRICIA. I am glad of that.
-
-
 
 CONJURER. It hasn't been for want of trying. But it wasn't long before
 
@@ -3965,11 +2703,7 @@ the spirits with whom I had been playing at table-turning, did what I
 
 think they generally do at the end of all such table-turning.
 
-
-
 PATRICIA. What did they do?
-
-
 
 CONJURER. They turned the tables. They turned the tables upon me. I
 
@@ -3981,11 +2715,7 @@ masters.... I found they were not fairies. I found the spirits with whom
 
 I at least had come in contact were evil ... awfully, unnaturally evil.
 
-
-
 PATRICIA. Did they say so?
-
-
 
 CONJURER. Don't talk of what they said. I was a loose fellow, but I had
 
@@ -4005,11 +2735,7 @@ has just enough magic in him to make a bottle of champagne walk out of
 
 an empty shop.
 
-
-
 PATRICIA. I think you behaved very well.
-
-
 
 CONJURER. [_Bitterly._] And when I fell at last it was for nothing half
 
@@ -4019,41 +2745,25 @@ all kinds of heathenry, because of the impudence of a schoolboy, I
 
 called on the fiends and they obeyed.
 
-
-
 PATRICIA. [_Touches his arm._] Poor fellow!
 
-
-
 CONJURER. Your goodness is the only goodness that never goes wrong.
-
-
 
 PATRICIA. And what _are_ we to do with Morris? I--I believe you now, my
 
 dear. But he--he will never believe.
 
-
-
 CONJURER. There is no bigot like the atheist. I must think.
-
-
 
      [_Walks towards the garden windows. The other men reappear to
 
      arrest his movement._
 
-
-
 DOCTOR. Where are you going?
-
-
 
 CONJURER. I am going to ask the God whose enemies I have served if I am
 
 still worthy to save a child.
-
-
 
      [_Exit into garden. He paces up and down exactly as_ MORRIS _has
 
@@ -4065,57 +2775,35 @@ still worthy to save a child.
 
      speaks._
 
-
-
 DOCTOR. [_Abruptly._] Remarkable man that Conjurer. Clever man. Curious
 
 man. Very curious man. A kind of man, you know.... Lord bless us! What's
 
 that?
 
-
-
 DUKE. What's what, eh? What's what?
-
-
 
 DOCTOR. I swear I heard a footstep.
 
-
-
      _Enter_ HASTINGS _with papers._
-
-
 
 DUKE. Why, Hastings--Hastings--we thought you were a ghost. You must
 
 be--er--looking white or something.
 
-
-
 HASTINGS. I have brought back the answer of the Anti-Vegetarians ... I
 
 mean the Vegetarians.
 
-
-
      [_Drops one or two papers._
 
-
-
 DUKE. Why, Hastings, you _are_ looking white.
-
-
 
 HASTINGS. I ask your Grace's pardon. I had a slight shock on entering
 
 the room.
 
-
-
 DOCTOR. A shock? What shock?
-
-
 
 HASTINGS. It is the first time, I think, that your Grace's work has been
 
@@ -4123,59 +2811,35 @@ disturbed by any private feelings of mine. I shall not trouble your
 
 Grace with them. It will not occur again.
 
-
-
      [_Exit_ HASTINGS.
-
-
 
 DUKE. What an extraordinary fellow. I wonder if....
 
-
-
      [_Suddenly stops speaking._
-
-
 
 DOCTOR. [_After a long silence, in a low voice to_ SMITH.] How do you
 
 feel?
 
-
-
 SMITH. I feel I must have a window shut or I must have it open, and I
 
 don't know which it is.
 
-
-
      [_Another long silence._
 
-
-
 SMITH. [_Crying out suddenly in the dark._] In God's name, go!
-
-
 
 DOCTOR. [_Jumping up rather in a tremble._] Really, sir, I am not used
 
 to being spoken to....
 
-
-
 SMITH. It was not you whom I told to go.
-
-
 
 DOCTOR. No. [_Pause._] But I think I will go. This room is simply
 
 horrible.
 
-
-
      [_He marches towards the door._
-
-
 
 DUKE. [_Jumping up and bustling about, altering cards, papers, etc., on
 
@@ -4187,21 +2851,13 @@ crowded. A little crowded. And I don't seem to know all the people. We
 
 can't like everybody. These large at-homes....
 
-
-
      [_Tumbles on to a chair._
-
-
 
 CONJURER. [_Reappearing at the garden doors._] Go back to hell from
 
 which I called you. It is the last order I shall give.
 
-
-
 DOCTOR. [_Rising rather shakily._] And what are you going to do?
-
-
 
 CONJURER. I am going to tell that poor little lad a lie. I have found
 
@@ -4209,21 +2865,13 @@ in the garden what he did not find in the garden. I have managed to
 
 think of a natural explanation of that trick.
 
-
-
 DOCTOR. [_Warmly moved._] I think you are something like a great man.
 
 Can I take your explanation to him now?
 
-
-
 CONJURER. [_Grimly._] No thank you. I will take it myself.
 
-
-
      [_Exit into the other room._
-
-
 
 DUKE. [_Uneasily._] We all felt devilish queer just now. Wonderful
 
@@ -4231,51 +2879,29 @@ things there are in the world. [_After a pause._] I suppose it's all
 
 electricity.
 
-
-
      [_Silence as usual._
-
-
 
 SMITH. I think there has been more than electricity in all this.
 
-
-
      _Enter_ PATRICIA, _still pale, but radiant._
-
-
 
 PATRICIA. Oh, Morris is ever so much better! The Conjurer has told him
 
 such a good story of how the trick was done.
 
-
-
      _Enter_ CONJURER.
-
-
 
 DUKE. Professor, we owe you a thousand thanks!
 
-
-
 DOCTOR. Really, you have doubled your claim to originality!
-
-
 
 SMITH. It is much more marvellous to explain a miracle than to work a
 
 miracle. What was your explanation, by the way?
 
-
-
 CONJURER. I shall not tell you.
 
-
-
 SMITH. [_Starting._] Indeed? Why not?
-
-
 
 CONJURER. Because God and the demons and that Immortal Mystery that you
 
@@ -4285,21 +2911,13 @@ Because you have felt it here. Because you know the spirits as well as I
 
 do and fear them as much as I do.
 
-
-
 SMITH. Well?
-
-
 
 CONJURER. Because all this would not avail. If I told you the lie I told
 
 Morris Carleon about how I did that trick....
 
-
-
 SMITH. Well?
-
-
 
 CONJURER. YOU would believe it as he believed it. You cannot think
 
@@ -4309,29 +2927,17 @@ found out how it could be done--after I had done it by magic. But if I
 
 tell you a natural way of doing it....
 
-
-
 SMITH. Well?...
-
-
 
 CONJURER. Half an hour after I have left this house you will be all
 
 saying how it was done.
 
-
-
      [CONJURER _buttons up his cloak and advances to_ PATRICIA.
-
-
 
 CONJURER. Good-bye.
 
-
-
 PATRICIA. I shall not say good-bye.
-
-
 
 PATRICIA. Yes. That fairy tale has really and truly come to an end.
 
@@ -4345,63 +2951,25 @@ tale can come to an end. The only way a fairy tale can leave off being a
 
 fairy tale.
 
-
-
 CONJURER. I don't understand you.
-
-
 
 PATRICIA. It has come true.
 
-
-
-
-
      CURTAIN
 
-
-
-
-
-
-
-
-
        *       *       *       *       *
-
-
-
-
-
-
-
-
 
 _A Selection from the
 
 Catalogue of_
 
-
-
 G.P. PUTNAM'S SONS
 
-
-
 [Illustration: Publisher's Mark]
-
-
 
 Complete Catalogue sent
 
 on application
-
-
-
-
-
-
-
-
 
 New Comedies
 
@@ -4409,25 +2977,15 @@ By
 
 LADY GREGORY
 
-
-
-
-
 The Bogie Men--The Full Moon--Coats Damer's Gold--McDonough's Wife
 
-
-
 _8^o. With Portrait in Photogravure. $1.50 net. By mail, $1.65_
-
-
 
 The plays have been acted with great success by the Abbey Company, and
 
 have been highly extolled by appreciative audiences and an enthusiastic
 
 press. They are distinguished by a humor of unchallenged originality.
-
-
 
 One of the plays in the collection, "Coats," depends for its plot upon
 
@@ -4455,29 +3013,15 @@ on an Irish railway station. It is characterized by humor of an original
 
 and delightful character and repartee that is distinctly clever.
 
-
-
 G.P. PUTNAM'S SONS
 
 NEW YORK    LONDON
-
-
-
-
-
-
-
-
 
 Irish Plays
 
 By
 
 LADY GREGORY
-
-
-
-
 
 Lady Gregory's name has become a household word in America and her works
 
@@ -4497,8 +3041,6 @@ there is no flattery of the Irish; she writes about the Irish as Moliere
 
 wrote about the French, having a talent curiously like Moliere."
 
-
-
 "The witchery of Yeats, the vivid imagination of Synge, the amusing
 
 literalism mixed with the pronounced romance of their imitators, have
@@ -4517,29 +3059,15 @@ nourished and trained till they have grown to be of great
 
 stature."--_Chicago Tribune._
 
-
-
 G.P. PUTNAM'S SONS
 
 NEW YORK    LONDON
-
-
-
-
-
-
-
-
 
 Irish Folk-History Plays
 
 By
 
 LADY GREGORY
-
-
-
-
 
 _First Series. The Tragedies_
 
@@ -4549,8 +3077,6 @@ KINCORA
 
 DERVORGILLA
 
-
-
 _Second Series. The Tragic Comedies_
 
 THE CANAVANS
@@ -4559,11 +3085,7 @@ THE WHITE COCKADE
 
 THE DELIVERER
 
-
-
 _2 vols. Each, $1.50 net. By mail, $1.65_
-
-
 
 Lady Gregory has preferred going for her material to the traditional
 
@@ -4576,8 +3098,6 @@ been able, in so doing, to make her plays more living. One of these,
 such keen local interest that an old farmer travelled from the
 
 neighborhood of Kincora to see it acted in Dublin.
-
-
 
 The story of =Grania=, on which Lady Gregory has founded one of these
 
@@ -4593,21 +3113,15 @@ had died (and Finn had a hand in his death), she went back to Finn and
 
 became his queen.
 
-
-
 Another of Lady Gregory's plays, =The Canavans= dealt with the stormy
 
 times of Queen Elizabeth, whose memory is a horror in Ireland second
 
 only to that of Cromwell.
 
-
-
 =The White Cockade= is founded on a tradition of King James having escaped
 
 from Ireland after the battle of the Boyne in a wine barrel.
-
-
 
 The choice of folk history rather than written history gives a freshness
 
@@ -4617,8 +3131,6 @@ say that "Lady Gregory's method had brought back the possibility of
 
 writing historic plays."
 
-
-
 All these plays, except =Grania=, which has not yet been staged, have been
 
 very successfully performed in Ireland. They are written in the dialect
@@ -4627,25 +3139,11 @@ of Kiltartan, which had already become familiar to leaders of Lady
 
 Gregory's books.
 
-
-
 G.P. PUTNAM'S SONS
 
 NEW YORK    LONDON
 
-
-
-
-
-
-
-
-
 _Dramas of Importance_
-
-
-
-
 
 Plays
 
@@ -4656,8 +3154,6 @@ By John Galsworthy
 Author of "The Country House," etc.
 
 Crown 8vo. $1.35 net
-
-
 
 "By common consent, London has witnessed this week a play of serious
 
@@ -4679,10 +3175,6 @@ labor union, it is sure to be a sensation."--_Special cable dispatch to
 
 N.Y. Times._
 
-
-
-
-
 The Nun of Kent
 
 A Drama
@@ -4693,15 +3185,11 @@ Author of "Baldur the Beautiful," etc.
 
 Crown 8vo. $1.00 net
 
-
-
 "In this drama the pure essentials of dramatic writing are rarely
 
 blended.... The foundation for the stirring play is a pathetic episode
 
 given in Froude's Henry VIII....
-
-
 
 "The lines of the poem, while full of thought, are also characterized by
 
@@ -4711,10 +3199,6 @@ characters.... 'The Nun of Kent' may be described as a fascinating
 
 dramatic story."--_Baltimore News._
 
-
-
-
-
 Yzdra
 
 A Tragedy in Three Acts
@@ -4722,8 +3206,6 @@ A Tragedy in Three Acts
 By Louis V. Ledoux
 
 Crown 8vo. Cloth. $1.25 net
-
-
 
 "There are both grace and strength in this drama and it also possesses
 
@@ -4737,27 +3219,11 @@ individualized and a just balance is preserved in the action."--_The
 
 Outlook, New York._
 
-
-
 New York   G.P. Putnam's Sons   London
-
-
-
-
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of Magic, by G.K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK MAGIC ***
-
-
 
 ***** This file should be named 19094.txt or 19094.zip *****
 
@@ -4765,23 +3231,15 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/1/9/0/9/19094/
 
-
-
 Produced by Suzanne Lybarger, Brian Janes, Melissa Er-Raqabi
 
 and the Online Distributed Proofreading Team at
 
 http://www.pgdp.net
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -4815,21 +3273,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -4843,15 +3291,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -4873,8 +3315,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -4892,8 +3332,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -4925,8 +3363,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -4945,11 +3381,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -4963,8 +3395,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -4972,8 +3402,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -4995,8 +3423,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -5009,15 +3435,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -5028,8 +3450,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -5053,23 +3473,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -5095,8 +3509,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -5111,8 +3523,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -5121,13 +3531,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -5141,11 +3547,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -5166,8 +3568,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -5195,8 +3595,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -5221,8 +3619,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -5230,8 +3626,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -5246,8 +3640,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -5269,13 +3661,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -5286,8 +3672,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -5307,15 +3691,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -5333,8 +3711,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -5349,8 +3725,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -5359,15 +3733,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -5382,8 +3750,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -5401,8 +3767,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -5411,15 +3775,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -5429,15 +3789,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -5447,10 +3801,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -5459,17 +3809,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -5478,7 +3820,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: Magic.txt =====

@@ -44,12 +44,7 @@ A Project Gutenberg of Australia eBook
 Title:      The Scandal of Father Brown
 Author:     G. K. Chesterton
 
-
-
-
-
 ONE: The Scandal of Father Brown
-
 
 It would not be fair to record the adventures of Father Brown, without
 admitting that he was once involved in a grave scandal. There still are
@@ -6557,11 +6552,4 @@ than your dead one.'
 cushions. 'If it comes to a little cosy company on a railway journey, I
 should prefer the corpse.'
 
-
-
-
 THE END
-
-
-
-===== FINE FILE: scandal_Fr_Brown.txt =====

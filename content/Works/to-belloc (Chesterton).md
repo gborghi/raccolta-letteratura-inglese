@@ -82,8 +82,4 @@ That strikes the stars on Campden Hill
 
 G.K.C.  
 
-(Preface to Chesterton's "The Napoleon of Notting Hill").  
-
-
-
-===== FINE FILE: to-belloc.txt =====  
+(Preface to Chesterton's "The Napoleon of Notting Hill").

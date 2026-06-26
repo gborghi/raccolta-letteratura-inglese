@@ -52,6 +52,4 @@ Who Goes Home?
           And a voice valedictory . . . Who is for Victory?  
           Who is for Liberty? Who goes home?  
 
-               G. K. Chesterton  
-
-===== FINE FILE: WhoGoesHome.txt =====  
+               G. K. Chesterton

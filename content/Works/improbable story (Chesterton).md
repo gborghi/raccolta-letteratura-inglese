@@ -233,7 +233,3 @@ And bowing slightly to the mustard-pot, the man in
 the restaurant withdrew.
 
 ------------------------------------------------------------------------
-
-
-
-===== FINE FILE: improbable_story.txt =====

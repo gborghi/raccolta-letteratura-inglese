@@ -162,7 +162,3 @@ But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
 T.P's Weekly.
-
-
-
-===== FINE FILE: Wild_Ducks.txt =====

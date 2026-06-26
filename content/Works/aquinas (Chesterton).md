@@ -51,7 +51,6 @@ tags:
 - [Chapter 06](/Testi/Chesterton/Atomized/aquinas/Chapter_06)
 - [Chapter 07](/Testi/Chesterton/Atomized/aquinas/Chapter_07)
 
-
 ## Testo integrale / Full text
 
 St. Thomas Aquinas
@@ -973,7 +972,6 @@ extraordinary event in the life of St. Thomas Aquinas.
 II
 
 THE RUNAWAY ABBOT
-
 
 Thomas Aquinas, in a strange and rather symbolic manner,
 sprang out of the very centre of the civilised world of his time;
@@ -4594,7 +4592,6 @@ VIII
 
 THE SEQUEL TO ST.  THOMAS
 
-
 It is often said that St. Thomas, unlike St. Francis, did not permit
 in his work the indescribable element of poetry.  As, for instance,
 that there is little reference to any pleasure in the actual flowers
@@ -5041,8 +5038,3 @@ not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,
 which is now daily dedicated to the philosophia perennis;
 to the Everlasting Philosophy.
-
-
-
-
-===== FINE FILE: aquinas.txt =====

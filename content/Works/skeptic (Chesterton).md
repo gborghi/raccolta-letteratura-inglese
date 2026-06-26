@@ -151,8 +151,3 @@ Modern people think the supernatural so improbable that they
 want to see it.  I think it so probable that I leave it alone.
 Spirits are not worth all this fuss; I know that, for I
 am one myself. . .
-
-
-
-
-===== FINE FILE: skeptic.txt =====

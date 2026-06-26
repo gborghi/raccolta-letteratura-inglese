@@ -15,8 +15,6 @@ tags:
 
 The Project Gutenberg EBook of Lord Kitchener, by G. K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -25,39 +23,17 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: Lord Kitchener
-
-
 
 Author: G. K. Chesterton
 
-
-
 Release Date: June 15, 2008 [EBook #25795]
-
-
 
 Language: English
 
-
-
 Character set encoding: ASCII
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK LORD KITCHENER ***
-
-
-
-
-
-
-
-
 
 Produced by Irma Spehar and the Online Distributed
 
@@ -67,65 +43,23 @@ produced from images generously made available by The
 
 Internet Archive/Canadian Libraries)
 
-
-
-
-
-
-
-
-
-
-
                             LORD KITCHENER
-
-
 
                                   BY
 
-
-
                            G. K. CHESTERTON
-
-
 
                                 LONDON
 
-
-
                                  1917
-
-
-
-
-
-
-
-
 
 [Illustration: LORD KITCHENER
 
-
-
 By G. K. Chesterton
-
-
 
 _Photo by Elliott & Fry, Ltd., London._]
 
-
-
-
-
-
-
-
-
                             LORD KITCHENER
-
-
-
-
 
 Horatio Herbert Kitchener was Irish by birth but English by
 
@@ -162,8 +96,6 @@ speechless and supremely significant, like an ensign or a flag. The
 superficial picturesqueness of his life, at least, lies very much in
 
 this--that he was like a hero condemned by fate to act an allegory.
-
-
 
 We find this, for instance, in one of the very first and perhaps one
 
@@ -255,8 +187,6 @@ historic loss. The engineer devoted to discipline was already a free
 
 lance, because already a knight-errant.
 
-
-
 He returned to England to continue his comparatively humdrum order of
 
 advancement; and the next call that came to him was of a strangely
@@ -297,8 +227,6 @@ on cold volcanoes, as empty as the mountains of the moon. But the
 
 mountain of Mahomet is not yet an extinct volcano.
 
-
-
 Kitchener, in these first days of seemingly mild and minute duties,
 
 was early aware of it. At Safed, in the Galilean hills, his small
@@ -336,8 +264,6 @@ secret of his life. For it was the cause of at least half his success;
 and yet he very successfully concealed it--especially from his
 
 admirers.
-
-
 
 The paradox of all this part of his life lies in this--that, destined
 
@@ -384,8 +310,6 @@ ground for the overthrow of that wild papacy and wandering empire
 which so long hung in the desert, like a mirage to mislead and to
 
 destroy.
-
-
 
 Kitchener was called away in 1878 to similar surveying duties in
 
@@ -434,8 +358,6 @@ already spoken, of detailed experience and almost eccentric sympathy.
 In practice it was his knowledge of Arabic, and still more his
 
 knowledge of Arabs.
-
-
 
 There is in Islam a paradox which is perhaps a permanent menace. The
 
@@ -499,8 +421,6 @@ fable, towards which many footprints pointed, and from which none
 
 returned.
 
-
-
 The last of these was Gordon, that romantic and even eccentric figure
 
 of whom so much might be said. Perhaps the most essential thing to say
@@ -542,8 +462,6 @@ now of the Egyptian Intelligence Department, and weaving very
 carefully a vast net of diplomacy and strategy in which the slayers of
 
 Gordon were to be taken at last.
-
-
 
 A well-known English journalist, Bennet Burleigh, wandering near
 
@@ -607,8 +525,6 @@ before his guest had even left him the Mudir flew to arms, fell upon
 
 the Prophet's hosts at Korti, and drove them before him.
 
-
-
 The second and superficially more solid process of preparation is much
 
 better known. It was the education of the native Egyptian army. It is
@@ -650,8 +566,6 @@ anybody. It is easy enough to make people obey a bugle (or a factory
 hooter) as the Prussian soldiers obey a bugle. But it is no such
 
 trumpet that makes possible the resurrection of the dead.
-
-
 
 The success of this second of the three converging designs of
 
@@ -726,8 +640,6 @@ Islam, calling for prayer to an awful God--a God not to be worshipped
 by the changing and sometimes cheerful notes of harp or organ, but
 
 only by the drum that maddens by mere repetition.
-
-
 
 But the third of Kitchener's lines of approach remains to consider.
 
@@ -809,8 +721,6 @@ following Sunday a memorial service for Charles Gordon was held in the
 
 place where he was slain.
 
-
-
 The fact that Kitchener fought with rails as much as with guns rather
 
 fixed from this time forward the fashionable view of his character. He
@@ -842,8 +752,6 @@ his life. Kitchener was something much more than a machine; for in the
 mind, as much as in the body, flexibility is far more masculine than
 
 inflexibility.
-
-
 
 A situation developed almost instantly after his victory in which he
 
@@ -893,8 +801,6 @@ when both were leading their countrymen against the great enemy in the
 
 Great War.
 
-
-
 Something of the same shadow of prophecy is perhaps the deepest memory
 
 left by the last war of Kitchener before the greatest. After further
@@ -932,8 +838,6 @@ war that so nearly began at Fashoda. It seemed almost as if God were
 pitting his heroes against each other in tournament, before they all
 
 rode together against the heathen pouring upon them out of Germany.
-
-
 
 It is with that name of Germany that this mere skeleton of the facts
 
@@ -991,8 +895,6 @@ lunacy so cruel and unclean that the maddest dervish dead in the
 
 desert had a right to disdain it where he lay.
 
-
-
 Kitchener, like other Englishmen of his type, made his name outside
 
 England and even outside Europe. But it was in England, and after his
@@ -1048,8 +950,6 @@ England to Europe. The great change for which his countrymen will
 probably remember him longest was what we should call in England the
 
 revolution of the New Armies.
-
-
 
 It is almost impossible to express how great a revolution it was so as
 
@@ -1116,8 +1016,6 @@ and it is this which illustrated a side of the English general's
 character without which he may be, and indeed has been, wholly
 
 misunderstood.
-
-
 
 It is of the nature of national heroes of Kitchener's type that their
 
@@ -1215,8 +1113,6 @@ and in missing what was particularly English has missed what was
 
 particularly interesting.
 
-
-
 Lord Kitchener was personally a somewhat silent man; and his social
 
 conventions were those of the ordinary English officer, especially the
@@ -1292,8 +1188,6 @@ first he dealt with the more democratic and even revolutionary
 elements in England; and in the second he represents a very real
 
 change that has passed over the English traditions about Russia.
-
-
 
 Personally, as has already been noted, Lord Kitchener never was and
 
@@ -1441,8 +1335,6 @@ certain camaraderie, and in which even snobs only remember the coronet
 
 of a nobleman on condition that he shall himself seem to forget it.
 
-
-
 The other matter is much more important. Though the reverse of
 
 vivacious, Kitchener was very vital; and he had one unique mark of
@@ -1504,8 +1396,6 @@ almost be called the discovery of Christendom. It can be called with
 greater precision, and indeed with almost complete precision, the
 
 discovery of Russia.
-
-
 
 Military bureaucratic systems everywhere have too much tendency to
 
@@ -1571,8 +1461,6 @@ now secure for ever from the sophisticated scandal-mongering and the
 
 cultured ignorance of the West.
 
-
-
 And it is this that lends an epic and almost primeval symbolism to the
 
 tragedy of Kitchener's end. Somehow the very fact that it was
@@ -1619,39 +1507,19 @@ frustrated yet prophetic and pointing to the East, whence are the
 
 light of the world and the reunion of Christian men.
 
-
-
-
-
 _Printed in Great Britain by_ THE FIELD & QUEEN (HORACE COX) LTD.,
 
                  _Bream's Buildings, London, E.C. 4_.
 
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Lord Kitchener, by G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK LORD KITCHENER ***
-
-
 
 ***** This file should be named 25795.txt or 25795.zip *****
 
 This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/2/5/7/9/25795/
-
-
 
 Produced by Irma Spehar and the Online Distributed
 
@@ -1661,15 +1529,9 @@ produced from images generously made available by The
 
 Internet Archive/Canadian Libraries)
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -1703,21 +1565,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -1731,15 +1583,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -1761,8 +1607,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -1780,8 +1624,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -1813,8 +1655,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -1833,11 +1673,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -1851,8 +1687,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -1860,8 +1694,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -1883,8 +1715,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -1897,15 +1727,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -1916,8 +1742,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -1941,23 +1765,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -1983,8 +1801,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -1999,8 +1815,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -2009,13 +1823,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -2029,11 +1839,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -2054,8 +1860,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -2083,8 +1887,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -2109,8 +1911,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -2118,8 +1918,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -2134,8 +1932,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -2157,13 +1953,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -2174,8 +1964,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -2195,15 +1983,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -2221,8 +2003,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -2237,8 +2017,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -2247,15 +2025,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -2270,8 +2042,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -2289,8 +2059,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -2299,15 +2067,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -2317,15 +2081,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -2335,10 +2093,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -2347,17 +2101,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -2366,7 +2112,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: LordKitchener.txt =====

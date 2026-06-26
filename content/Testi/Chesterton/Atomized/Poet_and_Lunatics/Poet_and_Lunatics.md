@@ -21,7 +21,6 @@ EPISODES IN THE LIFE OF GABRIEL GALE
 
 G. K. CHESTERTON
 
-
 CONTENTS
 
    I THE FANTASTIC FRIENDS
@@ -32,8 +31,6 @@ CONTENTS
   VI THE HOUSE OF THE PEACOCK
  VII THE PURPLE JEWEL
 VIII THE ASYLUM OF ADVENTURE
-
-
 
 I
 
@@ -902,7 +899,6 @@ and thought it had indeed turned upside down many times in that
 single night.  And she could not analyse the sensation that,
 in spite of everything, it had come the right side up.
 
-
 II
 
 THE YELLOW BIRD
@@ -1693,7 +1689,6 @@ and Gabriel Gale turned his face to something like a small crowd.
 "It was only the prison gun," he said, "the signal that a
 prisoner has escaped."
 
-
 III
 
 THE SHADOW OF THE SHARK
@@ -1744,7 +1739,6 @@ where the old gentleman acted as a sort of affable umpire in
 the disputes of the young students who were his favourite company;
 the scene which led up to the singular silence and isolation,
 and ultimately to the rather eccentric exit of Mr. Amos Boon.
-
 
 Mr. Amos Boon had been a missionary, and still dressed like one;
 at any rate, he dressed like nothing else.  His sturdy,
@@ -2047,7 +2041,6 @@ Bible and his good Philistines as Dr. Wilkes with his museum
 and his microscopic marine animals, when the little seaside town
 was shaken as by an earthquake with the incomprehensible calamity
 which spread its name over all the newspapers of the country.
-
 
 Gabriel Gale was scaling the splendid swell of turf that
 terminated in the great chalk cliff above the shore, in a mood
@@ -2539,7 +2532,6 @@ unpractical man for finding out this sort of thing."
 
 And once more he gazed down from the precipice into the abysses below.
 
-
 IV
 
 THE CRIME OF GABRIEL GALE
@@ -2818,7 +2810,6 @@ I have him waiting outside in the car."
 "Very well," said the London doctor, rising with abrupt composure
 and buttoning up his coat.  "We had better go along to see him
 now and get it over."
-
 
 The interview between Gale and the two doctors, at an adjacent hotel,
 was so short and so extraordinary that they went away with their
@@ -3297,7 +3288,6 @@ than thinking I am God Almighty."
 
 "I shall think I am the only sane man," said Gabriel Gale.
 
-
 There was a sort of sequel which came to Garth's ears long afterwards;
 an epilogue to the crazy comedy of the pitchfork and the apple-tree.
 Garth differed from Gale in having a more obvious turn for the rational,
@@ -3368,7 +3358,6 @@ and at the same time empty; something the other man could only figure
 to himself in vague thoughts of some flat stark building with blank
 windows in a blind alley; and peering out of one of the windows
 the pale face of an idiot.
-
 
 V
 
@@ -3846,7 +3835,6 @@ in his dazed fashion:
 "Why, yes, in a way," he said; "in fact, I'm pretty sure I can find
 the body.  In fact, in a manner of speaking, I've found it."
 
-
 Those with any intimations of the personality of Mr. Arthur Armitage
 will not need to be told that he kept a diary; and endeavoured
 to note down his impressions of foreign travel with atmospheric
@@ -4206,7 +4194,6 @@ heaven may look down with more wonder at the man than at the monster.
 And we of all schools and of all philosophies can pass it like
 a funeral procession taking leave of an illustrious grave and,
 like soldiers, salute it as we pass."
-
 
 VI
 
@@ -4910,7 +4897,6 @@ to send for a doctor."
 "You will want two doctors for what will have to be done to him,"
 said Gale; and walked towards the window by which he had come in.
 
-
 Noel walked with him to the garden gate, past the peacock
 and the green lawn, that looked almost as blue as the peacock
 under a strong moonlight.  When the poet was outside the gate,
@@ -4959,7 +4945,6 @@ And he continued his walk along the suburban road,
 unconsciously taking in the new tint of the lawns by moonlight.
 But he did not see any more peacocks; and it may be accounted
 probable that he did not want to see any.
-
 
 VII
 
@@ -5941,7 +5926,6 @@ that he must have gone mad."
 am by no means without sympathy with them.  But you can call this
 the story of 'The Man Who went Sane'."
 
-
 VIII
 
 THE ASYLUM OF ADVENTURE
@@ -6028,7 +6012,6 @@ to the beginning of the whole business that ended in the little
 Cornish churchyard; and as he went briskly on his way he rehearsed
 all the details of that old story, which he was to tell to the lady
 at his journey's end.
-
 
 Nearly fourteen years before, Gabriel Gale had come of age and
 inherited the moderate debts and the small freehold of a rather
@@ -6771,7 +6754,6 @@ Gale added reflectively:
 
 "I knew you would never fail to take a hint."
 
-
 A street or two away from the strange madhouse there was a sort
 of toy park, not much bigger than a back garden, but laid out
 in ornamental paths and planted with flowering shrubs, as an oasis
@@ -6840,7 +6822,3 @@ The children in the corner of the little garden gazed with interest at
 a gentleman in funeral full-dress behaving in a somewhat unusual manner.
 
 THE END
-
-
-
-===== FINE FILE: Poet_and_Lunatics.txt =====

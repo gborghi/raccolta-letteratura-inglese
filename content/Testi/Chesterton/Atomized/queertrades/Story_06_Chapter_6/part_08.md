@@ -132,10 +132,4 @@ And we heard equally dimly Northover beginning the statement he had
 made long ago to Major Brown.  Thus our epic ended where it had begun,
 like a true cycle.
 
-
 THE END
-
-
-
-
-===== FINE FILE: queertrades.txt =====

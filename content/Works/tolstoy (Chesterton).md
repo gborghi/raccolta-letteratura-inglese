@@ -32,7 +32,6 @@ tags:
 - [Story 02 Leo Tolstoy As Writer](/Testi/Chesterton/Atomized/tolstoy/Story_02_Leo_Tolstoy_As_Writer)
 - [Story 03 G H Perris](/Testi/Chesterton/Atomized/tolstoy/Story_03_G_H_Perris)
 
-
 ## Testo integrale / Full text
 
 Leo Tolstoy
@@ -46,7 +45,6 @@ http://etext.lib.virginia.edu/modeng/modeng0.browse.html
 ----------------------------------------------------------------------------
 
 TOLSTOY
-
 
 IF any one wishes to form the fullest estimate of the real
 character and influence of the great man whose name is prefixed
@@ -193,7 +191,6 @@ has been mysticism--the belief that logic is misleading,
 and that things are not what they seem.
 
 G. K. CHESTERTON.
-
 
 LEO TOLSTOY AS WRITER
 
@@ -456,7 +453,6 @@ the joy, the splendour of human destinies.
 
 G. H. PERRIS.
 
-
 Tolstoy's Place in European Literature
 
 The justness of the word _great_ applied to a nation's writers is perhaps
@@ -643,6 +639,3 @@ In this sense Tolstoy will stand in European literature as the conscience
 of the modern world.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: tolstoy.txt =====

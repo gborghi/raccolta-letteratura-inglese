@@ -16,7 +16,6 @@ tags:
 
 A DEFENCE OF PATRIOTISM
 
-
 The decay of patriotism in England during the last year or two is a
 serious and distressing matter. Only in consequence of such a decay
 could the current lust of territory be confounded with the ancient love
@@ -158,16 +157,9 @@ judged, it will not be for the merely intellectual transgression of
 failing to appreciate other nations, but for the supreme spiritual
 transgression of failing to appreciate ourselves.
 
-
 THE END
 
 BILLING AND SONS, LTD., PRINTERS, GUILDFORD
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of The Defendant, by G.K. Chesterton
 
@@ -179,7 +171,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Robert Shimmin, Frank van Drogen and PG Distributed
 Proofreaders
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -201,8 +192,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -214,7 +203,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -428,7 +416,6 @@ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
@@ -446,7 +433,6 @@ and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
@@ -507,7 +493,6 @@ methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
@@ -564,8 +549,3 @@ or filename 24689 would be found at:
 
 An alternative method of locating eBooks:
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-===== FINE FILE: The_Defendant.txt =====

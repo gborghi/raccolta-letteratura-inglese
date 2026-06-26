@@ -99,9 +99,5 @@ the night is closing in, and it is too dark to read books.
 Faintly against the fading firelight can be traced the prehistoric
 outlines of the man and the dog.
 
-
 [This essay is excerpted from a Daily News article, later collected
 as "On Keeping a Dog" in Lunacy and Letters.]
-
-
-===== FINE FILE: dogs.txt =====

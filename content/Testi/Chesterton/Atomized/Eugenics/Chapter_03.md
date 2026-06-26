@@ -2302,6 +2302,3 @@ For a time at least they have believed the testimony of their senses.
 And if they do not believe now, neither would they believe though
 one rose from the dead; though all the millions who died to destroy
 Prussianism stood up and testified against it.
-
-
-===== FINE FILE: Eugenics.txt =====

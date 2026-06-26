@@ -144,9 +144,4 @@ And man be matter, and not with Thee?
 	Where over the maze of the world returning  
 	The bye-ways bend to the King's highway.  
 
-
---G.K.Chesterton  
-
-
-
-===== FINE FILE: towers-of-time.txt =====  
+--G.K.Chesterton

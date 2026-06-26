@@ -44,8 +44,6 @@ tags:
 
 Project Gutenberg's The Ballad of St. Barbara, by Gilbert Keith Chesterton  
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with  
 
 almost no restrictions whatsoever.  You may copy it, give it away or  
@@ -54,41 +52,19 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org  
 
-
-
-
-
 Title: The Ballad of St. Barbara  
 
        And Other Verses  
 
-
-
 Author: Gilbert Keith Chesterton  
-
-
 
 Release Date: April 28, 2010 [EBook #32167]  
 
-
-
 Language: English  
-
-
 
 Character set encoding: ISO-8859-1  
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***  
-
-
-
-
-
-
-
-
 
 Produced by Irma Spehar, Markus Brenner and the Online  
 
@@ -98,43 +74,19 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)  
 
-
-
-
-
-
-
-
-
-
-
-
-
                        The Ballad of St. Barbara  
 
                            AND OTHER VERSES  
 
-
-
                                   BY  
 
                        GILBERT KEITH CHESTERTON  
-
-
-
-
 
                                 LONDON  
 
                              CECIL PALMER  
 
                  OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
-
-
-
-
-
-
 
                                  FIRST  
 
@@ -144,19 +96,7 @@ by The Internet Archive/Canadian Libraries)
 
                                COPYRIGHT  
 
-
-
-
-
-
-
-
-
     TO F. C. IN MEMORIAM PALESTINE, '19  
-
-
-
-
 
     Do you remember one immortal  
 
@@ -174,8 +114,6 @@ by The Internet Archive/Canadian Libraries)
 
     That evening when our souls came home?  
 
-
-
     The mystic city many-gated,  
 
     With monstrous columns, was your own:  
@@ -191,8 +129,6 @@ by The Internet Archive/Canadian Libraries)
     It was no stranger to your bosom  
 
     Than bluebells of an English wood.  
-
-
 
     Do you remember a road that follows  
 
@@ -210,8 +146,6 @@ by The Internet Archive/Canadian Libraries)
 
     And the jackal barking in the night?  
 
-
-
     Life is not void or stuff for scorners:  
 
     We have laughed loud and kept our love,  
@@ -228,117 +162,57 @@ by The Internet Archive/Canadian Libraries)
 
     And we have seen Jerusalem.  
 
-
-
-
-
-
-
     CONTENTS  
-
-
-
-
 
                                                   PAGE  
 
-
-
     To F. C. In Memoriam Palestine, '19            vii  
-
-
 
     The Ballad of St. Barbara                        1  
 
-
-
     Elegy in a Country Churchyard                   13  
-
-
 
     The Sword of Surprise                           14  
 
-
-
     A Wedding in War-time                           15  
-
-
 
     The Mystery                                     18  
 
-
-
     "The Myth of Arthur"                            19  
-
-
 
     The Old Song                                    20  
 
-
-
     The Trinkets                                    24  
-
-
 
     The Philanthropist                              26  
 
-
-
     On the Downs                                    27  
-
-
 
     The Red Sea                                     30  
 
-
-
     For a War Memorial                              32  
-
-
 
     Memory                                          33  
 
-
-
     The English Graves                              35  
-
-
 
     Nightmare                                       37  
 
-
-
     A Second Childhood                              40  
-
-
 
     "Mediævalism"                                   43  
 
-
-
     Poland                                          46  
-
-
 
     The Hunting of the Dragon                       48  
 
-
-
     Sonnet                                          51  
-
-
 
     Fantasia                                        52  
 
-
-
     A Christmas Carol                               54  
 
-
-
     To Captain Fryatt                               56  
-
-
 
     For Four Guilds:  
 
@@ -350,11 +224,7 @@ by The Internet Archive/Canadian Libraries)
 
        IV. The Bell-Ringers                         64  
 
-
-
     The Convert                                     67  
-
-
 
     Songs of Education:  
 
@@ -370,25 +240,11 @@ by The Internet Archive/Canadian Libraries)
 
        VI. Hygiene                                  82  
 
-
-
-
-
-
-
-
-
     THE BALLAD OF ST. BARBARA  
-
-
 
     _(St. Barbara is the patron saint of artillery and of those in  
 
     danger of sudden death.)_  
-
-
-
-
 
     When the long grey lines came flooding upon Paris in the plain,  
 
@@ -402,8 +258,6 @@ by The Internet Archive/Canadian Libraries)
 
     And a Norman to a Breton spoke, his chin upon his hands.  
 
-
-
     "There was an end to Ilium; and an end came to Rome;  
 
     And a man plays on a painted stage in the land that he calls home;  
@@ -411,8 +265,6 @@ by The Internet Archive/Canadian Libraries)
     Arch after arch of triumph, but floor beyond falling floor,  
 
     That lead to a low door at last; and beyond there is no door."  
-
-
 
     And the Breton to the Norman spoke, like a small child spoke he,  
 
@@ -426,8 +278,6 @@ by The Internet Archive/Canadian Libraries)
 
     Barbara, the saint of gunners, and a stay in sudden death."  
 
-
-
     It seemed the wheel of the world stood still an instant in its turning,  
 
     More than the kings of the earth that turned with the turning of Valmy  
@@ -438,8 +288,6 @@ by The Internet Archive/Canadian Libraries)
 
     Still as the heart of a whirlwind the heart of the world stood still.  
 
-
-
         "Barbara the beautiful  
 
         Had praise of lute and pen:  
@@ -447,8 +295,6 @@ by The Internet Archive/Canadian Libraries)
         Her hair was like a summer night  
 
         Dark and desired of men.  
-
-
 
         Her feet like birds from far away  
 
@@ -458,8 +304,6 @@ by The Internet Archive/Canadian Libraries)
 
         Where a man's first love looked out.  
 
-
-
         Her sire was master of many slaves  
 
         A hard man of his hands;  
@@ -467,8 +311,6 @@ by The Internet Archive/Canadian Libraries)
         They built a tower about her  
 
         In the desolate golden lands,  
-
-
 
         Sealed as the tyrants sealed their tombs,  
 
@@ -478,8 +320,6 @@ by The Internet Archive/Canadian Libraries)
 
         Like the two eyes of a man."  
 
-
-
     Our guns were set toward the foe; we had no word, for firing.  
 
     Grey in the gateway of St. Gond the Guard of the tyrant shone;  
@@ -487,8 +327,6 @@ by The Internet Archive/Canadian Libraries)
     Dark with the fate of a falling star, retiring and retiring,  
 
     The Breton line went backward and the Breton tale went on.  
-
-
 
         "Her father had sailed across the sea  
 
@@ -498,8 +336,6 @@ by The Internet Archive/Canadian Libraries)
 
         For the bidding of Barbara.  
 
-
-
         She smote the bare wall with her hand  
 
         And bad them smite again;  
@@ -507,8 +343,6 @@ by The Internet Archive/Canadian Libraries)
         She poured them wealth of wine and meat  
 
         To stay them in their pain.  
-
-
 
         And cried through the lifted thunder  
 
@@ -518,8 +352,6 @@ by The Internet Archive/Canadian Libraries)
 
         In the third name of God.'  
 
-
-
         Then the hearts failed and the tools fell,  
 
         And far towards the foam,  
@@ -527,8 +359,6 @@ by The Internet Archive/Canadian Libraries)
         Men saw a shadow on the sands  
 
         And her father coming home."  
-
-
 
     Speak low and low, along the line the whispered word is flying  
 
@@ -538,8 +368,6 @@ by The Internet Archive/Canadian Libraries)
 
     Till the hand is raised to fling us for the final dice to death.  
 
-
-
         "There were two windows in your tower,  
 
         Barbara, Barbara,  
@@ -547,8 +375,6 @@ by The Internet Archive/Canadian Libraries)
         For all between the sun and moon  
 
         In the lands of Africa.  
-
-
 
         Hath a man three eyes, Barbara,  
 
@@ -558,8 +384,6 @@ by The Internet Archive/Canadian Libraries)
 
         To look upon vain things?"  
 
-
-
         Her voice was like a wandering thing  
 
         That falters yet is free,  
@@ -567,8 +391,6 @@ by The Internet Archive/Canadian Libraries)
         Whose soul has drunk in a distant land  
 
         Of the rivers of liberty.  
-
-
 
         "There are more wings than the wind knows  
 
@@ -578,8 +400,6 @@ by The Internet Archive/Canadian Libraries)
 
         And the wind of the doors undone.  
 
-
-
         For out of the first lattice  
 
         Are the red lands that break  
@@ -587,8 +407,6 @@ by The Internet Archive/Canadian Libraries)
         And out of the second lattice  
 
         Sea like a green snake,  
-
-
 
         But out of the third lattice  
 
@@ -598,8 +416,6 @@ by The Internet Archive/Canadian Libraries)
 
         And the other side of things."  
 
-
-
     It opened in the inmost place an instant beyond uttering,  
 
     A casement and a chasm and a thunder of doors undone,  
@@ -607,8 +423,6 @@ by The Internet Archive/Canadian Libraries)
     A seraph's strong wing shaken out the shock of its unshuttering,  
 
     That split the shattered sunlight from a light behind the sun.  
-
-
 
         "Then he drew sword and drave her  
 
@@ -618,8 +432,6 @@ by The Internet Archive/Canadian Libraries)
 
         Barbara the maid.  
 
-
-
         Caesar hath made a treaty  
 
         With the moon and with the sun,  
@@ -627,8 +439,6 @@ by The Internet Archive/Canadian Libraries)
         All the gods that men can praise  
 
         Praise him every one.  
-
-
 
         There is peace with the anointed  
 
@@ -638,8 +448,6 @@ by The Internet Archive/Canadian Libraries)
 
         Is a winding stair to hell,  
 
-
-
         With the pathless pyramids of slime,  
 
         Where the mitred negro lifts  
@@ -647,8 +455,6 @@ by The Internet Archive/Canadian Libraries)
         To his black cherub in the cloud  
 
         Abominable gifts,  
-
-
 
         With the leprous silver cities  
 
@@ -658,8 +464,6 @@ by The Internet Archive/Canadian Libraries)
 
         And the last name of God.'"  
 
-
-
     They are firing, we are falling, and the red skies rend and shiver us,  
 
     Barbara, Barbara, we may not loose a breath--  
@@ -667,8 +471,6 @@ by The Internet Archive/Canadian Libraries)
     Be at the bursting doors of doom, and in the dark deliver us,  
 
     Who loosen the last window on the sun of sudden death.  
-
-
 
         "Barbara the beautiful  
 
@@ -678,8 +480,6 @@ by The Internet Archive/Canadian Libraries)
 
         And the trumpet of liberty.  
 
-
-
         'I have looked forth from a window  
 
         That no man now shall bar,  
@@ -687,8 +487,6 @@ by The Internet Archive/Canadian Libraries)
         Caesar's toppling battle-towers  
 
         Shall never stretch so far.  
-
-
 
         The slaves are dancing in their chains,  
 
@@ -698,8 +496,6 @@ by The Internet Archive/Canadian Libraries)
 
         And the third face of God.'  
 
-
-
         The sword upon his shoulder  
 
         Shifted and shone and fell,  
@@ -707,8 +503,6 @@ by The Internet Archive/Canadian Libraries)
         And Barbara lay very small  
 
         And crumpled like a shell."  
-
-
 
     What wall upon what hinges turned stands open like a door?  
 
@@ -718,8 +512,6 @@ by The Internet Archive/Canadian Libraries)
 
     The line of the lost land of France or the plains of Paradise?  
 
-
-
         "Caesar smiled above the gods,  
 
         His lip of stone was curled,  
@@ -727,8 +519,6 @@ by The Internet Archive/Canadian Libraries)
         His iron armies wound like chains  
 
         Round and round the world,  
-
-
 
         And the strong slayer of his own  
 
@@ -738,8 +528,6 @@ by The Internet Archive/Canadian Libraries)
 
         Like a walking tower of brass,  
 
-
-
         And the songs ceased and the slaves were dumb;  
 
         And far towards the foam  
@@ -747,8 +535,6 @@ by The Internet Archive/Canadian Libraries)
         Men saw a shadow on the sands;  
 
         And her father coming home....  
-
-
 
         Blood of his blood upon the sword  
 
@@ -758,8 +544,6 @@ by The Internet Archive/Canadian Libraries)
 
         Was blue as the blue sky.  
 
-
-
         But the blue sky split with a thunder-crack,  
 
         Spat down a blinding brand,  
@@ -767,8 +551,6 @@ by The Internet Archive/Canadian Libraries)
         And all of him lay back and flat  
 
         As his shadow on the sand."  
-
-
 
     The touch and the tornado; all our guns give tongue together  
 
@@ -793,8 +575,6 @@ by The Internet Archive/Canadian Libraries)
     Blast of the beauty of sudden death, St. Barbara of the batteries!  
 
     That blow the new white window in the wall of all the world.  
-
-
 
     For the hand is raised behind us, and the bolt smites hard  
 
@@ -840,19 +620,7 @@ by The Internet Archive/Canadian Libraries)
 
     That opened like the eye of God on Paris in the plain.  
 
-
-
-
-
-
-
-
-
     ELEGY IN A COUNTRY CHURCHYARD  
-
-
-
-
 
     The men that worked for England  
 
@@ -862,8 +630,6 @@ by The Internet Archive/Canadian Libraries)
 
     About the cross can roam.  
 
-
-
     But they that fought for England,  
 
     Following a falling star,  
@@ -871,8 +637,6 @@ by The Internet Archive/Canadian Libraries)
     Alas, alas for England  
 
     They have their graves afar.  
-
-
 
     And they that rule in England,  
 
@@ -882,19 +646,7 @@ by The Internet Archive/Canadian Libraries)
 
     They have no graves as yet.  
 
-
-
-
-
-
-
-
-
     THE SWORD OF SURPRISE  
-
-
-
-
 
     Sunder me from my bones, O sword of God,  
 
@@ -904,8 +656,6 @@ by The Internet Archive/Canadian Libraries)
 
     May marvel as much at these.  
 
-
-
     Sunder me from my blood that in the dark  
 
     I hear that red ancestral river run,  
@@ -913,8 +663,6 @@ by The Internet Archive/Canadian Libraries)
     Like branching buried floods that find the sea  
 
     But never see the sun.  
-
-
 
     Give me miraculous eyes to see my eyes,  
 
@@ -924,8 +672,6 @@ by The Internet Archive/Canadian Libraries)
 
     Than all the things they see.  
 
-
-
     Sunder me from my soul, that I may see  
 
     The sins like streaming wounds, the life's brave beat;  
@@ -934,19 +680,7 @@ by The Internet Archive/Canadian Libraries)
 
     A stranger in the street.  
 
-
-
-
-
-
-
-
-
     A WEDDING IN WAR-TIME  
-
-
-
-
 
     Our God who made two lovers in a garden,  
 
@@ -964,8 +698,6 @@ by The Internet Archive/Canadian Libraries)
 
     We thank thee thou hast made us what we are.  
 
-
-
     Make not the grey slime of infinity  
 
     To swamp these flowers thou madest one by one;  
@@ -981,8 +713,6 @@ by The Internet Archive/Canadian Libraries)
     Or break our hearts with thine hell-shattering hammer  
 
     But leave a shade between us all day long.  
-
-
 
     Shade of high shame and honourable blindness  
 
@@ -1000,8 +730,6 @@ by The Internet Archive/Canadian Libraries)
 
     Like a lost spark goes by the glorious word.  
 
-
-
     Make not this sex, this other side of things,  
 
     A thing less distant than the world's desire;  
@@ -1017,8 +745,6 @@ by The Internet Archive/Canadian Libraries)
     With a far signal in our secret speaking  
 
     To hang the proud horizon in our home.  
-
-
 
     Once we were one, a shapeless cloud that lingers  
 
@@ -1036,8 +762,6 @@ by The Internet Archive/Canadian Libraries)
 
     Of the white days when you and I were born.  
 
-
-
     Darkens the world: the world-old fetters rattle;  
 
     And these that have no hope behind the sun  
@@ -1053,8 +777,6 @@ by The Internet Archive/Canadian Libraries)
     We will be strangers in so strange a story  
 
     And wonder, meeting in so wild a place.  
-
-
 
     Ah, not in vain or utterly for loss  
 
@@ -1072,8 +794,6 @@ by The Internet Archive/Canadian Libraries)
 
     Earthquake and Dawn; the bridegroom and the bride.  
 
-
-
     Death and not dreams or doubt of things undying,  
 
     Of whose the holy hearth or whose the sword;  
@@ -1090,19 +810,7 @@ by The Internet Archive/Canadian Libraries)
 
     Of this wild wedding where we meet and part.  
 
-
-
-
-
-
-
-
-
     THE MYSTERY  
-
-
-
-
 
     If sunset clouds could grow on trees  
 
@@ -1112,8 +820,6 @@ by The Internet Archive/Canadian Libraries)
 
     No topsyturvier than a shower.  
 
-
-
     If mountains rose on wings to wander  
 
     They were no wilder than a cloud;  
@@ -1121,8 +827,6 @@ by The Internet Archive/Canadian Libraries)
     Yet all my praise is mean as slander,  
 
     Mean as these mean words spoken aloud.  
-
-
 
     And never more than now I know  
 
@@ -1132,8 +836,6 @@ by The Internet Archive/Canadian Libraries)
 
     Has left him in the garden blind.  
 
-
-
     Witness, O Sun that blinds our eyes,  
 
     Unthinkable and unthankable King,  
@@ -1142,19 +844,7 @@ by The Internet Archive/Canadian Libraries)
 
     I wonder at not wondering.  
 
-
-
-
-
-
-
-
-
     "THE MYTH OF ARTHUR"  
-
-
-
-
 
     O learned man who never learned to learn,  
 
@@ -1192,23 +882,9 @@ by The Internet Archive/Canadian Libraries)
 
     You shall not be a myth, I promise you.  
 
-
-
-
-
-
-
-
-
     THE OLD SONG  
 
-
-
     _(On the Embankment in stormy weather.)_  
-
-
-
-
 
     A livid sky on London  
 
@@ -1229,8 +905,6 @@ by The Internet Archive/Canadian Libraries)
     The lightning looked on London town, the broken bridge of London town,  
 
     The ending of a broken road where men shall go no more.  
-
-
 
     I saw the kings of London town,  
 
@@ -1254,8 +928,6 @@ by The Internet Archive/Canadian Libraries)
 
     A thunder-flash on London and the finding of the foe.  
 
-
-
     I heard the hundred pin-makers  
 
     Slow down their racking din,  
@@ -1278,8 +950,6 @@ by The Internet Archive/Canadian Libraries)
 
     The Hundreds marching on the hills in the wars of long ago.  
 
-
-
     I saw great Cobbett riding,  
 
     The horseman of the shires;  
@@ -1299,8 +969,6 @@ by The Internet Archive/Canadian Libraries)
     Crying that all men at the last, and at the worst and at the last,  
 
     Have found the place where England ends and England can begin.  
-
-
 
     His horse-hoofs go before you,  
 
@@ -1322,19 +990,7 @@ by The Internet Archive/Canadian Libraries)
 
     Had shown under the shattered sky a people that were free.  
 
-
-
-
-
-
-
-
-
     THE TRINKETS  
-
-
-
-
 
     A wandering world of rivers,  
 
@@ -1352,8 +1008,6 @@ by The Internet Archive/Canadian Libraries)
 
     Till she wakes it with her face.  
 
-
-
     The standing whirlpool of the stars,  
 
     The wheel of all the world,  
@@ -1369,8 +1023,6 @@ by The Internet Archive/Canadian Libraries)
     With the great heart that a woman has  
 
     And the love of little things.  
-
-
 
     Wings of the whirlwind of the world  
 
@@ -1388,23 +1040,9 @@ by The Internet Archive/Canadian Libraries)
 
     Her holy vanities.  
 
-
-
-
-
-
-
-
-
     THE PHILANTHROPIST  
 
-
-
     _(With apologies to a beautiful poem.)_  
-
-
-
-
 
     Abou Ben Adhem (may his tribe decrease  
 
@@ -1438,8 +1076,6 @@ by The Internet Archive/Canadian Libraries)
 
     To your vague Allah in the skies above."  
 
-
-
     Gently replied the angel of the pen:  
 
     "Labour in peace and love your fellow-men:  
@@ -1448,19 +1084,7 @@ by The Internet Archive/Canadian Libraries)
 
     Only fear God; for you have cause to fear."  
 
-
-
-
-
-
-
-
-
     ON THE DOWNS  
-
-
-
-
 
     When you came over the top of the world  
 
@@ -1474,8 +1098,6 @@ by The Internet Archive/Canadian Libraries)
 
     And seven English towns.  
 
-
-
     And I could not think that the pride was perished  
 
     As you came over the down;  
@@ -1487,8 +1109,6 @@ by The Internet Archive/Canadian Libraries)
     Or the land we love that you walked above  
 
     Withering town by town.  
-
-
 
     For you came out on the dome of the earth  
 
@@ -1502,8 +1122,6 @@ by The Internet Archive/Canadian Libraries)
 
     And your eyes went out to sea.  
 
-
-
     Under your feet the towns were seven,  
 
     Alive and alone on high,  
@@ -1515,8 +1133,6 @@ by The Internet Archive/Canadian Libraries)
     Single and one as the soaring sun  
 
     And your head upheld the sky.  
-
-
 
     And I thought of a thundering flag unfurled  
 
@@ -1530,8 +1146,6 @@ by The Internet Archive/Canadian Libraries)
 
     And the slime of the slopes of hell.  
 
-
-
     It has not been as the great wind spoke  
 
     On the great green down that day:  
@@ -1543,8 +1157,6 @@ by The Internet Archive/Canadian Libraries)
     The robbers of land we have seen command  
 
     The rulers of land obey.  
-
-
 
     We have seen the gigantic golden worms  
 
@@ -1558,8 +1170,6 @@ by The Internet Archive/Canadian Libraries)
 
     With the locust and the lice.  
 
-
-
     And the wind blows and the world goes on  
 
     And the world can say that we,  
@@ -1571,8 +1181,6 @@ by The Internet Archive/Canadian Libraries)
     And the clouds dissunder and drown in thunder  
 
     The news that will never be.  
-
-
 
     Lady of all that have loved the people,  
 
@@ -1586,8 +1194,6 @@ by The Internet Archive/Canadian Libraries)
 
     Lift up your arms and pray.  
 
-
-
     Only you I have not forgotten  
 
     For wreck of the world's renown,  
@@ -1600,19 +1206,7 @@ by The Internet Archive/Canadian Libraries)
 
     As you came over the down.  
 
-
-
-
-
-
-
-
-
     THE RED SEA  
-
-
-
-
 
     Our souls shall be Leviathans  
 
@@ -1630,8 +1224,6 @@ by The Internet Archive/Canadian Libraries)
 
     How happy we have been.  
 
-
-
     Like clouds that wallow in the wind  
 
     Be free to drift and drink;  
@@ -1647,8 +1239,6 @@ by The Internet Archive/Canadian Libraries)
     Our blameless blasphemies of praise,  
 
     Our nightmares of delight.  
-
-
 
     For so in such misshapen shape  
 
@@ -1666,8 +1256,6 @@ by The Internet Archive/Canadian Libraries)
 
     The holy monsters move.  
 
-
-
     Measure is here and law, to learn,  
 
     When honour rules it so,  
@@ -1684,25 +1272,11 @@ by The Internet Archive/Canadian Libraries)
 
     In sanguine seas of wine.  
 
-
-
-
-
-
-
-
-
     FOR A WAR MEMORIAL  
-
-
 
     _(Suggested Inscription probably not selected by the  
 
     Committee.)_  
-
-
-
-
 
     The hucksters haggle in the mart  
 
@@ -1712,8 +1286,6 @@ by The Internet Archive/Canadian Libraries)
 
     For dead things cannot die.  
 
-
-
     A storm stooped on the place of tombs  
 
     With bolts to blast and rive;  
@@ -1721,8 +1293,6 @@ by The Internet Archive/Canadian Libraries)
     But these be names of many men  
 
     The lightning found alive.  
-
-
 
     If usurers rule and rights decay  
 
@@ -1732,8 +1302,6 @@ by The Internet Archive/Canadian Libraries)
 
     Gape hollow on the shore,  
 
-
-
     Still to the last of crumbling time  
 
     Upon this stone be read  
@@ -1742,19 +1310,7 @@ by The Internet Archive/Canadian Libraries)
 
     To prove they were not dead.  
 
-
-
-
-
-
-
-
-
     MEMORY  
-
-
-
-
 
     If I ever go back to Baltimore,  
 
@@ -1768,8 +1324,6 @@ by The Internet Archive/Canadian Libraries)
 
     That beckons with every hand.  
 
-
-
     I shall not know where the bonds were riven  
 
     And a hundred faiths set free,  
@@ -1781,8 +1335,6 @@ by The Internet Archive/Canadian Libraries)
     And made oblation of feuds forgiven  
 
     To Our Lady of Liberty.  
-
-
 
     I shall not travel the tracks of fame  
 
@@ -1796,8 +1348,6 @@ by The Internet Archive/Canadian Libraries)
 
     In the unforgotten song.  
 
-
-
     If ever I cross the sea and stray  
 
     To the city of Maryland,  
@@ -1810,19 +1360,7 @@ by The Internet Archive/Canadian Libraries)
 
     And no-one will understand.  
 
-
-
-
-
-
-
-
-
     THE ENGLISH GRAVES  
-
-
-
-
 
     Were I that wandering citizen whose city is the world,  
 
@@ -1840,8 +1378,6 @@ by The Internet Archive/Canadian Libraries)
 
     At the riddle of the island tale and the twilight of the ships.  
 
-
-
     For these were simple men that loved with hands and feet and eyes,  
 
     Whose souls were humbled to the hills and narrowed to the skies,  
@@ -1849,8 +1385,6 @@ by The Internet Archive/Canadian Libraries)
     The hundred little lands within one little land that lie,  
 
     Where Severn seeks the sunset isles or Sussex scales the sky.  
-
-
 
     And what is theirs, though banners blow on Warsaw risen again,  
 
@@ -1864,19 +1398,7 @@ by The Internet Archive/Canadian Libraries)
 
     They died to save their country and they only saved the world.  
 
-
-
-
-
-
-
-
-
     NIGHTMARE  
-
-
-
-
 
     The silver and violet leopard of the night  
 
@@ -1886,8 +1408,6 @@ by The Internet Archive/Canadian Libraries)
 
     Closed like a trap; and stillness was a clang.  
 
-
-
     Under the leopard sky of lurid stars  
 
     I strove with evil sleep the hot night long,  
@@ -1895,8 +1415,6 @@ by The Internet Archive/Canadian Libraries)
     Dreams dumb and swollen of triumphs without wars,  
 
     Of tongueless trumpet and unanswering gong.  
-
-
 
     I saw a pale imperial pomp go by,  
 
@@ -1906,8 +1424,6 @@ by The Internet Archive/Canadian Libraries)
 
     And their great shields were like the doors of death.  
 
-
-
     Their mitres were as moving pyramids  
 
     And all their crowns as marching towers were tall;  
@@ -1915,8 +1431,6 @@ by The Internet Archive/Canadian Libraries)
     Their eyes were cold under their carven lids  
 
     And the same carven smile was on them all.  
-
-
 
     Over a paven plain that seemed unending  
 
@@ -1926,8 +1440,6 @@ by The Internet Archive/Canadian Libraries)
 
     Fared forth anew as long away to wend.  
 
-
-
     I thought they travelled for a thousand years;  
 
     And at the end was nothing for them all,  
@@ -1935,8 +1447,6 @@ by The Internet Archive/Canadian Libraries)
     For all that splendour of sceptres and of spears,  
 
     But a new step, another easy fall.  
-
-
 
     The smile of stone seemed but a little less,  
 
@@ -1946,8 +1456,6 @@ by The Internet Archive/Canadian Libraries)
 
     And falling plain paved like a palace floor.  
 
-
-
     Rust red as gore crawled on their arms of might  
 
     And on their faces wrinkles and not scars:  
@@ -1955,8 +1463,6 @@ by The Internet Archive/Canadian Libraries)
     Till the dream suddenly ended; noise and light  
 
     Loosened the tyranny of the tropic stars.  
-
-
 
     But over them like a subterranean sun  
 
@@ -1966,8 +1472,6 @@ by The Internet Archive/Canadian Libraries)
 
     Is there no steepness in the stairs of hell?"  
 
-
-
     He that returns, He that remains the same,  
 
     Turned the round real world, His iron vice;  
@@ -1976,19 +1480,7 @@ by The Internet Archive/Canadian Libraries)
 
     And through three doors mysterious daylight came.  
 
-
-
-
-
-
-
-
-
     A SECOND CHILDHOOD  
-
-
-
-
 
     When all my days are ending  
 
@@ -2002,8 +1494,6 @@ by The Internet Archive/Canadian Libraries)
 
     Or a tall tree and a swing.  
 
-
-
     Wherein God's ponderous mercy hangs  
 
     On all my sins and me,  
@@ -2015,8 +1505,6 @@ by The Internet Archive/Canadian Libraries)
     And stones still shine along the road  
 
     That are and cannot be.  
-
-
 
     Men grow too old for love, my love,  
 
@@ -2030,8 +1518,6 @@ by The Internet Archive/Canadian Libraries)
 
     Till I doubt if it be mine.  
 
-
-
     Behold, the crowning mercies melt,  
 
     The first surprises stay;  
@@ -2043,8 +1529,6 @@ by The Internet Archive/Canadian Libraries)
     That a man grow used to grief and joy  
 
     But not to night and day.  
-
-
 
     Men grow too old for love, my love,  
 
@@ -2058,8 +1542,6 @@ by The Internet Archive/Canadian Libraries)
 
     And a monster made of eyes.  
 
-
-
     Nor am I worthy to unloose  
 
     The latchet of my shoe;  
@@ -2071,8 +1553,6 @@ by The Internet Archive/Canadian Libraries)
     On ground that is too good to last,  
 
     Too solid to be true.  
-
-
 
     Men grow too old to woo, my love,  
 
@@ -2086,8 +1566,6 @@ by The Internet Archive/Canadian Libraries)
 
     And find I am not dead.  
 
-
-
     A thrill of thunder in my hair:  
 
     Though blackening clouds be plain,  
@@ -2099,8 +1577,6 @@ by The Internet Archive/Canadian Libraries)
     Romance and pride and passion pass  
 
     And these are what remain.  
-
-
 
     Strange crawling carpets of the grass,  
 
@@ -2114,19 +1590,7 @@ by The Internet Archive/Canadian Libraries)
 
     Though I grow old and die.  
 
-
-
-
-
-
-
-
-
     "MEDIÆVALISM"  
-
-
-
-
 
     If men should rise and return to the noise and time of the tourney,  
 
@@ -2138,8 +1602,6 @@ by The Internet Archive/Canadian Libraries)
 
     A light on our days returning, as it was in the days of old?  
 
-
-
     Nay, there is none rides back to pick up a glove or a feather,  
 
     Though the gauntlet rang with honour or the plume was more than a  
@@ -2150,8 +1612,6 @@ by The Internet Archive/Canadian Libraries)
 
     And under the Horns of Hattin the hope of the world went down.  
 
-
-
     Ah, not in remembrance stored, but out of oblivion starting,  
 
     Because you have sought new homes and all that you sought is so,  
@@ -2159,8 +1619,6 @@ by The Internet Archive/Canadian Libraries)
     Because you had trodden the fire and barred the door in departing,  
 
     Returns in your chosen exile the glory of long ago.  
-
-
 
     Not then when you barred the door, not then when you trod the embers,  
 
@@ -2170,8 +1628,6 @@ by The Internet Archive/Canadian Libraries)
 
     All that men took too lightly and all that they love too late.  
 
-
-
     It is you that have made no rubric for saints, no raiment for lovers,  
 
     Your caps that cry for a feather, your roofs that sigh for a spire:  
@@ -2179,8 +1635,6 @@ by The Internet Archive/Canadian Libraries)
     Is it a dream from the dead if your own decay discovers  
 
     Alive in your rotting graveyard the worm of the world's desire?  
-
-
 
     Therefore the old trees tower, that the green trees grow and are  
 
@@ -2196,8 +1650,6 @@ by The Internet Archive/Canadian Libraries)
 
       lead.  
 
-
-
     When the usurer hunts the squire as the squire has hunted the peasant,  
 
     As sheep that are eaten of worms where men were eaten of sheep:  
@@ -2205,8 +1657,6 @@ by The Internet Archive/Canadian Libraries)
     Now is the judgment of earth, and the weighing of past and present,  
 
     Who scorn to weep over ruins, behold your ruin and weep.  
-
-
 
     Have ye not known, ye fools, that have made the present a prison,  
 
@@ -2216,19 +1666,7 @@ by The Internet Archive/Canadian Libraries)
 
     Out of your own black Babel too loud; and it woke the dead.  
 
-
-
-
-
-
-
-
-
     POLAND  
-
-
-
-
 
     Augurs that watched archaic birds  
 
@@ -2246,8 +1684,6 @@ by The Internet Archive/Canadian Libraries)
 
     Will keep our little masters dumb.  
 
-
-
     The men that sell what others make,  
 
     As vultures eat what others slay,  
@@ -2263,8 +1699,6 @@ by The Internet Archive/Canadian Libraries)
     Amid the crash of tables flapped  
 
     And huddled from the wrath of Christ.  
-
-
 
     But raised for ever for a sign  
 
@@ -2282,19 +1716,7 @@ by The Internet Archive/Canadian Libraries)
 
     An eagle whiter than a dove.  
 
-
-
-
-
-
-
-
-
     THE HUNTING OF THE DRAGON  
-
-
-
-
 
     When we went hunting the Dragon  
 
@@ -2328,8 +1750,6 @@ by The Internet Archive/Canadian Libraries)
 
       That is the life of a man.  
 
-
-
     For men grow weary of fairyland  
 
     When the Dragon is a dream,  
@@ -2346,8 +1766,6 @@ by The Internet Archive/Canadian Libraries)
 
     And the following of the horn;  
 
-
-
       Beauty on beauty called us back  
 
       When we could rise and ride,  
@@ -2363,8 +1781,6 @@ by The Internet Archive/Canadian Libraries)
       For the love of the hate of the Dragon  
 
       That is the pride of a man.  
-
-
 
     The sages called him a shadow  
 
@@ -2390,8 +1806,6 @@ by The Internet Archive/Canadian Libraries)
 
     Whose death is the world's desire.  
 
-
-
       For the horn was blown in the heart of the night  
 
       That men should rise and ride,  
@@ -2408,19 +1822,7 @@ by The Internet Archive/Canadian Libraries)
 
       That is the life of a man.  
 
-
-
-
-
-
-
-
-
     SONNET  
-
-
-
-
 
     High on the wall that holds Jerusalem  
 
@@ -2438,8 +1840,6 @@ by The Internet Archive/Canadian Libraries)
 
     I did not dare draw near and look on them.  
 
-
-
     Did ye not guess ... the diadem might be  
 
     Plaited in stranger style by hands of hate ...  
@@ -2452,19 +1852,7 @@ by The Internet Archive/Canadian Libraries)
 
     Heaved Moab of the mountains like a sea.  
 
-
-
-
-
-
-
-
-
     FANTASIA  
-
-
-
-
 
     The happy men that lose their heads  
 
@@ -2486,8 +1874,6 @@ by The Internet Archive/Canadian Libraries)
 
     As the bird back to the tree.  
 
-
-
     Whether the plumes be passion-red  
 
     For him that truly dies  
@@ -2507,8 +1893,6 @@ by The Internet Archive/Canadian Libraries)
     Is the healing of the unhappy men,  
 
     The men that lost their hearts.  
-
-
 
     Is there not pardon for the brave  
 
@@ -2530,17 +1914,7 @@ by The Internet Archive/Canadian Libraries)
 
     And only lose his soul.  
 
-
-
-
-
-
-
-
-
     A CHRISTMAS CAROL  
-
-
 
     _(The Chief Constable has issued a statement declaring that  
 
@@ -2549,10 +1923,6 @@ by The Internet Archive/Canadian Libraries)
     and physically injurious. He appeals to the public to discourage  
 
     the practice.--Daily Paper.)_  
-
-
-
-
 
     God rest you merry gentlemen,  
 
@@ -2566,8 +1936,6 @@ by The Internet Archive/Canadian Libraries)
 
     Of anything they say.  
 
-
-
     God rest you merry gentlemen,  
 
     May nothing you dismay:  
@@ -2579,8 +1947,6 @@ by The Internet Archive/Canadian Libraries)
     The motor horn's melodious cry,  
 
     The hooter's happy bray.  
-
-
 
     So, when the song of children ceased  
 
@@ -2594,19 +1960,7 @@ by The Internet Archive/Canadian Libraries)
 
     And nothing him dismayed.  
 
-
-
-
-
-
-
-
-
     TO CAPTAIN FRYATT  
-
-
-
-
 
     Trampled yet red is the last of the embers,  
 
@@ -2616,8 +1970,6 @@ by The Internet Archive/Canadian Libraries)
 
     What of your waking, if England forget?  
 
-
-
     Why should you share in the hearts that we harden,  
 
     In the shame of our nature, who see it and live?  
@@ -2625,8 +1977,6 @@ by The Internet Archive/Canadian Libraries)
     How more than the godly the greedy can pardon,  
 
     How well and how quickly the hungry forgive.  
-
-
 
     Ah, well if the soil of the stranger had wrapped you,  
 
@@ -2636,8 +1986,6 @@ by The Internet Archive/Canadian Libraries)
 
     Tout in the shops of the butchers that slew.  
 
-
-
     Why should you wake for a realm that is rotten,  
 
     Stuffed with their bribes and as dead to their debts?  
@@ -2646,27 +1994,11 @@ by The Internet Archive/Canadian Libraries)
 
     For Flanders remembers and England forgets.  
 
-
-
-
-
-
-
-
-
     FOR FOUR GUILDS  
-
-
-
-
 
     FOR FOUR GUILDS:  
 
-
-
     I. THE GLASS-STAINERS  
-
-
 
     To every Man his Mystery,  
 
@@ -2680,8 +2012,6 @@ by The Internet Archive/Canadian Libraries)
 
     The houses of the sun.  
 
-
-
     The shipwrights build the houses high,  
 
     Whose green foundations sway  
@@ -2693,8 +2023,6 @@ by The Internet Archive/Canadian Libraries)
     But we abide with painted sails  
 
     The cyclone of the day.  
-
-
 
     The weavers make the clothes of men  
 
@@ -2708,8 +2036,6 @@ by The Internet Archive/Canadian Libraries)
 
     The gay coats of the sun.  
 
-
-
     You whom the usurers and the lords  
 
     With insolent liveries trod,  
@@ -2722,17 +2048,9 @@ by The Internet Archive/Canadian Libraries)
 
     Of the trumpeter of God.  
 
-
-
-
-
     FOR FOUR GUILDS:  
 
-
-
     II. THE BRIDGE-BUILDERS  
-
-
 
     In the world's whitest morning  
 
@@ -2750,8 +2068,6 @@ by The Internet Archive/Canadian Libraries)
 
     And domed the abyss.  
 
-
-
     To eastward and westward  
 
     Spread wings at his word  
@@ -2767,8 +2083,6 @@ by The Internet Archive/Canadian Libraries)
     The highway of danger,  
 
     The gateway of wonder.  
-
-
 
     Of his throne were the thunders  
 
@@ -2786,8 +2100,6 @@ by The Internet Archive/Canadian Libraries)
 
     Is treason and doom.  
 
-
-
     But he bade us, who fashion  
 
     The road that can fly,  
@@ -2803,8 +2115,6 @@ by The Internet Archive/Canadian Libraries)
     Shine death and white daylight  
 
     Unchanged to the end.  
-
-
 
     Who walk on his mercy  
 
@@ -2822,8 +2132,6 @@ by The Internet Archive/Canadian Libraries)
 
     On the wings of a bird.  
 
-
-
     Not high and not heavy  
 
     Is building of his:  
@@ -2840,17 +2148,9 @@ by The Internet Archive/Canadian Libraries)
 
     Is the end of the world.  
 
-
-
-
-
     FOR FOUR GUILDS:  
 
-
-
     III. THE STONE-MASONS  
-
-
 
     We have graven the mountain of God with hands,  
 
@@ -2868,8 +2168,6 @@ by The Internet Archive/Canadian Libraries)
 
     And their very vomiting not in vain.  
 
-
-
     Wilder than all that a tongue can utter,  
 
     Wiser than all that is told in words,  
@@ -2885,8 +2183,6 @@ by The Internet Archive/Canadian Libraries)
     Where we flung our gutters against the stars  
 
     For a sign that the first and the last shall meet.  
-
-
 
     We have graven the forest of heaven with hands,  
 
@@ -2904,8 +2200,6 @@ by The Internet Archive/Canadian Libraries)
 
     Have struck, and stricken the dead alive.  
 
-
-
     Fold your hands before heaven in praying,  
 
     Lift up your hands into heaven and cry;  
@@ -2922,17 +2216,9 @@ by The Internet Archive/Canadian Libraries)
 
     How high the hands of a man could go.  
 
-
-
-
-
     FOR FOUR GUILDS:  
 
-
-
     IV. THE BELL-RINGERS  
-
-
 
     The angels are singing like birds in a tree  
 
@@ -2958,8 +2244,6 @@ by The Internet Archive/Canadian Libraries)
 
     Look up at the living Apocalypse.  
 
-
-
     But all can hark at the dark of even  
 
     The bells that bay like the hounds of heaven,  
@@ -2983,8 +2267,6 @@ by The Internet Archive/Canadian Libraries)
     Filling men's heads with the hurry and hum  
 
     Making them welcome before they come.  
-
-
 
     And we poor men stand under the steeple  
 
@@ -3010,8 +2292,6 @@ by The Internet Archive/Canadian Libraries)
 
     Heavy as their panoply, light as their plumes.  
 
-
-
     Neither preacher nor priest are we:  
 
     Each man mount to his own degree:  
@@ -3036,19 +2316,7 @@ by The Internet Archive/Canadian Libraries)
 
     Sway like a bell to the prayers of the poor.  
 
-
-
-
-
-
-
-
-
     THE CONVERT  
-
-
-
-
 
     After one moment when I bowed my head  
 
@@ -3066,8 +2334,6 @@ by The Internet Archive/Canadian Libraries)
 
     But softly, as men smile about the dead.  
 
-
-
     The sages have a hundred maps to give  
 
     That trace their crawling cosmos like a tree,  
@@ -3080,33 +2346,13 @@ by The Internet Archive/Canadian Libraries)
 
     Because my name is Lazarus and I live.  
 
-
-
-
-
-
-
-
-
     SONGS OF EDUCATION  
-
-
-
-
 
     SONGS OF EDUCATION:  
 
-
-
     I. HISTORY  
 
-
-
     _Form 991785, Sub-Section D_  
-
-
-
-
 
     The Roman threw us a road, a road,  
 
@@ -3124,17 +2370,11 @@ by The Internet Archive/Canadian Libraries)
 
     The Imperial race we are.  
 
-
-
     _Chorus_  
-
-
 
     The Imperial race, the inscrutable race,  
 
     The invincible race we are.  
-
-
 
     Though Sussex hills are bare, are bare,  
 
@@ -3152,17 +2392,11 @@ by The Internet Archive/Canadian Libraries)
 
     The identical nobs we are.  
 
-
-
     _Chorus_  
-
-
 
     The identical nobs, individual nobs  
 
     Unmistakable nobs we are.  
-
-
 
     The people lived on the land, the land,  
 
@@ -3180,17 +2414,11 @@ by The Internet Archive/Canadian Libraries)
 
     The intelligent lot we are.  
 
-
-
     _Chorus_  
-
-
 
     The intelligent lot, the intuitive lot,  
 
     The infallible lot we are.  
-
-
 
     O Warwick woods are green, are green,  
 
@@ -3208,17 +2436,11 @@ by The Internet Archive/Canadian Libraries)
 
     The fortunate chaps we are.  
 
-
-
     _Chorus_  
-
-
 
     The fortunate chaps, felicitous chaps,  
 
     The fairy-like chaps we are.  
-
-
 
     The people they left the land, the land,  
 
@@ -3236,31 +2458,17 @@ by The Internet Archive/Canadian Libraries)
 
     The marvellous mugs we are:  
 
-
-
     _Chorus_  
-
-
 
     The marvellous mugs, miraculous mugs,  
 
     The mystical mugs we are.  
 
-
-
-
-
     SONGS OF EDUCATION:  
-
-
 
     II. GEOGRAPHY  
 
-
-
     _Form 17955301, Sub-Section Z_  
-
-
 
     The earth is a place on which England is found,  
 
@@ -3269,8 +2477,6 @@ by The Internet Archive/Canadian Libraries)
     For the spots are all red and the rest is all grey,  
 
     And that is the meaning of Empire Day.  
-
-
 
     Gibraltar's a rock that you see very plain,  
 
@@ -3288,8 +2494,6 @@ by The Internet Archive/Canadian Libraries)
 
     And that is the meaning of Empire Day.  
 
-
-
     Our principal imports come far as Cape Horn;  
 
     For necessities, cocoa; for luxuries, corn;  
@@ -3303,8 +2507,6 @@ by The Internet Archive/Canadian Libraries)
     The Jazzing will pass but the Jews they will stay;  
 
     And that is the meaning of Empire Day.  
-
-
 
     Our principal exports, all labelled and packed,  
 
@@ -3322,8 +2524,6 @@ by The Internet Archive/Canadian Libraries)
 
     And that is the meaning of Empire Day.  
 
-
-
     The day of St. George is a musty affair  
 
     Which Russians and Greeks are permitted to share;  
@@ -3340,21 +2540,11 @@ by The Internet Archive/Canadian Libraries)
 
     And that is the meaning of Empire Day.  
 
-
-
-
-
     SONGS OF EDUCATION:  
-
-
 
     III. FOR THE CRÊCHE  
 
-
-
     _Form 8277059, Sub-Section K_  
-
-
 
     I remember my mother, the day that we met,  
 
@@ -3372,8 +2562,6 @@ by The Internet Archive/Canadian Libraries)
 
       From the sinister task of attending to me.  
 
-
-
     They have brightened our room, that is spacious and cool,  
 
     With diagrams used in the Idiot School,  
@@ -3389,8 +2577,6 @@ by The Internet Archive/Canadian Libraries)
       And the flame of that faith might perhaps have grown cold,  
 
       With the care of a baby of seven weeks old.  
-
-
 
     For mother is happy in greasing a wheel  
 
@@ -3408,27 +2594,15 @@ by The Internet Archive/Canadian Libraries)
 
       And knobs to be pressed in the usual way;  
 
-
-
     O, hush thee, my baby, take rest while I croon,  
 
     For Progress comes early, and Freedom too soon."  
 
-
-
-
-
     SONGS OF EDUCATION:  
-
-
 
     IV. CITIZENSHIP  
 
-
-
     _Form 8889512, Sub-Section Q_  
-
-
 
     How slowly learns the child at school  
 
@@ -3442,8 +2616,6 @@ by The Internet Archive/Canadian Libraries)
 
     His landlord is a Tennant.  
 
-
-
     He knew not, at the age of three,  
 
     What Lord St. Leger next will be  
@@ -3455,8 +2627,6 @@ by The Internet Archive/Canadian Libraries)
     A Mr. Primrose is to him,  
 
     And he is nothing more.  
-
-
 
     But soon, about the age of ten,  
 
@@ -3470,8 +2640,6 @@ by The Internet Archive/Canadian Libraries)
 
     'Twixt Getting On--or Out.  
 
-
-
     The Citizen will take his share  
 
     (In every sense) as bull and bear;  
@@ -3483,8 +2651,6 @@ by The Internet Archive/Canadian Libraries)
     To show you that a Citizen  
 
     Means Something in the City.  
-
-
 
     Thus gains he, with the virile gown,  
 
@@ -3498,8 +2664,6 @@ by The Internet Archive/Canadian Libraries)
 
     Or Lipton's self than he.  
 
-
-
     For he will learn, if he will try,  
 
     The deep interior truths whereby  
@@ -3512,21 +2676,11 @@ by The Internet Archive/Canadian Libraries)
 
     Are in it for their health.  
 
-
-
-
-
     SONGS OF EDUCATION:  
-
-
 
     V. THE HIGHER MATHEMATICS  
 
-
-
     _Form 339125, Sub-Section M_  
-
-
 
             Twice one is two,  
 
@@ -3548,8 +2702,6 @@ by The Internet Archive/Canadian Libraries)
 
       Or the Higher Mathematics.  
 
-
-
             A straight line is straight  
 
             And a square mile is flat:  
@@ -3569,8 +2721,6 @@ by The Internet Archive/Canadian Libraries)
       And half of two is a touring car  
 
       In the Higher Mathematics.  
-
-
 
             There is a place apart  
 
@@ -3592,29 +2742,15 @@ by The Internet Archive/Canadian Libraries)
 
       In the Higher Mathematics.  
 
-
-
-
-
     SONGS OF EDUCATION:  
-
-
 
     VI. HYGIENE  
 
-
-
     _Form 394411102, Sub-Section X_  
-
-
 
     _"All practical Eugenists are agreed on the importance of  
 
     sleep."--The Eugenic Congress._  
-
-
-
-
 
     When Science taught mankind to breathe  
 
@@ -3632,8 +2768,6 @@ by The Internet Archive/Canadian Libraries)
 
     The Youth would answer "Blow!"  
 
-
-
     When Science proved with lucid care  
 
     The need of Exercise,  
@@ -3649,8 +2783,6 @@ by The Internet Archive/Canadian Libraries)
     Or fighting hard for fourteen rounds,  
 
     It came as a surprise.  
-
-
 
     But when she boldly counsels Sleep  
 
@@ -3668,8 +2800,6 @@ by The Internet Archive/Canadian Libraries)
 
     Will catch the Germ instead.  
 
-
-
     For this at least be Science praised  
 
     If all the rest be rot,  
@@ -3686,43 +2816,21 @@ by The Internet Archive/Canadian Libraries)
 
     The Worm that dieth not.  
 
-
-
-
-
-
-
                             THE ARDEN PRESS  
 
                      STAMFORD STREET LONDON, S.E.1  
-
-
-
-
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of The Ballad of St. Barbara, by  
 
 Gilbert Keith Chesterton  
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***  
-
-
 
 ***** This file should be named 32167-8.txt or 32167-8.zip *****  
 
 This and all associated files of various formats will be found in:  
 
         http://www.gutenberg.org/3/2/1/6/32167/  
-
-
 
 Produced by Irma Spehar, Markus Brenner and the Online  
 
@@ -3732,15 +2840,9 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)  
 
-
-
-
-
 Updated editions will replace the previous one--the old editions  
 
 will be renamed.  
-
-
 
 Creating the works from public domain print editions means that no  
 
@@ -3774,21 +2876,11 @@ subject to the trademark license, especially commercial
 
 redistribution.  
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***  
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE  
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free  
 
@@ -3802,15 +2894,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).  
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm  
 
 electronic works  
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm  
 
@@ -3832,8 +2918,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.  
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be  
 
 used on or associated in any way with an electronic work by people who  
@@ -3851,8 +2935,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic  
 
 works.  See paragraph 1.E below.  
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"  
 
@@ -3884,8 +2966,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.  
 
-
-
 1.D.  The copyright laws of the place where you are located also govern  
 
 what you can do with this work.  Copyright laws in most countries are in  
@@ -3904,11 +2984,7 @@ the copyright status of any work in any country outside the United
 
 States.  
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:  
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate  
 
@@ -3922,8 +2998,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:  
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with  
 
 almost no restrictions whatsoever.  You may copy it, give it away or  
@@ -3931,8 +3005,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included  
 
 with this eBook or online at www.gutenberg.org  
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived  
 
@@ -3954,8 +3026,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.  
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted  
 
 with the permission of the copyright holder, your use and distribution  
@@ -3968,15 +3038,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.  
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm  
 
 License terms from this work, or any files containing a part of this  
 
 work or any other work associated with Project Gutenberg-tm.  
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this  
 
@@ -3987,8 +3053,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project  
 
 Gutenberg-tm License.  
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,  
 
@@ -4012,23 +3076,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.  
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,  
 
 performing, copying or distributing any Project Gutenberg-tm works  
 
 unless you comply with paragraph 1.E.8 or 1.E.9.  
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing  
 
 access to or distributing Project Gutenberg-tm electronic works provided  
 
 that  
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -4054,8 +3112,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."  
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he  
@@ -4070,8 +3126,6 @@ that
 
      Project Gutenberg-tm works.  
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the  
@@ -4080,13 +3134,9 @@ that
 
      of receipt of the work.  
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.  
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
@@ -4100,11 +3150,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.  
 
-
-
 1.F.  
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable  
 
@@ -4125,8 +3171,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by  
 
 your equipment.  
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  
 
@@ -4154,8 +3198,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.  
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  
 
 defect in this electronic work within 90 days of receiving it, you can  
@@ -4180,8 +3222,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.  
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth  
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER  
@@ -4189,8 +3229,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied  
 
@@ -4205,8 +3243,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any  
 
 provision of this agreement shall not void the remaining provisions.  
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the  
 
@@ -4228,13 +3264,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.  
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm  
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of  
 
@@ -4245,8 +3275,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from  
 
 people in all walks of life.  
-
-
 
 Volunteers and financial support to provide volunteers with the  
 
@@ -4266,15 +3294,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.  
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive  
 
 Foundation  
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit  
 
@@ -4292,8 +3314,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.  
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.  
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered  
@@ -4308,8 +3328,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org  
 
-
-
 For additional contact information:  
 
      Dr. Gregory B. Newby  
@@ -4318,15 +3336,9 @@ For additional contact information:
 
      gbnewby@pglaf.org  
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg  
 
 Literary Archive Foundation  
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide  
 
@@ -4341,8 +3353,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt  
 
 status with the IRS.  
-
-
 
 The Foundation is committed to complying with the laws regulating  
 
@@ -4360,8 +3370,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org  
 
-
-
 While we cannot and do not solicit contributions from states where we  
 
 have not met the solicitation requirements, we know of no prohibition  
@@ -4370,15 +3378,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.  
 
-
-
 International donations are gratefully accepted, but we cannot make  
 
 any statements concerning tax treatment of donations received from  
 
 outside the United States.  U.S. laws alone swamp our small staff.  
-
-
 
 Please check the Project Gutenberg Web pages for current donation  
 
@@ -4388,15 +3392,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate  
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic  
 
 works.  
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm  
 
@@ -4406,10 +3404,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.  
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed  
 
 editions, all of which are confirmed as Public Domain in the U.S.  
@@ -4418,17 +3412,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.  
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:  
 
-
-
      http://www.gutenberg.org  
-
-
 
 This Web site includes information about Project Gutenberg-tm,  
 
@@ -4436,8 +3422,4 @@ including how to make donations to the Project Gutenberg Literary
 
 Archive Foundation, how to help produce our new eBooks, and how to  
 
-subscribe to our email newsletter to hear about new eBooks.  
-
-
-
-===== FINE FILE: BalladStBarbara.txt =====  
+subscribe to our email newsletter to hear about new eBooks.

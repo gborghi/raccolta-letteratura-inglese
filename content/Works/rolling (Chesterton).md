@@ -35,7 +35,6 @@ tags:
 
 The Rolling English Road  
 
-
 Before the Roman came to Rye or out to Severn strode,  
 The rolling English drunkard made the rolling English road.  
 A reeling road, a rolling road, that rambles round the shire,  
@@ -62,7 +61,4 @@ Or stretch the folly of our youth to be the shame of age,
 But walk with clearer eyes and ears this path that wandereth,  
 And see undrugged in evening light the decent inn of death;  
 For there is good news yet to hear and fine things to be seen,  
-Before we go to Paradise by way of Kensal Green.  
-
-
-===== FINE FILE: rolling.txt =====  
+Before we go to Paradise by way of Kensal Green.

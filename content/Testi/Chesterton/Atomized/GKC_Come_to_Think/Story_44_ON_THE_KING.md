@@ -276,11 +276,3 @@ of this perilous recovery has come to us so much in the common
 outlines of countless stories of the kind that for the first
 time in such cases the modern curiosity is not an intrusion.
 `The King is the King of the whole people.'
-
-
-
-
-
-
-
-===== FINE FILE: GKC_Come_to_Think.txt =====

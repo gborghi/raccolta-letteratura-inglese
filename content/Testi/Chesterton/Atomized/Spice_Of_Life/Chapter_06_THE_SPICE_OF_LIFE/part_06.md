@@ -73,7 +73,6 @@ Charlotte Bronte as a Contributed to a Centenary
 Romantic Memorial Volume prepared by the Bronte Society.
 Published by T. Fisher Unwin, 1917
 
-
 THOUGHT AND BELIEF
 
 Anti-Religious Thought in Contributed to An Outline of
@@ -123,13 +122,8 @@ The Spice of Life The Listener, March 18, 1936
 
 On Fragments Daily News, March 31, 1906
 
-
 ------------------------
 
 ** This is the text of a broadcast talk given by G. K. Chesterton
 for the British Broadcasting Corporation in their series
 THE SPICE OF LIFE.
-
-
-
-===== FINE FILE: Spice_Of_Life.txt =====

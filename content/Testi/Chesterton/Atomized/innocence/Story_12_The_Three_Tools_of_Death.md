@@ -598,8 +598,3 @@ stopped him and said:
 
 "I've got to get back to the Deaf School," said Father Brown.  "I'm sorry
 I can't stop for the inquiry."
-
-
-
-
-===== FINE FILE: innocence.txt =====

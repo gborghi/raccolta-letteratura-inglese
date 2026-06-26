@@ -237,6 +237,3 @@ on that seat of sedentary scholarship, that chair of philosophy,
 that secret throne of contemplation, from which he never rose again....
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: runabbot.txt =====

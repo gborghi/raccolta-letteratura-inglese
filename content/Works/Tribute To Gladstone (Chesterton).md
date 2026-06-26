@@ -68,9 +68,4 @@ Whose very sin is sad,
 Pass on: one agony long-drawn  
 Was merrier than your mirth;  
 When hand in hand came death and dawn  
-And spring was on the earth.  
-
-
-
-
-===== FINE FILE: Tribute_To_Gladstone.txt =====  
+And spring was on the earth.

@@ -49,7 +49,6 @@ riding the rule--a few really first-class animals. As the afternoon
 waned, the wheel'd carriages grew less, but the saddle-riders seemed to
 increase. They linger'd long--and I saw some charming forms and faces.
 
-
 DEPARTING OF THE BIG STEAMERS
 
 _May 25._--A three hours' bay-trip from 12 to 3 this afternoon,
@@ -85,7 +84,6 @@ the great, shapely black ships themselves, and their groups and lined
 sides--in the setting of our bay with the blue sky overhead. Two days
 after the above I saw the "Britannic," the "Donau," the "Helvetia" and
 the "Schiedam" steam out, all off for Europe--a magnificent sight.
-
 
 TWO HOURS ON THE MINNESOTA
 

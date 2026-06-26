@@ -736,7 +736,3 @@ Perhaps there are things that are too great to happen, and too
 big to pass through the narrow doors of birth.  For this world
 is too small for the soul of man; and, since the end of Eden,
 the very sky is not large enough for lovers.
-
-
-
-===== FINE FILE: Common_Man.txt =====

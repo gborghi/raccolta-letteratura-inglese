@@ -64,8 +64,4 @@ She took the occasion to sing me this song:
      And knobs to be pressed in the usual way;  
 
 O, hush thee, my baby, take rest while I croon,  
-For Progress comes early, and Freedom too soon."  
-
-
-
-===== FINE FILE: songs.txt =====  
+For Progress comes early, and Freedom too soon."

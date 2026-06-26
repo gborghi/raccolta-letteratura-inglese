@@ -41,7 +41,6 @@ Humour
 
 G.K. Chesterton
 
-
 [Encyclopaedia Britannica.  Written May 1928.]
 
 [Chesterton, G.K. The Spice of Life and Other Essays.
@@ -289,9 +288,3 @@ as it is the greatest incongruity of all to be serious about humour,
 so it is the worst sort of pomposity to be monotonously proud of humour;
 for it is itself the chief antidote to pride; and has been,
 ever since the time of the Book of Proverbs, the hammer of fools.
-
-
-
-
-
-===== FINE FILE: Humour.txt =====

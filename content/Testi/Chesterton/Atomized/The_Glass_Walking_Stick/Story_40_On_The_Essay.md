@@ -140,11 +140,3 @@ in the theses of a medieval schoolman, he would have had to think
 much more clearly and make up his mind much more decisively.
 I will leave the last word with the essayist; and admit that I am
 not sure whether he would have written such good essays.
-
-
-
-
-
-
-
-===== FINE FILE: The_Glass_Walking_Stick.txt =====

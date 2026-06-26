@@ -57,15 +57,11 @@ tags:
 - [Chapter 09](/Testi/Chesterton/Atomized/St_Francis/Chapter_09)
 - [Chapter 10](/Testi/Chesterton/Atomized/St_Francis/Chapter_10)
 
-
 ## Testo integrale / Full text
 
 CHAPTER I
 
-
-
 THE PROBLEM OF ST.  FRANCIS
-
 
 A sketch of St. Francis of Assisi in modern English may be written
 in one of three ways.  Between these the writer must make his selection;
@@ -307,14 +303,9 @@ do now that it is a road upon which angels might fear to tread;
 but though I am certain of failure I am not altogether overcome by fear;
 for he suffered fools gladly.
 
-
-
 CHAPTER II
 
-
-
 THE WORLD ST.  FRANCIS FOUND
-
 
 The modern innovation which has substituted journalism for history,
 or for that tradition that is the gossip of history, has had at least
@@ -827,7 +818,6 @@ In either case the name had a certain significance, as connecting
 Francis from the first with what he himself regarded as the romantic
 fairy land of the Troubadours.
 
-
 The name of the father was Pietro Bernadone and he was a substantial
 citizen of the guild of the cloth merchants in the town of Assisi.
 It is hard to describe the position of such a man without
@@ -1206,10 +1196,7 @@ he could and mounted and rode on.  We do not know how far he rode,
 or with what sense of the things around him; but it is said that
 when he looked back, he could see no figure on the road.
 
-
-
 CHAPTER IV
-
 
 FRANCIS THE BUILDER
 
@@ -1512,7 +1499,6 @@ Given a critic of rather coarse common sense, with no feeling
 about the incident except annoyance, and how would the story
 seem to stand?
 
-
 A young fool or rascal is caught robbing his father and selling
 goods which he ought to guard; and the only explanation he will
 offer is that a loud voice from nowhere spoke in his ear and told
@@ -1566,7 +1552,6 @@ like rags from a succession of dust bins.  Ten years later
 that make-shift costume was the uniform of five thousand men;
 and a hundred years later, in that, for a pontifical panoply,
 they laid great Dante in the grave.
-
 
 CHAPTER V
 
@@ -2007,12 +1992,9 @@ which passed above that gaunt and wasted corpse stark upon the rocky
 floor had for once, in all their shining cycles round the world
 of labouring humanity, looked down upon a happy man.
 
-
 CHAPTER VI
 
-
 THE LITTLE POOR MAN
-
 
 From that cavern, that was a furnace of glowing gratitude
 and humility, there came forth one of the strongest and strangest
@@ -2446,12 +2428,9 @@ with the trampling of their feet and far ahead of that ever swelling
 host went a man singing; as simply he had sung that morning
 in the winter woods, where he walked alone.
 
-
 Chapter VII
 
-
 THE THREE ORDERS
-
 
 There is undoubtedly a sense in which two is company and three is none;
 there is also another sense in which three is company and four
@@ -2897,13 +2876,9 @@ in his soul were of light.  Evil itself could not come to him save
 in the form of a forbidden good; and he could only be tempted
 by a sacrament.
 
-
 Chapter VIII
 
-
-
 THE MIRROR OF CHRIST
-
 
 No man who has been given the freedom of the Faith is likely
 to fall into those hole-and corner extravagances in which later
@@ -3333,13 +3308,9 @@ in which time can drift by with the sense of something ended
 and complete; and as he stared downwards, he saw the marks of nails
 in his own hands.
 
-
 Chapter IX
 
-
-
 MIRACLES AND DEATH
-
 
 The tremendous story of the Stigmata of St. Francis, which was
 the end of the last chapter, was in some sense the end of his life.
@@ -4039,10 +4010,3 @@ nothing in return to establish against it; to have nothing to set
 up under the overhanging, overwhelming arches of such a temple
 of time and eternity, but this brief candle burnt out so quickly
 before his shrine.
-
-
-
-
-
-
-===== FINE FILE: St_Francis.txt =====

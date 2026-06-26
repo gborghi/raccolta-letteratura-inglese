@@ -16,7 +16,6 @@ tags:
 
 THE ANGRY AUTHOR:  HIS FAREWELL
 
-
 I have republished all these old articles of mine because they
 cover a very controversial period, in which I was in nearly
 all the controversies, whether I was visible there or no.
@@ -148,8 +147,3 @@ to discuss these public questions properly.  But I fear my list
 of protests grows too long; and I know it could grow longer for ever.
 The reader must forgive my elongations and elaborations.
 I fancied for the moment that I was writing a book.
-
-
-
-
-===== FINE FILE: misc.txt =====

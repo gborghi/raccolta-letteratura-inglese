@@ -642,7 +642,6 @@ and the mountains resound no more with the feet of the shepherds;
 and only the night and the cavern lie in fold upon fold over something
 more human than humanity.
 
-
 * * *
 
 II
@@ -1113,7 +1112,6 @@ of simplicity, who should expect the grass to wither and the birds
 to drop dead out of the air, when a strolling carpenter's apprentice
 said calmly and almost carelessly, like one looking over his shoulder:
 'Before Abraham was, I am.'
-
 
 * * *
 
@@ -2347,7 +2345,6 @@ to unsay what it had said; I can find no explanation except that,
 like Pallas from the brain of Jove, it had indeed come forth
 out of the mind of God, mature and mighty and armed for judgement
 and for war.
-
 
 * * *
 
@@ -3852,7 +3849,6 @@ It is the duty of a solitary skull to prove that our fathers were
 our inferiors.  Any solitary skull presuming to prove that they
 were superior is felt to be suffering from swelled head.
 
-
 * * *
 
 APPENDIX II
@@ -3893,8 +3889,3 @@ speculations about races are less valuable than they undoubtedly are.
 My criticism is strictly relative; I may say that the pyramids are
 plainer than the tracks of the desert; without denying that wiser
 men than I may see tracks in what is to me the trackless sand.
-
-
-
-
-===== FINE FILE: everlasting_man.txt =====

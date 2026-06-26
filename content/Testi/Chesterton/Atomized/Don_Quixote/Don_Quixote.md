@@ -19,7 +19,6 @@ BY
 
 G. K. CHESTERTON
 
-
 DODD, MEAD & COMPANY
 
 NEW YORK 1927
@@ -8105,6 +8104,3 @@ could see, or would probably ever understand.
 -^-
 
 END
-
-
-===== FINE FILE: Don_Quixote.txt =====

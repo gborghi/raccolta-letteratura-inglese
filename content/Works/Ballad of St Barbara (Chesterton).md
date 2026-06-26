@@ -45,7 +45,6 @@ tags:
 
 The Ballad of Saint Barbara  
 
-
 (St Barbara is the patron saint of gunners, and those in danger  
 of sudden death.)  
 
@@ -274,9 +273,4 @@ And burned before St Barbara, the light of the windows three,
 Three candles for an unknown thing, never to come again,  
 That opened like the eye of God on Paris in the plain.  
 
-
----GK Chesterton  
-
-
-
-===== FINE FILE: Ballad_of_St_Barbara.txt =====  
+---GK Chesterton

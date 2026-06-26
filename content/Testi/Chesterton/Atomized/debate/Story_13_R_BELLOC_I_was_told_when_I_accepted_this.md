@@ -53,8 +53,3 @@ with a few rich men controlling them.  Take your choice.
 You will all be dead before any of the three things comes off.
 One of the three things is going to happen, or a mixture of two,
 or possibly a mixture of the three combined.
-
-
-
-
-===== FINE FILE: debate.txt =====

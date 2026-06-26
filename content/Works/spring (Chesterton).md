@@ -42,12 +42,9 @@ tags:
 
 Second Spring  
 
-
 The House of Christmas  
 
-
 By G.K. Chesterton  
-
 
 There fared a mother driven forth  
 Out of an inn to roam;  
@@ -93,7 +90,4 @@ And a taller town than Rome.
 To the end of the way of the wandering star,  
 To the things that cannot be and that are,  
 To the place where God was homeless  
-And all men are at home.  
-
-
-===== FINE FILE: spring.txt =====  
+And all men are at home.

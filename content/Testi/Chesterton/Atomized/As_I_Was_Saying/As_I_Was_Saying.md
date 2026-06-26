@@ -5146,7 +5146,3 @@ and temporary solution; and warn us against allowing the present
 to become more narrow than the past.
 
 ~||~
-
-
-
-===== FINE FILE: As_I_Was_Saying.txt =====

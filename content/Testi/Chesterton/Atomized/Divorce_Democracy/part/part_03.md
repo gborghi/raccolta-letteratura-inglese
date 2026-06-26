@@ -137,6 +137,3 @@ about the tragedy that is post-matrimonial. The thing remains real;
 it binds one to something.  If I am exiled from England I will
 go and live on an island somewhere and be as jolly as I can.
 I will not become a patriot of any other land.
-
-
-===== FINE FILE: Divorce_Democracy.txt =====

@@ -41,7 +41,6 @@ tags:
 - [Chapter 08](/Testi/Chesterton/Atomized/divorce/Chapter_08)
 - [Chapter 09](/Testi/Chesterton/Atomized/divorce/Chapter_09)
 
-
 ## Testo integrale / Full text
 
 The Superstition of Divorce
@@ -2263,9 +2262,3 @@ in art as much as in ethics, in poetry as much as in politics,
 is choice; a creative power in the will as well as in the mind.
 Without that self-limitation of somebody, nothing living will ever
 see the light.
-
-
-
-
-
-===== FINE FILE: divorce.txt =====

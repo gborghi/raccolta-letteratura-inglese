@@ -168,9 +168,3 @@ and he might become a Cabinet Minister while poor old Darcy was
 sulking in the provinces, a decent, truthful, honourable Diehard,
 cursing the taxes and swearing the country was going to the dogs
 and especially to the puppies.
-
-
-
-
-
-===== FINE FILE: Jane_Austen_GE.txt =====

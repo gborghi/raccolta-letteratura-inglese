@@ -20,7 +20,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 with this eBook or online at www.gutenberg.net
 
-
 Title: Robert Browning
 
 Author: G. K. Chesterton
@@ -33,27 +32,14 @@ Character set encoding: ISO-8859-1
 
 *** START OF THIS PROJECT GUTENBERG EBOOK ROBERT BROWNING ***
 
-
-
-
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
 
-
-
-
-
-
-
          ROBERT BROWNING
-
 
                BY
 
          G.K. CHESTERTON
-
-
-
 
           CONTENTS
 
@@ -83,19 +69,11 @@ THE PHILOSOPHY OF BROWNING         177
 
 INDEX                              203
 
-
-
-
-
 ROBERT BROWNING
-
-
-
 
 CHAPTER I
 
 BROWNING IN EARLY LIFE
-
 
 On the subject of Browning's work innumerable things have been said
 and remain to be said; of his life, considered as a narrative of
@@ -967,13 +945,9 @@ impulsively into a private drawing-room and offered to play, so he
 walked at this time into the huge and crowded salon of European
 literature and offered to sing.
 
-
-
-
 CHAPTER II
 
 EARLY WORKS
-
 
 In 1840 _Sordello_ was published. Its reception by the great majority
 of readers, including some of the ablest men of the time, was a
@@ -1532,13 +1506,9 @@ the same relation to the snob that the righteous man bears to the
 Pharisee: something frightfully close and similar and yet an
 everlasting opposite.
 
-
-
-
 CHAPTER III
 
 BROWNING AND HIS MARRIAGE
-
 
 Robert Browning had his faults, and the general direction of those
 faults has been previously suggested. The chief of his faults, a
@@ -2224,13 +2194,9 @@ father was in truth not a man to be treated with; hardly, perhaps,
 even a man to be blamed. She knew to all intents and purposes that she
 had grown up in the house of a madman.
 
-
-
-
 CHAPTER IV
 
 BROWNING IN ITALY
-
 
 The married pair went to Pisa in 1846, and moved soon afterwards to
 Florence. Of the life of the Brownings in Italy there is much perhaps
@@ -2846,13 +2812,9 @@ said, little should be. He, closing the door of that room behind him,
 closed a door in himself, and none ever saw Browning upon earth again
 but only a splendid surface.
 
-
-
-
 CHAPTER V
 
 BROWNING IN LATER LIFE
-
 
 Browning's confidences, what there were of them, immediately after his
 wife's death were given to several women-friends; all his life,
@@ -3601,13 +3563,9 @@ marines. He was buried in the Poets' Corner of Westminster Abbey, the
 choir singing his wife's poem, "He giveth His beloved sleep." On the
 day that he died _Asolando_ was published.
 
-
-
-
 CHAPTER VI
 
 BROWNING AS A LITERARY ARTIST
-
 
 Mr. William Sharp, in his _Life_ of Browning, quotes the remarks of
 another critic to the following effect: "The poet's processes of
@@ -4391,13 +4349,9 @@ mean nothing? Does an old horse turned out to graze mean nothing? If
 it does, there is but one further truth to be added--that everything
 means nothing.
 
-
-
-
 CHAPTER VII
 
 _THE RING AND THE BOOK_
-
 
 When we have once realised the great conception of the plan of _The
 Ring and the Book_, the studying of a single matter from nine
@@ -4847,13 +4801,9 @@ blind men groping after an elephant and naming it a tree or a serpent.
 We are maniacs, isolated in separate cells, and dreaming of trees and
 serpents without reason and without result.
 
-
-
-
 CHAPTER VIII
 
 THE PHILOSOPHY OF BROWNING
-
 
 The great fault of most of the appreciation of Browning lies in the
 fact that it conceives the moral and artistic value of his work to lie
@@ -5542,11 +5492,7 @@ change and harden, the eyes glare like the eyes of a mask, the whole
 face of clay becomes a common mouthpiece, and the voice that comes
 forth is the voice of God, uttering His everlasting soliloquy.
 
-
-
-
 INDEX
-
 
 A
 
@@ -5567,7 +5513,6 @@ Asolo (Italy), 42, 131.
 "At the Mermaid," 117.
 
 Austria, 88, 89.
-
 
 B
 
@@ -5694,7 +5639,6 @@ Byron, 11, 38, 141, 143.
 
 Byronism, 19, 117.
 
-
 C
 
 "Caliban," 9, 120.
@@ -5733,7 +5677,6 @@ Corelli, Miss Marie, 38.
 
 Cromwell, Oliver, 73.
 
-
 D
 
 Darwin, 23, 39.
@@ -5754,13 +5697,11 @@ _Dramatis Personæ_, 105.
 
 Duffy, Sir Charles Gavan, 187, 188.
 
-
 E
 
 _Edinburgh Review_, 122.
 
 "Englishman in Italy, The," 150.
-
 
 F
 
@@ -5792,7 +5733,6 @@ French Revolution, 87.
 
 Furnivall, Dr., 7, 129.
 
-
 G
 
 "Garden Fancies," 46.
@@ -5812,7 +5752,6 @@ Goldsmith, 169, 170.
 Gordon, General, 90.
 
 "Guido Franceschini," 106, 120, 200.
-
 
 H
 
@@ -5844,7 +5783,6 @@ Hugo, Victor, 17.
 
 Hunt, Leigh, 26.
 
-
 I
 
 _Incondita_, 17.
@@ -5858,7 +5796,6 @@ Italy, 85 _seq._
 Italian Revolution, 88 _seq._
 
 "Ivàn Ivànovitch," 127.
-
 
 J
 
@@ -5874,7 +5811,6 @@ _Julius Cæsar_ (Shakespeare), 28.
 
 "Juris Doctor Bottinius," 161.
 
-
 K
 
 Keats, 15, 16, 19, 137, 142.
@@ -5886,7 +5822,6 @@ _King Victor and King Charles_, 32.
 Kipling, Rudyard, 142.
 
 Kirkup, Seymour, 103.
-
 
 L
 
@@ -5915,7 +5850,6 @@ Lockhart, 112.
 "Luigi," 45.
 
 Lytton, Lord (novelist), 91.
-
 
 M
 
@@ -5950,7 +5884,6 @@ _Mr. Sludge the Medium_, 82, 96, 120, 190-199.
 
 "My Star," 138.
 
-
 N
 
 "Nationality in Drinks," 46, 138.
@@ -5965,7 +5898,6 @@ Newman, Cardinal, 193.
 
 Norwood, 18.
 
-
 O
 
 "Ode on the Intimations of Immortality" (Wordsworth), 136.
@@ -5977,7 +5909,6 @@ O
 "One Word More," 65.
 
 Orr, Mrs., 72.
-
 
 P
 
@@ -6037,7 +5968,6 @@ Puritans, 30.
 
 Pym, 28, 30.
 
-
 R
 
 "Rabbi Ben Ezra," 201.
@@ -6063,7 +5993,6 @@ Royalists, 30.
 Ruskin, 16, 55, 56, 91, 115.
 
 Russia, 88.
-
 
 S
 
@@ -6117,9 +6046,7 @@ _Straford_, 27 _seq._, 37.
 
 Swinburne, 56, 116, 142,143.
 
-
 T
-
 
 _Tait's Magazine_, 20.
 
@@ -6139,17 +6066,13 @@ _Tristram Shandy_ (Sterne), 163.
 
 _Two Poets of Croisic, The_, 127.
 
-
 U
-
 
 University College, 14.
 
 "Up jumped Tokay" (poem quoted), 140.
 
-
 V
-
 
 Venice, 131.
 
@@ -6157,9 +6080,7 @@ Victor of Sardinia, King, 23.
 
 Vogler, Abt, 23.
 
-
 W
-
 
 _Water Babies_ (Kingsley), 8.
 
@@ -6179,11 +6100,9 @@ Wordsworth, 69, 136, 141, 143.
 
 Wordsworth Society, 129.
 
-
 Y
 
 "Youth and Art," 50, 109.
-
 
 Z
 
@@ -6196,7 +6115,6 @@ ENGLISH MEN OF LETTERS.
 NEW SERIES.
 
 _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
-
 
     GEORGE ELIOT. By Sir LESLIE STEPHEN, K.C.B.
     HAZLITT. By AUGUSTINE BIRRELL, K.C.
@@ -6218,11 +6136,9 @@ _Crown 8vo. Gilt tops. Flat backs. 2s. net each._
     MRS. GASKELL. By CLEMENT SHORTER.
     THOMAS MOORE. By STEPHEN GWYNN.
 
-
 RE-ISSUE OF THE ORIGINAL SERIES
 
 _Library Edition. Uniform with the above. 2s. net each._
-
 
     ADDISON. By W.J. COURTHOPE.
     BACON. By Dean CHURCH.
@@ -6272,7 +6188,6 @@ ENGLISH MEN OF ACTION SERIES.
 
 Crown 8vo. Cloth. With Portraits. 2s. 6d. each.
 
-
     CAMPBELL (COLIN). By ARCHIBALD FORBES.
     CLIVE. By Sir CHARLES WILSON.
     COOK (Captain). By Sir WALTER BESANT.
@@ -6309,7 +6224,6 @@ work of those leading actors in our affairs who by their direct
 influence have left an abiding mark on the policy, the institutions,
 and the position of Great Britain among States_.
 
-
 WILLIAM THE CONQUEROR. By EDWARD A. FREEMAN, D.C.L., LL.D., late
 Regius Professor of Modern History in the University of Oxford.
 
@@ -6338,17 +6252,6 @@ PITT. By Lord ROSEBERY.
 PEEL. By J.R. THURSFIELD, M.A., late Fellow of Jesus College,
 Oxford.
 
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Robert Browning, by G. K. Chesterton
 
 *** END OF THIS PROJECT GUTENBERG EBOOK ROBERT BROWNING ***
@@ -6359,7 +6262,6 @@ This and all associated files of various formats will be found in:
 
 Produced by Jonathan Ingram, Victoria Woosley and PG Distributed
 Proofreaders
-
 
 Updated editions will replace the previous one--the old editions
 will be renamed.
@@ -6381,8 +6283,6 @@ practically ANYTHING with public domain eBooks.  Redistribution is
 subject to the trademark license, especially commercial
 redistribution.
 
-
-
 *** START: FULL LICENSE ***
 
 THE FULL PROJECT GUTENBERG LICENSE
@@ -6394,7 +6294,6 @@ distribution of electronic works, by using or distributing this work
 Gutenberg"), you agree to comply with all the terms of the Full Project
 Gutenberg-tm License (available with this file or online at
 http://gutenberg.net/license).
-
 
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 electronic works
@@ -6608,7 +6507,6 @@ or cause to occur: (a) distribution of this or any Project Gutenberg-tm
 work, (b) alteration, modification, or additions or deletions to any
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
 
 Project Gutenberg-tm is synonymous with the free distribution of
@@ -6626,7 +6524,6 @@ and permanent future for Project Gutenberg-tm and future generations.
 To learn more about the Project Gutenberg Literary Archive Foundation
 and how your efforts and donations can help, see Sections 3 and 4
 and the Foundation web page at http://www.pglaf.org.
-
 
 Section 3.  Information about the Project Gutenberg Literary Archive
 Foundation
@@ -6652,7 +6549,6 @@ For additional contact information:
      Dr. Gregory B. Newby
      Chief Executive and Director
      gbnewby@pglaf.org
-
 
 Section 4.  Information about Donations to the Project Gutenberg
 Literary Archive Foundation
@@ -6688,7 +6584,6 @@ methods and addresses.  Donations are accepted in a number of other
 ways including including checks, online payments and credit card
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 works.
 
@@ -6697,12 +6592,10 @@ concept of a library of electronic works that could be freely shared
 with anyone.  For thirty years, he produced and distributed Project
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
 Project Gutenberg-tm eBooks are often created from several printed
 editions, all of which are confirmed as Public Domain in the U.S.
 unless a copyright notice is included.  Thus, we do not necessarily
 keep eBooks in compliance with any particular paper edition.
-
 
 Most people start at our Web site which has the main PG search facility:
 
@@ -6712,6 +6605,3 @@ This Web site includes information about Project Gutenberg-tm,
 including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 subscribe to our email newsletter to hear about new eBooks.
-
-
-===== FINE FILE: Robert_Browning.txt =====

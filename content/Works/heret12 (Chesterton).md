@@ -60,7 +60,6 @@ tags:
 - [Story 18 Slum Novelists and the Slums](/Testi/Chesterton/Atomized/heret12/Story_18_Slum_Novelists_and_the_Slums)
 - [Story 19 Concluding Remarks on the Importance of](/Testi/Chesterton/Atomized/heret12/Story_19_Concluding_Remarks_on_the_Importance_of)
 
-
 ## Testo integrale / Full text
 
 HERETICS
@@ -69,11 +68,7 @@ by
 
 Gilbert K. Chesterton
 
-
-
 "To My Father"
-
-
 
 Source
 
@@ -166,10 +161,7 @@ Table of Contents
  19. Slum Novelists and the Slums
  20. Concluding Remarks on the Importance of Orthodoxy
 
-
-
 I. Introductory Remarks on the Importance of Orthodoxy
-
 
 Nothing more strangely indicates an enormous and silent evil of modern society
 than the extraordinary use which is made nowadays of the word "orthodox."
@@ -446,10 +438,7 @@ and that all depends on what is the philosophy of Light.  Only what
 we might have discussed under the gas-lamp, we now must discuss
 in the dark.
 
-
-
 II.  On the Negative Spirit
-
 
 Much has been said, and said truly, of the monkish morbidity,
 of the hysteria which has often gone with the visions of hermits or nuns.
@@ -716,10 +705,7 @@ but it is logically evident that it is illegitimate for us.
 It is a sacred word, a word which could only rightly be used
 by rigid believers and in the ages of faith.
 
-
-
 III.  On Mr. Rudyard Kipling and Making the World Small
-
 
 There is no such thing on earth as an uninteresting subject;
 the only thing that can exist is an uninterested person.
@@ -1039,10 +1025,7 @@ outstripping time, consuming space, seeing all and seeing nothing,
 roaring on at last to the capture of the solar system,
 only to find the sun cockney and the stars suburban.
 
-
-
 IV.  Mr. Bernard Shaw
-
 
 In the glad old days, before the rise of modern morbidities,
 when genial old Ibsen filled the world with wholesome joy, and the
@@ -1328,10 +1311,7 @@ But this one thing, the historic Christian Church, was founded
 on a weak man, and for that reason it is indestructible.
 For no chain is stronger than its weakest link.
 
-
-
 V. Mr. H. G. Wells and the Giants
-
 
 We ought to see far enough into a hypocrite to see even his sincerity.
 We ought to be interested in that darkest and most real part
@@ -1818,10 +1798,7 @@ old stories of the sturdy and fighting English.  And the thing
 that they find written across that fierce old literature everywhere,
 is "the policy of Majuba."
 
-
-
 VI.  Christmas and the Aesthetes
-
 
 The world is round, so round that the schools of optimism and pessimism
 have been arguing from the beginning whether it is the right way up.
@@ -2024,10 +2001,7 @@ The absence from modern life of both the higher and lower forms of faith
 is largely due to a divorce from nature and the trees and clouds.
 If we have no more turnip ghosts it is chiefly from the lack of turnips.
 
-
-
 VII.  Omar and the Sacred Vine
-
 
 A new morality has burst upon us with some violence in connection
 with the problem of strong drink; and enthusiasts in the matter
@@ -2243,10 +2217,7 @@ for this my blood of the new testament that is shed for you.
 Drink, for I know of whence you come and why.  Drink, for I
 know of when you go and where."
 
-
-
 VIII.  The Mildness of the Yellow Press
-
 
 There is a great deal of protest made from one quarter or another nowadays
 against the influence of that new journalism which is associated with
@@ -2559,10 +2530,7 @@ But if they make any sort of attempt to be politicians,
 we can only point out to them that they are not as yet
 even good journalists.
 
-
-
 IX.  The Moods of Mr. George Moore
-
 
 Mr. George Moore began his literary career by writing
 his personal confessions; nor is there any harm in this
@@ -2690,10 +2658,7 @@ spirit in a man like Bernard Shaw.  His weakness of introspection
 and selfishness in all their glory cannot prevent him fighting;
 but they will always prevent him winning.
 
-
-
 X. On Sandals and Simplicity
-
 
 The great misfortune of the modern English is not at all that they are more
 boastful than other people (they are not); it is that they are boastful
@@ -2838,10 +2803,7 @@ things that only theoretically matter, such as the transit
 of Venus.  But only at their peril can men rationalize about
 so practical a matter as health.
 
-
-
 XI.  Science and the Savages
-
 
 A permanent disadvantage of the study of folk-lore and kindred
 subjects is that the man of science can hardly be in the nature
@@ -3064,10 +3026,7 @@ to be something strange, only when it looks like ourselves.
 When a tree really looks like a man our knees knock under us.
 And when the whole universe looks like a man we fall on our faces.
 
-
-
 XII.  Paganism and Mr. Lowes Dickinson
-
 
 Of the New Paganism (or neo-Paganism), as it was preached flamboyantly
 by Mr. Swinburne or delicately by Walter Pater, there is no necessity
@@ -3437,10 +3396,7 @@ and rational self-completion we shall end--where Paganism ended.
 I do not mean that we shall end in destruction.  I mean that we
 shall end in Christianity.
 
-
-
 XIII.  Celts and Celtophiles
-
 
 Science in the modern world has many uses; its chief use, however,
 is to provide long words to cover the errors of the rich.
@@ -3595,10 +3551,7 @@ Ireland has no need to pretend to be a tribe of visionaries apart.
 In the matter of visions, Ireland is more than a nation,
 it is a model nation.
 
-
-
 XIV.  On Certain Modern Writers and the Institution of the Family
-
 
 The family may fairly be considered, one would think,
 an ultimate human institution.  Every one would admit
@@ -3943,10 +3896,7 @@ There is nothing baser than that infinity.  They say they wish
 to be as strong as the universe, but they really wish the whole
 universe as weak as themselves.
 
-
-
 XV.  On Smart Novelists and the Smart Set
-
 
 In one sense, at any rate, it is more valuable to read bad literature
 than good literature.  Good literature may tell us the mind
@@ -4340,10 +4290,7 @@ that he saw all mankind in its amazing and tropical luxuriance,
 and did not even notice the aristocracy; Dickens, the greatest
 of whose glories was that he could not describe a gentleman.
 
-
-
 XVI.  On Mr. McCabe and a Divine Frivolity
-
 
 A critic once remonstrated with me saying, with an air
 of indignant reasonableness, "If you must make jokes,
@@ -4716,10 +4663,7 @@ for Guy Fawkes' day.  Eternity is the eve of something.
 I never look up at the stars without feeling that they are the fires
 of a schoolboy's rocket, fixed in their everlasting fall.
 
-
-
 XVII.  On the Wit of Whistler
-
 
 That capable and ingenious writer, Mr. Arthur Symons, has included
 in a book of essays recently published, I believe, an apologia
@@ -4983,10 +4927,7 @@ great man is equal with other men, like Shakespeare.  The second-rate
 great man is on his knees to other men, like Whitman.  The third-rate
 great man is superior to other men, like Whistler.
 
-
-
 XVIII.  The Fallacy of the Young Nation
-
 
 To say that a man is an idealist is merely to say that he is
 a man; but, nevertheless, it might be possible to effect some
@@ -5398,10 +5339,7 @@ Their silence may be the silence of the unborn.
 But out of America has come a sweet and startling cry,
 as unmistakable as the cry of a dying man.
 
-
-
 XIX.  Slum Novelists and the Slums
-
 
 Odd ideas are entertained in our time about the real nature of the doctrine
 of human fraternity.  The real doctrine is something which we do not,
@@ -5758,10 +5696,7 @@ The novelist must not take out his notebook and say, "I am
 an expert."  No; he must imitate the workman in the Adelphi play.
 He must slap himself on the chest and say, "I am a man."
 
-
-
 XX.  Concluding Remarks on the Importance of Orthodoxy
-
 
 Whether the human mind can advance or not, is a question too
 little discussed, for nothing can be more dangerous than to found
@@ -6192,8 +6127,4 @@ yet have believed.
 
 THE END
 
-
 End of this Project Gutenberg Etext of Heretics, by G. K. Chesterton
-
-
-===== FINE FILE: heret12.txt =====

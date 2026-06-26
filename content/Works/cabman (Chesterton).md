@@ -165,7 +165,3 @@ though it had rocked for an instant, had remained erect.
 The Extraordinary Cabman first appeared in London's Daily News.  It was
 later collected in the volume of essays Tremendous Trifles.
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: cabman.txt =====

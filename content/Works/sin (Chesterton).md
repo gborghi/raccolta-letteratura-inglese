@@ -50,7 +50,4 @@ Buried and bricked in a forgotten hell;
 Prophet and poet be he over sod,  
   Prince among angels in the highest place,  
   God help me, I will smite him on the face,  
-Before the glory of the face of God.  
-
-
-===== FINE FILE: sin.txt =====  
+Before the glory of the face of God.

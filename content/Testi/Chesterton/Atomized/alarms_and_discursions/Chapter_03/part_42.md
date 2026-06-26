@@ -92,7 +92,3 @@ This mysterious marshland does not sustain me, and I sink into its
 depths with a bubbling groan.
 
 -/-
-
-
-
-===== FINE FILE: alarms_and_discursions.txt =====

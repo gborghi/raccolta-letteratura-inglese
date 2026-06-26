@@ -86,7 +86,6 @@ tags:
 - [Story 47 An Explanation](/Testi/Chesterton/Atomized/Well_And_Shallows/Story_47_An_Explanation)
 - [Story 48 Where Is The Paradox](/Testi/Chesterton/Atomized/Well_And_Shallows/Story_48_Where_Is_The_Paradox)
 
-
 ## Testo integrale / Full text
 
 The Well and the Shallows
@@ -152,7 +151,6 @@ WHY PROTESTANTS PROHIBIT
 WHERE IS THE PARADOX?
 
 -/-
-
 
 INTRODUCTORY NOTE
 
@@ -5172,7 +5170,6 @@ without thinking of the Continents."
 
 -----
 
-
 -/-
 
 FROZEN FREE THOUGHT
@@ -7064,7 +7061,3 @@ the silent aggression and enslavement by modern monopoly;
 and who thanked me with only too much of the truly English generosity,
 for exposing the wrongs they endure with only too much
 of the truly English good humour.
-
-
-
-===== FINE FILE: Well_And_Shallows.txt =====

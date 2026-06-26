@@ -765,6 +765,3 @@ not knowing that high over their heads, and up above the cloud
 of battle, the tower of timber and the tower of stone had touched
 and met in mid-heaven; and great Godfrey, alone and alive had leapt
 upon the wall of Jerusalem.
-
-
-===== FINE FILE: meaning_of_the_crusade.txt =====

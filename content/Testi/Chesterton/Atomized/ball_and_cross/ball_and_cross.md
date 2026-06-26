@@ -17,8 +17,6 @@ THE BALL AND THE CROSS
 
 G.K. Chesterton
 
-
-
 CONTENTS
 
     I. A Discussion Somewhat in the Air
@@ -41,8 +39,6 @@ CONTENTS
 XVIII.  A Riddle of Faces
   XIX. The Last Parley
    XX. Dies Irae
-
-
 
 I. A DISCUSSION SOMEWHAT IN THE AIR
 
@@ -614,8 +610,6 @@ They took the tall young man away to a magistrate, whither we shall
 follow him in an ensuing chapter.  And they took the happiest man
 in the world away to an asylum.
 
-
-
 II.  THE RELIGION OF THE STIPENDIARY MAGISTRATE
 
 The editorial office of _The Atheist_ had for some years past become
@@ -1052,8 +1046,6 @@ of the Blood of God."
 
 The atheist drew up his head.  "And I," he said, "give my word."
 
-
-
 III.  SOME OLD CURIOSITIES
 
 The evening sky, a dome of solid gold, unflaked even by a single
@@ -1466,8 +1458,6 @@ It will be a touch of realism."
 
 "Thank you," answered Evan.  "You are very kind."  And he began
 to smoke in the cab.
-
-
 
 IV.  A DISCUSSION AT DAWN
 
@@ -1976,8 +1966,6 @@ dropped his sword.  Evan stared round in an unusual bewilderment,
 and then realized that a large man in pale clothes and a Panama
 hat was strolling serenely towards them.
 
-
-
 V. THE PEACEMAKER
 
 When the combatants, with crossed swords, became suddenly
@@ -2238,8 +2226,6 @@ Suddenly, furious as they were, they were frozen for a moment motionless.
 
 "The student of Shaw and Tolstoy has made up his remarkable mind,"
 said Turnbull, quietly.  "The police are coming up the hill."
-
-
 
 VI.  THE OTHER PHILOSOPHER
 
@@ -2761,8 +2747,6 @@ A second afterwards the most extraordinary grimaces were seen to
 distort the stiff face of MacIan, and unholy sounds came from within.
 He had never practised laughing, and it hurt him very much.
 
-
-
 VII.  THE VILLAGE OF GRASSLEY-IN-THE-HOLE
 
 At about half-past one, under a strong blue sky, Turnbull got up
@@ -3156,8 +3140,6 @@ all agnostics.  We Catholics have only in that sense got as far
 as realizing that man is a man.  But your Ibsens and your Zolas
 and your Shaws and your Tolstoys have not even got so far."
 
-
-
 VIII.  AN INTERLUDE OF ARGUMENT
 
 Morning broke in bitter silver along the grey and level plain;
@@ -3395,8 +3377,6 @@ They went a little way in silence, and then James Turnbull
 said suddenly, "But I _cannot_ believe in the thing."
 MacIan answered nothing to the speech; perhaps it is unanswerable.
 And indeed they scarcely spoke another word to each other all that day.
-
-
 
 IX.  THE STRANGE LADY
 
@@ -3977,8 +3957,6 @@ revealing splendours, as the car went roaring up the curve of a
 great hill; and above them and black against the broadening light,
 there stood one of those crouching and fantastic trees that are
 first signals of the sea.
-
-
 
 X. THE SWORDS REJOINED
 
@@ -4653,8 +4631,6 @@ It's as if one went about with Kruger's beard on Mafeking Night."
 "I mean," said Turnbull, with steady conviction, "that what we want
 is a little diplomacy, and I am going to buy some in a shop."
 
-
-
 XI.  A SCANDAL IN THE VILLAGE
 
 In the little hamlet of Haroc, in the Isle of St. Loup, there lived
@@ -5168,8 +5144,6 @@ overtaken Turnbull and told the tale; ten minutes afterwards he and
 Turnbull had somehow tumbled into the yacht called the _Gibson Girl_
 and had somehow pushed off from the Isle of St. Loup.
 
-
-
 XII.  THE DESERT ISLAND
 
 Those who happen to hold the view (and Mr. Evan MacIan, now alive
@@ -5499,8 +5473,6 @@ MacIan followed his eye along the sand-hills. He saw what looked
 like the momentary and waving figure of the nigger minstrel, and then
 he saw a heavy running policeman take the turn of the sand-hill
 with the smooth solemnity of a railway train.
-
-
 
 XIII.  THE GARDEN OF PEACE
 
@@ -5832,8 +5804,6 @@ clump of rhododendrons.  He had the look of a prosperous banker,
 wore a good tall silk hat, was almost stout enough to burst
 the buttons of a fine frock-coat; but he was talking to himself,
 and one of his elbows had a singular outward jerk as he went by.
-
-
 
 XIV.  A MUSEUM OF SOULS
 
@@ -6400,8 +6370,6 @@ not get out."
 Evan gazed at the garden wall, gravely for more than a minute,
 and then he nodded without a word.
 
-
-
 XV.  THE DREAM OF MACIAN
 
 The system of espionage in the asylum was so effective and complete
@@ -6684,8 +6652,6 @@ But you were once."
 
 The being's hand dropped from his mouth and Evan dropped out
 of the car.
-
-
 
 XVI.  THE DREAM OF TURNBULL
 
@@ -7129,8 +7095,6 @@ that it was by Christ's own choice that He descended into hell.
 When he again realized anything, he was lying on his elbow on
 the lawn of the lunatic asylum, and the last red of the sunset
 had not yet disappeared.
-
-
 
 XVII.  THE IDIOT
 
@@ -7696,8 +7660,6 @@ and they found just outside the door the black-clad gentleman
 with the cloven chin smilingly regarding them; and his chin seemed
 to grow longer and longer as he smiled.
 
-
-
 XVIII.  A RIDDLE OF FACES
 
 Just behind him stood two other doctors:  one, the familiar
@@ -8189,8 +8151,6 @@ until the stars fall."  Then he looked up suddenly, and said:
 "My name is Beatrice Drake," she replied with complete gravity.
 "You can see it on my certificate of lunacy."
 
-
-
 XIX.  THE LAST PARLEY
 
 Turnbull walked away, wildly trying to explain to himself the presence
@@ -8502,8 +8462,6 @@ the Master down, and then fell under the same almost fairy fatalism
 as his companion.  In some strange way it did seem that the more
 smoothly they yielded, the more swiftly would events sweep on
 to some great collision.
-
-
 
 XX.  DIES IRAE
 
@@ -8934,9 +8892,3 @@ He looked vaguely about at the fire that was already fading,
 and there among the ashes lay two shining things that had survived
 the fire, his sword and Turnbull's, fallen haphazard in the pattern
 of a cross.
-
-
-
-
-
-===== FINE FILE: ball_and_cross.txt =====

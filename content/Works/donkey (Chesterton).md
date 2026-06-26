@@ -57,8 +57,4 @@ The Donkey
         Fools! For I also had my hour;  
           One far fierce hour and sweet:  
         There was a shout about my ears,  
-          And palms before my feet.  
-
-
-
-===== FINE FILE: donkey.txt =====  
+          And palms before my feet.

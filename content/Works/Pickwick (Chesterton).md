@@ -236,7 +236,3 @@ a tattered volume of Pickwick, must have felt that he carried his
 country in his pocket.
 
 G. K. Chesterton.
-
-
-
-===== FINE FILE: Pickwick.txt =====

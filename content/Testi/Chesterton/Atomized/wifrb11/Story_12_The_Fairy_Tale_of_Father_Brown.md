@@ -16,7 +16,6 @@ tags:
 
                     The Fairy Tale of Father Brown
 
-
 THE picturesque city and state of Heiligwaldenstein was one of those
 toy kingdoms of which certain parts of the German Empire still consist. 
 It had come under the Prussian hegemony quite late in history--
@@ -557,11 +556,4 @@ twice a traitor?"
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
-
 End of this Project Gutenberg Etext of The Wisdom of Father Brown
-
-
-
-
-
-===== FINE FILE: wifrb11.txt =====

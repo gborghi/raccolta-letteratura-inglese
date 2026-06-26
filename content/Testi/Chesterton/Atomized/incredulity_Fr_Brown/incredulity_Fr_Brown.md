@@ -44,9 +44,6 @@ A Project Gutenberg of Australia eBook
 Title:      The Incredulity of Father Brown
 Author:     G. K. Chesterton, (1926)
 
-
-
-
 ONE: The Resurrection of Father Brown
 
 THERE was a brief period during which Father Brown enjoyed, or rather
@@ -7202,9 +7199,3 @@ how very literary! Home is a sneak and a skunk, but do not forget that,
 like many other sneaks and skunks in history, he is also a poet.'
 
 THE END
-
-
-
-
-
-===== FINE FILE: incredulity_Fr_Brown.txt =====

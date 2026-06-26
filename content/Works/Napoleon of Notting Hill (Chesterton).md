@@ -74,7 +74,6 @@ tags:
 - [Chapter 18](/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_18)
 - [Chapter 19](/Testi/Chesterton/Atomized/Napoleon_of_Notting_Hill/Chapter_19)
 
-
 ## Testo integrale / Full text
 
 ----------
@@ -135,7 +134,6 @@ Under the great grey water-tower
 That strikes the stars on Campden Hill
 
 G. K. C.
-
 
 BOOK I
 
@@ -951,7 +949,6 @@ but which was really that strange malady, a lonely laughter.
 He was repeating over and over to himself with a rich accent "But
 speaking in the interests of the public...."
 
-
 CHAPTER III
 
 THE HILL OF HUMOUR
@@ -1248,7 +1245,6 @@ And when he had reached the great market-place opposite the church,
 Barker knew that he had reached it, though he was roods behind,
 because a cry went up such as had never before greeted any of the kings
 of the earth.
-
 
 BOOK II
 
@@ -1610,7 +1606,6 @@ the great majority found their minds a blank.  There remains
 a tradition that one pale face with burning blue eyes remained
 fixed upon the lecturer, and after the lecture a red-haired boy
 ran out of the room.
-
 
 CHAPTER II
 
@@ -2521,7 +2516,6 @@ The King fell back in his chair, and went into a roar
 of Rabelaisian laughter.
 
 "I don't think you have," he cried.
-
 
 BOOK III
 
@@ -3893,7 +3887,6 @@ with his rationality and his detachment and his black frock-coat,
 he was the exception and the accident...a blot of black upon a world
 of crimson and gold.
 
-
 BOOK IV
 
 CHAPTER I
@@ -5164,7 +5157,6 @@ from the Waterworks Tower to the Notting Hill High Road,
 blood has been running, and is running, in great red serpents,
 that curl out into the main thoroughfare and shine in the moon.
 
-
 "Later... The final touch has been given to all this terrible futility.
 Hours have passed; morning has broken; men are still swaying and
 fighting at the foot of the tower and round the corner of Aubrey Road;
@@ -5220,7 +5212,6 @@ as the flowers of spring.  And the stone tower will always look
 down on it.  Matter, in its brutal beauty, will always look down
 on those who are mad enough to consent to die, and yet more mad,
 since they consent to live."
-
 
 Thus ended abruptly the first and last contribution of the
 Special Correspondent of the Court Journal to that valued periodical.
@@ -5411,7 +5402,6 @@ with gold and inscribed with a great epitaph, saying that it was
 the monument of Wilfrid Lambert, the heroic defender of the place,
 and surmounted with a statue, in which his large nose was done
 something less than justice to.
-
 
 BOOK V
 
@@ -6359,6 +6349,3 @@ Then he made the formal salute with his halberd, and they went away
 together into the unknown world.
 
 THE END.
-
-
-===== FINE FILE: Napoleon_of_Notting_Hill.txt =====

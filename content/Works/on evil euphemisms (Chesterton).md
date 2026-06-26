@@ -167,6 +167,3 @@ and I for one prefer the coarse language of our fathers.
                       ------------------
 
 [Transcribed by Anthony Caetano]
-
-
-===== FINE FILE: on_evil_euphemisms.txt =====

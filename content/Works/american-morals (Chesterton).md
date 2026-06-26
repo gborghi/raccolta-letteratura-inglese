@@ -197,6 +197,3 @@ must persecute, they will be more clear-headed if they persecute
 for a creed.
 
 - from Generally Speaking, Dodd & Mead, 1929.
-
-
-===== FINE FILE: american-morals.txt =====

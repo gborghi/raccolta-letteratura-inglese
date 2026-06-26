@@ -97,7 +97,6 @@ The marvellous mugs we are:
 The marvellous mugs, miraculous mugs,  
 The mystical mugs we are.  
 
-
 II. GEOGRAPHY  
 Form 17955301, Sub-Section Z  
 
@@ -143,7 +142,6 @@ With Morden and Borden and Beaverbrook's fame
 And saintly seraphical souls such as they:  
 And that is the meaning of Empire Day.  
 
-
 V. THE HIGHER MATHEMATICS  
 Form 339125, Sub-Section M  
 
@@ -178,14 +176,4 @@ Where you can square the circle or the man that gives the marks.
 Where you hide in the cellar and then look down  
 On the poets that live in the attics;  
 For the whole of the house is upside down  
-In the Higher Mathematics.  
-
-
-
-
-
-
-
-
-
-===== FINE FILE: Songs_of_Education125.txt =====  
+In the Higher Mathematics.

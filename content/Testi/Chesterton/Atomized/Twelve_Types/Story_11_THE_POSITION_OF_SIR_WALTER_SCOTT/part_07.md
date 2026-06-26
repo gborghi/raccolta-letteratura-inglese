@@ -18,8 +18,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -28,15 +26,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -46,15 +40,9 @@ ways including including checks, online payments and credit card
 
 donations.  To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -64,8 +52,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -74,15 +60,11 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
 Each eBook is in a subdirectory of the same number as the eBook's
 
 eBook number, often in several formats including plain vanilla ASCII,
 
 compressed (zipped), HTML and others.
-
-
 
 Corrected EDITIONS of our eBooks replace the old file and take over
 
@@ -92,15 +74,9 @@ VERSIONS based on separate sources are treated as new eBooks receiving
 
 new filenames and etext numbers.
 
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.net
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -109,8 +85,6 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
 
 EBooks posted prior to November 2003, with eBook numbers BELOW #10000,
 
@@ -122,17 +96,11 @@ search system you may utilize the following addresses and just
 
 download by the etext year. For example:
 
-
-
      http://www.gutenberg.net/etext06
-
-
 
     (Or /etext 05, 04, 03, 02, 01, 00, 99,
 
      98, 97, 96, 95, 94, 93, 92, 92, 91 or 90)
-
-
 
 EBooks posted since November 2003, with etext numbers OVER #10000, are
 
@@ -146,26 +114,12 @@ digits corresponding to all but the last digit in the filename.  For
 
 example an eBook of filename 10234 would be found at:
 
-
-
      http://www.gutenberg.net/1/0/2/3/10234
-
-
 
 or filename 24689 would be found at:
 
      http://www.gutenberg.net/2/4/6/8/24689
 
-
-
 An alternative method of locating eBooks:
 
      http://www.gutenberg.net/GUTINDEX.ALL
-
-
-
-
-
-
-
-===== FINE FILE: Twelve_Types.txt =====

@@ -64,7 +64,4 @@ A Child of the Snows
 		    And a Child comes forth alone.  
 				   - G.K. Chesterton
 
-	       -------------------------------------------------------------  
-
-
-===== FINE FILE: childsnow.txt =====  
+	       -------------------------------------------------------------

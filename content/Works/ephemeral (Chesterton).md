@@ -30,7 +30,6 @@ tags:
 
 -=[ THE CASE FOR THE EPHEMERAL ]=-
 
-
 [Excerpted from ALL THINGS CONSIDERED by G. K. Chesterton; an etext
 in progress, from an edition by John Lane Company, New York, 1909.
 
@@ -201,7 +200,3 @@ minutes longer than most of the philosophies that it attacks.
 In the end it will not matter to us whether we wrote well or ill;
 whether we fought with flails or reeds.  It will matter to us
 greatly on which side we fought.
-
-
-
-===== FINE FILE: ephemeral.txt =====

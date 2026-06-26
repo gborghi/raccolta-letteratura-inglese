@@ -65,8 +65,4 @@ Where the fool remains for ever and the April comes no more,
 Where the splendour of the daylight grows drearier than the dark,  
 And life droops like a vulture that once was such a lark:  
 And that is the Blue Devil that once was the Blue Bird;  
-For the Devil is a gentleman, and doesn't keep his word.  
-
-
-
-===== FINE FILE: aristocrat.txt =====  
+For the Devil is a gentleman, and doesn't keep his word.

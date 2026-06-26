@@ -115,10 +115,4 @@ For there is one riddle in that case which cannot easily be cleared up.
 If it was the man's religion to live as long as he could, why on earth
 was he enlisting as a soldier?
 
-
 [Entered by Jonathan Franklin (memryslin@excite.com)]
-
-
-
-
-===== FINE FILE: methuselahite.txt =====

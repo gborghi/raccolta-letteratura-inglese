@@ -157,9 +157,3 @@ Men have always known this by instinct, Pagans as well as Christians.
 And when nil humanity has agreed on the necessity for some thing,
 we may be perfectly certain that some sort of humanitarian will want
 to destroy it.
-
-
-
-
-
-===== FINE FILE: On_Abolishing_Sunday.txt =====

@@ -104,9 +104,3 @@ And it is not the Superman but very truly and actually the Son
 of Man, Who comes in clouds of glory to judge the world.
 
 THE END
-
-
-
-
-
-===== FINE FILE: Shaw.txt =====

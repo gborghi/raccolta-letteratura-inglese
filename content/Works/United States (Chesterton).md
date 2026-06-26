@@ -31,7 +31,6 @@ tags:
 
 INTRODUCTION
 
-
 The author of this book, my brother, died in a French military
 hospital of the effects of exposure in the last fierce
 fighting that broke the Prussian power over Christendom;
@@ -267,7 +266,4 @@ my experiences of him, that a double incapacity makes me dumb.
 A portrait is impossible; as a friend he is too near me, and as a hero
 too far away.
 
-
                                                   G. K. CHESTERTON.
-
-===== FINE FILE: United_States.txt =====

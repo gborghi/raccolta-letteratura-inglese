@@ -82,7 +82,4 @@ Poisons the sea and every natural flood
 As once a wavering tyrant washed his hands,  
 And touching, turned the water black with blood.  
 
-                             G K Chesterton.  
-
-
-===== FINE FILE: The_Modern_Manichee.txt =====  
+                             G K Chesterton.

@@ -359,7 +359,3 @@ we see the whole position in a totally different perspective.
 We say that the Americans are doing something heroic or doing
 something insane, or doing it in an unworkable or unworthy fashion,
 instead of simply wondering what the devil they are doing.
-
-
-
-===== FINE FILE: america.txt =====

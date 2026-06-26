@@ -151,8 +151,3 @@ not likely to be burned, and if it were, it would not leave even
 a noticeable gap in the pouring mass of new and magnificent work,
 which is now daily dedicated to the philosophia perennis;
 to the Everlasting Philosophy.
-
-
-
-
-===== FINE FILE: aquinas.txt =====

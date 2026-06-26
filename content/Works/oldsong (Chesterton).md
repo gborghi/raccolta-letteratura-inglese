@@ -91,8 +91,4 @@ The Horseman of Apocalypse, the Rider of the Shires.
 For London Bridge is broken down, broken down, broken down;  
 Blow the horn of Huntington from Scotland to the sea --  
 ...Only flash of thunder-light, a flying dream of thunder-light,  
-Had shown under the shattered sky a people that were free.  
-
-
-
-===== FINE FILE: oldsong.txt =====  
+Had shown under the shattered sky a people that were free.

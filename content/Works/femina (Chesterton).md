@@ -61,8 +61,4 @@ I come to sell the stars -- old lamps for new --
 Then a calm voice fell all the thunder through,  
 	    A tone less rough:  
 'Thou hast begun to love one of my works  
-	    Almost enough.'  
-
-
-
-===== FINE FILE: femina.txt =====  
+	    Almost enough.'

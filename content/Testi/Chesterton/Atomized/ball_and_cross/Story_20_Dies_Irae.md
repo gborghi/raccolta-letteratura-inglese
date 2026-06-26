@@ -443,9 +443,3 @@ He looked vaguely about at the fire that was already fading,
 and there among the ashes lay two shining things that had survived
 the fire, his sword and Turnbull's, fallen haphazard in the pattern
 of a cross.
-
-
-
-
-
-===== FINE FILE: ball_and_cross.txt =====

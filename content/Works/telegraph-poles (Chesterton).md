@@ -65,7 +65,6 @@ sardonic truth, "Ah, you wait till we come to a telegraph post."
 
 * * * *
 
-
 My friend was right, as he occasionally is in our discussions,
 especially upon points of fact.  We had crossed the pine forest
 by one of its paths which happened to follow the wires of the
@@ -89,7 +88,6 @@ till your precious intellectual civilization builds a forty-mile
 forest of telegraph poles."
 
 * * * *
-
 
 We had started walking from our temporary home later in the day
 than we intended; and the long afternoon was already lengthening
@@ -175,8 +173,3 @@ Here and there, however, it was possible to trace the outline
 of something just too erect and rigid to be a pine tree.
 By these we finally felt our way home, arriving in a cold green
 twilight before dawn.
-
-
-
-
-===== FINE FILE: telegraph-poles.txt =====

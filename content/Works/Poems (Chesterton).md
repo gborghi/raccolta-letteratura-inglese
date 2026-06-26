@@ -47,8 +47,6 @@ tags:
 
 The Project Gutenberg EBook of Poems, by G.K. Chesterton  
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with  
 
 almost no restrictions whatsoever.  You may copy it, give it away or  
@@ -57,145 +55,61 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org  
 
-
-
-
-
 Title: Poems  
-
-
 
 Author: G.K. Chesterton  
 
-
-
 Release Date: February 5, 2010 [EBook #31184]  
-
-
 
 Language: English  
 
-
-
 Character set encoding: ISO-8859-1  
-
-
 
 *** START OF THIS PROJECT GUTENBERG EBOOK POEMS ***  
 
-
-
-
-
-
-
-
-
 Produced by Marc D'Hooghe  
-
-
-
-
-
-
-
-
 
 POEMS  
 
-
-
 by  
-
-
 
 G.K. CHESTERTON  
 
-
-
 NEW YORK  
-
-
 
 1916  
 
-
-
-
-
-
-
-
-
 BY THE SAME AUTHOR  
-
-
 
 The Napoleon of Notting Hill: A Romance. With illustrations by Graham  
 
 Robertson.  
 
-
-
 Heretics.  
-
-
 
 Orthodoxy.  
 
-
-
 All Things Considered.  
-
-
 
 George Bernard Shaw. An illustrated biography.  
 
-
-
 The Ball and the Cross.  
-
-
 
 The Ballad of the White Horse.  
 
-
-
 The Innocence of Father Brown. Illustrated.  
-
-
 
 The Wisdom of Father Brown.  
 
-
-
 Manalive.  
-
-
 
 The Flying Inn.  
 
-
-
 JOHN LANE COMPANY PUBLISHERS NEW YORK  
-
-
-
-
-
-
-
-
 
 CONTENTS  
 
-
-
-
-
 THREE DEDICATIONS  
-
-
 
 TO EDMUND CLERIHEW BENTLEY  
 
@@ -203,11 +117,7 @@ TO HILAIRE BELLOC
 
 TO M. E. W.  
 
-
-
 WAR POEMS  
-
-
 
 LEPANTO  
 
@@ -219,11 +129,7 @@ THE WIFE OF FLANDERS
 
 THE CRUSADER RETURNS FROM CAPTIVITY  
 
-
-
 LOVE POEMS  
-
-
 
 GLENCOE  
 
@@ -245,11 +151,7 @@ A MARRIAGE SONG
 
 BAY COMBE  
 
-
-
 RELIGIOUS POEMS  
-
-
 
 THE WISE MEN  
 
@@ -275,11 +177,7 @@ A CHILD OF THE SNOWS
 
 A WORD  
 
-
-
 RHYMES FOR THE TIMES  
-
-
 
 ANTICHRIST, OR THE REUNION OF CHRISTENDOM: AN ODE  
 
@@ -311,11 +209,7 @@ THE SONG OF THE WHEELS
 
 THE SECRET PEOPLE  
 
-
-
 MISCELLANEOUS POEMS  
-
-
 
 LOST  
 
@@ -335,11 +229,7 @@ A CIDER SONG
 
 THE LAST HERO  
 
-
-
 BALLADES  
-
-
 
 BALLADE D'UNE GRANDE DAME  
 
@@ -351,35 +241,13 @@ A BALLADE OF SUICIDE
 
 A BALLADE OF THE FIRST RAIN  
 
-
-
-
-
-
-
-
-
-
-
      I  
-
-
 
      THREE DEDICATIONS  
 
-
-
-
-
      TO EDMUND CLERIHEW BENTLEY  
 
-
-
      THE DEDICATION OF _THE MAN WHO WAS THURSDAY_  
-
-
-
-
 
      A cloud was on the mind of men, and wailing went the weather,  
 
@@ -417,8 +285,6 @@ A BALLADE OF THE FIRST RAIN
 
      When all church bells were silent our cap and bells were heard.  
 
-
-
      Not all unhelped we held the fort, our tiny flags unfurled;  
 
      Some giants laboured in that cloud to lift it from the world.  
@@ -447,8 +313,6 @@ A BALLADE OF THE FIRST RAIN
 
      are they who did not see, but being blind, believed.  
 
-
-
      This is a tale of those old fears, even of those emptied hells,  
 
      And none but you shall understand the true thing that it tells--  
@@ -473,21 +337,9 @@ A BALLADE OF THE FIRST RAIN
 
      And I may safely write it now, and you may safely read.  
 
-
-
-
-
-
-
      TO HILAIRE BELLOC  
 
-
-
      THE DEDICATION OF _THE NAPOLEON OF NOTTING HILL_  
-
-
-
-
 
      For every tiny town or place  
 
@@ -505,8 +357,6 @@ A BALLADE OF THE FIRST RAIN
 
        The largest lamp on Campden Hill.  
 
-
-
      Yea, Heaven is everywhere at home.  
 
        The big blue cap that always fits,  
@@ -522,8 +372,6 @@ A BALLADE OF THE FIRST RAIN
      And though the sullen engines swing,  
 
        Be you not much afraid, my friend.  
-
-
 
      This did not end by Nelson's urn  
 
@@ -541,8 +389,6 @@ A BALLADE OF THE FIRST RAIN
 
        "Belike; but there are likelier things."  
 
-
-
      Likelier across these flats afar,  
 
        These sulky levels smooth and free,  
@@ -558,8 +404,6 @@ A BALLADE OF THE FIRST RAIN
      And death and hate and hell declare  
 
        That men have found a thing to love.  
-
-
 
      Far from your sunny uplands set  
 
@@ -577,17 +421,7 @@ A BALLADE OF THE FIRST RAIN
 
        That strikes the stars on Campden Hill  
 
-
-
-
-
-
-
      TO _M. E. W_.  
-
-
-
-
 
      Words, for alas my trade is words, a barren burst of rhyme,  
 
@@ -597,8 +431,6 @@ A BALLADE OF THE FIRST RAIN
 
        The words that never lie, or brag, or flatter, or malign.  
 
-
-
      I give a hand to my lady, another to my friend,  
 
        To whom you too have given a hand; and so before the end  
@@ -606,8 +438,6 @@ A BALLADE OF THE FIRST RAIN
      We four may pray, for all the years, whatever suns beset,  
 
        The sole two prayers worth praying--to live and not forget.  
-
-
 
      The pale leaf falls in pallor, but the green leaf turns to gold;  
 
@@ -617,8 +447,6 @@ A BALLADE OF THE FIRST RAIN
 
        Life that is mean to the mean of heart, and only brave to the brave.  
 
-
-
      In the calm of the last white winter, when all the past is ours,  
 
        Old tears are frozen as jewels, old storms frosted as flowers.  
@@ -627,31 +455,11 @@ A BALLADE OF THE FIRST RAIN
 
        Beneath the burden of the years, and praise the earth once more.  
 
-
-
-
-
-
-
-
-
-
-
      II  
-
-
 
      WAR POEMS  
 
-
-
-
-
      LEPANTO  
-
-
-
-
 
      White founts falling in the Courts of the sun,  
 
@@ -681,8 +489,6 @@ A BALLADE OF THE FIRST RAIN
 
      And the Lord upon the Golden Horn is laughing in the sun.  
 
-
-
      Dim drums throbbing, in the hills half heard,  
 
      Where only on a nameless throne a crownless prince has stirred,  
@@ -698,8 +504,6 @@ A BALLADE OF THE FIRST RAIN
      In that enormous silence, tiny and unafraid,  
 
      Comes up along a winding road the noise of the Crusade.  
-
-
 
      Strong gongs groaning as the guns boom far,  
 
@@ -727,8 +531,6 @@ A BALLADE OF THE FIRST RAIN
 
      Is riding to the sea.  
 
-
-
      Mahound is in his paradise above the evening star,  
 
      _(Don John of Austria is going to the war.)_  
@@ -752,8 +554,6 @@ A BALLADE OF THE FIRST RAIN
      Whose strong obedience broke the sky  
 
      When Solomon was king.  
-
-
 
      They rush in red and purple from the red clouds of the morn,  
 
@@ -807,8 +607,6 @@ A BALLADE OF THE FIRST RAIN
 
      Is gone by Alcalar.  
 
-
-
      St. Michael's on his Mountain in the sea-roads of the north  
 
      _(Don John of Austria is girt and going forth.)_  
@@ -845,8 +643,6 @@ A BALLADE OF THE FIRST RAIN
 
      Is shouting to the ships.  
 
-
-
      King Philip's in his closet with the Fleece about his neck  
 
      _(Don John of Austria is armed upon the deck.)_  
@@ -878,8 +674,6 @@ A BALLADE OF THE FIRST RAIN
      Don John of Austria  
 
      Has loosed the cannonade.  
-
-
 
      The Pope was in his chapel before day or battle broke,  
 
@@ -941,8 +735,6 @@ A BALLADE OF THE FIRST RAIN
 
      Has set his people free!  
 
-
-
      Cervantes on his galley sets the sword back in the sheath  
 
      _(Don John of Austria rides homeward with a wreath.)_  
@@ -955,17 +747,7 @@ A BALLADE OF THE FIRST RAIN
 
      _(But Don John of Austria rides home from the Crusade_.)  
 
-
-
-
-
-
-
      THE MARCH OF THE BLACK MOUNTAIN 1913  
-
-
-
-
 
      What will there be to remember  
 
@@ -1007,8 +789,6 @@ A BALLADE OF THE FIRST RAIN
 
        And looked small before his feet.  
 
-
-
      His head was as high as the crescent  
 
        Of the moon that seemed his crown,  
@@ -1048,8 +828,6 @@ A BALLADE OF THE FIRST RAIN
      When the Mountain comes to Mahomet  
 
        It has more life than he.  
-
-
 
      But what will there be to remember  
 
@@ -1091,17 +869,7 @@ A BALLADE OF THE FIRST RAIN
 
        Because it was the end.  
 
-
-
-
-
-
-
      BLESSED ARE THE PEACEMAKERS  
-
-
-
-
 
      Of old with a divided heart  
 
@@ -1111,8 +879,6 @@ A BALLADE OF THE FIRST RAIN
 
        By mother earth and fatherland.  
 
-
-
      I knew, through many a tangled tale,  
 
        Glory and truth not one but two:  
@@ -1120,8 +886,6 @@ A BALLADE OF THE FIRST RAIN
      King, Constable, and Amirail  
 
        Took me like trumpets: but I knew  
-
-
 
      A blacker thing than blood's own dye  
 
@@ -1131,8 +895,6 @@ A BALLADE OF THE FIRST RAIN
 
        On Naples and on liberty.  
 
-
-
      Therefore to you my thanks, O throne,  
 
        O thousandfold and frozen folk,  
@@ -1140,8 +902,6 @@ A BALLADE OF THE FIRST RAIN
      For whose cold frenzies all your own  
 
        The Battle of the Rivers broke;  
-
-
 
      Who have no faith a man could mourn.  
 
@@ -1151,8 +911,6 @@ A BALLADE OF THE FIRST RAIN
 
        Close up my quarrel with my sires;  
 
-
-
      Who bring my English heart to me,  
 
        Who mend me like a broken toy;  
@@ -1161,15 +919,7 @@ A BALLADE OF THE FIRST RAIN
 
        And laugh as if I were a boy.  
 
-
-
-
-
      THE WIFE OF FLANDERS  
-
-
-
-
 
      Low and brown barns thatched and repatched and tattered  
 
@@ -1179,8 +929,6 @@ A BALLADE OF THE FIRST RAIN
 
        This is not Paris. You have lost the way.  
 
-
-
      You, staring at your sword to find it brittle,  
 
        Surprised at the surprise that was your plan,  
@@ -1188,8 +936,6 @@ A BALLADE OF THE FIRST RAIN
      Who shaking and breaking barriers not a little  
 
        Find never more the death-door of Sedan.  
-
-
 
      Must I for more than carnage call you claimant,  
 
@@ -1199,8 +945,6 @@ A BALLADE OF THE FIRST RAIN
 
        For what _you_ have lost. And how shall I repay?  
 
-
-
      What is the price of that red spark that caught me  
 
        From a kind farm that never had a name?  
@@ -1208,8 +952,6 @@ A BALLADE OF THE FIRST RAIN
      What is the price of that dead man they brought me?  
 
        For other dead men do not look the same.  
-
-
 
      How should I pay for one poor graven steeple  
 
@@ -1219,8 +961,6 @@ A BALLADE OF THE FIRST RAIN
 
        How should I pay you everything you owe?34  
 
-
-
      Unhappy, can I give you back your honour?  
 
        Though I forgave would any man forget?  
@@ -1228,8 +968,6 @@ A BALLADE OF THE FIRST RAIN
      While all the great green land has trampled on her  
 
        The treason and terror of the night we met.  
-
-
 
      Not any more in vengeance or in pardon  
 
@@ -1239,17 +977,7 @@ A BALLADE OF THE FIRST RAIN
 
        Ride on and prosper. You have lost your spurs.  
 
-
-
-
-
-
-
      THE CRUSADER RETURNS FROM CAPTIVITY  
-
-
-
-
 
      I have come forth alive from the land of purple and poison and glamour,  
 
@@ -1259,8 +987,6 @@ A BALLADE OF THE FIRST RAIN
 
        Palace hidden in palace, garden with garden behind;  
 
-
-
      Women veiled in the sun, or bare as brass in the shadows,  
 
        And the endless eyeless patterns where each thing seems an eye....  
@@ -1268,8 +994,6 @@ A BALLADE OF THE FIRST RAIN
      And my stride is on Caesar's sand where it slides to the English meadows,  
 
        To the last low woods of Sussex and the road that goes to Rye.  
-
-
 
      In the cool and careless woods the eyes of the eunuchs burned not,  
 
@@ -1279,8 +1003,6 @@ A BALLADE OF THE FIRST RAIN
 
        And the huts were heedless of me: and I knew I was at home.  
 
-
-
      And I saw my lady afar and her holy freedom upon her,  
 
        A head, without veil, averted, and not to be turned with charms,  
@@ -1288,8 +1010,6 @@ A BALLADE OF THE FIRST RAIN
      And I heard above bannerets blown the intolerant trumpets of honour,  
 
        That usher with iron laughter the coming of Christian arms.  
-
-
 
      My shield hangs stainless still; but I shall not go where they praise it,  
 
@@ -1299,8 +1019,6 @@ A BALLADE OF THE FIRST RAIN
 
        A day with the stone and the sparrow and every marvellous thing.  
 
-
-
      I have trod the curves of the Crescent, in the maze of them that adore it,  
 
        Curved around doorless chambers and unbeholden abodes,  
@@ -1308,8 +1026,6 @@ A BALLADE OF THE FIRST RAIN
      But I walk in the maze no more; on the sign of the cross I swore it,  
 
        The wild white cross of freedom, the sign of the white cross-roads.  
-
-
 
      And the land shall leave me or take, and the Woman take me or leave me,  
 
@@ -1319,31 +1035,11 @@ A BALLADE OF THE FIRST RAIN
 
        As long as I walk in England in the lanes that let me pass.  
 
-
-
-
-
-
-
-
-
-
-
      III  
-
-
 
      LOVE POEMS  
 
-
-
-
-
      GLENCOE  
-
-
-
-
 
      The star-crowned cliffs seem hinged upon the sky,  
 
@@ -1353,8 +1049,6 @@ A BALLADE OF THE FIRST RAIN
 
      Cloven in the last great wall of all the world.  
 
-
-
      I looked, and saw the valley of my soul  
 
      Where naked crests fight to achieve the skies,  
@@ -1362,8 +1056,6 @@ A BALLADE OF THE FIRST RAIN
      Where no grain grows nor wine, no fruitful thing,  
 
      Only big words and starry blasphemies.  
-
-
 
      But you have clothed with mercy like a moss  
 
@@ -1373,8 +1065,6 @@ A BALLADE OF THE FIRST RAIN
 
      You know my shapeless crags have Wed the stars.  
 
-
-
      How shall I thank you, O courageous heart.  
 
      That of this wasteful world you had no fear;  
@@ -1382,8 +1072,6 @@ A BALLADE OF THE FIRST RAIN
      But bade it blossom in clear faith and sent  
 
      Your fair flower-feeding rivers: even as here  
-
-
 
      The peat burns brimming from their cups of stone  
 
@@ -1393,17 +1081,7 @@ A BALLADE OF THE FIRST RAIN
 
      And turned its thousand waters into wine.  
 
-
-
-
-
-
-
      LOVE'S TRAPPIST  
-
-
-
-
 
      There is a place where lute and lyre are broken.  
 
@@ -1413,8 +1091,6 @@ A BALLADE OF THE FIRST RAIN
 
      Where laurels wither and the daisies grow.  
 
-
-
      Lo: I too join the brotherhood of silence,  
 
      I am Love's Trappist and you ask in vain,  
@@ -1422,8 +1098,6 @@ A BALLADE OF THE FIRST RAIN
      For man through Love's gate, even as through Death's gate,  
 
      Goeth alone and comes not back again.  
-
-
 
      Yet here I pause, look back across the threshold.  
 
@@ -1433,17 +1107,7 @@ A BALLADE OF THE FIRST RAIN
 
      O world, old world, the best hath ne'er been told!  
 
-
-
-
-
-
-
      CONFESSIONAL  
-
-
-
-
 
      Now that I kneel at the throne, O Queen,  
 
@@ -1461,8 +1125,6 @@ A BALLADE OF THE FIRST RAIN
 
      And cries for foolish things.  
 
-
-
      Not for me be the vaunt of woe;  
 
      Was not I from a boy  
@@ -1478,8 +1140,6 @@ A BALLADE OF THE FIRST RAIN
      But the tears of a man are a sudden thing,  
 
      And come not of his creed.  
-
-
 
      Nay, but the earth is kind to me,  
 
@@ -1497,17 +1157,7 @@ A BALLADE OF THE FIRST RAIN
 
      For a man to bear along.  
 
-
-
-
-
-
-
      MUSIC  
-
-
-
-
 
      Sounding brass and tinkling cymbal,  
 
@@ -1517,8 +1167,6 @@ A BALLADE OF THE FIRST RAIN
 
        Waves of triumph, waves of tears,  
 
-
-
      Thundered empty round and past me,  
 
        Shattered, lost for ever more,  
@@ -1526,8 +1174,6 @@ A BALLADE OF THE FIRST RAIN
      Ancient gold of pride and passion,  
 
        Wrecked like treasure on a shore.  
-
-
 
      But I saw her cheek and forehead  
 
@@ -1537,8 +1183,6 @@ A BALLADE OF THE FIRST RAIN
 
        Like a lily to the Lord.  
 
-
-
      Nought is lost, but all transmuted,  
 
        Ears are sealed, yet eyes have seen;  
@@ -1547,17 +1191,7 @@ A BALLADE OF THE FIRST RAIN
 
        Saw her tears (O heart be clean!).  
 
-
-
-
-
-
-
      THE DELUGE  
-
-
-
-
 
      Though giant rains put out the sun,  
 
@@ -1575,8 +1209,6 @@ A BALLADE OF THE FIRST RAIN
 
        Stood up and drank to God.  
 
-
-
      Sun has been where the rain is now,  
 
        Bees in the heat to hum,  
@@ -1592,8 +1224,6 @@ A BALLADE OF THE FIRST RAIN
      Drink to the throne of thunder now!  
 
        Drink to the wrath of God.  
-
-
 
      High in the wreck I held the cup,  
 
@@ -1611,17 +1241,7 @@ A BALLADE OF THE FIRST RAIN
 
        And drained it like a cup.  
 
-
-
-
-
-
-
      THE STRANGE MUSIC  
-
-
-
-
 
      Other loves may sink and settle, other loves may loose and slack,  
 
@@ -1631,8 +1251,6 @@ A BALLADE OF THE FIRST RAIN
 
      Still, my hope is all before me: for I cannot play it yet.  
 
-
-
      In your strings is hid a music that no hand hath ere let fall,  
 
      In your soul is sealed a pleasure that you have not known at all;  
@@ -1640,8 +1258,6 @@ A BALLADE OF THE FIRST RAIN
      Pleasure subtle as your spirit, strange and slender as your frame,  
 
      Fiercer than the pain that folds you, softer than your sorrow's name.  
-
-
 
      Not as mine, my soul's anointed, not as mine the rude and light  
 
@@ -1651,8 +1267,6 @@ A BALLADE OF THE FIRST RAIN
 
      Secret as your stricken senses, magic as your sorrows are.  
 
-
-
      But on this, God's harp supernal, stretched but to be stricken once.  
 
      Hoary Time is a beginner, Life a bungler, Death a dunce.  
@@ -1661,17 +1275,7 @@ A BALLADE OF THE FIRST RAIN
 
      I will learn you, I will play you and the stars stand still to hear.  
 
-
-
-
-
-
-
      THE GREAT MINIMUM  
-
-
-
-
 
      It is something to have wept as we have wept,  
 
@@ -1681,8 +1285,6 @@ A BALLADE OF THE FIRST RAIN
 
      And seen the stars which never see the sun.  
 
-
-
      It is something to have smelt the mystic rose,  
 
      Although it break and leave the thorny rods,  
@@ -1690,8 +1292,6 @@ A BALLADE OF THE FIRST RAIN
      It is something to have hungered once as those  
 
      Must hunger who have ate the bread of gods.  
-
-
 
      To have seen you and your unforgotten face,  
 
@@ -1701,8 +1301,6 @@ A BALLADE OF THE FIRST RAIN
 
      It were something, though you went from me to-day.  
 
-
-
      To have known the things that from the weak are furled,  
 
      Perilous ancient passions, strange and high;  
@@ -1710,8 +1308,6 @@ A BALLADE OF THE FIRST RAIN
      It is something to be wiser than the world,  
 
      It is something to be older than the sky.  
-
-
 
      In a time of sceptic moths and cynic rusts,  
 
@@ -1721,8 +1317,6 @@ A BALLADE OF THE FIRST RAIN
 
      It is something to be sure of a desire.  
 
-
-
      Lo, blessed are our ears for they have heard;  
 
      Yea, blessed are our eyes for they have seen:  
@@ -1731,17 +1325,7 @@ A BALLADE OF THE FIRST RAIN
 
      And the lightning. It is something to have been.  
 
-
-
-
-
-
-
      THE MORTAL ANSWERS  
-
-
-
-
 
                    .................COME AWAY--  
 
@@ -1751,11 +1335,7 @@ A BALLADE OF THE FIRST RAIN
 
           THAN YOU CAN UNDERSTAND.  
 
-
-
                                 _W.B. Yeats_.  
-
-
 
      From the Wood of the Old Wives' Fables  
 
@@ -1765,8 +1345,6 @@ A BALLADE OF THE FIRST RAIN
 
        I strove like a beast at bay;  
 
-
-
      With only a right arm wearied,  
 
        Only a red sword worn,  
@@ -1774,8 +1352,6 @@ A BALLADE OF THE FIRST RAIN
      And the pride of the House of Adam  
 
        That holdeth the stars in scorn.  
-
-
 
      For they came with chains of flowers  
 
@@ -1785,8 +1361,6 @@ A BALLADE OF THE FIRST RAIN
 
        To take my grief from me.  
 
-
-
      And I said, "Now all is shaken  
 
        When heavily hangs the brow,  
@@ -1794,8 +1368,6 @@ A BALLADE OF THE FIRST RAIN
      When the hope of the years is taken  
 
        The last star sunken. Now--  
-
-
 
      "Hear, you chattering cricket,  
 
@@ -1805,8 +1377,6 @@ A BALLADE OF THE FIRST RAIN
 
        Of one man praising God,  
 
-
-
      "That out of the night and nothing  
 
        With travail of birth he came  
@@ -1814,8 +1384,6 @@ A BALLADE OF THE FIRST RAIN
      To stand one hour in the sunlight  
 
        Only to say her name.  
-
-
 
      "Falls through her hair the sunshine  
 
@@ -1825,8 +1393,6 @@ A BALLADE OF THE FIRST RAIN
 
        Ah, Elfin Company,  
 
-
-
      "The world is hot and cruel,  
 
        We are weary of heart and hand.  
@@ -1835,17 +1401,7 @@ A BALLADE OF THE FIRST RAIN
 
        Than you can understand."  
 
-
-
-
-
-
-
      A MARRIAGE SONG  
-
-
-
-
 
      Why should we reck of hours that rend  
 
@@ -1863,8 +1419,6 @@ A BALLADE OF THE FIRST RAIN
 
        And hear a linnet sing.  
 
-
-
      We break the line with stroke and luck,  
 
        The arrows run like rain,  
@@ -1880,8 +1434,6 @@ A BALLADE OF THE FIRST RAIN
      And good things end and bad things end,  
 
        And you and I remain.  
-
-
 
      Why should we reck of ill or well  
 
@@ -1899,8 +1451,6 @@ A BALLADE OF THE FIRST RAIN
 
        And warm our hands in hell.  
 
-
-
      Battles unborn and vast shall view  
 
        Our faltered standards stream,  
@@ -1916,8 +1466,6 @@ A BALLADE OF THE FIRST RAIN
      That I am I, and you are you,  
 
        And Death a morning dream.  
-
-
 
      Why should we reck of scorn or praise  
 
@@ -1935,8 +1483,6 @@ A BALLADE OF THE FIRST RAIN
 
        If I had dreamed of you.  
 
-
-
      Little I reck of empty prides,  
 
        Of creeds more cold than clay;  
@@ -1952,8 +1498,6 @@ A BALLADE OF THE FIRST RAIN
      When stars fall down and darkness hides,  
 
        When God shall turn to bay.  
-
-
 
      Why should we reck of grin and groan  
 
@@ -1971,17 +1515,7 @@ A BALLADE OF THE FIRST RAIN
 
        Our love in English lanes.  
 
-
-
-
-
-
-
      BAY COMBE  
-
-
-
-
 
      With leaves below and leaves above,  
 
@@ -1991,8 +1525,6 @@ A BALLADE OF THE FIRST RAIN
 
      Who is a wandering home for me.  
 
-
-
      Who, lost in ruined worlds aloof,  
 
      Bore the dread dove wings like a roof;  
@@ -2000,8 +1532,6 @@ A BALLADE OF THE FIRST RAIN
      Who, past the last lost stars of space  
 
      Carried the fire-light on her face.  
-
-
 
      Who, passing as in idle hours,  
 
@@ -2011,8 +1541,6 @@ A BALLADE OF THE FIRST RAIN
 
      And made the comets homely things.  
 
-
-
      Where she went by upon her way  
 
      The dark was dearer than the day;  
@@ -2020,8 +1548,6 @@ A BALLADE OF THE FIRST RAIN
      Where she paused in heaven or hell,  
 
      The whole world's tale had ended well.  
-
-
 
      _With leaves below and leaves above._  
 
@@ -2031,8 +1557,6 @@ A BALLADE OF THE FIRST RAIN
 
      _Who is a wandering home for me_.  
 
-
-
      Where she was flung, above, beneath,  
 
      By the rude dance of life and death,  
@@ -2040,8 +1564,6 @@ A BALLADE OF THE FIRST RAIN
      Grow she at Gotham--die at Rome,  
 
      Between the pine trees is her home.  
-
-
 
      In some strange town, some silver morn,  
 
@@ -2051,8 +1573,6 @@ A BALLADE OF THE FIRST RAIN
 
      And called them kinsfolk for a jest.  
 
-
-
      If we again En goodness thrive,  
 
      And the dead saints become alive,  
@@ -2060,8 +1580,6 @@ A BALLADE OF THE FIRST RAIN
      Then pedants bald and parchments brown  
 
      May claim her blood for London town.  
-
-
 
      _But leaves below and leaves above._  
 
@@ -2071,8 +1589,6 @@ A BALLADE OF THE FIRST RAIN
 
      _Who is a wandering home for me_.  
 
-
-
      The great gravestone she may pass by,  
 
      And without noticing, may die;  
@@ -2080,8 +1596,6 @@ A BALLADE OF THE FIRST RAIN
      The streets of silver Heaven may tread,  
 
      With her grey awful eyes unfed.  
-
-
 
      The city of great peace in pain  
 
@@ -2091,8 +1605,6 @@ A BALLADE OF THE FIRST RAIN
 
      God built before the stars for her.  
 
-
-
      Here in the fallen leaves is furled  
 
      Her secret centre of the world.  
@@ -2100,8 +1612,6 @@ A BALLADE OF THE FIRST RAIN
      We sit and feel in dusk and dun  
 
      The stars swing round us like a sun.  
-
-
 
      _For leaves below and leaves above._  
 
@@ -2111,31 +1621,11 @@ A BALLADE OF THE FIRST RAIN
 
      _Who is a wandering home for me_.  
 
-
-
-
-
-
-
-
-
-
-
      IV  
-
-
 
      RELIGIOUS POEMS  
 
-
-
-
-
      THE WISE MEN  
-
-
-
-
 
      Step softly, under snow or rain,  
 
@@ -2144,8 +1634,6 @@ A BALLADE OF THE FIRST RAIN
      The way is all so very plain  
 
      That we may lose the way.  
-
-
 
      Oh, we have learnt to peer and pore  
 
@@ -2157,8 +1645,6 @@ A BALLADE OF THE FIRST RAIN
 
        And we know all things but the truth.  
 
-
-
      We have gone round and round the hill,  
 
        And lost the wood among the trees,  
@@ -2168,8 +1654,6 @@ A BALLADE OF THE FIRST RAIN
      And served the mad gods, naming still  
 
        The Furies the Eumenides.  
-
-
 
      The gods of violence took the veil  
 
@@ -2181,8 +1665,6 @@ A BALLADE OF THE FIRST RAIN
 
        And calls himself Eternity.  
 
-
-
      Go humbly ... it has hailed and snowed ...  
 
        With voices low and lanterns lit;  
@@ -2190,8 +1672,6 @@ A BALLADE OF THE FIRST RAIN
      So very simple is the road,  
 
        That we may stray from it.  
-
-
 
      The world grows terrible and white,  
 
@@ -2203,8 +1683,6 @@ A BALLADE OF THE FIRST RAIN
 
        And something much too plain to say.  
 
-
-
      The Child that was ere worlds begun  
 
        (... We need but walk a little way,  
@@ -2214,8 +1692,6 @@ A BALLADE OF THE FIRST RAIN
      The Child that played with moon and sun  
 
        Is playing with a little hay.  
-
-
 
      The house from which the heavens are fed,  
 
@@ -2227,8 +1703,6 @@ A BALLADE OF THE FIRST RAIN
 
        And Honour is as hard as stone.  
 
-
-
      Go humbly; humble are the skies,  
 
        And low and large and fierce the Star;  
@@ -2236,8 +1710,6 @@ A BALLADE OF THE FIRST RAIN
      So very near the Manger lies  
 
        That we may travel far.  
-
-
 
      Hark! Laughter like a lion wakes  
 
@@ -2251,17 +1723,7 @@ A BALLADE OF THE FIRST RAIN
 
        Through the snow and rain.  
 
-
-
-
-
-
-
      THE HOUSE OF CHRISTMAS  
-
-
-
-
 
      There fared a mother driven forth  
 
@@ -2279,8 +1741,6 @@ A BALLADE OF THE FIRST RAIN
 
      Than the square stones of Rome.  
 
-
-
      For men are homesick in their homes,  
 
      And strangers under the sun,  
@@ -2294,8 +1754,6 @@ A BALLADE OF THE FIRST RAIN
      And chance and honour and high surprise,  
 
      Where the yule tale was begun.  
-
-
 
      A Child in a foul stable,  
 
@@ -2313,8 +1771,6 @@ A BALLADE OF THE FIRST RAIN
 
      Under the sky's dome.  
 
-
-
      This world is wild as an old wives' tale,  
 
      And strange the plain things are,  
@@ -2330,8 +1786,6 @@ A BALLADE OF THE FIRST RAIN
      Where clashed and thundered unthinkable wings  
 
      Round an incredible star.  
-
-
 
      To an open house in the evening  
 
@@ -2349,17 +1803,7 @@ A BALLADE OF THE FIRST RAIN
 
      And all men are at home.  
 
-
-
-
-
-
-
      A SONG OF GIFTS TO GOD  
-
-
-
-
 
      When the first Christmas presents came, the straw where Christ was rolled  
 
@@ -2367,15 +1811,11 @@ A BALLADE OF THE FIRST RAIN
 
      And a wise man said, "We will not give; the thanks would be but cold."  
 
-
-
      "Nay," said the next, "To all new gifts, to this gift or another,  
 
      Bends the high gratitude of God; even as He now, my brother,  
 
      Who had a Father for all time, yet thanks Him for a Mother.  
-
-
 
      "Yet scarce for Him this yellow stone or prickly-smells and sparse.  
 
@@ -2383,15 +1823,11 @@ A BALLADE OF THE FIRST RAIN
 
      Nor any scentless lily lives for One that smells the stars."  
 
-
-
      Then spake the third of the Wise Men; the wisest of the three:  
 
      "We may not with the widest lives enlarge His liberty,  
 
      Whose wings are wider than the world. It is not He, but we.  
-
-
 
      "We say not He has more to gain, but we have more to lose.  
 
@@ -2399,15 +1835,11 @@ A BALLADE OF THE FIRST RAIN
 
      Go to make harlots of the Greeks and hucksters of the Jews.  
 
-
-
      "Less clouds before colossal feet redden in the under-light,  
 
      To the blind gods from Babylon less incense burn to-night,  
 
      To the high beasts of Babylon, whose mouths make mock of right."  
-
-
 
      Babe of the thousand birthdays, we that are young yet grey,  
 
@@ -2415,15 +1847,11 @@ A BALLADE OF THE FIRST RAIN
 
      We that with sects and whims and wars have wasted Christmas Day.  
 
-
-
      Light Thou Thy censer to Thyself, for all our fires are dim,  
 
      Stamp Thou Thine image on our coin, for Caesar's face grows dim,  
 
      And a dumb devil of pride and greed has taken hold of him.  
-
-
 
      We bring Thee back great Christendom, churches and towns and towers.  
 
@@ -2431,17 +1859,7 @@ A BALLADE OF THE FIRST RAIN
 
      'Tis not that they enrich Thine hands, but they are saved from ours.  
 
-
-
-
-
-
-
      THE KINGDOM OF HEAVEN  
-
-
-
-
 
      Said the Lord God, "Build a house,  
 
@@ -2453,8 +1871,6 @@ A BALLADE OF THE FIRST RAIN
 
      Fires and whirlwinds, build it well."  
 
-
-
      Laboured sternly flame and wind,  
 
        But a little, and they cry,  
@@ -2464,8 +1880,6 @@ A BALLADE OF THE FIRST RAIN
        We are blind and murmur why,"  
 
      And the winds are murmuring still.  
-
-
 
      Said the Lord God, "Build a house,  
 
@@ -2477,8 +1891,6 @@ A BALLADE OF THE FIRST RAIN
 
      Tribes and war-men, build it well."  
 
-
-
      Then the raw red sons of men  
 
        Brake the soil, and lopped the wood,  
@@ -2488,8 +1900,6 @@ A BALLADE OF THE FIRST RAIN
        "Lord, we cannot view Thy good,"  
 
      And the wild men clamour still.  
-
-
 
      Said the Lord God, "Build a house,  
 
@@ -2501,8 +1911,6 @@ A BALLADE OF THE FIRST RAIN
 
      Seers and makers, build it well."  
 
-
-
      Strove the cunning men and strong,  
 
        But a little and they cry,  
@@ -2512,8 +1920,6 @@ A BALLADE OF THE FIRST RAIN
        And we cannot know the why,"  
 
      And the wise men doubt to-day.  
-
-
 
      Yet though worn and deaf and blind,  
 
@@ -2525,8 +1931,6 @@ A BALLADE OF THE FIRST RAIN
 
      Knead and plough and think and ply.  
 
-
-
      Till at last, mayhap, hereon,  
 
        Fused of passion and accord,  
@@ -2537,17 +1941,7 @@ A BALLADE OF THE FIRST RAIN
 
      That we darkly build to-day.  
 
-
-
-
-
-
-
      A HYMN FOR THE CHURCH MILITANT  
-
-
-
-
 
      Great God, that bowest sky and star,  
 
@@ -2557,8 +1951,6 @@ A BALLADE OF THE FIRST RAIN
 
        The firm feet of humility.  
 
-
-
      Lord, we that snatch the swords of flame,  
 
        Lord, we that cry about Thy car.  
@@ -2566,8 +1958,6 @@ A BALLADE OF THE FIRST RAIN
      We too are weak with pride and shame,  
 
        We too are as our foemen are.  
-
-
 
      Yea, we are mad as they are mad,  
 
@@ -2577,8 +1967,6 @@ A BALLADE OF THE FIRST RAIN
 
        Who bring good news to all mankind.  
 
-
-
      The dreadful joy Thy Son has sent  
 
        Is heavier than any care;  
@@ -2586,8 +1974,6 @@ A BALLADE OF THE FIRST RAIN
      We find, as Cain his punishment,  
 
        Our pardon more than we can bear.  
-
-
 
      Lord, when we cry Thee far and near  
 
@@ -2597,8 +1983,6 @@ A BALLADE OF THE FIRST RAIN
 
        Lord, let us not forget our own.  
 
-
-
      Cleanse us from ire of creed or class,  
 
        The anger of the idle tings;  
@@ -2607,17 +1991,7 @@ A BALLADE OF THE FIRST RAIN
 
        The laughter of all lowly things.  
 
-
-
-
-
-
-
      THE BEATIFIC VISION  
-
-
-
-
 
      Then Bernard smiled at me, that I should gaze  
 
@@ -2627,8 +2001,6 @@ A BALLADE OF THE FIRST RAIN
 
          Which to itself and by itself is true.  
 
-
-
      Then was my vision mightier than man's speech;  
 
          Speech snapt before it like a flying spell;  
@@ -2636,8 +2008,6 @@ A BALLADE OF THE FIRST RAIN
      And memory and all that time can teach  
 
          Before that splendid outrage failed and fell.  
-
-
 
      As when one dreameth and remembereth not  
 
@@ -2647,8 +2017,6 @@ A BALLADE OF THE FIRST RAIN
 
          The printed passion of the dream remains:--  
 
-
-
      Even such am I; within whose thoughts resides  
 
          No picture of that sight nor any part  
@@ -2656,8 +2024,6 @@ A BALLADE OF THE FIRST RAIN
      Nor any memory: in whom abides  
 
          Only a happiness within the heart,  
-
-
 
      A secret happiness that soaks the heart  
 
@@ -2667,8 +2033,6 @@ A BALLADE OF THE FIRST RAIN
 
          Whereon did the wild leaves of Sibyl go.  
 
-
-
      O light uplifted from all mortal knowing,  
 
          Send back a little of that glimpse of thee.  
@@ -2677,17 +2041,7 @@ A BALLADE OF THE FIRST RAIN
 
          One tiny spark for all men yet to be.  
 
-
-
-
-
-
-
      THE TRUCE OF CHRISTMAS  
-
-
-
-
 
      Passionate peace is in the sky--  
 
@@ -2713,8 +2067,6 @@ A BALLADE OF THE FIRST RAIN
 
        That praise the world to the sons of the world.)  
 
-
-
      The idle humble hill and wood  
 
      Are bowed upon the sacred birth,  
@@ -2738,8 +2090,6 @@ A BALLADE OF THE FIRST RAIN
        And the thing is graven in star and stone  
 
        That the men who love are all alone.)  
-
-
 
      Hunger is hard and time is tough,  
 
@@ -2765,17 +2115,7 @@ A BALLADE OF THE FIRST RAIN
 
        Passionate peace is in the sky.)  
 
-
-
-
-
-
-
      A HYMN  
-
-
-
-
 
      O God of earth and altar,  
 
@@ -2793,8 +2133,6 @@ A BALLADE OF THE FIRST RAIN
 
        But take away our pride.  
 
-
-
      From all that terror teaches,  
 
        From lies of tongue and pen,  
@@ -2810,8 +2148,6 @@ A BALLADE OF THE FIRST RAIN
      From sleep and from damnation,  
 
        Deliver us, good Lord!  
-
-
 
      Tie in a living tether  
 
@@ -2829,25 +2165,11 @@ A BALLADE OF THE FIRST RAIN
 
        A single sword to thee.  
 
-
-
-
-
-
-
      A CHRISTMAS SONG FOR THREE GUILDS  
-
-
 
      TO BE SUNG A LONG TIME AGO--OR HENCE  
 
-
-
      _THE CARPENTERS_  
-
-
-
-
 
      St. Joseph to the Carpenters said on a Christmas Day:  
 
@@ -2869,11 +2191,7 @@ A BALLADE OF THE FIRST RAIN
 
      Than the lion-shield of Lancelot that hung at Joyous Garde."  
 
-
-
      _THE SHOEMAKERS_  
-
-
 
      St. Crispin to the shoemakers said on a Christmastide:  
 
@@ -2895,11 +2213,7 @@ A BALLADE OF THE FIRST RAIN
 
      As once a crash of arrows came, upon St. Crispin's Day."  
 
-
-
      _THE PAINTERS_  
-
-
 
      St. Luke unto the painters on Christmas Day he said:  
 
@@ -2921,11 +2235,7 @@ A BALLADE OF THE FIRST RAIN
 
      You paint a harlot's face to drag all heroes down to hell."  
 
-
-
      _ALL TOGETHER_  
-
-
 
      Almighty God to all mankind on Christmas Day said He:  
 
@@ -2943,17 +2253,7 @@ A BALLADE OF THE FIRST RAIN
 
      Because it was My challenge to all the things I made."  
 
-
-
-
-
-
-
      THE NATIVITY  
-
-
-
-
 
      The thatch on the roof was as golden,  
 
@@ -2971,8 +2271,6 @@ A BALLADE OF THE FIRST RAIN
 
            A child was born.  
 
-
-
      Have a myriad children been quickened.  
 
        Have a myriad children grown old,  
@@ -2988,8 +2286,6 @@ A BALLADE OF THE FIRST RAIN
      And again for the child that was squandered  
 
            A child is born.  
-
-
 
      What know we of æons behind us,  
 
@@ -3007,8 +2303,6 @@ A BALLADE OF THE FIRST RAIN
 
            "A child is born."  
 
-
-
      Though the darkness be noisy with systems,  
 
        Dark fancies that fret and disprove,  
@@ -3024,8 +2318,6 @@ A BALLADE OF THE FIRST RAIN
      Huge dawns sleep before us, deep changes,  
 
            A child is born.  
-
-
 
      And the rafters of toil still are gilded  
 
@@ -3043,8 +2335,6 @@ A BALLADE OF THE FIRST RAIN
 
            A child is born.  
 
-
-
      And the mother still joys for the whispered  
 
        First stir of unspeakable things,  
@@ -3060,8 +2350,6 @@ A BALLADE OF THE FIRST RAIN
      Emmanuel, prophet, anointed,  
 
            A child is born.  
-
-
 
      And thou, that art still in thy cradle,  
 
@@ -3079,17 +2367,7 @@ A BALLADE OF THE FIRST RAIN
 
            A child is born.  
 
-
-
-
-
-
-
      A CHILD OF THE SNOWS  
-
-
-
-
 
      There is heard a hymn when the panes dim  
 
@@ -3099,8 +2377,6 @@ A BALLADE OF THE FIRST RAIN
 
        And the dark is alive with rain.  
 
-
-
      Never we know but in sleet and in snow,  
 
        The place where the great fires are,  
@@ -3108,8 +2384,6 @@ A BALLADE OF THE FIRST RAIN
      That the midst of the earth is a raging mirth  
 
        And the heart of the earth a star.  
-
-
 
      And at night we win to the ancient inn  
 
@@ -3119,8 +2393,6 @@ A BALLADE OF THE FIRST RAIN
 
        At the inn at the end of the world.  
 
-
-
      The gods lie dead where the leaves lie red,  
 
        For the flame of the sun is flown.  
@@ -3129,17 +2401,7 @@ A BALLADE OF THE FIRST RAIN
 
        And a Child comes forth alone.  
 
-
-
-
-
-
-
      A WORD  
-
-
-
-
 
      A word came forth in Galilee, a word like to a star;  
 
@@ -3153,8 +2415,6 @@ A BALLADE OF THE FIRST RAIN
 
      A star with myriad thunders tongued: a mighty word there came.  
 
-
-
      The wedge's dart passed into it, the groan of timberwains,  
 
      The ringing of the rivet nails, the shrieking of the planes;  
@@ -3166,8 +2426,6 @@ A BALLADE OF THE FIRST RAIN
      The heat-browned toiler's crooning song, the hum of human worth--  
 
      Mingled of all the noise of crafts, the ringing word went forth.  
-
-
 
      The splash of nets passed into it, the grind of sand and shell,  
 
@@ -3181,8 +2439,6 @@ A BALLADE OF THE FIRST RAIN
 
      In gathering all the throes of earth, the living word went by.  
 
-
-
      Earth's giant sins bowed down to it, in Empire's huge eclipse,  
 
      When darkness sat above the thrones, seven thunders on her lips,  
@@ -3195,8 +2451,6 @@ A BALLADE OF THE FIRST RAIN
 
      The trumpets of Apocalypse, the darkness of the earth:  
 
-
-
      The wrath that brake the eternal lamp and hid the eternal hill,  
 
      A world's destruction loading, the word went onward still--  
@@ -3208,8 +2462,6 @@ A BALLADE OF THE FIRST RAIN
      The cloistered brethren's thunderous chaunt, the errant champion's song,  
 
      The shifting of the crowns and thrones, the tangle of the strong.  
-
-
 
      The shattering fall of crest and crown and shield and cross and cope,  
 
@@ -3231,39 +2483,17 @@ A BALLADE OF THE FIRST RAIN
 
      With earthquake, chaos, born and fed, rose,--and the word was "Peace."  
 
-
-
-
-
-
-
-
-
-
-
      V  
-
-
 
      RHYMES FOR THE TIMES  
 
-
-
-
-
      ANTICHRIST, OR THE REUNION OF CHRISTENDOM: AN ODE  
-
-
-
-
 
           "A BILL WHICH HAS SHOCKED THE CONSCIENCE OF  
 
           EVERY CHRISTIAN COMMUNITY IN EUROPE."--  
 
           _Mr. F.E. Smith_, ON THE WELSH DISESTABLISHMENT BILL.  
-
-
 
      Are they clinging to their crosses,  
 
@@ -3289,8 +2519,6 @@ A BALLADE OF THE FIRST RAIN
 
                   Do they, Smith?  
 
-
-
      Russian peasants round their pope  
 
                   Huddled, Smith,  
@@ -3314,8 +2542,6 @@ A BALLADE OF THE FIRST RAIN
      "Welsh Tithes: Dr. Clifford Answered,"  
 
                   Really, Smith?  
-
-
 
      In the lands where Christians were,  
 
@@ -3341,8 +2567,6 @@ A BALLADE OF THE FIRST RAIN
 
                   Saved by Smith.  
 
-
-
      It would greatly, I must own,  
 
                   Soothe me, Smith,  
@@ -3367,25 +2591,13 @@ A BALLADE OF THE FIRST RAIN
 
                   --Chuck it, Smith!  
 
-
-
-
-
-
-
      THE REVOLUTIONIST: OR LINES TO A STATESMAN  
-
-
-
-
 
      "I WAS NEVER STANDING BY WHILE A REVOLUTION  
 
      WAS GOING ON."--_Speech by the Rt. Hon. Walter  
 
      Long_.  
-
-
 
      When Death was on thy drums, Democracy,  
 
@@ -3408,8 +2620,6 @@ A BALLADE OF THE FIRST RAIN
      Her trumpets taunt us with a sacred scorn....  
 
      Then silence fell; and Mr. Long was born.  
-
-
 
      From his first hours in his expensive cot  
 
@@ -3435,8 +2645,6 @@ A BALLADE OF THE FIRST RAIN
 
      The Constitution bored him and he slew it.  
 
-
-
      If I were wise and good and rich and strong--  
 
      Fond, impious thought, if I were Walter Long--  
@@ -3454,8 +2662,6 @@ A BALLADE OF THE FIRST RAIN
      If all this hung on one thin thread of habit  
 
      I would not revolutionize a rabbit.  
-
-
 
      I would sit tight with all my gifts and glories,  
 
@@ -3480,8 +2686,6 @@ A BALLADE OF THE FIRST RAIN
      Lest men should mark how sleepy is the nod  
 
      That drills the dreadful images of God!  
-
-
 
      Walter, be wise! avoid the wild and new,  
 
@@ -3509,17 +2713,7 @@ A BALLADE OF THE FIRST RAIN
 
      when that riot comes--you _will_ be there.  
 
-
-
-
-
-
-
      THE SHAKESPEARE MEMORIAL  
-
-
-
-
 
      Lord Lilac thought it rather rotten  
 
@@ -3548,8 +2742,6 @@ A BALLADE OF THE FIRST RAIN
      Still sat unconquered in a ring,  
 
      Remembering him like anything.  
-
-
 
      Lord Lilac did not long remain.  
 
@@ -3587,23 +2779,11 @@ A BALLADE OF THE FIRST RAIN
 
      Lest they forgot, lest they forgot.  
 
-
-
      Lord Lilac was of slighter stuff;  
 
      Lord Lilac had had quite enough.  
 
-
-
-
-
-
-
      THE HORRIBLE HISTORY OF JONES  
-
-
-
-
 
      Jones had a dog; it had a chain;  
 
@@ -3701,8 +2881,6 @@ A BALLADE OF THE FIRST RAIN
 
      Cut off his body or his head.  
 
-
-
      An author in the Isle of Wight  
 
      Observed with unconcealed delight  
@@ -3715,17 +2893,7 @@ A BALLADE OF THE FIRST RAIN
 
      And this, I think, was what he meant.  
 
-
-
-
-
-
-
      THE NEW FREETHINKER  
-
-
-
-
 
      John Grubby, who was short and stout  
 
@@ -3837,21 +3005,9 @@ A BALLADE OF THE FIRST RAIN
 
      And never sits upon his knee.  
 
-
-
-
-
-
-
      IN MEMORIAM P.D.  
 
-
-
      NICE, JANUARY 30, 1914.  
-
-
-
-
 
      If any in an island cradle curled  
 
@@ -3861,8 +3017,6 @@ A BALLADE OF THE FIRST RAIN
 
      A bugle through the blackness of the world,  
 
-
-
      An English hand would touch your shroud, in trust  
 
      That truth again be told in English speech.  
@@ -3870,8 +3024,6 @@ A BALLADE OF THE FIRST RAIN
      And we too yet may practise what we preach,  
 
      Though it were practising the bayonet thrust.  
-
-
 
      Cutting that giant neck from sand to sand,  
 
@@ -3881,8 +3033,6 @@ A BALLADE OF THE FIRST RAIN
 
      That cut the throat of thieves in every land.  
 
-
-
      Heed not if half-wits mock your broken blade:  
 
      Mammon our master doeth all things ill.  
@@ -3890,8 +3040,6 @@ A BALLADE OF THE FIRST RAIN
      You are the Fool that charged a windmill. Still,  
 
      The Miller is a Knave; and was afraid.  
-
-
 
      Lay down your sword. Ruin will know her own.  
 
@@ -3901,8 +3049,6 @@ A BALLADE OF THE FIRST RAIN
 
      Or take the throne and perish by the throne.  
 
-
-
      Lay down your sword. And let the White Flag fade  
 
      To grey; and let the Red Flag fade to pink,  
@@ -3911,23 +3057,11 @@ A BALLADE OF THE FIRST RAIN
 
      So deep as death and honour, Déroulède.  
 
-
-
-
-
-
-
      SONNET WITH THE COMPLIMENTS OF THE SEASON  
-
-
-
-
 
      TO A POPULAR LEADER MUCH TO BE CONGRATULATED  
 
      ON THE AVOIDANCE OF A STRIKE AT CHRISTMAS.  
-
-
 
      I know you. You will hail the huge release,  
 
@@ -3945,8 +3079,6 @@ A BALLADE OF THE FIRST RAIN
 
      For them that traffic in the doves of peace.  
 
-
-
      The feast of friends, the candle-fruited tree,  
 
      I have not failed to honour. And I say  
@@ -3959,23 +3091,11 @@ A BALLADE OF THE FIRST RAIN
 
      Dead in the daylight upon Christmas Day.  
 
-
-
-
-
-
-
      A SONG OF SWORDS  
-
-
-
-
 
           "A DROVE OF CATTLE CAME INTO A VILLAGE CALLED  
 
           SWORDS, AND WAS STOPPED BY THE RIOTERS."---_Daily Paper_.  
-
-
 
      In the place called Swords on the Irish road  
 
@@ -3989,8 +3109,6 @@ A BALLADE OF THE FIRST RAIN
 
          Is crowned in Dublin town  
 
-
-
      Light in the East and light in the West,  
 
      And light on the cruel lords,  
@@ -4002,8 +3120,6 @@ A BALLADE OF THE FIRST RAIN
      And many a wheel of the world stopped, too,  
 
          When the cattle were stopped at Swords.  
-
-
 
      Be they sinners or less than saints  
 
@@ -4017,8 +3133,6 @@ A BALLADE OF THE FIRST RAIN
 
          This is your lawful wage.  
 
-
-
      You pinched a child to a torture price  
 
      That you dared not name in words;  
@@ -4030,8 +3144,6 @@ A BALLADE OF THE FIRST RAIN
      And the coward was plain as a cow they hit  
 
          When the cattle have strayed at Swords.  
-
-
 
      The wheel of the torment of wives went round  
 
@@ -4045,8 +3157,6 @@ A BALLADE OF THE FIRST RAIN
 
          And you saw that it was good.  
 
-
-
      The rope of the rich is long and long--  
 
      The longest of hangmen's cords;  
@@ -4058,8 +3168,6 @@ A BALLADE OF THE FIRST RAIN
      Where God stands holding the scales of Death  
 
          Between the cattle and Swords.  
-
-
 
      Haply the lords that hire and lend,  
 
@@ -4073,8 +3181,6 @@ A BALLADE OF THE FIRST RAIN
 
          Faces of men--and Swords.  
 
-
-
      And the name shining and terrible,  
 
      The sternest of all man's words,  
@@ -4087,17 +3193,7 @@ A BALLADE OF THE FIRST RAIN
 
          In the place that is called Swords.  
 
-
-
-
-
-
-
      A SONG OF DEFEAT  
-
-
-
-
 
      The line breaks and the guns go under,  
 
@@ -4131,8 +3227,6 @@ A BALLADE OF THE FIRST RAIN
 
          And fought each other, the world and we.  
 
-
-
      And I dream of the days when work was scrappy,  
 
        And rare in our pockets the mark of the mint,  
@@ -4164,8 +3258,6 @@ A BALLADE OF THE FIRST RAIN
          They have said to each other what naught can smother,  
 
          They have seen each other, our souls and hell.  
-
-
 
      It is all as of old; the empty clangour.  
 
@@ -4199,17 +3291,7 @@ A BALLADE OF THE FIRST RAIN
 
          We know each other, these slaves and we.  
 
-
-
-
-
-
-
      SONNET  
-
-
-
-
 
           ON HEARING A LANDLORD ACCUSED (FALSELY, FOR  
 
@@ -4218,8 +3300,6 @@ A BALLADE OF THE FIRST RAIN
           NUMEROUS WHITE HORSES THAT WERE OR WERE NOT  
 
           CONNECTED WITH ALFRED THE GREAT  
-
-
 
      If you have picked your lawn of leaves and snails,  
 
@@ -4237,8 +3317,6 @@ A BALLADE OF THE FIRST RAIN
 
      Horsewhipping, Hounsditch, debts, and _Daily Mails_.  
 
-
-
      Can you not even conserve? For if indeed  
 
      The White Horse fades; then closer creeps the fight  
@@ -4251,17 +3329,7 @@ A BALLADE OF THE FIRST RAIN
 
      When Wessex went to battle for the creed.  
 
-
-
-
-
-
-
      AFRICA  
-
-
-
-
 
      A sleepy people, without priests or kings,  
 
@@ -4291,17 +3359,7 @@ A BALLADE OF THE FIRST RAIN
 
          Noiselessly happy, feeding on the dead.  
 
-
-
-
-
-
-
      THE DEAD HERO  
-
-
-
-
 
      We never saw you, like our sires,  
 
@@ -4319,8 +3377,6 @@ A BALLADE OF THE FIRST RAIN
 
        Did England laugh at Liberty.  
 
-
-
      Yea, this one thing is known of you,  
 
        We know that not till you were dumb,  
@@ -4336,8 +3392,6 @@ A BALLADE OF THE FIRST RAIN
      The empire of the world's desire,  
 
        The dance of all the dirt began.  
-
-
 
      The happy jewelled alien men  
 
@@ -4355,8 +3409,6 @@ A BALLADE OF THE FIRST RAIN
 
        For surety that you could not speak.  
 
-
-
      A hero in the desert died;  
 
        Men cried that saints should bury him.  
@@ -4372,8 +3424,6 @@ A BALLADE OF THE FIRST RAIN
      The beasts that fled before his face  
 
        Shall come to make his funeral.  
-
-
 
      "The mighty vermin of the void  
 
@@ -4391,17 +3441,7 @@ A BALLADE OF THE FIRST RAIN
 
        To tell the world that he is dead."  
 
-
-
-
-
-
-
      AN ELECTION ECHO 1906  
-
-
-
-
 
      This is their trumpet ripe and rounded,  
 
@@ -4411,8 +3451,6 @@ A BALLADE OF THE FIRST RAIN
 
      Have we at least not cause to laugh?  
 
-
-
      Never so low at least we stumbled--  
 
      Dead we have been but not so dead  
@@ -4420,8 +3458,6 @@ A BALLADE OF THE FIRST RAIN
      As these that live on the life they squandered,  
 
      As these that drink of the blood they shed.  
-
-
 
      We never boasted the thing we blundered,  
 
@@ -4431,8 +3467,6 @@ A BALLADE OF THE FIRST RAIN
 
      To howl to the dead who tell no tales,  
 
-
-
      'Twas another finger at least that pointed  
 
      Our wasted men or our emptied bags,  
@@ -4440,8 +3474,6 @@ A BALLADE OF THE FIRST RAIN
      It was not we that sounded the trumpet  
 
      In front of the triumph of wrecks and rags.  
-
-
 
      Fear not these, they have made their bargain,  
 
@@ -4451,8 +3483,6 @@ A BALLADE OF THE FIRST RAIN
 
      They have burnt their house for a fire that fades.  
 
-
-
      Five years ago and we might have feared them,  
 
      Been drubbed by the coward and taught by the dunce;  
@@ -4460,8 +3490,6 @@ A BALLADE OF THE FIRST RAIN
      Truth may endure and be told and re-echoed,  
 
      But a lie can never be young but once.  
-
-
 
      Five years ago and we might have feared them;  
 
@@ -4471,21 +3499,9 @@ A BALLADE OF THE FIRST RAIN
 
      But a laugh like thunder. We know them now.  
 
-
-
-
-
-
-
      THE SONG OF THE WHEELS  
 
-
-
      WRITTEN DURING A FRIDAY AND SATURDAY IN AUGUST 1911.  
-
-
-
-
 
      King Dives he was waiting in his garden all alone,  
 
@@ -4503,8 +3519,6 @@ A BALLADE OF THE FIRST RAIN
 
      Some little thing has shifted": and the little things replied:  
 
-
-
      "Call upon the wheels, master, call upon the wheels;  
 
      We are taking rest, master, finding how it feels,  
@@ -4516,8 +3530,6 @@ A BALLADE OF THE FIRST RAIN
      Yea, the Wheels are mighty gods--set them going then!  
 
      We are only men, master, have you heard of men?  
-
-
 
      "O, they live on earth like fishes, and a gasp is all their breath.  
 
@@ -4535,8 +3547,6 @@ A BALLADE OF THE FIRST RAIN
 
      Earth and heaven are dumb before him: he is stronger than the dead.  
 
-
-
      "Call upon the wheels, master, call upon the wheels,  
 
      Steel is beneath your hand, stone beneath your heels,  
@@ -4548,8 +3558,6 @@ A BALLADE OF THE FIRST RAIN
      Men of tact that arbitrate, slow reform that heals--  
 
      Save the stinking grease, master, save it for the wheels.  
-
-
 
      "King Dives in the garden, we have naught to give or hold--  
 
@@ -4571,8 +3579,6 @@ A BALLADE OF THE FIRST RAIN
 
      Why should you make peace and traffic with such feeble folk as men?  
 
-
-
      "Call upon the wheels, master, call upon the wheels,  
 
      They are deaf to demagogues, deaf to crude appeals;  
@@ -4584,8 +3590,6 @@ A BALLADE OF THE FIRST RAIN
      Prove the points are delicate--they will understand.  
 
      All the wheels are loyal; see how still they stand!"  
-
-
 
      King Dives he was walking in his garden in the sun,  
 
@@ -4603,8 +3607,6 @@ A BALLADE OF THE FIRST RAIN
 
      The noise of all the sleepless things that sing the soul to sleep."  
 
-
-
      _Call upon the wheels, master, call upon the wheels._  
 
      _Weary grow the holidays when you miss the meals,_  
@@ -4617,17 +3619,7 @@ A BALLADE OF THE FIRST RAIN
 
      _Take him, break him, rend him, end him, roll him, crush him with the wheels._  
 
-
-
-
-
-
-
      THE SECRET PEOPLE  
-
-
-
-
 
      Smile at us, pay us, pass us; but do not quite forget.  
 
@@ -4645,8 +3637,6 @@ A BALLADE OF THE FIRST RAIN
 
      Only you do not know us. For we have not spoken yet.  
 
-
-
      The fine French kings came over in a flutter of flags and dames.  
 
      We liked their smiles and battles, but we never could say their names.  
@@ -4654,8 +3644,6 @@ A BALLADE OF THE FIRST RAIN
      The blood ran red to Bosworth and the High French lords went down;  
 
      There was naught but a naked people under a naked crown.  
-
-
 
      And the eyes of the King's Servants turned terribly every way,  
 
@@ -4668,8 +3656,6 @@ A BALLADE OF THE FIRST RAIN
      The inns of God where no man paid, that were the wall of the weak,  
 
      The King's Servants ate them all. And Still we did not speak.  
-
-
 
      And the face of the King's Servants grew greater than the King:  
 
@@ -4686,8 +3672,6 @@ A BALLADE OF THE FIRST RAIN
      We saw the King as they killed him, and his face was proud and pale;  
 
      And a few men talked of freedom, while England talked of ale.  
-
-
 
      A war that we understood not came over the world and woke  
 
@@ -4713,8 +3697,6 @@ A BALLADE OF THE FIRST RAIN
 
      And we broke our own rights with him. And still we never spoke.  
 
-
-
      Our patch of glory ended; we never heard guns again.  
 
      But the squire seemed struck in the saddle; he was foolish, as if in pain  
@@ -4731,8 +3713,6 @@ A BALLADE OF THE FIRST RAIN
 
      And a new people takes the land: and still it is not we.  
 
-
-
      They have given us into the hand of the new unhappy lords,  
 
      Lords without anger and honour, who dare not carry their swords.  
@@ -4744,8 +3724,6 @@ A BALLADE OF THE FIRST RAIN
      And the load 01 their loveless pity is worse than the ancient wrongs,  
 
      Their doors are shut in the evening; and they know no songs.  
-
-
 
      We hear men speaking for us of new laws strong and sweet,  
 
@@ -4763,31 +3741,11 @@ A BALLADE OF THE FIRST RAIN
 
      Smile at us, pay us, pass us. But do not quite forget.  
 
-
-
-
-
-
-
-
-
-
-
      VI  
-
-
 
      MISCELLANEOUS POEMS  
 
-
-
-
-
      LOST  
-
-
-
-
 
      So you have gained the golden crowns, so you have piled together  
 
@@ -4797,8 +3755,6 @@ A BALLADE OF THE FIRST RAIN
 
        For all the glory I have lost, the good I never knew.  
 
-
-
      I saw the light of morning pale on princely human faces,  
 
        In tales irrevocably gone, in final night enfurled,  
@@ -4806,8 +3762,6 @@ A BALLADE OF THE FIRST RAIN
      I saw the tail of flying fights, a glimpse of burning blisses,  
 
        And laughed to think what I had lost--the wealth of all the world.  
-
-
 
      Yea, ruined in a royal game I was before my cradle;  
 
@@ -4817,8 +3771,6 @@ A BALLADE OF THE FIRST RAIN
 
        That great green sunset God shall make three days after I die.  
 
-
-
      When all the lights are lost and done, when all the skies are broken,  
 
        Above the ruin of the stars my soul shall sit in state,  
@@ -4826,8 +3778,6 @@ A BALLADE OF THE FIRST RAIN
      With a brain made rich, with the irrevocable sunsets,  
 
        And a closed heart happy in the fullness of a fate.  
-
-
 
      So you have gained the golden crowns and grasped the golden weather,  
 
@@ -4837,17 +3787,7 @@ A BALLADE OF THE FIRST RAIN
 
        For the light of seven heavens that are lost to me like hell.  
 
-
-
-
-
-
-
      BALLAD OF THE SUN  
-
-
-
-
 
      O well for him that loves the sun  
 
@@ -4857,8 +3797,6 @@ A BALLADE OF THE FIRST RAIN
 
        And shouts for victory.  
 
-
-
      God made the sun to crown his head,  
 
      And when death's dart at last is sped,  
@@ -4866,8 +3804,6 @@ A BALLADE OF THE FIRST RAIN
      At least it will not find him dead,  
 
        And pass the carrion by.  
-
-
 
      O ill for him that loves the sun;  
 
@@ -4877,8 +3813,6 @@ A BALLADE OF THE FIRST RAIN
 
        Or heavy souls that pray?  
 
-
-
      Not less for us and everyone  
 
      Was that white web of splendour spun;  
@@ -4887,17 +3821,7 @@ A BALLADE OF THE FIRST RAIN
 
        Although the sun should slay.  
 
-
-
-
-
-
-
      TRANSLATION FROM DU BELLAY  
-
-
-
-
 
      Happy, who like Ulysses or that lord  
 
@@ -4931,17 +3855,7 @@ A BALLADE OF THE FIRST RAIN
 
        The quiet kindness of the Angevin air.  
 
-
-
-
-
-
-
      THE HIGHER UNITY  
-
-
-
-
 
           "The Rev. Isaiah Bunter has disappeared into the interior  
 
@@ -4953,8 +3867,6 @@ A BALLADE OF THE FIRST RAIN
 
           _A real paragraph from a real Paper; only the names altered._  
 
-
-
      It was Isaiah Bunter  
 
        Who sailed to the world's end,  
@@ -4962,8 +3874,6 @@ A BALLADE OF THE FIRST RAIN
      And spread religion in a way  
 
        That he did not intend.  
-
-
 
      He gave, if not the gospel-feast,  
 
@@ -4973,8 +3883,6 @@ A BALLADE OF THE FIRST RAIN
 
        He was devoured with zeal.  
 
-
-
      And who are we (as Henson says)  
 
        That we should close the door?  
@@ -4982,8 +3890,6 @@ A BALLADE OF THE FIRST RAIN
      And should not Evangelicals  
 
        All jump at shedding Gore?  
-
-
 
      And many a man will melt in man,  
 
@@ -4993,8 +3899,6 @@ A BALLADE OF THE FIRST RAIN
 
        The Kiss of Kikuyu.  
 
-
-
      When Man is the Turk, and the Atheist,  
 
      Essene, Erastian Whig,  
@@ -5003,17 +3907,7 @@ A BALLADE OF THE FIRST RAIN
 
        And the crew of the Captain's gig.  
 
-
-
-
-
-
-
      THE EARTH'S VIGIL  
-
-
-
-
 
      The old earth keepeth her watch the same.  
 
@@ -5031,8 +3925,6 @@ A BALLADE OF THE FIRST RAIN
 
        But she keepeth not watch for them.  
 
-
-
            She keepeth her watch through the awns,  
 
              But the heart of her groweth not old,  
@@ -5040,8 +3932,6 @@ A BALLADE OF THE FIRST RAIN
            For the peal of the bridegroom's paeans,  
 
              And the tale she once was told.  
-
-
 
      The nations shock and the cities reel,  
 
@@ -5059,8 +3949,6 @@ A BALLADE OF THE FIRST RAIN
 
        For the love whose word is true.  
 
-
-
            She keepeth her watch through the aeons,  
 
              But the heart of her groweth not old,  
@@ -5068,8 +3956,6 @@ A BALLADE OF THE FIRST RAIN
            For the peal of the bridegroom's paeans,  
 
              And the tale she once was told.  
-
-
 
      Through the cornfield's gleam and the cottage shade,  
 
@@ -5087,8 +3973,6 @@ A BALLADE OF THE FIRST RAIN
 
        And the hope in the heart remains.  
 
-
-
            She keepeth her watch through the aeons,  
 
              But the heart of her groweth not old,  
@@ -5096,8 +3980,6 @@ A BALLADE OF THE FIRST RAIN
            For the peal of the bridegroom's paeans,  
 
              And the tale she once was told.  
-
-
 
      God's gold ring on her hand is bound,  
 
@@ -5115,8 +3997,6 @@ A BALLADE OF THE FIRST RAIN
 
        Still looking forth with a smile.  
 
-
-
            She keepeth her watch through the sons,  
 
              But the heart of her groweth not old,  
@@ -5125,17 +4005,7 @@ A BALLADE OF THE FIRST RAIN
 
              And the tale she once was told.  
 
-
-
-
-
-
-
      ON RIGHTEOUS INDIGNATION  
-
-
-
-
 
      When Adam went from Paradise  
 
@@ -5149,8 +4019,6 @@ A BALLADE OF THE FIRST RAIN
 
        And knew he was a man.  
 
-
-
      When Adam went from Paradise,  
 
        He turned him back and cried  
@@ -5162,8 +4030,6 @@ A BALLADE OF THE FIRST RAIN
      The woods were dark in Paradise,  
 
        And not a bird replied.  
-
-
 
      For only comfort or contempt,  
 
@@ -5177,8 +4043,6 @@ A BALLADE OF THE FIRST RAIN
 
        God flung the flaming sword.  
 
-
-
      It burns the hand that holds it  
 
        More than the skull it scores;  
@@ -5191,17 +4055,7 @@ A BALLADE OF THE FIRST RAIN
 
        A scorner of the stars.  
 
-
-
-
-
-
-
      WHEN I CAME BACK TO FLEET STREET  
-
-
-
-
 
      When I came back to Fleet Street,  
 
@@ -5219,8 +4073,6 @@ A BALLADE OF THE FIRST RAIN
 
        A little while ago;  
 
-
-
      I had been long in meadows,  
 
        And the trees took hold of me,  
@@ -5236,8 +4088,6 @@ A BALLADE OF THE FIRST RAIN
      And all the truth they talk in hell,  
 
        And all the lies they write.  
-
-
 
      For I came back to Fleet Street,  
 
@@ -5255,8 +4105,6 @@ A BALLADE OF THE FIRST RAIN
 
        Until the Cock shall crow!  
 
-
-
      Under the broad bright windows  
 
        Of men I serve no more,  
@@ -5272,8 +4120,6 @@ A BALLADE OF THE FIRST RAIN
      Ugly and silent, like an elf,  
 
        The secret of the street.  
-
-
 
      They did not break the padlocks,  
 
@@ -5291,8 +4137,6 @@ A BALLADE OF THE FIRST RAIN
 
        Among the broken men.  
 
-
-
      Still he that dreams and rambles  
 
        Through his own elfin air,  
@@ -5308,8 +4152,6 @@ A BALLADE OF THE FIRST RAIN
      All that they leave of rebels  
 
        Rot high on Temple Bar.  
-
-
 
      All that I loved and hated,  
 
@@ -5327,27 +4169,13 @@ A BALLADE OF THE FIRST RAIN
 
        The Prisoners of the Fleet.  
 
-
-
-
-
-
-
      A CIDER SONG  
 
-
-
      _To J.S.M._  
-
-
-
-
 
           EXTRACT FROM A ROMANCE WHICH IS NOT YET  
 
           WRITTEN AND PROBABLY NEVER WILL BE.  
-
-
 
      The wine they drink in Paradise  
 
@@ -5361,8 +4189,6 @@ A BALLADE OF THE FIRST RAIN
 
      Shall never thirst again.  
 
-
-
      The wine they praise in Paradise  
 
      They make in Ponterey,  
@@ -5374,8 +4200,6 @@ A BALLADE OF THE FIRST RAIN
      It's wine they praise in Paradise,  
 
      It's cider that they pray.  
-
-
 
      The wine they want in Paradise  
 
@@ -5389,8 +4213,6 @@ A BALLADE OF THE FIRST RAIN
 
      And there I had a friend.  
 
-
-
      The soft feet of the blessed go  
 
      In the soft western vales,  
@@ -5403,17 +4225,7 @@ A BALLADE OF THE FIRST RAIN
 
      Goes all the way to Wales.  
 
-
-
-
-
-
-
      THE LAST HERO  
-
-
-
-
 
      The wind blew out from Bergen from the dawning to the day,  
 
@@ -5435,8 +4247,6 @@ A BALLADE OF THE FIRST RAIN
 
      You never loved the sun in heaven as I have loved the rain.  
 
-
-
      The chance of battle changes--so may all battle be;  
 
      I stole my lady bride from them, they stole her back from me.  
@@ -5456,8 +4266,6 @@ A BALLADE OF THE FIRST RAIN
      O you who drain the cup of life, O you who wear the crown,  
 
      You never loved a woman's smile as I have loved her frown.  
-
-
 
      The wind blew out from Bergen from the dawning to the day,  
 
@@ -5479,8 +4287,6 @@ A BALLADE OF THE FIRST RAIN
 
      You never loved your friends, my friends, as I shall love my foes.  
 
-
-
      Know you what earth shall lose to-night, what rich, uncounted loans,  
 
      What heavy gold of tales untold you bury with my bones?  
@@ -5501,31 +4307,11 @@ A BALLADE OF THE FIRST RAIN
 
      You never laughed in all your life as I shall laugh in death.  
 
-
-
-
-
-
-
-
-
-
-
      VII  
-
-
 
      BALLADES  
 
-
-
-
-
      BALLADE D'UNE GRANDE DAME  
-
-
-
-
 
      Heaven shall forgive you Bridge at dawn,  
 
@@ -5543,8 +4329,6 @@ A BALLADE OF THE FIRST RAIN
 
      It shall not be forgiven you.  
 
-
-
      Because you could not even yawn  
 
      When your Committees would prepare  
@@ -5560,8 +4344,6 @@ A BALLADE OF THE FIRST RAIN
      And you sat smiling in your chair--  
 
      It shall not be forgiven you.  
-
-
 
      Though your sins cried to---Father Vaughan,  
 
@@ -5579,11 +4361,7 @@ A BALLADE OF THE FIRST RAIN
 
      It shall not be forgiven you.  
 
-
-
      ENVOI  
-
-
 
      Princess, you trapped a guileless Mayor  
 
@@ -5593,17 +4371,7 @@ A BALLADE OF THE FIRST RAIN
 
      It shall not be forgiven you.  
 
-
-
-
-
-
-
      A BALLADE OF AN ANTI-PURITAN  
-
-
-
-
 
      They spoke of Progress spiring round,  
 
@@ -5621,8 +4389,6 @@ A BALLADE OF THE FIRST RAIN
 
      Will someone take me to a pub?"  
 
-
-
      The new world's wisest did surround  
 
      Me; and it pains me to record  
@@ -5638,8 +4404,6 @@ A BALLADE OF THE FIRST RAIN
      I wait a mash and sausage, "scored"--  
 
      Will someone take me to a pub?  
-
-
 
      I know where Men can still be found,  
 
@@ -5657,11 +4421,7 @@ A BALLADE OF THE FIRST RAIN
 
      Will someone take me to a pub?  
 
-
-
      ENVOI  
-
-
 
      Prince, Bayard would have smashed his sword  
 
@@ -5671,17 +4431,7 @@ A BALLADE OF THE FIRST RAIN
 
      Will someone take me to a pub?  
 
-
-
-
-
-
-
      A BALLADE OF A BOOK-REVIEWER  
-
-
-
-
 
      I have not read a rotten page  
 
@@ -5699,8 +4449,6 @@ A BALLADE OF THE FIRST RAIN
 
      And feed my brain with better things.  
 
-
-
      Somebody wants a Wiser Age  
 
      (He also wants me to invest);  
@@ -5716,8 +4464,6 @@ A BALLADE OF THE FIRST RAIN
      And the winds come out of the west  
 
      And feed my brain with better things.  
-
-
 
      Lord of our laughter and our rage.  
 
@@ -5735,11 +4481,7 @@ A BALLADE OF THE FIRST RAIN
 
      And feed my brain with better things.  
 
-
-
      ENVOI  
-
-
 
      Prince, you are host and I am guest,  
 
@@ -5749,17 +4491,7 @@ A BALLADE OF THE FIRST RAIN
 
      And feed my brain with better things.  
 
-
-
-
-
-
-
      A BALLADE OF SUICIDE  
-
-
-
-
 
      The gallows in my garden, people say,  
 
@@ -5777,8 +4509,6 @@ A BALLADE OF THE FIRST RAIN
 
      I think I will not hang myself to-day.  
 
-
-
      To-morrow is the time I get my pay--My  
 
      uncle's sword is hanging in the hall--  
@@ -5794,8 +4524,6 @@ A BALLADE OF THE FIRST RAIN
      I never read the works of Juvenal--  
 
      I think I will not hang myself to-day.  
-
-
 
      The world will have another washing day;  
 
@@ -5813,11 +4541,7 @@ A BALLADE OF THE FIRST RAIN
 
      I think I will not hang myself to-day.  
 
-
-
      ENVOI  
-
-
 
      Prince, I can hear the trumpet of Germinal,  
 
@@ -5827,17 +4551,7 @@ A BALLADE OF THE FIRST RAIN
 
      I think I will not hang myself to-day.  
 
-
-
-
-
-
-
      A BALLADE OF THE FIRST RAIN  
-
-
-
-
 
      The sky is blue with summer and the sun,  
 
@@ -5855,8 +4569,6 @@ A BALLADE OF THE FIRST RAIN
 
      (A storm is coming on the Chiltern Hills).  
 
-
-
      I read the Young Philosophers for fun  
 
      --Fresh as our sorrow for the late Queen Anne--  
@@ -5872,8 +4584,6 @@ A BALLADE OF THE FIRST RAIN
      And on the skirts of heaven the guns began  
 
      (A storm is coming on the Chiltern Hills).  
-
-
 
      O fields of England, cracked and dry and dun,  
 
@@ -5891,11 +4601,7 @@ A BALLADE OF THE FIRST RAIN
 
      (A storm is coming on the Chiltern Hills).  
 
-
-
      ENVOI  
-
-
 
      Prince, Prince-Elective on the modern plan  
 
@@ -5905,31 +4611,9 @@ A BALLADE OF THE FIRST RAIN
 
      A storm is coming on the Chiltern Hills.  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Poems, by G.K. Chesterton  
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK POEMS ***  
-
-
 
 ***** This file should be named 31184-8.txt or 31184-8.zip *****  
 
@@ -5937,17 +4621,11 @@ This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/3/1/1/8/31184/  
 
-
-
 Produced by Marc D'Hooghe  
-
-
 
 Updated editions will replace the previous one--the old editions  
 
 will be renamed.  
-
-
 
 Creating the works from public domain print editions means that no  
 
@@ -5981,21 +4659,11 @@ subject to the trademark license, especially commercial
 
 redistribution.  
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***  
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE  
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free  
 
@@ -6009,15 +4677,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).  
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm  
 
 electronic works  
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm  
 
@@ -6039,8 +4701,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.  
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be  
 
 used on or associated in any way with an electronic work by people who  
@@ -6058,8 +4718,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic  
 
 works.  See paragraph 1.E below.  
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"  
 
@@ -6091,8 +4749,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.  
 
-
-
 1.D.  The copyright laws of the place where you are located also govern  
 
 what you can do with this work.  Copyright laws in most countries are in  
@@ -6111,11 +4767,7 @@ the copyright status of any work in any country outside the United
 
 States.  
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:  
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate  
 
@@ -6129,8 +4781,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:  
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with  
 
 almost no restrictions whatsoever.  You may copy it, give it away or  
@@ -6138,8 +4788,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included  
 
 with this eBook or online at www.gutenberg.org  
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived  
 
@@ -6161,8 +4809,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.  
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted  
 
 with the permission of the copyright holder, your use and distribution  
@@ -6175,15 +4821,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.  
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm  
 
 License terms from this work, or any files containing a part of this  
 
 work or any other work associated with Project Gutenberg-tm.  
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this  
 
@@ -6194,8 +4836,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project  
 
 Gutenberg-tm License.  
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,  
 
@@ -6219,23 +4859,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.  
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,  
 
 performing, copying or distributing any Project Gutenberg-tm works  
 
 unless you comply with paragraph 1.E.8 or 1.E.9.  
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing  
 
 access to or distributing Project Gutenberg-tm electronic works provided  
 
 that  
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -6261,8 +4895,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."  
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he  
@@ -6277,8 +4909,6 @@ that
 
      Project Gutenberg-tm works.  
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the  
@@ -6287,13 +4917,9 @@ that
 
      of receipt of the work.  
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.  
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
@@ -6307,11 +4933,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.  
 
-
-
 1.F.  
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable  
 
@@ -6332,8 +4954,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by  
 
 your equipment.  
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  
 
@@ -6361,8 +4981,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.  
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  
 
 defect in this electronic work within 90 days of receiving it, you can  
@@ -6387,8 +5005,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.  
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth  
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER  
@@ -6396,8 +5012,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied  
 
@@ -6412,8 +5026,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any  
 
 provision of this agreement shall not void the remaining provisions.  
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the  
 
@@ -6435,13 +5047,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.  
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm  
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of  
 
@@ -6452,8 +5058,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from  
 
 people in all walks of life.  
-
-
 
 Volunteers and financial support to provide volunteers with the  
 
@@ -6473,15 +5077,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.  
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive  
 
 Foundation  
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit  
 
@@ -6499,8 +5097,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.  
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.  
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered  
@@ -6515,8 +5111,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org  
 
-
-
 For additional contact information:  
 
      Dr. Gregory B. Newby  
@@ -6525,15 +5119,9 @@ For additional contact information:
 
      gbnewby@pglaf.org  
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg  
 
 Literary Archive Foundation  
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide  
 
@@ -6548,8 +5136,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt  
 
 status with the IRS.  
-
-
 
 The Foundation is committed to complying with the laws regulating  
 
@@ -6567,8 +5153,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org  
 
-
-
 While we cannot and do not solicit contributions from states where we  
 
 have not met the solicitation requirements, we know of no prohibition  
@@ -6577,15 +5161,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.  
 
-
-
 International donations are gratefully accepted, but we cannot make  
 
 any statements concerning tax treatment of donations received from  
 
 outside the United States.  U.S. laws alone swamp our small staff.  
-
-
 
 Please check the Project Gutenberg Web pages for current donation  
 
@@ -6595,15 +5175,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate  
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic  
 
 works.  
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm  
 
@@ -6613,10 +5187,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.  
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed  
 
 editions, all of which are confirmed as Public Domain in the U.S.  
@@ -6625,17 +5195,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.  
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:  
 
-
-
      http://www.gutenberg.org  
-
-
 
 This Web site includes information about Project Gutenberg-tm,  
 
@@ -6643,8 +5205,4 @@ including how to make donations to the Project Gutenberg Literary
 
 Archive Foundation, how to help produce our new eBooks, and how to  
 
-subscribe to our email newsletter to hear about new eBooks.  
-
-
-
-===== FINE FILE: Poems.txt =====  
+subscribe to our email newsletter to hear about new eBooks.

@@ -70,7 +70,4 @@ But I saw him there alone,
 Standing stiller than a stone  
   Lest a moth should fall.  
 
-G.K. CHESTERTON  
-
-
-===== FINE FILE: human-tree.txt =====  
+G.K. CHESTERTON

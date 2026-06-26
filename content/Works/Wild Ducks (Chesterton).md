@@ -90,7 +90,6 @@ tags:
 - [Story 46 ON REFLECTION](/Testi/Chesterton/Atomized/Wild_Ducks/Story_46_ON_REFLECTION)
 - [Story 47 What is Right with the World](/Testi/Chesterton/Atomized/Wild_Ducks/Story_47_What_is_Right_with_the_World)
 
-
 ## Testo integrale / Full text
 
 G. K. CHESTERTON
@@ -98,16 +97,11 @@ G. K. CHESTERTON
    The Apostle and the Wild Ducks
    and other essays
 
-
 Edited by DOROTHY E. COLLINS
-
-
 
 Contents
 
-
 IN GENERAL
-
 
   A Sermon on Cheapness
   The Speaker, 29 March 1902 1
@@ -151,7 +145,6 @@ IN GENERAL
   They Tell a Story
   Introduction to a book on art, source and date unknown 49
 
-
 HERE AND THERE
 
   Walking Tours
@@ -187,9 +180,7 @@ HERE AND THERE
   Public Monuments
   Illustrated London News, 21 April 1934 88
 
-
 THE MAKING OF HISTORY
-
 
   Statues
   Illustrated London News, 1 June 1907 95
@@ -212,9 +203,7 @@ THE MAKING OF HISTORY
   William Penn and his Royalist Friends
   Illustrated London News, 24 January 1931 116
 
-
 ON LITERATURE
-
 
   Ruskin:  The Humorist
   The Speaker, 28 April 1900 123
@@ -247,22 +236,14 @@ ON LITERATURE
   The Refrain of the Rover
   New York American, 15 December 1934 157
 
-
-
 ON REFLECTION
-
 
   What is Right with the World?
   T.P.'s Weekly, 1910 161
 
-
-
-
 IN GENERAL
 
-
 A Sermon on Cheapness
-
 
 It is really time that the absurd pretence of the vices to be
 romantic were given up.  Ever since the time of Byron there has
@@ -401,9 +382,7 @@ He burst into tears and became immediately convinced of the basis
 of true religion.  For our very word for God means Economy:
 is not improvidence the opposite of Providence?
 
-
 On Manners
-
 
 One of the greatest difficulties in any philosophical discussion
 of manners is the fact that the presence of bad manners
@@ -534,9 +513,7 @@ It is a terrible thing that while true courtesy is a transcendental
 virtue and involves admiration, the most courteous man in modern
 politics is also the incarnation of indifference.
 
-
 For Persons of the Name of Smith
-
 
 Some time ago Mr C. F. G. Masterman led a vigorous attack upon
 my timid and humble optimism, and declared in effect that when I
@@ -651,11 +628,7 @@ that it is but a corruption of the name that Christ loved.
 There is not one of us that is not noble in origin, whatever we
 may be in essence.
 
-
-
-
 The True Vanity of Vanities
-
 
 It will not, I imagine, be disputed that the one black and inexcusable
 kind of pride is the pride of the man who has something to be proud of.
@@ -742,9 +715,7 @@ to be aristocratic.  And against any people who claim to rule me
 by spiritual superiority, I will everlastingly and happily rebel,
 conscious of that image of deity which equalises us all.
 
-
 Written in the Sand
-
 
 In the mid-way of this our mortal life, I find myself
 (as in one of the changes of a dream) at a watering-place on
@@ -846,9 +817,7 @@ We can do as others do cheerfully enough, as long as we are
 doing nothing.  But the moment we agree to do anything we
 begin to disagree about it.
 
-
 A Case of Comrades
-
 
 There was once a lady of a very beautiful character
 (delicate, yet decisive, for that is the definition of a lady)
@@ -991,9 +960,7 @@ things that you do not understand, only a few sports and follies
 of the stags of the herd.  Be you content as you are secure:
 you understand everything except comradeship.
 
-
 Something
-
 
 It is customary for cultivated people from century to century
 to set up some artistic fashion and pretend to be more
@@ -1085,7 +1052,6 @@ mean something--something far down in the abysses of the universe
 and the soul.  Do they mean that everything is sacred?
 Or do they perhaps mean that something is sacred--something they
 have not found?
-
 
 Asparagus
 
@@ -1190,9 +1156,7 @@ or shot into the mouth with a small gun, or eaten with the toes, or not
 eaten at all?  No; I do not know, that is what I wish to point out.
 They have changed the password.
 
-
 The English Spirit and the Flea
-
 
 I met a man who was awaiting a letter from his family in
 the Eastern Counties.  Before the letter came he learnt that
@@ -1318,9 +1282,7 @@ the note of frivolity.  And it is they, even more than their
 social superiors, who have seen the heavens filled with fire;
 and thought it less than a flea-bite.
 
-
 The Hobby and the Head Waiter
-
 
 In the matter of property we may find an obvious but useful
 parable in the difference between living in a house and living
@@ -1492,9 +1454,7 @@ Only when it is planted finally in one fixed place on the face
 of the earth, will it ever bear fruit or blossom or become
 a greenhouse of birds.
 
-
 In Praise of Pie
-
 
 We should like to utter our fervid and enthusiastic thanks to the
 clergyman who wrote to The Times the other day to protest against
@@ -1550,9 +1510,7 @@ gravely discuss whether the example of Shakespeare makes it permissible.
 For the pleasure of annoying them, we utter in a loud voice this
 protest on behalf of the `Pie' as a symbol of Piety.
 
-
 Culture Versus Civilisation
-
 
 An interesting distinction, which is almost a contradiction,
 has recently been drawn between Culture and Civilization.
@@ -1681,9 +1639,7 @@ of bungalows.  That is one aspect of the doom of civilization,
 over which these literary men lament.  Civilization makes us
 more uncivil--like the man in the Tube.
 
-
 The Winter Feast
-
 
 These modern men, who are less anxious to be men than to be moderns,
 have one little habit that has not been spotted as it should be.
@@ -1954,9 +1910,7 @@ society has learned to talk of it as an artificial thing.
 Then we shall draw on the driving force of many thousand years;
 and call up a real humanitarianism out of the depths of humanity.
 
-
 They Tell a Story
-
 
 The statement that the work of the Old Masters can be effective for
 popular education is not such a platitude as it will at first appear.
@@ -2083,14 +2037,9 @@ will still tell us something of the fathers we have forgotten.
 I do not go so far as to say we have relapsed into barbarism.
 But I do say that we can just now learn best from picture writing.
 
-
-
 Here and There
 
-
-
 Walking Tours
-
 
 The close of the holiday season sets most of us reflecting
 on the philosophy of travel, and many of us upon the simplest
@@ -2221,12 +2170,7 @@ just as the old silversmiths cried 'Great is Diana of the Ephesians'.
 Like them we have forgotten the true identity of the moon who was
 the patroness of lunatics and the goddess of crossroads.
 
-
-
-
-
 The Blindness of the Sightseer
-
 
 I once had the pleasure of making the acquaintance of an American,
 a very intelligent and inspiriting person, who, during a pause
@@ -2348,9 +2292,6 @@ We may realise what it is that consitutes an English landscape,
 and in the wild developments of some future century, may begin
 to be patriots.
 
-
-
-
 The Aesthetes in the Kitchen Garden
 
 When, a week or two ago, I came down among the hills
@@ -2461,9 +2402,7 @@ Such a description is far truer to the mellow and tawny quality in
 the human complexion than the violent similes of the rose and the lily.
 These latter, I may be fastidious, offend me as fantastic.
 
-
 The Need of Personalities in Politics
-
 
 The village I now inhabit (as a locum tenens in the temporary
 absence of the Village Beauty) was in a great stir last night,
@@ -2584,9 +2523,7 @@ breakfast table:  'At least, we are not like the French
 and the Irish; we have no personalities in our politics.'
 And because we have no personalities we have no responsibilities.
 
-
 The Largest Window in the World
-
 
 It is a terrible thing to have trod on battlefields before
 they were fought.  It gives a man a cold and ghostly shiver,
@@ -2647,9 +2584,7 @@ for a window is simply a hole.  When he has blown everything to atoms,
 when no stack or stone stands about us for many miles, he will say,
 with an insane simplicity:  `I have made the largest window in the world.'
 
-
 The Apostle and the Wild Ducks
-
 
 Last week I learned a historical lesson in some sense by going
 on a wild-goose chase.  Perhaps it might more correctly be
@@ -2802,9 +2737,7 @@ The study of these old things has to be intensive study;
 just as the cultivation of them anew would have to be
 an intensive cultivation.
 
-
 Travellers' Joys
-
 
 Once when I was wandering about in the beautiful city of Bath, I fell
 into a vein of meditation not concerned with any of the antiquities
@@ -2941,9 +2874,7 @@ But in our present phase travel has destroyed the traveller;
 and there is nowhere for the pilgrim to go save on a spiritual journey--
 the only possible pilgrim's progress.
 
-
 Understanding France
-
 
 It is curious, but very obvious, that internationalists are never
 interpreters between nations.  It is what their name almost implies; it is
@@ -3077,9 +3008,7 @@ They are drawing them up like two long lines of battle.
 It may be defensible to prepare for war; anyhow, the peacemakers
 of this school are preparing for it very thoroughly.
 
-
 Salute to New York
-
 
 I said to somebody, as I was leaving New York and looking back
 at its aerial towers, that it was very lovely.  I found I had only
@@ -3154,9 +3083,7 @@ or the second in anything called a city.  And if you let it perish,
 you are like men who should look on at the ruin of the last Greek god
 or the last Christian cathedral.
 
-
 The British Beech
-
 
 I am happy to say that I live in Beaconsfield; I mean,
 of course, that I live in Bekonsfield.  I believe that there
@@ -3267,9 +3194,7 @@ At least, they did until recently.  I shall probably be told tomorrow
 that several beech-forests have been removed to enable a motorist
 temporarily deaf and blind to go from Birmingham to Brighton.
 
-
 Public Monuments
-
 
 I happened to have occasion recently to behold again the celebrated
 monument of King Victor Emmanuel in Rome, and it turned my thoughts
@@ -3398,13 +3323,9 @@ which did not mean sitting on committees, but marching in processions,
 organising into effective crowds, and learning how to salute the altar
 or the tomb.
 
-
-
 THE MAKING OF HISTORY
 
-
 STATUES
-
 
 Monuments last for ever.  Therefore the mistakes of monuments
 last forever.  That is what the modern world does not
@@ -3539,9 +3460,7 @@ personalities whose whole boast was that no ideas could be eternal.
 What could the best sculptors do when they were told to make
 characteristic statues of six acrobats?
 
-
 A Theory of Tyrants
-
 
 I have come to be convinced of late of a certain theory of the nature
 of tyranny.  It may be right or wrong, but I think it is at least
@@ -3637,9 +3556,7 @@ Remember that newspapers are popular organs that may be turned
 against the people.  Whatever the new tyrant is, he will not wear
 the exact uniform of the old tyrant.
 
-
 An Anecdote of Persecution
-
 
 There are many tales in Joinville's reminiscences of St Louis which
 would be worth retelling; I will, however, be reasonable, and retell
@@ -3778,9 +3695,7 @@ experiment of religious inquiry in the Monastery of Cluny.
 I leave it to anyone to say whether it is not as human a tale
 as any that might have happened in Surbiton during the War.
 
-
 The Return of Pageantry
-
 
 The Puritans, in their hours of pride, seem actually to claim that our
 nation is fundamentally Puritan, was made by the Puritan spirit.
@@ -3897,9 +3812,7 @@ of drab and grey can give place to that higher, and much more
 humble humility, which can forget itself in flowers and fireworks
 and in the colours of Carnival.
 
-
 Rational History
-
 
 There is a sort of phrase or joke about `whitewashing'
 the villains of history; but to be quite just there ought
@@ -3988,9 +3901,7 @@ as he rode with the great nobles who had deserted to his standard;
 one can see his smile as he entered London; and one can guess
 what kind of tale he would tell of the fallen King.
 
-
 The Unknown Warrior
-
 
 The recent ritual of Armistice Day was overshadowed,
 as everyone knows, by the shadowy figure of the Unknown Warrior.
@@ -4120,9 +4031,7 @@ In the hour when the flag of England was saved, there was
 no man who dared to say, or would have dreamed of saying,
 that one death was less glorious than the other.
 
-
 William Penn and His Royalist Friends
-
 
 The Americans have established a Thanksgiving Day to celebrate
 the fact that the Pilgrim Fathers reached America.
@@ -4261,14 +4170,9 @@ a lecture on Dickens.  And from this we may learn that,
 if Dickens was an enemy of the Puritans, he was not so much
 of an enemy as Penn.
 
-
-
-
 On Literature
 
-
 Ruskin:  the Humorist
-
 
 I do not think any one could find any fault with the way in which
 Mr Collingwood has discharged his task in The Life of John Ruskin except,
@@ -4361,9 +4265,7 @@ twenty years did not improve the temper of the prophet.
 But he made what he praised in the old Italian pictures--'an
 opening into eternity'.
 
-
 Literature of Information
-
 
 It is natural and proper enough that the masses of explosive
 ammunition stored up in detective stories, and the replete and
@@ -4552,9 +4454,7 @@ is one of the greatest needs of mankind.  We have all to show
 that before we go on to any visions or creations we can be
 contented with a planet of miracles.
 
-
 Eulogy of Robin Hood
-
 
 The notion that the historic past, and particularly the Middle Ages,
 was a mass of negligible darkness is pretty well gone by this time;
@@ -4690,9 +4590,7 @@ here is the rawest and plainest utterance of primitive England,
 and if there be one truth that runs from one end of it to the other,
 it is `the policy of Majuba'.
 
-
 A Plea for Hasty Journalism
-
 
 My last week's article, which reads worse in print than anything I
 have ever had the misfortune to read, was written under an opulent
@@ -4796,9 +4694,7 @@ To be journalistic is to be daily, to be constantly receiving
 impressions vividly and expressing them with absolute fidelity.
 Give us a frivolous journalism, and we will save England.
 
-
 The Voice of Shelley
-
 
 I have recently been remonstrated with upon two points--first, that I
 called Nero an artist; and second, that I called Shelley a
@@ -4908,9 +4804,7 @@ And with all his many princely virtues I do not think I
 am doing him any injustice if I say that he never tried
 to understand them.
 
-
 The Great Translation
-
 
 The Jacobean translation of the Bible has one real claim to
 be English.  Many of the eulogies about its Protestant purity
@@ -5035,9 +4929,7 @@ less literary brevity, `Surely the people is grass'.
 But in our sterile time we have never guessed how tall
 the grass can grow.
 
-
 Jane Austen's Juvenilia
-
 
 In a recent newspaper controversy about the conventional silliness and
 sameness of all the human generations previous to our own, somebody said
@@ -5246,9 +5138,7 @@ in which she wrote a story as domestic as a diary in the intervals
 of pies and puddings, without so much as looking out of the window
 to notice the French Revolution.
 
-
 The Countrymen of Mary Webb and Thomas Hardy
-
 
 The work of Mary Webb had an aspect distinct from all the debate
 about it merely as a case of something first neglected because it
@@ -5383,9 +5273,7 @@ and that, if there be art critics who care only for art,
 they would do well to keep martyrdom in the world, if only
 by making other people the martyrs.
 
-
 The Words of Strong Poetry
-
 
 The writing of Free Verse is currently compared to talking,
 as in the accepted French phrase about a causerie.
@@ -5509,9 +5397,7 @@ and resistant strength in a sentence, I am content to answer:
 in such a case is not to ask why it should not be done,
 but to do it.
 
-
 The Refrain of the Rover
-
 
 A modern man of genius, Gauguin I think, said that an artist must
 be either a revolutionist or a plagiarist.  He might, in fairness,
@@ -5561,13 +5447,9 @@ The small coincidence is worth noting; because it is well to remember
 that there is a whole literature which is lucky in being quite unconnected
 with literary men.
 
-
-
-
 On Reflection
 
 What is Right With the World
-
 
 The above excellent title is not of my own invention.
 It was suggested to me by the Editor of this paper, and I
@@ -5949,7 +5831,3 @@ But the voices of the saints and sages, recommending contentment,
 should sound unceasingly, like the sea.
 
 T.P's Weekly.
-
-
-
-===== FINE FILE: Wild_Ducks.txt =====

@@ -160,6 +160,3 @@ to deny the existence of a personal Mr. Jones, because he is
 within the scope of evolution and his edges are rubbed away.
 The evolutionists uproot the world, but not the flowers.
 The Titans never scaled heaven, but they laid waste the earth.
-
-
-===== FINE FILE: Roots_of_the_World.txt =====

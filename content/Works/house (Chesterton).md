@@ -84,6 +84,4 @@ And a taller town than Rome.
 To the end of the way of the wandering star,  
 To the things that cannot be and that are,  
 To the place where God was homeless  
-And all men are at home.  
-
-===== FINE FILE: house.txt =====  
+And all men are at home.

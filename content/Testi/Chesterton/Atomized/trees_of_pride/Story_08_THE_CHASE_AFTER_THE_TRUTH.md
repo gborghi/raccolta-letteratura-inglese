@@ -644,13 +644,4 @@ for the last time that day, they saw his rather sinister smile.
 And, turning his back on them, as if automatically, he set his face
 toward the village, where for so many years he had gone his round.
 
-
-
-
-
 End of The Trees of Pride, by G. K. Chesterton
-
-
-
-
-===== FINE FILE: trees_of_pride.txt =====

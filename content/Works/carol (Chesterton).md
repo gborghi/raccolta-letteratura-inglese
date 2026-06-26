@@ -60,10 +60,5 @@ The Christ-child stood at Mary's knee,
 And all the flowers looked up at Him,  
   And all the stars looked down.  
 
-
 (From "The Wild Knight", first published 1900.  
-Also published in "The collected Poems of G.K.Chesterton")  
-
-
-
-===== FINE FILE: carol.txt =====  
+Also published in "The collected Poems of G.K.Chesterton")

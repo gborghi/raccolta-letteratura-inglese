@@ -87,7 +87,6 @@ a masterpiece, since it is a living and recurring element--
 the element of the dark and hysterical soul of early youth.
 It is the epic of the pessimism of boyhood.
 
-
 During the same period he wrote a less-known work called "The Holy City."
 He was released in 1672, but as he refused to abandon his preaching,
 which was now powerful and popular, he was flung back again into
@@ -262,7 +261,3 @@ or religious point of view.  For such people there is, I suppose,
 still waiting untried that inevitable mood of which a man may stand
 amid a fields of flowers in the quiet sunlight and realize that of
 all conceivable things the most dangerous thing is to be alive.
-
-
-
-===== FINE FILE: intro-pilgrims-progress.txt =====

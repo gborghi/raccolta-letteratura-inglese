@@ -16,7 +16,6 @@ tags:
 
 IX AUTHORITY AND THE ADVENTURER
 
-
      The last chapter has been concerned with the contention
 that orthodoxy is not only (as is often urged) the only safe guardian
 of morality or order, but is also the only logical guardian of liberty,
@@ -777,9 +776,4 @@ There was some one thing that was too great for God to show us when
 He walked upon our earth; and I have sometimes fancied that it was His
 mirth.
 
-
 End of the Project Gutenberg Etext of Orthodoxy by G. K. Chesterton
-
-
-
-===== FINE FILE: ortho14.txt =====

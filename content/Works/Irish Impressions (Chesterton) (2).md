@@ -50,7 +50,6 @@ tags:
 - [Story 08 An Example and a Question](/Testi/Chesterton/Atomized/Irish_Impressions/Story_08_An_Example_and_a_Question)
 - [Story 09 Belfast and the Religious Problem](/Testi/Chesterton/Atomized/Irish_Impressions/Story_09_Belfast_and_the_Religious_Problem)
 
-
 ## Testo integrale / Full text
 
 IRISH IMPRESSIONS
@@ -3704,6 +3703,3 @@ like a multitude of moving candles, that were the light of the world.
 ~||~
 
 THE END
-
-
-===== FINE FILE: Irish_Impressions.txt =====

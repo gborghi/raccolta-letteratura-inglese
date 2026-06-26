@@ -34,7 +34,6 @@ tags:
 - [Chapter 02](/Testi/Chesterton/Atomized/Eugenics/Chapter_02)
 - [Chapter 03](/Testi/Chesterton/Atomized/Eugenics/Chapter_03)
 
-
 ## Testo integrale / Full text
 
 Eugenics and Other Evils
@@ -67,7 +66,6 @@ PART TWO:  THE REAL AIM
    IX A Short Chapter
 
 + + +
-
 
 TO THE READER
 
@@ -4447,6 +4445,3 @@ For a time at least they have believed the testimony of their senses.
 And if they do not believe now, neither would they believe though
 one rose from the dead; though all the millions who died to destroy
 Prussianism stood up and testified against it.
-
-
-===== FINE FILE: Eugenics.txt =====

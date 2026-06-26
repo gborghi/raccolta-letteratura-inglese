@@ -22,6 +22,15 @@ function normTitle(s) {
     .toLowerCase()
 }
 
+// Remove NotebookLM / export-tool junk separator lines that can leak into
+// vault files (e.g. "===== FINE FILE: foo.txt =====", "--- FINE ---").
+// These must never appear on the live site.
+function stripJunkSeparators(content) {
+  return content
+    .replace(/^[ \t]*=+[ \t]*(INIZIO|FINE)[ \t]+FILE[ \t]*:.*$/gim, "")
+    .replace(/^[ \t]*-{2,}[ \t]*FINE[ \t]*-{2,}[ \t]*$/gim, "")
+}
+
 // Strip the first body H1 line if it matches the frontmatter title (after
 // typographic normalization). Only the very first non-empty line is checked;
 // if it is not a matching H1, the content is returned unchanged.
@@ -371,10 +380,11 @@ async function publishUnits(rawSourceToWork) {
             `tags:\n  - graph/excerpt\n  - author/${author}\n` +
             `---\n\n`
 
-          // Strip the leading H1 from the body (Quartz renders the frontmatter
-          // title as a page heading automatically; keeping the body H1 produces
-          // a double-title). Then prepend the nav block.
-          let outBody = stripLeadingH1IfMatchesTitle(body, title)
+          // Remove junk separators, strip the leading H1 (Quartz renders the
+          // frontmatter title as a page heading automatically; keeping the body
+          // H1 produces a double-title), then prepend the nav block.
+          let outBody = stripJunkSeparators(body)
+          outBody = stripLeadingH1IfMatchesTitle(outBody, title)
           outBody = nav + outBody
 
           const dest = path.join(CONTENT, TESTI_REL, author, sub, it.relU.split("/").join(path.sep))
@@ -471,6 +481,9 @@ async function main() {
   let written = 0
   for (const { rel, relU, data, content } of parsed) {
     let newContent = transform(content, unitHref)
+    // Remove any NotebookLM/export-tool separator lines that might have leaked
+    // into vault files (belt-and-suspenders guard).
+    newContent = stripJunkSeparators(newContent)
     // Strip the leading H1 when it duplicates the frontmatter title (Quartz
     // renders the title from frontmatter as a page heading automatically, so
     // leaving the body H1 produces a visible double-title).

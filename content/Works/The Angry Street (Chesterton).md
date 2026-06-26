@@ -39,7 +39,6 @@ The Angry Street
 
 by G. K. Chesterton
 
-
 I cannot remember whether this tale is true or not.  If I read
 it through very carefully I have a suspicion that I should come
 to the conclusion that it is not.  But, unfortunately, I cannot read
@@ -232,7 +231,3 @@ Since then I have respected the things called inanimate!"
 
 And bowing slightly to the mustard-pot, the man in
 the restaurant withdrew.
-
-
-
-===== FINE FILE: The_Angry_Street.txt =====

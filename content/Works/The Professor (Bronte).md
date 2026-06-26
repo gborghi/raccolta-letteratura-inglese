@@ -78,162 +78,69 @@ tags:
 - [Chapter 25](/Testi/Bronte/Atomized/The_Professor/Chapter_25)
 - [Chapter 26](/Testi/Bronte/Atomized/The_Professor/Chapter_26)
 
-
 ## Testo integrale / Full text
 
 THE PROFESSOR
 
-
-
 by (AKA Charlotte Bronte) Currer Bell
-
-
-
-
-
-
-
-
-
-
 
 CONTENTS
 
-
-
-
-
-
-
 PREFACE.
-
-
-
-
-
-
 
 T H E   P R O F E S S O R
 
-
-
 CHAPTER I. INTRODUCTORY.
-
-
 
 CHAPTER II.
 
-
-
 CHAPTER III.
-
-
 
 CHAPTER IV.
 
-
-
 CHAPTER V.
-
-
 
 CHAPTER VI.
 
-
-
 CHAPTER VII.
-
-
 
 CHAPTER VIII.
 
-
-
 CHAPTER IX.
-
-
 
 CHAPTER X.
 
-
-
 CHAPTER XI.
-
-
 
 CHAPTER XII.
 
-
-
 CHAPTER XIII.
-
-
 
 CHAPTER XIV.
 
-
-
 CHAPTER XV.
-
-
 
 CHAPTER XVI.
 
-
-
 CHAPTER XVII.
-
-
 
 CHAPTER XVIII.
 
-
-
 CHAPTER XIX.
-
-
 
 CHAPTER XX.
 
-
-
 CHAPTER XXI.
-
-
 
 CHAPTER XXII
 
-
-
 CHAPTER XXIII
-
-
 
 CHAPTER XXIV.
 
-
-
 CHAPTER XXV.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 PREFACE.
-
-
 
 This little book was written before either “Jane Eyre” or “Shirley,”
 
@@ -259,8 +166,6 @@ result of which, when carried out into practice, often procures for an
 
 author more surprise than pleasure.
 
-
-
 I said to myself that my hero should work his way through life as I had
 
 seen real living men work theirs--that he should never get a shilling
@@ -278,8 +183,6 @@ ascent of “the Hill of Difficulty;” that he should not even marry a
 beautiful girl or a lady of rank. As Adam’s son he should share Adam’s
 
 doom, and drain throughout life a mixed and moderate cup of enjoyment.
-
-
 
 In the sequel, however, I find that publishers in general scarcely
 
@@ -303,8 +206,6 @@ for the wild, wonderful, and thrilling--the strange, startling, and
 
 harrowing--agitates divers souls that show a calm and sober surface.
 
-
-
 Such being the case, the reader will comprehend that to have reached
 
 him in the form of a printed book, this brief narrative must have gone
@@ -317,15 +218,9 @@ comfort--subdues fear--leans on the staff of a moderate expectation--and
 
 mutters under its breath, while lifting its eye to that of the public,
 
-
-
 “He that is low need fear no fall.”
 
-
-
 CURRER BELL.
-
-
 
 The foregoing preface was written by my wife with a view to the
 
@@ -341,43 +236,15 @@ to me that I ought not to withhold “The Professor” from the public. I
 
 have therefore consented to its publication.
 
-
-
 A. B. NICHOLLS
-
-
 
 Haworth Parsonage,
 
-
-
 September 22nd, 1856.
-
-
-
-
-
-
-
-
-
-
-
-
 
 T H E    P R O F E S S O R
 
-
-
-
-
-
-
-
-
 CHAPTER I. INTRODUCTORY.
-
-
 
 THE other day, in looking over my papers, I found in my desk the
 
@@ -385,11 +252,7 @@ following copy of a letter, sent by me a year since to an old school
 
 acquaintance:--
 
-
-
 “DEAR CHARLES,
-
-
 
 “I think when you and I were at Eton together, we were neither of
 
@@ -419,8 +282,6 @@ inanimate nature, your sardonic coldness did not move me. I felt myself
 
 superior to that check THEN as I do NOW.
 
-
-
 “It is a long time since I wrote to you, and a still longer time since
 
 I saw you. Chancing to take up a newspaper of your county the other day,
@@ -432,8 +293,6 @@ the events which have transpired since we separated; and I sat down
 and commenced this letter. What you have been doing I know not; but you
 
 shall hear, if you choose to listen, how the world has wagged with me.
-
-
 
 “First, after leaving Eton, I had an interview with my maternal uncles,
 
@@ -448,8 +307,6 @@ hinted that when I became rector of Seacombe-cum-Scaife, I might perhaps
 be allowed to take, as mistress of my house and head of my parish, one
 
 of my six cousins, his daughters, all of whom I greatly dislike.
-
-
 
 “I declined both the Church and matrimony. A good clergyman is a good
 
@@ -468,8 +325,6 @@ Seacombe Rectory alone with one of them--for instance, the large and
 well-modelled statue, Sarah--no; I should be a bad husband, under such
 
 circumstances, as well as a bad clergyman.
-
-
 
 “When I had declined my uncles’ offers they asked me ‘what I intended
 
@@ -507,8 +362,6 @@ reception of another burden--one which might be more intolerable, and
 
 which certainly was yet untried.
 
-
-
 “I wrote instantly to Edward--you know Edward--my only brother, ten
 
 years my senior, married to a rich mill-owner’s daughter, and now
@@ -530,8 +383,6 @@ she brought me into the world, and then herself left it without, I
 should think, much regret, as it contained little hope or comfort for
 
 her.
-
-
 
 “My father’s relations took charge of Edward, as they did of me, till I
 
@@ -593,8 +444,6 @@ these feelings I was influenced when I refused the Rectory of Seacombe,
 
 and the union with one of my patrician cousins.
 
-
-
 “An irreparable breach thus being effected between my uncles and myself,
 
 I wrote to Edward; told him what had occurred, and informed him of my
@@ -611,8 +460,6 @@ I repressed all--even mental comment on his note--packed my trunk and
 
 carpet-bag, and started for the North directly.
 
-
-
 “After two days’ travelling (railroads were not then in existence) I
 
 arrived, one wet October afternoon, in the town of X----. I had always
@@ -624,8 +471,6 @@ it was only Mr. Crimsworth’s mill and warehouse which were situated in
 the smoky atmosphere of Bigben Close; his RESIDENCE lay four miles out,
 
 in the country.
-
-
 
 “It was late in the evening when I alighted at the gates of the
 
@@ -640,8 +485,6 @@ grounds surrounding it sufficiently spacious. I paused a moment on the
 lawn in front, and leaning my back against a tall tree which rose in the
 
 centre, I gazed with interest on the exterior of Crimsworth Hall.
-
-
 
 “Edward is rich,” thought I to myself. ‘I believed him to be doing
 
@@ -660,8 +503,6 @@ burning on the table; he informed me that his master was not yet
 returned from X----market, but that he would certainly be at home in the
 
 course of half an hour.
-
-
 
 “Being left to myself, I took the stuffed easy chair, covered with red
 
@@ -691,8 +532,6 @@ clenched itself to repress the tremor with which impatience would fain
 
 have shaken it.
 
-
-
 “I thought of my uncles; and as I was engaged in wondering whether
 
 Edward’s indifference would equal the cold disdain I had always
@@ -706,8 +545,6 @@ minutes, and a brief dialogue between himself and his servant in the
 hall, his tread drew near the library door--that tread alone announced
 
 the master of the house.
-
-
 
 “I still retained some confused recollection of Edward as he was ten
 
@@ -727,8 +564,6 @@ of shaking hands, scanned me from head to foot; he took his seat in the
 
 morocco covered arm-chair, and motioned me to another seat.
 
-
-
 “‘I expected you would have called at the counting-house in the Close,’
 
 said he; and his voice, I noticed, had an abrupt accent, probably
@@ -739,15 +574,11 @@ sounded harsh in my ears, accustomed to the silvery utterance of the
 
 South.
 
-
-
 “‘The landlord of the inn, where the coach stopped, directed me here,’
 
 said I. ‘I doubted at first the accuracy of his information, not being
 
 aware that you had such a residence as this.’
-
-
 
 “‘Oh, it is all right!’ he replied, ‘only I was kept half an hour behind
 
@@ -755,15 +586,11 @@ time, waiting for you--that is all. I thought you must be coming by the
 
 eight o’clock coach.’
 
-
-
 “I expressed regret that he had had to wait; he made no answer, but
 
 stirred the fire, as if to cover a movement of impatience; then he
 
 scanned me again.
-
-
 
 “I felt an inward satisfaction that I had not, in the first moment of
 
@@ -771,19 +598,13 @@ meeting, betrayed any warmth, any enthusiasm; that I had saluted this
 
 man with a quiet and steady phlegm.
 
-
-
 “‘Have you quite broken with Tynedale and Seacombe?’ he asked hastily.
-
-
 
 “‘I do not think I shall have any further communication with them; my
 
 refusal of their proposals will, I fancy, operate as a barrier against
 
 all future intercourse.’
-
-
 
 “‘Why,’ said he, ‘I may as well remind you at the very outset of our
 
@@ -794,8 +615,6 @@ Tynedale will be incompatible with assistance from me.’ There was a kind
 of gratuitous menace in his eye as he looked at me in finishing this
 
 observation.
-
-
 
 “Feeling no disposition to reply to him, I contented myself with an
 
@@ -809,15 +628,11 @@ evidence of my being cowed by his peremptory manner. After a long and
 
 hard stare at me, he rose sharply from his seat.
 
-
-
 “‘To-morrow,’ said he, ‘I shall call your attention to some other
 
 points; but now it is supper time, and Mrs. Crimsworth is probably
 
 waiting; will you come?’
-
-
 
 “He strode from the room, and I followed. In crossing the hall, I
 
@@ -832,8 +647,6 @@ these? Shall I, in conversing with her, feel free to show something of
 my real nature; or--’ Further conjectures were arrested by my entrance
 
 into the dining-room.
-
-
 
 “A lamp, burning under a shade of ground-glass, showed a handsome
 
@@ -875,15 +688,11 @@ pretended to be vexed, that he had that day driven a vicious horse in
 
 the gig, and he made light of her fears. Sometimes she appealed to me.
 
-
-
 “‘Now, Mr. William, isn’t it absurd in Edward to talk so? He says he
 
 will drive Jack, and no other horse, and the brute has thrown him twice
 
 already.
-
-
 
 “She spoke with a kind of lisp, not disagreeable, but childish. I
 
@@ -915,8 +724,6 @@ of disaster, when a man’s hearth and home would be cold indeed, without
 
 the clear, cheering gleam of intellect.
 
-
-
 “Having perused the fair page of Mrs. Crimsworth’s face, a deep,
 
 involuntary sigh announced my disappointment; she took it as a homage to
@@ -924,8 +731,6 @@ involuntary sigh announced my disappointment; she took it as a homage to
 her beauty, and Edward, who was evidently proud of his rich and handsome
 
 young wife, threw on me a glance--half ridicule, half ire.
-
-
 
 “I turned from them both, and gazing wearily round the room, I saw two
 
@@ -949,8 +754,6 @@ picture being the only heir-looms saved out of the sale of my father’s
 
 property.
 
-
-
 “The face, I remembered, had pleased me as a boy, but then I did not
 
 understand it; now I knew how rare that class of face is in the world,
@@ -963,23 +766,15 @@ in the features indicative of most true and tender feeling. I was sorry
 
 it was only a picture.
 
-
-
 “I soon left Mr. and Mrs. Crimsworth to themselves; a servant
 
 conducted me to my bed-room; in closing my chamber-door, I shut out all
 
 intruders--you, Charles, as well as the rest.
 
-
-
 “Good-bye for the present,
 
-
-
 “WILLIAM CRIMSWORTH.”
-
-
 
 To this letter I never got an answer; before my old friend received it,
 
@@ -988,8 +783,6 @@ he had accepted a Government appointment in one of the colonies, and was
 already on his way to the scene of his official labours. What has become
 
 of him since, I know not.
-
-
 
 The leisure time I have at command, and which I intended to employ
 
@@ -1005,21 +798,7 @@ of their own. The above letter will serve as an introduction. I now
 
 proceed.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER II.
-
-
 
 A FINE October morning succeeded to the foggy evening that had witnessed
 
@@ -1053,8 +832,6 @@ A dense, permanent vapour brooded over this locality--there lay Edward’s
 
 “Concern.”
 
-
-
 I forced my eye to scrutinize this prospect, I forced my mind to dwell
 
 on it for a time, and when I found that it communicated no pleasurable
@@ -1072,8 +849,6 @@ be a tradesman. Look!” I continued mentally--“Look at the sooty smoke in
 that hollow, and know that there is your post! There you cannot dream,
 
 you cannot speculate and theorize--there you shall out and work!”
-
-
 
 Thus self-schooled, I returned to the house. My brother was in the
 
@@ -1117,8 +892,6 @@ stern, forbidding manner told me he would not spare. Had I then force of
 
 mind to cope with him? I did not know; I had never been tried.
 
-
-
 Mrs. Crimsworth’s entrance diverted my thoughts for a moment. She looked
 
 well, dressed in white, her face and her attire shining in morning
@@ -1130,8 +903,6 @@ night’s careless gaiety seemed to warrant, but she replied with coolness
 and restraint: her husband had tutored her; she was not to be too
 
 familiar with his clerk.
-
-
 
 As soon as breakfast was over Mr. Crimsworth intimated to me that they
 
@@ -1156,8 +927,6 @@ triumph in the result of the contest; he scarcely spoke to me during the
 whole of the brief drive, only opening his lips at intervals to damn his
 
 horse.
-
-
 
 X---- was all stir and bustle when we entered it; we left the clean
 
@@ -1193,19 +962,13 @@ Mr. Crimsworth entered, and in an instant was again absorbed in his
 
 occupation of writing or calculating--I know not which.
 
-
-
 Mr. Crimsworth, having removed his mackintosh, sat down by the fire. I
 
 remained standing near the hearth; he said presently--
 
-
-
 “Steighton, you may leave the room; I have some business to transact
 
 with this gentleman. Come back when you hear the bell.”
-
-
 
 The individual at the desk rose and departed, closing the door as he
 
@@ -1219,27 +982,15 @@ he was! Whence, then, came that air of contraction--that narrow and hard
 
 aspect on his forehead, in all his lineaments?
 
-
-
 Turning to me he began abruptly:
-
-
 
 “You are come down to ----shire to learn to be a tradesman?”
 
-
-
 “Yes, I am.”
-
-
 
 “Have you made up your mind on the point? Let me know that at once.”
 
-
-
 “Yes.”
-
-
 
 “Well, I am not bound to help you, but I have a place here vacant, if
 
@@ -1249,35 +1000,21 @@ you know anything besides that useless trash of college learning--Greek,
 
 Latin, and so forth?”
 
-
-
 “I have studied mathematics.”
-
-
 
 “Stuff! I dare say you have.”
 
-
-
 “I can read and write French and German.”
-
-
 
 “Hum!” He reflected a moment, then opening a drawer in a desk near him
 
 took out a letter, and gave it to me.
 
-
-
 “Can you read that?” he asked.
-
-
 
 It was a German commercial letter; I translated it; I could not tell
 
 whether he was gratified or not--his countenance remained fixed.
-
-
 
 “It is well,” he said, after a pause, “that you are acquainted with
 
@@ -1309,8 +1046,6 @@ establishment--business-like habits, feelings, and ideas, suit me best.
 
 Do you understand?”
 
-
-
 “Partly,” I replied. “I suppose you mean that I am to do my work for my
 
 wages; not to expect favour from you, and not to depend on you for any
@@ -1319,15 +1054,11 @@ help but what I earn; that suits me exactly, and on these terms I will
 
 consent to be your clerk.”
 
-
-
 I turned on my heel, and walked to the window; this time I did not
 
 consult his face to learn his opinion: what it was I do not know, nor
 
 did I then care. After a silence of some minutes he recommenced:--
-
-
 
 “You perhaps expect to be accommodated with apartments at Crimsworth
 
@@ -1341,17 +1072,11 @@ business reasons I may wish to take down to the hall for a night or so.
 
 You will seek out lodgings in X----.”
 
-
-
 Quitting the window, I walked back to the hearth.
-
-
 
 “Of course I shall seek out lodgings in X----,” I answered. “It would
 
 not suit me either to lodge at Crimsworth Hall.”
-
-
 
 My tone was quiet. I always speak quietly. Yet Mr. Crimsworth’s blue eye
 
@@ -1359,25 +1084,15 @@ became incensed; he took his revenge rather oddly. Turning to me he said
 
 bluntly--
 
-
-
 “You are poor enough, I suppose; how do you expect to live till your
 
 quarter’s salary becomes due?”
 
-
-
 “I shall get on,” said I.
-
-
 
 “How do you expect to live?” he repeated in a louder voice.
 
-
-
 “As I can, Mr. Crimsworth.”
-
-
 
 “Get into debt at your peril! that’s all,” he answered. “For aught I
 
@@ -1387,11 +1102,7 @@ them; I tolerate nothing of the sort here, and I will never give you a
 
 shilling extra, whatever liabilities you may incur--mind that.”
 
-
-
 “Yes, Mr. Crimsworth, you will find I have a good memory.”
-
-
 
 I said no more. I did not think the time was come for much parley. I
 
@@ -1425,15 +1136,11 @@ first clerk, the individual dismissed previously to our conference,
 
 re-entered.
 
-
-
 “Mr. Steighton,” said he, “show Mr. William the letters from Voss,
 
 Brothers, and give him English copies of the answers; he will translate
 
 them.”
-
-
 
 Mr. Steighton, a man of about thirty-five, with a face at once sly and
 
@@ -1471,21 +1178,7 @@ of the fireplace; having glanced at my translations--he could read both
 
 French and German--he went out again in silence.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER III.
-
-
 
 I SERVED Edward as his second clerk faithfully, punctually, diligently.
 
@@ -1563,8 +1256,6 @@ on a statue, but he did not throw away the shafts--he only kept them
 
 quiet in his quiver.
 
-
-
 Once during my clerkship I had an invitation to Crimsworth Hall; it
 
 was on the occasion of a large party given in honour of the master’s
@@ -1598,8 +1289,6 @@ a group of very pretty girls, with whom he conversed gaily--Mr.
 Crimsworth, thus placed, glanced at me; I looked weary, solitary, kept
 
 down like some desolate tutor or governess; he was satisfied.
-
-
 
 Dancing began; I should have liked well enough to be introduced to some
 
@@ -1641,11 +1330,7 @@ interesting, would strike an impartial spectator, when a voice close
 
 behind me pronounced the words--
 
-
-
 “Humph! there’s some sense in that face.”
-
-
 
 I turned; at my elbow stood a tall man, young, though probably five or
 
@@ -1667,8 +1352,6 @@ and general in character (the last excepted), sufficed, for they enabled
 
 me to recognize him.
 
-
-
 “Good evening, Mr. Hunsden,” muttered I with a bow, and then, like a
 
 shy noodle as I was, I began moving away--and why? Simply because Mr.
@@ -1689,15 +1372,11 @@ that he could only regard me as a poor-spirited slave, wherefore I now
 
 went about to shun his presence and eschew his conversation.
 
-
-
 “Where are you going?” asked he, as I edged off sideways. I had already
 
 noticed that Mr. Hunsden indulged in abrupt forms of speech, and I
 
 perversely said to myself--
-
-
 
 “He thinks he may speak as he likes to a poor clerk; but my mood is not,
 
@@ -1705,19 +1384,13 @@ perhaps, so supple as he deems it, and his rough freedom pleases me not
 
 at all.”
 
-
-
 I made some slight reply, rather indifferent than courteous, and
 
 continued to move away. He coolly planted himself in my path.
 
-
-
 “Stay here awhile,” said he: “it is so hot in the dancing-room; besides,
 
 you don’t dance; you have not had a partner to-night.”
-
-
 
 He was right, and as he spoke neither his look, tone, nor manner
 
@@ -1731,15 +1404,9 @@ of temporary amusement. I hate to be condescended to, but I like well
 
 enough to oblige; I stayed.
 
-
-
 “That is a good picture,” he continued, recurring to the portrait.
 
-
-
 “Do you consider the face pretty?” I asked.
-
-
 
 “Pretty! no--how can it be pretty, with sunk eyes and hollow cheeks?
 
@@ -1749,11 +1416,7 @@ woman, if she were alive, on other subjects than dress, visiting, and
 
 compliments.”
 
-
-
 I agreed with him, but did not say so. He went on.
-
-
 
 “Not that I admire a head of that sort; it wants character and force;
 
@@ -1763,13 +1426,9 @@ his lip at the same time) in that mouth; besides, there is Aristocrat
 
 written on the brow and defined in the figure; I hate your aristocrats.”
 
-
-
 “You think, then, Mr. Hunsden, that patrician descent may be read in a
 
 distinctive cast of form and features?”
-
-
 
 “Patrician descent be hanged! Who doubts that your lordlings may have
 
@@ -1787,13 +1446,9 @@ Yet even this superiority is doubtful. Compare the figure in that frame
 
 with Mrs. Edward Crimsworth--which is the finer animal?”
 
-
-
 I replied quietly: “Compare yourself and Mr. Edward Crimsworth, Mr
 
 Hunsden.”
-
-
 
 “Oh, Crimsworth is better filled up than I am, I know besides he has a
 
@@ -1811,15 +1466,11 @@ the aristocrat of your family, and you are not as fine a fellow as your
 
 plebeian brother by long chalk.”
 
-
-
 There was something in Mr. Hunsden’s point-blank mode of speech which
 
 rather pleased me than otherwise because it set me at my ease. I
 
 continued the conversation with a degree of interest.
-
-
 
 “How do you happen to know that I am Mr. Crimsworth’s brother? I thought
 
@@ -1827,13 +1478,9 @@ you and everybody else looked upon me only in the light of a poor
 
 clerk.”
 
-
-
 “Well, and so we do; and what are you but a poor clerk? You do
 
 Crimsworth’s work, and he gives you wages--shabby wages they are, too.”
-
-
 
 I was silent. Hunsden’s language now bordered on the impertinent, still
 
@@ -1841,45 +1488,27 @@ his manner did not offend me in the least--it only piqued my curiosity;
 
 I wanted him to go on, which he did in a little while.
 
-
-
 “This world is an absurd one,” said he.
 
-
-
 “Why so, Mr. Hunsden?”
-
-
 
 “I wonder you should ask: you are yourself a strong proof of the
 
 absurdity I allude to.”
 
-
-
 I was determined he should explain himself of his own accord, without my
 
 pressing him so to do--so I resumed my silence.
 
-
-
 “Is it your intention to become a tradesman?” he inquired presently.
 
-
-
 “It was my serious intention three months ago.”
-
-
 
 “Humph! the more fool you--you look like a tradesman! What a practical
 
 business-like face you have!”
 
-
-
 “My face is as the Lord made it, Mr. Hunsden.”
-
-
 
 “The Lord never made either your face or head for X---- What good can
 
@@ -1889,11 +1518,7 @@ do you here? But if you like Bigben Close, stay there; it’s your own
 
 affair, not mine.”
 
-
-
 “Perhaps I have no choice.”
-
-
 
 “Well, I care nought about it--it will make little difference to me what
 
@@ -1904,8 +1529,6 @@ I see such a fine girl sitting in the corner of the sofa there by
 her mamma; see if I don’t get her for a partner in a jiffy! There’s
 
 Waddy--Sam Waddy making up to her; won’t I cut him out?”
-
-
 
 And Mr. Hunsden strode away. I watched him through the open
 
@@ -1987,21 +1610,7 @@ his social position, his future prospects or his mental attainments--I
 
 know not which; perhaps after all it might only be a bilious caprice.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER IV.
-
-
 
 No man likes to acknowledge that he has made a mistake in the choice of
 
@@ -2051,8 +1660,6 @@ sunshine of life; and I began to feel like a plant growing in humid
 
 darkness out of the slimy walls of a well.
 
-
-
 Antipathy is the only word which can express the feeling Edward
 
 Crimsworth had for me--a feeling, in a great measure, involuntary, and
@@ -2087,8 +1694,6 @@ watch my tact, hoping it would sleep, and prepared to steal snake-like
 
 on its slumber; but tact, if it be genuine, never sleeps.
 
-
-
 I had received my first quarter’s wages, and was returning to my
 
 lodgings, possessed heart and soul with the pleasant feeling that
@@ -2115,15 +1720,11 @@ out; looking towards the window of my sitting-room, I saw no cheering
 
 red gleam.
 
-
-
 “That slut of a servant has neglected it as usual,” said I, “and I shall
 
 see nothing but pale ashes if I go in; it is a fine starlight night--I
 
 will walk a little farther.”
-
-
 
 It WAS a fine night, and the streets were dry and even clean for X----;
 
@@ -2132,8 +1733,6 @@ there was a crescent curve of moonlight to be seen by the parish church
 tower, and hundreds of stars shone keenly bright in all quarters of the
 
 sky.
-
-
 
 Unconsciously I steered my course towards the country; I had got into
 
@@ -2145,21 +1744,15 @@ gate of one of the small gardens which front the neat dwelling-houses in
 
 this street, addressed me as I was hurrying with quick stride past.
 
-
-
 “What the deuce is the hurry? Just so must Lot have left Sodom, when he
 
 expected fire to pour down upon it, out of burning brass clouds.”
-
-
 
 I stopped short, and looked towards the speaker. I smelt the fragrance,
 
 and saw the red spark of a cigar; the dusk outline of a man, too, bent
 
 towards me over the wicket.
-
-
 
 “You see I am meditating in the field at eventide,” continued this
 
@@ -2173,33 +1766,21 @@ voice was familiar to me--its second utterance enabled me to seize the
 
 speaker’s identity.
 
-
-
 “Mr. Hunsden! good evening.”
-
-
 
 “Good evening, indeed! yes, but you would have passed me without
 
 recognition if I had not been so civil as to speak first.”
 
-
-
 “I did not know you.”
-
-
 
 “A famous excuse! You ought to have known me; I knew you, though you
 
 were going ahead like a steam-engine. Are the police after you?”
 
-
-
 “It wouldn’t be worth their while; I’m not of consequence enough to
 
 attract them.”
-
-
 
 “Alas, poor shepherd! Alack and well-a-day! What a theme for regret, and
 
@@ -2209,11 +1790,7 @@ But since you’re not running from the police, from whom are you running?
 
 the devil?”
 
-
-
 “On the contrary, I am going post to him.”
-
-
 
 “That is well--you’re just in luck: this is Tuesday evening; there are
 
@@ -2229,23 +1806,15 @@ to-night, he’ll have so many customers to serve; Tuesday is his busy day
 
 in X---- and Dinneford; come in at all events.”
 
-
-
 He swung the wicket open as he spoke.
 
-
-
 “Do you really wish me to go in?” I asked.
-
-
 
 “As you please--I’m alone; your company for an hour or two would be
 
 agreeable to me; but, if you don’t choose to favour me so far, I’ll not
 
 press the point. I hate to bore any one.”
-
-
 
 It suited me to accept the invitation as it suited Hunsden to give it.
 
@@ -2256,8 +1825,6 @@ opened; thence we traversed a passage, and entered his parlour; the door
 being shut, he pointed me to an arm-chair by the hearth; I sat down, and
 
 glanced round me.
-
-
 
 It was a comfortable room, at once snug and handsome; the bright grate
 
@@ -2293,8 +1860,6 @@ were works on Political Economy. I examined no further, for Mr. Hunsden
 
 himself recalled my attention.
 
-
-
 “You shall have something,” said he, “for you ought to feel disposed for
 
 refreshment after walking nobody knows how far on such a Canadian night
@@ -2307,8 +1872,6 @@ Rhein-wein for my own drinking, and you may choose between that and
 
 coffee.”
 
-
-
 Here again Hunsden suited me: if there was one generally received
 
 practice I abhorred more than another, it was the habitual imbibing of
@@ -2317,11 +1880,7 @@ spirits and strong wines. I had, however, no fancy for his acid German
 
 nectar, but I liked coffee, so I responded--
 
-
-
 “Give me some coffee, Mr. Hunsden.”
-
-
 
 I perceived my answer pleased him; he had doubtless expected to see a
 
@@ -2401,11 +1960,7 @@ the two semblances were blent, and a queer, composite countenance they
 
 made.
 
-
-
 Starting from his silent fit, he began:--
-
-
 
 “William! what a fool you are to live in those dismal lodgings of Mrs.
 
@@ -2413,11 +1968,7 @@ King’s, when you might take rooms here in Grove Street, and have a
 
 garden like me!”
 
-
-
 “I should be too far from the mill.”
-
-
 
 “What of that? It would do you good to walk there and back two or three
 
@@ -2425,11 +1976,7 @@ times a day; besides, are you such a fossil that you never wish to see a
 
 flower or a green leaf?”
 
-
-
 “I am no fossil.”
-
-
 
 “What are you then? You sit at that desk in Crimsworth’s counting-house
 
@@ -2443,11 +1990,7 @@ no excess of an evening; you neither keep wild company, nor indulge in
 
 strong drink.”
 
-
-
 “Do you, Mr. Hunsden?”
-
-
 
 “Don’t think to pose me with short questions; your case and mine
 
@@ -2457,11 +2000,7 @@ parallel. I say, that when a man endures patiently what ought to be
 
 unendurable, he is a fossil.”
 
-
-
 “Whence do you acquire the knowledge of my patience?”
-
-
 
 “Why, man, do you suppose you are a mystery? The other night you seemed
 
@@ -2485,11 +2024,7 @@ place nor partner, but hovered about like a poor, shabby hanger-on; and
 
 how patient you were under each and all of these circumstances!”
 
-
-
 “Well, Mr. Hunsden, what then?”
-
-
 
 “I can hardly tell you what then; the conclusion to be drawn as to
 
@@ -2512,8 +2047,6 @@ phlegmatic, flat, inexcitable, and that you cannot get up to the pitch
 of resistance, why, God made you to be crushed; and lie down by all
 
 means, and lie flat, and let Juggernaut ride well over you.”
-
-
 
 Mr. Hunsden’s eloquence was not, it will be perceived, of the smooth and
 
@@ -2547,11 +2080,7 @@ incorrect and offensive surmises, his bitter and haughty taunts; and
 
 himself was chafed by a laugh, scarce louder than a whisper.
 
-
-
 His brow darkened, his thin nostril dilated a little.
-
-
 
 “Yes,” he began, “I told you that you were an aristocrat, and who but
 
@@ -2583,8 +2112,6 @@ with practical men, with whom you cannot cope, for YOU’LL NEVER BE A
 
 TRADESMAN.”
 
-
-
 The first part of Hunsden’s speech moved me not at all, or, if it did,
 
 it was only to wonder at the perversion into which prejudice had twisted
@@ -2595,11 +2122,7 @@ moved, but shook me; the blow it gave was a severe one, because Truth
 
 wielded the weapon. If I smiled now, it, was only in disdain of myself.
 
-
-
 Hunsden saw his advantage; he followed it up.
-
-
 
 “You’ll make nothing by trade,” continued he; “nothing more than the
 
@@ -2609,13 +2132,9 @@ your only chance of getting a competency lies in marrying a rich widow,
 
 or running away with an heiress.”
 
-
-
 “I leave such shifts to be put in practice by those who devise them,”
 
  said I, rising.
-
-
 
 “And even that is hopeless,” he went on coolly. “What widow would have
 
@@ -2629,8 +2148,6 @@ refinement to market, and tell me in a private note what price is bid
 
 for them.”
 
-
-
 Mr. Hunsden had taken his tone for the night; the string he struck was
 
 out of tune, he would finger no other. Averse to discord, of which I had
@@ -2638,8 +2155,6 @@ out of tune, he would finger no other. Averse to discord, of which I had
 enough every day and all day long, I concluded, at last, that silence
 
 and solitude were preferable to jarring converse; I bade him good-night.
-
-
 
 “What! Are you going, lad? Well, good-night: you’ll find the door.” And
 
@@ -2667,21 +2182,7 @@ got no sleep; my head burned, my feet froze; at last the factory bells
 
 rang, and I sprang from my bed with other slaves.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER V.
-
-
 
 THERE is a climax to everything, to every state of feeling as well as to
 
@@ -2706,8 +2207,6 @@ still numb; I could not write till they had regained vitality, so I
 went on thinking, and still the theme of my thoughts was the “climax.”
 
  Self-dissatisfaction troubled exceedingly the current of my meditations.
-
-
 
 “Come, William Crimsworth,” said my conscience, or whatever it is that
 
@@ -2765,8 +2264,6 @@ never be made perfect. Eight o’clock strikes! your hands are thawed, get
 
 to work!”
 
-
-
 “Work? why should I work?” said I sullenly: “I cannot please though I
 
 toil like a slave.” “Work, work!” reiterated the inward voice. “I may
@@ -2778,8 +2275,6 @@ packet of letters and commenced my task--task thankless and bitter as
 that of the Israelite crawling over the sun-baked fields of Egypt in
 
 search of straw and stubble wherewith to accomplish his tale of bricks.
-
-
 
 About ten o’clock I heard Mr. Crimsworth’s gig turn into the yard, and
 
@@ -2797,8 +2292,6 @@ eye, instead of being cold, was fierce. He studied me a minute or two
 
 longer than usual, but went out in silence.
 
-
-
 Twelve o’clock arrived; the bell rang for a suspension of labour; the
 
 workpeople went off to their dinners; Steighton, too, departed, desiring
@@ -2811,13 +2304,9 @@ preparatory to closing my desk, when Crimsworth reappeared at the door,
 
 and entering closed it behind him.
 
-
-
 “You’ll stay here a minute,” said he, in a deep, brutal voice, while his
 
 nostrils distended and his eye shot a spark of sinister fire.
-
-
 
 Alone with Edward I remembered our relationship, and remembering that
 
@@ -2825,21 +2314,13 @@ forgot the difference of position; I put away deference and careful
 
 forms of speech; I answered with simple brevity.
 
-
-
 “It is time to go home,” I said, turning the key in my desk.
-
-
 
 “You’ll stay here!” he reiterated. “And take your hand off that key!
 
 leave it in the lock!”
 
-
-
 “Why?” asked I. “What cause is there for changing my usual plans?”
-
-
 
 “Do as I order,” was the answer, “and no questions! You are my servant,
 
@@ -2849,21 +2330,13 @@ breath, when an abrupt pause announced that rage had for the moment got
 
 the better of articulation.
 
-
-
 “You may look, if you wish to know,” I replied. “There is the open desk,
 
 there are the papers.”
 
-
-
 “Confound your insolence! What have you been about?”
 
-
-
 “Your work, and have done it well.”
-
-
 
 “Hypocrite and twaddler! Smooth-faced, snivelling greasehorn!” (This
 
@@ -2873,8 +2346,6 @@ black, rancid whale-oil, usually to be seen suspended to cart-wheels,
 
 and employed for greasing the same.)
 
-
-
 “Come, Edward Crimsworth, enough of this. It is time you and I wound up
 
 accounts. I have now given your service three months’ trial, and I find
@@ -2883,13 +2354,9 @@ it the most nauseous slavery under the sun. Seek another clerk. I stay
 
 no longer.”
 
-
-
 “What! do you dare to give me notice? Stop at least for your wages.” He
 
 took down the heavy gig whip hanging beside his mackintosh.
-
-
 
 I permitted myself to laugh with a degree of scorn I took no pains to
 
@@ -2899,19 +2366,13 @@ vulgar, impious oaths, without, however, venturing to lift the whip, he
 
 continued:
 
-
-
 “I’ve found you out and know you thoroughly, you mean, whining
 
 lickspittle! What have you been saying all over X---- about me? answer
 
 me that!”
 
-
-
 “You? I have neither inclination nor temptation to talk about you.”
-
-
 
 “You lie! It is your practice to talk about me; it is your constant
 
@@ -2925,8 +2386,6 @@ minute, and never stir from the spot till I’d cut every strip of flesh
 
 from your bones with this whip.”
 
-
-
 He flourished his tool. The end of the lash just touched my forehead.
 
 A warm excited thrill ran through my veins, my blood seemed to give a
@@ -2935,15 +2394,9 @@ bound, and then raced fast and hot along its channels. I got up nimbly,
 
 came round to where he stood, and faced him.
 
-
-
 “Down with your whip!” said I, “and explain this instant what you mean.”
 
-
-
 “Sirrah! to whom are you speaking?”
-
-
 
 “To you. There is no one else present, I think. You say I have been
 
@@ -2951,13 +2404,9 @@ calumniating you--complaining of your low wages and bad treatment. Give
 
 your grounds for these assertions.”
 
-
-
 Crimsworth had no dignity, and when I sternly demanded an explanation,
 
 he gave one in a loud, scolding voice.
-
-
 
 “Grounds! you shall have them; and turn to the light that I may see your
 
@@ -2983,8 +2432,6 @@ in close conversation with Hunsden at my house a month ago, and I know
 
 that you were at Hunsden’s rooms last night. Deny it if you dare.”
 
-
-
 “Oh, I shall not deny it! And if Hunsden hounded on the people to hiss
 
 you, he did quite right. You deserve popular execration; for a worse
@@ -2993,13 +2440,9 @@ man, a harder master, a more brutal brother than you are has seldom
 
 existed.”
 
-
-
 “Sirrah! sirrah!” reiterated Crimsworth; and to complete his apostrophe,
 
 he cracked the whip straight over my head.
-
-
 
 A minute sufficed to wrest it from him, break it in two pieces, and
 
@@ -3007,11 +2450,7 @@ throw it under the grate. He made a headlong rush at me, which I evaded,
 
 and said--
 
-
-
 “Touch me, and I’ll have you up before the nearest magistrate.”
-
-
 
 Men like Crimsworth, if firmly and calmly resisted, always abate
 
@@ -3029,8 +2468,6 @@ and more dignified mode of revenge than the somewhat hazardous one of
 
 personal chastisement.
 
-
-
 “Take your hat,” said he. “Take what belongs to you, and go out at
 
 that door; get away to your parish, you pauper: beg, steal, starve, get
@@ -3041,8 +2478,6 @@ my sight! If ever I hear of your setting foot on an inch of ground
 
 belonging to me, I’ll hire a man to cane you.”
 
-
-
 “It is not likely you’ll have the chance; once off your premises, what
 
 temptation can I have to return to them? I leave a prison, I leave a
@@ -3051,11 +2486,7 @@ tyrant; I leave what is worse than the worst that can lie before me, so
 
 no fear of my coming back.”
 
-
-
 “Go, or I’ll make you!” exclaimed Crimsworth.
-
-
 
 I walked deliberately to my desk, took out such of its contents as were
 
@@ -3063,23 +2494,17 @@ my own property, put them in my pocket, locked the desk, and placed the
 
 key on the top.
 
-
-
 “What are you abstracting from that desk?” demanded the millowner.
 
 “Leave all behind in its place, or I’ll send for a policeman to search
 
 you.”
 
-
-
 “Look sharp about it, then,” said I, and I took down my hat, drew on my
 
 gloves, and walked leisurely out of the counting-house--walked out of it
 
 to enter it no more.
-
-
 
 I recollect that when the mill-bell rang the dinner hour, before Mr.
 
@@ -3153,21 +2578,7 @@ eye and feeling satisfied, I quitted the wall and once more turned my
 
 face towards X----.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER VI.
-
-
 
 I RE-ENTERED the town a hungry man; the dinner I had forgotten recurred
 
@@ -3215,17 +2626,11 @@ explain, he might, but the explanation should be a perfectly voluntary
 
 one on his part; I thought he was entering upon it.
 
-
-
 “You owe me a debt of gratitude,” were his first words.
-
-
 
 “Do I?” said I; “I hope it is not a large one, for I am much too poor to
 
 charge myself with heavy liabilities of any kind.”
-
-
 
 “Then declare yourself bankrupt at once, for this liability is a ton
 
@@ -3235,23 +2640,15 @@ again, and made that sulky drab of a servant stay and blow at it with
 
 the bellows till it had burnt up properly; now, say ‘Thank you!’”
 
-
-
 “Not till I have had something to eat; I can thank nobody while I am so
 
 famished.”
 
-
-
 I rang the bell and ordered tea and some cold meat.
-
-
 
 “Cold meat!” exclaimed Hunsden, as the servant closed the door, “what a
 
 glutton you are; man! Meat with tea! you’ll die of eating too much.”
-
-
 
 “No, Mr. Hunsden, I shall not.” I felt a necessity for contradicting
 
@@ -3259,11 +2656,7 @@ him; I was irritated with hunger, and irritated at seeing him there, and
 
 irritated at the continued roughness of his manner.
 
-
-
 “It is over-eating that makes you so ill-tempered,” said he.
-
-
 
 “How do you know?” I demanded. “It is like you to give a pragmatical
 
@@ -3271,21 +2664,15 @@ opinion without being acquainted with any of the circumstances of the
 
 case; I have had no dinner.”
 
-
-
 What I said was petulant and snappish enough, and Hunsden only replied
 
 by looking in my face and laughing.
-
-
 
 “Poor thing!” he whined, after a pause. “It has had no dinner, has it?
 
 What! I suppose its master would not let it come home. Did Crimsworth
 
 order you to fast by way of punishment, William!”
-
-
 
 “No, Mr. Hunsden.” Fortunately at this sulky juncture, tea, was brought
 
@@ -3297,8 +2684,6 @@ Mr. Hunsden that he need not sit there staring, but might come to the
 
 table and do as I did, if he liked.
 
-
-
 “But I don’t like in the least,” said he, and therewith he summoned the
 
 servant by a fresh pull of the bell-rope, and intimated a desire to
@@ -3307,17 +2692,11 @@ have a glass of toast-and-water. “And some more coal,” he added; “Mr.
 
 Crimsworth shall keep a good fire while I stay.”
 
-
-
 His orders being executed, he wheeled his chair round to the table, so
 
 as to be opposite me.
 
-
-
 “Well,” he proceeded. “You are out of work, I suppose.”
-
-
 
 “Yes,” said I; and not disposed to show the satisfaction I felt on this
 
@@ -3331,17 +2710,11 @@ a minute’s notice, owing to some interference of yours at a public
 
 meeting, I understand.”
 
-
-
 “Ah! what! he mentioned that? He observed me signalling the lads, did
 
 he? What had he to say about his friend Hunsden--anything sweet?”
 
-
-
 “He called you a treacherous villain.”
-
-
 
 “Oh, he hardly knows me yet! I’m one of those shy people who don’t come
 
@@ -3375,8 +2748,6 @@ at work within me. I followed my instinct, opposed a tyrant, and broke a
 
 chain.”
 
-
-
 Now this speech interested me much, both because it brought out
 
 Hunsden’s character, and because it explained his motives; it interested
@@ -3385,11 +2756,7 @@ me so much that I forgot to reply to it, and sat silent, pondering over
 
 a throng of ideas it had suggested.
 
-
-
 “Are you grateful to me?” he asked, presently.
-
-
 
 In fact I was grateful, or almost so, and I believe I half liked him at
 
@@ -3409,8 +2776,6 @@ scamp,” whereupon I again charged him with having taken the bread out of
 
 my mouth.
 
-
-
 “Your bread was dirty, man!” cried Hunsden--“dirty and unwholesome!
 
 It came through the hands of a tyrant, for I tell you Crimsworth is a
@@ -3419,13 +2784,9 @@ tyrant,--a tyrant to his workpeople, a tyrant to his clerks, and will
 
 some day be a tyrant to his wife.”
 
-
-
 “Nonsense! bread is bread, and a salary is a salary. I’ve lost mine, and
 
 through your means.”
-
-
 
 “There’s sense in what you say, after all,” rejoined Hunsden. “I must
 
@@ -3441,45 +2802,27 @@ have effaced all ideas of forethought and prudence. I think better of
 
 you for looking steadily to the needful.”
 
-
-
 “Looking steadily to the needful! How can I do otherwise? I must live,
 
 and to live I must have what you call ‘the needful,’ which I can only
 
 get by working. I repeat it, you have taken my work from me.”
 
-
-
 “What do you mean to do?” pursued Hunsden coolly. “You have influential
 
 relations; I suppose they’ll soon provide you with another place.”
 
-
-
 “Influential relations? Who? I should like to know their names.”
-
-
 
 “The Seacombes.”
 
-
-
 “Stuff! I have cut them.”
-
-
 
 Hunsden looked at me incredulously.
 
-
-
 “I have,” said I, “and that definitively.”
 
-
-
 “You must mean they have cut you, William.”
-
-
 
 “As you please. They offered me their patronage on condition of my
 
@@ -3491,15 +2834,11 @@ elder brother’s arms, from whose affectionate embrace I am now torn by
 
 the cruel intermeddling of a stranger--of yourself, in short.”
 
-
-
 I could not repress a half-smile as I said this; a similar
 
 demi-manifestation of feeling appeared at the same moment on Hunsden’s
 
 lips.
-
-
 
 “Oh, I see!” said he, looking into my eyes, and it was evident he did
 
@@ -3509,11 +2848,7 @@ resting on his hand, diligently occupied in the continued perusal of my
 
 countenance, he went on:
 
-
-
 “Seriously, have you then nothing to expect from the Seacombes?”
-
-
 
 “Yes, rejection and repulsion. Why do you ask me twice? How can hands
 
@@ -3523,55 +2858,35 @@ a wool-warehouse, ever again be permitted to come into contact with
 
 aristocratic palms?”
 
-
-
 “There would be a difficulty, no doubt; still you are such a complete
 
 Seacombe in appearance, feature, language, almost manner, I wonder they
 
 should disown you.”
 
-
-
 “They have disowned me; so talk no more about it.”
-
-
 
 “Do you regret it, William?”
 
-
-
 “No.”
 
-
-
 “Why not, lad?”
-
-
 
 “Because they are not people with whom I could ever have had any
 
 sympathy.”
 
-
-
 “I say you are one of them.”
-
-
 
 “That merely proves that you know nothing at all about it; I am my
 
 mother’s son, but not my uncles’ nephew.”
-
-
 
 “Still--one of your uncles is a lord, though rather an obscure and not a
 
 very wealthy one, and the other a right honourable: you should consider
 
 worldly interest.”
-
-
 
 “Nonsense, Mr. Hunsden. You know or may know that even had I desired to
 
@@ -3581,21 +2896,15 @@ grace ever to have won their favour. I should have sacrificed my own
 
 comfort and not have gained their patronage in return.”
 
-
-
 “Very likely--so you calculated your wisest plan was to follow your own
 
 devices at once?”
-
-
 
 “Exactly. I must follow my own devices--I must, till the day of my
 
 death; because I can neither comprehend, adopt, nor work out those of
 
 other people.”
-
-
 
 Hunsden yawned. “Well,” said he, “in all this, I see but one thing
 
@@ -3605,37 +2914,23 @@ stretched himself and again yawned. “I wonder what time it is,” he went
 
 on: “I have an appointment for seven o’clock.”
 
-
-
 “Three quarters past six by my watch.”
-
-
 
 “Well, then I’ll go.” He got up. “You’ll not meddle with trade again?”
 
  said he, leaning his elbow on the mantelpiece.
 
-
-
 “No; I think not.”
-
-
 
 “You would be a fool if you did. Probably, after all, you’ll think
 
 better of your uncles’ proposal and go into the Church.”
 
-
-
 “A singular regeneration must take place in my whole inner and outer man
 
 before I do that. A good clergyman is one of the best of men.”
 
-
-
 “Indeed! Do you think so?” interrupted Hunsden, scoffingly.
-
-
 
 “I do, and no mistake. But I have not the peculiar points which go to
 
@@ -3643,19 +2938,13 @@ make a good clergyman; and rather than adopt a profession for which I
 
 have no vocation, I would endure extremities of hardship from poverty.”
 
-
-
 “You’re a mighty difficult customer to suit. You won’t be a tradesman
 
 or a parson; you can’t be a lawyer, or a doctor, or a gentleman, because
 
 you’ve no money. I’d recommend you to travel.”
 
-
-
 “What! without money?”
-
-
 
 “You must travel in search of money, man. You can speak French--with
 
@@ -3663,21 +2952,13 @@ a vile English accent, no doubt--still, you can speak it. Go on to the
 
 Continent, and see what will turn up for you there.”
 
-
-
 “God knows I should like to go!” exclaimed I with involuntary ardour.
-
-
 
 “Go: what the deuce hinders you? You may get to Brussels, for instance,
 
 for five or six pounds, if you know how to manage with economy.”
 
-
-
 “Necessity would teach me if I didn’t.”
-
-
 
 “Go, then, and let your wits make a way for you when you get there. I
 
@@ -3685,15 +2966,11 @@ know Brussels almost as well as I know X----, and I am sure it would
 
 suit such a one as you better than London.”
 
-
-
 “But occupation, Mr. Hunsden! I must go where occupation is to be had;
 
 and how could I get recommendation, or introduction, or employment at
 
 Brussels?”
-
-
 
 “There speaks the organ of caution. You hate to advance a step before
 
@@ -3701,15 +2978,11 @@ you know every inch of the way. You haven’t a sheet of paper and a
 
 pen-and-ink?”
 
-
-
 “I hope so,” and I produced writing materials with alacrity; for I
 
 guessed what he was going to do. He sat down, wrote a few lines, folded,
 
 sealed, and addressed a letter, and held it out to me.
-
-
 
 “There, Prudence, there’s a pioneer to hew down the first rough
 
@@ -3725,13 +2998,9 @@ concerns of such a one. Those who are reckless for themselves are
 
 generally ten times more so for their friends.”
 
-
-
 “This is a letter of introduction, I suppose?” said I, taking the
 
 epistle.
-
-
 
 “Yes. With that in your pocket you will run no risk of finding yourself
 
@@ -3743,17 +3012,11 @@ present it generally has two or three respectable places depending upon
 
 his recommendation.”
 
-
-
 “That will just suit me,” said I.
-
-
 
 “Well, and where’s your gratitude?” demanded Mr. Hunsden; “don’t you
 
 know how to say ‘Thank you?’”
-
-
 
 “I’ve fifteen pounds and a watch, which my godmother, whom I never saw,
 
@@ -3763,17 +3026,11 @@ further avowed myself a happy man, and professed that I did not envy any
 
 being in Christendom.
 
-
-
 “But your gratitude?”
-
-
 
 “I shall be off presently, Mr. Hunsden--to-morrow, if all be well: I’ll
 
 not stay a day longer in X---- than I’m obliged.”
-
-
 
 “Very good--but it will be decent to make due acknowledgment for the
 
@@ -3781,19 +3038,13 @@ assistance you have received; be quick! It is just going to strike
 
 seven: I’m waiting to be thanked.”
 
-
-
 “Just stand out of the way, will you, Mr. Hunsden: I want a key there is
 
 on the corner of the mantelpiece. I’ll pack my portmanteau before I go
 
 to bed.”
 
-
-
 The house clock struck seven.
-
-
 
 “The lad is a heathen,” said Hunsden, and taking his hat from a
 
@@ -3805,33 +3056,15 @@ morning, and should certainly not have another opportunity of bidding
 
 him good-bye. The front door banged to.
 
-
-
 “Let him go,” said I, “we shall meet again some day.”
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER VII.
-
-
 
 READER, perhaps you were never in Belgium? Haply you don’t know the
 
 physiognomy of the country? You have not its lineaments defined upon
 
 your memory, as I have them on mine?
-
-
 
 Three--nay four--pictures line the four-walled cell where are stored for
 
@@ -3848,8 +3081,6 @@ stormy hours. Second, X----, huge, dingy; the canvas cracked and smoked;
 a yellow sky, sooty clouds; no sun, no azure; the verdure of the suburbs
 
 blighted and sullied--a very dreary scene.
-
-
 
 Third, Belgium; and I will pause before this landscape. As to the
 
@@ -3878,8 +3109,6 @@ outline, the sound which wakened them dies, and they sink, each and all,
 like a light wreath of mist, absorbed in the mould, recalled to urns,
 
 resealed in monuments. Farewell, luminous phantoms!
-
-
 
 This is Belgium, reader. Look! don’t call the picture a flat or a dull
 
@@ -3929,8 +3158,6 @@ I thought nothing of the stones turning under my feet, or of the thorns
 
 scratching my face and hands.
 
-
-
 I gazed often, and always with delight, from the window of the diligence
 
 (these, be it remembered, were not the days of trains and railroads).
@@ -3966,8 +3193,6 @@ fiacre conveyed me to the Hotel de ----, where I had been advised by a
 fellow-traveller to put up; having eaten a traveller’s supper, I retired
 
 to bed, and slept a traveller’s sleep.
-
-
 
 Next morning I awoke from prolonged and sound repose with the impression
 
@@ -4033,8 +3258,6 @@ very picturesque; she reminded me of the female figures in certain Dutch
 
 paintings I had seen in other years at Seacombe Hall.
 
-
-
 I repaired to the public room; that, too, was very large and very lofty,
 
 and warmed by a stove; the floor was black, and the stove was black, and
@@ -4077,8 +3300,6 @@ capital I was in; it was my first experience of that skill in living
 
 languages I afterwards found to be so general in Brussels.
 
-
-
 I lingered over my breakfast as long as I could; while it was there
 
 on the table, and while that stranger continued talking to me, I was a
@@ -4111,8 +3332,6 @@ and forced my reluctant body out of the Hotel de ---- into the foreign
 
 street.
 
-
-
 It was a fine day, but I would not look at the blue sky or at the
 
 stately houses round me; my mind was bent on one thing, finding out “Mr.
@@ -4122,8 +3341,6 @@ Brown, Numero --, Rue Royale,” for so my letter was addressed. By dint
 of inquiry I succeeded; I stood at last at the desired door, knocked,
 
 asked for Mr. Brown, and was admitted.
-
-
 
 Being shown into a small breakfast-room, I found myself in the
 
@@ -4147,8 +3364,6 @@ well as he could. After some meditation he named a place in a mercantile
 
 house at Liege, and another in a bookseller’s shop at Louvain.
 
-
-
 “Clerk and shopman!” murmured I to myself. “No.” I shook my head. I
 
 had tried the high stool; I hated it; I believed there were other
@@ -4156,8 +3371,6 @@ had tried the high stool; I hated it; I believed there were other
 occupations that would suit me better; besides I did not wish to leave
 
 Brussels.
-
-
 
 “I know of no place in Brussels,” answered Mr. Brown, “unless indeed you
 
@@ -4167,21 +3380,13 @@ the director of a large establishment who is in want of a professor of
 
 English and Latin.”
 
-
-
 I thought two minutes, then I seized the idea eagerly.
 
-
-
 “The very thing, sir!” said I.
-
-
 
 “But,” asked he, “do you understand French well enough to teach Belgian
 
 boys English?”
-
-
 
 Fortunately I could answer this question in the affirmative;
 
@@ -4191,8 +3396,6 @@ intelligibly though not fluently. I could also read it well, and write
 
 it decently.
 
-
-
 “Then,” pursued Mr. Brown, “I think I can promise you the place, for
 
 Monsieur Pelet will not refuse a professor recommended by me; but come
@@ -4201,17 +3404,11 @@ here again at five o’clock this afternoon, and I will introduce you to
 
 him.”
 
-
-
 The word “professor” struck me. “I am not a professor,” said I.
-
-
 
 “Oh,” returned Mr. Brown, “professor, here in Belgium, means a teacher,
 
 that is all.”
-
-
 
 My conscience thus quieted, I thanked Mr. Brown, and, for the present,
 
@@ -4252,8 +3449,6 @@ externats no doubt, were at that moment issuing from the door--I looked
 for a pretty face amongst them, but their close, little French bonnets
 
 hid their features; in a moment they were gone.
-
-
 
 I had traversed a good deal of Brussels before five o’clock arrived,
 
@@ -4303,8 +3498,6 @@ establishment, you may, in time, obtain employment in other seminaries,
 
 and thus turn your vacant moments to profitable account.”
 
-
-
 I thought this very kind, and indeed I found afterwards that the terms
 
 on which M. Pelet had engaged me were really liberal for Brussels;
@@ -4314,8 +3507,6 @@ instruction being extremely cheap there on account of the number of
 teachers. It was further arranged that I should be installed in my new
 
 post the very next day, after which M. Pelet and I parted.
-
-
 
 Well, and what was he like? and what were my impressions concerning him?
 
@@ -4349,8 +3540,6 @@ M. Pelet presented an absolute contrast to my late master, Edward
 
 Crimsworth.
 
-
-
 Influenced by the impression I had received of his gentleness, I was a
 
 good deal surprised when, on arriving the next day at my new employer’s
@@ -4377,13 +3566,9 @@ perambulated the length and breadth of the classes, M. Pelet turned and
 
 said to me--
 
-
-
 “Would you object to taking the boys as they are, and testing their
 
 proficiency in English?”
-
-
 
 The proposal was unexpected. I had thought I should have been allowed at
 
@@ -4397,21 +3582,13 @@ my thoughts, and likewise to frame in French the sentence by which I
 
 proposed to open business. I made it as short as possible:--
 
-
-
 “Messieurs, prenez vos livres de lecture.”
-
-
 
 “Anglais ou Francais, monsieur?” demanded a thickset, moon-faced young
 
 Flamand in a blouse. The answer was fortunately easy:--
 
-
-
 “Anglais.”
-
-
 
 I determined to give myself as little trouble as possible in this
 
@@ -4424,8 +3601,6 @@ criticisms of the young gentlemen before me, relative to whom I felt
 already it would be necessary at once to take up an advantageous
 
 position, and I proceeded to employ means accordingly.
-
-
 
 “Commencez!” cried I, when they had all produced their books. The
 
@@ -4457,8 +3632,6 @@ rotation, and when the twelfth had concluded with splutter, hiss, and
 
 mumble, I solemnly laid down the book.
 
-
-
 “Arretez!” said I. There was a pause, during which I regarded them all
 
 with a steady and somewhat stern gaze; a dog, if stared at hard enough
@@ -4471,11 +3644,7 @@ were beginning to look sullen, and others ashamed, I slowly joined my
 
 hands, and ejaculated in a deep “voix de poitrine”--
 
-
-
 “Comme c’est affreux!”
-
-
 
 They looked at each other, pouted, coloured, swung their heels; they
 
@@ -4488,8 +3657,6 @@ self-conceit, the next step was to raise myself in their estimation; not
 a very easy thing, considering that I hardly dared to speak for fear of
 
 betraying my own deficiencies.
-
-
 
 “Ecoutez, messieurs!” said I, and I endeavoured to throw into my
 
@@ -4507,27 +3674,19 @@ attention; by the time I had done nearly an hour had elapsed. I then
 
 rose and said:--
 
-
-
 “C’est assez pour aujourd’hui, messieurs; demain nous recommencerons, et
 
 j’espere que tout ira bien.”
 
-
-
 With this oracular sentence I bowed, and in company with M. Pelet
 
 quitted the school-room.
-
-
 
 “C’est bien! c’est tres bien!” said my principal as we entered his
 
 parlour. “Je vois que monsieur a de l’adresse; cela, me plait, car, dans
 
 l’instruction, l’adresse fait tout autant que le savoir.”
-
-
 
 From the parlour M. Pelet conducted me to my apartment, my “chambre,”
 
@@ -4551,15 +3710,11 @@ it would present if disencumbered of the boards. M. Pelet read, I
 
 suppose, the expression of my eye; he explained:--
 
-
-
 “La fenetre fermee donne sur un jardin appartenant a un pensionnat
 
 de demoiselles,” said he, “et les convenances exigent--enfin, vous
 
 comprenez--n’est-ce pas, monsieur?”
-
-
 
 “Oui, oui,” was my reply, and I looked of course quite satisfied; but
 
@@ -4635,8 +3790,6 @@ such as we sober English never run into. I think, indeed, we have too
 
 limited a list to choose from.
 
-
-
 Meantime my path was gradually growing smooth before me. I, in a
 
 few weeks, conquered the teasing difficulties inseparable from the
@@ -4662,8 +3815,6 @@ uncommon one. Before concluding this chapter I will say a word on the
 system I pursued with regard to my classes: my experience may possibly
 
 be of use to others.
-
-
 
 It did not require very keen observation to detect the character of the
 
@@ -4692,8 +3843,6 @@ injudicious and arbitrary measures on the part of the Professor, they
 would have resisted as obstinately, as clamorously, as desperate swine;
 
 and though not brave singly, they were relentless acting EN MASSE.
-
-
 
 I understood that before my arrival in M. Pelet’s establishment, the
 
@@ -4745,21 +3894,7 @@ looked at my boys and remembered the political history of their
 
 ancestors. Pelet’s school was merely an epitome of the Belgian nation.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER VIII.
-
-
 
 AND Pelet himself? How did I continue to like him? Oh, extremely well!
 
@@ -4779,11 +3914,7 @@ that I was a little shocked at the difference he made between them and
 
 me, and accounted for it by saying, with a quiet sarcastic smile--
 
-
-
 “Ce ne sont que des Flamands--allez!”
-
-
 
 And then he took his cigar gently from his lips and spat on the painted
 
@@ -4847,8 +3978,6 @@ mere licentiousness. He felt the difference of our notions, and, by
 
 mutual consent, we kept off ground debateable.
 
-
-
 Pelet’s house was kept and his kitchen managed by his mother, a real
 
 old Frenchwoman; she had been handsome--at least she told me so, and I
@@ -4883,8 +4012,6 @@ her, his reproofs were bitter and unsparing; but he seldom gave himself
 
 that trouble.
 
-
-
 Madame Pelet had her own society, her own circle of chosen visitors,
 
 whom, however, I seldom saw, as she generally entertained them in what
@@ -4907,8 +4034,6 @@ quite out of the question. These details will sound very odd in English
 
 ears, but Belgium is not England, and its ways are not our ways.
 
-
-
 Madame Pelet’s habits of life, then, being taken into consideration,
 
 I was a good deal surprised when, one Thursday evening (Thursday was
@@ -4922,8 +4047,6 @@ tapped at the door, and, on its being opened, presented Madame Pelet’s
 compliments, and she would be happy to see me to take my “gouter” (a
 
 meal which answers to our English “tea”) with her in the dining-room.
-
-
 
 “Plait-il?” said I, for I thought I must have misunderstood, the
 
@@ -4939,15 +4062,11 @@ he was a member. Just as I laid my hand on the handle of the dining-room
 
 door, a queer idea glanced across my mind.
 
-
-
 “Surely she’s not going to make love to me,” said I. “I’ve heard of
 
 old Frenchwomen doing odd things in that line; and the gouter? They
 
 generally begin such affairs with eating and drinking, I believe.”
-
-
 
 There was a fearful dismay in this suggestion of my excited imagination,
 
@@ -4966,8 +4085,6 @@ anticipation shall be realized. I turned the door-handle, and in an
 instant had crossed the fatal threshold, closed the door behind me, and
 
 stood in the presence of Madame Pelet.
-
-
 
 Gracious heavens! The first view of her seemed to confirm my worst
 
@@ -4995,15 +4112,11 @@ circled in a bright wreath the crown of her violet-coloured velvet
 
 bonnet.
 
-
-
 I had only time to make these general observations when Madame Pelet,
 
 coming forward with what she intended should be a graceful and elastic
 
 step, thus accosted me:
-
-
 
 “Monsieur is indeed most obliging to quit his books, his studies, at the
 
@@ -5013,13 +4126,9 @@ kindness by allowing me to present him to my dear friend Madame Reuter,
 
 who resides in the neighbouring house--the young ladies’ school.”
 
-
-
 “Ah!” thought I, “I knew she was old,” and I bowed and took my seat.
 
 Madame Reuter placed herself at the table opposite to me.
-
-
 
 “How do you like Belgium, Monsieur?” asked she, in an accent of the
 
@@ -5077,8 +4186,6 @@ I obeyed; and being seated fairly between them, I was thus addressed
 
 first by Madame Pelet, then by Madame Reuter.
 
-
-
 “We will now speak of business,” said Madame Pelet, and she went on to
 
 make an elaborate speech, which, being interpreted, was to the effect
@@ -5089,8 +4196,6 @@ order to give her friend Madame Reuter an opportunity of broaching an
 
 important proposal, which might turn out greatly to my advantage.
 
-
-
 “Pourvu que vous soyez sage,” said Madame Reuter, “et a vrai dire,
 
 vous en avez bien l’air. Take one drop of the punch” (or ponche, as she
@@ -5099,11 +4204,7 @@ pronounced it); “it is an agreeable and wholesome beverage after a full
 
 meal.”
 
-
-
 I bowed, but again declined it. She went on:
-
-
 
 “I feel,” said she, after a solemn sip--“I feel profoundly the
 
@@ -5113,15 +4214,11 @@ me, for you are aware, Monsieur, that it is my daughter who directs the
 
 establishment in the next house?”
 
-
-
 “Ah! I thought it was yourself, madame.” Though, indeed, at that moment
 
 I recollected that it was called Mademoiselle, not Madame Reuter’s
 
 pensionnat.
-
-
 
 “I! Oh, no! I manage the house and look after the servants, as my friend
 
@@ -5129,13 +4226,9 @@ Madame Pelet does for Monsieur her son--nothing more. Ah! you thought I
 
 gave lessons in class--did you?”
 
-
-
 And she laughed loud and long, as though the idea tickled her fancy
 
 amazingly.
-
-
 
 “Madame is in the wrong to laugh,” I observed; “if she does not give
 
@@ -5145,15 +4238,11 @@ white pocket-handkerchief and wafted it, with a French grace, past my
 
 nose, bowing at the same time.
 
-
-
 “Quel charmant jeune homme!” murmured Madame Pelet in a low voice.
 
 Madame Reuter, being less sentimental, as she was Flamand and not
 
 French, only laughed again.
-
-
 
 “You are a dangerous person, I fear,” said she; “if you can forge
 
@@ -5187,11 +4276,7 @@ daughter, I mean; she is so discreet and circumspect herself, she cannot
 
 understand that one should find a pleasure in gossiping a little--”
 
-
-
 “C’est absolument comme mon fils!” cried Madame Pelet.
-
-
 
 “All the world is so changed since our girlhood!” rejoined the other:
 
@@ -5209,8 +4294,6 @@ you from M. Pelet himself, and be sure you never mention my name, for I
 
 would not displease Zoraide on any account.”
 
-
-
 “Bien! bien!” interrupted I--for all this chatter and circumlocution
 
 began to bore me very much; “I will consult M. Pelet, and the thing
@@ -5219,23 +4302,15 @@ shall be settled as you desire. Good evening, mesdames--I am infinitely
 
 obliged to you.”
 
-
-
 “Comment! vous vous en allez deja?” exclaimed Madame Pelet.
-
-
 
 “Prenez encore quelquechose, monsieur; une pomme cuite, des biscuits,
 
 encore une tasse de cafe?”
 
-
-
 “Merci, merci, madame--au revoir.” And I backed at last out of the
 
 apartment.
-
-
 
 Having regained my own room, I set myself to turn over in my mind
 
@@ -5257,21 +4332,7 @@ thought I, as I glanced at the boarded window, “I shall now at last see
 
 the mysterious garden: I shall gaze both on the angels and their Eden.”
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER IX.
-
-
 
 M. PELET could not of course object to the proposal made by Mdlle.
 
@@ -5284,8 +4345,6 @@ It was, therefore, arranged in the course of next day that I should
 be at liberty to give lessons in Mdlle. Reuter’s establishment four
 
 afternoons in every week.
-
-
 
 When evening came I prepared to step over in order to seek a conference
 
@@ -5317,8 +4376,6 @@ or attraction; something young, but not youthful, no object to win a
 
 lady’s love, no butt for the shafts of Cupid.
 
-
-
 I was soon at the entrance of the pensionnat, in a moment I had pulled
 
 the bell; in another moment the door was opened, and within appeared a
@@ -5332,8 +4389,6 @@ door, through which I saw shrubs and a grass-plat, looking pleasant in
 the sunshine of the mild spring evening--for it was now the middle of
 
 April.
-
-
 
 This, then, was my first glimpse of the garden; but I had not time to
 
@@ -5371,8 +4426,6 @@ another glimpse of the garden, through the large, clear panes, round
 
 which some leaves of ivy, some tendrils of vine were trained.
 
-
-
 “Monsieur Creemsvort, n’est ce pas?” said a voice behind me; and,
 
 starting involuntarily, I turned. I had been so taken up with the
@@ -5391,8 +4444,6 @@ aspect of her little cabinet, and the advantage she had over M. Pelet in
 
 possessing a garden.
 
-
-
 “Yes,” she said, “she often thought so;” and added, “it is my garden,
 
 monsieur, which makes me retain this house, otherwise I should probably
@@ -5403,11 +4454,7 @@ see I could not take my garden with me, and I should scarcely find one
 
 so large and pleasant anywhere else in town.”
 
-
-
 I approved her judgment.
-
-
 
 “But you have not seen it yet,” said she, rising; “come to the window
 
@@ -5432,8 +4479,6 @@ was not only on Mdlle. Reuter’s garden that my eyes dwelt; when I had
 taken a view of her well-trimmed beds and budding shrubberies, I allowed
 
 my glance to come back to herself, nor did I hastily withdraw it.
-
-
 
 I had thought to see a tall, meagre, yellow, conventual image in black,
 
@@ -5463,8 +4508,6 @@ cheek was like the bloom on a good apple, which is as sound at the core
 
 as it is red on the rind.
 
-
-
 Mdlle. Reuter and I entered upon business. She said she was not
 
 absolutely certain of the wisdom of the step she was about to take,
@@ -5480,8 +4523,6 @@ The fitness of a professor is not a matter of age; and, from what I have
 heard, and from what I observe myself, I would much rather trust you
 
 than M. Ledru, the music-master, who is a married man of near fifty.”
-
-
 
 I remarked that I hoped she would find me worthy of her good opinion;
 
@@ -5535,17 +4576,11 @@ my hand, on purpose, though I knew it was contrary to the etiquette of
 
 foreign habits; she smiled, and said--
 
-
-
 “Ah! c’est comme tous les Anglais,” but gave me her hand very kindly.
-
-
 
 “It is the privilege of my country, Mademoiselle,” said I; “and,
 
 remember, I shall always claim it.”
-
-
 
 She laughed a little, quite good-naturedly, and with the sort of
 
@@ -5563,21 +4598,7 @@ So impressionable a being is man, or at least such a man as I was in
 
 those days.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER X.
-
-
 
 NEXT day the morning hours seemed to pass very slowly at M. Pelet’s; I
 
@@ -5593,23 +4614,15 @@ deep bell, tolling slowly two, marked the moment for which I had been
 
 waiting.
 
-
-
 At the foot of the narrow back-stairs that descended from my room, I met
 
 M. Pelet.
-
-
 
 “Comme vous avez l’air rayonnant!” said he. “Je ne vous ai jamais vu
 
 aussi gai. Que s’est-il donc passe?”
 
-
-
 “Apparemment que j’aime les changements,” replied I.
-
-
 
 “Ah! je comprends--c’est cela--soyez sage seulement. Vous etes bien
 
@@ -5617,17 +4630,11 @@ jeune--trop jeune pour le role que vous allez jouer; il faut prendre
 
 garde--savez-vous?”
 
-
-
 “Mais quel danger y a-t-il?”
-
-
 
 “Je n’en sais rien--ne vous laissez pas aller a de vives
 
 impressions--voila tout.”
-
-
 
 I laughed: a sentiment of exquisite pleasure played over my nerves at
 
@@ -5644,8 +4651,6 @@ some of anger. I broke from M. Pelet, and as I strode down the passage
 he followed me with one of his laughs--a very French, rakish, mocking
 
 sound.
-
-
 
 Again I stood at the neighbouring door, and soon was re-admitted into
 
@@ -5677,8 +4682,6 @@ mistress appeared, and I walked slowly along the corridor, side by side
 
 with Mdlle. Reuter.
 
-
-
 “Monsieur will give a lesson in the first class to-day,” said she;
 
 “dictation or reading will perhaps be the best thing to begin with, for
@@ -5688,8 +4691,6 @@ those are the easiest forms of communicating instruction in a foreign
 language; and, at the first, a master naturally feels a little
 
 unsettled.”
-
-
 
 She was quite right, as I had found from experience; it only remained
 
@@ -5706,8 +4707,6 @@ playground and garden; a broad staircase ascended spirally on the
 opposite side; the remaining wall showed a pair of great folding-doors,
 
 now closed, and admitting, doubtless, to the classes.
-
-
 
 Mdlle. Reuter turned her eye laterally on me, to ascertain, probably,
 
@@ -5741,8 +4740,6 @@ tableau; a wet sponge appeared beside the chalk, to enable me to efface
 
 the marks when they had served the purpose intended.
 
-
-
 I carefully and deliberately made these observations before allowing
 
 myself to take one glance at the benches before me; having handled the
@@ -5752,8 +4749,6 @@ crayon, looked back at the tableau, fingered the sponge in order to
 ascertain that it was in a right state of moisture, I found myself cool
 
 enough to admit of looking calmly up and gazing deliberately round me.
-
-
 
 And first I observed that Mdlle. Reuter had already glided away, she
 
@@ -5785,11 +4780,7 @@ the first view like a stoic; I was dazzled, my eyes fell, and in a voice
 
 somewhat too low I murmured--
 
-
-
 “Prenez vos cahiers de dictee, mesdemoiselles.”
-
-
 
 Not so had I bid the boys at Pelet’s take their reading-books. A
 
@@ -5799,23 +4790,13 @@ momentarily screened the heads bent down to search for exercise-books, I
 
 heard tittering and whispers.
 
-
-
 “Eulalie, je suis prete a pleuer de rire,” observed one.
-
-
 
 “Comme il a rougi en parlant!”
 
-
-
 “Oui, c’est un veritable blanc-bec.”
 
-
-
 “Tais-toi, Hortense--il nous ecoute.”
-
-
 
 And now the lids sank and the heads reappeared; I had marked three, the
 
@@ -5832,8 +4813,6 @@ dark nun-like robes and softly braided hair, were a kind of half-angels.
 The light titter, the giddy whisper, had already in some measure
 
 relieved my mind of that fond and oppressive fancy.
-
-
 
 The three I allude to were just in front, within half a yard of my
 
@@ -5867,8 +4846,6 @@ there were frolic and mischief in her eye: consistency and good sense
 
 she might possess, but none of her features betokened those qualities.
 
-
-
 Caroline was little, though evidently full grown; raven-black hair,
 
 very dark eyes, absolutely regular features, with a colourless olive
@@ -5889,8 +4866,6 @@ sensual now, and in ten years’ time she would be coarse--promise plain
 
 was written in her face of much future folly.
 
-
-
 If I looked at these girls with little scruple, they looked at me
 
 with still less. Eulalie raised her unmoved eye to mine, and seemed to
@@ -5901,11 +4876,7 @@ charms. Hortense regarded me boldly, and giggled at the same time, while
 
 she said, with an air of impudent freedom--
 
-
-
 “Dictez-nous quelquechose de facile pour commencer, monsieur.”
-
-
 
 Caroline shook her loose ringlets of abundant but somewhat coarse hair
 
@@ -5933,13 +4904,9 @@ five minutes I had buckled on a breast-plate of steely indifference, and
 
 let down a visor of impassible austerity.
 
-
-
 “Take your pens and commence writing,” said I, in as dry and trite a
 
 voice as if I had been addressing only Jules Vanderkelkov and Co.
-
-
 
 The dictee now commenced. My three belles interrupted me perpetually
 
@@ -5949,67 +4916,39 @@ made no answer, and to others replied very quietly and briefly. “Comment
 
 dit-on point et virgule en Anglais, monsieur?”
 
-
-
 “Semi-colon, mademoiselle.”
-
-
 
 “Semi-collong? Ah, comme c’est drole!” (giggle.)
 
-
-
 “J’ai une si mauvaise plume--impossible d’ecrire!”
-
-
 
 “Mais, monsieur--je ne sais pas suivre--vous allez si vite.”
 
-
-
 “Je n’ai rien compris, moi!”
-
-
 
 Here a general murmur arose, and the teacher, opening her lips for the
 
 first time, ejaculated--
 
-
-
 “Silence, mesdemoiselles!”
-
-
 
 No silence followed--on the contrary, the three ladies in front began to
 
 talk more loudly.
 
-
-
 “C’est si difficile, l’Anglais!”
-
-
 
 “Je deteste la dictee.”
 
-
-
 “Quel ennui d’ecrire quelquechose que l’on ne comprend pas!”
-
-
 
 Some of those behind laughed: a degree of confusion began to pervade the
 
 class; it was necessary to take prompt measures.
 
-
-
 “Donnez-moi votre cahier,” said I to Eulalie in an abrupt tone; and
 
 bending over, I took it before she had time to give it.
-
-
 
 “Et vous, mademoiselle--donnez-moi le votre,” continued I, more mildly,
 
@@ -6031,19 +4970,13 @@ faults of orthography. I coolly read aloud both exercises, marking the
 
 faults--then I looked at Eulalie:
 
-
-
 “C’est honteux!” said I, and I deliberately tore her dictation in four
 
 parts, and presented her with the fragments. I returned Sylvie her book
 
 with a smile, saying--
 
-
-
 “C’est bien--je suis content de vous.”
-
-
 
 Sylvie looked calmly pleased, Eulalie swelled like an incensed turkey,
 
@@ -6052,8 +4985,6 @@ but the mutiny was quelled: the conceited coquetry and futile flirtation
 of the first bench were exchanged for a taciturn sullenness, much more
 
 convenient to me, and the rest of my lesson passed without interruption.
-
-
 
 A bell clanging out in the yard announced the moment for the cessation
 
@@ -6069,13 +5000,9 @@ inner class, where I knew near a hundred were prisoned, and whose rising
 
 tumult I already heard.
 
-
-
 I had scarcely crossed the hall and gained the corridor, when Mdlle.
 
 Reuter came again upon me.
-
-
 
 “Step in here a moment,” said she, and she held open the door of
 
@@ -6099,23 +5026,17 @@ ranks, and yet this was considered one of the best-conducted schools in
 
 Brussels.
 
-
-
 “Well, you have given your first lesson,” began Mdlle. Reuter in the
 
 most calm, equable voice, as though quite unconscious of the chaos from
 
 which we were separated only by a single wall.
 
-
-
 “Were you satisfied with your pupils, or did any circumstance in their
 
 conduct give you cause for complaint? Conceal nothing from me, repose in
 
 me entire confidence.”
-
-
 
 Happily, I felt in myself complete power to manage my pupils without
 
@@ -6133,19 +5054,11 @@ complain to Mdlle. Reuter, and I received her considerate invitation to
 
 confidence with a smile.
 
-
-
 “A thousand thanks, mademoiselle, all has gone very smoothly.”
-
-
 
 She looked more than doubtful.
 
-
-
 “Et les trois demoiselles du premier banc?” said she.
-
-
 
 “Ah! tout va au mieux!” was my answer, and Mdlle. Reuter ceased to
 
@@ -6158,8 +5071,6 @@ me; it let out a momentary gleam, which said plainly, “Be as close as
 you like, I am not dependent on your candour; what you would conceal I
 
 already know.”
-
-
 
 By a transition so quiet as to be scarcely perceptible, the directress’s
 
@@ -6203,8 +5114,6 @@ professor in her establishment, and she wanted to know where her mind
 
 was superior to mine--by what feeling or opinion she could lead me.
 
-
-
 I enjoyed the game much, and did not hasten its conclusion; sometimes I
 
 gave her hopes, beginning a sentence rather weakly, when her shrewd eye
@@ -6233,8 +5142,6 @@ me: it left her as it found her--moderate, temperate, tranquil; me it
 
 disappointed.
 
-
-
 “I am growing wiser,” thought I, as I walked back to M. Pelet’s. “Look
 
 at this little woman; is she like the women of novelists and romancers?
@@ -6253,21 +5160,7 @@ afterwards that blunt susceptibilities are very consistent with strong
 
 propensities.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XI.
-
-
 
 I HAD indeed had a very long talk with the crafty little politician, and
 
@@ -6313,21 +5206,15 @@ this evening (as had often happened before) I was to be still farther
 
 distinguished.
 
-
-
 “Eh bien, mauvais sujet!” said the voice of M. Pelet behind me, as I
 
 set my foot on the first step of the stair, “ou allez-vous? Venez a la
 
 salle-a-manger, que je vous gronde un peu.”
 
-
-
 “I beg pardon, monsieur,” said I, as I followed him to his private
 
 sitting-room, “for having returned so late--it was not my fault.”
-
-
 
 “That is just what I want to know,” rejoined M. Pelet, as he ushered me
 
@@ -6347,27 +5234,17 @@ reverted to the two outcast ushers, whose voices I could hear even now
 
 crying hoarsely for order in the playground.
 
-
-
 “C’est une grande responsabilite, que la surveillance,” observed I.
 
-
-
 “Plait-il?” dit M. Pelet.
-
-
 
 I remarked that I thought Messieurs Vandam and Kint must sometimes be a
 
 little fatigued with their labours.
 
-
-
 “Des betes de somme,--des betes de somme,” murmured scornfully the
 
 director. Meantime I offered him his cup of coffee.
-
-
 
 “Servez-vous mon garcon,” said he blandly, when I had put a couple of
 
@@ -6379,53 +5256,31 @@ establishment as in mine, at four o’clock, and when you returned it was
 
 past five.”
 
-
-
 “Mdlle. wished to speak with me, monsieur.”
-
-
 
 “Indeed! on what subject? if one may ask.”
 
-
-
 “Mademoiselle talked about nothing, monsieur.”
-
-
 
 “A fertile topic! and did she discourse thereon in the schoolroom,
 
 before the pupils?”
 
-
-
 “No; like you, monsieur, she asked me to walk into her parlour.”
-
-
 
 “And Madame Reuter--the old duenna--my mother’s gossip, was there, of
 
 course?”
 
-
-
 “No, monsieur; I had the honour of being quite alone with mademoiselle.”
-
-
 
 “C’est joli--cela,” observed M. Pelet, and he smiled and looked into the
 
 fire.
 
-
-
 “Honi soit qui mal y pense,” murmured I, significantly.
 
-
-
 “Je connais un peu ma petite voisine--voyez-vous.”
-
-
 
 “In that case, monsieur will be able to aid me in finding out what was
 
@@ -6435,23 +5290,13 @@ listening to the most copious and fluent dissertation on the merest
 
 frivolities.”
 
-
-
 “She was sounding your character.”
-
-
 
 “I thought so, monsieur.”
 
-
-
 “Did she find out your weak point?”
 
-
-
 “What is my weak point?”
-
-
 
 “Why, the sentimental. Any woman sinking her shaft deep enough, will
 
@@ -6459,15 +5304,9 @@ at last reach a fathomless spring of sensibility in thy breast,
 
 Crimsworth.”
 
-
-
 I felt the blood stir about my heart and rise warm to my cheek.
 
-
-
 “Some women might, monsieur.”
-
-
 
 “Is Mdlle. Reuter of the number? Come, speak frankly, mon fils; elle est
 
@@ -6477,41 +5316,25 @@ la tendresse d’une petite maman a l’amour d’une epouse devouee; n’est-ce
 
 pas que cela t’irait superieurement?”
 
-
-
 “No, monsieur; I should like my wife to be my wife, and not half my
 
 mother.”
 
-
-
 “She is then a little too old for you?”
 
-
-
 “No, monsieur, not a day too old if she suited me in other things.”
-
-
 
 “In what does she not suit you, William? She is personally agreeable, is
 
 she not?”
 
-
-
 “Very; her hair and complexion are just what I admire; and her turn of
 
 form, though quite Belgian, is full of grace.”
 
-
-
 “Bravo! and her face? her features? How do you like them?”
 
-
-
 “A little harsh, especially her mouth.”
-
-
 
 “Ah, yes! her mouth,” said M. Pelet, and he chuckled inwardly. “There is
 
@@ -6519,29 +5342,17 @@ character about her mouth--firmness--but she has a very pleasant smile;
 
 don’t you think so?”
 
-
-
 “Rather crafty.”
-
-
 
 “True, but that expression of craft is owing to her eyebrows; have you
 
 remarked her eyebrows?”
 
-
-
 I answered that I had not.
-
-
 
 “You have not seen her looking down then?” said he.
 
-
-
 “No.”
-
-
 
 “It is a treat, notwithstanding. Observe her when she has some knitting,
 
@@ -6569,11 +5380,7 @@ her general mien; observe then her eyebrows, et dites-moi s’il n’y a pas
 
 du chat dans l’un et du renard dans l’autre.”
 
-
-
 “I will take careful notice the first opportunity,” said I.
-
-
 
 “And then,” continued M. Pelet, “the eyelid will flicker, the
 
@@ -6583,15 +5390,9 @@ from under the screen, will take its brief, sly, searching survey, and
 
 retreat again.”
 
-
-
 I smiled, and so did Pelet, and after a few minutes’ silence, I asked:
 
-
-
 “Will she ever marry, do you think?”
-
-
 
 “Marry! Will birds pair? Of course it is both her intention and
 
@@ -6605,35 +5406,23 @@ mistaken if she will not yet leave the print of her stealing steps on
 
 thy heart, Crimsworth.”
 
-
-
 “Of her steps? Confound it, no! My heart is not a plank to be walked
 
 on.”
 
-
-
 “But the soft touch of a patte de velours will do it no harm.”
-
-
 
 “She offers me no patte de velours; she is all form and reserve with
 
 me.”
 
-
-
 “That to begin with; let respect be the foundation, affection the first
 
 floor, love the superstructure; Mdlle. Reuter is a skilful architect.”
 
-
-
 “And interest, M. Pelet--interest. Will not mademoiselle consider that
 
 point?”
-
-
 
 “Yes, yes, no doubt; it will be the cement between every stone. And now
 
@@ -6641,27 +5430,17 @@ we have discussed the directress, what of the pupils? N’y a-t-il pas de
 
 belles etudes parmi ces jeunes tetes?”
 
-
-
 “Studies of character? Yes; curious ones, at least, I imagine; but one
 
 cannot divine much from a first interview.”
-
-
 
 “Ah, you affect discretion; but tell me now, were you not a little
 
 abashed before these blooming young creatures?”
 
-
-
 “At first, yes; but I rallied and got through with all due sang-froid.”
 
-
-
 “I don’t believe you.”
-
-
 
 “It is true, notwithstanding. At first I thought them angels, but they
 
@@ -6673,19 +5452,13 @@ so cleverly that in five minutes I knew them, at least, for what they
 
 were--three arrant coquettes.”
 
-
-
 “Je les connais!” exclaimed M. Pelet. “Elles sont toujours au premier
 
 rang a l’eglise et a la promenade; une blonde superbe, une jolie
 
 espiegle, une belle brune.”
 
-
-
 “Exactly.”
-
-
 
 “Lovely creatures all of them--heads for artists; what a group they
 
@@ -6709,8 +5482,6 @@ played the austere, the insensible in the presence of an Aphrodite so
 
 exquisite?”
 
-
-
 I might have laughed at the director’s enthusiasm had I believed
 
 it real, but there was something in his tone which indicated got-up
@@ -6721,15 +5492,11 @@ guard, to induce me to come out in return, so I scarcely even smiled. He
 
 went on:
 
-
-
 “Confess, William, do not the mere good looks of Zoraide Reuter appear
 
 dowdyish and commonplace compared with the splendid charms of some of
 
 her pupils?”
-
-
 
 The question discomposed me, but I now felt plainly that my principal
 
@@ -6741,8 +5508,6 @@ what was right and honourable. The iniquity of the instigation proved
 
 its antidote, and when he further added:--
 
-
-
 “Each of those three beautiful girls will have a handsome fortune; and
 
 with a little address, a gentlemanlike, intelligent young fellow like
@@ -6751,11 +5516,7 @@ you might make himself master of the hand, heart, and purse of any one
 
 of the trio.”
 
-
-
 I replied by a look and an interrogative “Monsieur?” which startled him.
-
-
 
 He laughed a forced laugh, affirmed that he had only been joking, and
 
@@ -6769,21 +5530,7 @@ lettres to his pupils. He did not wait for my answer, but rising, left
 
 the room, humming as he went some gay strain of Beranger’s.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XII.
-
-
 
 DAILY, as I continued my attendance at the seminary of Mdlle. Reuter,
 
@@ -6798,8 +5545,6 @@ gauzy, glittering; now when I came in contact with it I found it to be
 a palpable substance enough; very hard too sometimes, and often heavy;
 
 there was metal in it, both lead and iron.
-
-
 
 Let the idealists, the dreamers about earthly angel and human flowers,
 
@@ -6885,8 +5630,6 @@ yet was the mass of them mentally depraved. So much for the general
 
 view: now for one or two selected specimens.
 
-
-
 The first picture is a full length of Aurelia Koslow, a German fraulein,
 
 or rather a half-breed between German and Russian. She is eighteen years
@@ -6969,8 +5712,6 @@ sullen muttering, where I hear myself abused in bad French, pronounced
 
 with an intolerable Low German accent.
 
-
-
 Not far from Mdlle. Koslow sits another young lady by name Adele
 
 Dronsart: this is a Belgian, rather low of stature, in form heavy,
@@ -7009,8 +5750,6 @@ and perfidious smile. She was shunned by her fellow-pupils, for, bad as
 
 many of them were, few were as bad as she.
 
-
-
 Aurelia and Adele were in the first division of the second class; the
 
 second division was headed by a pensionnaire named Juanna Trista. This
@@ -7040,8 +5779,6 @@ had rather good, though large and marked features; her temperament was
 fibrous and bilious, her complexion pale and dark, hair and eyes black,
 
 form angular and rigid but proportionate, age fifteen.
-
-
 
 Juanna was not very thin, but she had a gaunt visage, and her “regard”
 
@@ -7097,13 +5834,9 @@ Isles, exulting in the thought that she should there have slaves, whom,
 
 as she said, she could kick and strike at will.
 
-
-
 These three pictures are from the life. I possess others, as marked and
 
 as little agreeable, but I will spare my reader the exhibition of them.
-
-
 
 Doubtless it will be thought that I ought now, by way of contrast, to
 
@@ -7159,8 +5892,6 @@ establishment; pale, blighted image, where life lingered feebly, but
 
 whence the soul had been conjured by Romish wizard-craft!
 
-
-
 A few English pupils there were in this school, and these might be
 
 divided into two classes. 1st. The continental English--the daughters
@@ -7189,8 +5920,6 @@ browbeating from their Popish fellow-pupils, who hated them as English,
 
 and scorned them as heretics.
 
-
-
 The second class were British English. Of these I did not encounter half
 
 a dozen during the whole time of my attendance at the seminary; their
@@ -7218,8 +5947,6 @@ insult with austere civility, and met hate with mute disdain; they
 eschewed company-keeping, and in the midst of numbers seemed to dwell
 
 isolated.
-
-
 
 The teachers presiding over this mixed multitude were three in number,
 
@@ -7256,8 +5983,6 @@ should think she possessed but little, as her pupils seemed constantly
 “en revolte” against her authority. She did not reside in the house; her
 
 name, I think, was Mdlle. Henri.
-
-
 
 Amidst this assemblage of all that was insignificant and defective, much
 
@@ -7343,8 +6068,6 @@ whether the lid shut again with a snap on her fingers, read on, and you
 
 shall know.
 
-
-
 It happened that I came one day to give a lesson when I was indisposed;
 
 I had a bad cold and a cough; two hours’ incessant talking left me very
@@ -7379,8 +6102,6 @@ mind was full of impatience for the afternoon of the next day to arrive,
 
 that I might see her again.
 
-
-
 I was not disappointed, for she sat in the class during the whole of my
 
 subsequent lesson, and often looked at me almost with affection. At four
@@ -7399,23 +6120,15 @@ at the sunshine and flowers, and felt very happy. The day-scholars began
 
 to pour from the schoolrooms into the passage.
 
-
-
 “Will you go into the garden a minute or two,” asked she, “till they are
 
 gone?”
-
-
 
 I descended the steps without answering, but I looked back as much as to
 
 say--
 
-
-
 “You will come with me?”
-
-
 
 In another minute I and the directress were walking side by side down
 
@@ -7453,27 +6166,15 @@ rang, both at her house and M. Pelet’s; we were obliged to part; I
 
 detained her a moment as she was moving away.
 
-
-
 “I want something,” said I.
-
-
 
 “What?” asked Zoraide naively.
 
-
-
 “Only a flower.”
-
-
 
 “Gather it then--or two, or twenty, if you like.”
 
-
-
 “No--one will do--but you must gather it, and give it to me.”
-
-
 
 “What a caprice!” she exclaimed, but she raised herself on her tip-toes,
 
@@ -7482,8 +6183,6 @@ and, plucking a beautiful branch of lilac, offered it to me with grace.
 I took it, and went away, satisfied for the present, and hopeful for the
 
 future.
-
-
 
 Certainly that May day was a lovely one, and it closed in moonlight
 
@@ -7536,8 +6235,6 @@ which rose white beyond the masses of foliage. I wondered in what part
 of the building was situated her apartment; and a single light, shining
 
 through the persiennes of one croisee, seemed to direct me to it.
-
-
 
 “She watches late,” thought I, “for it must be now near midnight. She
 
@@ -7635,29 +6332,19 @@ arm-in-arm, or hand-in-hand (I forget which) with my principal,
 
 confidant, and counsellor, M. Francois Pelet. And M. Pelet was saying--
 
-
-
 “A quand donc le jour des noces, ma bien-aimee?”
 
-
-
 And Mdlle. Reuter answered--
-
-
 
 “Mais, Francois, tu sais bien qu’il me serait impossible de me marier
 
 avant les vacances.”
-
-
 
 “June, July, August, a whole quarter!” exclaimed the director. “How can
 
 I wait so long?--I who am ready, even now, to expire at your feet with
 
 impatience!”
-
-
 
 “Ah! if you die, the whole affair will be settled without any trouble
 
@@ -7666,8 +6353,6 @@ about notaries and contracts; I shall only have to order a slight
 mourning dress, which will be much sooner prepared than the nuptial
 
 trousseau.”
-
-
 
 “Cruel Zoraide! you laugh at the distress of one who loves you so
 
@@ -7681,19 +6366,11 @@ presumed to fall in love, which he dared not have done unless you had
 
 given him room to hope.”
 
-
-
 “What do you say, Francois? Do you say Crimsworth is in love with me?”
-
-
 
 “Over head and ears.”
 
-
-
 “Has he told you so?”
-
-
 
 “No--but I see it in his face: he blushes whenever your name is
 
@@ -7715,8 +6392,6 @@ thought it). I heard her disclaim any intentions on the subject--the
 
 director, however, still pressed her to give a definite answer.
 
-
-
 “Francois,” said she, “you are jealous,” and still she laughed; then, as
 
 if suddenly recollecting that this coquetry was not consistent with the
@@ -7737,8 +6412,6 @@ dear friend.” Still Pelet uttered murmurs of distrust--so I judged, at
 
 least, from her reply.
 
-
-
 “What folly! How could I prefer an unknown foreigner to you? And
 
 then--not to flatter your vanity--Crimsworth could not bear comparison
@@ -7748,8 +6421,6 @@ with you either physically or mentally; he is not a handsome man at all;
 some may call him gentleman-like and intelligent-looking, but for my
 
 part--”
-
-
 
 The rest of the sentence was lost in the distance, as the pair, rising
 
@@ -7771,21 +6442,7 @@ friendship. I went to bed, but something feverish and fiery had got into
 
 my veins which prevented me from sleeping much that night.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XIII.
-
-
 
 NEXT morning I rose with the dawn, and having dressed myself and stood
 
@@ -7845,8 +6502,6 @@ face looking as knowing and more haggard than usual, his blue eye
 
 turned, now sternly on his boys and ushers, and now graciously on me.
 
-
-
 “Circumstances must guide me,” said I; and meeting Pelet’s false glance
 
 and insinuating smile, I thanked heaven that I had last night opened
@@ -7860,8 +6515,6 @@ his nature was now known to me; smile and flatter as he would, I saw his
 soul lurk behind his smile, and heard in every one of his smooth phrases
 
 a voice interpreting their treacherous import.
-
-
 
 But Zoraide Reuter? Of course her defection had cut me to the quick?
 
@@ -7915,19 +6568,13 @@ stood close by my side; she had nothing to say. I would not relieve her
 
 embarrassment, and negligently turned over the leaves of a book.
 
-
-
 “I hope you feel quite recovered to-day,” at last she said, in a low
 
 tone.
 
-
-
 “And I, mademoiselle, hope that you took no cold last night in
 
 consequence of your late walk in the garden.”
-
-
 
 Quick enough of comprehension, she understood me directly; her face
 
@@ -7981,13 +6628,9 @@ lengthened, though shrewd upper lip, no coward shame on her austere
 
 forehead!
 
-
-
 “There is metal there,” I said, as I gazed. “Would that there were fire
 
 also, living ardour to make the steel glow--then I could love her.”
-
-
 
 Presently I discovered that she knew I was watching her, for she stirred
 
@@ -8008,8 +6651,6 @@ I read that the wish of her heart, the design of her brain, was to lure
 back the game she had scared. A little incident gave her the opportunity
 
 of addressing me again.
-
-
 
 While all was silence in the class--silence, but for the rustling of
 
@@ -8032,8 +6673,6 @@ up, in order to make out her identity--for, shortsighted as I was, I had
 not recognized her at her entrance--Mdlle. Reuter, leaving her chair,
 
 approached the estrade.
-
-
 
 “Monsieur Creemsvort,” said she, in a whisper: for when the schoolrooms
 
@@ -8065,11 +6704,7 @@ instruction--n’est ce pas, monsieur?” And Mdlle. Reuter’s eyes were
 
 raised to mine with a look at once naive, benign, and beseeching.
 
-
-
 I replied, “Of course,” very laconically, almost abruptly.
-
-
 
 “Another word,” she said, with softness: “Mdlle. Henri has not received
 
@@ -8089,8 +6724,6 @@ me by attending to this hint?” I nodded. She continued with subdued
 
 earnestness--
 
-
-
 “Pardon me, monsieur, if I venture to add that what I have just said is
 
 of importance to the poor girl; she already experiences great difficulty
@@ -8106,8 +6739,6 @@ establishment too painful to be retained; a circumstance I should much
 regret for her sake, as she can ill afford to lose the profits of her
 
 occupation here.”
-
-
 
 Mdlle. Reuter possessed marvellous tact; but tact the most exclusive,
 
@@ -8133,13 +6764,9 @@ proceeded to collect them. As I passed the governess-pupil, I said to
 
 her--
 
-
-
 “You have come in too late to receive a lesson to-day; try to be more
 
 punctual next time.”
-
-
 
 I was behind her, and could not read in her face the effect of my not
 
@@ -8185,21 +6812,7 @@ bell rang; with my accustomed alertness in obeying that signal, I
 
 grasped my hat and evacuated the premises.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XIV.
-
-
 
 IF I was punctual in quitting Mdlle. Reuter’s domicile, I was at least
 
@@ -8273,8 +6886,6 @@ circumstances, which, while detracting from my merit, justify my
 
 veracity.
 
-
-
 Know, O incredulous reader! that a master stands in a somewhat different
 
 relation towards a pretty, light-headed, probably ignorant girl, to
@@ -8347,8 +6958,6 @@ admire too fondly the seemly forms and bright colours exposed to general
 
 view.
 
-
-
 Our likings are regulated by our circumstances. The artist prefers a
 
 hilly country because it is picturesque; the engineer a flat one because
@@ -8380,8 +6989,6 @@ was nothing either very meritorious or very marvellous in the
 integrity and moderation of my conduct at Mdlle. Reuter’s pensionnat de
 
 demoiselles.
-
-
 
 My first business this afternoon consisted in reading the list of
 
@@ -8453,8 +7060,6 @@ brand of mental inferiority was considered by them as no disgrace, their
 
 hopes for the future being based solely on their personal attractions.
 
-
-
 This affair arranged, the regular lesson followed. During a brief
 
 interval, employed by the pupils in ruling their books, my eye, ranging
@@ -8517,8 +7122,6 @@ but these traits would probably have passed unnoticed by any less
 
 crotchety observer.
 
-
-
 Now, reader, though I have spent more than a page in describing Mdlle.
 
 Henri, I know well enough that I have left on your mind’s eye no
@@ -8534,8 +7137,6 @@ long or short, her face square or oval; nor could I the first day,
 and it is not my intention to communicate to you at once a knowledge I
 
 myself gained by little and little.
-
-
 
 I gave a short exercise: which they all wrote down. I saw the new pupil
 
@@ -8587,21 +7188,7 @@ lift her eyes; she could look at me, it seemed, when perplexed and
 
 bewildered, but not when gratified; I thought that scarcely fair.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XV.
-
-
 
 SOME time elapsed before I again gave a lesson in the first class; the
 
@@ -8635,23 +7222,17 @@ school-room door, I heard her say, suddenly and sharply, addressing one
 
 of the eldest and most turbulent of the lot--
 
-
-
 “Amelie Mullenberg, ask me no question, and request of me no assistance,
 
 for a week to come; during that space of time I will neither speak to
 
 you nor help you.”
 
-
-
 The words were uttered with emphasis--nay, with vehemence--and a
 
 comparative silence followed; whether the calm was permanent, I know
 
 not; two doors now closed between me and the CARRE.
-
-
 
 Next day was appropriated to the first class; on my arrival, I found the
 
@@ -8679,13 +7260,9 @@ discourse had been of the most friendly tendency, for I heard the
 
 closing words--
 
-
-
 “C’est assez, ma bonne amie; a present je ne veux pas vous retenir
 
 davantage.”
-
-
 
 Without reply, Mdlle. Henri turned away; dissatisfaction was plainly
 
@@ -8715,8 +7292,6 @@ expecting with resignation the discords of the sixteenth, when a full,
 
 though low voice, read out, in clear correct English.
 
-
-
 “On his way to Perth, the king was met by a Highland woman, calling
 
 herself a prophetess; she stood at the side of the ferry by which he was
@@ -8726,8 +7301,6 @@ about to travel to the north, and cried with a loud voice, ‘My lord the
 king, if you pass this water you will never return again alive!’”--(VIDE
 
 the HISTORY OF SCOTLAND).
-
-
 
 I looked up in amazement; the voice was a voice of Albion; the accent
 
@@ -8753,8 +7326,6 @@ that of the others, and wanted to discover what I thought; I masked my
 
 visage with indifference, and ordered the next girl to proceed.
 
-
-
 When the lesson was over, I took advantage of the confusion caused by
 
 breaking up, to approach Mdlle. Henri; she was standing near the window
@@ -8767,41 +7338,23 @@ exercise-book out of her hand; as I turned over the leaves I addressed
 
 her:--
 
-
-
 “You have had lessons in English before?” I asked.
-
-
 
 “No, sir.”
 
-
-
 “No! you read it well; you have been in England?”
-
-
 
 “Oh, no!” with some animation.
 
-
-
 “You have been in English families?”
-
-
 
 Still the answer was “No.” Here my eye, resting on the flyleaf of the
 
 book, saw written, “Frances Evan Henri.”
 
-
-
 “Your name?” I asked
 
-
-
 “Yes, sir.”
-
-
 
 My interrogations were cut short; I heard a little rustling behind me,
 
@@ -8809,19 +7362,13 @@ and close at my back was the directress, professing to be examining the
 
 interior of a desk.
 
-
-
 “Mademoiselle,” said she, looking up and addressing the teacher, “Will
 
 you have the goodness to go and stand in the corridor, while the young
 
 ladies are putting on their things, and try to keep some order?”
 
-
-
 Mdlle. Henri obeyed.
-
-
 
 “What splendid weather!” observed the directress cheerfully, glancing at
 
@@ -8831,29 +7378,21 @@ your new pupil, monsieur?” continued she, following my retreating steps.
 
 “Is she likely to make progress in English?”
 
-
-
 “Indeed I can hardly judge. She possesses a pretty good accent; of
 
 her real knowledge of the language I have as yet had no opportunity of
 
 forming an opinion.”
 
-
-
 “And her natural capacity, monsieur? I have had my fears about that: can
 
 you relieve me by an assurance at least of its average power?”
-
-
 
 “I see no reason to doubt its average power, mademoiselle, but really
 
 I scarcely know her, and have not had time to study the calibre of her
 
 capacity. I wish you a very good afternoon.”
-
-
 
 She still pursued me. “You will observe, monsieur, and tell me what you
 
@@ -8917,13 +7456,9 @@ I fear I have touched this sore point inadvertently, and she cannot get
 
 over it.”
 
-
-
 During the greater part of this harangue my hand was on the lock of the
 
 outer door; I now turned it.
-
-
 
 “Au revoir, mademoiselle,” said I, and I escaped. I saw the directress’s
 
@@ -8997,21 +7532,7 @@ wore off, the real material appeared below, and they laid her aside as a
 
 deception.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XVI.
-
-
 
 In the course of another fortnight I had seen sufficient of Frances
 
@@ -9105,8 +7626,6 @@ the same preoccupied, unsmiling, sorrowfully resolved air that always
 
 shaded her features under the roof of Mdlle. Reuter, I could not tell.
 
-
-
 One day I gave, as a devoir, the trite little anecdote of Alfred tending
 
 cakes in the herdsman’s hut, to be related with amplifications. A
@@ -9127,8 +7646,6 @@ copied the anecdote out fair. I wrote on the margin of her production
 
 “Stupid and deceitful,” and then tore it down the middle.
 
-
-
 Last in the pile of single-leaved devoirs, I found one of several
 
 sheets, neatly written out and stitched together; I knew the hand, and
@@ -9136,8 +7653,6 @@ sheets, neatly written out and stitched together; I knew the hand, and
 scarcely needed the evidence of the signature “Frances Evans Henri” to
 
 confirm my conjecture as to the writer’s identity.
-
-
 
 Night was my usual time for correcting devoirs, and my own room the
 
@@ -9149,8 +7664,6 @@ as I snuffed the candle and addressed myself to the perusal of the poor
 
 teacher’s manuscript.
 
-
-
 “Now,” thought I, “I shall see a glimpse of what she really is; I shall
 
 get an idea of the nature and extent of her powers; not that she can be
@@ -9158,8 +7671,6 @@ get an idea of the nature and extent of her powers; not that she can be
 expected to express herself well in a foreign tongue, but still, if she
 
 has any mind, here will be a reflection of it.”
-
-
 
 The narrative commenced by a description of a Saxon peasant’s hut,
 
@@ -9182,8 +7693,6 @@ flocks, she puts on her sheep-skin mantle; and, addressing a stranger
 who rests half reclined on a bed of rushes near the hearth, bids him
 
 mind the bread till her return.
-
-
 
 “Take care, young man,” she continues, “that you fasten the door well
 
@@ -9209,15 +7718,11 @@ hearth, such a visitor would be a sure sign of misfortune to the house;
 
 therefore, heed my advice, and lift the latchet for nothing.”
 
-
-
 Her husband calls her away, both depart. The stranger, left alone,
 
 listens awhile to the muffled snow-wind, the remote, swollen sound of
 
 the river, and then he speaks.
-
-
 
 “It is Christmas Eve,” says he, “I mark the date; here I sit alone on
 
@@ -9255,8 +7760,6 @@ blood, I should not despair. I watch, I toil, I hope, I pray; Jehovah,
 
 in his own time, will aid.”
 
-
-
 I need not continue the quotation; the whole devoir was in the same
 
 strain. There were errors of orthography, there were foreign idioms,
@@ -9287,8 +7790,6 @@ mythological Destiny. This she had done without a hint from me: I had
 
 given the subject, but not said a word about the manner of treating it.
 
-
-
 “I will find, or make, an opportunity of speaking to her,” I said to
 
 myself as I rolled the devoir up; “I will learn what she has of English
@@ -9298,8 +7799,6 @@ in her besides the name of Frances Evans; she is no novice in the
 language, that is evident, yet she told me she had neither been in
 
 England, nor taken lessons in English, nor lived in English families.”
-
-
 
 In the course of my next lesson, I made a report of the other devoirs,
 
@@ -9343,8 +7842,6 @@ that a hope had been wrenched from her, and that if she did not show
 
 distress, it was because she would not.
 
-
-
 At four o’clock, when the bell rang and the room was in immediate
 
 tumult, instead of taking my hat and starting from the estrade, I sat
@@ -9357,8 +7854,6 @@ eye, she made a quiet, respectful obeisance, as bidding good afternoon,
 
 and was turning to depart:--
 
-
-
 “Come here,” said I, lifting my finger at the same time. She hesitated;
 
 she could not hear the words amidst the uproar now pervading both
@@ -9368,8 +7863,6 @@ school-rooms; I repeated the sign; she approached; again she paused
 within half a yard of the estrade, and looked shy, and still doubtful
 
 whether she had mistaken my meaning.
-
-
 
 “Step up,” I said, speaking with decision. It is the only way of dealing
 
@@ -9383,8 +7876,6 @@ rush of the second division, and where no one could sneak behind her to
 
 listen.
 
-
-
 “Take a seat,” I said, placing a tabouret; and I made her sit down. I
 
 knew what I was doing would be considered a very strange thing, and,
@@ -9395,13 +7886,9 @@ appearance of agitation and trembling, that she cared much. I drew from
 
 my pocket the rolled-up devoir.
 
-
-
 “This is yours, I suppose?” said I, addressing her in English, for I now
 
 felt sure she could speak English.
-
-
 
 “Yes,” she answered distinctly; and as I unrolled it and laid it out
 
@@ -9410,8 +7897,6 @@ flat on the desk before her with my hand upon it, and a pencil in that
 hand, I saw her moved, and, as it were, kindled; her depression beamed
 
 as a cloud might behind which the sun is burning.
-
-
 
 “This devoir has numerous faults,” said I. “It will take you some years
 
@@ -9426,8 +7911,6 @@ why they were errors, and how the words or phrases ought to have been
 written. In the course of this sobering process she became calm. I now
 
 went on:
-
-
 
 “As to the substance of your devoir, Mdlle. Henri, it has surprised me;
 
@@ -9447,8 +7930,6 @@ injustice, to derive free and full consolation from the consciousness of
 
 their strength and rarity.”
 
-
-
 “Strength and rarity!” I repeated to myself; “ay, the words are probably
 
 true,” for on looking up, I saw the sun had dissevered its screening
@@ -9457,8 +7938,6 @@ cloud, her countenance was transfigured, a smile shone in her eyes--a
 
 smile almost triumphant; it seemed to say--
 
-
-
 “I am glad you have been forced to discover so much of my nature; you
 
 need not so carefully moderate your language. Do you think I am myself a
@@ -9466,8 +7945,6 @@ need not so carefully moderate your language. Do you think I am myself a
 stranger to myself? What you tell me in terms so qualified, I have known
 
 fully from a child.”
-
-
 
 She did say this as plainly as a frank and flashing glance could, but
 
@@ -9487,8 +7964,6 @@ check her triumph by reproof; ere I could contract my brows to a frown
 
 she had become serious and almost mournful-looking.
 
-
-
 “Thank you, sir,” said she, rising. There was gratitude both in her
 
 voice and in the look with which she accompanied it. It was time,
@@ -9505,21 +7980,7 @@ and, close at my elbow, was the directress, sitting on a low chair,
 
 calmly clipping the tassels of her finished purse.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XVII.
-
-
 
 AFTER all I had profited but imperfectly by the opportunity I had so
 
@@ -9553,8 +8014,6 @@ Henri, regardless that envy stared and detraction whispered whenever I
 
 approached her.
 
-
-
 “Your book an instant.” Such was the mode in which I often began these
 
 brief dialogues; the time was always just at the conclusion of the
@@ -9573,8 +8032,6 @@ and self-possessed--an odd contradiction, doubtless, to the ordinary
 
 effect in such cases; but so it was.
 
-
-
 “A pencil,” said I, holding out my hand without looking at her. (I am
 
 now about to sketch a brief report of the first of these conferences.)
@@ -9583,109 +8040,59 @@ She gave me one, and while I underlined some errors in a grammatical
 
 exercise she had written, I observed--
 
-
-
 “You are not a native of Belgium?”
 
-
-
 “No.”
-
-
 
 “Nor of France?”
 
-
-
 “No.”
-
-
 
 “Where, then, is your birthplace?”
 
-
-
 “I was born at Geneva.”
-
-
 
 “You don’t call Frances and Evans Swiss names, I presume?”
 
-
-
 “No, sir; they are English names.”
-
-
 
 “Just so; and is it the custom of the Genevese to give their children
 
 English appellatives?”
 
-
-
 “Non, Monsieur; mais--”
-
-
 
 “Speak English, if you please.”
 
-
-
 “Mais--”
 
-
-
 “English--”
-
-
 
 “But” (slowly and with embarrassment) “my parents were not all the two
 
 Genevese.”
 
-
-
 “Say BOTH, instead of ‘all the two,’ mademoiselle.”
-
-
 
 “Not BOTH Swiss: my mother was English.”
 
-
-
 “Ah! and of English extraction?”
-
-
 
 “Yes--her ancestors were all English.”
 
-
-
 “And your father?”
-
-
 
 “He was Swiss.”
 
-
-
 “What besides? What was his profession?”
 
-
-
 “Ecclesiastic--pastor--he had a church.”
-
-
 
 “Since your mother is an Englishwoman, why do you not speak English with
 
 more facility?”
 
-
-
 “Maman est morte, il y a dix ans.”
-
-
 
 “And you do homage to her memory by forgetting her language. Have the
 
@@ -9693,69 +8100,37 @@ goodness to put French out of your mind so long as I converse with
 
 you--keep to English.”
 
-
-
 “C’est si difficile, monsieur, quand on n’en a plus l’habitude.”
-
-
 
 “You had the habitude formerly, I suppose? Now answer me in your mother
 
 tongue.”
 
-
-
 “Yes, sir, I spoke the English more than the French when I was a child.”
-
-
 
 “Why do you not speak it now?”
 
-
-
 “Because I have no English friends.”
-
-
 
 “You live with your father, I suppose?”
 
-
-
 “My father is dead.”
-
-
 
 “You have brothers and sisters?”
 
-
-
 “Not one.”
-
-
 
 “Do you live alone?”
 
-
-
 “No--I have an aunt--ma tante Julienne.”
-
-
 
 “Your father’s sister?”
 
-
-
 “Justement, monsieur.”
-
-
 
 “Is that English?”
 
-
-
 “No--but I forget--”
-
-
 
 “For which, mademoiselle, if you were a child I should certainly devise
 
@@ -9763,11 +8138,7 @@ some slight punishment; at your age--you must be two or three and
 
 twenty, I should think?”
 
-
-
 “Pas encore, monsieur--en un mois j’aurai dix-neuf ans.”
-
-
 
 “Well, nineteen is a mature age, and, having attained it, you ought to
 
@@ -9776,8 +8147,6 @@ be so solicitous for your own improvement, that it should not be needful
 for a master to remind you twice of the expediency of your speaking
 
 English whenever practicable.”
-
-
 
 To this wise speech I received no answer; and, when I looked up, my
 
@@ -9789,87 +8158,49 @@ so plainly, that I determined to request information on the point
 
 concerning which my ignorance seemed to be thus tacitly affirmed.
 
-
-
 “Are you solicitous for your own improvement?”
-
-
 
 “Rather.”
 
-
-
 “How do you prove it, mademoiselle?”
-
-
 
 An odd question, and bluntly put; it excited a second smile.
 
-
-
 “Why, monsieur, I am not inattentive--am I? I learn my lessons well--”
-
-
 
 “Oh, a child can do that! and what more do you do?”
 
-
-
 “What more can I do?”
-
-
 
 “Oh, certainly, not much; but you are a teacher, are you not, as well as
 
 a pupil?”
 
-
-
 “Yes.”
-
-
 
 “You teach lace-mending?”
 
-
-
 “Yes.”
-
-
 
 “A dull, stupid occupation; do you like it?”
 
-
-
 “No--it is tedious.”
-
-
 
 “Why do you pursue it? Why do you not rather teach history, geography,
 
 grammar, even arithmetic?”
 
-
-
 “Is monsieur certain that I am myself thoroughly acquainted with these
 
 studies?”
 
-
-
 “I don’t know; you ought to be at your age.”
 
-
-
 “But I never was at school, monsieur--”
-
-
 
 “Indeed! What then were your friends--what was your aunt about? She is
 
 very much to blame.”
-
-
 
 “No monsieur, no--my aunt is good--she is not to blame--she does what
 
@@ -9881,13 +8212,9 @@ rich; she has only an annuity of twelve hundred francs, and it would be
 
 impossible for her to send me to school.”
 
-
-
 “Rather,” thought I to myself on hearing this, but I continued, in the
 
 dogmatical tone I had adopted:--
-
-
 
 “It is sad, however, that you should be brought up in ignorance of the
 
@@ -9897,11 +8224,7 @@ and grammar you might, by degrees, have relinquished your lace-mending
 
 drudgery, and risen in the world.”
 
-
-
 “It is what I mean to do.”
-
-
 
 “How? By a knowledge of English alone? That will not suffice; no
 
@@ -9909,17 +8232,11 @@ respectable family will receive a governess whose whole stock of
 
 knowledge consists in a familiarity with one foreign language.”
 
-
-
 “Monsieur, I know other things.”
-
-
 
 “Yes, yes, you can work with Berlin wools, and embroider handkerchiefs
 
 and collars--that will do little for you.”
-
-
 
 Mdlle. Henri’s lips were unclosed to answer, but she checked herself,
 
@@ -9927,37 +8244,25 @@ as thinking the discussion had been sufficiently pursued, and remained
 
 silent.
 
-
-
 “Speak,” I continued, impatiently; “I never like the appearance of
 
 acquiescence when the reality is not there; and you had a contradiction
 
 at your tongue’s end.”
 
-
-
 “Monsieur, I have had many lessons both in grammar, history, geography,
 
 and arithmetic. I have gone through a course of each study.”
-
-
 
 “Bravo! but how did you manage it, since your aunt could not afford to
 
 send you to school?”
 
-
-
 “By lace-mending; by the thing monsieur despises so much.”
-
-
 
 “Truly! And now, mademoiselle, it will be a good exercise for you to
 
 explain to me in English how such a result was produced by such means.”
-
-
 
 “Monsieur, I begged my aunt to have me taught lace-mending soon after
 
@@ -9983,39 +8288,23 @@ despise me, as the pupils here despise me. Pourtant j’ai mon projet,”
 
  she added in a lower tone.
 
-
-
 “What is it?”
 
-
-
 “I will go and live in England; I will teach French there.”
-
-
 
 The words were pronounced emphatically. She said “England” as you might
 
 suppose an Israelite of Moses’ days would have said Canaan.
 
-
-
 “Have you a wish to see England?”
-
-
 
 “Yes, and an intention.”
 
-
-
 And here a voice, the voice of the directress, interposed:
-
-
 
 “Mademoiselle Henri, je crois qu’il va pleuvoir; vous feriez bien, ma
 
 bonne amie, de retourner chez vous tout de suite.”
-
-
 
 In silence, without a word of thanks for this officious warning, Mdlle.
 
@@ -10024,8 +8313,6 @@ Henri collected her books; she moved to me respectfully, endeavoured to
 move to her superior, though the endeavour was almost a failure, for her
 
 head seemed as if it would not bend, and thus departed.
-
-
 
 Where there is one grain of perseverance or wilfulness in the
 
@@ -10041,13 +8328,9 @@ of the next lesson I was again at Mdlle. Henri’s desk. Thus did I accost
 
 her:--
 
-
-
 “What is your idea of England, mademoiselle? Why do you wish to go
 
 there?”
-
-
 
 Accustomed by this time to the calculated abruptness of my manner, it no
 
@@ -10059,13 +8342,9 @@ experienced in improvising the translation of her thoughts from French
 
 to English.
 
-
-
 “England is something unique, as I have heard and read; my idea of it is
 
 vague, and I want to go there to render my idea clear, definite.”
-
-
 
 “Hum! How much of England do you suppose you could see if you went there
 
@@ -10077,17 +8356,11 @@ Britain would be the interior of a school, or at most of one or two
 
 private dwellings.”
 
-
-
 “It would be an English school; they would be English dwellings.”
-
-
 
 “Indisputably; but what then? What would be the value of observations
 
 made on a scale so narrow?”
-
-
 
 “Monsieur, might not one learn something by analogy?
 
@@ -10099,27 +8372,15 @@ life would perhaps seem narrow in your eyes--all the life of a--that
 
 little animal subterranean--une taupe--comment dit-on?”
 
-
-
 “Mole.”
-
-
 
 “Yes--a mole, which lives underground would seem narrow even to me.”
 
-
-
 “Well, mademoiselle--what then? Proceed.”
-
-
 
 “Mais, monsieur, vous me comprenez.”
 
-
-
 “Not in the least; have the goodness to explain.”
-
-
 
 “Why, monsieur, it is just so. In Switzerland I have done but little,
 
@@ -10145,21 +8406,15 @@ London, I would know something of the bourgeois of London. Can you make
 
 any sense out of what I say, monsieur, or is it all obscure?”
 
-
-
 “I see, I see--now let us advert to another subject; you propose to
 
 devote your life to teaching, and you are a most unsuccessful teacher;
 
 you cannot keep your pupils in order.”
 
-
-
 A flush of painful confusion was the result of this harsh remark; she
 
 bent her head to the desk, but soon raising it replied--
-
-
 
 “Monsieur, I am not a skilful teacher, it is true, but practice
 
@@ -10171,8 +8426,6 @@ art; then I have no associates in this house, I am isolated; I am too a
 
 heretic, which deprives me of influence.”
 
-
-
 “And in England you would be a foreigner; that too would deprive you
 
 of influence, and would effectually separate you from all round you; in
@@ -10180,8 +8433,6 @@ of influence, and would effectually separate you from all round you; in
 England you would have as few connections, as little importance as you
 
 have here.”
-
-
 
 “But I should be learning something; for the rest, there are probably
 
@@ -10191,19 +8442,13 @@ perhaps be conquered, I would rather submit to English pride than to
 
 Flemish coarseness; besides, monsieur--”
 
-
-
 She stopped--not evidently from any difficulty in finding words to
 
 express herself, but because discretion seemed to say, “You have said
 
 enough.”
 
-
-
 “Finish your phrase,” I urged.
-
-
 
 “Besides, monsieur, I long to live once more among Protestants; they are
 
@@ -10219,15 +8464,11 @@ lies; they all call it politeness to profess friendship where they feel
 
 hatred.”
 
-
-
 “All?” said I; “you mean the pupils--the mere children--inexperienced,
 
 giddy things, who have not learnt to distinguish the difference between
 
 right and wrong?”
-
-
 
 “On the contrary, monsieur--the children are the most sincere; they have
 
@@ -10239,11 +8480,7 @@ the grown-up people are very false; they deceive strangers, they deceive
 
 each other--”
 
-
-
 A servant here entered:--
-
-
 
 “Mdlle. Henri--Mdlle. Reuter vous prie de vouloir bien conduire la
 
@@ -10253,29 +8490,13 @@ de Rosalie la portiere--c’est que sa bonne n’est pas venue la
 
 chercher--voyez-vous.”
 
-
-
 “Eh bien! est-ce que je suis sa bonne--moi?” demanded Mdlle. Henri; then
 
 smiling, with that same bitter, derisive smile I had seen on her lips
 
 once before, she hastily rose and made her exit.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XVIII.
-
-
 
 THE young Anglo-Swiss evidently derived both pleasure and profit from
 
@@ -10315,23 +8536,15 @@ over her shoulder, was writing some directions with a pencil on the
 
 margin of her book.
 
-
-
 “Well, are you pleased that I am satisfied with your progress?” I asked.
-
-
 
 “Yes,” said she slowly, gently, the blush that had half subsided
 
 returning.
 
-
-
 “But I do not say enough, I suppose?” I continued. “My praises are too
 
 cool?”
-
-
 
 She made no answer, and, I thought, looked a little sad. I divined her
 
@@ -10358,8 +8571,6 @@ occasion to walk past in order to ascertain by what art I prolonged so
 disproportionately the period necessary for filling it. I was obliged to
 
 go. Distasteful effort--to leave what we most prefer!
-
-
 
 Frances did not become pale or feeble in consequence of her sedentary
 
@@ -10411,8 +8622,6 @@ symmetry, and allowed a lightness and freedom of movement which
 
 corresponded with my ideas of grace.
 
-
-
 Thus improved, thus wakened to life, Mdlle. Henri began to take a
 
 new footing in the school; her mental power, manifested gradually but
@@ -10424,8 +8633,6 @@ the young and healthy saw that she could smile brightly, converse gaily,
 move with vivacity and alertness, they acknowledged in her a sisterhood
 
 of youth and health, and tolerated her as of their kind accordingly.
-
-
 
 To speak truth, I watched this change much as a gardener watches the
 
@@ -10455,8 +8662,6 @@ best suited Frances’ feelings, as susceptible as deep vibrating--her
 
 nature at once proud and shy.
 
-
-
 The benefits of my system became apparent also in her altered demeanour
 
 as a teacher; she now took her place amongst her pupils with an air
@@ -10472,8 +8677,6 @@ rebellion to heart; she possessed a source of comfort they could not
 drain, a pillar of support they could not overthrow: formerly, when
 
 insulted, she wept; now, she smiled.
-
-
 
 The public reading of one of her devoirs achieved the revelation of her
 
@@ -10505,13 +8708,9 @@ period. At the close, consolation was suggested; religious faith became
 
 there the speaker, and she spoke well.
 
-
-
 The devoir was powerfully written in language at once chaste and choice,
 
 in a style nerved with vigour and graced with harmony.
-
-
 
 Mdlle. Reuter was quite sufficiently acquainted with English to
 
@@ -10533,21 +8732,15 @@ countenance, so no more were disdain, envy, annoyance, weariness; if
 
 that inscrutable mien said anything, it was simply this--
 
-
-
 “The matter is too trite to excite an emotion, or call forth an
 
 opinion.”
-
-
 
 As soon as I had done, a hum rose; several of the pupils, pressing round
 
 Mdlle. Henri, began to beset her with compliments; the composed voice of
 
 the directress was now heard:--
-
-
 
 “Young ladies, such of you as have cloaks and umbrellas will hasten
 
@@ -10557,19 +8750,13 @@ little), “the remainder will wait till their respective servants arrive
 
 to fetch them.” And the school dispersed, for it was four o’clock.
 
-
-
 “Monsieur, a word,” said Mdlle. Reuter, stepping on to the estrade, and
 
 signifying, by a movement of the hand, that she wished me to relinquish,
 
 for an instant, the castor I had clutched.
 
-
-
 “Mademoiselle, I am at your service.”
-
-
 
 “Monsieur, it is of course an excellent plan to encourage effort in
 
@@ -10625,15 +8812,11 @@ even in celibacy it would be better for her to retain the character and
 
 habits of a respectable decorous female.”
 
-
-
 “Indisputably, mademoiselle,” was my answer. “Your opinion admits of no
 
 doubt;” and, fearful of the harangue being renewed, I retreated under
 
 cover of that cordial sentence of assent.
-
-
 
 At the date of a fortnight after the little incident noted above, I find
 
@@ -10663,39 +8846,23 @@ knew that I should at least get a sensible answer, unaccompanied by
 
 wriggle, titter, or other flourish of folly.
 
-
-
 “Ou donc est Mdlle. Henri?” I said one day as I returned an
 
 exercise-book I had been examining.
 
-
-
 “Elle est partie, monsieur.”
-
-
 
 “Partie? et pour combien de temps? Quand reviendra-t-elle?”
 
-
-
 “Elle est partie pour toujours, monsieur; elle ne reviendra plus.”
-
-
 
 “Ah!” was my involuntary exclamation; then after a pause:--
 
-
-
 “En etes-vous bien sure, Sylvie?”
-
-
 
 “Oui, oui, monsieur, mademoiselle la directrice nous l’a dit elle-meme
 
 il y a deux ou trois jours.”
-
-
 
 And I could pursue my inquiries no further; time, place, and
 
@@ -10711,19 +8878,13 @@ listeners all round. An hour after, in passing Sylvie in the corridor as
 
 she was putting on her bonnet, I stopped short and asked:--
 
-
-
 “Sylvie, do you know Mdlle. Henri’s address? I have some books of hers,”
 
  I added carelessly, “and I should wish to send them to her.”
 
-
-
 “No, monsieur,” replied Sylvie; “but perhaps Rosalie, the portress, will
 
 be able to give it you.”
-
-
 
 Rosalie’s cabinet was just at hand; I stepped in and repeated the
 
@@ -10757,8 +8918,6 @@ bland smile played on her features; my harsh apology was received with
 
 good-humoured facility.
 
-
-
 “Oh, don’t mention it, monsieur; you only touched my hair with your
 
 elbow; it is no worse, only a little dishevelled.” She shook it back,
@@ -10767,15 +8926,11 @@ and passing her fingers through her curls, loosened them into more
 
 numerous and flowing ringlets. Then she went on with vivacity:
 
-
-
 “Rosalie, I was coming to tell you to go instantly and close the windows
 
 of the salon; the wind is rising, and the muslin curtains will be
 
 covered with dust.”
-
-
 
 Rosalie departed. “Now,” thought I, “this will not do; Mdlle. Reuter
 
@@ -10791,13 +8946,9 @@ two of plain truth. “The rough-shod foot treads most firmly on slippery
 
 ground,” thought I; so I began:
 
-
-
 “Mademoiselle Henri has left your establishment--been dismissed, I
 
 presume?”
-
-
 
 “Ah, I wished to have a little conversation with you, monsieur,” replied
 
@@ -10809,8 +8960,6 @@ minute?” And she preceded me, stepping out through the glass-door I have
 
 before mentioned.
 
-
-
 “There,” said she, when we had reached the centre of the middle alley,
 
 and when the foliage of shrubs and trees, now in their summer pride,
@@ -10820,8 +8969,6 @@ closing behind and around us, shut out the view of the house, and thus
 imparted a sense of seclusion even to this little plot of ground in the
 
 very core of a capital.
-
-
 
 “There, one feels quiet and free when there are only pear-trees and
 
@@ -10839,11 +8986,7 @@ propre, tout entouree de champs et de bois; quelle vie charmante que la
 
 vie champetre! N’est-ce pas, monsieur?”
 
-
-
 “Cela depend, mademoiselle.”
-
-
 
 “Que le vent est bon et frais!” continued the directress; and she was
 
@@ -10859,11 +9002,7 @@ Mdlle. Reuter, my heart was still hot within me, and while I was musing
 
 the fire burned; then spake I with my tongue:--
 
-
-
 “I understand Mdlle. Henri is gone from hence, and will not return?”
-
-
 
 “Ah, true! I meant to have named the subject to you some days ago, but
 
@@ -10873,15 +9012,11 @@ have you never experienced what it is, monsieur, to find the day too
 
 short by twelve hours for your numerous duties?”
 
-
-
 “Not often. Mdlle. Henri’s departure was not voluntary, I presume? If it
 
 had been, she would certainly have given me some intimation of it, being
 
 my pupil.”
-
-
 
 “Oh, did she not tell you? that was strange; for my part, I never
 
@@ -10891,13 +9026,9 @@ attend to, one is apt to forget little incidents that are not of primary
 
 importance.”
 
-
-
 “You consider Mdlle. Henri’s dismission, then, as a very insignificant
 
 event?”
-
-
 
 “Dismission? Ah! she was not dismissed; I can say with truth, monsieur,
 
@@ -10905,11 +9036,7 @@ that since I became the head of this establishment no master or teacher
 
 has ever been dismissed from it.”
 
-
-
 “Yet some have left it, mademoiselle?”
-
-
 
 “Many; I have found it necessary to change frequently--a change of
 
@@ -10919,13 +9046,9 @@ life and variety to the proceedings; it amuses the pupils, and suggests
 
 to the parents the idea of exertion and progress.”
 
-
-
 “Yet when you are tired of a professor or maitresse, you scruple to
 
 dismiss them?”
-
-
 
 “No need to have recourse to such extreme measures, I assure you.
 
@@ -10967,11 +9090,7 @@ her blue eye glittered upon me--it did not flash--nothing of flame ever
 
 kindled in its temperate gleam.
 
-
-
 “Monsieur fears to sit by me?” she inquired playfully.
-
-
 
 “I have no wish to usurp Pelet’s place,” I answered, for I had got the
 
@@ -10987,11 +9106,7 @@ flutters in its cage, and would fain fly from its jail and jailer, and
 
 seek its natural mate and pleasant nest.
 
-
-
 “Well--and your lesson?” I demanded briefly.
-
-
 
 “Ah!” she exclaimed, recovering herself, “you are so young, so frank
 
@@ -11005,8 +9120,6 @@ that before, for there is delicacy as well as power in your
 
 character--policy, as well as pride?”
 
-
-
 “Go on,” said I; and I could hardly help smiling, the flattery was so
 
 piquant, so finely seasoned. She caught the prohibited smile, though I
@@ -11016,8 +9129,6 @@ passed my hand over my month to conceal it; and again she made room for
 me to sit beside her. I shook my head, though temptation penetrated to
 
 my senses at the moment, and once more I told her to go on.
-
-
 
 “Well, then, if ever you are at the head of a large establishment,
 
@@ -11036,8 +9147,6 @@ archness, more deference, a spicy dash of coquetry, an unveiled
 consciousness of capacity. I nodded; she treated me like the great
 
 Mogul; so I became the great Mogul as far as she was concerned.
-
-
 
 “I like, monsieur, to take my knitting in my hands, and to sit quietly
 
@@ -11073,8 +9182,6 @@ stumbling-block removed--and no one saw me: I have not made an enemy, I
 
 am rid of an incumbrance.”
 
-
-
 A moment since, and I thought her alluring; this speech concluded, I
 
 looked on her with distaste. “Just like you,” was my cold answer.
@@ -11082,8 +9189,6 @@ looked on her with distaste. “Just like you,” was my cold answer.
 “And in this way you have ousted Mdlle. Henri? You wanted her office,
 
 therefore you rendered it intolerable to her?”
-
-
 
 “Not at all, monsieur, I was merely anxious about Mdlle. Henri’s health;
 
@@ -11101,13 +9206,9 @@ than teach sewing. I reasoned with her; left the decision to herself;
 
 she saw the correctness of my views, and adopted them.”
 
-
-
 “Excellent! and now, mademoiselle, you will have the goodness to give me
 
 her address.”
-
-
 
 “Her address!” and a sombre and stony change came over the mien of
 
@@ -11125,8 +9226,6 @@ abode; her means were narrow, her origin obscure; she lives somewhere,
 
 doubtless, in the ‘basse ville.’”
 
-
-
 “I’ll not lose sight of my best pupil yet,” said I, “though she were
 
 born of beggars and lodged in a cellar; for the rest, it is absurd to
@@ -11138,8 +9237,6 @@ Swiss pastor’s daughter, neither more nor less; and, as to her narrow
 means, I care nothing for the poverty of her purse so long as her heart
 
 overflows with affluence.”
-
-
 
 “Your sentiments are perfectly noble, monsieur,” said the directress,
 
@@ -11155,21 +9252,7 @@ low over the citadel. I did not like her thus, so I cut short the
 
 TETE-A-TETE and departed.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XIX.
-
-
 
 NOVELISTS should never allow themselves to weary of the study of real
 
@@ -11206,8 +9289,6 @@ and dissolution flings us in--a rag eaten through and through with
 disease, wrung together with pain, stamped into the churchyard sod by
 
 the inexorable heel of despair.
-
-
 
 But the man of regular life and rational mind never despairs. He loses
 
@@ -11251,8 +9332,6 @@ duties of life; and, though sadness may never lift her burden from his
 
 mind, Hope will enable him to support it.
 
-
-
 Well--and what suggested all this? and what is the inference to be drawn
 
 therefrom? What suggested it, is the circumstance of my best pupil--my
@@ -11281,8 +9360,6 @@ revenge, they sat on my pillow, haunted my bed, and kept me awake with
 
 their long, midnight cry.
 
-
-
 A week passed. I had said nothing more to Mdlle. Reuter. I had been calm
 
 in my demeanour to her, though stony cold and hard. When I looked at
@@ -11301,13 +9378,9 @@ the same tranquil tone and manner that I should have used had I put the
 
 question for the first time--
 
-
-
 “Mademoiselle, will you have the goodness to give me the address of
 
 Frances Evans Henri?”
-
-
 
 A little surprised, but not disconcerted, she smilingly disclaimed any
 
@@ -11315,13 +9388,9 @@ knowledge of that address, adding, “Monsieur has perhaps forgotten that
 
 I explained all about that circumstance before--a week ago?”
 
-
-
 “Mademoiselle,” I continued, “you would greatly oblige me by directing
 
 me to that young person’s abode.”
-
-
 
 She seemed somewhat puzzled; and, at last, looking up with an admirably
 
@@ -11329,17 +9398,11 @@ counterfeited air of naivete, she demanded, “Does Monsieur think I am
 
 telling an untruth?”
 
-
-
 Still avoiding to give her a direct answer, I said, “It is not then your
 
 intention, mademoiselle, to oblige me in this particular?”
 
-
-
 “But, monsieur, how can I tell you what I do not know?”
-
-
 
 “Very well; I understand you perfectly, mademoiselle, and now I have
 
@@ -11353,13 +9416,9 @@ English master--at the close of August, I shall be under the necessity
 
 of resigning my post in your establishment.”
 
-
-
 I did not wait for her comments on this announcement, but bowed and
 
 immediately withdrew.
-
-
 
 That same evening, soon after dinner, a servant brought me a small
 
@@ -11371,11 +9430,7 @@ prevent my immediately opening it; it contained four five-franc pieces,
 
 and a note in English.
 
-
-
 “MONSIEUR,
-
-
 
 “I came to Mdlle. Reuter’s house yesterday, at the time when I knew you
 
@@ -11423,21 +9478,13 @@ distresses. What claim have I on your sympathy? None; I will then say no
 
 more.
 
-
-
 “Farewell, Monsieur.
 
-
-
 “F. E. HENRI.”
-
-
 
 I put up the note in my pocket-book. I slipped the five-franc pieces
 
 into my purse--then I took a turn through my narrow chamber.
-
-
 
 “Mdlle. Reuter talked about her poverty,” said I, “and she is poor;
 
@@ -11487,41 +9534,25 @@ pride, her shyness, all to yield to a little bit of determined Will--now
 
 where is she? How can I get at her?”
 
-
-
 Opening my chamber door I walked down into the kitchen.
-
-
 
 “Who brought the packet?” I asked of the servant who had delivered it to
 
 me.
 
-
-
 “Un petit commissionaire, monsieur.”
-
-
 
 “Did he say anything?”
 
-
-
 “Rien.”
-
-
 
 And I wended my way up the back-stairs, wondrously the wiser for my
 
 inquiries.
 
-
-
 “No matter,” said I to myself, as I again closed the door. “No
 
 matter--I’ll seek her through Brussels.”
-
-
 
 And I did. I sought her day by day whenever I had a moment’s leisure,
 
@@ -11560,8 +9591,6 @@ failed to recognize the peculiarities it was bent upon; an ample space
 of brow and a large, dark, and serious eye, with a fine but decided line
 
 of eyebrow traced above.
-
-
 
 “She has probably left Brussels--perhaps is gone to England, as she
 
@@ -11675,8 +9704,6 @@ everlastings announced, “The Protestant Cemetery, outside the gate of
 
 Louvain.”
 
-
-
 The place was large enough to afford half an hour’s strolling without
 
 the monotony of treading continually the same path; and, for those who
@@ -11728,8 +9755,6 @@ the flowers, as languid as fair, waited listless for night dew or
 thunder-shower; where the tombs, and those they hid, lay impassible to
 
 sun or shadow, to rain or drought.
-
-
 
 Importuned by the sound of my own footsteps, I turned off upon the turf,
 
@@ -11793,8 +9818,6 @@ graveyard--here was my lost jewel dropped on the tear-fed herbage,
 
 nestling in the messy and mouldy roots of yew-trees.
 
-
-
 Frances sat very quiet, her elbow on her knee, and her head on her hand.
 
 I knew she could retain a thinking attitude a long time without change;
@@ -11847,8 +9870,6 @@ out after the heavy summer shower; and what fertilizes more rapidly than
 
 that beam, burning almost like fire in its ardour?
 
-
-
 I hate boldness--that boldness which is of the brassy brow and insensate
 
 nerves; but I love the courage of the strong heart, the fervour of the
@@ -11859,11 +9880,7 @@ hazel eye when it did not fear to look straight into mine; I loved the
 
 tones with which she uttered the words--
 
-
-
 “Mon maitre! mon maitre!”
-
-
 
 I loved the movement with which she confided her hand to my hand; I
 
@@ -11907,8 +9924,6 @@ cemetery, I felt I had another sentiment, as strong as confidence, as
 
 firm as respect, more fervid than either--that of love.
 
-
-
 “Well, my pupil,” said I, as the ominous sounding gate swung to behind
 
 us--“Well, I have found you again: a month’s search has seemed long,
@@ -11916,8 +9931,6 @@ us--“Well, I have found you again: a month’s search has seemed long,
 and I little thought to have discovered my lost sheep straying amongst
 
 graves.”
-
-
 
 Never had I addressed her but as “Mademoiselle” before, and to speak
 
@@ -11927,8 +9940,6 @@ me that this language ruffled none of her feelings, woke no discord in
 
 her heart:
 
-
-
 “Mon maitre,” she said, “have you troubled yourself to seek me? I little
 
 imagined you would think much of my absence, but I grieved bitterly to
@@ -11937,11 +9948,7 @@ be taken away from you. I was sorry for that circumstance when heavier
 
 troubles ought to have made me forget it.”
 
-
-
 “Your aunt is dead?”
-
-
 
 “Yes, a fortnight since, and she died full of regret, which I could not
 
@@ -11961,21 +9968,13 @@ taken her remains back to our own country, but that was impossible; I
 
 was forced to lay her here.”
 
-
-
 “She was ill but a short time, I presume?”
-
-
 
 “But three weeks. When she began to sink I asked Mdlle. Reuter’s leave
 
 to stay with her and wait on her; I readily got leave.”
 
-
-
 “Do you return to the pensionnat!” I demanded hastily.
-
-
 
 “Monsieur, when I had been at home a week Mdlle. Reuter called one
 
@@ -12019,8 +10018,6 @@ then she said something about the excellent condition of the streets,
 
 and the long continuance of fine weather, and went away quite cheerful.”
 
-
-
 I laughed inwardly; all this was so like the directress--so like what I
 
 had expected and guessed of her conduct; and then the exposure and proof
@@ -12032,8 +10029,6 @@ applied for Mdlle. Henri’s address,” forsooth; “Mdlle. Henri had always
 evaded giving it,” &c., &c., and here I found her a visitor at the very
 
 house of whose locality she had professed absolute ignorance!
-
-
 
 Any comments I might have intended to make on my pupil’s communication,
 
@@ -12053,15 +10048,9 @@ heavy rain came on; in the meantime we had passed through the Porte de
 
 Louvain, and were again in the city.
 
-
-
 “Where do you live?” I asked; “I will see you safe home.”
 
-
-
 “Rue Notre Dame aux Neiges,” answered Frances.
-
-
 
 It was not far from the Rue de Louvain, and we stood on the doorsteps
 
@@ -12070,8 +10059,6 @@ of the house we sought ere the clouds, severing with loud peal and
 shattered cataract of lightning, emptied their livid folds in a torrent,
 
 heavy, prone, and broad.
-
-
 
 “Come in! come in!” said Frances, as, after putting her into the house,
 
@@ -12086,8 +10073,6 @@ projection over the door had warded off the straight-descending flood;
 none but the first, large drops had touched our garments; one minute
 
 more and we should not have had a dry thread on us.
-
-
 
 Stepping over a little mat of green wool, I found myself in a small room
 
@@ -12149,27 +10134,19 @@ it had a cover; she opened it, and produced wood and coal; deftly and
 
 compactly she arranged them in the grate.
 
-
-
 “It is her whole stock, and she will exhaust it out of hospitality,”
 
  thought I.
 
-
-
 “What are you going to do?” I asked: “not surely to light a fire this
 
 hot evening? I shall be smothered.”
-
-
 
 “Indeed, monsieur, I feel it very chilly since the rain began; besides,
 
 I must boil the water for my tea, for I take tea on Sundays; you will be
 
 obliged to try and bear the heat.”
-
-
 
 She had struck a light; the wood was already in a blaze; and truly, when
 
@@ -12188,8 +10165,6 @@ foot-stool, came and rubbed its head against Frances’ gown as she knelt;
 she caressed it, saying it had been a favourite with her “pauvre tante
 
 Julienne.”
-
-
 
 The fire being lit, the hearth swept, and a small kettle of a very
 
@@ -12215,15 +10190,9 @@ preparations, she chanced to look up, and, reading curiosity in my eyes,
 
 she smiled and asked--
 
-
-
 “Is this like England, monsieur?”
 
-
-
 “Like the England of a hundred years ago,” I replied.
-
-
 
 “Is it truly? Well, everything on this tray is at least a hundred
 
@@ -12237,8 +10206,6 @@ to me; and, ever since I was a little girl, I have thought I should like
 
 to carry them back to England, whence they came.”
 
-
-
 She put some pistolets on the table; she made the tea, as foreigners do
 
 make tea--i.e., at the rate of a teaspoonful to half-a-dozen cups;
@@ -12247,11 +10214,7 @@ she placed me a chair, and, as I took it, she asked, with a sort of
 
 exaltation--
 
-
-
 “Will it make you think yourself at home for a moment?”
-
-
 
 “If I had a home in England, I believe it would recall it,” I
 
@@ -12261,11 +10224,7 @@ fair-complexioned English-looking girl presiding at the English meal,
 
 and speaking in the English language.
 
-
-
 “You have then no home?” was her remark.
-
-
 
 “None, nor ever have had. If ever I possess a home, it must be of my own
 
@@ -12281,15 +10240,11 @@ and in the increased possessions, my roused and eager spirit panted to
 
 include the home I had never had, the wife I inwardly vowed to win.
 
-
-
 Frances’ tea was little better than hot water, sugar, and milk; and her
 
 pistolets, with which she could not offer me butter, were sweet to my
 
 palate as manna.
-
-
 
 The repast over, and the treasured plate and porcelain being washed and
 
@@ -12337,13 +10292,9 @@ recollecting the composing effect which an authoritative tone and manner
 
 had ever been wont to produce on her, I said--
 
-
-
 “Get one of your English books, mademoiselle, for the rain yet falls
 
 heavily, and will probably detain me half an hour longer.”
-
-
 
 Released, and set at ease, up she rose, got her book, and accepted at
 
@@ -12371,8 +10322,6 @@ intonation, a pause, or an emphasis; as long as I dogmatized, I might
 
 also gaze, without exciting too warm a flush.
 
-
-
 “Enough,” said I, when she had gone through some half dozen pages (a
 
 work of time with her, for she read slowly and paused often to ask and
@@ -12387,13 +10336,9 @@ setting August sun sent a gleam like the reflection of rubies through
 
 the lattice. I got up; I drew on my gloves.
 
-
-
 “You have not yet found another situation to supply the place of that
 
 from which you were dismissed by Mdlle. Reuter?”
-
-
 
 “No, monsieur; I have made inquiries everywhere, but they all ask me
 
@@ -12415,11 +10360,7 @@ only my own life, but that of another, depended on my exertions: of her
 
 I will never more ask a favour.”
 
-
-
 “How, then, do you propose to get on? How do you live now?”
-
-
 
 “I have still my lace-mending trade; with care it will keep me from
 
@@ -12429,17 +10370,11 @@ yet; it is only a fortnight since I began to try; my courage or hopes
 
 are by no means worn out yet.”
 
-
-
 “And if you get what you wish, what then? what are your ultimate views?”
-
-
 
 “To save enough to cross the Channel: I always look to England as my
 
 Canaan.”
-
-
 
 “Well, well--ere long I shall pay you another visit; good evening now,”
 
@@ -12509,8 +10444,6 @@ previously to the event of her aunt’s death and her dismissal, had
 
 almost recreated her whole frame.
 
-
-
 It has taken me several minutes to write these last sentences; but I had
 
 thought all their purport during the brief interval of descending the
@@ -12541,13 +10474,9 @@ could devise-suggested itself to me. I darted up the stairs, knocked,
 
 re-entered the room as if in haste:--
 
-
-
 “Mademoiselle, I have forgotten one of my gloves; I must have left it
 
 here.”
-
-
 
 She instantly rose to seek it; as she turned her back, I--being now
 
@@ -12559,8 +10488,6 @@ then saying--“Oh here is my glove! I had dropped it within the fender;
 
 good evening, mademoiselle,” I made my second exit.
 
-
-
 Brief as my impromptu return had been, it had afforded me time to pick
 
 up a heart-ache; I remarked that Frances had already removed the red
@@ -12571,8 +10498,6 @@ every item, to save in every detail, she had instantly on my departure
 
 retrenched a luxury too expensive to be enjoyed alone.
 
-
-
 “I am glad it is not yet winter,” thought I; “but in two months more
 
 come the winds and rains of November; would to God that before then I
@@ -12580,8 +10505,6 @@ come the winds and rains of November; would to God that before then I
 could earn the right, and the power, to shovel coals into that grate AD
 
 LIBITUM!”
-
-
 
 Already the pavement was drying; a balmy and fresh breeze stirred the
 
@@ -12631,25 +10554,9 @@ forehead; an upraised arm and hand, glancing like a ray, pointed to the
 
 bow overhead, and a voice in my heart whispered--
 
-
-
 “Hope smiles on Effort!”
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XX.
-
-
 
 A COMPETENCY was what I wanted; a competency it was now my aim and
 
@@ -12674,8 +10581,6 @@ voluntarily cut off 20l. from my yearly income; I had diminished my 60l.
 per annum to 40l., and even that sum I now held by a very precarious
 
 tenure.
-
-
 
 It is some time since I made any reference to M. Pelet. The moonlight
 
@@ -12747,8 +10652,6 @@ mistrust of the hand which I had detected attempting to stab in the
 
 dark.
 
-
-
 This state of things continued till about the middle of July, and then
 
 there was a little change; Pelet came home one night, an hour after his
@@ -12799,8 +10702,6 @@ about, his eyes in a fine frenzy rolling--a pretty sight he was, a just
 
 medium between the fool and the lunatic.
 
-
-
 “Come, M. Pelet,” said I, “you had better go to bed,” and I took hold of
 
 his arm. His excitement, of course, increased greatly at sight and touch
@@ -12836,8 +10737,6 @@ I retired to my own room, assured of his safe custody till the morning,
 and free to draw undisturbed conclusions from the scene I had just
 
 witnessed.
-
-
 
 Now, it was precisely about this time that the directress, stung by
 
@@ -12931,13 +10830,9 @@ rebuked it. My indifference or harshness served equally to increase the
 
 evil I desired to check.
 
-
-
 “Que le dedain lui sied bien!” I once overheard her say to her mother:
 
 “il est beau comme Apollon quand il sourit de son air hautain.”
-
-
 
 And the jolly old dame laughed, and said she thought her daughter was
 
@@ -12947,8 +10842,6 @@ straight and without deformity. “Pour moi,” she continued, “il me fait
 
 tout l’effet d’un chat-huant, avec ses besicles.”
 
-
-
 Worthy old girl! I could have gone and kissed her had she not been a
 
 little too old, too fat, and too red-faced; her sensible, truthful
@@ -12956,8 +10849,6 @@ little too old, too fat, and too red-faced; her sensible, truthful
 words seemed so wholesome, contrasted with the morbid illusions of her
 
 daughter.
-
-
 
 When Pelet awoke on the morning after his frenzy fit, he retained no
 
@@ -13017,8 +10908,6 @@ rover and the rebel out of me, and had shown endurance of my hated lot
 
 in the light of a Spartan virtue.
 
-
-
 But Pelet’s fury subsided; a fortnight sufficed for its rise, progress,
 
 and extinction: in that space of time the dismissal of the obnoxious
@@ -13069,8 +10958,6 @@ husbands of his acquaintance; I perceived it would not now be difficult
 
 to pay him back in his own coin.
 
-
-
 The crisis drew on. No sooner had the holidays commenced than note of
 
 preparation for some momentous event sounded all through the premises
@@ -13090,8 +10977,6 @@ use, I concluded, in common with the cook, the two housemaids, and the
 kitchen-scullion, that a new and more juvenile Madame was destined to be
 
 the tenant of these gay chambers.
-
-
 
 Presently official announcement of the coming event was put forth. In
 
@@ -13133,8 +11018,6 @@ Opportunity would be too strong for either of these--Temptation would
 
 shiver their restraints.
 
-
-
 I was no pope--I could not boast infallibility: in short, if I stayed,
 
 the probability was that, in three months’ time, a practical modern
@@ -13170,8 +11053,6 @@ unlawful pleasure, trenching on another’s rights, is delusive and
 envenomed pleasure--its hollowness disappoints at the time, its poison
 
 cruelly tortures afterwards, its effects deprave for ever.
-
-
 
 From all this resulted the conclusion that I must leave Pelet’s, and
 
@@ -13243,21 +11124,7 @@ self-deprived of the means of living, self-sentenced to leave my present
 
 home, with the short notice of a week in which to provide another.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XXI.
-
-
 
 DIRECTLY as I closed the door, I saw laid on the table two letters; my
 
@@ -13281,11 +11148,7 @@ a blank page: on one cover was an English postmark; on the other, a
 
 lady’s clear, fine autograph; the last I opened first:--
 
-
-
 “MONSIEUR,
-
-
 
 “I FOUND out what you had done the very morning after your visit to me;
 
@@ -13320,8 +11183,6 @@ circumstance is, indeed, the reason of my writing to you, for it is
 pleasant to communicate good news; and, in these days, I have only my
 
 master to whom I can tell anything.
-
-
 
 “A week ago, monsieur, I was sent for by a Mrs. Wharton, an English
 
@@ -13379,8 +11240,6 @@ lodgings), and, for this, Mrs. D. will give me twelve hundred francs per
 
 annum.
 
-
-
 “You see, therefore, monsieur, that I am now rich; richer almost than
 
 I ever hoped to be: I feel thankful for it, especially as my sight was
@@ -13409,15 +11268,9 @@ read. Do not be too angry with my circumlocution and inelegancies of
 
 expression, and, believe me
 
-
-
 “Your attached pupil,
 
-
-
 “F. E. HENRI.”
-
-
 
 Having read this letter, I mused on its contents for a few
 
@@ -13436,8 +11289,6 @@ epistle could be from none of my almost forgotten, and certainly quite
 forgetting patrician relations. From whom, then, was it? I removed the
 
 envelope; the note folded within ran as follows:
-
-
 
 “I have no doubt in the world that you are doing well in that greasy
 
@@ -13467,8 +11318,6 @@ sort of moral kicking I have, ready packed in my carpet-bag, destined to
 
 be presented to you immediately on my arrival.
 
-
-
 “Meantime I know all about your affairs, and have just got information,
 
 by Brown’s last letter, that you are said to be on the point of forming
@@ -13491,15 +11340,9 @@ for you know neither the day nor hour when your ----” (I don’t wish to
 
 blaspheme, so I’ll leave a blank)--cometh.
 
-
-
 “Yours truly,
 
-
-
 “HUNSDEN YORKE HUNSDEN.”
-
-
 
 “Humph!” said I; and ere I laid the letter down, I again glanced at the
 
@@ -13515,8 +11358,6 @@ rather than knew, to appertain to his nature, and I answered, “A great
 
 deal.”
 
-
-
 Hunsden, then, was coming to Brussels, and coming I knew not when;
 
 coming charged with the expectation of finding me on the summit of
@@ -13524,8 +11365,6 @@ coming charged with the expectation of finding me on the summit of
 prosperity, about to be married, to step into a warm nest, to lie
 
 comfortably down by the side of a snug, well-fed little mate.
-
-
 
 “I wish him joy of the fidelity of the picture he has painted,” thought
 
@@ -13543,8 +11382,6 @@ merely very like him, I’d not condescend to get out of his way, or to
 
 forge a smile or a cheerful word wherewith to avert his sarcasm.”
 
-
-
 Then I recurred to the other letter: that struck a chord whose sound I
 
 could not deaden by thrusting my fingers into my ears, for it vibrated
@@ -13552,8 +11389,6 @@ could not deaden by thrusting my fingers into my ears, for it vibrated
 within; and though its swell might be exquisite music, its cadence was a
 
 groan.
-
-
 
 That Frances was relieved from the pressure of want, that the curse of
 
@@ -13568,8 +11403,6 @@ letter were then pleasant, sweet as two draughts of nectar; but applying
 my lips for the third time to the cup, and they were excoriated as with
 
 vinegar and gall.
-
-
 
 Two persons whose desires are moderate may live well enough in Brussels
 
@@ -13639,8 +11472,6 @@ the window; and at the window, self-reproach seemed to face me; at the
 
 wall, self-disdain: all at once out spoke Conscience:--
 
-
-
 “Down, stupid tormenters!” cried she; “the man has done his duty;
 
 you shall not bait him thus by thoughts of what might have been; he
@@ -13650,8 +11481,6 @@ relinquished a temporary and contingent good to avoid a permanent and
 certain evil he did well. Let him reflect now, and when your blinding
 
 dust and deafening hum subside, he will discover a path.”
-
-
 
 I sat down; I propped my forehead on both my hands; I thought and
 
@@ -13678,8 +11507,6 @@ brain and memory, I disinterred certain remains of circumstances, and
 conceived a hope that by putting them together an expedient might be
 
 framed, and a resource discovered. The circumstances were briefly these:
-
-
 
 Some three months ago M. Pelet had, on the occasion of his fete, given
 
@@ -13771,8 +11598,6 @@ false and indolent fastidiousness. I might repent the omission all my
 
 life; I would not then be guilty of it.
 
-
-
 That evening I went to M. Vandenhuten’s; but I had bent the bow and
 
 adjusted the shaft in vain; the string broke. I rang the bell at the
@@ -13785,21 +11610,7 @@ and family were all out of town--gone to Ostend--did not know when they
 
 would be back. I left my card, and retraced my steps.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XXII
-
-
 
 A WEEK is gone; LE JOUR DES NOCES arrived; the marriage was solemnized
 
@@ -13827,8 +11638,6 @@ that street till such time as the mist of doubt should clear from my
 
 prospects.
 
-
-
 It was a sweet September evening--very mild, very still; I had nothing
 
 to do; at that hour I knew Frances would be equally released from
@@ -13838,8 +11647,6 @@ occupation; I thought she might possibly be wishing for her master, I
 knew I wished for my pupil. Imagination began with her low whispers,
 
 infusing into my soul the soft tale of pleasures that might be.
-
-
 
 “You will find her reading or writing,” said she; “you can take your
 
@@ -13877,8 +11684,6 @@ her by a sign. Try their influence now. Go--they are not passions; you
 
 may handle them safely.”
 
-
-
 “I will NOT go was my answer to the sweet temptress. A man is master
 
 of himself to a certain point, but not beyond it. Could I seek Frances
@@ -13887,19 +11692,13 @@ to-night, could I sit with her alone in a quiet room, and address her
 
 only in the language of Reason and Affection?”
 
-
-
 “No,” was the brief, fervent reply of that Love which had conquered and
 
 now controlled me.
 
-
-
 Time seemed to stagnate; the sun would not go down; my watch ticked, but
 
 I thought the hands were paralyzed.
-
-
 
 “What a hot evening!” I cried, throwing open the lattice; for, indeed, I
 
@@ -13919,8 +11718,6 @@ smart, prompt rap; and, almost before I could invite him in, he was over
 
 the threshold, and had closed the door behind him.
 
-
-
 “And how are you?” asked an indifferent, quiet voice, in the English
 
 language; while my visitor, without any sort of bustle or introduction,
@@ -13930,8 +11727,6 @@ put his hat on the table, and his gloves into his hat, and drawing
 the only armchair the room afforded a little forward, seated himself
 
 tranquilly therein.
-
-
 
 “Can’t you speak?” he inquired in a few moments, in a tone whose
 
@@ -13971,8 +11766,6 @@ use in attempting to describe what is indescribable. Being in no hurry
 
 to address him, I sat and stared at my ease.
 
-
-
 “Oh, that’s your game--is it?” said he at last. “Well, we’ll see which
 
 is soonest tired.” And he slowly drew out a fine cigar-case, picked one
@@ -13989,11 +11782,7 @@ conceived the whim, so I rose, and taking the book from his hand, I
 
 said,--
 
-
-
 “You did not ask for it, and you shall not have it.”
-
-
 
 “It is silly and dull,” he observed, “so I have not lost much;” then the
 
@@ -14009,23 +11798,15 @@ which I wondered at; it was a more practical and sensible precaution
 
 than I should have imagined you capable of. Why did you leave?”
 
-
-
 “Because M. Pelet has just married the lady whom you and Mr. Brown
 
 assigned to me as my wife.”
-
-
 
 “Oh, indeed!” replied Hunsden with a short laugh; “so you’ve lost both
 
 your wife and your place?”
 
-
-
 “Precisely so.”
-
-
 
 I saw him give a quick, covert glance all round my room; he marked its
 
@@ -14053,49 +11834,29 @@ softening change had taken place both in his voice and look ere he spoke
 
 again.
 
-
-
 “You have got another place?”
 
-
-
 “No.”
-
-
 
 “You are in the way of getting one?”
 
-
-
 “No.”
-
-
 
 “That is bad; have you applied to Brown?”
 
-
-
 “No, indeed.”
-
-
 
 “You had better; he often has it in his power to give useful information
 
 in such matters.”
 
-
-
 “He served me once very well; I have no claim on him, and am not in the
 
 humour to bother him again.”
 
-
-
 “Oh, if you’re bashful, and dread being intrusive, you need only
 
 commission me. I shall see him to-night; I can put in a word.”
-
-
 
 “I beg you will not, Mr. Hunsden; I am in your debt already; you did me
 
@@ -14104,8 +11865,6 @@ an important service when I was at X----; got me out of a den where I
 was dying: that service I have never repaid, and at present I decline
 
 positively adding another item to the account.”
-
-
 
 “If the wind sits that way, I’m satisfied. I thought my unexampled
 
@@ -14125,13 +11884,9 @@ is more, you are a fool if you refuse to take one from any hand that
 
 offers it.”
 
-
-
 “Very well, Mr. Hunsden; now you have settled that point, talk of
 
 something else. What news from X----?”
-
-
 
 “I have not settled that point, or at least there is another to settle
 
@@ -14139,29 +11894,19 @@ before we get to X----. Is this Miss Zenobie” (Zoraide, interposed
 
 I)--“well, Zoraide--is she really married to Pelet?”
 
-
-
 “I tell you yes--and if you don’t believe me, go and ask the cure of St.
 
 Jacques.”
 
-
-
 “And your heart is broken?”
 
-
-
 “I am not aware that it is; it feels all right--beats as usual.”
-
-
 
 “Then your feelings are less superfine than I took them to be; you must
 
 be a coarse, callous character, to bear such a thwack without staggering
 
 under it.”
-
-
 
 “Staggering under it? What the deuce is there to stagger under in the
 
@@ -14171,23 +11916,13 @@ The progeny will doubtless be a strange hybrid race; but that’s their
 
 look-out--not mine.”
 
-
-
 “He indulges in scurrilous jests, and the bride was his affianced one!”
-
-
 
 “Who said so?”
 
-
-
 “Brown.”
 
-
-
 “I’ll tell you what, Hunsden--Brown is an old gossip.”
-
-
 
 “He is; but in the meantime, if his gossip be founded on less than
 
@@ -14197,31 +11932,21 @@ youthful pedagogue! did you leave your place in consequence of her
 
 becoming Madame Pelet?”
 
-
-
 “Because--” I felt my face grow a little hot; “because--in short, Mr.
 
 Hunsden, I decline answering any more questions,” and I plunged my hands
 
 deep in my breeches pocket.
 
-
-
 Hunsden triumphed: his eyes--his laugh announced victory.
 
-
-
 “What the deuce are you laughing at, Mr. Hunsden?”
-
-
 
 “At your exemplary composure. Well, lad, I’ll not bore you; I see how
 
 it is: Zoraide has jilted you--married some one richer, as any sensible
 
 woman would have done if she had had the chance.”
-
-
 
 I made no reply--I let him think so, not feeling inclined to enter into
 
@@ -14232,8 +11957,6 @@ false account; but it was not easy to blind Hunsden; my very silence,
 instead of convincing him that he had hit the truth, seemed to render
 
 him doubtful about it; he went on:--
-
-
 
 “I suppose the affair has been conducted as such affairs always
 
@@ -14255,8 +11978,6 @@ she accepted, and he has got her: a correct transaction--perfectly
 
 so--business-like and legitimate. And now we’ll talk of something else.”
 
-
-
 “Do,” said I, very glad to dismiss the topic, and especially glad to
 
 have baffled the sagacity of my cross-questioner--if, indeed, I had
@@ -14266,8 +11987,6 @@ baffled it; for though his words now led away from the dangerous point,
 his eyes, keen and watchful, seemed still preoccupied with the former
 
 idea.
-
-
 
 “You want to hear news from X----? And what interest can you have in
 
@@ -14280,8 +11999,6 @@ the men look as if I had spoken of Prester John; and the women sneer
 covertly. Our X---- belles must have disliked you. How did you excite
 
 their displeasure?”
-
-
 
 “I don’t know. I seldom spoke to them--they were nothing to me. I
 
@@ -14296,8 +12013,6 @@ countenances. When I caught snatches of what they said, I could never
 make much of it; and the play of their lips and eyes did not help me at
 
 all.”
-
-
 
 “That was your fault, not theirs. There are sensible, as well as
 
@@ -14319,11 +12034,7 @@ you think, ever to communicate pleasure or excite interest? No; and if
 
 you are generally unpopular, it is because you deserve to be so.”
 
-
-
 “Content!” I ejaculated.
-
-
 
 “No, you are not content; you see beauty always turning its back on
 
@@ -14338,8 +12049,6 @@ tantalize in you the lust of the eye; but they are out of reach: you
 have not the address to fetch a ladder, and you’ll go away calling them
 
 sour.”
-
-
 
 Cutting as these words might have been under some circumstances, they
 
@@ -14405,8 +12114,6 @@ the beginning of life yet; and since happily I was not quite without
 
 sense, every false step I made would be a good lesson.
 
-
-
 Just then I turned my face a little to the light; the approach of
 
 twilight, and my position in the window-seat, had, for the last ten
@@ -14414,8 +12121,6 @@ twilight, and my position in the window-seat, had, for the last ten
 minutes, prevented him from studying my countenance; as I moved,
 
 however, he caught an expression which he thus interpreted:--
-
-
 
 “Confound it! How doggedly self-approving the lad looks! I thought he
 
@@ -14426,8 +12131,6 @@ to say, ‘Let the world wag as it will, I’ve the philosopher’s stone
 in my waist-coat pocket, and the elixir of life in my cupboard; I’m
 
 independent of both Fate and Fortune.’”
-
-
 
 “Hunsden--you spoke of grapes; I was thinking of a fruit I like better
 
@@ -14443,11 +12146,7 @@ hope of freshness on my lips; I can reject the unsavoury, and endure the
 
 exhausting.”
 
-
-
 “For how long?”
-
-
 
 “Till the next opportunity for effort; and as the prize of success will
 
@@ -14455,23 +12154,17 @@ be a treasure after my own heart, I’ll bring a bull’s strength to the
 
 struggle.”
 
-
-
 “Bad luck crushes bulls as easily as bullaces; and, I believe, the fury
 
 dogs you: you were born with a wooden spoon in your mouth, depend on
 
 it.”
 
-
-
 “I believe you; and I mean to make my wooden spoon do the work of some
 
 people’s silver ladles: grasped firmly, and handled nimbly, even a
 
 wooden spoon will shovel up broth.”
-
-
 
 Hunsden rose: “I see,” said he; “I suppose you’re one of those who
 
@@ -14481,23 +12174,13 @@ I’ll go.” And, without another word, he was going; at the door he
 
 turned:--
 
-
-
 “Crimsworth Hall is sold,” said he.
-
-
 
 “Sold!” was my echo.
 
-
-
 “Yes; you know, of course, that your brother failed three months ago?”
 
-
-
 “What! Edward Crimsworth?”
-
-
 
 “Precisely; and his wife went home to her father’s; when affairs went
 
@@ -14505,11 +12188,7 @@ awry, his temper sympathized with them; he used her ill; I told you he
 
 would be a tyrant to her some day; as to him--”
 
-
-
 “Ay, as to him--what is become of him?”
-
-
 
 “Nothing extraordinary--don’t be alarmed; he put himself under the
 
@@ -14519,41 +12198,25 @@ the pound; in six weeks set up again, coaxed back his wife, and is
 
 flourishing like a green bay-tree.”
 
-
-
 “And Crimsworth Hall--was the furniture sold too?”
-
-
 
 “Everything--from the grand piano down to the rolling-pin.”
 
-
-
 “And the contents of the oak dining-room--were they sold?”
-
-
 
 “Of course; why should the sofas and chairs of that room be held more
 
 sacred than those of any other?”
 
-
-
 “And the pictures?”
-
-
 
 “What pictures? Crimsworth had no special collection that I know of--he
 
 did not profess to be an amateur.”
 
-
-
 “There were two portraits, one on each side the mantelpiece; you cannot
 
 have forgotten them, Mr. Hunsden; you once noticed that of the lady--”
-
-
 
 “Oh, I know! the thin-faced gentlewoman with a shawl put on like
 
@@ -14565,15 +12228,11 @@ you said it represented your mother: you see what it is to be without a
 
 sou.”
 
-
-
 I did. “But surely,” I thought to myself, “I shall not always be so
 
 poverty-stricken; I may one day buy it back yet.--Who purchased it? do
 
 you know?” I asked.
-
-
 
 “How is it likely? I never inquired who purchased anything; there spoke
 
@@ -14589,8 +12248,6 @@ and see you again; I wonder whether you’ll be still out of place!”
 
 laughing, vanished.
 
-
-
 Some people, however indifferent they may become after a considerable
 
 space of absence, always contrive to leave a pleasant impression just
@@ -14602,8 +12259,6 @@ draught of Peruvian bark; it seemed a concentration of the specially
 harsh, stringent, bitter; whether, like bark, it invigorated, I scarcely
 
 knew.
-
-
 
 A ruffled mind makes a restless pillow; I slept little on the night
 
@@ -14635,17 +12290,11 @@ had doubtless shoved it forward, but seeing no occupant of the room, had
 
 left it at the entrance.
 
-
-
 “That is none of mine,” thought I, approaching; “it must be meant for
 
 somebody else.” I stooped to examine the address:--
 
-
-
 “Wm. Crimsworth, Esq., No --, -- St., Brussels.”
-
-
 
 I was puzzled, but concluding that the best way to obtain information
 
@@ -14703,8 +12352,6 @@ the care of its natural keeper?” I took the note from its niche; thus it
 
 spoke:--
 
-
-
 “There is a sort of stupid pleasure in giving a child sweets, a fool his
 
 bells, a dog a bone. You are repaid by seeing the child besmear his face
@@ -14721,17 +12368,11 @@ the result; I would have added five shillings more to my bid if the
 
 auctioneer could only have promised me that pleasure.
 
-
-
 “H. Y. H.
-
-
 
 “P.S.--You said last night you positively declined adding another item
 
 to your account with me; don’t you think I’ve saved you that trouble?”
-
-
 
 I muffled the picture in its green baize covering, restored it to the
 
@@ -14746,8 +12387,6 @@ had come in at that moment, I should have said to him, “I owe you
 nothing, Hunsden--not a fraction of a farthing: you have paid yourself
 
 in taunts!”
-
-
 
 Too anxious to remain any longer quiescent, I had no sooner breakfasted,
 
@@ -14779,8 +12418,6 @@ I caught a glimpse of the ground, and at once I felt assured of its
 
 solidity; I knew where it was.
 
-
-
 M. Vandenhuten was rich, respected, and influential; I, poor, despised
 
 and powerless; so we stood to the world at large as members of the
@@ -14800,8 +12437,6 @@ was benevolent, the Englishman susceptible; in short our characters
 dovetailed, but my mind having more fire and action than his,
 
 instinctively assumed and kept the predominance.
-
-
 
 This point settled, and my position well ascertained, I addressed him
 
@@ -14828,8 +12463,6 @@ benevolence of his truthful face was better than the intelligence of my
 own. Characters of my order experience a balm-like solace in the contact
 
 of such souls as animated the honest breast of Victor Vandenhuten.
-
-
 
 The next fortnight was a period of many alternations; my existence
 
@@ -14881,8 +12514,6 @@ acquaintance--though God knows I had never met her before--and threw a
 
 prize into my lap.
 
-
-
 In the second week of October, 18--, I got the appointment of English
 
 professor to all the classes of ---- College, Brussels, with a salary
@@ -14899,8 +12530,6 @@ of M. Vandenhuten, negociant, which had turned the scale of choice in my
 
 favour.
 
-
-
 No sooner had I read the announcement than I hurried to M. Vandenhuten’s
 
 bureau, pushed the document under his nose, and when he had perused
@@ -14915,11 +12544,7 @@ done nothing meriting such thanks. He had not laid out a centime--only
 
 scratched a few words on a sheet of paper.
 
-
-
 Again I repeated to him--
-
-
 
 “You have made me quite happy, and in a way that suits me; I do not
 
@@ -14931,27 +12556,11 @@ you must consent to admit me to your intimate acquaintance, for I shall
 
 hereafter recur again and again to the pleasure of your society.”
 
-
-
 “Ainsi soit-il,” was the reply, accompanied by a smile of benignant
 
 content. I went away with its sunshine in my heart.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XXIII
-
-
 
 IT was two o’clock when I returned to my lodgings; my dinner, just
 
@@ -14993,8 +12602,6 @@ to others, for the women I passed were wrapped in shawls, and the men
 
 had their coats buttoned close.
 
-
-
 When are we quite happy? Was I so then? No; an urgent and growing dread
 
 worried my nerves, and had worried them since the first moment good
@@ -15025,23 +12632,17 @@ I think that but half a street now divided me from the full cup of
 
 contentment--the draught drawn from waters said to flow only in heaven?
 
-
-
 I was at the door; I entered the quiet house; I mounted the stairs; the
 
 lobby was void and still, all the doors closed; I looked for the neat
 
 green mat; it lay duly in its place.
 
-
-
 “Signal of hope!” I said, and advanced. “But I will be a little calmer;
 
 I am not going to rush in, and get up a scene directly.” Forcibly
 
 staying my eager step, I paused on the mat.
-
-
 
 “What an absolute hush! Is she in? Is anybody in?” I demanded to
 
@@ -15060,10 +12661,6 @@ self-addressed, I never fancied the speaker otherwise than alone;
 solitude might speak thus in a desert, or in the hall of a forsaken
 
 house.
-
-
-
-
 
     “‘And ne’er but once, my son,’ he said,
 
@@ -15089,17 +12686,11 @@ house.
 
        The death-shot flash’d between.’” etc. etc.
 
-
-
 The old Scotch ballad was partly recited, then dropt; a pause ensued;
 
 then another strain followed, in French, of which the purport,
 
 translated, ran as follows:--
-
-
-
-
 
      I gave, at first, attention close;
 
@@ -15109,8 +12700,6 @@ translated, ran as follows:--
 
       Succeeded gratitude.
 
-
-
      Obedience was no effort soon,
 
       And labour was no pain;
@@ -15118,8 +12707,6 @@ translated, ran as follows:--
      If tired, a word, a glance alone
 
       Would give me strength again.
-
-
 
      From others of the studious band,
 
@@ -15129,8 +12716,6 @@ translated, ran as follows:--
 
       And sterner urgency.
 
-
-
      The task he from another took,
 
       From me he did reject;
@@ -15139,8 +12724,6 @@ translated, ran as follows:--
 
       And suffer no defect.
 
-
-
      If my companions went astray,
 
       He scarce their wanderings blam’d;
@@ -15148,8 +12731,6 @@ translated, ran as follows:--
      If I but falter’d in the way,
 
       His anger fiercely flam’d.
-
-
 
 Something stirred in an adjoining chamber; it would not do to be
 
@@ -15211,8 +12792,6 @@ or proud mother in the land. Can this be so? I really don’t know; but
 
 feel inclined to doubt it.
 
-
-
 I came forward, bade Frances “good evening,” and took my seat. The chair
 
 I had chosen was one she had probably just left; it stood by a little
@@ -15263,10 +12842,6 @@ satisfied. I translate as before, and my translation is nearly literal;
 
 it continued thus:--
 
-
-
-
-
      When sickness stay’d awhile my course,
 
       He seem’d impatient still,
@@ -15274,8 +12849,6 @@ it continued thus:--
      Because his pupil’s flagging force
 
       Could not obey his will.
-
-
 
      One day when summoned to the bed
 
@@ -15285,8 +12858,6 @@ it continued thus:--
 
       Say, “God, she must revive!”
 
-
-
      I felt his hand, with gentle stress,
 
       A moment laid on mine,
@@ -15294,8 +12865,6 @@ it continued thus:--
      And wished to mark my consciousness
 
       By some responsive sign.
-
-
 
      But pow’rless then to speak or move,
 
@@ -15305,8 +12874,6 @@ it continued thus:--
 
       Their healing work begin.
 
-
-
      And as he from the room withdrew,
 
       My heart his steps pursued;
@@ -15314,8 +12881,6 @@ it continued thus:--
      I long’d to prove, by efforts new;
 
       My speechless gratitude.
-
-
 
      When once again I took my place,
 
@@ -15325,8 +12890,6 @@ it continued thus:--
 
       Did for one moment pass.
 
-
-
      The lessons done; the signal made
 
       Of glad release and play,
@@ -15334,8 +12897,6 @@ it continued thus:--
      He, as he passed, an instant stay’d,
 
       One kindly word to say.
-
-
 
     “Jane, till to-morrow you are free
 
@@ -15345,8 +12906,6 @@ it continued thus:--
 
       That yet pale face in school.
 
-
-
     “Seek in the garden-shades a seat,
 
       Far from the play-ground din;
@@ -15354,8 +12913,6 @@ it continued thus:--
      The sun is warm, the air is sweet:
 
       Stay till I call you in.”
-
-
 
      A long and pleasant afternoon
 
@@ -15365,8 +12922,6 @@ it continued thus:--
 
       With birds, and bees, and flowers.
 
-
-
      Yet, when my master’s voice I heard
 
       Call, from the window, “Jane!”
@@ -15374,8 +12929,6 @@ it continued thus:--
       I entered, joyful, at the word,
 
       The busy house again.
-
-
 
      He, in the hall, paced up and down;
 
@@ -15385,8 +12938,6 @@ it continued thus:--
 
       He raised his deep-set eye.
 
-
-
     “Not quite so pale,” he murmured low.
 
       “Now Jane, go rest awhile.”
@@ -15394,8 +12945,6 @@ it continued thus:--
       And as I smiled, his smoothened brow
 
       Returned as glad a smile.
-
-
 
      My perfect health restored, he took
 
@@ -15405,8 +12954,6 @@ it continued thus:--
 
       The slightest fault from Jane.
 
-
-
      The longest task, the hardest theme
 
       Fell to my share as erst,
@@ -15414,8 +12961,6 @@ it continued thus:--
      And still I toiled to place my name
 
       In every study first.
-
-
 
      He yet begrudged and stinted praise,
 
@@ -15425,8 +12970,6 @@ it continued thus:--
 
       And that was my best meed.
 
-
-
      Even when his hasty temper spoke
 
       In tones that sorrow stirred,
@@ -15434,8 +12977,6 @@ it continued thus:--
      My grief was lulled as soon as woke
 
       By some relenting word.
-
-
 
      And when he lent some precious book,
 
@@ -15445,8 +12986,6 @@ it continued thus:--
 
       Upheld by Pleasure’s power.
 
-
-
      At last our school ranks took their ground,
 
       The hard-fought field I won;
@@ -15454,8 +12993,6 @@ it continued thus:--
      The prize, a laurel-wreath, was bound
 
       My throbbing forehead on.
-
-
 
      Low at my master’s knee I bent,
 
@@ -15465,8 +13002,6 @@ it continued thus:--
 
       A thrill as wild as sweet.
 
-
-
      The strong pulse of Ambition struck
 
       In every vein I owned;
@@ -15474,8 +13009,6 @@ it continued thus:--
      At the same instant, bleeding broke
 
       A secret, inward wound.
-
-
 
      The hour of triumph was to me
 
@@ -15485,8 +13018,6 @@ it continued thus:--
 
       Ne’er to recross it more.
 
-
-
      An hour hence, in my master’s room
 
       I with him sat alone,
@@ -15494,8 +13025,6 @@ it continued thus:--
      And told him what a dreary gloom
 
       O’er joy had parting thrown.
-
-
 
      He little said; the time was brief,
 
@@ -15505,8 +13034,6 @@ it continued thus:--
 
       My master but looked pale.
 
-
-
      They called in haste; he bade me go,
 
       Then snatched me back again;
@@ -15514,8 +13041,6 @@ it continued thus:--
      He held me fast and murmured low,
 
      “Why will they part us, Jane?”
-
-
 
     “Were you not happy in my care?
 
@@ -15525,8 +13050,6 @@ it continued thus:--
 
       As true, as deep a love?
 
-
-
     “O God, watch o’er my foster child!
 
       O guard her gentle head!
@@ -15535,8 +13058,6 @@ it continued thus:--
 
       Protection round her spread!
 
-
-
     “They call again; leave then my breast;
 
       Quit thy true shelter, Jane;
@@ -15544,8 +13065,6 @@ it continued thus:--
      But when deceived, repulsed, opprest,
 
       Come home to me again!”
-
-
 
 I read--then dreamily made marks on the margin with my pencil; thinking
 
@@ -15571,8 +13090,6 @@ on Hermon never drank the fresh dews of sunset more gratefully than my
 
 feelings drank the bliss of this hour.
 
-
-
 Frances rose, as if restless; she passed before me to stir the fire,
 
 which did not want stirring; she lifted and put down the little
@@ -15580,8 +13097,6 @@ which did not want stirring; she lifted and put down the little
 ornaments on the mantelpiece; her dress waved within a yard of me;
 
 slight, straight, and elegant, she stood erect on the hearth.
-
-
 
 There are impulses we can control; but there are others which control
 
@@ -15603,8 +13118,6 @@ the next, I held Frances on my knee, placed there with sharpness and
 
 decision, and retained with exceeding tenacity.
 
-
-
 “Monsieur!” cried Frances, and was still: not another word escaped her
 
 lips; sorely confounded she seemed during the lapse of the first few
@@ -15618,8 +13131,6 @@ before, to one she habitually respected and trusted; embarrassment might
 have impelled her to contend, but self-respect checked resistance where
 
 resistance was useless.
-
-
 
 “Frances, how much regard have you for me?” was my demand. No answer;
 
@@ -15635,17 +13146,11 @@ face, doubtless, was no model of composure, my eyes no still wells of
 
 tranquillity.
 
-
-
 “Do speak,” I urged; and a very low, hurried, yet still arch voice
 
 said--
 
-
-
 “Monsieur, vous me faites mal; de grace lachez un peu ma main droite.”
-
-
 
 In truth I became aware that I was holding the said “main droite” in
 
@@ -15653,21 +13158,13 @@ a somewhat ruthless grasp: I did as desired; and, for the third time,
 
 asked more gently--
 
-
-
 “Frances, how much regard have you for me?”
 
-
-
 “Mon maitre, j’en ai beaucoup,” was the truthful rejoinder.
-
-
 
 “Frances, have you enough to give yourself to me as my wife?--to accept
 
 me as your husband?”
-
-
 
 I felt the agitation of the heart, I saw “the purple light of love” cast
 
@@ -15675,25 +13172,15 @@ its glowing reflection on cheeks, temples, neck; I desired to consult
 
 the eye, but sheltering lash and lid forbade.
 
-
-
 “Monsieur,” said the soft voice at last,--“Monsieur desire savoir si je
 
 consens--si--enfin, si je veux me marier avec lui?”
 
-
-
 “Justement.”
-
-
 
 “Monsieur sera-t-il aussi bon mari qu’il a ete bon maitre?”
 
-
-
 “I will try, Frances.”
-
-
 
 A pause; then with a new, yet still subdued inflexion of the voice--an
 
@@ -15701,49 +13188,29 @@ inflexion which provoked while it pleased me--accompanied, too, by a
 
 “sourire a la fois fin et timide” in perfect harmony with the tone:--
 
-
-
 “C’est a dire, monsieur sera toujours un peu entete exigeant,
 
 volontaire--?”
 
-
-
 “Have I been so, Frances?”
-
-
 
 “Mais oui; vous le savez bien.”
 
-
-
 “Have I been nothing else?”
-
-
 
 “Mais oui; vous avez ete mon meilleur ami.”
 
-
-
 “And what, Frances, are you to me?”
 
-
-
 “Votre devouee eleve, qui vous aime de tout son coeur.”
-
-
 
 “Will my pupil consent to pass her life with me? Speak English now,
 
 Frances.”
 
-
-
 Some moments were taken for reflection; the answer, pronounced slowly,
 
 ran thus:--
-
-
 
 “You have always made me happy; I like to hear you speak; I like to
 
@@ -15761,11 +13228,7 @@ restraining herself she only added with earnest emphasis--“Master, I
 
 consent to pass my life with you.”
 
-
-
 “Very well, Frances.”
-
-
 
 I drew her a little nearer to my heart; I took a first kiss from her
 
@@ -15787,15 +13250,11 @@ measuring its own content; it sounded and sounded, and found the depth
 
 fathomless.
 
-
-
 “Monsieur,” at last said my quiet companion, as stirless in her
 
 happiness as a mouse in its terror. Even now in speaking she scarcely
 
 lifted her head.
-
-
 
 “Well, Frances?” I like unexaggerated intercourse; it is not my way to
 
@@ -15803,11 +13262,7 @@ overpower with amorous epithets, any more than to worry with selfishly
 
 importunate caresses.
 
-
-
 “Monsieur est raisonnable, n’est-ce pas?”
-
-
 
 “Yes; especially when I am requested to be so in English: but why do
 
@@ -15815,15 +13270,9 @@ you ask me? You see nothing vehement or obtrusive in my manner; am I not
 
 tranquil enough?”
 
-
-
 “Ce n’est pas cela--” began Frances.
 
-
-
 “English!” I reminded her.
-
-
 
 “Well, monsieur, I wished merely to say, that I should like, of course,
 
@@ -15831,11 +13280,7 @@ to retain my employment of teaching. You will teach still, I suppose,
 
 monsieur?”
 
-
-
 “Oh, yes! It is all I have to depend on.”
-
-
 
 “Bon!--I mean good. Thus we shall have both the same profession. I like
 
@@ -15843,15 +13288,9 @@ that; and my efforts to get on will be as unrestrained as yours--will
 
 they not, monsieur?”
 
-
-
 “You are laying plans to be independent of me,” said I.
 
-
-
 “Yes, monsieur; I must be no incumbrance to you--no burden in any way.”
-
-
 
 “But, Frances, I have not yet told you what my prospects are. I have
 
@@ -15865,8 +13304,6 @@ for you to fag yourself by going out to give lessons; on six thousand
 
 francs you and I can live, and live well.”
 
-
-
 Frances seemed to consider. There is something flattering to man’s
 
 strength, something consonant to his honourable pride, in the idea of
@@ -15876,8 +13313,6 @@ becoming the providence of what he loves--feeding and clothing it, as
 God does the lilies of the field. So, to decide her resolution, I went
 
 on:--
-
-
 
 “Life has been painful and laborious enough to you so far, Frances; you
 
@@ -15889,15 +13324,11 @@ it! Relinquish your labours: you must be weary, and let me have the
 
 happiness of giving you rest.”
 
-
-
 I am not sure whether Frances had accorded due attention to my harangue;
 
 instead of answering me with her usual respectful promptitude, she only
 
 sighed and said,--
-
-
 
 “How rich you are, monsieur!” and then she stirred uneasy in my
 
@@ -15911,8 +13342,6 @@ place? Oh no! I shall hold it fast;” and her little fingers emphatically
 
 tightened on mine.
 
-
-
 “Think of my marrying you to be kept by you, monsieur! I could not do
 
 it; and how dull my days would be! You would be away teaching in close,
@@ -15923,11 +13352,7 @@ at home, unemployed and solitary; I should get depressed and sullen, and
 
 you would soon tire of me.”
 
-
-
 “Frances, you could read and study--two things you like so well.”
-
-
 
 “Monsieur, I could not; I like a contemplative life, but I like an
 
@@ -15941,15 +13366,11 @@ other so highly, as those who work together, and perhaps suffer
 
 together.”
 
-
-
 “You speak God’s truth,” said I at last, “and you shall have your own
 
 way, for it is the best way. Now, as a reward for such ready consent,
 
 give me a voluntary kiss.”
-
-
 
 After some hesitation, natural to a novice in the art of kissing, she
 
@@ -15958,8 +13379,6 @@ brought her lips into very shy and gentle contact with my forehead; I
 took the small gift as a loan, and repaid it promptly, and with generous
 
 interest.
-
-
 
 I know not whether Frances was really much altered since the time
 
@@ -16017,15 +13436,11 @@ I could ill have dispensed with. It appeared, then, that I too was a
 
 sensualist, in my temperate and fastidious way.
 
-
-
 Now, reader, during the last two pages I have been giving you honey
 
 fresh from flowers, but you must not live entirely on food so luscious;
 
 taste then a little gall--just a drop, by way of change.
-
-
 
 At a somewhat late hour I returned to my lodgings: having temporarily
 
@@ -16055,8 +13470,6 @@ silence, and I heard a voice,” saying--“In the midst of life we are in
 
 death.”
 
-
-
 That sound, and the sensation of chill anguish accompanying it, many
 
 would have regarded as supernatural; but I recognized it at once as the
@@ -16074,8 +13487,6 @@ darkness fell upon me; I felt my chamber invaded by one I had known
 formerly, but had thought for ever departed. I was temporarily a prey to
 
 hypochondria.
-
-
 
 She had been my acquaintance, nay, my guest, once before in boyhood; I
 
@@ -16105,8 +13516,6 @@ than moonlight. “Necropolis!” she would whisper, pointing to the pale
 
 piles, and add, “It contains a mansion prepared for you.”
 
-
-
 But my boyhood was lonely, parentless; uncheered by brother or sister;
 
 and there was no marvel that, just as I rose to youth, a sorceress,
@@ -16129,8 +13538,6 @@ of fruition, and nestled there warm, content, under the caress of a soft
 
 hand--why did hypochondria accost me now?
 
-
-
 I repulsed her as one would a dreaded and ghastly concubine coming to
 
 embitter a husband’s heart toward his young bride; in vain; she kept her
@@ -16147,21 +13554,7 @@ when the evil spirit departed from me, and I could again seek Frances,
 
 and sit at her side, freed from the dreadful tyranny of my demon.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XXIV.
-
-
 
 ONE fine, frosty Sunday in November, Frances and I took a long walk; we
 
@@ -16177,11 +13570,7 @@ and I was just thinking that her eyes spoke full as eloquently as her
 
 tongue, when she stopped and remarked--
 
-
-
 “Monsieur, there is a gentleman who knows you.”
-
-
 
 I looked up; three fashionably dressed men were just then
 
@@ -16193,37 +13582,21 @@ he was in the act of lifting his hat to Frances; afterwards, he made a
 
 grimace at me, and passed on.
 
-
-
 “Who is he?”
-
-
 
 “A person I knew in England.”
 
-
-
 “Why did he bow to me? He does not know me.”
 
-
-
 “Yes, he does know you, in his way.”
-
-
 
 “How, monsieur?” (She still called me “monsieur”; I could not persuade
 
 her to adopt any more familiar term.)
 
-
-
 “Did you not read the expression of his eyes?”
 
-
-
 “Of his eyes? No. What did they say?”
-
-
 
 “To you they said, ‘How do you do, Wilhelmina Crimsworth?’ To me, ‘So
 
@@ -16231,13 +13604,9 @@ you have found your counterpart at last; there she sits, the female of
 
 your kind!’”
 
-
-
 “Monsieur, you could not read all that in his eyes; he was so soon
 
 gone.”
-
-
 
 “I read that and more, Frances; I read that he will probably call on me
 
@@ -16247,19 +13616,13 @@ he will insist on being introduced to you; shall I bring him to your
 
 rooms?”
 
-
-
 “If you please, monsieur--I have no objection; I think, indeed, I should
 
 rather like to see him nearer; he looks so original.”
 
-
-
 As I had anticipated, Mr. Hunsden came that evening. The first thing he
 
 said was:--
-
-
 
 “You need not begin boasting, Monsieur le Professeur; I know about your
 
@@ -16275,8 +13638,6 @@ rather emphatic negative, but on second thoughts I checked myself, and,
 
 seeming to assent, asked what he thought of her?
 
-
-
 “As to her, I’ll come to that directly; but first I’ve a word for you. I
 
 see you are a scoundrel; you’ve no business to be promenading about with
@@ -16285,11 +13646,7 @@ another man’s wife. I thought you had sounder sense than to get mixed up
 
 in foreign hodge-podge of this sort.”
 
-
-
 “But the lady?”
-
-
 
 “She’s too good for you evidently; she is like you, but something better
 
@@ -16301,11 +13658,7 @@ foreigners understand grace. What the devil has she done with Pelet? She
 
 has not been married to him three months--he must be a spoon!”
 
-
-
 I would not let the mistake go too far; I did not like it much.
-
-
 
 “Pelet? How your head runs on Mons. and Madame Pelet! You are always
 
@@ -16313,29 +13666,17 @@ talking about them. I wish to the gods you had wed Mdlle. Zoraide
 
 yourself!”
 
-
-
 “Was that young gentlewoman not Mdlle. Zoraide?”
-
-
 
 “No; nor Madame Zoraide either.”
 
-
-
 “Why did you tell a lie, then?”
-
-
 
 “I told no lie; but you are is such a hurry. She is a pupil of mine--a
 
 Swiss girl.”
 
-
-
 “And of course you are going to be married to her? Don’t deny that.”
-
-
 
 “Married! I think I shall--if Fate spares us both ten weeks longer. That
 
@@ -16343,13 +13684,9 @@ is my little wild strawberry, Hunsden, whose sweetness made me careless
 
 of your hothouse grapes.”
 
-
-
 “Stop! No boasting--no heroics; I won’t hear them. What is she? To what
 
 caste does she belong?”
-
-
 
 I smiled. Hunsden unconsciously laid stress on the word caste, and, in
 
@@ -16371,11 +13708,7 @@ over the table, and uttering the words slowly but with repressed glee, I
 
 said concisely--
 
-
-
 “She is a lace-mender.”
-
-
 
 Hunsden examined me. He did not SAY he was surprised, but surprised he
 
@@ -16384,8 +13717,6 @@ was; he had his own notions of good breeding. I saw he suspected I
 was going to take some very rash step; but repressing declamation or
 
 remonstrance, he only answered--
-
-
 
 “Well, you are the best judge of your own affairs. A lace-mender may
 
@@ -16397,19 +13728,13 @@ station, she is well furnished with such natural qualities as you think
 
 most likely to conduce to your happiness. Has she many relations?”
 
-
-
 “None in Brussels.”
-
-
 
 “That is better. Relations are often the real evil in such cases. I
 
 cannot but think that a train of inferior connections would have been a
 
 bore to you to your life’s end.”
-
-
 
 After sitting in silence a little while longer, Hunsden rose, and was
 
@@ -16423,8 +13748,6 @@ and thrown away as I was, it was no time for sarcasm or cynicism, or
 
 indeed for anything but indulgence and forbearance.
 
-
-
 “Good night, William,” he said, in a really soft voice, while his face
 
 looked benevolently compassionate. “Good night, lad. I wish you and your
@@ -16433,31 +13756,19 @@ future wife much prosperity; and I hope she will satisfy your fastidious
 
 soul.”
 
-
-
 I had much ado to refrain from laughing as I beheld the magnanimous pity
 
 of his mien; maintaining, however, a grave air, I said:--
 
-
-
 “I thought you would have liked to have seen Mdlle. Henri?”
-
-
 
 “Oh, that is the name! Yes--if it would be convenient, I should like to
 
 see her--but----.” He hesitated.
 
-
-
 “Well?”
 
-
-
 “I should on no account wish to intrude.”
-
-
 
 “Come, then,” said I. We set out. Hunsden no doubt regarded me as a
 
@@ -16477,8 +13788,6 @@ stair; on gaining the lobby, Hunsden turned to mount a narrower stair
 
 which led to a higher story; I saw his mind was bent on the attics.
 
-
-
 “Here, Mr. Hunsden,” said I quietly, tapping at Frances’ door. He
 
 turned; in his genuine politeness he was a little disconcerted at
@@ -16486,8 +13795,6 @@ turned; in his genuine politeness he was a little disconcerted at
 having made the mistake; his eye reverted to the green mat, but he said
 
 nothing.
-
-
 
 We walked in, and Frances rose from her seat near the table to receive
 
@@ -16547,8 +13854,6 @@ complexion grew warm and transparent; to me, she now looked pretty;
 
 before, she had only looked ladylike.
 
-
-
 She had many things to say to the Englishman just fresh from his
 
 island-country, and she urged him with an enthusiasm of curiosity, which
@@ -16571,15 +13876,9 @@ as Frances was herself, and in none but his own language would he now
 
 address her.
 
-
-
 “You understand English?” was the prefatory question.
 
-
-
 “A little.”
-
-
 
 “Well, then, you shall have plenty of it; and first, I see you’ve not
 
@@ -16599,19 +13898,11 @@ minutes ago, and respected you accordingly; and now I see you are a sort
 
 of Swiss sibyl, with high Tory and high Church principles!”
 
-
-
 “England is your country?” asked Frances.
-
-
 
 “Yes.”
 
-
-
 “And you don’t like it?”
-
-
 
 “I’d be sorry to like it! A little corrupt, venal, lord-and-king-cursed
 
@@ -16619,13 +13910,9 @@ nation, full of mucky pride (as they say in ----shire), and helpless
 
 pauperism; rotten with abuses, worm-eaten with prejudices!”
 
-
-
 “You might say so of almost every state; there are abuses and prejudices
 
 everywhere, and I thought fewer in England than in other countries.”
-
-
 
 “Come to England and see. Come to Birmingham and Manchester; come to St.
 
@@ -16645,15 +13932,11 @@ favourite paramour, and princely halls are dearer to her than thatched
 
 hovels----”
 
-
-
 “I was not thinking of the wretchedness and vice in England; I was
 
 thinking of the good side--of what is elevated in your character as a
 
 nation.”
-
-
 
 “There is no good side--none at least of which you can have any
 
@@ -16669,21 +13952,13 @@ associations, I will not insult you, mademoiselle, by supposing that you
 
 alluded to such humbug.”
 
-
-
 “But I did partly.”
 
-
-
 Hunsden laughed--his laugh of unmitigated scorn.
-
-
 
 “I did, Mr. Hunsden. Are you of the number of those to whom such
 
 associations give no pleasure?”
-
-
 
 “Mademoiselle, what is an association? I never saw one. What is its
 
@@ -16691,13 +13966,9 @@ length, breadth, weight, value--ay, VALUE? What price will it bring in
 
 the market?”
 
-
-
 “Your portrait, to any one who loved you, would, for the sake of
 
 association, be without price.”
-
-
 
 That inscrutable Hunsden heard this remark and felt it rather acutely,
 
@@ -16713,11 +13984,7 @@ he would like to be loved--some one whose love he could unreservedly
 
 return.
 
-
-
 The lady pursued her temporary advantage.
-
-
 
 “If your world is a world without associations, Mr. Hunsden, I no longer
 
@@ -16734,8 +14001,6 @@ stripped of the faculty of association, I think he would soon rush forth
 from ‘the ever-during gates,’ leave heaven, and seek what he had lost in
 
 hell. Yes, in the very hell from which he turned ‘with retorted scorn.’”
-
-
 
 Frances’ tone in saying this was as marked as her language, and it
 
@@ -16769,13 +14034,9 @@ itself departed. Hunsden’s excitations she put by soon with a smile, and
 
 recurring to the theme of disputation, said--
 
-
-
 “Since England is nothing, why do the continental nations respect her
 
 so?”
-
-
 
 “I should have thought no child would have asked that question,” replied
 
@@ -16792,8 +14053,6 @@ confession of ignorance. Why, mademoiselle, can’t you see that it is
 our GOLD which buys us French politeness, German good-will, and Swiss
 
 servility?” And he sneered diabolically.
-
-
 
 “Swiss?” said Frances, catching the word “servility.” “Do you call my
 
@@ -16813,8 +14072,6 @@ blood-earned freedom, and the natural glories of our mountains? You’re
 
 mistaken--you’re mistaken.”
 
-
-
 “Social greatness? Call it what you will, your countrymen are sensible
 
 fellows; they make a marketable article of what to you is an abstract
@@ -16823,23 +14080,13 @@ idea; they have, ere this, sold their social greatness and also their
 
 blood-earned freedom to be the servants of foreign kings.”
 
-
-
 “You never were in Switzerland?”
-
-
 
 “Yes--I have been there twice.”
 
-
-
 “You know nothing of it.”
 
-
-
 “I do.”
-
-
 
 “And you say the Swiss are mercenary, as a parrot says ‘Poor Poll,’ or
 
@@ -16847,11 +14094,7 @@ as the Belgians here say the English are not brave, or as the French
 
 accuse them of being perfidious: there is no justice in your dictums.”
 
-
-
 “There is truth.”
-
-
 
 “I tell you, Mr. Hunsden, you are a more unpractical man than I am an
 
@@ -16863,43 +14106,27 @@ an atheist would annihilate God and his own soul, by denying their
 
 existence.”
 
-
-
 “Where are you flying to? You are off at a tangent--I thought we were
 
 talking about the mercenary nature of the Swiss.”
-
-
 
 “We were--and if you proved to me that the Swiss are mercenary to-morrow
 
 (which you cannot do) I should love Switzerland still.”
 
-
-
 “You would be mad, then--mad as a March hare--to indulge in a passion
 
 for millions of shiploads of soil, timber, snow, and ice.”
 
-
-
 “Not so mad as you who love nothing.”
 
-
-
 “There’s a method in my madness; there’s none in yours.”
-
-
 
 “Your method is to squeeze the sap out of creation and make manure of
 
 the refuse, by way of turning it to what you call use.”
 
-
-
 “You cannot reason at all,” said Hunsden; “there is no logic in you.”
-
-
 
 “Better to be without logic than without feeling,” retorted Frances, who
 
@@ -16909,13 +14136,9 @@ intent, if not on hospitable thoughts, at least on hospitable deeds, for
 
 she was laying the cloth, and putting plates, knives and forks thereon.
 
-
-
 “Is that a hit at me, mademoiselle? Do you suppose I am without
 
 feeling?”
-
-
 
 “I suppose you are always interfering with your own feelings, and those
 
@@ -16925,17 +14148,11 @@ and the other sentiment, and then ordering it to be suppressed because
 
 you imagine it to be inconsistent with logic.”
 
-
-
 “I do right.”
-
-
 
 Frances had stepped out of sight into a sort of little pantry; she soon
 
 reappeared.
-
-
 
 “You do right? Indeed, no! You are much mistaken if you think so. Just
 
@@ -16951,19 +14168,11 @@ any sentiment that, like patriotism, spreads man’s selfishness in wider
 
 circles” (fire stirred, dish put down before it).
 
-
-
 “Were you born in Switzerland?”
-
-
 
 “I should think so, or else why should I call it my country?”
 
-
-
 “And where did you get your English features and figure?”
-
-
 
 “I am English, too; half the blood in my veins is English; thus I have
 
@@ -16971,23 +14180,15 @@ a right to a double power of patriotism, possessing an interest in two
 
 noble, free, and fortunate countries.”
 
-
-
 “You had an English mother?”
-
-
 
 “Yes, yes; and you, I suppose, had a mother from the moon or from
 
 Utopia, since not a nation in Europe has a claim on your interest?”
 
-
-
 “On the contrary, I’m a universal patriot, if you could understand me
 
 rightly: my country is the world.”
-
-
 
 “Sympathies so widely diffused must be very shallow: will you have
 
@@ -16995,25 +14196,17 @@ the goodness to come to table. Monsieur” (to me who appeared to be now
 
 absorbed in reading by moonlight)--“Monsieur, supper is served.”
 
-
-
 This was said in quite a different voice to that in which she had been
 
 bandying phrases with Mr. Hunsden--not so short, graver and softer.
-
-
 
 “Frances, what do you mean by preparing, supper? we had no intention of
 
 staying.”
 
-
-
 “Ah, monsieur, but you have stayed, and supper is prepared; you have
 
 only the alternative of eating it.”
-
-
 
 The meal was a foreign one, of course; it consisted in two small but
 
@@ -17041,21 +14234,13 @@ last she gave in, confessing that she thought as he thought, but bidding
 
 him take notice that she did not consider herself beaten.
 
-
-
 “No more did the French at Waterloo,” said Hunsden.
-
-
 
 “There is no comparison between the cases,” rejoined Frances; “mine was
 
 a sham fight.”
 
-
-
 “Sham or real, it’s up with you.”
-
-
 
 “No; though I have neither logic nor wealth of words, yet in a case
 
@@ -17071,13 +14256,9 @@ of the laws of war, and was victorious in defiance of military tactics.
 
 I would do as he did.”
 
-
-
 “I’ll be bound for it you would; probably you have some of the same sort
 
 of stubborn stuff in you.”
-
-
 
 “I should be sorry if I had not; he and Tell were brothers, and I’d
 
@@ -17085,23 +14266,15 @@ scorn the Swiss, man or woman, who had none of the much-enduring nature
 
 of our heroic William in his soul.”
 
-
-
 “If Tell was like Wellington, he was an ass.”
 
-
-
 “Does not ASS mean BAUDET?” asked Frances, turning to me.
-
-
 
 “No, no,” replied I, “it means an ESPRIT-FORT; and now,” I continued, as
 
 I saw that fresh occasion of strife was brewing between these two, “it
 
 is high time to go.”
-
-
 
 Hunsden rose. “Good bye,” said he to Frances; “I shall be off for this
 
@@ -17119,17 +14292,11 @@ Crimsworth, I suppose; poor young lady? but you have a spark of spirit;
 
 cherish it, and give the Professor the full benefit thereof.”
 
-
-
 “Are you married. Mr. Hunsden?” asked Frances, suddenly.
-
-
 
 “No. I should have thought you might have guessed I was a Benedict by my
 
 look.”
-
-
 
 “Well, whenever you marry don’t take a wife out of Switzerland; for if
 
@@ -17145,8 +14312,6 @@ Breton-bretonnant, even as your own Shakspeare’s Othello smothered
 
 Desdemona.”
 
-
-
 “I am warned,” said Hunsden; “and so are you, lad,” (nodding to me). “I
 
 hope yet to hear of a travesty of the Moor and his gentle lady, in which
@@ -17159,8 +14324,6 @@ hand, absolutely like Sir Charles Grandison on that of Harriet Byron;
 
 adding--“Death from such fingers would not be without charms.”
 
-
-
 “Mon Dieu!” murmured Frances, opening her large eyes and lifting her
 
 distinctly arched brows; “c’est qu’il fait des compliments! je ne m’y
@@ -17169,11 +14332,7 @@ suis pas attendu.” She smiled, half in ire, half in mirth, curtsied with
 
 foreign grace, and so they parted.
 
-
-
 No sooner had we got into the street than Hunsden collared me.
-
-
 
 “And that is your lace-mender?” said he; “and you reckon you have done
 
@@ -17185,11 +14344,7 @@ with an ouvriere! And I pitied the fellow, thinking his feelings had
 
 misled him, and that he had hurt himself by contracting a low match!”
 
-
-
 “Just let go my collar, Hunsden.”
-
-
 
 On the contrary, he swayed me to and fro; so I grappled him round the
 
@@ -17199,13 +14354,9 @@ tug for it; and after we had both rolled on the pavement, and with
 
 difficulty picked ourselves up, we agreed to walk on more soberly.
 
-
-
 “Yes, that’s my lace-mender,” said I; “and she is to be mine for
 
 life--God willing.”
-
-
 
 “God is not willing--you can’t suppose it; what business have you to
 
@@ -17219,15 +14370,11 @@ more deference to such a one as I, were she favoured by fortune to the
 
 supreme extent of being my choice instead of yours.”
 
-
-
 “Hunsden, you’re a puppy. But you’ve only seen the title-page of my
 
 happiness; you don’t know the tale that follows; you cannot conceive the
 
 interest and sweet variety and thrilling excitement of the narrative.”
-
-
 
 Hunsden--speaking low and deep, for we had now entered a busier
 
@@ -17238,8 +14385,6 @@ dreadful if I stimulated his wrath further by boasting. I laughed till
 my sides ached. We soon reached his hotel; before he entered it, he
 
 said--
-
-
 
 “Don’t be vainglorious. Your lace-mender is too good for you, but not
 
@@ -17261,8 +14406,6 @@ and more harmonious features, to say nothing of a nobler and better
 
 developed shape than that perverse, ill-thriven child can boast.”
 
-
-
 “Bribe a seraph to fetch you a coal of fire from heaven, if you will,”
 
  said I, “and with it kindle life in the tallest, fattest, most boneless,
@@ -17271,27 +14414,11 @@ fullest-blooded of Ruben’s painted women--leave me only my Alpine peri,
 
 and I’ll not envy you.”
 
-
-
 With a simultaneous movement, each turned his back on the other. Neither
 
 said “God bless you;” yet on the morrow the sea was to roll between us.
 
-
-
-
-
-
-
-
-
-
-
-
-
 CHAPTER XXV.
-
-
 
 IN two months more Frances had fulfilled the time of mourning for her
 
@@ -17347,8 +14474,6 @@ Common Prayer Book, and she and I came out married. M. Vandenhuten had
 
 given the bride away.
 
-
-
 We took no bridal trip; our modesty, screened by the peaceful obscurity
 
 of our station, and the pleasant isolation of our circumstances, did not
@@ -17358,8 +14483,6 @@ exact that additional precaution. We repaired at once to a small house
 I had taken in the faubourg nearest to that part of the city where the
 
 scene of our avocations lay.
-
-
 
 Three or four hours after the wedding ceremony, Frances, divested of her
 
@@ -17395,8 +14518,6 @@ into the pot, she administered to me a proper British repast, at which
 
 there wanted neither candles nor urn, firelight nor comfort.
 
-
-
 Our week’s holiday glided by, and we readdressed ourselves to labour.
 
 Both my wife and I began in good earnest with the notion that we were
@@ -17417,8 +14538,6 @@ Unvaried were they as each cut gem, and like each gem brilliant and
 
 burning.
 
-
-
 A year and a half passed. One morning (it was a FETE, and we had the day
 
 to ourselves) Frances said to me, with a suddenness peculiar to her when
@@ -17429,11 +14548,7 @@ a conclusion, wished to test its soundness by the touchstone of my
 
 judgment:--
 
-
-
 “I don’t work enough.”
-
-
 
 “What now?” demanded I, looking up from my coffee, which I had been
 
@@ -17447,8 +14562,6 @@ saw at once, in the serious ardour of her face, a project of vital
 
 importance.
 
-
-
 “I am not satisfied,” returned she: “you are now earning eight thousand
 
 francs a year” (it was true; my efforts, punctuality, the fame of my
@@ -17459,17 +14572,11 @@ on), “while I am still at my miserable twelve hundred francs. I CAN do
 
 better, and I WILL.”
 
-
-
 “You work as long and as diligently as I do, Frances.”
-
-
 
 “Yes, monsieur, but I am not working in the right way, and I am
 
 convinced of it.”
-
-
 
 “You wish to change--you have a plan for progress in your mind; go and
 
@@ -17477,11 +14584,7 @@ put on your bonnet; and, while we take our walk, you shall tell me of
 
 it.”
 
-
-
 “Yes, monsieur.”
-
-
 
 She went--as docile as a well-trained child; she was a curious mixture
 
@@ -17489,15 +14592,11 @@ of tractability and firmness: I sat thinking about her, and wondering
 
 what her plan could be, when she re-entered.
 
-
-
 “Monsieur, I have given Minnie” (our bonne) “leave to go out too, as it
 
 is so very fine; so will you be kind enough to lock the door, and take
 
 the key with you?”
-
-
 
 “Kiss me, Mrs. Crimsworth,” was my not very apposite reply; but she
 
@@ -17509,21 +14608,13 @@ and suavely respectful, that my heart expanded at the sight of her, and
 
 a kiss seemed necessary to content its importunity.
 
-
-
 “There, monsieur.”
 
-
-
 “Why do you always call me ‘Monsieur’? Say, ‘William.’”
-
-
 
 “I cannot pronounce your W; besides, ‘Monsieur’ belongs to you; I like
 
 it best.”
-
-
 
 Minnie having departed in clean cap and smart shawl, we, too, set out,
 
@@ -17544,8 +14635,6 @@ to be declined; we took it, and when we had admired and examined some
 English-looking wild-flowers growing at our feet, I recalled Frances’
 
 attention and my own to the topic touched on at breakfast.
-
-
 
 “What was her plan?” A natural one--the next step to be mounted by
 
@@ -17573,8 +14662,6 @@ old to enjoy it; then both she and I would rest; and what was to hinder
 
 us from going to live in England? England was still her Promised Land.
 
-
-
 I put no obstacle in her way; raised no objection; I knew she was
 
 not one who could live quiescent and inactive, or even comparatively
@@ -17589,15 +14676,11 @@ was not the hand ever to starve or cramp them; no, I delighted in
 
 offering them sustenance, and in clearing them wider space for action.
 
-
-
 “You have conceived a plan, Frances,” said I, “and a good plan; execute
 
 it; you have my free consent, and wherever and whenever my assistance is
 
 wanted, ask and you shall have.”
-
-
 
 Frances’ eyes thanked me almost with tears; just a sparkle or two, soon
 
@@ -17607,13 +14690,9 @@ some time very close clasped in both her own, but she said no more than
 
 “Thank you, monsieur.”
 
-
-
 We passed a divine day, and came home late, lighted by a full summer
 
 moon.
-
-
 
 Ten years rushed now upon me with dusty, vibrating, unresting wings;
 
@@ -17649,8 +14728,6 @@ went back, and soon after sent a leash of young ----shire heiresses--his
 
 cousins; as he said “to be polished off by Mrs. Crimsworth.”
 
-
-
 As to this same Mrs. Crimsworth, in one sense she was become another
 
 woman, though in another she remained unchanged. So different was
@@ -17674,8 +14751,6 @@ the world knew the secret of their existence, but to me they were ever
 ready to yield an exquisite fragrance and present a beauty as chaste as
 
 radiant.
-
-
 
 In the daytime my house and establishment were conducted by Madame the
 
@@ -17775,8 +14850,6 @@ enthusiastic heart and clever head, for her generosity and her genius,
 
 the title and rank went for nothing.
 
-
-
 My afternoons were spent also in college, with the exception of an hour
 
 that my wife daily exacted of me for her establishment, and with which
@@ -17803,8 +14876,6 @@ she did it was with an air of marked deference; it was her pleasure, her
 
 joy to make me still the master in all things.
 
-
-
 At six o’clock P.M. my daily labours ceased. I then came home, for
 
 my home was my heaven; ever at that hour, as I entered our private
@@ -17818,8 +14889,6 @@ arms; much disappointed she would have been if her master had not been
 as constant to the tryst as herself, and if his truthfull kiss had not
 
 been prompt to answer her soft, “Bon soir, monsieur.”
-
-
 
 Talk French to me she would, and many a punishment she has had for
 
@@ -17889,8 +14958,6 @@ excited her; Scott she loved; Wordsworth only she puzzled at, wondered
 
 over, and hesitated to pronounce an opinion upon.
 
-
-
 But whether she read to me, or talked with me; whether she teased me
 
 in French, or entreated me in English; whether she jested with wit,
@@ -17953,21 +15020,15 @@ Entering it two minutes later she said quietly as she put down her
 
 extinguished lamp--
 
-
-
 “Victor rests well: he smiled in his sleep; he has your smile,
 
 monsieur.”
-
-
 
 The said Victor was of course her own boy, born in the third year of
 
 our marriage: his Christian name had been given him in honour of M.
 
 Vandenhuten, who continued always our trusty and well-beloved friend.
-
-
 
 Frances was then a good and dear wife to me, because I was to her a
 
@@ -17979,49 +15040,31 @@ a drunkard, or a tyrant--is another question, and one which I once
 
 propounded to her. Her answer, given after some reflection, was--
 
-
-
 “I should have tried to endure the evil or cure it for awhile; and when
 
 I found it intolerable and incurable, I should have left my torturer
 
 suddenly and silently.”
 
-
-
 “And if law or might had forced you back again?”
-
-
 
 “What, to a drunkard, a profligate, a selfish spendthrift, an unjust
 
 fool?”
 
-
-
 “Yes.”
-
-
 
 “I would have gone back; again assured myself whether or not his vice
 
 and my misery were capable of remedy; and if not, have left him again.”
 
-
-
 “And if again forced to return, and compelled to abide?”
 
-
-
 “I don’t know,” she said, hastily. “Why do you ask me, monsieur?”
-
-
 
 I would have an answer, because I saw a strange kind of spirit in her
 
 eye, whose voice I determined to waken.
-
-
 
 “Monsieur, if a wife’s nature loathes that of the man she is wedded to,
 
@@ -18039,11 +15082,7 @@ should be sure of a refuge. Death would certainly screen me both from
 
 bad laws and their consequences.”
 
-
-
 “Voluntary death, Frances?”
-
-
 
 “No, monsieur. I’d have courage to live out every throe of anguish fate
 
@@ -18051,15 +15090,11 @@ assigned me, and principle to contend for justice and liberty to the
 
 last.”
 
-
-
 “I see you would have made no patient Grizzle. And now, supposing fate
 
 had merely assigned you the lot of an old maid, what then? How would you
 
 have liked celibacy?”
-
-
 
 “Not much, certainly. An old maid’s life must doubtless be void and
 
@@ -18103,13 +15138,9 @@ her glance so thrilling and ardent--her action so rapid and strong. She
 
 looked down, smiling softly and passively:--
 
-
-
 “I cannot tell where it is gone, monsieur,” said she, “but I know that,
 
 whenever it is wanted, it will come back again.”
-
-
 
 Behold us now at the close of the ten years, and we have realized an
 
@@ -18131,8 +15162,6 @@ need not say how gainful; I communicated details to Messrs. Vandenhuten
 
 and Hunsden; nobody else can be interested in hearing them.
 
-
-
 Accounts being wound up, and our professional connection disposed of, we
 
 both agreed that, as mammon was not our master, nor his service that in
@@ -18148,8 +15177,6 @@ properly managed by right sympathy and unselfish activity, might
 help philanthropy in her enterprises, and put solace into the hand of
 
 charity.
-
-
 
 To England we now resolved to take wing; we arrived there safely;
 
@@ -18197,8 +15224,6 @@ of spring--whence its name--Daisy Lane; serving also as a distinction to
 
 the house.
 
-
-
 It terminates (the lane I mean) in a valley full of wood; which
 
 wood--chiefly oak and beech--spreads shadowy about the vicinage of a
@@ -18219,8 +15244,6 @@ of young ladies within a circuit of forty miles, who would be willing to
 
 assist him in the search.
 
-
-
 The estate fell to him by the death of his father, five years since; he
 
 has given up trade, after having made by it sufficient to pay off some
@@ -18240,8 +15263,6 @@ a German metaphysician, sometimes a French savant; he had once a
 dissatisfied and savage-looking Italian, who neither sang nor played,
 
 and of whom Frances affirmed that he had “tout l’air d’un conspirateur.”
-
-
 
 What English guests Hunsden invites, are all either men of Birmingham or
 
@@ -18269,8 +15290,6 @@ Hunsden himself tolerated the drivelling theorists; with the practical
 
 men he seemed leagued hand and heart.
 
-
-
 When Hunsden is staying alone at the Wood (which seldom happens) he
 
 generally finds his way two or three times a week to Daisy Lane. He has
@@ -18290,8 +15309,6 @@ me into lunacy by treading on my mental corns, or to force from Mrs.
 Crimsworth revelations of the dragon within her, by insulting the memory
 
 of Hofer and Tell.
-
-
 
 We also go frequently to Hunsden Wood, and both I and Frances relish a
 
@@ -18320,8 +15337,6 @@ tastefully disposed in his panelled or tapestried rooms: I have seen
 there one or two pictures, and one or two pieces of statuary which many
 
 an aristocratic connoisseur might have envied.
-
-
 
 When I and Frances have dined and spent an evening with Hunsden, he
 
@@ -18359,13 +15374,9 @@ come and graft her foreign beauty on the old Hunsden oak, he answered
 
 suddenly--
 
-
-
 “You call her ideal; but see, here is her shadow; and there cannot be a
 
 shadow without a substance.”
-
-
 
 He had led us from the depth of the “winding way” into a glade from
 
@@ -18374,8 +15385,6 @@ whence the beeches withdrew, leaving it open to the sky; an unclouded
 moon poured her light into this glade, and Hunsden held out under her
 
 beam an ivory miniature.
-
-
 
 Frances, with eagerness, examined it first; then she gave it to
 
@@ -18397,41 +15406,25 @@ independent, determined eye it was; the mouth was as firm as fine; the
 
 chin ditto. On the back of the miniature was gilded “Lucia.”
 
-
-
 “That is a real head,” was my conclusion.
-
-
 
 Hunsden smiled.
 
-
-
 “I think so,” he replied. “All was real in Lucia.”
 
-
-
 “And she was somebody you would have liked to marry--but could not?”
-
-
 
 “I should certainly have liked to marry her, and that I HAVE not done so
 
 is a proof that I COULD not.”
 
-
-
 He repossessed himself of the miniature, now again in Frances’ hand, and
 
 put it away.
 
-
-
 “What do YOU think of it?” he asked of my wife, as he buttoned his coat
 
 over it.
-
-
 
 “I am sure Lucia once wore chains and broke them,” was the strange
 
@@ -18449,19 +15442,11 @@ certain it spread wide pinions and carried her higher than--” she
 
 hesitated.
 
-
-
 “Than what?” demanded Hunsden.
-
-
 
 “Than ‘les convenances’ permitted you to follow.”
 
-
-
 “I think you grow spiteful--impertinent.”
-
-
 
 “Lucia has trodden the stage,” continued Frances. “You never seriously
 
@@ -18477,35 +15462,23 @@ filled a sphere from whence you would never have thought of taking a
 
 wife.”
 
-
-
 “Ingenious,” remarked Hunsden; “whether true or not is another question.
 
 Meantime, don’t you feel your little lamp of a spirit wax very pale,
 
 beside such a girandole as Lucia’s?”
 
-
-
 “Yes.”
-
-
 
 “Candid, at least; and the Professor will soon be dissatisfied with the
 
 dim light you give?”
 
-
-
 “Will you, monsieur?”
-
-
 
 “My sight was always too weak to endure a blaze, Frances,” and we had
 
 now reached the wicket.
-
-
 
 I said, a few pages back, that this is a sweet summer evening; it
 
@@ -18527,8 +15500,6 @@ of whom Hunsden affirms that his mother is making a milksop. Mrs.
 
 Crimsworth retaliates:--
 
-
-
 “Better a thousand times he should be a milksop than what he, Hunsden,
 
 calls ‘a fine lad;’ and moreover she says that if Hunsden were to become
@@ -18543,15 +15514,11 @@ for that with his mutinous maxims and unpractical dogmas, he would ruin
 
 a score of children.”
 
-
-
 I have a word to say of Victor ere I shut this manuscript in my
 
 desk--but it must be a brief one, for I hear the tinkle of silver on
 
 porcelain.
-
-
 
 Victor is as little of a pretty child as I am of a handsome man, or his
 
@@ -18589,8 +15556,6 @@ affection; this feeling, directed towards one or two living animals of
 
 the house, strengthens almost to a passion.
 
-
-
 Mr. Hunsden gave him a mastiff cub, which he called Yorke, after the
 
 donor; it grew to a superb dog, whose fierceness, however, was much
@@ -18623,15 +15588,11 @@ Victor was kneeling beside his dead mastiff, bent over it, embracing its
 
 bull-like neck, and lost in a passion of the wildest woe: he saw me.
 
-
-
 “Oh, papa, I’ll never forgive you! I’ll never forgive you!” was his
 
 exclamation. “You shot Yorke--I saw it from the window. I never believed
 
 you could be so cruel--I can love you no more!”
-
-
 
 I had much ado to explain to him, with a steady voice, the stern
 
@@ -18639,15 +15600,11 @@ necessity of the deed; he still, with that inconsolable and bitter
 
 accent which I cannot render, but which pierced my heart, repeated--
 
-
-
 “He might have been cured--you should have tried--you should have burnt
 
 the wound with a hot iron, or covered it with caustic. You gave no time;
 
 and now it is too late--he is dead!”
-
-
 
 He sank fairly down on the senseless carcase; I waited patiently a long
 
@@ -18677,8 +15634,6 @@ had made me act so, and that I was now almost heart-broken to see him
 
 weep thus bitterly.
 
-
-
 Victor would have been no true son of his father, had these
 
 considerations, these reasons, breathed in so low, so sweet a
@@ -18696,8 +15651,6 @@ again what she had said about Yorke having suffered no pain, and my not
 being cruel; the balmy words being repeated, he again pillowed his cheek
 
 on her breast, and was again tranquil.
-
-
 
 Some hours after, he came to me in my library, asked if I forgave him,
 
@@ -18730,8 +15683,6 @@ laid on the mound under which Yorke had been buried, his face covered
 with his hands; he was melancholy for some weeks, and more than a year
 
 elapsed before he would listen to any proposal of having another dog.
-
-
 
 Victor learns fast. He must soon go to Eton, where, I suspect, his first
 
@@ -18801,8 +15752,6 @@ his soul; then for the ordeal of merited and salutary suffering, out of
 
 which he will come (I trust) a wiser and a better man.
 
-
-
 I see him now; he stands by Hunsden, who is seated on the lawn under the
 
 beech; Hunsden’s hand rests on the boy’s collar, and he is instilling
@@ -18829,8 +15778,6 @@ Hunsden had children of his own, for then he would better know the
 
 danger of inciting their pride end indulging their foibles.
 
-
-
 Frances approaches my library window; puts aside the honeysuckle which
 
 half covers it, and tells me tea is ready; seeing that I continue busy
@@ -18839,15 +15786,9 @@ she enters the room, comes near me quietly, and puts her hand on my
 
 shoulder.
 
-
-
 “Monsieur est trop applique.”
 
-
-
 “I shall soon have done.”
-
-
 
 She draws a chair near, and sits down to wait till I have finished; her
 
@@ -18857,25 +15798,17 @@ spicy flowers, as the glow of the westering sun, as the repose of the
 
 midsummer eve are to my senses.
 
-
-
 But Hunsden comes; I hear his step, and there he is, bending through the
 
 lattice, from which he has thrust away the woodbine with unsparing hand,
 
 disturbing two bees and a butterfly.
 
-
-
 “Crimsworth! I say, Crimsworth! take that pen out of his hand, mistress,
 
 and make him lift up his head.”
 
-
-
 “Well, Hunsden? I hear you--”
-
-
 
 “I was at X---- yesterday! your brother Ned is getting richer than
 
@@ -18902,7 +15835,5 @@ fact. Brown says she weighs twelve stones now; you see what you’ve
 lost, Mr. Professor. Now, Monsieur and Madame, if you don’t come to tea,
 
 Victor and I will begin without you.”
-
-
 
 “Papa, come!”

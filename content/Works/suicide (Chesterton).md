@@ -30,7 +30,6 @@ tags:
 
 A Ballade of Suicide  
 
-
 The gallows in my garden, people say,  
 Is new and neat and adequately tall;  
 I tie the noose on in a knowing way  
@@ -64,7 +63,4 @@ The tumbrils toiling up the terrible way;
 Even to-day your royal head may fall--  
 I think I will not hang myself to-day.  
 
--- G.K. Chesterton  
-
-
-===== FINE FILE: suicide.txt =====  
+-- G.K. Chesterton

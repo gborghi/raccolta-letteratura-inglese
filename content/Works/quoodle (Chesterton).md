@@ -71,10 +71,4 @@ All things that Quoodle can,
 They haven't got no noses,  
 They haven't got no noses,  
 And goodness only knowses  
-The Noselessness of Man.  
-
-
-
-
-
-===== FINE FILE: quoodle.txt =====  
+The Noselessness of Man.

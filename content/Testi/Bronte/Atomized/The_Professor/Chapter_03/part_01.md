@@ -16,8 +16,6 @@ tags:
 
 CHAPTER II.
 
-
-
 A FINE October morning succeeded to the foggy evening that had witnessed
 
 my first introduction to Crimsworth Hall. I was early up and walking in
@@ -50,8 +48,6 @@ A dense, permanent vapour brooded over this locality--there lay Edward’s
 
 “Concern.”
 
-
-
 I forced my eye to scrutinize this prospect, I forced my mind to dwell
 
 on it for a time, and when I found that it communicated no pleasurable
@@ -69,8 +65,6 @@ be a tradesman. Look!” I continued mentally--“Look at the sooty smoke in
 that hollow, and know that there is your post! There you cannot dream,
 
 you cannot speculate and theorize--there you shall out and work!”
-
-
 
 Thus self-schooled, I returned to the house. My brother was in the
 
@@ -114,8 +108,6 @@ stern, forbidding manner told me he would not spare. Had I then force of
 
 mind to cope with him? I did not know; I had never been tried.
 
-
-
 Mrs. Crimsworth’s entrance diverted my thoughts for a moment. She looked
 
 well, dressed in white, her face and her attire shining in morning
@@ -127,8 +119,6 @@ night’s careless gaiety seemed to warrant, but she replied with coolness
 and restraint: her husband had tutored her; she was not to be too
 
 familiar with his clerk.
-
-
 
 As soon as breakfast was over Mr. Crimsworth intimated to me that they
 
@@ -153,8 +143,6 @@ triumph in the result of the contest; he scarcely spoke to me during the
 whole of the brief drive, only opening his lips at intervals to damn his
 
 horse.
-
-
 
 X---- was all stir and bustle when we entered it; we left the clean
 
@@ -190,19 +178,13 @@ Mr. Crimsworth entered, and in an instant was again absorbed in his
 
 occupation of writing or calculating--I know not which.
 
-
-
 Mr. Crimsworth, having removed his mackintosh, sat down by the fire. I
 
 remained standing near the hearth; he said presently--
 
-
-
 “Steighton, you may leave the room; I have some business to transact
 
 with this gentleman. Come back when you hear the bell.”
-
-
 
 The individual at the desk rose and departed, closing the door as he
 

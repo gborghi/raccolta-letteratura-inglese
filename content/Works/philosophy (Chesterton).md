@@ -101,7 +101,3 @@ any religion, it might at least be taught, clearly and firmly,
 the three or four sanities and certainties of human free thought.
 
 ----------------------------------------------------------------------------
-
-
-
-===== FINE FILE: philosophy.txt =====

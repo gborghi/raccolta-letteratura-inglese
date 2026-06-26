@@ -58,8 +58,6 @@ tone: "Stay where you are a moment. I will go on and look round; they
 
 won't be alarmed at me."
 
-
-
 He remained hanging on the ladder and looking up at a pale disc of light
 
 like the moon itself, which showed the opening of the well. A moment
@@ -84,15 +82,11 @@ catch us so easily. We've only to say The Word and the world will be
 
 destroyed."
 
-
-
 Then the grotesque stopper was taken out of the strange bottle; the disc
 
 of dull light reappeared; and after a few moments of bewildered waiting,
 
 he heard the voice of his guide whispering over the brink.
-
-
 
 "He's gone," said Conrad. "You can come up now." When he came up, it was
 
@@ -108,15 +102,11 @@ to watch the place, standing round and composedly answering the rather
 
 conspiratorial signals of Conrad.
 
-
-
 "You can go into the house in a minute," said Conrad in the same low
 
 voice. "I'll just nip in and see that everything's all right, but I'm
 
 sure they're all boxed up in there. Bring your men with you, of course."
-
-
 
 He darted into the back of a house, which Grimm fancied was the house
 
@@ -129,8 +119,6 @@ consider the advisability of following their solitary leader into the den
 of criminals, when they caught their breath and stood still, staring up
 
 at the house.
-
-
 
 One of the window blinds was jerked up and there appeared at the window
 
@@ -158,23 +146,17 @@ stars shrivel in the single sun, The words are many, but The Word is
 
 one."
 
-
-
 Then he suddenly snapped the blind down and vanished, the room behind him
 
 turning dark. They could hardly believe that the incident, especially so
 
 senseless an incident, had really happened at all.
 
-
-
 The next moment they were conscious that their creepy friend the
 
 conspirator had come close to them again in complete silence and was
 
 whispering: "You can go in now and nab them all."
-
-
 
 Grimm, at the head of his stolid policemen, stumped up some stairs and
 
@@ -200,15 +182,11 @@ sign a single name. "This is where they live," said John Conrad, "and I
 
 promise you they shall not escape."
 
-
-
 Then after a pause he added: "But before we seek them out in their
 
 separate suites of apartments, I want to talk to you about something. I
 
 want to talk to you about The Word."
-
-
 
 "I suppose," said the official grimly, "that we are to be allowed to hear
 
@@ -216,19 +194,13 @@ The Word also, though somebody has just told me that it will destroy the
 
 world."
 
-
-
 "I do not think it will destroy the world," answered Conrad gravely. "I
 
 hope it will rather recreate it."
 
-
-
 "Then," said Grimm, "I may take it that when we do know The Word, we
 
 shan't find that is a joke too."
-
-
 
 "In one sense it's a joke," answered the other. "In one sense when you
 
@@ -236,15 +208,9 @@ know it, you will know it's a joke. But the joke is that you know it
 
 already."
 
-
-
 "I'm sure I don't know what you mean by saying so," said the other.
 
-
-
 "You have heard The Word twenty times," said Conrad.
-
-
 
 "You heard it only ten minutes ago. We have shouted and bellowed The Word
 
@@ -254,8 +220,6 @@ whole secret of this conspiracy is really in one word; only that we've
 
 never kept it a secret."
 
-
-
 Grimm was looking at him with gleaming eyes under his heavy brows, and
 
 something like a suspicion was creeping into his face. Conrad repeated
@@ -264,13 +228,9 @@ very seriously, with a slow and heavy enunciation the words: "As all
 
 stars shrivel in the single sun . . ."
 
-
-
 Grimm leapt to his feet with an oath and suddenly made a dash at the door
 
 labelled "Sebastian".
-
-
 
 "Yes, you've got it," said Conrad with a smile. "It's only a question of
 
@@ -278,11 +238,7 @@ which word you italicize. Or, if you like, of which word you begin with a
 
 big letter."
 
-
-
 "The words are many," muttered Grimm, fumbling at the door.
-
-
 
 "Yes," answered the other, "but the word is One." Colonel Grimm flung
 
@@ -294,8 +250,6 @@ and from these were hanging a red wig, a red artificial beard, a scarf of
 
 peacock colours and all the externals of the popular poet.
 
-
-
 "All the history of the great revolution," went on John Conrad, in the
 
 calm tone of a lecturer, "the whole method by which it was enabled to
@@ -305,8 +259,6 @@ spread and menace the great State of Pavonia is and always was to be
 summed up in a single word: a word I constantly repeated, but a word that
 
 you never guessed. It is the word One."
-
-
 
 He stepped from the table to the door at right angles to the open one;
 
@@ -318,8 +270,6 @@ narrow, tall hat, a dilapidated waterproof and a bulbous mask bridged by
 
 a pair of green spectacles.
 
-
-
 "These are the luxurious apartments of the celebrated Professor Phocus,"
 
 he said. "Need I explain to you that there never was any Professor
@@ -329,8 +279,6 @@ Phocus?-except myself, of course, who professed to be the Professor. In
 the case of Loeb and Case I ran rather a greater risk, for they were, or
 
 had been, real people."
-
-
 
 He paused a moment, rubbing his long chin, and then said: "But it's odd
 
@@ -365,8 +313,6 @@ even the King himself, that old Loeb the pawnbroker was dead, and so he
 was. He died years before I began to impersonate him with these trifling
 
 adornments."
-
-
 
 And he threw open another cupboard, displaying a dusty interior festooned
 
@@ -454,13 +400,9 @@ General Case, but it's only the uniform. The rest consists chiefly of
 
 blacking,"
 
-
-
 "Quite so," said Colonel Grimm, politely. "I will excuse you from
 
 exhibiting the blacking. And now, what is to happen?"
-
-
 
 The chief conspirator seemed to be still sunken in a sort of reverie. At
 
@@ -478,13 +420,9 @@ great soldier Case is captured and hanged; Phocus and Loeb are captured
 
 and hanged. You can see them hanging-on hat-pegs."
 
-
-
 Then he added, with a bow of profound modesty: "But their humble tool,
 
 John Conrad, has the pardon of the King."
-
-
 
 Grimm once more sprang erect with a ringing curse which cracked and
 
@@ -502,13 +440,9 @@ you have done what you said you would do, and kept your own word in your
 
 own way."
 
-
-
 "Yes," said Conrad, with a new sobriety, "it is the only thing worth
 
 calling The Word."
-
-
 
 It has been already explained that Pavonia possessed a modern and
 
@@ -528,15 +462,7 @@ purely personal honour, but there was a rumour that his niece had a good
 
 deal to do with it.
 
-
-
-
-
-
-
 EPILOGUE OF THE PRESSMAN
-
-
 
 THE Thief, the Quack, the Murderer and the Traitor, had made their
 
@@ -550,8 +476,6 @@ whole of that time Mr. Pinion had preserved an air of polite attention
 
 and had not interrupted by so much as a word.
 
-
-
 When they were over, he coughed slightly and said: "Well, gentlemen, I'm
 
 sure I've been very much interested in your remarkable narratives. But I
@@ -564,13 +488,9 @@ you, or prompted you, or stuck my oar in anyway, but have enjoyed your
 
 hospitality without taking advantage of it."
 
-
-
 "I am sure," said the doctor heartily, "nobody could possibly have been
 
 more patient and considerate."
-
-
 
 "I only ask," proceeded Mr. Pinion, in his gentle tones, "because in the
 
@@ -590,13 +510,9 @@ hung on to Judge Grogan by one leg, when he was climbing into the
 
 aeroplane."
 
-
-
 "Well," said the doctor, "I own I never should have guessed it of you.
 
 Nobody would think you'd ever done a thing like that."
-
-
 
 "I never did," replied Mr. Pinion calmly. "Judge Grogan and I had a
 
@@ -606,13 +522,9 @@ request. But each of us has got to keep up his own professional
 
 reputation, whether it's as a Murderer, a Robber or a Reporter."
 
-
-
 "Do you mean," asked the big man intervening, "that you didn't really
 
 batter or wreck or rip anything or anybody?"
-
-
 
 "Well, not quite so much as you murdered anybody," answered the American
 
@@ -626,11 +538,7 @@ polite. My experience is," he added mildly and gravely, "that most folks
 
 are only too ready to talk about themselves."
 
-
-
 The four men around him looked at each other and then broke into a laugh.
-
-
 
 "That's certainly one for us," said the doctor. "You've certainly got our
 
@@ -639,8 +547,6 @@ stories out of us and done it by being perfectly polite. Do you really
 mean to say that if you publish them, you'd have to pretend you could
 
 only do it by being rude?"
-
-
 
 "I guess so," said Mr. Pinion, nodding gravely. "If I publish your story,
 
@@ -664,19 +570,13 @@ at appropriate times. Or rather," and he again suppressed a smile,
 
 "letting them talk to you."
 
-
-
 "Do you think," asked the big man thoughtfully, "that that sort of
 
 sensationalism really impresses the public?"
 
-
-
 "I don't know," said the journalist. "I should rather think not. It
 
 impresses the editor, and that's what I've got to think about."
-
-
 
 "But, if you'll excuse me, don't you mind yourself," pursued the other.
 
@@ -686,13 +586,9 @@ Battering-Ram when you're really a perfectly normal and well-educated
 
 gentleman?"
 
-
-
 "Well," said the journalist, "I suppose, as I say, that most of us are
 
 misunderstood one way or another."
-
-
 
 There was a momentary silence at the table, and then Dr. Judson turned in
 
@@ -700,20 +596,6 @@ his chair with a sort of jerk and said: "Gentlemen, I beg to propose Mr.
 
 Lee Pinion as a member of the Club."
 
-
-
-
-
-
-
 End of this Project Gutenberg of Australia eBook
 
 Four Faultless Felons by G.K. Chesterton
-
-
-
-
-
-
-
-===== FINE FILE: FourFaultlessFelons.txt =====

@@ -58,7 +58,6 @@ tags:
 - [Story 11 The Strange Crime of John Boulnois](/Testi/Chesterton/Atomized/wifrb11/Story_11_The_Strange_Crime_of_John_Boulnois)
 - [Story 12 The Fairy Tale of Father Brown](/Testi/Chesterton/Atomized/wifrb11/Story_12_The_Fairy_Tale_of_Father_Brown)
 
-
 ## Testo integrale / Full text
 
 ***The Project Gutenberg Etext of The Wisdom of Father Brown***
@@ -70,7 +69,6 @@ tags:
 
 Information on contacting Project Gutenberg to get Etexts, and
 further information is included below.  We need your donations.
-
 
 The Wisdom of Father Brown
 
@@ -160,7 +158,6 @@ MGET GUT* for newsletters.
 
 **Information prepared by the Project Gutenberg legal advisor**
 (Three Pages)
-
 
 ***START**THE SMALL PRINT!**FOR PUBLIC DOMAIN ETEXTS**START***
 Why is this "Small Print!" statement here?  You know: lawyers.
@@ -299,29 +296,18 @@ This "Small Print!" by Charles B. Kramer, Attorney
 Internet (72600.2026@compuserve.com); TEL: (212-254-5093)
 *END*THE SMALL PRINT! FOR PUBLIC DOMAIN ETEXTS*Ver.04.29.93*END*
 
-
-
-
 The Project Gutenberg Etext of The Wisdom of Father Brown by Chesterton
-
-
-
 
                           G.  K.  CHESTERTON
 
-
                               THE WISDOM
                             OF FATHER BROWN
-
 
                                   To
 
                            LUCIAN OLDERSHAW
 
-
-
                                CONTENTS
-
 
 1.  The Absence of Mr Glass
 2.  The Paradise of Thieves
@@ -336,13 +322,9 @@ The Project Gutenberg Etext of The Wisdom of Father Brown by Chesterton
 11. The Strange Crime of John Boulnois
 12. The Fairy Tale of Father Brown
 
-
-
                                   ONE
 
-
                         The Absence of Mr Glass
-
 
 THE consulting-rooms of Dr Orion Hood, the eminent criminologist
 and specialist in certain moral disorders, lay along the sea-front
@@ -944,13 +926,9 @@ Contortionist, Ventriloquist and Human Kangaroo would be ready
 with an entirely new series of Tricks at the Empire Pavilion,
 Scarborough, on Monday next at eight o'clock precisely.
 
-
-
                                   TWO
 
-
                         The Paradise of Thieves
-
 
 THE great Muscari, most original of the young Tuscan poets,
 walked swiftly into his favourite restaurant, which overlooked
@@ -1667,12 +1645,9 @@ Glasgow, Chicago--in short, to enlightened, energetic, civilized society!"
 
      "In short," said Muscari, "to the real Paradise of Thieves."
 
-
-
                                  THREE
 
                          The Duel of Dr Hirsch
-
 
 M. MAURICE BRUN and M. Armand Armagnac were crossing the sunlit
 Champs Elysee with a kind of vivacious respectability. 
@@ -1749,8 +1724,6 @@ I cannot: I will not.
      There is going to be another Dreyfus case.
 
                                              P. HIRSCH
-
-
 
      M. Armagnac looked at M. Brun.  M. Brun borrowed the letter,
 read it, and looked at M. Armagnac.  Then both betook themselves briskly
@@ -2292,14 +2265,9 @@ a loose black coat, the figure vanished towards the front of the house.
 A few moments later a roar of popular applause from the street beyond
 announced that Dr Hirsch had once more appeared upon the balcony.
 
-
-
-
                                  FOUR
 
-
                         The Man in the Passage
-
 
 TWO men appeared simultaneously at the two ends of a sort of passage
 running along the side of the Apollo Theatre in the Adelphi. 
@@ -2988,14 +2956,9 @@ in a looking-glass, when two such distinguished men don't?"
 then he stammered:  "Really, my lord, I don't know unless it's because
 I don't look at it so often."
 
-
-
-
                                  FIVE
 
-
                       The Mistake of the Machine
-
 
 FLAMBEAU and his friend the priest were sitting in the Temple Gardens
 about sunset; and their neighbourhood or some such accidental influence
@@ -3616,14 +3579,9 @@ She had Arranged Freak Dinner.  Now Safe in--"
 
      Mr Greenwood Usher lifted his eyes, but Father Brown was gone.
 
-
-
-
                                   SIX
 
-
                           The Head of Caesar
-
 
 THERE is somewhere in Brompton or Kensington an interminable avenue
 of tall houses, rich but largely empty, that looks like a terrace of tombs. 
@@ -4248,14 +4206,9 @@ the poor young people are getting on."
      "I think," said Flambeau, "that in spite of everything,
 they are probably getting on very well."
 
-
-
-
                                  SEVEN
 
-
                             The Purple Wig
-
 
 MR EDWARD NUTT, the industrious editor of the Daily Reformer,
 sat at his desk, opening letters and marking proofs to the merry tune
@@ -4355,7 +4308,6 @@ as "Peeress and Poisons", and "The Eerie Ear", "The Eyres in their Eyrie",
 and so on through a hundred happy changes.  Then followed the legend
 of the Ear, amplified from Finn's first letter, and then the substance
 of his later discoveries, as follows:
-
 
      I know it is the practice of journalists to put the end of the story
 at the beginning and call it a headline.  I know that journalism
@@ -4593,7 +4545,6 @@ plastered.  And I learnt from the legal records and old newspapers
 that there was a lawsuit threatened, and at least begun, by one Green
 against the Duke of Exmoor.
 
-
      Mr Nutt, of the Daily Reformer, wrote some highly incongruous
 words across the top of the copy, made some highly mysterious marks
 down the side of it, and called to Miss Barlow in the same loud,
@@ -4608,12 +4559,10 @@ a Spiritualist.
 
                                                   E.  NUTT.
 
-
      A day or two afterward found the active and judicious editor
 examining, with blue eyes that seemed to grow rounder and rounder,
 the second instalment of Mr Finn's tale of mysteries in high life. 
 It began with the words:
-
 
      I have made an astounding discovery.  I freely confess it is
 quite different from anything I expected to discover, and will give
@@ -4793,7 +4742,6 @@ a guttersnipe who was a pettifogger and a pawnbroker not twelve years ago.
 I think it very typical of the real case against our aristocracy as it is,
 and as it will be till God sends us braver men.
 
-
      Mr Nutt put down the manuscript and called out with unusual
 sharpness:  "Miss Barlow, please take down a letter to Mr Finn."
 
@@ -4814,13 +4762,9 @@ and tossed it into the waste-paper basket; but not before he had,
 automatically and by force of habit, altered the word "God"
 to the word "circumstances."
 
-
-
                                  EIGHT
 
-
                     The Perishing of the Pendragons
-
 
 FATHER BROWN was in no mood for adventures.  He had lately fallen ill
 with over-work, and when he began to recover, his friend Flambeau
@@ -5591,14 +5535,9 @@ And he closed his eyes.
      "Do you think most men would have seen that?" asked Flambeau. 
 He received no answer:  Father Brown was asleep.
 
-
-
-
                                  NINE
 
-
                          The God of the Gongs
-
 
 IT was one of those chilly and empty afternoons in early winter,
 when the daylight is silver rather than gold and pewter rather than silver. 
@@ -5721,7 +5660,6 @@ as the sea.
 came scrambling out of the hole faster than he had fallen in. 
 His face was no longer disconcerted, but rather resolute, and,
 perhaps only through the reflections of the snow, a trifle paler than usual.
-
 
      "Well?" asked his tall friend.  "Have you found the god
 of the temple?"
@@ -6252,14 +6190,9 @@ apologetically.  "And I'm sure he wouldn't whiten his face."
 for an instant into the direction of the soot-masked niggers singing
 on the sands.
 
-
-
-
                                   TEN
 
-
                        The Salad of Colonel Cray
-
 
 FATHER BROWN was walking home from Mass on a white weird morning
 when the mists were slowly lifting--one of those mornings when
@@ -6819,14 +6752,9 @@ a long time looking for the police."
      "Or the police in looking for the Major?" said the priest. 
 "Well, good-bye."
 
-
-
-
                                 ELEVEN
 
-
                   The Strange Crime of John Boulnois
-
 
 MR CALHOUN KIDD was a very young gentleman with a very old face,
 a face dried up with its own eagerness, framed in blue-black hair
@@ -7476,13 +7404,9 @@ I have so luckily been let off?"
 
      "Being hanged," said Father Brown.
 
-
-
                                 TWELVE
 
-
                     The Fairy Tale of Father Brown
-
 
 THE picturesque city and state of Heiligwaldenstein was one of those
 toy kingdoms of which certain parts of the German Empire still consist. 
@@ -8024,11 +7948,4 @@ twice a traitor?"
 with black eyebrows and a pink, painted sort of smile that seemed
 to contradict the black warning in his eyes.
 
-
 End of this Project Gutenberg Etext of The Wisdom of Father Brown
-
-
-
-
-
-===== FINE FILE: wifrb11.txt =====

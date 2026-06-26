@@ -54,8 +54,4 @@ Immortal story for a mortal sin;
 Lest human fable touch historic fact,  
 Chase myths like moths, and fight them with a pin.  
 Take comfort; rest--there needs not this ado.  
-You shall not be a myth, I promise you.  
-
-
-
-===== FINE FILE: arthur.txt =====  
+You shall not be a myth, I promise you.

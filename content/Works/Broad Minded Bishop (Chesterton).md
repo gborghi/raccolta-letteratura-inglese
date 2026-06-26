@@ -33,7 +33,4 @@ A Broad Minded Bishop Rebukes The Verminous St. Francis
 If Brother Francis pardoned Brother Flea,  
 There still seems need of such strange charity,  
 Seeing he is, for all his gay goodwill,  
-Bitten by funny little creatures still.  
-
-
-===== FINE FILE: Broad_Minded_Bishop.txt =====  
+Bitten by funny little creatures still.

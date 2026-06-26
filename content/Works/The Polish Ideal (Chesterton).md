@@ -177,7 +177,6 @@ in English:  "That's just like the Poles!"
 
 Hope of the Half-Defeated; house of gold...
 
-
 1.  Ironsides were the Puritan soldiers who fought under Cromwell
 in the English Civil Wars.
 
@@ -187,7 +186,3 @@ John Bull's Other Island (1904).
 3.  See Belloc's "Ballade to Our Lady of Czestochowa".
 
 4.  Dégagé means casual, relaxed.
-
-
-
-===== FINE FILE: The_Polish_Ideal.txt =====

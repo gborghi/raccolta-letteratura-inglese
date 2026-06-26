@@ -36,9 +36,7 @@ cited below.  Maisie Ward references this material as being some of his
 best and also, ironically, some of his earliest.  Haw, George, ed.
 The Religious Doubts of Democracy.  London:  MacMillan, 1904.
 
-
                         Christianity and Rationalism
-
 
 My friend, Mr. George Haw, has asked me to state, in one or two articles,
 my general belief on the subject of Christianity, to be inserted in
@@ -336,8 +334,3 @@ believe that he heard a voice from his God.  You could more easily
 think that Christ murdered His mother, than that He had a psychic
 energy of which we know nothing.  I approach you with the reverence
 and the courage due to a bench of bishops.
-
-
-
-
-===== FINE FILE: Christianity_and_Rationalism.txt =====

@@ -64,7 +64,4 @@ Envoi
 Prince, Bayard would have smashed his sword  
 To see the sort of knights you dub--  
 Is that the last of them--O Lord  
-Will someone take me to a pub?  
-
-
-===== FINE FILE: anti-puritan.txt =====  
+Will someone take me to a pub?

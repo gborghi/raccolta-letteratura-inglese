@@ -102,9 +102,4 @@ Our wrath come after Russia's wrath and our wrath be the worst.
 It may be we are meant to mark with our riot and our rest  
 God's scorn for all men governing. It may be beer is best.  
 But we are the people of England; and we have not spoken yet.  
-Smile at us, pay us, pass us. But do not quite forget.  
-
-
-
-
-===== FINE FILE: secret-people.txt =====  
+Smile at us, pay us, pass us. But do not quite forget.

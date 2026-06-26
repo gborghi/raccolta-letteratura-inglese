@@ -321,8 +321,3 @@ seas of Coleridge.  We must above all things be the reverse of vulgar,
 and therefore the reverse of vainglorious, if we are really to convey
 what freedom, what humour and what greatness of heart are hidden
 in the very seclusion of England.
-
-
-
-
-===== FINE FILE: A_Shy_Bird.txt =====

@@ -156,10 +156,3 @@ The voice of the special rebels and prophets, recommending discontent,
 should, as I have said, sound now and then suddenly, like a trumpet.
 But the voices of the saints and sages, recommending, contentment,
 should sound unceasingly, like the sea.
-
-
-
-
-
-
-===== FINE FILE: What_is_Right_With_the_World.txt =====

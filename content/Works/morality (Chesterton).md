@@ -112,6 +112,3 @@ We adorn things most when we love them most.  And we love them
 most when we have nearly lost them.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: morality.txt =====

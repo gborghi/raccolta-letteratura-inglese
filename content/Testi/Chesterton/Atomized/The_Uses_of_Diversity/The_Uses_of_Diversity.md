@@ -59,7 +59,6 @@ Table of Contents
   On Historical Novels
   On Monsters
 
-
 On Seriousness
 
 I DO not like seriousness.  I think it is irreligious.  Or, if you
@@ -1747,7 +1746,6 @@ Perhaps some of our sculptors will attack the conception;
 perhaps the lady's pig, which weighs forty stone and seems to be
 something of a domestic problem, might begin to earn its living
 as an artist's model.
-
 
 Again, we do not know what fascinating variations might happen
 in the pig if once the pig were a pet.  The dog has been
@@ -4818,6 +4816,3 @@ something sinister about putting a Leprechaun in the workhouse.
 The only solid comfort is that he certainly will not work.
 
 THE END
-
-
-===== FINE FILE: The_Uses_of_Diversity.txt =====

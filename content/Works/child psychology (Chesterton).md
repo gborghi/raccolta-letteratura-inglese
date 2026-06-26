@@ -157,6 +157,3 @@ psychological criticisms, and complaints against nursery rhymes
 or other normal amusements of mankind.
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: child_psychology.txt =====

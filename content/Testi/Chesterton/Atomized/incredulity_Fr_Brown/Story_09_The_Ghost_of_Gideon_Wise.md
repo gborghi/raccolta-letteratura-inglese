@@ -800,9 +800,3 @@ how very literary! Home is a sneak and a skunk, but do not forget that,
 like many other sneaks and skunks in history, he is also a poet.'
 
 THE END
-
-
-
-
-
-===== FINE FILE: incredulity_Fr_Brown.txt =====

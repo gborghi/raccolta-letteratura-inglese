@@ -260,6 +260,3 @@ a woman who is not dignified and a man who is.
 -------------------------------------------------------------------------------
 
 Part of an etext in progress by Rob Szarka.
-
-
-===== FINE FILE: cockneys.txt =====

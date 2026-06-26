@@ -180,7 +180,4 @@ of the revolutionary mood.  Frenchmen, seeking revolution,
 may find the humiliation of humanity inspiring.  But God forbid
 that two pleasure-seeking Englishmen should ever find it pleasant!"
 
-				     -- G. K. Chesterton. 
-
-
-===== FINE FILE: frenchenglish.txt =====
+				     -- G. K. Chesterton.

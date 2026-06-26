@@ -16,10 +16,6 @@ tags:
 
 A TALL STORY
 
-
-
-
-
 They had been discussing the new troubles in Germany: the three old
 
 friends, Sir Hubert Wotton, the famous official; Mr. Pond, the
@@ -40,8 +36,6 @@ married; and the presence of Joan Gahagan still stimulated the
 
 Captain to rather excessive flights of showing-off.
 
-
-
 Captain Gahagan looked like a Regency buck; Mr. Pond looked like a
 
 round-eyed fish, with the beard and brow of Socrates; Sir Hubert
@@ -49,8 +43,6 @@ round-eyed fish, with the beard and brow of Socrates; Sir Hubert
 Wotton looked like Sir Hubert Wotton--it summed up a very sound and
 
 virile quality in him, for which his friends had a great respect.
-
-
 
 "It's an infernal shame," Wotton was saying, "the way these fellows
 
@@ -61,8 +53,6 @@ no more Communists than I am; little men who'd worked their way up
 by merit and industry, all kicked out of their posts without a
 
 penny of compensation.  Surely you agree with that, Gahagan?"
-
-
 
 "Of course I do," replied Gahagan.  "I never kicked a Jew.  I can
 
@@ -79,8 +69,6 @@ kicked at all.  But I fancy they must be kicking themselves, for
 having been so faithful to Germany and even, everywhere else,
 
 pretty generally pro-German."
-
-
 
 "Even that can be exaggerated," said Mr. Pond.  "Do you remember
 
@@ -120,25 +108,17 @@ too tall to be seen; one was apparently paralysed in a hospital and
 
 got out of the window at night--"
 
-
-
 Joan looked across at him with a troubled expression in her honest
 
 brown eyes.
-
-
 
 "Please, Mr. Pond, do tell us what you mean by a man being too tall
 
 to be seen."
 
-
-
 Gahagan's spirits, already high, soared into laughter and light
 
 improvisation.
-
-
 
 "These things do happen, my dear girl," he said.  "I can throw out
 
@@ -188,11 +168,7 @@ on the contrary, they would soon find that the face was too small.
 
 To cut a long story short--"
 
-
-
 "Or a tall story shorter," said Joan in a trenchant manner.
-
-
 
 "When the Titan was extricated, he was so tall that by the common
 
@@ -210,8 +186,6 @@ lectures in America; driven by that mysterious instinct which leads
 
 any person who is notorious for any reason to adopt that course."
 
-
-
 "Well, have you done?" demanded Joan.  "We know all about you and
 
 your yarns; and they don't mean anything.  But when Mr. Pond says
@@ -219,8 +193,6 @@ your yarns; and they don't mean anything.  But when Mr. Pond says
 that somebody was too tall to be seen, he does mean something.  And
 
 what can he possibly mean?"
-
-
 
 "Well," said Mr. Pond, coughing slightly, "it was really a part of
 
@@ -233,12 +205,6 @@ on second thought, that it is, perhaps, a phrase requiring
 explanation."  And he proceeded, in his slightly pedantic way, to
 
 narrate the story which is now retold here.
-
-
-
-
-
-
 
 It all happened in a fashionable watering-place, which was also a
 
@@ -270,8 +236,6 @@ worked in the office upstairs, where there were some very valuable
 
 State papers, including the only plan of the mines in the harbour.
 
-
-
 Mr. Pond himself always spent several hours in the office, but he
 
 had more occasion than the others to pay visits in the town, and
@@ -295,8 +259,6 @@ an old curiosity shop opposite, with a display of ancient Asiatic
 weapons; and there was Mrs. Hartog-Haggard next door, more alarming
 
 than all the weapons of the world.
-
-
 
 Mrs. Hartog-Haggard was one of those persons, to be found here and
 
@@ -334,8 +296,6 @@ responsible official, a theory had fully formed and hardened in her
 
 mind.
 
-
-
 "That man is a SOCIALIST, Mr. Pond," she declared in the ear of
 
 that unfortunate functionary.  "I heard him with my own ears mutter
@@ -343,8 +303,6 @@ that unfortunate functionary.  "I heard him with my own ears mutter
 something about what his Trade Union would say.  What is he doing
 
 so near to your office?"
-
-
 
 "We must distinguish," said Mr. Pond.  "A Trade Unionist, even a
 
@@ -360,21 +318,15 @@ Strike leaders is in a mood to make recruiting speeches all over
 
 the Empire."
 
-
-
 "I'm sure he's not English; he doesn't look a bit English," said
 
 the lady, still thinking of her wicked proletarian without.
-
-
 
 "Thank you, Mrs. Hartog-Haggard," said Pond, patiently.  "I will
 
 certainly make a note of your warning and see that inquiries are
 
 made about it."
-
-
 
 And so he did, with the laborious precision of one who could not
 
@@ -387,8 +339,6 @@ was Peterson: it was possible that it was really Petersen.  But
 that was not all.  Mr. Pond had learned the last lesson of the wise
 
 man: that the fool is sometimes right.
-
-
 
 He soon forgot the incident in the details of his work; and next
 
@@ -430,8 +380,6 @@ we would talk about a fairy-tale.  But he knew a good deal about
 
 the lady; and saw no reason to move in the matter.
 
-
-
 "She shuts herself up for hours in her room and won't come out,"
 
 Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
@@ -439,8 +387,6 @@ Mrs. Hartog-Haggard was already breathing hoarsely in his ear.  "Do
 you think she is signalling, or does she climb down the fire-
 
 escape?  What do you think it means, Mr. Pond?"
-
-
 
 "Hysterics," said Mr. Pond.  "What, do you think the poor lady
 
@@ -460,15 +406,11 @@ pupils do not love her, and thinking about weltschmerz and suicide.
 
 And really, poor woman, she is in a very hard position."
 
-
-
 "She won't come to family prayers," continued the patriotic matron,
 
 not to be turned from her course, "because we pray for a British
 
 victory."
-
-
 
 "You had better pray," said Mr. Pond, "for all the unhappy
 
@@ -482,8 +424,6 @@ doors, that may show she is too much of a German.  It also shows
 
 she is not much of a German spy."
 
-
-
 Here again, however, Mr. Pond was careful not to ignore or entirely
 
 despise the warning; he kept an eye on the German governess, and
@@ -492,19 +432,13 @@ even engaged that learned lady in talk upon some trivial pretext--
 
 if anything she touched could remain trivial.
 
-
-
 "Your study of our national drama," he said gravely, "must
 
 sometimes recall to you the greatest and noblest work that ever
 
 came out of Germany."
 
-
-
 "You refer to Goethe's Faust, I presume," she replied.
-
-
 
 "I refer to Grimm's Fairy-Tales," said Mr. Pond.  "I fear I have
 
@@ -515,8 +449,6 @@ exists in Grimm's collection in the same form; but I am pretty
 certain there is some variant of it.  It always seems to me about
 
 the best story in the world."
-
-
 
 The German governess obliged him with a short lecture on the
 
@@ -531,8 +463,6 @@ Pickles, in lights and various other embellishments, supported by
 that world-famed comedian who called himself Alberto Tizzi and was
 
 born in the Blackfriars Road.
-
-
 
 When he returned to his office at twilight, and, turning, beheld
 
@@ -554,15 +484,9 @@ ever; she ducked under the frame of scaffolding and darted into the
 
 room, crying out as she came:
 
-
-
 "Mr. Pond, do you know what is right opposite your own house?"
 
-
-
 "Well, I think so," said Mr. Pond, doubtfully, "more or less."
-
-
 
 "I never read the name over the shop before!" cried the lady.  "You
 
@@ -572,25 +496,17 @@ I mean; with all the spears and daggers.  Think of the impudence of
 
 the man!  He's actually written up his name there:  'C. Schiller.'"
 
-
-
 "He's written up C. Schiller; I'm not so sure he's written up his
 
 name," said Mr. Pond.
-
-
 
 "Do you mean," she cried, "that you actually know he goes by two
 
 names?  Why, that makes it worse than ever!"
 
-
-
 "Well," said Mr. Pond, rising suddenly, and with a curtness that
 
 cut all his own courtesy, "I'll see what I can do about it."
-
-
 
 And for the third time did Mr. Pond take some steps to verify the
 
@@ -605,8 +521,6 @@ peaceable-looking person who waited behind all this array of arms;
 not to say a rather smooth and sleek one; and Pond, leaning across
 
 the counter, addressed him in a low and confidential voice.
-
-
 
 "Why the dickens do you people do it?  It will be more than half
 
@@ -634,19 +548,13 @@ day, if you go about calling yourself Schiller.  You might as well
 
 go and live in Stratford-on-Avon and call yourself Shakespeare."
 
-
-
 "There'th a lot of prejudith againth my rathe," said the warden of
 
 the armoury.
 
-
-
 "There'll be a lot more, unless you take my advice," said Mr. Pond
 
 with unusual brevity; and left the shop to return to the office.
-
-
 
 The square figure of Mr. Butt, who was sitting at the desk looking
 
@@ -676,8 +584,6 @@ watched.  Mr. Pond was very glad that Mr. Levy lived in the shop
 
 exactly opposite.
 
-
-
 Indeed, he found himself gazing across the street in the gathering
 
 dusk with feelings which he found it hard to analyse.  He could
@@ -703,8 +609,6 @@ there arose within him the terror of Mrs. Hartog-Haggard, which is
 the terror of boredom and a sort of paralysed impatience, one of
 
 the worst of the woes of life.
-
-
 
 Then he saw that the shifting shadow must have been produced by the
 
@@ -736,8 +640,6 @@ he felt the peculiar oppression of his work as he had never felt it
 
 before.
 
-
-
 Then he shook himself awake, telling himself sharply that his
 
 business was working and not worrying about the atmosphere of the
@@ -758,13 +660,9 @@ and prosaic of subordinates; but the look on his face was quite
 
 enough to prove that something was really the matter.
 
-
-
 "Is anything bothering you?" asked Pond, in a gentle voice which
 
 people found very encouraging.
-
-
 
 "Yes, sir," said Mr. Butt.  "I'm bothering about whether I'm going
 
@@ -776,17 +674,11 @@ them.  But after all--well, sir, there is the country, isn't
 
 there?"
 
-
-
 "There is certainly the country," said Mr. Pond, very seriously.
-
-
 
 "Well," Butt blurted out at last, "I'm not a bit comfortable about
 
 Arthur."
-
-
 
 Then, after a sort of gasp, he tried again:  "At least, it isn't so
 
@@ -796,13 +688,9 @@ the nastier to have put it like that.  But you know he got engaged
 
 last week.  Have you met his fiancée, sir?"
 
-
-
 "I have not yet had the honour," replied Pond, in his punctilious
 
 way.
-
-
 
 "Well, sir, Arthur brought her in here to-day while you were out;
 
@@ -836,11 +724,7 @@ somehow that's just the one word that wouldn't jump to my mind
 
 about her--innocence."
 
-
-
 "Why, what sort of a girl is she?" asked Pond.
-
-
 
 "Well," said Mr. Butt, gloomily seeking words, "we all know that
 
@@ -854,8 +738,6 @@ might be perfectly honest, she WOULD know very decidedly whether a
 
 thing is done or not."
 
-
-
 "If she is engaged to him," said Pond, with a rather unusual
 
 severity, "she must know that he is here on highly confidential
@@ -865,8 +747,6 @@ work, and she must be as anxious to protect his honour as we are.
 I'm afraid that I shall have to ask you for some sort of
 
 description."
-
-
 
 "Well," said Butt, "she's very tall and elegant, or . . . no,
 
@@ -882,27 +762,17 @@ the shape of the skull; and though she's not at all long in the
 
 tooth, in any sense, her teeth are just a little to the fore."
 
-
-
 "Did he meet her in Besançon, near Belfort?"
-
-
 
 "Pretty rum you should say that," said Butt, miserably; "because he
 
 did."
 
-
-
 Mr. Pond received the news in silence.
-
-
 
 "I hope, sir, you won't assume anything against Arthur," said Butt,
 
 huskily.  "I'm sure I'd do anything to clear him of any--"
-
-
 
 As he spoke, the ceiling above them shook with a thud like thunder;
 
@@ -913,8 +783,6 @@ stillness.  No one acquainted with Mr. Pond's usual process of
 ambulation could have believed that he flew up the staircase as he
 
 did just then.
-
-
 
 They flung open the door, and they saw all that was to be seen.
 
@@ -934,8 +802,6 @@ had already touched the wrist and felt the rigidity of the muscles
 
 and he waved his subordinate away.
 
-
-
 "I am sorry to say that our friend is certainly dead," he said
 
 steadily.  "In that case, you had better not touch things till they
@@ -944,21 +810,15 @@ can be properly examined."  Then, looking at Butt very solemnly, he
 
 added:
 
-
-
 "You said you would do anything to clear him.  One thing is
 
 certain: that he is quite cleared."
-
-
 
 Pond then walked in silence to the desk, which contained the secret
 
 drawer and the secret plan of the harbour.  He only compressed his
 
 lips when he saw that the drawer was empty.
-
-
 
 Pond walked to the telephone and issued orders to about six
 
@@ -970,21 +830,15 @@ same time that the stunned and bewildered Butt stumbled into
 
 speech.
 
-
-
 "I simply can't make head or tail of anything.  That woman had
 
 gone; and, besides, no woman could have nailed him to the floor
 
 like that."
 
-
-
 "And with such an extraordinary nail," said Pond, and was silent
 
 once more.
-
-
 
 And indeed the riddle revolved more and more on the one thing that
 
@@ -1030,8 +884,6 @@ barbaric or Oriental arms said that they had never seen such a
 
 thing before.
 
-
-
 Touching many other things, the darkness began to thin away to a
 
 somewhat dreary dawn.  It was ascertained that poor Arthur's
@@ -1050,8 +902,6 @@ floor; and quite impossible to imagine why she should select it for
 
 the purpose.
 
-
-
 "It would all be as clear as death," said Mr. Butt, bitterly,
 
 "except for that lumbering, long-hilted short-sword, or whatever it
@@ -1062,19 +912,13 @@ or any of the tribes the learned jossers tell us about.  It's the
 
 real remaining mystery of the whole thing."
 
-
-
 Mr. Pond seemed to be waking up slowly from a trance of hours or
 
 days.
 
-
-
 "Oh, THAT," he said, "that's the only thing about it I'm really
 
 beginning to understand."
-
-
 
 It has been hinted, with every delicacy, we may hope, that the
 
@@ -1098,8 +942,6 @@ the triumph of the fool.  Mrs. Hartog-Haggard gave him the clue
 
 after all.
 
-
-
 She darted in under the scaffolding by the doorway, the same dark
 
 and almost antic figure.  Full of the Cause, she was utterly
@@ -1122,8 +964,6 @@ pantomime at all; regarding it as a ruse for filling them with the
 
 gruesome tales of Grimm and the terrors of the barbaric forest.
 
-
-
 "They're SENT to do that," she repeated in the fierce, confidential
 
 voice she used in such cases.  "They're sent here to undermine all
@@ -1140,13 +980,9 @@ stop it; and my life is simply ruined.  My three girls are all
 
 twittering with terror; and my boy is mad."
 
-
-
 The symptoms of Mr. Pond were still mainly those of fatigue; and
 
 she rapped out a repetition.
-
-
 
 "He is MAD, I tell you, Mr. Pond; he is actually SEEING things out
 
@@ -1156,8 +992,6 @@ great knife walking through the town by moonlight . . . a GIANT,
 
 Mr. Pond."
 
-
-
 Mr. Pond staggered to his feet and for once really goggled and
 
 gulped like a fish.  Mrs. Hartog-Haggard watched him with wild
@@ -1166,19 +1000,13 @@ eyes, intermittently exclaiming:  "Have you no word of consolation
 
 for a mother?"
 
-
-
 Mr. Pond abruptly controlled himself and managed to recapture, at
 
 least, a hazy courtesy.
 
-
-
 "Yes, madam," he said.  "I have the best possible consolation for a
 
 mother.  Your son is not mad."
-
-
 
 He looked more judicial, and even severe, when he next sat in
 
@@ -1186,27 +1014,19 @@ consultation with Mr. Butt, Sir Hubert Wotton, and Inspector Grote,
 
 the leading detective of the district.
 
-
-
 "What it comes to is this," said Mr. Pond, very sternly: "that you
 
 do not really know the story of Puss-in-Boots.  And they talk about
 
 this as an epoch of Education."
 
-
-
 "Oh, I know it's about a clever cat and all the rest of it," said
 
 Butt, vaguely.  "A cat that helps its master to get things--"
 
-
-
 The Inspector smote his knee with a smack that rang through the
 
 office.
-
-
 
 "A cat burglar!" he cried.  "So that's what you mean.  I fancied at
 
@@ -1218,8 +1038,6 @@ to climb up to the window by it.  But, of course, if we're talking
 
 about a really clever cat burglar, there's always some chance that--"
 
-
-
 "Pardon me," said Mr. Pond, "does a cat burglar, or for that matter
 
 any burglar, any more than any cat, load himself with a gigantic
@@ -1228,13 +1046,9 @@ knife rather bigger than a garden spade?  Nobody carries a gigantic
 
 knife except a giant.  This crime was committed by a giant."
 
-
-
 They all stared at him; but he resumed with the same air of frigid
 
 rebuke:
-
-
 
 "What I remark upon, what I regret and regard as symptomatic of
 
@@ -1294,13 +1108,9 @@ outside our doorway, among the poles of the little scaffolding,
 
 while he climbed in at the upper window and killed poor Travers."
 
-
-
 "If you are sure of this," cried Sir Hubert Wotton, starting to his
 
 feet hastily, "you ought to act on it at once!"
-
-
 
 "I did act on it at once," replied Pond, with a slight sigh.  "This
 
@@ -1313,12 +1123,6 @@ of them was arrested and found to be Signor Tizzi.  He was also
 found, I am glad to say, to be still in possession of the plans."
 
 But he sighed again.
-
-
-
-
-
-
 
 "For after all," as Mr. Pond observed, in telling the tale long
 
@@ -1350,20 +1154,6 @@ only," said Mr. Pond, ending, as he had begun, with an apologetic
 
 little laugh, "he was too tall to be seen."
 
-
-
-
-
-
-
 End of this Project Gutenberg of Australia eBook
 
 The Paradoxes of Mr Pond by G. K. Chesterton
-
-
-
-
-
-
-
-===== FINE FILE: MrPond.txt =====

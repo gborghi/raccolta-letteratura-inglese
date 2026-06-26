@@ -51,9 +51,4 @@ But on this, God's harp supernal, stretched but to be stricken once,
 But I will not fear to match them - no by God, I will not fear,  
     I will learn you, I will play you and the stars stand still to hear.  
 
---G.K.Chesterton  
-
-
-
-
-===== FINE FILE: strange-music.txt =====  
+--G.K.Chesterton

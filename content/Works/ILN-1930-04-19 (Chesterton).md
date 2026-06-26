@@ -159,7 +159,3 @@ We are civilised men, acquainted with mathematics and metaphysics,
 and presumably capable of thinking in terms of thought.
 Certainly if we ever lose that power, it will be a worse relapse
 into barbarism than the worst war in the world.
-
-
-
-===== FINE FILE: ILN-1930-04-19.txt =====

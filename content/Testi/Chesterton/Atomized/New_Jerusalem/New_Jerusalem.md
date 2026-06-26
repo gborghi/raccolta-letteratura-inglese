@@ -19,8 +19,6 @@ BY
 
 G. K. CHESTERTON
 
-
-
 PREFACE
 
 This book is only an uncomfortably large note-book; and it has
@@ -5409,7 +5407,6 @@ it was the emblem of official ovations.
 When Heracleius rode homewards from the rout of Ispahan With
 the captives dragged behind him and the eagles in the van.
 
-
 That is the rigid reality that still underlay the light mastery
 of the Arab rider; that is what a man sees, in the patchwork pavilion,
 when he grows used to the coloured canvas and looks at the walls
@@ -8395,7 +8392,3 @@ I heard the barking of a dog.
 = = = = = = = = = = = = = = = =
 
 THE END
-
-
-
-===== FINE FILE: New_Jerusalem.txt =====

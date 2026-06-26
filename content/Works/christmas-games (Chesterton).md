@@ -179,6 +179,3 @@ many of the professors are wishing they had imitated the peasant.
 
 - from The Coloured Lands
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: christmas-games.txt =====

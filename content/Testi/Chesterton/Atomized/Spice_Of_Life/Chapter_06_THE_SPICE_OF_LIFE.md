@@ -165,7 +165,6 @@ it merely in this way:  What would any six streets in Hoxton
 or Whitechapel give if they could elect (however indirectly)
 the policeman who should stand at the street corner?
 
-
 CAPONE'S PAL
 
 I HAVE sometimes shocked the conventions of our time by defending
@@ -215,7 +214,6 @@ saying that Barrabas was a publisher.
 
 "Sure," he said with explosive emphasis; and we parted excellent friends.
 "It was just Robbery!"
-
 
 ON LOSING ONE'S HEAD
 
@@ -306,7 +304,6 @@ This man is the heretic; and in this way all the heresies were made.
 The anarchist goes off his head and the sophist goes off his body;
 I will not renew the old dispute about which is the worse amputation;
 but I should recommend the prudent reader to avoid both.
-
 
 THE SPICE OF LIFE**
 
@@ -509,7 +506,6 @@ and say to the young pessimists:
   And they may end with a whimper
   But we will end with a bang.
 
-
 ON FRAGMENTS
 
 As I have said before I am a believer in staring blankly at things;
@@ -668,7 +664,6 @@ Charlotte Bronte as a Contributed to a Centenary
 Romantic Memorial Volume prepared by the Bronte Society.
 Published by T. Fisher Unwin, 1917
 
-
 THOUGHT AND BELIEF
 
 Anti-Religious Thought in Contributed to An Outline of
@@ -718,13 +713,8 @@ The Spice of Life The Listener, March 18, 1936
 
 On Fragments Daily News, March 31, 1906
 
-
 ------------------------
 
 ** This is the text of a broadcast talk given by G. K. Chesterton
 for the British Broadcasting Corporation in their series
 THE SPICE OF LIFE.
-
-
-
-===== FINE FILE: Spice_Of_Life.txt =====

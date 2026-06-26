@@ -55,14 +55,11 @@ tags:
 - [Chapter 06](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_06)
 - [Chapter 07](/Testi/Chesterton/Atomized/William_Cobbett/Chapter_07)
 
-
 ## Testo integrale / Full text
 
 WILLIAM COBBETT
 
 by G.K.Chesterton
-
-
 
 CONTENTS
 
@@ -79,8 +76,6 @@ CHAPTER V THE AMATEUR HISTORIAN
 CHAPTER VI THE RURAL RIDER
 
 CHAPTER VII LAST DAYS AND DEATH
-
-
 
 CHAPTER I
 
@@ -519,8 +514,6 @@ the old thick, leather-bound volumes, with faded print and the barely
 decipherable title of `Cobbett's Register'; and taking down the book,
 amid the gathering storm and the growing darkness, reads this old story.
 
-
-
 CHAPTER II
 
 A SELF-MADE MAN
@@ -932,8 +925,6 @@ protest almost as involuntary as vomiting and stronger than
 the strength of fear, a voice not to be strangled, which forever,
 in a fashion so fierce and unfamiliar that it startled men like
 the roar of a blind beast, appealed from tyranny to God.
-
-
 
 CHAPTER II
 
@@ -1711,8 +1702,6 @@ the country like a wandering bell, of incessant anger and alarum;
 till men must have wondered why, when it was in their power,
 they had not cut it out.
 
-
-
 CHAPTER IV
 
 REVOLUTION AND THE BONES OF PAINE
@@ -2219,8 +2208,6 @@ But even so there would only have been found, like some
 strange sunrise under the sea, under his all too salt humour
 and all the waters of bitterness that had gone over him,
 a lucid and enduring surprise.
-
-
 
 CHAPTER V
 
@@ -2947,8 +2934,6 @@ to things so lofty and remote that men had let them float
 unheeded over their heads like the tree-tops or the clouds.
 Perhaps the real story of Jack the Giant Killer is that Jack
 was the first man who was even tall enough to see the giant.
-
-
 
 CHAPTER VI
 
@@ -3804,8 +3789,6 @@ black against the daybreak of the world, the shape of shame;
 and saving such a strange flash of reversion, the cross no
 Christian will ever see.
 
-
-
 CHAPTER VII
 
 LAST DAYS AND DEATH
@@ -4463,7 +4446,3 @@ to remind us that there is still somewhere a countryside.
 And in that stillness I have sometimes fancied I heard,
 tiny and infinitely far away, something like a faint voice
 hallooing and the sound of horse-hoofs that return.
-
-
-
-===== FINE FILE: William_Cobbett.txt =====

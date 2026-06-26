@@ -42,21 +42,11 @@ tags:
 Produced by Jonathan Ingram, Marc D'Hooghe and the Project
 Gutenberg Online Distributed Proofreading Team
 
-
-
-
-
-
-
-
-
 COMPLETE PROSE WORKS
 
 Specimen Days and Collect, November Boughs and Good Bye My Fancy
 
 By Walt Whitman
-
-
 
 CONTENTS
 
@@ -311,7 +301,6 @@ SPECIMEN DAYS
   Final Confessions--Literary Tests
   Nature and Democracy--Morality
 
-
 COLLECT
 
 ONE OR TWO INDEX ITEMS
@@ -375,7 +364,6 @@ PIECES IN EARLY YOUTH
   Blood-Money
   Wounded in the House of Friends
   Sailing the Mississippi at Midnight
-
 
 NOVEMBER BOUGHS
 
@@ -472,7 +460,6 @@ SOME LAGGARDS YET
   After the Argument
   For Us Two, Reader Dear
 
-
 MEMORANDA
 
   A World's Show
@@ -495,13 +482,7 @@ MEMORANDA
 
 WALT WHITMAN'S LAST
 
-
-
-
 SPECIMEN DAYS
-
-
-
 
 A HAPPY HOUR'S COMMAND
 
@@ -526,7 +507,6 @@ tell the story better than fine work. At any rate I obey my happy
 hour's command, which seems curiously imperative. May be, if I don't
 do anything else, I shall send out the most wayward, spontaneous,
 fragmentary book ever printed.
-
 
 Note:
 
@@ -578,7 +558,6 @@ the Nineteenth century in the New World; a strange, unloosen'd, wondrous
 time. But the book is probably without any definite purpose that can be
 told in a statement.
 
-
 ANSWER TO AN INSISTING FRIEND
 
 You ask for items, details of my early life--of genealogy and
@@ -599,7 +578,6 @@ and if you will be satisfied with them, authentic in date-occurrence and
 fact simply, and told my own way, garrulous-like, here they are. I shall
 not hesitate to make extracts, for I catch at anything to save labor;
 but those will be the best versions of what I want to convey.
-
 
 GENEALOGY--VAN VELSOR AND WHITMAN
 
@@ -635,14 +613,12 @@ made not long since (in my 63d year) to West Hills, and to the burial
 grounds of my ancestry, both sides. I extract from notes of that visit,
 written there and then:
 
-
 Note:
 
 [2] Long Island was settled first on the west end by the Dutch from
 Holland, then on the east end by the English--the dividing line of the
 two nationalities being a little west of Huntington where my father's
 folks lived, and where I was born.
-
 
 THE OLD WHITMAN AND VAN VELSOR CEMETERIES
 
@@ -693,7 +669,6 @@ delicate and wild odor of the woods, a slightly drizzling rain, the
 emotional atmosphere of the place, and the inferr'd reminiscences, were
 fitting accompaniments.
 
-
 THE MATERNAL HOMESTEAD
 
 I went down from this ancient grave place eighty or ninety rods to the
@@ -726,7 +701,6 @@ woman, was a daily and daring rider. As to the head of the family
 himself, the old race of the Netherlands, so deeply grafted on Manhattan
 island and in Kings and Queens counties, never yielded a more mark'd and
 full Americanized specimen than Major Cornelius Van Velsor.
-
 
 TWO OLD FAMILY INTERIORS
 
@@ -784,7 +758,6 @@ growth-stages of my infancy, childhood, youth and manhood were all
 pass'd on Long Island, which I sometimes feel as if I had incorporated.
 I roam'd, as boy and man, and have lived in nearly all parts, from
 Brooklyn to Montauk point.
-
 
 PAUMANOK, AND MY LIFE ON IT AS CHILD AND YOUNG MAN
 
@@ -873,8 +846,6 @@ loved, after bathing, to race up and down the hard sand, and declaim
 Homer or Shakspere to the surf and sea gulls by the hour. But I am
 getting ahead too rapidly, and must keep more in my traces.
 
-
-
 Note:
 
 [3] "Paumanok, (or Paumanake, or Paumanack, the Indian name of Long
@@ -887,7 +858,6 @@ the blackberry, and with numberless springs of the sweetest water in the
 world. Years ago, among the bay-men--a strong, wild race, now extinct,
 or rather entirely changed--a native of Long Island was called a
 _Paumanacker_, or _Creole-'Paumanacker_."--_John Burroughs_.
-
 
 MY FIRST READING--LAFAYETTE
 
@@ -908,7 +878,6 @@ the volumes, an amazing treat. Then, with sorties in very many other
 directions, took in Walter Scott's novels, one after another, and his
 poetry, (and continue to enjoy novels and poetry to this day.)
 
-
 Note:
 
 [4] "On the visit of General Lafayette to this country, in 1824, he came
@@ -923,7 +892,6 @@ spots to see the ceremony. Among the rest, Lafayette, also helping the
 children, took up the five-year-old Walt Whitman, and pressing the child
 a moment to his breast, and giving him a kiss, handed him down to a safe
 spot in the excavation."--John Burroughs.
-
 
 PRINTING OFFICE--OLD BROOKLYN
 
@@ -945,7 +913,6 @@ myself the second, my dear sisters Mary and Hannah Louisa, my brothers
 Andrew, George, Thomas Jefferson, and then my youngest brother, Edward,
 born 1835, and always badly crippled, as I am myself of late years.
 
-
 Note:
 
 [5] Of the Brooklyn of that time (1830-40) hardly anything remains,
@@ -965,7 +932,6 @@ others, Gabriel Furman, Rev. E. M. Johnson, Alden Spooner, Mr.
 Pierrepont, Mr. Joralemon, Samuel Willoughby, Jonathan Trotter, George
 Hall, Cyrus P. Smith, N. B. Morse, John Dikeman, Adrian Hegeman, William
 Udall, and old Mr. Duflon, with his military garden.
-
 
 GROWTH--HEALTH--WORK
 
@@ -988,7 +954,6 @@ deepest lessons in human nature behind the scenes and in the masses.)
 In '39, '40, I started and publish'd a weekly paper in my native town,
 Huntington. Then returning to New York city and Brooklyn, work'd on as
 printer and writer, mostly prose, but an occasional shy at "poetry".
-
 
 MY PASSION FOR FERRIES
 
@@ -1013,7 +978,6 @@ Hudson--what refreshment of spirit such sights and experiences gave me
 years ago (and many a time since.) My old pilot friends, the Balsirs,
 Johnny Cole, Ira Smith, William White, and my young ferry friend, Tom
 Gere--how well I remember them all.
-
 
 BROADWAY SIGHTS
 
@@ -1057,7 +1021,6 @@ The years 1846, '47, and there along, see me still in New York City,
 working as writer and printer, having my usual good health, and a good
 time generally.
 
-
 OMNIBUS JAUNTS AND DRIVERS
 
 One phase of those days must by no means go unrecorded--namely, the
@@ -1091,7 +1054,6 @@ comradeship, and sometimes affection--great studies I found them also.
 (I suppose the critics will laugh heartily, but the influence of those
 Broadway omnibus jaunts and drivers and declamations and escapades
 undoubtedly enter'd into the gestation of "Leaves of Grass.")
-
 
 PLAYS AND OPERAS TOO
 
@@ -1147,7 +1109,6 @@ ever in New York. It was here too I afterward heard Jenny Lind. (The
 Battery--its past associations--what tales those old trees and walks and
 sea-walls could tell!)
 
-
 THROUGH EIGHT YEARS.
 
 In 1848, '49, I was occupied as editor of the "daily Eagle" newspaper,
@@ -1168,7 +1129,6 @@ and undoings--(I had great trouble in leaving out the stock "poetical"
 touches, but succeeded at last.) I am now (1856-'7) passing through my
 37th year.
 
-
 SOURCES OF CHARACTER--RESULTS--1860
 
 To sum up the foregoing from the outset (and, of course, far, far more
@@ -1188,7 +1148,6 @@ the 51st New York volunteers, had been seriously wounded (first
 Fredericksburg battle, December 13th,) I hurriedly went down to the
 field of war in Virginia. But I must go back a little.
 
-
 OPENING OF THE SECESSION WAR
 
 News of the attack on fort Sumter and _the flag_ at Charleston harbor,
@@ -1207,7 +1166,6 @@ and attentively. No remark was made by any of the crowd, which had
 increas'd to thirty or forty, but all stood a minute or two, I remember,
 before they dispers'd. I can almost see them there now, under the lamps
 at midnight again.
-
 
 NATIONAL UPRISING AND VOLUNTEERING
 
@@ -1235,7 +1193,6 @@ are furnish'd by the secession war--one at the beginning, the other at
 its close. Those are, the general, voluntary, arm'd upheaval, and the
 peaceful and harmonious disbanding of the armies in the summer of 1865.)
 
-
 CONTEMPTUOUS FEELING
 
 Even after the bombardment of Sumter, however, the gravity of the
@@ -1260,7 +1217,6 @@ men, were all provided with pieces of rope, conspicuously tied to their
 musket-barrels, with which to bring back each man a prisoner from the
 audacious South, to be led in a noose, on our men's early and triumphant
 return!
-
 
 BATTLE OF BULL RUN, JULY, 1861
 
@@ -1368,7 +1324,6 @@ three or four of those crises we had then and afterward, during the
 fluctuations of four years, when human eyes appear'd at least just as
 likely to see the last breath of the Union as to see it continue.)
 
-
 THE STUPOR PASSES--SOMETHING ELSE BEGINS
 
 But the hour, the day, the night pass'd, and whatever returns, an
@@ -1405,7 +1360,6 @@ either of us. We each drank half a cup of coffee; that was all. Little
 was said. We got every newspaper morning and evening, and the frequent
 extras of that period, and pass'd them silently to each other.)
 
-
 DOWN AT THE FRONT
 
 FALMOUTH, VA., _opposite Fredericksburgh, December 21, 1862_.--Begin my
@@ -1432,7 +1386,6 @@ give at that visit, but wrote a few letters to folks home, mothers, &c.
 Also talk'd to three or four, who seem'd most susceptible to it, and
 needing it.
 
-
 AFTER FIRST FREDERICKSBURG
 
 _December 23 to 31_.--The results of the late battle are exhibited
@@ -1457,7 +1410,6 @@ rations, the army here at present seems to be tolerably well supplied,
 and the men have enough, such as it is, mainly salt pork and hard tack.
 Most of the regiments lodge in the flimsy little shelter-tents. A few
 have built themselves huts of logs and mud, with fire-places.
-
 
 BACK TO WASHINGTON
 
@@ -1519,7 +1471,6 @@ Distributed in the wards a quantity of note-paper, and forty or fifty
 stamp'd envelopes, of which I had recruited my stock, and the men were
 much in need.
 
-
 FIFTY HOURS LEFT WOUNDED ON THE FIELD
 
 Here is a case of a soldier I found among the crowded cots in the
@@ -1547,7 +1498,6 @@ Our soldier is from Pennsylvania; has had a pretty severe time; the
 wounds proved to be bad ones. But he retains a good heart, and is at
 present on the gain. (It is not uncommon for the men to remain on the
 field this way, one, two, or even four or five days.)
-
 
 HOSPITAL SCENES AND PERSONS
 
@@ -1604,7 +1554,6 @@ disagreeable circumstances. He was of good heart, however. At present
 comparatively comfortable, had a bad throat, was delighted with a stick
 of horehound candy I gave him, with one or two other trifles.
 
-
 PATENT-OFFICE HOSPITAL
 
 _February 23._--I must not let the great hospital at the Patent-office
@@ -1632,7 +1581,6 @@ eye, the nurse by his side, the doctor also there, but no friend, no
 relative--such were the sights but lately in the Patent-office. (The
 wounded have since been removed from there, and it is now vacant again.)
 
-
 THE WHITE HOUSE BY MOONLIGHT
 
 _February 24th._--A spell of fine soft weather. I wander about a good
@@ -1652,7 +1600,6 @@ under the stars and sky--the White House of the land, and of beauty and
 night--sentries at the gates, and by the portico, silent, pacing there
 in blue overcoats--stopping you not at all, but eyeing you with sharp
 eyes, whichever way you move.
-
 
 AN ARMY HOSPITAL WARD
 
@@ -1683,7 +1630,6 @@ without friends or acquaintances here--no familiar face, and hardly a
 word of judicious sympathy or cheer, through their sometimes long and
 tedious sickness, or the pangs of aggravated wounds.
 
-
 A CONNECTICUT CASE
 
 This young man in bed 25 is H. D. B. of the 27th Connecticut, company
@@ -1705,7 +1651,6 @@ I took a fancy to him, and gave him a nice pipe for a keepsake. He
 receiv'd afterwards a box of things from home, and nothing would do but
 I must take dinner with him, which I did, and a very good one it was.
 
-
 TWO BROOKLYN BOYS
 
 Here in this same ward are two young men from Brooklyn, members of the
@@ -1716,7 +1661,6 @@ Fredericksburgh last December, all bloody, just after the arm was taken
 off. He was very phlegmatic about it, munching away at a cracker in the
 remaining hand--made no fuss.) He will recover, and thinks and talks yet
 of meeting Johnny Rebs.
-
 
 A SECESH BRAVE
 
@@ -1730,7 +1674,6 @@ cannon and planted there by a boy but seventeen years of age, who
 actually endeavor'd to stop the muzzle of the gun with fence-rails. He
 was kill'd in the effort, and the flag-staff was sever'd by a shot from
 one of our men.
-
 
 THE WOUNDED FROM CHANCELLORSVILLE
 
@@ -1758,7 +1701,6 @@ that cannot be suppress'd, and occasionally a scream of pain as they
 lift a man into the ambulance. To-day, as I write, hundreds more are
 expected, and to-morrow and the next day more, and so on for many days.
 Quite often they arrive at the rate of 1000 a day.
-
 
 A NIGHT BATTLE OVER A WEEK SINCE
 
@@ -1857,7 +1799,6 @@ the army's name, perhaps the nation? as there the veterans hold the
 field. (Brave Berry falls not yet--but death has mark'd him--soon he
 falls.)
 
-
 UNNAMED REMAINS THE BRAVEST SOLDIER
 
 Of scenes like these, I say, who writes--whoe'er can write the story? Of
@@ -1878,7 +1819,6 @@ round him--the eyes glaze in death----none recks--perhaps the
 burial-squads, in truce, a week afterwards, search not the secluded
 spot--and there, at last, the Bravest Soldier crumbles in mother earth,
 unburied and unknown.
-
 
 SOME SPECIMEN CASES
 
@@ -1963,7 +1903,6 @@ nothing--(he told me soon after he came about his home affairs,
 his mother had been an invalid, and he fear'd to let her know his
 condition.) He died soon after she came.
 
-
 MY PREPARATIONS FOR VISITS
 
 In my visits to the hospitals I found it was in the simple matter of
@@ -1976,7 +1915,6 @@ a couple to four or five hours, by fortifying myself with previous rest,
 the bath, clean clothes, a good meal, and as cheerful an appearance as
 possible.
 
-
 AMBULANCE PROCESSIONS
 
 _June 23, Sundown._--As I sit writing this paragraph I see a train of
@@ -1988,7 +1926,6 @@ sad processions. Through the past winter, while our army lay opposite
 Fredericksburg, the like strings of ambulances were of frequent
 occurrence along Seventh street, passing slowly up from the steamboat
 wharf, with loads from Aquia creek.
-
 
 BAD WOUNDS--THE YOUNG
 
@@ -2004,7 +1941,6 @@ you look. I saw the other day a gentlemen, a visitor apparently from
 curiosity, in one of the wards, stop and turn a moment to look at an
 awful wound they were probing. He turn'd pale, and in a moment more he
 had fainted away and fallen to the floor.
-
 
 THE MOST INSPIRITING OF ALL WAR'S SHOWS
 
@@ -2039,7 +1975,6 @@ other noises. Then just as they had all pass'd, a string of ambulances
 commenc'd from the other way, moving up Fourteenth street north, slowly
 wending along, bearing a large lot of wounded to the hospitals.
 
-
 BATTLE OF GETTYSBURG
 
 _July 4th_.--The weather to-day, upon the whole, is very fine, warm,
@@ -2066,7 +2001,6 @@ and gave them all a good drink of the syrups with ice water, quite
 refreshing--prepar'd it all myself, and serv'd it around. Meanwhile the
 Washington bells are ringing their sun-down peals for Fourth of July,
 and the usual fusilades of boys' pistols, crackers, and guns.
-
 
 A CAVALRY CAMP
 
@@ -2106,7 +2040,6 @@ look at the scene--a hundred little things going on--peculiar objects
 connected with the camp that could not be described, any one of them
 justly, without much minute drawing and coloring in words.
 
-
 A NEW YORK SOLDIER
 
 This afternoon, July 22d, I have spent a long time with Oscar F. Wilber,
@@ -2130,7 +2063,6 @@ as I was about leaving he return'd fourfold. He gave me his mother's
 address, Mrs. Sally D. Wilber, Alleghany pest-office, Cattaraugus
 county, N. Y. I had several such interviews with him. He died a few days
 after the one just described.
-
 
 HOME-MADE MUSIC
 
@@ -2172,7 +2104,6 @@ for instance:
     Our absent Lord has left us word, let every lamp be burning,
     For O we stand on Jordan's strand, our friends are passing over,
     And just before, the shining shore we may almost discover.
-
 
 ABRAHAM LINCOLN
 
@@ -2219,7 +2150,6 @@ though subtle and indirect expression of this man's face. There is
 something else there. One of the great portrait painters of two or three
 centuries ago is needed.
 
-
 HEATED TERM
 
 There has lately been much suffering here from heat; we have had it upon
@@ -2239,7 +2169,6 @@ mistress. So here she sits with her surrounding hills spotted with guns,
 and is conscious of a character and identity different from what it
 was five or six short weeks ago, and very considerably pleasanter and
 prouder.
-
 
 SOLDIERS AND TALKS
 
@@ -2268,7 +2197,6 @@ Southerners, especially border State men, in the Union army than is
 generally supposed. [A]) I now doubt whether one can get a fair idea
 of what this war practically is, or what genuine America is, and her
 character, without some such experience as this I am having.
-
 
 DEATH OF A WISCONSIN OFFICER
 
@@ -2315,7 +2243,6 @@ over, as far as any efforts can avail; it is useless to expend emotions
 or labors. While there is a prospect they strive hard--at least most
 surgeons do; but death certain and evident, they yield the field.
 
-
 Note:
 
 [6]MR. GARFIELD (_In the House of Representatives, April 15,'79_.) "Do
@@ -2328,7 +2255,6 @@ took with all the allied armies against Napoleon? Do they remember that
 186,000 color'd men fought under our flag against the rebellion and for
 the Union, and that of that number 90,000 were from the States which
 went into rebellion?"
-
 
 HOSPITALS ENSEMBLE
 
@@ -2379,7 +2305,6 @@ thousand inmates. Even all these are but a portion. The Harewood, Mount
 Pleasant, Armory-square, Judiciary hospitals, are some of the rest, and
 all large collections.
 
-
 A SILENT NIGHT RAMBLE
 
 _October 20th_.--To-night, after leaving the hospital at 10 o'clock, (I
@@ -2393,7 +2318,6 @@ the delicate moonlight. The sky, the planets, the constellations all
 so bright, so calm, so expressively silent, so soothing, after those
 hospital scenes. I wander'd to and fro till the moist moon set, long
 after midnight.
-
 
 SPIRITUAL CHARACTERS AMONG THE SOLDIERS
 
@@ -2415,7 +2339,6 @@ understanding that they are different from the rest, more silent,
 "something odd about them," and apt to go off and meditate and muse in
 solitude.
 
-
 CATTLE DROVES ABOUT WASHINGTON
 
 Among other sights are immense droves of cattle with their drivers,
@@ -2433,7 +2356,6 @@ picturesque--another dozen on foot--everybody cover'd with dust--long
 goads in their hands--an immense drove of perhaps 1000 cattle--the
 shouting, hooting, movement, &c.
 
-
 HOSPITAL PERPLEXITY
 
 To add to other troubles, amid the confusion of this great army of sick,
@@ -2448,7 +2370,6 @@ northern New York to find a wounded brother, faithfully hunting round
 for a week, and then compell'd to leave and go home without getting any
 trace of him. When he got home he found a letter from the brother giving
 the right address.
-
 
 DOWN AT THE FRONT
 
@@ -2486,7 +2407,6 @@ entertainments of the 14th. I like to look around at the soldiers, and
 the general collection in front of the curtain, more than the scene on
 the stage.
 
-
 PAYING THE BOUNTIES
 
 One of the things to note here now is the arrival of the paymaster with
@@ -2506,7 +2426,6 @@ back pay, and then the rest. You hear the peculiar sound of the rustling
 of the new and crisp greenbacks by the hour, through the nimble fingers
 of the major and my friend clerk E.
 
-
 RUMORS, CHANGES, ETC.
 
 About the excitement of Sunday, and the orders to be ready to start,
@@ -2523,7 +2442,6 @@ lady who has witness'd all the eventful changes of the war, along this
 route of contending armies. She is a widow, with a family of young
 children, and lives here with her sister in a large handsome house. A
 number of army officers board with them.
-
 
 VIRGINIA
 
@@ -2549,7 +2467,6 @@ really seen the new moon before. It was the thinnest cut crescent
 possible. It hung delicate just above the sulky shadow of the Blue
 mountains. Ah, if it might prove an omen and good prophecy for this
 unhappy State.
-
 
 SUMMER OF 1864
 
@@ -2585,7 +2502,6 @@ a large group by ourselves, after supper, and spend the time in such
 readings, or in talking, and occasionally by an amusing game called the
 game of twenty questions.
 
-
 A NEW ARMY ORGANIZATION FIT FOR AMERICA
 
 It is plain to me out of the events of the war, north and south, and out
@@ -2607,7 +2523,6 @@ to it, to the principles of the republic, and to get the best service
 out of it. In the present struggle, as already seen and review'd,
 probably three-fourths of the losses, men, lives, &c., have been sheer
 superfluity, extravagance, waste.
-
 
 DEATH OF A HERO
 
@@ -2633,7 +2548,6 @@ the following in it, _to-day the doctor says I must die--all is over
 with me--ah, so young to die_. On another blank leaf he pencill'd to his
 brother, _dear brother Thomas, I have been brave but wicked--pray for
 me._
-
 
 HOSPITAL SCENES--INCIDENTS
 
@@ -2668,7 +2582,6 @@ attempted to move away by any means, generally by crawling off, our men
 without exception brought them down by a bullet. They let none crawl
 away, no matter what his condition.
 
-
 A YANKEE SOLDIER
 
 As I turn'd off the Avenue one cool October evening into Thirteenth
@@ -2685,7 +2598,6 @@ Andersonville, and one had been kill'd in the west. He only was left.
 He was now going home, and by the way he talk'd I inferr'd that his time
 was nearly out. He made great calculations on being with his parents to
 comfort them the rest of their days.
-
 
 UNION PRISONERS SOUTH
 
@@ -2728,7 +2640,6 @@ condition--hope all gone. Has himself a hard, sad, strangely deaden'd
 kind of look, as of one chill' d for years in the cold and dark, where
 his good manly nature had no room to exercise itself.
 
-
 DESERTERS
 
 _Oct. 24_.--Saw a large squad of our own deserters (over 300) surrounded
@@ -2744,7 +2655,6 @@ with a small guard; sometimes ten or twelve, under a larger one. (I
 hear that desertions from the army now in the field have often averaged
 10,000 a month. One of the commonest sights in Washington is a squad of
 deserters.)
-
 
 A GLIMPSE OF WAR'S HELL-SCENES
 
@@ -2807,7 +2717,6 @@ brothers slain--with the light of burning farms, and heaps of smutting,
 smouldering black embers--and in the human heart everywhere black, worse
 embers--and you have an inkling of this war.
 
-
 GIFTS--MONEY--DISCRIMINATION
 
 As a very large proportion of the wounded came up from the front without
@@ -2836,7 +2745,6 @@ States, when once sure of their object. Another thing became clear to
 me--while _cash_ is not amiss to bring up the rear, tact and magnetic
 sympathy and unction are, and ever will be, sovereign still.
 
-
 ITEMS FROM MY NOTE BOOKS
 
 Some of the half-eras'd, and not over-legible when made, memoranda of
@@ -2854,7 +2762,6 @@ cleanest of the whole ward.) Mrs. G., lady-nurse, ward F, wants a bottle
 of brandy--has two patients imperatively requiring stimulus--low with
 wounds and exhaustion. (I supplied her with a bottle of first-rate
 brandy from the Christian commission rooms.)
-
 
 A CASE FROM SECOND BULL RUN
 
@@ -2876,7 +2783,6 @@ cowhide and club remain'd yet on his back.) His wound here was a most
 disagreeable one, for he was a gentle, cleanly, and affectionate boy.
 He found friends in his hospital life, and, indeed, was a universal
 favorite. He had quite a funeral ceremony.
-
 
 ARMY SURGEONS--AID DEFICIENCIES
 
@@ -2903,7 +2809,6 @@ death, or die from exhaustion, either actually untouch'd at all, or
 merely the laying of them down and leaving them, when there ought to be
 means provided to save them.
 
-
 THE BLUE EVERYWHERE
 
 This city, its suburbs, the capitol, the front of the White House, the
@@ -2925,7 +2830,6 @@ or main'd, but all others are stopt. They also go around evenings
 through the auditoriums of the theatres, and make officers and all show
 their passes, or other authority, for being there.
 
-
 A MODEL HOSPITAL
 
 _Sunday, January 29th, 1865_.--Have been in Armory-square this
@@ -2938,7 +2842,6 @@ receiv'd a very bad wound in the chest, with another in the left arm,
 and whose case was serious (pneumonia had set in) all last June and
 July, I now find well enough to do light duty. For three weeks at the
 time mention'd he just hovered between life and death.
-
 
 BOYS IN THE ARMY
 
@@ -2967,7 +2870,6 @@ physiognomy; no refinement, nor blanch'd with intellect, but as my eye
 pick'd them, moving along, rank by rank, there did not seem to be a
 single repulsive, brutal or markedly stupid face among them.
 
-
 BURIAL OF A LADY NURSE
 
 Here is an incident just occurr'd in one of the hospitals. A lady named
@@ -2980,7 +2882,6 @@ after the military method. This request was fully carried out. Her
 coffin was carried to the grave by soldiers, with the usual escort,
 buried, and a salute fired over the grave. This was at Annapolis a few
 days since.
-
 
 FEMALE NURSES FOR SOLDIERS
 
@@ -3003,7 +2904,6 @@ finest nurses I met was a red-faced illiterate old Irish woman; I have
 seen her take the poor wasted naked boys so tenderly up in her arms.
 There are plenty of excellent clean old black women that would make
 tip-top nurses.
-
 
 SOUTHERN ESCAPEES
 
@@ -3091,7 +2991,6 @@ more numerous than their desertions to our side. I saw a very forlorn
 looking squad of about a hundred, late this afternoon, on their way to
 the Baltimore depot.
 
-
 THE CAPITOL BY GAS-LIGHT
 
 To-night I have been wandering awhile in the capitol, which is all lit
@@ -3103,7 +3002,6 @@ bills. I wander'd through the long and rich corridors and apartments
 under the Senate; an old habit of mine, former winters, and now more
 satisfaction than ever. Not many persons down there, occasionally a
 flitting figure in the distance.
-
 
 THE INAUGURATION
 
@@ -3136,7 +3034,6 @@ white kid gloves and a claw-hammer coat, receiving, as in duty bound,
 shaking hands, looking very disconsolate, and as if he would give
 anything to be somewhere else.
 
-
 ATTITUDE OF FOREIGN GOVERNMENTS DURING THE WAR
 
 Looking over my scraps, I find I wrote the following during 1864. The
@@ -3168,7 +3065,6 @@ and watch her frowns and smiles. We need this hot lesson of general
 hatred, and henceforth must never forget it. Never again will we trust
 the moral sense nor abstract friendliness of a single _government_ of
 the old world.
-
 
 THE WEATHER--DOES IT SYMPATHIZE WITH THESE TIMES?
 
@@ -3216,7 +3112,6 @@ where the wounded (some of them personally so dear to me,) are lying
 in their cots, and many a sick boy come down to the war from Illinois,
 Michigan, Wisconsin, Iowa, and the rest.
 
-
 INAUGURATION BALL
 
 _March 6_.--I have been up to look at the dance and supper-rooms,
@@ -3230,7 +3125,6 @@ eye of the dying, the clotted rag, the odor of wounds and blood, and
 many a mother's son amid strangers, passing away untended there, (for
 the crowd of the badly hurt was great, and much for nurse to do, and
 much for surgeon.)
-
 
 SCENE AT THE CAPITOL
 
@@ -3266,7 +3160,6 @@ broken in upon by some great emergency involving real danger, and
 calling for first-class personal qualities, those qualities would be
 found generally forthcoming, and from men not now credited with them.)
 
-
 A YANKEE ANTIQUE
 
 _March 27, 1865_.--Sergeant Calvin F. Harlowe, company C, 29th
@@ -3300,7 +3193,6 @@ dwells and makes its volumes, fall aside, and for the moment at any rate
 I see nothing but young Calvin Harlowe's figure in the night, disdaining
 to surrender.)
 
-
 WOUNDS AND DISEASES
 
 The war is over, but the hospitals are fuller than ever, from former and
@@ -3313,14 +3205,12 @@ sickness lead; all the rest follow. There are twice as many sick as
 there are wounded. The deaths range from seven to ten per cent, of those
 under treatment.[7]
 
-
 Note:
 
 [7] In the U. S. Surgeon-General's office since, there is a formal
 record and treatment of 153, 142 cases of wounds by government surgeons.
 What must have been the number unofficial, indirect--to say nothing of
 the Southern armies?
-
 
 DEATH OF PRESIDENT LINCOLN
 
@@ -3344,7 +3234,6 @@ soldier drops, sinks like a wave--but the ranks of the ocean
 eternally press on. Death does its work, obliterates a hundred, a
 thousand--President, general, captain, private,--but the Nation is
 immortal.
-
 
 SHERMAN'S ARMY'S JUBILATION--ITS SUDDEN STOPPAGE
 
@@ -3371,7 +3260,6 @@ was receiv'd. Then no more shouts or yells, for a week. All the marching
 was comparatively muffled. It was very significant--hardly a loud word
 or laugh in many of the regiments. A hush and silence pervaded all.
 
-
 NO GOOD PORTRAIT OF LINCOLN
 
 Probably the reader has seen physiognomies (often old farmers,
@@ -3383,7 +3271,6 @@ Lincoln's face, the peculiar color, the lines of it, the eyes, mouth,
 expression. Of technical beauty it had nothing--but to the eye of a
 great artist it furnished a rare study, a feast and fascination. The
 current portraits are all failures--most of them caricatures.
-
 
 RELEAS'D UNION PRISONERS FROM SOUTH
 
@@ -3409,7 +3296,6 @@ of treatment through all the southern military prisons. The dead there
 are not to be pitied as much as some of the living that come from
 there--if they can be call' d living--many of them are mentally
 imbecile, and will never recuperate.[8]
-
 
 Note:
 
@@ -3482,7 +3368,6 @@ was paid to them. Promotion was the punishment for cruelty there. The
 inmates were skeletons. Hell could have no terrors for any man who died
 there, except the inhuman keepers.'"
 
-
 DEATH OF A PENNSYLVANIA SOLDIER
 
 _Frank H. Irwin, company E, 93rd Pennsylvania--died May 1, '65--My
@@ -3539,7 +3424,6 @@ sick.
 
 W. W.
 
-
 THE ARMIES RETURNING
 
 _May 7_.--Sunday.--To-day as I was walking a mile or two south of
@@ -3573,7 +3457,6 @@ practical service. It is a sight I never tire of. All the armies are
 now here (or portions of them,) for to-morrow's review. You see them
 swarming like bees everywhere.
 
-
 THE GRAND REVIEW
 
 For two days now the broad spaces of Pennsylvania avenue along to
@@ -3585,7 +3468,6 @@ pace, through two whole days--infantry, cavalry, artillery--some 200,000
 men. Some days afterwards one or two other corps; and then, still
 afterwards, a good part of Sherman's immense army, brought up from
 Charleston, Savannah, &c.
-
 
 WESTERN SOLDIERS
 
@@ -3604,7 +3486,6 @@ personal contact when we are crowded close together, as frequently these
 days in the street-cars. They all think the world of General Sherman;
 call him "old Bill," or sometimes "uncle Billy."
 
-
 A SOLDIER ON LINCOLN
 
 _May 28_.--As I sat by the bedside of a sick Michigan soldier in
@@ -3620,7 +3501,6 @@ earnestness in the soldier. (I found upon further talk he had known Mr.
 Lincoln personally, and quite closely, years before.) He was a veteran;
 was now in the fifth year of his service; was a cavalry man, and had
 been in a good deal of hard fighting.
-
 
 TWO BROTHERS, ONE SOUTH, ONE NORTH
 
@@ -3644,7 +3524,6 @@ in the same battle both were hit. One was a strong Unionist, the other
 Secesh; both fought on their respective sides, both badly wounded, and
 both brought together here after a separation of four years. Each died
 for his cause.
-
 
 SOME SAD CASES YET
 
@@ -3685,7 +3564,6 @@ talking as usual. There are several here from the confederate army whom
 I had seen in other hospitals, and they recognized me. Two were in a
 dying condition.
 
-
 CALHOUN'S REAL MONUMENT
 
 In one of the hospital tents for special cases, as I sat to-day tending
@@ -3704,7 +3582,6 @@ thirty destroyed or maim'd; all the old families used up--the rich
 impoverish'd, the plantations cover'd with weeds, the slaves unloos'd
 and become the masters, and the name of southerner blacken'd with every
 shame--all that is Calhoun's real monument."
-
 
 HOSPITALS CLOSING
 
@@ -3754,7 +3631,6 @@ and smooth--or Sundays--we had these delightful walks, never to be
 forgotten. The roads connecting Washington and the numerous forts around
 the city, made one useful result, at any rate, out of the war.
 
-
 TYPICAL SOLDIERS
 
 Even the typical soldiers I have been personally intimate with,--it
@@ -3786,7 +3662,6 @@ township in the republic--nor a street in any city--but could turn out,
 and, on occasion, would turn out, lots of just such typical soldiers,
 whenever wanted.
 
-
 "CONVULSIVENESS"
 
 As I have look'd over the proof-sheets of the preceding pages, I have
@@ -3796,7 +3671,6 @@ convulsively written reminiscences. Well, be it so.
 They are but parts of the actual distraction, heat, smoke and excitement
 of those times. The war itself, with the temper of society preceding it,
 can indeed be best described by that very word _convulsiveness_.
-
 
 THREE YEARS SUMM'D UP
 
@@ -3827,7 +3701,6 @@ any. I was among the army teamsters considerably, and, indeed, always
 found myself drawn to them. Among the black soldiers, wounded or sick,
 and in the contraband camps, I also took my way whenever in their
 neighborhood, and did what I could for them.
-
 
 THE MILLION DEAD, TOO, SUMM'D UP
 
@@ -3884,7 +3757,6 @@ are 12,027, and 11,700 of these are buried in trenches. A national
 monument has been put up here, by order of Congress, to mark the
 spot--but what visible, material monument can ever fittingly commemorate
 that spot?)
-
 
 THE REAL WAR WILL NEVER GET IN THE BOOKS
 
@@ -3946,7 +3818,6 @@ distortions that are ever told or written. Think how much, and
 of importance, will be--how much, civic and military, has already
 been--buried in the grave, in eternal darkness.
 
-
 AN INTERREGNUM PARAGRAPH
 
 Several years now elapse before I resume my diary. I continued at
@@ -3970,7 +3841,6 @@ lines--but I get my share of fun and healthy hours, and shall try to
 indicate them. (The trick is, I find, to tone your wants and tastes low
 down enough, and make much of negatives, and of mere daylight and the
 skies.)
-
 
 NEW THEMES ENTERED UPON
 
@@ -3996,7 +3866,6 @@ Dear, soothing, healthy, restoration-hours--after three confining years
 of paralysis--after the long strain of the war, and its wounds and
 death.
 
-
 Note:
 
 [9] Without apology for the abrupt change of field and atmosphere--after
@@ -4012,7 +3881,6 @@ and mystic, to denizen of heated city house, or tired workman or
 workwoman?--or may-be in sick-room or prison--to serve as cooling
 breeze, or Nature's aroma, to some fever'd mouth or latent pulse.
 
-
 ENTERING A LONG FARM-LANE
 
 As every man has his hobby-liking, mine is for a real farm-lane fenced
@@ -4025,7 +3893,6 @@ April--pigs, poultry, a field of August buckwheat, and in another the
 long flapping tassels of maize--and so to the pond, the expansion of
 the creek, the secluded-beautiful, with young and old trees, and such
 recesses and vistas.
-
 
 TO THE SPRING AND BROOK
 
@@ -4048,7 +3915,6 @@ past--and now thee. Spin and wind thy way--I with thee, a little while,
 at any rate. As I haunt thee so often, season by season, thou knowest,
 reckest not me, (yet why be so certain? who can tell?)--but I will learn
 from thee, and dwell on thee--receive, copy, print from thee.
-
 
 AN EARLY SUMMER REVEILLE
 
@@ -4074,7 +3940,6 @@ in the open air, at the time and place. The printers will learn this
 to some vexation perhaps, as much of their copy is from those
 hastily-written first notes.
 
-
 BIRDS MIGRATING AT MIDNIGHT
 
 Did you ever chance to hear the midnight flight of birds passing through
@@ -4091,7 +3956,6 @@ till after 3. Once in a while the species was plainly distinguishable;
 I could make out the bobolink, tanager, Wilson's thrush, white-crown'd
 sparrow, and occasionally from high in the air came the notes of the
 plover.
-
 
 BUMBLE-BEES
 
@@ -4199,7 +4063,6 @@ Beers's little volume:
     Amongst the grass; there lie and grumble
     In low, soft bass--poor maudlin bumble!
 
-
 CEDAR-APPLES
 
 As I journey'd to-day in a light wagon ten or twelve miles through the
@@ -4212,7 +4075,6 @@ tufts--the flossy shreds covering the knobs all over, like a shock of
 wild hair on elfin pates. On my ramble afterward down by the creek I
 pluck'd one from its bush, and shall keep it. These cedar-apples last
 only a little while however, and soon crumble and fade.
-
 
 SUMMER SIGHTS AND INDOLENCIES
 
@@ -4231,7 +4093,6 @@ other, whirling and wheeling around, with many a jocund downward dip,
 splashing the spray in jets of diamonds--and then off they swoop, with
 slanting wings and graceful flight, sometimes so near me I can plainly
 see their dark-gray feather-bodies and milk-white necks.
-
 
 SUNDOWN PERFUME--QUAILNOTES--THE HERMIT-THRUSH
 
@@ -4261,7 +4122,6 @@ it the hermit-thrush?) from some bushy recess off there in the swamp,
 repeated leisurely and pensively over and over again. This, to the
 circle-gambols of the swallows flying by dozens in concentric rings in
 the last rays of sunset, like flashes of some airy wheel.
-
 
 A JULY AFTER-NOON BY THE POND
 
@@ -4296,7 +4156,6 @@ with silver swirls like locks of toss'd hair, spreading, expanding--a
 vast voiceless, formless simulacrum--yet may-be the most real reality
 and formulator of everything--who knows?
 
-
 LOCUSTS AND KATY-DIDS
 
 _Aug. 22_.--Reedy monotones of locust, or sounds of katydid--I hear the
@@ -4326,7 +4185,6 @@ the melody of the singing-bird--far from it; the common musician might
 think without melody, but surely having to the finer ear a harmony of
 its own; monotonous--but what a swing there is in that brassy drone,
 round and round, cymballine--or like the whirling of brass quoits.
-
 
 THE LESSON OF A TREE
 
@@ -4396,7 +4254,6 @@ _Trees I am familiar with here_.
    Black-walnuts.                                      Laurel.
    Sassafras.                                          Holly.
 
-
 AUTUMN SIDE-BITS
 
 _Sept. 20_.--Under an old black oak, glossy and green, exhaling
@@ -4440,7 +4297,6 @@ sickness. I sit here amid all these fair sights and vital influences,
 and abandon myself to that thought, with its wandering trains of
 speculation.
 
-
 Note:
 
 [10] There is a tulip poplar within sight of Woodstown, which is twenty
@@ -4455,7 +4311,6 @@ winds of 1877 and 1878 did not seem to damage it, and the two stems send
 out yearly many blossoms, scenting the air immediately about it with
 their sweet perfume. It is entirely unprotected by other trees, on a
 hill.--_Woodstown, N. J., "Register," April 15, '79_.
-
 
 THE SKY--DAYS AND NIGHTS--HAPPINESS
 
@@ -4520,7 +4375,6 @@ the wind, sometimes quite gently, then threatening through the trees--a
 gang of farm-laborers loading cornstalks in a field in sight, and the
 patient horses waiting.
 
-
 COLORS--A CONTRAST
 
 Such a play of colors and lights, different seasons, different hours of
@@ -4533,7 +4387,6 @@ the oaks, the gray of the swamp-willows, the dull hues of the sycamores
 and black-walnuts, the emerald of the cedars (after rain,) and the light
 yellow of the beeches.
 
-
 NOVEMBER 8, '76
 
 The forenoon leaden and cloudy, not cold or wet, but indicating both.
@@ -4541,7 +4394,6 @@ As I hobble down here and sit by the silent pond, how different from the
 excitement amid which, in the cities, millions of people are now waiting
 news of yesterday's Presidential election, or receiving and discussing
 the result--in this secluded place uncared-for, unknown.
-
 
 CROWS AND CROWS
 
@@ -4556,7 +4408,6 @@ by the bank, I see the black, clear-cut reflection of them far below,
 flying through the watery looking-glass, by ones, twos, or long
 strings. All last night I heard the noises from their great roost in a
 neighboring wood.
-
 
 A WINTER DAY ON THE SEA-BEACH
 
@@ -4595,7 +4446,6 @@ depths, subtler than all the poems, paintings, music, I have ever read,
 seen, heard. (Yet let me be fair, perhaps it is because I have read
 those poems and heard that music.)
 
-
 SEA-SHORE FANCIES
 
 Even as a boy, I had the fancy, the wish, to write a piece, perhaps
@@ -4630,7 +4480,6 @@ grandly, rolling in upon it, with slow-measured sweep, with rustle and
 hiss and foam, and many a thump as of low bass drums. This scene, this
 picture, I say, has risen before me at times for years. Sometimes I wake
 at night and can hear and see it plainly.
-
 
 IN MEMORY OF THOMAS PAINE.
 
@@ -4707,7 +4556,6 @@ well preserve their fame, if unquestion'd--or, if need be, that she fail
 not to dissipate what clouds have intruded on that fame, and burnish it
 newer, truer and brighter, continually.
 
-
 A TWO HOURS ICE-SAIL
 
 _Feb. 3, '77_--From 4 to 6 P. M. crossing the Delaware, (back again at
@@ -4734,7 +4582,6 @@ in hummocks, sometimes floating fields, through which our boat goes
 crunching. The light permeated by that peculiar evening haze, right
 after sunset, which sometimes renders quite distant objects so
 distinctly.
-
 
 SPRING OVERTURES--RECREATIONS
 
@@ -4767,7 +4614,6 @@ a little sarcastic) repeated four or five times. Either to applaud the
 negro songs--or perhaps an ironical comment on the sorrow, anger, or
 style of the stock poets.
 
-
 ONE OF THE HUMAN KINKS
 
 How is it that in all the serenity and lonesomeness of solitude, away
@@ -4781,7 +4627,6 @@ from his savage ancestry far back? It is not at all nervousness or fear.
 Seems as if something unknown were possibly lurking in those bushes, or
 solitary places. Nay, it is quite certain there is--some vital unseen
 presence.
-
 
 AN AFTERNOON SCENE
 
@@ -4801,7 +4646,6 @@ just light enough to see, through the evening shadows, the western
 reflections in its water-mirror surface, with inverted figures of trees.
 I hear now and then the _flup_ of a pike leaping out, and rippling the
 water.
-
 
 THE GATES OPENING
 
@@ -4826,7 +4670,6 @@ and the grass not without proofs of coming fullness. And over all a
 wonderfully fine dome of clear blue, the play of light coming and going,
 and great fleeces of white clouds swimming so silently.
 
-
 THE COMMON EARTH, THE SOIL
 
 The soil, too--let others pen-and-ink the sea, the air, (as I sometimes
@@ -4841,7 +4684,6 @@ with clear insterstices, giving prospects hidden in summer--the tough
 fallow and the plow-team, and the stout boy whistling to his horses for
 encouragement--and there the dark fat earth in long slanting stripes
 upturn'd.
-
 
 BIRDS AND BIRDS AND BIRDS
 
@@ -4864,7 +4706,6 @@ Early came the
 
 Blue birds, Meadow-lark, Killdeer, White-bellied swallow, Plover,
 Sandpiper, Robin, Wilson's thrush, Woodcock, Flicker.
-
 
 FULL-STARR'D NIGHTS
 
@@ -4911,7 +4752,6 @@ lately an astronomer has made out through the new Washington telescope
 that Mars has certainly one moon, perhaps two.) Pale and distant, but
 near in the heavens, Saturn precedes him.
 
-
 MULLEINS AND MULLEINS
 
 Large, placid mulleins, as summer advances, velvety in texture, of a
@@ -4933,7 +4773,6 @@ together; at such long intervals I stand or sit among them,
 musing--and woven with the rest, of so many hours and moods of partial
 rehabilitation--of my sane or sick spirit, here as near at peace as it
 can be.
-
 
 DISTANT SOUNDS
 
@@ -4960,7 +4799,6 @@ before so flaming bright, so flashing-large, with slight yellow tinge,
 century)--and well up, lord Jupiter, (a little while since close by
 the moon)--and in the west, after the sun sinks, voluptuous Venus, now
 languid and shorn of her beams, as if from some divine excess.
-
 
 A SUN-BATH-NAKEDNESS
 
@@ -5041,7 +4879,6 @@ partial rehabilitation largely to them. Some good people may think it a
 feeble or half-crack'd way of spending one's time and thinking. May-be
 it is.
 
-
 THE OAKS AND I
 
 _Sept. 5, '77._--I write this, 11 A.M., shelter'd under a dense oak
@@ -5082,7 +4919,6 @@ soul, as never before. Thanks, invisible physician, for thy silent
 delicious medicine, thy day and night, thy waters and thy airs, the
 banks, the grass, the trees, and e'en the weeds!
 
-
 A QUINTETTE
 
 While I have been kept by the rain under the shelter of my great oak,
@@ -5098,7 +4934,6 @@ will give you:
 
 Can you get hold of it, reader dear? and how do you like it anyhow?
 
-
 THE FIRST FROST--MEMS
 
 Where I was stopping I saw the first palpable frost, on my sunrise walk,
@@ -5110,7 +4945,6 @@ the bursting pods of wild-cotton, (Indian hemp they call it here,) with
 flossy-silky contents, and dark red-brown seeds--a startled rabbit--I
 pull a handful of the balsamic life-ever-lasting and stuff it down in my
 trowsers-pocket for scent.
-
 
 THREE YOUNG MEN'S DEATHS
 
@@ -5228,7 +5062,6 @@ young Viking. His mother and father are poor; they have a rough, hard
 farm. His mother works in the field with her husband when the work
 presses. She has had twelve children.
 
-
 FEBRUARY DAYS
 
 _February 7, 1878_.--Glistening sun today, with slight haze, warm
@@ -5295,7 +5128,6 @@ stormy wind howling among the trees, and raving over the plain. It is
 my best season of devotion." Some of his most characteristic poems were
 composed in such scenes and seasons.)
 
-
 A MEADOW LARK
 
 _March 16_.--Fine, clear, dazzling morning, the sun an hour high, the
@@ -5306,7 +5138,6 @@ full of careless happiness and hope. With its peculiar shimmering slow
 progress and rapid-noiseless action of the wings, it flies on a way,
 lights on another stake, and so on to another, shimmering and singing
 many minutes.
-
 
 SUNDOWN LIGHTS
 
@@ -5323,7 +5154,6 @@ black-green murky-transparent shadows behind, and at intervals all along
 the banks. These, with great shafts of horizontal fire thrown among the
 trees and along the grass as the sun lowers, give effects more and more
 peculiar, more and more superb, unearthly, rich and dazzling.
-
 
 THOUGHTS UNDER AN OAK--A DREAM
 
@@ -5350,7 +5180,6 @@ step out and promenade up, down and around, very curiously--with a
 whisper from one, leaning down as he pass'd me, _We do all this on the
 present occasion, exceptionally, just for you_.)
 
-
 CLOVER AND HAY PERFUME
 
 _July 3d, 4th, 5th._--Clear, hot, favorable weather--has been a good
@@ -5369,7 +5198,6 @@ enough to see the lines of his form, even his spread quills, in relief
 against the sky. Once or twice lately I have seen an eagle here at early
 candle-light flying low.
 
-
 AN UNKNOWN
 
 _June 15_.--To-day I noticed a new large bird, size of a nearly grown
@@ -5383,7 +5211,6 @@ steady wide-spread wings, no flapping at all, up and down the pond
 two or three times, near me, in circles in clear sight, as if for my
 delectation. Once he came quite close over my head; I saw plainly his
 hook'd bill and hard restless eyes.
-
 
 BIRD-WHISTLING
 
@@ -5403,7 +5230,6 @@ recluse in the woods near by is singing deliciously--not many notes,
 but full of music of almost human sympathy--continuing for a long, long
 while.
 
-
 HORSE-MINT
 
 _Aug. 22_.--Not a human being, and hardly the evidence of one, in
@@ -5416,7 +5242,6 @@ New York's or Philadelphia's streets! Everywhere great patches of
 dingy-blossom'd horse-mint wafting a spicy odor through the air,
 (especially evenings.) Everywhere the flowering boneset, and the
 rose-bloom of the wild bean.
-
 
 THREE OF US
 
@@ -5451,7 +5276,6 @@ and much else in every direction, as I saunter or sit. For the last half
 hour a bird has persistently kept up a simple, sweet, melodious song,
 from the bushes. (I have a positive conviction that some of these birds
 sing, and others fly and flirt about here for my special benefit.)
-
 
 DEATH OF WILLIAM CULLEN BRYANT
 
@@ -5492,7 +5316,6 @@ with these appropriate well-known lines:
     The sexton's hand, my grave to make,
     The rich green mountain turf should break.
 
-
 JAUNT UP THE HUDSON
 
 _June 20th_.--On the "Mary Powell," enjoy'd everything beyond precedent.
@@ -5509,7 +5332,6 @@ cities, (our boat is a swift traveler, and makes few stops)--the
 Race--picturesque West Point, and indeed all along--the costly and often
 turreted mansions forever showing in some cheery light color, through
 the woods--make up the scene.
-
 
 HAPPINESS AND RASPBERRIES
 
@@ -5576,7 +5398,6 @@ young--the man she was traveling with, middle-aged. Poor woman--what
 story was it, out of her fortunes, to account for that inexpressibly
 scared way, those glassy eyes, and that hollow voice?
 
-
 MANHATTAN FROM THE BAY
 
 _June 25_.--Returned to New York last night. Out to-day on the waters
@@ -5612,7 +5433,6 @@ spires, its cloud-touching edifices group'd at the centre--the green of
 the trees, and all the white, brown and gray of the architecture well
 blended, as I see it, under a miracle of limpid sky, delicious light of
 heaven above, and June haze on the surface below.
-
 
 HUMAN AND HEROIC NEW YORK
 
@@ -5655,7 +5475,6 @@ yet partaken--the grandest physical habitat and surroundings of land and
 water the globe affords--namely, Manhattan island and Brooklyn, which
 the future shall join in one city--city of superb democracy, amid superb
 surroundings.
-
 
 HOURS FOR THE SOUL
 
@@ -5794,7 +5613,6 @@ With the sentiment of the stars and moon such nights I get all the
 free margins and indefiniteness of music or poetry, fused in geometry's
 utmost exactness.
 
-
 STRAW-COLOR'D AND OTHER PSYCHES
 
 _Aug. 4_.--A pretty sight! Where I sit in the shade--a warm day, the sun
@@ -5848,7 +5666,6 @@ feet in diameter, many scores cluster'd together and rolling along
 in the air, adhering to their ball-shape, six or eight feet above the
 ground.
 
-
 A NIGHT REMEMBRANCE
 
 _Aug. 23, 9-10 A.M._--I sit by the pond, everything quiet, the broad
@@ -5864,7 +5681,6 @@ odor of the neighboring ripening corn--the indolent and spiritual night,
 inexpressibly rich, tender, suggestive--something altogether to filter
 through one's soul, and nourish and feed and soothe the memory long
 afterwards.
-
 
 WILD FLOWERS
 
@@ -5897,7 +5713,6 @@ seal, clematis, sweet balm, bloodroot mint, (great plenty,) swamp
 magnolia, wild geranium, milk-weed, wild heliotrope, wild daisy,
 (plenty,) burdock, wild chrysanthemum.
 
-
 A CIVILITY TOO LONG NEGLECTED
 
 The foregoing reminds me of something.
@@ -5920,7 +5735,6 @@ these Specimen Days to the
   butterflies,                              tulip-trees, (and all other trees,)
   wasps and hornets,                          and to the spots and memories
   cat-birds, (and all other birds,)           of those days, and the creek.
-
 
 DELAWARE RIVER--DAYS AND NIGHTS
 
@@ -5963,7 +5777,6 @@ aft--and, turning the eyes north, the long ribands of fleecy-white
 steam, or dingy-black smoke, stretching far, fan-shaped, slanting
 diagonally across from the Kensington or Richmond shores, in the
 west-by-south-west wind.
-
 
 SCENES ON FERRY AND RIVER--LAST WINTER'S NIGHTS
 
@@ -6119,7 +5932,6 @@ crossing, I like to watch the fishermen's little buoy-lights--so pretty,
 so dreamy--like corpse candles--undulating delicate and lonesome on the
 surface of the shadowy waters, floating with the current.
 
-
 THE FIRST SPRING DAY ON CHESTNUT STREET
 
 Winter relaxing its hold, has already allow'd us a foretaste of spring.
@@ -6177,7 +5989,6 @@ eyes. Their wool, of a clear tawny color, with streaks of glistening
 black--altogether a queer sight amidst that crowded promenade of
 dandies, dollars and dry-goods.
 
-
 UP THE HUDSON TO ULSTER COUNTY
 
 _April 23._--Off to New York on a little tour and visit. Leaving the
@@ -6201,7 +6012,6 @@ shad-boats. Over on the railroad opposite, long freight trains,
 sometimes weighted by cylinder-tanks of petroleum, thirty, forty, fifty
 cars in a string, panting and rumbling along in full view, but the sound
 soften'd by distance.
-
 
 DAYS AT J. B.'S TURF-FIRES--SPRING SONGS
 
@@ -6249,7 +6059,6 @@ twilight--echoing well to us from the perpendicular high rock, where, in
 some thick young trees' recesses at the base, sat the bird--fill'd our
 senses, our souls.
 
-
 MEETING A HERMIT
 
 I found in one of my rambles up the hills a real hermit, living in a
@@ -6262,7 +6071,6 @@ bit and rest in his hut (an almost unprecedented compliment, as I heard
 from others afterwards.) He was of Quaker stock, I think; talk'd with
 ease and moderate freedom, but did not unbosom his life, or story, or
 tragedy, or whatever it was.
-
 
 AN ULSTER COUNTY WATERFALL
 
@@ -6280,7 +6088,6 @@ rods a fall, and sometimes three or four in that distance. A primitive
 forest, druidical, solitary and savage--not ten visitors a year--broken
 rocks everywhere--shade overhead, thick underfoot with leaves--a just
 palpable wild and delicate aroma.
-
 
 WALTER DUMONT AND HIS MEDAL
 
@@ -6300,7 +6107,6 @@ loafing crowd at the country store and post-office, there arrived
 the gift of an unexpected official gold medal for the quiet hero. The
 impromptu presentation was made to him on the spot, but he blush'd,
 hesitated as he took it, and had nothing to say.
-
 
 HUDSON RIVER SIGHTS
 
@@ -6352,7 +6158,6 @@ tow--little wind, and that adverse--with three long, dark, empty barges
 bringing up the rear. People are on the boats: men lounging, women in
 sun-bonnets, children, stovepipes with streaming smoke.
 
-
 TWO CITY AREAS, CERTAIN HOURS
 
 NEW YORK, _May 24, '79_.--Perhaps no quarters of this city (I have
@@ -6387,7 +6192,6 @@ avenue stages and ride up, stemming the swift-moving procession. I doubt
 if London or Paris or any city in the world can show such a carriage
 carnival as I have seen here five or six times these beautiful May
 afternoons.
-
 
 CENTRAL PARK WALKS AND TALKS
 
@@ -6426,7 +6230,6 @@ much difficulty as might be supposed from tramps, roughs, or in keeping
 people "off the grass." The worst trouble of the regular Park employ� is
 from malarial fever, chills, and the like.
 
-
 A FINE AFTERNOON, 4 TO 6
 
 Ten thousand vehicles careering through the Park this perfect afternoon.
@@ -6461,7 +6264,6 @@ ladies--frequently horses or parties dashing along on a full run--fine
 riding the rule--a few really first-class animals. As the afternoon
 waned, the wheel'd carriages grew less, but the saddle-riders seemed to
 increase. They linger'd long--and I saw some charming forms and faces.
-
 
 DEPARTING OF THE BIG STEAMERS
 
@@ -6498,7 +6300,6 @@ the great, shapely black ships themselves, and their groups and lined
 sides--in the setting of our bay with the blue sky overhead. Two days
 after the above I saw the "Britannic," the "Donau," the "Helvetia" and
 the "Schiedam" steam out, all off for Europe--a magnificent sight.
-
 
 TWO HOURS ON THE MINNESOTA
 
@@ -6542,7 +6343,6 @@ acquainted with several new officers. This second visit, with its
 observations, talks, (two or three at random with the boys,) confirm'd
 my first impressions.
 
-
 MATURE SUMMER DAYS AND NIGHTS
 
 _Aug. 4_.--Forenoon--as I sit under the willow shade, (have retreated
@@ -6559,7 +6359,6 @@ water, and making long stretches up and down the creek. Wherever I go
 over fields, through lanes, in by-places, blooms the white-flowering
 wild-carrot, its delicate pat of snow-flakes crowning its slender stem,
 gracefully oscillating in the breeze,
-
 
 EXPOSITION BUILDING--NEW CITY HALL--RIVER TRIP
 
@@ -6606,7 +6405,6 @@ after the poor creature, and made, though unsuccessfully, the bravest
 efforts to rescue her; but he didn't mention that part at all in telling
 me the story.)
 
-
 SWALLOWS ON THE RIVER
 
 _Sept. 3_--Cloudy and wet, and wind due east; air without palpable fog,
@@ -6625,7 +6423,6 @@ Minerva, swallow-bodied, darts up through the spaces of the hall, sits
 high on a beam, looks complacently on the show of slaughter, and feels
 in her element, exulting, joyous.)
 
-
 BEGIN A LONG JAUNT WEST
 
 The following three or four months (Sept. to Dec. '79) I made quite a
@@ -6640,7 +6437,6 @@ Presently a bit of fine region, West Virginia, the Panhandle, and
 crossing the river, the Ohio. By day through the latter State--then
 Indiana--and so rock'd to slumber for a second night, flying like
 lightning through Illinois.
-
 
 IN THE SLEEPER
 
@@ -6662,7 +6458,6 @@ advance beyond primitive barbarism. Perhaps if the witty philosopher
 were here these days, and went in the same car with perfect bedding and
 feed from New York to San Francisco, he would shift his type and sample
 to one of our American sleepers.)
-
 
 MISSOURI STATE
 
@@ -6691,7 +6486,6 @@ greenish-gray leaves pulled and hanging out to dry on temporary
 frameworks or rows of sticks. Looks much like the mullein familiar to
 eastern eyes.
 
-
 LAWRENCE AND TOPEKA, KANSAS
 
 We thought of stopping in Kansas City, but when we got there we found
@@ -6703,7 +6497,6 @@ Topeka. Nor the brotherly kindness of my RR. friends there, and the
 city and State officials. Lawrence and Topeka are large, bustling,
 half-rural, handsome cities. I took two or three long drives about the
 latter, drawn by a spirited team over smooth roads.
-
 
 THE PRAIRIES (_and an Undeliver'd Speech_)
 
@@ -6762,7 +6555,6 @@ this favor'd central area of (in round numbers) two thousand miles
 square seems fated to be the home both of what I would call America's
 distinctive ideas and distinctive realities."
 
-
 ON TO DENVER--A FRONTIER INCIDENT
 
 The jaunt of five or six hundred miles from Topeka to Denver took me
@@ -6789,7 +6581,6 @@ In due time we reach Denver, which city I fall in love with from the
 first, and have that feeling confirm'd, the longer I stay there. One of
 my pleasantest days was a jaunt, via Platte ca�on, to Leadville.
 
-
 AN HOUR ON KENOSHA SUMMIT
 
 Jottings from the Rocky Mountains, mostly pencill'd during a day's trip
@@ -6810,7 +6601,6 @@ glimpses of a hundred peaks, titanic necklaces, stretching north and
 south--the huge rightly-named Dome-rock--and as we dash along, others
 similar, simple, monolithic, elephantine.
 
-
 AN EGOTISTICAL "FIND"
 
 "I have found the law of my own poems," was the unspoken but
@@ -6829,7 +6619,6 @@ worlds rolling above at night, a man thinks of them, weighs all, not for
 themselves or the abstract, but with reference to his own personality,
 and how they may affect him or color his destinies.")
 
-
 NEW SENSES: NEW JOYS
 
 We follow the stream of amber and bronze brawling along its bed,
@@ -6847,7 +6636,6 @@ awakes, those grandest and subtlest element-emotions in the human
 soul, that all the marble temples and sculptures from Phidias to
 Thorwaldsen--all paintings, poems, reminiscences, or even music,
 probably never can.
-
 
 STEAM-POWER, TELEGRAPHS, ETC
 
@@ -6873,7 +6661,6 @@ rather mountain-topward, a huge hawk or eagle (a rare sight here) is
 idly soaring, balancing along the ether, now sinking low and coming
 quite near, and then up again in stately-languid circles--then higher,
 higher, slanting to the north, and gradually out of sight.
-
 
 AMERICA'S BACK-BONE
 
@@ -6901,7 +6688,6 @@ over 14,000 feet high. (East, the highest peaks of the Alleghanies, the
 Adirondacks, the Catskills, and the White Mountains, range from 2000 to
 5500 feet-only Mount Washington, in the latter, 6300 feet.)
 
-
 THE PARKS
 
 In the midst of all here, lie such beautiful contrasts as the sunken
@@ -6914,7 +6700,6 @@ western California, through their sierras and ravines, are copiously
 mark'd by similar spreads and openings, many of the small ones of
 paradisiac loveliness and perfection, with their offsets of mountains,
 streams, atmosphere and hues beyond compare.
-
 
 ART FEATURES
 
@@ -6951,7 +6736,6 @@ whitey-brown, above timber line; in certain spots afar patches of snow
 any time of year; (no trees, no flowers, no birds, at those chilling
 altitudes.) As I write I see the Snowy Range through the blue mist,
 beautiful and far off, I plainly see the patches of snow.
-
 
 DENVER IMPRESSIONS
 
@@ -7012,7 +6796,6 @@ in constant view by day, draped in their violet haze, mountain tops
 innumerable. Yes, I fell in love with Denver, and even felt a wish to
 spend my declining and dying days there.
 
-
 I TURN SOUTH AND THEN EAST AGAIN
 
 Leave Denver at 8 A.M. by the Rio Grande RR. going south. Mountains
@@ -7030,7 +6813,6 @@ to the left stretches amply, with corrals here and there, the frequent
 cactus and wild sage, and herds of cattle feeding. Thus about 120
 miles to Pueblo. At that town we board the comfortable and well-equipt
 Atchison, Topeka and Santa Fe RR., now striking east.
-
 
 UNFULFILLED WANTS--THE ARKANSAS RIVER
 
@@ -7052,7 +6834,6 @@ miles--then green, fertile and grassy, an equal length. Some very large
 herds of sheep. (One wants new words in writing about these plains, and
 all the inland American West--the terms, _far, large, vast_, &c., are
 insufficient.)
-
 
 A SILENT LITTLE FOLLOWER-THE COREOPSIS
 
@@ -7083,7 +6864,6 @@ flocks of prairie-hens starting up. Between Sterling and Florence a
 fine country. (Remembrances to E. L., my old-young soldier friend of war
 times, and his wife and boy at S.)
 
-
 THE PRAIRIES AND GREAT PLAINS IN POETRY
 
 (_After traveling Illinois, Missouri, Kansas and Colorado_) Grand as
@@ -7113,7 +6893,6 @@ interesting class, bright-eyed as hawks, with their swarthy complexions
 and their broad-brimm'd hats--apparently always on horseback, with loose
 arms slightly raised and swinging as they ride.
 
-
 THE SPANISH PEAKS--EVENING ON THE PLAINS
 
 Between Pueblo and Bent's fort, southward, in a clear afternoon
@@ -7135,7 +6914,6 @@ jogging along on foot--and around all the indescribable _chiaroscuro_
 and sentiment, (profounder than anything at sea,) athwart these endless
 wilds.
 
-
 AMERICA'S CHARACTERISTIC LANDSCAPE
 
 Speaking generally as to the capacity and sure future destiny of that
@@ -7156,7 +6934,6 @@ varieties, what most impress'd me, and will longest remain with me, are
 these same prairies. Day after day, and night after night, to my eyes,
 to all my senses--the esthetic one most of all--they silently and
 broadly unfolded. Even their simplest statistics are sublime.
-
 
 EARTH'S MOST IMPORTANT STREAM
 
@@ -7189,7 +6966,6 @@ lovely and fertile in its unplough'd innocence than the fair and
 valuable fields of New York's, Pennsylvania's, Maryland's or Virginia's
 richest farms.
 
-
 PRAIRIE ANALOGIES--THE TREE QUESTION
 
 The word Prairie is French, and means literally meadow. The cosmical
@@ -7205,7 +6981,6 @@ thousands of miles where either not a tree grows, or often useless
 destruction has prevail'd; and the matter of the cultivation and spread
 of forests may well be press'd upon thinkers who look to the coming
 generations of the prairie States.
-
 
 MISSISSIPPI VALLEY LITERATURE
 
@@ -7258,7 +7033,6 @@ and now--an _eclaircissement_ as it is and is to be, on the stage of
 the New World, of all Time's hitherto drama of war, romance and
 evolution--should furnish the lambent fire, the ideal.
 
-
 AN INTERVIEWER'S ITEM
 
 _Oct. 17, '79_.--To-day one of the newspapers of St. Louis prints the
@@ -7287,7 +7061,6 @@ in all departments, literature and art included, that will be the way
 our superiority will exhibit itself. We will not have great individuals
 or great leaders, but a great average bulk, unprecedentedly great.'"
 
-
 THE WOMEN OF THE WEST
 
 _Kansas City_.--I am not so well satisfied with what I see of the women
@@ -7302,7 +7075,6 @@ fashionable, but dyspeptic-looking and generally doll-like; their
 ambition evidently is to copy their eastern sisters. Something far
 different and in advance must appear, to tally and complete the superb
 masculinity of the west, and maintain and continue it.
-
 
 THE SILENT GENERAL
 
@@ -7337,7 +7109,6 @@ of peace, more difficult than the war itself)--nothing heroic, as the
 authorities put it--and yet the greatest hero. The gods, the destinies,
 seem to have concentrated upon him.
 
-
 PRESIDENT HAYES'S SPEECHES
 
 _Sept. 30_.--I see President Hayes has come out West, passing quite
@@ -7360,7 +7131,6 @@ comradeship.
 
 From Kansas City I went on to St. Louis, where I remain'd nearly three
 months, with my brother T.J.W., and my dear nieces.
-
 
 ST. LOUIS MEMORANDA
 
@@ -7387,7 +7157,6 @@ packing establishment that kills and packs an average of 2500 hogs a
 day the whole year round, for export. Another in Atchison, Kansas, same
 extent; others nearly equal elsewhere. And just as big ones here.)
 
-
 NIGHTS ON THE MISSISSIPPI
 
 _Oct. 29th, 30th, and 31st_.--Wonderfully fine, with the full harvest
@@ -7401,7 +7170,6 @@ moonlight. I am out pretty late: it is so fascinating, dreamy. The cool
 night-air, all the influences, the silence, with those far-off eternal
 stars, do me good. I have been quite ill of late. And so, well-near the
 centre of our national demesne, these night views of the Mississippi.
-
 
 UPON OUR OWN LAND
 
@@ -7424,7 +7192,6 @@ I return'd home, east, Jan. 5, 1880, having travers'd, to and fro and
 across, 10,000 miles and more. I soon resumed my seclusions down in
 the woods, or by the creek, or gaddings about cities, and an occasional
 disquisition, as will be seen following.
-
 
 EDGAR POE'S SIGNIFICANCE
 
@@ -7518,7 +7285,6 @@ concretes at first hand, the body, the earth and sea, sex and the
 like--and the substitution of something for them at second or third
 hand--what bearings have they on current pathological study?
 
-
 BEETHOVEN'S SEPTETTE
 
 _Feb. 11, '80_.--At a good concert to-night in the foyer of the opera
@@ -7542,7 +7308,6 @@ came to me of a copious grove of singing birds, and in their midst
 a simple harmonic duo, two human souls, steadily asserting their own
 pensiveness, joyousness.
 
-
 A HINT OF WILD NATURE
 
 _Feb. 13_.--As I was crossing the Delaware to-day, saw a large flock
@@ -7558,7 +7323,6 @@ waters below--the rapid flight of the birds, appearing just for a
 minute--flashing to me such a hint of the whole spread of Nature, with
 her eternal unsophisticated freshness, her never-visited recesses of
 sea, sky, shore--and then disappearing in the distance.
-
 
 LOAFING IN THE WOODS
 
@@ -7590,7 +7354,6 @@ even the snow, if you can only detect it--no two places, hardly any
 two hours, anywhere, exactly alike. How different the odor of noon from
 midnight, or winter from summer, or a windy spell from a still one.)
 
-
 A CONTRALTO VOICE
 
 _May 9, Sunday_.--Visit this evening to my friends the J.'s--good
@@ -7605,7 +7368,6 @@ roof-ridge. Vari-color'd lights from the stain'd glass windows broke
 through the tree-shadows. And under all--under the Northern Crown up
 there, and in the fresh breeze below, and the _chiaroscuro_ of the
 night, that liquid-full contralto.
-
 
 SEEING NIAGARA TO ADVANTAGE
 
@@ -7639,7 +7401,6 @@ minutes' perfect absorption of Niagara--not the great majestic gem
 alone by itself, but set complete in all its varied, full, indispensable
 surroundings.
 
-
 JAUNTING TO CANADA
 
 To go back a little, I left Philadelphia, 9th and Green streets, at 8
@@ -7653,7 +7414,6 @@ Buffalo, and thence to Clifton, where we arrived early afternoon; then
 on to London, Ontario, Canada, in four more--less than twenty-two hours
 altogether. I am domiciled at the hospitable house of my friends Dr. and
 Mrs. Bucke, in the ample and charming garden and lawns of the asylum.
-
 
 SUNDAY WITH THE INSANE
 
@@ -7714,7 +7474,6 @@ I learn that Canada, and especially this ample and populous province,
 Ontario, has the very best and plentiest benevolent institutions in all
 departments.
 
-
 REMINISCENCE OF ELIAS HICKS
 
 _June 8_.--To-day a letter from Mrs. E. S. L., Detroit, accompanied in
@@ -7729,7 +7488,6 @@ excerpt about E. H. in the letter:
   writing or speaking about him, and I wonder'd whether you had a picture
   of him. As I am the owner of two, I send you one."
 
-
 GRAND NATIVE GROWTH
 
 In a few days I go to lake Huron, and may have something to say of
@@ -7740,7 +7498,6 @@ _individualistic_ race, as the average range of best specimens among
 us. As among us, too, I please myself by considering that this element,
 though it may not be the majority, promises to be the leaven which must
 eventually leaven the whole lump.
-
 
 A ZOLLVEREIN BETWEEN THE U.S. AND CANADA
 
@@ -7767,7 +7524,6 @@ Canada shall form two or three grand States, equal and independent, with
 the rest of the American Union. The St. Lawrence and lakes are not for a
 frontier line, but a grand interior or mid-channel.)
 
-
 THE ST. LAWRENCE LINE
 
 _August 20_.--Premising that my three or four months in Canada were
@@ -7787,7 +7543,6 @@ weather remains perfect; some might call it a little cool, but I wear my
 old gray overcoat and find it just right. The days are full of sunbeams
 and oxygen. Most of the forenoons and afternoons I am on the forward
 deck of the steamer.
-
 
 THE SAVAGE SAGUENAY
 
@@ -7810,7 +7565,6 @@ stopp'd, I knew what caused it. Then at cape Eternity and Trinity rock,
 the pilot with his whistle producing similar marvellous results, echoes
 indescribably weird, as we lay off in the still bay under their shadows.
 
-
 CAPES ETERNITY AND TRINITY
 
 But the great, haughty, silent capes themselves; I doubt if any crack
@@ -7832,7 +7586,6 @@ yet seen. If Europe or Asia had them, we should certainly hear of them
 in all sorts of sent-back poems, rhapsodies, &c., a dozen times a year
 through our papers and magazines.
 
-
 CHICOUTIMI AND HA-HA BAY
 
 No indeed--life and travel and memory have offer'd and will preserve to
@@ -7853,7 +7606,6 @@ far north) Arcturus and Lyra, and the Eagle, and great Jupiter like
 a silver globe, and the constellation of the Scorpion. Then northern
 lights nearly every night.
 
-
 THE INHABITANTS--GOOD LIVING
 
 Grim and rocky and black-water'd as the demesne hereabout is, however,
@@ -7870,7 +7622,6 @@ group of young boatmen eating their early dinner--nothing but an immense
 loaf of bread, had apparently been the size of a bushel measure, from
 which they cut chunks with a jack-knife. Must be a tremendous winter
 country this, when the solid frost and ice fully set in.
-
 
 CEDAR-PLUMS LIKE-NAMES (_Back again in Camden and down in Jersey_)
 
@@ -7944,7 +7695,6 @@ joint; but I cannot afford to throw away what I pencill'd down the
 lane there, under the shelter of my old friend, one warm October noon.
 Besides, it wouldn't be civil to the cedar tree.
 
-
 Note:
 
 [11] In the pocket of my receptacle-book I find a list of suggested and
@@ -7974,7 +7724,6 @@ rejected names for this volume, or parts of it--such as the following:
     Fore and Aft....Vestibules,         Types and Semi-Tones,
     Scintilla at 60 and after,          Oddments....Sand-Drifts,
     Sands on the Shores of 64,          Again and Again._
-
 
 DEATH OF THOMAS CARLYLE
 
@@ -8098,7 +7847,6 @@ questions are answer'd to the soul, the best answers that can be given.
 With me, too, when depress'd by some specially sad event, or tearing
 problem, I wait till I go out under the stars for the last voiceless
 satisfaction.
-
 
 CARLYLE FROM AMERICAN POINTS OF VIEW
 
@@ -8404,7 +8152,6 @@ all, and mercilessly exposing the illness of all. But while he announces
 the malady, and scolds and raves about it, he himself, born and bred in
 the same atmosphere, is a mark'd illustration of it.
 
-
 Notes:
 
 [13] It will be difficult for the future--judging by his books, personal
@@ -8453,7 +8200,6 @@ to, or to be fit for, or even originate. It is strange to me that they
 were born in Germany, or in the old world at all. While a Carlyle, I
 should say, is quite the legitimate European product to be expected.
 
-
 A COUPLE OF OLD FRIENDS--A COLERIDGE BIT
 
 _Latter April_.--Have run down in my country haunt for a couple of days,
@@ -8486,7 +8232,6 @@ Coleridge's lines, curiously appropriate in more ways than one:
     Wears on his smiling face a dream of spring;
     And I, the while, the sole unbusy thing,
     Nor honey make, nor pair, nor build, nor sing.
-
 
 A WEEK'S VISIT TO BOSTON
 
@@ -8532,7 +8277,6 @@ houses--Beacon street, Commonwealth avenue, and a hundred others. But
 the best new departures and expansions of Boston, and of all the cities
 of New England, are in another direction.
 
-
 THE BOSTON OF TO-DAY
 
 In the letters we get from Dr. Schliemann (interesting but fishy) about
@@ -8565,7 +8309,6 @@ I caught myself pausing more than once to look at them, plentiful
 everywhere through the audience--healthy and wifely and motherly, and
 wonderfully charming and beautiful--I think such as no time or land but
 ours could show.
-
 
 MY TRIBUTE TO FOUR POETS
 
@@ -8609,7 +8352,6 @@ rectitude and ardor of Luther, Milton, George Fox--I must not, dare not,
 say the wilfulness and narrowness--though doubtless the world needs
 now, and always will need, almost above all, just such narrowness and
 wilfulness.
-
 
 MILLET'S PICTURES LAST ITEMS
 
@@ -8660,7 +8402,6 @@ _April 23._--It was well I got away in fair order, for if I had staid
 another week I should have been killed with kindness, and with eating
 and drinking.
 
-
 BIRDS--AND A CAUTION
 
 _May 14._--Home again; down temporarily in the Jersey woods. Between 8
@@ -8685,7 +8426,6 @@ Though they describe what I saw--what appear'd to me--I dare say the
 expert ornithologist, botanist or entomologist will detect more than one
 slip in them.)
 
-
 SAMPLES OF MY COMMON-PLACE BOOK
 
 I ought not to offer a record of these days, interests, recuperations,
@@ -8694,7 +8434,6 @@ filled with favorite excerpts, I carried in my pocket for three summers,
 and absorb'd over and over again, when the mood invited. I find so much
 in having a poem or fine suggestion sink into me (a little then goes a
 great ways) prepar'd by these vacant-sane and natural influences.
-
 
 Note:
 
@@ -8803,7 +8542,6 @@ _Maurice F. Egan on De Guerin._
     I would rather walk with Him by faith
       Than pick my way by sight
 
-
 MY NATIVE SAND AND SALT ONCE MORE
 
 _July 25, '81.--Far Rockaway, L. I._--A good day here, on a jaunt,
@@ -8828,7 +8566,6 @@ right along the beach. In all directions costly villas, palaces,
 millionaires--(but few among them I opine like my friend George W.
 Childs, whose personal integrity, generosity, unaffected simplicity, go
 beyond all worldly wealth.)
-
 
 HOT WEATHER NEW YORK
 
@@ -8874,7 +8611,6 @@ of the hills the other side, the amber-rolling waves, changing as the
 tide comes in to a trans-parent tea-color--the frequent splash of the
 playful boys, sousing--the glittering drops sparkling, and the good
 western breeze blowing.
-
 
 CUSTER'S LAST RALLY
 
@@ -8926,7 +8662,6 @@ appreciate it there--nay, they certainly would. Then I would like to
 show Messieur Crapeau that some things can be done in America as well as
 others.
 
-
 SOME OLD ACQUAINTANCES--MEMORIES
 
 _Aug. 16._--"Chalk a big mark for today," was one of the sayings of an
@@ -8951,7 +8686,6 @@ leisurely, to the last drop. (Pfaff is a generous German _restaurateur_,
 silent, stout, jolly, and I should say the best selecter of champagne in
 America.)
 
-
 A DISCOVERY OF OLD AGE
 
 Perhaps the best is always cumulative. One's eating and drinking one
@@ -8964,7 +8698,6 @@ poems, places, characters,) I discover the best hardly ever at first,
 (no absolute rule about it, however,) sometimes suddenly bursting
 forth, or stealthily opening to me, perhaps after years of unwitting
 familiarity, unappreciation, usage.
-
 
 A VISIT, AT THE LAST, TO R. W. EMERSON
 
@@ -9028,7 +8761,6 @@ her,) gave me further and fuller information about Thoreau, who, years
 ago, during Mr. E.'s absence in Europe, had lived for some time in the
 family, by invitation.
 
-
 OTHER CONCORD NOTATIONS
 
 Though the evening at Mr. and Mrs. Sanborn's, and the memorable family
@@ -9060,7 +8792,6 @@ while I sat in the wagon. I shall not soon forget those Concord drives,
 and especially that charming Sunday forenoon one with my friend Miss M.,
 and the white ponies.
 
-
 BOSTON COMMON--MORE OF EMERSON
 
 _Oct. 10-13._--I spend a good deal of time on the Common, these
@@ -9089,7 +8820,6 @@ I feel more settled than ever to adhere to my own theory, and exemplify
 it," was my candid response. Whereupon we went and had a good dinner
 at the American House. And thenceforward I never waver'd or was touch'd
 with qualms, (as I confess I had been two or three times before.)
-
 
 AN OSSIANIC NIGHT--DEAREST FRIENDS
 
@@ -9139,7 +8869,6 @@ my best friends in their distant homes--of William O'Connor, of
 Maurice Bucke, of John Burroughs, and of Mrs. Gilchrist--friends of my
 soul--stanchest friends of my other soul, my poems.
 
-
 ONLY A NEW FERRY-BOAT
 
 _Jan. 12, '82_.--Such a show as the Delaware presented an hour before
@@ -9159,7 +8888,6 @@ gracefully balanced and circled four or five great sea hawks, while here
 below, amid the pomp and picturesqueness of sky and river, swam this
 creation of artificial beauty and motion and power, in its way no less
 perfect.
-
 
 DEATH OF LONGFELLOW
 
@@ -9222,7 +8950,6 @@ heard Longfellow himself say, that ere the New World can be worthily
 original, and announce herself and her own heroes, she must be well
 saturated with the originality of others, and respectfully consider the
 heroes that lived before Agamemnon.
-
 
 STARTING NEWSPAPERS
 
@@ -9306,7 +9033,6 @@ more primitive and ancient than my Camden friend William Kurtz's place
 up on Federal street. I remember, as a youngster, several characteristic
 old printers of a kind hard to be seen these days.
 
-
 THE GREAT UNREST OF WHICH WE ARE PART
 
 My thoughts went floating on vast and mystic currents as I sat to-day in
@@ -9317,7 +9043,6 @@ incessant unrest,[19] exfoliation, (Darwin's evolution, I suppose.)
 Indeed, what is Nature but change, in all its visible, and still
 more its invisible processes? Or what is humanity in its faith, love,
 heroism, poetry, even morals, but _emotion_?
-
 
 Note:
 
@@ -9334,7 +9059,6 @@ perception, every thought is but motion of the molecules of the brain
 translated by that incomprehensible thing we call mind. The processes
 of growth, of existence, of decay, whether in worlds, or in the minutest
 organisms, are but motion."
-
 
 BY EMERSON'S GRAVE
 
@@ -9373,7 +9097,6 @@ We can say, as Abraham Lincoln at Gettysburg, It is not we who come to
 consecrate the dead--we reverently come to receive, if so it may be,
 some consecration to ourselves and daily work from him.
 
-
 AT PRESENT WRITING--PERSONAL
 
 _A letter to a German friend--extract_
@@ -9392,7 +9115,6 @@ half-paralytic, and likely to be so, long as I live. But the principal
 object of my life seems to have been accomplish'd--I have the most
 devoted and ardent of friends, and affectionate relatives--and of
 enemies I really make no account."
-
 
 AFTER TRYING A CERTAIN BOOK
 
@@ -9431,7 +9153,6 @@ but off one side.
 (_To a poetic student and friend._)--I only seek to put you in rapport.
 Your own brain, heart, evolution, must not only understand the matter,
 but largely supply it.
-
 
 FINAL CONFESSIONS--LITERARY TESTS
 
@@ -9484,7 +9205,6 @@ Dictionary? I have fancied the ocean and the daylight, the mountain
 and the forest, putting their spirit in a judgment on our books. I have
 fancied some disembodied human soul giving its verdict.)
 
-
 NATURE AND DEMOCRACY--MORALITY
 
 Democracy most of all affiliates with the open air, is sunny and hardy
@@ -9511,17 +9231,9 @@ have been, and ever will be, our time and times to come, essentially the
 same--to bring people back from their persistent strayings and sickly
 abstractions, to the costless average, divine, original concrete.
 
-
-
-
-
 COLLECT
 
-
-
-
 ONE OR TWO INDEX ITEMS
-
 
 Though the ensuing COLLECT and preceding SPECIMEN DAYS are both largely
 from memoranda already existing, the hurried peremptory needs of copy
@@ -9556,11 +9268,7 @@ afterward.
 Several of the convalescent out-door scenes and literary items,
 preceding, originally appear'd in the fortnightly "Critic," of New York.
 
-
-
-
 DEMOCRATIC VISTAS
-
 
 As the greatest lessons of Nature through the universe are perhaps the
 lessons of variety and freedom, the same present the greatest lessons
@@ -10805,7 +10513,6 @@ expound, but it is exclusively for the noiseless operation of one's
 isolated Self, to enter the pure ether of veneration, reach the divine
 levels, and commune with the unutterable.
 
-
 To practically enter into politics is an important part of American
 personalism. To every young man, north and south, earnestly studying
 these things, I should here, as an offset to what I have said in former
@@ -11786,7 +11493,6 @@ worlds, in ceaseless succession through time--the main thing being the
 average, the bodily, the concrete, the democratic, the popular, on which
 all the superstructures of the future are to permanently rest.
 
-
 Notes:
 
 [20] "From a territorial area of less than nine hundred thousand
@@ -12030,9 +11736,6 @@ faith, and planting the seeds of superber laws--of the explication of
 the physical universe through the spiritual--and clearing the way for a
 religion, sweet and unimpugnable alike to little child or great savan.
 
-
-
-
 ORIGINS OF ATTEMPTED SECESSION
 
 _Not the whole matter, but some side facts worth conning to-day and any
@@ -12236,12 +11939,7 @@ have been achiev'd on any less terms, or by any other means than that
 grim lesson, or something equivalent to it. And I predict that the south
 is yet to outstrip the north.
 
-
-
-
-
 PREFACES TO "LEAVES OF GRASS"
-
 
 PREFACE, 1855 To first issue of Leaves of Grass. _Brooklyn, N.Y._
 
@@ -12781,13 +12479,8 @@ individual is as superb as a nation when he has the qualities which make
 a superb nation. The soul of the largest and wealthiest and proudest
 nation may well go half-way to meet that of its poets.
 
-
-
-
-
 PREFACE, 1872 To As a Strong Bird on Pinions Free Now Thou Mother with
 thy Equal Brood, _in permanent edition_.
-
 
 The impetus and ideas urging me, for some years past, to an utterance,
 or attempt at utterance, of New World songs, and an epic of Democracy,
@@ -12964,7 +12657,6 @@ and playing around me, and the notes of the cat-bird for undertone and
 accompaniment,) my true good-will and love. W. W. _Washington, D. C.,
 May_ 31, 1872.
 
-
 Note:
 
 [32] The problems of the achievements of this crowning stage through
@@ -12978,10 +12670,8 @@ extensive nuisance of conventional poetry--by putting something really
 alive and substantial in its place--I have undertaken to grapple with,
 and argue, in the preceding "Democratic Vistas."
 
-
 PREFACE, 1876 _To the two-volume Centennial Edition of_ Leaves of Grass
 _and_ Two Rivulets.
-
 
 At the eleventh hour, under grave illness, I gather up the pieces of
 prose and poetry left over since publishing, a while since, my first and
@@ -13373,12 +13063,9 @@ to, perhaps born of, Democracy and the Modern--in its very nature
 regardless of the old conventions, and, under the great laws, following
 only its own impulses.
 
-
-
 POETRY TO-DAY IN AMERICA
 
 SHAKSPERE--THE FUTURE
-
 
 Strange as it may seem, the topmost proof of a race is its own born
 poetry. The presence of that, or the absence, each tells its story. As
@@ -13912,7 +13599,6 @@ and shapes in lasting pigments--the very pomp and dazzle of the sunset!
 Meanwhile, democracy waits the coming of its bards in silence and in
 twilight--but 'tis the twilight of the dawn.
 
-
 Notes:
 
 [35] A few years ago I saw the question, "Has America produced any great
@@ -14025,11 +13711,7 @@ convulsive struggle for unity, the secession war, triumphantly
 concluded, and _the South_ victorious after all--is only to be written
 at the remove of hundreds, perhaps a thousand, years hence.
 
-
-
-
 A MEMORANDUM AT A VENTURE
-
 
 "All is proper to be express'd, provided our aim is only high
 enough."--_J. F. Millet._
@@ -14241,15 +13923,10 @@ statement as are the countless and splendid results of its culture and
 evolution, perhaps the best and earliest and purest intuitions of the
 human race have yet to be develop'd.
 
-
-
-
-
 DEATH OF ABRAHAM LINCOLN LECTURE
 
 _deliver'd in New York, April 14, 1879--in Philadelphia, '80--in Boston,
 '81_
-
 
 How often since that dark and dripping Saturday--that chilly April day,
 now fifteen years bygone--my heart has entertain'd the dream, the
@@ -14638,13 +14315,9 @@ Dear to the Muse--thrice dear to Nationality--to the whole human
 race--precious to this Union--precious to Democracy--unspeakably and
 forever precious--their first great Martyr Chief.
 
-
-
-
 TWO LETTERS
 
 I
-
 
 TO -- -- -- LONDON, ENGLAND
 
@@ -14700,9 +14373,7 @@ W. W.
 I am prohibited from writing too much, and I must make this candid
 statement of the situation serve for all my dear friends over there.
 
-
 II
-
 
 TO -- -- -- DRESDEN, SAXONY
 
@@ -14742,11 +14413,7 @@ in America's name.
 
 W. W.
 
-
-
-
 NOTES LEFT OVER
-
 
 NATIONALITY--(AND YET) It is more and more clear to me that the main
 sustenance for highest separate personality, these States, is to come
@@ -14819,7 +14486,6 @@ right of kings. (Kings have been of use, hitherto, as representing the
 idea of the identity of nations. But, to American democracy, _both_
 ideas must be fulfill'd, and in my opinion the loss of vitality of
 either one will indeed be the loss of vitality of the other.)
-
 
 EMERSON'S BOOKS, (THE SHADOWS OF THEM)
 
@@ -14940,7 +14606,6 @@ itself. Who wants to be any man's mere follower? lurks behind every
 page. No teacher ever taught, that has so provided for his pupil's
 setting up independently--no truer evolutionist.
 
-
 VENTURES, ON AN OLD THEME
 
 A DIALOGUE--
@@ -14978,7 +14643,6 @@ final exponents--responsible to Him directly, and not at all to mere
 etiquette. Often the best service that can be done to the race, is
 to lift the veil, at least for a time, from these rules and
 fossil-etiquettes.
-
 
 NEW POETRY--_California, Canada, Texas_.--In my opinion the time has
 arrived to essentially break down the barriers of form between prose and
@@ -15049,7 +14713,6 @@ Poetry (like a grand personality) is a growth of many generations--many
 rare combinations.
 
 To have great poets, there must be great audiences, too.
-
 
 BRITISH LITERATURE
 
@@ -15123,7 +14786,6 @@ dilation, needed in preparations for the future of the States. I only
 wish we could have really good translations. I rejoice at the feeling
 for Oriental researches and poetry, and hope it will go on.
 
-
 DARWINISM--(THEN FURTHERMORE)
 
 Running through prehistoric ages--coming down from them into the
@@ -15185,7 +14847,6 @@ Democracy waits for it's--through first-class metaphysicians and
 speculative philosophs--laying the basements and foundations for those
 new, more expanded, more harmonious, more melodious, freer American
 poems.
-
 
 "SOCIETY"
 
@@ -15266,7 +14927,6 @@ tried by severest tests, fatalities of war and peace, now issues from
 the trial, unharm'd, trebly-invigorated, perhaps to commence forthwith
 its finally triumphant march around the globe.
 
-
 THE TRAMP AND STRIKE QUESTIONS: _Part of a Lecture proposed, (never
 deliver'd)_
 
@@ -15332,7 +14992,6 @@ chiffonier-bags on their shoulders, and the usual long iron hooks in
 their hands, plodding along, their eyes cast down, spying for scraps,
 rags, bones, &c.
 
-
 DEMOCRACY IN THE NEW WORLD
 
 Estimated and summ'd-up to-day, having thoroughly justified itself
@@ -15368,7 +15027,6 @@ To this faith, founded in the ideal, let us hold--and never abandon
 or lose it. Then what a spectacle is _practically_ exhibited by our
 American democracy to-day!
 
-
 FOUNDATION STAGES--THEN OTHERS
 
 Though I think I fully comprehend the absence of moral tone in our
@@ -15398,7 +15056,6 @@ finally make the blood and brawn of the best American individualities
 of both sexes--and thus, with them, to a certainty, (through these very
 processes of to-day,) dominate the New World.
 
-
 GENERAL SUFFRAGE, ELECTIONS, ETC.
 
 It still remains doubtful to me whether these will ever secure,
@@ -15422,7 +15079,6 @@ have a born penitentiary-bird, or panel-thief, or lowest gambling-hell
 or groggery keeper, for President--though such may not only emulate, but
 get, high offices from localities--even from the proud and wealthy city
 of New York.
-
 
 WHO GETS THE PLUNDER?
 
@@ -15449,7 +15105,6 @@ the great wealth of a special class, but is only to be really attain'd
 in having the bulk of the people provided with homes or land in fee
 simple. This may not be the best show, but it is the best reality.
 
-
 FRIENDSHIP, (THE REAL ARTICLE)
 
 Though Nature maintains, and must prevail, there will always be plenty
@@ -15472,7 +15127,6 @@ seen, where, with an extra development and acuteness of the intellectual
 faculties, there is a mark'd absence of the spiritual, affectional, and
 sometimes, though more rarely, the highest esthetic and moral elements
 of cognition.
-
 
 LACKS AND WANTS YET
 
@@ -15509,7 +15163,6 @@ the comparatively few successful rich, and the great masses of the
 unsuccessful, the poor? As a mixed political and social question, is not
 this full of dark significance? Is it not worth considering as a problem
 and puzzle in our democracy--an indispensable want to be supplied?
-
 
 RULERS STRICTLY OUT OF THE MASSES
 
@@ -15549,7 +15202,6 @@ more sway than any king in history, and with better capacity in using
 that sway--can we not see that these facts have bearings far, far beyond
 their political or party ones?)
 
-
 MONUMENTS--THE PAST AND PRESENT
 
 If you go to Europe, (to say nothing of Asia, more ancient and massive
@@ -15571,7 +15223,6 @@ Ecclesiasticism, Literature, Discovery, Trade, Architecture, &c.,
 &c.--but that grand future is the enclosing purport of the United
 States.
 
-
 LITTLE OR NOTHING NEW, AFTER ALL
 
 How small were the best thoughts, poems, conclusions, except for
@@ -15586,7 +15237,6 @@ inspiration of the same old humanity--the same old heart and brain--the
 same old countenance yearningly, pensively, looking forth. What we have
 to do to-day is to receive them cheerfully, and to give them ensemble,
 and a modern American and democratic physiognomy.
-
 
 A LINCOLN REMINISCENCE
 
@@ -15607,7 +15257,6 @@ in great showers; but looking back of them in the heavens I saw the
 grand old constellations, with which I was so well acquainted, fixed and
 true in their places. Gentlemen, the world did not come to an end then,
 nor will the Union now."
-
 
 FREEDOM
 
@@ -15640,7 +15289,6 @@ unconscious ones, which run through all Time, pervade history, prove
 immortality, give moral purpose to the entire objective world, and the
 last dignity to human life.
 
-
 BOOK-CLASSES--AMERICA'S LITERATURE
 
 For certain purposes, literary productions through all the recorded ages
@@ -15656,7 +15304,6 @@ Margaret Fuller, unquell'd for thirty years, yet sounds in the air:
 "It does not follow that because the United States print and read more
 books, magazines, and newspapers than all the rest of the world, that
 they really have, therefore, a literature."
-
 
 OUR REAL CULMINATION
 
@@ -15682,7 +15329,6 @@ God seems to smile. What others--what business, profit, wealth, without
 a taint? What fortune else--what dollar--does not stand for, and come
 from, more or less imposition, lying, unnaturalness?
 
-
 AN AMERICAN PROBLEM
 
 One of the problems presented in America these times is, how to
@@ -15696,7 +15342,6 @@ nobility and satisfaction of a man consist in his thinking and acting
 for himself. The problem, I say, is to combine the two, so as not to
 ignore either.
 
-
 THE LAST COLLECTIVE COMPACTION
 
 I like well our polyglot construction-stamp, and the retention thereof,
@@ -15707,19 +15352,11 @@ speeches made, in all languages--on our shores the crowning resultant
 of those distillations, decantations, compactions of humanity, that have
 been going on, on trial, over the earth so long.
 
-
-
-
-
 APPENDIX
-
-
-
 
 PIECES IN EARLY YOUTH
 
 1834-'42
-
 
 DOUGH-FACE SONG --Like dough; soft; yielding to pressure;
 pale----_Webster's Dictionary_.
@@ -15810,7 +15447,6 @@ pale----_Webster's Dictionary_.
       Will answer just the same.
 
 PAUMANOK.
-
 
 DEATH IN THE SCHOOL-ROOM (_A Fact_)
 
@@ -16044,7 +15680,6 @@ body was quite cold. Death was in the school-room, and Lugare had been
 flogging A CORPSE.
 
 -_Democratic Review, August, 1841._
-
 
 ONE WICKED IMPULSE
 
@@ -16363,7 +15998,6 @@ he is still living--and that this is but one of thousands of cases of
 unravel'd, unpunish'd crime--left, not to the tribunals of man, but to a
 wider power and judgment.
 
-
 THE LAST LOYALIST
 
 ["_She came to me last night, The floor gave back no tread_."] The story
@@ -16617,7 +16251,6 @@ had been left. They were pushing the keel from the landing--the stranger
 sprang--a space of two or three feet already intervened--he struck on
 the gunwale--and the Last Soldier of King George had left the American
 shores.
-
 
 WILD FRANK'S RETURN
 
@@ -16873,7 +16506,6 @@ fatal cord, dabbled over with gore. And as the mother gazed--for she
 could not withdraw her eyes--and the appalling truth came upon her mind,
 she sank down without shriek or utterance, into a deep, deathly swoon.
 
-
 THE BOY LOVER
 
 Listen, and the old will speak a chronicle for the young. Ah, youth!
@@ -17126,7 +16758,6 @@ the same untrembling fingers--him that seventh day saw a clay-cold
 corpse, carried to the repose of the churchyard. The shaft, rankling
 far down and within, wrought a poison too great for show, and the youth
 died.
-
 
 THE CHILD AND THE PROFLIGATE
 
@@ -17459,7 +17090,6 @@ time--and how, when in the course of seasons he became head of a family
 of his own, he would shudder at the remembrance of his early dangers and
 his escapes.
 
-
 LINGAVE'S TEMPTATION
 
 "Another day," utter'd the poet Lingave, as he awoke in the morning,
@@ -17629,7 +17259,6 @@ course, grown gray with unblench'd honor, bless God and die."
 When Lingave awoke the next morning, he despatch'd his answer to his
 wealthy friend, and then plodded on as in the days before.
 
-
 LITTLE JANE
 
 "Lift up!" was ejaculated as a signal! and click! went the glasses in
@@ -17741,7 +17370,6 @@ brother's, depositing the tiny volume there. Little Jane was dead.
 From that night, the young man stepped no more in his wild courses, but
 was reform'd.
 
-
 DUMB KATE
 
 Not many years since--and yet long enough to have been before the
@@ -17822,7 +17450,6 @@ some-times of a Sabbath afternoon, rambling over that gathering-place of
 the gone from earth, stop a while, and con over the dumb girl's hapless
 story.
 
-
 TALK TO AN ART-UNION
 
 _A Brooklyn fragment_
@@ -17856,7 +17483,6 @@ the altar of the loftiest and purest art. It is the school of all grand
 actions and grand virtues, of heroism, of the death of patriots and
 martyrs--of all the mighty deeds written in the pages of history--deeds
 of daring, and enthusiasm, devotion, and fortitude.
-
 
 BLOOD-MONEY
 
@@ -17908,7 +17534,6 @@ II
 
     PAUMANOK.
 
-
 WOUNDED IN THE HOUSE OF FRIENDS
 
 _"And one shall say unto him. What are these wounds in thy hands?
@@ -17950,7 +17575,6 @@ friends."--Zechariah, xiii. 6._
     That nursing babes need hardly cry the less for--
     Are they to be our tokens always?
 
-
 SAILING THE MISSISSIPPI AT MIDNIGHT
 
     Vast and starless, the pall of heaven
@@ -17988,19 +17612,11 @@ SAILING THE MISSISSIPPI AT MIDNIGHT
     Bewitching your craft with safety and sweetness,
       Then, young pilot of life, beware.
 
-
-
-
-
 NOVEMBER BOUGHS
-
-
-
 
 OUR EMINENT VISITORS
 
 _Past, Present and Future_
-
 
 Welcome to them each and all! They do good--the deepest, widest, most
 needed good--though quite certainly not in the ways attempted--which
@@ -18152,11 +17768,7 @@ Hugo--or Thomas Carlyle. Castelar, Tennyson, any of the two or three
 great Parisian essayists--were they and we to come face to face, how is
 it possible but that the right understanding would ensue?
 
-
-
-
 THE BIBLE AS POETRY
-
 
 I suppose one cannot at this day say anything new, from a literary point
 of view, about those autochthonic bequests of Asia--the Hebrew Bible,
@@ -18293,11 +17905,7 @@ and all between, holding together, like the apparition of the sky,
 and coming to us the same. Even to our Nineteenth Century here are the
 fountain heads of song.
 
-
-
-
 FATHER TAYLOR (AND ORATORY)
-
 
 I have never heard but one essentially perfect orator--one who satisfied
 those depths of the emotional nature that in most cases go through
@@ -18413,12 +18021,7 @@ whole scene there--the prone ship in the gale, and dashing wave and foam
 for background--in the little old sea-church in Boston, those summer
 Sundays just before the secession war broke out.
 
-
-
-
 THE SPANISH ELEMENT IN OUR NATIONALITY
-
-
 
 [Our friends at Santa Fe, New Mexico, have just finish'd their
 long-drawn-out anniversary of the 333d year of the settlement of their
@@ -18498,11 +18101,7 @@ Very respectfully, &c.,
 
 WALT WHITMAN.
 
-
-
-
 WHAT LURKS BEHIND SHAKSPERE'S HISTORICAL PLAYS
-
 
 We all know how much _mythus_ there is in the Shakspere question as it
 stands to-day. Beneath a few foundations of proved facts are
@@ -18594,11 +18193,7 @@ Whether such was the unconscious, or (as I think likely) the more
 or less conscious, purpose of him who fashion'd those marvellous
 architectonics, is a secondary question.
 
-
-
-
 A THOUGHT ON SHAKSPERE
-
 
 The most distinctive poems--the most permanently rooted and with
 heartiest reason for being--the copious cycle of Arthurian legends, or
@@ -18672,11 +18267,7 @@ solution of any deep problem, or any completed statement of the moral,
 the true, the beautiful, eludes the greatest, deftest poet--flies away
 like an always uncaught bird.
 
-
-
-
 ROBERT BURNS AS POET AND PERSON
-
 
 What the future will decide about Robert Burns and his works--what place
 will be assign'd them on that great roster of geniuses and genius which
@@ -18982,7 +18573,6 @@ life, the aforesaid "odd-kind chiel" remains to my heart and brain as
 almost the tenderest, manliest, and (even if contradictory) dearest
 flesh-and-blood figure in all the streams and clusters of by-gone poets.
 
-
 Notes:
 
 [39] Probably no man that ever lived--a friend has made the
@@ -19016,11 +18606,7 @@ lie a collie dog, a broad bonnet half covering a well-thumb'd song-book,
 and a rustic flageolet. The costume is taken from the Nasmyth portrait,
 which has been follow'd for the features of the face.
 
-
-
-
 A WORD ABOUT TENNYSON
-
 
 Beautiful as the song was, the original "Locksley Hall" of half a
 century ago was essentially morbid, heart-broken, finding fault with
@@ -19149,11 +18735,7 @@ farmer's house and miner's cabin.
 Best thanks, anyhow, to Alfred Tennyson--thanks and appreciation in
 America's name.
 
-
-
-
 SLANG IN AMERICA
-
 
 View'd freely, the English language is the accretion and growth of every
 dialect, race, and range of time, and is both the free and compacted
@@ -19344,11 +18926,7 @@ perennial body of bodies. And slang not only brings the first feeders
 of it, but is afterward the start of fancy, imagination and humor,
 breathing into its nostrils the breath of life.
 
-
-
-
 AN INDIAN BUREAU REMINISCENCE
-
 
 After the close of the secession war in 1865, I work'd several months
 (until Mr. Harlan turn'd me out for having written "Leaves of Grass") in
@@ -19472,11 +19050,7 @@ An Indian is only half an Indian without the blue-black hair and
 the brilliant eyes shining out of the wonderful dusky ochre and rose
 complexion."
 
-
-
-
 SOME DIARY NOTES AT RANDOM
-
 
 NEGRO SLAVES IN NEW YORK
 
@@ -19492,8 +19066,6 @@ last summer (1884,) at the age of ninety-four years. I remember "old
 Mose," one of the liberated West Hills slaves, well. He was very genial,
 correct, manly, and cute, and a great friend of my childhood.
 
-
-
 CANADA NIGHTS--_Late in August_--
 
 Three wondrous nights. Effects of moon, clouds, stars, and night-sheen,
@@ -19508,7 +19080,6 @@ bulging masses rolling along stately, sometimes in long procession.
 The moon travels in Scorpion to-night, and dims all the stars of that
 constellation except fiery Antares, who keeps on shining just to the big
 one's side.
-
 
 COUNTRY DAYS AND NIGHTS--
 
@@ -19544,7 +19115,6 @@ splendid, with full moon--about 10 the grandest of star-shows up in the
 east and south, Jupiter, Saturn, Capella, Aldebaran, and great Orion.
 Am feeling pretty well--am outdoors most of the time, absorbing the days
 and nights all I can.
-
 
 CENTRAL PARK NOTES
 
@@ -19583,7 +19153,6 @@ fence them off from "the common people"--were the heart's desire of the
 So much for my police friend's speculations--which rather took me
 aback--and which I have thought I would just print as he gave them (as a
 doctor records symptoms.)
-
 
 PLATE GLASS NOTES
 
@@ -19643,13 +19212,9 @@ aurora borealis, only more vivid. (So that--remembering the Pot from the
 crystal furnace--my jaunt seem'd to give me new revelations in the color
 line.)
 
-
-
-
 SOME WAR MEMORANDA
 
 _Jotted Down at the Time_
-
 
 I find this incident in my notes (I suppose from "chinning" in hospital
 with some sick or wounded soldier who knew of it):
@@ -19665,7 +19230,6 @@ fine bands, and order'd them up immediately; they join'd and play'd
 to inspire, not to unnerve. Every man seem'd a giant. They charged like
 a cyclone, and cut their way out. Their loss was but 20. It was about
 two in the afternoon.
-
 
 WASHINGTON STREET SCENES
 
@@ -19694,7 +19258,6 @@ ambulances conveying wounded--the many officers' horses tied in front
 of the drinking or oyster saloons, or held by black men or boys, or
 orderlies.
 
-
 THE 195TH PENNSYLVANIA
 
 _Tuesday, Aug. 1, 1865_.--About 3 o'clock this afternoon (sun broiling
@@ -19713,7 +19276,6 @@ great, must be the State where such young farmers and mechanics are
 the practical average. I went around for half an hour and talk'd with
 several of them, sometimes squatting down with the groups.
 
-
 LEFT-HAND WRITING BY SOLDIERS
 
 _April 30, 1866_.--Here is a single significant fact, from which one may
@@ -19731,7 +19293,6 @@ specimens are written in a beautiful manner. All are good. The writing
 in nearly all cases slants backward instead of forward. One piece of
 writing, from a soldier who had lost both arms, was made by holding the
 pen in his mouth.
-
 
 CENTRAL VIRGINIA IN '64
 
@@ -19770,7 +19331,6 @@ pens of cattle. The teamsters have camps of their own, and I go often
 among them. The officers occasionally invite me to dinner or supper at
 headquarters. The fare is plain, but you get something good to drink,
 and plenty of it. Gen. Meade is absent; Sedgwick is in command.
-
 
 PAYING THE 1ST U. S. C. T.
 
@@ -19884,11 +19444,7 @@ wildness, and stopt in this solitary spot. A water snake wriggles down
 the bank, disturb'd, into the water. The bank near by is fringed with a
 dense growth of shrubbery, vines, &c.
 
-
-
-
 FIVE THOUSAND POEMS
-
 
 There have been collected in a cluster nearly five thousand big and
 little American poems--all that diligent and long-continued research
@@ -19928,14 +19484,9 @@ globe itself, compact and orbic and whole. Nature seems to sow countless
 seeds--makes incessant crude attempts--thankful to get now and then,
 even at rare and long intervals, something approximately good.
 
-
-
-
 THE OLD BOWERY
 
-
 _A Reminiscence of New York Plays and Acting Fifty Years Ago_
-
 
 In an article not long since, "Mrs. Siddons as Lady Macbeth," in "The
 Nineteenth Century," after describing the bitter regretfulness to
@@ -20189,11 +19740,7 @@ though those brilliant years had many fine and even magnificent actors,
 undoubtedly at Booth's death (in 1852) went the last and by far the
 noblest Roman of them all.
 
-
-
-
 NOTES TO LATE ENGLISH BOOKS
-
 
 PREFACE TO THE READER IN THE BRITISH ISLANDS--"Specimen Days in
 America"
@@ -20224,7 +19771,6 @@ goes, to the simple experience and association of your soul, from a
 comrade soul;--and that also, in the volume, as below any page of mine,
 anywhere, ever remains, for seen or unseen basis-phrase, GOOD-WILL
 BETWEEN THE COMMON PEOPLE OF ALL NATIONS.
-
 
 ADDITIONAL NOTE, 1887
 
@@ -20276,7 +19822,6 @@ to-day indebted to such help for my very sustenance, clothing, shelter,
 and continuity. And I would not go to the grave without briefly, but
 plainly, as I here do, acknowledging--may I not say even glorying in it?
 
-
 PREFACE TO "DEMOCRATIC VISTAS" WITH OTHER PAPERS--_English Edition_
 
 Mainly I think I should base the request to weigh the following pages on
@@ -20321,19 +19866,13 @@ WALT WHITMAN,
 
 CAMDEN, NEW JERSEY, _April, 1888_.
 
-
-
 Note:
 
 [41] We who, in many departments, ways, make _the building up of the
 masses,_ by _building up grand individuals_, our shibboleth: and in
 brief that is the marrow of this book.
 
-
-
-
 ABRAHAM LINCOLN
-
 
 Glad am I to give--were anything better lacking--even the most brief
 and shorn testimony of Abraham Lincoln. Everything I heard about him
@@ -20453,10 +19992,6 @@ Union, (the only thing like passion or infatuation in the man was the
 passion for the Union of These States,) Abraham Lincoln seems to me
 the grandest figure yet, on all the crowded canvas of the Nineteenth
 Century.
-
-
-
-
 
 NEW ORLEANS IN 1848
 
@@ -20669,13 +20204,9 @@ safely in New York that evening.
 
 _From the New Orleans Picayune, Jan. 25, 1887._
 
-
-
-
 SMALL MEMORANDA
 
 _Thousands lost--here one or two preserv'd_
-
 
 ATTORNEY GENERAL'S OFFICE, _Washington, Aug. 22, 1865_.--As I write
 this, about noon, the suite of rooms here is fill'd with Southerners,
@@ -20730,7 +20261,6 @@ element of the North, to make the right of negro voting at elections a
 condition and sine qua non of the reconstruction of the United States
 south, and of their resumption of co-equality in the Union.
 
-
 A GLINT INSIDE OF ABRAHAM LINCOLN'S CABINET APPOINTMENTS. ONE ITEM OF
 MANY.
 
@@ -20772,7 +20302,6 @@ too great a body to be slighted. They have stood by the government, and
 help'd us their very best. I have had no better friends; and as the case
 stands, I have decided to appoint Mr. Harlan."
 
-
 NOTE TO A FRIEND
 
 [_Written on the fly-leaf of a copy of_ Specimen Days, _sent to Peter
@@ -20794,7 +20323,6 @@ never will.
 
 W.W.
 
-
 WRITTEN IMPROMPTU IN AN ALBUM
 
 _Germantown, Phila., Dec. 26, '83_. In memory of these merry Christmas
@@ -20804,7 +20332,6 @@ and keeping us in. But souls, hearts, thoughts, unloos'd. And so--one
 and all, little and big--hav'n't we had a good time?
 
 W.W.
-
 
 THE PLACE GRATITUDE FILLS IN A FINE CHARACTER
 
@@ -20836,13 +20363,9 @@ would quite lack vitality without it. There are people--shall I call
 them even religious people, as things go?--who have no such trend to
 their disposition."
 
-
-
-
 LAST OF THE WAR CASES
 
 _Memorandized at the time, Washington, 1865-'66_
-
 
 [Of reminiscences of the secession war, after the rest is said, I have
 thought it remains to give a few special words--in some respects at the
@@ -21205,13 +20728,9 @@ The time was signalized by the _separation_ of the society of Friends,
 so greatly talked of--and continuing yet--but so little really
 explain'd. (All I give of this separation is in a Note following.)
 
-
-
-
 Notes (_such as they are) founded on_
 
 ELIAS HICKS
-
 
 _Prefatory Note_--As myself a little boy hearing so much of E.H., at
 that time, long ago, in Suffolk and Queens and Kings counties--and more
@@ -22064,7 +21583,6 @@ bright lexicon we give the spreading heavens, they have not even names.
 Amid ceaseless sophistications all times, the soul would seem to glance
 yearningly around for such contrasts--such cool, still offsets.
 
-
 Notes:
 
 [42]In Walter Scott's reminiscences he speaks of Burns as having the
@@ -22087,7 +21605,6 @@ ever-waiting, ever-responding to universal truths.--He was fond of pithy
 proverbs. He said, "It matters not where you live, but how you live."
 He said once to my father, "They talk of the devil--I tell thee, Walter,
 there is no worse devil than man."
-
 
 GEORGE FOX (AND SHAKSPERE)
 
@@ -22252,13 +21769,7 @@ and up to the light that was in him, the man Elias Hicks--as the man
 George Fox had done years before him--lived long, and died, faithful in
 life, and faithful in death.
 
-
-
-
-
 GOOD-BYE MY FANCY
-
-
 
 AN OLD MAN'S REJOINDER
 
@@ -22376,7 +21887,6 @@ The font is about the same forever. Democratic art results of democratic
 development, from tinge, true nationality, belief, in the one setting up
 from it.
 
-
 Note:
 
 [44] Two new volumes, "Essays Speculative and Suggestive," by John
@@ -22384,7 +21894,6 @@ Addington Symonds. One of the Essays is on "Democratic Art," in which I
 and my books are largely alluded to and cited and dissected. It is
 this part of the vols. that has caused the off-hand lines above--(first
 thanking Mr. S. for his invariable courtesy of personal treatment).
-
 
 OLD POETS
 
@@ -22565,7 +22074,6 @@ America seek successfully to tune any superb national song unless the
 heart-strings of the people start it from their own breasts--to be
 return'd and echoed there again.
 
-
 SHIP AHOY
 
     In dreams I was a ship, and sail'd the boundless seas,
@@ -22575,7 +22083,6 @@ SHIP AHOY
     "Ship ahoy!" thro' trumpet or by voice--if nothing more, some
       friendly merry word at least,
     For companionship and good will for ever to all and each.
-
 
 FOR QUEEN VICTORIA'S BIRTHDAY
 
@@ -22587,7 +22094,6 @@ from the scented soil's May-utterance here, (Smelling of countless
 blessings, prayers, and old-time thanks,)[45] A bunch of white and pink
 arbutus, silent, spicy, shy, From Hudson's, Delaware's, or Potomac's
 woody banks.
-
 
 Note:
 
@@ -22611,13 +22117,9 @@ doings of that period, from foreign potentates and powers, might well be
 dropt in oblivion by America--but never _this_, if I could have my way.
 W. W.
 
-
-
-
 AMERICAN NATIONAL LITERATURE
 
 _Is there any such thing--or can there ever be?_
-
 
 So you want an essay about American National Literature, (tremendous
 and fearful subject!) do you?[46] Well, if you will let me put down some
@@ -22857,15 +22359,12 @@ been, and should be; as, for the present, it must be. To all which
 we conclude, and repeat the terrible query: American National
 Literature--is there distinctively any such thing, or can there ever be?
 
-
 Note:
 
 [46] The essay was for the _North American Review_, in answer to the
 formal request of the editor. It appear'd in March, 1891.
 
-
 GATHERING THE CORN
-
 
 _Last of October_.--Now mellow, crisp, Autumn days, bright moonlight
 nights, and gathering the corn--"cutting up," as the farmers call it.
@@ -22940,14 +22439,9 @@ with Jupiter lording it over westward; sulky Saturn in the east, and
 over head the moon. A rare well-shadow'd hour! By no means the least of
 the eligibilities of the gather'd corn!
 
-
-
-
-
 A DEATH-BOUQUET
 
 _Pick'd Noontime, early January, 1890_
-
 
 Death--too great a subject to be treated so--indeed the greatest
 subject--and yet I am giving you but a few random lines about it--as one
@@ -23024,12 +22518,7 @@ threadbare:
     To port and hawser's tie no more returning,
     Depart upon thy endless cruise, old Sailor!
 
-
-
-
-
 SOME LAGGARDS YET
-
 
 THE PERFECT HUMAN VOICE
 
@@ -23060,7 +22549,6 @@ the best philosophy and poetry, or something like the best, after all
 these centuries, perhaps waits to be rous'd out yet, or suggested, by
 the perfect physiological human voice.
 
-
 SHAKSPERE FOR AMERICA
 
 Let me send you a supplementary word to that "view" of Shakspere
@@ -23088,11 +22576,9 @@ so expanded and color'd and vivified the comprehension of the term,
 that it is quite a different one from the past. Then science, the final
 critic of all, has the casting vote for future poetry.
 
-
 Note:
 
 [47] This bit was in "Poet-lore" monthly for September, 1890.
-
 
 "UNASSAIL'D RENOWN"
 
@@ -23123,7 +22609,6 @@ other writers of only one or two pieces,) deserve in my opinion an
 equally high niche of renown as belongs to any on the dozen of that
 glorious list.
 
-
 INSCRIPTION FOR A LITTLE BOOK ON GIORDANO BRUNO
 
 As America's mental courage (the thought comes to me to-day) is so
@@ -23135,7 +22620,6 @@ Giordano Bruno may well be put, to-day and to come, in our New World's
 thankfulest heart and memory.
 
 W.W. CAMDEN, NEW JERSEY, _February 24th, 1890_.
-
 
 SPLINTERS
 
@@ -23171,7 +22655,6 @@ or forgotten. But the amount of the whole matter--poems, preface and
 everything--is merely to make one of those little punctures or eyelets
 the actors possess in the theatre-curtains to look out upon "the
 house"--one brief, honest, living glance.
-
 
 HEALTH, (OLD STYLE)
 
@@ -23258,7 +22741,6 @@ quite a glaring contrast to my present bodily state:)
     Then let me, Lord of Mountains, share with thee
       The hard, the early toil--the relaxation sweet.
 
-
 GAY-HEARTEDNESS
 
 Walking on the old Navy Yard bridge, Washington, D. C., once with a
@@ -23275,14 +22757,12 @@ really GAY-HEARTED MAN."
 It was a terrible criticism--cut into me like a surgeon's lance. Made me
 silent the whole walk home.
 
-
 AS IN A SWOON.
 
     As in a swoon, one instant,
     Another sun, ineffable, full-dazzles me,
     And all the orbs I knew--and brighter, unknown orbs;
     One instant of the future land, Heaven's land.
-
 
 L. OF G.
 
@@ -23298,23 +22778,17 @@ L. OF G.
       temper'd;
     Each right and wish by other wishes, rights.
 
-
 AFTER THE ARGUMENT.
 
     A group of little children with their ways and chatter flow in,
     Like welcome rippling water o'er my heated nerves and flesh.
-
 
 FOR US TWO, READER DEAR.
 
     Simple, spontaneous, curious, two souls interchanging,
     With the original testimony for us continued to the last.
 
-
-
-
 MEMORANDA
-
 
 [Let me indeed turn upon myself a little of the light I have been so
 fond of casting on others.
@@ -23344,7 +22818,6 @@ powers and decay may contribute too, have produced it.
 And now as from some fisherman's net hauling all sorts, and disbursing
 the same.]
 
-
 A WORLD'S SHOW
 
 _New York, Great Exposition open'd in 1853._--I went a long time (nearly
@@ -23357,7 +22830,6 @@ rest, Thorwaldsen's "Apostles," colossal in size--and very many fine
 bronzes, pieces of plate from English silversmiths, and curios from
 everywhere abroad--with woods from all lands of the earth--all sorts of
 fabrics and products and handiwork from the workers of all nations.
-
 
 NEW YORK--THE BAY--THE OLD NAME
 
@@ -23407,7 +22879,6 @@ how beautiful! how aboriginal! how it seems to rise with tall spires,
 glistening in sunshine, with such New World atmosphere, vista and
 action!
 
-
 A SICK SPELL
 
 _Christmas Day, 25th Dec., 1888_.--Am somewhat easier and freer to-day
@@ -23419,7 +22890,6 @@ Edward Wilkins my help and nurse. A fine, splendid, sunny day. My
 "November Boughs" is printed and out; and my "Complete Works, Poems and
 Prose," a big volume, 900 pages, also. It is ab't noon, and I sit here
 pretty comfortable.
-
 
 TO BE PRESENT ONLY
 
@@ -23436,7 +22906,6 @@ Deeply acknowledging this deep compliment, with my best respects and
 love to you personally--to Camden--to New-Jersey, and to all represented
 here--you must excuse me from any word further.
 
-
 "INTESTINAL AGITATION"
 
 _From Pall-Mall Gazette, London, England, Feb 8, 1890_ Mr. Ernest
@@ -23452,7 +22921,6 @@ all over her vast demesnes (intestinal agitation I call it,) talking,
 plodding, making money, every one trying to get on--perhaps to get
 towards the top--but no special individual signalism--(just as well, I
 guess.)
-
 
 "WALT WHITMAN'S LAST 'PUBLIC'"
 
@@ -23505,7 +22973,6 @@ beard and moustache, and look'd as though he might weigh two hundred
 pounds. He had to be help'd and led every step. In five weeks more he
 will begin his seventy-second year. He is still writing a little.
 
-
 INGERSOLL'S SPEECH
 
 _From the Camden Post, N.J., June 2, 1890_ _He attends and makes a
@@ -23557,7 +23024,6 @@ purpose in it all?"
 
 Colonel Ingersoll repeated his former argument in reply.
 
-
 FEELING FAIRLY
 
 _Friday, July 27, 1890_.--Feeling fairly these days, and even
@@ -23570,7 +23036,6 @@ sent by mail by W. S. K. and wife, Mass.) are in a glass of water on the
 table before me.
 
 Am now in my 72d year.
-
 
 OLD BROOKLYN DAYS
 
@@ -23605,7 +23070,6 @@ years old, press'd me a moment to his breast--gave me a kiss and set me
 down in a safe spot. Lafayette was at that time between sixty-five and
 seventy years of age, with a manly figure and a kind face.
 
-
 TWO QUESTIONS
 
 An editor of (or in) a leading monthly magazine ("Harper's Monthly,"
@@ -23629,7 +23093,6 @@ _June, '90_.--The----rejects and sends back my little poem, so I am now
 set out in the cold by every big magazine and publisher, and may as well
 understand and admit it--which is just as well, for I find I am palpably
 losing my sight and ratiocination.
-
 
 PREFACE
 
@@ -23711,14 +23174,12 @@ hopeful, full of fight like a perfect knight of chivalry. For he was a
 born sample here in the 19th century of the flower and symbol of olden
 time first-class knighthood. Thrice blessed be his memory! W. W.
 
-
 Note: [48] Born Jan. 2d, 1832. When grown, lived several years in
 Boston, and edited journals and magazines there--went about 1861 to
 Washington, D. C., and became a U.S. clerk, first in the Light-House
 Bureau, and then in the U.S. Life-Saving Service, in which branch he was
 Assistant Superintendent for many years--sicken'd in 1887--died there at
 Washington, May 9th, 1889.
-
 
 AN ENGINEER'S OBITUARY
 
@@ -23780,7 +23241,6 @@ from Cairo to New Orleans.]
 God's blessing on your name and memory, dear brother Jeff!
 
 W. W.
-
 
 OLD ACTORS, SINGERS, SHOWS, &C., IN NEW YORK
 
@@ -23984,7 +23444,6 @@ gesticulating, singing, reciting his or her part--But then sooner or
 later inevitably wending to the flies or exit door--vanishing to sight
 and ear--and never materializing on this earth's stage again!
 
-
 SOME PERSONAL AND OLD-AGE JOTTINGS
 
 Anything like unmitigated acceptance of my "Leaves of Grass" book, and
@@ -24180,7 +23639,6 @@ in conclusion, a special, prayerful, thankful God's blessing to my dear
 firm friends and personal helpers, men and women, home and foreign, old
 and young.
 
-
 OUT IN THE OPEN AGAIN
 
 _From the Camden Post, April 16, '91_.
@@ -24191,7 +23649,6 @@ imprisonment in his sick room. He has had the worst winter yet, mainly
 from grippe and gastric troubles, and threaten'd blindness; but keeps
 good spirits, and has a new little forthcoming book in the printer's
 hands.
-
 
 AMERICA'S BULK AVERAGE
 
@@ -24234,7 +23691,6 @@ and personality of the bulk, the People _en masse_.... I am not sure but
 my main and chief however indefinite claim for any page of mine w'd be
 its derivation, or seeking to derive itself, f'm that average quality of
 the American bulk, the people, and getting back to it again.
-
 
 LAST SAVED ITEMS
 
@@ -24300,12 +23756,7 @@ enough to weary myself--and I will dispatch it to the printers, and
 cease. But how much--how many topics, of the greatest pointand cogency,
 I am leaving untouch'd!
 
-
-
-
 WALT WHITMAN'S LAST [49]
-
-
 
 _Good-Bye my Fancy_.--concluding Annex to _Leaves of Grass_.
 
@@ -24344,7 +23795,6 @@ respects the most curious part of its author's baffling works.
 
 _Walt Whitman_.
 
-
 Note:
 
 [49] Published in _Lippincott's Magazine_, August, 1891, with the
@@ -24364,14 +23814,5 @@ Whitman consented to write the above. As a concise explanation of the
 poet's life-work it must have great value to his readers and admirers.
 After the critics 'have ciphered and ciphered out long,' they will
 probably have nothing better to say."
-
-
-
-
-
-
-
-
-
 
 End of the Project Gutenberg EBook of Complete Prose Works, by Walt Whitman

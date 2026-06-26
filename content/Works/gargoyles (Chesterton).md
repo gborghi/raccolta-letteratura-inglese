@@ -52,7 +52,6 @@ and passed into some symbolic reverie of the three great stages of art.
 
 I
 
-
 Once upon a time there lived upon an island a merry and innocent people,
 mostly shepherds and tillers of the earth.  They were republicans,
 like all primitive and simple souls; they talked over their affairs
@@ -86,7 +85,6 @@ and caught again as a child catches a ball.
 of the sun."
 
 II
-
 
 But about this time the island was caught in a swarm of pirates;
 and the shepherds had to turn themselves into rude warriors and seamen;
@@ -131,7 +129,6 @@ living and religious gesture as a man lifts his hands in prayer.
 
 III
 
-
 But this great plan was never properly completed.  The people had brought
 up on great wagons the heavy tortoise roof and the huge necks of stone,
 and all the thousand and one oddities that made up that unity,
@@ -156,7 +153,6 @@ into a passion of applause and cried, "This is real art!
 This is Realism!  This is things as they really are!"
 
 * * * *
-
 
 That, I fancy is the only true origin of Realism.  Realism is
 simply Romanticism that has lost its reason.
@@ -198,9 +194,3 @@ I have to carve the gargoyles, because I can carve nothing else;
 I leave to others the angels and the arches and the spires.
 But I am very sure of the style of the architecture and of
 the consecration of the church.
-
-
-
-
-
-===== FINE FILE: gargoyles.txt =====

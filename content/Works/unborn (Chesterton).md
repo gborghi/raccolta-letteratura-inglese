@@ -33,8 +33,6 @@ tags:
 
                         by G.K. Chesterton  
 
-
-
                 If trees were tall and grasses short,  
                   As in some crazy tale,  
                 If here and there a sea were blue  
@@ -63,8 +61,4 @@ tags:
                 They should not hear a word from me  
                   Of selfishness or scorn,  
                 If only I could find the door,  
-                  If only I were born.  
-
-
-
-===== FINE FILE: unborn.txt =====  
+                  If only I were born.

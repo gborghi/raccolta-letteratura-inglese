@@ -155,6 +155,3 @@ the unconscious man with the ass's head is no bad type of the people.
 Materialistic philosophers and mechanical politicians have certainly
 succeeded in some cases in giving him a greater unity.  The only
 question is, to which animal has he been thus successfully conformed?
-
-
-===== FINE FILE: midsummer_nights_dream.txt =====

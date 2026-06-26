@@ -36,14 +36,12 @@ tags:
 
 To St. Michael in Time of Peace  
 
-
 Michael, Michael: Michael of the Morning,  
 Michael of the Army of the Lord,  
 Stiffen thou the hand upon the still sword, Michael,  
 Folded and shut upon the sheathed sword, Michael,  
 Under the fullness of the white robes falling,  
 Gird us with the secret of the sword.  
-
 
 When the world cracked because of a sneer in heaven,  
 Leaving out for all time a scar upon the sky,  
@@ -54,7 +52,6 @@ Down the seven heavens till the dark seas burn:
 Thou that in thunder threwest down the Dragon  
 Knowest in what silence the Serpent can return.  
 
-
 Down through the universe the vast night falling  
 (Michael, Michael: Michael of the Morning!)  
 Far down the universe the deep calms calling  
@@ -63,7 +60,6 @@ Bid us not forget in the baths of all forgetfulness,
 In the sigh long drawn from the frenzy and the fretfulness  
 In the huge holy sempiternal silence  
 In the beginning was the Word.  
-
 
 When from the deeps of dying God astounded  
 Angels and devils who do all but die  
@@ -74,7 +70,6 @@ Waiting the Tetelestai and the acclaim,
 Swords that salute Him dead and everlasting  
 God beyond God and greater than His Name.  
 
-
 Round us and over us the cold thoughts creeping  
 (Michael, Michael: Michael of the battle-cry!)  
 Round us and under us the thronged world sleeping  
@@ -83,7 +78,6 @@ Guard us the Word; the trysting and the trusting
 Edge upon the honour and the blade unrusting  
 Fine as the hair and tauter than the harpstring  
 Ready as when it rang upon the targe.  
-
 
 He that giveth peace unto us; not as the world giveth:  
 He that giveth law unto us; not as the scribes:  
@@ -94,14 +88,9 @@ Break man with famine, fetter them with gold,
 Sell them as sheep; and He shall know the selling  
 For He was more than murdered. He was sold.  
 
-
 Michael, Michael: Michael of the Mustering,  
 Michael of the marching on the mountains of the Lord,  
 Marshal the world and purge of rot and riot  
 Rule through the world till all the world be quiet:  
 Only establish when the world is broken  
-What is unbroken is the word.  
-
-
-
-===== FINE FILE: to_st_michael.txt =====  
+What is unbroken is the word.

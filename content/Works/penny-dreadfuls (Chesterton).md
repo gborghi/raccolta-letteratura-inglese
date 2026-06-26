@@ -35,7 +35,6 @@ G.K. Chesterton
 (From "The Defendant" published in "The Wayfarer's Library"
 by J. M. Dent and Sons Ltd, London, 1901)
 
-
 One of the strangest examples of the degree to which ordinary
 life is undervalued is the example of popular literature,
 the vast mass of which we contentedly describe as vulgar.
@@ -228,7 +227,3 @@ will always be a "blood and thunder" literature, as simple
 as the thunder of heaven and the blood of men.
 
 [Scanned by Georges Allaire (gall@globetrotter.net)]
-
-
-
-===== FINE FILE: penny-dreadfuls.txt =====

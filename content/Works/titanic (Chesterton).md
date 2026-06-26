@@ -39,10 +39,7 @@ G.K.Chesterton
 
 May 11, 1912
 
-
-
 The Illustrated London News
-
 
 The tragedy of the great shipwreck is too terrific for any
 analogies of mere fancy.  But the analogy which springs to the mind
@@ -163,7 +160,3 @@ a kindness that was entirely universal.  His death may well
 become a legend.
 
 G. K. Chesterton
-
-
-
-===== FINE FILE: titanic.txt =====

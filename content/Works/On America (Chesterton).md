@@ -162,9 +162,3 @@ That combination of ideal democracy with real chivalry was a
 particular blend for which the world was immeasurably the better;
 and for the loss of which it is immeasurably the worse.
 It may never be recovered; but it will certainly be missed.
-
-
-
-
-
-===== FINE FILE: On_America.txt =====

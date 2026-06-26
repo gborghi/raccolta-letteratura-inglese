@@ -80,7 +80,6 @@ tags:
 - [Story 39 On The True Artist](/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_39_On_The_True_Artist)
 - [Story 40 On The Essay](/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_40_On_The_Essay)
 
-
 ## Testo integrale / Full text
 
 The Glass Walking Stick
@@ -88,9 +87,6 @@ The Glass Walking Stick
 Selections from the Illustrated London News
 
 by G.K.Chesterton.
-
-
-
 
 The Glass Walking-Stick. 1905
 
@@ -171,11 +167,6 @@ To Praise, Exalt, Establish, and Defend.  1933
 On the True Artist.  1926
 
 On the Essay.  1929
-
-
-
-
-
 
 THE GLASS WALKING-STICK
 
@@ -278,8 +269,6 @@ When we have given up valuing life for every other reason,
 we can still value it, like the glass stick, as a curiosity.
 For the universe is like the glass stick in this, at any rate;
 it is unique.
-
-
 
 HISTORY IN STONE
 
@@ -411,8 +400,6 @@ in history with the vivid, though visible, thoughts of the men
 that worked there; otherwise it will be like watching men
 dancing and not hearing the tune.
 
-
-
 THE OLD NURSE
 
 I WAS recently reading a very interesting study which set my
@@ -502,8 +489,6 @@ Educational English; to that world of words in which men wrote,
 `Hast thou not a blessing for me, O my father?' or, `The smell
 of my son is as the smell of a field that the Lord has blessed.'
 Or in which men said, `Unto us a Child is born.'
-
-
 
 PLAYING WITH AN IDEA
 
@@ -623,8 +608,6 @@ to create strange things and still to be independent of them.
 Learn to suggest a thing, to urge it, to prove it, and still
 to disbelieve it.  For the very few things that are really
 worth believing are not worth proving.
-
-
 
 THE WALKING PARADOX
 
@@ -759,8 +742,6 @@ has remained very invincible in his own kitchen garden by dint of knowing
 how many beans make five.  But it takes all sorts to make a world;
 and France has not produced Shakespeare or a nonsense rhyme.
 
-
-
 THE COLOUR OF SPAIN
 
 IT is to be hoped that people will realize that Spain is not so
@@ -890,8 +871,6 @@ just as the people of that southern land have always known,
 in dress and decoration, how a great blot of black brings out
 their crimson and their gold.
 
-
-
 THE TRADITION OF TOLEDO
 
 ONE of the first impressions created by a visit to Spain, in,
@@ -973,8 +952,6 @@ That world is now very wide awake; and if the cathedral of Toledo was not
 merely modelled on a mosque even when the world was swept by the Moslem,
 it is now even less likely that featureless mosques will be the only
 churches of the future.
-
-
 
 TOM JONES AND THE ESCORIAL
 
@@ -1113,8 +1090,6 @@ to remind us that Spain is the home of the picaresque romance,
 or rambling comedy, and is not as gloomy as the Escorial,
 but as jolly as Tom Jones.
 
-
-
 POETRY IN ACTION
 
 IF I were asked why I think our whole industrial society is cursed
@@ -1233,8 +1208,6 @@ I do not want it to copy Spain and the Three Kings, or to copy
 Scandinavia and St Nicolas, or to copy any particular local ritual.
 But why can it never invent anything of its own?
 I have long paused for a reply.
-
-
 
 THE ROMANCE OF HISTORY
 
@@ -1383,8 +1356,6 @@ just offered to die in honour--all the coincidences that would
 be called crude and far-fetched in a story.  They are the fancies
 that are considered a little too romantic for historical fiction.
 They are also the only fixed facts of history.
-
-
 
 THE HERALDIC LION
 
@@ -1538,8 +1509,6 @@ Instead of employing the hippopotamus to illustrate their philosophy,
 they employ the hippopotamus to make their philosophy, and the great
 fat books he writes you and I, please God, will never read.
 
-
-
 THE COURT OF CAMELOT
 
 SOMEBODY recently asked me what I meant by a reference to the myth
@@ -1672,8 +1641,6 @@ have groped for an understanding of the old Roman system.
 And it is natural that the last monuments of it should have
 appeared enormous in the twilight; and one of these monuments
 was the memory of Arthur.
-
-
 
 WOLFE AND THE MIDSHIPMAN
 
@@ -1814,8 +1781,6 @@ person in whom we are interested at all.  Therefore, of course,
 the popular narrator said `midshipman', simply because one can
 say `midshipman' quicker than one can say `Jack Robinson'
 or `Jack Robison'.
-
-
 
 ABOUT CHRISTIANITY
 
@@ -2077,8 +2042,6 @@ the most merciful and it is on the whole the most strong.
 For the mind that can imagine sufferings is the same that can
 imagine a new gun.
 
-
-
 THE NATIONAL ANTHEM
 
 I SEE that there is a movement in many influential quarters
@@ -2186,8 +2149,6 @@ It is the only verse that begins with something like fine
 Biblical diction, as of a whirlwind rising.  It is the only
 verse that ends with a universal and democratic benediction.
 I do not wonder that the Moderns want it removed.
-
-
 
 KING GEORGE IV
 
@@ -2617,8 +2578,6 @@ If these are not enough, if it is not found sufficient for Europe
 to have a healthy convention, then Europe must once more have a creed.
 The coming of the creed will be a terrible business.
 
-
-
 KING GEORGE V
 
 THE passing of King George the Fifth from the scene of his labours,
@@ -2752,8 +2711,6 @@ of the world; and in one or two cases, such as King George's,
 it can be added that it could hardly be lived anywhere more simply,
 or with less evil of pride.
 
-
-
 ON LYING IN STATE
 
 BEFORE the funeral of that good and faithful servant who had
@@ -2865,8 +2822,6 @@ of personally offering petitions when he was alive.
 It was the idea that the palace was not merely a private house;
 that it was, in fact, the public's house.  It was a house
 where the doors stood open.  The people owned the King.
-
-
 
 THE ALPHABET OF GIANTS
 
@@ -2990,8 +2945,6 @@ and perhaps that also might be seen better in a smaller
 space or on a smaller model.  But for that we must wait for
 another exhibition--not of the Empire, but of the English story;
 and perhaps it may be even more enlightening.
-
-
 
 BAROQUE AND GOTHIC ARCHITECTURE
 
@@ -3123,8 +3076,6 @@ something of the magnificence of the legend of Louis, just as he will
 feel something of the magnificence of the legend of Elizabeth.
 You can not understand France without one, or England without the other--
 or Europe without both.
-
-
 
 ROBERT BRUCE AND HIS AGE
 
@@ -3268,8 +3219,6 @@ And some of the thanks we give to the great heart that fell
 in ashes at Rouen.  I will not withhold from that much faultier
 heart that Douglas flung among the Moors.
 
-
-
 WHAT MIGHT HAVE BEEN
 
 THE test of a man's culture and liberality is his attitude towards
@@ -3392,8 +3341,6 @@ and then, finding the changes he saw so different from the changes
 he desired, would not have the book translated into English.
 Utopia is not at the beginning of the world or the end of the world.
 Utopia has been something always near and never discovered.
-
-
 
 THE AGE OF REASON
 
@@ -3645,8 +3592,6 @@ in the independent citizen who is ready to resist it,
 who in this respect is much more like the Stoic and Tribune
 admired by the Fathers of the Republic.
 
-
-
 THE VICTORIANS
 
 I HAVE been wandering about in the South of France,
@@ -3758,8 +3703,6 @@ The Victorian Age was really a violent collision and struggle;
 a meeting-place of two furious onslaughts, but so interlocked
 and straining, that at this distance from it, it seems to
 be standing still.
-
-
 
 THE NATIONAL SPIRIT
 
@@ -3895,8 +3838,6 @@ ourselves from freedom.  We shall not now return to a merely
 heathen hilarity, for the new heathenism is any thing but hilarious.
 If we do not recover Christmas, we shall never recover Yule.
 
-
-
 THE RIGHTS OF RITUAL
 
 ST AUGUSTINE, if I remember right, said, among many other shrewd
@@ -4024,8 +3965,6 @@ and when we have understood it we may understand why the great
 voice that said of old upon the mountain `Blessed are the poor,'
 added but a moment afterwards:  `Blessed are ye that mourn.'
 
-
-
 THE INSIDE OF LIFE
 
 THE news that some Europeans have been wrecked on a desert island
@@ -4150,8 +4089,6 @@ I do not affirm that the experiment would succeed, but I think
 the impulse to do it is at the root of all the tradition
 of the poetry of wrecks and islands.
 
-
-
 TRICKS OF MEMORY
 
 THERE are many books which we think we have read when we have not.
@@ -4266,8 +4203,6 @@ but is true of the permanent problem of your conscience and mine.
 If I get drunk I shall forget dignity; but if I keep sober I may
 still desire drink.  Virtue has the heavy burden of knowledge;
 sin has often something of the levity of sinlessness.
-
-
 
 THE CODE NAPOLEON
 
@@ -4429,8 +4364,6 @@ of that society, we shall be wise to understand it better.
 The men who are professing to reconcile all nations do not attempt
 to understand it at all.
 
-
-
 CYRANO AND CHANTECLER
 
 I HEAR that an attack is being made by some of the French
@@ -4550,8 +4483,6 @@ to be the Roman Eagle; she has claimed the eagle and earned it.
 But she has always gone back on herself to the admission that she
 is not the eagle, but the cock.
 
-
-
 PASSING THROUGH THE CUSTOMS
 
 THE more a man thinks and travels, the more plainly it will appear
@@ -4621,8 +4552,6 @@ as if it were the greatest joke in the world that the ordinary train
 should come in at the ordinary place.  German officials stare at you.
 French officials scowl at you.  English officials wink at you.
 But they all pass the luggage.
-
-
 
 HIS SIGH IS A HULLABALLOO
 
@@ -4728,8 +4657,6 @@ Few have loved liberty so much as the English;
 none has understood fraternity so well as the Russians.
 Both have still to grasp the real meaning of equality--
 that mankind has been made by men.
-
-
 
 THE NARROWNESS OF NOVELTY
 
@@ -4864,8 +4791,6 @@ For poets are not stale; it is only critics who are stale;
 often excusably enough, but even then they need not brag
 of their own staleness.
 
-
-
 THE MERITS OF SHAKESPEARE'S PLOTS
 
 I SEE that Mr John M. Robertson has written a book about
@@ -4976,8 +4901,6 @@ Only the prodigious events of yesterday have brought
 us back, half-bewildered, into the footsteps of our fathers;
 and the vision of John of Gaunt was fulfilled in the hour
 when a great English soldier entered Jerusalem on foot.
-
-
 
 A PLEA FOR THE HEROIC COUPLET
 
@@ -5128,8 +5051,6 @@ down and write in rhymed decasyllabics, or some other old form;
 and will observe all the old rules and preserve all the old unities--
 and say all he has to say and hardly know that he has done it.
 
-
-
 TO PRAISE, EXALT, ESTABLISH, AND DEFEND
 
 THERE is a big blank in the cleverest contemporary literature;
@@ -5266,8 +5187,6 @@ can make you defend it.  `To praise, exalt, establish, and defend';
 I do not apologize for repeating the words; for they are much needed
 in these times.
 
-
-
 ON THE TRUE ARTIST
 
 IT has lately been noted that the artists who started with entirely
@@ -5372,8 +5291,6 @@ be interesting if they had the power of arousing our interest.
 But the moment of creation is the moment of communication.
 It is when the work has passed from mind to mind that it becomes
 a work of art.
-
-
 
 ON THE ESSAY
 
@@ -5501,11 +5418,3 @@ in the theses of a medieval schoolman, he would have had to think
 much more clearly and make up his mind much more decisively.
 I will leave the last word with the essayist; and admit that I am
 not sure whether he would have written such good essays.
-
-
-
-
-
-
-
-===== FINE FILE: The_Glass_Walking_Stick.txt =====

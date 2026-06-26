@@ -33,7 +33,6 @@ The Horrible History of Jones
 
 by G.K.Chesterton  
 
-
 Jones had a dog; it had a chain;  
 Not often worn, not causing pain;  
 But, as the I.K.L. had passed  
@@ -90,15 +89,7 @@ Where Freedom slowly broadened down
 From Precedent to Precedent.  
 And this, I think, was what he meant.  
 
-
-
-
-
 Note:  Tennyson lived on the Isle of Wight for the last 40  
 years of his life.  The lines "A land ... precedent' are from  
 Tennyson's "You Ask Me, Why, Tho' Ill at Ease"  
-(see http://eir.library.utoronto.ca/rpo/display/poem2192.html)  
-
-
-
-===== FINE FILE: Jones.txt =====  
+(see http://eir.library.utoronto.ca/rpo/display/poem2192.html)

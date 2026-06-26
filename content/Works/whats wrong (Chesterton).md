@@ -53,7 +53,6 @@ tags:
 - [Chapter 09](/Testi/Chesterton/Atomized/whats_wrong/Chapter_09)
 - [Chapter 10](/Testi/Chesterton/Atomized/whats_wrong/Chapter_10)
 
-
 ## Testo integrale / Full text
 
 WHAT'S WRONG WITH THE WORLD
@@ -1070,7 +1069,6 @@ is full of these unfulfilled ideas, these uncompleted temples.
 History does not consist of completed and crumbling ruins; rather it
 consists of half-built villas abandoned by a bankrupt-builder. This
 world is more like an unfinished suburb than a deserted cemetery.
-
 
 * * *
 
@@ -3191,7 +3189,6 @@ But when men wish to be safely impressive, as judges,
 priests or kings, they do wear skirts, the long, trailing robes
 of female dignity The whole world is under petticoat government;
 for even men wear petticoats when they wish to govern.
-
 
 * * *
 
@@ -6055,8 +6052,3 @@ and that I dislike Socialism because it will (according to Socialists)
 be so like that shop.  It is its fulfilment, not its reversal.
 I do not object to Socialism because it will revolutionize our commerce,
 but because it will leave it so horribly the same.
-
-
-
-
-===== FINE FILE: whats_wrong.txt =====

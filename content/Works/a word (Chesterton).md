@@ -96,8 +96,4 @@ The riddle of the want and wage, the fogs that burn and choke.
 The breaking of the girths of gold, the needs that creep and swell,  
 The strengthening hope, the dazing light, the deafening evangel,  
 Through kingdoms dead and empires damned, through changes without cease,  
-With earthquake, chaos, born and fed, rose,--and the word was "Peace."  
-
-
-
-===== FINE FILE: a_word.txt =====  
+With earthquake, chaos, born and fed, rose,--and the word was "Peace."

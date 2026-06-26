@@ -828,17 +828,4 @@ critical study (1926); W. J. Carlton, Charles Dickens, Shorthand Writer
 (1926); P. Delattre, Dickens et la France (1927); see also G. E. B. 
 Saintsbury, Dickens, Chap. X., Vol. XIII., Cambs. Hist. Mod. Lit. 
 
-
-
 Copyright (c) 1997 Encyclopaedia Britannica, Inc.  All Rights Reserved
-
-
-
-
-
-
-
-
-
-
-===== FINE FILE: dickens_Britannica.txt =====

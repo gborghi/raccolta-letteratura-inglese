@@ -35,8 +35,6 @@ tags:
 The Terror of a Toy, "Fancies versus Fads", New York, Dodd, Mead
 and company, 1923, pages 105 through 110.
 
-
-
 The Terror of a Toy
 
 It would be too high and hopeful a compliment to say that the world
@@ -167,9 +165,3 @@ are simply the poetry without the prose; the good without the evil.
 The toy sword is the abstraction and the emanation of the heroic,
 apart from all its horrible accidents.  It is the soul of the sword,
 that will never be stained with blood.
-
-
-
-
-
-===== FINE FILE: The_Terror_of_a_Toy.txt =====

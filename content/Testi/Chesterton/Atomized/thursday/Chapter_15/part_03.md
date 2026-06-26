@@ -54,7 +54,6 @@ a distant voice saying a commonplace text that he had heard somewhere,
 
                          *    *    *
 
-
 When men in books awake from a vision, they commonly find
 themselves in some place in which they might have fallen asleep;
 they yawn in a chair, or lift themselves with bruised limbs
@@ -89,12 +88,6 @@ with the great unconscious gravity of a girl.
 
                            THE END
 
-
-
-
-
-
-
       A WILD, MAD, HILARIOUS AND PROFOUNDLY MOVING TALE
 
                    THE MAN WHO WAS THURSDAY
@@ -102,7 +95,6 @@ with the great unconscious gravity of a girl.
                       by G. K. Chesterton
 
               author of the Father Brown stories
-
 
 It is very difficult to classify THE MAN WHO WAS THURSDAY.  It is possible
 to say that it is a gripping adventure story of murderous criminals
@@ -119,7 +111,3 @@ unforeseeable denouement will prove for the modern reader, as it has
 for thousands of others since 1908 when the book was first published,
 an inevitable and moving experience, as the investigators finally
 discover who Sunday is.
-
-
-
-===== FINE FILE: thursday.txt =====

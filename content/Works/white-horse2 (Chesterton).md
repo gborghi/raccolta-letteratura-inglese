@@ -61,8 +61,6 @@ By G.K. Chesterton
 
 Many thanks to Paul Bonner of the Herald-Sun for typing this poem.  
 
-
-
 Prefatory Note  
 
 This ballad needs no historical notes, for the simple reason  
@@ -123,11 +121,7 @@ it telescopes history.
 
 G.K.C.  
 
-
-
 DEDICATION  
-
-
 
 Of great limbs gone to chaos,  
 A great face turned to night--  
@@ -239,13 +233,9 @@ With Westland king and Westland saint,
 And watched the western glory faint  
 Along the road to Frome.  
 
-
-
 BOOK I  
 
 THE VISION OF THE KING  
-
-
 
 Before the gods that made the gods  
 Had seen their sunrise pass,  
@@ -343,7 +333,6 @@ And for one hour of panting peace,
 Ringed with a roar that would not cease,  
 With golden crown and girded fleece  
 Made laws under a tree.  
-
 
 The Northmen came about our land  
 A Christless chivalry:  
@@ -582,13 +571,9 @@ Singing what shameful things are done
 Between the sunlit sea and the sun  
 When the land is left behind.  
 
-
-
 BOOK II  
 
 THE GATHERING OF THE CHIEFS  
-
-
 
 Up across windy wastes and up  
 Went Alfred over the shaws,  
@@ -925,13 +910,9 @@ And Alfred strode off rapidly,
 And Colan of the Sacred Tree  
 Went slowly to his cave.  
 
-
-
 BOOK III  
 
 THE HARP OF ALFRED  
-
-
 
 In a tree that yawned and twisted  
 The King's few goods were flung,  
@@ -1396,13 +1377,9 @@ Stood up and ceased his song;
 And the owls moaned from the mighty trees,  
 And the Danes laughed loud and long.  
 
-
-
 BOOK IV  
 
 THE WOMAN IN THE FOREST  
-
-
 
 Thick thunder of the snorting swine,  
 Enormous in the gloam,  
@@ -1772,13 +1749,9 @@ More sweet for hate and for heart's desire,
 And up in the northern scrub and brier,  
 They fell upon the Dane.  
 
-
-
 BOOK V  
 
 ETHANDUNE: THE FIRST STROKE  
-
-
 
 King Guthrum was a dread king,  
 Like death out of the north;  
@@ -2140,13 +2113,9 @@ As in monk's rhyme or wizard's rune,
 Beginneth the battle of Ethandune  
 With the throwing of the sword.  
 
-
-
 BOOK VI  
 
 ETHANDUNE: THE SLAYING OF THE CHIEFS  
-
-
 
 As the sea flooding the flat sands  
 Flew on the sea-born horde,  
@@ -2510,13 +2479,9 @@ Dead Roland on a doubtful horn,
 Seemed unto Alfred lightly borne  
 The last cry of the Gael.  
 
-
-
 BOOK VIII  
 
 ETHANDUNE: THE LAST CHARGE  
-
-
 
 Away in the waste of White Horse Down  
 An idle child alone  
@@ -2961,13 +2926,9 @@ The blood ran down for days,
 When we put the cross on Guthrum  
 In the parting of the ways.  
 
-
-
 BOOK VIII  
 
 THE SCOURING OF THE HORSE  
-
-
 
 In the years of the peace of Wessex,  
 When the good King sat at home;  
@@ -3410,8 +3371,4 @@ In the eastern plains for crown
 Stood up in the pale purple sky  
 One turret of smoke like ivory;  
 And the smoke changed and the wind went by,  
-And the King took London Town.  
-
-
-
-===== FINE FILE: white-horse2.txt =====  
+And the King took London Town.

@@ -77,7 +77,6 @@ WHERE IS THE PARADOX?
 
 -/-
 
-
 INTRODUCTORY NOTE
 
 I WAS monstrously attracted by a suggestion that these
@@ -5096,7 +5095,6 @@ without thinking of the Continents."
 
 -----
 
-
 -/-
 
 FROZEN FREE THOUGHT
@@ -6988,7 +6986,3 @@ the silent aggression and enslavement by modern monopoly;
 and who thanked me with only too much of the truly English generosity,
 for exposing the wrongs they endure with only too much
 of the truly English good humour.
-
-
-
-===== FINE FILE: Well_And_Shallows.txt =====

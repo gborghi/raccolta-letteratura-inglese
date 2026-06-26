@@ -53,7 +53,6 @@ tags:
 - [Chapter 02](/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_02)
 - [Chapter 03](/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_03)
 
-
 ## Testo integrale / Full text
 
 ALARMS AND DISCURSIONS
@@ -5267,7 +5266,3 @@ This mysterious marshland does not sustain me, and I sink into its
 depths with a bubbling groan.
 
 -/-
-
-
-
-===== FINE FILE: alarms_and_discursions.txt =====

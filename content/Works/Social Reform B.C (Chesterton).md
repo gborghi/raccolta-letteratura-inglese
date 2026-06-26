@@ -319,7 +319,3 @@ children but can manage each other's. But I think it indicates
 an abyss between natural and unnatural arrangements which would
 have to be bridged before we approached what is supposed to be
 the subject of discussion.
-
-
-
-===== FINE FILE: Social_Reform_B.C.txt =====

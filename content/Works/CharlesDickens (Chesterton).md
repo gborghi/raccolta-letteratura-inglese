@@ -54,7 +54,6 @@ tags:
 - [Chapter 14](/Testi/Chesterton/Atomized/CharlesDickens/Chapter_14)
 - [Chapter 15](/Testi/Chesterton/Atomized/CharlesDickens/Chapter_15)
 
-
 ## Testo integrale / Full text
 
 ----------------------------------------------------------------------------
@@ -6423,6 +6422,3 @@ of the world.
                                                             on 6 July 1998.)
 
 ----------------------------------------------------------------------------
-
-
-===== FINE FILE: CharlesDickens.txt =====

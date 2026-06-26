@@ -17,8 +17,6 @@ The Project Gutenberg EBook of Appreciations and Criticisms of the Works
 
 of Charles Dickens, by G. K. Chesterton
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -27,39 +25,17 @@ re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
 
-
-
-
-
 Title: Appreciations and Criticisms of the Works of Charles Dickens
-
-
 
 Author: G. K. Chesterton
 
-
-
 Release Date: August 20, 2007 [EBook #22362]
-
-
 
 Language: English
 
-
-
 Character set encoding: ISO-8859-1
 
-
-
 *** START OF THIS PROJECT GUTENBERG EBOOK DICKENS ***
-
-
-
-
-
-
-
-
 
 Produced by Sigal Alon, LN Yaddanapudi and the Online
 
@@ -69,69 +45,29 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-
-
-
-
-
-
-
-
-
-
-
-
   [Illustration: Charles Dickens, Circa 1840
 
   From an oil painting by R. J. Lane.]
 
-
-
 APPRECIATIONS AND CRITICISMS OF THE WORKS OF CHARLES DICKENS
-
-
 
 BY
 
-
-
 G. K. CHESTERTON
-
-
 
 [Illustration]
 
-
-
 1911
-
-
 
 LONDON: J. M. DENT & SONS, LTD.
 
 NEW YORK: E. P. DUTTON & CO.
 
-
-
 _All rights reserved_
-
-
-
-
-
-
-
-
 
 CONTENTS
 
-
-
-
-
   CHAPTER                             PAGE
-
-
 
      I. INTRODUCTION                   vii
 
@@ -181,29 +117,13 @@ CONTENTS
 
    XXIV. REPRINTED PIECES              239
 
-
-
-
-
-
-
-
-
 ILLUSTRATIONS
 
-
-
-
-
                                                                     PAGE
-
-
 
   CHARLES DICKENS, CIRCA 1840                             _Frontispiece_
 
     From an oil painting by R. J. Lane.
-
-
 
   CHARLES DICKENS, 1842                                               76
 
@@ -211,55 +131,31 @@ ILLUSTRATIONS
 
     first visit to America.
 
-
-
   CHARLES DICKENS, 1844                                               90
 
     From a miniature by Margaret Gillies.
-
-
 
   CHARLES DICKENS, 1849                                              130
 
     From a daguerreotype by Mayall.
 
-
-
   CHARLES DICKENS, 1858                                              184
 
     From a black and white drawing by Baughiet.
-
-
 
   CHARLES DICKENS, 1859                                              188
 
     From an oil painting by W. P. Frith, R.A.
 
-
-
   CHARLES DICKENS, CIRCA 1860                                        198
 
     Photograph by J. & C. Watkins.
-
-
 
   CHARLES DICKENS, 1868                                              218
 
     From a photograph by Gurney.
 
-
-
-
-
-
-
-
-
 INTRODUCTION
-
-
-
-
 
 These papers were originally published as prefaces to the separate books
 
@@ -283,8 +179,6 @@ say it. I will make another attempt to do so in this prologue, and,
 
 possibly fail again.
 
-
-
 There was a painful moment (somewhere about the eighties) when we
 
 watched anxiously to see whether Dickens was fading from the modern
@@ -307,13 +201,9 @@ of the poetic. Again and again when the man of visions was pinned by the
 
 sly dog who knows the world,
 
-
-
     "The man recovered of the bite,
 
     The dog it was that died."
-
-
 
 To call Thackeray a cynic, which means a sly dog, was indeed absurd; but
 
@@ -365,8 +255,6 @@ gentleman. A gentleman in our time has become something quite
 
 indescribable.
 
-
-
 Now the interesting fact is this: That Dickens, whom so many considered
 
 to be at the best a vulgar enthusiast, saw the coming change in our
@@ -413,8 +301,6 @@ them from mere freedom, as from some frightful foreign oppressor. He
 
 felt the society changing; and Thackeray never did.
 
-
-
 As talking about Socialism and Individualism is one of the greatest
 
 bores ever endured among men, I will take another instance to illustrate
@@ -458,8 +344,6 @@ nobler sort of Jew, such a man as Spinoza or Mr. Zangwill. He is simply
 a public apology, and like most public apologies, he is very stiff and
 
 not very convincing.
-
-
 
 So far so good. Now we come to the funny part. To describe the high
 
@@ -521,8 +405,6 @@ to be a Jew, amidst all that crowd of clever Jews who are pretending to
 
 be Englishmen.
 
-
-
 But this notion of a sneer is not admissible. Dickens was far too frank
 
 and generous a writer to employ such an elaborate plot of silence. His
@@ -563,8 +445,6 @@ like Dickens. Jews cannot be sneaks and snobs, because when they are
 
 sneaks and snobs they do not admit that they are Jews.
 
-
-
 I have taken this case of the growth of the cosmopolitan financier,
 
 because it is not so stale in discussion as its parallel, the growth of
@@ -596,8 +476,6 @@ It was largely in the hands of a feverish and unfamiliar type, like
 Lammle and Veneering. The fact that he felt these things is almost more
 
 impressive because he did not understand them.
-
-
 
 Now for this reason Dickens must definitely be considered in the light
 
@@ -687,8 +565,6 @@ even essentially reliable, if we suppose him to have known not only all
 
 that went before his lifetime, but also all that was to come after.
 
-
-
 From this vanishing of the Victorian compromise (I might say the
 
 Victorian illusion) there begins to emerge a menacing and even monstrous
@@ -757,8 +633,6 @@ Dickens characters, for the simple reason that Dickens was himself one
 
 of the democracy.
 
-
-
 There remains one thing to be added to this attempt to exhibit Dickens
 
 in the growing and changing lights of our time. God forbid that any one
@@ -774,8 +648,6 @@ and numbers, but on Bob Sawyer and Tim Linkinwater, on Mrs. Lirriper and
 Dr. Marigold. I wish Mr. Sidney Webb would shut his eyes until he _sees_
 
 Sam Weller.
-
-
 
 A great many circumstances have led to the neglect in literature of
 
@@ -865,13 +737,7 @@ conservative than the modern sociologists, in some ways much more
 
 revolutionary.
 
-
-
-
-
 LITTLE DORRIT
-
-
 
 In the time of the decline and death of Dickens, and even more strongly
 
@@ -889,13 +755,7 @@ was more likely to perceive the truth when in low spirits than when in
 
 high spirits.
 
-
-
-
-
 REPRINTED PIECES
-
-
 
 The three articles on Sunday of which I speak are almost the last
 
@@ -937,8 +797,6 @@ Puritans first really triumphed in the twentieth century, and that
 
 Dickens was the last cry of Merry England.
 
-
-
 And about these additional, miscellaneous, and even inferior works of
 
 Dickens there is, moreover, another use and fascination which all
@@ -969,13 +827,7 @@ fairy library flourishes and increases like a fairy forest: but the
 
 world is listening to us, and we will put our hand upon our mouth.
 
-
-
-
-
 OUR MUTUAL FRIEND
-
-
 
 One thing at least seems certain. Dickens may or may not have been
 
@@ -1017,8 +869,6 @@ to him we do not give him a spade. We compel Sambo to cook; but we
 
 consult his dignity so far as to refuse him a fire.
 
-
-
 This state of things at least cannot conceivably endure. We must either
 
 give the workers more property and liberty, or we must feed them
@@ -1044,8 +894,6 @@ sleep and a sleep. It can be said that between the grey past of
 territorial depression and the grey future of economic routine the
 
 strange clouds lifted, and we beheld the land of the living.
-
-
 
 Lastly, Dickens is even astonishingly right about Eugene Wrayburne. So
 
@@ -1079,13 +927,7 @@ indicating that the only cure for this intellectual condition is a
 
 violent blow on the head.
 
-
-
-
-
 DAVID COPPERFIELD
-
-
 
 The real achievement of the earlier part of _David Copperfield_ lies in
 
@@ -1123,13 +965,7 @@ the impression that as the boy grows larger these figures grow smaller,
 
 and are not perhaps so completely satisfactory.
 
-
-
-
-
 CHRISTMAS BOOKS
-
-
 
 And there is doubtless a certain poetic unity and irony in gathering
 
@@ -1163,8 +999,6 @@ sense that Providence is provident, but that should mean being kind, and
 
 certainly not merely being cold.
 
-
-
 _The Cricket on the Hearth_, though popular, I think, with many sections
 
 of the great army of Dickensians, cannot be spoken of in any such
@@ -1197,13 +1031,7 @@ sprouting upon the balcony of Miss Tox; and the great wind was rising
 
 that flung Mr. Pecksniff against his own front door.
 
-
-
-
-
 TALE OF TWO CITIES
-
-
 
 It was well for him, at any rate, that the people rose in France. It was
 
@@ -1225,13 +1053,7 @@ guillotine might be the best cure for many a London lawyer, I ask you to
 
 believe that I am not merely flippant. But you will not believe it.
 
-
-
-
-
 BARNABY RUDGE
-
-
 
 It may be said that there is no comparison between that explosive
 
@@ -1283,13 +1105,7 @@ extinguished as extended; and nearer home we may have boys being boys
 
 again, and in London the cry of "clubs."
 
-
-
-
-
 THE UNCOMMERCIAL TRAVELLER
-
-
 
 _The Uncommercial Traveller_ is a collection of Dickens's memories
 
@@ -1341,8 +1157,6 @@ fact even when he was most fanciful; and even when he drew the long bow
 
 he was careful to hit the white.
 
-
-
 This riotous realism of Dickens has its disadvantage--a disadvantage
 
 that comes out more clearly in these casual sketches than in his
@@ -1381,8 +1195,6 @@ Uncommercial Traveller might almost as well be a Commercial Traveller
 
 for all he knows of the countryside.
 
-
-
 An instance of what I mean may be found in the amusing article about the
 
 nightmares of the nursery. Superficially read it might almost be taken
@@ -1415,8 +1227,6 @@ that infernal refrain of "Mudstains, bloodstains" which Dickens himself,
 
 in one of his highest moments of hellish art, put into _Oliver Twist_.
 
-
-
 I take this one instance of the excellent article called "Nurse's
 
 Stories" because it is quite typical of all the rest. Dickens (accused
@@ -1447,19 +1257,7 @@ he himself thought his theories the more important, because he was a
 
 man.
 
-
-
-
-
-
-
-
-
 SKETCHES BY BOZ
-
-
-
-
 
 The greatest mystery about almost any great writer is why he was ever
 
@@ -1526,8 +1324,6 @@ Nevertheless there was some potential clumsiness and silliness in
 Dickens; and what there is of it appears here and there in the admirable
 
 _Sketches by Boz_.
-
-
 
 Perhaps we may put the matter this way: this is the only one of
 
@@ -1599,8 +1395,6 @@ story about it: that it is not finished. But if the last book is
 
 unfinished, the first book is more unfinished still.
 
-
-
 The _Sketches_ divide themselves, of course, into two broad classes. One
 
 half consists of sketches that are truly and in the strict sense
@@ -1646,8 +1440,6 @@ Imperialist press. Still these first efforts of his are journalism, and
 sometimes vulgar journalism. It was as a journalist that he attacked the
 
 world, as a journalist that he conquered it.
-
-
 
 The biographical circumstances will not, of course, be forgotten. The
 
@@ -1731,8 +1523,6 @@ youth. It was about this time at any rate that he decided to publish
 
 them, and gave them the name of _Sketches by Boz_.
 
-
-
 They must, I think, be read in the light of this youthful explosion. In
 
 some psychological sense he had really been wronged. But he had only
@@ -1770,8 +1560,6 @@ ignorant and more cocksure than so great a man should be. Dickens was
 never stupid, but he was sometimes silly; and he is occasionally silly
 
 here.
-
-
 
 All this must be said to prepare the more fastidious modern for these
 
@@ -1865,8 +1653,6 @@ is funny. We cannot tell why he is funny. When we know why he is funny
 
 we shall know why Dickens is great.
 
-
-
 Standing as we do here upon the threshold, as it were, of the work of
 
 Dickens, it may be well perhaps to state this truth as being, after all,
@@ -1941,8 +1727,6 @@ Dickens were copying the comic papers, whereas in truth the comic papers
 
 are still copying Dickens.
 
-
-
 Dickens showed himself to be an original man by always accepting old and
 
 established topics. There is no clearer sign of the absence of
@@ -1978,8 +1762,6 @@ farce is called _My Mother-in-law_. He may really have splendid and
 inspiring things to say upon an eternal problem. The whole question is
 
 whether he has.
-
-
 
 Now this is exactly where Dickens, and the possible mistake about
 
@@ -2027,19 +1809,7 @@ are low farces. Rather we must see that they are not low farces; and see
 
 that nobody but Dickens could have prevented them from being so.
 
-
-
-
-
-
-
-
-
 PICKWICK PAPERS
-
-
-
-
 
 There are those who deny with enthusiasm the existence of a God and are
 
@@ -2109,8 +1879,6 @@ existed when there was no need of judges, and mercy existed before any
 
 man was oppressed.
 
-
-
 However this may be in the matter of religion and philosophy, it can be
 
 said with little exaggeration that this truth is the very key of
@@ -2169,8 +1937,6 @@ important than either character or narrative. For a man knows what style
 
 of book he wants to write when he knows nothing else about it.
 
-
-
 _Pickwick_ is in Dickens's career the mere mass of light before the
 
 creation of sun or moon. It is the splendid, shapeless substance of
@@ -2223,8 +1989,6 @@ clamorous market-places, uproarious inns, strange and swaggering
 
 figures. That vision was _Pickwick_.
 
-
-
 It must be remembered that this is true even in connection with the
 
 man's contemporaneous biography. Apart from anything else about it,
@@ -2248,8 +2012,6 @@ book well. And he did prove this, at any rate. No one ever sent such a
 sample as the sample of Dickens. His roll of leather blocked up the
 
 street; his lump of coal set the Thames on fire.
-
-
 
 The book originated in the suggestion of a publisher; as many more good
 
@@ -2327,8 +2089,6 @@ chains. It may well be questioned whether his one hack book is not his
 
 masterpiece.
 
-
-
 Of course it is true that as he went on his independence increased, and
 
 he kicked quite free of the influences that had suggested his story. So
@@ -2397,8 +2157,6 @@ left out of the love affairs; therefore Mr. Tupman is left out of the
 
 book.
 
-
-
 Much of the change was due to the entrance of the greatest character in
 
 the story. It may seem strange at the first glance to say that Sam
@@ -2434,8 +2192,6 @@ the chief business of Dickens to preach throughout his life--something
 which he never preached so well as when he preached it unconsciously.
 
 Sam Weller introduces the English people.
-
-
 
 Sam Weller is the great symbol in English literature of the populace
 
@@ -2476,8 +2232,6 @@ satirist thought in terms of his highly-trained and traditional satire;
 while I, belonging to a duller and simpler class, expressed my feelings
 
 in words as innocent and literal as those of a rustic or a child.
-
-
 
 This eternal output of divine derision has never been so truly typified
 
@@ -2526,8 +2280,6 @@ type--the type which moderates and controls. Knowledge and innocence are
 both excellent things, and they are both very funny. But it is right
 
 that knowledge should be the servant and innocence the master.
-
-
 
 The sincerity of this study of Sam Weller has produced one particular
 
@@ -2583,8 +2335,6 @@ white-winged angel; he speaks to her with an admirable good nature and
 
 good sense:
 
-
-
      "'Susan,' I says, 'you've been a wery good vife to me altogether:
 
      keep a good heart, my dear, and you'll live to see me punch that
@@ -2592,8 +2342,6 @@ good sense:
      'ere Stiggins's 'ead yet.' She smiled at this, Samivel ... but she
 
      died arter all."
-
-
 
 That is perhaps the first and the last time that Dickens ever touched
 
@@ -2651,19 +2399,7 @@ over many wonderful kingdoms; the narrow pathos of _Pickwick_ he never
 
 found again.
 
-
-
-
-
-
-
-
-
 NICHOLAS NICKLEBY
-
-
-
-
 
 Romance is perhaps the highest point of human expression, except indeed
 
@@ -2720,8 +2456,6 @@ the full force of the meaning. To God a thousand years are not only a
 watch but an exciting watch. For God time goes at a gallop, as it does
 
 to a man reading a good tale.
-
-
 
 All this is, in a humble manner, true for romance. Romance is a
 
@@ -2817,8 +2551,6 @@ romance. In the second resort, in the last and worst resort, he was
 
 content to write one.
 
-
-
 Now there is a certain moment when this element enters independently
 
 into the life of Dickens. There is a particular time when we can see him
@@ -2840,8 +2572,6 @@ Dickens will either begin to write romances or go off on something
 different altogether. This crucial point in his life is marked by
 
 _Nicholas Nickleby_.
-
-
 
 It must be remembered that before this issue of _Nicholas Nickleby_ his
 
@@ -2899,8 +2629,6 @@ his bright sketches. _Oliver Twist_ may be called an extension of one of
 
 his gloomy ones.
 
-
-
 Had he continued along this line all his books might very well have been
 
 note-books. It would be very easy to split up all his subsequent books
@@ -2940,8 +2668,6 @@ the end some of his greatest triumphs. All his books might have been
 _Sketches by Boz_. But he did turn away from this, and the turning-point
 
 is _Nicholas Nickleby_.
-
-
 
 Everything has a supreme moment and is crucial; that is where our
 
@@ -3006,8 +2732,6 @@ gentleman before he went on to the boards of Mr. Vincent Crummles's
 theatre, and he remained the first walking gentleman after he had come
 
 off.
-
-
 
 Now this romantic method involves a certain element of climax which to
 
@@ -3079,8 +2803,6 @@ money; perhaps a commission to inquire into whether Mr. Vincent Crummles
 
 kept the Infant Phenomenon short by means of gin.
 
-
-
 If we wish to understand the spirit and the period of _Nicholas
 
 Nickleby_ we must endeavour to comprehend and to appreciate the old more
@@ -3127,8 +2849,6 @@ as it was, then they did not cry "Investigate!" They did not cry
 
 Nicholas Nickleby they cried "Stop!" And it did stop.
 
-
-
 This is the first mark of the purely romantic method: the swiftness and
 
 simplicity with which St. George kills the dragon. The second mark of it
@@ -3156,8 +2876,6 @@ is one real point where the Victorian romance falls below the
 Elizabethan romantic drama. Shakespeare always made his heroines heroic
 
 as well as his heroes.
-
-
 
 In Dickens's actual literary career it is this romantic quality in
 
@@ -3221,19 +2939,7 @@ ringing voice; because he was perhaps the only one of these unsuccessful
 
 men that was ever successful.
 
-
-
-
-
-
-
-
-
 OLIVER TWIST
-
-
-
-
 
 In considering Dickens, as we almost always must consider him, as a man
 
@@ -3281,8 +2987,6 @@ whole is transformed. If we want the best example of this, the best
 
 example is _Oliver Twist_.
 
-
-
 Relatively to the other works of Dickens _Oliver Twist_ is not of great
 
 value, but it is of great importance. Some parts of it are so crude and
@@ -3310,8 +3014,6 @@ its ugliness gives the last touch of honesty to all that spontaneous and
 splendid output. Without this one discordant note all his merriment
 
 might have seemed like levity.
-
-
 
 Dickens had just appeared upon the stage and set the whole world
 
@@ -3379,8 +3081,6 @@ festivity and fear. It is over the cups of Christmas Eve that men have
 
 always competed in telling ghost stories.
 
-
-
 This first element was present in Dickens, and it is very powerfully
 
 present in _Oliver Twist_. It had not been present with sufficient
@@ -3418,8 +3118,6 @@ Winkle's skates, it may very well be surprising to open it and read
 about the sickening thuds that beat out the life of Nancy, or that
 
 mysterious villain whose face was blasted with disease.
-
-
 
 As a nightmare, the work is really admirable. Characters which are not
 
@@ -3476,8 +3174,6 @@ The end of Bill Sikes exactly in the way that the law would have killed
 him--this is a Hogarthian incident; it carries on that tradition of
 
 startling and shocking platitude.
-
-
 
 All this element in the book was a sincere thing in the author, but none
 
@@ -3539,8 +3235,6 @@ this topic is; this third great subject of Dickens; this second great
 
 subject of the Dickens of _Oliver Twist_.
 
-
-
 This subject is social oppression. It is surely fair to say that no one
 
 could have gathered from _Pickwick_ how this question boiled in the
@@ -3574,8 +3268,6 @@ Dickens makes game of Mr. Bumble because he wants to kill Mr. Bumble; he
 made game of Mr. Winkle because he wanted him to live for ever. Dickens
 
 has taken the sword in hand; against what is he declaring war?
-
-
 
 It is just here that the greatness of Dickens comes in; it is just here
 
@@ -3628,8 +3320,6 @@ also a new poor law. In creating many other modern things they created
 the modern workhouse, and when Dickens came out to fight it was the
 
 first thing that he broke with his battle-axe.
-
-
 
 This is where Dickens's social revolt is of more value than mere
 
@@ -3733,8 +3423,6 @@ is also the beginning of all righteous indignation. He enters the
 
 workhouse just as Oliver Twist enters it, as a little child.
 
-
-
 This is the real power and pathos of that celebrated passage in the book
 
 which has passed into a proverb; but which has not lost its terrible
@@ -3795,19 +3483,7 @@ the one oppressed people that simply asked for justice; they were the
 
 one Parish Boy who innocently asked for more.
 
-
-
-
-
-
-
-
-
 OLD CURIOSITY SHOP
-
-
-
-
 
 Nothing is important except the fate of the soul; and literature is only
 
@@ -3875,8 +3551,6 @@ substance and spirit of Dickens might be gathered under the general
 
 title _Great Expectations_.
 
-
-
 In a recent criticism on this position I saw it remarked that all this
 
 is reading into Dickens something that he did not mean; and I have been
@@ -3910,8 +3584,6 @@ express. Either criticism is no good at all (a very defensible position)
 or else criticism means saying about an author the very things that
 
 would have made him jump out of his boots.
-
-
 
 Doubtless the name in this case _Great Expectations_ is an empty
 
@@ -3966,8 +3638,6 @@ have a real significance. They suggest the random richness of such
 meetings, and their uncalculated results. It makes the whole book a sort
 
 of splendid accident.
-
-
 
 It is not true, as is commonly said, that the Dickens pathos as pathos
 
@@ -4033,8 +3703,6 @@ objectionable. It is not the death of Little Nell, but the life of
 
 Little Nell, that I object to.
 
-
-
 In this, in the actual picture of her personality, if you can call it a
 
 personality, Dickens did fall into some of his facile vices. The real
@@ -4078,8 +3746,6 @@ sincere and the deliberate. There is a great difference between Dickens
 thinking about the tears of his characters and Dickens thinking about
 
 the tears of his audience.
-
-
 
 When all this is allowed, however, and the exaggerated contempt for the
 
@@ -4155,8 +3821,6 @@ bed and sees the Marchioness playing cribbage he thinks that he and she
 
 are a prince and princess in a fairy tale. He thinks right.
 
-
-
 I speak thus seriously of such characters with a deliberate purpose; for
 
 the frivolous characters of Dickens are taken much too frivolously. It
@@ -4225,8 +3889,6 @@ but tradesmen, have had the same idea. The excellent citizen from whom I
 
 ordered this beer inclines strongly to that opinion.'"
 
-
-
 This philosophical freedom from all resentment, this strange love of
 
 truth which seems actually to come through carelessness, is a very real
@@ -4258,8 +3920,6 @@ to close that to-night with a pair of gloves. He shuts up the street
 with a pair of gloves, but he does not shut up his mind with a secret.
 
 The traffic of truth is still kept open through his soul.
-
-
 
 It is exactly in these absurd characters, then, that we can find a mass
 
@@ -4294,8 +3954,6 @@ grave pages he tells us to love men; but in his wild pages he creates
 men whom we can love. By his solemnity he commands us to love our
 
 neighbours. By his caricature he makes us love them.
-
-
 
 There is an odd literary question which I wonder is not put more often
 
@@ -4421,8 +4079,6 @@ powers that be. It is a sound touch; it is a real truth about Kit. But
 
 Dickens did not know it. Mr. Chuckster did.
 
-
-
 Dickens's stories taken as a whole have more artistic unity than appears
 
 at the first glance. It is the immediate impulse of a modern critic to
@@ -4470,8 +4126,6 @@ even the riotous and absurd characters are a little touched with the
 tint of the whole story. But this neglected merit of Dickens can
 
 certainly be seen best in _The Old Curiosity Shop_.
-
-
 
 The curiosity shop itself was a lumber of grotesque and sinister things,
 
@@ -4523,19 +4177,7 @@ itself is always suicidal; he is that primordial energy which tears and
 
 which destroys itself.
 
-
-
-
-
-
-
-
-
 BARNABY RUDGE
-
-
-
-
 
 _Barnaby Rudge_ was written by Dickens in the spring and first flowing
 
@@ -4585,8 +4227,6 @@ no one else could have done, and yet he could not be certain as yet that
 
 he was anybody.
 
-
-
 _Barnaby Rudge_ marks this epoch because it marks the fact that he is
 
 still confused about what kind of person he is going to be. He has
@@ -4618,8 +4258,6 @@ commonly affect; an element which many men of infinitely less genius
 have often seemed to affect more successfully; I mean the element of the
 
 picturesque.
-
-
 
 It is the custom in many quarters to speak somewhat sneeringly of that
 
@@ -4703,8 +4341,6 @@ clad his doctor in crimson. It is the spirit which, while making many
 
 other things, loves to make a picture.
 
-
-
 Now the second thing to be remarked in apology for the picturesque is,
 
 that the very thing which makes it seem trivial ought really to make it
@@ -4749,8 +4385,6 @@ poet, it requires an ecstatic prophet, to talk about the lion lying down
 
 with the lamb.
 
-
-
 Dickens, at any rate, strongly supports this conception: that great
 
 literary men as such do not despise the purely pictorial. No man's works
@@ -4779,8 +4413,6 @@ picturesque. Generally it is an intellectual love of the comic; not a
 
 pure love of the grotesque.
 
-
-
 But in one book Dickens suddenly confesses that he likes the grotesque
 
 even without the comic. In one case he makes clear that he enjoys pure
@@ -4804,8 +4436,6 @@ laughter is not the object of Barnaby Rudge's oddities. His idiot
 costume and his ugly raven are used for the purpose of the pure
 
 grotesque; solely to make a certain kind of Gothic sketch.
-
-
 
 It is commonly this love of pictures that drives men back upon the
 
@@ -4877,8 +4507,6 @@ search of the picturesque. And from this fact an important result
 
 follows.
 
-
-
 The result that follows is this: that his only two historical novels are
 
 both tales of revolutions--of eighteenth-century revolutions. These two
@@ -4918,8 +4546,6 @@ the French Revolution, the link may be defined though not with any great
 adequacy. The nearest and truest way of stating it is that neither of
 
 the two could possibly happen in Fleet Street to-morrow evening.
-
-
 
 Another point of resemblance between the two books might be found in the
 
@@ -4993,8 +4619,6 @@ the glass. He was witty and could not even laugh at his own jokes.
 
 Dickens could never understand tedium.
 
-
-
 There is no mark more strange and perhaps sinister of the interesting
 
 and not very sane condition of our modern literature, than the fact that
@@ -5026,8 +4650,6 @@ there is a character meant to be wholly grotesque, who, nevertheless,
 expresses much of that element in Dickens which prevented him from being
 
 a true interpreter of the tired and sceptical aristocrat.
-
-
 
 Sim Tappertit is a fool, but a perfectly honourable fool. It requires
 
@@ -5069,27 +4691,13 @@ sick even of itself. Sim Tappertit rose against Mr. Chester; and, thank
 
 God! he put his foot upon his neck.
 
-
-
   [Illustration: Charles Dickens, 1842
 
   From a bust by H. Dexter, executed during Dickens's first visit to
 
   America.]
 
-
-
-
-
-
-
-
-
 AMERICAN NOTES
-
-
-
-
 
 _American Notes_ was written soon after Dickens had returned from his
 
@@ -5128,8 +4736,6 @@ him that an injury to him was something more than an injury: it was a
 shock. What was the exact nature of the American shock must, however, be
 
 more carefully stated.
-
-
 
 The famous quarrel between Dickens and America, which finds its most
 
@@ -5200,8 +4806,6 @@ have said, under all its bounce and independence, really regarded us as
 a mother country. This being the case it was possible for us to quarrel,
 
 like kinsmen. Now we only bow and smile, like strangers.
-
-
 
 This tone, as a sort of family responsibility, can be felt quite
 
@@ -5275,8 +4879,6 @@ to decay like a dead dog, he merely watched it at play like a kitten.
 
 France he mistook for a kitten. Italy he mistook for a dead dog.
 
-
-
 But with America he could feel--and fear. There he could hate, because
 
 he could love. There he could feel not the past alone nor the present,
@@ -5300,8 +4902,6 @@ the wrong one. The true patriot is always doubtful of victory; because
 he knows that he is dealing with a living thing; a thing with free will.
 
 To be certain of free will is to be uncertain of success.
-
-
 
 The subject matter of the real difference of opinion between Dickens and
 
@@ -5357,8 +4957,6 @@ remember again what has been already remarked--instinctively he paid
 
 America the compliment of looking at her as the future of democracy.
 
-
-
 The mistake which he attacked still exists. I cannot imagine why it is
 
 that social equality is somehow supposed to mean social familiarity. Why
@@ -5403,8 +5001,6 @@ once was specially democratic. That involved equality certainly, but it
 
 was lacking in respect.
 
-
-
 Dickens saw America as markedly the seat of this danger. He saw that
 
 there was a perilous possibility that republican ideals might be allied
@@ -5440,8 +5036,6 @@ to exalt it or to let it fall. In one of his gloomier moments he wrote
 down his fear that the greatest blow ever struck at liberty would be
 
 struck by America in the failure of her mission upon the earth.
-
-
 
 This brings us to the other ground of his alarm--the matter of liberty
 
@@ -5559,8 +5153,6 @@ may have found, like Dickens, some freedom of manners; he did not find
 
 much freedom of morals.
 
-
-
 Along with such American criticism should really go his very
 
 characteristic summary of the question of the Red Indian. It marks the
@@ -5619,19 +5211,7 @@ because they are nasty, or the humanitarian who cannot be just to them
 
 without pretending that they are nice.
 
-
-
-
-
-
-
-
-
 PICTURES FROM ITALY
-
-
-
-
 
 The _Pictures from Italy_ are excellent in themselves and excellent as a
 
@@ -5662,8 +5242,6 @@ the notes of a student or a professional witness. The _Pictures from
 Italy_ are only pictures from Italy, like the miscellaneous pictures
 
 that all tourists bring from Italy.
-
-
 
 To take another and perhaps closer figure of speech, almost all
 
@@ -5763,25 +5341,11 @@ frivolities and the most momentary jokes remaining like colossal rocks
 
 for ever.
 
-
-
   [Illustration: Charles Dickens, 1844
 
   From a miniature by Margaret Gillies.]
 
-
-
-
-
-
-
-
-
 MARTIN CHUZZLEWIT
-
-
-
-
 
 There is a certain quality or element which broods over the whole of
 
@@ -5864,8 +5428,6 @@ later years. He poured into this book genius that might make the
 mountains laugh, invention that juggled with the stars. But the book was
 
 sad; and he knew it.
-
-
 
 The just reason for this is really interesting. Yet it is one that is
 
@@ -5984,8 +5546,6 @@ ahead of the most audacious prophet. He sees where men's detached
 intellect will eventually lead them, and he tells them the name of the
 
 place--which is generally hell.
-
-
 
 Now of this detached and rational use of satire there is one great
 
@@ -6169,8 +5729,6 @@ opinion that had not a leg to stand on, and then giving it two legs to
 
 stand on.
 
-
-
 So much may be allowed; it may be admitted that Dickens is in this sense
 
 the great satirist, in that he can imagine absurd opinions walking by
@@ -6247,8 +5805,6 @@ probably best arrive at the solution of the particular emotional enigma
 
 of the novel called _Martin Chuzzlewit_.
 
-
-
 _Martin Chuzzlewit_ is, I think, vaguely unsatisfactory to the reader,
 
 vaguely sad and heavy even to the reader who loves Dickens, because in
@@ -6308,8 +5864,6 @@ popular on both counts. People liked to see him throw his money in the
 gutter. They also liked to see him throw himself there occasionally. In
 
 both acts they recognised a common quality of virtue.
-
-
 
 Now I think it is certainly the disadvantage of _Martin Chuzzlewit_ that
 
@@ -6389,19 +5943,7 @@ We dare not leave him thinking by the fire, for the thoughts of
 
 Pecksniff would be too frightful.
 
-
-
-
-
-
-
-
-
 CHRISTMAS BOOKS
-
-
-
-
 
 The mystery of Christmas is in a manner identical with the mystery of
 
@@ -6529,8 +6071,6 @@ what Dickens is--ask how this strange child of Christmas came to be born
 
 out of due time.
 
-
-
 Dickens devoted his genius in a somewhat special sense to the
 
 description of happiness. No other literary man of his eminence has made
@@ -6645,8 +6185,6 @@ celebrations of Christmas. In literature it has been struck chiefly in
 
 Dickens's Christmas tales.
 
-
-
 In the historic celebration of Christmas as it remains from Catholic
 
 times in certain northern countries (and it is to be remembered that in
@@ -6664,8 +6202,6 @@ notes of happiness, and which the pagans and the Utopians forget. If we
 state what they are in the case of Christmas, it will be quite
 
 sufficiently obvious how important they are in the case of Dickens.
-
-
 
 The first quality is what may be called the dramatic quality. The
 
@@ -6706,8 +6242,6 @@ happy. This is the first connecting link between literature and the old
 religious feast; this is the first connecting link between Dickens and
 
 Christmas.
-
-
 
 The second element to be found in all such festivity and all such
 
@@ -6769,8 +6303,6 @@ principal characters; he must always be snatching the hero and heroine
 
 like raisins out of the fire.
 
-
-
 The third great Christmas element is the element of the grotesque. The
 
 grotesque is the natural expression of joy; and all the Utopias and new
@@ -6801,8 +6333,6 @@ express the wild goodwill of Christmas. Those goblins are the characters
 
 of Dickens.
 
-
-
 Arcadian poets and Arcadian painters have striven to express happiness
 
 by means of beautiful figures. Dickens understood that happiness is best
@@ -6822,8 +6352,6 @@ Stiggins. A thing of beauty is an inspiration for ever--a matter of
 meditation for ever. It is rather a thing of ugliness that is strictly a
 
 joy for ever.
-
-
 
 All Dickens's books are Christmas books. But this is still truest of his
 
@@ -6867,8 +6395,6 @@ to it. That only means that Scrooge and Dickens represented a higher and
 
 more historic Christianity.
 
-
-
 Again, _The Christmas Carol_ owes much of its hilarity to our second
 
 source--the fact of its being a tale of winter and of a very wintry
@@ -6893,8 +6419,6 @@ monstrous bird is a good symbol of the top-heavy happiness of the
 
 stories.
 
-
-
 It is less profitable to criticise the other two tales in detail because
 
 they represent variations on the theme in two directions; and variations
@@ -6907,19 +6431,7 @@ anything, even peace, without wanting to be warlike about it. That was
 
 all as it should be.
 
-
-
-
-
-
-
-
-
 DOMBEY AND SON
-
-
-
-
 
 In Dickens's literary life _Dombey and Son_ represents a break so
 
@@ -6932,8 +6444,6 @@ say something of the previous character of Dickens's novels, and even
 something of the general character of novels in themselves. How
 
 essential this is we shall see shortly.
-
-
 
 It must first be remembered that the novel is the most typical of modern
 
@@ -7015,8 +6525,6 @@ In short, our age is a sort of splendid jungle in which some of the most
 
 towering weeds and blossoms have come from the smallest seed.
 
-
-
 And this is, generally speaking, the explanation of the novel. The novel
 
 is not so much the filling up of an artistic plan, however new or
@@ -7054,8 +6562,6 @@ words in every novel. But whether or no this is possible, there is no
 doubt that the principle in question is of great importance in the case
 
 of Dickens, and especially in the case of _Dombey and Son_.
-
-
 
 In all the Dickens novels can be seen, so to speak, the original thing
 
@@ -7152,8 +6658,6 @@ constructor of fiction in the serious sense. Before _Dombey and Son_
 even his pathos had been really frivolous. After _Dombey and Son_ even
 
 his absurdity was intentional and grave.
-
-
 
 In case this transition is not understood, one or two tests may be taken
 
@@ -7261,8 +6765,6 @@ from the pathway. Now he has really begun to ask with the assistance of
 
 what incidents his hero can get nearer and nearer to the goal.
 
-
-
 The change made Dickens a greater novelist. I am not sure that it made
 
 him a greater man. One good character by Dickens requires all eternity
@@ -7333,8 +6835,6 @@ a field, or as a child does to laugh at nothing, for she is like a
 
 child, innocent. It is only the good who can afford to be frivolous.
 
-
-
 Broadly speaking, what is said here of Mrs. Skewton applies to the great
 
 part of _Dombey and Son_, even to the comic part of it. It shows an
@@ -7400,8 +6900,6 @@ swagger. And men of the world like Dombey are always taken in by him,
 because men of the world are probably the simplest of all the children
 
 of Adam.
-
-
 
 Cousin Feenix again is an exquisite suggestion, with his rickety
 
@@ -7519,8 +7017,6 @@ describe a gentleman, and been told so in the shaky voice and with all
 
 the vague allusiveness of Cousin Feenix.
 
-
-
 Cousin Feenix has really many of the main points of the class that
 
 governs England. Take, for an instance, his hazy notion that he is in a
@@ -7552,8 +7048,6 @@ clearly it is absurd merely to say without further explanation that he
 could not describe a gentleman. Let us confine ourselves to saying that
 
 he did not describe a gentleman as gentlemen like to be described.
-
-
 
 Lastly, there is the admirable study of Toots, who may be considered as
 
@@ -7637,25 +7131,11 @@ might grant him, like Toots, a little of the dog's loyalty and the dog's
 
 reward.
 
-
-
   [Illustration: Charles Dickens, 1849
 
   From a daguerreotype by Mayall.]
 
-
-
-
-
-
-
-
-
 DAVID COPPERFIELD
-
-
-
-
 
 In this book Dickens is really trying to write a new kind of book, and
 
@@ -7685,8 +7165,6 @@ though it is Dickens's ablest and clearest book, there is in it a
 
 falling away of a somewhat singular kind.
 
-
-
 Generally speaking there was astonishingly little of fatigue in
 
 Dickens's books. He sometimes wrote bad work; he sometimes wrote even
@@ -7710,8 +7188,6 @@ feebleness. Broadly speaking, this is true of Dickens. If his writing is
 not amusing us, at least it is amusing him. Even when he is tiring he is
 
 not tired.
-
-
 
 But in the case of _David Copperfield_ there is a real reason for noting
 
@@ -7738,8 +7214,6 @@ real example of the fatigue of Dickens. He begins his story in a new
 style and then slips back into an old one. The earlier part is in his
 
 later manner. The later part is in his earlier manner.
-
-
 
 There are many marks of something weak and shadowy in the end of _David
 
@@ -7795,8 +7269,6 @@ Peggotty; as something that will cure the still more hopeless comedy of
 
 Micawber.
 
-
-
 I will not dwell here on the subsequent adventures of this very
 
 sentimental and extremely English illusion. It would be an exaggeration
@@ -7828,8 +7300,6 @@ twilight, it may be said that there was attached to England a blessed
 island called Australia to which the souls of the socially dead were
 
 ferried across to remain in bliss for ever.
-
-
 
 This element which is represented by the colonial optimism at the end of
 
@@ -7913,8 +7383,6 @@ month. It always leaves behind it the sense of something broken and
 
 betrayed.
 
-
-
 But I have mentioned Dora in this connection only because she
 
 illustrates the same fact which Micawber illustrates; the fact that
@@ -7993,8 +7461,6 @@ horrible feeling that David Copperfield will send even his aunt to
 
 Australia if she worries him too much about donkeys.
 
-
-
 I repeat, then, that this wrong ending of _David Copperfield_ is one of
 
 the very few examples in Dickens of a real symptom of fatigue. Having
@@ -8047,8 +7513,6 @@ would have been a human marriage. But David Copperfield and Agnes would
 
 agree about the cold mutton. And that cold mutton would be very cold.
 
-
-
 I have here endeavoured to suggest some of the main merits of Dickens
 
 within the framework of one of his faults. I have said that _David
@@ -8072,8 +7536,6 @@ Shop_. But while any one would have welcomed one of Dickens's own
 ordered and conventional novels, it was not in this spirit that they
 
 welcomed _David Copperfield_.
-
-
 
 _David Copperfield_ begins as if it were going to be a new kind of
 
@@ -8113,8 +7575,6 @@ glass at the street. But David Copperfield does begin by existing; it is
 
 only gradually that he gives up that exhausting habit.
 
-
-
 Any fair critical account of Dickens must always make him out much
 
 smaller than he is. For any fair criticism of Dickens must take account
@@ -8151,8 +7611,6 @@ not forget if we could, creatures whom we could not forget if we would,
 
 creatures who are more actual than the man who made them.
 
-
-
 This is the excuse for all that indeterminate and rambling and sometimes
 
 sentimental criticism of which Dickens, more than any one else, is the
@@ -8187,19 +7645,7 @@ should say. I am myself at this moment walking round and round Micawber
 
 wondering what I shall say. And I have not found out yet.
 
-
-
-
-
-
-
-
-
 CHRISTMAS STORIES
-
-
-
-
 
 The power of Dickens is shown even in the scraps of Dickens, just as the
 
@@ -8222,8 +7668,6 @@ final evidence and the unconscious stamp of greatness, as we might find
 it in some broken bust or some rejected moulding in the studio of
 
 Michael Angelo.
-
-
 
 These sketches or parts of sketches all belong to that period in his
 
@@ -8273,8 +7717,6 @@ point, and the writing of some one else begins. But when the writing of
 
 Dickens breaks off, I fancy that we know it.
 
-
-
 The singular thing is that some of the best work that Dickens ever did,
 
 better than the work in his best novels, can be found in these slight
@@ -8322,8 +7764,6 @@ only wrote two sketches out of those obviously intended. He may almost
 be said to have only written a brilliant introduction to another man's
 
 book.
-
-
 
 Yet it is exactly in such broken outbreaks that his greatness appears.
 
@@ -8379,8 +7819,6 @@ Might-have-beens of literature. Marlowe and Chatterton failed because of
 
 their weakness. Dickens failed because of his force.
 
-
-
 Examine for example this case of the waiter in _Somebody's Luggage_.
 
 Dickens obviously knew enough about that waiter to have made him a
@@ -8427,8 +7865,6 @@ vegetarian meal I cannot dare to predict. I rather think that for the
 
 first time in his life he would laugh--a horrible sight.
 
-
-
 Dickens's waiter is described by one who is not merely witty, truthful,
 
 and observant, like Mr. Bernard Shaw, but one who really knew the
@@ -8472,8 +7908,6 @@ which must certainly be that either of a dynamiter or an exiled prince.
 The human and hospitable English waiter is vanishing. And Dickens might
 
 perhaps have saved him, as he saved Christmas.
-
-
 
 I have taken this case of the waiter in Dickens and his equally
 
@@ -8531,8 +7965,6 @@ a romance. Yet I do not know of any romance in which it is expressed
 
 except this one.
 
-
-
 Of the landlady as of the waiter it may be said that Dickens left in a
 
 slight sketch what he might have developed through a long and strong
@@ -8573,19 +8005,7 @@ modern novels we cannot really imagine anywhere except in the suburbs or
 
 in Limbo.
 
-
-
-
-
-
-
-
-
 BLEAK HOUSE
-
-
-
-
 
 _Bleak House_ is not certainly Dickens's best book; but perhaps it is
 
@@ -8617,8 +8037,6 @@ Children are very much nicer than grown-up people; but there is such a
 
 thing as growing up. When Dickens wrote _Bleak House_ he had grown up.
 
-
-
 Like Napoleon, he had made his army on the march. He had walked in front
 
 of his mob of aggressive characters as Napoleon did in front of the
@@ -8638,8 +8056,6 @@ house in order; after his decisive victories Dickens also began to put
 his house in order. The house, when he had put it in order, was _Bleak
 
 House_.
-
-
 
 There was one thing common to nearly all the other Dickens tales, with
 
@@ -8723,8 +8139,6 @@ never really rests anywhere in the story. No one seems really to know
 
 where Mr. Pickwick lived. Here he has no abiding city.
 
-
-
 When we come to _Bleak House_, we come to a change in artistic
 
 structure. The thing is no longer a string of incidents; it is a cycle
@@ -8757,8 +8171,6 @@ back to Bleak House. The domestic title is appropriate; it is a
 
 permanent address.
 
-
-
 Dickens's openings are almost always good; but the opening of _Bleak
 
 House_ is good in a quite new and striking sense. Nothing could be
@@ -8784,8 +8196,6 @@ is picaresque. The story begins in one place and ends in another place,
 and there is no real connection between the beginning and the end
 
 except a biographical connection.
-
-
 
 A picaresque novel is only a very eventful biography; but the opening of
 
@@ -8819,8 +8229,6 @@ all the characters and all the events shall be read through the smoky
 
 colours of that sinister and unnatural vapour.
 
-
-
 The same is true throughout the whole tale; the whole tale is symbolic
 
 and crowded with symbols. Miss Flite is a funny character, like Miss La
@@ -8852,8 +8260,6 @@ Dickens's protest against a particular social evil. The whole theme is
 that which another Englishman as jovial as Dickens defined shortly and
 
 finally as the law's delay. The fog of the first chapter never lifts.
-
-
 
 In this twilight he traced wonderful shapes. Those people who fancy that
 
@@ -8939,8 +8345,6 @@ in a man is dying, the last sense that dies is the sense that knows a
 
 good woman from a bad; it is like the scent of a noble hound.
 
-
-
 The clumsy journalist would have made Rick Carstone turn on John
 
 Jarndyce with an explosion of hatred, as of one who had made an
@@ -8973,8 +8377,6 @@ one who was dead all the time. But Rick is a real tragedy, for he is
 
 still alive when the quicksand sucks him down.
 
-
-
 It is impossible to avoid putting in the first place this pall of smoke
 
 which Dickens has deliberately spread over the story. It is quite true
@@ -9002,8 +8404,6 @@ his genius, which broke in at every gap. But it was the tragedy of
 Richard Carstone that he meant, not the comedy of Harold Skimpole. He
 
 could not help being amusing; but he meant to be depressing.
-
-
 
 Another case might be taken as testing the greater seriousness of this
 
@@ -9052,8 +8452,6 @@ as a woman. Miss Clare is a figure-head, Miss Summerson in some ways a
 failure; but Miss Caddy Jellyby is by far the greatest, the most human,
 
 and the most really dignified of all the heroines of Dickens.
-
-
 
 With one or two exceptions, all the effects in this story are of this
 
@@ -9125,8 +8523,6 @@ idleness and insolence of the aristocrat is human and humble compared to
 
 the idleness and insolence of the artist.
 
-
-
 With the exception of a few fine freaks, such as Turveydrop and
 
 Chadband, all the figures in this book are touched more delicately, even
@@ -9149,19 +8545,7 @@ be lifted by the light subterfuge of a fiction. This tyranny shall never
 
 be lifted till all Englishmen lift it together.
 
-
-
-
-
-
-
-
-
 CHILD'S HISTORY OF ENGLAND
-
-
-
-
 
 There are works of great authors manifestly inferior to their typical
 
@@ -9201,8 +8585,6 @@ in some sense the frame of all the Waverley novels. We realise that all
 
 Scott's novels are tales of a grandfather.
 
-
-
 What has been said here about Scott might be said in a less degree
 
 about Thackeray's _Four Georges_. Though standing higher among his works
@@ -9238,8 +8620,6 @@ Thackeray were tenderly attached to the past; Dickens (in his
 consciousness at any rate) was impatient with everything, but especially
 
 impatient with the past.
-
-
 
 A collection of the works of Dickens would be incomplete in an essential
 
@@ -9288,8 +8668,6 @@ which it was written. It is in no sense a history of England from the
 Roman invasion; but it is certainly one of the documents which will
 
 contribute to a history of England in the nineteenth century.
-
-
 
 Of the actual nature of its philosophical and technical limitations it
 
@@ -9411,8 +8789,6 @@ was left of them against the young and growing power of darkness and
 
 division and caste.
 
-
-
 Nevertheless the case against such books as this is commonly stated
 
 wrong. The fault of Dickens is not (as is often said) that he "applies
@@ -9440,8 +8816,6 @@ house on fire. The business of a good man in Dickens's time was to bring
 justice up to date. The business of a good man in Dunstan's time was to
 
 toil to ensure the survival of any justice at all.
-
-
 
 And Dickens, through being a living and fighting man of his own time,
 
@@ -9505,8 +8879,6 @@ Renascence, that wild worship of mere pleasure and scorn, which with its
 
 pictures and its palaces has enriched and ruined the world.
 
-
-
 The time will soon come when the mere common-sense of Dickens, like the
 
 mere common-sense of Macaulay (though his was poisoned by learning and
@@ -9542,8 +8914,6 @@ civilisations. Historically speaking, it is better to be Dickens than to
 be this; better to be ignorant, provincial, slap-dash, seeing only the
 
 passing moment, but in that moment, to be true to eternal things.
-
-
 
 It must be remembered, of course, that Dickens deliberately offers this
 
@@ -9589,19 +8959,7 @@ the children love is still crowned with its flame; and when the fathers
 
 have forgotten ethics, their babies will turn and teach them.
 
-
-
-
-
-
-
-
-
 HARD TIMES
-
-
-
-
 
 I have heard that in some debating clubs there is a rule that the
 
@@ -9641,8 +8999,6 @@ humanitarianism, even to hate them all. He can love all opinions,
 
 including the opinion that men are unlovable.
 
-
-
 In feeling Dickens as a lover we must never forget him as a fighter, and
 
 a fighter for a creed; but indeed there is no other kind of fighter. The
@@ -9667,8 +9023,6 @@ regarded this as a mere piece of slovenliness, like leaving the last
 
 page illegible.
 
-
-
 Everywhere in Dickens's work these angles of his absolute opinion stood
 
 up out of the confusion of his general kindness, just as sharp and
@@ -9686,8 +9040,6 @@ you do come upon it you do know it. It is as hard and as high as any
 precipice or peak of the mountains. The highest and hardest of these
 
 peaks is _Hard Times_.
-
-
 
 It is here more than anywhere else that the sternness of Dickens emerges
 
@@ -9717,8 +9069,6 @@ little, for it is inhumanly cold; and then we realise that we have
 
 touched his gauntlet of steel.
 
-
-
 One cannot express the real value of this book without being irrelevant.
 
 It is true that one cannot express the real value of anything without
@@ -9746,8 +9096,6 @@ tangle which, of course, has since become even worse) and that Dickens
 did in some extraordinary way see what was wrong, even if he did not see
 
 what was right.
-
-
 
 The Liberalism which Dickens and nearly all of his contemporaries
 
@@ -9809,8 +9157,6 @@ not hate democracy because it was a paradox; they hated it because it
 
 was a truism which seemed in some danger of coming true.
 
-
-
 Now it happens to be hugely important to have this right view of the
 
 Revolution in considering its political effects upon England. For the
@@ -9867,8 +9213,6 @@ true politics; they confounded the persons and they divided the
 
 substance.
 
-
-
 Now the really odd thing about England in the nineteenth century is
 
 this--that there was one Englishman who happened to keep his head. The
@@ -9901,8 +9245,6 @@ mad about a minor theory he reasserted the original idea--the idea that
 
 no one in the State must be too weak to influence the State.
 
-
-
 This man was Dickens. He did this work much more genuinely than it was
 
 done by Carlyle or Ruskin; for they were simply Tories making out a
@@ -9918,8 +9260,6 @@ had left only Liberty and destroyed Equality and Fraternity. In this
 book, _Hard Times_, he specially champions equality. In all his books he
 
 champions fraternity.
-
-
 
 The atmosphere of this book and what it stands for can be very
 
@@ -9956,8 +9296,6 @@ he was not sullen; nay, rather, he had remained strangely hopeful. They
 called him a sullen Socialist only to disguise their astonishment at
 
 finding still loose about the London streets a happy republican.
-
-
 
 Dickens is the one living link between the old kindness and the new,
 
@@ -10009,8 +9347,6 @@ where Dickens, in defending happiness, for a moment forgets to be
 
 happy.
 
-
-
 He describes Bounderby and Gradgrind with a degree of grimness and
 
 sombre hatred very different from the half affectionate derision which
@@ -10045,25 +9381,11 @@ chains did fall from Mr. Rouncewell the Iron-master. And when they fell
 
 from him he picked them up and put them upon the poor.
 
-
-
   [Illustration: Charles Dickens, 1858
 
   From a black and white drawing by Baughiet.]
 
-
-
-
-
-
-
-
-
 LITTLE DORRIT
-
-
-
-
 
 _Little Dorrit_ stands in Dickens's life chiefly as a signal of how far
 
@@ -10155,8 +9477,6 @@ Dickens himself. Even in resuming his old liberty, he cannot resume his
 
 old hilarity. He can re-create the anarchy, but not the revelry.
 
-
-
 It so happens that this strange difference between the new and the old
 
 mode of Dickens can be symbolised and stated in one separate and simple
@@ -10231,8 +9551,6 @@ men do. My only purpose here is to point out that Dickens drew the gay
 
 moral in 1849, and the sad moral in 1857.
 
-
-
 There must have been some real sadness at this time creeping like a
 
 cloud over Dickens himself. It is nothing that a man dwells on the
@@ -10250,8 +9568,6 @@ holidays or the sad side of wine. And there must be some depression of
 an uncommonly dark and genuine character when a man has reached such a
 
 point that he can see only the sad side of Mr. Wilkins Micawber.
-
-
 
 Yet this is in reality what had happened to Dickens about this time.
 
@@ -10282,8 +9598,6 @@ fantastic freedom. There must have been at this time some melancholy
 behind the writings. There must have existed on this earth at the time
 
 that portent and paradox--a somewhat depressed Dickens.
-
-
 
 Perhaps it was a reminiscence of that metaphorical proverb which tells
 
@@ -10353,8 +9667,6 @@ special thing that he had to say. In a word, the thing is not quite a
 
 part of himself; and he was not quite himself when he did it.
 
-
-
 He was still quite a young man; his depression did not come from age.
 
 In fact, as far as I know, mere depression never does come from mere
@@ -10408,8 +9720,6 @@ very likely to have at least one collapse. _Little Dorrit_ is a very
 interesting, sincere, and fascinating book. But for all that, I fancy
 
 it is the one collapse.
-
-
 
 The complete proof of this depression may be difficult to advance;
 
@@ -10483,8 +9793,6 @@ essentially the same things. They are both ingenious logical blasphemies
 
 against the dignity and liberty of the human soul.
 
-
-
 The workmanship of the book in detail is often extremely good. The one
 
 passage in the older and heartier Dickens manner (I mean the description
@@ -10519,8 +9827,6 @@ her prison experience; and it is spoken of like a bodily stain; like
 
 something that cannot be washed away.
 
-
-
 There is no denying that this is Dickens's dark moment. It adds
 
 enormously to the value of his general view of life that such a dark
@@ -10551,25 +9857,11 @@ the old heroic clearness that to be a failure may be one step to being a
 
 saint. On the third day he rose again from the dead.
 
-
-
   [Illustration: Charles Dickens, 1859
 
   From an oil painting by W. P. Frith, R.A.]
 
-
-
-
-
-
-
-
-
 A TALE OF TWO CITIES
-
-
-
-
 
 As an example of Dickens's literary work, _A Tale of Two Cities_ is not
 
@@ -10619,8 +9911,6 @@ walking, then Shakespeare lets through his own voice with a shattering
 
 sincerity and cries the praise of practical human civilisation:
 
-
-
     If ever you have looked on better days,
 
     If ever you have sat at good men's feasts,
@@ -10630,8 +9920,6 @@ sincerity and cries the praise of practical human civilisation:
     If ever from your eyelids wiped a tear
 
     Or know what 'tis to pity and be pitied.
-
-
 
 There is nothing finer even in Shakespeare than that conception of the
 
@@ -10644,8 +9932,6 @@ one really hungry man entering, sword in hand, and praising the city.
 within sound of Bow bells; if you have ever been happy and haughty
 
 enough to call yourself a Cockney.
-
-
 
 We must remember this distinction always in the case of Dickens. Dickens
 
@@ -10686,8 +9972,6 @@ means a man of the city. His strength was, after all, in the fact that
 he was a man of the city. But, after all, his weakness, his calamitous
 
 weakness, was that he was a man of one city.
-
-
 
 For all practical purposes he had never been outside such places as
 
@@ -10737,8 +10021,6 @@ scoundrels. Dickens's real speech to the lazy and laughing civilisation
 
 of Southern Europe would really have run in the Shakespearian words:
 
-
-
                     but whoe'er you be
 
     Who in this desert inaccessible,
@@ -10751,15 +10033,11 @@ of Southern Europe would really have run in the Shakespearian words:
 
     If ever been where bells have knolled to church.
 
-
-
 If, in short, you have ever had the advantage of being born within the
 
 sound of Bow bells. Dickens could not really conceive that there was any
 
 other city but his own.
-
-
 
 It is necessary thus to insist that Dickens never understood the
 
@@ -10790,8 +10068,6 @@ called genius; the thing which every one has to talk about directly and
 distinctly because no one knows what it is. For a plain word (as for
 
 instance the word fool) always covers an infinite mystery.
-
-
 
 _A Tale of Two Cities_ is one of the more tragic tints of the later life
 
@@ -10836,8 +10112,6 @@ ignorance of France went with amazing intuitive perception of the truth
 about it. It is here that he has most clearly the plain mark of the man
 
 of genius; that he can understand what he does not understand.
-
-
 
 Dickens was inspired to the study of the French Revolution and to the
 
@@ -10937,8 +10211,6 @@ means a figure silent, slouching, and even feeble. When the French speak
 
 of the man in the street, it means danger in the street.
 
-
-
 No one can fail to notice this deep difference between Dickens and the
 
 Carlyle whom he avowedly copied. Splendid and symbolic as are Carlyle's
@@ -10981,8 +10253,6 @@ understand the common-sense justice or the common-sense vengeance of
 
 Dickens and the French Revolution.
 
-
-
 Yet Dickens has in this book given a perfect and final touch to this
 
 whole conception of mere rebellion and mere human nature. Carlyle had
@@ -11011,25 +10281,11 @@ habit, not of revolution. His gloom is the gloom of London, not the
 
 gloom of Paris.
 
-
-
   [Illustration: Charles Dickens, Circa 1860
 
   Photograph by J. & C. Watkins.]
 
-
-
-
-
-
-
-
-
 GREAT EXPECTATIONS
-
-
-
-
 
 _Great Expectations_, which was written in the afternoon of Dickens's
 
@@ -11063,8 +10319,6 @@ degrees of our stratified society than for old affection and for honour.
 
 It is an extra chapter to _The Book of Snobs_.
 
-
-
 The best way of stating the change which this book marks in Dickens can
 
 be put in one phrase. In this book for the first time the hero
@@ -11092,8 +10346,6 @@ the romance in which the hero had to fight a duel with the villain but
 always survived, in which the hero drove desperate horses through the
 
 night in order to rescue the heroine, but always rescued her.
-
-
 
 This heroic modern hero, this demi-god in a top-hat, may be said to
 
@@ -11145,8 +10397,6 @@ without a hero. I mean that it is a novel which aims chiefly at showing
 
 that the hero is unheroic.
 
-
-
 All such phrases as these must appear of course to overstate the case.
 
 Pip is a much more delightful person than Nicholas Nickleby. Or to take
@@ -11170,8 +10420,6 @@ explanation is different. Pip and Pendennis are meant to show how
 circumstances can corrupt men. Sam Weller and Hercules are meant to show
 
 how heroes can subdue circumstances.
-
-
 
 This is the preliminary view of the book which is necessary if we are
 
@@ -11233,8 +10481,6 @@ culture of the nation, and that it did not know it. If Dickens had ever
 
 known that he was optimistic, he would have ceased to be happy.
 
-
-
 It is necessary to make this first point clear: that in _Great
 
 Expectations_ Dickens was really trying to be a quiet, a detached, and
@@ -11254,8 +10500,6 @@ detailed, but in spite of himself he is gigantic. Compared to the rest
 of Dickens this is Thackeray; but compared to the whole of Thackeray we
 
 can only say in supreme praise of it that it is Dickens.
-
-
 
 Take, for example, the one question of snobbishness. Dickens has
 
@@ -11389,8 +10633,6 @@ hated and dreaded in the people. And it is the thing which poor Pip
 
 really hates and dreads in Trabb's boy.
 
-
-
 A great man of letters or any great artist is symbolic without knowing
 
 it. The things he describes are types because they are truths.
@@ -11459,8 +10701,6 @@ deference to the fastidiousness of the rich. But all the rich tremble
 
 before the fastidiousness of the poor.
 
-
-
 Of the other type of democracy it is far more difficult to speak. It is
 
 always hard to speak of good things or good people, for in satisfying
@@ -11507,19 +10747,7 @@ breaks the heart. One cannot help wondering whether that great mass of
 
 silent virtue will ever achieve anything on this earth.
 
-
-
-
-
-
-
-
-
 OUR MUTUAL FRIEND
-
-
-
-
 
 _Our Mutual Friend_ marks a happy return to the earlier manner of
 
@@ -11552,8 +10780,6 @@ would have known that the correct phrase for a man known to two people
 is "our common friend." But if one calls one's friend a common friend,
 
 even that phrase is open to misunderstanding.
-
-
 
 I dwell with a gloomy pleasure on this mistake in the very title of the
 
@@ -11620,8 +10846,6 @@ you may take him or leave him. He has its disadvantages and its merits.
 No university man would have written the title; no university man could
 
 have written the book.
-
-
 
 If it were a mere matter of the accident of a name it would not be worth
 
@@ -11711,8 +10935,6 @@ nose, Sir," said Mr. Lammle. That sentence alone would be enough to show
 
 that the young Dickens had never died.
 
-
-
 The opening of a book goes for a great deal. The opening of _Our Mutual
 
 Friend_ is much more instinctively energetic and light-hearted than that
@@ -11787,8 +11009,6 @@ symptoms. The first is the mere fact that the reader rushes to read it.
 
 The second is the mere fact that the writer rushed to write it.
 
-
-
 This beginning, which is like a burst of the old exuberant Dickens, is,
 
 of course, the Veneering dinner-party. In its own way it is as good as
@@ -11862,8 +11082,6 @@ occurs in two or three scenes of this excellent story. As far as I know,
 he never really says a word from one end of the book to the other; but
 
 he is one of the best characters in Dickens.
-
-
 
 Round the Veneering dinner-table are collected not indeed the best
 
@@ -11947,8 +11165,6 @@ is a case of that ossification which occurs round the healing of an
 
 actual fracture; the story had broken down and been mended.
 
-
-
 If Dickens had fulfilled what was probably his original design, and
 
 described the slow freezing of Boffin's soul in prosperity, I do not say
@@ -12015,8 +11231,6 @@ Podsnap receives the information that a young man has professed himself
 
 to be attracted by her--"Oh what a Fool he must be!"
 
-
-
 Two other figures require praise, though they are in the more tragic
 
 manner which Dickens touched from time to time in his later period.
@@ -12069,25 +11283,11 @@ dangers which Dickens saw before it existed. Dickens was really a
 
 prophet; far more of a prophet than Carlyle.
 
-
-
   [Illustration: Charles Dickens, 1868
 
   From a photograph by Gurney.]
 
-
-
-
-
-
-
-
-
 EDWIN DROOD
-
-
-
-
 
 _Pickwick_ was a work partly designed by others, but ultimately filled
 
@@ -12100,8 +11300,6 @@ showed how much Dickens could make out of other people's suggestions;
 _The Mystery of Edwin Drood_ shows how very little other people can make
 
 out of Dickens's suggestions.
-
-
 
 Dickens was meant by Heaven to be the great melodramatist; so that even
 
@@ -12154,8 +11352,6 @@ permitted to Dickens, in short, to come to a literary end as strange as
 his literary beginning. He began by completing the old romance of
 
 travel. He ended by inventing the new detective story.
-
-
 
 It is as a detective story first and last that we have to consider _The
 
@@ -12211,8 +11407,6 @@ immediately necessary to speak of the two or three standing explanations
 
 which celebrated critics have given of the plot.
 
-
-
 The story, so far as it was written by Dickens, can be read here. It
 
 describes, as will be seen, the disappearance of the young architect
@@ -12264,8 +11458,6 @@ giving himself away, as he gave himself away in _Pickwick_ or _The
 Christmas Carol_. Not that one complains of his giving himself away;
 
 there was no better gift.
-
-
 
 What was the mystery of Edwin Drood from Dickens's point of view we
 
@@ -12329,8 +11521,6 @@ Grewgious himself, and there is also another suggestion, so much more
 
 startling that I shall have to deal with it later.
 
-
-
 For the moment, however, the point is this: That ingenious writer, Mr.
 
 Proctor, started the highly plausible theory that this Datchery was
@@ -12374,8 +11564,6 @@ but _The Mystery of Datchery_. This is the strongest case for Proctor;
 if the story tells of Drood coming back as Datchery, the story does at
 
 any rate fulfil the title upon its title-page.
-
-
 
 The principal objection to Proctor's theory is that there seems no
 
@@ -12440,8 +11628,6 @@ believe that any explanation as good can be given to account for the
 tale being called _The Mystery of Edwin Drood_, if the tale practically
 
 starts with his corpse.
-
-
 
 If Drood is really dead one cannot help feeling the story ought to end
 
@@ -12527,8 +11713,6 @@ might almost as easily imagine Rebecca in _Ivanhoe_ dressing up as Isaac
 
 of York.
 
-
-
 Of course such a question can never really be settled precisely, because
 
 it is the question not merely of a mystery but of a puzzle. For here the
@@ -12597,8 +11781,6 @@ with him. Even if we get the right solution we shall not know that it is
 
 right. The tale might have been, and yet it has not been.
 
-
-
 And I think there is no thought so much calculated to make one doubt
 
 death itself, to feel that sublime doubt which has created all
@@ -12615,19 +11797,7 @@ sense; but an unfinished tale suggests another immortality, more
 
 essential and more strange.
 
-
-
-
-
-
-
-
-
 MASTER HUMPHREY'S CLOCK
-
-
-
-
 
 It is quite indispensable to include a criticism of _Master Humphrey's
 
@@ -12656,8 +11826,6 @@ he was not writing. Dickens might have written it in his sleep. That is
 to say, it is written by a sluggish Dickens, a half automatic Dickens, a
 
 dreaming and drifting Dickens; but still by the enduring Dickens.
-
-
 
 But this truth can only be made evident by beginning nearer to the root
 
@@ -12751,8 +11919,6 @@ that _Master Humphrey's Clock_ was stopped by the size and energy of the
 
 thing that had come of it. It died in childbirth.
 
-
-
 There is, however, another circumstance which, even in ordinary public
 
 opinion, makes this miscellany important, besides the great novel that
@@ -12768,8 +11934,6 @@ and the Wellers rise again from the dead. Dickens makes Samuel Pickwick
 become a member of Master Humphrey's Clock Society; and he institutes a
 
 parallel society in the kitchen under the name of Mr. Weller's Watch.
-
-
 
 Before we consider the question of whether Dickens was wise when he did
 
@@ -12820,8 +11984,6 @@ exactly that indiscretion or act of sentimentalism which would seem most
 natural to his emotions and his art. Or rather he never did yield to it
 
 except here in this one case; the case of _Master Humphrey's Clock_.
-
-
 
 And it must be remembered that nearly everybody else did yield to it.
 
@@ -12891,8 +12053,6 @@ portraits never attempted to touch them up. Or rather (we may say again)
 
 he attempted it once, and then he failed.
 
-
-
 The reason lay, I think, in the very genius of Dickens's creation. The
 
 child he bore of his soul quitted him when his term was passed like a
@@ -12933,13 +12093,9 @@ perpetuation; this shyness is the final seal of strong sentiment; this
 
 coldness is an eternal constancy.
 
-
-
 This one case where Dickens broke through his rule was not such a
 
 success as to tempt him in any case to try the thing again.
-
-
 
 There is weakness in the strict sense of the word in this particular
 
@@ -12999,8 +12155,6 @@ world clearly even in order to see its wildest poetry. One must see it
 
 sanely even in order to see that it is insane.
 
-
-
 Mr. Pickwick, then, relieved against a background of heavy kindliness
 
 and quiet club life does not seem to be quite the same heroic figure as
@@ -13028,8 +12182,6 @@ domesticity of the poorer classes. Sam also says one or two things
 really worthy of himself. We feel almost as if Sam were a living man,
 
 and could not appear for an instant without being amusing.
-
-
 
 The other elements in the make-up of _Master Humphrey's Clock_ come
 
@@ -13069,19 +12221,7 @@ But as it is, the two giants stand alone in a wilderness, guarding
 
 either side of a gate that leads nowhere.
 
-
-
-
-
-
-
-
-
 REPRINTED PIECES
-
-
-
-
 
 Those abuses which are supposed to belong specially to religion belong
 
@@ -13137,8 +12277,6 @@ fork that belonged to Voltaire, he could probably exchange it in the
 
 open market for a knife that belonged to St. Theresa.
 
-
-
 Of all the instances of this there is none stranger than the case of
 
 Dickens. It should be pondered very carefully by those who reproach
@@ -13166,8 +12304,6 @@ doctrinal than the spirit of Dickens. The spirit of Dickens has been in
 the world about sixty years; and already it is a superstition. Already
 
 it is loaded with relics. Already it is stiff with antiquity.
-
-
 
 Everything that can be said about the perversion of Christianity can be
 
@@ -13201,8 +12337,6 @@ monuments of Dickens. We wish to preserve everything of him, except his
 
 perilous public spirit.
 
-
-
 This antiquarian attitude towards Dickens has many manifestations, some
 
 of them somewhat ridiculous. I give one startling instance out of a
@@ -13232,8 +12366,6 @@ two respectable towns in Suffolk are still disputing for the honour of
 having been the original Eatanswill; as if two innocent hamlets each
 
 claimed to be Gomorrah. I make no comment; the thing is beyond speech.
-
-
 
 But this strange sentimental and relic-hunting worship of Dickens has
 
@@ -13277,8 +12409,6 @@ elements in the compilation, however, make it quite essential to any
 
 solid appreciation of the author.
 
-
-
 Of these the first in importance is that which comes last in order. I
 
 mean the three remarkable pamphlets upon the English Sunday, called
@@ -13307,23 +12437,13 @@ He was, in a conscious sense, the first of its spokesmen. He was in
 
 every sense the last.
 
-
-
 In his appeal for the pleasures of the people, Dickens has remained
 
 alone. The pleasures of the people have now no defender, Radical or
 
 Tory. The Tories despise the people. The Radicals despise the pleasures.
 
-
-
-
-
 THE END
-
-
-
-
 
   +--------------------------------------------------------------+
 
@@ -13371,33 +12491,17 @@ THE END
 
   +--------------------------------------------------------------+
 
-
-
-
-
-
-
-
-
-
-
 End of the Project Gutenberg EBook of Appreciations and Criticisms of the
 
 Works of Charles Dickens, by G. K. Chesterton
 
-
-
 *** END OF THIS PROJECT GUTENBERG EBOOK DICKENS ***
-
-
 
 ***** This file should be named 22362-8.txt or 22362-8.zip *****
 
 This and all associated files of various formats will be found in:
 
         http://www.gutenberg.org/2/2/3/6/22362/
-
-
 
 Produced by Sigal Alon, LN Yaddanapudi and the Online
 
@@ -13407,15 +12511,9 @@ file was produced from images generously made available
 
 by The Internet Archive/Canadian Libraries)
 
-
-
-
-
 Updated editions will replace the previous one--the old editions
 
 will be renamed.
-
-
 
 Creating the works from public domain print editions means that no
 
@@ -13449,21 +12547,11 @@ subject to the trademark license, especially commercial
 
 redistribution.
 
-
-
-
-
-
-
 *** START: FULL LICENSE ***
-
-
 
 THE FULL PROJECT GUTENBERG LICENSE
 
 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
-
-
 
 To protect the Project Gutenberg-tm mission of promoting the free
 
@@ -13477,15 +12565,9 @@ Gutenberg-tm License (available with this file or online at
 
 http://gutenberg.org/license).
 
-
-
-
-
 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
 
 electronic works
-
-
 
 1.A.  By reading or using any part of this Project Gutenberg-tm
 
@@ -13507,8 +12589,6 @@ terms of this agreement, you may obtain a refund from the person or
 
 entity to whom you paid the fee as set forth in paragraph 1.E.8.
 
-
-
 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
 
 used on or associated in any way with an electronic work by people who
@@ -13526,8 +12606,6 @@ Gutenberg-tm electronic works if you follow the terms of this agreement
 and help preserve free future access to Project Gutenberg-tm electronic
 
 works.  See paragraph 1.E below.
-
-
 
 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
 
@@ -13559,8 +12637,6 @@ keeping this work in the same format with its attached full Project
 
 Gutenberg-tm License when you share it without charge with others.
 
-
-
 1.D.  The copyright laws of the place where you are located also govern
 
 what you can do with this work.  Copyright laws in most countries are in
@@ -13579,11 +12655,7 @@ the copyright status of any work in any country outside the United
 
 States.
 
-
-
 1.E.  Unless you have removed all references to Project Gutenberg:
-
-
 
 1.E.1.  The following sentence, with active links to, or other immediate
 
@@ -13597,8 +12669,6 @@ Gutenberg" is associated) is accessed, displayed, performed, viewed,
 
 copied or distributed:
 
-
-
 This eBook is for the use of anyone anywhere at no cost and with
 
 almost no restrictions whatsoever.  You may copy it, give it away or
@@ -13606,8 +12676,6 @@ almost no restrictions whatsoever.  You may copy it, give it away or
 re-use it under the terms of the Project Gutenberg License included
 
 with this eBook or online at www.gutenberg.org
-
-
 
 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
 
@@ -13629,8 +12697,6 @@ Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
 
 1.E.9.
 
-
-
 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
 
 with the permission of the copyright holder, your use and distribution
@@ -13643,15 +12709,11 @@ to the Project Gutenberg-tm License for all works posted with the
 
 permission of the copyright holder found at the beginning of this work.
 
-
-
 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
 
 License terms from this work, or any files containing a part of this
 
 work or any other work associated with Project Gutenberg-tm.
-
-
 
 1.E.5.  Do not copy, display, perform, distribute or redistribute this
 
@@ -13662,8 +12724,6 @@ prominently displaying the sentence set forth in paragraph 1.E.1 with
 active links or immediate access to the full terms of the Project
 
 Gutenberg-tm License.
-
-
 
 1.E.6.  You may convert to and distribute this work in any binary,
 
@@ -13687,23 +12747,17 @@ form.  Any alternate format must include the full Project Gutenberg-tm
 
 License as specified in paragraph 1.E.1.
 
-
-
 1.E.7.  Do not charge a fee for access to, viewing, displaying,
 
 performing, copying or distributing any Project Gutenberg-tm works
 
 unless you comply with paragraph 1.E.8 or 1.E.9.
 
-
-
 1.E.8.  You may charge a reasonable fee for copies of or providing
 
 access to or distributing Project Gutenberg-tm electronic works provided
 
 that
-
-
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
@@ -13729,8 +12783,6 @@ that
 
      the Project Gutenberg Literary Archive Foundation."
 
-
-
 - You provide a full refund of any money paid by a user who notifies
 
      you in writing (or by e-mail) within 30 days of receipt that s/he
@@ -13745,8 +12797,6 @@ that
 
      Project Gutenberg-tm works.
 
-
-
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
      money paid for a work or a replacement copy, if a defect in the
@@ -13755,13 +12805,9 @@ that
 
      of receipt of the work.
 
-
-
 - You comply with all other terms of this agreement for free
 
      distribution of Project Gutenberg-tm works.
-
-
 
 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
 
@@ -13775,11 +12821,7 @@ Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
 
 Foundation as set forth in Section 3 below.
 
-
-
 1.F.
-
-
 
 1.F.1.  Project Gutenberg volunteers and employees expend considerable
 
@@ -13800,8 +12842,6 @@ property infringement, a defective or damaged disk or other medium, a
 computer virus, or computer codes that damage or cannot be read by
 
 your equipment.
-
-
 
 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
 
@@ -13829,8 +12869,6 @@ INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
 
 DAMAGE.
 
-
-
 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
 
 defect in this electronic work within 90 days of receiving it, you can
@@ -13855,8 +12893,6 @@ is also defective, you may demand a refund in writing without further
 
 opportunities to fix the problem.
 
-
-
 1.F.4.  Except for the limited right of replacement or refund set forth
 
 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
@@ -13864,8 +12900,6 @@ in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
 
 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
-
-
 
 1.F.5.  Some states do not allow disclaimers of certain implied
 
@@ -13880,8 +12914,6 @@ interpreted to make the maximum disclaimer or limitation permitted by
 the applicable state law.  The invalidity or unenforceability of any
 
 provision of this agreement shall not void the remaining provisions.
-
-
 
 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
 
@@ -13903,13 +12935,7 @@ work, (b) alteration, modification, or additions or deletions to any
 
 Project Gutenberg-tm work, and (c) any Defect you cause.
 
-
-
-
-
 Section  2.  Information about the Mission of Project Gutenberg-tm
-
-
 
 Project Gutenberg-tm is synonymous with the free distribution of
 
@@ -13920,8 +12946,6 @@ including obsolete, old, middle-aged and new computers.  It exists
 because of the efforts of hundreds of volunteers and donations from
 
 people in all walks of life.
-
-
 
 Volunteers and financial support to provide volunteers with the
 
@@ -13941,15 +12965,9 @@ and how your efforts and donations can help, see Sections 3 and 4
 
 and the Foundation web page at http://www.pglaf.org.
 
-
-
-
-
 Section 3.  Information about the Project Gutenberg Literary Archive
 
 Foundation
-
-
 
 The Project Gutenberg Literary Archive Foundation is a non profit
 
@@ -13967,8 +12985,6 @@ Literary Archive Foundation are tax deductible to the full extent
 
 permitted by U.S. federal laws and your state's laws.
 
-
-
 The Foundation's principal office is located at 4557 Melan Dr. S.
 
 Fairbanks, AK, 99712., but its volunteers and employees are scattered
@@ -13983,8 +12999,6 @@ information can be found at the Foundation's web site and official
 
 page at http://pglaf.org
 
-
-
 For additional contact information:
 
      Dr. Gregory B. Newby
@@ -13993,15 +13007,9 @@ For additional contact information:
 
      gbnewby@pglaf.org
 
-
-
-
-
 Section 4.  Information about Donations to the Project Gutenberg
 
 Literary Archive Foundation
-
-
 
 Project Gutenberg-tm depends upon and cannot survive without wide
 
@@ -14016,8 +13024,6 @@ array of equipment including outdated equipment.  Many small donations
 ($1 to $5,000) are particularly important to maintaining tax exempt
 
 status with the IRS.
-
-
 
 The Foundation is committed to complying with the laws regulating
 
@@ -14035,8 +13041,6 @@ SEND DONATIONS or determine the status of compliance for any
 
 particular state visit http://pglaf.org
 
-
-
 While we cannot and do not solicit contributions from states where we
 
 have not met the solicitation requirements, we know of no prohibition
@@ -14045,15 +13049,11 @@ against accepting unsolicited donations from donors in such states who
 
 approach us with offers to donate.
 
-
-
 International donations are gratefully accepted, but we cannot make
 
 any statements concerning tax treatment of donations received from
 
 outside the United States.  U.S. laws alone swamp our small staff.
-
-
 
 Please check the Project Gutenberg Web pages for current donation
 
@@ -14063,15 +13063,9 @@ ways including checks, online payments and credit card donations.
 
 To donate, please visit: http://pglaf.org/donate
 
-
-
-
-
 Section 5.  General Information About Project Gutenberg-tm electronic
 
 works.
-
-
 
 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
 
@@ -14081,10 +13075,6 @@ with anyone.  For thirty years, he produced and distributed Project
 
 Gutenberg-tm eBooks with only a loose network of volunteer support.
 
-
-
-
-
 Project Gutenberg-tm eBooks are often created from several printed
 
 editions, all of which are confirmed as Public Domain in the U.S.
@@ -14093,17 +13083,9 @@ unless a copyright notice is included.  Thus, we do not necessarily
 
 keep eBooks in compliance with any particular paper edition.
 
-
-
-
-
 Most people start at our Web site which has the main PG search facility:
 
-
-
      http://www.gutenberg.org
-
-
 
 This Web site includes information about Project Gutenberg-tm,
 
@@ -14112,7 +13094,3 @@ including how to make donations to the Project Gutenberg Literary
 Archive Foundation, how to help produce our new eBooks, and how to
 
 subscribe to our email newsletter to hear about new eBooks.
-
-
-
-===== FINE FILE: ApprAndCritOfChDickens.txt =====

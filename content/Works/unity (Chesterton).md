@@ -62,7 +62,4 @@ And the crew of the Captain's gig.
 		(G. K. Chesterton - 1914)  
 
 [The reference to "the crew of the Captain's gig" is from the poem "The Yarn  
-of the Nancy Bell" by Gilbert.]  
-
-
-===== FINE FILE: unity.txt =====  
+of the Nancy Bell" by Gilbert.]

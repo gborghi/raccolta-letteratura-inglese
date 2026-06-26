@@ -15,9 +15,7 @@ tags:
 
 THE INNOCENCE OF FATHER BROWN
 
-
                              Contents
-
 
                   The Blue Cross
                   The Secret Garden
@@ -31,8 +29,6 @@ THE INNOCENCE OF FATHER BROWN
                   The Eye of Apollo
                   The Sign of the Broken Sword
                   The Three Tools of Death
-
-
 
                           The Blue Cross
 
@@ -841,8 +837,6 @@ He stepped back and swept Valentin a great bow.
 
 And they both stood an instant uncovered while the little Essex
 priest blinked about for his umbrella.
-
-
 
                          The Secret Garden
 
@@ -1704,8 +1698,6 @@ A touch and a glance showed him that there was a small box of pills
 at Valentin's elbow, and that Valentin was dead in his chair;
 and on the blind face of the suicide was more than the pride of Cato.
 
-
-
                           The Queer Feet
 
 If you meet a member of that select club, "The Twelve True Fishermen,"
@@ -2476,8 +2468,6 @@ that palace of pleasures.  The golden gates closed behind him,
 and he went at a brisk walk through the damp, dark streets
 in search of a penny omnibus.
 
-
-
                          The Flying Stars
 
 "The most beautiful crime I ever committed," Flambeau would say in his
@@ -3054,8 +3044,6 @@ of all people) ended the evening in uproarious triumph; and Sir Leopold,
 in his height of good humour, even told the priest that though he himself
 had broader views, he could respect those whose creed required them
 to be cloistered and ignorant of this world.
-
-
 
                          The Invisible Man
 
@@ -3789,8 +3777,6 @@ with whom that imprudent young man contrives to be extremely comfortable.
 But Father Brown walked those snow-covered hills under the stars for many
 hours with a murderer, and what they said to each other will never be known.
 
-
-
                      The Honour of Israel Gow
 
 A stormy evening of olive and silver was closing in, as Father Brown,
@@ -4409,8 +4395,6 @@ And, indeed, when Flambeau crossed the hill that morning, he saw
 that strange being, the just miser, digging at the desecrated grave,
 the plaid round his throat thrashing out in the mountain wind;
 the sober top hat on his head.
-
-
 
                           The Wrong Shape
 
@@ -5127,14 +5111,11 @@ Good night."
 He had left the front door open, so that a shaft of gaslight fell upon them.
 In the light of this Brown opened the envelope and read the following words:
 
-
-
 DEAR FATHER BROWN,--Vicisti Galilee.  Otherwise, damn your
 
 eyes, which are very penetrating ones.  Can it be possible that
 
 there is something in all that stuff of yours after all?
-
 
 I am a man who has ever since boyhood believed in Nature and
 
@@ -5152,7 +5133,6 @@ a man.  Can there be anything in your bosh?  I am really getting
 
 morbid.
 
-
 I loved Quinton's wife.  What was there wrong in that?  Nature
 
 told me to, and it's love that makes the world go round.  I also
@@ -5165,7 +5145,6 @@ there wrong in that?  I was only facing facts, like a man of
 
 science.  She would have been happier.
 
-
 According to my own creed I was quite free to kill Quinton,
 
 which was the best thing for everybody, even himself.
@@ -5176,7 +5155,6 @@ healthy animal I had no notion of killing myself.  I resolved,
 therefore, that I would never do it until I saw a chance that
 
 would leave me scot free.  I saw that chance this morning.
-
 
 I have been three times, all told, into Quinton's study today.
 
@@ -5204,7 +5182,6 @@ I left the room,
 and went out into the garden intoxicated with a frightful
 
 opportunity.
-
 
 We walked round the house; and two more things happened in my
 
@@ -5239,7 +5216,6 @@ table, while Quinton lay alive but asleep in the conservatory
 
 beyond.
 
-
 The last act was a desperate one; you can guess it:  I pretended
 
 to have seen Quinton dead and rushed to his room.
@@ -5257,7 +5233,6 @@ knife and drove it into his body.  The knife was of so queer a
 shape that no one but an operator could have calculated the angle
 
 that would reach his heart.  I wonder if you noticed this.
-
 
 When I had done it, the extraordinary thing happened.  Nature
 
@@ -5277,14 +5252,9 @@ write any more.
 
                                  James Erskine Harris.            
 
-
-
-
 Father Brown carefully folded up the letter, and put it in his breast
 pocket just as there came a loud peal at the gate bell, and the wet
 waterproofs of several policemen gleamed in the road outside.
-
-
 
                     The Sins of Prince Saradine
 
@@ -6074,8 +6044,6 @@ the next moment it swayed their little boat and swelled their sail,
 and carried them onward down the winding river to happier places
 and the homes of harmless men.
 
-
-
                          The Hammer of God
 
 The little village of Bohun Beacon was perched on a hill so steep that
@@ -6791,8 +6759,6 @@ into the sunlight by the smithy.  Wilfred Bohun carefully unlatched
 the wooden gate of the yard, and going up to the inspector, said:
 "I wish to give myself up; I have killed my brother."
 
-
-
                          The Eye of Apollo
 
 That singular smoky sparkle, at once a confusion and a transparency, which is
@@ -7452,8 +7418,6 @@ even before I knew what he had done."
 their strength.  There came a crash and a scream down the street,
 and the priest of Apollo did not start or look round.
 I did not know what it was.  But I knew that he was expecting it."
-
-
 
                    The Sign of the Broken Sword
 
@@ -8191,8 +8155,6 @@ They sat down on the comfortable padded benches.
 
 "Or brandy," said Flambeau.
 
-
-
                      The Three Tools of Death
 
 Both by calling and conviction Father Brown knew better than
@@ -8777,8 +8739,3 @@ stopped him and said:
 
 "I've got to get back to the Deaf School," said Father Brown.  "I'm sorry
 I can't stop for the inquiry."
-
-
-
-
-===== FINE FILE: innocence.txt =====
