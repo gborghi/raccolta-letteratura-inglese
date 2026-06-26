@@ -13,7 +13,6 @@ tags:
 </nav>
 
 
-PISTOL
-Let vultures vile seize on his lungs also!
-‘Where is the life that late I led?’ say they.
-Why, here it is. Welcome these pleasant days. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| PISTOL | Let vultures vile seize on his lungs also! ‘Where is the life that late I led?’ say they. Why, here it is. Welcome these pleasant days. Exeunt |

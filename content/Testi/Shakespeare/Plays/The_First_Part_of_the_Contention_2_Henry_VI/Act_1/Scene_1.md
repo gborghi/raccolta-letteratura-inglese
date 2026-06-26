@@ -14,295 +14,46 @@ tags:
 </nav>
 
 
-Flourish of trumpets, then hautboys. Enter, at one door, King Henry and Humphrey Duke of Gloucester, the Duke of Somerset, the Duke of Buckingham, Cardinal Beaufort,⌈and others⌉. Enter, at the other door, the Duke of York, and the Marquis of Suffolk, and Queen Margaret, and the Earls of Salisbury and Warwick
-SUFFOLK (kneeling before King Henry)
-As by your high imperial majesty
-I had in charge at my depart for France,
-As Procurator to your excellence,
-To marry Princess Margaret for your grace,
-So, in the famous ancient city Tours,
-In presence of the Kings of France and Sicil,
-The Dukes of Orléans, Calaber, Bretagne, and Alençon,
-Seven earls, twelve barons, and twenty reverend
-bishops,
-I have performed my task and was espoused,
-And humbly now upon my bended knee,
-In sight of England and her lordly peers,
-Deliver up my title in the Queen
-To your most gracious hands, that are the substance
-Of that great shadow I did represent—
-The happiest gift that ever marquis gave,
-The fairest queen that ever king received.
-KING HENRY
-Suffolk, arise. Welcome, Queen Margaret.
-I can express no kinder sign of love
-Than this kind kiss.
-He kisses her
-O Lord that lends me life,
-Lend me a heart replete with thankfulness!
-For thou hast given me in this beauteous face
-A world of earthly blessings to my soul,
-If sympathy of love unite our thoughts.
-QUEEN MARGARET
-Th’excess of love I bear unto your grace
-Forbids me to be lavish of my tongue
-Lest I should speak more than beseems a woman.
-Let this suffice: my bliss is in your liking,
-And naught can make poor Margaret miserable
-Unless the frown of mighty England’s King.
-KING HENRY
-Her sight did ravish, but her grace in speech,
-Her words yclad with wisdom’s majesty,
-Makes me from wond’ring fall to weeping joys,
-Such is the fullness of my heart’s content.
-Lords, with one cheerful voice, welcome my love.
-LORDS (kneeling)
-Long live Queen Margaret, England’s happiness.
-QUEEN MARGARET We thank you all.
-Flourish. ⌈They all rise⌉
-SUFFOLK (to Gloucester)
-My Lord Protector, so it please your grace,
-Here are the articles of contracted peace
-Between our sovereign and the French King Charles,
-For eighteen months concluded by consent.
-GLOUCESTER (reads) Imprimis: it is agreed between the French King Charles and William de la Pole, Marquis of Suffolk, ambassador for Henry, King of England, that the said Henry shall espouse the Lady Margaret, daughter unto René, King of Naples, Sicilia, and Jerusalem, and crown her Queen of England, ere the thirtieth of May next ensuing.
-Item: it is further agreed between them that the duchy of Anjou and the county of Maine shall be released and delivered to the King her fa—
-⌈Gloucester lets the paper fall⌉
-KING HENRY
-Uncle, how now?
-GLOUCESTER Pardon me, gracious lord.
-Some sudden qualm hath struck me at the heart
-And dimmed mine eyes that I can read no further.
-KING HENRY (to Cardinal Beaufort)
-Uncle of Winchester, I pray read on.
-CARDINAL BEAUFORT (reads) Item: it is further agreed between them that the duchy of Anjou and the county of Maine shall be released and delivered to the King her father, and she sent over of the King of England’s own proper cost and charges, without dowry.
-KING HENRY
-They please us well. (To Suffolk) Lord Marquis, kneel down.
-Suffolk kneels
-We here create thee first Duke of Suffolk,
-And gird thee with the sword.
-Suffolk rises
-Cousin of York,
-We here discharge your grace from being regent
-I’th’ parts of France till term of eighteen months
-Be full expired. Thanks uncle Winchester,
-Gloucester, York, and Buckingham, Somerset,
-Salisbury, and Warwick.
-We thank you all for this great favour done
-In entertainment to my princely Queen.
-Come, let us in, and with all speed provide
-To see her coronation be performed.
-Exeunt King Henry, Queen Margaret, and
-Suffolk. ⌈Gloucester stays⌉ all the rest
-GLOUCESTER
-Brave peers of England, pillars of the state,
-To you Duke Humphrey must unload his grief,
-Your grief, the common grief of all the land.
-What—did my brother Henry spend his youth,
-His valour, coin, and people in the wars?
-Did he so often lodge in open field
-In winter’s cold and summer’s parching heat
-To conquer France, his true inheritance?
-And did my brother Bedford toil his wits
-To keep by policy what Henry got?
-Have you yourselves, Somerset, Buckingham,
-Brave York, Salisbury, and victorious Warwick,
-Received deep scars in France and Normandy?
-Or hath mine uncle Beaufort and myself,
-With all the learned Council of the realm,
-Studied so long, sat in the Council House
-Early and late, debating to and fro,
-How France and Frenchmen might be kept in awe,
-And had his highness in his infancy
-Crowned in Paris in despite of foes?
-And shall these labours and these honours die?
-Shall Henry’s conquest, Bedford’s vigilance,
-Your deeds of war, and all our counsel die?
-O peers of England, shameful is this league,
-Fatal this marriage, cancelling your fame,
-Blotting your names from books of memory,
-Razing the characters of your renown,
-Defacing monuments of conquered France,
-Undoing all, as all had never been!
-CARDINAL BEAUFORT
-Nephew, what means this passionate discourse,
-This peroration with such circumstance?
-For France, ’tis ours; and we will keep it still.
-GLOUCESTER
-Ay, uncle, we will keep it if we can—
-But now it is impossible we should.
-Suffolk, the new-made duke that rules the roast,
-Hath given the duchy of Anjou and Maine
-Unto the poor King René, whose large style
-Agrees not with the leanness of his purse.
-SALISBURY
-Now by the death of Him that died for all,
-These counties were the keys of Normandy—
-But wherefore weeps Warwick, my valiant son?
-WARWICK
-For grief that they are past recovery.
-For were there hope to conquer them again
-My sword should shed hot blood, mine eyes no tears.
-Anjou and Maine? Myself did win them both!
-Those provinces these arms of mine did conquer—
-And are the cities that I got with wounds
-Delivered up again with peaceful words?
-Mort Dieu!
-YORK
-For Suffolk’s duke, may he be suffocate,
-That dims the honour of this warlike isle!
-France should have torn and rent my very heart
-Before I would have yielded to this league.
-I never read but England’s kings have had
-Large sums of gold and dowries with their wives—
-And our King Henry gives away his own,
-To match with her that brings no vantages.
-GLOUCESTER
-A proper jest, and never heard before,
-That Suffolk should demand a whole fifteenth
-For costs and charges in transporting her!
-She should have stayed in France and starved in
-France
-Before—
-CARDINAL BEAUFORT
-My lord of Gloucester, now ye grow too hot!
-It was the pleasure of my lord the King.
-GLOUCESTER
-My lord of Winchester, I know your mind.
-’Tis not my speeches that you do mislike,
-But ‘tis my presence that doth trouble ye.
-Rancour will out. Proud prelate, in thy face
-I see thy fury. If I longer stay
-We shall begin our ancient bickerings—
-But I’ll be gone, and give thee leave to speak.
-Lordings, farewell, and say when I am gone,
-I prophesied France will be lost ere long. Exit
-CARDINAL BEAUFORT
-So, there goes our Protector in a rage.
-’Tis known to you he is mine enemy;
-Nay more, an enemy unto you all,
-And no great friend, I fear me, to the King.
-Consider, lords, he is the next of blood
-And heir apparent to the English crown.
-Had Henry got an empire by his marriage,
-And all the wealthy kingdoms of the west,
-There’s reason he should be displeased at it.
-Look to it, lords—let not his smoothing words
-Bewitch your hearts. Be wise and circumspect.
-What though the common people favour him,
-Calling him ‘Humphrey, the good Duke of Gloucester‘,
-Clapping their hands and crying with loud voice
-’‘Jesu maintain your royal excellence !’
-With ’God preserve the good Duke Humphrey !’
-I fear me, lords, for all this flattering gloss,
-He will be found a dangerous Protector.
-BUCKINGHAM
-Why should he then protect our sovereign,
-He being of age to govern of himself?
-Cousin of Somerset, join you with me,
-And all together, with the Duke of Suffolk,
-We’ll quickly hoist Duke Humphrey from his seat.
-CARDINAL BEAUFORT
-This weighty business will not brook delay—
-I’ll to the Duke of Suffolk presently. Exit
-SOMERSET
-Cousin of Buckingham, though Humphrey’s pride
-And greatness of his place be grief to us,
-Yet let us watch the haughty Cardinal;
-His insolence is more intolerable
-Than all the princes in the land beside.
-If Gloucester be displaced, he’ll be Protector.
-BUCKINGHAM
-Or thou or I, Somerset, will be Protector,
-Despite Duke Humphrey or the Cardinal.
-Exeunt Buckingham and Somerset
-SALISBURY
-Pride went before, ambition follows him.
-While these do labour for their own preferment,
-Behoves it us to labour for the realm.
-I never saw but Humphrey Duke of Gloucester
-Did bear him like a noble gentleman.
-Oft have I seen the haughty Cardinal,
-More like a soldier than a man o’th’ church,
-As stout and proud as he were lord of all,
-Swear like a ruffian, and demean himself
-Unlike the ruler of a commonweal.
-Warwick, my son, the comfort of my age,
-Thy deeds, thy plainness, and thy housekeeping
-Hath won thee greatest favour of the commons,
-Excepting none but good Duke Humphrey.
-And, brother York, thy acts in Ireland,
-In bringing them to civil discipline,
-Thy late exploits done in the heart of France,
-When thou wert Regent for our sovereign,
-Have made thee feared and honoured of the people.
-The reverence of mine age and Neville’s name
-Is of no little force if I command.
-Join we together for the public good,
-In what we can to bridle and suppress
-The pride of Suffolk and the Cardinal
-With Somerset’s and Buckingham’s ambition;
-And, as we may, cherish Duke Humphrey’s deeds
-While they do tend the profit of the land.
-WARWICK
-So God help Warwick, as he loves the land,
-And common profit of his country!
-YORK
-And so says York, (aside) for he hath greatest cause.
-SALISBURY
-Then let’s away, and look unto the main.
-WARWICK
-Unto the main? O, father, Maine is lost !
-That Maine which by main force Warwick did win,
-And would have kept so long as breath did last!
-Main chance, father, you meant—but I meant Maine,
-Which I will win from France or else be slain.
-Exeunt Warwick and Salisbury, leaving only York
-YORK
-Anjou and Maine are given to the French,
-Paris is lost, the state of Normandy
-Stands on a tickle point now they are gone;
-Suffolk concluded on the articles,
-The peers agreed, and Henry was well pleased
-To change two dukedoms for a duke’s fair daughter.
-I cannot blame them all—what is’t to them?
-’Tis thine they give away and not their own!
-Pirates may make cheap pennyworths of their pillage,
-And purchase friends, and give to courtesans,
-Still revelling like lords till all be gone,
-Whileas the seely owner of the goods
-Weeps over them, and wrings his hapless hands,
-And shakes his head, and, trembling, stands aloof,
-While all is shared and all is borne away,
-Ready to starve and dare not touch his own.
-So York must sit and fret and bite his tongue,
-While his own lands are bargained for and sold.
-Methinks the realms of England, France, and Ireland
-Bear that proportion to my flesh and blood
-As did the fatal brand Althaea burnt
-Unto the prince’s heart of Calydon.
-Anjou and Maine both given unto the French !
-Cold news for me—for I had hope of France,
-Even as I have of fertile England’s soil.
-A day will come when York shall claim his own,
-And therefore I will take the Nevilles’ parts,
-And make a show of love to proud Duke Humphrey,
-And, when I spy advantage, claim the crown,
-For that’s the golden mark I seek to hit.
-Nor shall proud Lancaster usurp my right,
-Nor hold the sceptre in his childish fist,
-Nor wear the diadem upon his head
-Whose church-like humours fits not for a crown.
-Then, York, be still a while till time do serve.
-Watch thou, and wake when others be asleep,
-To pry into the secrets of the state—
-Till Henry, surfeit in the joys of love
-With his new bride and England’s dear-bought queen,
-And Humphrey with the peers be fall’n at jars.
-Then will I raise aloft the milk-white rose,
-With whose sweet smell the air shall be perfumed,
-And in my standard bear the arms of York,
-To grapple with the house of Lancaster;
-And force perforce I’ll make him yield the crown,
-Whose bookish rule hath pulled fair England down.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish of trumpets, then hautboys. Enter, at one door, King Henry and Humphrey Duke of Gloucester, the Duke of Somerset, the Duke of Buckingham, Cardinal Beaufort,and others. Enter, at the other door, the Duke of York, and the Marquis of Suffolk, and Queen Margaret, and the Earls of Salisbury and Warwick |
+| SUFFOLK | (kneeling before King Henry)<br>As by your high imperial majesty<br>I had in charge at my depart for France,<br>As Procurator to your excellence,<br>To marry Princess Margaret for your grace,<br>So, in the famous ancient city Tours,<br>In presence of the Kings of France and Sicil,<br>The Dukes of Orléans, Calaber, Bretagne, and Alençon,<br>Seven earls, twelve barons, and twenty reverend<br>bishops,<br>I have performed my task and was espoused,<br>And humbly now upon my bended knee,<br>In sight of England and her lordly peers,<br>Deliver up my title in the Queen<br>To your most gracious hands, that are the substance<br>Of that great shadow I did represent—<br>The happiest gift that ever marquis gave,<br>The fairest queen that ever king received. |
+| KING HENRY | Suffolk, arise. Welcome, Queen Margaret.<br>I can express no kinder sign of love<br>Than this kind kiss.<br>He kisses her<br>O Lord that lends me life,<br>Lend me a heart replete with thankfulness!<br>For thou hast given me in this beauteous face<br>A world of earthly blessings to my soul,<br>If sympathy of love unite our thoughts. |
+| QUEEN MARGARET | Th’excess of love I bear unto your grace<br>Forbids me to be lavish of my tongue<br>Lest I should speak more than beseems a woman.<br>Let this suffice: my bliss is in your liking,<br>And naught can make poor Margaret miserable<br>Unless the frown of mighty England’s King. |
+| KING HENRY | Her sight did ravish, but her grace in speech,<br>Her words yclad with wisdom’s majesty,<br>Makes me from wond’ring fall to weeping joys,<br>Such is the fullness of my heart’s content.<br>Lords, with one cheerful voice, welcome my love. |
+| LORDS | (kneeling)<br>Long live Queen Margaret, England’s happiness. |
+| QUEEN MARGARET | We thank you all. |
+| *(didascalia)* | Flourish. They all rise |
+| SUFFOLK | (to Gloucester)<br>My Lord Protector, so it please your grace,<br>Here are the articles of contracted peace<br>Between our sovereign and the French King Charles,<br>For eighteen months concluded by consent. |
+| GLOUCESTER | (reads) Imprimis: it is agreed between the French King Charles and William de la Pole, Marquis of Suffolk, ambassador for Henry, King of England, that the said Henry shall espouse the Lady Margaret, daughter unto René, King of Naples, Sicilia, and Jerusalem, and crown her Queen of England, ere the thirtieth of May next ensuing.<br>Item: it is further agreed between them that the duchy of Anjou and the county of Maine shall be released and delivered to the King her fa— |
+| *(didascalia)* | Gloucester lets the paper fall |
+| KING HENRY | Uncle, how now? |
+| GLOUCESTER | Pardon me, gracious lord.<br>Some sudden qualm hath struck me at the heart<br>And dimmed mine eyes that I can read no further. |
+| KING HENRY | (to Cardinal Beaufort)<br>Uncle of Winchester, I pray read on. |
+| CARDINAL BEAUFORT | (reads) Item: it is further agreed between them that the duchy of Anjou and the county of Maine shall be released and delivered to the King her father, and she sent over of the King of England’s own proper cost and charges, without dowry. |
+| KING HENRY | They please us well. (To Suffolk) Lord Marquis, kneel down.<br>Suffolk kneels<br>We here create thee first Duke of Suffolk,<br>And gird thee with the sword.<br>Suffolk rises<br>Cousin of York,<br>We here discharge your grace from being regent<br>I’th’ parts of France till term of eighteen months<br>Be full expired. Thanks uncle Winchester,<br>Gloucester, York, and Buckingham, Somerset,<br>Salisbury, and Warwick.<br>We thank you all for this great favour done<br>In entertainment to my princely Queen.<br>Come, let us in, and with all speed provide<br>To see her coronation be performed. |
+| *(didascalia)* | Exeunt King Henry, Queen Margaret, and |
+| *(didascalia)* | Suffolk. Gloucester stays all the rest |
+| GLOUCESTER | Brave peers of England, pillars of the state,<br>To you Duke Humphrey must unload his grief,<br>Your grief, the common grief of all the land.<br>What—did my brother Henry spend his youth,<br>His valour, coin, and people in the wars?<br>Did he so often lodge in open field<br>In winter’s cold and summer’s parching heat<br>To conquer France, his true inheritance?<br>And did my brother Bedford toil his wits<br>To keep by policy what Henry got?<br>Have you yourselves, Somerset, Buckingham,<br>Brave York, Salisbury, and victorious Warwick,<br>Received deep scars in France and Normandy?<br>Or hath mine uncle Beaufort and myself,<br>With all the learned Council of the realm,<br>Studied so long, sat in the Council House<br>Early and late, debating to and fro,<br>How France and Frenchmen might be kept in awe,<br>And had his highness in his infancy<br>Crowned in Paris in despite of foes?<br>And shall these labours and these honours die?<br>Shall Henry’s conquest, Bedford’s vigilance,<br>Your deeds of war, and all our counsel die?<br>O peers of England, shameful is this league,<br>Fatal this marriage, cancelling your fame,<br>Blotting your names from books of memory,<br>Razing the characters of your renown,<br>Defacing monuments of conquered France,<br>Undoing all, as all had never been! |
+| CARDINAL BEAUFORT | Nephew, what means this passionate discourse,<br>This peroration with such circumstance?<br>For France, ’tis ours; and we will keep it still. |
+| GLOUCESTER | Ay, uncle, we will keep it if we can—<br>But now it is impossible we should.<br>Suffolk, the new-made duke that rules the roast,<br>Hath given the duchy of Anjou and Maine<br>Unto the poor King René, whose large style<br>Agrees not with the leanness of his purse. |
+| SALISBURY | Now by the death of Him that died for all,<br>These counties were the keys of Normandy—<br>But wherefore weeps Warwick, my valiant son? |
+| WARWICK | For grief that they are past recovery.<br>For were there hope to conquer them again<br>My sword should shed hot blood, mine eyes no tears.<br>Anjou and Maine? Myself did win them both!<br>Those provinces these arms of mine did conquer—<br>And are the cities that I got with wounds<br>Delivered up again with peaceful words?<br>Mort Dieu! |
+| YORK | For Suffolk’s duke, may he be suffocate,<br>That dims the honour of this warlike isle!<br>France should have torn and rent my very heart<br>Before I would have yielded to this league.<br>I never read but England’s kings have had<br>Large sums of gold and dowries with their wives—<br>And our King Henry gives away his own,<br>To match with her that brings no vantages. |
+| GLOUCESTER | A proper jest, and never heard before,<br>That Suffolk should demand a whole fifteenth<br>For costs and charges in transporting her!<br>She should have stayed in France and starved in<br>France<br>Before— |
+| CARDINAL BEAUFORT | My lord of Gloucester, now ye grow too hot!<br>It was the pleasure of my lord the King. |
+| GLOUCESTER | My lord of Winchester, I know your mind.<br>’Tis not my speeches that you do mislike,<br>But ‘tis my presence that doth trouble ye.<br>Rancour will out. Proud prelate, in thy face<br>I see thy fury. If I longer stay<br>We shall begin our ancient bickerings—<br>But I’ll be gone, and give thee leave to speak.<br>Lordings, farewell, and say when I am gone,<br>I prophesied France will be lost ere long. Exit |
+| CARDINAL BEAUFORT | So, there goes our Protector in a rage.<br>’Tis known to you he is mine enemy;<br>Nay more, an enemy unto you all,<br>And no great friend, I fear me, to the King.<br>Consider, lords, he is the next of blood<br>And heir apparent to the English crown.<br>Had Henry got an empire by his marriage,<br>And all the wealthy kingdoms of the west,<br>There’s reason he should be displeased at it.<br>Look to it, lords—let not his smoothing words<br>Bewitch your hearts. Be wise and circumspect.<br>What though the common people favour him,<br>Calling him ‘Humphrey, the good Duke of Gloucester‘,<br>Clapping their hands and crying with loud voice<br>’‘Jesu maintain your royal excellence !’<br>With ’God preserve the good Duke Humphrey !’<br>I fear me, lords, for all this flattering gloss,<br>He will be found a dangerous Protector. |
+| BUCKINGHAM | Why should he then protect our sovereign,<br>He being of age to govern of himself?<br>Cousin of Somerset, join you with me,<br>And all together, with the Duke of Suffolk,<br>We’ll quickly hoist Duke Humphrey from his seat. |
+| CARDINAL BEAUFORT | This weighty business will not brook delay—<br>I’ll to the Duke of Suffolk presently. Exit |
+| SOMERSET | Cousin of Buckingham, though Humphrey’s pride<br>And greatness of his place be grief to us,<br>Yet let us watch the haughty Cardinal;<br>His insolence is more intolerable<br>Than all the princes in the land beside.<br>If Gloucester be displaced, he’ll be Protector. |
+| BUCKINGHAM | Or thou or I, Somerset, will be Protector,<br>Despite Duke Humphrey or the Cardinal. |
+| *(didascalia)* | Exeunt Buckingham and Somerset |
+| SALISBURY | Pride went before, ambition follows him.<br>While these do labour for their own preferment,<br>Behoves it us to labour for the realm.<br>I never saw but Humphrey Duke of Gloucester<br>Did bear him like a noble gentleman.<br>Oft have I seen the haughty Cardinal,<br>More like a soldier than a man o’th’ church,<br>As stout and proud as he were lord of all,<br>Swear like a ruffian, and demean himself<br>Unlike the ruler of a commonweal.<br>Warwick, my son, the comfort of my age,<br>Thy deeds, thy plainness, and thy housekeeping<br>Hath won thee greatest favour of the commons,<br>Excepting none but good Duke Humphrey.<br>And, brother York, thy acts in Ireland,<br>In bringing them to civil discipline,<br>Thy late exploits done in the heart of France,<br>When thou wert Regent for our sovereign,<br>Have made thee feared and honoured of the people.<br>The reverence of mine age and Neville’s name<br>Is of no little force if I command.<br>Join we together for the public good,<br>In what we can to bridle and suppress<br>The pride of Suffolk and the Cardinal<br>With Somerset’s and Buckingham’s ambition;<br>And, as we may, cherish Duke Humphrey’s deeds<br>While they do tend the profit of the land. |
+| WARWICK | So God help Warwick, as he loves the land,<br>And common profit of his country! |
+| YORK | And so says York, (aside) for he hath greatest cause. |
+| SALISBURY | Then let’s away, and look unto the main. |
+| WARWICK | Unto the main? O, father, Maine is lost !<br>That Maine which by main force Warwick did win,<br>And would have kept so long as breath did last!<br>Main chance, father, you meant—but I meant Maine,<br>Which I will win from France or else be slain. |
+| *(didascalia)* | Exeunt Warwick and Salisbury, leaving only York |
+| YORK | Anjou and Maine are given to the French,<br>Paris is lost, the state of Normandy<br>Stands on a tickle point now they are gone;<br>Suffolk concluded on the articles,<br>The peers agreed, and Henry was well pleased<br>To change two dukedoms for a duke’s fair daughter.<br>I cannot blame them all—what is’t to them?<br>’Tis thine they give away and not their own!<br>Pirates may make cheap pennyworths of their pillage,<br>And purchase friends, and give to courtesans,<br>Still revelling like lords till all be gone,<br>Whileas the seely owner of the goods<br>Weeps over them, and wrings his hapless hands,<br>And shakes his head, and, trembling, stands aloof,<br>While all is shared and all is borne away,<br>Ready to starve and dare not touch his own.<br>So York must sit and fret and bite his tongue,<br>While his own lands are bargained for and sold.<br>Methinks the realms of England, France, and Ireland<br>Bear that proportion to my flesh and blood<br>As did the fatal brand Althaea burnt<br>Unto the prince’s heart of Calydon.<br>Anjou and Maine both given unto the French !<br>Cold news for me—for I had hope of France,<br>Even as I have of fertile England’s soil.<br>A day will come when York shall claim his own,<br>And therefore I will take the Nevilles’ parts,<br>And make a show of love to proud Duke Humphrey,<br>And, when I spy advantage, claim the crown,<br>For that’s the golden mark I seek to hit.<br>Nor shall proud Lancaster usurp my right,<br>Nor hold the sceptre in his childish fist,<br>Nor wear the diadem upon his head<br>Whose church-like humours fits not for a crown.<br>Then, York, be still a while till time do serve.<br>Watch thou, and wake when others be asleep,<br>To pry into the secrets of the state—<br>Till Henry, surfeit in the joys of love<br>With his new bride and England’s dear-bought queen,<br>And Humphrey with the peers be fall’n at jars.<br>Then will I raise aloft the milk-white rose,<br>With whose sweet smell the air shall be perfumed,<br>And in my standard bear the arms of York,<br>To grapple with the house of Lancaster;<br>And force perforce I’ll make him yield the crown,<br>Whose bookish rule hath pulled fair England down. |
+| *(didascalia)* | Exit |

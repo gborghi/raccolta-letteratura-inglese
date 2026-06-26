@@ -13,10 +13,7 @@ tags:
 </nav>
 
 
-SILVIUS
-Phoebe, with all my heart.
-
-PHOEBE I’ll write it straight.
-The matter’s in my head and in my heart.
-I will be bitter with him, and passing short.
-Go with me, Silvius. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| SILVIUS | Phoebe, with all my heart. |
+| PHOEBE | I’ll write it straight. The matter’s in my head and in my heart. I will be bitter with him, and passing short. Go with me, Silvius. Exeunt |

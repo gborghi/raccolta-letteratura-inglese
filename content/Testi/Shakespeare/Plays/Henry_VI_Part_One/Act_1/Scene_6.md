@@ -14,115 +14,25 @@ tags:
 </nav>
 
 
-Enter the Earl of Salisbury and Lord Talbot above on the turrets with others, among them Sir Thomas Gargrave and Sir William Glasdale
-SALISBURY
-Talbot, my life, my joy, again returned?
-How wert thou handled, being prisoner?
-Or by what means got’st thou to be released?
-Discourse, I prithee, on this turret’s top.
-TALBOT
-The Duke of Bedford had a prisoner,
-Called the brave Lord Ponton de Santrailles;
-For him was I exchanged and ransomed.
-But with a baser man-of-arms by far
-Once in contempt they would have bartered me—
-Which I, disdaining, scorned, and craved death
-Rather than I would be so pilled esteemed.
-In fine, redeemed I was, as I desired.
-But O, the treacherous Fastolf wounds my heart,
-Whom with my bare fists I would execute
-If I now had him brought into my power.
-SALISBURY
-Yet tell’st thou not how thou wert entertained.
-TALBOT
-With scoffs and scorns and contumelious taunts.
-In open market place produced they me,
-To be a public spectacle to all.
-‘Here’, said they, ‘is the terror of the French,
-The scarecrow that affrights our children so.’
-Then broke I from the officers that led me
-And with my nails digged stones out of the ground
-To hurl at the beholders of my shame.
-My grisly countenance made others fly.
-None durst come near, for fear of sudden death.
-In iron walls they deemed me not secure:
-So great fear of my name ’mongst them were spread
-That they supposed I could rend bars of steel
-And spurn in pieces posts of adamant.
-Wherefore a guard of chosen shot I had
-That walked about me every minute while;
-And if I did but stir out of my bed,
-Ready they were to shoot me to the heart.
-The Boy ⌈passes over the stage⌉ with a linstock
-SALISBURY
-I grieve to hear what torments you endured.
-But we will be revenged sufficiently.
-Now it is supper time in Orléans.
-Here, through this grate, I count each one,
-And view the Frenchmen how they fortify.
-Let us look in: the sight will much delight thee.—
-Sir Thomas Gargrave and Sir William Glasdale,
-Let me have your express opinions
-Where is best place to make our batt’ry next.
-⌈They look through the grate⌉
-GARGRAVE
-I think at the north gate, for there stands Lou.
-GLASDALE
-And I here, at the bulwark of the Bridge.
-TALBOT
-For aught I see, this city must be famished
-Or with light skirmishes enfeebled.
-Here they shoot off chambers ⌈within⌉ and Salisbury and Gargrave fall down
-SALISBURY
-O Lord have mercy on us, wretched sinners!
-GARGRAVE
-O Lord have mercy on me, woeful man!
-TALBOT
-What chance is this that suddenly hath crossed us?
-Speak, Salisbury—at least, if thou canst, speak.
-How far‘st thou, mirror of all martial men?
-One of thy eyes and thy cheek’s side struck off?
-Accursed tower! Accursed fatal hand
-That hath contrived this woeful tragedy!
-In thirteen battles Salisbury o’ercame;
-Henry the Fifth he first trained to the wars;
-Whilst any trump did sound or drum struck up
-His sword did ne‘er leave striking in the field.
-Yet liv’st thou, Salisbury? Though thy speech doth
-fail,
-One eye thou hast to look to heaven for grace.
-The sun with one eye vieweth all the world.
-Heaven, be thou gracious to none alive
-If Salisbury wants mercy at thy hands.—
-Sir Thomas Gargrave, hast thou any life?
-Speak unto Talbot. Nay, look up to him.—
-Bear hence his body; I will help to bury it.
-⌈Exit one with Gargrave’s body⌉
-Salisbury, cheer thy spirit with this comfort:
-Thou shalt not die whiles—
-He beckons with his hand, and smiles on me,
-As who should say, ‘When I am dead and gone,
-Remember to avenge me on the French.’
-Plantagenet, I will—and like thee, Nero,
-Play on the lute, beholding the towns burn.
-Wretched shall France be only in my name.
-Here an alarum, and it thunders and lightens
-What stir is this? What tumult’s in the heavens?
-Whence cometh this alarum and the noise?
-Enter a Messenger
-MESSENGER
-My lord, my lord, the French have gathered head.
-The Dauphin, with one Joan la Pucelle joined,
-A holy prophetess new risen up,
-Is come with a great power to raise the siege.
-Here Salisbury lifteth himself up and groans
-TALBOT
-Hear, hear, how dying Salisbury doth groan!
-It irks his heart he cannot be revenged.
-Frenchmen, I’ll be a Salisbury to you.
-Pucelle or pucelle, Dauphin or dog-fish,
-Your hearts I’ll stamp out with my horse’s heels
-And make a quagmire of your mingled brains.—
-Convey me Salisbury into his tent,
-And then we’ll try what these dastard Frenchmen
-dare. Alarum. Exeunt carrying Salisbury
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earl of Salisbury and Lord Talbot above on the turrets with others, among them Sir Thomas Gargrave and Sir William Glasdale |
+| SALISBURY | Talbot, my life, my joy, again returned?<br>How wert thou handled, being prisoner?<br>Or by what means got’st thou to be released?<br>Discourse, I prithee, on this turret’s top. |
+| TALBOT | The Duke of Bedford had a prisoner,<br>Called the brave Lord Ponton de Santrailles;<br>For him was I exchanged and ransomed.<br>But with a baser man-of-arms by far<br>Once in contempt they would have bartered me—<br>Which I, disdaining, scorned, and craved death<br>Rather than I would be so pilled esteemed.<br>In fine, redeemed I was, as I desired.<br>But O, the treacherous Fastolf wounds my heart,<br>Whom with my bare fists I would execute<br>If I now had him brought into my power. |
+| SALISBURY | Yet tell’st thou not how thou wert entertained. |
+| TALBOT | With scoffs and scorns and contumelious taunts.<br>In open market place produced they me,<br>To be a public spectacle to all.<br>‘Here’, said they, ‘is the terror of the French,<br>The scarecrow that affrights our children so.’<br>Then broke I from the officers that led me<br>And with my nails digged stones out of the ground<br>To hurl at the beholders of my shame.<br>My grisly countenance made others fly.<br>None durst come near, for fear of sudden death.<br>In iron walls they deemed me not secure:<br>So great fear of my name ’mongst them were spread<br>That they supposed I could rend bars of steel<br>And spurn in pieces posts of adamant.<br>Wherefore a guard of chosen shot I had<br>That walked about me every minute while;<br>And if I did but stir out of my bed,<br>Ready they were to shoot me to the heart. |
+| *(didascalia)* | The Boy passes over the stage with a linstock |
+| SALISBURY | I grieve to hear what torments you endured.<br>But we will be revenged sufficiently.<br>Now it is supper time in Orléans.<br>Here, through this grate, I count each one,<br>And view the Frenchmen how they fortify.<br>Let us look in: the sight will much delight thee.—<br>Sir Thomas Gargrave and Sir William Glasdale,<br>Let me have your express opinions<br>Where is best place to make our batt’ry next. |
+| *(didascalia)* | They look through the grate |
+| GARGRAVE | I think at the north gate, for there stands Lou. |
+| GLASDALE | And I here, at the bulwark of the Bridge. |
+| TALBOT | For aught I see, this city must be famished<br>Or with light skirmishes enfeebled. |
+| *(didascalia)* | Here they shoot off chambers within and Salisbury and Gargrave fall down |
+| SALISBURY | O Lord have mercy on us, wretched sinners! |
+| GARGRAVE | O Lord have mercy on me, woeful man! |
+| TALBOT | What chance is this that suddenly hath crossed us?<br>Speak, Salisbury—at least, if thou canst, speak.<br>How far‘st thou, mirror of all martial men?<br>One of thy eyes and thy cheek’s side struck off?<br>Accursed tower! Accursed fatal hand<br>That hath contrived this woeful tragedy!<br>In thirteen battles Salisbury o’ercame;<br>Henry the Fifth he first trained to the wars;<br>Whilst any trump did sound or drum struck up<br>His sword did ne‘er leave striking in the field.<br>Yet liv’st thou, Salisbury? Though thy speech doth<br>fail,<br>One eye thou hast to look to heaven for grace.<br>The sun with one eye vieweth all the world.<br>Heaven, be thou gracious to none alive<br>If Salisbury wants mercy at thy hands.—<br>Sir Thomas Gargrave, hast thou any life?<br>Speak unto Talbot. Nay, look up to him.—<br>Bear hence his body; I will help to bury it. |
+| *(didascalia)* | Exit one with Gargrave’s body |
+| TALBOT | Salisbury, cheer thy spirit with this comfort:<br>Thou shalt not die whiles—<br>He beckons with his hand, and smiles on me,<br>As who should say, ‘When I am dead and gone,<br>Remember to avenge me on the French.’<br>Plantagenet, I will—and like thee, Nero,<br>Play on the lute, beholding the towns burn.<br>Wretched shall France be only in my name.<br>Here an alarum, and it thunders and lightens<br>What stir is this? What tumult’s in the heavens?<br>Whence cometh this alarum and the noise? |
+| *(didascalia)* | Enter a Messenger |
+| MESSENGER | My lord, my lord, the French have gathered head.<br>The Dauphin, with one Joan la Pucelle joined,<br>A holy prophetess new risen up,<br>Is come with a great power to raise the siege.<br>Here Salisbury lifteth himself up and groans |
+| TALBOT | Hear, hear, how dying Salisbury doth groan!<br>It irks his heart he cannot be revenged.<br>Frenchmen, I’ll be a Salisbury to you.<br>Pucelle or pucelle, Dauphin or dog-fish,<br>Your hearts I’ll stamp out with my horse’s heels<br>And make a quagmire of your mingled brains.—<br>Convey me Salisbury into his tent,<br>And then we’ll try what these dastard Frenchmen<br>dare. Alarum. Exeunt carrying Salisbury |

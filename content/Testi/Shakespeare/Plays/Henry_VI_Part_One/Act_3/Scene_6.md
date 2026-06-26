@@ -14,33 +14,11 @@ tags:
 </nav>
 
 
-An alarum. Enter Lord Talbot, the Duke of Burgundy, and the rest of the English soldiers
-TALBOT
-Lost and recovered in a day again!
-This is a double honour, Burgundy;
-Yet heavens have glory for this victory!
-BURGUNDY
-Warlike and martial Talbot, Burgundy
-Enshrines thee in his heart, and there erects
-Thy noble deeds as valour’s monuments.
-TALBOT
-Thanks, gentle Duke. But where is Pucelle now?
-I think her old familiar is asleep.
-Now where’s the Bastard’s braves, and Charles his
-gleeks?
-What, all amort? Rouen hangs her head for grief
-That such a valiant company are fled.
-Now will we take some order in the town,
-Placing therein some expert officers,
-And then depart to Paris, to the King,
-For there young Henry with his nobles lie.
-BURGUNDY
-What wills Lord Talbot pleaseth Burgundy.
-TALBOT
-But yet, before we go, let’s not forget
-The noble Duke of Bedford late deceased,
-But see his exequies fulfilled in Rouen.
-A braver soldier never couched lance;
-A gentler heart did never sway in court.
-But kings and mightiest potentates must die,
-For that’s the end of human misery. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | An alarum. Enter Lord Talbot, the Duke of Burgundy, and the rest of the English soldiers |
+| TALBOT | Lost and recovered in a day again!<br>This is a double honour, Burgundy;<br>Yet heavens have glory for this victory! |
+| BURGUNDY | Warlike and martial Talbot, Burgundy<br>Enshrines thee in his heart, and there erects<br>Thy noble deeds as valour’s monuments. |
+| TALBOT | Thanks, gentle Duke. But where is Pucelle now?<br>I think her old familiar is asleep.<br>Now where’s the Bastard’s braves, and Charles his<br>gleeks?<br>What, all amort? Rouen hangs her head for grief<br>That such a valiant company are fled.<br>Now will we take some order in the town,<br>Placing therein some expert officers,<br>And then depart to Paris, to the King,<br>For there young Henry with his nobles lie. |
+| BURGUNDY | What wills Lord Talbot pleaseth Burgundy. |
+| TALBOT | But yet, before we go, let’s not forget<br>The noble Duke of Bedford late deceased,<br>But see his exequies fulfilled in Rouen.<br>A braver soldier never couched lance;<br>A gentler heart did never sway in court.<br>But kings and mightiest potentates must die,<br>For that’s the end of human misery. Exeunt |

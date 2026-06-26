@@ -14,188 +14,52 @@ tags:
 </nav>
 
 
-Enter Gower
-GOWER
-Imagine Pericles arrived at Tyre,
-Welcomed and settled to his own desire.
-His woeful queen we leave at Ephesus,
-Unto Diana there ’s a votaress.
-Now to Marina bend your mind,
-Whom our fast-growing scene must find
-At Tarsus, and by Cleon trained
-In music, letters; who hath gained
-Of education all the grace,
-Which makes her both the heart and place
-Of gen‘ral wonder. But, alack,
-That monster envy, oft the wrack
-Of earned praise, Marina’s life
-Seeks to take off by treason’s knife,
-And in this kind our Cleon has
-One daughter, and a full-grown lass
-E’en ripe for marriage-rite. This maid
-Hight Philoten, and it is said
-For certain in our story she
-Would ever with Marina be,
-Be’t when they weaved the sleided silk
-With fingers long, small, white as milk;
-Or when she would with sharp nee‘le wound
-The cambric which she made more sound
-By hurting it, or when to th’ lute
-She sung, and made the night bird mute,
-That still records with moan; or when
-She would with rich and constant pen
-Vail to her mistress Dian. Still
-This Philoten contends in skill
-With absolute Marina; so
-With dove of Paphos might the crow
-Vie feathers white. Marina gets
-All praises which are paid as debts,
-And not as given. This so darks
-In Philoten all graceful marks
-That Cleon’s wife with envy rare
-A present murder does prepare
-For good Marina, that her daughter
-Might stand peerless by this slaughter.
-The sooner her vile thoughts to stead
-Lychorida, our nurse, is dead,
-⌈A tomb is revealed⌉
-And cursed Dionyza hath
-The pregnant instrument of wrath
-Pressed for this blow. Th’unborn event
-I do commend to your content,
-Only I carry winged Time
-Post on the lame feet of my rhyme,
-Which never could I so convey
-Unless your thoughts went on my way.
-⌈Enter Dionyza with Leonine⌉
-Dionyza does appear,
-With Leonine, a murderer. Exit
-DIONYZA
-Thy oath remember. Thou hast sworn to do’t.
-‘Tis but a blow, which never shall be known.
-Thou canst not do a thing i’th’ world so soon
-To yield thee so much profit. Let not conscience,
-Which is but cold, or fanning love thy bosom
-Unflame too nicely, nor let pity, which
-E’en women have cast off, melt thee; but be
-A soldier to thy purpose.
-LEONINE I will do’t;
-But yet she is a goodly creature.
-DIONYZA
-The fitter then the gods should have her.
-Enter Marina ⌈to the tomb⌉ with a basket of flowers
-Here she comes, weeping her only nurse’s death.
-Thou art resolved.
-LEONINE I am resolved.
-MARINA
-No, I will rob Tellus of her weed
-To strew thy grave with flow’rs. The yellows, blues,
-The purple violets and marigolds
-Shall as a carpet hang upon thy tomb
-While summer days doth last. Ay me, poor maid,
-Born in a tempest when my mother died,
-This world to me is but a ceaseless storm
-Whirring me from my friends.
-DIONYZA
-How now, Marina, why do you keep alone?
-How chance my daughter is not with you?
-Do not consume your blood with sorrowing.
-Have you a nurse of me. Lord, how your favour
-Is changed with this unprofitable woe!
-Give me your flowers. Come, o’er the sea margin
-Walk with Leonine. The air is piercing there,
-And quick; it sharps the stomach. Come, Leonine,
-Take her by th’ arm. Walk with her.
-MARINA No, I pray you,
-I’ll not bereave you of your servant.
-DIONYZA Come, come,
-I love the King your father and yourself
-With more than foreign heart. We ev’ry day
-Expect him here. When he shall come and find
-Our paragon to all reports thus blasted,
-He will repent the breadth of his great voyage,
-Blame both my lord and me, that we have taken
-No care to your best courses. Go, I pray you,
-Walk and be cheerful once again; resume
-That excellent complexion which did steal
-The eyes of young and old. Care not for me.
-I can go home alone.
-MARINA Well, I will go,
-But truly I have no desire to it.
-DIONYZA
-Nay, I know ’tis good for you. Walk half an hour,
-Leonine, at the least; remember
-What I have said.
-LEONINE I warr’nt you, madam.
-DIONYZA (to Marina)
-I’ll leave you, my sweet lady, for a while.
-Pray you walk softly, do not heat your blood.
-What, I must have care of you!
-MARINA My thanks, sweet madam.
-Exit Dionyza
-Is this wind westerly that blows?
-LEONINE South-west.
-MARINA
-When I was born the wind was north.
-LEONINE Was’t SO? MARINA
-My father, as nurse says, did never fear,
-But cried ’Good seamen’ to the mariners,
-Galling his kingly hands with haling ropes,
-And, clasping to the mast, endured a sea
-That almost burst the deck.
-LEONINE When was this?
-MARINA When I was born.
-Never was waves nor wind more violent.
-Once from the ladder tackle washes off
-A canvas-climber. ‘Ha!’ says one, ‘wolt out?’
-And with a dropping industry they skip
-From stem to stern. The boatswain whistles, and
-The master calls and trebles their confusion.
-LEONINE Come, say your prayers.
-MARINA What mean you?
-LEONINE
-If you require a little space for prayer
-I grant it. Pray, but be not tedious.
-The gods are quick of ear, and I am sworn
-To do my work with haste.
-MARINA Why would you kill me?
-LEONINE
-To satisfy my lady.
-MARINA
-Why would she have me killed? Now, as I can remember, by my troth
-I never did her hurt in all my life.
-I never spake bad word, nor did ill turn
-To any living creature. Believe me, la.
-I never killed a mouse nor hurt a fly.
-I trod once on a worm against my will,
-But I wept for it. How have I offended
-Wherein my death might yield her any profit
-Or my life imply her danger?
-LEONINE My commission
-Is not to reason of the deed, but do’t.
-MARINA
-You will not do’t for all the world, I hope.
-You are well favoured, and your looks foreshow
-You have a gentle heart. I saw you lately
-When you caught hurt in parting two that fought.
-Good sooth, it showed well in you. Do so now.
-Your lady seeks my life. Come you between,
-And save poor me, the weaker.
-LEONINE ⌈drawing out his sword⌉ I am sworn,
-And will dispatch.
-Enter Pirates ⌈running⌉
-FIRST PIRATE Hold, villain.
-Leonine runs away ⌈and hides behind the tomb⌉
-SECOND PIRATE A prize, a prize.
-THIRD PIRATE Half-part, mates, half-part. Come, let’s have her aboard suddenly.
-Exeunt Pirates ⌈carrying⌉ Marina
-Leonine ⌈steals back⌉
-LEONINE
-These roguing thieves serve the great pirate Valdes.
-An they have seized Marina, let her go.
-There’s no hope she’ll return. I’ll swear she’s dead
-And thrown into the sea; but I’ll see further.
-Perhaps they will but please themselves upon her,
-Not carry her aboard. If she remain,
-Whom they have ravished must by me be slain.
-Exit. ⌈The tomb is concealed⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Gower |
+| GOWER | Imagine Pericles arrived at Tyre,<br>Welcomed and settled to his own desire.<br>His woeful queen we leave at Ephesus,<br>Unto Diana there ’s a votaress.<br>Now to Marina bend your mind,<br>Whom our fast-growing scene must find<br>At Tarsus, and by Cleon trained<br>In music, letters; who hath gained<br>Of education all the grace,<br>Which makes her both the heart and place<br>Of gen‘ral wonder. But, alack,<br>That monster envy, oft the wrack<br>Of earned praise, Marina’s life<br>Seeks to take off by treason’s knife,<br>And in this kind our Cleon has<br>One daughter, and a full-grown lass<br>E’en ripe for marriage-rite. This maid<br>Hight Philoten, and it is said<br>For certain in our story she<br>Would ever with Marina be,<br>Be’t when they weaved the sleided silk<br>With fingers long, small, white as milk;<br>Or when she would with sharp nee‘le wound<br>The cambric which she made more sound<br>By hurting it, or when to th’ lute<br>She sung, and made the night bird mute,<br>That still records with moan; or when<br>She would with rich and constant pen<br>Vail to her mistress Dian. Still<br>This Philoten contends in skill<br>With absolute Marina; so<br>With dove of Paphos might the crow<br>Vie feathers white. Marina gets<br>All praises which are paid as debts,<br>And not as given. This so darks<br>In Philoten all graceful marks<br>That Cleon’s wife with envy rare<br>A present murder does prepare<br>For good Marina, that her daughter<br>Might stand peerless by this slaughter.<br>The sooner her vile thoughts to stead<br>Lychorida, our nurse, is dead, |
+| *(didascalia)* | A tomb is revealed |
+| GOWER | And cursed Dionyza hath<br>The pregnant instrument of wrath<br>Pressed for this blow. Th’unborn event<br>I do commend to your content,<br>Only I carry winged Time<br>Post on the lame feet of my rhyme,<br>Which never could I so convey<br>Unless your thoughts went on my way. |
+| *(didascalia)* | Enter Dionyza with Leonine |
+| GOWER | Dionyza does appear,<br>With Leonine, a murderer. Exit |
+| DIONYZA | Thy oath remember. Thou hast sworn to do’t.<br>‘Tis but a blow, which never shall be known.<br>Thou canst not do a thing i’th’ world so soon<br>To yield thee so much profit. Let not conscience,<br>Which is but cold, or fanning love thy bosom<br>Unflame too nicely, nor let pity, which<br>E’en women have cast off, melt thee; but be<br>A soldier to thy purpose. |
+| LEONINE | I will do’t;<br>But yet she is a goodly creature. |
+| DIONYZA | The fitter then the gods should have her. |
+| *(didascalia)* | Enter Marina to the tomb with a basket of flowers |
+| DIONYZA | Here she comes, weeping her only nurse’s death.<br>Thou art resolved. |
+| LEONINE | I am resolved. |
+| MARINA | No, I will rob Tellus of her weed<br>To strew thy grave with flow’rs. The yellows, blues,<br>The purple violets and marigolds<br>Shall as a carpet hang upon thy tomb<br>While summer days doth last. Ay me, poor maid,<br>Born in a tempest when my mother died,<br>This world to me is but a ceaseless storm<br>Whirring me from my friends. |
+| DIONYZA | How now, Marina, why do you keep alone?<br>How chance my daughter is not with you?<br>Do not consume your blood with sorrowing.<br>Have you a nurse of me. Lord, how your favour<br>Is changed with this unprofitable woe!<br>Give me your flowers. Come, o’er the sea margin<br>Walk with Leonine. The air is piercing there,<br>And quick; it sharps the stomach. Come, Leonine,<br>Take her by th’ arm. Walk with her. |
+| MARINA | No, I pray you,<br>I’ll not bereave you of your servant. |
+| DIONYZA | Come, come,<br>I love the King your father and yourself<br>With more than foreign heart. We ev’ry day<br>Expect him here. When he shall come and find<br>Our paragon to all reports thus blasted,<br>He will repent the breadth of his great voyage,<br>Blame both my lord and me, that we have taken<br>No care to your best courses. Go, I pray you,<br>Walk and be cheerful once again; resume<br>That excellent complexion which did steal<br>The eyes of young and old. Care not for me.<br>I can go home alone. |
+| MARINA | Well, I will go,<br>But truly I have no desire to it. |
+| DIONYZA | Nay, I know ’tis good for you. Walk half an hour,<br>Leonine, at the least; remember<br>What I have said. |
+| LEONINE | I warr’nt you, madam. |
+| DIONYZA | (to Marina)<br>I’ll leave you, my sweet lady, for a while.<br>Pray you walk softly, do not heat your blood.<br>What, I must have care of you! |
+| MARINA | My thanks, sweet madam. |
+| *(didascalia)* | Exit Dionyza |
+| MARINA | Is this wind westerly that blows? |
+| LEONINE | South-west. |
+| MARINA | When I was born the wind was north. |
+| LEONINE | Was’t SO? MARINA<br>My father, as nurse says, did never fear,<br>But cried ’Good seamen’ to the mariners,<br>Galling his kingly hands with haling ropes,<br>And, clasping to the mast, endured a sea<br>That almost burst the deck. |
+| LEONINE | When was this? |
+| MARINA | When I was born.<br>Never was waves nor wind more violent.<br>Once from the ladder tackle washes off<br>A canvas-climber. ‘Ha!’ says one, ‘wolt out?’<br>And with a dropping industry they skip<br>From stem to stern. The boatswain whistles, and<br>The master calls and trebles their confusion. |
+| LEONINE | Come, say your prayers. |
+| MARINA | What mean you? |
+| LEONINE | If you require a little space for prayer<br>I grant it. Pray, but be not tedious.<br>The gods are quick of ear, and I am sworn<br>To do my work with haste. |
+| MARINA | Why would you kill me? |
+| LEONINE | To satisfy my lady. |
+| MARINA | Why would she have me killed? Now, as I can remember, by my troth<br>I never did her hurt in all my life.<br>I never spake bad word, nor did ill turn<br>To any living creature. Believe me, la.<br>I never killed a mouse nor hurt a fly.<br>I trod once on a worm against my will,<br>But I wept for it. How have I offended<br>Wherein my death might yield her any profit<br>Or my life imply her danger? |
+| LEONINE | My commission<br>Is not to reason of the deed, but do’t. |
+| MARINA | You will not do’t for all the world, I hope.<br>You are well favoured, and your looks foreshow<br>You have a gentle heart. I saw you lately<br>When you caught hurt in parting two that fought.<br>Good sooth, it showed well in you. Do so now.<br>Your lady seeks my life. Come you between,<br>And save poor me, the weaker. |
+| *(didascalia)* | LEONINE drawing out his sword I am sworn, |
+| MARINA | And will dispatch. |
+| *(didascalia)* | Enter Pirates running |
+| FIRST PIRATE | Hold, villain. |
+| *(didascalia)* | Leonine runs away and hides behind the tomb |
+| SECOND PIRATE | A prize, a prize. |
+| THIRD PIRATE | Half-part, mates, half-part. Come, let’s have her aboard suddenly. |
+| *(didascalia)* | Exeunt Pirates carrying Marina |
+| *(didascalia)* | Leonine steals back |
+| LEONINE | These roguing thieves serve the great pirate Valdes.<br>An they have seized Marina, let her go.<br>There’s no hope she’ll return. I’ll swear she’s dead<br>And thrown into the sea; but I’ll see further.<br>Perhaps they will but please themselves upon her,<br>Not carry her aboard. If she remain,<br>Whom they have ravished must by me be slain. |
+| *(didascalia)* | Exit. The tomb is concealed |

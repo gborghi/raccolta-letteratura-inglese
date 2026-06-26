@@ -14,245 +14,45 @@ tags:
 </nav>
 
 
-Enter Duke Senior and Lords dressed as outlaws
-DUKE SENIOR
-I think he be transformed into a beast,
-For I can nowhere find him like a man.
-FIRST LORD
-My lord, he is but even now gone hence.
-Here was he merry, hearing of a song.
-DUKE SENIOR
-If he, compact of jars, grow musical
-We shall have shortly discord in the spheres.
-Go seek him. Tell him I would speak with him.
-Enter Jaques
-FIRST LORD
-He saves my labour by his own approach.
-DUKE SENIOR
-Why, how now, monsieur, what a life is this,
-That your poor friends must woo your company!
-What, you look merrily.
-JAQUES
-A fool, a fool, I met a fool i‘th’ forest,
-A motley foot—a miserable world!—
-As I do live by food, I met a fool,
-Who laid him down and basked him in the sun,
-And railed on Lady Fortune in good terms,
-In good set terms, and yet a motley fool.
-‘Good morrow, fool,’ quoth I. ‘No, sir,’ quoth he,
-‘Call me not fool till heaven hath sent me fortune.’
-And then he drew a dial from his poke,
-And looking on it with lack-lustre eye
-Says very wisely ‘It is ten o‘clock.’
-‘Thus we may see’, quoth he, ‘how the world wags.
-‘Tis but an hour ago since it was nine,
-And after one hour more ’twill be eleven.
-And so from hour to hour we ripe and ripe,
-And then from hour to hour we rot and rot;
-And thereby hangs a tale.’ When I did hear
-The motley fool thus moral on the time
-My lungs began to crow like chanticleer,
-That fools should be so deep-contemplative,
-And I did laugh sans intermission
-An hour by his dial. O noble fool,
-A worthy foot—motley’s the only wear.
-DUKE SENIOR What fool is this? 35
-JAQUES
-O worthy fool!—One that hath been a courtier,
-And says ‘If ladies be but young and fair
-They have the gift to know it.’ And in his brain,
-Which is as dry as the remainder biscuit
-After a voyage, he hath strange places crammed
-With observation, the which he vents
-In mangled forms. O that I were a fool,
-I am ambitious for a motley coat.
-DUKE SENIOR
-Thou shalt have one.
-JAQUES It is my only suit,
-Provided that you weed your better judgements
-Of all opinion that grows rank in them
-That I am wise. I must have liberty
-Withal, as large a charter as the wind,
-To blow on whom I please, for so fools have;
-And they that are most galled with my folly,
-They most must laugh. And why, sir, must they so?
-The why is plain as way to parish church:
-He that a fool doth very wisely hit
-Doth very foolishly, although he smart,
-Seem aught but senseless of the bob. If not,
-The wise man’s folly is anatomized
-Even by the squandering glances of the fool.
-Invest me in my motley. Give me leave
-To speak my mind, and I will through and through
-Cleanse the foul body of th’infected world,
-If they will patiently receive my medicine.
-DUKE SENIOR
-Fie on thee, I can tell what thou wouldst do.
-JAQUES
-What, for a counter, would I do but good?
-DUKE SENIOR
-Most mischievous foul sin, in chiding sin;
-For thou thyself hast been a libertine,
-As sensual as the brutish sting itself,
-And all th’embossèd sores and headed evils
-That thou with licence of free foot hast caught
-Wouldst thou disgorge into the general world.
-JAQUES Why, who cries out on pride
-That can therein tax any private party?
-Doth it not flow as hugely as the sea,
-Till that the weary very means do ebb?
-What woman in the city do I name
-When that I say the city-woman bears
-The cost of princes on unworthy shoulders?
-Who can come in and say that I mean her
-When such a one as she, such is her neighbour?
-Or what is he of basest function,
-That says his bravery is not on my cost,
-Thinking that I mean him, but therein suits
-His folly to the mettle of my speech?
-There then, how then, what then, let me see wherein
-My tongue hath wronged him. If it do him right,
-Then he hath wronged himself. If he be free,
-Why then my taxing like a wild goose flies,
-Unclaimed of any man. But who comes here?
-Enter Orlando, with sword drawn
-ORLANDO
-Forbear, and eat no more!
-JAQUES Why, I have eat none yet.
-ORLANDO
-Nor shalt not till necessity be served.
-JAQUES Of what kind should this cock come of?
-DUKE SENIOR
-Art thou thus boldened, man, by thy distress?
-Or else a rude despiser of good manners,
-That in civility thou seem’st so empty?
-ORLANDO
-You touched my vein at first. The thorny point
-Of bare distress hath ta’en from me the show
-Of smooth civility. Yet am I inland bred,
-And know some nurture. But forbear, I say.
-He dies that touches any of this fruit
-Till I and my affairs are answered.
-JAQUES An you will not be answered with reason, I must die.
-DUKE SENIOR
-What would you have? Your gentleness shall force
-More than your force move us to gentleness.
-ORLANDO
-I almost die for food; and let me have it.
-DUKE SENIOR
-Sit down and feed, and welcome to our table.
-ORLANDO
-Speak you so gently? Pardon me, I pray you.
-I thought that all things had been savage here,
-And therefore put I on the countenance
-Of stern commandment. But whate‘er you are
-That in this desert inaccessible,
-Under the shade of melancholy boughs,
-Lose and neglect the creeping hours of time,
-If ever you have looked on better days,
-If ever been where bells have knolled to church,
-If ever sat at any good man’s feast,
-If ever from your eyelids wiped a tear,
-And know what ’tis to pity, and be pitied,
-Let gentleness my strong enforcement be.
-In the which hope I blush, and hide my sword.
-DUKE SENIOR
-True is it that we have seen better days,
-And have with holy bell been knolled to church,
-And sat at good men’s feasts, and wiped our eyes
-Of drops that sacred pity hath engendered.
-And therefore sit you down in gentleness,
-And take upon command what help we have
-That to your wanting may be ministered.
-ORLANDO
-Then but forbear your food a little while
-Whiles, like a doe, I go to find my fawn
-And give it food. There is an old poor man
-Who after me hath many a weary step
-Limped in pure love. Till he be first sufficed,
-Oppressed with two weak evils, age and hunger,
-I will not touch a bit.
-DUKE SENIOR
-Go find him out,
-And we will nothing waste till you return.
-ORLANDO
-I thank ye; and be blessed for your good comfortl Exit
-DUKE SENIOR
-Thou seest we are not all alone unhappy.
-This wide and universal theatre
-Presents more woeful pageants than the scene
-Wherein we play in.
-JAQUES
-All the world’s a stage,
-And all the men and women merely players.
-They have their exits and their entrances,
-And one man in his time plays many parts,
-His acts being seven ages. At first the infant,
-Mewling and puking in the nurse’s arms.
-Then the whining schoolboy with his satchel
-And shining morning face, creeping like snail
-Unwillingly to school. And then the lover,
-Sighing like furnace, with a woeful ballad
-Made to his mistress’ eyebrow. Then, a soldier,
-Full of strange oaths, and bearded like the pard,
-Jealous in honour, sudden, and quick in quarrel,
-Seeking the bubble reputation
-Even in the cannon’s mouth. And then the justice,
-In fair round belly with good capon lined,
-With eyes severe and beard of formal cut,
-Full of wise saws and modern instances;
-And so he plays his part. The sixth age shifts
-Into the lean and slippered pantaloon,
-With spectacles on nose and pouch on side,
-His youthful hose, well saved, a world too wide
-For his shrunk shank, and his big, manly voice,
-Turning again toward childish treble, pipes
-And whistles in his sound. Last scene of all,
-That ends this strange, eventful history,
-Is second childishness and mere oblivion,
-Sans teeth, sans eyes, sans taste, sans everything.
-Enter Orlando bearing Adam
-DUKE SENIOR
-Welcome. Set down your venerable burden
-And let him feed.
-ORLANDO I thank you most for him.
-ADAM So had you need;
-I scarce can speak to thank you for myself.
-DUKE SENIOR
-Welcome. Fall to. I will not trouble you
-As yet to question you about your fortunes.
-Give us some music, and, good cousin, sing.
-[amiens] (sings)
-Blow, blow, thou winter wind,
-Thou art not so unkind
-As man’s ingratitude.
-Thy tooth is not so keen,
-Because thou art not seen,
-Although thy breath be rude.
-Hey-ho, sing hey-ho, unto the green holly.
-Most friendship is feigning, most loving, mere folly.
-Then hey-ho, the holly;
-This life is most jolly.
-
-Freeze, freeze, thou bitter sky,
-That dost not bite so nigh
-As benefits forgot.
-Though thou the waters warp,
-Thy sting is not so sharp
-As friend remembered not.
-Hey-ho, sing hey-ho, unto the green holly.
-Most friendship is feigning, most loving, mere folly.
-Then hey-ho, the holly;
-This life is most jolly.
-DUKE SENIOR (to Orlando)
-If that you were the good Sir Rowland’s son,
-As you have whispered faithfully you were,
-And as mine eye doth his effigies witness
-Most truly limned and living in your face,
-Be truly welcome hither. I am the Duke
-That loved your father. The residue of your fortune,
-Go to my cave and tell me. (To Adam) Good old man,
-Thou art right welcome, as thy master is.—
-(To Lords) Support him by the arm. (To Orlando) Give
-me your hand,
-And let me all your fortunes understand. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Duke Senior and Lords dressed as outlaws |
+| DUKE SENIOR | I think he be transformed into a beast,<br>For I can nowhere find him like a man. |
+| FIRST LORD | My lord, he is but even now gone hence.<br>Here was he merry, hearing of a song. |
+| DUKE SENIOR | If he, compact of jars, grow musical<br>We shall have shortly discord in the spheres.<br>Go seek him. Tell him I would speak with him. |
+| *(didascalia)* | Enter Jaques |
+| FIRST LORD | He saves my labour by his own approach. |
+| DUKE SENIOR | Why, how now, monsieur, what a life is this,<br>That your poor friends must woo your company!<br>What, you look merrily. |
+| JAQUES | A fool, a fool, I met a fool i‘th’ forest,<br>A motley foot—a miserable world!—<br>As I do live by food, I met a fool,<br>Who laid him down and basked him in the sun,<br>And railed on Lady Fortune in good terms,<br>In good set terms, and yet a motley fool.<br>‘Good morrow, fool,’ quoth I. ‘No, sir,’ quoth he,<br>‘Call me not fool till heaven hath sent me fortune.’<br>And then he drew a dial from his poke,<br>And looking on it with lack-lustre eye<br>Says very wisely ‘It is ten o‘clock.’<br>‘Thus we may see’, quoth he, ‘how the world wags.<br>‘Tis but an hour ago since it was nine,<br>And after one hour more ’twill be eleven.<br>And so from hour to hour we ripe and ripe,<br>And then from hour to hour we rot and rot;<br>And thereby hangs a tale.’ When I did hear<br>The motley fool thus moral on the time<br>My lungs began to crow like chanticleer,<br>That fools should be so deep-contemplative,<br>And I did laugh sans intermission<br>An hour by his dial. O noble fool,<br>A worthy foot—motley’s the only wear. |
+| DUKE SENIOR | What fool is this? 35 |
+| JAQUES | O worthy fool!—One that hath been a courtier,<br>And says ‘If ladies be but young and fair<br>They have the gift to know it.’ And in his brain,<br>Which is as dry as the remainder biscuit<br>After a voyage, he hath strange places crammed<br>With observation, the which he vents<br>In mangled forms. O that I were a fool,<br>I am ambitious for a motley coat. |
+| DUKE SENIOR | Thou shalt have one. |
+| JAQUES | It is my only suit,<br>Provided that you weed your better judgements<br>Of all opinion that grows rank in them<br>That I am wise. I must have liberty<br>Withal, as large a charter as the wind,<br>To blow on whom I please, for so fools have;<br>And they that are most galled with my folly,<br>They most must laugh. And why, sir, must they so?<br>The why is plain as way to parish church:<br>He that a fool doth very wisely hit<br>Doth very foolishly, although he smart,<br>Seem aught but senseless of the bob. If not,<br>The wise man’s folly is anatomized<br>Even by the squandering glances of the fool.<br>Invest me in my motley. Give me leave<br>To speak my mind, and I will through and through<br>Cleanse the foul body of th’infected world,<br>If they will patiently receive my medicine. |
+| DUKE SENIOR | Fie on thee, I can tell what thou wouldst do. |
+| JAQUES | What, for a counter, would I do but good? |
+| DUKE SENIOR | Most mischievous foul sin, in chiding sin;<br>For thou thyself hast been a libertine,<br>As sensual as the brutish sting itself,<br>And all th’embossèd sores and headed evils<br>That thou with licence of free foot hast caught<br>Wouldst thou disgorge into the general world. |
+| JAQUES | Why, who cries out on pride<br>That can therein tax any private party?<br>Doth it not flow as hugely as the sea,<br>Till that the weary very means do ebb?<br>What woman in the city do I name<br>When that I say the city-woman bears<br>The cost of princes on unworthy shoulders?<br>Who can come in and say that I mean her<br>When such a one as she, such is her neighbour?<br>Or what is he of basest function,<br>That says his bravery is not on my cost,<br>Thinking that I mean him, but therein suits<br>His folly to the mettle of my speech?<br>There then, how then, what then, let me see wherein<br>My tongue hath wronged him. If it do him right,<br>Then he hath wronged himself. If he be free,<br>Why then my taxing like a wild goose flies,<br>Unclaimed of any man. But who comes here? |
+| *(didascalia)* | Enter Orlando, with sword drawn |
+| ORLANDO | Forbear, and eat no more! |
+| JAQUES | Why, I have eat none yet. |
+| ORLANDO | Nor shalt not till necessity be served. |
+| JAQUES | Of what kind should this cock come of? |
+| DUKE SENIOR | Art thou thus boldened, man, by thy distress?<br>Or else a rude despiser of good manners,<br>That in civility thou seem’st so empty? |
+| ORLANDO | You touched my vein at first. The thorny point<br>Of bare distress hath ta’en from me the show<br>Of smooth civility. Yet am I inland bred,<br>And know some nurture. But forbear, I say.<br>He dies that touches any of this fruit<br>Till I and my affairs are answered. |
+| JAQUES | An you will not be answered with reason, I must die. |
+| DUKE SENIOR | What would you have? Your gentleness shall force<br>More than your force move us to gentleness. |
+| ORLANDO | I almost die for food; and let me have it. |
+| DUKE SENIOR | Sit down and feed, and welcome to our table. |
+| ORLANDO | Speak you so gently? Pardon me, I pray you.<br>I thought that all things had been savage here,<br>And therefore put I on the countenance<br>Of stern commandment. But whate‘er you are<br>That in this desert inaccessible,<br>Under the shade of melancholy boughs,<br>Lose and neglect the creeping hours of time,<br>If ever you have looked on better days,<br>If ever been where bells have knolled to church,<br>If ever sat at any good man’s feast,<br>If ever from your eyelids wiped a tear,<br>And know what ’tis to pity, and be pitied,<br>Let gentleness my strong enforcement be.<br>In the which hope I blush, and hide my sword. |
+| DUKE SENIOR | True is it that we have seen better days,<br>And have with holy bell been knolled to church,<br>And sat at good men’s feasts, and wiped our eyes<br>Of drops that sacred pity hath engendered.<br>And therefore sit you down in gentleness,<br>And take upon command what help we have<br>That to your wanting may be ministered. |
+| ORLANDO | Then but forbear your food a little while<br>Whiles, like a doe, I go to find my fawn<br>And give it food. There is an old poor man<br>Who after me hath many a weary step<br>Limped in pure love. Till he be first sufficed,<br>Oppressed with two weak evils, age and hunger,<br>I will not touch a bit. |
+| DUKE SENIOR | Go find him out,<br>And we will nothing waste till you return. |
+| ORLANDO | I thank ye; and be blessed for your good comfortl Exit |
+| DUKE SENIOR | Thou seest we are not all alone unhappy.<br>This wide and universal theatre<br>Presents more woeful pageants than the scene<br>Wherein we play in. |
+| JAQUES | All the world’s a stage,<br>And all the men and women merely players.<br>They have their exits and their entrances,<br>And one man in his time plays many parts,<br>His acts being seven ages. At first the infant,<br>Mewling and puking in the nurse’s arms.<br>Then the whining schoolboy with his satchel<br>And shining morning face, creeping like snail<br>Unwillingly to school. And then the lover,<br>Sighing like furnace, with a woeful ballad<br>Made to his mistress’ eyebrow. Then, a soldier,<br>Full of strange oaths, and bearded like the pard,<br>Jealous in honour, sudden, and quick in quarrel,<br>Seeking the bubble reputation<br>Even in the cannon’s mouth. And then the justice,<br>In fair round belly with good capon lined,<br>With eyes severe and beard of formal cut,<br>Full of wise saws and modern instances;<br>And so he plays his part. The sixth age shifts<br>Into the lean and slippered pantaloon,<br>With spectacles on nose and pouch on side,<br>His youthful hose, well saved, a world too wide<br>For his shrunk shank, and his big, manly voice,<br>Turning again toward childish treble, pipes<br>And whistles in his sound. Last scene of all,<br>That ends this strange, eventful history,<br>Is second childishness and mere oblivion,<br>Sans teeth, sans eyes, sans taste, sans everything. |
+| *(didascalia)* | Enter Orlando bearing Adam |
+| DUKE SENIOR | Welcome. Set down your venerable burden<br>And let him feed. |
+| ORLANDO | I thank you most for him. |
+| ADAM | So had you need;<br>I scarce can speak to thank you for myself. |
+| DUKE SENIOR | Welcome. Fall to. I will not trouble you<br>As yet to question you about your fortunes.<br>Give us some music, and, good cousin, sing.<br>[amiens] (sings)<br>Blow, blow, thou winter wind,<br>Thou art not so unkind<br>As man’s ingratitude.<br>Thy tooth is not so keen,<br>Because thou art not seen,<br>Although thy breath be rude.<br>Hey-ho, sing hey-ho, unto the green holly.<br>Most friendship is feigning, most loving, mere folly.<br>Then hey-ho, the holly;<br>This life is most jolly.<br><br>Freeze, freeze, thou bitter sky,<br>That dost not bite so nigh<br>As benefits forgot.<br>Though thou the waters warp,<br>Thy sting is not so sharp<br>As friend remembered not.<br>Hey-ho, sing hey-ho, unto the green holly.<br>Most friendship is feigning, most loving, mere folly.<br>Then hey-ho, the holly;<br>This life is most jolly. |
+| DUKE SENIOR | (to Orlando)<br>If that you were the good Sir Rowland’s son,<br>As you have whispered faithfully you were,<br>And as mine eye doth his effigies witness<br>Most truly limned and living in your face,<br>Be truly welcome hither. I am the Duke<br>That loved your father. The residue of your fortune,<br>Go to my cave and tell me. (To Adam) Good old man,<br>Thou art right welcome, as thy master is.—<br>(To Lords) Support him by the arm. (To Orlando) Give<br>me your hand,<br>And let me all your fortunes understand. Exeunt |

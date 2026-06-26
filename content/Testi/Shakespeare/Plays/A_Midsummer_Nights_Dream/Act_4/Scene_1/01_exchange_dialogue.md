@@ -13,55 +13,22 @@ tags:
 </nav>
 
 
-Enter Titania, Queen of Fairies, and Bottom the clown with the ass-head, and fairies: Peaseblossom, Cobweb, Mote, and Mustardseed
-
-TITANIA (to Bottom)
-Come, sit thee down upon this flow’ry bed,
-While I thy amiable cheeks do coy,
-And stick musk-roses in thy sleek smooth head,
-And kiss thy fair large ears, my gentle joy.
-
-BOTTOM Where’s Peaseblossom?
-
-PEASEBLOSSOM Ready.
-
-BOTTOM Scratch my head, Peaseblossom. Where’s Monsieur Cobweb?
-
-COBWEB Ready.
-
-BOTTOM Monsieur Cobweb, good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honeybag. Do not fret yourself too much in the action, monsieur; and, good monsieur, have a care the honeybag break not. I would be loath to have you overflowen with a honeybag, signor. ⌈Exit Cobweb⌉ Where’s Monsieur Mustardseed?
-
-MUSTARDSEED Ready.
-
-BOTTOM Give me your neaf, Monsieur Mustardseed. Pray you, leave your courtesy, good monsieur.
-
-MUSTARDSEED What’s your will?
-
-BOTTOM Nothing, good monsieur, but to help Cavaliery Peaseblossom to scratch. I must to the barber’s, monsieur, for methinks I am marvellous hairy about the face; and I am such a tender ass, if my hair do but tickle me I must scratch.
-
-TITANIA
-What, wilt thou hear some music, my sweet love?
-
-BOTTOM I have a reasonable good ear in music. Let’s have the tongs and the bones.
-⌈Rural music⌉
-
-TITANIA
-Or say, sweet love, what thou desir’st to eat.
-
-BOTTOM Truly, a peck of provender. I could munch your good dry oats. Methinks I have a great desire to a bottle of hay. Good hay, sweet hay, hath no fellow.
-
-TITANIA
-I have a venturous fairy that shall seek
-The squirrel’s hoard, and fetch thee off new nuts.
-Bottom I had rather have a handful or two of dried peas. But I pray you, let none of your people stir me. I have an exposition of sleep come upon me.
-
-TITANIA
-Sleep thou, and I will wind thee in my arms.
-Fairies, be gone, and be all ways away.
-Exeunt Fairies
-So doth the woodbine the sweet honeysuckle
-Gently entwist; the female ivy so
-Enrings the barky fingers of the elm.
-O how I love thee, how I dote on thee!
-They sleep.
-Enter Robin Goodfellow ⌈and Oberon, meeting⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Titania, Queen of Fairies, and Bottom the clown with the ass-head, and fairies: Peaseblossom, Cobweb, Mote, and Mustardseed |
+| TITANIA | (to Bottom) Come, sit thee down upon this flow’ry bed, While I thy amiable cheeks do coy, And stick musk-roses in thy sleek smooth head, And kiss thy fair large ears, my gentle joy. |
+| BOTTOM | Where’s Peaseblossom? |
+| PEASEBLOSSOM | Ready. |
+| BOTTOM | Scratch my head, Peaseblossom. Where’s Monsieur Cobweb? |
+| COBWEB | Ready. |
+| BOTTOM | Monsieur Cobweb, good monsieur, get you your weapons in your hand and kill me a red-hipped humble-bee on the top of a thistle; and, good monsieur, bring me the honeybag. Do not fret yourself too much in the action, monsieur; and, good monsieur, have a care the honeybag break not. I would be loath to have you overflowen with a honeybag, signor. Exit Cobweb Where’s Monsieur Mustardseed? |
+| MUSTARDSEED | Ready. |
+| BOTTOM | Give me your neaf, Monsieur Mustardseed. Pray you, leave your courtesy, good monsieur. |
+| MUSTARDSEED | What’s your will? |
+| BOTTOM | Nothing, good monsieur, but to help Cavaliery Peaseblossom to scratch. I must to the barber’s, monsieur, for methinks I am marvellous hairy about the face; and I am such a tender ass, if my hair do but tickle me I must scratch. |
+| TITANIA | What, wilt thou hear some music, my sweet love? |
+| BOTTOM | I have a reasonable good ear in music. Let’s have the tongs and the bones. Rural music |
+| TITANIA | Or say, sweet love, what thou desir’st to eat. |
+| BOTTOM | Truly, a peck of provender. I could munch your good dry oats. Methinks I have a great desire to a bottle of hay. Good hay, sweet hay, hath no fellow. |
+| TITANIA | I have a venturous fairy that shall seek The squirrel’s hoard, and fetch thee off new nuts. Bottom I had rather have a handful or two of dried peas. But I pray you, let none of your people stir me. I have an exposition of sleep come upon me. |
+| TITANIA | Sleep thou, and I will wind thee in my arms. Fairies, be gone, and be all ways away. Exeunt Fairies So doth the woodbine the sweet honeysuckle Gently entwist; the female ivy so Enrings the barky fingers of the elm. O how I love thee, how I dote on thee! They sleep. Enter Robin Goodfellow and Oberon, meeting |

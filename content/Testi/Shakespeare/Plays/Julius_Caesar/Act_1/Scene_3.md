@@ -14,211 +14,48 @@ tags:
 </nav>
 
 
-Thunder and lightning. Enter Casca, ⌈at one door, with his sword drawn,⌉ and Cicero ⌈at another⌉
-CICERO
-Good even, Casca. Brought you Caesar home?
-Why are you breathless, and why stare you so?
-CASCA
-Are not you moved, when all the sway of earth
-Shakes like a thing unfirm? O Cicero,
-I have seen tempests when the scolding winds
-Have rived the knotty oaks, and I have seen
-Th‘ambitious ocean swell and rage and foam
-To be exalted with the threat’ning clouds;
-But never till tonight, never till now,
-Did I go through a tempest dropping fire.
-Either there is a civil strife in heaven,
-Or else the world, too saucy with the gods,
-Incenses them to send destruction.
-CICERO
-Why, saw you anything more wonderful?
-CASCA
-A common slave—you know him well by sight—
-Held up his left hand, which did flame and burn
-Like twenty torches joined; and yet his hand,
-Not sensible of fire, remained unscorched.
-Besides—I ha’ not since put up my sword—
-Against the Capitol I met a lion
-Who glazed upon me, and went surly by
-Without annoying me. And there were drawn
-Upon a heap a hundred ghastly women,
-Transformed with their fear, who swore they saw
-Men all in fire walk up and down the streets.
-And yesterday the bird of night did sit
-Even at noonday upon the market-place,
-Hooting and shrieking. When these prodigies
-Do so conjointly meet, let not men say
-‘These are their reasons’, ‘they are natural’,
-For I believe they are portentous things
-Unto the climate that they point upon.
-CICERO
-Indeed it is a strange-disposed time;
-But men may construe things after their fashion,
-Clean from the purpose of the things themselves.
-Comes Caesar to the Capitol tomorrow?
-CASCA
-He doth, for he did bid Antonio
-Send word to you he would be there tomorrow.
-CICERO
-Good night then, Casca. This disturbed sky
-Is not to walk in.
-CASCA
-Farewell, Cicero. Exit Cicero
-Enter Cassius, ⌈unbraced⌉
-CASSIUS
-Who’s there?
-CASCA A Roman.
-CASSIUS Casca, by your voice.
-CASCA
-Your ear is good. Cassius, what night is this?
-CASSIUS
-A very pleasing night to honest men.
-CASCA
-Who ever knew the heavens menace so?
-CASSIUS
-Those that have known the earth so full of faults.
-For my part, I have walked about the streets,
-Submitting me unto the perilous night;
-And thus unbracèd, Casca, as you see,
-Have bared my bosom to the thunder-stone;
-And when the cross blue lightning seemed to open
-The breast of heaven, I did present myself
-Even in the aim and very flash of it.
-CASCA
-But wherefore did you so much tempt the heavens?
-It is the part of men to fear and tremble
-When the most mighty gods by tokens send
-Such dreadful heralds to astonish us.
-CASSIUS
-You are dull, Casca, and those sparks of life
-That should be in a Roman you do want,
-Or else you use not. You look pale, and gaze,
-And put on fear, and cast yourself in wonder,
-To see the strange impatience of the heavens;
-But if you would consider the true cause
-Why all these fires, why all these gliding ghosts,
-Why birds and beasts from quality and kind–
-Why old men, fools, and children calculate—
-Why all these things change from their ordinance,
-Their natures, and preformed faculties,
-To monstrous quality—why, you shall find
-That heaven hath infused them with these spirits
-To make them instruments of fear and warning
-Unto some monstrous state. Now could I, Casca,
-Name to thee a man most like this dreadful night,
-That thunders, lightens, opens graves, and roars
-As doth the lion in the Capitol;
-A man no mightier than thyself or me
-In personal action, yet prodigious grown,
-And fearful, as these strange eruptions are.
-CASCA
-‘Tis Caesar that you mean, is it not, Cassius?
-CASSIUS
-Let it be who it is; for Romans now
-Have thews and limbs like to their ancestors.
-But woe the while! Our fathers’ minds are dead,
-And we are governed with our mothers’ spirits.
-Our yoke and sufferance show us womanish.
-CASCA
-Indeed they say the senators tomorrow
-Mean to establish Caesar as a king,
-And he shall wear his crown by sea and land
-In every place save here in Italy.
-CASSIUS (drawing his dagger)
-I know where I will wear this dagger then:
-Cassius from bondage will deliver Cassius.
-Therein, ye gods, you make the weak most strong;
-Therein, ye gods, you tyrants do defeat.
-Nor stony tower, nor walls of beaten brass,
-Nor airless dungeon, nor strong links of iron,
-Can be retentive to the strength of spirit;
-But life, being weary of these worldly bars,
-Never lacks power to dismiss itself.
-If I know this, know all the world besides,
-That part of tyranny that I do bear
-I can shake off at pleasure.
-Thunder still
-CASCA So can I.
-So every bondman in his own hand bears
-The power to cancel his captivity.
-CASSIUS
-And why should Caesar be a tyrant then?
-Poor man, I know he would not be a wolf
-But that he sees the Romans are but sheep.
-He were no lion, were not Romans hinds.
-Those that with haste will make a mighty fire
-Begin it with weak straws. What trash is Rome,
-What rubbish, and what offal, when it serves
-For the base matter to illuminate
-So vile a thing as Caesar! But, O grief,
-Where hast thou led me? I perhaps speak this
-Before a willing bondman; then I know
-My answer must be made. But I am armed,
-And dangers are to me indifferent.
-CASCA
-You speak to Casca, and to such a man
-That is no fleering tell-tale. Hold. My hand.
-Be factious for redress of all these griefs,
-And I will set this foot of mine as far
-As who goes farthest.
-They join hands
-CASSIUS There’s a bargain made.
-Now know you, Casca, I have moved already
-Some certain of the noblest-minded Romans
-To undergo with me an enterprise
-Of honourable-dangerous consequence.
-And I do know by this they stay for me
-In Pompey’s Porch; for now, this fearful night,
-There is no stir or walking in the streets,
-And the complexion of the element
-In favour’s like the work we have in hand,
-Most bloody, fiery, and most terrible.
-Enter Cinna
-CASCA
-Stand close a while, for here comes one in haste.
-CASSIUS
-‘Tis Cinna; I do know him by his gait.
-He is a friend.—Cinna, where haste you so?
-CINNA
-To find out you. Who’s that? Metellus Cimber?
-CASSIUS
-No, it is Casca, one incorporate
-To our attempts. Am I not stayed for, Cinna?
-CINNA
-I am glad on’t. What a fearful night is this!
-There’s two or three of us have seen strange sights.
-CASSIUS Am I not stayed for? Tell me.
-CINNA Yes, you are.
-O Cassius, if you could
-But win the noble Brutus to our party—
-CASSIUS
-Be you content. Good Cinna, take this paper,
-He gives Cinna letters
-
-And look you lay it in the Praetor’s Chair,
-Where Brutus may but find it; and throw this
-In at his window. Set this up with wax
-Upon old Brutus’ statue. All this done,
-Repair to Pompey’s Porch where you shall find us.
-Is Decius Brutus and Trebonius there?
-CINNA
-All but Metellus Cimber, and he’s gone
-To seek you at your house. Well, I will hie,
-And so bestow these papers as you bade me.
-CASSIUS
-That done, repair to Pompey’s Theatre.
-Exit Cinna
-Come, Casca, you and I will yet ere day
-See Brutus at his house. Three parts of him
-Is ours already, and the man entire
-Upon the next encounter yields him ours.
-CASCA
-O, he sits high in all the people’s hearts,
-And that which would appear offence in us
-His countenance, like richest alchemy,
-Will change to virtue and to worthiness.
-CASSIUS
-Him and his worth, and our great need of him,
-You have right well conceited. Let us go,
-For it is after midnight, and ere day
-We will awake him and be sure of him. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Thunder and lightning. Enter Casca, at one door, with his sword drawn, and Cicero at another |
+| CICERO | Good even, Casca. Brought you Caesar home?<br>Why are you breathless, and why stare you so? |
+| CASCA | Are not you moved, when all the sway of earth<br>Shakes like a thing unfirm? O Cicero,<br>I have seen tempests when the scolding winds<br>Have rived the knotty oaks, and I have seen<br>Th‘ambitious ocean swell and rage and foam<br>To be exalted with the threat’ning clouds;<br>But never till tonight, never till now,<br>Did I go through a tempest dropping fire.<br>Either there is a civil strife in heaven,<br>Or else the world, too saucy with the gods,<br>Incenses them to send destruction. |
+| CICERO | Why, saw you anything more wonderful? |
+| CASCA | A common slave—you know him well by sight—<br>Held up his left hand, which did flame and burn<br>Like twenty torches joined; and yet his hand,<br>Not sensible of fire, remained unscorched.<br>Besides—I ha’ not since put up my sword—<br>Against the Capitol I met a lion<br>Who glazed upon me, and went surly by<br>Without annoying me. And there were drawn<br>Upon a heap a hundred ghastly women,<br>Transformed with their fear, who swore they saw<br>Men all in fire walk up and down the streets.<br>And yesterday the bird of night did sit<br>Even at noonday upon the market-place,<br>Hooting and shrieking. When these prodigies<br>Do so conjointly meet, let not men say<br>‘These are their reasons’, ‘they are natural’,<br>For I believe they are portentous things<br>Unto the climate that they point upon. |
+| CICERO | Indeed it is a strange-disposed time;<br>But men may construe things after their fashion,<br>Clean from the purpose of the things themselves.<br>Comes Caesar to the Capitol tomorrow? |
+| CASCA | He doth, for he did bid Antonio<br>Send word to you he would be there tomorrow. |
+| CICERO | Good night then, Casca. This disturbed sky<br>Is not to walk in. |
+| CASCA | Farewell, Cicero. Exit Cicero |
+| *(didascalia)* | Enter Cassius, unbraced |
+| CASSIUS | Who’s there? |
+| CASCA | A Roman. |
+| CASSIUS | Casca, by your voice. |
+| CASCA | Your ear is good. Cassius, what night is this? |
+| CASSIUS | A very pleasing night to honest men. |
+| CASCA | Who ever knew the heavens menace so? |
+| CASSIUS | Those that have known the earth so full of faults.<br>For my part, I have walked about the streets,<br>Submitting me unto the perilous night;<br>And thus unbracèd, Casca, as you see,<br>Have bared my bosom to the thunder-stone;<br>And when the cross blue lightning seemed to open<br>The breast of heaven, I did present myself<br>Even in the aim and very flash of it. |
+| CASCA | But wherefore did you so much tempt the heavens?<br>It is the part of men to fear and tremble<br>When the most mighty gods by tokens send<br>Such dreadful heralds to astonish us. |
+| CASSIUS | You are dull, Casca, and those sparks of life<br>That should be in a Roman you do want,<br>Or else you use not. You look pale, and gaze,<br>And put on fear, and cast yourself in wonder,<br>To see the strange impatience of the heavens;<br>But if you would consider the true cause<br>Why all these fires, why all these gliding ghosts,<br>Why birds and beasts from quality and kind–<br>Why old men, fools, and children calculate—<br>Why all these things change from their ordinance,<br>Their natures, and preformed faculties,<br>To monstrous quality—why, you shall find<br>That heaven hath infused them with these spirits<br>To make them instruments of fear and warning<br>Unto some monstrous state. Now could I, Casca,<br>Name to thee a man most like this dreadful night,<br>That thunders, lightens, opens graves, and roars<br>As doth the lion in the Capitol;<br>A man no mightier than thyself or me<br>In personal action, yet prodigious grown,<br>And fearful, as these strange eruptions are. |
+| CASCA | ‘Tis Caesar that you mean, is it not, Cassius? |
+| CASSIUS | Let it be who it is; for Romans now<br>Have thews and limbs like to their ancestors.<br>But woe the while! Our fathers’ minds are dead,<br>And we are governed with our mothers’ spirits.<br>Our yoke and sufferance show us womanish. |
+| CASCA | Indeed they say the senators tomorrow<br>Mean to establish Caesar as a king,<br>And he shall wear his crown by sea and land<br>In every place save here in Italy. |
+| CASSIUS | (drawing his dagger)<br>I know where I will wear this dagger then:<br>Cassius from bondage will deliver Cassius.<br>Therein, ye gods, you make the weak most strong;<br>Therein, ye gods, you tyrants do defeat.<br>Nor stony tower, nor walls of beaten brass,<br>Nor airless dungeon, nor strong links of iron,<br>Can be retentive to the strength of spirit;<br>But life, being weary of these worldly bars,<br>Never lacks power to dismiss itself.<br>If I know this, know all the world besides,<br>That part of tyranny that I do bear<br>I can shake off at pleasure. |
+| *(didascalia)* | Thunder still |
+| CASCA | So can I.<br>So every bondman in his own hand bears<br>The power to cancel his captivity. |
+| CASSIUS | And why should Caesar be a tyrant then?<br>Poor man, I know he would not be a wolf<br>But that he sees the Romans are but sheep.<br>He were no lion, were not Romans hinds.<br>Those that with haste will make a mighty fire<br>Begin it with weak straws. What trash is Rome,<br>What rubbish, and what offal, when it serves<br>For the base matter to illuminate<br>So vile a thing as Caesar! But, O grief,<br>Where hast thou led me? I perhaps speak this<br>Before a willing bondman; then I know<br>My answer must be made. But I am armed,<br>And dangers are to me indifferent. |
+| CASCA | You speak to Casca, and to such a man<br>That is no fleering tell-tale. Hold. My hand.<br>Be factious for redress of all these griefs,<br>And I will set this foot of mine as far<br>As who goes farthest.<br>They join hands |
+| CASSIUS | There’s a bargain made.<br>Now know you, Casca, I have moved already<br>Some certain of the noblest-minded Romans<br>To undergo with me an enterprise<br>Of honourable-dangerous consequence.<br>And I do know by this they stay for me<br>In Pompey’s Porch; for now, this fearful night,<br>There is no stir or walking in the streets,<br>And the complexion of the element<br>In favour’s like the work we have in hand,<br>Most bloody, fiery, and most terrible. |
+| *(didascalia)* | Enter Cinna |
+| CASCA | Stand close a while, for here comes one in haste. |
+| CASSIUS | ‘Tis Cinna; I do know him by his gait.<br>He is a friend.—Cinna, where haste you so? |
+| CINNA | To find out you. Who’s that? Metellus Cimber? |
+| CASSIUS | No, it is Casca, one incorporate<br>To our attempts. Am I not stayed for, Cinna? |
+| CINNA | I am glad on’t. What a fearful night is this!<br>There’s two or three of us have seen strange sights. |
+| CASSIUS | Am I not stayed for? Tell me. |
+| CINNA | Yes, you are.<br>O Cassius, if you could<br>But win the noble Brutus to our party— |
+| CASSIUS | Be you content. Good Cinna, take this paper,<br>He gives Cinna letters<br><br>And look you lay it in the Praetor’s Chair,<br>Where Brutus may but find it; and throw this<br>In at his window. Set this up with wax<br>Upon old Brutus’ statue. All this done,<br>Repair to Pompey’s Porch where you shall find us.<br>Is Decius Brutus and Trebonius there? |
+| CINNA | All but Metellus Cimber, and he’s gone<br>To seek you at your house. Well, I will hie,<br>And so bestow these papers as you bade me. |
+| CASSIUS | That done, repair to Pompey’s Theatre. |
+| *(didascalia)* | Exit Cinna |
+| CASSIUS | Come, Casca, you and I will yet ere day<br>See Brutus at his house. Three parts of him<br>Is ours already, and the man entire<br>Upon the next encounter yields him ours. |
+| CASCA | O, he sits high in all the people’s hearts,<br>And that which would appear offence in us<br>His countenance, like richest alchemy,<br>Will change to virtue and to worthiness. |
+| CASSIUS | Him and his worth, and our great need of him,<br>You have right well conceited. Let us go,<br>For it is after midnight, and ere day<br>We will awake him and be sure of him. Exeunt |

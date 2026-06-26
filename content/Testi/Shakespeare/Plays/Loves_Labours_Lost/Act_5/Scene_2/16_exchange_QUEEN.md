@@ -13,5 +13,6 @@ tags:
 </nav>
 
 
-QUEEN
-I understand you not. My griefs are double.
+| Chi parla | Battuta |
+|---|---|
+| QUEEN | I understand you not. My griefs are double. |

@@ -14,51 +14,12 @@ tags:
 </nav>
 
 
-Enter Antony and Octavia
-ANTONY
-Nay, nay, Octavia, not only that,
-That were excusable, that and thousands more
-Of semblable import; but he hath waged
-New wars ‘gainst Pompey, made his will and read it
-To public ear, spoke scantly of me;
-When perforce he could not
-But pay me terms of honour, cold and sickly
-He vented them, most narrow measure lent me.
-When the best hint was given him, he not took’t,
-Or did it from his teeth.
-OCTAVIA
-O my good lord,
-Believe not all, or if you must believe,
-Stomach not all. A more unhappy lady,
-If this division chance, ne’er stood between,
-Praying for both parts.
-The good gods will mock me presently,
-When I shall pray ‘O, bless my lord and husband!’,
-Undo that prayer by crying out as loud
-‘O, bless my brother!’ Husband win, win brother
-Prays and destroys the prayer; no midway
-’Twixt these extremes at all.
-ANTONY
-Gentle Octavia,
-Let your best love draw to that point which seeks
-Best to preserve it. If I lose mine honour,
-I lose myself. Better I were not yours
-Than yours so branchless. But, as you requested,
-Yourself shall go between’s. The meantime, lady,
-I’ll raise the preparation of a war
-Shall stain your brother. Make your soonest haste;
-So your desires are yours.
-OCTAVIA
-Thanks to my lord.
-The Jove of power make me most weak, most weak,
-Your reconciler! Wars ’twixt you twain would be
-As if the world should cleave, and that slain men
-Should solder up the rift.
-ANTONY
-When it appears to you where this begins,
-Turn your displeasure that way, for our faults
-Can never be so equal that your love
-Can equally move with them. Provide your going,
-Choose your own company, and command what cost
-Your heart has mind to.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Antony and Octavia |
+| ANTONY | Nay, nay, Octavia, not only that,<br>That were excusable, that and thousands more<br>Of semblable import; but he hath waged<br>New wars ‘gainst Pompey, made his will and read it<br>To public ear, spoke scantly of me;<br>When perforce he could not<br>But pay me terms of honour, cold and sickly<br>He vented them, most narrow measure lent me.<br>When the best hint was given him, he not took’t,<br>Or did it from his teeth. |
+| OCTAVIA | O my good lord,<br>Believe not all, or if you must believe,<br>Stomach not all. A more unhappy lady,<br>If this division chance, ne’er stood between,<br>Praying for both parts.<br>The good gods will mock me presently,<br>When I shall pray ‘O, bless my lord and husband!’,<br>Undo that prayer by crying out as loud<br>‘O, bless my brother!’ Husband win, win brother<br>Prays and destroys the prayer; no midway<br>’Twixt these extremes at all. |
+| ANTONY | Gentle Octavia,<br>Let your best love draw to that point which seeks<br>Best to preserve it. If I lose mine honour,<br>I lose myself. Better I were not yours<br>Than yours so branchless. But, as you requested,<br>Yourself shall go between’s. The meantime, lady,<br>I’ll raise the preparation of a war<br>Shall stain your brother. Make your soonest haste;<br>So your desires are yours. |
+| OCTAVIA | Thanks to my lord.<br>The Jove of power make me most weak, most weak,<br>Your reconciler! Wars ’twixt you twain would be<br>As if the world should cleave, and that slain men<br>Should solder up the rift. |
+| ANTONY | When it appears to you where this begins,<br>Turn your displeasure that way, for our faults<br>Can never be so equal that your love<br>Can equally move with them. Provide your going,<br>Choose your own company, and command what cost<br>Your heart has mind to. |
+| *(didascalia)* | Exeunt |

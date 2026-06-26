@@ -13,12 +13,7 @@ tags:
 </nav>
 
 
-Enter Oberon, King of Fairies
-
-OBERON
-I wonder if Titania be awaked,
-Then what it was that next came in her eye,
-Which she must dote on in extremity.
-Enter Robin Goodfellow
-Here comes my messenger. How now, mad spirit?
-What nightrule now about this haunted grove?
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Oberon, King of Fairies |
+| OBERON | I wonder if Titania be awaked, Then what it was that next came in her eye, Which she must dote on in extremity. Enter Robin Goodfellow Here comes my messenger. How now, mad spirit? What nightrule now about this haunted grove? |

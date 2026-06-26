@@ -13,8 +13,8 @@ tags:
 </nav>
 
 
-PAULINA Woe the while!
-O cut my lace, lest my heart, cracking it,
-Break too.
-
-A LORD What fit is this, good lady?
+| Chi parla | Battuta |
+|---|---|
+| PAULINA | Woe the while! O cut my lace, lest my heart, cracking it, Break too. |
+| *(didascalia)* | A |
+| LORD | What fit is this, good lady? |

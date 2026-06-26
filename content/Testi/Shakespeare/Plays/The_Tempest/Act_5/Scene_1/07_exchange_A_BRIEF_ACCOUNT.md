@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-A BRIEF ACCOUNT
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A |

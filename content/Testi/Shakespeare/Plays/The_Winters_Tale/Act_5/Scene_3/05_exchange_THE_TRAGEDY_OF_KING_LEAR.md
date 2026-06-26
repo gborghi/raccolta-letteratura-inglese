@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-THE TRAGEDY OF KING LEAR
-
-THE FOLIO TEXT
+| Chi parla | Battuta |
+|---|---|
+| THE TRAGEDY OF KING | LEAR |

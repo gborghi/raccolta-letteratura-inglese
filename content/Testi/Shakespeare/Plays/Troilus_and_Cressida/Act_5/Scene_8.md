@@ -14,12 +14,14 @@ tags:
 </nav>
 
 
-Enter Menelaus and Paris, fighting, ⌈then⌉ Thersites
-THERSITES The cuckold and the cuckold-maker are at it.—Now, bull! Now, dog! ‘Loo, Paris, ’loo! Now, my double-horned Spartan! ’Loo, Paris, ’loo! The bull has the game. Ware horns, ho!
-Exit Menelaus ⌈driving in⌉ Paris
-Enter Bastard ⌈behind⌉
-BASTARD Turn, slave, and fight.
-THERSITES What art thou?
-BASTARD A bastard son of Priam’s.
-THERSITES I am a bastard, too. I love bastards. I am bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate. One bear will not bite another, and wherefore should one bastard? Take heed: the quarrel’s most ominous to us. If the son of a whore fight for a whore, he tempts judgement. Farewell, bastard. ⌈Exit⌉
-BASTARD The devil take thee, coward. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Menelaus and Paris, fighting, then Thersites |
+| THERSITES | The cuckold and the cuckold-maker are at it.—Now, bull! Now, dog! ‘Loo, Paris, ’loo! Now, my double-horned Spartan! ’Loo, Paris, ’loo! The bull has the game. Ware horns, ho! |
+| *(didascalia)* | Exit Menelaus driving in Paris |
+| *(didascalia)* | Enter Bastard behind |
+| BASTARD | Turn, slave, and fight. |
+| THERSITES | What art thou? |
+| BASTARD | A bastard son of Priam’s. |
+| *(didascalia)* | THERSITES I am a bastard, too. I love bastards. I am bastard begot, bastard instructed, bastard in mind, bastard in valour, in everything illegitimate. One bear will not bite another, and wherefore should one bastard? Take heed: the quarrel’s most ominous to us. If the son of a whore fight for a whore, he tempts judgement. Farewell, bastard. Exit |
+| BASTARD | The devil take thee, coward. Exit |

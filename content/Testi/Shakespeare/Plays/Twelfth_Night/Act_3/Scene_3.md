@@ -14,72 +14,22 @@ tags:
 </nav>
 
 
-Enter Sebastian and Antonio
-SEBASTIAN
-I would not by my will have troubled you,
-But since you make your pleasure of your pains
-I will no further chide you.
-ANTONIO
-I could not stay behind you. My desire,
-More sharp than filèd steel, did spur me forth,
-And not all love to see you—though so much
-As might have drawn one to a longer voyage—
-But jealousy what might befall your travel,
-Being skilless in these parts, which to a stranger,
-Unguided and unfriended, often prove
-Rough and unhospitable. My willing love
-The rather by these arguments of fear
-Set forth in your pursuit.
-SEBASTIAN
-My kind Antonio,
-I can no other answer make but thanks,
-And thanks; and ever oft good turns
-Are shuffled off with such uncurrent pay.
-But were my worth as is my conscience firm,
-You should find better dealing. What’s to do?
-Shall we go see the relics of this town?
-ANTONIO
-Tomorrow, sir. Best first go see your lodging.
-SEBASTIAN
-I am not weary, and ’tis long to night.
-I pray you let us satisfy our eyes
-With the memorials and the things of fame
-That do renown this city.
-ANTONIO
-Would you’d pardon me.
-I do not without danger walk these streets.
-Once in a sea-fight ‘gainst the Count his galleys
-I did some service, of such note indeed
-That were I ta’en here it would scarce be answered.
-SEBASTIAN
-Belike you slew great number of his people.
-ANTONIO
-Th’offence is not of such a bloody nature,
-Albeit the quality of the time and quarrel
-Might well have given us bloody argument.
-It might have since been answered in repaying
-What we took from them, which for traffic’s sake
-Most of our city did. Only myself stood out,
-For which if I be latched in this place
-I shall pay dear.
-SEBASTIAN
-Do not then walk too open.
-ANTONIO
-It doth not fit me. Hold, sir, here’s my purse.
-In the south suburbs at the Elephant
-Is best to lodge. I will bespeak our diet
-Whiles you beguile the time and feed your knowledge
-With viewing of the town. There shall you have me.
-SEBASTIAN Why I your purse?
-ANTONIO
-Haply your eye shall light upon some toy
-You have desire to purchase; and your store
-I think is not for idle markets, sir.
-SEBASTIAN
-I’ll be your purse-bearer, and leave you
-For an hour.
-ANTONIO
-To th’ Elephant.
-SEBASTIAN
-I do remember.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sebastian and Antonio |
+| SEBASTIAN | I would not by my will have troubled you,<br>But since you make your pleasure of your pains<br>I will no further chide you. |
+| ANTONIO | I could not stay behind you. My desire,<br>More sharp than filèd steel, did spur me forth,<br>And not all love to see you—though so much<br>As might have drawn one to a longer voyage—<br>But jealousy what might befall your travel,<br>Being skilless in these parts, which to a stranger,<br>Unguided and unfriended, often prove<br>Rough and unhospitable. My willing love<br>The rather by these arguments of fear<br>Set forth in your pursuit. |
+| SEBASTIAN | My kind Antonio,<br>I can no other answer make but thanks,<br>And thanks; and ever oft good turns<br>Are shuffled off with such uncurrent pay.<br>But were my worth as is my conscience firm,<br>You should find better dealing. What’s to do?<br>Shall we go see the relics of this town? |
+| ANTONIO | Tomorrow, sir. Best first go see your lodging. |
+| SEBASTIAN | I am not weary, and ’tis long to night.<br>I pray you let us satisfy our eyes<br>With the memorials and the things of fame<br>That do renown this city. |
+| ANTONIO | Would you’d pardon me.<br>I do not without danger walk these streets.<br>Once in a sea-fight ‘gainst the Count his galleys<br>I did some service, of such note indeed<br>That were I ta’en here it would scarce be answered. |
+| SEBASTIAN | Belike you slew great number of his people. |
+| ANTONIO | Th’offence is not of such a bloody nature,<br>Albeit the quality of the time and quarrel<br>Might well have given us bloody argument.<br>It might have since been answered in repaying<br>What we took from them, which for traffic’s sake<br>Most of our city did. Only myself stood out,<br>For which if I be latched in this place<br>I shall pay dear. |
+| SEBASTIAN | Do not then walk too open. |
+| ANTONIO | It doth not fit me. Hold, sir, here’s my purse.<br>In the south suburbs at the Elephant<br>Is best to lodge. I will bespeak our diet<br>Whiles you beguile the time and feed your knowledge<br>With viewing of the town. There shall you have me. |
+| SEBASTIAN | Why I your purse? |
+| ANTONIO | Haply your eye shall light upon some toy<br>You have desire to purchase; and your store<br>I think is not for idle markets, sir. |
+| SEBASTIAN | I’ll be your purse-bearer, and leave you<br>For an hour. |
+| ANTONIO | To th’ Elephant. |
+| SEBASTIAN | I do remember. |
+| *(didascalia)* | Exeunt severally |

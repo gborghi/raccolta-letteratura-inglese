@@ -14,31 +14,14 @@ tags:
 </nav>
 
 
-Enter Goneril and Oswald, her steward GONERIL
-Did my father strike my gentleman
-For chiding of his fool?
-OSWALD Ay, madam.
-GONERIL
-By day and night he wrongs me. Every hour
-He flashes into one gross crime or other
-That sets us all at odds. I’ll not endure it.
-His knights grow riotous, and himself upbraids us
-On every trifle. When he returns from hunting
-I will not speak with him. Say I am sick.
-If you come slack of former services
-You shall do well; the fault of it I’ll answer.
-⌈Horns within⌉
-OSWALD He’s coming, madam. I hear him.
-GONERIL
-Put on what weary negligence you please,
-You and your fellows. I’d have it come to question.
-If he distaste it, let him to my sister,
-Whose mind and mine I know in that are one.
-Remember what I have said.
-OSWALD Well, madam.
-GONERI,
-And let his knights have colder looks among you.
-What grows of it, no matter. Advise your fellows so.
-I’ll write straight to my sister to hold my course.
-Prepare for dinner.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Goneril and Oswald, her steward GONERIL |
+| *(didascalia)* | Did my father strike my gentleman<br>For chiding of his fool? |
+| OSWALD | Ay, madam. |
+| GONERIL | By day and night he wrongs me. Every hour<br>He flashes into one gross crime or other<br>That sets us all at odds. I’ll not endure it.<br>His knights grow riotous, and himself upbraids us<br>On every trifle. When he returns from hunting<br>I will not speak with him. Say I am sick.<br>If you come slack of former services<br>You shall do well; the fault of it I’ll answer. |
+| *(didascalia)* | Horns within |
+| OSWALD | He’s coming, madam. I hear him. |
+| GONERIL | Put on what weary negligence you please,<br>You and your fellows. I’d have it come to question.<br>If he distaste it, let him to my sister,<br>Whose mind and mine I know in that are one.<br>Remember what I have said. |
+| OSWALD | Well, madam.<br>GONERI,<br>And let his knights have colder looks among you.<br>What grows of it, no matter. Advise your fellows so.<br>I’ll write straight to my sister to hold my course.<br>Prepare for dinner. |
+| *(didascalia)* | Exeunt severally |

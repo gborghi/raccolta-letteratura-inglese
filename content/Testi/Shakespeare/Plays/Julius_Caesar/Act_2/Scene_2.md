@@ -14,175 +14,55 @@ tags:
 </nav>
 
 
-Thunder and lightning. Enter Julius Caesar in his nightgown
-CAESAR
-Nor heaven nor earth have been at peace tonight.
-Thrice hath Calpurnia in her sleep cried out
-‘Help, ho! They murder Caesar!’—Who’s within?
-Enter a Servant
-SERVANT My lord.
-CAESAR
-Go bid the priests do present sacrifice,
-And bring me their opinions of success.
-SERVANT I will, my lord.
-Exit
-Enter Calpurnia
-CALPURNIA
-What mean you, Caesar? Think you to walk forth?
-You shall not stir out of your house today.
-CAESAR
-Caesar shall forth. The things that threatened me
-Ne’er looked but on my back; when they shall see
-The face of Caesar, they are vanished.
-CALPURNIA
-Caesar, I never stood on ceremonies,
-Yet now they fright me. There is one within,
-Besides the things that we have heard and seen,
-Recounts most horrid sights seen by the watch.
-A lioness hath whelpèd in the streets,
-And graves have yawned and yielded up their dead.
-Fierce fiery warriors fight upon the clouds,
-In ranks and squadrons and right form of war,
-Which drizzled blood upon the Capitol.
-The noise of battle hurtled in the air.
-Horses do neigh, and dying men did groan,
-And ghosts did shriek and squeal about the streets.
-O Caesar, these things are beyond all use,
-And I do fear them.
-CAESAR What can be avoided
-Whose end is purposed by the mighty gods?
-Yet Caesar shall go forth, for these predictions
-Are to the world in general as to Caesar.
-CALPURNIA
-When beggars die there are no comets seen;
-The heavens themselves blaze forth the death of
-princes.
-CAESAR
-Cowards die many times before their deaths;
-The valiant never taste of death but once.
-Of all the wonders that I yet have heard,
-It seems to me most strange that men should fear,
-Seeing that death, a necessary end,
-Will come when it will come.
-Enter Servant
-What say the augurers?
-SERVANT
-They would not have you to stir forth today.
-Plucking the entrails of an offering forth,
-They could not find a heart within the beast.
-CAESAR
-The gods do this in shame of cowardice.
-Caesar should be a beast without a heart
-If he should stay at home today for fear.
-No, Caesar shall not. Danger knows full well
-That Caesar is more dangerous than he.
-We are two lions littered in one day,
-And I the elder and more terrible.
-And Caesar shall go forth.
-CALPURNIA Alas, my lord,
-Your wisdom is consumed in confidence.
-Do not go forth today. Call it my fear
-That keeps you in the house, and not your own.
-We’ll send Mark Antony to the Senate House,
-And he shall say you are not well today.
-Let me upon my knee prevail in this.
-She kneels
-CAESAR
-Mark Antony shall say I am not well,
-And for thy humour I will stay at home.
-Enter Decius
-Here’s Decius Brutus; he shall tell them so.
-⌈Calpurnia rises⌉
-DECIUS
-Caesar, all hail! Good morrow, worthy Caesar.
-I come to fetch you to the Senate House.
-CAESAR
-And you are come in very happy time
-To bear my greeting to the senators
-And tell them that I will not come today.
-Cannot is false, and that I dare not, falser.
-I will not come today; tell them so, Decius.
-CALPURNIA
-Say he is sick.
-CAESAR Shall Caesar send a lie?
-Have I in conquest stretched mine arm so far,
-To be afeard to tell greybeards the truth?
-Decius, go tell them Caesar will not come.
-DECIUS
-Most mighty Caesar, let me know some cause,
-Lest I be laughed at when I tell them so.
-CAESAR
-The cause is in my will; I will not come.
-That is enough to satisfy the Senate.
-But for your private satisfaction,
-Because I love you, I will let you know.
-Calpurnia here, my wife, stays me at home.
-She dreamt tonight she saw my statue,
-Which like a fountain with an hundred spouts
-Did run pure blood; and many lusty Romans
-Came smiling and did bathe their hands in it.
-And these does she apply for warnings and portents
-Of evils imminent, and on her knee
-Hath begged that I will stay at home today.
-DECIUS
-This dream is all amiss interpreted.
-It was a vision fair and fortunate.
-Your statue spouting blood in many pipes,
-In which so many smiling Romans bathed,
-Signifies that from you great Rome shall suck
-Reviving blood, and that great men shall press
-For tinctures, stains, relics, and cognizance.
-This by Calpurnia’s dream is signified.
-CAESAR
-And this way have you well expounded it.
-DECIUS
-I have, when you have heard what I can say.
-And know it now: the Senate have concluded
-To give this day a crown to mighty Caesar.
-If you shall send them word you will not come,
-Their minds may change. Besides, it were a mock
-Apt to be rendered for someone to say
-‘Break up the Senate till another time,
-When Caesar’s wife shall meet with better dreams.’
-If Caesar hide himself, shall they not whisper
-‘Lo, Caesar is afraid’?
-Pardon me, Caesar; for my dear dear love
-To your proceeding bids me tell you this,
-And reason to my love is liable.
-CAESAR
-How foolish do your fears seem now, Calpurnial
-I am ashamed I did yield to them.
-Give me my robe, for I will go.
-Enter ⌈Cassius,⌉ Brutus, Ligarius, Metellus, Casca, Trebonius, and Cinna
-And look where Cassius is come to fetch me.
-⌈CASSIUS⌉
-Good morrow, Caesar.
-CAESAR Welcome, Cassius.—
-What, Brutus, are you stirred so early too?—
-Good morrow, Casca.—Caius Ligarius,
-Caesar was ne‘er so much your enemy
-As that same ague which hath made you lean.
-What is’t o’clock?
-BRUTUS Caesar, ’tis strucken eight.
-CAESAR
-I thank you for your pains and courtesy.
-Enter Antony
-See, Antony that revels long a-nights
-Is notwithstanding up. Good morrow, Antony.
-ANTONY
-So to most noble Caesar.
-CAESAR ⌈to Calpurnia⌉ Bid them prepare within.
-I am to blame to be thus waited for. ⌈Exit Calpurnia⌉
-Now, Cinna.—Now, Metellus.—What, Trebonius!
-I have an hour’s talk in store for you.
-Remember that you call on me today.
-Be near me, that I may remember you.
-TREBONIUS
-Caesar, I will, ⌈aside⌉ and so near will I be
-That your best friends shall wish I had been further.
-CAESAR
-Good friends, go in and taste some wine with me,
-And we, like friends, will straightway go together.
-BRUTUS (aside)
-That every like is not the same, O Caesar,
-The heart of Brutus ernes to think upon. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Thunder and lightning. Enter Julius Caesar in his nightgown |
+| CAESAR | Nor heaven nor earth have been at peace tonight.<br>Thrice hath Calpurnia in her sleep cried out<br>‘Help, ho! They murder Caesar!’—Who’s within? |
+| *(didascalia)* | Enter a Servant |
+| SERVANT | My lord. |
+| CAESAR | Go bid the priests do present sacrifice,<br>And bring me their opinions of success. |
+| SERVANT | I will, my lord. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter Calpurnia |
+| CALPURNIA | What mean you, Caesar? Think you to walk forth?<br>You shall not stir out of your house today. |
+| CAESAR | Caesar shall forth. The things that threatened me<br>Ne’er looked but on my back; when they shall see<br>The face of Caesar, they are vanished. |
+| CALPURNIA | Caesar, I never stood on ceremonies,<br>Yet now they fright me. There is one within,<br>Besides the things that we have heard and seen,<br>Recounts most horrid sights seen by the watch.<br>A lioness hath whelpèd in the streets,<br>And graves have yawned and yielded up their dead.<br>Fierce fiery warriors fight upon the clouds,<br>In ranks and squadrons and right form of war,<br>Which drizzled blood upon the Capitol.<br>The noise of battle hurtled in the air.<br>Horses do neigh, and dying men did groan,<br>And ghosts did shriek and squeal about the streets.<br>O Caesar, these things are beyond all use,<br>And I do fear them. |
+| CAESAR | What can be avoided<br>Whose end is purposed by the mighty gods?<br>Yet Caesar shall go forth, for these predictions<br>Are to the world in general as to Caesar. |
+| CALPURNIA | When beggars die there are no comets seen;<br>The heavens themselves blaze forth the death of<br>princes. |
+| CAESAR | Cowards die many times before their deaths;<br>The valiant never taste of death but once.<br>Of all the wonders that I yet have heard,<br>It seems to me most strange that men should fear,<br>Seeing that death, a necessary end,<br>Will come when it will come. |
+| *(didascalia)* | Enter Servant |
+| CAESAR | What say the augurers? |
+| SERVANT | They would not have you to stir forth today.<br>Plucking the entrails of an offering forth,<br>They could not find a heart within the beast. |
+| CAESAR | The gods do this in shame of cowardice.<br>Caesar should be a beast without a heart<br>If he should stay at home today for fear.<br>No, Caesar shall not. Danger knows full well<br>That Caesar is more dangerous than he.<br>We are two lions littered in one day,<br>And I the elder and more terrible.<br>And Caesar shall go forth. |
+| CALPURNIA | Alas, my lord,<br>Your wisdom is consumed in confidence.<br>Do not go forth today. Call it my fear<br>That keeps you in the house, and not your own.<br>We’ll send Mark Antony to the Senate House,<br>And he shall say you are not well today.<br>Let me upon my knee prevail in this.<br>She kneels |
+| CAESAR | Mark Antony shall say I am not well,<br>And for thy humour I will stay at home. |
+| *(didascalia)* | Enter Decius |
+| CAESAR | Here’s Decius Brutus; he shall tell them so. |
+| *(didascalia)* | Calpurnia rises |
+| DECIUS | Caesar, all hail! Good morrow, worthy Caesar.<br>I come to fetch you to the Senate House. |
+| CAESAR | And you are come in very happy time<br>To bear my greeting to the senators<br>And tell them that I will not come today.<br>Cannot is false, and that I dare not, falser.<br>I will not come today; tell them so, Decius. |
+| CALPURNIA | Say he is sick. |
+| CAESAR | Shall Caesar send a lie?<br>Have I in conquest stretched mine arm so far,<br>To be afeard to tell greybeards the truth?<br>Decius, go tell them Caesar will not come. |
+| DECIUS | Most mighty Caesar, let me know some cause,<br>Lest I be laughed at when I tell them so. |
+| CAESAR | The cause is in my will; I will not come.<br>That is enough to satisfy the Senate.<br>But for your private satisfaction,<br>Because I love you, I will let you know.<br>Calpurnia here, my wife, stays me at home.<br>She dreamt tonight she saw my statue,<br>Which like a fountain with an hundred spouts<br>Did run pure blood; and many lusty Romans<br>Came smiling and did bathe their hands in it.<br>And these does she apply for warnings and portents<br>Of evils imminent, and on her knee<br>Hath begged that I will stay at home today. |
+| DECIUS | This dream is all amiss interpreted.<br>It was a vision fair and fortunate.<br>Your statue spouting blood in many pipes,<br>In which so many smiling Romans bathed,<br>Signifies that from you great Rome shall suck<br>Reviving blood, and that great men shall press<br>For tinctures, stains, relics, and cognizance.<br>This by Calpurnia’s dream is signified. |
+| CAESAR | And this way have you well expounded it. |
+| DECIUS | I have, when you have heard what I can say.<br>And know it now: the Senate have concluded<br>To give this day a crown to mighty Caesar.<br>If you shall send them word you will not come,<br>Their minds may change. Besides, it were a mock<br>Apt to be rendered for someone to say<br>‘Break up the Senate till another time,<br>When Caesar’s wife shall meet with better dreams.’<br>If Caesar hide himself, shall they not whisper<br>‘Lo, Caesar is afraid’?<br>Pardon me, Caesar; for my dear dear love<br>To your proceeding bids me tell you this,<br>And reason to my love is liable. |
+| CAESAR | How foolish do your fears seem now, Calpurnial<br>I am ashamed I did yield to them.<br>Give me my robe, for I will go. |
+| *(didascalia)* | Enter Cassius, Brutus, Ligarius, Metellus, Casca, Trebonius, and Cinna |
+| CAESAR | And look where Cassius is come to fetch me. |
+| *(didascalia)* | CASSIUS |
+| CAESAR | Good morrow, Caesar. |
+| CAESAR | Welcome, Cassius.—<br>What, Brutus, are you stirred so early too?—<br>Good morrow, Casca.—Caius Ligarius,<br>Caesar was ne‘er so much your enemy<br>As that same ague which hath made you lean.<br>What is’t o’clock? |
+| BRUTUS | Caesar, ’tis strucken eight. |
+| CAESAR | I thank you for your pains and courtesy. |
+| *(didascalia)* | Enter Antony |
+| CAESAR | See, Antony that revels long a-nights<br>Is notwithstanding up. Good morrow, Antony. |
+| ANTONY | So to most noble Caesar. |
+| *(didascalia)* | CAESAR to Calpurnia Bid them prepare within. |
+| *(didascalia)* | I am to blame to be thus waited for. Exit Calpurnia |
+| ANTONY | Now, Cinna.—Now, Metellus.—What, Trebonius!<br>I have an hour’s talk in store for you.<br>Remember that you call on me today.<br>Be near me, that I may remember you. |
+| *(didascalia)* | Caesar, I will, aside and so near will I be |
+| TREBONIUS | That your best friends shall wish I had been further. |
+| CAESAR | Good friends, go in and taste some wine with me,<br>And we, like friends, will straightway go together. |
+| BRUTUS | (aside)<br>That every like is not the same, O Caesar,<br>The heart of Brutus ernes to think upon. Exeunt |

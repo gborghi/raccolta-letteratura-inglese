@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Biron with a paper in his hand, alone
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Biron with a paper in his hand, alone |

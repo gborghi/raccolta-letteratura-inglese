@@ -14,228 +14,39 @@ tags:
 </nav>
 
 
-Alarum. Enter Richard Duke of York YORK
-The army of the Queen hath got the field;
-My uncles both are slain in rescuing me;
-And all my followers to the eager foe
-Turn back, and fly like ships before the wind,
-Or lambs pursued by hunger-starved wolves.
-My sons—God knows what hath bechancèd them.
-But this I know—they have demeaned themselves
-Like men born to renown by life or death.
-Three times did Richard make a lane to me,
-And thrice cried, ‘Courage, father, fight it out!’
-And full as oft came Edward to my side,
-With purple falchion painted to the hilt
-In blood of those that had encountered him.
-And when the hardiest warriors did retire,
-Richard cried, ‘Charge and give no foot of ground!’
-And cried ‘A crown or else a glorious tomb!
-A sceptre or an earthly sepulchre!’
-With this, we charged again—but out, alas—
-We bodged again, as I have seen a swan
-With bootless labour swim against the tide
-And spend her strength with over-matching waves.
-A short alarum within
-Ah, hark—the fatal followers do pursue,
-And I am faint and cannot fly their fury;
-And were I strong, I would not shun their fury.
-The sands are numbered that makes up my life.
-Here must I stay, and here my life must end.
-Enter Queen Margaret, Lord Clifford, the Earl of
-
-Northumberland, and the young Prince Edward,
-
-with soldiers
-
-Come bloody Clifford, rough Northumberland—
-I dare your quenchless fury to more rage!
-I am your butt, and I abide your shot.
-NORTHUMBERLAND
-Yield to our mercy, proud Plantagenet.
-CLIFFORD
-Ay, to such mercy as his ruthless arm,
-With downright payment, showed unto my father.
-Now Phaeton hath tumbled from his car,
-And made an evening at the noontide prick.
-YORK
-My ashes, as the phoenix, may bring forth
-A bird that will revenge upon you all,
-And in that hope I throw mine eyes to heaven,
-Scorning whate’er you can afflict me with.
-Why come you not? What—multitudes, and fear?
-CLIFFORD
-So cowards fight when they can fly no further;
-So doves do peck the falcon’s piercing talons;
-So desperate thieves, all hopeless of their lives,
-Breathe out invectives ’gainst the officers.
-YORK
-O, Clifford, but bethink thee once again,
-And in thy thought o’errun my former time,
-And, if thou canst for blushing, view this face
-And bite thy tongue, that slanders him with cowardice
-Whose frown hath made thee faint and fly ere this.
-CLIFFORD
-I will not bandy with thee word for word,
-But buckle with thee blows twice two for one.
-⌈He draws his sword⌉
-QUEEN MARGARET
-Hold, valiant Clifford: for a thousand causes
-I would prolong a while the traitor’s life.
-Wrath makes him deaf—speak thou, Northumberland.
-NORTHUMBERLAND
-Hold, Clifford—do not honour him so much
-To prick thy finger though to wound his heart.
-What valour were it when a cur doth grin
-For one to thrust his hand between his teeth
-When he might spurn him with his foot away?
-It is war’s prize to take all vantages,
-And ten to one is no impeach of valour.
-They ⌈fight and⌉ take York
-CLIFFORD
-Ay, ay, so strives the woodcock with the gin.
-NORTHUMBERLAND
-So doth the cony struggle in the net.
-YORK
-So triumph thieves upon their conquered booty,
-So true men yield, with robbers so o’ermatched.
-NORTHUMBERLAND (to the Queen)
-What would your grace have done unto him now?
-QUEEN MARGARET
-Brave warriors, Clifford and Northumberland,
-Come make him stand upon this molehill here,
-That wrought at mountains with outstretched arms
-Yet parted but the shadow with his hand.
-(To York) What—was it you that would be England’s
-king?
-Was’t you that revelled in our Parliament,
-And made a preachment of your high descent?
-Where are your mess of sons to back you now?
-The wanton Edward and the lusty George?
-And where’s that valiant crookback prodigy,
-Dickie, your boy, that with his grumbling voice
-Was wont to cheer his dad in mutinies?
-Or with the rest where is your darling Rutland?
-Look, York, I stained this napkin with the blood
-That valiant Clifford with his rapier’s point
-Made issue from the bosom of thy boy.
-And if thine eyes can water for his death,
-I give thee this to dry thy cheeks withal.
-Alas, poor York, but that I hate thee deadly
-I should lament thy miserable state.
-I prithee, grieve, to make me merry, York.
-What—hath thy fiery heart so parched thine entrails
-That not a tear can fall for Rutland’s death?
-Why art thou patient, man? Thou shouldst be mad,
-And I, to make thee mad, do mock thee thus.
-Stamp, rave, and fret, that I may sing and dance.
-Thou wouldst be fee’d, I see, to make me sport.
-York cannot speak unless he wear a crown.
-(To her men) A crown for York, and, lords, bow low to
-him.
-Hold you his hands whilst I do set it on.
-She puts a paper crown on York’s head
-Ay, marry, sir, now looks he like a king,
-Ay, this is he that took King Henry’s chair,
-And this is he was his adopted heir.
-But how is it that great Plantagenet
-Is crowned so soon and broke his solemn oath?
-As I bethink me, you should not be king
-Till our King Henry had shook hands with death.
-And will you pale your head in Henry’s glory,
-And rob his temples of the diadem
-Now, in his life, against your holy oath?
-O ’tis a fault too, too, unpardonable.
-Off with the crown,
-⌈She knocks it from his head⌉
-and with the crown his head,
-And whilst we breathe, take time to do him dead.
-CLIFFORD
-That is my office for my father’s sake.
-QUEEN MARGARET
-Nay, stay—let’s hear the orisons he makes.
-YORK
-She-wolf of France, but worse than wolves of France,
-Whose tongue more poisons than the adder’s tooth—
-How ill-beseeming is it in thy sex
-To triumph like an Amazonian trull
-Upon their woes whom fortune captivates!
-But that thy face is visor-like, unchanging,
-Made impudent with use of evil deeds,
-I would essay, proud Queen, to make thee blush.
-To tell thee whence thou cam’st, of whom derived,
-Were shame enough to shame thee—wert thou not
-shameless.
-Thy father bears the type of King of Naples,
-Of both the Sicils, and Jerusalem—
-Yet not so wealthy as an English yeoman.
-Hath that poor monarch taught thee to insult?
-It needs not, nor it boots thee not, proud Queen,
-Unless the adage must be verified
-That beggars mounted run their horse to death.
-’Tis beauty that doth oft make women proud—
-But, God he knows, thy share thereof is small;
-‘Tis virtue that doth make them most admired—
-The contrary doth make thee wondered at;
-’Tis government that makes them seem divine—
-The want thereof makes thee abominable.
-Thou art as opposite to every good
-As the antipodes are unto us,
-Or as the south to the septentrion.
-O tiger’s heart wrapped in a woman’s hide!
-How couldst thou drain the life-blood of the child
-To bid the father wipe his eyes withal,
-And yet be seen to bear a woman’s face?
-Women are soft, mild, pitiful, and flexible—
-Thou stern, obdurate, flinty, rough, remorseless.
-Bidd‘st thou me rage? Why, now thou hast thy wish.
-Wouldst have me weep? Why, now thou hast thy will.
-For raging wind blows up incessant showers,
-And when the rage allays the rain begins.
-These tears are my sweet Rutland’s obsequies,
-And every drop cries vengeance for his death
-’Gainst thee, fell Clifford, and thee, false Frenchwoman.
-NORTHUMBERLAND
-Beshrew me, but his passions move me so
-That hardly can I check my eyes from tears.
-YORK
-That face of his the hungry cannibals
-Would not have touched, would not have stained
-with blood—
-But you are more inhuman, more inexorable,
-O, ten times more than tigers of Hyrcania.
-See, ruthless Queen, a hapless father’s tears.
-This cloth thou dipped‘st in blood of my sweet boy,
-And I with tears do wash the blood away.
-Keep thou the napkin and go boast of this,
-And if thou tell’st the heavy story right,
-Upon my soul the hearers will shed tears,
-Yea, even my foes will shed fast-falling tears
-And say, ‘Alas, it was a piteous deed’.
-There, take the crown—and with the crown, my
-curse:
-And in thy need such comfort come to thee
-As now I reap at thy too cruel hand.
-Hard-hearted Clifford, take me from the world.
-My soul to heaven, my blood upon your heads.
-NORTHUMBERLAND
-Had he been slaughter-man to all my kin,
-I should not, for my life, but weep with him,
-To see how inly sorrow gripes his soul.
-QUEEN MARGARET
-What—weeping-ripe, my lord Northumberland?
-Think but upon the wrong he did us all,
-And that will quickly dry thy melting tears.
-CLIFFORD
-Here’s for my oath, here’s for my father’s death. He stabs York
-QUEEN MARGARET
-And here’s to right our gentle-hearted King.
-She stabs York
-YORK
-Open thy gate of mercy, gracious God—
-My soul flies through these wounds to seek out thee.
-⌈He dies⌉
-QUEEN MARGARET
-Off with his head and set it on York gates,
-So York may overlook the town of York.
-Flourish. Exeunt with York’s body
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter Richard Duke of York YORK |
+| *(didascalia)* | The army of the Queen hath got the field;<br>My uncles both are slain in rescuing me;<br>And all my followers to the eager foe<br>Turn back, and fly like ships before the wind,<br>Or lambs pursued by hunger-starved wolves.<br>My sons—God knows what hath bechancèd them.<br>But this I know—they have demeaned themselves<br>Like men born to renown by life or death.<br>Three times did Richard make a lane to me,<br>And thrice cried, ‘Courage, father, fight it out!’<br>And full as oft came Edward to my side,<br>With purple falchion painted to the hilt<br>In blood of those that had encountered him.<br>And when the hardiest warriors did retire,<br>Richard cried, ‘Charge and give no foot of ground!’<br>And cried ‘A crown or else a glorious tomb!<br>A sceptre or an earthly sepulchre!’<br>With this, we charged again—but out, alas—<br>We bodged again, as I have seen a swan<br>With bootless labour swim against the tide<br>And spend her strength with over-matching waves.<br>A short alarum within<br>Ah, hark—the fatal followers do pursue,<br>And I am faint and cannot fly their fury;<br>And were I strong, I would not shun their fury.<br>The sands are numbered that makes up my life.<br>Here must I stay, and here my life must end. |
+| *(didascalia)* | Enter Queen Margaret, Lord Clifford, the Earl of |
+| *(didascalia)* | Northumberland, and the young Prince Edward,<br><br>with soldiers<br><br>Come bloody Clifford, rough Northumberland—<br>I dare your quenchless fury to more rage!<br>I am your butt, and I abide your shot. |
+| NORTHUMBERLAND | Yield to our mercy, proud Plantagenet. |
+| CLIFFORD | Ay, to such mercy as his ruthless arm,<br>With downright payment, showed unto my father.<br>Now Phaeton hath tumbled from his car,<br>And made an evening at the noontide prick. |
+| YORK | My ashes, as the phoenix, may bring forth<br>A bird that will revenge upon you all,<br>And in that hope I throw mine eyes to heaven,<br>Scorning whate’er you can afflict me with.<br>Why come you not? What—multitudes, and fear? |
+| CLIFFORD | So cowards fight when they can fly no further;<br>So doves do peck the falcon’s piercing talons;<br>So desperate thieves, all hopeless of their lives,<br>Breathe out invectives ’gainst the officers. |
+| YORK | O, Clifford, but bethink thee once again,<br>And in thy thought o’errun my former time,<br>And, if thou canst for blushing, view this face<br>And bite thy tongue, that slanders him with cowardice<br>Whose frown hath made thee faint and fly ere this. |
+| CLIFFORD | I will not bandy with thee word for word,<br>But buckle with thee blows twice two for one. |
+| *(didascalia)* | He draws his sword |
+| QUEEN MARGARET | Hold, valiant Clifford: for a thousand causes<br>I would prolong a while the traitor’s life.<br>Wrath makes him deaf—speak thou, Northumberland. |
+| NORTHUMBERLAND | Hold, Clifford—do not honour him so much<br>To prick thy finger though to wound his heart.<br>What valour were it when a cur doth grin<br>For one to thrust his hand between his teeth<br>When he might spurn him with his foot away?<br>It is war’s prize to take all vantages,<br>And ten to one is no impeach of valour. |
+| *(didascalia)* | They fight and take York |
+| CLIFFORD | Ay, ay, so strives the woodcock with the gin. |
+| NORTHUMBERLAND | So doth the cony struggle in the net. |
+| YORK | So triumph thieves upon their conquered booty,<br>So true men yield, with robbers so o’ermatched. |
+| NORTHUMBERLAND | (to the Queen)<br>What would your grace have done unto him now? |
+| QUEEN MARGARET | Brave warriors, Clifford and Northumberland,<br>Come make him stand upon this molehill here,<br>That wrought at mountains with outstretched arms<br>Yet parted but the shadow with his hand.<br>(To York) What—was it you that would be England’s<br>king?<br>Was’t you that revelled in our Parliament,<br>And made a preachment of your high descent?<br>Where are your mess of sons to back you now?<br>The wanton Edward and the lusty George?<br>And where’s that valiant crookback prodigy,<br>Dickie, your boy, that with his grumbling voice<br>Was wont to cheer his dad in mutinies?<br>Or with the rest where is your darling Rutland?<br>Look, York, I stained this napkin with the blood<br>That valiant Clifford with his rapier’s point<br>Made issue from the bosom of thy boy.<br>And if thine eyes can water for his death,<br>I give thee this to dry thy cheeks withal.<br>Alas, poor York, but that I hate thee deadly<br>I should lament thy miserable state.<br>I prithee, grieve, to make me merry, York.<br>What—hath thy fiery heart so parched thine entrails<br>That not a tear can fall for Rutland’s death?<br>Why art thou patient, man? Thou shouldst be mad,<br>And I, to make thee mad, do mock thee thus.<br>Stamp, rave, and fret, that I may sing and dance.<br>Thou wouldst be fee’d, I see, to make me sport.<br>York cannot speak unless he wear a crown.<br>(To her men) A crown for York, and, lords, bow low to<br>him.<br>Hold you his hands whilst I do set it on.<br>She puts a paper crown on York’s head<br>Ay, marry, sir, now looks he like a king,<br>Ay, this is he that took King Henry’s chair,<br>And this is he was his adopted heir.<br>But how is it that great Plantagenet<br>Is crowned so soon and broke his solemn oath?<br>As I bethink me, you should not be king<br>Till our King Henry had shook hands with death.<br>And will you pale your head in Henry’s glory,<br>And rob his temples of the diadem<br>Now, in his life, against your holy oath?<br>O ’tis a fault too, too, unpardonable.<br>Off with the crown, |
+| *(didascalia)* | She knocks it from his head |
+| QUEEN MARGARET | and with the crown his head,<br>And whilst we breathe, take time to do him dead. |
+| CLIFFORD | That is my office for my father’s sake. |
+| QUEEN MARGARET | Nay, stay—let’s hear the orisons he makes. |
+| YORK | She-wolf of France, but worse than wolves of France,<br>Whose tongue more poisons than the adder’s tooth—<br>How ill-beseeming is it in thy sex<br>To triumph like an Amazonian trull<br>Upon their woes whom fortune captivates!<br>But that thy face is visor-like, unchanging,<br>Made impudent with use of evil deeds,<br>I would essay, proud Queen, to make thee blush.<br>To tell thee whence thou cam’st, of whom derived,<br>Were shame enough to shame thee—wert thou not<br>shameless.<br>Thy father bears the type of King of Naples,<br>Of both the Sicils, and Jerusalem—<br>Yet not so wealthy as an English yeoman.<br>Hath that poor monarch taught thee to insult?<br>It needs not, nor it boots thee not, proud Queen,<br>Unless the adage must be verified<br>That beggars mounted run their horse to death.<br>’Tis beauty that doth oft make women proud—<br>But, God he knows, thy share thereof is small;<br>‘Tis virtue that doth make them most admired—<br>The contrary doth make thee wondered at;<br>’Tis government that makes them seem divine—<br>The want thereof makes thee abominable.<br>Thou art as opposite to every good<br>As the antipodes are unto us,<br>Or as the south to the septentrion.<br>O tiger’s heart wrapped in a woman’s hide!<br>How couldst thou drain the life-blood of the child<br>To bid the father wipe his eyes withal,<br>And yet be seen to bear a woman’s face?<br>Women are soft, mild, pitiful, and flexible—<br>Thou stern, obdurate, flinty, rough, remorseless.<br>Bidd‘st thou me rage? Why, now thou hast thy wish.<br>Wouldst have me weep? Why, now thou hast thy will.<br>For raging wind blows up incessant showers,<br>And when the rage allays the rain begins.<br>These tears are my sweet Rutland’s obsequies,<br>And every drop cries vengeance for his death<br>’Gainst thee, fell Clifford, and thee, false Frenchwoman. |
+| NORTHUMBERLAND | Beshrew me, but his passions move me so<br>That hardly can I check my eyes from tears. |
+| YORK | That face of his the hungry cannibals<br>Would not have touched, would not have stained<br>with blood—<br>But you are more inhuman, more inexorable,<br>O, ten times more than tigers of Hyrcania.<br>See, ruthless Queen, a hapless father’s tears.<br>This cloth thou dipped‘st in blood of my sweet boy,<br>And I with tears do wash the blood away.<br>Keep thou the napkin and go boast of this,<br>And if thou tell’st the heavy story right,<br>Upon my soul the hearers will shed tears,<br>Yea, even my foes will shed fast-falling tears<br>And say, ‘Alas, it was a piteous deed’.<br>There, take the crown—and with the crown, my<br>curse:<br>And in thy need such comfort come to thee<br>As now I reap at thy too cruel hand.<br>Hard-hearted Clifford, take me from the world.<br>My soul to heaven, my blood upon your heads. |
+| NORTHUMBERLAND | Had he been slaughter-man to all my kin,<br>I should not, for my life, but weep with him,<br>To see how inly sorrow gripes his soul. |
+| QUEEN MARGARET | What—weeping-ripe, my lord Northumberland?<br>Think but upon the wrong he did us all,<br>And that will quickly dry thy melting tears. |
+| CLIFFORD | Here’s for my oath, here’s for my father’s death. He stabs York |
+| QUEEN MARGARET | And here’s to right our gentle-hearted King.<br>She stabs York |
+| YORK | Open thy gate of mercy, gracious God—<br>My soul flies through these wounds to seek out thee. |
+| *(didascalia)* | He dies |
+| QUEEN MARGARET | Off with his head and set it on York gates,<br>So York may overlook the town of York. |
+| *(didascalia)* | Flourish. Exeunt with York’s body |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Orlando and Adam
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Orlando and Adam |

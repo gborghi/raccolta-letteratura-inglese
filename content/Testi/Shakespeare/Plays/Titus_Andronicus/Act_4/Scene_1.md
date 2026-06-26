@@ -14,179 +14,40 @@ tags:
 </nav>
 
 
-Enter Lucius’ son and Lavinia running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus
-YOUNG LUCIUS
-Help, grandsire, help! My aunt Lavinia
-Follows me everywhere, I know not why.
-Good uncle Marcus, see how swift she comes.
-Alas, sweet aunt, I know not what you mean.
-⌈He drops his books⌉
-MARCUS
-Stand by me, Lucius. Do not fear thine aunt.
-TITUS
-She loves thee, boy, too well to do thee harm.
-YOUNG LUCIUS
-Ay, when my father was in Rome she did.
-MARCUS
-What means my niece Lavinia by these signs?
-TITUS
-Fear her not, Lucius; somewhat doth she mean. ⌈MARCUS⌉
-See, Lucius, see how much she makes of thee.
-Somewhither would she have thee go with her.
-Ah, boy, Cornelia never with more care
-Read to her sons than she hath read to thee
-Sweet poetry and Tully’s Orator.
-Canst thou not guess wherefore she plies thee thus?
-YOUNG LUCIUS
-My lord, I know not, I, nor can I guess,
-Unless some fit or frenzy do possess her;
-For I have heard my grandsire say full oft
-Extremity of griefs would make men mad,
-And I have read that Hecuba of Troy
-Ran mad for sorrow. That made me to fear,
-Although, my lord, I know my noble aunt
-Loves me as dear as e’er my mother did,
-And would not but in fury fright my youth,
-Which made me down to throw my books and fly,
-Causeless, perhaps. But pardon me, sweet aunt;
-And, madam, if my uncle Marcus go
-I will most willingly attend your ladyship.
-MARCUS
-Lucius, I will.
-Lavinia turns the books over with her stumps
-TITUS
-How now, Lavinia? Marcus, what means this?
-Some book there is that she desires to see.
-Which is it, girl, of these?-Open them, boy.
-(To Lavinia) But thou art deeper read and better skilled.
-Come and take choice of all my library,
-And so beguile thy sorrow till the heavens
-Reveal the damned contriver of this deed.—
-Why lifts she up her arms in sequence thus?
-MARCUS
-I think she means that there were more than one
-Confederate in the fact. Ay, more there was,
-Or else to heaven she heaves them for revenge.
-TITUS
-Lucius, what book is that she tosseth so?
-YOUNG LUCIUS
-Grandsire, ’tis Ovid’s Metamorphoses.
-
-My mother gave it me.
-MARCUS
-For love of her that’s gone,
-Perhaps, she culled it from among the rest.
-TITUS
-Soft, so busily she turns the leaves.
-Help her. What would she find? Lavinia, shall I read?
-This is the tragic tale of Philomel,
-And treats of Tereus’ treason and his rape,
-And rape, I fear, was root of thy annoy.
-MARCUS
-See, brother, see. Note how she quotes the leaves.
-TITUS
-Lavinia, wert thou thus surprised, sweet girl,
-Ravished and wronged as Philomela was,
-Forced in the ruthless, vast, and gloomy woods?
-See, see. Ay, such a place there is where we did
-hunt—
-O, had we never, never hunted there!—
-Patterned by that the poet here describes,
-By nature made for murders and for rapes.
-MARCUS
-O, why should nature build so foul a den,
-Unless the gods delight in tragedies?
-TITUS
-Give signs, sweet girl, for here are none but friends,
-What Roman lord it was durst do the deed.
-Or slunk not Saturnine, as Tarquin erst,
-That left the camp to sin in Lucrece’ bed?
-MARCUS
-Sit down, sweet niece. Brother, sit down by me.
-They sit
-Apollo, Pallas, Jove, or Mercury
-Inspire me, that I may this treason find.
-My lord, look here. Look here, Lavinia.
-This sandy plot is plain. Guide if thou canst
-This after me.
-He writes his name with his staff, and guides it
-
-with feet and mouth
-I here have writ my name
-Without the help of any hand at all.
-Cursed be that heart that forced us to this shift!
-Write thou, good niece, and here display at last
-What God will have discovered for revenge.
-Heaven guide thy pen to print thy sorrows plain,
-That we may know the traitors and the truth.
-She takes the staff in her mouth, and guides it with
-
-her stumps, and writes
-O, do ye read, my lord, what she hath writ?
-⌈TITUS⌉ ‘Stuprum—Chiron—Demetrius.’
-MARCUS
-What, what!—The lustful sons of Tamora
-Performers of this heinous bloody deed?
-TITUS
-Magni dominator poli,
-
-Tam lentus audis scelera, tam lentus vides?
-MARCUS
-O, calm thee, gentle lord, although I know
-There is enough written upon this earth
-To stir a mutiny in the mildest thoughts,
-And arm the minds of infants to exclaims.
-My lord, kneel down with me; Lavinia, kneel;
-And kneel, sweet boy, the Roman Hector’s hope,
-All kneel
-And swear with me—as, with the woeful fere
-And father of that chaste dishonoured dame
-Lord Junius Brutus sware for Lucrece’ rape—
-That we will prosecute by good advice
-Mortal revenge upon these traitorous Goths,
-And see their blood, or die with this reproach.
-They rise
-TITUS
-’Tis sure enough an you knew how,
-But if you hunt these bear-whelps, then beware.
-The dam will wake, and if she wind ye once
-She’s with the lion deeply still in league,
-And lulls him whilst she playeth on her back,
-And when he sleeps will she do what she list.
-You are a young huntsman, Marcus. Let alone,
-And come, I will go get a leaf of brass
-And with a gad of steel will write these words,
-And lay it by. The angry northern wind
-Will blow these sands like Sibyl’s leaves abroad,
-And where’s our lesson then? Boy, what say you?
-YOUNG LUCIUS
-I say, my lord, that if I were a man
-Their mother’s bedchamber should not be safe
-For these base bondmen to the yoke of Rome.
-MARCUS
-Ay, that’s my boy! Thy father hath full oft
-For his ungrateful country done the like.
-YOUNG LUCIUS
-And, uncle, so will I, an if I live.
-TITUS
-Come go with me into mine armoury.
-Lucius, I’ll fit thee; and withal, my boy,
-Shall carry from me to the Empress’ sons
-Presents that I intend to send them both.
-Come, come, thou’lt do my message, wilt thou not?
-YOUNG LUCIUS
-Ay, with my dagger in their bosoms, grandsire.
-TITUS
-No, boy, not so. I’ll teach thee another course.
-Lavinia, come. Marcus, look to my house.
-Lucius and I’ll go brave it at the court.
-Ay, marry, will we, sir, and we’ll be waited on.
-Exeunt all but Marcus
-MARCUS
-O heavens, can you hear a good man groan
-And not relent, or not compassion him?
-Marcus, attend him in his ecstasy,
-That hath more scars of sorrow in his heart
-Than foemen’s marks upon his battered shield,
-But yet so just that he will not revenge.
-Revenge the heavens for old Andronicus! Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Lucius’ son and Lavinia running after him, and the boy flies from her with his books under his arm. Enter Titus and Marcus |
+| YOUNG LUCIUS | Help, grandsire, help! My aunt Lavinia<br>Follows me everywhere, I know not why.<br>Good uncle Marcus, see how swift she comes.<br>Alas, sweet aunt, I know not what you mean. |
+| *(didascalia)* | He drops his books |
+| MARCUS | Stand by me, Lucius. Do not fear thine aunt. |
+| TITUS | She loves thee, boy, too well to do thee harm. |
+| YOUNG LUCIUS | Ay, when my father was in Rome she did. |
+| MARCUS | What means my niece Lavinia by these signs? |
+| *(didascalia)* | Fear her not, Lucius; somewhat doth she mean. MARCUS |
+| TITUS | See, Lucius, see how much she makes of thee.<br>Somewhither would she have thee go with her.<br>Ah, boy, Cornelia never with more care<br>Read to her sons than she hath read to thee<br>Sweet poetry and Tully’s Orator.<br>Canst thou not guess wherefore she plies thee thus? |
+| YOUNG LUCIUS | My lord, I know not, I, nor can I guess,<br>Unless some fit or frenzy do possess her;<br>For I have heard my grandsire say full oft<br>Extremity of griefs would make men mad,<br>And I have read that Hecuba of Troy<br>Ran mad for sorrow. That made me to fear,<br>Although, my lord, I know my noble aunt<br>Loves me as dear as e’er my mother did,<br>And would not but in fury fright my youth,<br>Which made me down to throw my books and fly,<br>Causeless, perhaps. But pardon me, sweet aunt;<br>And, madam, if my uncle Marcus go<br>I will most willingly attend your ladyship. |
+| MARCUS | Lucius, I will.<br>Lavinia turns the books over with her stumps |
+| TITUS | How now, Lavinia? Marcus, what means this?<br>Some book there is that she desires to see.<br>Which is it, girl, of these?-Open them, boy.<br>(To Lavinia) But thou art deeper read and better skilled.<br>Come and take choice of all my library,<br>And so beguile thy sorrow till the heavens<br>Reveal the damned contriver of this deed.—<br>Why lifts she up her arms in sequence thus? |
+| MARCUS | I think she means that there were more than one<br>Confederate in the fact. Ay, more there was,<br>Or else to heaven she heaves them for revenge. |
+| TITUS | Lucius, what book is that she tosseth so? |
+| YOUNG LUCIUS | Grandsire, ’tis Ovid’s Metamorphoses.<br><br>My mother gave it me. |
+| MARCUS | For love of her that’s gone,<br>Perhaps, she culled it from among the rest. |
+| TITUS | Soft, so busily she turns the leaves.<br>Help her. What would she find? Lavinia, shall I read?<br>This is the tragic tale of Philomel,<br>And treats of Tereus’ treason and his rape,<br>And rape, I fear, was root of thy annoy. |
+| MARCUS | See, brother, see. Note how she quotes the leaves. |
+| TITUS | Lavinia, wert thou thus surprised, sweet girl,<br>Ravished and wronged as Philomela was,<br>Forced in the ruthless, vast, and gloomy woods?<br>See, see. Ay, such a place there is where we did<br>hunt—<br>O, had we never, never hunted there!—<br>Patterned by that the poet here describes,<br>By nature made for murders and for rapes. |
+| MARCUS | O, why should nature build so foul a den,<br>Unless the gods delight in tragedies? |
+| TITUS | Give signs, sweet girl, for here are none but friends,<br>What Roman lord it was durst do the deed.<br>Or slunk not Saturnine, as Tarquin erst,<br>That left the camp to sin in Lucrece’ bed? |
+| MARCUS | Sit down, sweet niece. Brother, sit down by me.<br>They sit<br>Apollo, Pallas, Jove, or Mercury<br>Inspire me, that I may this treason find.<br>My lord, look here. Look here, Lavinia.<br>This sandy plot is plain. Guide if thou canst<br>This after me.<br>He writes his name with his staff, and guides it<br><br>with feet and mouth<br>I here have writ my name<br>Without the help of any hand at all.<br>Cursed be that heart that forced us to this shift!<br>Write thou, good niece, and here display at last<br>What God will have discovered for revenge.<br>Heaven guide thy pen to print thy sorrows plain,<br>That we may know the traitors and the truth.<br>She takes the staff in her mouth, and guides it with<br><br>her stumps, and writes<br>O, do ye read, my lord, what she hath writ? |
+| *(didascalia)* | TITUS ‘Stuprum—Chiron—Demetrius.’ |
+| MARCUS | What, what!—The lustful sons of Tamora<br>Performers of this heinous bloody deed? |
+| TITUS | Magni dominator poli,<br><br>Tam lentus audis scelera, tam lentus vides? |
+| MARCUS | O, calm thee, gentle lord, although I know<br>There is enough written upon this earth<br>To stir a mutiny in the mildest thoughts,<br>And arm the minds of infants to exclaims.<br>My lord, kneel down with me; Lavinia, kneel;<br>And kneel, sweet boy, the Roman Hector’s hope,<br>All kneel<br>And swear with me—as, with the woeful fere<br>And father of that chaste dishonoured dame<br>Lord Junius Brutus sware for Lucrece’ rape—<br>That we will prosecute by good advice<br>Mortal revenge upon these traitorous Goths,<br>And see their blood, or die with this reproach.<br>They rise |
+| TITUS | ’Tis sure enough an you knew how,<br>But if you hunt these bear-whelps, then beware.<br>The dam will wake, and if she wind ye once<br>She’s with the lion deeply still in league,<br>And lulls him whilst she playeth on her back,<br>And when he sleeps will she do what she list.<br>You are a young huntsman, Marcus. Let alone,<br>And come, I will go get a leaf of brass<br>And with a gad of steel will write these words,<br>And lay it by. The angry northern wind<br>Will blow these sands like Sibyl’s leaves abroad,<br>And where’s our lesson then? Boy, what say you? |
+| YOUNG LUCIUS | I say, my lord, that if I were a man<br>Their mother’s bedchamber should not be safe<br>For these base bondmen to the yoke of Rome. |
+| MARCUS | Ay, that’s my boy! Thy father hath full oft<br>For his ungrateful country done the like. |
+| YOUNG LUCIUS | And, uncle, so will I, an if I live. |
+| TITUS | Come go with me into mine armoury.<br>Lucius, I’ll fit thee; and withal, my boy,<br>Shall carry from me to the Empress’ sons<br>Presents that I intend to send them both.<br>Come, come, thou’lt do my message, wilt thou not? |
+| YOUNG LUCIUS | Ay, with my dagger in their bosoms, grandsire. |
+| TITUS | No, boy, not so. I’ll teach thee another course.<br>Lavinia, come. Marcus, look to my house.<br>Lucius and I’ll go brave it at the court.<br>Ay, marry, will we, sir, and we’ll be waited on. |
+| *(didascalia)* | Exeunt all but Marcus |
+| MARCUS | O heavens, can you hear a good man groan<br>And not relent, or not compassion him?<br>Marcus, attend him in his ecstasy,<br>That hath more scars of sorrow in his heart<br>Than foemen’s marks upon his battered shield,<br>But yet so just that he will not revenge.<br>Revenge the heavens for old Andronicus! Exit |

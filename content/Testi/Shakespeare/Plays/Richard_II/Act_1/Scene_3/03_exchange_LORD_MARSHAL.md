@@ -13,8 +13,6 @@ tags:
 </nav>
 
 
-LORD MARSHAL
-Sound trumpets, and set forward combatants!
-⌈A charge is sounded.⌉
-King Richard throws down his warder
-Stay, the King hath thrown his warder down.
+| Chi parla | Battuta |
+|---|---|
+| LORD MARSHAL | Sound trumpets, and set forward combatants! A charge is sounded. King Richard throws down his warder Stay, the King hath thrown his warder down. |

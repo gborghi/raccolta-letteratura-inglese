@@ -14,113 +14,25 @@ tags:
 </nav>
 
 
-Enter Octavius reading a letter, Lepidus, and their train
-CAESAR
-You may see, Lepidus, and henceforth know,
-It is not Caesar’s natural vice to hate
-Our great competitor. From Alexandria
-This is the news: he fishes, drinks, and wastes
-The lamps of night in revel; is not more manlike
-Than Cleopatra, nor the queen of Ptolemy
-More womanly than he; hardly gave audience
-Or vouchsafed to think he had partners. You shall find
-there
-A man who is the abstract of all faults
-That all men follow.
-LEPIDUS
-I must not think there are
-Evils enough to darken all his goodness.
-His faults in him seem as the spots of heaven,
-More fiery by night’s blackness; hereditary
-Rather than purchased; what he cannot change
-Than what he chooses.
-CAESAR
-You are too indulgent. Let’s grant it is not
-Amiss to tumble on the bed of Ptolemy,
-To give a kingdom for a mirth, to sit
-And keep the turn of tippling with a slave,
-To reel the streets at noon, and stand the buffet
-With knaves that smells of sweat. Say this becomes
-him—
-As his composure must be rare indeed
-Whom these things cannot blemish—yet must Antony
-No way excuse his foils when we do bear
-So great weight in his lightness. If he filled
-His vacancy with his voluptuousness,
-Full surfeits and the dryness of his bones
-Call on him for’t. But to confound such time
-That drums him from his sport, and speaks as loud
-As his own state and ours—’tis to be chid
-As we rate boys who, being mature in knowledge,
-Pawn their experience to their present pleasure,
-And so rebel to judgement.
-Enter a Messenger
-LEPIDUS
-Here’s more news.
-MESSENGER
-Thy biddings have been done, and every hour,
-Most noble Caesar, shalt thou have report
-How ’tis abroad. Pompey is strong at sea,
-And it appears he is beloved of those
-That only have feared Caesar. To the ports
-The discontents repair, and men’s reports
-Give him much wronged.
-⌈Exit⌉
-CAESAR
-I should have known no less. It hath been taught us from the primal state
-That he which is was wished until he were,
-And the ebbed man, ne‘er loved till ne’er worth love,
-Comes deared by being lacked. This common body,
-Like to a vagabond flag upon the stream,
-Goes to, and back, lackeying the varying tide,
-To rot itself with motion.
-⌈Enter a second Messenger⌉
-SECOND MESSENGER
-Caesar, I bring thee word Menecrates and Menas, famous pirates,
-Makes the sea serve them, which they ear and wound
-With keels of every kind. Many hot inroads
-They make in Italy. The borders maritime
-Lack blood to think on‘t, and flush youth revolt.
-No vessel can peep forth but ’tis as soon
-Taken as seen; for Pompey’s name strikes more
-Than could his war resisted.
-⌈Exit⌉
-CAESAR
-Antony,
-Leave thy lascivious wassails. When thou once
-Was beaten from Modena, where thou slew‘st
-Hirtius and Pansa, consuls, at thy heel
-Did famine follow, whom thou fought’st against—
-Though daintily brought up—with patience more
-Than savages could suffer. Thou didst drink
-The stale of horses, and the gilded puddle
-Which beasts would cough at. Thy palate then did
-deign
-The roughest berry on the rudest hedge.
-Yea, like the stag when snow the pasture sheets,
-The barks of trees thou browsed. On the Alps
-It is reported thou didst eat strange flesh,
-Which some did die to look on; and all this—
-It wounds thine honour that I speak it now—
-Was borne so like a soldier that thy cheek
-So much as lanked not.
-LEPIDUS ’Tis pity of him.
-CAESAR Let his shames quickly
-Drive him to Rome. ‘Tis time we twain
-Did show ourselves i’th’ field; and to that end
-Assemble we immediate council. Pompey
-Thrives in our idleness.
-LEPIDUS
-Tomorrow, Caesar,
-I shall be furnished to inform you rightly
-Both what by sea and land I can be able
-To front this present time.
-CAESAR Till which encounter
-It is my business, too. Farewell.
-LEPIDUS
-Farewell, my lord. What you shall know meantime
-Of stirs abroad I shall beseech you, sir,
-To let me be partaker.
-CAESAR
-Doubt not, sir. I knew it for my bond.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Octavius reading a letter, Lepidus, and their train |
+| CAESAR | You may see, Lepidus, and henceforth know,<br>It is not Caesar’s natural vice to hate<br>Our great competitor. From Alexandria<br>This is the news: he fishes, drinks, and wastes<br>The lamps of night in revel; is not more manlike<br>Than Cleopatra, nor the queen of Ptolemy<br>More womanly than he; hardly gave audience<br>Or vouchsafed to think he had partners. You shall find<br>there<br>A man who is the abstract of all faults<br>That all men follow. |
+| LEPIDUS | I must not think there are<br>Evils enough to darken all his goodness.<br>His faults in him seem as the spots of heaven,<br>More fiery by night’s blackness; hereditary<br>Rather than purchased; what he cannot change<br>Than what he chooses. |
+| CAESAR | You are too indulgent. Let’s grant it is not<br>Amiss to tumble on the bed of Ptolemy,<br>To give a kingdom for a mirth, to sit<br>And keep the turn of tippling with a slave,<br>To reel the streets at noon, and stand the buffet<br>With knaves that smells of sweat. Say this becomes<br>him—<br>As his composure must be rare indeed<br>Whom these things cannot blemish—yet must Antony<br>No way excuse his foils when we do bear<br>So great weight in his lightness. If he filled<br>His vacancy with his voluptuousness,<br>Full surfeits and the dryness of his bones<br>Call on him for’t. But to confound such time<br>That drums him from his sport, and speaks as loud<br>As his own state and ours—’tis to be chid<br>As we rate boys who, being mature in knowledge,<br>Pawn their experience to their present pleasure,<br>And so rebel to judgement. |
+| *(didascalia)* | Enter a Messenger |
+| LEPIDUS | Here’s more news. |
+| MESSENGER | Thy biddings have been done, and every hour,<br>Most noble Caesar, shalt thou have report<br>How ’tis abroad. Pompey is strong at sea,<br>And it appears he is beloved of those<br>That only have feared Caesar. To the ports<br>The discontents repair, and men’s reports<br>Give him much wronged. |
+| *(didascalia)* | Exit |
+| CAESAR | I should have known no less. It hath been taught us from the primal state<br>That he which is was wished until he were,<br>And the ebbed man, ne‘er loved till ne’er worth love,<br>Comes deared by being lacked. This common body,<br>Like to a vagabond flag upon the stream,<br>Goes to, and back, lackeying the varying tide,<br>To rot itself with motion. |
+| *(didascalia)* | Enter a second Messenger |
+| SECOND MESSENGER | Caesar, I bring thee word Menecrates and Menas, famous pirates,<br>Makes the sea serve them, which they ear and wound<br>With keels of every kind. Many hot inroads<br>They make in Italy. The borders maritime<br>Lack blood to think on‘t, and flush youth revolt.<br>No vessel can peep forth but ’tis as soon<br>Taken as seen; for Pompey’s name strikes more<br>Than could his war resisted. |
+| *(didascalia)* | Exit |
+| CAESAR | Antony,<br>Leave thy lascivious wassails. When thou once<br>Was beaten from Modena, where thou slew‘st<br>Hirtius and Pansa, consuls, at thy heel<br>Did famine follow, whom thou fought’st against—<br>Though daintily brought up—with patience more<br>Than savages could suffer. Thou didst drink<br>The stale of horses, and the gilded puddle<br>Which beasts would cough at. Thy palate then did<br>deign<br>The roughest berry on the rudest hedge.<br>Yea, like the stag when snow the pasture sheets,<br>The barks of trees thou browsed. On the Alps<br>It is reported thou didst eat strange flesh,<br>Which some did die to look on; and all this—<br>It wounds thine honour that I speak it now—<br>Was borne so like a soldier that thy cheek<br>So much as lanked not. |
+| LEPIDUS | ’Tis pity of him. |
+| CAESAR | Let his shames quickly<br>Drive him to Rome. ‘Tis time we twain<br>Did show ourselves i’th’ field; and to that end<br>Assemble we immediate council. Pompey<br>Thrives in our idleness. |
+| LEPIDUS | Tomorrow, Caesar,<br>I shall be furnished to inform you rightly<br>Both what by sea and land I can be able<br>To front this present time. |
+| CAESAR | Till which encounter<br>It is my business, too. Farewell. |
+| LEPIDUS | Farewell, my lord. What you shall know meantime<br>Of stirs abroad I shall beseech you, sir,<br>To let me be partaker. |
+| CAESAR | Doubt not, sir. I knew it for my bond. |
+| *(didascalia)* | Exeunt |

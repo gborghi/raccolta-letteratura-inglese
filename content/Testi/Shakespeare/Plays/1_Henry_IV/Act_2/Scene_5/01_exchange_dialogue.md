@@ -13,9 +13,8 @@ tags:
 </nav>
 
 
-Enter Prince Harry
-
-PRINCE HARRY Ned, prithee come out of that fat room, and lend me thy hand to laugh a little.
-Enter Poins ⌈at another door⌉
-
-POINS Where hast been, Hal?
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Prince Harry |
+| PRINCE HARRY | Ned, prithee come out of that fat room, and lend me thy hand to laugh a little. Enter Poins at another door |
+| POINS | Where hast been, Hal? |

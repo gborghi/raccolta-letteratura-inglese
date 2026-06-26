@@ -14,52 +14,19 @@ tags:
 </nav>
 
 
-Enter King Henry and the Earls of Salisbury and Warwick. Then the curtains be drawn revealing Cardinal Beaufort in his bed raving and staring as if he were mad
-KING HENRY (to Cardinal Beaufort)
-How fares my lord? Speak, Beaufort, to thy sovereign.
-CARDINAL BEAUFORT
-If thou beest death, I’ll give thee England’s treasure
-Enough to purchase such another island,
-So thou wilt let me live and feel no pain.
-KING HENRY
-Ah, what a sign it is of evil life
-Where death’s approach is seen so terrible.
-WARWICK
-Beaufort, it is thy sovereign speaks to thee.
-CARDINAL BEAUFORT
-Bring me unto my trial when you will.
-Died he not in his bed ? Where should he die?
-Can I make men live whe’er they will or no?
-O, torture me no more—I will confess.
-Alive again? Then show me where he is.
-I’ll give a thousand pound to look upon him.
-He hath no eyes! The dust hath blinded them.
-Comb down his hair—look, look: it stands upright,
-Like lime twigs set to catch my winged soul.
-Give me some drink, and bid the apothecary
-Bring the strong poison that I bought of him.
-KING HENRY
-O Thou eternal mover of the heavens,
-Look with a gentle eye upon this wretch.
-O, beat away the busy meddling fiend
-That lays strong siege unto this wretch’s soul,
-And from his bosom purge this black despair.
-WARWICK
-See how the pangs of death do make him grin.
-SALISBURY
-Disturb him not; let him pass peaceably.
-KING HENRY
-Peace to his soul, if God’s good pleasure be.
-Lord Card‘nal, if thou think’st on heaven’s bliss,
-Hold up thy hand, make signal of thy hope.
-Cardinal Beaufort dies
-He dies and makes no sign. O God, forgive him.
-WARWICK
-So bad a death argues a monstrous life.
-KING HENRY
-Forbear to judge, for we are sinners all.
-Close up his eyes and draw the curtain close,
-And let us all to meditation.
-Exeunt, ⌈drawing the curtains. The bed is
-
-removed⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Henry and the Earls of Salisbury and Warwick. Then the curtains be drawn revealing Cardinal Beaufort in his bed raving and staring as if he were mad |
+| KING HENRY | (to Cardinal Beaufort)<br>How fares my lord? Speak, Beaufort, to thy sovereign. |
+| CARDINAL BEAUFORT | If thou beest death, I’ll give thee England’s treasure<br>Enough to purchase such another island,<br>So thou wilt let me live and feel no pain. |
+| KING HENRY | Ah, what a sign it is of evil life<br>Where death’s approach is seen so terrible. |
+| WARWICK | Beaufort, it is thy sovereign speaks to thee. |
+| CARDINAL BEAUFORT | Bring me unto my trial when you will.<br>Died he not in his bed ? Where should he die?<br>Can I make men live whe’er they will or no?<br>O, torture me no more—I will confess.<br>Alive again? Then show me where he is.<br>I’ll give a thousand pound to look upon him.<br>He hath no eyes! The dust hath blinded them.<br>Comb down his hair—look, look: it stands upright,<br>Like lime twigs set to catch my winged soul.<br>Give me some drink, and bid the apothecary<br>Bring the strong poison that I bought of him. |
+| KING HENRY | O Thou eternal mover of the heavens,<br>Look with a gentle eye upon this wretch.<br>O, beat away the busy meddling fiend<br>That lays strong siege unto this wretch’s soul,<br>And from his bosom purge this black despair. |
+| WARWICK | See how the pangs of death do make him grin. |
+| SALISBURY | Disturb him not; let him pass peaceably. |
+| KING HENRY | Peace to his soul, if God’s good pleasure be.<br>Lord Card‘nal, if thou think’st on heaven’s bliss,<br>Hold up thy hand, make signal of thy hope.<br>Cardinal Beaufort dies<br>He dies and makes no sign. O God, forgive him. |
+| WARWICK | So bad a death argues a monstrous life. |
+| KING HENRY | Forbear to judge, for we are sinners all.<br>Close up his eyes and draw the curtain close,<br>And let us all to meditation. |
+| *(didascalia)* | Exeunt, drawing the curtains. The bed is |
+| *(didascalia)* | removed |

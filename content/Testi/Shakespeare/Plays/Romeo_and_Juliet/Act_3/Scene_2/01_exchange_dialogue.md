@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Juliet
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Juliet |

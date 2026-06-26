@@ -13,16 +13,8 @@ tags:
 </nav>
 
 
-VIRGILIA Ay, and mine,
-That brought you forth this boy to keep your name
-Living to time.
-
-YOUNG MARTIUS A shall not tread on me.
-I’ll run away till I am bigger, but then I’ll fight.
-
-CORIOLANUS
-Not of a woman’s tenderness to be
-Requires nor child nor woman’s face to see.
-I have sat too long.
-⌈He
-rises and turns away⌉
+| Chi parla | Battuta |
+|---|---|
+| VIRGILIA | Ay, and mine, That brought you forth this boy to keep your name Living to time. |
+| YOUNG MARTIUS | A shall not tread on me. I’ll run away till I am bigger, but then I’ll fight. |
+| CORIOLANUS | Not of a woman’s tenderness to be Requires nor child nor woman’s face to see. I have sat too long. He rises and turns away |

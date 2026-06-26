@@ -13,12 +13,7 @@ tags:
 </nav>
 
 
-RICHARD GLOUCESTER
-This is the fruits of rashness. Marked you not
-How that the guilty kindred of the Queen
-Looked pale, when they did hear of Clarence’ death?
-O, they did urge it still unto the King.
-God will revenge it. Come, lords, will you go
-To comfort Edward with our company?
-
-BUCKINGHAM We wait upon your grace. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| RICHARD GLOUCESTER | This is the fruits of rashness. Marked you not How that the guilty kindred of the Queen Looked pale, when they did hear of Clarence’ death? O, they did urge it still unto the King. God will revenge it. Come, lords, will you go To comfort Edward with our company? |
+| BUCKINGHAM | We wait upon your grace. Exeunt |

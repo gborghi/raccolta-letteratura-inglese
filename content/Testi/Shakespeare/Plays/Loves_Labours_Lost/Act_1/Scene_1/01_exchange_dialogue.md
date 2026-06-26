@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Ferdinand, King of Navarre, Biron, Longueville, and Dumaine
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Ferdinand, King of Navarre, Biron, Longueville, and Dumaine |

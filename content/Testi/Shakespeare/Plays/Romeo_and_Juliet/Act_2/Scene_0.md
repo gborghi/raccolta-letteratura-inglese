@@ -14,19 +14,7 @@ tags:
 </nav>
 
 
-Enter Chorus
-CHORUS
-Now old desire doth in his deathbed lie,
-And young affection gapes to be his heir.
-That fair for which love groaned for and would die,
-With tender Juliet matched, is now not fair.
-Now Romeo is beloved and loves again,
-Alike bewitched by the charm of looks;
-But to his foe supposed he must complain,
-And she steal love’s sweet bait from fearful hooks.
-Being held a foe, he may not have access
-To breathe such vows as lovers use to swear,
-And she as much in love, her means much less
-To meet her new belovèd anywhere.
-But passion lends them power, time means, to meet,
-Temp’ring extremities with extreme sweet. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Chorus |
+| CHORUS | Now old desire doth in his deathbed lie,<br>And young affection gapes to be his heir.<br>That fair for which love groaned for and would die,<br>With tender Juliet matched, is now not fair.<br>Now Romeo is beloved and loves again,<br>Alike bewitched by the charm of looks;<br>But to his foe supposed he must complain,<br>And she steal love’s sweet bait from fearful hooks.<br>Being held a foe, he may not have access<br>To breathe such vows as lovers use to swear,<br>And she as much in love, her means much less<br>To meet her new belovèd anywhere.<br>But passion lends them power, time means, to meet,<br>Temp’ring extremities with extreme sweet. Exit |

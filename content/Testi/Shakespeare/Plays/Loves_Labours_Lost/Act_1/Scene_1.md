@@ -14,288 +14,106 @@ tags:
 </nav>
 
 
-Enter Ferdinand, King of Navarre, Biron, Longueville, and Dumaine
-KING
-Let fame, that all hunt after in their lives,
-Live registered upon our brazen tombs,
-And then grace us in the disgrace of death
-When, spite of cormorant devouring time,
-Th’endeavour of this present breath may buy
-That honour which shall bate his scythe’s keen edge
-And make us heirs of all eternity.
-Therefore, brave conquerors—for so you are,
-That war against your own affections
-And the huge army of the world’s desires—
-Our late edict shall strongly stand in force.
-Navarre shall be the wonder of the world.
-Our court shall be a little academe,
-Still and contemplative in living art.
-You three—Biron, Dumaine, and Longueville—
-Have sworn for three years’ term to live with me
-My fellow scholars, and to keep those statutes
-That are recorded in this schedule here.
-Your oaths are passed; and now subscribe your names,
-That his own hand may strike his honour down
-That violates the smallest branch herein.
-If you are armed to do as sworn to do,
-Subscribe to your deep oaths, and keep it, too.
-LONGUEVILLE
-I am resolved. ‘Tis but a three years’ fast.
-The mind shall banquet, though the body pine.
-Fat paunches have lean pates, and dainty bits
-Make rich the ribs but bankrupt quite the wits.
-He signs
-DUMAINE
-My loving lord, Dumaine is mortified.
-The grosser manner of these world’s delights
-He throws upon the gross world’s baser slaves.
-To love, to wealth, to pomp I pine and die,
-With all these living in philosophy.
-He signs
-BIRON
-I can but say their protestation over.
-So much, dear liege, I have already sworn:
-That is, to live and study here three years.
-But there are other strict observances,
-As not to see a woman in that term,
-Which I hope well is not enrolled there;
-And one day in a week to touch no food,
-And but one meal on every day beside,
-The which I hope is not enrolled there;
-And then to sleep but three hours in the night,
-And not be seen to wink of all the day,
-When I was wont to think no harm all night,
-And make a dark night too of half the day,
-Which I hope well is not enrolled there.
-O, these are barren tasks, too hard to keep—
-Not to see ladies, study, fast, not sleep.
-KING
-Your oath is passed to pass away from these.
-BIRON
-Let me say no, my liege, an if you please.
-I only swore to study with your grace,
-And stay here in your court, for three years’ space.
-LONGUEVILLE
-You swore to that, Biron, and to the rest.
-BIRON
-By yea and nay, sir, then I swore in jest.
-What is the end of study, let me know?
-KING
-Why, that to know which else we should not know.
-BIRON
-Things hid and barred, you mean, from common sense.
-KING
-Ay, that is study’s god-like recompense.
-BIRON
-Come on, then, I will swear to study so
-To know the thing I am forbid to know,
-As thus: to study where I well may dine
-When I to feast expressly am forbid,
-Or study where to meet some mistress fine
-When mistresses from common sense are hid;
-Or having sworn too hard a keeping oath,
-Study to break it and not break my troth.
-If study’s gain be thus, and this be so,
-Study knows that which yet it doth not know.
-Swear me to this, and I will ne’er say no.
-KING
-These be the stops that hinder study quite,
-And train our intellects to vain delight.
-BIRON
-Why, all delights are vain, but that most vain
-Which, with pain purchased, doth inherit pain;
-As painfully to pore upon a book
-To seek the light of truth while truth the while
-Doth falsely blind the eyesight of his look.
-Light, seeking light, doth light of light beguile;
-So ere you find where light in darkness lies
-Your light grows dark by losing of your eyes.
-Study me how to please the eye indeed
-By fixing it upon a fairer eye,
-Who dazzling so, that eye shall be his heed,
-And give him light that it was blinded by.
-Study is like the heavens’ glorious sun,
-That will not be deep searched with saucy looks.
-Small have continual plodders ever won
-Save base authority from others’ books.
-These earthly godfathers of heaven’s lights,
-That give a name to every fixed star,
-Have no more profit of their shining nights
-Than those that walk and wot not what they are.
-Too much to know is to know naught but fame,
-And every godfather can give a name.
-KING
-How well he’s read, to reason against reading!
-DUMAINE
-Proceeded well, to stop all good proceeding.
-LONGUEVILLE
-He weeds the corn and still lets grow the weeding.
-BIRON
-The spring is near when green geese are a-breeding.
-DUMAINE
-How follows that?
-BIRON
-Fit in his place and time.
-DUMAINE
-In reason nothing.
-BIRON
-Something then in rhyme.
-KING
-Biron is like an envious sneaping frost,
-That bites the first-born infants of the spring.
-BIRON
-Well, say I am! Why should proud summer boast
-Before the birds have any cause to sing?
-Why should I joy in any abortive birth?
-At Christmas I no more desire a rose
-Than wish a snow in May’s new-fangled shows,
-But like of each thing that in season grows.
-So you to study, now it is too late,
-Climb o’er the house to unlock the little gate.
-KING
-Well, sit you out. Go home, Biron. Adieu.
-BIRON
-No, my good lord, I have sworn to stay with you.
-And though I have for barbarism spoke more
-Than for that angel knowledge you can say,
-Yet confident I’ll keep what I have sworn,
-And bide the penance of each three years’ day.
-Give me the paper. Let me read the same,
-And to the strict’st decrees I’ll write my name.
-KING (giving a paper)
-How well this yielding rescues thee from shame!
-BIRON (reads) ‘Item: that no woman shall come within a mile of my court.’ Hath this been proclaimed?
-LONGUEVILLE Four days ago.
-BIRON Let’s see the penalty. ‘On pain of losing her tongue.’ Who devised this penalty?
-LONGUEVILLE Marry, that did I.
-BIRON Sweet lord, and why?
-LONGUEVILLE
-To fright them hence with that dread penalty.
-BIRON
-A dangerous law against gentility.
-‘Item: if any man be seen to talk with a woman within
-the term of three years, he shall endure such public
-shame as the rest of the court can possible devise.’
-This article, my liege, yourself must break;
-For well you know here comes in embassy
-The French King’s daughter with yourself to speak—
-A maid of grace and complete majesty—
-About surrender-up of Aquitaine
-To her decrepit, sick, and bedrid father.
-Therefore this article is made in vain,
-Or vainly comes th’admirèd Princess hither.
-KING
-What say you, lords? Why, this was quite forgot.
-BIRON
-So study evermore is overshot.
-While it doth study to have what it would,
-It doth forget to do the thing it should;
-And when it hath the thing it hunteth most,
-’Tis won as towns with fire—so won, so lost.
-KING
-We must of force dispense with this decree.
-She must lie here, on mere necessity.
-BIRON
-Necessity will make us all forsworn
-Three thousand times within this three years’ space;
-For every man with his affects is born,
-Not by might mastered, but by special grace.
-If I break faith, this word shall speak for me:
-I am forsworn on mere necessity.
-So to the laws at large I write my name,
-And he that breaks them in the least degree
-Stands in attainder of eternal shame.
-He signs
-Suggestions are to other as to me,
-But I believe, although I seem so loath,
-I am the last that will last keep his oath.
-But is there no quick recreation granted?
-KING
-Ay, that there is. Our court, you know, is haunted
-With a refined traveller of Spain,
-A man in all the world’s new fashion planted,
-That hath a mint of phrases in his brain.
-One who the music of his own vain tongue
-Doth ravish like enchanting harmony;
-A man of complements, whom right and wrong
-Have chose as umpire of their mutiny.
-This child of fancy, that Armado hight,
-For interim to our studies shall relate
-In high-borne words the worth of many a knight
-From tawny Spain lost in the world’s debate.
-How you delight, my lords, I know not, I;
-But I protest I love to hear him lie,
-And I will use him for my minstrelsy.
-BIRON
-Armado is a most illustrious wight,
-A man of fire-new words, fashion’s own knight.
-LONGUEVILLE
-Costard the swain and he shall be our sport,
-And so to study three years is but short.
-Enter a constable, Anthony Dull, with Costard with a letter
-DULL Which is the Duke’s own person?
-BIRON This, fellow. What wouldst?
-DULL I myself reprehend his own person, for I am his grace’s farborough. But I would see his own person in flesh and blood.
-BIRON This is he.
-DULL Senor Arm—Arm—commends you. There’s villainy abroad. This letter will tell you more.
-COSTARD Sir, the contempts thereof are as touching me. KING A letter from the magnificent Armado.
-BIRON How low soever the matter, I hope in God for high words.
-LONGUEVILLE A high hope for a low heaven. God grant us patience.
-BIRON To hear, or forbear laughing?
-LONGUEVILLE To hear meekly, sir, and to laugh moderately, or to forbear both.
-BIRON Well, sir, be it as the style shall give us cause to climb in the merriness.
-COSTARD The matter is to me, sir, as concerning Jaquenetta. The manner of it is, I was taken with the manner.
-BIRON In what manner?
-COSTARD In manner and form following, sir—all those three. I was seen with her in the manor house, sitting with her upon the form, and taken following her into the park; which put together is ‘in manner and form following’. Now, sir, for the manner: it is the manner of a man to speak to a woman. For the form: in some form.
-BIRON For the ‘following’, sir?
-COSTARD As it shall follow in my correction; and God defend the right.
-KING Will you hear this letter with attention?
-BIRON As we would hear an oracle.
-COSTARD Such is the simplicity of man to hearken after the flesh.
-KING (reads) ‘Great deputy, the welkin’s vicegerent and sole dominator of Navarre, my soul’s earth’s god, and body’s fostering patron’—
-COSTARD Not a word of Costard yet.
-KING ‘So it is’—
-COSTARD It may be so; but if he say it is so, he is, in telling true, but so.
-KING Peace!
-COSTARD Be to me and every man that dares not fight.
-KING No words!
-COSTARD Of other men’s secrets, I beseech you.
-KING ‘So it is, besieged with sable-coloured melancholy, I did commend the black-oppressing humour to the most wholesome physic of thy health-giving air, and, as I am a gentleman, betook myself to walk. The time when? About the sixth hour, when beasts most graze, birds best peck, and men sit down to that nourishment which is called supper. So much for the time when. Now for the ground which—which, I mean, I walked upon. It is yclept thy park. Then for the place where—where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink which here thou viewest, beholdest, surveyest, or seest. But to the place where. It standeth north-north-east and by east from the west corner of thy curious-knotted garden. There did I see that low-spirited swain, that base minnow of thy mirth’—
-COSTARD Me?
-KING ‘That unlettered, small-knowing sout’—
-COSTARD Me?
-KING ‘That shallow vassal’—
-COSTARD Still me?
-KING ‘Which, as I remember, hight Costard’—
-COSTARD O, me!
-KING ‘Sorted and consorted, contrary to thy established proclaimed edict and continent canon, with, with, O with—but with this I passion to say wherewith’—COSTARD With a wench.
-KING ‘With a child of our grandmother Eve, a female, or for thy more sweet understanding a woman. Him I, as my ever-esteemed duty pricks me on, have sent to thee, to receive the meed of punishment, by thy sweet grace’s officer Anthony Dull, a man of good repute, carriage, bearing, and estimation.’
-DULL Me, an’t shall please you. I am Anthony Dull.
-KING ‘For Jaquenetta—so is the weaker vessel called—which I apprehended with the aforesaid swain, I keep her as a vessel of thy law’s fury, and shall at the least of thy sweet notice bring her to trial. Thine in all compliments of devoted and heartburning heat of duty,
-Don Adriano de Armado.’
-BIRON This is not so well as I looked for, but the best that ever I heard.
-KING Ay, the best for the worst. (To Costard) But, sirrah, what say you to this?
-COSTARD Sir, I confess the wench.
-KING Did you hear the proclamation?
-COSTARD I do confess much of the hearing it, but little of the marking of it.
-KING It was proclaimed a year’s imprisonment to be taken with a wench.
-COSTARD I was taken with none, sir. I was taken with a damsel.
-KING Well, it was proclaimed ‘damsel’.
-COSTARD This was no damsel, neither, sir. She was a virgin.
-⌈KING⌉ It is so varied, too, for it was proclaimed ‘virgin’.
-COSTARD If it were, I deny her virginity. I was taken with a maid.
-KING This ‘maid’ will not serve your turn, sir.
-COSTARD This maid will serve my turn, sir.
-KING Sir, I will pronounce your sentence. You shall fast a week with bran and water.
-COSTARD I had rather pray a month with mutton and porridge.
-KING
-And Don Armado shall be your keeper.
-My lord Biron, see him delivered o’er,
-And go we, lords, to put in practice that
-Which each to other hath so strongly sworn.
-Exeunt the King, Longueville, and Dumaine
-BIRON
-I’ll lay my head to any good man’s hat
-These oaths and laws will prove an idle scorn.
-Sirrah, come on.
-COSTARD I suffer for the truth, sir; for true it is I was taken with Jaquenetta, and Jaquenetta is a true girl, and therefore, welcome the sour cup of prosperity, affliction may one day smile again; and till then, sit thee down, sorrow. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Ferdinand, King of Navarre, Biron, Longueville, and Dumaine |
+| KING | Let fame, that all hunt after in their lives,<br>Live registered upon our brazen tombs,<br>And then grace us in the disgrace of death<br>When, spite of cormorant devouring time,<br>Th’endeavour of this present breath may buy<br>That honour which shall bate his scythe’s keen edge<br>And make us heirs of all eternity.<br>Therefore, brave conquerors—for so you are,<br>That war against your own affections<br>And the huge army of the world’s desires—<br>Our late edict shall strongly stand in force.<br>Navarre shall be the wonder of the world.<br>Our court shall be a little academe,<br>Still and contemplative in living art.<br>You three—Biron, Dumaine, and Longueville—<br>Have sworn for three years’ term to live with me<br>My fellow scholars, and to keep those statutes<br>That are recorded in this schedule here.<br>Your oaths are passed; and now subscribe your names,<br>That his own hand may strike his honour down<br>That violates the smallest branch herein.<br>If you are armed to do as sworn to do,<br>Subscribe to your deep oaths, and keep it, too. |
+| LONGUEVILLE | I am resolved. ‘Tis but a three years’ fast.<br>The mind shall banquet, though the body pine.<br>Fat paunches have lean pates, and dainty bits<br>Make rich the ribs but bankrupt quite the wits.<br>He signs |
+| DUMAINE | My loving lord, Dumaine is mortified.<br>The grosser manner of these world’s delights<br>He throws upon the gross world’s baser slaves.<br>To love, to wealth, to pomp I pine and die,<br>With all these living in philosophy.<br>He signs |
+| BIRON | I can but say their protestation over.<br>So much, dear liege, I have already sworn:<br>That is, to live and study here three years.<br>But there are other strict observances,<br>As not to see a woman in that term,<br>Which I hope well is not enrolled there;<br>And one day in a week to touch no food,<br>And but one meal on every day beside,<br>The which I hope is not enrolled there;<br>And then to sleep but three hours in the night,<br>And not be seen to wink of all the day,<br>When I was wont to think no harm all night,<br>And make a dark night too of half the day,<br>Which I hope well is not enrolled there.<br>O, these are barren tasks, too hard to keep—<br>Not to see ladies, study, fast, not sleep. |
+| KING | Your oath is passed to pass away from these. |
+| BIRON | Let me say no, my liege, an if you please.<br>I only swore to study with your grace,<br>And stay here in your court, for three years’ space. |
+| LONGUEVILLE | You swore to that, Biron, and to the rest. |
+| BIRON | By yea and nay, sir, then I swore in jest.<br>What is the end of study, let me know? |
+| KING | Why, that to know which else we should not know. |
+| BIRON | Things hid and barred, you mean, from common sense. |
+| KING | Ay, that is study’s god-like recompense. |
+| BIRON | Come on, then, I will swear to study so<br>To know the thing I am forbid to know,<br>As thus: to study where I well may dine<br>When I to feast expressly am forbid,<br>Or study where to meet some mistress fine<br>When mistresses from common sense are hid;<br>Or having sworn too hard a keeping oath,<br>Study to break it and not break my troth.<br>If study’s gain be thus, and this be so,<br>Study knows that which yet it doth not know.<br>Swear me to this, and I will ne’er say no. |
+| KING | These be the stops that hinder study quite,<br>And train our intellects to vain delight. |
+| BIRON | Why, all delights are vain, but that most vain<br>Which, with pain purchased, doth inherit pain;<br>As painfully to pore upon a book<br>To seek the light of truth while truth the while<br>Doth falsely blind the eyesight of his look.<br>Light, seeking light, doth light of light beguile;<br>So ere you find where light in darkness lies<br>Your light grows dark by losing of your eyes.<br>Study me how to please the eye indeed<br>By fixing it upon a fairer eye,<br>Who dazzling so, that eye shall be his heed,<br>And give him light that it was blinded by.<br>Study is like the heavens’ glorious sun,<br>That will not be deep searched with saucy looks.<br>Small have continual plodders ever won<br>Save base authority from others’ books.<br>These earthly godfathers of heaven’s lights,<br>That give a name to every fixed star,<br>Have no more profit of their shining nights<br>Than those that walk and wot not what they are.<br>Too much to know is to know naught but fame,<br>And every godfather can give a name. |
+| KING | How well he’s read, to reason against reading! |
+| DUMAINE | Proceeded well, to stop all good proceeding. |
+| LONGUEVILLE | He weeds the corn and still lets grow the weeding. |
+| BIRON | The spring is near when green geese are a-breeding. |
+| DUMAINE | How follows that? |
+| BIRON | Fit in his place and time. |
+| DUMAINE | In reason nothing. |
+| BIRON | Something then in rhyme. |
+| KING | Biron is like an envious sneaping frost,<br>That bites the first-born infants of the spring. |
+| BIRON | Well, say I am! Why should proud summer boast<br>Before the birds have any cause to sing?<br>Why should I joy in any abortive birth?<br>At Christmas I no more desire a rose<br>Than wish a snow in May’s new-fangled shows,<br>But like of each thing that in season grows.<br>So you to study, now it is too late,<br>Climb o’er the house to unlock the little gate. |
+| KING | Well, sit you out. Go home, Biron. Adieu. |
+| BIRON | No, my good lord, I have sworn to stay with you.<br>And though I have for barbarism spoke more<br>Than for that angel knowledge you can say,<br>Yet confident I’ll keep what I have sworn,<br>And bide the penance of each three years’ day.<br>Give me the paper. Let me read the same,<br>And to the strict’st decrees I’ll write my name. |
+| KING | (giving a paper)<br>How well this yielding rescues thee from shame! |
+| BIRON | (reads) ‘Item: that no woman shall come within a mile of my court.’ Hath this been proclaimed? |
+| LONGUEVILLE | Four days ago. |
+| BIRON | Let’s see the penalty. ‘On pain of losing her tongue.’ Who devised this penalty? |
+| LONGUEVILLE | Marry, that did I. |
+| BIRON | Sweet lord, and why? |
+| LONGUEVILLE | To fright them hence with that dread penalty. |
+| BIRON | A dangerous law against gentility.<br>‘Item: if any man be seen to talk with a woman within<br>the term of three years, he shall endure such public<br>shame as the rest of the court can possible devise.’<br>This article, my liege, yourself must break;<br>For well you know here comes in embassy<br>The French King’s daughter with yourself to speak—<br>A maid of grace and complete majesty—<br>About surrender-up of Aquitaine<br>To her decrepit, sick, and bedrid father.<br>Therefore this article is made in vain,<br>Or vainly comes th’admirèd Princess hither. |
+| KING | What say you, lords? Why, this was quite forgot. |
+| BIRON | So study evermore is overshot.<br>While it doth study to have what it would,<br>It doth forget to do the thing it should;<br>And when it hath the thing it hunteth most,<br>’Tis won as towns with fire—so won, so lost. |
+| KING | We must of force dispense with this decree.<br>She must lie here, on mere necessity. |
+| BIRON | Necessity will make us all forsworn<br>Three thousand times within this three years’ space;<br>For every man with his affects is born,<br>Not by might mastered, but by special grace.<br>If I break faith, this word shall speak for me:<br>I am forsworn on mere necessity.<br>So to the laws at large I write my name,<br>And he that breaks them in the least degree<br>Stands in attainder of eternal shame.<br>He signs<br>Suggestions are to other as to me,<br>But I believe, although I seem so loath,<br>I am the last that will last keep his oath.<br>But is there no quick recreation granted? |
+| KING | Ay, that there is. Our court, you know, is haunted<br>With a refined traveller of Spain,<br>A man in all the world’s new fashion planted,<br>That hath a mint of phrases in his brain.<br>One who the music of his own vain tongue<br>Doth ravish like enchanting harmony;<br>A man of complements, whom right and wrong<br>Have chose as umpire of their mutiny.<br>This child of fancy, that Armado hight,<br>For interim to our studies shall relate<br>In high-borne words the worth of many a knight<br>From tawny Spain lost in the world’s debate.<br>How you delight, my lords, I know not, I;<br>But I protest I love to hear him lie,<br>And I will use him for my minstrelsy. |
+| BIRON | Armado is a most illustrious wight,<br>A man of fire-new words, fashion’s own knight. |
+| LONGUEVILLE | Costard the swain and he shall be our sport,<br>And so to study three years is but short. |
+| *(didascalia)* | Enter a constable, Anthony Dull, with Costard with a letter |
+| DULL | Which is the Duke’s own person? |
+| BIRON | This, fellow. What wouldst? |
+| DULL | I myself reprehend his own person, for I am his grace’s farborough. But I would see his own person in flesh and blood. |
+| BIRON | This is he. |
+| DULL | Senor Arm—Arm—commends you. There’s villainy abroad. This letter will tell you more. |
+| COSTARD | Sir, the contempts thereof are as touching me. KING A letter from the magnificent Armado. |
+| BIRON | How low soever the matter, I hope in God for high words. |
+| LONGUEVILLE | A high hope for a low heaven. God grant us patience. |
+| BIRON | To hear, or forbear laughing? |
+| LONGUEVILLE | To hear meekly, sir, and to laugh moderately, or to forbear both. |
+| BIRON | Well, sir, be it as the style shall give us cause to climb in the merriness. |
+| COSTARD | The matter is to me, sir, as concerning Jaquenetta. The manner of it is, I was taken with the manner. |
+| BIRON | In what manner? |
+| COSTARD | In manner and form following, sir—all those three. I was seen with her in the manor house, sitting with her upon the form, and taken following her into the park; which put together is ‘in manner and form following’. Now, sir, for the manner: it is the manner of a man to speak to a woman. For the form: in some form. |
+| BIRON | For the ‘following’, sir? |
+| COSTARD | As it shall follow in my correction; and God defend the right. |
+| KING | Will you hear this letter with attention? |
+| BIRON | As we would hear an oracle. |
+| COSTARD | Such is the simplicity of man to hearken after the flesh. |
+| KING | (reads) ‘Great deputy, the welkin’s vicegerent and sole dominator of Navarre, my soul’s earth’s god, and body’s fostering patron’— |
+| COSTARD | Not a word of Costard yet. |
+| KING | ‘So it is’— |
+| COSTARD | It may be so; but if he say it is so, he is, in telling true, but so. |
+| KING | Peace! |
+| COSTARD | Be to me and every man that dares not fight. |
+| KING | No words! |
+| COSTARD | Of other men’s secrets, I beseech you. |
+| KING | ‘So it is, besieged with sable-coloured melancholy, I did commend the black-oppressing humour to the most wholesome physic of thy health-giving air, and, as I am a gentleman, betook myself to walk. The time when? About the sixth hour, when beasts most graze, birds best peck, and men sit down to that nourishment which is called supper. So much for the time when. Now for the ground which—which, I mean, I walked upon. It is yclept thy park. Then for the place where—where, I mean, I did encounter that obscene and most preposterous event that draweth from my snow-white pen the ebon-coloured ink which here thou viewest, beholdest, surveyest, or seest. But to the place where. It standeth north-north-east and by east from the west corner of thy curious-knotted garden. There did I see that low-spirited swain, that base minnow of thy mirth’— |
+| COSTARD | Me? |
+| KING | ‘That unlettered, small-knowing sout’— |
+| COSTARD | Me? |
+| KING | ‘That shallow vassal’— |
+| COSTARD | Still me? |
+| KING | ‘Which, as I remember, hight Costard’— |
+| COSTARD | O, me! |
+| KING | ‘Sorted and consorted, contrary to thy established proclaimed edict and continent canon, with, with, O with—but with this I passion to say wherewith’—COSTARD With a wench. |
+| KING | ‘With a child of our grandmother Eve, a female, or for thy more sweet understanding a woman. Him I, as my ever-esteemed duty pricks me on, have sent to thee, to receive the meed of punishment, by thy sweet grace’s officer Anthony Dull, a man of good repute, carriage, bearing, and estimation.’ |
+| DULL | Me, an’t shall please you. I am Anthony Dull. |
+| KING | ‘For Jaquenetta—so is the weaker vessel called—which I apprehended with the aforesaid swain, I keep her as a vessel of thy law’s fury, and shall at the least of thy sweet notice bring her to trial. Thine in all compliments of devoted and heartburning heat of duty,<br>Don Adriano de Armado.’ |
+| BIRON | This is not so well as I looked for, but the best that ever I heard. |
+| KING | Ay, the best for the worst. (To Costard) But, sirrah, what say you to this? |
+| COSTARD | Sir, I confess the wench. |
+| KING | Did you hear the proclamation? |
+| COSTARD | I do confess much of the hearing it, but little of the marking of it. |
+| KING | It was proclaimed a year’s imprisonment to be taken with a wench. |
+| COSTARD | I was taken with none, sir. I was taken with a damsel. |
+| KING | Well, it was proclaimed ‘damsel’. |
+| COSTARD | This was no damsel, neither, sir. She was a virgin. |
+| *(didascalia)* | KING It is so varied, too, for it was proclaimed ‘virgin’. |
+| COSTARD | If it were, I deny her virginity. I was taken with a maid. |
+| KING | This ‘maid’ will not serve your turn, sir. |
+| COSTARD | This maid will serve my turn, sir. |
+| KING | Sir, I will pronounce your sentence. You shall fast a week with bran and water. |
+| COSTARD | I had rather pray a month with mutton and porridge. |
+| KING | And Don Armado shall be your keeper.<br>My lord Biron, see him delivered o’er,<br>And go we, lords, to put in practice that<br>Which each to other hath so strongly sworn. |
+| *(didascalia)* | Exeunt the King, Longueville, and Dumaine |
+| BIRON | I’ll lay my head to any good man’s hat<br>These oaths and laws will prove an idle scorn.<br>Sirrah, come on. |
+| COSTARD | I suffer for the truth, sir; for true it is I was taken with Jaquenetta, and Jaquenetta is a true girl, and therefore, welcome the sour cup of prosperity, affliction may one day smile again; and till then, sit thee down, sorrow. Exeunt |

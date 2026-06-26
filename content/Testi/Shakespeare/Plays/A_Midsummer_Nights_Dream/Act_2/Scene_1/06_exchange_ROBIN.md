@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-ROBIN
-Fear not, my lord. Your servant shall do so.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| ROBIN | Fear not, my lord. Your servant shall do so. Exeunt severally |

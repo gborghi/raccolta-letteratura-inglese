@@ -14,122 +14,22 @@ tags:
 </nav>
 
 
-Enter King Henry in his nightgown, with a page
-KING HENRY (giving letters)
-Go call the Earls of Surrey and of Warwick.
-But ere they come, bid them o’er-read these letters
-And well consider of them. Make good speed.
-Exit page
-How many thousand of my poorest subjects
-Are at this hour asleep? O sleep, O gentle sleep,
-Nature’s soft nurse, how have I frighted thee,
-That thou no more wilt weigh my eyelids down
-And steep my senses in forgetfulness?
-Why rather, sleep, liest thou in smoky cribs,
-Upon uneasy pallets stretching thee,
-And hushed with buzzing night-flies to thy slumber,
-Than in the perfumed chambers of the great,
-Under the canopies of costly state,
-And lulled with sound of sweetest melody?
-O thou dull god, why li‘st thou with the vile 15
-In loathsome beds, and leav’st the kingly couch
-A watch-case, or a common ’larum-bell?
-Wilt thou upon the high and giddy mast
-Seal up the ship-boy’s eyes, and rock his brains
-In cradle of the rude imperious surge,
-And in the visitation of the winds,
-Who take the ruffian billows by the top,
-Curling their monstrous heads, and hanging them
-With deafing clamour in the slippery clouds,
-That, with the hurly, death itself awakes?
-Canst thou, O partial sleep, give thy repose
-To the wet sea-boy in an hour so rude,
-And in the calmest and most stillest night,
-With all appliances and means to boot,
-Deny it to a king? Then happy low, lie down.
-Uneasy lies the head that wears a crown.
-Enter the Earls of Warwick and Surrey
-WARWICK
-Many good morrows to your majesty!
-KING HENRY
-Is it good morrow, lords?
-WARWICK ’Tis one o’clock, and past.
-KING HENRY
-Why then, good morrow to you all, my lords.
-Have you read o’er the letter that I sent you?
-WARWICK We have, my liege.
-KING HENRY
-Then you perceive the body of our kingdom,
-How foul it is, what rank diseases grow,
-And with what danger near the heart of it.
-WARWICK
-It is but as a body yet distempered,
-Which to his former strength may be restored
-With good advice and little medicine.
-My lord Northumberland will soon be cooled.
-KING HENRY
-O God, that one might read the book of fate,
-And see the revolution of the times
-Make mountains level, and the continent,
-Weary of solid firmness, melt itself
-Into the sea; and other times to see
-The beachy girdle of the ocean
-Too wide for Neptune’s hips; how chance’s mocks
-And changes fill the cup of alteration
-With divers liquors!‘Tis not ten years gone
-Since Richard and Northumberland, great friends,
-Did feast together; and in two year after
-Were they at wars. It is but eight years since
-This Percy was the man nearest my soul,
-Who like a brother toiled in my affairs,
-And laid his love and life under my foot,
-Yea, for my sake, even to the eyes of Richard
-Gave him defiance. But which of you was by—
-(To Warwick) You, cousin Neville, as I may
-remember—
-When Richard, with his eye brimful of tears,
-Then checked and rated by Northumberland,
-Did speak these words, now proved a prophecy?—
-‘Northumberland, thou ladder by the which
-My cousin Bolingbroke ascends my throne’—
-Though then, God knows, I had no such intent,
-But that necessity so bowed the state
-That I and greatness were compelled to kiss—
-‘The time shall come’—thus did he follow it—
-‘The time will come that foul sin, gathering head,
-Shall break into corruption’; so went on,
-Foretelling this same time’s condition,
-And the division of our amity.
-WARWICK
-There is a history in all men’s lives
-Figuring the natures of the times deceased;
-The which observed, a man may prophesy,
-With a near aim, of the main chance of things
-As yet not come to life, who in their seeds
-And weak beginnings lie intreasurèd. 80
-Such things become the hatch and brood of time;
-And by the necessary form of this
-King Richard might create a perfect guess
-That great Northumberland, then false to him,
-Would of that seed grow to a greater falseness,
-Which should not find a ground to root upon
-Unless on you.
-KING HENRY Are these things then necessities?
-Then let us meet them like necessities;
-And that same word even now cries out on us.
-They say the Bishop and Northumberland
-Are fifty thousand strong.
-WARWICK It cannot be, my lord.
-Rumour doth double, like the voice and echo,
-The numbers of the feared. Please it your grace
-To go to bed? Upon my soul, my lord,
-The powers that you already have sent forth
-Shall bring this prize in very easily.
-To comfort you the more, I have received
-A certain instance that Glyndwr is dead.
-Your majesty hath been this fortnight ill,
-And these unseasoned hours perforce must add
-Unto your sickness.
-KING HENRY I will take your counsel.
-And were these inward wars once out of hand,
-We would, dear lords, unto the Holy Land. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Henry in his nightgown, with a page |
+| KING HENRY | (giving letters)<br>Go call the Earls of Surrey and of Warwick.<br>But ere they come, bid them o’er-read these letters<br>And well consider of them. Make good speed. |
+| *(didascalia)* | Exit page |
+| KING HENRY | How many thousand of my poorest subjects<br>Are at this hour asleep? O sleep, O gentle sleep,<br>Nature’s soft nurse, how have I frighted thee,<br>That thou no more wilt weigh my eyelids down<br>And steep my senses in forgetfulness?<br>Why rather, sleep, liest thou in smoky cribs,<br>Upon uneasy pallets stretching thee,<br>And hushed with buzzing night-flies to thy slumber,<br>Than in the perfumed chambers of the great,<br>Under the canopies of costly state,<br>And lulled with sound of sweetest melody?<br>O thou dull god, why li‘st thou with the vile 15<br>In loathsome beds, and leav’st the kingly couch<br>A watch-case, or a common ’larum-bell?<br>Wilt thou upon the high and giddy mast<br>Seal up the ship-boy’s eyes, and rock his brains<br>In cradle of the rude imperious surge,<br>And in the visitation of the winds,<br>Who take the ruffian billows by the top,<br>Curling their monstrous heads, and hanging them<br>With deafing clamour in the slippery clouds,<br>That, with the hurly, death itself awakes?<br>Canst thou, O partial sleep, give thy repose<br>To the wet sea-boy in an hour so rude,<br>And in the calmest and most stillest night,<br>With all appliances and means to boot,<br>Deny it to a king? Then happy low, lie down.<br>Uneasy lies the head that wears a crown. |
+| *(didascalia)* | Enter the Earls of Warwick and Surrey |
+| WARWICK | Many good morrows to your majesty! |
+| KING HENRY | Is it good morrow, lords? |
+| WARWICK | ’Tis one o’clock, and past. |
+| KING HENRY | Why then, good morrow to you all, my lords.<br>Have you read o’er the letter that I sent you? |
+| WARWICK | We have, my liege. |
+| KING HENRY | Then you perceive the body of our kingdom,<br>How foul it is, what rank diseases grow,<br>And with what danger near the heart of it. |
+| WARWICK | It is but as a body yet distempered,<br>Which to his former strength may be restored<br>With good advice and little medicine.<br>My lord Northumberland will soon be cooled. |
+| KING HENRY | O God, that one might read the book of fate,<br>And see the revolution of the times<br>Make mountains level, and the continent,<br>Weary of solid firmness, melt itself<br>Into the sea; and other times to see<br>The beachy girdle of the ocean<br>Too wide for Neptune’s hips; how chance’s mocks<br>And changes fill the cup of alteration<br>With divers liquors!‘Tis not ten years gone<br>Since Richard and Northumberland, great friends,<br>Did feast together; and in two year after<br>Were they at wars. It is but eight years since<br>This Percy was the man nearest my soul,<br>Who like a brother toiled in my affairs,<br>And laid his love and life under my foot,<br>Yea, for my sake, even to the eyes of Richard<br>Gave him defiance. But which of you was by—<br>(To Warwick) You, cousin Neville, as I may<br>remember—<br>When Richard, with his eye brimful of tears,<br>Then checked and rated by Northumberland,<br>Did speak these words, now proved a prophecy?—<br>‘Northumberland, thou ladder by the which<br>My cousin Bolingbroke ascends my throne’—<br>Though then, God knows, I had no such intent,<br>But that necessity so bowed the state<br>That I and greatness were compelled to kiss—<br>‘The time shall come’—thus did he follow it—<br>‘The time will come that foul sin, gathering head,<br>Shall break into corruption’; so went on,<br>Foretelling this same time’s condition,<br>And the division of our amity. |
+| WARWICK | There is a history in all men’s lives<br>Figuring the natures of the times deceased;<br>The which observed, a man may prophesy,<br>With a near aim, of the main chance of things<br>As yet not come to life, who in their seeds<br>And weak beginnings lie intreasurèd. 80<br>Such things become the hatch and brood of time;<br>And by the necessary form of this<br>King Richard might create a perfect guess<br>That great Northumberland, then false to him,<br>Would of that seed grow to a greater falseness,<br>Which should not find a ground to root upon<br>Unless on you. |
+| KING HENRY | Are these things then necessities?<br>Then let us meet them like necessities;<br>And that same word even now cries out on us.<br>They say the Bishop and Northumberland<br>Are fifty thousand strong. |
+| WARWICK | It cannot be, my lord.<br>Rumour doth double, like the voice and echo,<br>The numbers of the feared. Please it your grace<br>To go to bed? Upon my soul, my lord,<br>The powers that you already have sent forth<br>Shall bring this prize in very easily.<br>To comfort you the more, I have received<br>A certain instance that Glyndwr is dead.<br>Your majesty hath been this fortnight ill,<br>And these unseasoned hours perforce must add<br>Unto your sickness. |
+| KING HENRY | I will take your counsel.<br>And were these inward wars once out of hand,<br>We would, dear lords, unto the Holy Land. Exeunt |

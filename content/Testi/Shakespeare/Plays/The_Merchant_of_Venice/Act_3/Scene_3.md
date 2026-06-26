@@ -14,48 +14,15 @@ tags:
 </nav>
 
 
-Enter Shylock the Jew, Solanio, Antonio, and the jailer
-SHYLOCK
-Jailer, look to him. Tell not me of mercy.
-This is the fool that lent out money gratis.
-Jailer, look to him.
-ANTONIO Hear me yet, good Shylock.
-SHYLOCK
-I’ll have my bond. Speak not against my bond.
-I have sworn an oath that I will have my bond.
-Thou called’st me dog before thou hadst a cause,
-But since I am a dog, beware my fangs.
-The Duke shall grant me justice. I do wonder,
-Thou naughty jailer, that thou art so fond
-To come abroad with him at his request.
-ANTONIO I pray thee hear me speak.
-SHYLOCK
-I’ll have my bond. I will not hear thee speak.
-I’ll have my bond, and therefore speak no more.
-I’ll not be made a soft and dull-eyed fool
-To shake the head, relent, and sigh, and yield
-To Christian intercessors. Follow not.
-I’ll have no speaking. I will have my bond. Exit
-SOLANIO
-It is the most impenetrable cur
-That ever kept with men.
-ANTONIO Let him alone.
-I’ll follow him no more with bootless prayers.
-He seeks my life. His reason well I know:
-I oft delivered from his forfeitures
-Many that have at times made moan to me.
-Therefore he hates me.
-SOLANIO I am sure the Duke
-Will never grant this forfeiture to hold.
-ANTONIO
-The Duke cannot deny the course of law,
-For the commodity that strangers have
-With us in Venice, if it be denied,
-Will much impeach the justice of the state,
-Since that the trade and profit of the city
-Consisteth of all nations. Therefore go.
-These griefs and losses have so bated me
-That I shall hardly spare a pound of flesh
-Tomorrow to my bloody creditor.
-Well, jailer, on. Pray God Bassanio come
-To see me pay his debt, and then I care not. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Shylock the Jew, Solanio, Antonio, and the jailer |
+| SHYLOCK | Jailer, look to him. Tell not me of mercy.<br>This is the fool that lent out money gratis.<br>Jailer, look to him. |
+| ANTONIO | Hear me yet, good Shylock. |
+| SHYLOCK | I’ll have my bond. Speak not against my bond.<br>I have sworn an oath that I will have my bond.<br>Thou called’st me dog before thou hadst a cause,<br>But since I am a dog, beware my fangs.<br>The Duke shall grant me justice. I do wonder,<br>Thou naughty jailer, that thou art so fond<br>To come abroad with him at his request. |
+| ANTONIO | I pray thee hear me speak. |
+| SHYLOCK | I’ll have my bond. I will not hear thee speak.<br>I’ll have my bond, and therefore speak no more.<br>I’ll not be made a soft and dull-eyed fool<br>To shake the head, relent, and sigh, and yield<br>To Christian intercessors. Follow not.<br>I’ll have no speaking. I will have my bond. Exit |
+| SOLANIO | It is the most impenetrable cur<br>That ever kept with men. |
+| ANTONIO | Let him alone.<br>I’ll follow him no more with bootless prayers.<br>He seeks my life. His reason well I know:<br>I oft delivered from his forfeitures<br>Many that have at times made moan to me.<br>Therefore he hates me. |
+| SOLANIO | I am sure the Duke<br>Will never grant this forfeiture to hold. |
+| ANTONIO | The Duke cannot deny the course of law,<br>For the commodity that strangers have<br>With us in Venice, if it be denied,<br>Will much impeach the justice of the state,<br>Since that the trade and profit of the city<br>Consisteth of all nations. Therefore go.<br>These griefs and losses have so bated me<br>That I shall hardly spare a pound of flesh<br>Tomorrow to my bloody creditor.<br>Well, jailer, on. Pray God Bassanio come<br>To see me pay his debt, and then I care not. Exeunt |

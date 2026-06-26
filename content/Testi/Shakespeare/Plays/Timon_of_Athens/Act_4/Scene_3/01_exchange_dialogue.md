@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Timon ⌈from his cave⌉ in the woods, ⌈half naked, and with a spade⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Timon from his cave in the woods, half naked, and with a spade |

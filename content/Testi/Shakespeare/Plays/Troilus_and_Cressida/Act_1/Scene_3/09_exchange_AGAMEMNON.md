@@ -13,7 +13,6 @@ tags:
 </nav>
 
 
-AGAMEMNON Speak frankly as the wind.
-It is not Agamemnon’s sleeping hour.
-That thou shalt know, Trojan, he is awake,
-He tells thee so himself.
+| Chi parla | Battuta |
+|---|---|
+| AGAMEMNON | Speak frankly as the wind. It is not Agamemnon’s sleeping hour. That thou shalt know, Trojan, he is awake, He tells thee so himself. |

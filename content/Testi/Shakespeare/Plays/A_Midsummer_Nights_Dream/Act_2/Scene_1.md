@@ -14,317 +14,53 @@ tags:
 </nav>
 
 
-Enter a Fairy at one door and Robin Goodfellow, a puck, at another
-ROBIN
-How now, spirit, whither wander you?
-FAIRY
-Over hill, over dale,
-Thorough bush, thorough brier,
-Over park, over pale,
-Thorough flood, thorough fire:
-I do wander everywhere
-Swifter than the moonës sphere,
-And I serve the Fairy Queen
-To dew her orbs upon the green.
-The cowslips tall her pensioners be.
-In their gold coats spots you see;
-Those be rubies, fairy favours;
-In those freckles live their savours.
-I must go seek some dewdrops here,
-And hang a pearl in every cowslip’s ear.
-Farewell, thou lob of spirits; I’ll be gone.
-Our Queen and all her elves come here anon.
-ROBIN
-The King doth keep his revels here tonight.
-Take heed the Queen come not within his sight,
-For Oberon is passing fell and wroth 20
-Because that she, as her attendant, hath
-A lovely boy stol’n from an Indian king.
-She never had so sweet a changeling;
-And jealous Oberon would have the child
-Knight of his train, to trace the forests wild.
-But she perforce withholds the loved boy,
-Crowns him with flowers, and makes him all her joy.
-And now they never meet in grove, or green,
-By fountain clear, or spangled starlight sheen,
-But they do square, that all their elves for fear
-Creep into acorn cups, and hide them there.
-FAIRY
-Either I mistake your shape and making quite
-Or else you are that shrewd and knavish sprite
-Called Robin Goodfellow. Are not you he
-That frights the maidens of the villag‘ry,
-Skim milk, and sometimes labour in the quern,
-And bootless make the breathless housewife churn,
-And sometime make the drink to bear no barm—
-Mislead night wanderers, laughing at their harm?
-Those that ‘hobgoblin’ call you, and ‘sweet puck’,
-You do their work, and they shall have good luck.
-Are not you he?
-ROBIN Thou speak’st aright;
-I am that merry wanderer of the night.
-I jest to Oberon, and make him smile
-When I a fat and bean-fed horse beguile,
-Neighing in likeness of a filly foal;
-And sometime lurk I in a gossip’s bowl
-In very likeness of a roasted crab,
-And when she drinks, against her lips I bob,
-And on her withered dewlap pour the ale.
-The wisest aunt telling the saddest tale
-Sometime for three-foot stool mistaketh me;
-Then slip I from her bum. Down topples she,
-And ’tailor’ cries, and falls into a cough,
-And then the whole choir hold their hips, and laugh,
-And waxen in their mirth, and sneeze, and swear
-A merrier hour was never wasted there.—
-Enter Oberon the King of Fairies at one door, with his train, and Titania the Queen at another, with hers
-But make room, fairy: here comes Oberon.
-FAIRY
-And here my mistress. Would that he were gone.
-OBERON
-I’ll met by moonlight, proud Titania.
-TITANIA
-What, jealous Oberon?—Fairies, skip hence.
-I have forsworn his bed and company.
-OBERON
-Tarry, rash wanton. Am not I thy lord?
-TITANIA
-Then I must be thy lady; but I know
-When thou hast stol’n away from fairyland
-And in the shape of Corin sat all day,
-Playing on pipes of corn, and versing love
-To amorous Phillida. Why art thou here
-Come from the farthest step of India,
-But that, forsooth, the bouncing Amazon,
-Your buskined mistress and your warrior love,
-To Theseus must be wedded, and you come
-To give their bed joy and prosperity?
-OBERON
-How canst thou thus for shame, Titania,
-Glance at my credit with Hippolyta,
-Knowing I know thy love to Theseus?
-Didst not thou lead him through the glimmering night
-From Perigouna whom he ravished,
-And make him with fair Aegles break his faith,
-With Ariadne and Antiopa?
-TITANIA
-These are the forgeries of jealousy,
-And never since the middle summer’s spring
-Met we on hill, in dale, forest, or mead,
-By paved fountain or by rushy brook,
-Or in the beached margin of the sea
-To dance our ringlets to the whistling wind,
-But with thy brawls thou hast disturbed our sport.
-Therefore the winds, piping to us in vain,
-As in revenge have sucked up from the sea
-Contagious fogs which, falling in the land,
-Hath every pelting river made so proud
-That they have overborne their continents.
-The ox hath therefore stretched his yoke in vain,
-The ploughman lost his sweat, and the green corn
-Hath rotted ere his youth attained a beard.
-The fold stands empty in the drowned field,
-And crows are fatted with the murrain flock.
-The nine men’s morris is filled up with mud,
-And the quaint mazes in the wanton green
-For lack of tread are undistinguishable.
-The human mortals want their winter cheer.
-No night is now with hymn or carol blessed.
-Therefore the moon, the governess of floods,
-Pale in her anger washes all the air,
-That rheumatic diseases do abound;
-And thorough this distemperature we see
-The seasons alter: hoary-headed frosts
-Fall in the fresh lap of the crimson rose,
-And on old Hiems’ thin and icy crown
-An odorous chaplet of sweet summer buds
-Is, as in mock’ry, set. The spring, the summer,
-The childing autumn, angry winter change
-Their wonted liveries, and the mazèd world
-By their increase now knows not which is which;
-And this same progeny of evils comes
-From our debate, from our dissension.
-We are their parents and original.
-OBERON
-Do you amend it, then. It lies in you.
-Why should Titania cross her Oberon?
-I do but beg a little changeling boy
-To be my henchman.
-TITANIA Set your heart at rest.
-The fairyland buys not the child of me.
-His mother was a vot‘ress of my order,
-And in the spiced Indian air by night
-Full often hath she gossiped by my side,
-And sat with me on Neptune’s yellow sands,
-Marking th’embarkèd traders on the flood,
-When we have laughed to see the sails conceive
-And grow big-bellied with the wanton wind,
-Which she with pretty and with swimming gait
-Following, her womb then rich with my young squire,
-Would imitate, and sail upon the land
-To fetch me trifles, and return again
-As from a voyage, rich with merchandise.
-But she, being mortal, of that boy did die;
-And for her sake do I rear up her boy;
-And for her sake I will not part with him.
-OBERON
-How long within this wood intend you stay?
-TITANIA
-Perchance till after Theseus’ wedding day.
-If you will patiently dance in our round,
-And see our moonlight revels, go with us.
-If not, shun me, and I will spare your haunts.
-OBERON
-Give me that boy and I will go with thee.
-TITANIA
-Not for thy fairy kingdom.—Fairies, away.
-We shall chide downright if I longer stay.
-Exeunt Titania and her train
-OBERON
-Well, go thy way. Thou shalt not from this grove
-Till I torment thee for this injury.—
-My gentle puck, come hither. Thou rememb’rest
-Since once I sat upon a promontory
-And heard a mermaid on a dolphin’s back
-Uttering such dulcet and harmonious breath
-That the rude sea grew civil at her song
-And certain stars shot madly from their spheres
-To hear the sea-maid’s music?
-ROBIN I remember.
-OBERON
-That very time I saw, but thou couldst not,
-Flying between the cold moon and the earth
-Cupid, all armed. A certain aim he took
-At a fair vestal thronèd by the west,
-And loosed his love-shaft smartly from his bow
-As it should pierce a hundred thousand hearts.
-But I might see young Cupid’s fiery shaft
-Quenched in the chaste beams of the wat‘ry moon,
-And the imperial vot’ress passed on,
-In maiden meditation, fancy-free.
-Yet marked I where the bolt of Cupid fell. 165
-It fell upon a little western flower—
-Before, milk-white; now, purple with love’s wound—
-And maidens call it love-in-idleness.
-Fetch me that flower; the herb I showed thee once.
-The juice of it on sleeping eyelids laid
-Will make or man or woman madly dote
-Upon the next live creature that it sees.
-Fetch me this herb, and be thou here again
-Ere the leviathan can swim a league.
-ROBIN
-I’ll put a girdle round about the earth
-In forty minutes. Exit
-OBERON Having once this juice
-I’ll watch Titania when she is asleep,
-And drop the liquor of it in her eyes.
-The next thing then she waking looks upon—
-Be it on lion, bear, or wolf, or bull,
-On meddling monkey, or on busy ape—
-She shall pursue it with the soul of love.
-And ere I take this charm from off her sight—
-As I can take it with another herb—
-I’ll make her render up her page to me.
-But who comes here? I am invisible,
-And I will overhear their conference.
-Enter Demetrius, Helena following him
-DEMETRIUS
-I love thee not, therefore pursue me not.
-Where is Lysander, and fair Hermia?
-The one I’ll slay, the other slayeth me.
-Thou told’st me they were stol’n unto this wood,
-And here am I, and wood within this wood
-Because I cannot meet my Hermia.
-Hence, get thee gone, and follow me no more.
-HELENA
-You draw me, you hard-hearted adamant,
-But yet you draw not iron; for my heart
-Is true as steel. Leave you your power to draw,
-And I shall have no power to follow you.
-DEMETRIUS
-Do I entice you? Do I speak you fair?
-Or rather do I not in plainest truth
-Tell you I do not nor I cannot love you?
-HELENA
-And even for that do I love you the more.
-I am your spaniel, and, Demetrius,
-The more you beat me I will fawn on you.
-Use me but as your spaniel: spurn me, strike me,
-Neglect me, lose me; only give me leave,
-Unworthy as I am, to follow you.
-What worser place can I beg in your love—
-And yet a place of high respect with me—
-Than to be used as you use your dog? 210
-DEMETRIUS
-Tempt not too much the hatred of my spirit;
-For I am sick when I do look on thee.
-HELENA
-And I am sick when I look not on you.
-DEMETRIUS
-You do impeach your modesty too much,
-To leave the city and commit yourself 215
-Into the hands of one that loves you not;
-To trust the opportunity of night,
-And the ill counsel of a desert place,
-With the rich worth of your virginity.
-HELENA
-Your virtue is my privilege, for that 220
-It is not night when I do see your face;
-Therefore I think I am not in the night,
-Nor doth this wood lack worlds of company;
-For you in my respect are all the world.
-Then how can it be said I am alone, 225
-When all the world is here to look on me?
-DEMETRIUS
-I’ll run from thee, and hide me in the brakes,
-And leave thee to the mercy of wild beasts.
-HELENA
-The wildest hath not such a heart as you.
-Run when you will. The story shall be changed: 230
-Apollo flies, and Daphne holds the chase.
-The dove pursues the griffin, the mild hind
-Makes speed to catch the tiger: bootless speed,
-When cowardice pursues, and valour flies.
-DEMETRIUS
-I will not stay thy questions. Let me go; 235
-Or if thou follow me, do not believe
-But I shall do thee mischief in the wood.
-HELENA
-Ay, in the temple, in the town, the field,
-You do me mischief. Fie, Demetrius,
-Your wrongs do set a scandal on my sex. 240
-We cannot fight for love as men may do;
-We should be wooed, and were not made to woo.
-I’ll follow thee, and make a heaven of hell,
-To die upon the hand I love so well.
-⌈Exit Demetrius, Helena following him⌉
-OBERON
-Fare thee well, nymph. Ere he do leave this grove
-Thou shalt fly him, and he shall seek thy love.
-Enter Robin Goodfellow the puck
-Hast thou the flower there? Welcome, wanderer.
-ROBIN
-Ay, there it is.
-OBERON I pray thee give it me.
-I know a bank where the wild thyme blows,
-Where oxlips and the nodding violet grows, 250
-Quite overcanopied with luscious woodbine,
-With sweet musk-roses, and with eglantine.
-There sleeps Titania sometime of the night,
-Lulled in these flowers with dances and delight;
-And there the snake throws her enamelled skin,
-Weed wide enough to wrap a fairy in;
-And with the juice of this I’ll streak her eyes,
-And make her full of hateful fantasies.
-Take thou some of it, and seek through this grove.
-A sweet Athenian lady is in love 260
-With a disdainful youth. Anoint his eyes;
-But do it when the next thing he espies
-May be the lady. Thou shalt know the man
-By the Athenian garments he hath on.
-Effect it with some care, that he may prove
-More fond on her than she upon her love;
-And look thou meet me ere the first cock crow.
-ROBIN
-Fear not, my lord. Your servant shall do so.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter a Fairy at one door and Robin Goodfellow, a puck, at another |
+| ROBIN | How now, spirit, whither wander you? |
+| FAIRY | Over hill, over dale,<br>Thorough bush, thorough brier,<br>Over park, over pale,<br>Thorough flood, thorough fire:<br>I do wander everywhere<br>Swifter than the moonës sphere,<br>And I serve the Fairy Queen<br>To dew her orbs upon the green.<br>The cowslips tall her pensioners be.<br>In their gold coats spots you see;<br>Those be rubies, fairy favours;<br>In those freckles live their savours.<br>I must go seek some dewdrops here,<br>And hang a pearl in every cowslip’s ear.<br>Farewell, thou lob of spirits; I’ll be gone.<br>Our Queen and all her elves come here anon. |
+| ROBIN | The King doth keep his revels here tonight.<br>Take heed the Queen come not within his sight,<br>For Oberon is passing fell and wroth 20<br>Because that she, as her attendant, hath<br>A lovely boy stol’n from an Indian king.<br>She never had so sweet a changeling;<br>And jealous Oberon would have the child<br>Knight of his train, to trace the forests wild.<br>But she perforce withholds the loved boy,<br>Crowns him with flowers, and makes him all her joy.<br>And now they never meet in grove, or green,<br>By fountain clear, or spangled starlight sheen,<br>But they do square, that all their elves for fear<br>Creep into acorn cups, and hide them there. |
+| FAIRY | Either I mistake your shape and making quite<br>Or else you are that shrewd and knavish sprite<br>Called Robin Goodfellow. Are not you he<br>That frights the maidens of the villag‘ry,<br>Skim milk, and sometimes labour in the quern,<br>And bootless make the breathless housewife churn,<br>And sometime make the drink to bear no barm—<br>Mislead night wanderers, laughing at their harm?<br>Those that ‘hobgoblin’ call you, and ‘sweet puck’,<br>You do their work, and they shall have good luck.<br>Are not you he? |
+| ROBIN | Thou speak’st aright;<br>I am that merry wanderer of the night.<br>I jest to Oberon, and make him smile<br>When I a fat and bean-fed horse beguile,<br>Neighing in likeness of a filly foal;<br>And sometime lurk I in a gossip’s bowl<br>In very likeness of a roasted crab,<br>And when she drinks, against her lips I bob,<br>And on her withered dewlap pour the ale.<br>The wisest aunt telling the saddest tale<br>Sometime for three-foot stool mistaketh me;<br>Then slip I from her bum. Down topples she,<br>And ’tailor’ cries, and falls into a cough,<br>And then the whole choir hold their hips, and laugh,<br>And waxen in their mirth, and sneeze, and swear<br>A merrier hour was never wasted there.— |
+| *(didascalia)* | Enter Oberon the King of Fairies at one door, with his train, and Titania the Queen at another, with hers |
+| ROBIN | But make room, fairy: here comes Oberon. |
+| FAIRY | And here my mistress. Would that he were gone. |
+| OBERON | I’ll met by moonlight, proud Titania. |
+| TITANIA | What, jealous Oberon?—Fairies, skip hence.<br>I have forsworn his bed and company. |
+| OBERON | Tarry, rash wanton. Am not I thy lord? |
+| TITANIA | Then I must be thy lady; but I know<br>When thou hast stol’n away from fairyland<br>And in the shape of Corin sat all day,<br>Playing on pipes of corn, and versing love<br>To amorous Phillida. Why art thou here<br>Come from the farthest step of India,<br>But that, forsooth, the bouncing Amazon,<br>Your buskined mistress and your warrior love,<br>To Theseus must be wedded, and you come<br>To give their bed joy and prosperity? |
+| OBERON | How canst thou thus for shame, Titania,<br>Glance at my credit with Hippolyta,<br>Knowing I know thy love to Theseus?<br>Didst not thou lead him through the glimmering night<br>From Perigouna whom he ravished,<br>And make him with fair Aegles break his faith,<br>With Ariadne and Antiopa? |
+| TITANIA | These are the forgeries of jealousy,<br>And never since the middle summer’s spring<br>Met we on hill, in dale, forest, or mead,<br>By paved fountain or by rushy brook,<br>Or in the beached margin of the sea<br>To dance our ringlets to the whistling wind,<br>But with thy brawls thou hast disturbed our sport.<br>Therefore the winds, piping to us in vain,<br>As in revenge have sucked up from the sea<br>Contagious fogs which, falling in the land,<br>Hath every pelting river made so proud<br>That they have overborne their continents.<br>The ox hath therefore stretched his yoke in vain,<br>The ploughman lost his sweat, and the green corn<br>Hath rotted ere his youth attained a beard.<br>The fold stands empty in the drowned field,<br>And crows are fatted with the murrain flock.<br>The nine men’s morris is filled up with mud,<br>And the quaint mazes in the wanton green<br>For lack of tread are undistinguishable.<br>The human mortals want their winter cheer.<br>No night is now with hymn or carol blessed.<br>Therefore the moon, the governess of floods,<br>Pale in her anger washes all the air,<br>That rheumatic diseases do abound;<br>And thorough this distemperature we see<br>The seasons alter: hoary-headed frosts<br>Fall in the fresh lap of the crimson rose,<br>And on old Hiems’ thin and icy crown<br>An odorous chaplet of sweet summer buds<br>Is, as in mock’ry, set. The spring, the summer,<br>The childing autumn, angry winter change<br>Their wonted liveries, and the mazèd world<br>By their increase now knows not which is which;<br>And this same progeny of evils comes<br>From our debate, from our dissension.<br>We are their parents and original. |
+| OBERON | Do you amend it, then. It lies in you.<br>Why should Titania cross her Oberon?<br>I do but beg a little changeling boy<br>To be my henchman. |
+| TITANIA | Set your heart at rest.<br>The fairyland buys not the child of me.<br>His mother was a vot‘ress of my order,<br>And in the spiced Indian air by night<br>Full often hath she gossiped by my side,<br>And sat with me on Neptune’s yellow sands,<br>Marking th’embarkèd traders on the flood,<br>When we have laughed to see the sails conceive<br>And grow big-bellied with the wanton wind,<br>Which she with pretty and with swimming gait<br>Following, her womb then rich with my young squire,<br>Would imitate, and sail upon the land<br>To fetch me trifles, and return again<br>As from a voyage, rich with merchandise.<br>But she, being mortal, of that boy did die;<br>And for her sake do I rear up her boy;<br>And for her sake I will not part with him. |
+| OBERON | How long within this wood intend you stay? |
+| TITANIA | Perchance till after Theseus’ wedding day.<br>If you will patiently dance in our round,<br>And see our moonlight revels, go with us.<br>If not, shun me, and I will spare your haunts. |
+| OBERON | Give me that boy and I will go with thee. |
+| TITANIA | Not for thy fairy kingdom.—Fairies, away.<br>We shall chide downright if I longer stay. |
+| *(didascalia)* | Exeunt Titania and her train |
+| OBERON | Well, go thy way. Thou shalt not from this grove<br>Till I torment thee for this injury.—<br>My gentle puck, come hither. Thou rememb’rest<br>Since once I sat upon a promontory<br>And heard a mermaid on a dolphin’s back<br>Uttering such dulcet and harmonious breath<br>That the rude sea grew civil at her song<br>And certain stars shot madly from their spheres<br>To hear the sea-maid’s music? |
+| ROBIN | I remember. |
+| OBERON | That very time I saw, but thou couldst not,<br>Flying between the cold moon and the earth<br>Cupid, all armed. A certain aim he took<br>At a fair vestal thronèd by the west,<br>And loosed his love-shaft smartly from his bow<br>As it should pierce a hundred thousand hearts.<br>But I might see young Cupid’s fiery shaft<br>Quenched in the chaste beams of the wat‘ry moon,<br>And the imperial vot’ress passed on,<br>In maiden meditation, fancy-free.<br>Yet marked I where the bolt of Cupid fell. 165<br>It fell upon a little western flower—<br>Before, milk-white; now, purple with love’s wound—<br>And maidens call it love-in-idleness.<br>Fetch me that flower; the herb I showed thee once.<br>The juice of it on sleeping eyelids laid<br>Will make or man or woman madly dote<br>Upon the next live creature that it sees.<br>Fetch me this herb, and be thou here again<br>Ere the leviathan can swim a league. |
+| ROBIN | I’ll put a girdle round about the earth<br>In forty minutes. Exit |
+| OBERON | Having once this juice<br>I’ll watch Titania when she is asleep,<br>And drop the liquor of it in her eyes.<br>The next thing then she waking looks upon—<br>Be it on lion, bear, or wolf, or bull,<br>On meddling monkey, or on busy ape—<br>She shall pursue it with the soul of love.<br>And ere I take this charm from off her sight—<br>As I can take it with another herb—<br>I’ll make her render up her page to me.<br>But who comes here? I am invisible,<br>And I will overhear their conference. |
+| *(didascalia)* | Enter Demetrius, Helena following him |
+| DEMETRIUS | I love thee not, therefore pursue me not.<br>Where is Lysander, and fair Hermia?<br>The one I’ll slay, the other slayeth me.<br>Thou told’st me they were stol’n unto this wood,<br>And here am I, and wood within this wood<br>Because I cannot meet my Hermia.<br>Hence, get thee gone, and follow me no more. |
+| HELENA | You draw me, you hard-hearted adamant,<br>But yet you draw not iron; for my heart<br>Is true as steel. Leave you your power to draw,<br>And I shall have no power to follow you. |
+| DEMETRIUS | Do I entice you? Do I speak you fair?<br>Or rather do I not in plainest truth<br>Tell you I do not nor I cannot love you? |
+| HELENA | And even for that do I love you the more.<br>I am your spaniel, and, Demetrius,<br>The more you beat me I will fawn on you.<br>Use me but as your spaniel: spurn me, strike me,<br>Neglect me, lose me; only give me leave,<br>Unworthy as I am, to follow you.<br>What worser place can I beg in your love—<br>And yet a place of high respect with me—<br>Than to be used as you use your dog? 210 |
+| DEMETRIUS | Tempt not too much the hatred of my spirit;<br>For I am sick when I do look on thee. |
+| HELENA | And I am sick when I look not on you. |
+| DEMETRIUS | You do impeach your modesty too much,<br>To leave the city and commit yourself 215<br>Into the hands of one that loves you not;<br>To trust the opportunity of night,<br>And the ill counsel of a desert place,<br>With the rich worth of your virginity. |
+| HELENA | Your virtue is my privilege, for that 220<br>It is not night when I do see your face;<br>Therefore I think I am not in the night,<br>Nor doth this wood lack worlds of company;<br>For you in my respect are all the world.<br>Then how can it be said I am alone, 225<br>When all the world is here to look on me? |
+| DEMETRIUS | I’ll run from thee, and hide me in the brakes,<br>And leave thee to the mercy of wild beasts. |
+| HELENA | The wildest hath not such a heart as you.<br>Run when you will. The story shall be changed: 230<br>Apollo flies, and Daphne holds the chase.<br>The dove pursues the griffin, the mild hind<br>Makes speed to catch the tiger: bootless speed,<br>When cowardice pursues, and valour flies. |
+| DEMETRIUS | I will not stay thy questions. Let me go; 235<br>Or if thou follow me, do not believe<br>But I shall do thee mischief in the wood. |
+| HELENA | Ay, in the temple, in the town, the field,<br>You do me mischief. Fie, Demetrius,<br>Your wrongs do set a scandal on my sex. 240<br>We cannot fight for love as men may do;<br>We should be wooed, and were not made to woo.<br>I’ll follow thee, and make a heaven of hell,<br>To die upon the hand I love so well. |
+| *(didascalia)* | Exit Demetrius, Helena following him |
+| OBERON | Fare thee well, nymph. Ere he do leave this grove<br>Thou shalt fly him, and he shall seek thy love. |
+| *(didascalia)* | Enter Robin Goodfellow the puck |
+| OBERON | Hast thou the flower there? Welcome, wanderer. |
+| ROBIN | Ay, there it is. |
+| OBERON | I pray thee give it me.<br>I know a bank where the wild thyme blows,<br>Where oxlips and the nodding violet grows, 250<br>Quite overcanopied with luscious woodbine,<br>With sweet musk-roses, and with eglantine.<br>There sleeps Titania sometime of the night,<br>Lulled in these flowers with dances and delight;<br>And there the snake throws her enamelled skin,<br>Weed wide enough to wrap a fairy in;<br>And with the juice of this I’ll streak her eyes,<br>And make her full of hateful fantasies.<br>Take thou some of it, and seek through this grove.<br>A sweet Athenian lady is in love 260<br>With a disdainful youth. Anoint his eyes;<br>But do it when the next thing he espies<br>May be the lady. Thou shalt know the man<br>By the Athenian garments he hath on.<br>Effect it with some care, that he may prove<br>More fond on her than she upon her love;<br>And look thou meet me ere the first cock crow. |
+| ROBIN | Fear not, my lord. Your servant shall do so. |
+| *(didascalia)* | Exeunt severally |

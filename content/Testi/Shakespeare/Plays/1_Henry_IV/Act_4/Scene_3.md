@@ -14,146 +14,35 @@ tags:
 </nav>
 
 
-Enter Hotspur, the Earls of Worcester and Douglas, and Sir Richard Vernon
-HOTSPUR
-We’ll fight with him tonight.
-WORCESTER It may not be.
-DOUGLAS
-You give him then advantage.
-VERNON Not a whit.
-HOTSPUR
-Why say you so? Looks he not for supply?
-VERNON
-So do we.
-HOTSPUR His is certain; ours is doubtful.
-WORCESTER
-Good cousin, be advised. Stir not tonight.
-VERNON (to Hotspur)
-Do not, my lord.
-DOUGLAS You do not counsel well.
-You speak it out of fear and cold heart.
-VERNON
-Do me no slander, Douglas. By my life—
-And I dare well maintain it with my life—
-If well-respected honour bid me on, 10
-I hold as little counsel with weak fear
-As you, my lord, or any Scot that this day lives.
-Let it be seen tomorrow in the battle
-Which of us fears.
-DOUGLAS Yea, or tonight. 15
-VERNON Content.
-HOTSPUR Tonight, say I.
-VERNON
-Come, come, it may not be. I wonder much,
-Being men of such great leading as you are,
-That you foresee not what impediments
-Drag back our expedition. Certain horse
-Of my cousin Vernon’s are not yet come up.
-Your uncle Worcester’s horse came but today,
-And now their pride and mettle is asleep,
-Their courage with hard labour tame and dull,
-That not a horse is half the half himself.
-HOTSPUR
-So are the horses of the enemy
-In general journey-bated and brought low.
-The better part of ours are full of rest.
-WORCESTER
-The number of the King exceedeth our.
-For God’s sake, cousin, stay till all come in.
-The trumpet sounds a parley [within]. Enter Sir Walter Blunt
-BLUNT
-I come with gracious offers from the King,
-If you vouchsafe me hearing and respect.
-HOTSPUR
-Welcome, Sir Walter Blunt; and would to God
-You were of our determination.
-Some of us love you well, and even those some
-Envy your great deservings and good name,
-Because you are not of our quality,
-But stand against us like an enemy.
-BLUNT
-And God defend but still I should stand so,
-So long as out of limit and true rule
-You stand against anointed majesty.
-But to my charge. The King hath sent to know
-The nature of your griefs, and whereupon
-You conjure from the breast of civil peace
-Such bold hostility, teaching his duteous land
-Audacious cruelty. If that the King
-Have any way your good deserts forgot,
-Which he confesseth to be manifold,
-He bids you name your griefs, and with all speed
-You shall have your desires, with interest,
-And pardon absolute for yourself and these
-Herein misled by your suggestion.
-HOTSPUR
-The King is kind, and well we know the King
-Knows at what time to promise, when to pay.
-My father and my uncle and myself
-Did give him that same royalty he wears;
-And when he was not six-and-twenty strong,
-Sick in the world’s regard, wretched and low,
-A poor unminded outlaw sneaking home,
-My father gave him welcome to the shore;
-And when he heard him swear and vow to God
-He came but to be Duke of Lancaster,
-To sue his livery, and beg his peace
-With tears of innocency and terms of zeal,
-My father, in kind heart and pity moved,
-Swore him assistance, and performed it too.
-Now when the lords and barons of the realm
-Perceived Northumberland did lean to him,
-The more and less came in with cap and knee,
-Met him in boroughs, cities, villages,
-Attended him on bridges, stood in lanes,
-Laid gifts before him, proffered him their oaths,
-Gave him their heirs as pages, followed him,
-Even at the heels, in golden multitudes.
-He presently, as greatness knows itself,
-Steps me a little higher than his vow
-Made to my father while his blood was poor
-Upon the naked shore at Ravenspurgh,
-And now forsooth takes on him to reform
-Some certain edicts and some strait decrees
-That lie too heavy on the commonwealth,
-Cries out upon abuses, seems to weep
-Over his country’s wrongs; and by this face,
-This seeming brow of justice, did he win
-The hearts of all that he did angle for;
-Proceeded further, cut me off the heads
-Of all the favourites that the absent King
-In deputation left behind him here
-When he was personal in the Irish war.
-BLUNT
-Tut, I came not to hear this.
-HOTSPUR Then to the point.
-In short time after, he deposed the King,
-Soon after that deprived him of his life,
-And in the neck of that tasked the whole state;
-To make that worse, suffered his kinsman March—
-Who is, if every owner were well placed,
-Indeed his king—to be engaged in Wales,
-There without ransom to lie forfeited;
-Disgraced me in my happy victories,
-Sought to entrap me by intelligence, 100
-Rated mine uncle from the Council-board,
-In rage dismissed my father from the court,
-Broke oath on oath, committed wrong on wrong,
-And in conclusion drove us to seek out
-This head of safety, and withal to pry 105
-Into his title, the which we find
-Too indirect for long continuance.
-BLUNT
-Shall I return this answer to the King?
-HOTSPUR
-Not so, Sir Walter. We’ll withdraw awhile.
-Go to the King, and let there be impawned 110
-Some surety for a safe return again;
-And in the morning early shall mine uncle
-Bring him our purposes. And so, farewell.
-BLUNT
-I would you would accept of grace and love.
-HOTSPUR
-And maybe so we shall.
-BLUNT Pray God you do.
-Exeunt [Hotspur, Worcester, Douglas, and Vernon at one door, Blunt at another door⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Hotspur, the Earls of Worcester and Douglas, and Sir Richard Vernon |
+| HOTSPUR | We’ll fight with him tonight. |
+| WORCESTER | It may not be. |
+| DOUGLAS | You give him then advantage. |
+| VERNON | Not a whit. |
+| HOTSPUR | Why say you so? Looks he not for supply? |
+| VERNON | So do we. |
+| HOTSPUR | His is certain; ours is doubtful. |
+| WORCESTER | Good cousin, be advised. Stir not tonight. |
+| VERNON | (to Hotspur)<br>Do not, my lord. |
+| DOUGLAS | You do not counsel well.<br>You speak it out of fear and cold heart. |
+| VERNON | Do me no slander, Douglas. By my life—<br>And I dare well maintain it with my life—<br>If well-respected honour bid me on, 10<br>I hold as little counsel with weak fear<br>As you, my lord, or any Scot that this day lives.<br>Let it be seen tomorrow in the battle<br>Which of us fears. |
+| DOUGLAS | Yea, or tonight. 15 |
+| VERNON | Content. |
+| HOTSPUR | Tonight, say I. |
+| VERNON | Come, come, it may not be. I wonder much,<br>Being men of such great leading as you are,<br>That you foresee not what impediments<br>Drag back our expedition. Certain horse<br>Of my cousin Vernon’s are not yet come up.<br>Your uncle Worcester’s horse came but today,<br>And now their pride and mettle is asleep,<br>Their courage with hard labour tame and dull,<br>That not a horse is half the half himself. |
+| HOTSPUR | So are the horses of the enemy<br>In general journey-bated and brought low.<br>The better part of ours are full of rest. |
+| WORCESTER | The number of the King exceedeth our.<br>For God’s sake, cousin, stay till all come in.<br>The trumpet sounds a parley [within]. Enter Sir Walter Blunt |
+| BLUNT | I come with gracious offers from the King,<br>If you vouchsafe me hearing and respect. |
+| HOTSPUR | Welcome, Sir Walter Blunt; and would to God<br>You were of our determination.<br>Some of us love you well, and even those some<br>Envy your great deservings and good name,<br>Because you are not of our quality,<br>But stand against us like an enemy. |
+| BLUNT | And God defend but still I should stand so,<br>So long as out of limit and true rule<br>You stand against anointed majesty.<br>But to my charge. The King hath sent to know<br>The nature of your griefs, and whereupon<br>You conjure from the breast of civil peace<br>Such bold hostility, teaching his duteous land<br>Audacious cruelty. If that the King<br>Have any way your good deserts forgot,<br>Which he confesseth to be manifold,<br>He bids you name your griefs, and with all speed<br>You shall have your desires, with interest,<br>And pardon absolute for yourself and these<br>Herein misled by your suggestion. |
+| HOTSPUR | The King is kind, and well we know the King<br>Knows at what time to promise, when to pay.<br>My father and my uncle and myself<br>Did give him that same royalty he wears;<br>And when he was not six-and-twenty strong,<br>Sick in the world’s regard, wretched and low,<br>A poor unminded outlaw sneaking home,<br>My father gave him welcome to the shore;<br>And when he heard him swear and vow to God<br>He came but to be Duke of Lancaster,<br>To sue his livery, and beg his peace<br>With tears of innocency and terms of zeal,<br>My father, in kind heart and pity moved,<br>Swore him assistance, and performed it too.<br>Now when the lords and barons of the realm<br>Perceived Northumberland did lean to him,<br>The more and less came in with cap and knee,<br>Met him in boroughs, cities, villages,<br>Attended him on bridges, stood in lanes,<br>Laid gifts before him, proffered him their oaths,<br>Gave him their heirs as pages, followed him,<br>Even at the heels, in golden multitudes.<br>He presently, as greatness knows itself,<br>Steps me a little higher than his vow<br>Made to my father while his blood was poor<br>Upon the naked shore at Ravenspurgh,<br>And now forsooth takes on him to reform<br>Some certain edicts and some strait decrees<br>That lie too heavy on the commonwealth,<br>Cries out upon abuses, seems to weep<br>Over his country’s wrongs; and by this face,<br>This seeming brow of justice, did he win<br>The hearts of all that he did angle for;<br>Proceeded further, cut me off the heads<br>Of all the favourites that the absent King<br>In deputation left behind him here<br>When he was personal in the Irish war. |
+| BLUNT | Tut, I came not to hear this. |
+| HOTSPUR | Then to the point.<br>In short time after, he deposed the King,<br>Soon after that deprived him of his life,<br>And in the neck of that tasked the whole state;<br>To make that worse, suffered his kinsman March—<br>Who is, if every owner were well placed,<br>Indeed his king—to be engaged in Wales,<br>There without ransom to lie forfeited;<br>Disgraced me in my happy victories,<br>Sought to entrap me by intelligence, 100<br>Rated mine uncle from the Council-board,<br>In rage dismissed my father from the court,<br>Broke oath on oath, committed wrong on wrong,<br>And in conclusion drove us to seek out<br>This head of safety, and withal to pry 105<br>Into his title, the which we find<br>Too indirect for long continuance. |
+| BLUNT | Shall I return this answer to the King? |
+| HOTSPUR | Not so, Sir Walter. We’ll withdraw awhile.<br>Go to the King, and let there be impawned 110<br>Some surety for a safe return again;<br>And in the morning early shall mine uncle<br>Bring him our purposes. And so, farewell. |
+| BLUNT | I would you would accept of grace and love. |
+| HOTSPUR | And maybe so we shall. |
+| BLUNT | Pray God you do. |
+| *(didascalia)* | Exeunt [Hotspur, Worcester, Douglas, and Vernon at one door, Blunt at another door |

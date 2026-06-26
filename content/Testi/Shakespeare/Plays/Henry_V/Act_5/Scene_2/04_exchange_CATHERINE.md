@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-CATHERINE Sauf votre honneur, me understand well.
+| Chi parla | Battuta |
+|---|---|
+| CATHERINE | Sauf votre honneur, me understand well. |

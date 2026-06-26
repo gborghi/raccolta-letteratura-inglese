@@ -13,19 +13,9 @@ tags:
 </nav>
 
 
-MONTJOY
-I shall, King Harry. And so fare thee well.
-Thou never shalt hear herald any more.
-
-KING HARRY
-I fear thou wilt once more come for a ransom.
-Exit Montjoy
-Enter the Duke of York
-
-YORK
-My lord, most humbly on my knee I beg
-The leading of the vanguard.
-
-KING HARRY
-Take it, brave York.—Now soldiers, march away,
-And how thou pleasest, God, dispose the day. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| MONTJOY | I shall, King Harry. And so fare thee well. Thou never shalt hear herald any more. |
+| KING HARRY | I fear thou wilt once more come for a ransom. Exit Montjoy Enter the Duke of York |
+| YORK | My lord, most humbly on my knee I beg The leading of the vanguard. |
+| KING HARRY | Take it, brave York.—Now soldiers, march away, And how thou pleasest, God, dispose the day. Exeunt |

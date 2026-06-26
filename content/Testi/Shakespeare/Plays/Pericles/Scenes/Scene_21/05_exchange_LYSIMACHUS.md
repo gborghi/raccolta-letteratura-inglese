@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-LYSIMACHUS
-Sir, lend me your arm.
-
-PERICLES
-Come, my Marina.
-⌈Exit Pericles with Lysimachus at one arm, Marina at the other⌉
+| Chi parla | Battuta |
+|---|---|
+| LYSIMACHUS | Sir, lend me your arm. |
+| PERICLES | Come, my Marina. Exit Pericles with Lysimachus at one arm, Marina at the other |

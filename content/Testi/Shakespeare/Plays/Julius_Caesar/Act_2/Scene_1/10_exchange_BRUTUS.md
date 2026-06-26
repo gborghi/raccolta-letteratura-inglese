@@ -13,21 +13,10 @@ tags:
 </nav>
 
 
-BRUTUS
-A piece of work that will make sick men whole.
-
-LIGARIUS
-But are not some whole that we must make sick?
-
-BRUTUS
-That must we also. What it is, my Caius,
-I shall unfold to thee as we are going
-To whom it must be done.
-
-LIGARIUS Set on your foot,
-And with a heart new-fired I follow you
-To do I know not what; but it sufficeth
-That Brutus leads me on.
-
-BRUTUS Follow me then.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| BRUTUS | A piece of work that will make sick men whole. |
+| LIGARIUS | But are not some whole that we must make sick? |
+| BRUTUS | That must we also. What it is, my Caius, I shall unfold to thee as we are going To whom it must be done. |
+| LIGARIUS | Set on your foot, And with a heart new-fired I follow you To do I know not what; but it sufficeth That Brutus leads me on. |
+| BRUTUS | Follow me then. Exeunt |

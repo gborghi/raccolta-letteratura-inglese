@@ -13,32 +13,14 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-
-DUKE SENIOR, living in banishment
-ROSALIND, his daughter, later disguised as Ganymede
-
-TWO PAGES
-
-DUKE FREDERICK
-CELIA, his daughter, later disguised as Aliena
-
-LE BEAU, a courtier attending on him
-CHARLES, Duke Frederick’s wrestler
-TOUCHSTONE, a jester
-
-OLIVER, eldest son of Sir Rowland de Bois
-ADAM, a former servant of Sir Rowland
-
-DENIS, Oliver’s servant
-
-SIR OLIVER MARTEXT, a country clergyman
-CORIN, an old shepherd
-SILVIUS, a young shepherd, in love with Phoebe
-PHOEBE, a shepherdess
-WILLIAM, a countryman, in love with Audrey
-AUDREY, a goatherd, betrothed to Touchstone
-
-HYMEN, god of marriage
-
-Lords, pages, and other attendants
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| DUKE | SENIOR, living in banishment ROSALIND, his daughter, later disguised as Ganymede |
+| DUKE FREDERICK | CELIA, his daughter, later disguised as Aliena |
+| LE | BEAU, a courtier attending on him CHARLES, Duke Frederick’s wrestler TOUCHSTONE, a jester |
+| LE | OLIVER, eldest son of Sir Rowland de Bois ADAM, a former servant of Sir Rowland |
+| LE | DENIS, Oliver’s servant |
+| SIR OLIVER | MARTEXT, a country clergyman CORIN, an old shepherd SILVIUS, a young shepherd, in love with Phoebe PHOEBE, a shepherdess WILLIAM, a countryman, in love with Audrey AUDREY, a goatherd, betrothed to Touchstone |
+| SIR OLIVER | HYMEN, god of marriage |
+| SIR OLIVER | Lords, pages, and other attendants |

@@ -13,103 +13,23 @@ tags:
 </nav>
 
 
-GREMIO and TRANIO
-Amen, say we. We will be witnesses.
-
-PETRUCCIO
-Father, and wife, and gentlemen, adieu.
-I will to Venice. Sunday comes apace.
-We will have rings, and things, and fine array;
-And kiss me, Kate. We will be married o’ Sunday.
-Exeunt Petruccio and Katherine, severally
-
-GREMIO
-Was ever match clapped up so suddenly?
-
-BAPTISTA
-Faith, gentlemen, now I play a merchant’s part,
-And venture madly on a desperate mart.
-
-TRANIO
-‘Twas a commodity lay fretting by you.
-’Twill bring you gain, or perish on the seas.
-
-BAPTISTA
-The gain I seek is quiet in the match.
-
-GREMIO
-No doubt but he hath got a quiet catch.
-But now, Baptista, to your younger daughter.
-Now is the day we long have looked for.
-I am your neighbour, and was suitor first.
-
-TRANIO
-And I am one that love Bianca more
-Than words can witness, or your thoughts can guess.
-
-GREMIO
-Youngling, thou canst not love so dear as I.
-
-TRANIO
-Greybeard, thy love doth freeze.
-
-GREMIO But thine doth fry.
-Skipper, stand back. ’Tis age that nourisheth.
-
-TRANIO
-But youth in ladies’ eyes that flourisheth.
-
-BAPTISTA A
-Content you, gentlemen. I will compound this strife.
-’Tis deeds must win the prize, and he of both
-That can assure my daughter greatest dower
-Shall have my Bianca’s love.
-Say, Signor Gremio, what can you assure her?
-
-GREMIO
-First, as you know, my house within the city
-Is richly furnished with plate and gold,
-Basins and ewers to lave her dainty hands;
-My hangings all of Tyrian tapestry.
-In ivory coffers I have stuffed my crowns,
-In cypress chests my arras counterpoints,
-Costly apparel, tents and canopies,
-Fine linen, Turkey cushions bossed with pearl,
-Valance of Venice gold in needlework, 350
-Pewter, and brass, and all things that belongs
-To house or housekeeping. Then at my farm
-I have a hundred milch-kine to the pail,
-Six score fat oxen standing in my stalls,
-And all things answerable to this portion. 355
-Myself am struck in years, I must confess,
-And if I die tomorrow this is hers,
-If whilst I live she will be only mine.
-
-TRANIO
-That ‘only’ came well in. Sir, list to me.
-I am my father’s heir and only son.
-If I may have your daughter to my wife
-I’ll leave her houses three or four as good,
-Within rich Pisa walls, as any one
-Old Signor Gremio has in Padua,
-Besides two thousand ducats by the year
-Of fruitful land, all which shall be her jointure.
-What, have I pinched you, Signor Gremio?
-
-GREMIO
-Two thousand ducats by the year of land—
-My land amounts not to so much in all.
-That she shall have; besides, an argosy
-That now is lying in Marseilles road.
-What, have I choked you with an argosy?
-
-TRANIO
-Gremio, ‘tis known my father hath no less
-Than three great argosies, besides two galliasses
-And twelve tight galleys. These I will assure her,
-And twice as much whate’er thou off’rest next.
-
-GREMIO
-Nay, I have offered all. I have no more,
-And she can have no more than all I have.
-If you like me, she shall have me and mine.
+| Chi parla | Battuta |
+|---|---|
+| GREMIO | and TRANIO Amen, say we. We will be witnesses. |
+| PETRUCCIO | Father, and wife, and gentlemen, adieu. I will to Venice. Sunday comes apace. We will have rings, and things, and fine array; And kiss me, Kate. We will be married o’ Sunday. Exeunt Petruccio and Katherine, severally |
+| GREMIO | Was ever match clapped up so suddenly? |
+| BAPTISTA | Faith, gentlemen, now I play a merchant’s part, And venture madly on a desperate mart. |
+| TRANIO | ‘Twas a commodity lay fretting by you. ’Twill bring you gain, or perish on the seas. |
+| BAPTISTA | The gain I seek is quiet in the match. |
+| GREMIO | No doubt but he hath got a quiet catch. But now, Baptista, to your younger daughter. Now is the day we long have looked for. I am your neighbour, and was suitor first. |
+| TRANIO | And I am one that love Bianca more Than words can witness, or your thoughts can guess. |
+| GREMIO | Youngling, thou canst not love so dear as I. |
+| TRANIO | Greybeard, thy love doth freeze. |
+| GREMIO | But thine doth fry. Skipper, stand back. ’Tis age that nourisheth. |
+| TRANIO | But youth in ladies’ eyes that flourisheth. |
+| BAPTISTA | A Content you, gentlemen. I will compound this strife. ’Tis deeds must win the prize, and he of both That can assure my daughter greatest dower Shall have my Bianca’s love. Say, Signor Gremio, what can you assure her? |
+| GREMIO | First, as you know, my house within the city Is richly furnished with plate and gold, Basins and ewers to lave her dainty hands; My hangings all of Tyrian tapestry. In ivory coffers I have stuffed my crowns, In cypress chests my arras counterpoints, Costly apparel, tents and canopies, Fine linen, Turkey cushions bossed with pearl, Valance of Venice gold in needlework, 350 Pewter, and brass, and all things that belongs To house or housekeeping. Then at my farm I have a hundred milch-kine to the pail, Six score fat oxen standing in my stalls, And all things answerable to this portion. 355 Myself am struck in years, I must confess, And if I die tomorrow this is hers, If whilst I live she will be only mine. |
+| TRANIO | That ‘only’ came well in. Sir, list to me. I am my father’s heir and only son. If I may have your daughter to my wife I’ll leave her houses three or four as good, Within rich Pisa walls, as any one Old Signor Gremio has in Padua, Besides two thousand ducats by the year Of fruitful land, all which shall be her jointure. What, have I pinched you, Signor Gremio? |
+| GREMIO | Two thousand ducats by the year of land— My land amounts not to so much in all. That she shall have; besides, an argosy That now is lying in Marseilles road. What, have I choked you with an argosy? |
+| TRANIO | Gremio, ‘tis known my father hath no less Than three great argosies, besides two galliasses And twelve tight galleys. These I will assure her, And twice as much whate’er thou off’rest next. |
+| GREMIO | Nay, I have offered all. I have no more, And she can have no more than all I have. If you like me, she shall have me and mine. |

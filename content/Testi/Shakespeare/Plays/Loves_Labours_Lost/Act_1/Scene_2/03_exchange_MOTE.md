@@ -13,15 +13,11 @@ tags:
 </nav>
 
 
-MOTE Come, you transgressing slave. Away!
-
-COSTARD Let me not be pent up, sir. I will fast, being loose.
-
-MOTE No, sir. That were fast and loose. Thou shalt to prison.
-
-COSTARD Well, if ever I do see the merry days of desolation that I have seen, some shall see.
-
-MOTE What shall some see?
-
-COSTARD Nay, nothing, Master Mote, but what they look upon. It is not for prisoners to be too silent in their words, and therefore I will say nothing. I thank God I have as little patience as another man, and therefore I can be quiet.
-Exeunt Mote and Costard
+| Chi parla | Battuta |
+|---|---|
+| MOTE | Come, you transgressing slave. Away! |
+| COSTARD | Let me not be pent up, sir. I will fast, being loose. |
+| MOTE | No, sir. That were fast and loose. Thou shalt to prison. |
+| COSTARD | Well, if ever I do see the merry days of desolation that I have seen, some shall see. |
+| MOTE | What shall some see? |
+| COSTARD | Nay, nothing, Master Mote, but what they look upon. It is not for prisoners to be too silent in their words, and therefore I will say nothing. I thank God I have as little patience as another man, and therefore I can be quiet. Exeunt Mote and Costard |

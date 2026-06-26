@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Flourish. Enter Claudius, King of Denmark, Gertrude the Queen, members of the Council, such as Polonius, his son Laertes and daughter Ophelia, Prince Hamlet dressed in black, with others
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter Claudius, King of Denmark, Gertrude the Queen, members of the Council, such as Polonius, his son Laertes and daughter Ophelia, Prince Hamlet dressed in black, with others |

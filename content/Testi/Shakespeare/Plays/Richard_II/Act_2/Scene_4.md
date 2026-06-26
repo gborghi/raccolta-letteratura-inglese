@@ -14,33 +14,11 @@ tags:
 </nav>
 
 
-Enter the Earl of Salisbury and a Welsh Captain
-WELSH CAPTAIN
-My lord of Salisbury, we have stayed ten days,
-And hardly kept our countrymen together,
-And yet we hear no tidings from the King.
-Therefore we will disperse ourselves. Farewell.
-SALISBURY
-Stay yet another day, thou trusty Welshman.
-The King reposeth all his confidence in thee.
-WELSH CAPTAIN
-’Tis thought the King is dead. We will not stay.
-The bay trees in our country are all withered,
-And meteors fright the fixèd stars of heaven.
-The pale-faced moon looks bloody on the earth,
-And lean-looked prophets whisper fearful change.
-Rich men look sad, and ruffians dance and leap;
-The one in fear to lose what they enjoy,
-The other to enjoy by rage and war.
-These signs forerun the death or fall of kings.
-Farewell. Our countrymen are gone and fled,
-As well assured Richard their king is dead.
-Exit
-SALISBURY
-Ah, Richard! With the eyes of heavy mind
-I see thy glory, like a shooting star,
-Fall to the base earth from the firmament.
-Thy sun sets weeping in the lowly west,
-Witnessing storms to come, woe, and unrest.
-Thy friends are fled to wait upon thy foes,
-And crossly to thy good all fortune goes. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earl of Salisbury and a Welsh Captain |
+| WELSH CAPTAIN | My lord of Salisbury, we have stayed ten days,<br>And hardly kept our countrymen together,<br>And yet we hear no tidings from the King.<br>Therefore we will disperse ourselves. Farewell. |
+| SALISBURY | Stay yet another day, thou trusty Welshman.<br>The King reposeth all his confidence in thee. |
+| WELSH CAPTAIN | ’Tis thought the King is dead. We will not stay.<br>The bay trees in our country are all withered,<br>And meteors fright the fixèd stars of heaven.<br>The pale-faced moon looks bloody on the earth,<br>And lean-looked prophets whisper fearful change.<br>Rich men look sad, and ruffians dance and leap;<br>The one in fear to lose what they enjoy,<br>The other to enjoy by rage and war.<br>These signs forerun the death or fall of kings.<br>Farewell. Our countrymen are gone and fled,<br>As well assured Richard their king is dead. |
+| *(didascalia)* | Exit |
+| SALISBURY | Ah, Richard! With the eyes of heavy mind<br>I see thy glory, like a shooting star,<br>Fall to the base earth from the firmament.<br>Thy sun sets weeping in the lowly west,<br>Witnessing storms to come, woe, and unrest.<br>Thy friends are fled to wait upon thy foes,<br>And crossly to thy good all fortune goes. Exit |

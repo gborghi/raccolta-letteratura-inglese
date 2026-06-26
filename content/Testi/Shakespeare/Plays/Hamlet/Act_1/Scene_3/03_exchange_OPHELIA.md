@@ -13,18 +13,7 @@ tags:
 </nav>
 
 
-OPHELIA
-I shall th’effect of this good lesson keep
-As watchman to my heart; but, good my brother,
-Do not, as some ungracious pastors do,
-Show me the steep and thorny way to heaven
-Whilst like a puffed and reckless libertine
-Himself the primrose path of dalliance treads
-And recks not his own rede.
-
-LAERTES
-O fear me not.
-Enter Polonius
-I stay too long—but here my father comes.
-A double blessing is a double grace;
-Occasion smiles upon a second leave.
+| Chi parla | Battuta |
+|---|---|
+| OPHELIA | I shall th’effect of this good lesson keep As watchman to my heart; but, good my brother, Do not, as some ungracious pastors do, Show me the steep and thorny way to heaven Whilst like a puffed and reckless libertine Himself the primrose path of dalliance treads And recks not his own rede. |
+| LAERTES | O fear me not. Enter Polonius I stay too long—but here my father comes. A double blessing is a double grace; Occasion smiles upon a second leave. |

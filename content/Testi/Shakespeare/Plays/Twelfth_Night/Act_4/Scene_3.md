@@ -14,46 +14,12 @@ tags:
 </nav>
 
 
-Enter Sebastian
-SEBASTIAN
-This is the air, that is the glorious sun.
-This pearl she gave me, I do feel’t and see‘t,
-And though ’tis wonder that enwraps me thus,
-Yet ‘tis not madness. Where’s Antonio then?
-I could not find him at the Elephant,
-Yet there he was, and there I found this credit,
-That he did range the town to seek me out.
-His counsel now might do me golden service,
-For though my soul disputes well with my sense
-That this may be some error but no madness,
-Yet doth this accident and flood of fortune
-So far exceed all instance, all discourse,
-That I am ready to distrust mine eyes
-And wrangle with my reason that persuades me
-To any other trust but that I am mad,
-Or else the lady’s mad. Yet if ’twere so
-She could not sway her house, command her
-followers,
-Take and give back affairs and their dispatch
-With such a smooth, discreet, and stable bearing
-As I perceive she does. There’s something in’t
-That is deceivable. But here the lady comes.
-Enter Olivia and a Priest
-OLIVIA
-Blame not this haste of mine. If you mean well
-Now go with me, and with this holy man,
-Into the chantry by. There before him,
-And underneath that consecrated roof,
-Plight me the full assurance of your faith,
-That my most jealous and too doubtful soul
-May live at peace. He shall conceal it
-Whiles you are willing it shall come to note,
-What time we will our celebration keep
-According to my birth. What do you say?
-SEBASTIAN
-I’ll follow this good man, and go with you,
-And having sworn truth, ever will be true.
-OLIVIA
-Then lead the way, good father, and heavens so shine
-That they may fairly note this act of mine.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sebastian |
+| SEBASTIAN | This is the air, that is the glorious sun.<br>This pearl she gave me, I do feel’t and see‘t,<br>And though ’tis wonder that enwraps me thus,<br>Yet ‘tis not madness. Where’s Antonio then?<br>I could not find him at the Elephant,<br>Yet there he was, and there I found this credit,<br>That he did range the town to seek me out.<br>His counsel now might do me golden service,<br>For though my soul disputes well with my sense<br>That this may be some error but no madness,<br>Yet doth this accident and flood of fortune<br>So far exceed all instance, all discourse,<br>That I am ready to distrust mine eyes<br>And wrangle with my reason that persuades me<br>To any other trust but that I am mad,<br>Or else the lady’s mad. Yet if ’twere so<br>She could not sway her house, command her<br>followers,<br>Take and give back affairs and their dispatch<br>With such a smooth, discreet, and stable bearing<br>As I perceive she does. There’s something in’t<br>That is deceivable. But here the lady comes. |
+| *(didascalia)* | Enter Olivia and a Priest |
+| OLIVIA | Blame not this haste of mine. If you mean well<br>Now go with me, and with this holy man,<br>Into the chantry by. There before him,<br>And underneath that consecrated roof,<br>Plight me the full assurance of your faith,<br>That my most jealous and too doubtful soul<br>May live at peace. He shall conceal it<br>Whiles you are willing it shall come to note,<br>What time we will our celebration keep<br>According to my birth. What do you say? |
+| SEBASTIAN | I’ll follow this good man, and go with you,<br>And having sworn truth, ever will be true. |
+| OLIVIA | Then lead the way, good father, and heavens so shine<br>That they may fairly note this act of mine. |
+| *(didascalia)* | Exeunt |

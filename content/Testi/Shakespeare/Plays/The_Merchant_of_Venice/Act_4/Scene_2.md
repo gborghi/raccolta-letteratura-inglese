@@ -14,32 +14,16 @@ tags:
 </nav>
 
 
-Enter Portia and Nerissa, still disguised
-PORTIA
-Enquire the Jew’s house out, give him this deed,
-And let him sign it. We’ll away tonight,
-And be a day before our husbands home.
-This deed will be well welcome to Lorenzo.
-Enter Graziano
-GRAZIANO Fair sir, you are well o’erta’en.
-My lord Bassanio upon more advice
-Hath sent you here this ring, and doth entreat
-Your company at dinner.
-PORTIA That cannot be.
-His ring I do accept most thankfully,
-And so I pray you tell him. Furthermore,
-I pray you show my youth old Shylock’s house.
-GRAZIANO
-That will I do.
-NERISSA Sir, I would speak with you.
-(Aside to Portia) I’ll see if I can get my husband’s ring
-Which I did make him swear to keep for ever.
-PORTIA (aside to Nerissa)
-Thou mayst; I warrant we shall have old swearing
-That they did give the rings away to men.
-But we’ll outface them, and outswear them too.
-Away, make haste. Thou know’st where I will tarry.
-Exit ⌈at one door⌉
-NERISSA (to Graziano)
-Come, good sir, will you show me to this house?
-Exeunt ⌈at another door⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Portia and Nerissa, still disguised |
+| PORTIA | Enquire the Jew’s house out, give him this deed,<br>And let him sign it. We’ll away tonight,<br>And be a day before our husbands home.<br>This deed will be well welcome to Lorenzo. |
+| *(didascalia)* | Enter Graziano |
+| GRAZIANO | Fair sir, you are well o’erta’en.<br>My lord Bassanio upon more advice<br>Hath sent you here this ring, and doth entreat<br>Your company at dinner. |
+| PORTIA | That cannot be.<br>His ring I do accept most thankfully,<br>And so I pray you tell him. Furthermore,<br>I pray you show my youth old Shylock’s house. |
+| GRAZIANO | That will I do. |
+| NERISSA | Sir, I would speak with you.<br>(Aside to Portia) I’ll see if I can get my husband’s ring<br>Which I did make him swear to keep for ever. |
+| PORTIA | (aside to Nerissa)<br>Thou mayst; I warrant we shall have old swearing<br>That they did give the rings away to men.<br>But we’ll outface them, and outswear them too.<br>Away, make haste. Thou know’st where I will tarry. |
+| *(didascalia)* | Exit at one door |
+| NERISSA | (to Graziano)<br>Come, good sir, will you show me to this house? |
+| *(didascalia)* | Exeunt at another door |

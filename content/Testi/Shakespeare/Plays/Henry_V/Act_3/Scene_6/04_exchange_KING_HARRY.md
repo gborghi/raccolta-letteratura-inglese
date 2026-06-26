@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-KING HARRY
-What is thy name? I know thy quality.
-
-MONTJOY Montjoy.
+| Chi parla | Battuta |
+|---|---|
+| KING HARRY | What is thy name? I know thy quality. |
+| MONTJOY | Montjoy. |

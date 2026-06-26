@@ -14,21 +14,10 @@ tags:
 </nav>
 
 
-Enter Cleopatra, Charmian, Iras, Mardian
-CLEOPATRA
-Help me, my women! O, he’s more mad
-Than Telamon for his shield; the boar of Thessaly
-Was never so embossed.
-CHARMIAN
-To th’ monument!
-There lock yourself, and send him word you are dead.
-The soul and body rive not more in parting
-Than greatness going off.
-CLEOPATRA
-To th’ monument!
-Mardian, go tell him I have slain myself.
-Say that the last I spoke was ‘Antony’,
-And word it, prithee, piteously. Hence, Mardian,
-And bring me how he takes my death. To th’
-monument!
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Cleopatra, Charmian, Iras, Mardian |
+| CLEOPATRA | Help me, my women! O, he’s more mad<br>Than Telamon for his shield; the boar of Thessaly<br>Was never so embossed. |
+| CHARMIAN | To th’ monument!<br>There lock yourself, and send him word you are dead.<br>The soul and body rive not more in parting<br>Than greatness going off. |
+| CLEOPATRA | To th’ monument!<br>Mardian, go tell him I have slain myself.<br>Say that the last I spoke was ‘Antony’,<br>And word it, prithee, piteously. Hence, Mardian,<br>And bring me how he takes my death. To th’<br>monument! |
+| *(didascalia)* | Exeunt |

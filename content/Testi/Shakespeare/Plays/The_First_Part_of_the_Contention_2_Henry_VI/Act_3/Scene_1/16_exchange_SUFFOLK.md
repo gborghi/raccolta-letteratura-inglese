@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-SUFFOLK
-The trait’rous Warwick with the men of Bury
-Set all upon me, mighty sovereign!
-
-COMMONS (within) Down with Suffolk! Down with Suffolk!
-Enter from the commons the Earl of Salisbury
+| Chi parla | Battuta |
+|---|---|
+| SUFFOLK | The trait’rous Warwick with the men of Bury Set all upon me, mighty sovereign! |
+| COMMONS | (within) Down with Suffolk! Down with Suffolk! Enter from the commons the Earl of Salisbury |

@@ -13,116 +13,29 @@ tags:
 </nav>
 
 
-LAFEU I will buy me a son-in-law in a fair, and toll for this. I’ll none of him.
-
-KING
-The heavens have thought well on thee, Lafeu,
-To bring forth this discov’ry.—Seek these suitors.
-Go speedily and bring again the Count.
-Exit one or more
-I am afeard the life of Helen, lady,
-Was foully snatched.
-⌈Enter Bertram guarded⌉
-
-COUNTESS Now justice on the doers!
-
-KING (to Bertram)
-I wonder, sir, since wives are monsters to you,
-And that you fly them as you swear them lordship,
-Yet you desire to marry.
-Enter the Widow and Diana
-What woman’s that?
-
-DIANA
-I am, my lord, a wretched Florentine,
-Derived from the ancient Capilet.
-My suit, as I do understand, you know,
-And therefore know how far I may be pitied.
-
-WIDOW (to the King)
-I am her mother, sir, whose age and honour
-Both suffer under this complaint we bring,
-And both shall cease without your remedy.
-
-KING
-Come hither, Count. Do you know these women?
-
-BERTRAM
-My lord, I neither can nor will deny
-But that I know them. Do they charge me further?
-
-DIANA
-Why do you look so strange upon your wife?
-
-BERTRAM (to the King)
-She’s none of mine, my lord.
-
-DIANA If you shall marry
-You give away this hand, and that is mine;
-You give away heaven’s vows, and those are mine;
-You give away myself, which is known mine,
-For I by vow am so embodied yours
-That she which marries you must marry me,
-Either both or none.
-
-LAFEU (to Bertram) Your reputation comes too short for my daughter, you are no husband for her.
-
-BERTRAM (to the King)
-My lord, this is a fond and desp’rate creature
-Whom sometime I have laughed with. Let your
-highness
-Lay a more noble thought upon mine honour
-Than for to think that I would sink it here.
-
-KING
-Sir, for my thoughts, you have them ill to friend
-Till your deeds gain them. Fairer prove your honour
-Than in my thought it lies.
-
-DIANA
-Good my lord,
-Ask him upon his oath if he does think
-He had not my virginity.
-
-KING What sayst thou to her?
-
-BERTRAM She’s impudent, my lord,
-And was a common gamester to the camp.
-
-DIANA (to the King)
-He does me wrong, my lord. If I were so
-He might have bought me at a common price.
-Do not believe him. O behold this ring,
-Whose high respect and rich validity
-Did lack a parallel; yet for all that
-He gave it to a commoner o’th’ camp,
-If I be one.
-
-COUNTESS
-He blushes and ’tis hit.
-Of six preceding ancestors, that gem;
-Conferred by testament to th’ sequent issue
-Hath it been owed and worn. This is his wife.
-That ring’s a thousand proofs.
-
-KING (to Diana)
-Methought you said
-You saw one here in court could witness it.
-
-DIANA
-I did, my lord, but loath am to produce
-So bad an instrument. His name’s Paroles.
-
-LAFEU
-I saw the man today, if man he be.
-
-KING
-Find him and bring him hither. Exit one
-
-BERTRAM
-What of him?
-He’s quoted for a most perfidious slave
-With all the spots o’th’ world taxed and debauched,
-Whose nature sickens but to speak a truth.
-Am I or that or this for what he’ll utter,
-That will speak anything?
+| Chi parla | Battuta |
+|---|---|
+| LAFEU | I will buy me a son-in-law in a fair, and toll for this. I’ll none of him. |
+| KING | The heavens have thought well on thee, Lafeu, To bring forth this discov’ry.—Seek these suitors. Go speedily and bring again the Count. Exit one or more I am afeard the life of Helen, lady, Was foully snatched. Enter Bertram guarded |
+| COUNTESS | Now justice on the doers! |
+| KING | (to Bertram) I wonder, sir, since wives are monsters to you, And that you fly them as you swear them lordship, Yet you desire to marry. Enter the Widow and Diana What woman’s that? |
+| DIANA | I am, my lord, a wretched Florentine, Derived from the ancient Capilet. My suit, as I do understand, you know, And therefore know how far I may be pitied. |
+| WIDOW | (to the King) I am her mother, sir, whose age and honour Both suffer under this complaint we bring, And both shall cease without your remedy. |
+| KING | Come hither, Count. Do you know these women? |
+| BERTRAM | My lord, I neither can nor will deny But that I know them. Do they charge me further? |
+| DIANA | Why do you look so strange upon your wife? |
+| BERTRAM | (to the King) She’s none of mine, my lord. |
+| DIANA | If you shall marry You give away this hand, and that is mine; You give away heaven’s vows, and those are mine; You give away myself, which is known mine, For I by vow am so embodied yours That she which marries you must marry me, Either both or none. |
+| LAFEU | (to Bertram) Your reputation comes too short for my daughter, you are no husband for her. |
+| BERTRAM | (to the King) My lord, this is a fond and desp’rate creature Whom sometime I have laughed with. Let your highness Lay a more noble thought upon mine honour Than for to think that I would sink it here. |
+| KING | Sir, for my thoughts, you have them ill to friend Till your deeds gain them. Fairer prove your honour Than in my thought it lies. |
+| DIANA | Good my lord, Ask him upon his oath if he does think He had not my virginity. |
+| KING | What sayst thou to her? |
+| BERTRAM | She’s impudent, my lord, And was a common gamester to the camp. |
+| DIANA | (to the King) He does me wrong, my lord. If I were so He might have bought me at a common price. Do not believe him. O behold this ring, Whose high respect and rich validity Did lack a parallel; yet for all that He gave it to a commoner o’th’ camp, If I be one. |
+| COUNTESS | He blushes and ’tis hit. Of six preceding ancestors, that gem; Conferred by testament to th’ sequent issue Hath it been owed and worn. This is his wife. That ring’s a thousand proofs. |
+| KING | (to Diana) Methought you said You saw one here in court could witness it. |
+| DIANA | I did, my lord, but loath am to produce So bad an instrument. His name’s Paroles. |
+| LAFEU | I saw the man today, if man he be. |
+| KING | Find him and bring him hither. Exit one |
+| BERTRAM | What of him? He’s quoted for a most perfidious slave With all the spots o’th’ world taxed and debauched, Whose nature sickens but to speak a truth. Am I or that or this for what he’ll utter, That will speak anything? |

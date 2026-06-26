@@ -13,5 +13,6 @@ tags:
 </nav>
 
 
-BENVOLIO
-I’ll pay that doctrine, or else die in debt. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| BENVOLIO | I’ll pay that doctrine, or else die in debt. Exeunt |

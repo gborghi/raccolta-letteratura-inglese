@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-HORTENSIO (aside)
-Why, so this gallant will command the sun.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| HORTENSIO | (aside) Why, so this gallant will command the sun. Exeunt |

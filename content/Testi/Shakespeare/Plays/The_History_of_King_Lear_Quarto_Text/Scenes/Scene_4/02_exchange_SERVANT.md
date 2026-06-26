@@ -13,90 +13,37 @@ tags:
 </nav>
 
 
-SERVANT Since my young lady’s going into France, sir, the fool hath much pined away.
-
-LEAR No more of that, I have noted it. Go you and tell my daughter I would speak with her. ⌈Exit one⌉ Go you, call hither my fool. ⌈Exit one⌉
-Enter Oswald the steward ⌈crossing the stage⌉
-O you, sir, you, sir, come you hither. Who am I, sir?
-
-OSWALD My lady’s father.
-
-LEAR My lady’s father? My lord’s knave, you whoreson dog, you slave, you cur!
-
-OSWALD I am none of this, my lord, I beseech you pardon me.
-
-LEAR Do you bandy looks with me, you rascal?
-⌈Lear strikes him⌉
-
-OSWALD I’ll not be struck, my lord—
-
-KENT (tripping him) Nor tripped neither, you base football player.
-
-LEAR (to Kent) I thank thee, fellow. Thou serv’st me, and I’ll love thee.
-
-KENT (to Oswald) Come, sir, I’ll teach you differences. Away, away. If you will measure your lubber’s length again, tarry; but away if you have wisdom.
-Exit Oswald
-
-LEAR Now, friendly knave, I thank thee.
-Enter Lear’s Fool
-There’s earnest of thy service.
-He gives Kent money
-
-FOOL Let me hire him, too. (To Kent) Here’s my coxcomb.
-
-LEAR How now, my pretty knave, how dost thou?
-
-FOOL (to Kent) Sirrah, you were best take my coxcomb.
-
-KENT Why, fool?
-
-FOOL Why, for taking one’s part that’s out of favour. Nay, an thou canst not smile as the wind sits, thou’lt catch cold shortly. There, take my coxcomb. Why, this fellow hath banished two on’s daughters and done the third a blessing against his will. If thou follow him, thou must needs wear my coxcomb. (To Lear) How now, nuncle? Would I had two coxcombs and two daughters.
-
-LEAR Why, my boy?
-
-FOOL If I gave them my living I’d keep my coxcombs myself. There’s mine; beg another off thy daughters.
-
-LEAR Take heed, sirrah—the whip.
-
-FOOL Truth is a dog that must to kennel. He must be whipped out when Lady the brach may stand by the fire and stink.
-
-LEAR A pestilent gall to me!
-
-FOOL ⌈to Kent⌉ Sirrah, I’ll teach thee a speech.
-
-LEAR Do.
-
-FOOL Mark it, uncle.
-Have more than thou showest,
-Speak less than thou knowest,
-Lend less than thou owest,
-Ride more than thou goest,
-Learn more than thou trowest,
-Set less than thou throwest,
-Leave thy drink and thy whore,
-And keep in-a-door,
-And thou shalt have more
-Than two tens to a score.
-
-LEAR This is nothing, fool.
-
-FOOL Then, like the breath of an unfee’d lawyer, you gave me nothing for’t. Can you make no use of nothing, uncle?
-
-LEAR Why no, boy. Nothing can be made out of nothing.
-
-FOOL (to Kent) Prithee, tell him so much the rent of his land comes to. He will not believe a fool. 130
-
-LEAR A bitter fool.
-
-FOOL Dost know the difference, my boy, between a bitter fool and a sweet fool?
-
-LEAR No, lad. Teach me.
-
-FOOL ⌈sings⌉
-That lord that counselled thee To give away thy land,
-Come, place him here by me;
-Do thou for him stand.
-The sweet and bitter fool
-Will presently appear,
-The one in motley here,
-The other found out there.
+| Chi parla | Battuta |
+|---|---|
+| SERVANT | Since my young lady’s going into France, sir, the fool hath much pined away. |
+| LEAR | No more of that, I have noted it. Go you and tell my daughter I would speak with her. Exit one Go you, call hither my fool. Exit one Enter Oswald the steward crossing the stage O you, sir, you, sir, come you hither. Who am I, sir? |
+| OSWALD | My lady’s father. |
+| LEAR | My lady’s father? My lord’s knave, you whoreson dog, you slave, you cur! |
+| OSWALD | I am none of this, my lord, I beseech you pardon me. |
+| LEAR | Do you bandy looks with me, you rascal? Lear strikes him |
+| OSWALD | I’ll not be struck, my lord— |
+| KENT | (tripping him) Nor tripped neither, you base football player. |
+| LEAR | (to Kent) I thank thee, fellow. Thou serv’st me, and I’ll love thee. |
+| KENT | (to Oswald) Come, sir, I’ll teach you differences. Away, away. If you will measure your lubber’s length again, tarry; but away if you have wisdom. Exit Oswald |
+| LEAR | Now, friendly knave, I thank thee. Enter Lear’s Fool There’s earnest of thy service. He gives Kent money |
+| FOOL | Let me hire him, too. (To Kent) Here’s my coxcomb. |
+| LEAR | How now, my pretty knave, how dost thou? |
+| FOOL | (to Kent) Sirrah, you were best take my coxcomb. |
+| KENT | Why, fool? |
+| FOOL | Why, for taking one’s part that’s out of favour. Nay, an thou canst not smile as the wind sits, thou’lt catch cold shortly. There, take my coxcomb. Why, this fellow hath banished two on’s daughters and done the third a blessing against his will. If thou follow him, thou must needs wear my coxcomb. (To Lear) How now, nuncle? Would I had two coxcombs and two daughters. |
+| LEAR | Why, my boy? |
+| FOOL | If I gave them my living I’d keep my coxcombs myself. There’s mine; beg another off thy daughters. |
+| LEAR | Take heed, sirrah—the whip. |
+| FOOL | Truth is a dog that must to kennel. He must be whipped out when Lady the brach may stand by the fire and stink. |
+| LEAR | A pestilent gall to me! |
+| FOOL | to Kent Sirrah, I’ll teach thee a speech. |
+| LEAR | Do. |
+| FOOL | Mark it, uncle. Have more than thou showest, Speak less than thou knowest, Lend less than thou owest, Ride more than thou goest, Learn more than thou trowest, Set less than thou throwest, Leave thy drink and thy whore, And keep in-a-door, And thou shalt have more Than two tens to a score. |
+| LEAR | This is nothing, fool. |
+| FOOL | Then, like the breath of an unfee’d lawyer, you gave me nothing for’t. Can you make no use of nothing, uncle? |
+| LEAR | Why no, boy. Nothing can be made out of nothing. |
+| FOOL | (to Kent) Prithee, tell him so much the rent of his land comes to. He will not believe a fool. 130 |
+| LEAR | A bitter fool. |
+| FOOL | Dost know the difference, my boy, between a bitter fool and a sweet fool? |
+| LEAR | No, lad. Teach me. |
+| FOOL | sings That lord that counselled thee To give away thy land, Come, place him here by me; Do thou for him stand. The sweet and bitter fool Will presently appear, The one in motley here, The other found out there. |

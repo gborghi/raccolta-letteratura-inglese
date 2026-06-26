@@ -13,10 +13,7 @@ tags:
 </nav>
 
 
-NESTOR
-Most wisely hath Ulysses here discovered
-The fever whereof all our power is sick.
-
-AGAMEMNON
-The nature of the sickness found, Ulysses,
-What is the remedy?
+| Chi parla | Battuta |
+|---|---|
+| NESTOR | Most wisely hath Ulysses here discovered The fever whereof all our power is sick. |
+| AGAMEMNON | The nature of the sickness found, Ulysses, What is the remedy? |

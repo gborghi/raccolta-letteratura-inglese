@@ -13,19 +13,10 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-Ferdinand, KING of Navarre
-Don Adriano de ARMADO, an affected Spanish braggart
-MOTE, his page
-
-PRINCESS of France
-COSTARD, a Clown
-JAQUENETTA, a country wench
-
-Sir NATHANIEL, a curate
-HOLOFERNES, a schoolmaster
-Anthony DULL, a constable
-
-MERCADE, a messenger
-
-A FORESTER
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY Ferdinand, KING of Navarre Don Adriano de ARMADO, an affected Spanish braggart MOTE, his page |
+| PRINCESS | of France COSTARD, a Clown JAQUENETTA, a country wench |
+| PRINCESS | Sir NATHANIEL, a curate HOLOFERNES, a schoolmaster Anthony DULL, a constable |
+| PRINCESS | MERCADE, a messenger |
+| *(didascalia)* | A |

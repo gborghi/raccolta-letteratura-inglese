@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-CROMWELL
-Good sir, have patience.
-
-CARDINAL WOLSEY So I have. Farewell
-The hopes of court; my hopes in heaven do dwell.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| CROMWELL | Good sir, have patience. |
+| CARDINAL WOLSEY | So I have. Farewell The hopes of court; my hopes in heaven do dwell. Exeunt |

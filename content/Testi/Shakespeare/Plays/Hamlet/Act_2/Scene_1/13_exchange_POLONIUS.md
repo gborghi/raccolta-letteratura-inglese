@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-POLONIUS Fore God, my lord, well spoken, with good accent and good discretion.
+| Chi parla | Battuta |
+|---|---|
+| POLONIUS | Fore God, my lord, well spoken, with good accent and good discretion. |

@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-DUKE
-Nay, forward, old man; do not break off so,
-For we may pity though not pardon thee.
+| Chi parla | Battuta |
+|---|---|
+| DUKE | Nay, forward, old man; do not break off so, For we may pity though not pardon thee. |

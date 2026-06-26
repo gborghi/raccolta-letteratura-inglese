@@ -14,102 +14,21 @@ tags:
 </nav>
 
 
-Enter Portia, Nerissa, Lorenzo, Jessica, and Balthasar, a man of Portia’s
-LORENZO (to Portia)
-Madam, although I speak it in your presence,
-You have a noble and a true conceit
-Of godlike amity, which appears most strongly
-In bearing thus the absence of your lord.
-But if you knew to whom you show this honour,
-How true a gentleman you send relief,
-How dear a lover of my lord your husband,
-I know you would be prouder of the work
-Than customary bounty can enforce you.
-PORTIA
-I never did repent for doing good,
-Nor shall not now; for in companions
-That do converse and waste the time together,
-Whose souls do bear an equal yoke of love,
-There must be needs a like proportion
-Of lineaments, of manners, and of spirit,
-Which makes me think that this Antonio,
-Being the bosom lover of my lord,
-Must needs be like my lord. If it be so,
-How little is the cost I have bestowed
-In purchasing the semblance of my soul
-From out the state of hellish cruelty.
-This comes too near the praising of myself,
-Therefore no more of it. Hear other things:
-Lorenzo, I commit into your hands
-The husbandry and manage of my house
-Until my lord’s return. For mine own part,
-I have toward heaven breathed a secret vow
-To live in prayer and contemplation,
-Only attended by Nerissa here,
-Until her husband and my lord’s return.
-There is a monastery two miles off,
-And there we will abide. I do desire you
-Not to deny this imposition,
-The which my love and some necessity
-Now lays upon you.
-LORENZO Madam, with all my heart,
-I shall obey you in all fair commands.
-PORTIA
-My people do already know my mind,
-And will acknowledge you and Jessica
-In place of Lord Bassanio and myself.
-So fare you well till we shall meet again.
-LORENZO
-Fair thoughts and happy hours attend on you!
-JESSICA
-I wish your ladyship all heart’s content.
-PORTIA
-I thank you for your wish, and am well pleased
-To wish it back on you. Fare you well, Jessica.
-Exeunt Lorenzo and Jessica
-Now, Balthasar,
-As I have ever found thee honest-true,
-So let me find thee still. Take this same letter,
-And use thou all th’endeavour of a man
-In speed to Padua. See thou render this
-Into my cousin’s hands, Doctor Bellario,
-And look what notes and garments he doth give
-thee,
-Bring them, I pray thee, with imagined speed
-Unto the traject, to the common ferry
-Which trades to Venice. Waste no time in words,
-But get thee gone. I shall be there before thee.
-BALTHASAR
-Madam, I go with all convenient speed. Exit
-PORTIA
-Come on, Nerissa. I have work in hand
-That you yet know not of. We’ll see our husbands
-Before they think of us.
-NERISSA Shall they see us?
-PORTIA
-They shall, Nerissa, but in such a habit
-That they shall think we are accomplishèd
-With that we lack. I’ll hold thee any wager,
-When we are both accoutered like young men
-I’ll prove the prettier fellow of the two,
-And wear my dagger with the braver grace,
-And speak between the change of man and boy
-With a reed voice, and turn two mincing steps
-Into a manly stride, and speak of frays
-Like a fine bragging youth, and tell quaint lies
-How honourable ladies sought my love,
-Which I denying, they fell sick and died.
-I could not do withal. Then I’ll repent,
-And wish for all that that I had not killed them;
-And twenty of these puny lies I’ll tell,
-That men shall swear I have discontinued school
-Above a twelvemonth. I have within my mind
-A thousand raw tricks of these bragging Jacks
-Which I will practise.
-NERISSA Why, shall we turn to men?
-PORTIA Fie, what a question’s that
-If thou wert near a lewd interpreter!
-But come, I’ll tell thee all my whole device
-When I am in my coach, which stays for us
-At the park gate; and therefore haste away,
-For we must measure twenty miles today. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Portia, Nerissa, Lorenzo, Jessica, and Balthasar, a man of Portia’s |
+| LORENZO | (to Portia)<br>Madam, although I speak it in your presence,<br>You have a noble and a true conceit<br>Of godlike amity, which appears most strongly<br>In bearing thus the absence of your lord.<br>But if you knew to whom you show this honour,<br>How true a gentleman you send relief,<br>How dear a lover of my lord your husband,<br>I know you would be prouder of the work<br>Than customary bounty can enforce you. |
+| PORTIA | I never did repent for doing good,<br>Nor shall not now; for in companions<br>That do converse and waste the time together,<br>Whose souls do bear an equal yoke of love,<br>There must be needs a like proportion<br>Of lineaments, of manners, and of spirit,<br>Which makes me think that this Antonio,<br>Being the bosom lover of my lord,<br>Must needs be like my lord. If it be so,<br>How little is the cost I have bestowed<br>In purchasing the semblance of my soul<br>From out the state of hellish cruelty.<br>This comes too near the praising of myself,<br>Therefore no more of it. Hear other things:<br>Lorenzo, I commit into your hands<br>The husbandry and manage of my house<br>Until my lord’s return. For mine own part,<br>I have toward heaven breathed a secret vow<br>To live in prayer and contemplation,<br>Only attended by Nerissa here,<br>Until her husband and my lord’s return.<br>There is a monastery two miles off,<br>And there we will abide. I do desire you<br>Not to deny this imposition,<br>The which my love and some necessity<br>Now lays upon you. |
+| LORENZO | Madam, with all my heart,<br>I shall obey you in all fair commands. |
+| PORTIA | My people do already know my mind,<br>And will acknowledge you and Jessica<br>In place of Lord Bassanio and myself.<br>So fare you well till we shall meet again. |
+| LORENZO | Fair thoughts and happy hours attend on you! |
+| JESSICA | I wish your ladyship all heart’s content. |
+| PORTIA | I thank you for your wish, and am well pleased<br>To wish it back on you. Fare you well, Jessica. |
+| *(didascalia)* | Exeunt Lorenzo and Jessica |
+| PORTIA | Now, Balthasar,<br>As I have ever found thee honest-true,<br>So let me find thee still. Take this same letter,<br>And use thou all th’endeavour of a man<br>In speed to Padua. See thou render this<br>Into my cousin’s hands, Doctor Bellario,<br>And look what notes and garments he doth give<br>thee,<br>Bring them, I pray thee, with imagined speed<br>Unto the traject, to the common ferry<br>Which trades to Venice. Waste no time in words,<br>But get thee gone. I shall be there before thee. |
+| BALTHASAR | Madam, I go with all convenient speed. Exit |
+| PORTIA | Come on, Nerissa. I have work in hand<br>That you yet know not of. We’ll see our husbands<br>Before they think of us. |
+| NERISSA | Shall they see us? |
+| PORTIA | They shall, Nerissa, but in such a habit<br>That they shall think we are accomplishèd<br>With that we lack. I’ll hold thee any wager,<br>When we are both accoutered like young men<br>I’ll prove the prettier fellow of the two,<br>And wear my dagger with the braver grace,<br>And speak between the change of man and boy<br>With a reed voice, and turn two mincing steps<br>Into a manly stride, and speak of frays<br>Like a fine bragging youth, and tell quaint lies<br>How honourable ladies sought my love,<br>Which I denying, they fell sick and died.<br>I could not do withal. Then I’ll repent,<br>And wish for all that that I had not killed them;<br>And twenty of these puny lies I’ll tell,<br>That men shall swear I have discontinued school<br>Above a twelvemonth. I have within my mind<br>A thousand raw tricks of these bragging Jacks<br>Which I will practise. |
+| NERISSA | Why, shall we turn to men? |
+| PORTIA | Fie, what a question’s that<br>If thou wert near a lewd interpreter!<br>But come, I’ll tell thee all my whole device<br>When I am in my coach, which stays for us<br>At the park gate; and therefore haste away,<br>For we must measure twenty miles today. Exeunt |

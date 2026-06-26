@@ -13,7 +13,6 @@ tags:
 </nav>
 
 
-ACHILLES I do believe it,
-For they passed by me as misers do by beggars,
-Neither gave to me good word nor look.
-What, are my deeds forgot?
+| Chi parla | Battuta |
+|---|---|
+| ACHILLES | I do believe it, For they passed by me as misers do by beggars, Neither gave to me good word nor look. What, are my deeds forgot? |

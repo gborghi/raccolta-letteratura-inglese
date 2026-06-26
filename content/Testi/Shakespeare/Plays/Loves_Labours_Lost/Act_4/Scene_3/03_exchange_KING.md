@@ -13,6 +13,7 @@ tags:
 </nav>
 
 
-KING Ay me!
-
-BIRON (aside) Shot, by heaven! Proceed, sweet Cupid, thou hast thumped him with thy birdbolt under the left pap. In faith, secrets.
+| Chi parla | Battuta |
+|---|---|
+| KING | Ay me! |
+| BIRON | (aside) Shot, by heaven! Proceed, sweet Cupid, thou hast thumped him with thy birdbolt under the left pap. In faith, secrets. |

@@ -13,8 +13,6 @@ tags:
 </nav>
 
 
-SICINIUS To th’ Capitol, come.
-We will be there before the stream o‘th’ people,
-And this shall seem, as partly ’tis, their own,
-Which we have goaded onward.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| SICINIUS | To th’ Capitol, come. We will be there before the stream o‘th’ people, And this shall seem, as partly ’tis, their own, Which we have goaded onward. Exeunt |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Lance and his dog Crab
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Lance and his dog Crab |

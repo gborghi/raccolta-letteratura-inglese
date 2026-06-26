@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Lady Constance, Arthur Duke of Brittaine, and the Earl of Salisbury
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Lady Constance, Arthur Duke of Brittaine, and the Earl of Salisbury |

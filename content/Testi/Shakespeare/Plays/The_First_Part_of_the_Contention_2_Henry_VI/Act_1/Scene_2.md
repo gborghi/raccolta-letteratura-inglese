@@ -14,136 +14,29 @@ tags:
 </nav>
 
 
-Enter Duke Humphrey of Gloucester and his wife Eleanor, the Duchess
-DUCHESS
-Why droops my lord, like over-ripened corn
-Hanging the head at Ceres’ plenteous load?
-Why doth the great Duke Humphrey knit his brows,
-As frowning at the favours of the world ?
-Why are thine eyes fixed to the sullen earth,
-Gazing on that which seems to dim thy sight?
-What seest thou there? King Henry’s diadem,
-Enchased with all the honours of the world?
-If so, gaze on, and grovel on thy face
-Until thy head be circled with the same.
-Put forth thy hand, reach at the glorious gold.
-What, is’t too short? I’ll lengthen it with mine;
-And having both together heaved it up,
-We’ll both together lift our heads to heaven
-And never more abase our sight so low
-As to vouchsafe one glance unto the ground.
-GLOUCESTER
-O Nell, sweet Nell, if thou dost love thy lord,
-Banish the canker of ambitious thoughts!
-And may that hour when I imagine ill
-Against my king and nephew, virtuous Henry,
-Be my last breathing in this mortal world! !
-My troublous dream this night doth make me sad.
-DUCHESS
-What dreamed my lord? Tell me and I’ll requite it
-With sweet rehearsal of my morning’s dream.
-GLOUCESTER
-Methought this staff, mine office-badge in court,
-Was broke in twain—by whom I have forgot,
-But, as I think, it was by th’ Cardinal—
-And on the pieces of the broken wand
-Were placed the heads of Edmund, Duke of Somerset,
-And William de la Pole, first Duke of Suffolk.
-This was my dream—what it doth bode, God knows.
-DUCHESS
-Tut, this was nothing but an argument
-That he that breaks a stick of Gloucester’s grove
-Shall lose his head for his presumption.
-But list to me, my Humphrey, my sweet duke:
-Methought I sat in seat of majesty
-In the cathedral church of Westminster,
-And in that chair where kings and queens are
-crowned,
-Where Henry and Dame Margaret kneeled to me,
-And on my head did set the diadem.
-GLOUCESTER
-Nay, Eleanor, then must I chide outright.
-Presumptuous dame! Ill-nurtured Eleanor!
-Art thou not second woman in the realm,
-And the Protector’s wife beloved of him ?
-Hast thou not worldly pleasure at command
-Above the reach or compass of thy thought?
-And wilt thou still be hammering treachery
-To tumble down thy husband and thyself
-From top of honour to disgrace’s feet?
-Away from me, and let me hear no more!
-DUCHESS
-What, what, my lord? Are you so choleric
-With Eleanor for telling but her dream?
-Next time I’ll keep my dreams unto myself
-And not be checked.
-GLOUCESTER
-Nay, be not angry; I am pleased again. Enter a Messenger
-MESSENGER
-My Lord Protector, ’tis his highness’ pleasure
-You do prepare to ride unto Saint Albans,
-Whereas the King and Queen do mean to hawk.
-GLOUCESTER
-I go. Come, Nell, thou wilt ride with us ?
-DUCHESS
-Yes, my good lord, I’ll follow presently.
-Exeunt Gloucester and the Messenger
-Follow I must; I cannot go before
-While Gloucester bears this base and humble mind.
-Were I am an, a duke, and next of blood,
-I would remove these tedious stumbling blocks
-And smooth my way upon their headless necks.
-And, being a woman, I will not be slack
-To play my part in fortune’s pageant.
-(Calling within) Where are you there? Sir John! Nay,
-fear not man.
-We are alone. Here’s none but thee and I.
-Enter Sir John Hume
-HUME
-Jesus preserve your royal majesty.
-DUCHESS
-What sayst thou? ‘Majesty’ ? I am but ‘grace’.
-HUME
-But by the grace of God and Hume’s advice
-Your grace’s title shall be multiplied.
-DUCHESS
-What sayst thou, man? Hast thou as yet conferred
-With Margery Jordan, the cunning witch of Eye,
-With Roger Bolingbroke, the conjuror?
-And will they undertake to do me good?
-HUME
-This they have promisèd: to show your highness
-A spirit raised from depth of underground
-That shall make answer to such questions
-As by your Grace shall be propounded him.
-DUCHESS
-It is enough. I’ll think upon the questions.
-When from Saint Albans we do make return,
-We’ll see these things effected to the full.
-Here, Hume (giving him money), take this reward.
-Make merry, man,
-With thy confederates in this weighty cause.
-Exit
-HUME
-Hume must make merry with the Duchess’ gold;
-Marry, and shall. But how now, Sir John Hume?
-Seal up your lips, and give no words but mum ;
-The business asketh silent secrecy.
-Dame Eleanor gives gold to bring the witch.
-Gold cannot come amiss were she a devil.
-Yet have I gold flies from another coast—
-I dare not say from the rich Cardinal
-And from the great and new-made Duke of Suffolk,
-Yet I do find it so; for, to be plain,
-They, knowing Dame Eleanor’s aspiring humour,
-Have hired me to undermine the Duchess,
-And buzz these conjurations in her brain.
-They say ‘A crafty knave does need no broker’,
-Yet am I Suffolk and the Cardinal’s broker.
-Hume, if you take not heed you shall go near
-To call them both a pair of crafty knaves.
-Well, so it stands; and thus, I fear, at last
-Hume’s knavery will be the Duchess’ wrack,
-And her attainture will be Humphrey’s fall.
-Sort how it will, I shall have gold for all.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Duke Humphrey of Gloucester and his wife Eleanor, the Duchess |
+| DUCHESS | Why droops my lord, like over-ripened corn<br>Hanging the head at Ceres’ plenteous load?<br>Why doth the great Duke Humphrey knit his brows,<br>As frowning at the favours of the world ?<br>Why are thine eyes fixed to the sullen earth,<br>Gazing on that which seems to dim thy sight?<br>What seest thou there? King Henry’s diadem,<br>Enchased with all the honours of the world?<br>If so, gaze on, and grovel on thy face<br>Until thy head be circled with the same.<br>Put forth thy hand, reach at the glorious gold.<br>What, is’t too short? I’ll lengthen it with mine;<br>And having both together heaved it up,<br>We’ll both together lift our heads to heaven<br>And never more abase our sight so low<br>As to vouchsafe one glance unto the ground. |
+| GLOUCESTER | O Nell, sweet Nell, if thou dost love thy lord,<br>Banish the canker of ambitious thoughts!<br>And may that hour when I imagine ill<br>Against my king and nephew, virtuous Henry,<br>Be my last breathing in this mortal world! !<br>My troublous dream this night doth make me sad. |
+| DUCHESS | What dreamed my lord? Tell me and I’ll requite it<br>With sweet rehearsal of my morning’s dream. |
+| GLOUCESTER | Methought this staff, mine office-badge in court,<br>Was broke in twain—by whom I have forgot,<br>But, as I think, it was by th’ Cardinal—<br>And on the pieces of the broken wand<br>Were placed the heads of Edmund, Duke of Somerset,<br>And William de la Pole, first Duke of Suffolk.<br>This was my dream—what it doth bode, God knows. |
+| DUCHESS | Tut, this was nothing but an argument<br>That he that breaks a stick of Gloucester’s grove<br>Shall lose his head for his presumption.<br>But list to me, my Humphrey, my sweet duke:<br>Methought I sat in seat of majesty<br>In the cathedral church of Westminster,<br>And in that chair where kings and queens are<br>crowned,<br>Where Henry and Dame Margaret kneeled to me,<br>And on my head did set the diadem. |
+| GLOUCESTER | Nay, Eleanor, then must I chide outright.<br>Presumptuous dame! Ill-nurtured Eleanor!<br>Art thou not second woman in the realm,<br>And the Protector’s wife beloved of him ?<br>Hast thou not worldly pleasure at command<br>Above the reach or compass of thy thought?<br>And wilt thou still be hammering treachery<br>To tumble down thy husband and thyself<br>From top of honour to disgrace’s feet?<br>Away from me, and let me hear no more! |
+| DUCHESS | What, what, my lord? Are you so choleric<br>With Eleanor for telling but her dream?<br>Next time I’ll keep my dreams unto myself<br>And not be checked. |
+| GLOUCESTER | Nay, be not angry; I am pleased again. Enter a Messenger |
+| MESSENGER | My Lord Protector, ’tis his highness’ pleasure<br>You do prepare to ride unto Saint Albans,<br>Whereas the King and Queen do mean to hawk. |
+| GLOUCESTER | I go. Come, Nell, thou wilt ride with us ? |
+| DUCHESS | Yes, my good lord, I’ll follow presently. |
+| *(didascalia)* | Exeunt Gloucester and the Messenger |
+| DUCHESS | Follow I must; I cannot go before<br>While Gloucester bears this base and humble mind.<br>Were I am an, a duke, and next of blood,<br>I would remove these tedious stumbling blocks<br>And smooth my way upon their headless necks.<br>And, being a woman, I will not be slack<br>To play my part in fortune’s pageant.<br>(Calling within) Where are you there? Sir John! Nay,<br>fear not man.<br>We are alone. Here’s none but thee and I. |
+| *(didascalia)* | Enter Sir John Hume |
+| HUME | Jesus preserve your royal majesty. |
+| DUCHESS | What sayst thou? ‘Majesty’ ? I am but ‘grace’. |
+| HUME | But by the grace of God and Hume’s advice<br>Your grace’s title shall be multiplied. |
+| DUCHESS | What sayst thou, man? Hast thou as yet conferred<br>With Margery Jordan, the cunning witch of Eye,<br>With Roger Bolingbroke, the conjuror?<br>And will they undertake to do me good? |
+| HUME | This they have promisèd: to show your highness<br>A spirit raised from depth of underground<br>That shall make answer to such questions<br>As by your Grace shall be propounded him. |
+| DUCHESS | It is enough. I’ll think upon the questions.<br>When from Saint Albans we do make return,<br>We’ll see these things effected to the full.<br>Here, Hume (giving him money), take this reward.<br>Make merry, man,<br>With thy confederates in this weighty cause. |
+| *(didascalia)* | Exit |
+| HUME | Hume must make merry with the Duchess’ gold;<br>Marry, and shall. But how now, Sir John Hume?<br>Seal up your lips, and give no words but mum ;<br>The business asketh silent secrecy.<br>Dame Eleanor gives gold to bring the witch.<br>Gold cannot come amiss were she a devil.<br>Yet have I gold flies from another coast—<br>I dare not say from the rich Cardinal<br>And from the great and new-made Duke of Suffolk,<br>Yet I do find it so; for, to be plain,<br>They, knowing Dame Eleanor’s aspiring humour,<br>Have hired me to undermine the Duchess,<br>And buzz these conjurations in her brain.<br>They say ‘A crafty knave does need no broker’,<br>Yet am I Suffolk and the Cardinal’s broker.<br>Hume, if you take not heed you shall go near<br>To call them both a pair of crafty knaves.<br>Well, so it stands; and thus, I fear, at last<br>Hume’s knavery will be the Duchess’ wrack,<br>And her attainture will be Humphrey’s fall.<br>Sort how it will, I shall have gold for all. |
+| *(didascalia)* | Exit |

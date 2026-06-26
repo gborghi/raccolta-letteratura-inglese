@@ -14,111 +14,40 @@ tags:
 </nav>
 
 
-Enter Goneril and Edmond the bastard ⌈at one door⌉ and Oswald the steward ⌈at another⌉
-GONERIL
-Welcome, my lord. I marvel our mild husband
-Not met us on the way. (To Oswald) Now, where’s
-your master?
-OSWALD
-Madam, within; but never man so changed.
-I told him of the army that was landed;
-He smiled at it. I told him you were coming;
-His answer was ‘The worse’. Of Gloucester’s treachery
-And of the loyal service of his son
-When I informed him, then he called me sot,
-And told me I had turned the wrong side out.
-What most he should dislike seems pleasant to him;
-What like, offensive.
-GONERIL (to Edmond) Then shall you go no further.
-It is the cowish terror of his spirit
-That dares not undertake. He’ll not feel wrongs
-Which tie him to an answer. Our wishes on the way
-May prove effects. Back, Edmond, to my brother.
-Hasten his musters and conduct his powers.
-I must change names at home, and give the distaff
-Into my husband’s hands. This trusty servant
-Shall pass between us. Ere long you are like to hear,
-If you dare venture in your own behalf,
-A mistress’s command. Wear this. Spare speech.
-Decline your head. This kiss, if it durst speak,
-Would stretch thy spirits up into the air.
-⌈She kisses him⌉
-Conceive, and fare thee well.
-EDMOND Yours in the ranks of death.
-GONERIL My most dear Gloucester.
-Exit
-Edmond
-O, the difference of man and man!
-To thee a woman’s services are due;
-My fool usurps my body.
-OSWALD
-Madam, here comes my lord.
-Enter the Duke of
-Albany
-GONERIL
-I have been worth the whistling.
-ALBANY
-O Goneril,
-You are not worth the dust which the rude wind
-Blows in your face.
-GONERIL
-Milk-livered man,
-That bear’st a cheek for blows, a head for wrongs;
-Who hast not in thy brows an eye discerning
-Thine honour from thy suffering—
-ALBANY
-See thyself, devil.
-Proper deformity shows not in the fiend
-So horrid as in woman.
-GONERIL
-O vain fool!
-Enter a Messenger
-MESSENGER
-O my good lord, the Duke of Cornwall’s dead,
-Slain by his servant going to put out
-The other eye of Gloucester.
-ALBANY
-Gloucester’s eyes?
-MESSENGER
-A servant that he bred, thrilled with remorse,
-Opposed against the act, bending his sword
-To his great master, who thereat enraged
-Flew on him, and amongst them felled him dead,
-But not without that harmful stroke which since
-Hath plucked him after.
-ALBANY
-This shows you are above,
-You justicers, that these our nether crimes
-So speedily can venge. But O, poor Gloucester!
-Lost he his other eye?
-MESSENGER
-Both, both, my lord.—µ
-This letter, madam, craves a speedy answer.
-’Tis from your sister.
-GONERIL (aside)
-One way I like this well;
-But being widow, and my Gloucester with her,
-May all the building in my fancy pluck
-Upon my hateful life. Another way
-The news is not so tart.—I’ll read and answer.
-⌈Exit
-with Oswald⌉
-ALBANY
-Where was his son when they did take his eyes?
-MESSENGER
-Come with my lady hither.
-ALBANY
-He is not here.
-MESSENGER
-No, my good lord; I met him back again.
-ALBANY Knows he the wickedness?
-MESSENGER
-Ay, my good lord; ’twas he informed against him,
-And quit the house on purpose that their punishment
-Might have the freer course.
-ALBANY
-Gloucester, I live
-To thank thee for the love thou showed‘st the King,
-And to revenge thine eyes.—Come hither, friend.
-Tell me what more thou know’st.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Goneril and Edmond the bastard at one door and Oswald the steward at another |
+| GONERIL | Welcome, my lord. I marvel our mild husband<br>Not met us on the way. (To Oswald) Now, where’s<br>your master? |
+| OSWALD | Madam, within; but never man so changed.<br>I told him of the army that was landed;<br>He smiled at it. I told him you were coming;<br>His answer was ‘The worse’. Of Gloucester’s treachery<br>And of the loyal service of his son<br>When I informed him, then he called me sot,<br>And told me I had turned the wrong side out.<br>What most he should dislike seems pleasant to him;<br>What like, offensive. |
+| GONERIL | (to Edmond) Then shall you go no further.<br>It is the cowish terror of his spirit<br>That dares not undertake. He’ll not feel wrongs<br>Which tie him to an answer. Our wishes on the way<br>May prove effects. Back, Edmond, to my brother.<br>Hasten his musters and conduct his powers.<br>I must change names at home, and give the distaff<br>Into my husband’s hands. This trusty servant<br>Shall pass between us. Ere long you are like to hear,<br>If you dare venture in your own behalf,<br>A mistress’s command. Wear this. Spare speech.<br>Decline your head. This kiss, if it durst speak,<br>Would stretch thy spirits up into the air. |
+| *(didascalia)* | She kisses him |
+| GONERIL | Conceive, and fare thee well. |
+| EDMOND | Yours in the ranks of death. |
+| GONERIL | My most dear Gloucester. |
+| *(didascalia)* | Exit |
+| GONERIL | Edmond<br>O, the difference of man and man!<br>To thee a woman’s services are due;<br>My fool usurps my body. |
+| OSWALD | Madam, here comes my lord. |
+| *(didascalia)* | Enter the Duke of |
+| OSWALD | Albany |
+| GONERIL | I have been worth the whistling. |
+| ALBANY | O Goneril,<br>You are not worth the dust which the rude wind<br>Blows in your face. |
+| GONERIL | Milk-livered man,<br>That bear’st a cheek for blows, a head for wrongs;<br>Who hast not in thy brows an eye discerning<br>Thine honour from thy suffering— |
+| ALBANY | See thyself, devil.<br>Proper deformity shows not in the fiend<br>So horrid as in woman. |
+| GONERIL | O vain fool! |
+| *(didascalia)* | Enter a Messenger |
+| MESSENGER | O my good lord, the Duke of Cornwall’s dead,<br>Slain by his servant going to put out<br>The other eye of Gloucester. |
+| ALBANY | Gloucester’s eyes? |
+| MESSENGER | A servant that he bred, thrilled with remorse,<br>Opposed against the act, bending his sword<br>To his great master, who thereat enraged<br>Flew on him, and amongst them felled him dead,<br>But not without that harmful stroke which since<br>Hath plucked him after. |
+| ALBANY | This shows you are above,<br>You justicers, that these our nether crimes<br>So speedily can venge. But O, poor Gloucester!<br>Lost he his other eye? |
+| MESSENGER | Both, both, my lord.—µ<br>This letter, madam, craves a speedy answer.<br>’Tis from your sister. |
+| GONERIL | (aside)<br>One way I like this well;<br>But being widow, and my Gloucester with her,<br>May all the building in my fancy pluck<br>Upon my hateful life. Another way<br>The news is not so tart.—I’ll read and answer. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | with Oswald |
+| ALBANY | Where was his son when they did take his eyes? |
+| MESSENGER | Come with my lady hither. |
+| ALBANY | He is not here. |
+| MESSENGER | No, my good lord; I met him back again. |
+| ALBANY | Knows he the wickedness? |
+| MESSENGER | Ay, my good lord; ’twas he informed against him,<br>And quit the house on purpose that their punishment<br>Might have the freer course. |
+| ALBANY | Gloucester, I live<br>To thank thee for the love thou showed‘st the King,<br>And to revenge thine eyes.—Come hither, friend.<br>Tell me what more thou know’st. |
+| *(didascalia)* | Exeunt |

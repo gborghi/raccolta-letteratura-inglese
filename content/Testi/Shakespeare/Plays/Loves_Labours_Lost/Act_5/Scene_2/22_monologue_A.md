@@ -13,27 +13,6 @@ tags:
 </nav>
 
 
-A. The following lines found after 4.3.293 in the First Quarto represent an unrevised version of parts of Biron’s long speech, 4.3.287-341. The first six lines form the basis of 4.3.294-9; the next three are revised at 4.3.326- 30; the next four at 4.3.300-2; the last nine are less directly related to the revised version.
-And where that you have vowed to study, lords,
-In that each of you have forsworn his book,
-Can you still dream, and pore, and thereon look?
-For when would you, my lord, or you, or you,
-Have found the ground of study’s excellence
-Without the beauty of a woman’s face?
-From women’s eyes this doctrine I derive.
-They are the ground, the books, the academes,
-From whence doth spring the true Promethean fire.
-Why, universal plodding poisons up
-The nimble spirits in the arteries,
-As motion and long-during action tires
-The sinewy vigour of the traveller.
-Now, for not looking on a woman’s face
-You have in that forsworn the use of eyes,
-And study, too, the causer of your vow.
-For where is any author in the world
-Teaches such beauty as a woman’s eye?
-Learning is but an adjunct to ourself,
-And where we are, our learning likewise is.
-Then when ourselves we see in ladies’ eyes
-With ourselves.
-Do we not likewise see our learning there?
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A. The following lines found after 4.3.293 in the First Quarto represent an unrevised version of parts of Biron’s long speech, 4.3.287-341. The first six lines form the basis of 4.3.294-9; the next three are revised at 4.3.326- 30; the next four at 4.3.300-2; the last nine are less directly related to the revised version. And where that you have vowed to study, lords, In that each of you have forsworn his book, Can you still dream, and pore, and thereon look? For when would you, my lord, or you, or you, Have found the ground of study’s excellence Without the beauty of a woman’s face? From women’s eyes this doctrine I derive. They are the ground, the books, the academes, From whence doth spring the true Promethean fire. Why, universal plodding poisons up The nimble spirits in the arteries, As motion and long-during action tires The sinewy vigour of the traveller. Now, for not looking on a woman’s face You have in that forsworn the use of eyes, And study, too, the causer of your vow. For where is any author in the world Teaches such beauty as a woman’s eye? Learning is but an adjunct to ourself, And where we are, our learning likewise is. Then when ourselves we see in ladies’ eyes With ourselves. Do we not likewise see our learning there? |

@@ -14,20 +14,8 @@ tags:
 </nav>
 
 
-Enter a Scrivener with a paper in his hand
-SCRIVENER
-Here is the indictment of the good Lord Hastings,
-Which in a set hand fairly is engrossed,
-That it may be today read o’er in Paul’s—
-And mark how well the sequel hangs together:
-Eleven hours I have spent to write it over,
-For yesternight by Catesby was it sent me;
-The precedent was full as long a-doing;
-And yet, within these five hours, Hastings lived,
-Untainted, unexamined, free, at liberty.
-Here’s a good world the while! Who is so gross
-That cannot see this palpable device?
-Yet who so bold but says he sees it not?
-Bad is the world, and all will come to naught,
-When such ill dealing must be seen in thought.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter a Scrivener with a paper in his hand |
+| SCRIVENER | Here is the indictment of the good Lord Hastings,<br>Which in a set hand fairly is engrossed,<br>That it may be today read o’er in Paul’s—<br>And mark how well the sequel hangs together:<br>Eleven hours I have spent to write it over,<br>For yesternight by Catesby was it sent me;<br>The precedent was full as long a-doing;<br>And yet, within these five hours, Hastings lived,<br>Untainted, unexamined, free, at liberty.<br>Here’s a good world the while! Who is so gross<br>That cannot see this palpable device?<br>Yet who so bold but says he sees it not?<br>Bad is the world, and all will come to naught,<br>When such ill dealing must be seen in thought. |
+| *(didascalia)* | Exit |

@@ -14,16 +14,8 @@ tags:
 </nav>
 
 
-Alarums. Enter Macduff
-MACDUFF
-That way the noise is. Tyrant, show thy face!
-If thou beest slain and with no stroke of mine,
-My wife and children’s ghosts will haunt me still.
-I cannot strike at wretched kerns, whose arms
-Are hired to bear their staves. Either thou, Macbeth, 5
-Or else my sword with an unbattered edge
-I sheathe again undeeded. There thou shouldst be;
-By this great clatter one of greatest note
-Seems bruited. Let me find him, fortune,
-And more I beg not.
-Exit. Alarums
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarums. Enter Macduff |
+| MACDUFF | That way the noise is. Tyrant, show thy face!<br>If thou beest slain and with no stroke of mine,<br>My wife and children’s ghosts will haunt me still.<br>I cannot strike at wretched kerns, whose arms<br>Are hired to bear their staves. Either thou, Macbeth, 5<br>Or else my sword with an unbattered edge<br>I sheathe again undeeded. There thou shouldst be;<br>By this great clatter one of greatest note<br>Seems bruited. Let me find him, fortune,<br>And more I beg not. |
+| *(didascalia)* | Exit. Alarums |

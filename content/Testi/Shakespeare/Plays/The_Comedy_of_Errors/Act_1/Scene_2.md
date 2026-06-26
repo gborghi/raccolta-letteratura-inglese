@@ -14,135 +14,39 @@ tags:
 </nav>
 
 
-Enter ⌈from the bay⌉ Antipholus of Syracuse, Merchant ⌈of Ephesus⌉, and Dromio of Syracuse
-MERCHANT ⌈OF EPHESUS⌉
-Therefore give out you are of Epidamnum,
-Lest that your goods too soon be confiscate.
-This very day a Syracusian merchant
-Is apprehended for arrival here,
-And, not being able to buy out his life,
-According to the statute of the town
-Dies ere the weary sun set in the west.
-There is your money that I had to keep.
-ANTIPHOLUS OF SYRACUSE (to Dromio)
-Go bear it to the Centaur, where we host,
-And stay there, Dromio, till I come to thee.
-Within this hour it will be dinner-time.
-Till that I’ll view the manners of the town,
-Peruse the traders, gaze upon the buildings,
-And then return and sleep within mine inn;
-For with long travel I am stiff and weary.
-Get thee away.
-DROMIO OF SYRACUSE
-Many a man would take you at your word,
-And go indeed, having so good a mean. Exit
-ANTIPHOLUS OF SYRACUSE
-A trusty villain, sir, that very oft,
-When I am dull with care and melancholy,
-Lightens my humour with his merry jests.
-What, will you walk with me about the town,
-And then go to my inn and dine with me?
-MERCHANT ⌈OF EPHESUS⌉
-I am invited, sir, to certain merchants
-Of whom I hope to make much benefit.
-I crave your pardon. Soon at five o’clock,
-Please you, I’ll meet with you upon the mart,
-And afterward consort you till bedtime.
-My present business calls me from you now.
-ANTIPHOLUS OF SYRACUSE
-Farewell till then. I will go lose myself,
-And wander up and down to view the city.
-MERCHANT ⌈OF EPHESUS⌉
-Sir, I commend you to your own content. Exit
-ANTIPHOLUS OF SYRACUSE
-He that commends me to mine own content
-Commends me to the thing I cannot get.
-I to the world am like drop of water
-That in the ocean seeks another drop,
-Who, falling there to find his fellow forth,
-Unseen, inquisitive, confounds himself.
-So I, to find a mother and a brother,
-In quest of them, unhappy, lose myself.
-Enter Dromio of Ephesus
-Here comes the almanac of my true date.
-What now? How chance thou art returned so soon?
-DROMIO OF EPHESUS
-Returned so soon? Rather approached too late.
-The capon burns, the pig falls from the spit.
-The clock hath strucken twelve upon the bell;
-My mistress made it one upon my cheek.
-She is so hot because the meat is cold.
-The meat is cold because you come not home.
-You come not home because you have no stomach.
-You have no stomach, having broke your fast;
-But we that know what ’tis to fast and pray
-Are penitent for your default today.
-ANTIPHOLUS OF SYRACUSE
-Stop in your wind, sir. Tell me this, I pray:
-Where have you left the money that I gave you?
-DROMIO OF EPHESUS
-O—sixpence that I had o’ Wednesday last
-To pay the saddler for my mistress’ crupper?
-The saddler had it, sir; I kept it not.
-ANTIPHOLUS OF SYRACUSE
-I am not in a sportive humour now.
-Tell me, and dally not: where is the money?
-We being strangers here, how dar’st thou trust
-So great a charge from thine own custody?
-DROMIO OF EPHESUS
-I pray you, jest, sir, as you sit at dinner.
-I from my mistress come to you in post.
-If I return I shall be post indeed,
-For she will scour your fault upon my pate.
-Methinks your maw, like mine, should be your clock,
-And strike you home without a messenger.
-ANTIPHOLUS OF SYRACUSE
-Come, Dromio, come, these jests are out of season.
-Reserve them till a merrier hour than this.
-Where is the gold I gave in charge to thee?
-DROMIO OF EPHESUS
-To me, sir? Why, you gave no gold to me.
-ANTIPHOLUS OF SYRACUSE
-Come on, sir knave, have done your foolishness,
-And tell me how thou hast disposed thy charge.
-DROMIO OF EPHESUS
-My charge was but to fetch you from the mart
-Home to your house, the Phoenix, sir, to dinner.
-My mistress and her sister stays for you.
-ANTIPHOLUS OF SYRACUSE
-Now, as I am a Christian, answer me
-In what safe place you have bestowed my money,
-Or I shall break that merry sconce of yours
-That stands on tricks when I am undisposed.
-Where is the thousand marks thou hadst of me?
-DROMIO OF EPHESUS
-I have some marks of yours upon my pate,
-Some of my mistress’ marks upon my shoulders,
-But not a thousand marks between you both.
-If I should pay your worship those again,
-Perchance you will not bear them patiently.
-ANTIPHOLUS OF SYRACUSE
-Thy mistress’ marks? What mistress, slave, hast thou?
-DROMIO OF EPHESUS
-Your worship’s wife, my mistress, at the Phoenix:
-She that doth fast till you come home to dinner,
-And prays that you will hie you home to dinner.
-ANTIPHOLUS OF SYRACUSE
-What, wilt thou flout me thus unto my face,
-Being forbid? There, take you that, sir knave!
-He beats Dromio
-DROMIO OF EPHESUS
-What mean you, sir? For God’s sake, hold your hands!
-Nay, an you will not, sir, I’ll take my heels. Exit
-ANTIPHOLUS OF SYRACUSE
-Upon my life, by some device or other
-The villain is o’er-raught of all my money.
-They say this town is full of cozenage,
-As nimble jugglers that deceive the eye,
-Dark-working sorcerers that change the mind,
-Soul-killing witches that deform the body,
-Disguisèd cheaters, prating mountebanks,
-And many suchlike libertines of sin.
-If it prove so, I will be gone the sooner.
-I’ll to the Centaur to go seek this slave.
-I greatly fear my money is not safe. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter from the bay Antipholus of Syracuse, Merchant of Ephesus, and Dromio of Syracuse |
+| *(didascalia)* | MERCHANT OF EPHESUS |
+| *(didascalia)* | Therefore give out you are of Epidamnum,<br>Lest that your goods too soon be confiscate.<br>This very day a Syracusian merchant<br>Is apprehended for arrival here,<br>And, not being able to buy out his life,<br>According to the statute of the town |
+| *(didascalia)* | Dies ere the weary sun set in the west. |
+| *(didascalia)* | There is your money that I had to keep. |
+| ANTIPHOLUS OF SYRACUSE | (to Dromio)<br>Go bear it to the Centaur, where we host,<br>And stay there, Dromio, till I come to thee. |
+| *(didascalia)* | Within this hour it will be dinner-time. |
+| ANTIPHOLUS OF SYRACUSE | Till that I’ll view the manners of the town,<br>Peruse the traders, gaze upon the buildings,<br>And then return and sleep within mine inn;<br>For with long travel I am stiff and weary.<br>Get thee away. |
+| DROMIO OF SYRACUSE | Many a man would take you at your word,<br>And go indeed, having so good a mean. Exit |
+| ANTIPHOLUS OF SYRACUSE | A trusty villain, sir, that very oft,<br>When I am dull with care and melancholy,<br>Lightens my humour with his merry jests.<br>What, will you walk with me about the town,<br>And then go to my inn and dine with me? |
+| *(didascalia)* | MERCHANT OF EPHESUS |
+| ANTIPHOLUS OF SYRACUSE | I am invited, sir, to certain merchants<br>Of whom I hope to make much benefit.<br>I crave your pardon. Soon at five o’clock,<br>Please you, I’ll meet with you upon the mart,<br>And afterward consort you till bedtime.<br>My present business calls me from you now. |
+| ANTIPHOLUS OF SYRACUSE | Farewell till then. I will go lose myself,<br>And wander up and down to view the city. |
+| *(didascalia)* | MERCHANT OF EPHESUS |
+| ANTIPHOLUS OF SYRACUSE | Sir, I commend you to your own content. Exit |
+| ANTIPHOLUS OF SYRACUSE | He that commends me to mine own content<br>Commends me to the thing I cannot get.<br>I to the world am like drop of water<br>That in the ocean seeks another drop,<br>Who, falling there to find his fellow forth,<br>Unseen, inquisitive, confounds himself.<br>So I, to find a mother and a brother,<br>In quest of them, unhappy, lose myself. |
+| *(didascalia)* | Enter Dromio of Ephesus |
+| ANTIPHOLUS OF SYRACUSE | Here comes the almanac of my true date.<br>What now? How chance thou art returned so soon? |
+| DROMIO OF EPHESUS | Returned so soon? Rather approached too late.<br>The capon burns, the pig falls from the spit.<br>The clock hath strucken twelve upon the bell;<br>My mistress made it one upon my cheek.<br>She is so hot because the meat is cold.<br>The meat is cold because you come not home.<br>You come not home because you have no stomach.<br>You have no stomach, having broke your fast;<br>But we that know what ’tis to fast and pray<br>Are penitent for your default today. |
+| ANTIPHOLUS OF SYRACUSE | Stop in your wind, sir. Tell me this, I pray:<br>Where have you left the money that I gave you? |
+| DROMIO OF EPHESUS | O—sixpence that I had o’ Wednesday last<br>To pay the saddler for my mistress’ crupper?<br>The saddler had it, sir; I kept it not. |
+| ANTIPHOLUS OF SYRACUSE | I am not in a sportive humour now.<br>Tell me, and dally not: where is the money?<br>We being strangers here, how dar’st thou trust<br>So great a charge from thine own custody? |
+| DROMIO OF EPHESUS | I pray you, jest, sir, as you sit at dinner.<br>I from my mistress come to you in post.<br>If I return I shall be post indeed,<br>For she will scour your fault upon my pate.<br>Methinks your maw, like mine, should be your clock,<br>And strike you home without a messenger. |
+| ANTIPHOLUS OF SYRACUSE | Come, Dromio, come, these jests are out of season.<br>Reserve them till a merrier hour than this.<br>Where is the gold I gave in charge to thee? |
+| DROMIO OF EPHESUS | To me, sir? Why, you gave no gold to me. |
+| ANTIPHOLUS OF SYRACUSE | Come on, sir knave, have done your foolishness,<br>And tell me how thou hast disposed thy charge. |
+| DROMIO OF EPHESUS | My charge was but to fetch you from the mart<br>Home to your house, the Phoenix, sir, to dinner.<br>My mistress and her sister stays for you. |
+| ANTIPHOLUS OF SYRACUSE | Now, as I am a Christian, answer me<br>In what safe place you have bestowed my money,<br>Or I shall break that merry sconce of yours<br>That stands on tricks when I am undisposed.<br>Where is the thousand marks thou hadst of me? |
+| DROMIO OF EPHESUS | I have some marks of yours upon my pate,<br>Some of my mistress’ marks upon my shoulders,<br>But not a thousand marks between you both.<br>If I should pay your worship those again,<br>Perchance you will not bear them patiently. |
+| ANTIPHOLUS OF SYRACUSE | Thy mistress’ marks? What mistress, slave, hast thou? |
+| DROMIO OF EPHESUS | Your worship’s wife, my mistress, at the Phoenix:<br>She that doth fast till you come home to dinner,<br>And prays that you will hie you home to dinner. |
+| ANTIPHOLUS OF SYRACUSE | What, wilt thou flout me thus unto my face,<br>Being forbid? There, take you that, sir knave!<br>He beats Dromio |
+| DROMIO OF EPHESUS | What mean you, sir? For God’s sake, hold your hands!<br>Nay, an you will not, sir, I’ll take my heels. Exit |
+| ANTIPHOLUS OF SYRACUSE | Upon my life, by some device or other<br>The villain is o’er-raught of all my money.<br>They say this town is full of cozenage,<br>As nimble jugglers that deceive the eye,<br>Dark-working sorcerers that change the mind,<br>Soul-killing witches that deform the body,<br>Disguisèd cheaters, prating mountebanks,<br>And many suchlike libertines of sin.<br>If it prove so, I will be gone the sooner.<br>I’ll to the Centaur to go seek this slave.<br>I greatly fear my money is not safe. Exit |

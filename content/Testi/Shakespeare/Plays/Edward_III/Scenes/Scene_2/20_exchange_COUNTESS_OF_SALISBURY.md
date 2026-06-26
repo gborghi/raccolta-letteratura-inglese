@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-COUNTESS OF SALISBURY
-I’ll follow thee, and when my mind turns so,
-My body sink my soul in endless woe. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| COUNTESS OF SALISBURY | I’ll follow thee, and when my mind turns so, My body sink my soul in endless woe. Exeunt |

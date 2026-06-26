@@ -14,200 +14,39 @@ tags:
 </nav>
 
 
-Enter King Edward, the Earl of Derby, the Earl of Warwick,⌉ Edward Prince of Wales, Lord Audley and the Comte d’Artois
-KING EDWARD
-Robert of Artois, banished though thou be
-From France thy native country, yet with us
-Thou shalt retain as great a seigniory:
-For we create thee Earl of Richmond here.
-And now go forwards with our pedigree:
-Who next succeeded King Philippe of Beau?
-COMTE D’ARTOIS
-Three sons of his, which all successively
-Did sit upon their father’s regal throne,
-Yet died and left no issue of their loins.
-KING EDWARD
-But was my mother sister unto those?
-COMTE D’ARTOIS
-She was, my lord, and only Isabel
-Was all the daughters that this Philippe had,
-Whom afterward your father took to wife.
-And from the fragrant garden of her womb
-Your gracious self, the flower of Europe’s hope,
-Derived is inheritor to France.
-But note the rancour of rebellious minds:
-When thus the lineage of Beau was out
-The French obscured your mother’s privilege
-And, though she were the next of blood, proclaimed
-Jean of the house of Valois now their king.
-The reason was, they say, the realm of France
-Replete with princes of great parentage
-Ought not admit a governor to rule
-Except he be descended of the male.
-And that’s the special ground of their contempt
-Wherewith they study to exclude your grace.
-KING EDWARD
-But they shall find that forged ground of theirs
-To be but dusty heaps of brittle sand.
-COMTE D’ARTOIS
-Perhaps it will be thought a heinous thing
-That I, a Frenchman, should discover this.
-But heaven I call to record of my vows:
-It is not hate nor any private wrong,
-But love unto my country and the right
-Provokes my tongue thus lavish in report.
-You are the lineal watchman of our peace,
-And Jean of Valois indirectly climbs.
-What then should subjects but embrace their king?
-Ah, wherein may our duty more be seen
-Than striving to rebate a tyrant’s pride
-And place thee, the true shepherd of our commonwealth?
-KING EDWARD
-This counsel, Artois, like to fruitful showers,
-Hath added growth unto my dignity,
-And by the fiery vigour of thy words
-Hot courage is engendered in my breast,
-Which heretofore was raked in ignorance
-But now doth mount with golden wings of fame
-And will approve fair Isabel’s descent,
-Able to yoke their stubborn necks with steel
-That spurn against my sovereignty in France.
-Sound a horn
-A messenger. Lord Audley, know from whence.
-⌈Enter a messenger, the Duc de Lorraine⌉
-AUDLEY
-The Duke of Lorraine, having crossed the seas,
-Entreats he may have conference with your highness.
-KING EDWARD
-Admit him, lords, that we may hear the news.
-(To Lorraine) Say, Duke of Lorraine, wherefore art thou come? 55
-DUC DE LORRAINE
-The most renowned prince, King Jean of France,
-Doth greet thee, Edward, and by me commands
-That, forsomuch as by his liberal gift
-The Guienne dukedom is entailed to thee,
-Thou do him lowly homage for the same.
-And for that purpose, here I summon thee
-Repair to France within these forty days
-That there, according as the custom is,
-Thou mayst be sworn true liegeman to our king;
-Or else thy title in that province dies
-And he himself will repossess the place.
-KING EDWARD
-See how occasion laughs me in the face!
-No sooner minded to prepare for France
-But straight I am invited—nay, with threats,
-Upon a penalty, enjoined to come!
-‘Twere but a childish part to say him nay.
-Lorraine, return this answer to thy lord:
-I mean to visit him as he requests.
-But how? Not servilely disposed to bend,
-But like a conqueror to make him bow.
-His lame unpolished shifts are come to light,
-And truth hath pulled the vizard from his face
-That set a gloss upon his arrogance.
-Dare he command a fealty in me?
-Tell him the crown that he usurps is mine,
-And where he sets his foot he ought to kneel.
-’Tis not a petty dukedom that I claim
-But all the whole dominions of the realm
-Which if, with grudging, he refuse to yield
-I’ll take away those borrowed plumes of his,
-And send him naked to the wilderness.
-DUC DE LORRAINE
-Then, Edward, here, in spite of all thy lords,
-I do pronounce defiance to thy face.
-PRINCE OF WALES
-Defiance, Frenchman? We rebound it back
-Even to the bottom of thy master’s throat!
-And, be it spoke with reverence of the King,
-My gracious father, and these other lords,
-I hold thy message but as scurrilous,
-And him that sent thee like the lazy drone
-Crept up by stealth unto the eagle’s nest,
-From whence we’ll shake him with so rough a storm
-As others shall be warned by his harm.
-EARL OF WARWICK (to Lorraine)
-Bid him leave off the lion’s case he wears
-Lest, meeting with the lion in the field,
-He chance to tear him piecemeal for his pride.
-COMTE D’ARTOIS (to Lorraine)
-The soundest counsel I can give his grace
-Is to surrender ere he be constrained.
-A voluntary mischief hath less scorn
-Than when reproach with violence is borne.
-DUC DE LORRAINE
-Regenerate traitor, viper to the place
-Where thou wast fostered in thine infancy!
-Bear’st thou a part in this conspiracy?
-⌈Lorraine⌉ draws his sword
-KING EDWARD ⌈drawing his sword⌉
-Lorraine, behold the sharpness of this steel:
-Fervent desire that sits against my heart
-Is far more thorny-pricking than this blade
-That, with the nightingale, I shall be scarred
-As oft as I dispose myself to rest
-Until my colours be displayed in France.
-This is thy final answer. So be gone.
-DUC DE LORRAINE
-It is not that, nor any English brave,
-Afflicts me so, as doth his poisoned view:
-That is most false, should most of all be true. Exit
-KING EDWARD
-Now, lords, our fleeting barque is under sail,
-Our gage is thrown, and war is soon begun,
-But not so quickly brought unto an end.
-Enter Sir William Montague
-But wherefore comes Sir William Montague?
-(To Montague) How stands the league between the Scot and us?
-MONTAGUE
-Cracked and dissevered, my renowned lord.
-The treacherous King no sooner was informed
-Of your withdrawing of your army back
-But straight, forgetting of his former oath,
-He made invasion on the bordering towns.
-Berwick is won, Newcastle spoiled and lost,
-And now the tyrant hath begirt with siege
-The Castle of Roxburgh, where, enclosed,
-The Countess Salisbury is like to perish.
-KING EDWARD (to Warwick)
-That is thy daughter, Warwick, is it not?
-Whose husband hath in Bretagne served so long
-About the planting of Lord Montfort there?
-EARL OF WARWICK It is, my lord.
-KING EDWARD
-Ignoble David, hast thou none to grieve
-But seely ladies with thy threat’ning arms?
-But I will make you shrink your snaily horns.
-(To Audley) First, therefore, Audley, this shall be thy charge:
-Go levy footmen for our wars in France.
-(To the Prince of Wales) And, Ned, take muster of our men-at-arms.
-In every shire elect a several band.
-Let them be soldiers of a lusty spirit,
-Such as dread nothing but dishonour’s blot.
-Be wary therefore, since we do commence
-A famous war, and with so mighty a nation.
-(To Derby) Derby, be thou ambassador for us
-Unto our father-in-law, the Earl of Hainault.
-Make him acquainted with our enterprise,
-And likewise will him, with our own allies
-That are in Flanders, to solicit, too,
-The Emperor of Almagne in our name.
-Myself, whilst you are jointly thus employed,
-Will, with these forces that I have at hand,
-March and once more repulse the traitorous Scot.
-But sirs, be resolute. We shall have wars
-On every side. (To the Prince of Wales) And, Ned, thou must begin
-Now to forget thy study and thy books,
-And ure thy shoulders to an armour’s weight.
-PRINCE OF WALES
-As cheerful sounding to my youthful spleen
-This tumult is of war’s increasing broils,
-As at the coronation of a king
-The joyful clamours of the people are
-When ‘Ave Caesar’ they pronounce aloud.
-Within this school of honour I shall learn
-Either to sacrifice my foes to death,
-Or, in a rightful quarrel, spend my breath.
-Then cheerfully forward, each a several way.
-In great affairs ’tis naught to use delay. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Edward, the Earl of Derby, the Earl of Warwick, Edward Prince of Wales, Lord Audley and the Comte d’Artois |
+| KING EDWARD | Robert of Artois, banished though thou be<br>From France thy native country, yet with us<br>Thou shalt retain as great a seigniory:<br>For we create thee Earl of Richmond here.<br>And now go forwards with our pedigree:<br>Who next succeeded King Philippe of Beau? |
+| COMTE D’ARTOIS | Three sons of his, which all successively<br>Did sit upon their father’s regal throne,<br>Yet died and left no issue of their loins. |
+| KING EDWARD | But was my mother sister unto those? |
+| COMTE D’ARTOIS | She was, my lord, and only Isabel<br>Was all the daughters that this Philippe had,<br>Whom afterward your father took to wife.<br>And from the fragrant garden of her womb<br>Your gracious self, the flower of Europe’s hope,<br>Derived is inheritor to France.<br>But note the rancour of rebellious minds:<br>When thus the lineage of Beau was out<br>The French obscured your mother’s privilege<br>And, though she were the next of blood, proclaimed<br>Jean of the house of Valois now their king.<br>The reason was, they say, the realm of France<br>Replete with princes of great parentage<br>Ought not admit a governor to rule<br>Except he be descended of the male.<br>And that’s the special ground of their contempt<br>Wherewith they study to exclude your grace. |
+| KING EDWARD | But they shall find that forged ground of theirs<br>To be but dusty heaps of brittle sand. |
+| COMTE D’ARTOIS | Perhaps it will be thought a heinous thing<br>That I, a Frenchman, should discover this.<br>But heaven I call to record of my vows:<br>It is not hate nor any private wrong,<br>But love unto my country and the right<br>Provokes my tongue thus lavish in report.<br>You are the lineal watchman of our peace,<br>And Jean of Valois indirectly climbs.<br>What then should subjects but embrace their king?<br>Ah, wherein may our duty more be seen<br>Than striving to rebate a tyrant’s pride<br>And place thee, the true shepherd of our commonwealth? |
+| KING EDWARD | This counsel, Artois, like to fruitful showers,<br>Hath added growth unto my dignity,<br>And by the fiery vigour of thy words<br>Hot courage is engendered in my breast,<br>Which heretofore was raked in ignorance<br>But now doth mount with golden wings of fame<br>And will approve fair Isabel’s descent,<br>Able to yoke their stubborn necks with steel<br>That spurn against my sovereignty in France. |
+| *(didascalia)* | Sound a horn |
+| KING EDWARD | A messenger. Lord Audley, know from whence. |
+| *(didascalia)* | Enter a messenger, the Duc de Lorraine |
+| AUDLEY | The Duke of Lorraine, having crossed the seas,<br>Entreats he may have conference with your highness. |
+| KING EDWARD | Admit him, lords, that we may hear the news.<br>(To Lorraine) Say, Duke of Lorraine, wherefore art thou come? 55 |
+| DUC DE LORRAINE | The most renowned prince, King Jean of France,<br>Doth greet thee, Edward, and by me commands<br>That, forsomuch as by his liberal gift<br>The Guienne dukedom is entailed to thee,<br>Thou do him lowly homage for the same.<br>And for that purpose, here I summon thee<br>Repair to France within these forty days<br>That there, according as the custom is,<br>Thou mayst be sworn true liegeman to our king;<br>Or else thy title in that province dies<br>And he himself will repossess the place. |
+| KING EDWARD | See how occasion laughs me in the face!<br>No sooner minded to prepare for France<br>But straight I am invited—nay, with threats,<br>Upon a penalty, enjoined to come!<br>‘Twere but a childish part to say him nay.<br>Lorraine, return this answer to thy lord:<br>I mean to visit him as he requests.<br>But how? Not servilely disposed to bend,<br>But like a conqueror to make him bow.<br>His lame unpolished shifts are come to light,<br>And truth hath pulled the vizard from his face<br>That set a gloss upon his arrogance.<br>Dare he command a fealty in me?<br>Tell him the crown that he usurps is mine,<br>And where he sets his foot he ought to kneel.<br>’Tis not a petty dukedom that I claim<br>But all the whole dominions of the realm<br>Which if, with grudging, he refuse to yield<br>I’ll take away those borrowed plumes of his,<br>And send him naked to the wilderness. |
+| DUC DE LORRAINE | Then, Edward, here, in spite of all thy lords,<br>I do pronounce defiance to thy face. |
+| PRINCE OF WALES | Defiance, Frenchman? We rebound it back<br>Even to the bottom of thy master’s throat!<br>And, be it spoke with reverence of the King,<br>My gracious father, and these other lords,<br>I hold thy message but as scurrilous,<br>And him that sent thee like the lazy drone<br>Crept up by stealth unto the eagle’s nest,<br>From whence we’ll shake him with so rough a storm<br>As others shall be warned by his harm. |
+| EARL OF WARWICK | (to Lorraine)<br>Bid him leave off the lion’s case he wears<br>Lest, meeting with the lion in the field,<br>He chance to tear him piecemeal for his pride. |
+| COMTE D’ARTOIS | (to Lorraine)<br>The soundest counsel I can give his grace<br>Is to surrender ere he be constrained.<br>A voluntary mischief hath less scorn<br>Than when reproach with violence is borne. |
+| DUC DE LORRAINE | Regenerate traitor, viper to the place<br>Where thou wast fostered in thine infancy!<br>Bear’st thou a part in this conspiracy? |
+| *(didascalia)* | Lorraine draws his sword |
+| *(didascalia)* | KING EDWARD drawing his sword |
+| DUC DE LORRAINE | Lorraine, behold the sharpness of this steel:<br>Fervent desire that sits against my heart<br>Is far more thorny-pricking than this blade<br>That, with the nightingale, I shall be scarred<br>As oft as I dispose myself to rest<br>Until my colours be displayed in France.<br>This is thy final answer. So be gone. |
+| DUC DE LORRAINE | It is not that, nor any English brave,<br>Afflicts me so, as doth his poisoned view:<br>That is most false, should most of all be true. Exit |
+| KING EDWARD | Now, lords, our fleeting barque is under sail,<br>Our gage is thrown, and war is soon begun,<br>But not so quickly brought unto an end. |
+| *(didascalia)* | Enter Sir William Montague |
+| KING EDWARD | But wherefore comes Sir William Montague?<br>(To Montague) How stands the league between the Scot and us? |
+| MONTAGUE | Cracked and dissevered, my renowned lord.<br>The treacherous King no sooner was informed<br>Of your withdrawing of your army back<br>But straight, forgetting of his former oath,<br>He made invasion on the bordering towns.<br>Berwick is won, Newcastle spoiled and lost,<br>And now the tyrant hath begirt with siege<br>The Castle of Roxburgh, where, enclosed,<br>The Countess Salisbury is like to perish. |
+| KING EDWARD | (to Warwick)<br>That is thy daughter, Warwick, is it not?<br>Whose husband hath in Bretagne served so long<br>About the planting of Lord Montfort there? |
+| EARL OF WARWICK | It is, my lord. |
+| KING EDWARD | Ignoble David, hast thou none to grieve<br>But seely ladies with thy threat’ning arms?<br>But I will make you shrink your snaily horns.<br>(To Audley) First, therefore, Audley, this shall be thy charge:<br>Go levy footmen for our wars in France.<br>(To the Prince of Wales) And, Ned, take muster of our men-at-arms.<br>In every shire elect a several band.<br>Let them be soldiers of a lusty spirit,<br>Such as dread nothing but dishonour’s blot.<br>Be wary therefore, since we do commence<br>A famous war, and with so mighty a nation.<br>(To Derby) Derby, be thou ambassador for us<br>Unto our father-in-law, the Earl of Hainault.<br>Make him acquainted with our enterprise,<br>And likewise will him, with our own allies<br>That are in Flanders, to solicit, too,<br>The Emperor of Almagne in our name.<br>Myself, whilst you are jointly thus employed,<br>Will, with these forces that I have at hand,<br>March and once more repulse the traitorous Scot.<br>But sirs, be resolute. We shall have wars<br>On every side. (To the Prince of Wales) And, Ned, thou must begin<br>Now to forget thy study and thy books,<br>And ure thy shoulders to an armour’s weight. |
+| PRINCE OF WALES | As cheerful sounding to my youthful spleen<br>This tumult is of war’s increasing broils,<br>As at the coronation of a king<br>The joyful clamours of the people are<br>When ‘Ave Caesar’ they pronounce aloud. |
+| *(didascalia)* | Within this school of honour I shall learn |
+| PRINCE OF WALES | Either to sacrifice my foes to death,<br>Or, in a rightful quarrel, spend my breath.<br>Then cheerfully forward, each a several way.<br>In great affairs ’tis naught to use delay. Exeunt |

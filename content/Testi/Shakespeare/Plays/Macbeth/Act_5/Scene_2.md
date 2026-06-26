@@ -14,52 +14,18 @@ tags:
 </nav>
 
 
-Enter Menteith, Caithness, Angus, Lennox, soldiers, with a drummer and colours
-MENTEITH
-The English power is near, led on by Malcolm,
-His uncle Siward, and the good Macduff.
-Revenges burn in them, for their dear causes
-Would to the bleeding and the grim alarm
-Excite the mortified man.
-ANGUS
-Near Birnam Wood
-Shall we well meet them. That way are they coming.
-CAITHNESS
-Who knows if Donalbain be with his brother?
-LENNOX
-For certain, sir, he is not. I have a file
-Of all the gentry. There is Siward’s son,
-And many unrough youths that even now 10
-Protest their first of manhood.
-MENTEITH
-What does the tyrant?
-CAITHNESS
-Great Dunsinane he strongly fortifies.
-Some say he’s mad, others that lesser hate him
-Do call it valiant fury; but for certain
-He cannot buckle his distempered cause
-Within the belt of rule.
-ANGUS
-Now does he feel
-His secret murders sticking on his hands.
-Now minutely revolts upbraid his faith-breach.
-Those he commands move only in command,
-Nothing in love. Now does he feel his title
-Hang loose about him, like a giant’s robe
-Upon a dwarfish thief.
-MENTEITH
-Who then shall blame
-His pestered senses to recoil and start
-When all that is within him does condemn
-Itself for being there?
-CAITHNESS
-Well, march we on
-To give obedience where ’tis truly owed.
-Meet we the medicine of the sickly weal,
-And with him pour we in our country’s purge,
-Each drop of us.
-LENNOX
-Or so much as it needs
-To dew the sovereign flower and drown the weeds.
-Make we our march towards Birnam.
-Exeunt, marching
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Menteith, Caithness, Angus, Lennox, soldiers, with a drummer and colours |
+| MENTEITH | The English power is near, led on by Malcolm,<br>His uncle Siward, and the good Macduff.<br>Revenges burn in them, for their dear causes<br>Would to the bleeding and the grim alarm<br>Excite the mortified man. |
+| ANGUS | Near Birnam Wood<br>Shall we well meet them. That way are they coming. |
+| CAITHNESS | Who knows if Donalbain be with his brother? |
+| LENNOX | For certain, sir, he is not. I have a file<br>Of all the gentry. There is Siward’s son,<br>And many unrough youths that even now 10<br>Protest their first of manhood. |
+| MENTEITH | What does the tyrant? |
+| CAITHNESS | Great Dunsinane he strongly fortifies.<br>Some say he’s mad, others that lesser hate him<br>Do call it valiant fury; but for certain<br>He cannot buckle his distempered cause |
+| *(didascalia)* | Within the belt of rule. |
+| ANGUS | Now does he feel<br>His secret murders sticking on his hands.<br>Now minutely revolts upbraid his faith-breach.<br>Those he commands move only in command,<br>Nothing in love. Now does he feel his title<br>Hang loose about him, like a giant’s robe<br>Upon a dwarfish thief. |
+| MENTEITH | Who then shall blame<br>His pestered senses to recoil and start<br>When all that is within him does condemn<br>Itself for being there? |
+| CAITHNESS | Well, march we on<br>To give obedience where ’tis truly owed.<br>Meet we the medicine of the sickly weal,<br>And with him pour we in our country’s purge,<br>Each drop of us. |
+| LENNOX | Or so much as it needs<br>To dew the sovereign flower and drown the weeds.<br>Make we our march towards Birnam. |
+| *(didascalia)* | Exeunt, marching |

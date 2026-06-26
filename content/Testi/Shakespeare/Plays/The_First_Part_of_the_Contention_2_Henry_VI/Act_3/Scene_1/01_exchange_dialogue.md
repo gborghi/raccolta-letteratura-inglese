@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-Sound a sennet. Enter to the parliament: enter two heralds before, then the Dukes of Buckingham and Suffolk, and then the Duke of York and Cardinal Beaufort, and then King Henry and Queen Margaret, and then the Earls of Salisbury and Warwick, ⌈With attendants ⌉
-
-KING HENRY
-I muse my lord of Gloucester is not come.
-“Tis not his wont to be the hindmost man,
-Whate’er occasion keeps him from us now.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Sound a sennet. Enter to the parliament: enter two heralds before, then the Dukes of Buckingham and Suffolk, and then the Duke of York and Cardinal Beaufort, and then King Henry and Queen Margaret, and then the Earls of Salisbury and Warwick, With attendants |
+| KING HENRY | I muse my lord of Gloucester is not come. “Tis not his wont to be the hindmost man, Whate’er occasion keeps him from us now. |

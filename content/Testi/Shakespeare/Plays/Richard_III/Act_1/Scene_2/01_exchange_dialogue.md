@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter gentlemen, bearing the corpse of King Henry the Sixth in an open coffin, with halberdiers to guard it, Lady Anne being the mourner
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter gentlemen, bearing the corpse of King Henry the Sixth in an open coffin, with halberdiers to guard it, Lady Anne being the mourner |

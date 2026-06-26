@@ -13,23 +13,12 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-The Dowager COUNTESS of Roussillon
-BERTRAM, Count of Roussillon, her son
-HELEN, an orphan, attending on the Countess
-LAVATCH, a Clown, the Countess’s servant
-REYNALDO, the Countess’s steward
-PAROLES, Bertram’s companion
-
-The KING of France
-LAFEU, an old lord
-INTERPRETER, a French soldier
-An AUSTRINGER
-
-The DUKE of Florence
-
-WIDOW Capilet
-DIANA, her daughter
-MARIANA, a friend of the Widow
-
-Lords, attendants, soldiers, citizens
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY The Dowager COUNTESS of Roussillon BERTRAM, Count of Roussillon, her son HELEN, an orphan, attending on the Countess LAVATCH, a Clown, the Countess’s servant REYNALDO, the Countess’s steward PAROLES, Bertram’s companion |
+| *(didascalia)* | The |
+| KING | of France LAFEU, an old lord INTERPRETER, a French soldier An AUSTRINGER |
+| *(didascalia)* | The |
+| DUKE | of Florence |
+| WIDOW | Capilet DIANA, her daughter MARIANA, a friend of the Widow |
+| WIDOW | Lords, attendants, soldiers, citizens |

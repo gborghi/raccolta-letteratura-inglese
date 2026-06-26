@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-PISANIO
-Hence, vile instrument,
-Thou shalt not damn my hand!
+| Chi parla | Battuta |
+|---|---|
+| PISANIO | Hence, vile instrument, Thou shalt not damn my hand! |

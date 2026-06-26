@@ -14,369 +14,71 @@ tags:
 </nav>
 
 
-Enter John of Gaunt, Duke of Lancaster, sick, ⌈carried in a chair,⌉ with the Duke of York
-JOHN OF GAUNT
-Will the King come, that I may breathe my last
-In wholesome counsel to his unstaid youth?
-YORK
-Vex not yourself, nor strive not with your breath,
-For all in vain comes counsel to his ear.
-JOHN OF GAUNT
-O, but they say the tongues of dying men
-Enforce attention, like deep harmony.
-Where words are scarce they are seldom spent in vain,
-For they breathe truth that breathe their words in pain.
-He that no more must say is listened more
-Than they whom youth and ease have taught to glose.
-More are men’s ends marked than their lives before.
-The setting sun, and music at the close,
-As the last taste of sweets, is sweetest last,
-Writ in remembrance more than things long past.
-Though Richard my life’s counsel would not hear,
-My death’s sad tale may yet undeaf his ear.
-YORK
-No, it is stopped with other, flattering sounds,
-As praises of whose taste the wise are feared,
-Lascivious metres to whose venom sound
-The open ear of youth doth always listen,
-Report of fashions in proud Italy,
-Whose manners still our tardy-apish nation
-Limps after in base imitation.
-Where doth the world thrust forth a vanity—
-So it be new there’s no respect how vile—
-That is not quickly buzzed into his ears?
-Then all too late comes counsel, to be heard
-Where will doth mutiny with wit’s regard.
-Direct not him whose way himself will choose:
-’Tis breath thou lack’st, and that breath wilt thou lose.
-JOHN OF GAUNT
-Methinks I am a prophet new-inspired,
-And thus, expiring, do foretell of him.
-His rash, fierce blaze of riot cannot last,
-For violent fires soon burn out themselves.
-Small showers last long, but sudden storms are short.
-He tires betimes that spurs too fast betimes.
-With eager feeding food doth choke the feeder.
-Light vanity, insatiate cormorant,
-Consuming means, soon preys upon itself.
-This royal throne of kings, this sceptred isle,
-This earth of majesty, this seat of Mars,
-This other Eden, demi-paradise,
-This fortress built by nature for herself
-Against infection and the hand of war,
-This happy breed of men, this little world,
-This precious stone set in the silver sea,
-Which serves it in the office of a wall,
-Or as a moat defensive to a house
-Against the envy of less happier lands;
-This blessèd plot, this earth, this realm, this England,
-This nurse, this teeming womb of royal kings,
-Feared by their breed and famous by their birth,
-Renowned for their deeds as far from home
-For Christian service and true chivalry
-As is the sepulchre, in stubborn Jewry,
-Of the world’s ransom, blessed Mary’s son;
-This land of such dear souls, this dear dear land,
-Dear for her reputation through the world,
-Is now leased out—I die pronouncing it—
-Like to a tenement or pelting farm.
-England, bound in with the triumphant sea,
-Whose rocky shore beats back the envious siege
-Of wat’ry Neptune, is now bound in with shame,
-With inky blots and rotten parchment bonds.
-That England that was wont to conquer others
-Hath made a shameful conquest of itself.
-Ah, would the scandal vanish with my life,
-How happy then were my ensuing death!
-Enter King Richard and the Queen; ⌈the Duke of Aumerle,⌉ Bushy, ⌈Green, Bagot,⌉ Lord Ross, and Lord Willoughby
-YORK
-The King is come. Deal mildly with his youth,
-For young hot colts, being reined, do rage the more.
-QUEEN
-How fares our noble uncle Lancaster?
-KING RICHARD
-What comfort, man? How is’t with aged Gaunt?
-JOHN OF GAUNT
-O, how that name befits my composition I
-Old Gaunt indeed, and gaunt in being old.
-Within me grief hath kept a tedious fast,
-And who abstains from meat that is not gaunt?
-For sleeping England long time have I watched.
-Watching breeds leanness, leanness is all gaunt.
-The pleasure that some fathers feed upon
-Is my strict fast: I mean my children’s looks.
-And therein fasting, hast thou made me gaunt.
-Gaunt am I for the grave, gaunt as a grave,
-Whose hollow womb inherits naught but bones.
-KING RICHARD
-Can sick men play so nicely with their names?
-JOHN OF GAUNT
-No, misery makes sport to mock itself.
-Since thou dost seek to kill my name in me,
-I mock my name, great King, to flatter thee.
-KING RICHARD
-Should dying men flatter with those that live?
-JOHN OF GAUNT
-No, no, men living flatter those that die.
-KING RICHARD
-Thou now a-dying sayst thou flatt’rest me.
-JOHN OF GAUNT
-O no: thou diest, though I the sicker be.
-KING RICHARD
-I am in health; I breathe, and see thee ill.
-JOHN OF GAUNT
-Now He that made me knows I see thee ill:
-Ill in myself to see, and in thee seeing ill.
-Thy deathbed is no lesser than thy land,
-Wherein thou liest in reputation sick;
-And thou, too careless patient as thou art,
-Committ’st thy anointed body to the cure
-Of those physicians that first wounded thee.
-A thousand flatterers sit within thy crown,
-Whose compass is no bigger than thy head,
-And yet, encagèd in so small a verge,
-The waste is no whit lesser than thy land.
-O, had thy grandsire with a prophet’s eye
-Seen how his son’s son should destroy his sons,
-From forth thy reach he would have laid thy shame,
-Deposing thee before thou wert possessed,
-Which art possessed now to depose thyself.
-Why, cousin, wert thou regent of the world
-It were a shame to let this land by lease.
-But, for thy world, enjoying but this land,
-Is it not more than shame to shame it so?
-Landlord of England art thou now, not king.
-Thy state of law is bondslave to the law,
-And—
-KING RICHARD
-And thou, a lunatic lean-witted fool,
-Presuming on an ague’s privilege,
-Dar’st with thy frozen admonition
-Make pale our cheek, chasing the royal blood
-With fury from his native residence.
-Now by my seat’s right royal majesty,
-Wert thou not brother to great Edward’s son,
-This tongue that runs so roundly in thy head
-Should run thy head from thy unreverent shoulders.
-JOHN OF GAUNT
-O, spare me not, my brother Edward’s son,
-For that I was his father Edward’s son.
-That blood already, like the pelican,
-Hast thou tapped out and drunkenly caroused.
-My brother Gloucester, plain well-meaning soul—
-Whom fair befall in heaven ‘mongst happy souls—
-May be a precedent and witness good
-That thou respect’st not spilling Edward’s blood.
-Join with the present sickness that I have,
-And thy unkindness be like crooked age,
-To crop at once a too-long withered flower.
-Live in thy shame, but die not shame with thee.
-These words hereafter thy tormentors be.
-(To attendants) Convey me to my bed, then to my grave.
-Love they to live that love and honour have.
-Exit, [carried in the chair]
-KING RICHARD
-And let them die that age and sullens have,
-For both hast thou, and both become the grave.
-YORK
-I do beseech your majesty impute his words
-To wayward sickliness and age in him.
-He loves you, on my life, and holds you dear
-As Harry Duke of Hereford, were he here.
-KING RICHARD
-Right, you say true: as Hereford’s love, so his.
-As theirs, so mine; and all be as it is.
-Enter the Earl of Northumberland
-NORTHUMBERLAND
-My liege, old Gaunt commends him to your majesty.
-KING RICHARD
-What says he?
-NORTHUMBERLAND Nay, nothing: all is said.
-His tongue is now a stringless instrument.
-Words, life, and all, old Lancaster hath spent.
-YORK
-Be York the next that must be bankrupt so!
-Though death be poor, it ends a mortal woe.
-KING RICHARD
-The ripest fruit first falls, and so doth he.
-His time is spent; our pilgrimage must be.
-So much for that. Now for our Irish wars.
-We must supplant those rough rug-headed kerns,
-Which live like venom where no venom else
-But only they have privilege to live.
-And for these great affairs do ask some charge,
-Towards our assistance we do seize to us
-The plate, coin, revenues, and movables
-Whereof our uncle Gaunt did stand possessed.
-YORK
-How long shall I be patient? Ah, how long
-Shall tender duty make me suffer wrong?
-Not Gloucester’s death, nor Hereford’s banishment,
-Nor Gaunt’s rebukes, nor England’s private wrongs,
-Nor the prevention of poor Bolingbroke
-About his marriage, nor my own disgrace,
-Have ever made me sour my patient cheek,
-Or bend one wrinkle on my sovereign’s face.
-I am the last of noble Edward’s sons,
-Of whom thy father, Prince of Wales, was first.
-In war was never lion raged more fierce,
-In peace was never gentle lamb more mild,
-Than was that young and princely gentleman.
-His face thou hast, for even so looked he,
-Accomplished with the number of thy hours.
-But when he frowned it was against the French,
-And not against his friends. His noble hand
-Did win what he did spend, and spent not that
-Which his triumphant father’s hand had won.
-His hands were guilty of no kindred blood,
-But bloody with the enemies of his kin.
-O, Richard, York is too far gone with grief,
-Or else he never would compare between.
-KING RICHARD
-Why uncle, what’s the matter?
-YORK O my liege,
-Pardon me if you please; if not, I, pleased
-Not to be pardoned, am content withal.
-Seek you to seize and grip into your hands
-The royalties and rights of banished Hereford?
-Is not Gaunt dead? And doth not Hereford live?
-Was not Gaunt just? And is not Harry true?
-Did not the one deserve to have an heir?
-Is not his heir a well-deserving son?
-Take Hereford’s rights away, and take from Time
-His charters and his customary rights:
-Let not tomorrow then ensue today;
-Be not thyself, for how art thou a king
-But by fair sequence and succession?
-Now afore God—God forbid I say true!—
-If you do wrongfully seize Hereford’s rights,
-Call in the letters patents that he hath
-By his attorneys general to sue
-His livery, and deny his offered homage,
-You pluck a thousand dangers on your head,
-You lose a thousand well-disposed hearts,
-And prick my tender patience to those thoughts
-Which honour and allegiance cannot think.
-KING RICHARD
-Think what you will, we seize into our hands
-His plate, his goods, his money, and his lands.
-YORK
-I’ll not be by the while. My liege, farewell.
-What will ensue hereof there’s none can tell.
-But by bad courses may be understood
-That their events can never fall out good.
-Exit
-KING RICHARD
-Go, Bushy, to the Earl of Wiltshire straight.
-Bid him repair to us to Ely House
-To see this business. Tomorrow next
-We will for Ireland, and ’tis time, I trow.
-And we create, in absence of ourself,
-Our uncle York Lord Governor of England;
-For he is just and always loved us well.—
-Come on, our Queen; tomorrow must we part.
-Be merry, for our time of stay is short.
-⌈Flourish.⌉ Exeunt ⌈Bushy at one door; King Richard, the Queen, Aumerle, Green, and Bagot at another door⌉. Northumberland, Willoughby, and Ross remain
-NORTHUMBERLAND
-Well, lords, the Duke of Lancaster is dead.
-ROSS
-And living too, for now his son is Duke.
-WILLOUGHBY
-Barely in title, not in revenues.
-NORTHUMBERLAND
-Richly in both, if justice had her right.
-ROSS
-My heart is great, but it must break with silence
-Ere’t be disburdened with a liberal tongue.
-NORTHUMBERLAND
-Nay, speak thy mind, and let him ne’er speak more
-That speaks thy words again to do thee harm.
-WILLOUGHBY
-Tends that that thou wouldst speak to the Duke of Hereford?
-If it be so, out with it boldly, man.
-Quick is mine ear to hear of good towards him.
-ROSS
-No good at all that I can do for him,
-Unless you call it good to pity him,
-Bereft and gelded of his patrimony.
-NORTHUMBERLAND
-Now afore God, ‘tis shame such wrongs are borne
-In him, a royal prince, and many more
-Of noble blood in this declining land.
-The King is not himself, but basely led
-By flatterers; and what they will inform
-Merely in hate ’gainst any of us all,
-That will the King severely prosecute
-’Gainst us, our lives, our children, and our heirs.
-ROSS
-The commons hath he pilled with grievous taxes,
-And quite lost their hearts. The nobles hath he fined
-For ancient quarrels, and quite lost their hearts.
-WILLOUGHBY
-And daily new exactions are devised,
-As blanks, benevolences, and I wot not what.
-But what, a’ God’s name, doth become of this?
-NORTHUMBERLAND
-Wars hath not wasted it; for warred he hath not,
-But basely yielded upon compromise
-That which his ancestors achieved with blows.
-More hath he spent in peace than they in wars.
-ROSS
-The Earl of Wiltshire hath the realm in farm.
-WILLOUGHBY
-The King’s grown bankrupt like a broken man.
-NORTHUMBERLAND
-Reproach and dissolution hangeth over him.
-ROSS
-He hath not money for these Irish wars,
-His burdenous taxations notwithstanding,
-But by the robbing of the banished Duke.
-NORTHUMBERLAND
-His noble kinsman. Most degenerate King!
-But, lords, we hear this fearful tempest sing,
-Yet seek no shelter to avoid the storm.
-We see the wind sit sore upon our sails,
-And yet we strike not, but securely perish.
-ROSS
-We see the very wreck that we must suffer,
-And unavoided is the danger now
-For suffering so the causes of our wreck.
-NORTHUMBERLAND
-Not so: even through the hollow eyes of death
-I spy life peering; but I dare not say
-How near the tidings of our comfort is.
-WILLOUGHBY
-Nay, let us share thy thoughts, as thou dost ours.
-ROSS
-Be confident to speak, Northumberland.
-We three are but thyself, and, speaking so,
-Thy words are but as thoughts. Therefore be bold.
-NORTHUMBERLAND
-Then thus. I have from Port le Blanc,
-A bay in Brittaine, received intelligence
-That Harry Duke of Hereford, Reinold Lord Cobham,
-Thomas son and heir to the Earl of Arundel
-That late broke from the Duke of Exeter,
-His brother, Archbishop late of Canterbury,
-Sir Thomas Erpingham, Sir Thomas Ramston,
-Sir John Norbery,
-Sir Robert Waterton, and Francis Coint,
-All these well furnished by the Duke of Brittaine
-With eight tall ships, three thousand men of war,
-Are making hither with all due expedience,
-And shortly mean to touch our northern shore.
-Perhaps they had ere this, but that they stay
-The first departing of the King for Ireland.
-If then we shall shake off our slavish yoke,
-Imp out our drooping country’s broken wing,
-Redeem from broking pawn the blemished crown,
-Wipe off the dust that hides our sceptre’s gilt,
-And make high majesty look like itself,
-Away with me in post to Ravenspurgh.
-But if you faint, as fearing to do so,
-Stay, and be secret, and myself will go.
-ROSS
-To horse, to horse! Urge doubts to them that fear.
-WILLOUGHBY
-Hold out my horse, and I will first be there.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter John of Gaunt, Duke of Lancaster, sick, carried in a chair, with the Duke of York |
+| JOHN OF GAUNT | Will the King come, that I may breathe my last<br>In wholesome counsel to his unstaid youth? |
+| YORK | Vex not yourself, nor strive not with your breath,<br>For all in vain comes counsel to his ear. |
+| JOHN OF GAUNT | O, but they say the tongues of dying men<br>Enforce attention, like deep harmony.<br>Where words are scarce they are seldom spent in vain,<br>For they breathe truth that breathe their words in pain.<br>He that no more must say is listened more<br>Than they whom youth and ease have taught to glose.<br>More are men’s ends marked than their lives before.<br>The setting sun, and music at the close,<br>As the last taste of sweets, is sweetest last,<br>Writ in remembrance more than things long past.<br>Though Richard my life’s counsel would not hear,<br>My death’s sad tale may yet undeaf his ear. |
+| YORK | No, it is stopped with other, flattering sounds,<br>As praises of whose taste the wise are feared,<br>Lascivious metres to whose venom sound<br>The open ear of youth doth always listen,<br>Report of fashions in proud Italy,<br>Whose manners still our tardy-apish nation<br>Limps after in base imitation.<br>Where doth the world thrust forth a vanity—<br>So it be new there’s no respect how vile—<br>That is not quickly buzzed into his ears?<br>Then all too late comes counsel, to be heard<br>Where will doth mutiny with wit’s regard.<br>Direct not him whose way himself will choose:<br>’Tis breath thou lack’st, and that breath wilt thou lose. |
+| JOHN OF GAUNT | Methinks I am a prophet new-inspired,<br>And thus, expiring, do foretell of him.<br>His rash, fierce blaze of riot cannot last,<br>For violent fires soon burn out themselves.<br>Small showers last long, but sudden storms are short.<br>He tires betimes that spurs too fast betimes.<br>With eager feeding food doth choke the feeder.<br>Light vanity, insatiate cormorant,<br>Consuming means, soon preys upon itself.<br>This royal throne of kings, this sceptred isle,<br>This earth of majesty, this seat of Mars,<br>This other Eden, demi-paradise,<br>This fortress built by nature for herself<br>Against infection and the hand of war,<br>This happy breed of men, this little world,<br>This precious stone set in the silver sea,<br>Which serves it in the office of a wall,<br>Or as a moat defensive to a house<br>Against the envy of less happier lands;<br>This blessèd plot, this earth, this realm, this England,<br>This nurse, this teeming womb of royal kings,<br>Feared by their breed and famous by their birth,<br>Renowned for their deeds as far from home<br>For Christian service and true chivalry<br>As is the sepulchre, in stubborn Jewry,<br>Of the world’s ransom, blessed Mary’s son;<br>This land of such dear souls, this dear dear land,<br>Dear for her reputation through the world,<br>Is now leased out—I die pronouncing it—<br>Like to a tenement or pelting farm.<br>England, bound in with the triumphant sea,<br>Whose rocky shore beats back the envious siege<br>Of wat’ry Neptune, is now bound in with shame,<br>With inky blots and rotten parchment bonds.<br>That England that was wont to conquer others<br>Hath made a shameful conquest of itself.<br>Ah, would the scandal vanish with my life,<br>How happy then were my ensuing death! |
+| *(didascalia)* | Enter King Richard and the Queen; the Duke of Aumerle, Bushy, Green, Bagot, Lord Ross, and Lord Willoughby |
+| YORK | The King is come. Deal mildly with his youth,<br>For young hot colts, being reined, do rage the more. |
+| QUEEN | How fares our noble uncle Lancaster? |
+| KING RICHARD | What comfort, man? How is’t with aged Gaunt? |
+| JOHN OF GAUNT | O, how that name befits my composition I<br>Old Gaunt indeed, and gaunt in being old. |
+| *(didascalia)* | Within me grief hath kept a tedious fast, |
+| JOHN OF GAUNT | And who abstains from meat that is not gaunt?<br>For sleeping England long time have I watched.<br>Watching breeds leanness, leanness is all gaunt.<br>The pleasure that some fathers feed upon<br>Is my strict fast: I mean my children’s looks.<br>And therein fasting, hast thou made me gaunt.<br>Gaunt am I for the grave, gaunt as a grave,<br>Whose hollow womb inherits naught but bones. |
+| KING RICHARD | Can sick men play so nicely with their names? |
+| JOHN OF GAUNT | No, misery makes sport to mock itself.<br>Since thou dost seek to kill my name in me,<br>I mock my name, great King, to flatter thee. |
+| KING RICHARD | Should dying men flatter with those that live? |
+| JOHN OF GAUNT | No, no, men living flatter those that die. |
+| KING RICHARD | Thou now a-dying sayst thou flatt’rest me. |
+| JOHN OF GAUNT | O no: thou diest, though I the sicker be. |
+| KING RICHARD | I am in health; I breathe, and see thee ill. |
+| JOHN OF GAUNT | Now He that made me knows I see thee ill:<br>Ill in myself to see, and in thee seeing ill.<br>Thy deathbed is no lesser than thy land,<br>Wherein thou liest in reputation sick;<br>And thou, too careless patient as thou art,<br>Committ’st thy anointed body to the cure<br>Of those physicians that first wounded thee.<br>A thousand flatterers sit within thy crown,<br>Whose compass is no bigger than thy head,<br>And yet, encagèd in so small a verge,<br>The waste is no whit lesser than thy land.<br>O, had thy grandsire with a prophet’s eye<br>Seen how his son’s son should destroy his sons,<br>From forth thy reach he would have laid thy shame,<br>Deposing thee before thou wert possessed,<br>Which art possessed now to depose thyself.<br>Why, cousin, wert thou regent of the world<br>It were a shame to let this land by lease.<br>But, for thy world, enjoying but this land,<br>Is it not more than shame to shame it so?<br>Landlord of England art thou now, not king.<br>Thy state of law is bondslave to the law,<br>And— |
+| KING RICHARD | And thou, a lunatic lean-witted fool,<br>Presuming on an ague’s privilege,<br>Dar’st with thy frozen admonition<br>Make pale our cheek, chasing the royal blood<br>With fury from his native residence.<br>Now by my seat’s right royal majesty,<br>Wert thou not brother to great Edward’s son,<br>This tongue that runs so roundly in thy head<br>Should run thy head from thy unreverent shoulders. |
+| JOHN OF GAUNT | O, spare me not, my brother Edward’s son,<br>For that I was his father Edward’s son.<br>That blood already, like the pelican,<br>Hast thou tapped out and drunkenly caroused.<br>My brother Gloucester, plain well-meaning soul—<br>Whom fair befall in heaven ‘mongst happy souls—<br>May be a precedent and witness good<br>That thou respect’st not spilling Edward’s blood.<br>Join with the present sickness that I have,<br>And thy unkindness be like crooked age,<br>To crop at once a too-long withered flower.<br>Live in thy shame, but die not shame with thee.<br>These words hereafter thy tormentors be.<br>(To attendants) Convey me to my bed, then to my grave.<br>Love they to live that love and honour have. |
+| *(didascalia)* | Exit, [carried in the chair] |
+| KING RICHARD | And let them die that age and sullens have,<br>For both hast thou, and both become the grave. |
+| YORK | I do beseech your majesty impute his words<br>To wayward sickliness and age in him.<br>He loves you, on my life, and holds you dear<br>As Harry Duke of Hereford, were he here. |
+| KING RICHARD | Right, you say true: as Hereford’s love, so his.<br>As theirs, so mine; and all be as it is. |
+| *(didascalia)* | Enter the Earl of Northumberland |
+| NORTHUMBERLAND | My liege, old Gaunt commends him to your majesty. |
+| KING RICHARD | What says he? |
+| NORTHUMBERLAND | Nay, nothing: all is said.<br>His tongue is now a stringless instrument.<br>Words, life, and all, old Lancaster hath spent. |
+| YORK | Be York the next that must be bankrupt so!<br>Though death be poor, it ends a mortal woe. |
+| KING RICHARD | The ripest fruit first falls, and so doth he.<br>His time is spent; our pilgrimage must be.<br>So much for that. Now for our Irish wars.<br>We must supplant those rough rug-headed kerns,<br>Which live like venom where no venom else<br>But only they have privilege to live.<br>And for these great affairs do ask some charge,<br>Towards our assistance we do seize to us<br>The plate, coin, revenues, and movables<br>Whereof our uncle Gaunt did stand possessed. |
+| YORK | How long shall I be patient? Ah, how long<br>Shall tender duty make me suffer wrong?<br>Not Gloucester’s death, nor Hereford’s banishment,<br>Nor Gaunt’s rebukes, nor England’s private wrongs,<br>Nor the prevention of poor Bolingbroke<br>About his marriage, nor my own disgrace,<br>Have ever made me sour my patient cheek,<br>Or bend one wrinkle on my sovereign’s face.<br>I am the last of noble Edward’s sons,<br>Of whom thy father, Prince of Wales, was first.<br>In war was never lion raged more fierce,<br>In peace was never gentle lamb more mild,<br>Than was that young and princely gentleman.<br>His face thou hast, for even so looked he,<br>Accomplished with the number of thy hours.<br>But when he frowned it was against the French,<br>And not against his friends. His noble hand<br>Did win what he did spend, and spent not that<br>Which his triumphant father’s hand had won.<br>His hands were guilty of no kindred blood,<br>But bloody with the enemies of his kin.<br>O, Richard, York is too far gone with grief,<br>Or else he never would compare between. |
+| KING RICHARD | Why uncle, what’s the matter? |
+| YORK | O my liege,<br>Pardon me if you please; if not, I, pleased<br>Not to be pardoned, am content withal.<br>Seek you to seize and grip into your hands<br>The royalties and rights of banished Hereford?<br>Is not Gaunt dead? And doth not Hereford live?<br>Was not Gaunt just? And is not Harry true?<br>Did not the one deserve to have an heir?<br>Is not his heir a well-deserving son?<br>Take Hereford’s rights away, and take from Time<br>His charters and his customary rights:<br>Let not tomorrow then ensue today;<br>Be not thyself, for how art thou a king<br>But by fair sequence and succession?<br>Now afore God—God forbid I say true!—<br>If you do wrongfully seize Hereford’s rights,<br>Call in the letters patents that he hath<br>By his attorneys general to sue<br>His livery, and deny his offered homage,<br>You pluck a thousand dangers on your head,<br>You lose a thousand well-disposed hearts,<br>And prick my tender patience to those thoughts<br>Which honour and allegiance cannot think. |
+| KING RICHARD | Think what you will, we seize into our hands<br>His plate, his goods, his money, and his lands. |
+| YORK | I’ll not be by the while. My liege, farewell.<br>What will ensue hereof there’s none can tell.<br>But by bad courses may be understood<br>That their events can never fall out good. |
+| *(didascalia)* | Exit |
+| KING RICHARD | Go, Bushy, to the Earl of Wiltshire straight.<br>Bid him repair to us to Ely House<br>To see this business. Tomorrow next<br>We will for Ireland, and ’tis time, I trow.<br>And we create, in absence of ourself,<br>Our uncle York Lord Governor of England;<br>For he is just and always loved us well.—<br>Come on, our Queen; tomorrow must we part.<br>Be merry, for our time of stay is short. |
+| *(didascalia)* | Flourish. Exeunt Bushy at one door; King Richard, the Queen, Aumerle, Green, and Bagot at another door. Northumberland, Willoughby, and Ross remain |
+| NORTHUMBERLAND | Well, lords, the Duke of Lancaster is dead. |
+| ROSS | And living too, for now his son is Duke. |
+| WILLOUGHBY | Barely in title, not in revenues. |
+| NORTHUMBERLAND | Richly in both, if justice had her right. |
+| ROSS | My heart is great, but it must break with silence<br>Ere’t be disburdened with a liberal tongue. |
+| NORTHUMBERLAND | Nay, speak thy mind, and let him ne’er speak more<br>That speaks thy words again to do thee harm. |
+| WILLOUGHBY | Tends that that thou wouldst speak to the Duke of Hereford?<br>If it be so, out with it boldly, man.<br>Quick is mine ear to hear of good towards him. |
+| ROSS | No good at all that I can do for him,<br>Unless you call it good to pity him,<br>Bereft and gelded of his patrimony. |
+| NORTHUMBERLAND | Now afore God, ‘tis shame such wrongs are borne<br>In him, a royal prince, and many more<br>Of noble blood in this declining land.<br>The King is not himself, but basely led<br>By flatterers; and what they will inform<br>Merely in hate ’gainst any of us all,<br>That will the King severely prosecute<br>’Gainst us, our lives, our children, and our heirs. |
+| ROSS | The commons hath he pilled with grievous taxes,<br>And quite lost their hearts. The nobles hath he fined<br>For ancient quarrels, and quite lost their hearts. |
+| WILLOUGHBY | And daily new exactions are devised,<br>As blanks, benevolences, and I wot not what.<br>But what, a’ God’s name, doth become of this? |
+| NORTHUMBERLAND | Wars hath not wasted it; for warred he hath not,<br>But basely yielded upon compromise<br>That which his ancestors achieved with blows.<br>More hath he spent in peace than they in wars. |
+| ROSS | The Earl of Wiltshire hath the realm in farm. |
+| WILLOUGHBY | The King’s grown bankrupt like a broken man. |
+| NORTHUMBERLAND | Reproach and dissolution hangeth over him. |
+| ROSS | He hath not money for these Irish wars,<br>His burdenous taxations notwithstanding,<br>But by the robbing of the banished Duke. |
+| NORTHUMBERLAND | His noble kinsman. Most degenerate King!<br>But, lords, we hear this fearful tempest sing,<br>Yet seek no shelter to avoid the storm.<br>We see the wind sit sore upon our sails,<br>And yet we strike not, but securely perish. |
+| ROSS | We see the very wreck that we must suffer,<br>And unavoided is the danger now<br>For suffering so the causes of our wreck. |
+| NORTHUMBERLAND | Not so: even through the hollow eyes of death<br>I spy life peering; but I dare not say<br>How near the tidings of our comfort is. |
+| WILLOUGHBY | Nay, let us share thy thoughts, as thou dost ours. |
+| ROSS | Be confident to speak, Northumberland.<br>We three are but thyself, and, speaking so,<br>Thy words are but as thoughts. Therefore be bold. |
+| NORTHUMBERLAND | Then thus. I have from Port le Blanc,<br>A bay in Brittaine, received intelligence<br>That Harry Duke of Hereford, Reinold Lord Cobham,<br>Thomas son and heir to the Earl of Arundel<br>That late broke from the Duke of Exeter,<br>His brother, Archbishop late of Canterbury,<br>Sir Thomas Erpingham, Sir Thomas Ramston,<br>Sir John Norbery,<br>Sir Robert Waterton, and Francis Coint,<br>All these well furnished by the Duke of Brittaine<br>With eight tall ships, three thousand men of war,<br>Are making hither with all due expedience,<br>And shortly mean to touch our northern shore.<br>Perhaps they had ere this, but that they stay<br>The first departing of the King for Ireland.<br>If then we shall shake off our slavish yoke,<br>Imp out our drooping country’s broken wing,<br>Redeem from broking pawn the blemished crown,<br>Wipe off the dust that hides our sceptre’s gilt,<br>And make high majesty look like itself,<br>Away with me in post to Ravenspurgh.<br>But if you faint, as fearing to do so,<br>Stay, and be secret, and myself will go. |
+| ROSS | To horse, to horse! Urge doubts to them that fear. |
+| WILLOUGHBY | Hold out my horse, and I will first be there. |
+| *(didascalia)* | Exeunt |

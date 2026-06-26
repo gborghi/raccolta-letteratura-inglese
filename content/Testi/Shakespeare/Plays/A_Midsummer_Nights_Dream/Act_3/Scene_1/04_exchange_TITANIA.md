@@ -13,9 +13,6 @@ tags:
 </nav>
 
 
-TITANIA (to the Fairies)
-Come, wait upon him, lead him to my bower.
-The moon, methinks, looks with a wat’ry eye,
-And when she weeps, weeps every little flower,
-Lamenting some enforced chastity.
-Tie up my love’s tongue; bring him silently. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| TITANIA | (to the Fairies) Come, wait upon him, lead him to my bower. The moon, methinks, looks with a wat’ry eye, And when she weeps, weeps every little flower, Lamenting some enforced chastity. Tie up my love’s tongue; bring him silently. Exeunt |

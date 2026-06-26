@@ -13,11 +13,7 @@ tags:
 </nav>
 
 
-PERICLES I am at your grace’s pleasure.
-
-KING SIMONIDES
-Princes, it is too late to talk of love,
-And that’s the mark I know you level at.
-Therefore each one betake him to his rest;
-Tomorrow all for speeding do their best.
-Exeunt ⌈severally⌉
+| Chi parla | Battuta |
+|---|---|
+| PERICLES | I am at your grace’s pleasure. |
+| KING SIMONIDES | Princes, it is too late to talk of love, And that’s the mark I know you level at. Therefore each one betake him to his rest; Tomorrow all for speeding do their best. Exeunt severally |

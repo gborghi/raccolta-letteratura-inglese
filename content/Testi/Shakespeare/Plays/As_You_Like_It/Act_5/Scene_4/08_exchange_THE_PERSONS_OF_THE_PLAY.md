@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |

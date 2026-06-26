@@ -13,5 +13,6 @@ tags:
 </nav>
 
 
-OPHELIA I shall obey, my lord.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| OPHELIA | I shall obey, my lord. Exeunt |

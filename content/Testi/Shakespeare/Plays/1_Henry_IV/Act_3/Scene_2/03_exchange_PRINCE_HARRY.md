@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-PRINCE HARRY
-I shall hereafter, my thrice-gracious lord,
-Be more myself.
+| Chi parla | Battuta |
+|---|---|
+| PRINCE HARRY | I shall hereafter, my thrice-gracious lord, Be more myself. |

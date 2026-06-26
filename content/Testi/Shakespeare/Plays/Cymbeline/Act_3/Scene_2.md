@@ -14,99 +14,17 @@ tags:
 </nav>
 
 
-Enter Pisanio, reading of a letter
-PISANIO
-How? Of adultery? Wherefore write you not
-What monster’s her accuser? Leonatus,
-O master, what a strange infection
-Is fall’n into thy ear! What false Italian,
-As poisonous tongued as handed, hath prevailed
-On thy too ready hearing? Disloyal? No.
-She’s punished for her truth, and undergoes,
-More goddess-like than wife-like, such assaults
-As would take in some virtue. O my master,
-Thy mind to hers is now as low as were
-Thy fortunes. How? That I should murder her,
-Upon the love and truth and vows which I
-Have made to thy command? I her? Her blood?
-If it be so to do good service, never
-Let me be counted serviceable. How look I,
-That I should seem to lack humanity
-So much as this fact comes to? (Reads) ‘Do’t. The letter
-That I have sent her, by her own command
-Shall give thee opportunity.’ O damned paper,
-Black as the ink that’s on thee! Senseless bauble,
-Art thou a fedary for this act, and look’st
-So virgin-like without?
-Enter Innogen
-Lo, here she comes.
-I am ignorant in what I am commanded.
-INNOGEN How now, Pisanio?
-PISANIO
-Madam, here is a letter from my lord.
-INNOGEN
-Who, thy lord that is my lord, Leonatus?
-O learned indeed were that astronomer
-That knew the stars as I his characters—
-He’d lay the future open. You good gods,
-Let what is here contained relish of love,
-Of my lord’s health, of his content—yet not
-That we two are asunder; let that grieve him.
-Some griefs are med’cinable; that is one of them,
-For it doth physic love—of his content
-All but in that. Good wax, thy leave. Blest be
-You bees that make these locks of counsel! Lovers
-And men in dangerous bonds pray not alike;
-Though forfeiters you cast in prison, yet
-You clasp young Cupid’s tables. Good news, gods!
-She opens and reads the letter
-’Justice and your father’s wrath, should he take me in
-his dominion, could not be so cruel to me as you, O
-the dearest of creatures, would even renew me with
-your eyes. Take notice that I am in Cambria, at Milford
-Haven. What your own love will out of this advise you,
-follow. So he wishes you all happiness, that remains
-loyal to his vow, and your increasing in love,
-Leonatus Posthumus.’
-O for a horse with wings! Hear‘st thou, Pisanio?
-He is at Milford Haven. Read, and tell me
-How far ’tis thither. If one of mean affairs
-May plod it in a week, why may not I
-Glide thither in a day? Then, true Pisanio,
-Who long‘st like me to see thy lord, who long’st—
-O let me bate—but not like me—yet long‘st
-But in a fainter kind—O, not like me,
-For mine’s beyond beyond; say, and speak thick—
-Love’s counsellor should fill the bores of hearing,
-To th’ smothering of the sense—how far it is
-To this same blessèd Milford. And by th’ way
-Tell me how Wales was made so happy as
-T’inherit such a haven. But first of all,
-How we may steal from hence; and for the gap
-That we shall make in time from our hence-going
-Till our return, to excuse; but first, how get hence.
-Why should excuse be born or ere begot?
-We’ll talk of that hereafter. Prithee speak,
-How many score of miles may we well ride
-’Twixt hour and hour?
-PISANIO
-One score ’twixt sun and sun,
-Madam, ’s enough for you, and too much too.
-INNOGEN
-Why, one that rode to ’s execution, man,
-Could never go so slow. I have heard of riding wagers
-Where horses have been nimbler than the sands
-That run i‘th’ clock’s behalf. But this is fool’ry.
-Go bid my woman feign a sickness, say
-She’ll home to her father; and provide me presently
-A riding-suit no costlier than would fit
-A franklin’s housewife.
-PISANIO
-Madam, you’re best consider.
-INNOGEN
-I see before me, man. Nor here, nor here,
-Nor what ensues, but have a fog in them
-That I cannot look through. Away, I prithee,
-Do as I bid thee. There’s no more to say:
-Accessible is none but Milford way.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Pisanio, reading of a letter |
+| PISANIO | How? Of adultery? Wherefore write you not<br>What monster’s her accuser? Leonatus,<br>O master, what a strange infection<br>Is fall’n into thy ear! What false Italian,<br>As poisonous tongued as handed, hath prevailed<br>On thy too ready hearing? Disloyal? No.<br>She’s punished for her truth, and undergoes,<br>More goddess-like than wife-like, such assaults<br>As would take in some virtue. O my master,<br>Thy mind to hers is now as low as were<br>Thy fortunes. How? That I should murder her,<br>Upon the love and truth and vows which I<br>Have made to thy command? I her? Her blood?<br>If it be so to do good service, never<br>Let me be counted serviceable. How look I,<br>That I should seem to lack humanity<br>So much as this fact comes to? (Reads) ‘Do’t. The letter<br>That I have sent her, by her own command<br>Shall give thee opportunity.’ O damned paper,<br>Black as the ink that’s on thee! Senseless bauble,<br>Art thou a fedary for this act, and look’st<br>So virgin-like without? |
+| *(didascalia)* | Enter Innogen |
+| PISANIO | Lo, here she comes.<br>I am ignorant in what I am commanded. |
+| INNOGEN | How now, Pisanio? |
+| PISANIO | Madam, here is a letter from my lord. |
+| INNOGEN | Who, thy lord that is my lord, Leonatus?<br>O learned indeed were that astronomer<br>That knew the stars as I his characters—<br>He’d lay the future open. You good gods,<br>Let what is here contained relish of love,<br>Of my lord’s health, of his content—yet not<br>That we two are asunder; let that grieve him.<br>Some griefs are med’cinable; that is one of them,<br>For it doth physic love—of his content<br>All but in that. Good wax, thy leave. Blest be<br>You bees that make these locks of counsel! Lovers<br>And men in dangerous bonds pray not alike;<br>Though forfeiters you cast in prison, yet<br>You clasp young Cupid’s tables. Good news, gods!<br>She opens and reads the letter<br>’Justice and your father’s wrath, should he take me in<br>his dominion, could not be so cruel to me as you, O<br>the dearest of creatures, would even renew me with<br>your eyes. Take notice that I am in Cambria, at Milford<br>Haven. What your own love will out of this advise you,<br>follow. So he wishes you all happiness, that remains<br>loyal to his vow, and your increasing in love,<br>Leonatus Posthumus.’<br>O for a horse with wings! Hear‘st thou, Pisanio?<br>He is at Milford Haven. Read, and tell me<br>How far ’tis thither. If one of mean affairs<br>May plod it in a week, why may not I<br>Glide thither in a day? Then, true Pisanio,<br>Who long‘st like me to see thy lord, who long’st—<br>O let me bate—but not like me—yet long‘st<br>But in a fainter kind—O, not like me,<br>For mine’s beyond beyond; say, and speak thick—<br>Love’s counsellor should fill the bores of hearing,<br>To th’ smothering of the sense—how far it is<br>To this same blessèd Milford. And by th’ way<br>Tell me how Wales was made so happy as<br>T’inherit such a haven. But first of all,<br>How we may steal from hence; and for the gap<br>That we shall make in time from our hence-going<br>Till our return, to excuse; but first, how get hence.<br>Why should excuse be born or ere begot?<br>We’ll talk of that hereafter. Prithee speak,<br>How many score of miles may we well ride<br>’Twixt hour and hour? |
+| PISANIO | One score ’twixt sun and sun,<br>Madam, ’s enough for you, and too much too. |
+| INNOGEN | Why, one that rode to ’s execution, man,<br>Could never go so slow. I have heard of riding wagers<br>Where horses have been nimbler than the sands<br>That run i‘th’ clock’s behalf. But this is fool’ry.<br>Go bid my woman feign a sickness, say<br>She’ll home to her father; and provide me presently<br>A riding-suit no costlier than would fit<br>A franklin’s housewife. |
+| PISANIO | Madam, you’re best consider. |
+| INNOGEN | I see before me, man. Nor here, nor here,<br>Nor what ensues, but have a fog in them<br>That I cannot look through. Away, I prithee,<br>Do as I bid thee. There’s no more to say:<br>Accessible is none but Milford way. |
+| *(didascalia)* | Exeunt |

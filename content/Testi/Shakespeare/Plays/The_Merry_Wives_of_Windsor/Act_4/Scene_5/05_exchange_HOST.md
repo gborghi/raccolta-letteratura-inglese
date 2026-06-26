@@ -13,21 +13,9 @@ tags:
 </nav>
 
 
-HOST
-Which means she to deceive, father or mother?
-
-FENTON
-Both, my good Host, to go along with me.
-And here it rests: that you’ll procure the vicar
-To stay for me at church ’twixt twelve and one,
-And, in the lawful name of marrying,
-To give our hearts united ceremony.
-
-HOST
-Well, husband your device. I’ll to the vicar.
-Bring you the maid, you shall not lack a priest.
-
-FENTON
-So shall I evermore be bound to thee.
-Besides, I’ll make a present recompense.
-Exeunt ⌈severally⌉
+| Chi parla | Battuta |
+|---|---|
+| HOST | Which means she to deceive, father or mother? |
+| FENTON | Both, my good Host, to go along with me. And here it rests: that you’ll procure the vicar To stay for me at church ’twixt twelve and one, And, in the lawful name of marrying, To give our hearts united ceremony. |
+| HOST | Well, husband your device. I’ll to the vicar. Bring you the maid, you shall not lack a priest. |
+| FENTON | So shall I evermore be bound to thee. Besides, I’ll make a present recompense. Exeunt severally |

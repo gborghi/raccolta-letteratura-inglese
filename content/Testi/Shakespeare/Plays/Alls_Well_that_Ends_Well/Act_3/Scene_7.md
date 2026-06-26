@@ -14,67 +14,15 @@ tags:
 </nav>
 
 
-Enter Helen and the Widow
-HELEN
-If you misdoubt me that I am not she,
-I know not how I shall assure you further
-But I shall lose the grounds I work upon.
-WIDOW
-Though my estate be fall’n, I was well born,
-Nothing acquainted with these businesses,
-And would not put my reputation now
-In any staining act.
-HELEN
-Nor would I wish you.
-First give me trust the Count he is my husband,
-And what to your sworn counsel I have spoken
-Is so from word to word, and then you cannot,
-By the good aid that I of you shall borrow,
-Err in bestowing it.
-WIDOW
-I should believe you,
-For you have showed me that which well approves
-You’re great in fortune.
-HELEN
-Take this purse of gold,
-And let me buy your friendly help thus far,
-Which I will over-pay, and pay again
-When I have found it. The Count he woos your
-daughter,
-Lays down his wanton siege before her beauty,
-Resolved to carry her. Let her in fine consent,
-As we’ll direct her how ‘tis best to bear it.
-Now his important blood will naught deny
-That she’ll demand. A ring the County wears,
-That downward hath succeeded in his house
-From son to son some four or five descents
-Since the first father wore it. This ring he holds
-In most rich choice; yet in his idle fire
-To buy his will it would not seem too dear,
-Howe’er repented after.
-WIDOW
-Now I see the bottom of your purpose.
-HELEN
-You see it lawful then. It is no more
-But that your daughter ere she seems as won
-Desires this ring; appoints him an encounter;
-In fine, delivers me to fill the time,
-Herself most chastely absent. After,
-To marry her I’ll add three thousand crowns
-To what is passed already.
-WIDOW
-I have yielded.
-Instruct my daughter how she shall persever,
-That time and place with this deceit so lawful
-May prove coherent. Every night he comes
-With musics of all sorts, and songs composed
-To her unworthiness. It nothing steads us
-To chide him from our eaves, for he persists
-As if his life lay on’t.
-HELEN
-Why then tonight
-Let us essay our plot, which if it speed
-Is wicked meaning in a lawful deed
-And lawful meaning in a wicked act,
-Where both not sin, and yet a sinful fact.
-But let’s about it. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Helen and the Widow |
+| HELEN | If you misdoubt me that I am not she,<br>I know not how I shall assure you further<br>But I shall lose the grounds I work upon. |
+| WIDOW | Though my estate be fall’n, I was well born,<br>Nothing acquainted with these businesses,<br>And would not put my reputation now<br>In any staining act. |
+| HELEN | Nor would I wish you.<br>First give me trust the Count he is my husband,<br>And what to your sworn counsel I have spoken<br>Is so from word to word, and then you cannot,<br>By the good aid that I of you shall borrow,<br>Err in bestowing it. |
+| WIDOW | I should believe you,<br>For you have showed me that which well approves<br>You’re great in fortune. |
+| HELEN | Take this purse of gold,<br>And let me buy your friendly help thus far,<br>Which I will over-pay, and pay again<br>When I have found it. The Count he woos your<br>daughter,<br>Lays down his wanton siege before her beauty,<br>Resolved to carry her. Let her in fine consent,<br>As we’ll direct her how ‘tis best to bear it.<br>Now his important blood will naught deny<br>That she’ll demand. A ring the County wears,<br>That downward hath succeeded in his house<br>From son to son some four or five descents<br>Since the first father wore it. This ring he holds<br>In most rich choice; yet in his idle fire<br>To buy his will it would not seem too dear,<br>Howe’er repented after. |
+| WIDOW | Now I see the bottom of your purpose. |
+| HELEN | You see it lawful then. It is no more<br>But that your daughter ere she seems as won<br>Desires this ring; appoints him an encounter;<br>In fine, delivers me to fill the time,<br>Herself most chastely absent. After,<br>To marry her I’ll add three thousand crowns<br>To what is passed already. |
+| WIDOW | I have yielded.<br>Instruct my daughter how she shall persever,<br>That time and place with this deceit so lawful<br>May prove coherent. Every night he comes<br>With musics of all sorts, and songs composed<br>To her unworthiness. It nothing steads us<br>To chide him from our eaves, for he persists<br>As if his life lay on’t. |
+| HELEN | Why then tonight<br>Let us essay our plot, which if it speed<br>Is wicked meaning in a lawful deed<br>And lawful meaning in a wicked act,<br>Where both not sin, and yet a sinful fact.<br>But let’s about it. Exeunt |

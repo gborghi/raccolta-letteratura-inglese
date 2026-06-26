@@ -14,22 +14,9 @@ tags:
 </nav>
 
 
-Enter Jessica and Lancelot., the clown
-JESSICA
-I am sorry thou wilt leave my father so.
-Our house is hell, and thou, a merry devil,
-Didst rob it of some taste of tediousness.
-But fare thee well. There is a ducat for thee.
-And, Lancelot, soon at supper shalt thou see
-Lorenzo, who is thy new master’s guest.
-Give him this letter, do it secretly;
-And so farewell. I would not have my father
-See me in talk with thee.
-LANCELOT Adieu. Tears exhibit my tongue, most beautiful pagan; most sweet Jew; if a Christian do not play the knave and get thee, I am much deceived. But adieu. These foolish drops do something drown my manly spirit. Adieu.
-JESSICA Farewell, good Lancelot. Exit Lancelot
-Alack, what heinous sin is it in me
-To be ashamed to be my father’s child!
-But though I am a daughter to his blood,
-I am not to his manners. O Lorenzo,
-If thou keep promise I shall end this strife,
-Become a Christian and thy loving wife. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Jessica and Lancelot., the clown |
+| JESSICA | I am sorry thou wilt leave my father so.<br>Our house is hell, and thou, a merry devil,<br>Didst rob it of some taste of tediousness.<br>But fare thee well. There is a ducat for thee.<br>And, Lancelot, soon at supper shalt thou see<br>Lorenzo, who is thy new master’s guest.<br>Give him this letter, do it secretly;<br>And so farewell. I would not have my father<br>See me in talk with thee. |
+| LANCELOT | Adieu. Tears exhibit my tongue, most beautiful pagan; most sweet Jew; if a Christian do not play the knave and get thee, I am much deceived. But adieu. These foolish drops do something drown my manly spirit. Adieu. |
+| JESSICA | Farewell, good Lancelot. Exit Lancelot<br>Alack, what heinous sin is it in me<br>To be ashamed to be my father’s child!<br>But though I am a daughter to his blood,<br>I am not to his manners. O Lorenzo,<br>If thou keep promise I shall end this strife,<br>Become a Christian and thy loving wife. Exit |

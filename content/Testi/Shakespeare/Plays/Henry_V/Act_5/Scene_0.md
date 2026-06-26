@@ -14,53 +14,11 @@ tags:
 </nav>
 
 
-Enter Chorus
-CHORUS
-Vouchsafe to those that have not read the story
-That I may prompt them—and of such as have,
-I humbly pray them to admit th‘excuse
-Of time, of numbers, and due course of things,
-Which cannot in their huge and proper life
-Be here presented. Now we bear the King
-Toward Calais. Grant him there; there seen,
-Heave him away upon your winged thoughts
-Athwart the sea. Behold, the English beach
-Pales-in the flood, with men, maids, wives, and boys,
-Whose shouts and claps out-voice the deep-mouthed
-sea,
-Which like a mighty whiffler fore the King
-Seems to prepare his way. So let him land,
-And solemnly see him set on to London.
-So swift a pace hath thought, that even now
-You may imagine him upon Blackheath,
-Where that his lords desire him to have borne
-His bruised helmet and his bended sword
-Before him through the city; he forbids it,
-Being free from vainness and self-glorious pride,
-Giving full trophy, signal, and ostent
-Quite from himself, to God. But now behold,
-In the quick forge and working-house of thought,
-How London doth pour out her citizens.
-The Mayor and all his brethren, in best sort,
-Like to the senators of th’antique Rome
-With the plebeians swarming at their heels,
-Go forth and fetch their conqu’ring Caesar in—
-As, by a lower but high-loving likelihood,
-Were now the General of our gracious Empress—
-As in good time he may—from Ireland coming,
-Bringing rebellion broached on his sword,
-How many would the peaceful city quit
-To welcome him! Much more, and much more cause,
-Did they this Harry. Now in London place him;
-As yet the lamentation of the French
-Invites the King of England’s stay at home.
-The Emperor’s coming in behalf of France,
-To order peace between them ⌈
-⌉ and omit
-All the occurrences, whatever chanced,
-Till Harry’s back-return again to France.
-There must we bring him, and myself have played
-The interim by rememb‘ring you ’tis past.
-Then brook abridgement, and your eyes advance,
-After your thoughts, straight back again to France.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Chorus |
+| CHORUS | Vouchsafe to those that have not read the story<br>That I may prompt them—and of such as have,<br>I humbly pray them to admit th‘excuse<br>Of time, of numbers, and due course of things,<br>Which cannot in their huge and proper life<br>Be here presented. Now we bear the King<br>Toward Calais. Grant him there; there seen,<br>Heave him away upon your winged thoughts<br>Athwart the sea. Behold, the English beach<br>Pales-in the flood, with men, maids, wives, and boys,<br>Whose shouts and claps out-voice the deep-mouthed<br>sea,<br>Which like a mighty whiffler fore the King<br>Seems to prepare his way. So let him land,<br>And solemnly see him set on to London.<br>So swift a pace hath thought, that even now<br>You may imagine him upon Blackheath,<br>Where that his lords desire him to have borne<br>His bruised helmet and his bended sword<br>Before him through the city; he forbids it,<br>Being free from vainness and self-glorious pride,<br>Giving full trophy, signal, and ostent<br>Quite from himself, to God. But now behold,<br>In the quick forge and working-house of thought,<br>How London doth pour out her citizens.<br>The Mayor and all his brethren, in best sort,<br>Like to the senators of th’antique Rome<br>With the plebeians swarming at their heels,<br>Go forth and fetch their conqu’ring Caesar in—<br>As, by a lower but high-loving likelihood,<br>Were now the General of our gracious Empress—<br>As in good time he may—from Ireland coming,<br>Bringing rebellion broached on his sword,<br>How many would the peaceful city quit<br>To welcome him! Much more, and much more cause,<br>Did they this Harry. Now in London place him;<br>As yet the lamentation of the French<br>Invites the King of England’s stay at home.<br>The Emperor’s coming in behalf of France, |
+| *(didascalia)* | To order peace between them |
+| *(didascalia)* |  and omit |
+| CHORUS | All the occurrences, whatever chanced,<br>Till Harry’s back-return again to France.<br>There must we bring him, and myself have played<br>The interim by rememb‘ring you ’tis past.<br>Then brook abridgement, and your eyes advance,<br>After your thoughts, straight back again to France. |
+| *(didascalia)* | Exit |

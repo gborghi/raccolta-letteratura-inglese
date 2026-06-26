@@ -13,11 +13,7 @@ tags:
 </nav>
 
 
-GRIFFITH
-Noble madam, Men’s evil manners live in brass, their virtues
-We write in water. May it please your highness
-To hear me speak his good now?
-
-KATHERINE
-Yes, good Griffith,
-I were malicious else.
+| Chi parla | Battuta |
+|---|---|
+| GRIFFITH | Noble madam, Men’s evil manners live in brass, their virtues We write in water. May it please your highness To hear me speak his good now? |
+| KATHERINE | Yes, good Griffith, I were malicious else. |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Gerald (a schoolmaster), five Countrymen, one of whom is dressed as a Babion, five Wenches, and Timothy, a taborer. All are attired as morris dancers
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Gerald (a schoolmaster), five Countrymen, one of whom is dressed as a Babion, five Wenches, and Timothy, a taborer. All are attired as morris dancers |

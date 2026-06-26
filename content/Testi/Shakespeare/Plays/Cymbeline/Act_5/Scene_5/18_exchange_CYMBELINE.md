@@ -13,17 +13,8 @@ tags:
 </nav>
 
 
-CYMBELINE
-Nursing of my sons?
-
-BELARIUS
-I am too blunt and saucy. (Kneeling) Here’s my knee.
-Ere I arise I will prefer my sons,
-Then spare not the old father. Mighty sir,
-These two young gentlemen that call me father
-And think they are my sons are none of mine.
-They are the issue of your loins, my liege,
-And blood of your begetting.
-
-CYMBELINE
-How, my issue?
+| Chi parla | Battuta |
+|---|---|
+| CYMBELINE | Nursing of my sons? |
+| BELARIUS | I am too blunt and saucy. (Kneeling) Here’s my knee. Ere I arise I will prefer my sons, Then spare not the old father. Mighty sir, These two young gentlemen that call me father And think they are my sons are none of mine. They are the issue of your loins, my liege, And blood of your begetting. |
+| CYMBELINE | How, my issue? |

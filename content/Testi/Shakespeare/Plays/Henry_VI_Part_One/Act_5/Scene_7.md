@@ -14,153 +14,27 @@ tags:
 </nav>
 
 
-Enter the Earl of Suffolk, in conference with King Henry, and the Dukes of Gloucester and Exeter
-KING HENRY (to Suffolk)
-Your wondrous rare description, noble Earl,
-Of beauteous Margaret hath astonished me.
-Her virtues gracèd with external gifts
-Do breed love’s settled passions in my heart,
-And like as rigour of tempestuous gusts
-Provokes the mightiest hulk against the tide,
-So am I driven by breath of her renown
-Either to suffer shipwreck or arrive
-Where I may have fruition of her love.
-SUFFOLK
-Tush, my good lord, this superficial tale
-Is but a preface of her worthy praise.
-The chief perfections of that lovely dame,
-Had I sufficient skill to utter them,
-Would make a volume of enticing lines
-Able to ravish any dull conceit;
-And, which is more, she is not so divine,
-So full replete with choice of all delights,
-But with as humble lowliness of mind
-She is content to be at your command—
-Command, I mean, of virtuous chaste intents,
-To love and honour Henry as her lord.
-KING HENRY
-And otherwise will Henry ne‘er presume.
-(To Gloucester) Therefore, my lord Protector, give
-consent
-That Marg’ret may be England’s royal queen.
-GLOUCESTER
-So should I give consent to flatter sin.
-You know, my lord, your highness is betrothed
-Unto another lady of esteem.
-How shall we then dispense with that contract
-And not deface your honour with reproach?
-SUFFOLK
-As doth a ruler with unlawful oaths,
-Or one that, at a triumph having vowed
-To try his strength, forsaketh yet the lists
-By reason of his adversary’s odds.
-A poor earl’s daughter is unequal odds,
-And therefore may be broke without offence.
-GLOUCESTER
-Why, what, I pray, is Margaret more than that?
-Her father is no better than an earl,
-Although in glorious titles he excel.
-SUFFOLK
-Yes, my lord; her father is a king,
-The King of Naples and Jerusalem,
-And of such great authority in France
-As his alliance will confirm our peace
-And keep the Frenchmen in allegiance.
-GLOUCESTER
-And so the Earl of Armagnac may do,
-Because he is near kinsman unto Charles.
-EXETER
-Beside, his wealth doth warrant a liberal dower,
-Where René sooner will receive than give.
-SUFFOLK
-A dower, my lords? Disgrace not so your King
-That he should be so abject, base, and poor
-To choose for wealth and not for perfect love.
-Henry is able to enrich his queen,
-And not to seek a queen to make him rich.
-So worthless peasants bargain for their wives,
-As market men for oxen, sheep, or horse.
-Marriage is a matter of more worth
-Than to be dealt in by attorneyship.
-Not whom we will but whom his grace affects
-Must be companion of his nuptial bed.
-And therefore, lords, since he affects her most,
-That most of all these reasons bindeth us:
-In our opinions she should be preferred.
-For what is wedlock forced but a hell,
-An age of discord and continual strife,
-Whereas the contrary bringeth bliss,
-And is a pattern of celestial peace.
-Whom should we match with Henry, being a king,
-But Margaret, that is daughter to a king?
-Her peerless feature joined with her birth
-Approves her fit for none but for a king.
-Her valiant courage and undaunted spirit,
-More than in women commonly is seen,
-Will answer our hope in issue of a king.
-For Henry, son unto a conqueror,
-Is likely to beget more conquerors
-If with a lady of so high resolve
-As is fair Margaret he be linked in love.
-Then yield, my lords, and here conclude with me:
-That Margaret shall be queen, and none but she.
-KING HENRY
-Whether it be through force of your report,
-My noble lord of Suffolk, or for that
-My tender youth was never yet attaint
-With any passion of inflaming love,
-I cannot tell; but this I am assured:
-I feel such sharp dissension in my breast,
-Such fierce alarums both of hope and fear,
-As I am sick with working of my thoughts.
-Take therefore shipping; post, my lord, to France;
-Agree to any covenants, and procure
-That Lady Margaret do vouchsafe to come
-To cross the seas to England and be crowned
-King Henry’s faithful and anointed queen.
-For your expenses and sufficient charge,
-Among the people gather up a tenth.
-Be gone, I say; for till you do return
-I rest perplexed with a thousand cares.
-(To Gloucester) And you, good uncle, banish all offence.
-If you do censure me by what you were,
-Not what you are, I know it will excuse
-This sudden execution of my will.
-And so conduct me where from company
-I may revolve and ruminate my grief.
-Exit ⌈with Exeter⌉
-GLOUCESTER
-Ay, grief, I fear me, both at first and last. Exit
-SIIEFOLK
-Thus Suffolk hath prevailed, and thus he goes
-As did the youthful Paris once to Greece,
-With hope to find the like event in love,
-But prosper better than the Trojan did.
-Margaret shall now be queen and rule the King;
-But I will rule both her, the King, and realm. Exit
-
-TITUS ANDRONICUS
-BY WILLIAM SHAKESPEARE, WITH GEORGE PEELE
-SHAKESPEARE’S first, most sensation-packed tragedy appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the summer of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first London performance after plague had closed the theatres from June 1592.
-By convention, Elizabethan tragedies treated historical subjects, and Titus Andronicus is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early tragedy, Romeo and Juliet) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca.
-In its time, Titus Andronicus was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of double revenge. Tamora, Queen of the Goths, seeks revenge on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and Demetrius, rape and mutilate Titus’ daughter, Lavinia. Later, Titus himself seeks revenge on Tamora and her husband, Saturninus, after Tamora’s black lover, Aaron, has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to madness, Titus, with his brother Marcus and his last surviving son, Lucius, achieves a spectacular sequence of vengeance in which he cuts Tamora’s sons’ throats, serves their flesh baked in a pie to their mother, kills Lavinia to save her from her shame, and stabs Tamora to death. Then, in rapid succession, Saturninus kills Titus and is himself killed by Lucius, who, as the new Emperor, is left with Marcus to bury the dead, to punish Aaron, and ‘To heal Rome’s harms and wipe away her woe’.
-In Titus Andronicus, as in his early history plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as well as terror in its audiences.
-THE PERSONS OF THE PLAY
-SATURNINUS, eldest son of the late Emperor of Rome; later
-Emperor
-BASSIANUS, his brother
-TITUS ANDRONICUS, a Roman nobleman, general against the Goths
-LAVINIA, daughter of Titus
-YOUNG LUCIUS, a boy, son of Lucius
-MARCUS ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son
-A CAPTAIN
-
-AEMILIUS
-
-TAMORA, Queen of the Goths, later wife of Saturninus
-AARON, a Moor, her lover
-A NURSE
-
-A CLOWN
-
-Senators, tribunes, Romans, Goths, soldiers, and attendants
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earl of Suffolk, in conference with King Henry, and the Dukes of Gloucester and Exeter |
+| KING HENRY | (to Suffolk)<br>Your wondrous rare description, noble Earl,<br>Of beauteous Margaret hath astonished me.<br>Her virtues gracèd with external gifts<br>Do breed love’s settled passions in my heart,<br>And like as rigour of tempestuous gusts<br>Provokes the mightiest hulk against the tide,<br>So am I driven by breath of her renown<br>Either to suffer shipwreck or arrive<br>Where I may have fruition of her love. |
+| SUFFOLK | Tush, my good lord, this superficial tale<br>Is but a preface of her worthy praise.<br>The chief perfections of that lovely dame,<br>Had I sufficient skill to utter them,<br>Would make a volume of enticing lines<br>Able to ravish any dull conceit;<br>And, which is more, she is not so divine,<br>So full replete with choice of all delights,<br>But with as humble lowliness of mind<br>She is content to be at your command—<br>Command, I mean, of virtuous chaste intents,<br>To love and honour Henry as her lord. |
+| KING HENRY | And otherwise will Henry ne‘er presume.<br>(To Gloucester) Therefore, my lord Protector, give<br>consent<br>That Marg’ret may be England’s royal queen. |
+| GLOUCESTER | So should I give consent to flatter sin.<br>You know, my lord, your highness is betrothed<br>Unto another lady of esteem.<br>How shall we then dispense with that contract<br>And not deface your honour with reproach? |
+| SUFFOLK | As doth a ruler with unlawful oaths,<br>Or one that, at a triumph having vowed<br>To try his strength, forsaketh yet the lists<br>By reason of his adversary’s odds.<br>A poor earl’s daughter is unequal odds,<br>And therefore may be broke without offence. |
+| GLOUCESTER | Why, what, I pray, is Margaret more than that?<br>Her father is no better than an earl,<br>Although in glorious titles he excel. |
+| SUFFOLK | Yes, my lord; her father is a king,<br>The King of Naples and Jerusalem,<br>And of such great authority in France<br>As his alliance will confirm our peace<br>And keep the Frenchmen in allegiance. |
+| GLOUCESTER | And so the Earl of Armagnac may do,<br>Because he is near kinsman unto Charles. |
+| EXETER | Beside, his wealth doth warrant a liberal dower,<br>Where René sooner will receive than give. |
+| SUFFOLK | A dower, my lords? Disgrace not so your King<br>That he should be so abject, base, and poor<br>To choose for wealth and not for perfect love.<br>Henry is able to enrich his queen,<br>And not to seek a queen to make him rich.<br>So worthless peasants bargain for their wives,<br>As market men for oxen, sheep, or horse.<br>Marriage is a matter of more worth<br>Than to be dealt in by attorneyship.<br>Not whom we will but whom his grace affects<br>Must be companion of his nuptial bed.<br>And therefore, lords, since he affects her most,<br>That most of all these reasons bindeth us:<br>In our opinions she should be preferred.<br>For what is wedlock forced but a hell,<br>An age of discord and continual strife,<br>Whereas the contrary bringeth bliss,<br>And is a pattern of celestial peace.<br>Whom should we match with Henry, being a king,<br>But Margaret, that is daughter to a king?<br>Her peerless feature joined with her birth<br>Approves her fit for none but for a king.<br>Her valiant courage and undaunted spirit,<br>More than in women commonly is seen,<br>Will answer our hope in issue of a king.<br>For Henry, son unto a conqueror,<br>Is likely to beget more conquerors<br>If with a lady of so high resolve<br>As is fair Margaret he be linked in love.<br>Then yield, my lords, and here conclude with me:<br>That Margaret shall be queen, and none but she. |
+| KING HENRY | Whether it be through force of your report,<br>My noble lord of Suffolk, or for that<br>My tender youth was never yet attaint<br>With any passion of inflaming love,<br>I cannot tell; but this I am assured:<br>I feel such sharp dissension in my breast,<br>Such fierce alarums both of hope and fear,<br>As I am sick with working of my thoughts.<br>Take therefore shipping; post, my lord, to France;<br>Agree to any covenants, and procure<br>That Lady Margaret do vouchsafe to come<br>To cross the seas to England and be crowned<br>King Henry’s faithful and anointed queen.<br>For your expenses and sufficient charge,<br>Among the people gather up a tenth.<br>Be gone, I say; for till you do return<br>I rest perplexed with a thousand cares.<br>(To Gloucester) And you, good uncle, banish all offence.<br>If you do censure me by what you were,<br>Not what you are, I know it will excuse<br>This sudden execution of my will.<br>And so conduct me where from company<br>I may revolve and ruminate my grief. |
+| *(didascalia)* | Exit with Exeter |
+| GLOUCESTER | Ay, grief, I fear me, both at first and last. Exit |
+| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes<br>As did the youthful Paris once to Greece,<br>With hope to find the like event in love,<br>But prosper better than the Trojan did.<br>Margaret shall now be queen and rule the King;<br>But I will rule both her, the King, and realm. Exit |
+| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |
+| SHAKESPEARE’S | first, most sensation-packed tragedy appeared in print, anonymously, in 1594, and a performance record dating from January of that year appears to indicate that it was then a new play. But according to its title-page it had been acted by three companies, one of which was bankrupt by the summer of 1593; and the play’s style, too, suggests that it was written earlier. During the later part of the twentieth century, scholars increasingly came round to the view that George Peele had a hand in, especially, the first act of the play. Shakespeare seems to have added a scene after its earliest performances, for Act 3, Scene 2 was first printed in the 1623 Folio. The 1594 performance record may refer to the revised play, not the original, or to the play’s first London performance after plague had closed the theatres from June 1592.<br>By convention, Elizabethan tragedies treated historical subjects, and Titus Andronicus is set in Rome during the fourth century AD; but its story (like that of Shakespeare’s other early tragedy, Romeo and Juliet) is fictitious. Whether Shakespeare invented it is an open question: the same tale is told in both a ballad and a chap-book which survive only in eighteenth-century versions but which could derive from pre-Shakespearian originals. Even if Shakespeare knew these works, they could have supplied only a skeletal narrative. His play’s spirit and style owe much to Ovid’s Metamorphoses, one of his favourite works of classical literature, which he actually brings on stage in Act 4, Scene I. Ovid’s tale of the rape of Philomela was certainly in Shakespeare’s mind as he wrote, and the play’s more horrific elements owe something to the Roman dramatist Seneca.<br>In its time, Titus Andronicus was popular, perhaps because it combines sensational incident with high-flown rhetoric of a kind that was fashionable around 1590. It tells a story of double revenge. Tamora, Queen of the Goths, seeks revenge on her captor, Titus, for the ritual slaughter of her son Alarbus; she achieves it when her other sons, Chiron and Demetrius, rape and mutilate Titus’ daughter, Lavinia. Later, Titus himself seeks revenge on Tamora and her husband, Saturninus, after Tamora’s black lover, Aaron, has falsely led him to believe that he can save his sons’ lives by allowing his own hand to be chopped off. Though he is driven to madness, Titus, with his brother Marcus and his last surviving son, Lucius, achieves a spectacular sequence of vengeance in which he cuts Tamora’s sons’ throats, serves their flesh baked in a pie to their mother, kills Lavinia to save her from her shame, and stabs Tamora to death. Then, in rapid succession, Saturninus kills Titus and is himself killed by Lucius, who, as the new Emperor, is left with Marcus to bury the dead, to punish Aaron, and ‘To heal Rome’s harms and wipe away her woe’.<br>In Titus Andronicus, as in his early history plays, Shakespeare is at his most successful in the expression of grief and the portrayal of vigorously energetic evil. The play’s piling of horror upon horror can seem ludicrous, and the reader may be surprised by the apparent disjunction between terrifying events and the measured verse in which characters react; but a few remarkable modern productions have revealed that the play may still arouse pity as well as terror in its audiences. |
+| THE PERSONS OF THE | PLAY<br>SATURNINUS, eldest son of the late Emperor of Rome; later<br>Emperor<br>BASSIANUS, his brother |
+| TITUS | ANDRONICUS, a Roman nobleman, general against the Goths<br>LAVINIA, daughter of Titus |
+| YOUNG | LUCIUS, a boy, son of Lucius |
+| MARCUS | ANDRONICUS, a tribune of the people, Titus’ brother PUBLIUS, his son<br>A CAPTAIN |
+| AEMILIUS | TAMORA, Queen of the Goths, later wife of Saturninus<br>AARON, a Moor, her lover<br>A NURSE<br><br>A CLOWN<br><br>Senators, tribunes, Romans, Goths, soldiers, and attendants |

@@ -14,170 +14,35 @@ tags:
 </nav>
 
 
-Enter Laertes and Ophelia, his sister
-LAERTES
-My necessaries are inbarqued. Farewell.
-And, sister, as the winds give benefit
-And convoy is assistant, do not sleep
-But let me hear from you.
-OPHELIA
-Do you doubt that?
-LAERTES
-For Hamlet and the trifling of his favour,
-Hold it a fashion and a toy in blood,
-A violet in the youth of primy nature,
-Forward not permanent, sweet not lasting,
-The perfume and suppliance of a minute,
-No more.
-OPHELIA
-No more but so?
-LAERTES
-Think it no more.
-For nature crescent does not grow alone
-In thews and bulk, but as his temple waxes
-The inward service of the mind and soul
-Grows wide withal. Perhaps he loves you now,
-And now no soil nor cautel doth besmirch
-The virtue of his will; but you must fear,
-His greatness weighed, his will is not his own,
-For he himself is subject to his birth.
-He may not, as unvalued persons do,
-Carve for himself, for on his choice depends
-The sanity and health of the whole state;
-And therefore must his choice be circumscribed
-Unto the voice and yielding of that body
-Whereof he is the head. Then if he says he loves you,
-It fits your wisdom so far to believe it
-As he in his peculiar sect and force
-May give his saying deed, which is no further
-Than the main voice of Denmark goes withal.
-Then weigh what loss your honour may sustain
-If with too credent ear you list his songs,
-Or lose your heart, or your chaste treasure open
-To his unmastered importunity.
-Fear it, Ophelia, fear it, my dear sister,
-And keep within the rear of your affection,
-Out of the shot and danger of desire.
-The chariest maid is prodigal enough
-If she unmask her beauty to the moon.
-Virtue itself scapes not calumnious strokes.
-The canker galls the infants of the spring
-Too oft before their buttons be disclosed,
-And in the morn and liquid dew of youth
-Contagious blastments are most imminent.
-Be wary then; best safety lies in fear;
-Youth to itself rebels, though none else near.
-OPHELIA
-I shall th’effect of this good lesson keep
-As watchman to my heart; but, good my brother,
-Do not, as some ungracious pastors do,
-Show me the steep and thorny way to heaven
-Whilst like a puffed and reckless libertine
-Himself the primrose path of dalliance treads
-And recks not his own rede.
-LAERTES
-O fear me not.
-Enter Polonius
-I stay too long—but here my father comes.
-A double blessing is a double grace;
-Occasion smiles upon a second leave.
-POLONIUS
-Yet here, Laertes? Aboard, aboard, for shame!
-The wind sits in the shoulder of your sail,
-And you are stayed for. There—my blessing with thee,
-And these few precepts in thy memory
-See thou character. Give thy thoughts no tongue,
-Nor any unproportioned thought his act.
-Be thou familiar but by no means vulgar.
-The friends thou hast, and their adoption tried,
-Grapple them to thy soul with hoops of steel,
-But do not dull thy palm with entertainment
-Of each new-hatched unfledged comrade. Beware
-Of entrance to a quarrel, but being in,
-Bear’t that th’opposèd may beware of thee.
-Give every man thine ear but few thy voice.
-Take each man’s censure, but reserve thy judgement.
-Costly thy habit as thy purse can buy,
-But not expressed in fancy; rich not gaudy;
-For the apparel oft proclaims the man,
-And they in France of the best rank and station
-Are of all most select and generous chief in that.
-Neither a borrower nor a lender be,
-For loan oft loses both itself and friend,
-And borrowing dulls the edge of husbandry.
-This above all—to thine own self be true,
-And it must follow, as the night the day,
-Thou canst not then be false to any man.
-Farewell—my blessing season this in thee.
-LAERTES
-Most humbly do I take my leave, my lord.
-POLONIUS
-The time invites you. Go; your servants tend.
-LAERTES
-Farewell, Ophelia, and remember well
-What I have said to you.
-OPHELIA
-’Tis in my memory locked,
-And you yourself shall keep the key of it.
-LAERTES Farewell.
-Exit
-POLONIUS
-What is’t, Ophelia, he hath said to you?
-OPHELIA
-So please you, something touching the Lord Hamlet.
-POLONIUS Marry, well bethought.
-‘Tis told me he hath very oft of late
-Given private time to you, and you yourself
-Have of your audience been most free and bounteous.
-If it be so—as so ’tis put on me,
-And that in way of caution—I must tell you
-You do not understand yourself so clearly
-As it behoves my daughter and your honour.
-What is between you? Give me up the truth.
-OPHELIA
-He hath, my lord, of late made many tenders
-Of his affection to me.
-POLONIUS
-Affection, pooh! You speak like a green girl
-Unsifted in such perilous circumstance.
-Do you believe his ‘tenders’ as you call them?
-OPHELIA
-I do not know, my lord, what I should think.
-POLONIUS
-Marry, I’ll teach you: think yourself a baby
-That you have ta’en his tenders for true pay,
-Which are not sterling. Tender yourself more dearly,
-Or—not to crack the wind of the poor phrase,
-Running it thus—you’ll tender me a fool.
-OPHELIA
-My lord, he hath importuned me with love
-In honourable fashion—
-POLONIUS
-Ay, fashion you may call it. Go to, go to.
-OPHELIA
-And hath given countenance to his speech, my lord,
-With all the vows of heaven.
-POLONIUS
-Ay, springes to catch woodcocks. I do know
-When the blood burns how prodigal the soul
-Lends the tongue vows. These blazes, daughter,
-Giving more light than heat, extinct in both
-Even in their promise as it is a-making,
-You must not take for fire. From this time, daughter,
-Be somewhat scanter of your maiden presence.
-Set your entreatments at a higher rate
-Than a command to parley. For Lord Hamlet,
-Believe so much in him, that he is young,
-And with a larger tether may he walk
-Than may be given you. In few, Ophelia,
-Do not believe his vows, for they are brokers,
-Not of the dye which their investments show,
-But mere imploratators of unholy suits,
-Breathing like sanctified and pious bawds
-The better to beguile. This is for all—
-I would not, in plain terms, from this time forth
-Have you so slander any moment leisure
-As to give words or talk with the Lord Hamlet.
-Look to’t, I charge you. Come your ways.
-OPHELIA I shall obey, my lord.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Laertes and Ophelia, his sister |
+| LAERTES | My necessaries are inbarqued. Farewell.<br>And, sister, as the winds give benefit<br>And convoy is assistant, do not sleep<br>But let me hear from you. |
+| OPHELIA | Do you doubt that? |
+| LAERTES | For Hamlet and the trifling of his favour,<br>Hold it a fashion and a toy in blood,<br>A violet in the youth of primy nature,<br>Forward not permanent, sweet not lasting,<br>The perfume and suppliance of a minute,<br>No more. |
+| OPHELIA | No more but so? |
+| LAERTES | Think it no more.<br>For nature crescent does not grow alone<br>In thews and bulk, but as his temple waxes<br>The inward service of the mind and soul<br>Grows wide withal. Perhaps he loves you now,<br>And now no soil nor cautel doth besmirch<br>The virtue of his will; but you must fear,<br>His greatness weighed, his will is not his own,<br>For he himself is subject to his birth.<br>He may not, as unvalued persons do,<br>Carve for himself, for on his choice depends<br>The sanity and health of the whole state;<br>And therefore must his choice be circumscribed<br>Unto the voice and yielding of that body<br>Whereof he is the head. Then if he says he loves you,<br>It fits your wisdom so far to believe it<br>As he in his peculiar sect and force<br>May give his saying deed, which is no further<br>Than the main voice of Denmark goes withal.<br>Then weigh what loss your honour may sustain<br>If with too credent ear you list his songs,<br>Or lose your heart, or your chaste treasure open<br>To his unmastered importunity.<br>Fear it, Ophelia, fear it, my dear sister,<br>And keep within the rear of your affection,<br>Out of the shot and danger of desire.<br>The chariest maid is prodigal enough<br>If she unmask her beauty to the moon.<br>Virtue itself scapes not calumnious strokes.<br>The canker galls the infants of the spring<br>Too oft before their buttons be disclosed,<br>And in the morn and liquid dew of youth<br>Contagious blastments are most imminent.<br>Be wary then; best safety lies in fear;<br>Youth to itself rebels, though none else near. |
+| OPHELIA | I shall th’effect of this good lesson keep<br>As watchman to my heart; but, good my brother,<br>Do not, as some ungracious pastors do,<br>Show me the steep and thorny way to heaven<br>Whilst like a puffed and reckless libertine<br>Himself the primrose path of dalliance treads<br>And recks not his own rede. |
+| LAERTES | O fear me not. |
+| *(didascalia)* | Enter Polonius |
+| LAERTES | I stay too long—but here my father comes.<br>A double blessing is a double grace;<br>Occasion smiles upon a second leave. |
+| POLONIUS | Yet here, Laertes? Aboard, aboard, for shame!<br>The wind sits in the shoulder of your sail,<br>And you are stayed for. There—my blessing with thee,<br>And these few precepts in thy memory<br>See thou character. Give thy thoughts no tongue,<br>Nor any unproportioned thought his act.<br>Be thou familiar but by no means vulgar.<br>The friends thou hast, and their adoption tried,<br>Grapple them to thy soul with hoops of steel,<br>But do not dull thy palm with entertainment<br>Of each new-hatched unfledged comrade. Beware<br>Of entrance to a quarrel, but being in,<br>Bear’t that th’opposèd may beware of thee.<br>Give every man thine ear but few thy voice.<br>Take each man’s censure, but reserve thy judgement.<br>Costly thy habit as thy purse can buy,<br>But not expressed in fancy; rich not gaudy;<br>For the apparel oft proclaims the man,<br>And they in France of the best rank and station<br>Are of all most select and generous chief in that.<br>Neither a borrower nor a lender be,<br>For loan oft loses both itself and friend,<br>And borrowing dulls the edge of husbandry.<br>This above all—to thine own self be true,<br>And it must follow, as the night the day,<br>Thou canst not then be false to any man.<br>Farewell—my blessing season this in thee. |
+| LAERTES | Most humbly do I take my leave, my lord. |
+| POLONIUS | The time invites you. Go; your servants tend. |
+| LAERTES | Farewell, Ophelia, and remember well<br>What I have said to you. |
+| OPHELIA | ’Tis in my memory locked,<br>And you yourself shall keep the key of it. |
+| LAERTES | Farewell. |
+| *(didascalia)* | Exit |
+| POLONIUS | What is’t, Ophelia, he hath said to you? |
+| OPHELIA | So please you, something touching the Lord Hamlet. |
+| POLONIUS | Marry, well bethought.<br>‘Tis told me he hath very oft of late<br>Given private time to you, and you yourself<br>Have of your audience been most free and bounteous.<br>If it be so—as so ’tis put on me,<br>And that in way of caution—I must tell you<br>You do not understand yourself so clearly<br>As it behoves my daughter and your honour.<br>What is between you? Give me up the truth. |
+| OPHELIA | He hath, my lord, of late made many tenders<br>Of his affection to me. |
+| POLONIUS | Affection, pooh! You speak like a green girl<br>Unsifted in such perilous circumstance.<br>Do you believe his ‘tenders’ as you call them? |
+| OPHELIA | I do not know, my lord, what I should think. |
+| POLONIUS | Marry, I’ll teach you: think yourself a baby<br>That you have ta’en his tenders for true pay,<br>Which are not sterling. Tender yourself more dearly,<br>Or—not to crack the wind of the poor phrase,<br>Running it thus—you’ll tender me a fool. |
+| OPHELIA | My lord, he hath importuned me with love<br>In honourable fashion— |
+| POLONIUS | Ay, fashion you may call it. Go to, go to. |
+| OPHELIA | And hath given countenance to his speech, my lord,<br>With all the vows of heaven. |
+| POLONIUS | Ay, springes to catch woodcocks. I do know<br>When the blood burns how prodigal the soul<br>Lends the tongue vows. These blazes, daughter,<br>Giving more light than heat, extinct in both<br>Even in their promise as it is a-making,<br>You must not take for fire. From this time, daughter,<br>Be somewhat scanter of your maiden presence.<br>Set your entreatments at a higher rate<br>Than a command to parley. For Lord Hamlet,<br>Believe so much in him, that he is young,<br>And with a larger tether may he walk<br>Than may be given you. In few, Ophelia,<br>Do not believe his vows, for they are brokers,<br>Not of the dye which their investments show,<br>But mere imploratators of unholy suits,<br>Breathing like sanctified and pious bawds<br>The better to beguile. This is for all—<br>I would not, in plain terms, from this time forth<br>Have you so slander any moment leisure<br>As to give words or talk with the Lord Hamlet.<br>Look to’t, I charge you. Come your ways. |
+| OPHELIA | I shall obey, my lord. |
+| *(didascalia)* | Exeunt |

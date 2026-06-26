@@ -13,5 +13,6 @@ tags:
 </nav>
 
 
-KING RICHARD
-Why uncle, what’s the matter?
+| Chi parla | Battuta |
+|---|---|
+| KING RICHARD | Why uncle, what’s the matter? |

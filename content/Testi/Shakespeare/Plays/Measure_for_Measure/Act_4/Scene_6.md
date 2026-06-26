@@ -14,27 +14,13 @@ tags:
 </nav>
 
 
-Enter Isabella and Mariana
-ISABELLA
-To speak so indirectly I am loath—
-I would say the truth, but to accuse him so,
-That is your part—yet I am advised to do it,
-He says, to veil full purpose.
-MARIANA
-Be ruled by him.
-ISABELLA
-Besides, he tells me that if peradventure
-He speak against me on the adverse side,
-I should not think it strange, for ’tis a physic
-That’s bitter to sweet end.
-Enter Friar Peter
-MARIANA I would Friar Peter—
-ISABELLA O, peace; the friar is come.
-FRIAR PETER
-Come, I have found you out a stand most fit,
-Where you may have such vantage on the Duke
-He shall not pass you. Twice have the trumpets
-sounded.
-The generous and gravest citizens
-Have hent the gates, and very near upon
-The Duke is ent’ring; therefore hence, away. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Isabella and Mariana |
+| ISABELLA | To speak so indirectly I am loath—<br>I would say the truth, but to accuse him so,<br>That is your part—yet I am advised to do it,<br>He says, to veil full purpose. |
+| MARIANA | Be ruled by him. |
+| ISABELLA | Besides, he tells me that if peradventure<br>He speak against me on the adverse side,<br>I should not think it strange, for ’tis a physic<br>That’s bitter to sweet end. |
+| *(didascalia)* | Enter Friar Peter |
+| MARIANA | I would Friar Peter— |
+| ISABELLA | O, peace; the friar is come. |
+| FRIAR PETER | Come, I have found you out a stand most fit,<br>Where you may have such vantage on the Duke<br>He shall not pass you. Twice have the trumpets<br>sounded.<br>The generous and gravest citizens<br>Have hent the gates, and very near upon<br>The Duke is ent’ring; therefore hence, away. Exeunt |

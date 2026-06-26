@@ -13,8 +13,7 @@ tags:
 </nav>
 
 
-BARDOLPH
-The army is discharged all and gone.
-
-SIR JOHN Let them go. I’ll through Gloucestershire, and there will I visit Master Robert Shallow, Esquire. I have him already tempering between my finger and my thumb, and shortly will I seal with him. Come, away!
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| BARDOLPH | The army is discharged all and gone. |
+| SIR JOHN | Let them go. I’ll through Gloucestershire, and there will I visit Master Robert Shallow, Esquire. I have him already tempering between my finger and my thumb, and shortly will I seal with him. Come, away! Exeunt |

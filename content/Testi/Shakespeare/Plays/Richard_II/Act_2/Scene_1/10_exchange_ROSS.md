@@ -13,20 +13,9 @@ tags:
 </nav>
 
 
-ROSS
-We see the very wreck that we must suffer,
-And unavoided is the danger now
-For suffering so the causes of our wreck.
-
-NORTHUMBERLAND
-Not so: even through the hollow eyes of death
-I spy life peering; but I dare not say
-How near the tidings of our comfort is.
-
-WILLOUGHBY
-Nay, let us share thy thoughts, as thou dost ours.
-
-ROSS
-Be confident to speak, Northumberland.
-We three are but thyself, and, speaking so,
-Thy words are but as thoughts. Therefore be bold.
+| Chi parla | Battuta |
+|---|---|
+| ROSS | We see the very wreck that we must suffer, And unavoided is the danger now For suffering so the causes of our wreck. |
+| NORTHUMBERLAND | Not so: even through the hollow eyes of death I spy life peering; but I dare not say How near the tidings of our comfort is. |
+| WILLOUGHBY | Nay, let us share thy thoughts, as thou dost ours. |
+| ROSS | Be confident to speak, Northumberland. We three are but thyself, and, speaking so, Thy words are but as thoughts. Therefore be bold. |

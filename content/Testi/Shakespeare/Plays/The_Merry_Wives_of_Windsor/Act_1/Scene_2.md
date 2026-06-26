@@ -14,7 +14,9 @@ tags:
 </nav>
 
 
-Enter Sir Hugh Evans and Simple, ⌈from dinner⌉
-EVANS Go your ways, and ask of Doctor Caius’ house which is the way. And there dwells one Mistress Quickly, which is in the manner of his ’oman, or his dry-nurse, or his cook, or his laundry, his washer, and his wringer.
-SIMPLE Well, sir.
-EVANS Nay, it is petter yet. Give her this letter, for it is a ’oman that altogethers acquaintance with Mistress Anne Page. And the letter is to desire and require her to solicit your master’s desires to Mistress Anne Page. I pray you be gone. ⌈Exit Simple⌉ I will make an end of my dinner; there’s pippins and cheese to come. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sir Hugh Evans and Simple, from dinner |
+| EVANS | Go your ways, and ask of Doctor Caius’ house which is the way. And there dwells one Mistress Quickly, which is in the manner of his ’oman, or his dry-nurse, or his cook, or his laundry, his washer, and his wringer. |
+| SIMPLE | Well, sir. |
+| *(didascalia)* | EVANS Nay, it is petter yet. Give her this letter, for it is a ’oman that altogethers acquaintance with Mistress Anne Page. And the letter is to desire and require her to solicit your master’s desires to Mistress Anne Page. I pray you be gone. Exit Simple I will make an end of my dinner; there’s pippins and cheese to come. Exit |

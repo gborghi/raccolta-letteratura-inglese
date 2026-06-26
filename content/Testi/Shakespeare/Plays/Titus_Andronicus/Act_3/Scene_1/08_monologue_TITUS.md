@@ -13,31 +13,7 @@ tags:
 </nav>
 
 
-TITUS
-Why, I have not another tear to shed.
-Besides, this sorrow is an enemy,
-And would usurp upon my wat’ry eyes
-And make them blind with tributary tears.
-Then which way shall I find Revenge’s cave?—
-For these two heads do seem to speak to me
-And threat me I shall never come to bliss
-Till all these mischiefs be returned again
-Even in their throats that hath committed them.
-Come, let me see what task I have to do.
-⌈He and Lavinia rise⌉
-You heavy people, circle me about,
-That I may turn me to each one of you
-And swear unto my soul to right your wrongs.
-Marcus, Lucius, and Lavinia circle Titus. He
-
-pledges them
-The vow is made. Come, brother, take a head,
-And in this hand the other will I bear.
-And Lavinia, thou shalt be employed.
-Bear thou my hand, sweet wench, between thine arms.
-As for thee, boy, go get thee from my sight.
-Thou art an exile and thou must not stay.
-Hie to the Goths, and raise an army there,
-And if ye love me, as I think you do,
-Let’s kiss and part, for we have much to do.
-They kiss. Exeunt all but Lucius
+| Chi parla | Battuta |
+|---|---|
+| TITUS | Why, I have not another tear to shed. Besides, this sorrow is an enemy, And would usurp upon my wat’ry eyes And make them blind with tributary tears. Then which way shall I find Revenge’s cave?— For these two heads do seem to speak to me And threat me I shall never come to bliss Till all these mischiefs be returned again Even in their throats that hath committed them. Come, let me see what task I have to do. He and Lavinia rise You heavy people, circle me about, That I may turn me to each one of you And swear unto my soul to right your wrongs. Marcus, Lucius, and Lavinia circle Titus. He |
+| TITUS | pledges them The vow is made. Come, brother, take a head, And in this hand the other will I bear. And Lavinia, thou shalt be employed. Bear thou my hand, sweet wench, between thine arms. As for thee, boy, go get thee from my sight. Thou art an exile and thou must not stay. Hie to the Goths, and raise an army there, And if ye love me, as I think you do, Let’s kiss and part, for we have much to do. They kiss. Exeunt all but Lucius |

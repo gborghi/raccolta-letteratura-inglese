@@ -14,451 +14,62 @@ tags:
 </nav>
 
 
-Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, and Menelaus, with others
-AGAMEMNON
-Princes, what grief hath set the jaundice on your
-cheeks?
-The ample proposition that hope makes
-In all designs begun on earth below
-Fails in the promised largeness. Checks and disasters
-Grow in the veins of actions highest reared,
-As knots, by the conflux of meeting sap,
-Infects the sound pine and diverts his grain
-Tortive and errant from his course of growth.
-Nor, princes, is it matter new to us
-That we come short of our suppose so far
-That after seven years’ siege yet Troy walls stand,
-Sith every action that hath gone before,
-Whereof we have record, trial did draw
-Bias and thwart, not answering the aim
-And that unbodied figure of the thought
-That gave’t surmised shape. Why then, you princes,
-Do you with cheeks abashed behold our works,
-And think them shames, which are indeed naught else
-But the protractive trials of great Jove
-To find persistive constancy in men?
-The fineness of which mettle is not found
-In fortune’s love—for then the bold and coward,
-The wise and fool, the artist and unread,
-The hard and soft, seem all affined and kin.
-But in the wind and tempest of her frown
-Distinction with a loud and powerful fan,
-Puffing at all, winnows the light away,
-And what hath mass or matter by itself
-Lies rich in virtue and unminglèd.
-NESTOR
-With due observance of thy godly seat,
-Great Agamemnon, Nestor shall apply
-Thy latest words. In the reproof of chance
-Lies the true proof of men. The sea being smooth,
-How many shallow bauble-boats dare sail
-Upon her patient breast, making their way
-With those of nobler bulk!
-But let the ruffian Boreas once enrage
-The gentle Thetis, and anon behold
-The strong-ribbed barque through liquid mountains
-cut,
-Bounding between the two moist elements
-Like Perseus’ horse. Where’s then the saucy boat
-Whose weak untimbered sides but even now
-Co-rivalled greatness? Either to harbour fled,
-Or made a toast for Neptune. Even so
-Doth valour’s show and valour’s worth divide
-In storms of fortune. For in her ray and brightness
-The herd hath more annoyance by the breese
-Than by the tiger; but when the splitting wind
-Makes flexible the knees of knotted oaks
-And flies flee under shade, why then the thing of
-courage,
-As roused with rage, with rage doth sympathize,
-And with an accent tuned in selfsame key
-Retorts to chiding fortune.
-ULYSSES Agamemnon,
-Thou great commander, nerve and bone of Greece,
-Heart of our numbers, soul and only spirit
-In whom the tempers and the minds of all
-Should be shut up, hear what Ulysses speaks.
-Besides th’applause and approbation
-The which, (to Agamemnon) most mighty for thy place
-and sway,
-And thou, (to Nestor) most reverend for thy stretched-out
-life,
-I give to both your speeches—which were such
-As, Agamemnon, every hand of Greece
-Should hold up high in brass, and such again
-As, venerable Nestor, hatched in silver,
-Should with a bond of air, strong as the axle-tree
-On which the heavens ride, knit all Greeks’ ears
-To his experienced tongue—yet let it please both,
-Thou (to Agamemnon) great, and (to Nestor) wise, to
-hear Ulysses speak.
-AGAMEMNON
-Speak, Prince of Ithaca, and be’t of less expect
-That matter needless, of importless burden,
-Divide thy lips, than we are confident
-When rank Thersites opes his mastic jaws
-We shall hear music, wit, and oracle.
-ULYSSES
-Troy, yet upon his basis, had been down
-And the great Hector’s sword had lacked a master
-But for these instances:
-The specialty of rule hath been neglected.
-And look how many Grecian tents do stand
-Hollow upon this plain: so many hollow factions.
-When that the general is not like the hive
-To whom the foragers shall all repair,
-What honey is expected? Degree being vizarded,
-Th’unworthiest shows as fairly in the masque
-⌈ ⌉.
-The heavens themselves, the planets, and this centre
-Observe degree, priority, and place,
-Infixture, course, proportion, season, form,
-Office and custom, in all line of order.
-And therefore is the glorious planet Sol
-In noble eminence enthroned and sphered
-Amidst the other, whose med‘cinable eye
-Corrects the ill aspects of planets evil
-And posts like the commandment of a king,
-Sans check, to good and bad. But when the planets
-In evil mixture to disorder wander,
-What plagues and what portents, what mutiny?
-What raging of the sea, shaking of earth?
-Commotion in the winds, frights, changes, horrors
-Divert and crack, rend and deracinate
-The unity and married calm of states
-Quite from their fixture. O when degree is shaked,
-Which is the ladder to all high designs,
-The enterprise is sick. How could communities,
-Degrees in schools, and brotherhoods in cities,
-Peaceful commerce from dividable shores,
-The primogenity and due of birth,
-Prerogative of age, crowns, sceptres, laurels,
-But by degree stand in authentic place?
-Take but degree away, untune that string,
-And hark what discord follows. Each thing meets no
-In mere oppugnancy. The bounded waters
-Should lift their bosoms higher than the shores
-And make a sop of all this solid globe;
-Strength should be lord of imbecility,
-And the rude son should strike his father dead.
-Force should be right—or rather, right and wrong,
-Between whose endless jar justice resides,
-Should lose their names, and so should justice too.
-Then everything includes itself in power,
-Power into will, will into appetite;
-And appetite, an universal wolf,
-So doubly seconded with will and power,
-Must make perforce an universal prey,
-And last eat up himself. Great Agamemnon,
-This chaos, when degree is suffocate,
-Follows the choking.
-And this neglection of degree it is
-That by a pace goes backward in a purpose
-It hath to climb. The general’s disdained
-By him one step below; he, by the next;
-That next, by him beneath. So every step,
-Exampled by the first pace that is sick
-Of his superior, grows to an envious fever
-Of pale and bloodless emulation.
-And ’tis this fever that keeps Troy on foot,
-Not her own sinews. To end a tale of length:
-Troy in our weakness lives, not in her strength.
-NESTOR
-Most wisely hath Ulysses here discovered
-The fever whereof all our power is sick.
-AGAMEMNON
-The nature of the sickness found, Ulysses,
-What is the remedy?
-ULYSSES
-The great Achilles, whom opinion crowns
-The sinew and the forehand of our host,
-Having his ear full of his airy fame
-Grows dainty of his worth, and in his tent
-Lies mocking our designs. With him Patroclus
-Upon a lazy bed the livelong day
-Breaks scurrile jests
-And, with ridiculous and awkward action
-Which, slanderer, he ‘imitation’ calls,
-He pageants us. Sometime, great Agamemnon,
-Thy topless deputation he puts on,
-And like a strutting player, whose conceit
-Lies in his hamstring and doth think it rich
-To hear the wooden dialogue and sound
-’Twixt his stretched footing and the scaffoldage,
-Such to-be-pitied and o‘er-wrested seeming
-He acts thy greatness in. And when he speaks
-’Tis like a chime a-mending, with terms unsquared
-Which from the tongue of roaring Typhon dropped
-Would seem hyperboles. At this fusty stuff
-The large Achilles on his pressed bed lolling
-From his deep chest laughs out a loud applause,
-Cries ‘Excellent! ’Tis Agamemnon just.
-Now play me Nestor, hem and stroke thy beard,
-As he being dressed to some oration.’
-That’s done as near as the extremest ends
-Of parallels, as like as Vulcan and his wife.
-Yet god Achilles still cries, ‘Excellent!
-‘Tis Nestor right. Now play him me, Patroclus,
-Arming to answer in a night alarm’.
-And then forsooth the faint defects of age
-Must be the scene of mirth: to cough and spit,
-And with a palsy, fumbling on his gorget,
-Shake in and out the rivet. And at this sport
-Sir Valour dies, cries, ‘O enough, Patroclus!
-Or give me ribs of steel. I shall split all
-In pleasure of my spleen.’ And in this fashion
-All our abilities, gifts, natures, shapes,
-Severals and generals of grace exact,
-Achievements, plots, orders, preventions,
-Excitements to the field or speech for truce,
-Success or loss, what is or is not, serves
-As stuff for these two to make paradoxes.
-NESTOR
-And in the imitation of these twain
-Who, as Ulysses says, opinion crowns
-With an imperial voice, many are infect.
-Ajax is grown self-willed and bears his head
-In such a rein, in full as proud a place
-As broad Achilles, and keeps his tent like him,
-Makes factious feasts, rails on our state of war
-Bold as an oracle, and sets Thersites,
-A slave whose gall coins slanders like a mint,
-To match us in comparisons with dirt,
-To weaken and discredit our exposure,
-How rank so ever rounded in with danger.
-ULYSSES
-They tax our policy and call it cowardice,
-Count wisdom as no member of the war,
-Forestall prescience and esteem no act
-But that of hand. The still and mental parts
-That do contrive how many hands shall strike
-When fitness calls them on, and know by measure
-Of their observant toil the enemy’s weight,
-Why, this hath not a finger’s dignity.
-They call this ‘bed-work’, ‘mapp’ry’, ‘closet war’.
-So that the ram that batters down the wall,
-For the great swinge and rudeness of his poise
-They place before his hand that made the engine,
-Or those that with the finesse of their souls
-By reason guide his execution.
-NESTOR
-Let this be granted, and Achilles’ horse
-Makes many Thetis’ sons.
-Tucket
-AGAMEMNON
-What trumpet?
-Look, Menelaus.
-MENELAUS
-From Troy.
-Enter Aeneas ⌈and a trumpeter⌉
-AGAMEMNON What would you fore our tent?
-AENEAS
-Is this great Agamemnon’s tent I pray you?
-AGAMEMNON Even this.
-AENEAS
-May one that is a herald and a prince
-Do a fair message to his kingly ears?
-AGAMEMNON
-With surety stronger than Achilles’ arm,
-Fore all the Greekish heads, which with one voice
-Call Agamemnon heart and general.
-AENEAS
-Fair leave and large security. How may
-A stranger to those most imperial looks
-Know them from eyes of other mortals?
-AGAMEMNON How?
-AENEAS
-Ay, I ask that I might waken reverence
-And on the cheek be ready with a blush
-Modest as morning when she coldly eyes
-The youthful Phoebus.
-Which is that god in office, guiding men?
-Which is the high and mighty Agamemnon?
-AGAMEMNON (to the Greeks)
-This Trojan scorns us, or the men of Troy
-Are ceremonious courtiers.
-AENEAS
-Courtiers as free, as debonair, unarmed,
-As bending angels—that’s their fame in peace.
-But when they would seem soldiers they have galls,
-Good arms, strong joints, true swords—and great
-Jove’s acorn
-Nothing so full of heart. But peace, Aeneas,
-Peace, Trojan; lay thy finger on thy lips.
-The worthiness of praise distains his worth,
-If that the praised himself bring the praise forth.
-But what, repining, the enemy commends,
-That breath fame blows; that praise, sole pure,
-transcends.
-AGAMEMNON
-Sir, you of Troy, call you yourself Aeneas?
-AENEAS
-Ay, Greek, that is my name.
-AGAMEMNON What’s your affair, I pray you?
-AENEAS
-Sir, pardon, ’tis for Agamemnon’s ears.
-AGAMEMNON
-He hears naught privately that comes from Troy.
-AENEAS
-Nor I from Troy come not to whisper him.
-I bring a trumpet to awake his ear,
-To set his sense on the attentive bent,
-And then to speak.
-AGAMEMNON Speak frankly as the wind.
-It is not Agamemnon’s sleeping hour.
-That thou shalt know, Trojan, he is awake,
-He tells thee so himself.
-AENEAS Trumpet, blow loud.
-Send thy brass voice through all these lazy tents,
-And every Greek of mettle let him know
-What Troy means fairly shall be spoke aloud.
-The trumpet sounds
-We have, great Agamemnon, here in Troy
-A prince called Hector—Priam is his father—
-Who in this dull and long-continued truce
-Is resty grown. He bade me take a trumpet
-And to this purpose speak: ‘Kings, princes, lords,
-If there be one among the fair’st of Greece
-That holds his honour higher than his ease,
-That seeks his praise more than he fears his peril,
-That knows his valour and knows not his fear,
-That loves his mistress more than in confession
-With truant vows to her own lips he loves,
-And dare avow her beauty and her worth
-In other arms than hers—to him this challenge.
-Hector in view of Trojans and of Greeks
-Shall make it good, or do his best to do it:
-He hath a lady wiser, fairer, truer,
-Than ever Greek did compass in his arms,
-And will tomorrow with his trumpet call
-Midway between your tents and walls of Troy
-To rouse a Grecian that is true in love.
-If any come, Hector shall honour him.
-If none, he’ll say in Troy when he retires
-The Grecian dames are sunburnt and not worth
-The splinter of a lance.’ Even so much.
-AGAMEMNON
-This shall be told our lovers, Lord Aeneas.
-If none of them have soul in such a kind,
-We left them all at home. But we are soldiers,
-And may that soldier a mere recreant prove
-That means not, hath not, or is not in love.
-If then one is, or hath, or means to be,
-That one meets Hector. If none else, I’ll be he.
-NESTOR (to
-Aeneas)
-Tell him of Nestor, one that was a man
-When Hector’s grandsire sucked. He is old now,
-But if there be not in our Grecian mould
-One noble man that hath one spark of fire
-To answer for his love, tell him from me
-I’ll hide my silver beard in a gold beaver
-And in my vambrace put this withered brawn,
-And meeting him will tell him that my lady
-Was fairer than his grandam, and as chaste
-As may be in the world. His youth in flood,
-I’ll prove this truth with my three drops of blood.
-AENEAS
-Now heavens forbid such scarcity of youth.
-ULYSSES Amen.
-AGAMEMNON
-Fair Lord Aeneas, let me touch your hand.
-To our pavilion shall I lead you first.
-Achilles shall have word of this intent;
-So shall each lord of Greece, from tent to tent.
-Yourself shall feast with us before you go,
-And find the welcome of a noble foe.
-Exeunt all but Ulysses and Nestor
-ULYSSES
-Nestor!
-NESTOR What says Ulysses?
-ULYSSES I have a young
-Conception in my brain; be you my time
-To bring it to some shape.
-NESTOR What is’t?
-ULYSSES This ’tis:
-Blunt wedges rive hard knots. The seeded pride
-That hath to this maturity blown up
-In rank Achilles must or now be cropped
-Or, shedding, breed a nursery of like evil
-To overbulk us all.
-NESTOR Well, and how?
-ULYSSES
-This challenge that the gallant Hector sends,
-However it is spread in general name,
-Relates in purpose only to Achilles.
-NESTOR
-The purpose is perspicuous, even as substance
-Whose grossness little characters sum up.
-And, in the publication, make no strain
-But that Achilles, were his brain as barren
-As banks of Libya—though, Apollo knows,
-’Tis dry enough—will with great speed of judgement,
-Ay with celerity, find Hector’s purpose
-Pointing on him.
-ULYSSES
-And wake him to the answer, think you?
-NESTOR
-Yes, ‘tis most meet. Who may you else oppose,
-That can from Hector bring his honour off,
-If not Achilles? Though’t be a sportful combat,
-Yet in this trial much opinion dwells,
-For here the Trojans taste our dear’st repute
-With their fin‘st palate. And trust to me, Ulysses,
-Our imputation shall be oddly poised
-In this wild action: for the success,
-Although particular, shall give a scantling
-Of good or bad unto the general—
-And in such indices, although small pricks
-To their subsequent volumes, there is seen
-The baby figure of the giant mass
-Of things to come at large. It is supposed
-He that meets Hector issues from our choice,
-And choice, being mutual act of all our souls,
-Makes merit her election, and doth boil,
-As ’twere, from forth us all a man distilled
-Out of our virtues—who miscarrying,
-What heart from hence receives the conqu‘ring part
-To steel a strong opinion to themselves?
-Which entertained, limbs are e’en his instruments,
-In no less working than are swords and bows
-Directive by the limbs.
-ULYSSES Give pardon to my speech:
-Therefore ’tis meet Achilles meet not Hector.
-Let us like merchants show our foulest wares
-And think perchance they’ll sell. If not,
-The lustre of the better yet to show
-Shall show the better. Do not consent
-That ever Hector and Achilles meet,
-For both our honour and our shame in this
-Are dogged with two strange followers.
-NESTOR
-I see them not with my old eyes. What are they?
-ULYSSES
-What glory our Achilles shares from Hector,
-Were he not proud we all should wear with him.
-But he already is too insolent,
-And we were better parch in Afric sun
-Than in the pride and salt scorn of his eyes,
-Should he scape Hector fair. If he were foiled,
-Why then we did our main opinion crush
-In taint of our best man. No, make a lott’ry,
-And by device let blockish Ajax draw
-The sort to fight with Hector. Among ourselves
-Give him allowance as the worthier man—
-For that will physic the great Myrmidon,
-Who broils in loud applause, and make him fall
-His crest, that prouder than blue Iris bends.
-If the dull brainless Ajax come safe off,
-We’ll dress him up in voices; if he fail,
-Yet go we under our opinion still
-That we have better men. But hit or miss,
-Our project’s life this shape of sense assumes:
-Ajax employed plucks down Achilles’ plumes.
-NESTOR
-Now, Ulysses, I begin to relish thy advice,
-And I will give a taste of it forthwith
-To Agamemnon. Go we to him straight.
-Two curs shall tame each other; pride alone
-Must tarre the mastiffs on, as ’twere their bone.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, and Menelaus, with others |
+| AGAMEMNON | Princes, what grief hath set the jaundice on your<br>cheeks?<br>The ample proposition that hope makes<br>In all designs begun on earth below<br>Fails in the promised largeness. Checks and disasters<br>Grow in the veins of actions highest reared,<br>As knots, by the conflux of meeting sap,<br>Infects the sound pine and diverts his grain<br>Tortive and errant from his course of growth.<br>Nor, princes, is it matter new to us<br>That we come short of our suppose so far<br>That after seven years’ siege yet Troy walls stand,<br>Sith every action that hath gone before,<br>Whereof we have record, trial did draw<br>Bias and thwart, not answering the aim<br>And that unbodied figure of the thought<br>That gave’t surmised shape. Why then, you princes,<br>Do you with cheeks abashed behold our works,<br>And think them shames, which are indeed naught else<br>But the protractive trials of great Jove<br>To find persistive constancy in men?<br>The fineness of which mettle is not found<br>In fortune’s love—for then the bold and coward,<br>The wise and fool, the artist and unread,<br>The hard and soft, seem all affined and kin.<br>But in the wind and tempest of her frown<br>Distinction with a loud and powerful fan,<br>Puffing at all, winnows the light away,<br>And what hath mass or matter by itself<br>Lies rich in virtue and unminglèd. |
+| NESTOR | With due observance of thy godly seat,<br>Great Agamemnon, Nestor shall apply<br>Thy latest words. In the reproof of chance<br>Lies the true proof of men. The sea being smooth,<br>How many shallow bauble-boats dare sail<br>Upon her patient breast, making their way<br>With those of nobler bulk!<br>But let the ruffian Boreas once enrage<br>The gentle Thetis, and anon behold<br>The strong-ribbed barque through liquid mountains<br>cut,<br>Bounding between the two moist elements<br>Like Perseus’ horse. Where’s then the saucy boat<br>Whose weak untimbered sides but even now<br>Co-rivalled greatness? Either to harbour fled,<br>Or made a toast for Neptune. Even so<br>Doth valour’s show and valour’s worth divide<br>In storms of fortune. For in her ray and brightness<br>The herd hath more annoyance by the breese<br>Than by the tiger; but when the splitting wind<br>Makes flexible the knees of knotted oaks<br>And flies flee under shade, why then the thing of<br>courage,<br>As roused with rage, with rage doth sympathize,<br>And with an accent tuned in selfsame key<br>Retorts to chiding fortune. |
+| ULYSSES | Agamemnon,<br>Thou great commander, nerve and bone of Greece,<br>Heart of our numbers, soul and only spirit<br>In whom the tempers and the minds of all<br>Should be shut up, hear what Ulysses speaks.<br>Besides th’applause and approbation<br>The which, (to Agamemnon) most mighty for thy place<br>and sway,<br>And thou, (to Nestor) most reverend for thy stretched-out<br>life,<br>I give to both your speeches—which were such<br>As, Agamemnon, every hand of Greece<br>Should hold up high in brass, and such again<br>As, venerable Nestor, hatched in silver,<br>Should with a bond of air, strong as the axle-tree<br>On which the heavens ride, knit all Greeks’ ears<br>To his experienced tongue—yet let it please both,<br>Thou (to Agamemnon) great, and (to Nestor) wise, to<br>hear Ulysses speak. |
+| AGAMEMNON | Speak, Prince of Ithaca, and be’t of less expect<br>That matter needless, of importless burden,<br>Divide thy lips, than we are confident<br>When rank Thersites opes his mastic jaws<br>We shall hear music, wit, and oracle. |
+| ULYSSES | Troy, yet upon his basis, had been down<br>And the great Hector’s sword had lacked a master<br>But for these instances:<br>The specialty of rule hath been neglected.<br>And look how many Grecian tents do stand<br>Hollow upon this plain: so many hollow factions.<br>When that the general is not like the hive<br>To whom the foragers shall all repair,<br>What honey is expected? Degree being vizarded,<br>Th’unworthiest shows as fairly in the masque |
+| *(didascalia)* |  . |
+| ULYSSES | The heavens themselves, the planets, and this centre<br>Observe degree, priority, and place,<br>Infixture, course, proportion, season, form,<br>Office and custom, in all line of order.<br>And therefore is the glorious planet Sol<br>In noble eminence enthroned and sphered<br>Amidst the other, whose med‘cinable eye<br>Corrects the ill aspects of planets evil<br>And posts like the commandment of a king,<br>Sans check, to good and bad. But when the planets<br>In evil mixture to disorder wander,<br>What plagues and what portents, what mutiny?<br>What raging of the sea, shaking of earth?<br>Commotion in the winds, frights, changes, horrors<br>Divert and crack, rend and deracinate<br>The unity and married calm of states<br>Quite from their fixture. O when degree is shaked,<br>Which is the ladder to all high designs,<br>The enterprise is sick. How could communities,<br>Degrees in schools, and brotherhoods in cities,<br>Peaceful commerce from dividable shores,<br>The primogenity and due of birth,<br>Prerogative of age, crowns, sceptres, laurels,<br>But by degree stand in authentic place?<br>Take but degree away, untune that string,<br>And hark what discord follows. Each thing meets no<br>In mere oppugnancy. The bounded waters<br>Should lift their bosoms higher than the shores<br>And make a sop of all this solid globe;<br>Strength should be lord of imbecility,<br>And the rude son should strike his father dead.<br>Force should be right—or rather, right and wrong,<br>Between whose endless jar justice resides,<br>Should lose their names, and so should justice too.<br>Then everything includes itself in power,<br>Power into will, will into appetite;<br>And appetite, an universal wolf,<br>So doubly seconded with will and power,<br>Must make perforce an universal prey,<br>And last eat up himself. Great Agamemnon,<br>This chaos, when degree is suffocate,<br>Follows the choking.<br>And this neglection of degree it is<br>That by a pace goes backward in a purpose<br>It hath to climb. The general’s disdained<br>By him one step below; he, by the next;<br>That next, by him beneath. So every step,<br>Exampled by the first pace that is sick<br>Of his superior, grows to an envious fever<br>Of pale and bloodless emulation.<br>And ’tis this fever that keeps Troy on foot,<br>Not her own sinews. To end a tale of length:<br>Troy in our weakness lives, not in her strength. |
+| NESTOR | Most wisely hath Ulysses here discovered<br>The fever whereof all our power is sick. |
+| AGAMEMNON | The nature of the sickness found, Ulysses,<br>What is the remedy? |
+| ULYSSES | The great Achilles, whom opinion crowns<br>The sinew and the forehand of our host,<br>Having his ear full of his airy fame<br>Grows dainty of his worth, and in his tent<br>Lies mocking our designs. With him Patroclus<br>Upon a lazy bed the livelong day<br>Breaks scurrile jests<br>And, with ridiculous and awkward action<br>Which, slanderer, he ‘imitation’ calls,<br>He pageants us. Sometime, great Agamemnon,<br>Thy topless deputation he puts on,<br>And like a strutting player, whose conceit<br>Lies in his hamstring and doth think it rich<br>To hear the wooden dialogue and sound<br>’Twixt his stretched footing and the scaffoldage,<br>Such to-be-pitied and o‘er-wrested seeming<br>He acts thy greatness in. And when he speaks<br>’Tis like a chime a-mending, with terms unsquared<br>Which from the tongue of roaring Typhon dropped<br>Would seem hyperboles. At this fusty stuff<br>The large Achilles on his pressed bed lolling<br>From his deep chest laughs out a loud applause,<br>Cries ‘Excellent! ’Tis Agamemnon just.<br>Now play me Nestor, hem and stroke thy beard,<br>As he being dressed to some oration.’<br>That’s done as near as the extremest ends<br>Of parallels, as like as Vulcan and his wife.<br>Yet god Achilles still cries, ‘Excellent!<br>‘Tis Nestor right. Now play him me, Patroclus,<br>Arming to answer in a night alarm’.<br>And then forsooth the faint defects of age<br>Must be the scene of mirth: to cough and spit,<br>And with a palsy, fumbling on his gorget,<br>Shake in and out the rivet. And at this sport<br>Sir Valour dies, cries, ‘O enough, Patroclus!<br>Or give me ribs of steel. I shall split all<br>In pleasure of my spleen.’ And in this fashion<br>All our abilities, gifts, natures, shapes,<br>Severals and generals of grace exact,<br>Achievements, plots, orders, preventions,<br>Excitements to the field or speech for truce,<br>Success or loss, what is or is not, serves<br>As stuff for these two to make paradoxes. |
+| NESTOR | And in the imitation of these twain<br>Who, as Ulysses says, opinion crowns<br>With an imperial voice, many are infect.<br>Ajax is grown self-willed and bears his head<br>In such a rein, in full as proud a place<br>As broad Achilles, and keeps his tent like him,<br>Makes factious feasts, rails on our state of war<br>Bold as an oracle, and sets Thersites,<br>A slave whose gall coins slanders like a mint,<br>To match us in comparisons with dirt,<br>To weaken and discredit our exposure,<br>How rank so ever rounded in with danger. |
+| ULYSSES | They tax our policy and call it cowardice,<br>Count wisdom as no member of the war,<br>Forestall prescience and esteem no act<br>But that of hand. The still and mental parts<br>That do contrive how many hands shall strike<br>When fitness calls them on, and know by measure<br>Of their observant toil the enemy’s weight,<br>Why, this hath not a finger’s dignity.<br>They call this ‘bed-work’, ‘mapp’ry’, ‘closet war’.<br>So that the ram that batters down the wall,<br>For the great swinge and rudeness of his poise<br>They place before his hand that made the engine,<br>Or those that with the finesse of their souls<br>By reason guide his execution. |
+| NESTOR | Let this be granted, and Achilles’ horse<br>Makes many Thetis’ sons. |
+| *(didascalia)* | Tucket |
+| AGAMEMNON | What trumpet?<br>Look, Menelaus. |
+| MENELAUS | From Troy. |
+| *(didascalia)* | Enter Aeneas and a trumpeter |
+| AGAMEMNON | What would you fore our tent? |
+| AENEAS | Is this great Agamemnon’s tent I pray you? |
+| AGAMEMNON | Even this. |
+| AENEAS | May one that is a herald and a prince<br>Do a fair message to his kingly ears? |
+| AGAMEMNON | With surety stronger than Achilles’ arm,<br>Fore all the Greekish heads, which with one voice<br>Call Agamemnon heart and general. |
+| AENEAS | Fair leave and large security. How may<br>A stranger to those most imperial looks<br>Know them from eyes of other mortals? |
+| AGAMEMNON | How? |
+| AENEAS | Ay, I ask that I might waken reverence<br>And on the cheek be ready with a blush<br>Modest as morning when she coldly eyes<br>The youthful Phoebus.<br>Which is that god in office, guiding men?<br>Which is the high and mighty Agamemnon? |
+| AGAMEMNON | (to the Greeks)<br>This Trojan scorns us, or the men of Troy<br>Are ceremonious courtiers. |
+| AENEAS | Courtiers as free, as debonair, unarmed,<br>As bending angels—that’s their fame in peace.<br>But when they would seem soldiers they have galls,<br>Good arms, strong joints, true swords—and great<br>Jove’s acorn<br>Nothing so full of heart. But peace, Aeneas,<br>Peace, Trojan; lay thy finger on thy lips.<br>The worthiness of praise distains his worth,<br>If that the praised himself bring the praise forth.<br>But what, repining, the enemy commends,<br>That breath fame blows; that praise, sole pure,<br>transcends. |
+| AGAMEMNON | Sir, you of Troy, call you yourself Aeneas? |
+| AENEAS | Ay, Greek, that is my name. |
+| AGAMEMNON | What’s your affair, I pray you? |
+| AENEAS | Sir, pardon, ’tis for Agamemnon’s ears. |
+| AGAMEMNON | He hears naught privately that comes from Troy. |
+| AENEAS | Nor I from Troy come not to whisper him.<br>I bring a trumpet to awake his ear,<br>To set his sense on the attentive bent,<br>And then to speak. |
+| AGAMEMNON | Speak frankly as the wind.<br>It is not Agamemnon’s sleeping hour.<br>That thou shalt know, Trojan, he is awake,<br>He tells thee so himself. |
+| AENEAS | Trumpet, blow loud.<br>Send thy brass voice through all these lazy tents,<br>And every Greek of mettle let him know<br>What Troy means fairly shall be spoke aloud.<br>The trumpet sounds<br>We have, great Agamemnon, here in Troy<br>A prince called Hector—Priam is his father—<br>Who in this dull and long-continued truce<br>Is resty grown. He bade me take a trumpet<br>And to this purpose speak: ‘Kings, princes, lords,<br>If there be one among the fair’st of Greece<br>That holds his honour higher than his ease,<br>That seeks his praise more than he fears his peril,<br>That knows his valour and knows not his fear,<br>That loves his mistress more than in confession<br>With truant vows to her own lips he loves,<br>And dare avow her beauty and her worth<br>In other arms than hers—to him this challenge.<br>Hector in view of Trojans and of Greeks<br>Shall make it good, or do his best to do it:<br>He hath a lady wiser, fairer, truer,<br>Than ever Greek did compass in his arms,<br>And will tomorrow with his trumpet call<br>Midway between your tents and walls of Troy<br>To rouse a Grecian that is true in love.<br>If any come, Hector shall honour him.<br>If none, he’ll say in Troy when he retires<br>The Grecian dames are sunburnt and not worth<br>The splinter of a lance.’ Even so much. |
+| AGAMEMNON | This shall be told our lovers, Lord Aeneas.<br>If none of them have soul in such a kind,<br>We left them all at home. But we are soldiers,<br>And may that soldier a mere recreant prove<br>That means not, hath not, or is not in love.<br>If then one is, or hath, or means to be,<br>That one meets Hector. If none else, I’ll be he. |
+| NESTOR | (to<br>Aeneas)<br>Tell him of Nestor, one that was a man<br>When Hector’s grandsire sucked. He is old now,<br>But if there be not in our Grecian mould<br>One noble man that hath one spark of fire<br>To answer for his love, tell him from me<br>I’ll hide my silver beard in a gold beaver<br>And in my vambrace put this withered brawn,<br>And meeting him will tell him that my lady<br>Was fairer than his grandam, and as chaste<br>As may be in the world. His youth in flood,<br>I’ll prove this truth with my three drops of blood. |
+| AENEAS | Now heavens forbid such scarcity of youth. |
+| ULYSSES | Amen. |
+| AGAMEMNON | Fair Lord Aeneas, let me touch your hand.<br>To our pavilion shall I lead you first.<br>Achilles shall have word of this intent;<br>So shall each lord of Greece, from tent to tent.<br>Yourself shall feast with us before you go,<br>And find the welcome of a noble foe. |
+| *(didascalia)* | Exeunt all but Ulysses and Nestor |
+| ULYSSES | Nestor! |
+| NESTOR | What says Ulysses? |
+| ULYSSES | I have a young<br>Conception in my brain; be you my time<br>To bring it to some shape. |
+| NESTOR | What is’t? |
+| ULYSSES | This ’tis:<br>Blunt wedges rive hard knots. The seeded pride<br>That hath to this maturity blown up<br>In rank Achilles must or now be cropped<br>Or, shedding, breed a nursery of like evil<br>To overbulk us all. |
+| NESTOR | Well, and how? |
+| ULYSSES | This challenge that the gallant Hector sends,<br>However it is spread in general name,<br>Relates in purpose only to Achilles. |
+| NESTOR | The purpose is perspicuous, even as substance<br>Whose grossness little characters sum up.<br>And, in the publication, make no strain<br>But that Achilles, were his brain as barren<br>As banks of Libya—though, Apollo knows,<br>’Tis dry enough—will with great speed of judgement,<br>Ay with celerity, find Hector’s purpose<br>Pointing on him. |
+| ULYSSES | And wake him to the answer, think you? |
+| NESTOR | Yes, ‘tis most meet. Who may you else oppose,<br>That can from Hector bring his honour off,<br>If not Achilles? Though’t be a sportful combat,<br>Yet in this trial much opinion dwells,<br>For here the Trojans taste our dear’st repute<br>With their fin‘st palate. And trust to me, Ulysses,<br>Our imputation shall be oddly poised<br>In this wild action: for the success,<br>Although particular, shall give a scantling<br>Of good or bad unto the general—<br>And in such indices, although small pricks<br>To their subsequent volumes, there is seen<br>The baby figure of the giant mass<br>Of things to come at large. It is supposed<br>He that meets Hector issues from our choice,<br>And choice, being mutual act of all our souls,<br>Makes merit her election, and doth boil,<br>As ’twere, from forth us all a man distilled<br>Out of our virtues—who miscarrying,<br>What heart from hence receives the conqu‘ring part<br>To steel a strong opinion to themselves?<br>Which entertained, limbs are e’en his instruments,<br>In no less working than are swords and bows<br>Directive by the limbs. |
+| ULYSSES | Give pardon to my speech:<br>Therefore ’tis meet Achilles meet not Hector.<br>Let us like merchants show our foulest wares<br>And think perchance they’ll sell. If not,<br>The lustre of the better yet to show<br>Shall show the better. Do not consent<br>That ever Hector and Achilles meet,<br>For both our honour and our shame in this<br>Are dogged with two strange followers. |
+| NESTOR | I see them not with my old eyes. What are they? |
+| ULYSSES | What glory our Achilles shares from Hector,<br>Were he not proud we all should wear with him.<br>But he already is too insolent,<br>And we were better parch in Afric sun<br>Than in the pride and salt scorn of his eyes,<br>Should he scape Hector fair. If he were foiled,<br>Why then we did our main opinion crush<br>In taint of our best man. No, make a lott’ry,<br>And by device let blockish Ajax draw<br>The sort to fight with Hector. Among ourselves<br>Give him allowance as the worthier man—<br>For that will physic the great Myrmidon,<br>Who broils in loud applause, and make him fall<br>His crest, that prouder than blue Iris bends.<br>If the dull brainless Ajax come safe off,<br>We’ll dress him up in voices; if he fail,<br>Yet go we under our opinion still<br>That we have better men. But hit or miss,<br>Our project’s life this shape of sense assumes:<br>Ajax employed plucks down Achilles’ plumes. |
+| NESTOR | Now, Ulysses, I begin to relish thy advice,<br>And I will give a taste of it forthwith<br>To Agamemnon. Go we to him straight.<br>Two curs shall tame each other; pride alone<br>Must tarre the mastiffs on, as ’twere their bone. |
+| *(didascalia)* | Exeunt |

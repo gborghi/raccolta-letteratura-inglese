@@ -14,266 +14,56 @@ tags:
 </nav>
 
 
-Enter Tamora and Chiron and Demetrius, her two sons, disguised
-TAMORA
-Thus, in this strange and sad habiliment,
-I will encounter with Andronicus
-And say I am Revenge, sent from below
-To join with him and right his heinous wrongs.
-Knock at his study, where they say he keeps
-To ruminate strange plots of dire revenge.
-Tell him Revenge is come to join with him
-And work confusion on his enemies.
-They knock, and Titus ⌈aloft⌉ opens his study door
-TITUS
-Who doth molest my contemplation?
-Is it your trick to make me ope the door,
-That so my sad decrees may fly away
-And all my study be to no effect?
-You are deceived; for what I mean to do,
-See here, in bloody lines I have set down,
-And what is written shall be executed.
-TAMORA
-Titus, I am come to talk with thee.
-TITUS
-No, not a word. How can I grace my talk,
-Wanting a hand to give it action?
-Thou hast the odds of me, therefore no more.
-TAMORA
-If thou didst know me thou wouldst talk with me.
-TITUS
-I am not mad, I know thee well enough;
-Witness this wretched stump, witness these crimson
-lines,
-Witness these trenches made by grief and care,
-Witness the tiring day and heavy night,
-Witness all sorrow that I know thee well
-For our proud empress, mighty Tamora.
-Is not thy coming for my other hand?
-TAMORA
-Know, thou sad man, I am not Tamora.
-She is thy enemy, and I thy friend.
-I am Revenge, sent from th’nfernal kingdom
-To ease the gnawing vulture of thy mind
-By working wreakful vengeance on thy foes.
-Come down, and welcome me to this world’s light.
-Confer with me of murder and of death.
-There’s not a hollow cave or lurking-place,
-No vast obscurity or misty vale
-Where bloody murder or detested rape
-Can couch for fear, but I will find them out,
-And in their ears tell them my dreadful name,
-Revenge, which makes the foul offender quake.
-TITUS
-Art thou Revenge, and art thou sent to me
-To be a torment to mine enemies?
-TAMORA
-I am; therefore come down, and welcome me.
-TITUS
-Do me some service ere I come to thee.
-Lo by thy side where Rape and Murder stands.
-Now give some surance that thou art Revenge,
-Stab them, or tear them on thy chariot wheels,
-And then I’ll come and be thy wagoner,
-And whirl along with thee about the globe,
-Provide two proper palfreys, black as jet,
-To hale thy vengeful wagon swift away
-And find out murderers in their guilty caves.
-And when thy car is loaden with their heads
-I will dismount, and by thy wagon wheel
-Trot like a servile footman all day long,
-Even from Hyperion’s rising in the east
-Until his very downfall in the sea;
-And day by day I’ll do this heavy task,
-So thou destroy Rapine and Murder there.
-TAMORA
-These are my ministers, and come with me.
-TITUS
-Are they thy ministers? What are they called?
-TAMORA
-Rape and Murder, therefore called so
-‘Cause they take vengeance of such kind of men.
-TITUS
-Good Lord, how like the Empress’ sons they are,
-And you the Empress! But we worldly men
-Have miserable, mad, mistaking eyes.
-O sweet Revenge, now do I come to thee,
-And if one arm’s embracement will content thee,
-I will embrace thee in it by and by. Exit ⌈aloft⌉
-TAMORA
-This closing with him fits his lunacy.
-Whate’er I forge to feed his brainsick humours
-Do you uphold and maintain in your speeches,
-For now he firmly takes me for Revenge,
-And being credulous in this mad thought
-I’ll make him send for Lucius his son,
-And whilst I at a banquet hold him sure
-I’ll find some cunning practice out of hand
-To scatter and disperse the giddy Goths,
-Or at the least make them his enemies.
-See, here he comes, and I must ply my theme.
-Enter Titus, below
-TITUS
-Long have I been forlorn, and all for thee.
-Welcome, dread Fury, to my woeful house.
-Rapine and Murder, you are welcome, too.
-How like the Empress and her sons you are!
-Well are you fitted, had you but a Moor.
-Could not all hell afford you such a devil?—
-For well I wot the Empress never wags
-But in her company there is a Moor,
-And would you represent our Queen aright
-It were convenient you had such a devil.
-But welcome as you are. What shall we do?
-TAMORA
-What wouldst thou have us do, Andronicus?
-DEMETRIUS
-Show me a murderer, I’ll deal with him.
-CHIRON
-Show me a villain that hath done a rape,
-And I am sent to be revenged on him.
-TAMORA
-Show me a thousand that hath done thee wrong,
-And I will be revenged on them all.
-TITUS (to Demetrius)
-Look round about the wicked streets of Rome,
-And when thou find’st a man that’s like thyself,
-Good Murder, stab him; he’s a murderer.
-(To Chiron) Go thou with him, and when it is thy hap
-To find another that is like to thee,
-Good Rapine, stab him; he is a ravisher.
-(To Tamora) Go thou with them, and in the Emperor’s
-court
-There is a queen attended by a Moor.
-Well shalt thou know her by thine own proportion,
-For up and down she doth resemble thee.
-I pray thee, do on them some violent death;
-They have been violent to me and mine.
-TAMORA
-Well hast thou lessoned us. This shall we do;
-But would it please thee, good Andronicus,
-To send for Lucius, thy thrice-valiant son,
-Who leads towards Rome a band of warlike Goths,
-And bid him come and banquet at thy house—
-When he is here, even at thy solemn feast,
-I will bring in the Empress and her sons,
-The Emperor himself, and all thy foes,
-And at thy mercy shall they stoop and kneel,
-And on them shalt thou ease thy angry heart.
-What says Andronicus to this device?
-TITUS
-Marcus, my brother! ’Tis sad Titus calls.
-Enter Marcus
-Go, gentle Marcus, to thy nephew Lucius.
-Thou shalt enquire him out among the Goths.
-Bid him repair to me, and bring with him
-Some of the chiefest princes of the Goths.
-Bid him encamp his soldiers where they are.
-Tell him the Emperor and the Empress too
-Feast at my house, and he shall feast with them.
-This do thou for my love, and so let him,
-As he regards his aged father’s life.
-MARCUS
-This will I do, and soon return again. Exit
-TAMORA
-Now will I hence about thy business,
-And take my ministers along with me.
-TITUS
-Nay, nay, let Rape and Murder stay with me,
-Or else I’ll call my brother back again,
-And cleave to no revenge but Lucius.
-TAMORA (aside to her sons)
-What say you, boys, will you abide with him
-Whiles I go tell my lord the Emperor
-How I have governed our determined jest?
-Yield to his humour, smooth and speak him fair,
-And tarry with him till I turn again.
-TITUS (aside)
-I knew them all, though they supposed me mad,
-And will o’erreach them in their own devices—
-A pair of cursed hell-hounds and their dam.
-DEMETRIUS
-Madam, depart at pleasure. Leave us here.
-TAMORA
-Farewell, Andronicus. Revenge now goes
-To lay a complot to betray thy foes.
-TITUS
-I know thou dost, and sweet Revenge, farewell.
-Exit Tamora
-CHIRON
-Tell us, old man, how shall we be employed?
-TITUS
-Tut, I have work enough for you to do.
-Publius, come hither; Caius and Valentine.
-Enter Publius, Caius, and Valentine
-PUBLIUS
-What is your will?
-TITUS
-Know you these two?
-PUBLIUS
-The Empress’ sons I take them—Chiron, Demetrius.
-TITUS
-Fie, Publius, fie! Thou art too much deceived.
-The one is Murder, and Rape is the other’s name.
-And therefore bind them, gentle Publius;
-Caius and Valentine, lay hands on them.
-Oft have you heard me wish for such an hour,
-And now I find it. Therefore bind them sure,
-And stop their mouths if they begin to cry. Exit
-CHIRON
-Villains, forbear! We are the Empress’ sons.
-PUBLIUS
-And therefore do we what we are commanded.
-Publius, Caius, and Valentine bind and gag Chiron
-
-and Demetrius
-Stop close their mouths. Let them not speak a word.
-Is he sure bound? Look that you bind them fast.
-Enter Titus Andronicus with a knife, and Lavinia
-
-with a basin
-TITUS
-Come, come, Lavinia. Look, thy foes are bound.
-Sirs, stop their mouths. Let them not speak to me,
-But let them hear what fearful words I utter.
-O villains, Chiron and Demetrius!
-Here stands the spring whom you have stained with
-mud,
-This goodly summer with your winter mixed.
-You killed her husband, and for that vile fault
-Two of her brothers were condemned to death,
-My hand cut off and made a merry jest,
-Both her sweet hands, her tongue, and that more
-dear
-Than hands or tongue, her spotless chastity,
-Inhuman traitors, you constrained and forced.
-What would you say if I should let you speak?
-Villains, for shame. You could not beg for grace.
-Hark, wretches, how I mean to martyr you.
-This one hand yet is left to cut your throats,
-Whiles that Lavinia ’tween her stumps doth hold
-The basin that receives your guilty blood.
-You know your mother means to feast with me,
-And calls herself Revenge, and thinks me mad.
-Hark, villains, I will grind your bones to dust,
-And with your blood and it I’ll make a paste,
-And of the paste a coffin I will rear,
-And make two pasties of your shameful heads,
-And bid that strumpet, your unhallowed dam,
-Like to the earth swallow her own increase.
-This is the feast that I have bid her to,
-And this the banquet she shall surfeit on;
-For worse than Philomel you used my daughter,
-And worse than Progne I will be revenged.
-And now, prepare your throats. Lavinia, come.
-Receive the blood, and when that they are dead
-Let me go grind their bones to powder small,
-And with this hateful liquor temper it,
-And in that paste let their vile heads be baked.
-Come, come, be everyone officious
-To make this banquet, which I wish may prove
-More stern and bloody than the Centaurs’ feast.
-He cuts their throats
-So, now bring them in, for I’ll play the cook
-And see them ready against their mother comes.
-Exeunt carrying the bodies
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Tamora and Chiron and Demetrius, her two sons, disguised |
+| TAMORA | Thus, in this strange and sad habiliment,<br>I will encounter with Andronicus<br>And say I am Revenge, sent from below<br>To join with him and right his heinous wrongs.<br>Knock at his study, where they say he keeps<br>To ruminate strange plots of dire revenge.<br>Tell him Revenge is come to join with him<br>And work confusion on his enemies. |
+| *(didascalia)* | They knock, and Titus aloft opens his study door |
+| TITUS | Who doth molest my contemplation?<br>Is it your trick to make me ope the door,<br>That so my sad decrees may fly away<br>And all my study be to no effect?<br>You are deceived; for what I mean to do,<br>See here, in bloody lines I have set down,<br>And what is written shall be executed. |
+| TAMORA | Titus, I am come to talk with thee. |
+| TITUS | No, not a word. How can I grace my talk,<br>Wanting a hand to give it action?<br>Thou hast the odds of me, therefore no more. |
+| TAMORA | If thou didst know me thou wouldst talk with me. |
+| TITUS | I am not mad, I know thee well enough;<br>Witness this wretched stump, witness these crimson<br>lines,<br>Witness these trenches made by grief and care,<br>Witness the tiring day and heavy night,<br>Witness all sorrow that I know thee well<br>For our proud empress, mighty Tamora.<br>Is not thy coming for my other hand? |
+| TAMORA | Know, thou sad man, I am not Tamora.<br>She is thy enemy, and I thy friend.<br>I am Revenge, sent from th’nfernal kingdom<br>To ease the gnawing vulture of thy mind<br>By working wreakful vengeance on thy foes.<br>Come down, and welcome me to this world’s light.<br>Confer with me of murder and of death.<br>There’s not a hollow cave or lurking-place,<br>No vast obscurity or misty vale<br>Where bloody murder or detested rape<br>Can couch for fear, but I will find them out,<br>And in their ears tell them my dreadful name,<br>Revenge, which makes the foul offender quake. |
+| TITUS | Art thou Revenge, and art thou sent to me<br>To be a torment to mine enemies? |
+| TAMORA | I am; therefore come down, and welcome me. |
+| TITUS | Do me some service ere I come to thee.<br>Lo by thy side where Rape and Murder stands.<br>Now give some surance that thou art Revenge,<br>Stab them, or tear them on thy chariot wheels,<br>And then I’ll come and be thy wagoner,<br>And whirl along with thee about the globe,<br>Provide two proper palfreys, black as jet,<br>To hale thy vengeful wagon swift away<br>And find out murderers in their guilty caves.<br>And when thy car is loaden with their heads<br>I will dismount, and by thy wagon wheel<br>Trot like a servile footman all day long,<br>Even from Hyperion’s rising in the east<br>Until his very downfall in the sea;<br>And day by day I’ll do this heavy task,<br>So thou destroy Rapine and Murder there. |
+| TAMORA | These are my ministers, and come with me. |
+| TITUS | Are they thy ministers? What are they called? |
+| TAMORA | Rape and Murder, therefore called so<br>‘Cause they take vengeance of such kind of men. |
+| TITUS | Good Lord, how like the Empress’ sons they are,<br>And you the Empress! But we worldly men<br>Have miserable, mad, mistaking eyes.<br>O sweet Revenge, now do I come to thee,<br>And if one arm’s embracement will content thee, |
+| *(didascalia)* | I will embrace thee in it by and by. Exit aloft |
+| TAMORA | This closing with him fits his lunacy.<br>Whate’er I forge to feed his brainsick humours<br>Do you uphold and maintain in your speeches,<br>For now he firmly takes me for Revenge,<br>And being credulous in this mad thought<br>I’ll make him send for Lucius his son,<br>And whilst I at a banquet hold him sure<br>I’ll find some cunning practice out of hand<br>To scatter and disperse the giddy Goths,<br>Or at the least make them his enemies.<br>See, here he comes, and I must ply my theme. |
+| *(didascalia)* | Enter Titus, below |
+| TITUS | Long have I been forlorn, and all for thee.<br>Welcome, dread Fury, to my woeful house.<br>Rapine and Murder, you are welcome, too.<br>How like the Empress and her sons you are!<br>Well are you fitted, had you but a Moor.<br>Could not all hell afford you such a devil?—<br>For well I wot the Empress never wags<br>But in her company there is a Moor,<br>And would you represent our Queen aright<br>It were convenient you had such a devil.<br>But welcome as you are. What shall we do? |
+| TAMORA | What wouldst thou have us do, Andronicus? |
+| DEMETRIUS | Show me a murderer, I’ll deal with him. |
+| CHIRON | Show me a villain that hath done a rape,<br>And I am sent to be revenged on him. |
+| TAMORA | Show me a thousand that hath done thee wrong,<br>And I will be revenged on them all. |
+| TITUS | (to Demetrius)<br>Look round about the wicked streets of Rome,<br>And when thou find’st a man that’s like thyself,<br>Good Murder, stab him; he’s a murderer.<br>(To Chiron) Go thou with him, and when it is thy hap<br>To find another that is like to thee,<br>Good Rapine, stab him; he is a ravisher.<br>(To Tamora) Go thou with them, and in the Emperor’s<br>court<br>There is a queen attended by a Moor.<br>Well shalt thou know her by thine own proportion,<br>For up and down she doth resemble thee.<br>I pray thee, do on them some violent death;<br>They have been violent to me and mine. |
+| TAMORA | Well hast thou lessoned us. This shall we do;<br>But would it please thee, good Andronicus,<br>To send for Lucius, thy thrice-valiant son,<br>Who leads towards Rome a band of warlike Goths,<br>And bid him come and banquet at thy house—<br>When he is here, even at thy solemn feast,<br>I will bring in the Empress and her sons,<br>The Emperor himself, and all thy foes,<br>And at thy mercy shall they stoop and kneel,<br>And on them shalt thou ease thy angry heart.<br>What says Andronicus to this device? |
+| TITUS | Marcus, my brother! ’Tis sad Titus calls. |
+| *(didascalia)* | Enter Marcus |
+| TITUS | Go, gentle Marcus, to thy nephew Lucius.<br>Thou shalt enquire him out among the Goths.<br>Bid him repair to me, and bring with him<br>Some of the chiefest princes of the Goths.<br>Bid him encamp his soldiers where they are.<br>Tell him the Emperor and the Empress too<br>Feast at my house, and he shall feast with them.<br>This do thou for my love, and so let him,<br>As he regards his aged father’s life. |
+| MARCUS | This will I do, and soon return again. Exit |
+| TAMORA | Now will I hence about thy business,<br>And take my ministers along with me. |
+| TITUS | Nay, nay, let Rape and Murder stay with me,<br>Or else I’ll call my brother back again,<br>And cleave to no revenge but Lucius. |
+| TAMORA | (aside to her sons)<br>What say you, boys, will you abide with him<br>Whiles I go tell my lord the Emperor<br>How I have governed our determined jest?<br>Yield to his humour, smooth and speak him fair,<br>And tarry with him till I turn again. |
+| TITUS | (aside)<br>I knew them all, though they supposed me mad,<br>And will o’erreach them in their own devices—<br>A pair of cursed hell-hounds and their dam. |
+| DEMETRIUS | Madam, depart at pleasure. Leave us here. |
+| TAMORA | Farewell, Andronicus. Revenge now goes<br>To lay a complot to betray thy foes. |
+| TITUS | I know thou dost, and sweet Revenge, farewell. |
+| *(didascalia)* | Exit Tamora |
+| CHIRON | Tell us, old man, how shall we be employed? |
+| TITUS | Tut, I have work enough for you to do.<br>Publius, come hither; Caius and Valentine. |
+| *(didascalia)* | Enter Publius, Caius, and Valentine |
+| PUBLIUS | What is your will? |
+| TITUS | Know you these two? |
+| PUBLIUS | The Empress’ sons I take them—Chiron, Demetrius. |
+| TITUS | Fie, Publius, fie! Thou art too much deceived.<br>The one is Murder, and Rape is the other’s name.<br>And therefore bind them, gentle Publius;<br>Caius and Valentine, lay hands on them.<br>Oft have you heard me wish for such an hour,<br>And now I find it. Therefore bind them sure,<br>And stop their mouths if they begin to cry. Exit |
+| CHIRON | Villains, forbear! We are the Empress’ sons. |
+| PUBLIUS | And therefore do we what we are commanded.<br>Publius, Caius, and Valentine bind and gag Chiron<br><br>and Demetrius<br>Stop close their mouths. Let them not speak a word.<br>Is he sure bound? Look that you bind them fast. |
+| *(didascalia)* | Enter Titus Andronicus with a knife, and Lavinia |
+| PUBLIUS | with a basin |
+| TITUS | Come, come, Lavinia. Look, thy foes are bound.<br>Sirs, stop their mouths. Let them not speak to me,<br>But let them hear what fearful words I utter.<br>O villains, Chiron and Demetrius!<br>Here stands the spring whom you have stained with<br>mud,<br>This goodly summer with your winter mixed.<br>You killed her husband, and for that vile fault<br>Two of her brothers were condemned to death,<br>My hand cut off and made a merry jest,<br>Both her sweet hands, her tongue, and that more<br>dear<br>Than hands or tongue, her spotless chastity,<br>Inhuman traitors, you constrained and forced.<br>What would you say if I should let you speak?<br>Villains, for shame. You could not beg for grace.<br>Hark, wretches, how I mean to martyr you.<br>This one hand yet is left to cut your throats,<br>Whiles that Lavinia ’tween her stumps doth hold<br>The basin that receives your guilty blood.<br>You know your mother means to feast with me,<br>And calls herself Revenge, and thinks me mad.<br>Hark, villains, I will grind your bones to dust,<br>And with your blood and it I’ll make a paste,<br>And of the paste a coffin I will rear,<br>And make two pasties of your shameful heads,<br>And bid that strumpet, your unhallowed dam,<br>Like to the earth swallow her own increase.<br>This is the feast that I have bid her to,<br>And this the banquet she shall surfeit on;<br>For worse than Philomel you used my daughter,<br>And worse than Progne I will be revenged.<br>And now, prepare your throats. Lavinia, come.<br>Receive the blood, and when that they are dead<br>Let me go grind their bones to powder small,<br>And with this hateful liquor temper it,<br>And in that paste let their vile heads be baked.<br>Come, come, be everyone officious<br>To make this banquet, which I wish may prove<br>More stern and bloody than the Centaurs’ feast.<br>He cuts their throats<br>So, now bring them in, for I’ll play the cook<br>And see them ready against their mother comes. |
+| *(didascalia)* | Exeunt carrying the bodies |

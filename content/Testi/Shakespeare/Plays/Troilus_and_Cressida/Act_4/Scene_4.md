@@ -14,19 +14,10 @@ tags:
 </nav>
 
 
-Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, and Diomedes
-PARIS
-It is great morning, and the hour prefixed
-Of her delivery to this valiant Greek
-Comes fast upon us. Good my brother Troilus,
-Tell you the lady what she is to do,
-And haste her to the purpose.
-TROILUS
-Walk into her house.
-I’ll bring her to the Grecian presently—
-And to his hand when I deliver her,
-Think it an altar, and thy brother Troilus
-A priest, there off’ring to it his own heart.
-PARIS I know what ’tis to love,
-And would, as I shall pity, I could help.—
-Please you walk in, my lords? ⌈Exeunt⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, and Diomedes |
+| PARIS | It is great morning, and the hour prefixed<br>Of her delivery to this valiant Greek<br>Comes fast upon us. Good my brother Troilus,<br>Tell you the lady what she is to do,<br>And haste her to the purpose. |
+| TROILUS | Walk into her house.<br>I’ll bring her to the Grecian presently—<br>And to his hand when I deliver her,<br>Think it an altar, and thy brother Troilus<br>A priest, there off’ring to it his own heart. |
+| PARIS | I know what ’tis to love,<br>And would, as I shall pity, I could help.— |
+| *(didascalia)* | Please you walk in, my lords? Exeunt |

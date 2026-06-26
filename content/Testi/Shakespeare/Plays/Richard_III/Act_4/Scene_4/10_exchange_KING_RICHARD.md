@@ -13,9 +13,6 @@ tags:
 </nav>
 
 
-KING RICHARD
-Away, towards Salisbury! While we reason here,
-A royal battle might be won and lost.
-Someone take order Buckingham be brought
-To Salisbury. The rest march on with me.
-Flourish. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| KING RICHARD | Away, towards Salisbury! While we reason here, A royal battle might be won and lost. Someone take order Buckingham be brought To Salisbury. The rest march on with me. Flourish. Exeunt |

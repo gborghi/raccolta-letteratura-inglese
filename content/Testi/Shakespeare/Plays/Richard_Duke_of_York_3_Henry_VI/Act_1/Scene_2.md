@@ -14,110 +14,40 @@ tags:
 </nav>
 
 
-Enter Richard, Edward Earl of March, and the Marquis of Montague
-RICHARD
-Brother, though I be youngest give me leave.
-EDWARD
-No, I can better play the orator.
-MONTAGUE
-But I have reasons strong and forcible.
-Enter the Duke of York
-YORK
-Why, how now, sons and brother—at a strife?
-What is your quarrel? How began it first?
-EDWARD
-No quarrel, but a slight contention.
-YORK About what?
-RICHARD
-About that which concerns your grace and us—
-The crown of England, father, which is yours.
-YORK
-Mine, boy? Not till King Henry be dead.
-RICHARD
-Your right depends not on his life or death.
-EDWARD
-Now you are heir—therefore enjoy it now.
-By giving the house of Lancaster leave to breathe,
-It will outrun you, father, in the end.
-YORK
-I took an oath that he should quietly reign.
-EDWARD
-But for a kingdom any oath may be broken.
-I would break a thousand oaths to reign one year.
-RICHARD (to York)
-No—God forbid your grace should be forsworn.
-YORK
-I shall be if I claim by open war.
-RICHARD
-I’ll prove the contrary, if you’ll hear me speak.
-YORK
-Thou canst not, son—it is impossible.
-RICHARD
-An oath is of no moment being not took
-Before a true and lawful magistrate
-That hath authority over him that swears.
-Henry had none, but did usurp the place.
-Then, seeing ’twas he that made you to depose,
-Your oath, my lord, is vain and frivolous.
-Therefore to arms—and, father, do but think
-How sweet a thing it is to wear a crown,
-Within whose circuit is Elysium
-And all that poets feign of bliss and joy.
-Why do we linger thus? I cannot rest
-Until the white rose that I wear be dyed
-Even in the luke-warm blood of Henry’s heart.
-YORK
-Richard, enough! I will be king or die.
-(To Montague) Brother, thou shalt to London presently
-And whet on Warwick to this enterprise.
-Thou, Richard, shalt to the Duke of Norfolk
-And tell him privily of our intent.
-You, Edward, shall to Edmund Brook, Lord Cobham,
-With whom the Kentishmen will willingly rise.
-In them I trust, for they are soldiers
-Witty, courteous, liberal, full of spirit.
-While you are thus employed, what resteth more
-But that I seek occasion how to rise,
-And yet the King not privy to my drift,
-Nor any of the house of Lancaster.
-Enter a Messenger
-
-But stay, what news? Why com’st thou in such post?
-MESSENGER
-The Queen, with all the northern earls and lords,
-Intend here to besiege you in your castle.
-She is hard by with twenty thousand men,
-And therefore fortify your hold, my lord.
-YORK
-Ay, with my sword. What—think’st thou that we fear
-them?
-Edward and Richard, you shall stay with me;
-My brother Montague shall post to London.
-Let noble Warwick, Cobham, and the rest,
-Whom we have left protectors of the King,
-With powerful policy strengthen themselves,
-And trust not simple Henry nor his oaths.
-MONTAGUE
-Brother, I go—I’ll win them, fear it not.
-And thus most humbly I do take my leave. Exit
-Enter Sir John Mortimer and his brother Sir Hugh
-YORK
-Sir John and Sir Hugh Mortimer, mine uncles,
-You are come to Sandal in a happy hour.
-The army of the Queen mean to besiege us.
-SIR JOHN
-She shall not need, we’ll meet her in the field.
-YORK What, with five thousand men?
-RICHARD
-Ay, with five hundred, father, for a need.
-A woman’s general—what should we fear?
-A march sounds afar off
-EDWARD
-I hear their drums. Let’s set our men in order,
-And issue forth and bid them battle straight.
-YORK ⌈to Sir John and Sir Hugh⌉
-Five men to twenty—though the odds be great,
-I doubt not, uncles, of our victory.
-Many a battle have I won in France
-Whenas the enemy hath been ten to one—
-Why should I not now have the like success? Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Richard, Edward Earl of March, and the Marquis of Montague |
+| RICHARD | Brother, though I be youngest give me leave. |
+| EDWARD | No, I can better play the orator. |
+| MONTAGUE | But I have reasons strong and forcible. |
+| *(didascalia)* | Enter the Duke of York |
+| YORK | Why, how now, sons and brother—at a strife?<br>What is your quarrel? How began it first? |
+| EDWARD | No quarrel, but a slight contention. |
+| YORK | About what? |
+| RICHARD | About that which concerns your grace and us—<br>The crown of England, father, which is yours. |
+| YORK | Mine, boy? Not till King Henry be dead. |
+| RICHARD | Your right depends not on his life or death. |
+| EDWARD | Now you are heir—therefore enjoy it now.<br>By giving the house of Lancaster leave to breathe,<br>It will outrun you, father, in the end. |
+| YORK | I took an oath that he should quietly reign. |
+| EDWARD | But for a kingdom any oath may be broken.<br>I would break a thousand oaths to reign one year. |
+| RICHARD | (to York)<br>No—God forbid your grace should be forsworn. |
+| YORK | I shall be if I claim by open war. |
+| RICHARD | I’ll prove the contrary, if you’ll hear me speak. |
+| YORK | Thou canst not, son—it is impossible. |
+| RICHARD | An oath is of no moment being not took<br>Before a true and lawful magistrate<br>That hath authority over him that swears.<br>Henry had none, but did usurp the place.<br>Then, seeing ’twas he that made you to depose,<br>Your oath, my lord, is vain and frivolous.<br>Therefore to arms—and, father, do but think<br>How sweet a thing it is to wear a crown, |
+| *(didascalia)* | Within whose circuit is Elysium |
+| RICHARD | And all that poets feign of bliss and joy.<br>Why do we linger thus? I cannot rest<br>Until the white rose that I wear be dyed<br>Even in the luke-warm blood of Henry’s heart. |
+| YORK | Richard, enough! I will be king or die.<br>(To Montague) Brother, thou shalt to London presently<br>And whet on Warwick to this enterprise.<br>Thou, Richard, shalt to the Duke of Norfolk<br>And tell him privily of our intent.<br>You, Edward, shall to Edmund Brook, Lord Cobham,<br>With whom the Kentishmen will willingly rise.<br>In them I trust, for they are soldiers<br>Witty, courteous, liberal, full of spirit.<br>While you are thus employed, what resteth more<br>But that I seek occasion how to rise,<br>And yet the King not privy to my drift,<br>Nor any of the house of Lancaster. |
+| *(didascalia)* | Enter a Messenger |
+| YORK | But stay, what news? Why com’st thou in such post? |
+| MESSENGER | The Queen, with all the northern earls and lords,<br>Intend here to besiege you in your castle.<br>She is hard by with twenty thousand men,<br>And therefore fortify your hold, my lord. |
+| YORK | Ay, with my sword. What—think’st thou that we fear<br>them?<br>Edward and Richard, you shall stay with me;<br>My brother Montague shall post to London.<br>Let noble Warwick, Cobham, and the rest,<br>Whom we have left protectors of the King,<br>With powerful policy strengthen themselves,<br>And trust not simple Henry nor his oaths. |
+| MONTAGUE | Brother, I go—I’ll win them, fear it not.<br>And thus most humbly I do take my leave. Exit |
+| *(didascalia)* | Enter Sir John Mortimer and his brother Sir Hugh |
+| YORK | Sir John and Sir Hugh Mortimer, mine uncles,<br>You are come to Sandal in a happy hour.<br>The army of the Queen mean to besiege us. |
+| SIR JOHN | She shall not need, we’ll meet her in the field. |
+| YORK | What, with five thousand men? |
+| RICHARD | Ay, with five hundred, father, for a need.<br>A woman’s general—what should we fear?<br>A march sounds afar off |
+| EDWARD | I hear their drums. Let’s set our men in order,<br>And issue forth and bid them battle straight. |
+| *(didascalia)* | YORK to Sir John and Sir Hugh |
+| EDWARD | Five men to twenty—though the odds be great,<br>I doubt not, uncles, of our victory.<br>Many a battle have I won in France<br>Whenas the enemy hath been ten to one—<br>Why should I not now have the like success? Exeunt |

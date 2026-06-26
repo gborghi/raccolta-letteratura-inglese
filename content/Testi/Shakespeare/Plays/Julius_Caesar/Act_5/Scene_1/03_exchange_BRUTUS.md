@@ -13,9 +13,6 @@ tags:
 </nav>
 
 
-BRUTUS
-Why then, lead on. O that a man might know
-The end of this day’s business ere it come!
-But it sufliceth that the day will end,
-And then the end is known.—Come, ho, away!
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| BRUTUS | Why then, lead on. O that a man might know The end of this day’s business ere it come! But it sufliceth that the day will end, And then the end is known.—Come, ho, away! Exeunt |

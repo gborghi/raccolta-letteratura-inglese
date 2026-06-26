@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Thersites
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Thersites |

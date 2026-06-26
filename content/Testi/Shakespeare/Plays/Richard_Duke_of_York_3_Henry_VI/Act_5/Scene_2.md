@@ -14,66 +14,14 @@ tags:
 </nav>
 
 
-Alarum and excursions. Enter King Edward bringing forth the Earl of Warwick, wounded
-KING EDWARD
-So lie thou there. Die thou, and die our fear—
-For Warwick was a bug that feared us all.
-Now, Montague, sit fast—I seek for thee
-That Warwick’s bones may keep thine company. Exit
-WARWICK
-Ah, who is nigh? Come to me, friend or foe,
-And tell me who is victor, York or Warwick?
-Why ask I that? My mangled body shows,
-My blood, my want of strength, my sick heart shows,
-That I must yield my body to the earth
-And by my fall the conquest to my foe.
-Thus yields the cedar to the axe’s edge,
-Whose arms gave shelter to the princely eagle,
-Under whose shade the ramping lion slept,
-Whose top-branch over-peered Jove’s spreading tree
-And kept low shrubs from winter’s powerful wind.
-These eyes, that now are dimmed with death’s black
-veil,
-Have been as piercing as the midday sun
-To search the secret treasons of the world.
-The wrinkles in my brows, now filled with blood,
-Were likened oft to kingly sepulchres—
-For who lived king, but I could dig his grave?
-And who durst smile when Warwick bent his brow?
-Lo now my glory smeared in dust and blood.
-My parks, my walks, my manors that I had,
-Even now forsake me, and of all my lands
-Is nothing left me but my body’s length,
-Why, what is pomp, rule, reign, but earth and dust?
-And, live we how we can, yet die we must.
-Enter the Earl of Oxford and the Duke of Somerset
-SOMERSET
-Ah, Warwick, Warwick—wert thou as we are,
-We might recover all our loss again.
-The Queen from France hath brought a puissant
-power.
-Even now we heard the news. Ah, couldst thou fly!
-WARWICK
-Why, then I would not fly. Ah, Montague,
-If thou be there, sweet brother, take my hand,
-And with thy lips keep in my soul a while.
-Thou lov’st me not—for, brother, if thou didst,
-Thy tears would wash this cold congealed blood
-That glues my lips and will not let me speak.
-Come quickly, Montague, or I am dead.
-SOMERSET
-Ah, Warwick—Montague hath breathed his last,
-And to the latest gasp cried out for Warwick,
-And said ‘Commend me to my valiant brother.’
-And more he would have said, and more he spoke,
-Which sounded like a canon in a vault,
-That mote not be distinguished; but at last
-I well might hear, delivered with a groan,
-‘O, farewell, Warwick.’
-WARWICK
-Sweet rest his soul. Fly, lords, and save yourselves—
-For Warwick bids you all farewell, to meet in heaven.
-He dies
-OXFORD
-Away, away—to meet the Queen’s great power!
-Here they bear away Warwick’s body. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum and excursions. Enter King Edward bringing forth the Earl of Warwick, wounded |
+| KING EDWARD | So lie thou there. Die thou, and die our fear—<br>For Warwick was a bug that feared us all.<br>Now, Montague, sit fast—I seek for thee<br>That Warwick’s bones may keep thine company. Exit |
+| WARWICK | Ah, who is nigh? Come to me, friend or foe,<br>And tell me who is victor, York or Warwick?<br>Why ask I that? My mangled body shows,<br>My blood, my want of strength, my sick heart shows,<br>That I must yield my body to the earth<br>And by my fall the conquest to my foe.<br>Thus yields the cedar to the axe’s edge,<br>Whose arms gave shelter to the princely eagle,<br>Under whose shade the ramping lion slept,<br>Whose top-branch over-peered Jove’s spreading tree<br>And kept low shrubs from winter’s powerful wind.<br>These eyes, that now are dimmed with death’s black<br>veil,<br>Have been as piercing as the midday sun<br>To search the secret treasons of the world.<br>The wrinkles in my brows, now filled with blood,<br>Were likened oft to kingly sepulchres—<br>For who lived king, but I could dig his grave?<br>And who durst smile when Warwick bent his brow?<br>Lo now my glory smeared in dust and blood.<br>My parks, my walks, my manors that I had,<br>Even now forsake me, and of all my lands<br>Is nothing left me but my body’s length,<br>Why, what is pomp, rule, reign, but earth and dust?<br>And, live we how we can, yet die we must. |
+| *(didascalia)* | Enter the Earl of Oxford and the Duke of Somerset |
+| SOMERSET | Ah, Warwick, Warwick—wert thou as we are,<br>We might recover all our loss again.<br>The Queen from France hath brought a puissant<br>power.<br>Even now we heard the news. Ah, couldst thou fly! |
+| WARWICK | Why, then I would not fly. Ah, Montague,<br>If thou be there, sweet brother, take my hand,<br>And with thy lips keep in my soul a while.<br>Thou lov’st me not—for, brother, if thou didst,<br>Thy tears would wash this cold congealed blood<br>That glues my lips and will not let me speak.<br>Come quickly, Montague, or I am dead. |
+| SOMERSET | Ah, Warwick—Montague hath breathed his last,<br>And to the latest gasp cried out for Warwick,<br>And said ‘Commend me to my valiant brother.’<br>And more he would have said, and more he spoke,<br>Which sounded like a canon in a vault,<br>That mote not be distinguished; but at last<br>I well might hear, delivered with a groan,<br>‘O, farewell, Warwick.’ |
+| WARWICK | Sweet rest his soul. Fly, lords, and save yourselves—<br>For Warwick bids you all farewell, to meet in heaven.<br>He dies |
+| OXFORD | Away, away—to meet the Queen’s great power!<br>Here they bear away Warwick’s body. Exeunt |

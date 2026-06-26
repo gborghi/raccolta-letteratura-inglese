@@ -14,23 +14,12 @@ tags:
 </nav>
 
 
-Enter the Duke, in his own habit, and Friar Peter
-DUKE
-These letters at fit time deliver me.
-The Provost knows our purpose and our plot.
-The matter being afoot, keep your instruction,
-And hold you ever to our special drift,
-Though sometimes you do blench from this to that
-As cause doth minister. Go call at Flavio’s house,
-And tell him where I stay. Give the like notice
-To Valentinus, Rowland, and to Crassus,
-And bid them bring the trumpets to the gate.
-But send me Flavius first.
-FRIAR It shall be speeded well.
-Exit
-Enter Varrius
-DUKE
-I thank thee, Varrius; thou hast made good haste.
-Come, we will walk. There’s other of our friends
-Will greet us here anon. My gentle Varrius!
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Duke, in his own habit, and Friar Peter |
+| DUKE | These letters at fit time deliver me.<br>The Provost knows our purpose and our plot.<br>The matter being afoot, keep your instruction,<br>And hold you ever to our special drift,<br>Though sometimes you do blench from this to that<br>As cause doth minister. Go call at Flavio’s house,<br>And tell him where I stay. Give the like notice<br>To Valentinus, Rowland, and to Crassus,<br>And bid them bring the trumpets to the gate.<br>But send me Flavius first. |
+| FRIAR | It shall be speeded well. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Enter Varrius |
+| DUKE | I thank thee, Varrius; thou hast made good haste.<br>Come, we will walk. There’s other of our friends<br>Will greet us here anon. My gentle Varrius! |
+| *(didascalia)* | Exeunt |

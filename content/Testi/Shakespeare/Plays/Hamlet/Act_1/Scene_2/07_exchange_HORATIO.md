@@ -13,128 +13,34 @@ tags:
 </nav>
 
 
-HORATIO
-Hail to your lordship.
-
-HAMLET
-I am glad to see you well.
-Horatio—or I do forget myself.
-
-HORATIO
-The same, my lord, and your poor servant ever.
-
-HAMLET
-Sir, my good friend; I’ll change that name with you.
-And what make you from Wittenberg, Horatio?—
-Marcellus.
-
-MARCELLUS My good lord.
-
-HAMLET
-I am very glad to see you. (To Barnardo) Good even,
-sir.—
-But what in faith make you from Wittenberg?
-
-HORATIO
-A truant disposition, good my lord.
-
-HAMLET
-I would not have your enemy say so,
-Nor shall you do mine ear that violence
-To make it truster of your own report
-Against yourself. I know you are no truant.
-But what is your affair in Elsinore?
-We’ll teach you to drink deep ere you depart.
-
-HORATIO
-My lord, I came to see your father’s funeral.
-
-HAMLET
-I prithee do not mock me, fellow-student;
-I think it was to see my mother’s wedding.
-
-HORATIO
-Indeed, my lord, it followed hard upon.
-
-HAMLET
-Thrift, thrift, Horatio. The funeral baked meats
-Did coldly furnish forth the marriage tables.
-Would I had met my dearest foe in heaven
-Ere I had ever seen that day, Horatio.
-My father—methinks I see my father.
-
-HORATIO
-O where, my lord?
-
-HAMLET
-In my mind’s eye, Horatio.
-
-HORATIO
-I saw him once. A was a goodly king.
-
-HAMLET
-A was a man. Take him for all in all,
-I shall not look upon his like again.
-
-HORATIO
-My lord, I think I saw him yesternight.
-
-HAMLET Saw? Who?
-
-HORATIO My lord, the King your father.
-
-HAMLET The King my father?
-
-HORATIO
-Season your admiration for a while
-With an attent ear till I may deliver,
-Upon the witness of these gentlemen,
-This marvel to you.
-
-HAMLET
-For God’s love let me hear!
-
-HORATIO
-Two nights together had these gentlemen,
-Marcellus and Barnardo, on their watch,
-In the dead waste and middle of the night,
-Been thus encountered. A figure like your father,
-Armed at all points exactly, cap-à-pie,
-Appears before them, and with solemn march
-Goes slow and stately by them. Thrice he walked
-By their oppressed and fear-surprised eyes
-Within his truncheon’s length, whilst they distilled
-Almost to jelly with the act of fear
-Stand dumb and speak not to him. This to me
-In dreadful secrecy impart they did,
-And I with them the third night kept the watch,
-Where, as they had delivered, both in time,
-Form of the thing, each word made true and good,
-The apparition comes. I knew your father;
-These hands are not more like.
-
-HAMLET
-But where was this?
-
-MARCELLUS
-My lord, upon the platform where we watched.
-
-HAMLET
-Did you not speak to it?
-
-HORATIO
-My lord, I did,
-But answer made it none; yet once methought
-It lifted up it head and did address
-Itself to motion like as it would speak,
-But even then the morning cock crew loud,
-And at the sound it shrunk in haste away
-And vanished from our sight.
-
-HAMLET
-’Tis very strange.
-
-HORATIO
-As I do live, my honoured lord, ’tis true,
-And we did think it writ down in our duty
-To let you know of it.
+| Chi parla | Battuta |
+|---|---|
+| HORATIO | Hail to your lordship. |
+| HAMLET | I am glad to see you well. Horatio—or I do forget myself. |
+| HORATIO | The same, my lord, and your poor servant ever. |
+| HAMLET | Sir, my good friend; I’ll change that name with you. And what make you from Wittenberg, Horatio?— Marcellus. |
+| MARCELLUS | My good lord. |
+| HAMLET | I am very glad to see you. (To Barnardo) Good even, sir.— But what in faith make you from Wittenberg? |
+| HORATIO | A truant disposition, good my lord. |
+| HAMLET | I would not have your enemy say so, Nor shall you do mine ear that violence To make it truster of your own report Against yourself. I know you are no truant. But what is your affair in Elsinore? We’ll teach you to drink deep ere you depart. |
+| HORATIO | My lord, I came to see your father’s funeral. |
+| HAMLET | I prithee do not mock me, fellow-student; I think it was to see my mother’s wedding. |
+| HORATIO | Indeed, my lord, it followed hard upon. |
+| HAMLET | Thrift, thrift, Horatio. The funeral baked meats Did coldly furnish forth the marriage tables. Would I had met my dearest foe in heaven Ere I had ever seen that day, Horatio. My father—methinks I see my father. |
+| HORATIO | O where, my lord? |
+| HAMLET | In my mind’s eye, Horatio. |
+| HORATIO | I saw him once. A was a goodly king. |
+| HAMLET | A was a man. Take him for all in all, I shall not look upon his like again. |
+| HORATIO | My lord, I think I saw him yesternight. |
+| HAMLET | Saw? Who? |
+| HORATIO | My lord, the King your father. |
+| HAMLET | The King my father? |
+| HORATIO | Season your admiration for a while With an attent ear till I may deliver, Upon the witness of these gentlemen, This marvel to you. |
+| HAMLET | For God’s love let me hear! |
+| HORATIO | Two nights together had these gentlemen, Marcellus and Barnardo, on their watch, In the dead waste and middle of the night, Been thus encountered. A figure like your father, Armed at all points exactly, cap-à-pie, Appears before them, and with solemn march Goes slow and stately by them. Thrice he walked By their oppressed and fear-surprised eyes Within his truncheon’s length, whilst they distilled Almost to jelly with the act of fear Stand dumb and speak not to him. This to me In dreadful secrecy impart they did, And I with them the third night kept the watch, Where, as they had delivered, both in time, Form of the thing, each word made true and good, The apparition comes. I knew your father; These hands are not more like. |
+| HAMLET | But where was this? |
+| MARCELLUS | My lord, upon the platform where we watched. |
+| HAMLET | Did you not speak to it? |
+| HORATIO | My lord, I did, But answer made it none; yet once methought It lifted up it head and did address Itself to motion like as it would speak, But even then the morning cock crew loud, And at the sound it shrunk in haste away And vanished from our sight. |
+| HAMLET | ’Tis very strange. |
+| HORATIO | As I do live, my honoured lord, ’tis true, And we did think it writ down in our duty To let you know of it. |

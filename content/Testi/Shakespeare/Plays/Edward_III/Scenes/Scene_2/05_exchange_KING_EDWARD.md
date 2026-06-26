@@ -13,10 +13,6 @@ tags:
 </nav>
 
 
-KING EDWARD
-As wise as fair—what fond fit can be heard
-When wisdom keeps the gate as beauty’s guard?
-Countess, albeit my business urgeth me
-It shall attend while I attend on thee.
-Come on, my lords, here will I host tonight.
-Exeunt ⌈all but Lodowick⌉
+| Chi parla | Battuta |
+|---|---|
+| KING EDWARD | As wise as fair—what fond fit can be heard When wisdom keeps the gate as beauty’s guard? Countess, albeit my business urgeth me It shall attend while I attend on thee. Come on, my lords, here will I host tonight. Exeunt all but Lodowick |

@@ -14,21 +14,16 @@ tags:
 </nav>
 
 
-Enter Mistress Page, Mistress Ford, and Doctor Caius
-MISTRESS PAGE Master Doctor, my daughter is in green. When you see your time, take her by the hand, away with her to the deanery, and dispatch it quickly. Go before into the Park. We two must go together.
-CAIUS I know vat I have to do. Adieu.
-MISTRESS PAGE Fare you well, sir. Exit Caius
-My husband will not rejoice so much at the abuse of
-Falstaff as he will chafe at the doctor’s marrying my
-daughter. But ’tis no matter. Better a little chiding than
-a great deal of heartbreak.
-MISTRESS FORD Where is Nan now, and her troop of fairies, and the Welsh devil Hugh?
-MISTRESS PAGE They are all couched in a pit hard by Herne’s Oak, with obscured lights, which, at the very instant of Falstaff’s and our meeting, they will at once display to the night.
-MISTRESS FORD That cannot choose but amaze him.
-MISTRESS PAGE If he be not amazed, he will be mocked. If he be amazed, he will every way be mocked.
-MISTRESS FORD We’ll betray him finely.
-MISTRESS PAGE
-Against such lewdsters and their lechery
-Those that betray them do no treachery.
-MISTRESS FORD The hour draws on. To the Oak, to the
-Oak I Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Mistress Page, Mistress Ford, and Doctor Caius |
+| MISTRESS PAGE | Master Doctor, my daughter is in green. When you see your time, take her by the hand, away with her to the deanery, and dispatch it quickly. Go before into the Park. We two must go together. |
+| CAIUS | I know vat I have to do. Adieu. |
+| MISTRESS PAGE | Fare you well, sir. Exit Caius<br>My husband will not rejoice so much at the abuse of<br>Falstaff as he will chafe at the doctor’s marrying my<br>daughter. But ’tis no matter. Better a little chiding than<br>a great deal of heartbreak. |
+| MISTRESS FORD | Where is Nan now, and her troop of fairies, and the Welsh devil Hugh? |
+| MISTRESS PAGE | They are all couched in a pit hard by Herne’s Oak, with obscured lights, which, at the very instant of Falstaff’s and our meeting, they will at once display to the night. |
+| MISTRESS FORD | That cannot choose but amaze him. |
+| MISTRESS PAGE | If he be not amazed, he will be mocked. If he be amazed, he will every way be mocked. |
+| MISTRESS FORD | We’ll betray him finely. |
+| MISTRESS PAGE | Against such lewdsters and their lechery<br>Those that betray them do no treachery. |
+| MISTRESS FORD | The hour draws on. To the Oak, to the<br>Oak I Exeunt |

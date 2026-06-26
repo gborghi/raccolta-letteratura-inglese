@@ -13,10 +13,7 @@ tags:
 </nav>
 
 
-ALL THE FRENCH
-Vive le roil God save King Jean of Francel
-
-KING OF FRANCE
-Now, on this plain of Crécy, spread yourselves.
-And, Edward, when thou dar’st, begin the fight!
-Exit with the French
+| Chi parla | Battuta |
+|---|---|
+| ALL THE FRENCH | Vive le roil God save King Jean of Francel |
+| KING OF FRANCE | Now, on this plain of Crécy, spread yourselves. And, Edward, when thou dar’st, begin the fight! Exit with the French |

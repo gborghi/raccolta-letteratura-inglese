@@ -14,22 +14,14 @@ tags:
 </nav>
 
 
-The battle continues. ⌈Alarums. Excursions. The trumpets sound a retreat.⌉ The Britons fly, Cymbeline is taken. Then enter to his rescue Belarius, Guiderius, and Arviragus
-BELARIUS
-Stand, stand, we have th’advantage of the ground.
-The lane is guarded. Nothing routs us but
-The villainy of our fears.
-GUIDERIUS and ARVIRAGUS Stand, stand, and fight.
-Enter Posthumus like a poor soldier, and seconds the Britons. They rescue Cymbeline and exeunt
-
-5.4 ⌈The trumpets sound a retreat,⌉ then enter Lucius, Giacomo, and Innogen
-LUCIUS (to Innogen)
-Away, boy, from the troops, and save thyself;
-For friends kill friends, and the disorder’s such
-As war were hoodwinked.
-GIACOMO
-’Tis their fresh supplies.
-LUCIUS
-It is a day turned strangely. Or betimes
-Let’s reinforce, or fly.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | The battle continues. Alarums. Excursions. The trumpets sound a retreat. The Britons fly, Cymbeline is taken. Then enter to his rescue Belarius, Guiderius, and Arviragus |
+| BELARIUS | Stand, stand, we have th’advantage of the ground.<br>The lane is guarded. Nothing routs us but<br>The villainy of our fears. |
+| GUIDERIUS | and ARVIRAGUS Stand, stand, and fight. |
+| *(didascalia)* | Enter Posthumus like a poor soldier, and seconds the Britons. They rescue Cymbeline and exeunt |
+| *(didascalia)* | 5.4 The trumpets sound a retreat, then enter Lucius, Giacomo, and Innogen |
+| LUCIUS | (to Innogen)<br>Away, boy, from the troops, and save thyself;<br>For friends kill friends, and the disorder’s such<br>As war were hoodwinked. |
+| GIACOMO | ’Tis their fresh supplies. |
+| LUCIUS | It is a day turned strangely. Or betimes<br>Let’s reinforce, or fly. |
+| *(didascalia)* | Exeunt |

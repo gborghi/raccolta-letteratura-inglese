@@ -14,16 +14,10 @@ tags:
 </nav>
 
 
-Enter Malcolm and Siward
-SIWARD
-This way, my lord. The castle’s gently rendered.
-The tyrant’s people on both sides do fight.
-The noble thanes do bravely in the war.
-The day almost itself professes yours,
-And little is to do.
-MALCOLM
-We have met with foes
-That strike beside us.
-SIWARD
-Enter, sir, the castle.
-Exeunt. Alarum
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Malcolm and Siward |
+| SIWARD | This way, my lord. The castle’s gently rendered.<br>The tyrant’s people on both sides do fight.<br>The noble thanes do bravely in the war.<br>The day almost itself professes yours,<br>And little is to do. |
+| MALCOLM | We have met with foes<br>That strike beside us. |
+| *(didascalia)* | Enter, sir, the castle. |
+| *(didascalia)* | Exeunt. Alarum |

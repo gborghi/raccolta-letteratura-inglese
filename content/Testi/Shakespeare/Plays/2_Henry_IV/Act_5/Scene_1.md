@@ -14,34 +14,36 @@ tags:
 </nav>
 
 
-Enter Shallow, ⌈Silence,⌉ Sir John Falstaff, Bardolph, and the Page
-SHALLOW (to Sir John ) By cock and pie, you shall not away tonight.—What, Davy, I say!
-SIR JOHN You must excuse me, Master Robert Shallow.
-SHALLOW I will not excuse you; you shall not be excused; excuses shall not be admitted; there is no excuse shall serve; you shall not be excused.—Why, Davy!
-Enter Davy
-DAVY Here, sir.
-SHALLOW Davy, Davy, Davy; let me see, Davy; let me see. William Cook—bid him come hither.—Sir John, you shall not be excused.
-DAVY Marry, sir, thus: those precepts cannot be served. And again, sir: shall we sow the headland with wheat?
-SHALLOW With red wheat, Davy. But for William Cook; are there no young pigeons?
-DAVY Yes, sir. Here is now the smith’s note for shoeing and plough-irons.
-SHALLOW Let it be cast and paid. Sir John, you shall not be excused.
-DAVY Sir, a new link to the bucket must needs be had; and, sir, do you mean to stop any of William’s wages, about the sack he lost at Hinkley Fair?
-SHALLOW A shall answer it. Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William Cook.
-DAVY Doth the man of war stay all night, sir?
-SHALLOW Yea, Davy. I will use him well; a friend i’th’ court is better than a penny in purse. Use his men well, Davy, for they are arrant knaves, and will backbite.
-DAVY No worse than they are back-bitten, sir, for they have marvellous foul linen.
-SHALLOW Well conceited, Davy. About thy business, Davy.
-DAVY I beseech you, sir, to countenance William Visor of Wo’ncot against Clement Perks o’th’ Hill.
-SHALLOW There is many complaints, Davy, against that Visor. That Visor is an arrant knave, on my knowledge.
-DAVY I grant your worship that he is a knave, sir; but yet God forbid, sir, but a knave should have some countenance at his friend’s request. An honest man, sir, is able to speak for himself, when a knave is not. I have served your worship truly, sir, this eight years. An I cannot once or twice in a quarter bear out a knave against an honest man, I have little credit with your worship. The knave is mine honest friend, sir; therefore I beseech you let him be countenanced.
-SHALLOW Go to; I say he shall have no wrong. Look about, Davy. ⌈Exit Davy⌉ Where are you, Sir John? Come, off with your boots.—Give me your hand, Master Bardolph.
-BARDOLPH I am glad to see your worship. 49
-SHALLOW I thank thee with all my heart, kind Master Bardolph. ⌈To the Page⌉ And welcome, my tall fellow.—Come, Sir John.
-SIR JOHN I’ll follow you, good Master Robert Shallow.
-Exit Shallow ⌈With Silence⌉
-Bardolph, look to our horses. 54
-Exit Bardolph ⌈With the Page⌉
-If I were sawed into quantities, I should make four dozen of such bearded hermits’ staves as Master Shallow. It is a wonderful thing to see the semblable coherence of his men’s spirits and his. They, by observing him, do bear themselves like foolish justices; he, by conversing with them, is turned into a justice-like servingman. Their spirits are so married in conjunction, with the participation of society, that they flock together in consent like so many wild geese. If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master; if to his men, I would curry with Master Shallow that no man could better command his servants. It is certain that either wise bearing or ignorant carriage is caught as men take diseases, one of another; therefore let men take heed of their company. I will devise matter enough out of this Shallow to keep Prince Harry in continual laughter the wearing out of six fashions—which is four terms, or two actions—and a shall laugh without intervallums. O, it is much that a lie with a slight oath, and a jest with a sad brow, will do with a fellow that never had the ache in his shoulders! O, you shall see him laugh till his face be like a wet cloak ill laid up!
-SHALLOW (within) Sir John!
-SIR JOHN I come, Master Shallow; I come, Master Shallow.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Shallow, Silence, Sir John Falstaff, Bardolph, and the Page |
+| SHALLOW | (to Sir John ) By cock and pie, you shall not away tonight.—What, Davy, I say! |
+| SIR JOHN | You must excuse me, Master Robert Shallow. |
+| SHALLOW | I will not excuse you; you shall not be excused; excuses shall not be admitted; there is no excuse shall serve; you shall not be excused.—Why, Davy! |
+| *(didascalia)* | Enter Davy |
+| DAVY | Here, sir. |
+| SHALLOW | Davy, Davy, Davy; let me see, Davy; let me see. William Cook—bid him come hither.—Sir John, you shall not be excused. |
+| DAVY | Marry, sir, thus: those precepts cannot be served. And again, sir: shall we sow the headland with wheat? |
+| SHALLOW | With red wheat, Davy. But for William Cook; are there no young pigeons? |
+| DAVY | Yes, sir. Here is now the smith’s note for shoeing and plough-irons. |
+| SHALLOW | Let it be cast and paid. Sir John, you shall not be excused. |
+| DAVY | Sir, a new link to the bucket must needs be had; and, sir, do you mean to stop any of William’s wages, about the sack he lost at Hinkley Fair? |
+| SHALLOW | A shall answer it. Some pigeons, Davy, a couple of short-legged hens, a joint of mutton, and any pretty little tiny kickshaws, tell William Cook. |
+| DAVY | Doth the man of war stay all night, sir? |
+| SHALLOW | Yea, Davy. I will use him well; a friend i’th’ court is better than a penny in purse. Use his men well, Davy, for they are arrant knaves, and will backbite. |
+| DAVY | No worse than they are back-bitten, sir, for they have marvellous foul linen. |
+| SHALLOW | Well conceited, Davy. About thy business, Davy. |
+| DAVY | I beseech you, sir, to countenance William Visor of Wo’ncot against Clement Perks o’th’ Hill. |
+| SHALLOW | There is many complaints, Davy, against that Visor. That Visor is an arrant knave, on my knowledge. |
+| DAVY | I grant your worship that he is a knave, sir; but yet God forbid, sir, but a knave should have some countenance at his friend’s request. An honest man, sir, is able to speak for himself, when a knave is not. I have served your worship truly, sir, this eight years. An I cannot once or twice in a quarter bear out a knave against an honest man, I have little credit with your worship. The knave is mine honest friend, sir; therefore I beseech you let him be countenanced. |
+| *(didascalia)* | SHALLOW Go to; I say he shall have no wrong. Look about, Davy. Exit Davy Where are you, Sir John? Come, off with your boots.—Give me your hand, Master Bardolph. |
+| BARDOLPH | I am glad to see your worship. 49 |
+| *(didascalia)* | SHALLOW I thank thee with all my heart, kind Master Bardolph. To the Page And welcome, my tall fellow.—Come, Sir John. |
+| SIR JOHN | I’ll follow you, good Master Robert Shallow. |
+| *(didascalia)* | Exit Shallow With Silence |
+| SIR JOHN | Bardolph, look to our horses. 54 |
+| *(didascalia)* | Exit Bardolph With the Page |
+| SIR JOHN | If I were sawed into quantities, I should make four dozen of such bearded hermits’ staves as Master Shallow. It is a wonderful thing to see the semblable coherence of his men’s spirits and his. They, by observing him, do bear themselves like foolish justices; he, by conversing with them, is turned into a justice-like servingman. Their spirits are so married in conjunction, with the participation of society, that they flock together in consent like so many wild geese. If I had a suit to Master Shallow, I would humour his men with the imputation of being near their master; if to his men, I would curry with Master Shallow that no man could better command his servants. It is certain that either wise bearing or ignorant carriage is caught as men take diseases, one of another; therefore let men take heed of their company. I will devise matter enough out of this Shallow to keep Prince Harry in continual laughter the wearing out of six fashions—which is four terms, or two actions—and a shall laugh without intervallums. O, it is much that a lie with a slight oath, and a jest with a sad brow, will do with a fellow that never had the ache in his shoulders! O, you shall see him laugh till his face be like a wet cloak ill laid up! |
+| SHALLOW | (within) Sir John! |
+| SIR JOHN | I come, Master Shallow; I come, Master Shallow. |
+| *(didascalia)* | Exit |

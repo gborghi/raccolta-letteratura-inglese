@@ -13,21 +13,10 @@ tags:
 </nav>
 
 
-QUEEN MARGARET
-Away. Though parting be a fretful corrosive,
-It is applied to a deathful wound.
-To France, sweet Suffolk. Let me hear from thee.
-For wheresoe’er thou art in this world’s Globe
-I’ll have an Iris that shall find thee out.
-
-SUFFOLK
-I go.
-
-QUEEN MARGARET And take my heart with thee.
-⌈She kisseth him⌉
-
-SUFFOLK
-A jewel, locked into the woefull’st cask That ever did contain a thing of worth. Even as a splitted barque, so sunder we—This way fall I to death.
-
-QUEEN MARGARET This way for me.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| QUEEN MARGARET | Away. Though parting be a fretful corrosive, It is applied to a deathful wound. To France, sweet Suffolk. Let me hear from thee. For wheresoe’er thou art in this world’s Globe I’ll have an Iris that shall find thee out. |
+| SUFFOLK | I go. |
+| QUEEN MARGARET | And take my heart with thee. She kisseth him |
+| SUFFOLK | A jewel, locked into the woefull’st cask That ever did contain a thing of worth. Even as a splitted barque, so sunder we—This way fall I to death. |
+| QUEEN MARGARET | This way for me. Exeunt severally |

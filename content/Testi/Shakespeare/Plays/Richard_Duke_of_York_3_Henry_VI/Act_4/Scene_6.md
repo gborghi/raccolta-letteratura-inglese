@@ -14,47 +14,21 @@ tags:
 </nav>
 
 
-Enter Richard Duke of Gloucester, Lord Hastings, and Sir William Stanley, ⌈with soldiers⌉
-RICHARD OF GLOUCESTER
-Now my lord Hastings and Sir William Stanley,
-Leave off to wonder why I drew you hither
-Into this chiefest thicket of the park.
-Thus stands the case: you know our King, my brother,
-Is prisoner to the Bishop here, at whose hands
-He hath good usage and great liberty,
-And, often but attended with weak guard,
-Comes hunting this way to disport himself.
-I have advertised him by secret means
-That if about this hour he make this way
-Under the colour of his usual game,
-He shall here find his friends with horse and men
-To set him free from his captivity.
-Enter King Edward and a Huntsman with him
-HUNTSMAN
-This way, my lord—for this way lies the game.
-KING EDWARD
-Nay, this way, man—see where the huntsmen stand.
-Now, brother of Gloucester, Lord Hastings, and the
-rest,
-Stand you thus close to steal the Bishop’s deer?
-RICHARD OF GLOUCESTER
-Brother, the time and case requireth haste.
-Your horse stands ready at the park corner.
-KING EDWARD But whither shall we then?
-HASTINGS To Lynn, my lord,
-And shipped from thence to Flanders.
-RICHARD OF GLOUCESTER ⌈aside⌉
-Well guessed, believe me—for that was my meaning.
-KING EDWARD
-Stanley, I will requite thy forwardness.
-RICHARD OF GLOUCESTER
-But wherefore stay we? ’Tis no time to talk.
-KING EDWARD
-Huntsman, what sayst thou? Wilt thou go along?
-HUNTSMAN
-Better do so than tarry and be hanged.
-RICHARD OF GLOUCESTER
-Come then, away—let’s have no more ado.
-KING EDWARD
-Bishop, farewell—shield thee from Warwick’s frown,
-And pray that I may repossess the crown. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Richard Duke of Gloucester, Lord Hastings, and Sir William Stanley, with soldiers |
+| RICHARD OF GLOUCESTER | Now my lord Hastings and Sir William Stanley,<br>Leave off to wonder why I drew you hither<br>Into this chiefest thicket of the park.<br>Thus stands the case: you know our King, my brother,<br>Is prisoner to the Bishop here, at whose hands<br>He hath good usage and great liberty,<br>And, often but attended with weak guard,<br>Comes hunting this way to disport himself.<br>I have advertised him by secret means<br>That if about this hour he make this way<br>Under the colour of his usual game,<br>He shall here find his friends with horse and men<br>To set him free from his captivity. |
+| *(didascalia)* | Enter King Edward and a Huntsman with him |
+| HUNTSMAN | This way, my lord—for this way lies the game. |
+| KING EDWARD | Nay, this way, man—see where the huntsmen stand.<br>Now, brother of Gloucester, Lord Hastings, and the<br>rest,<br>Stand you thus close to steal the Bishop’s deer? |
+| RICHARD OF GLOUCESTER | Brother, the time and case requireth haste.<br>Your horse stands ready at the park corner. |
+| KING EDWARD | But whither shall we then? |
+| HASTINGS | To Lynn, my lord,<br>And shipped from thence to Flanders. |
+| *(didascalia)* | RICHARD OF GLOUCESTER aside |
+| HASTINGS | Well guessed, believe me—for that was my meaning. |
+| KING EDWARD | Stanley, I will requite thy forwardness. |
+| RICHARD OF GLOUCESTER | But wherefore stay we? ’Tis no time to talk. |
+| KING EDWARD | Huntsman, what sayst thou? Wilt thou go along? |
+| HUNTSMAN | Better do so than tarry and be hanged. |
+| RICHARD OF GLOUCESTER | Come then, away—let’s have no more ado. |
+| KING EDWARD | Bishop, farewell—shield thee from Warwick’s frown,<br>And pray that I may repossess the crown. Exeunt |

@@ -14,119 +14,36 @@ tags:
 </nav>
 
 
-Enter Caesar with his council of war: Agrippa, Dolabella, Maecenas, Gallus, Proculeius
-CAESAR
-Go to him, Dolabella, bid him yield.
-Being so frustrate, tell him, he but mocks
-The pauses that he makes.
-DOLABELLA
-Caesar, I shall. Exit
-Enter Decretas with the sword of Antony
-CAESAR
-Wherefore is that? And what art thou that dar’st
-Appear thus to us?
-DECRETAS
-I am called Decretas.
-Mark Antony I served, who best was worthy
-Best to be served. Whilst he stood up and spoke
-He was my master, and I wore my life
-To spend upon his haters. If thou please
-To take me to thee, as I was to him
-I’ll be to Caesar; if thou pleasest not,
-I yield thee up my life.
-CAESAR
-What is’t thou sayst?
-DECRETAS
-I say, O Caesar, Antony is dead.
-CAESAR
-The breaking of so great a thing should make
-A greater crack. The rived world
-Should have shook lions into civil streets,
-And citizens to their dens. The death of Antony
-Is not a single doom; in that name lay
-A moiety of the world.
-DECRETAS
-He is dead, Caesar,
-Not by a public minister of justice,
-Nor by a hired knife; but that self hand
-Which writ his honour in the acts it did
-Hath, with the courage which the heart did lend it,
-Splitted the heart. This is his sword;
-I robbed his wound of it. Behold it stained
-With his most noble blood.
-CAESAR (weeping)
-Look you, sad friends, The gods rebuke me; but it is a tidings
-To wash the eyes of kings.
-⌈AGRIPPA⌉
-And strange it is
-That nature must compel us to lament
-Our most persisted deeds.
-MAECENAS
-His taints and honours
-Waged equal with him.
-⌈AGRIPPA⌉
-A rarer spirit never
-Did steer humanity; but you gods will give us
-Some faults to make us men. Caesar is touched.
-MAECENAS
-When such a spacious mirror’s set before him
-He needs must see himself.
-CAESAR
-O Antony, I have followed thee to this. But we do lance
-Diseases in our bodies. I must perforce
-Have shown to thee such a declining day,
-Or look on thine. We could not stall together
-In the whole world. But yet let me lament,
-With tears as sovereign as the blood of hearts,
-That thou, my brother, my competitor
-In top of all design, my mate in empire,
-Friend and companion in the front of war,
-The arm of mine own body, and the heart
-Where mine his thoughts did kindle—that our stars,
-Unreconciliable, should divide
-Our equalness to this. Hear me, good friends—
-Enter an Egyptian
-But I will tell you at some meeter season.
-The business of this man looks out of him;
-We’ll hear him what he says.—Whence are you?
-EGYPTIAN
-A poor Egyptian, yet the Queen my mistress,
-Confined in all she has, her monument,
-Of thy intents desires instruction,
-That she preparèdly may frame herself
-To th’ way she’s forced to.
-CAESAR
-Bid her have good heart.
-She soon shall know of us, by some of ours,
-How honourable and how kindly we
-Determine for her. For Caesar cannot live
-To be ungentle.
-EGYPTIAN
-So; the gods preserve thee! Exit
-CAESAR
-Come hither, Proculeius. Go, and say
-We purpose her no shame. Give her what comforts
-The quality of her passion shall require,
-Lest in her greatness, by some mortal stroke,
-She do defeat us; for her life in Rome
-Would be eternal in our triumph. Go,
-And with your speediest bring us what she says
-And how you find of her.
-PROCULEIUS
-Caesar, I shall. Exit
-CAESAR
-Gallus, go you along.
-Exit Gallus
-Where’s Dolabella,
-To second Proculeius?
-ALL BUT CAESAR
-Dolabella!
-CAESAR
-Let him alone; for I remember now
-How he’s employed. He shall in time be ready.
-Go with me to my tent, where you shall see
-How hardly I was drawn into this war,
-How calm and gentle I proceeded still
-In all my writings. Go with me, and see
-What I can show in this.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Caesar with his council of war: Agrippa, Dolabella, Maecenas, Gallus, Proculeius |
+| CAESAR | Go to him, Dolabella, bid him yield.<br>Being so frustrate, tell him, he but mocks<br>The pauses that he makes. |
+| DOLABELLA | Caesar, I shall. Exit |
+| *(didascalia)* | Enter Decretas with the sword of Antony |
+| CAESAR | Wherefore is that? And what art thou that dar’st<br>Appear thus to us? |
+| DECRETAS | I am called Decretas.<br>Mark Antony I served, who best was worthy<br>Best to be served. Whilst he stood up and spoke<br>He was my master, and I wore my life<br>To spend upon his haters. If thou please<br>To take me to thee, as I was to him<br>I’ll be to Caesar; if thou pleasest not,<br>I yield thee up my life. |
+| CAESAR | What is’t thou sayst? |
+| DECRETAS | I say, O Caesar, Antony is dead. |
+| CAESAR | The breaking of so great a thing should make<br>A greater crack. The rived world<br>Should have shook lions into civil streets,<br>And citizens to their dens. The death of Antony<br>Is not a single doom; in that name lay<br>A moiety of the world. |
+| DECRETAS | He is dead, Caesar,<br>Not by a public minister of justice,<br>Nor by a hired knife; but that self hand<br>Which writ his honour in the acts it did<br>Hath, with the courage which the heart did lend it,<br>Splitted the heart. This is his sword;<br>I robbed his wound of it. Behold it stained<br>With his most noble blood. |
+| CAESAR | (weeping)<br>Look you, sad friends, The gods rebuke me; but it is a tidings<br>To wash the eyes of kings. |
+| *(didascalia)* | AGRIPPA |
+| CAESAR | And strange it is<br>That nature must compel us to lament<br>Our most persisted deeds. |
+| MAECENAS | His taints and honours<br>Waged equal with him. |
+| *(didascalia)* | AGRIPPA |
+| MAECENAS | A rarer spirit never<br>Did steer humanity; but you gods will give us<br>Some faults to make us men. Caesar is touched. |
+| MAECENAS | When such a spacious mirror’s set before him<br>He needs must see himself. |
+| CAESAR | O Antony, I have followed thee to this. But we do lance<br>Diseases in our bodies. I must perforce<br>Have shown to thee such a declining day,<br>Or look on thine. We could not stall together<br>In the whole world. But yet let me lament,<br>With tears as sovereign as the blood of hearts,<br>That thou, my brother, my competitor<br>In top of all design, my mate in empire,<br>Friend and companion in the front of war,<br>The arm of mine own body, and the heart<br>Where mine his thoughts did kindle—that our stars,<br>Unreconciliable, should divide<br>Our equalness to this. Hear me, good friends— |
+| *(didascalia)* | Enter an Egyptian |
+| CAESAR | But I will tell you at some meeter season.<br>The business of this man looks out of him;<br>We’ll hear him what he says.—Whence are you? |
+| EGYPTIAN | A poor Egyptian, yet the Queen my mistress,<br>Confined in all she has, her monument,<br>Of thy intents desires instruction,<br>That she preparèdly may frame herself<br>To th’ way she’s forced to. |
+| CAESAR | Bid her have good heart.<br>She soon shall know of us, by some of ours,<br>How honourable and how kindly we<br>Determine for her. For Caesar cannot live<br>To be ungentle. |
+| EGYPTIAN | So; the gods preserve thee! Exit |
+| CAESAR | Come hither, Proculeius. Go, and say<br>We purpose her no shame. Give her what comforts<br>The quality of her passion shall require,<br>Lest in her greatness, by some mortal stroke,<br>She do defeat us; for her life in Rome<br>Would be eternal in our triumph. Go,<br>And with your speediest bring us what she says<br>And how you find of her. |
+| PROCULEIUS | Caesar, I shall. Exit |
+| CAESAR | Gallus, go you along. |
+| *(didascalia)* | Exit Gallus |
+| CAESAR | Where’s Dolabella,<br>To second Proculeius? |
+| ALL BUT CAESAR | Dolabella! |
+| CAESAR | Let him alone; for I remember now<br>How he’s employed. He shall in time be ready.<br>Go with me to my tent, where you shall see<br>How hardly I was drawn into this war,<br>How calm and gentle I proceeded still<br>In all my writings. Go with me, and see<br>What I can show in this. |
+| *(didascalia)* | Exeunt |

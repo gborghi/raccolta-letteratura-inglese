@@ -14,151 +14,43 @@ tags:
 </nav>
 
 
-A loud alarum. Enter Lord Clifford, wounded ⌈with an arrow in his neck⌉
-CLIFFORD
-Here burns my candle out—ay, here it dies,
-Which, whiles it lasted, gave King Henry light.
-O Lancaster, I fear thy overthrow
-More than my body’s parting with my soul!
-My love and fear glued many friends to thee—
-And, now I fall, thy tough commixture melts,
-Impairing Henry, strength’ning misproud York.
-The common people swarm like summer flies,
-And whither fly the gnats but to the sun?
-And who shines now but Henry’s enemies?
-O Phoebus, hadst thou never given consent
-That Phaeton should check thy fiery steeds,
-Thy burning car never had scorched the earth!
-And, Henry, hadst thou swayed as kings should do,
-Or as thy father and his father did,
-Giving no ground unto the house of York,
-They never then had sprung like summer flies;
-I and ten thousand in this luckless realm
-Had left no mourning widows for our death;
-And thou this day hadst kept thy chair in peace.
-For what doth cherish weeds, but gentle air?
-And what makes robbers bold, but too much lenity?
-Bootless are plaints, and cureless are my wounds;
-No way to fly, nor strength to hold out flight;
-The foe is merciless and will not pity,
-For at their hands I have deserved no pity.
-The air hath got into my deadly wounds,
-And much effuse of blood doth make me faint.
-Come York and Richard, Warwick and the rest—
-I stabbed your fathers’ bosoms; split my breast.
-⌈He faints.⌉
-Alarum and retreat. Enter Edward Duke of York,
-
-his brothers George and Richard, the Earl of
-
-Warwick, ⌈the Marquis of Montague,⌉ and soldiers
-EDWARD
-Now breathe we, lords—good fortune bids us pause,
-And smooth the frowns of war with peaceful looks.
-Some troops pursue the bloody-minded Queen,
-That led calm Henry, though he were a king,
-As doth a sail filled with a fretting gust
-Command an argosy to stem the waves.
-But think you, lords, that Clifford fled with them?
-WARWICK
-No—‘tis impossible he should escape;
-For, though before his face I speak the words,
-Your brother Richard marked him for the grave.
-And whereso’er he is, he’s surely dead.
-Clifford groans
-⌈EDWARD⌉
-Whose soul is that which takes her heavy leave?
-⌈RICHARD⌉
-A deadly groan, like life and death’s departing.
-⌈EDWARD⌉ ⌈to Richard⌉
-See who it is.
-⌈Richard goes to Clifford⌉
-And now the battle’s ended,
-If friend or foe, let him be gently used.
-RICHARD
-Revoke that doom of mercy, for ‘tis Clifford;
-Who not contented that he lopped the branch
-In hewing Rutland when his leaves put forth,
-But set his murd’ring knife unto the root
-From whence that tender spray did sweetly spring—
-I mean our princely father, Duke of York.
-WARWICK
-From off the gates of York fetch down the head,
-Your father’s head, which Clifford placed there.
-Instead whereof let this supply the room—
-Measure for measure must be answerèd.
-EDWARD
-Bring forth that fatal screech-owl to our house,
-That nothing sung but death to us and ours.
-⌈Clifford is dragged forward⌉
-Now death shall stop his dismal threat’ning sound
-And his ill-boding tongue no more shall speak.
-WARWICK
-I think his understanding is bereft.
-Speak, Clifford, dost thou know who speaks to thee?
-Dark cloudy death o’ershades his beams of life,
-And he nor sees nor hears us what we say.
-RICHARD
-O, would he did—and so perhaps he doth.
-’Tis but his policy to counterfeit,
-Because he would avoid such bitter taunts
-Which in the time of death he gave our father.
-GEORGE
-If so thou think’st, vex him with eager words.
-RICHARD
-Clifford, ask mercy and obtain no grace.
-EDWARD
-Clifford, repent in bootless penitence.
-WARWICK
-Clifford, devise excuses for thy faults.
-GEORGE
-While we devise fell tortures for thy faults.
-RICHARD
-Thou didst love York, and I am son to York.
-EDWARD
-Thou pitied’st Rutland—I will pity thee.
-GEORGE
-Where’s Captain Margaret to fence you now?
-WARWICK
-They mock thee, Clifford—swear as thou wast wont.
-RICHARD
-What, not an oath? Nay, then, the world goes hard
-When Clifford cannot spare his friends an oath.
-I know by that he’s dead—and, by my soul,
-If this right hand would buy but two hours’ life
-That I, in all despite, might rail at him,
-This hand should chop it off, and with the issuing
-blood
-Stifle the villain whose unstanchèd thirst
-York and young Rutland could not satisfy.
-WARWICK
-Ay, but he’s dead. Off with the traitor’s head,
-And rear it in the place your father’s stands.
-And now to London with triumphant march,
-There to be crowned England’s royal king;
-From whence shall Warwick cut the sea to France,
-And ask the Lady Bona for thy queen.
-So shalt thou sinew both these lands together.
-And, having France thy friend, thou shalt not dread
-The scattered foe that hopes to rise again,
-For though they cannot greatly sting to hurt,
-Yet look to have them buzz to offend thine ears.
-First will I see the coronation,
-And then to Brittany I’ll cross the sea
-To effect this marriage, so it please my lord.
-EDWARD
-Even as thou wilt, sweet Warwick, let it be.
-For in thy shoulder do I build my seat,
-And never will I undertake the thing
-Wherein thy counsel and consent is wanting.
-Richard, I will create thee Duke of Gloucester,
-And George, of Clarence; Warwick, as ourself,
-Shall do and undo as him pleaseth best.
-RICHARD
-Let me be Duke of Clarence, George of Gloucester—
-For Gloucester’s dukedom is too ominous.
-WARWICK
-Tut, that’s a foolish observation—
-Richard, be Duke of Gloucester. Now to London
-To see these honours in possession.
-Exeunt. ⌈York’s head is removed⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A loud alarum. Enter Lord Clifford, wounded with an arrow in his neck |
+| CLIFFORD | Here burns my candle out—ay, here it dies,<br>Which, whiles it lasted, gave King Henry light.<br>O Lancaster, I fear thy overthrow<br>More than my body’s parting with my soul!<br>My love and fear glued many friends to thee—<br>And, now I fall, thy tough commixture melts,<br>Impairing Henry, strength’ning misproud York.<br>The common people swarm like summer flies,<br>And whither fly the gnats but to the sun?<br>And who shines now but Henry’s enemies?<br>O Phoebus, hadst thou never given consent<br>That Phaeton should check thy fiery steeds,<br>Thy burning car never had scorched the earth!<br>And, Henry, hadst thou swayed as kings should do,<br>Or as thy father and his father did,<br>Giving no ground unto the house of York,<br>They never then had sprung like summer flies;<br>I and ten thousand in this luckless realm<br>Had left no mourning widows for our death;<br>And thou this day hadst kept thy chair in peace.<br>For what doth cherish weeds, but gentle air?<br>And what makes robbers bold, but too much lenity?<br>Bootless are plaints, and cureless are my wounds;<br>No way to fly, nor strength to hold out flight;<br>The foe is merciless and will not pity,<br>For at their hands I have deserved no pity.<br>The air hath got into my deadly wounds,<br>And much effuse of blood doth make me faint.<br>Come York and Richard, Warwick and the rest—<br>I stabbed your fathers’ bosoms; split my breast. |
+| *(didascalia)* | He faints. |
+| *(didascalia)* | Alarum and retreat. Enter Edward Duke of York, |
+| CLIFFORD | his brothers George and Richard, the Earl of |
+| *(didascalia)* | Warwick, the Marquis of Montague, and soldiers |
+| EDWARD | Now breathe we, lords—good fortune bids us pause,<br>And smooth the frowns of war with peaceful looks.<br>Some troops pursue the bloody-minded Queen,<br>That led calm Henry, though he were a king,<br>As doth a sail filled with a fretting gust<br>Command an argosy to stem the waves.<br>But think you, lords, that Clifford fled with them? |
+| WARWICK | No—‘tis impossible he should escape;<br>For, though before his face I speak the words,<br>Your brother Richard marked him for the grave.<br>And whereso’er he is, he’s surely dead.<br>Clifford groans |
+| *(didascalia)* | EDWARD |
+| WARWICK | Whose soul is that which takes her heavy leave? |
+| *(didascalia)* | RICHARD |
+| WARWICK | A deadly groan, like life and death’s departing. |
+| *(didascalia)* | EDWARD to Richard |
+| WARWICK | See who it is. |
+| *(didascalia)* | Richard goes to Clifford |
+| WARWICK | And now the battle’s ended,<br>If friend or foe, let him be gently used. |
+| RICHARD | Revoke that doom of mercy, for ‘tis Clifford;<br>Who not contented that he lopped the branch<br>In hewing Rutland when his leaves put forth,<br>But set his murd’ring knife unto the root<br>From whence that tender spray did sweetly spring—<br>I mean our princely father, Duke of York. |
+| WARWICK | From off the gates of York fetch down the head,<br>Your father’s head, which Clifford placed there.<br>Instead whereof let this supply the room—<br>Measure for measure must be answerèd. |
+| EDWARD | Bring forth that fatal screech-owl to our house,<br>That nothing sung but death to us and ours. |
+| *(didascalia)* | Clifford is dragged forward |
+| EDWARD | Now death shall stop his dismal threat’ning sound<br>And his ill-boding tongue no more shall speak. |
+| WARWICK | I think his understanding is bereft.<br>Speak, Clifford, dost thou know who speaks to thee?<br>Dark cloudy death o’ershades his beams of life,<br>And he nor sees nor hears us what we say. |
+| RICHARD | O, would he did—and so perhaps he doth.<br>’Tis but his policy to counterfeit,<br>Because he would avoid such bitter taunts<br>Which in the time of death he gave our father. |
+| GEORGE | If so thou think’st, vex him with eager words. |
+| RICHARD | Clifford, ask mercy and obtain no grace. |
+| EDWARD | Clifford, repent in bootless penitence. |
+| WARWICK | Clifford, devise excuses for thy faults. |
+| GEORGE | While we devise fell tortures for thy faults. |
+| RICHARD | Thou didst love York, and I am son to York. |
+| EDWARD | Thou pitied’st Rutland—I will pity thee. |
+| GEORGE | Where’s Captain Margaret to fence you now? |
+| WARWICK | They mock thee, Clifford—swear as thou wast wont. |
+| RICHARD | What, not an oath? Nay, then, the world goes hard<br>When Clifford cannot spare his friends an oath.<br>I know by that he’s dead—and, by my soul,<br>If this right hand would buy but two hours’ life<br>That I, in all despite, might rail at him,<br>This hand should chop it off, and with the issuing<br>blood<br>Stifle the villain whose unstanchèd thirst<br>York and young Rutland could not satisfy. |
+| WARWICK | Ay, but he’s dead. Off with the traitor’s head,<br>And rear it in the place your father’s stands.<br>And now to London with triumphant march,<br>There to be crowned England’s royal king;<br>From whence shall Warwick cut the sea to France,<br>And ask the Lady Bona for thy queen.<br>So shalt thou sinew both these lands together.<br>And, having France thy friend, thou shalt not dread<br>The scattered foe that hopes to rise again,<br>For though they cannot greatly sting to hurt,<br>Yet look to have them buzz to offend thine ears.<br>First will I see the coronation,<br>And then to Brittany I’ll cross the sea<br>To effect this marriage, so it please my lord. |
+| EDWARD | Even as thou wilt, sweet Warwick, let it be.<br>For in thy shoulder do I build my seat,<br>And never will I undertake the thing<br>Wherein thy counsel and consent is wanting.<br>Richard, I will create thee Duke of Gloucester,<br>And George, of Clarence; Warwick, as ourself,<br>Shall do and undo as him pleaseth best. |
+| RICHARD | Let me be Duke of Clarence, George of Gloucester—<br>For Gloucester’s dukedom is too ominous. |
+| WARWICK | Tut, that’s a foolish observation—<br>Richard, be Duke of Gloucester. Now to London<br>To see these honours in possession. |
+| *(didascalia)* | Exeunt. York’s head is removed |

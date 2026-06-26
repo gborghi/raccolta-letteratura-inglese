@@ -13,44 +13,11 @@ tags:
 </nav>
 
 
-Enter Hotspur, the Earl of Worcester, Lord Mortimer, and Owain Glyndŵr, with a map
-
-MORTIMER
-These promises are fair, the parties sure,
-And our induction full of prosperous hope.
-
-HOTSPUR
-Lord Mortimer and cousin Glyndŵr,
-Will you sit down? And uncle Worcester?
-⌈Mortimer, Glyndŵr, and Worcester sit⌉
-A plague upon it, I have forgot the map!
-GLYNDŴR
-No, here it is. Sit, cousin Percy, sit,
-Good cousin Hotspur;
-⌈Hotspur sits⌉
-For by that name
-As oft as Lancaster doth speak of you,
-His cheek looks pale, and with a rising sigh
-He wisheth you in heaven.
-
-HOTSPUR And you in hell,
-As oft as he hears Owain Glyndŵr spoke of.
-GLYNDŴR
-I cannot blame him. At my nativity
-The front of heaven was full of fiery shapes,
-Of burning cressets; and at my birth
-The frame and huge foundation of the earth
-Shaked like a coward.
-
-HOTSPUR Why, so it would have done
-At the same season if your mother’s cat
-Had but kittened, though yourself had never been
-born.
-GLYNDŴR
-I say the earth did shake when I was born.
-
-HOTSPUR
-And I say the earth was not of my mind
-If you suppose as fearing you it shook.
-GLYNDŴR
-The heavens were all on fire, the earth did tremble—
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Hotspur, the Earl of Worcester, Lord Mortimer, and Owain Glyndŵr, with a map |
+| MORTIMER | These promises are fair, the parties sure, And our induction full of prosperous hope. |
+| HOTSPUR | Lord Mortimer and cousin Glyndŵr, Will you sit down? And uncle Worcester? Mortimer, Glyndŵr, and Worcester sit A plague upon it, I have forgot the map! GLYNDŴR No, here it is. Sit, cousin Percy, sit, Good cousin Hotspur; Hotspur sits For by that name As oft as Lancaster doth speak of you, His cheek looks pale, and with a rising sigh He wisheth you in heaven. |
+| HOTSPUR | And you in hell, As oft as he hears Owain Glyndŵr spoke of. GLYNDŴR I cannot blame him. At my nativity The front of heaven was full of fiery shapes, Of burning cressets; and at my birth The frame and huge foundation of the earth Shaked like a coward. |
+| HOTSPUR | Why, so it would have done At the same season if your mother’s cat Had but kittened, though yourself had never been born. GLYNDŴR I say the earth did shake when I was born. |
+| HOTSPUR | And I say the earth was not of my mind If you suppose as fearing you it shook. GLYNDŴR The heavens were all on fire, the earth did tremble— |

@@ -14,46 +14,11 @@ tags:
 </nav>
 
 
-Enter Aufidius, bloody, with two or three Soldiers AUFIDIUS The town is ta’en.
-A SOLDIER
-’Twill be delivered back on good condition.
-AUFIDIUS Condition?
-I would I were a Roman, for I cannot,
-Being a Volsce, be that I am. Condition?
-What good condition can a treaty find
-I‘th’ part that is at mercy? Five times, Martius,
-I have fought with thee; so often hast thou beat me,
-And wouldst do so, I think, should we encounter
-As often as we eat. By th’ elements,
-If e’er again I meet him beard to beard,
-He’s mine, or I am his! Mine emulation
-Hath not that honour in’t it had, for where
-I thought to crush him in an equal force,
-True sword to sword, I’ll potch at him some way
-Or wrath or craft may get him.
-A SOLDIER
-He’s the devil.
-AUFIDIUS
-Bolder, though not so subtle. My valour, poisoned
-With only suff‘ring stain by him, for him
-Shall fly out of itself. Nor sleep nor sanctuary,
-Being naked, sick, nor fane nor Capitol,
-The prayers of priests nor times of sacrifice—
-Embargements all of fury—shall lift up
-Their rotten privilege and custom ’gainst
-My hate to Martius. Where I find him, were it
-At home upon my brother’s guard, even there,
-Against the hospitable canon, would I
-Wash my fierce hand in’s heart. Go you to th’ city.
-Learn how ’tis held, and what they are that must
-Be hostages for Rome.
-A SOLDIER
-Will not you go?
-AUFIDIUS
-I am attended at the cypress grove. I pray you—
-’Tis south the city mills—bring me word thither
-How the world goes, that to the pace of it
-I may spur on my journey.
-A SOLDIER
-I shall, sir.
-Exeunt ⌈Aufidius at one door, Soldiers at another door⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Aufidius, bloody, with two or three Soldiers AUFIDIUS The town is ta’en. |
+| *(didascalia)* | A SOLDIER<br>’Twill be delivered back on good condition. |
+| AUFIDIUS | Condition?<br>I would I were a Roman, for I cannot,<br>Being a Volsce, be that I am. Condition?<br>What good condition can a treaty find<br>I‘th’ part that is at mercy? Five times, Martius,<br>I have fought with thee; so often hast thou beat me,<br>And wouldst do so, I think, should we encounter<br>As often as we eat. By th’ elements,<br>If e’er again I meet him beard to beard,<br>He’s mine, or I am his! Mine emulation<br>Hath not that honour in’t it had, for where<br>I thought to crush him in an equal force,<br>True sword to sword, I’ll potch at him some way<br>Or wrath or craft may get him.<br>A SOLDIER<br>He’s the devil. |
+| AUFIDIUS | Bolder, though not so subtle. My valour, poisoned<br>With only suff‘ring stain by him, for him<br>Shall fly out of itself. Nor sleep nor sanctuary,<br>Being naked, sick, nor fane nor Capitol,<br>The prayers of priests nor times of sacrifice—<br>Embargements all of fury—shall lift up<br>Their rotten privilege and custom ’gainst<br>My hate to Martius. Where I find him, were it<br>At home upon my brother’s guard, even there,<br>Against the hospitable canon, would I<br>Wash my fierce hand in’s heart. Go you to th’ city.<br>Learn how ’tis held, and what they are that must<br>Be hostages for Rome.<br>A SOLDIER<br>Will not you go? |
+| AUFIDIUS | I am attended at the cypress grove. I pray you—<br>’Tis south the city mills—bring me word thither<br>How the world goes, that to the pace of it<br>I may spur on my journey.<br>A SOLDIER<br>I shall, sir. |
+| *(didascalia)* | Exeunt Aufidius at one door, Soldiers at another door |

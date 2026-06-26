@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Bassanio, Portia, Nerissa, Graziano, and all their trains. ⌈The curtains are drawn aside revealing the three caskets⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Bassanio, Portia, Nerissa, Graziano, and all their trains. The curtains are drawn aside revealing the three caskets |

@@ -14,21 +14,12 @@ tags:
 </nav>
 
 
-Enter Sir Eglamour
-EGLAMOUR
-The sun begins to gild the western sky,
-And now it is about the very hour
-That Silvia at Friar Patrick’s cell should meet me.
-She will not fail; for lovers break not hours,
-Unless it be to come before their time,
-So much they spur their expedition.
-Enter Silvia
-See where she comes. Lady, a happy evening!
-SILVIA
-Amen, amen. Go on, good Eglamour,
-Out at the postern by the abbey wall.
-I fear I am attended by some spies.
-EGLAMOUR
-Fear not. The forest is not three leagues off.
-If we recover that, we are sure enough.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sir Eglamour |
+| EGLAMOUR | The sun begins to gild the western sky,<br>And now it is about the very hour<br>That Silvia at Friar Patrick’s cell should meet me.<br>She will not fail; for lovers break not hours,<br>Unless it be to come before their time,<br>So much they spur their expedition. |
+| *(didascalia)* | Enter Silvia |
+| EGLAMOUR | See where she comes. Lady, a happy evening! |
+| SILVIA | Amen, amen. Go on, good Eglamour,<br>Out at the postern by the abbey wall.<br>I fear I am attended by some spies. |
+| EGLAMOUR | Fear not. The forest is not three leagues off.<br>If we recover that, we are sure enough. |
+| *(didascalia)* | Exeunt |

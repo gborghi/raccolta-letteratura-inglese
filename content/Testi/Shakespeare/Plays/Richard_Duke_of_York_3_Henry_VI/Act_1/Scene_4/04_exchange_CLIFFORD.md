@@ -13,8 +13,7 @@ tags:
 </nav>
 
 
-CLIFFORD
-That is my office for my father’s sake.
-
-QUEEN MARGARET
-Nay, stay—let’s hear the orisons he makes.
+| Chi parla | Battuta |
+|---|---|
+| CLIFFORD | That is my office for my father’s sake. |
+| QUEEN MARGARET | Nay, stay—let’s hear the orisons he makes. |

@@ -13,8 +13,7 @@ tags:
 </nav>
 
 
-MENENIUS
-Come, enough.
-
-BRUTUS
-Enough with over-measure.
+| Chi parla | Battuta |
+|---|---|
+| MENENIUS | Come, enough. |
+| BRUTUS | Enough with over-measure. |

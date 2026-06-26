@@ -13,12 +13,8 @@ tags:
 </nav>
 
 
-Enter the Duke, disguised as a friar, Claudio, and the Provost
-
-DUKE
-So then you hope of pardon from Lord Angelo?
-
-CLAUDIO
-The miserable have no other medicine
-But only hope.
-I’ve hope to live, and am prepared to die.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Duke, disguised as a friar, Claudio, and the Provost |
+| DUKE | So then you hope of pardon from Lord Angelo? |
+| CLAUDIO | The miserable have no other medicine But only hope. I’ve hope to live, and am prepared to die. |

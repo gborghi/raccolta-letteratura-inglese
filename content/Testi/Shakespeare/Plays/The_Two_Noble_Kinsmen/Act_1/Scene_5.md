@@ -14,27 +14,13 @@ tags:
 </nav>
 
 
-Music. Enter the three Queens with the hearses of their lords in a funeral solemnity, with attendants
-Song
-Urns and odours, bring away,
-Vapours, sighs, darken the day;
-Our dole more deadly looks than dying.
-Balms and gums and heavy cheers,
-Sacred vials filled with tears,
-And clamours through the wild air flying:
-
-Come all sad and solemn shows,
-That are quick-eyed pleasure’s foes.
-We convent naught else but woes,
-We convent naught else but woes.
-THIRD QUEEN
-This funeral path brings to your household’s grave—
-Joy seize on you again, peace sleep with him.
-SECOND QUEEN
-And this to yours.
-FIRST QUEEN
-Yours this way. Heavens lend A thousand differing ways to one sure end.
-THIRD QUEEN
-This world’s a city full of straying streets,
-And death’s the market-place where each one meets.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Music. Enter the three Queens with the hearses of their lords in a funeral solemnity, with attendants |
+| *(didascalia)* | Song |
+| *(didascalia)* | Urns and odours, bring away,<br>Vapours, sighs, darken the day;<br>Our dole more deadly looks than dying.<br>Balms and gums and heavy cheers,<br>Sacred vials filled with tears,<br>And clamours through the wild air flying:<br><br>Come all sad and solemn shows,<br>That are quick-eyed pleasure’s foes.<br>We convent naught else but woes,<br>We convent naught else but woes. |
+| THIRD QUEEN | This funeral path brings to your household’s grave—<br>Joy seize on you again, peace sleep with him. |
+| SECOND QUEEN | And this to yours. |
+| FIRST QUEEN | Yours this way. Heavens lend A thousand differing ways to one sure end. |
+| THIRD QUEEN | This world’s a city full of straying streets,<br>And death’s the market-place where each one meets. |
+| *(didascalia)* | Exeunt severally |

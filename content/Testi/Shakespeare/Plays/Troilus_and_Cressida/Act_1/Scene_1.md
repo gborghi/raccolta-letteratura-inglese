@@ -14,115 +14,49 @@ tags:
 </nav>
 
 
-Enter Pandarus, and Troilus armed
-TROILUS
-Call here my varlet. I’ll unarm again.
-Why should I war without the walls of Troy
-That find such cruel battle here within?
-Each Trojan that is master of his heart,
-Let him to Betd—Troitus, alas, hath none.
-PANDARUS Will this gear ne’er be mended?
-TROILUS
-The Greeks are strong, and skilful to their strength,
-Fierce to their skill, and to their fierceness valiant.
-But I am weaker than a woman’s tear,
-Tamer than sleep, fonder than ignorance,
-Less valiant than the virgin in the night,
-And skilless as unpractised infancy.
-PANDARUS Well, I have told you enough of this. For my part, I’ll not meddle nor make no farther. He that will have a cake out of the wheat must tarry the grinding.
-TROILUS Have I not tarried?
-PANDARUS Ay, the grinding; but you must tarry the boulting.
-TROILUS Have I not tarried?
-PANDARUS Ay, the boulting; but you must tarry the leavening.
-TROILUS Still have I tarried.
-PANDARUS Ay, to the leavening; but here’s yet in the word ‘hereafter’ the kneading, the making of the cake, the heating the oven, and the baking—nay, you must stay the cooling too, or ye may chance burn your lips.
-TROILUS
-Patience herself, what goddess e‘er she be,
-Doth lesser blench at suff’rance than I do.
-At Priam’s royal table do I sit
-And when fair Cressid comes into my thoughts—
-So, traitor! ‘When she comes’? When is she thence?
-PANDARUS Well, she looked yesternight fairer than ever I saw her look, or any woman else.
-TROILUS
-I was about to tell thee: when my heart,
-As wedged with a sigh, would rive in twain,
-Lest Hector or my father should perceive me
-I have, as when the sun doth light askance,
-Buried this sigh in wrinkle of a smile.
-But sorrow that is couched in seeming gladness
-Is like that mirth fate turns to sudden sadness.
-PANDARUS An her hair were not somewhat darker than Helen‘s—well, go to, there were no more comparison between the women. But, for my part, she is my kinswoman; I would not, as they term it, ‘praise’ her. But I would somebody had heard her talk yesterday, as I did. I will not dispraise your sister Cassandra’s wit, but—
-TROILUS
-O Pandarus! I tell thee, Pandarus,
-When I do tell thee ‘There my hopes lie drowned’,
-Reply not in how many fathoms deep
-They lie endrenched. I tell thee I am mad
-In Cressid’s love; thou answer’st ‘She is fair’,
-Pourest in the open ulcer of my heart
-Her eyes, her hair, her cheek, her gait, her voice;
-Handlest in thy discourse, O, that her hand,
-In whose comparison all whites are ink
-Writing their own reproach, to whose soft seizure
-The cygnet’s down is harsh, and spirit of sense
-Hard as the palm of ploughman. This thou tell’st me—
-As true thou tell‘st me—when I say I love her.
-But saying thus, instead of oil and balm
-Thou lay’st in every gash that love hath given me
-The knife that made it.
-PANDARUS I speak no more than truth.
-TROILUS Thou dost not speak so much.
-PANDARUS Faith, I’ll not meddle in it. Let her be as she is. If she be fair, ’tis the better for her; an she be not, she has the mends in her own hands.
-TROILUS Good Pandarus, how now, Pandarus!
-PANDARUS I have had my labour for my travail. Ill thought on of her and ill thought on of you. Gone between and between, but small thanks for my labour.
-TROILUS
-What, art thou angry, Pandarus? What, with me?
-PANDARUS Because she’s kin to me, therefore she’s not so fair as Helen. An she were not kin to me, she would be as fair o’ Friday as Helen is on Sunday. But what care I? I care not an she were a blackamoor. ’Tis all one to me.
-TROILUS Say I she is not fair?
-PANDARUS I do not care whether you do or no. She’s a fool to stay behind her father. Let her to the Greeks—and so I’ll tell her the next time I see her. For my part, I’ll meddle nor make no more i’th’ matter.
-TROILUS Pandarus—
-PANDARUS Not I.
-TROILUS Sweet Pandarus—
-PANDARUS Pray you, speak no more to me. I will leave all as I found it. And there an end.
-Exit
-Alarum
-TROILUS
-Peace, you ungracious clamours! Peace, rude sounds!
-Fools on both sides. Helen must needs be fair
-When with your blood you daily paint her thus.
-I cannot fight upon this argument.
-It is too starved a subject for my sword.
-But Pandarus—O gods, how do you plague me!
-I cannot come to Cressid but by Pandar,
-And he’s as tetchy to be wooed to woo
-As she is stubborn-chaste against all suit.
-Tell me, Apollo, for thy Daphne’s love,
-What Cressid is, what Pandar, and what we?
-Her bed is India; there she lies, a pearl.
-Between our Ilium and where she resides
-Let it be called the wild and wand’ring flood,
-Ourself the merchant, and this sailing Pandar
-Our doubtful hope, our convoy, and our barque.
-Alarum. Enter Aeneas
-AENEAS
-How now, Prince Troilus? Wherefore not afield?
-TROILUS
-Because not there. This woman’s answer sorts,
-For womanish it is to be from thence.
-What news, Aeneas, from the field today?
-AENEAS
-That Paris is returned home, and hurt.
-TROILUS
-By whom, Aeneas?
-AENEAS Troilus, by Menelaus.
-TROILUS
-Let Paris bleed, ’tis but a scar to scorn:
-Paris is gored with Menelaus’ horn.
-Alarum
-AENEAS
-Hark what good sport is out of town today.
-TROILUS
-Better at home, if ‘would I might’ were ‘may’.
-But to the sport abroad—are you bound thither?
-AENEAS
-In all swift haste.
-TROILUS Come, go we then together. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Pandarus, and Troilus armed |
+| TROILUS | Call here my varlet. I’ll unarm again.<br>Why should I war without the walls of Troy<br>That find such cruel battle here within?<br>Each Trojan that is master of his heart,<br>Let him to Betd—Troitus, alas, hath none. |
+| PANDARUS | Will this gear ne’er be mended? |
+| TROILUS | The Greeks are strong, and skilful to their strength,<br>Fierce to their skill, and to their fierceness valiant.<br>But I am weaker than a woman’s tear,<br>Tamer than sleep, fonder than ignorance,<br>Less valiant than the virgin in the night,<br>And skilless as unpractised infancy. |
+| PANDARUS | Well, I have told you enough of this. For my part, I’ll not meddle nor make no farther. He that will have a cake out of the wheat must tarry the grinding. |
+| TROILUS | Have I not tarried? |
+| PANDARUS | Ay, the grinding; but you must tarry the boulting. |
+| TROILUS | Have I not tarried? |
+| PANDARUS | Ay, the boulting; but you must tarry the leavening. |
+| TROILUS | Still have I tarried. |
+| PANDARUS | Ay, to the leavening; but here’s yet in the word ‘hereafter’ the kneading, the making of the cake, the heating the oven, and the baking—nay, you must stay the cooling too, or ye may chance burn your lips. |
+| TROILUS | Patience herself, what goddess e‘er she be,<br>Doth lesser blench at suff’rance than I do.<br>At Priam’s royal table do I sit<br>And when fair Cressid comes into my thoughts—<br>So, traitor! ‘When she comes’? When is she thence? |
+| PANDARUS | Well, she looked yesternight fairer than ever I saw her look, or any woman else. |
+| TROILUS | I was about to tell thee: when my heart,<br>As wedged with a sigh, would rive in twain,<br>Lest Hector or my father should perceive me<br>I have, as when the sun doth light askance,<br>Buried this sigh in wrinkle of a smile.<br>But sorrow that is couched in seeming gladness<br>Is like that mirth fate turns to sudden sadness. |
+| PANDARUS | An her hair were not somewhat darker than Helen‘s—well, go to, there were no more comparison between the women. But, for my part, she is my kinswoman; I would not, as they term it, ‘praise’ her. But I would somebody had heard her talk yesterday, as I did. I will not dispraise your sister Cassandra’s wit, but— |
+| TROILUS | O Pandarus! I tell thee, Pandarus,<br>When I do tell thee ‘There my hopes lie drowned’,<br>Reply not in how many fathoms deep<br>They lie endrenched. I tell thee I am mad<br>In Cressid’s love; thou answer’st ‘She is fair’,<br>Pourest in the open ulcer of my heart<br>Her eyes, her hair, her cheek, her gait, her voice;<br>Handlest in thy discourse, O, that her hand,<br>In whose comparison all whites are ink<br>Writing their own reproach, to whose soft seizure<br>The cygnet’s down is harsh, and spirit of sense<br>Hard as the palm of ploughman. This thou tell’st me—<br>As true thou tell‘st me—when I say I love her.<br>But saying thus, instead of oil and balm<br>Thou lay’st in every gash that love hath given me<br>The knife that made it. |
+| PANDARUS | I speak no more than truth. |
+| TROILUS | Thou dost not speak so much. |
+| PANDARUS | Faith, I’ll not meddle in it. Let her be as she is. If she be fair, ’tis the better for her; an she be not, she has the mends in her own hands. |
+| TROILUS | Good Pandarus, how now, Pandarus! |
+| PANDARUS | I have had my labour for my travail. Ill thought on of her and ill thought on of you. Gone between and between, but small thanks for my labour. |
+| TROILUS | What, art thou angry, Pandarus? What, with me? |
+| PANDARUS | Because she’s kin to me, therefore she’s not so fair as Helen. An she were not kin to me, she would be as fair o’ Friday as Helen is on Sunday. But what care I? I care not an she were a blackamoor. ’Tis all one to me. |
+| TROILUS | Say I she is not fair? |
+| PANDARUS | I do not care whether you do or no. She’s a fool to stay behind her father. Let her to the Greeks—and so I’ll tell her the next time I see her. For my part, I’ll meddle nor make no more i’th’ matter. |
+| TROILUS | Pandarus— |
+| PANDARUS | Not I. |
+| TROILUS | Sweet Pandarus— |
+| PANDARUS | Pray you, speak no more to me. I will leave all as I found it. And there an end. |
+| *(didascalia)* | Exit |
+| *(didascalia)* | Alarum |
+| TROILUS | Peace, you ungracious clamours! Peace, rude sounds!<br>Fools on both sides. Helen must needs be fair<br>When with your blood you daily paint her thus.<br>I cannot fight upon this argument.<br>It is too starved a subject for my sword.<br>But Pandarus—O gods, how do you plague me!<br>I cannot come to Cressid but by Pandar,<br>And he’s as tetchy to be wooed to woo<br>As she is stubborn-chaste against all suit.<br>Tell me, Apollo, for thy Daphne’s love,<br>What Cressid is, what Pandar, and what we?<br>Her bed is India; there she lies, a pearl.<br>Between our Ilium and where she resides<br>Let it be called the wild and wand’ring flood,<br>Ourself the merchant, and this sailing Pandar<br>Our doubtful hope, our convoy, and our barque. |
+| *(didascalia)* | Alarum. Enter Aeneas |
+| AENEAS | How now, Prince Troilus? Wherefore not afield? |
+| TROILUS | Because not there. This woman’s answer sorts,<br>For womanish it is to be from thence.<br>What news, Aeneas, from the field today? |
+| AENEAS | That Paris is returned home, and hurt. |
+| TROILUS | By whom, Aeneas? |
+| AENEAS | Troilus, by Menelaus. |
+| TROILUS | Let Paris bleed, ’tis but a scar to scorn:<br>Paris is gored with Menelaus’ horn. |
+| *(didascalia)* | Alarum |
+| AENEAS | Hark what good sport is out of town today. |
+| TROILUS | Better at home, if ‘would I might’ were ‘may’.<br>But to the sport abroad—are you bound thither? |
+| AENEAS | In all swift haste. |
+| TROILUS | Come, go we then together. Exeunt |

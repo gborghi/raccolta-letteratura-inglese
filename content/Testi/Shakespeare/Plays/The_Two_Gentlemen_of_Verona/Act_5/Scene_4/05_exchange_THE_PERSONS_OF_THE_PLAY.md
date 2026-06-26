@@ -13,41 +13,19 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-
-In the Induction
-
-CHRISTOPHER SLY, beggar and tinker
-
-A HOSTESS
-
-A LORD
-BARTHOLOMEW, his page
-
-HUNTSMEN
-
-SERVANTS
-
-PLAYERS
-In the play-within-the-play
-
-BAPTISTA Minola, a gentleman of Padua
-KATHERINE, his elder daughter
-BIANCA, his younger daughter
-PETRUCCIO, a gentleman of Verona, suitor of Katherine
-GREMIO, a rich old man of Padua, suitor of Bianca
-HORTENSIO, another suitor, who disguises himself as Licio, a
-teacher
-LUCENTIO, from Pisa, who disguises himself as Cambio, a teacher
-VINCENTIO, Lucentio’s father
-
-A PEDANT (schoolmaster), from Mantua
-
-A WIDOW
-
-A TAILOR
-
-A HABERDASHER
-An OFFICER
-SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER
-Other servants of Baptista and Petruccio
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| THE PERSONS OF THE | In the Induction |
+| CHRISTOPHER | SLY, beggar and tinker |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| LORD | BARTHOLOMEW, his page |
+| PLAYERS | In the play-within-the-play |
+| BAPTISTA | Minola, a gentleman of Padua KATHERINE, his elder daughter BIANCA, his younger daughter PETRUCCIO, a gentleman of Verona, suitor of Katherine GREMIO, a rich old man of Padua, suitor of Bianca HORTENSIO, another suitor, who disguises himself as Licio, a teacher LUCENTIO, from Pisa, who disguises himself as Cambio, a teacher VINCENTIO, Lucentio’s father |
+| *(didascalia)* | A |
+| PEDANT | (schoolmaster), from Mantua |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| HABERDASHER | An OFFICER SERVINGMEN, including NATHANIEL, PHILIP, JOSEPH, and PETER Other servants of Baptista and Petruccio |

@@ -13,12 +13,6 @@ tags:
 </nav>
 
 
-QUEEN ELIZABETH
-What were I best to say? Her father’s brother
-Would be her lord? Or shall I say her uncle?
-Or he that slew her brothers and her uncles?
-Under what title shall I woo for thee,
-That God, the law, my honour, and her love
-Can make seem pleasing to her tender years?
-
-VENUS AND ADONIS
+| Chi parla | Battuta |
+|---|---|
+| QUEEN ELIZABETH | What were I best to say? Her father’s brother Would be her lord? Or shall I say her uncle? Or he that slew her brothers and her uncles? Under what title shall I woo for thee, That God, the law, my honour, and her love Can make seem pleasing to her tender years? |

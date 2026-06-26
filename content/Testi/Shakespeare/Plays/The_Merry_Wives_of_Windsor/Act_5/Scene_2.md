@@ -14,8 +14,10 @@ tags:
 </nav>
 
 
-Enter Master Page, justice Shallow, and Master Slender
-PAGE Come, come, we’ll couch i’th’ Castle ditch till we see the light of our fairies. Remember, son Slender, my daughter.
-SLENDER Ay, forsooth. I have spoke with her, and we have a nay-word how to know one another. I come to her in white and cry ‘mum’; she cries ‘budget’; and by that we know one another.
-SHALLOW That’s good, too. But what needs either your ‘mum’ or her ‘budget’? The white will decipher her well enough. (To Page) It hath struck ten o’clock.
-PAGE The night is dark; lights and spirits will become it well. God prosper our sport! No man means evil but the devil, and we shall know him by his horns. Let’s away. Follow me. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Master Page, justice Shallow, and Master Slender |
+| PAGE | Come, come, we’ll couch i’th’ Castle ditch till we see the light of our fairies. Remember, son Slender, my daughter. |
+| SLENDER | Ay, forsooth. I have spoke with her, and we have a nay-word how to know one another. I come to her in white and cry ‘mum’; she cries ‘budget’; and by that we know one another. |
+| SHALLOW | That’s good, too. But what needs either your ‘mum’ or her ‘budget’? The white will decipher her well enough. (To Page) It hath struck ten o’clock. |
+| PAGE | The night is dark; lights and spirits will become it well. God prosper our sport! No man means evil but the devil, and we shall know him by his horns. Let’s away. Follow me. Exeunt |

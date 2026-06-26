@@ -14,10 +14,7 @@ tags:
 </nav>
 
 
-An alarum. Enter Lord Talbot in an excursion
-TALBOT
-France, thou shalt rue this treason with thy tears,
-If Talbot but survive thy treachery.
-Pucelle, that witch, that damnèd sorceress,
-Hath wrought this hellish mischief unawares,
-That hardly we escaped the pride of France. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | An alarum. Enter Lord Talbot in an excursion |
+| TALBOT | France, thou shalt rue this treason with thy tears,<br>If Talbot but survive thy treachery.<br>Pucelle, that witch, that damnèd sorceress,<br>Hath wrought this hellish mischief unawares,<br>That hardly we escaped the pride of France. Exit |

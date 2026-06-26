@@ -14,34 +14,18 @@ tags:
 </nav>
 
 
-Alarums. Enter Antony, and Scarus wounded
-SCARUS
-O my brave Emperor, this is fought indeed!
-Had we done so at first, we had droven them home
-With clouts about their heads.
-ANTONY
-Thou bleed’st apace.
-SCARUS
-I had a wound here that was like a T,
-But now ’tis made an H.
-Retreat sounded far off
-ANTONY
-They do retire.
-SCARUS
-We’ll beat ’em into bench-holes. I have yet
-Room for six scotches more.
-Enter Eros
-EROS
-They are beaten, sir, and our advantage serves
-For a fair victory.
-SCARUS
-Let us score their backs
-And snatch ‘em up as we take hares, behind.
-’Tis sport to maul a runner.
-ANTONY (to Eros)
-I will reward thee
-Once for thy sprightly comfort, and tenfold
-For thy good valour. Come thee on.
-SCARUS
-I’ll halt after.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarums. Enter Antony, and Scarus wounded |
+| SCARUS | O my brave Emperor, this is fought indeed!<br>Had we done so at first, we had droven them home<br>With clouts about their heads. |
+| ANTONY | Thou bleed’st apace. |
+| SCARUS | I had a wound here that was like a T,<br>But now ’tis made an H. |
+| *(didascalia)* | Retreat sounded far off |
+| ANTONY | They do retire. |
+| SCARUS | We’ll beat ’em into bench-holes. I have yet<br>Room for six scotches more. |
+| *(didascalia)* | Enter Eros |
+| EROS | They are beaten, sir, and our advantage serves<br>For a fair victory. |
+| SCARUS | Let us score their backs<br>And snatch ‘em up as we take hares, behind.<br>’Tis sport to maul a runner. |
+| ANTONY | (to Eros)<br>I will reward thee<br>Once for thy sprightly comfort, and tenfold<br>For thy good valour. Come thee on. |
+| SCARUS | I’ll halt after. |
+| *(didascalia)* | Exeunt |

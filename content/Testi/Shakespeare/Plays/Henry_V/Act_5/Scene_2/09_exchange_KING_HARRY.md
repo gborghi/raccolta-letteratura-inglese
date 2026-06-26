@@ -13,86 +13,24 @@ tags:
 </nav>
 
 
-KING HARRY This moral ties me over to time and a hot summer, and so I shall catch the fly, your cousin, in the latter end, and she must be blind too.
-
-BURGUNDY As love is, my lord, before that it loves.
-
-KING HARRY It is so. And you may, some of you, thank love for my blindness, who cannot see many a fair French city for one fair French maid that stands in my way.
-
-KING CHARLES Yes, my lord, you see them perspectively, the cities turned into a maid—for they are all girdled with maiden walls that war hath never entered.
-
-KING HARRY Shall Kate be my wife?
-
-KING CHARLES So please you.
-
-KING HARRY I am content, so the maiden cities you talk of may wait on her: so the maid that stood in the way for my wish shall show me the way to my will.
-
-KING CHARLES We have consented to all terms of reason.
-
-KING HARRY Is’t so, my lords of England?
-⌈WARWICKI⌉
-The King hath granted every article:
-His daughter first, and so in sequel all,
-According to their firm proposed natures.
-
-EXETER
-Only he hath not yet subscribed this:
-where your majesty demands that the King of France,
-having any occasion to write for matter of grant, shall
-name your highness in this form and with this addition:
-⌈reads⌉ in French, Notre très
-cher fils Henri, Roi
-
-d’Angleterre, Heritier de France, and thus in Latin,
-Praeclarissimus filius noster Henricus, Rex Angliae et
-
-Haeres Franciae.
-
-KING CHARLES
-Nor this I have not, brother, so denied,
-But your request shall make me let it pass.
-
-KING HARRY
-I pray you then, in love and dear alliance,
-Let that one article rank with the rest,
-And thereupon give me your daughter.
-
-KING CHARLES
-Take her, fair son, and from her blood raise up
-Issue to me, that the contending kingdoms
-Of France and England, whose very shores look pale
-With envy of each other’s happiness,
-May cease their hatred, and this dear conjunction
-Plant neighbourhood and Christian-like accord
-In their sweet bosoms, that never war advance
-His bleeding sword ’twixt England and fair France.
-⌈ALL⌉ Amen.
-
-KING HARRY
-Now welcome, Kate, and bear me witness all
-That here I kiss her as my sovereign Queen.
-Flourish
-
-QUEEN ISABEL
-God, the best maker of all marriages,
-Combine your hearts in one, your realms in one.
-As man and wife, being two, are one in love,
-So be there ‘twixt your kingdoms such a spousal
-That never may ill office or fell jealousy,
-Which troubles oft the bed of blessed marriage,
-Thrust in between the paction of these kingdoms
-To make divorce of their incorporate league;
-That English may as French, French Englishmen,
-Receive each other, God speak this ‘Amen’.
-
-ALL Amen.
-
-KING HARRY
-Prepare we for our marriage. On which day,
-My lord of Burgundy, we’ll take your oath,
-And all the peers‘, for surety of our leagues.
-Then shall I swear to Kate, and you to me,
-And may our oaths well kept and prosp’rous be.
-Sennet. Exeunt
-Epilogue
-Enter Chorus
+| Chi parla | Battuta |
+|---|---|
+| KING HARRY | This moral ties me over to time and a hot summer, and so I shall catch the fly, your cousin, in the latter end, and she must be blind too. |
+| BURGUNDY | As love is, my lord, before that it loves. |
+| KING HARRY | It is so. And you may, some of you, thank love for my blindness, who cannot see many a fair French city for one fair French maid that stands in my way. |
+| KING CHARLES | Yes, my lord, you see them perspectively, the cities turned into a maid—for they are all girdled with maiden walls that war hath never entered. |
+| KING HARRY | Shall Kate be my wife? |
+| KING CHARLES | So please you. |
+| KING HARRY | I am content, so the maiden cities you talk of may wait on her: so the maid that stood in the way for my wish shall show me the way to my will. |
+| KING CHARLES | We have consented to all terms of reason. |
+| KING HARRY | Is’t so, my lords of England? WARWICKI The King hath granted every article: His daughter first, and so in sequel all, According to their firm proposed natures. |
+| EXETER | Only he hath not yet subscribed this: where your majesty demands that the King of France, having any occasion to write for matter of grant, shall name your highness in this form and with this addition: reads in French, Notre très cher fils Henri, Roi |
+| EXETER | d’Angleterre, Heritier de France, and thus in Latin, Praeclarissimus filius noster Henricus, Rex Angliae et |
+| EXETER | Haeres Franciae. |
+| KING CHARLES | Nor this I have not, brother, so denied, But your request shall make me let it pass. |
+| KING HARRY | I pray you then, in love and dear alliance, Let that one article rank with the rest, And thereupon give me your daughter. |
+| KING CHARLES | Take her, fair son, and from her blood raise up Issue to me, that the contending kingdoms Of France and England, whose very shores look pale With envy of each other’s happiness, May cease their hatred, and this dear conjunction Plant neighbourhood and Christian-like accord In their sweet bosoms, that never war advance His bleeding sword ’twixt England and fair France. ALL Amen. |
+| KING HARRY | Now welcome, Kate, and bear me witness all That here I kiss her as my sovereign Queen. Flourish |
+| QUEEN ISABEL | God, the best maker of all marriages, Combine your hearts in one, your realms in one. As man and wife, being two, are one in love, So be there ‘twixt your kingdoms such a spousal That never may ill office or fell jealousy, Which troubles oft the bed of blessed marriage, Thrust in between the paction of these kingdoms To make divorce of their incorporate league; That English may as French, French Englishmen, Receive each other, God speak this ‘Amen’. |
+| ALL | Amen. |
+| KING HARRY | Prepare we for our marriage. On which day, My lord of Burgundy, we’ll take your oath, And all the peers‘, for surety of our leagues. Then shall I swear to Kate, and you to me, And may our oaths well kept and prosp’rous be. Sennet. Exeunt Epilogue Enter Chorus |

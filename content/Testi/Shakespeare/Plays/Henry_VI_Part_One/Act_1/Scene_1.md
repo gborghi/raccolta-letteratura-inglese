@@ -14,218 +14,46 @@ tags:
 </nav>
 
 
-Dead march. Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford (Regent of France), the Duke of Gloucester (Protector), the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, and the Duke of Somerset
-BEDFORD
-Hung be the heavens with black! Yield, day, to night!
-Comets, importing change of times and states,
-Brandish your crystal tresses in the sky,
-And with them scourge the bad revolting stars
-That have consented unto Henry’s death—
-King Henry the Fifth, too famous to live long.
-England ne’er lost a king of so much worth.
-GLOUCESTER
-England ne‘er had a king until his time.
-Virtue he had, deserving to command.
-His brandished sword did blind men with his beams.
-His arms spread wider than a dragon’s wings.
-His sparkling eyes, replete with wrathful fire,
-More dazzled and drove back his enemies
-Than midday sun, fierce bent against their faces.
-What should I say? His deeds exceed all speech.
-He ne’er lift up his hand but conquered.
-EXETER
-We mourn in black; why mourn we not in blood?
-Henry is dead, and never shall revive.
-Upon a wooden coffin we attend,
-And death’s dishonourable victory
-We with our stately presence glorify,
-Like captives bound to a triumphant car.
-What, shall we curse the planets of mishap,
-That plotted thus our glory’s overthrow?
-Or shall we think the subtle-witted French
-Conjurers and sorcerers, that, afraid of him,
-By magic verses have contrived his end?
-WINCHESTER
-He was a king blest of the King of Kings.
-Unto the French, the dreadful judgement day
-So dreadful will not be as was his sight.
-The battles of the Lord of Hosts he fought.
-The Church’s prayers made him so prosperous.
-GLOUCESTER
-The Church? Where is it? Had not churchmen prayed,
-His thread of life had not so soon decayed.
-None do you like but an effeminate prince,
-Whom like a schoolboy you may overawe.
-WINCHESTER
-Gloucester, whate’er we like, thou art Protector,
-And lookest to command the Prince and realm.
-Thy wife is proud: she holdeth thee in awe,
-More than God or religious churchmen may.
-GLOUCESTER
-Name not religion, for thou lov‘st the flesh,
-And ne’er throughout the year to church thou go’st,
-Except it be to pray against thy foes.
-BEDFORD
-Cease, cease these jars, and rest your minds in peace.
-Let’s to the altar. Heralds, wait on us.
-⌈Exeunt Warwick, Somerset, and heralds with coffin⌉
-Instead of gold, we’ll offer up our arms—
-Since arms avail not, now that Henry’s dead.
-Posterity, await for wretched years,
-When, at their mothers’ moistened eyes, babes shall suck,
-Our isle be made a marish of salt tears,
-And none but women left to wail the dead.
-Henry the Fifth, thy ghost I invocate:
-Prosper this realm; keep it from civil broils;
-Combat with adverse planets in the heavens.
-A far more glorious star thy soul will make
-Than Julius Caesar or bright—
-Enter a Messenger
-MESSENGER
-My honourable lords, health to you all.
-Sad tidings bring I to you out of France,
-Of loss, of slaughter, and discomfiture.
-Guyenne, Compiegne, Rouen, Rheims, Orléans,
-Paris, Gisors, Poitiers are all quite lost.
-BEDFORD
-What sayst thou, man, before dead Henry’s corpse?
-Speak softly, or the loss of those great towns
-Will make him burst his lead and rise from death.
-GLOUCESTER (to the Messenger)
-Is Paris lost? Is Rouen yielded up?
-If Henry were recalled to life again,
-These news would cause him once more yield the ghost.
-EXETER (to the Messenger)
-How were they lost? What treachery was used?
-MESSENGER
-No treachery, but want of men and money.
-Amongst the soldiers this is mutterèd:
-That here you maintain several factions,
-And whilst a field should be dispatched and fought,
-You are disputing of your generals.
-One would have ling’ring wars, with little cost;
-Another would fly swift, but wanteth wings;
-A third thinks, without expense at all,
-By guileful fair words peace may be obtained.
-Awake, awake, English nobility!
-Let not sloth dim your honours new-begot.
-Cropped are the flower-de-luces in your arms;
-Of England’s coat, one half is cut away. ⌈Exit⌉
-EXETER
-Were our tears wanting to this funeral,
-These tidings would call forth her flowing tides.
-BEDFORD
-Me they concern; Regent I am of France.
-Give me my steeled coat. I’ll fight for France.
-Away with these disgraceful wailing robes!
-⌈He removes his mourning robe
-Wounds will I lend the French, instead of eyes,
-To weep their intermissive miseries.
-Enter to them another Messenger with letters
-SECOND MESSENGER
-Lords, view these letters, full of bad mischance.
-France is revolted from the English quite,
-Except some petty towns of no import.
-The Dauphin Charles is crowned king in Rheims;
-The Bastard of Orléans with him is joined;
-René, Duke of Anjou, doth take his part;
-The Duke of Alençon flyeth to his side. Exit
-EXETER
-The Dauphin crowned King? All fly to him?
-O whither shall we fly from this reproach?
-GLOUCESTER
-We will not fly, but to our enemies’ throats.
-Bedford, if thou be slack, I’ll fight it out.
-BEDFORD
-Gloucester, why doubt’st thou of my forwardness?
-An army have I mustered in my thoughts,
-Wherewith already France is overrun.
-Enter another Messenger
-THIRD MESSENGER
-My gracious lords, to add to your laments,
-Wherewith you now bedew King Henry’s hearse,
-I must inform you of a dismal fight
-Betwixt the stout Lord Talbot and the French.
-WINCHESTER
-What, wherein Talbot overcame—is’t so?
-THIRD MESSENGER
-O no, wherein Lord Talbot was o’erthrown.
-The circumstance I’ll tell you more at large.
-The tenth of August last, this dreadful lord,
-Retiring from the siege of Orléans,
-Having full scarce six thousand in his troop,
-By three-and-twenty thousand of the French
-Was round encompassed and set upon.
-No leisure had he to enrank his men.
-He wanted pikes to set before his archers—
-Instead whereof, sharp stakes plucked out of hedges
-They pitched in the ground confusedly,
-To keep the horsemen off from breaking in.
-More than three hours the fight continued,
-Where valiant Talbot above human thought
-Enacted wonders with his sword and lance.
-Hundreds he sent to hell, and none durst stand him;
-Here, there, and everywhere, enraged he slew.
-The French exclaimed the devil was in arms:
-All the whole army stood agazed on him.
-His soldiers, spying his undaunted spirit,
-‘A Talbot! A Talbot!’ cried out amain,
-And rushed into the bowels of the battle.
-Here had the conquest fully been sealed up,
-If Sir John Fastolf had not played the coward.
-He, being in the vanguard placed behind,
-With purpose to relieve and follow them,
-Cowardly fled, not having struck one stroke.
-Hence grew the general wrack and massacre.
-Enclosèd were they with their enemies.
-A base Walloon, to win the Dauphin’s grace,
-Thrust Talbot with a spear into the back—
-Whom all France, with their chief assembled strength,
-Durst not presume to look once in the face.
-BEDFORD
-Is Talbot slain then? I will slay myself,
-For living idly here in pomp and ease
-Whilst such a worthy leader, wanting aid,
-Unto his dastard foemen is betrayed.
-THIRD MESSENGER
-O no, he lives, but is took prisoner,
-And Lord Scales with him, and Lord Hungerford;
-Most of the rest slaughtered, or took likewise.
-BEDFORD
-His ransom there is none but I shall pay.
-I’ll hale the Dauphin headlong from his throne;
-His crown shall be the ransom of my friend.
-Four of their lords I’ll change for one of ours.
-Farewell, my masters; to my task will I.
-Bonfires in France forthwith I am to make,
-To keep our great Saint George’s feast withal.
-Ten thousand soldiers with me I will take,
-Whose bloody deeds shall make all Europe quake.
-THIRD MESSENGER
-So you had need. Fore Orléans, besieged,
-The English army is grown weak and faint.
-The Earl of Salisbury craveth supply,
-And hardly keeps his men from mutiny,
-Since they, so few, watch such a multitude.
-⌈Exit⌉
-EXETER
-Remember, lords, your oaths to Henry sworn:
-Either to quell the Dauphin utterly,
-Or bring him in obedience to your yoke.
-BEDFORD
-I do remember it, and here take my leave
-To go about my preparation. Exit
-GLOUCESTER
-I’ll to the Tower with all the haste I can,
-To view th’artillery and munition,
-And then I will proclaim young Henry king. Exit
-EXETER
-To Eltham will I, where the young King is,
-Being ordained his special governor,
-And for his safety there I’ll best devise. Exit
-WINCHESTER
-Each hath his place and function to attend;
-I am left out; for me, nothing remains.
-But long I will not be Jack-out-of-office.
-The King from Eltham I intend to steal,
-And sit at chiefest stern of public weal. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Dead march. Enter the funeral of King Henry the Fifth, attended on by the Duke of Bedford (Regent of France), the Duke of Gloucester (Protector), the Duke of Exeter, the Earl of Warwick, the Bishop of Winchester, and the Duke of Somerset |
+| BEDFORD | Hung be the heavens with black! Yield, day, to night!<br>Comets, importing change of times and states,<br>Brandish your crystal tresses in the sky,<br>And with them scourge the bad revolting stars<br>That have consented unto Henry’s death—<br>King Henry the Fifth, too famous to live long.<br>England ne’er lost a king of so much worth. |
+| GLOUCESTER | England ne‘er had a king until his time.<br>Virtue he had, deserving to command.<br>His brandished sword did blind men with his beams.<br>His arms spread wider than a dragon’s wings.<br>His sparkling eyes, replete with wrathful fire,<br>More dazzled and drove back his enemies<br>Than midday sun, fierce bent against their faces.<br>What should I say? His deeds exceed all speech.<br>He ne’er lift up his hand but conquered. |
+| EXETER | We mourn in black; why mourn we not in blood?<br>Henry is dead, and never shall revive.<br>Upon a wooden coffin we attend,<br>And death’s dishonourable victory<br>We with our stately presence glorify,<br>Like captives bound to a triumphant car.<br>What, shall we curse the planets of mishap,<br>That plotted thus our glory’s overthrow?<br>Or shall we think the subtle-witted French<br>Conjurers and sorcerers, that, afraid of him,<br>By magic verses have contrived his end? |
+| WINCHESTER | He was a king blest of the King of Kings.<br>Unto the French, the dreadful judgement day<br>So dreadful will not be as was his sight.<br>The battles of the Lord of Hosts he fought.<br>The Church’s prayers made him so prosperous. |
+| GLOUCESTER | The Church? Where is it? Had not churchmen prayed,<br>His thread of life had not so soon decayed.<br>None do you like but an effeminate prince,<br>Whom like a schoolboy you may overawe. |
+| WINCHESTER | Gloucester, whate’er we like, thou art Protector,<br>And lookest to command the Prince and realm.<br>Thy wife is proud: she holdeth thee in awe,<br>More than God or religious churchmen may. |
+| GLOUCESTER | Name not religion, for thou lov‘st the flesh,<br>And ne’er throughout the year to church thou go’st,<br>Except it be to pray against thy foes. |
+| BEDFORD | Cease, cease these jars, and rest your minds in peace.<br>Let’s to the altar. Heralds, wait on us. |
+| *(didascalia)* | Exeunt Warwick, Somerset, and heralds with coffin |
+| BEDFORD | Instead of gold, we’ll offer up our arms—<br>Since arms avail not, now that Henry’s dead.<br>Posterity, await for wretched years,<br>When, at their mothers’ moistened eyes, babes shall suck,<br>Our isle be made a marish of salt tears,<br>And none but women left to wail the dead.<br>Henry the Fifth, thy ghost I invocate:<br>Prosper this realm; keep it from civil broils;<br>Combat with adverse planets in the heavens.<br>A far more glorious star thy soul will make<br>Than Julius Caesar or bright— |
+| *(didascalia)* | Enter a Messenger |
+| MESSENGER | My honourable lords, health to you all.<br>Sad tidings bring I to you out of France,<br>Of loss, of slaughter, and discomfiture.<br>Guyenne, Compiegne, Rouen, Rheims, Orléans,<br>Paris, Gisors, Poitiers are all quite lost. |
+| BEDFORD | What sayst thou, man, before dead Henry’s corpse?<br>Speak softly, or the loss of those great towns<br>Will make him burst his lead and rise from death. |
+| GLOUCESTER | (to the Messenger)<br>Is Paris lost? Is Rouen yielded up?<br>If Henry were recalled to life again,<br>These news would cause him once more yield the ghost. |
+| EXETER | (to the Messenger)<br>How were they lost? What treachery was used? |
+| MESSENGER | No treachery, but want of men and money.<br>Amongst the soldiers this is mutterèd:<br>That here you maintain several factions,<br>And whilst a field should be dispatched and fought,<br>You are disputing of your generals.<br>One would have ling’ring wars, with little cost;<br>Another would fly swift, but wanteth wings;<br>A third thinks, without expense at all,<br>By guileful fair words peace may be obtained.<br>Awake, awake, English nobility!<br>Let not sloth dim your honours new-begot.<br>Cropped are the flower-de-luces in your arms; |
+| *(didascalia)* | Of England’s coat, one half is cut away. Exit |
+| EXETER | Were our tears wanting to this funeral,<br>These tidings would call forth her flowing tides. |
+| BEDFORD | Me they concern; Regent I am of France.<br>Give me my steeled coat. I’ll fight for France.<br>Away with these disgraceful wailing robes! |
+| *(didascalia)* | He removes his mourning robe |
+| BEDFORD | Wounds will I lend the French, instead of eyes,<br>To weep their intermissive miseries. |
+| *(didascalia)* | Enter to them another Messenger with letters |
+| SECOND MESSENGER | Lords, view these letters, full of bad mischance.<br>France is revolted from the English quite,<br>Except some petty towns of no import.<br>The Dauphin Charles is crowned king in Rheims;<br>The Bastard of Orléans with him is joined;<br>René, Duke of Anjou, doth take his part;<br>The Duke of Alençon flyeth to his side. Exit |
+| EXETER | The Dauphin crowned King? All fly to him?<br>O whither shall we fly from this reproach? |
+| GLOUCESTER | We will not fly, but to our enemies’ throats.<br>Bedford, if thou be slack, I’ll fight it out. |
+| BEDFORD | Gloucester, why doubt’st thou of my forwardness?<br>An army have I mustered in my thoughts,<br>Wherewith already France is overrun. |
+| *(didascalia)* | Enter another Messenger |
+| THIRD MESSENGER | My gracious lords, to add to your laments,<br>Wherewith you now bedew King Henry’s hearse,<br>I must inform you of a dismal fight<br>Betwixt the stout Lord Talbot and the French. |
+| WINCHESTER | What, wherein Talbot overcame—is’t so? |
+| THIRD MESSENGER | O no, wherein Lord Talbot was o’erthrown.<br>The circumstance I’ll tell you more at large.<br>The tenth of August last, this dreadful lord,<br>Retiring from the siege of Orléans,<br>Having full scarce six thousand in his troop,<br>By three-and-twenty thousand of the French<br>Was round encompassed and set upon.<br>No leisure had he to enrank his men.<br>He wanted pikes to set before his archers—<br>Instead whereof, sharp stakes plucked out of hedges<br>They pitched in the ground confusedly,<br>To keep the horsemen off from breaking in.<br>More than three hours the fight continued,<br>Where valiant Talbot above human thought<br>Enacted wonders with his sword and lance.<br>Hundreds he sent to hell, and none durst stand him;<br>Here, there, and everywhere, enraged he slew.<br>The French exclaimed the devil was in arms:<br>All the whole army stood agazed on him.<br>His soldiers, spying his undaunted spirit,<br>‘A Talbot! A Talbot!’ cried out amain,<br>And rushed into the bowels of the battle.<br>Here had the conquest fully been sealed up,<br>If Sir John Fastolf had not played the coward.<br>He, being in the vanguard placed behind,<br>With purpose to relieve and follow them,<br>Cowardly fled, not having struck one stroke.<br>Hence grew the general wrack and massacre.<br>Enclosèd were they with their enemies.<br>A base Walloon, to win the Dauphin’s grace,<br>Thrust Talbot with a spear into the back—<br>Whom all France, with their chief assembled strength,<br>Durst not presume to look once in the face. |
+| BEDFORD | Is Talbot slain then? I will slay myself,<br>For living idly here in pomp and ease<br>Whilst such a worthy leader, wanting aid,<br>Unto his dastard foemen is betrayed. |
+| THIRD MESSENGER | O no, he lives, but is took prisoner,<br>And Lord Scales with him, and Lord Hungerford;<br>Most of the rest slaughtered, or took likewise. |
+| BEDFORD | His ransom there is none but I shall pay.<br>I’ll hale the Dauphin headlong from his throne;<br>His crown shall be the ransom of my friend.<br>Four of their lords I’ll change for one of ours.<br>Farewell, my masters; to my task will I.<br>Bonfires in France forthwith I am to make,<br>To keep our great Saint George’s feast withal.<br>Ten thousand soldiers with me I will take,<br>Whose bloody deeds shall make all Europe quake. |
+| THIRD MESSENGER | So you had need. Fore Orléans, besieged,<br>The English army is grown weak and faint.<br>The Earl of Salisbury craveth supply,<br>And hardly keeps his men from mutiny,<br>Since they, so few, watch such a multitude. |
+| *(didascalia)* | Exit |
+| EXETER | Remember, lords, your oaths to Henry sworn:<br>Either to quell the Dauphin utterly,<br>Or bring him in obedience to your yoke. |
+| BEDFORD | I do remember it, and here take my leave<br>To go about my preparation. Exit |
+| GLOUCESTER | I’ll to the Tower with all the haste I can,<br>To view th’artillery and munition,<br>And then I will proclaim young Henry king. Exit |
+| EXETER | To Eltham will I, where the young King is,<br>Being ordained his special governor,<br>And for his safety there I’ll best devise. Exit |
+| WINCHESTER | Each hath his place and function to attend;<br>I am left out; for me, nothing remains.<br>But long I will not be Jack-out-of-office.<br>The King from Eltham I intend to steal,<br>And sit at chiefest stern of public weal. Exit |

@@ -13,17 +13,8 @@ tags:
 </nav>
 
 
-GLOUCESTER
-Ay, grief, I fear me, both at first and last. Exit
-
-SIIEFOLK
-Thus Suffolk hath prevailed, and thus he goes
-As did the youthful Paris once to Greece,
-With hope to find the like event in love,
-But prosper better than the Trojan did.
-Margaret shall now be queen and rule the King;
-But I will rule both her, the King, and realm. Exit
-
-TITUS ANDRONICUS
-
-BY WILLIAM SHAKESPEARE, WITH GEORGE PEELE
+| Chi parla | Battuta |
+|---|---|
+| GLOUCESTER | Ay, grief, I fear me, both at first and last. Exit |
+| SIIEFOLK | Thus Suffolk hath prevailed, and thus he goes As did the youthful Paris once to Greece, With hope to find the like event in love, But prosper better than the Trojan did. Margaret shall now be queen and rule the King; But I will rule both her, the King, and realm. Exit |
+| BY WILLIAM | SHAKESPEARE, WITH GEORGE PEELE |

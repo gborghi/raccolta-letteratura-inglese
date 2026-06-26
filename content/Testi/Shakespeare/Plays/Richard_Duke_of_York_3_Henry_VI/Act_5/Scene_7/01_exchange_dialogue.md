@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-⌈A chair of state.⌉ Flourish. Enter King Edward, Lady Gray his Queen, George Duke off Clarence, Richard Duke of Gloucester, the Lord Hastings, a nurse carrying the infant Prince Edward, and attendants
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A chair of state. Flourish. Enter King Edward, Lady Gray his Queen, George Duke off Clarence, Richard Duke of Gloucester, the Lord Hastings, a nurse carrying the infant Prince Edward, and attendants |

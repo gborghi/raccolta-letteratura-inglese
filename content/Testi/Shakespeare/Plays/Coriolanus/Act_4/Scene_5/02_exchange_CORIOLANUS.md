@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-CORIOLANUS
-Prepare thy brow to frown. Know’st thou me yet?
-
-AUFIDIUS I know thee not. Thy name?
+| Chi parla | Battuta |
+|---|---|
+| CORIOLANUS | Prepare thy brow to frown. Know’st thou me yet? |
+| AUFIDIUS | I know thee not. Thy name? |

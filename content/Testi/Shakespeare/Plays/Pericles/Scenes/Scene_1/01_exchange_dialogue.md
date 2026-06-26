@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Gower as Prologue
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Gower as Prologue |

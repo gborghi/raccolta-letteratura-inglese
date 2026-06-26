@@ -14,13 +14,8 @@ tags:
 </nav>
 
 
-Alarum. Enter Brutus and Messala
-BRUTUS
-Ride, ride, Messala, ride, and give these bills
-Unto the legions on the other side.
-Loud alarum
-Let them set on at once, for I perceive
-But cold demeanour in Octavio’s wing,
-And sudden push gives them the overthrow.
-Ride, ride, Messala; let them all come down.
-Exeunt ⌈severally⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter Brutus and Messala |
+| BRUTUS | Ride, ride, Messala, ride, and give these bills<br>Unto the legions on the other side.<br>Loud alarum<br>Let them set on at once, for I perceive<br>But cold demeanour in Octavio’s wing,<br>And sudden push gives them the overthrow.<br>Ride, ride, Messala; let them all come down. |
+| *(didascalia)* | Exeunt severally |

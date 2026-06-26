@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-ENOBARBUS
-I shall do’t.
-Exeunt severally
+| Chi parla | Battuta |
+|---|---|
+| ENOBARBUS | I shall do’t. Exeunt severally |

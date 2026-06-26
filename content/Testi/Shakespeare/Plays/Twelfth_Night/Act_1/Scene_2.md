@@ -14,91 +14,28 @@ tags:
 </nav>
 
 
-Enter Viola, a Captain, and sailors
-VIOLA
-What country, friends, is this?
-CAPTAIN
-This is Illyria, lady.
-VIOLA
-And what should I do in Illyria?
-My brother, he is in Elysium.
-Perchance he is not drowned. What think you sailors?
-CAPTAIN
-It is perchance that you yourself were saved.
-VIOLA
-O my poor brother!—and so perchance may he be.
-CAPTAIN
-True, madam, and to comfort you with chance,
-Assure yourself, after our ship did split,
-When you and those poor number saved with you
-Hung on our driving boat, I saw your brother,
-Most provident in peril, bind himself—
-Courage and hope both teaching him the practice—
-To a strong mast that lived upon the sea,
-Where, like Arion on the dolphin’s back,
-I saw him hold acquaintance with the waves
-So long as I could see.
-VIOLA (giving money)
-For saying so, there’s gold.
-Mine own escape unfoldeth to my hope,
-Whereto thy speech serves for authority,
-The like of him. Know’st thou this country?
-CAPTAIN
-Ay, madam, well, for I was bred and born
-Not three hours’ travel from this very place.
-VIOLA
-Who governs here?
-CAPTAIN A noble duke, in nature
-As in name.
-VIOLA
-What is his name?
-CAPTAIN
-Orsino.
-VIOLA
-Orsino. I have heard my father name him.
-He was a bachelor then.
-CAPTAIN
-And so is now, or was so very late,
-For but a month ago I went from hence,
-And then ’twas fresh in murmur—as, you know,
-What great ones do the less will prattle of—
-That he did seek the love of fair Olivia.
-VIOLA What’s she?
-CAPTAIN
-A virtuous maid, the daughter of a count
-That died some twelvemonth since, then leaving her
-In the protection of his son, her brother,
-Who shortly also died, for whose dear love,
-They say, she hath abjured the sight
-And company of men.
-VIOLA
-O that I served that lady,
-And might not be delivered to the world
-Till I had made mine own occasion mellow,
-What my estate is.
-CAPTAIN
-That were hard to compass,
-Because she will admit no kind of suit,
-No, not the Duke’s.
-VIOLA
-There is a fair behaviour in thee, captain,
-And though that nature with a beauteous wall
-Doth oft close in pollution, yet of thee
-I will believe thou hast a mind that suits
-With this thy fair and outward character.
-I pray thee—and I’ll pay thee bounteously—
-Conceal me what I am, and be my aid
-For such disguise as haply shall become
-The form of my intent. I’ll serve this duke.
-Thou shalt present me as an eunuch to him.
-It may be worth thy pains, for I can sing,
-And speak to him in many sorts of music
-That will allow me very worth his service.
-What else may hap, to time I will commit.
-Only shape thou thy silence to my wit.
-CAPTAIN
-Be you his eunuch, and your mute I’ll be.
-When my tongue blabs, then let mine eyes not see.
-VIOLA
-I thank thee. Lead me on.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Viola, a Captain, and sailors |
+| VIOLA | What country, friends, is this? |
+| CAPTAIN | This is Illyria, lady. |
+| VIOLA | And what should I do in Illyria?<br>My brother, he is in Elysium.<br>Perchance he is not drowned. What think you sailors? |
+| CAPTAIN | It is perchance that you yourself were saved. |
+| VIOLA | O my poor brother!—and so perchance may he be. |
+| CAPTAIN | True, madam, and to comfort you with chance,<br>Assure yourself, after our ship did split,<br>When you and those poor number saved with you<br>Hung on our driving boat, I saw your brother,<br>Most provident in peril, bind himself—<br>Courage and hope both teaching him the practice—<br>To a strong mast that lived upon the sea,<br>Where, like Arion on the dolphin’s back,<br>I saw him hold acquaintance with the waves<br>So long as I could see. |
+| VIOLA | (giving money)<br>For saying so, there’s gold.<br>Mine own escape unfoldeth to my hope,<br>Whereto thy speech serves for authority,<br>The like of him. Know’st thou this country? |
+| CAPTAIN | Ay, madam, well, for I was bred and born<br>Not three hours’ travel from this very place. |
+| VIOLA | Who governs here? |
+| CAPTAIN | A noble duke, in nature<br>As in name. |
+| VIOLA | What is his name? |
+| CAPTAIN | Orsino. |
+| VIOLA | Orsino. I have heard my father name him.<br>He was a bachelor then. |
+| CAPTAIN | And so is now, or was so very late,<br>For but a month ago I went from hence,<br>And then ’twas fresh in murmur—as, you know,<br>What great ones do the less will prattle of—<br>That he did seek the love of fair Olivia. |
+| VIOLA | What’s she? |
+| CAPTAIN | A virtuous maid, the daughter of a count<br>That died some twelvemonth since, then leaving her<br>In the protection of his son, her brother,<br>Who shortly also died, for whose dear love,<br>They say, she hath abjured the sight<br>And company of men. |
+| VIOLA | O that I served that lady,<br>And might not be delivered to the world<br>Till I had made mine own occasion mellow,<br>What my estate is. |
+| CAPTAIN | That were hard to compass,<br>Because she will admit no kind of suit,<br>No, not the Duke’s. |
+| VIOLA | There is a fair behaviour in thee, captain,<br>And though that nature with a beauteous wall<br>Doth oft close in pollution, yet of thee<br>I will believe thou hast a mind that suits<br>With this thy fair and outward character.<br>I pray thee—and I’ll pay thee bounteously—<br>Conceal me what I am, and be my aid<br>For such disguise as haply shall become<br>The form of my intent. I’ll serve this duke.<br>Thou shalt present me as an eunuch to him.<br>It may be worth thy pains, for I can sing,<br>And speak to him in many sorts of music<br>That will allow me very worth his service.<br>What else may hap, to time I will commit.<br>Only shape thou thy silence to my wit. |
+| CAPTAIN | Be you his eunuch, and your mute I’ll be.<br>When my tongue blabs, then let mine eyes not see. |
+| VIOLA | I thank thee. Lead me on. |
+| *(didascalia)* | Exeunt |

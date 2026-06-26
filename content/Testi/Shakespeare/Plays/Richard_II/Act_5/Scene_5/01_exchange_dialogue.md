@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Richard, alone
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Richard, alone |

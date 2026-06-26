@@ -13,8 +13,8 @@ tags:
 </nav>
 
 
-Enter the Constable, Lord Rambures, the Dukes of Orléans and ⌈Bourbon⌉, with others
-
-CONSTABLE Tut, I have the best armour of the world. Would it were day.
-
-ORLEANS You have an excellent armour. But let my horse have his due.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Constable, Lord Rambures, the Dukes of Orléans and Bourbon, with others |
+| CONSTABLE | Tut, I have the best armour of the world. Would it were day. |
+| ORLEANS | You have an excellent armour. But let my horse have his due. |

@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-GLOUCESTER I serve you, madam.
-Your graces are right welcome.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| GLOUCESTER | I serve you, madam. Your graces are right welcome. Exeunt |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Edmund the bastard
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Edmund the bastard |

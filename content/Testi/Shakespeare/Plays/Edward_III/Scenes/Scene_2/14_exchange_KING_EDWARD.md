@@ -13,14 +13,6 @@ tags:
 </nav>
 
 
-KING EDWARD
-That devil’s office must thou do for me,
-Or break thy oath and cancel all the bonds
-Of love and duty ‘twixt thyself and me.
-And therefore, Warwick, if thou art thyself,
-The lord and master of thy word and oath,
-Go to thy daughter and, in my behalf,
-Command her, woo her, win her any ways
-To be my mistress and my secret love.
-I will not stand to hear thee make reply;
-Thy oath break hers, or let thy sovereign die. Exit
+| Chi parla | Battuta |
+|---|---|
+| KING EDWARD | That devil’s office must thou do for me, Or break thy oath and cancel all the bonds Of love and duty ‘twixt thyself and me. And therefore, Warwick, if thou art thyself, The lord and master of thy word and oath, Go to thy daughter and, in my behalf, Command her, woo her, win her any ways To be my mistress and my secret love. I will not stand to hear thee make reply; Thy oath break hers, or let thy sovereign die. Exit |

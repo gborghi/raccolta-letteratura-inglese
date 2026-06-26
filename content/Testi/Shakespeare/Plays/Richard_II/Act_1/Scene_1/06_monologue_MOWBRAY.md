@@ -13,34 +13,6 @@ tags:
 </nav>
 
 
-MOWBRAY
-Then, Bolingbroke, as low as to thy heart
-Through the false passage of thy throat thou liest!
-Three parts of that receipt I had for Calais
-Disbursed I duly to his highness’ soldiers.
-The other part reserved I by consent,
-For that my sovereign liege was in my debt
-Upon remainder of a dear account
-Since last I went to France to fetch his queen.
-Now swallow down that lie. For Gloucester’s death,
-I slew him not, but to my own disgrace
-Neglected my sworn duty in that case.
-For you, my noble lord of Lancaster,
-The honourable father to my foe,
-Once did I lay an ambush for your life,
-A trespass that doth vex my grieved soul;
-But ere I last received the Sacrament
-I did confess it, and exactly begged
-Your grace’s pardon, and I hope I had it.
-This is my fault. As for the rest appealed,
-It issues from the rancour of a villain,
-A recreant and most degenerate traitor,
-Which in myself I boldly will defend,
-He throws down his gage
-And interchangeably hurl down my gage
-Upon this overweening traitor’s foot,
-To prove myself a loyal gentleman
-Even in the best blood chambered in his bosom;
-In haste whereof most heartily I pray
-Your highness to assign our trial day.
-⌈Bolingbroke takes up the gage⌉
+| Chi parla | Battuta |
+|---|---|
+| MOWBRAY | Then, Bolingbroke, as low as to thy heart Through the false passage of thy throat thou liest! Three parts of that receipt I had for Calais Disbursed I duly to his highness’ soldiers. The other part reserved I by consent, For that my sovereign liege was in my debt Upon remainder of a dear account Since last I went to France to fetch his queen. Now swallow down that lie. For Gloucester’s death, I slew him not, but to my own disgrace Neglected my sworn duty in that case. For you, my noble lord of Lancaster, The honourable father to my foe, Once did I lay an ambush for your life, A trespass that doth vex my grieved soul; But ere I last received the Sacrament I did confess it, and exactly begged Your grace’s pardon, and I hope I had it. This is my fault. As for the rest appealed, It issues from the rancour of a villain, A recreant and most degenerate traitor, Which in myself I boldly will defend, He throws down his gage And interchangeably hurl down my gage Upon this overweening traitor’s foot, To prove myself a loyal gentleman Even in the best blood chambered in his bosom; In haste whereof most heartily I pray Your highness to assign our trial day. Bolingbroke takes up the gage |

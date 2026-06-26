@@ -13,10 +13,9 @@ tags:
 </nav>
 
 
-JAILER Alas, what then?
-
-DOCTOR Understand you she ever affected any man ere she beheld Palamon?
-
-JAILER I was once, sir, in great hope she had fixed her liking on this gentleman, my friend.
-
-WOOER I did think so too, and would account I had a great penn’orth on’t to give half my state that both she and I, at this present, stood unfeignedly on the same terms. 66
+| Chi parla | Battuta |
+|---|---|
+| JAILER | Alas, what then? |
+| DOCTOR | Understand you she ever affected any man ere she beheld Palamon? |
+| JAILER | I was once, sir, in great hope she had fixed her liking on this gentleman, my friend. |
+| WOOER | I did think so too, and would account I had a great penn’orth on’t to give half my state that both she and I, at this present, stood unfeignedly on the same terms. 66 |

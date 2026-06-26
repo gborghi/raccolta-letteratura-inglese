@@ -14,67 +14,11 @@ tags:
 </nav>
 
 
-Alarum. Excursions, wherein Lord Talbot’s son John is hemmed about by French soldiers and Talbot rescues him. ⌈The English drive off the French⌉
-TALBOT
-Saint George and victory! Fight, soldiers, fight!
-The Regent hath with Talbot broke his word,
-And left us to the rage of France his sword.
-Where is John Talbot? (To John) Pause and take thy
-breath.
-I gave thee life, and rescued thee from death.
-JOHN
-O twice my father, twice am I thy son:
-The life thou gav‘st me first was lost and done
-Till with thy warlike sword, despite of fate,
-To my determined time thou gav’st new date.
-TALBOT
-When from the Dauphin’s crest thy sword struck fire
-It warmed thy father’s heart with proud desire
-Of bold-faced victory. Then leaden age,
-Quickened with youthful spleen and warlike rage,
-Beat down Alençon, Orléans, Burgundy,
-And from the pride of Gallia rescued thee.
-The ireful Bastard Orléans, that drew blood
-From thee, my boy, and had the maidenhood
-Of thy first fight, I soon encountered,
-And interchanging blows, I quickly shed
-Some of his bastard blood, and in disgrace
-Bespoke him thus: ‘Contaminated, base,
-And misbegotten blood I spill of thine,
-Mean and right poor, for that pure blood of mine
-Which thou didst force from Talbot, my brave boy.’
-Here, purposing the Bastard to destroy,
-Came in strong rescue. Speak thy father’s care:
-Art thou not weary, John? How dost thou fare?
-Wilt thou yet leave the battle, boy, and fly,
-Now thou art sealed the son of chivalry?
-Fly to revenge my death when I am dead;
-The help of one stands me in little stead.
-O, too much folly is it, well I wot,
-To hazard all our lives in one small boat.
-If I today die not with Frenchmen’s rage,
-Tomorrow I shall die with mickle age.
-By me they nothing gain, and if I stay
-‘Tis but the short’ning of my life one day.
-In thee thy mother dies, our household’s name,
-My death’s revenge, thy youth, and England’s fame.
-All these and more we hazard by thy stay;
-All these are saved if thou wilt fly away.
-JOHN
-The sword of Orléans hath not made me smart;
-These words of yours draw life-blood from my heart.
-On that advantage, bought with such a shame,
-To save a paltry life and slay bright fame,
-Before young Talbot from old Talbot fly
-The coward horse that bears me fall and die;
-And like me to the peasant boys of France,
-To be shame’s scorn and subject of mischance !
-Surely, by all the glory you have won,
-An if I fly I am not Talbot’s son.
-Then talk no more of flight; it is no boot.
-If son to Talbot, die at Talbot’s foot.
-TALBOT
-Then follow thou thy desp’rate sire of Crete,
-Thou Icarus; thy life to me is sweet.
-If thou wilt fight, fight by thy father’s side,
-And commendable proved, let’s die in pride. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Excursions, wherein Lord Talbot’s son John is hemmed about by French soldiers and Talbot rescues him. The English drive off the French |
+| TALBOT | Saint George and victory! Fight, soldiers, fight!<br>The Regent hath with Talbot broke his word,<br>And left us to the rage of France his sword.<br>Where is John Talbot? (To John) Pause and take thy<br>breath.<br>I gave thee life, and rescued thee from death. |
+| JOHN | O twice my father, twice am I thy son:<br>The life thou gav‘st me first was lost and done<br>Till with thy warlike sword, despite of fate,<br>To my determined time thou gav’st new date. |
+| TALBOT | When from the Dauphin’s crest thy sword struck fire<br>It warmed thy father’s heart with proud desire<br>Of bold-faced victory. Then leaden age,<br>Quickened with youthful spleen and warlike rage,<br>Beat down Alençon, Orléans, Burgundy,<br>And from the pride of Gallia rescued thee.<br>The ireful Bastard Orléans, that drew blood<br>From thee, my boy, and had the maidenhood<br>Of thy first fight, I soon encountered,<br>And interchanging blows, I quickly shed<br>Some of his bastard blood, and in disgrace<br>Bespoke him thus: ‘Contaminated, base,<br>And misbegotten blood I spill of thine,<br>Mean and right poor, for that pure blood of mine<br>Which thou didst force from Talbot, my brave boy.’<br>Here, purposing the Bastard to destroy,<br>Came in strong rescue. Speak thy father’s care:<br>Art thou not weary, John? How dost thou fare?<br>Wilt thou yet leave the battle, boy, and fly,<br>Now thou art sealed the son of chivalry?<br>Fly to revenge my death when I am dead;<br>The help of one stands me in little stead.<br>O, too much folly is it, well I wot,<br>To hazard all our lives in one small boat.<br>If I today die not with Frenchmen’s rage,<br>Tomorrow I shall die with mickle age.<br>By me they nothing gain, and if I stay<br>‘Tis but the short’ning of my life one day.<br>In thee thy mother dies, our household’s name,<br>My death’s revenge, thy youth, and England’s fame.<br>All these and more we hazard by thy stay;<br>All these are saved if thou wilt fly away. |
+| JOHN | The sword of Orléans hath not made me smart;<br>These words of yours draw life-blood from my heart.<br>On that advantage, bought with such a shame,<br>To save a paltry life and slay bright fame,<br>Before young Talbot from old Talbot fly<br>The coward horse that bears me fall and die;<br>And like me to the peasant boys of France,<br>To be shame’s scorn and subject of mischance !<br>Surely, by all the glory you have won,<br>An if I fly I am not Talbot’s son.<br>Then talk no more of flight; it is no boot.<br>If son to Talbot, die at Talbot’s foot. |
+| TALBOT | Then follow thou thy desp’rate sire of Crete,<br>Thou Icarus; thy life to me is sweet.<br>If thou wilt fight, fight by thy father’s side,<br>And commendable proved, let’s die in pride. Exeunt |

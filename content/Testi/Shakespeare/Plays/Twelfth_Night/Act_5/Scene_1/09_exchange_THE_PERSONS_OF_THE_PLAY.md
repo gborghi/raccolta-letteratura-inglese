@@ -13,34 +13,9 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-
-PROLOGUE
-Trojans
-PRIAM, King of Troy
-CASSANDRA, Priam’s daughter, a prophetess
-ANDROMACHE, wife of Hector
-PANDARUS, a lord
-CRESSIDA, his niece
-CALCHAS, her father, who has joined the Greeks
-HELEN, wife of Menelaus, now living with Paris
-ALEXANDER, servant of Cressida
-Servants of Troilus, musicians, soldiers, attendants
-Greeks
-AGAMEMNON, Commander-in-Chief
-MENELAUS, his brother
-
-NESTOR
-
-ULYSSES
-
-ACHILLES
-PATROCLUS, his companion
-
-DIOMEDES
-
-AJAX
-
-THERSITES
-MYRMIDONS, soldiers of Achilles
-Servants of Diomedes, soldiers
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| PROLOGUE | Trojans PRIAM, King of Troy CASSANDRA, Priam’s daughter, a prophetess ANDROMACHE, wife of Hector PANDARUS, a lord CRESSIDA, his niece CALCHAS, her father, who has joined the Greeks HELEN, wife of Menelaus, now living with Paris ALEXANDER, servant of Cressida Servants of Troilus, musicians, soldiers, attendants Greeks AGAMEMNON, Commander-in-Chief MENELAUS, his brother |
+| ACHILLES | PATROCLUS, his companion |
+| THERSITES | MYRMIDONS, soldiers of Achilles Servants of Diomedes, soldiers |

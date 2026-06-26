@@ -13,13 +13,7 @@ tags:
 </nav>
 
 
-JOHN OF GAUNT
-Come, come, my son, I’ll bring thee on thy way.
-Had I thy youth and cause, I would not stay.
-
-BOLINGBROKE
-Then England’s ground, farewell. Sweet soil, adieu,
-My mother and my nurse that bears me yet!
-Where’er I wander, boast of this I can:
-Though banished, yet a trueborn Englishman.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| JOHN OF GAUNT | Come, come, my son, I’ll bring thee on thy way. Had I thy youth and cause, I would not stay. |
+| BOLINGBROKE | Then England’s ground, farewell. Sweet soil, adieu, My mother and my nurse that bears me yet! Where’er I wander, boast of this I can: Though banished, yet a trueborn Englishman. Exeunt |

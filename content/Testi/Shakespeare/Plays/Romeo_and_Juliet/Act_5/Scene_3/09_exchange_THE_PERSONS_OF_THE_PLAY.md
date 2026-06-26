@@ -13,25 +13,9 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-THESEUS, Duke of Athens
-HIPPOLYTA, Queen of the Amazons, betrothed to Theseus
-PHILOSTRATE, Master of the Revels to Theseus
-EGEUS, father of Hermia
-HERMIA, daughter of Egeus, in love with Lysander
-LYSANDER, loved by Hermia
-DEMETRIUS, suitor to Hermia
-HELENA, in love with Demetrius
-
-OBERON, King of Fairies
-TITANIA, Queen of Fairies
-
-ROBIN GOODFELLOW, a puck
-Peter QUINCE, a carpenter
-Nick BOTTOM, a weaver
-Francis FLUTE, a bellows-mender
-Tom SNOUT, a tinker
-SNUG, a joiner
-Robin STARVELING, a tailor
-
-Attendant lords and fairies
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY THESEUS, Duke of Athens HIPPOLYTA, Queen of the Amazons, betrothed to Theseus PHILOSTRATE, Master of the Revels to Theseus EGEUS, father of Hermia HERMIA, daughter of Egeus, in love with Lysander LYSANDER, loved by Hermia DEMETRIUS, suitor to Hermia HELENA, in love with Demetrius |
+| THE PERSONS OF THE | OBERON, King of Fairies TITANIA, Queen of Fairies |
+| ROBIN | GOODFELLOW, a puck Peter QUINCE, a carpenter Nick BOTTOM, a weaver Francis FLUTE, a bellows-mender Tom SNOUT, a tinker SNUG, a joiner Robin STARVELING, a tailor |
+| ROBIN | Attendant lords and fairies |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, and Menelaus, with others
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, and Menelaus, with others |

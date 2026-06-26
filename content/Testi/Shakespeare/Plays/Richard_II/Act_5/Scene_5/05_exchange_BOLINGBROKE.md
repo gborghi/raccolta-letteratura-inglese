@@ -13,11 +13,6 @@ tags:
 </nav>
 
 
-BOLINGBROKE
-Nay, rather every tedious stride I make
-Will but remember what a deal of world
-I wander from the jewels that I love.
-Must I not serve a long apprenticehood
-To foreign passages, and in the end,
-Having my freedom, boast of nothing else
-But that I was a journeyman to grief?
+| Chi parla | Battuta |
+|---|---|
+| BOLINGBROKE | Nay, rather every tedious stride I make Will but remember what a deal of world I wander from the jewels that I love. Must I not serve a long apprenticehood To foreign passages, and in the end, Having my freedom, boast of nothing else But that I was a journeyman to grief? |

@@ -14,248 +14,40 @@ tags:
 </nav>
 
 
-Enter King Richard and John of Gaunt, with the Lord Marshal, other nobles, and attendants
-KING RICHARD
-
-Old John of Gaunt, time-honoured Lancaster,
-Hast thou according to thy oath and bond
-Brought hither Henry Hereford, thy bold son,
-Here to make good the boist’rous late appeal,
-Which then our leisure would not let us hear,
-Against the Duke of Norfolk, Thomas Mowbray?
-JOHN OF GAUNT I have, my liege.
-KING RICHARD
-
-Tell me moreover, hast thou sounded him
-If he appeal the Duke on ancient malice
-Or worthily, as a good subject should,
-On some known ground of treachery in him?
-JOHN OF GAUNT
-As near as I could sift him on that argument,
-On some apparent danger seen in him
-Aimed at your highness, no inveterate malice.
-KING RICHARD
-Then call them to our presence.
-[Exit one or more]
-Face to face
-And frowning brow to brow, ourselves will hear
-The accuser and the accused freely speak.
-High-stomached are they both and full of ire;
-In rage, deaf as the sea, hasty as fire.
-Enter Bolingbroke Duke of Hereford, and Mowbray Duke of Norfolk
-BOLINGBROKE
-Many years of happy days befall
-My gracious sovereign, my most loving liege!
-MOWBRAY
-Each day still better others’ happiness,
-Until the heavens, envying earth’s good hap,
-Add an immortal title to your crown!
-KING RICHARD
-We thank you both. Yet one but flatters us,
-As well appeareth by the cause you come,
-Namely, to appeal each other of high treason.
-Cousin of Hereford, what dost thou object
-Against the Duke of Norfolk, Thomas Mowbray?
-BOLINGBROKE
-First—heaven be the record to my speech—
-In the devotion of a subject’s love,
-Tend’ring the precious safety of my Prince,
-And free from other misbegotten hate,
-Come I appellant to this princely presence.
-Now, Thomas Mowbray, do I turn to thee;
-And mark my greeting well, for what I speak
-My body shall make good upon this earth,
-Or my divine soul answer it in heaven.
-Thou art a traitor and a miscreant,
-Too good to be so, and too bad to live,
-Since the more fair and crystal is the sky,
-The uglier seem the clouds that in it fly.
-Once more, the more to aggravate the note,
-With a foul traitor’s name stuff I thy throat,
-And wish, so please my sovereign, ere I move
-What my tongue speaks my right-drawn sword may
-prove.
-MOWBRAY
-Let not my cold words here accuse my zeal.
-’Tis not the trial of a woman’s war,
-The bitter clamour of two eager tongues,
-Can arbitrate this cause betwixt us twain.
-The blood is hot that must be cooled for this.
-Yet can I not of such tame patience boast
-As to be hushed and naught at all to say.
-First, the fair reverence of your highness curbs me
-From giving reins and spurs to my free speech,
-Which else would post until it had returned
-These terms of treason doubled down his throat.
-Setting aside his high blood’s royalty,
-And let him be no kinsman to my liege,
-I do defy him, and I spit at him,
-Call him a slanderous coward and a villain;
-Which to maintain I would allow him odds,
-And meet him, were I tied to run afoot
-Even to the frozen ridges of the Alps,
-Or any other ground inhabitable,
-Wherever Englishman durst set his foot.
-Meantime let this defend my loyalty:
-By all my hopes, most falsely doth he lie.
-BOLINGBROKE (throwing down his gage)
-Pale trembling coward, there I throw my gage,
-Disclaiming here the kindred of the King,
-And lay aside my high blood’s royalty,
-Which fear, not reverence, makes thee to except.
-If guilty dread have left thee so much strength
-As to take up mine honour’s pawn, then stoop.
-By that, and all the rites of knighthood else,
-Will I make good against thee, arm to arm,
-What I have spoke or thou canst worse devise.
-MOWBRAY (taking up the gage)
-I take it up, and by that sword I swear
-Which gently laid my knighthood on my shoulder,
-I’ll answer thee in any fair degree
-Or chivalrous design of knightly trial;
-And when I mount, alive may I not light
-If I be traitor or unjustly fight!
-KING RICHARD (to Bolingbroke)
-What doth our cousin lay to Mowbray’s charge?
-It must be great that can inherit us
-So much as of a thought of ill in him.
-BOLINGBROKE
-Look what I speak, my life shall prove it true:
-That Mowbray hath received eight thousand nobles
-In name of lendings for your highness’ soldiers,
-The which he hath detained for lewd employments,
-Like a false traitor and injurious villain.
-Besides I say, and will in battle prove,
-Or here or elsewhere, to the furthest verge
-That ever was surveyed by English eye,
-That all the treasons for these eighteen years
-Complotted and contrived in this land
-Fetch from false Mowbray their first head and spring.
-Further I say, and further will maintain
-Upon his bad life, to make all this good,
-That he did plot the Duke of Gloucester’s death,
-Suggest his soon-believing adversaries,
-And consequently, like a traitor-coward,
-Sluiced out his innocent soul through streams of blood;
-Which blood, like sacrificing Abel’s, cries
-Even from the tongueless caverns of the earth
-To me for justice and rough chastisement.
-And, by the glorious worth of my descent,
-This arm shall do it or this life be spent.
-KING RICHARD
-How high a pitch his resolution soars!
-Thomas of Norfolk, what sayst thou to this?
-MOWBRAY
-O, let my sovereign turn away his face,
-And bid his ears a little while be deaf,
-Till I have told this slander of his blood
-How God and good men hate so foul a liar!
-KING RICHARD
-Mowbray, impartial are our eyes and ears.
-Were he my brother, nay, my kingdom’s heir,
-As he is but my father’s brother’s son,
-Now by my sceptre’s awe I make a vow
-Such neighbour-nearness to our sacred blood
-Should nothing privilege him, nor partialize
-The unstooping firmness of my upright soul.
-He is our subject, Mowbray; so art thou.
-Free speech and fearless I to thee allow.
-MOWBRAY
-Then, Bolingbroke, as low as to thy heart
-Through the false passage of thy throat thou liest!
-Three parts of that receipt I had for Calais
-Disbursed I duly to his highness’ soldiers.
-The other part reserved I by consent,
-For that my sovereign liege was in my debt
-Upon remainder of a dear account
-Since last I went to France to fetch his queen.
-Now swallow down that lie. For Gloucester’s death,
-I slew him not, but to my own disgrace
-Neglected my sworn duty in that case.
-For you, my noble lord of Lancaster,
-The honourable father to my foe,
-Once did I lay an ambush for your life,
-A trespass that doth vex my grieved soul;
-But ere I last received the Sacrament
-I did confess it, and exactly begged
-Your grace’s pardon, and I hope I had it.
-This is my fault. As for the rest appealed,
-It issues from the rancour of a villain,
-A recreant and most degenerate traitor,
-Which in myself I boldly will defend,
-He throws down his gage
-And interchangeably hurl down my gage
-Upon this overweening traitor’s foot,
-To prove myself a loyal gentleman
-Even in the best blood chambered in his bosom;
-In haste whereof most heartily I pray
-Your highness to assign our trial day.
-⌈Bolingbroke takes up the gage⌉
-KING RICHARD
-Wrath-kindled gentlemen, be ruled by me.
-Let’s purge this choler without letting blood.
-This we prescribe, though no physician:
-Deep malice makes too deep incision;
-Forget, forgive, conclude, and be agreed;
-Our doctors say this is no time to bleed.
-Good uncle, let this end where it begun.
-We’ll calm the Duke of Norfolk, you your son.
-JOHN OF GAUNT
-To be a make-peace shall become my age.
-Throw down, my son, the Duke of Norfolk’s gage.
-KING RICHARD
-And, Norfolk, throw down his.
-JOHN OF GAUNT
-When, Harry, when?
-Obedience bids I should not bid again.
-KING RICHARD
-Norfolk, throw down! We bid; there is no boot.
-MOWBRAY (kneeling)
-Myself I throw, dread sovereign, at thy foot.
-My life thou shalt command, but not my shame.
-The one my duty owes, but my fair name,
-Despite of death that lives upon my grave,
-To dark dishonour’s use thou shalt not have.
-I am disgraced, impeached, and baffled here,
-Pierced to the soul with slander’s venomed spear,
-The which no balm can cure but his heart blood
-Which breathed this poison.
-KING RICHARD Rage must be withstood.
-Give me his gage. Lions make leopards tame.
-MOWBRAY ⌈standing⌉
-Yea, but not change his spots. Take but my shame,
-And I resign my gage. My dear dear lord,
-The purest treasure mortal times afford
-Is spotless reputation; that away,
-Men are but gilded loam, or painted clay.
-A jewel in a ten-times barred-up chest
-Is a bold spirit in a loyal breast.
-Mine honour is my life. Both grow in one.
-Take honour from me, and my life is done.
-Then, dear my liege, mine honour let me try.
-In that I live, and for that will I die.
-KING RICHARD
-Cousin, throw down your gage. Do you begin.
-BOLINGBROKE
-O God defend my soul from such deep sin!
-Shall I seem crest-fallen in my father’s sight?
-Or with pale beggar-fear impeach my height
-Before this out-dared dastard? Ere my tongue
-Shall wound my honour with such feeble wrong,
-Or sound so base a parle, my teeth shall tear
-The slavish motive of recanting fear,
-And spit it bleeding in his high disgrace
-Where shame doth harbour, even in Mowbray’s face.
-⌈Exit John of Gaunt⌉
-KING RICHARD
-We were not born to sue, but to command;
-Which since we cannot do to make you friends,
-Be ready, as your lives shall answer it,
-At Coventry upon Saint Lambert’s day.
-There shall your swords and lances arbitrate
-The swelling difference of your settled hate.
-Since we cannot atone you, we shall see
-Justice design the victor’s chivalry.
-Lord Marshal, command our officers-at-arms
-Be ready to direct these home alarms.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Richard and John of Gaunt, with the Lord Marshal, other nobles, and attendants |
+| KING RICHARD | Old John of Gaunt, time-honoured Lancaster,<br>Hast thou according to thy oath and bond<br>Brought hither Henry Hereford, thy bold son,<br>Here to make good the boist’rous late appeal,<br>Which then our leisure would not let us hear,<br>Against the Duke of Norfolk, Thomas Mowbray? |
+| JOHN OF GAUNT | I have, my liege. |
+| KING RICHARD | Tell me moreover, hast thou sounded him<br>If he appeal the Duke on ancient malice<br>Or worthily, as a good subject should,<br>On some known ground of treachery in him? |
+| JOHN OF GAUNT | As near as I could sift him on that argument,<br>On some apparent danger seen in him<br>Aimed at your highness, no inveterate malice. |
+| KING RICHARD | Then call them to our presence.<br>[Exit one or more]<br>Face to face<br>And frowning brow to brow, ourselves will hear<br>The accuser and the accused freely speak.<br>High-stomached are they both and full of ire;<br>In rage, deaf as the sea, hasty as fire. |
+| *(didascalia)* | Enter Bolingbroke Duke of Hereford, and Mowbray Duke of Norfolk |
+| BOLINGBROKE | Many years of happy days befall<br>My gracious sovereign, my most loving liege! |
+| MOWBRAY | Each day still better others’ happiness,<br>Until the heavens, envying earth’s good hap,<br>Add an immortal title to your crown! |
+| KING RICHARD | We thank you both. Yet one but flatters us,<br>As well appeareth by the cause you come,<br>Namely, to appeal each other of high treason.<br>Cousin of Hereford, what dost thou object<br>Against the Duke of Norfolk, Thomas Mowbray? |
+| BOLINGBROKE | First—heaven be the record to my speech—<br>In the devotion of a subject’s love,<br>Tend’ring the precious safety of my Prince,<br>And free from other misbegotten hate,<br>Come I appellant to this princely presence.<br>Now, Thomas Mowbray, do I turn to thee;<br>And mark my greeting well, for what I speak<br>My body shall make good upon this earth,<br>Or my divine soul answer it in heaven.<br>Thou art a traitor and a miscreant,<br>Too good to be so, and too bad to live,<br>Since the more fair and crystal is the sky,<br>The uglier seem the clouds that in it fly.<br>Once more, the more to aggravate the note,<br>With a foul traitor’s name stuff I thy throat,<br>And wish, so please my sovereign, ere I move<br>What my tongue speaks my right-drawn sword may<br>prove. |
+| MOWBRAY | Let not my cold words here accuse my zeal.<br>’Tis not the trial of a woman’s war,<br>The bitter clamour of two eager tongues,<br>Can arbitrate this cause betwixt us twain.<br>The blood is hot that must be cooled for this.<br>Yet can I not of such tame patience boast<br>As to be hushed and naught at all to say.<br>First, the fair reverence of your highness curbs me<br>From giving reins and spurs to my free speech,<br>Which else would post until it had returned<br>These terms of treason doubled down his throat.<br>Setting aside his high blood’s royalty,<br>And let him be no kinsman to my liege,<br>I do defy him, and I spit at him,<br>Call him a slanderous coward and a villain;<br>Which to maintain I would allow him odds,<br>And meet him, were I tied to run afoot<br>Even to the frozen ridges of the Alps,<br>Or any other ground inhabitable,<br>Wherever Englishman durst set his foot.<br>Meantime let this defend my loyalty:<br>By all my hopes, most falsely doth he lie. |
+| BOLINGBROKE | (throwing down his gage)<br>Pale trembling coward, there I throw my gage,<br>Disclaiming here the kindred of the King,<br>And lay aside my high blood’s royalty,<br>Which fear, not reverence, makes thee to except.<br>If guilty dread have left thee so much strength<br>As to take up mine honour’s pawn, then stoop.<br>By that, and all the rites of knighthood else,<br>Will I make good against thee, arm to arm,<br>What I have spoke or thou canst worse devise. |
+| MOWBRAY | (taking up the gage)<br>I take it up, and by that sword I swear<br>Which gently laid my knighthood on my shoulder,<br>I’ll answer thee in any fair degree<br>Or chivalrous design of knightly trial;<br>And when I mount, alive may I not light<br>If I be traitor or unjustly fight! |
+| KING RICHARD | (to Bolingbroke)<br>What doth our cousin lay to Mowbray’s charge?<br>It must be great that can inherit us<br>So much as of a thought of ill in him. |
+| BOLINGBROKE | Look what I speak, my life shall prove it true:<br>That Mowbray hath received eight thousand nobles<br>In name of lendings for your highness’ soldiers,<br>The which he hath detained for lewd employments,<br>Like a false traitor and injurious villain.<br>Besides I say, and will in battle prove,<br>Or here or elsewhere, to the furthest verge<br>That ever was surveyed by English eye,<br>That all the treasons for these eighteen years<br>Complotted and contrived in this land<br>Fetch from false Mowbray their first head and spring.<br>Further I say, and further will maintain<br>Upon his bad life, to make all this good,<br>That he did plot the Duke of Gloucester’s death,<br>Suggest his soon-believing adversaries,<br>And consequently, like a traitor-coward,<br>Sluiced out his innocent soul through streams of blood;<br>Which blood, like sacrificing Abel’s, cries<br>Even from the tongueless caverns of the earth<br>To me for justice and rough chastisement.<br>And, by the glorious worth of my descent,<br>This arm shall do it or this life be spent. |
+| KING RICHARD | How high a pitch his resolution soars!<br>Thomas of Norfolk, what sayst thou to this? |
+| MOWBRAY | O, let my sovereign turn away his face,<br>And bid his ears a little while be deaf,<br>Till I have told this slander of his blood<br>How God and good men hate so foul a liar! |
+| KING RICHARD | Mowbray, impartial are our eyes and ears.<br>Were he my brother, nay, my kingdom’s heir,<br>As he is but my father’s brother’s son,<br>Now by my sceptre’s awe I make a vow<br>Such neighbour-nearness to our sacred blood<br>Should nothing privilege him, nor partialize<br>The unstooping firmness of my upright soul.<br>He is our subject, Mowbray; so art thou.<br>Free speech and fearless I to thee allow. |
+| MOWBRAY | Then, Bolingbroke, as low as to thy heart<br>Through the false passage of thy throat thou liest!<br>Three parts of that receipt I had for Calais<br>Disbursed I duly to his highness’ soldiers.<br>The other part reserved I by consent,<br>For that my sovereign liege was in my debt<br>Upon remainder of a dear account<br>Since last I went to France to fetch his queen.<br>Now swallow down that lie. For Gloucester’s death,<br>I slew him not, but to my own disgrace<br>Neglected my sworn duty in that case.<br>For you, my noble lord of Lancaster,<br>The honourable father to my foe,<br>Once did I lay an ambush for your life,<br>A trespass that doth vex my grieved soul;<br>But ere I last received the Sacrament<br>I did confess it, and exactly begged<br>Your grace’s pardon, and I hope I had it.<br>This is my fault. As for the rest appealed,<br>It issues from the rancour of a villain,<br>A recreant and most degenerate traitor,<br>Which in myself I boldly will defend,<br>He throws down his gage<br>And interchangeably hurl down my gage<br>Upon this overweening traitor’s foot,<br>To prove myself a loyal gentleman<br>Even in the best blood chambered in his bosom;<br>In haste whereof most heartily I pray<br>Your highness to assign our trial day. |
+| *(didascalia)* | Bolingbroke takes up the gage |
+| KING RICHARD | Wrath-kindled gentlemen, be ruled by me.<br>Let’s purge this choler without letting blood.<br>This we prescribe, though no physician:<br>Deep malice makes too deep incision;<br>Forget, forgive, conclude, and be agreed;<br>Our doctors say this is no time to bleed.<br>Good uncle, let this end where it begun.<br>We’ll calm the Duke of Norfolk, you your son. |
+| JOHN OF GAUNT | To be a make-peace shall become my age.<br>Throw down, my son, the Duke of Norfolk’s gage. |
+| KING RICHARD | And, Norfolk, throw down his. |
+| JOHN OF GAUNT | When, Harry, when?<br>Obedience bids I should not bid again. |
+| KING RICHARD | Norfolk, throw down! We bid; there is no boot. |
+| MOWBRAY | (kneeling)<br>Myself I throw, dread sovereign, at thy foot.<br>My life thou shalt command, but not my shame.<br>The one my duty owes, but my fair name,<br>Despite of death that lives upon my grave,<br>To dark dishonour’s use thou shalt not have.<br>I am disgraced, impeached, and baffled here,<br>Pierced to the soul with slander’s venomed spear,<br>The which no balm can cure but his heart blood<br>Which breathed this poison. |
+| KING RICHARD | Rage must be withstood.<br>Give me his gage. Lions make leopards tame. |
+| *(didascalia)* | MOWBRAY standing |
+| KING RICHARD | Yea, but not change his spots. Take but my shame,<br>And I resign my gage. My dear dear lord,<br>The purest treasure mortal times afford<br>Is spotless reputation; that away,<br>Men are but gilded loam, or painted clay.<br>A jewel in a ten-times barred-up chest<br>Is a bold spirit in a loyal breast.<br>Mine honour is my life. Both grow in one.<br>Take honour from me, and my life is done.<br>Then, dear my liege, mine honour let me try.<br>In that I live, and for that will I die. |
+| KING RICHARD | Cousin, throw down your gage. Do you begin. |
+| BOLINGBROKE | O God defend my soul from such deep sin!<br>Shall I seem crest-fallen in my father’s sight?<br>Or with pale beggar-fear impeach my height<br>Before this out-dared dastard? Ere my tongue<br>Shall wound my honour with such feeble wrong,<br>Or sound so base a parle, my teeth shall tear<br>The slavish motive of recanting fear,<br>And spit it bleeding in his high disgrace<br>Where shame doth harbour, even in Mowbray’s face. |
+| *(didascalia)* | Exit John of Gaunt |
+| KING RICHARD | We were not born to sue, but to command;<br>Which since we cannot do to make you friends,<br>Be ready, as your lives shall answer it,<br>At Coventry upon Saint Lambert’s day.<br>There shall your swords and lances arbitrate<br>The swelling difference of your settled hate.<br>Since we cannot atone you, we shall see<br>Justice design the victor’s chivalry.<br>Lord Marshal, command our officers-at-arms<br>Be ready to direct these home alarms. |
+| *(didascalia)* | Exeunt |

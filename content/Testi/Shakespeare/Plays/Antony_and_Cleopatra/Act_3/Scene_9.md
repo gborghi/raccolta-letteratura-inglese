@@ -14,10 +14,8 @@ tags:
 </nav>
 
 
-Enter Antony and Enobarbus
-ANTONY
-Set we our squadrons on yon side o’th’ hill
-In eye of Caesar’s battle, from which place
-We may the number of the ships behold,
-And so proceed accordingly.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Antony and Enobarbus |
+| ANTONY | Set we our squadrons on yon side o’th’ hill<br>In eye of Caesar’s battle, from which place<br>We may the number of the ships behold,<br>And so proceed accordingly. |
+| *(didascalia)* | Exeunt |

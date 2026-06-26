@@ -13,13 +13,7 @@ tags:
 </nav>
 
 
-ARIEL
-Hark, they roar!
-
-PROSPERO
-Let them be hunted soundly. At this hour
-Lies at my mercy all mine enemies.
-Shortly shall all my labours end, and thou
-Shalt have the air at freedom. For a little,
-Follow, and do me service.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| ARIEL | Hark, they roar! |
+| PROSPERO | Let them be hunted soundly. At this hour Lies at my mercy all mine enemies. Shortly shall all my labours end, and thou Shalt have the air at freedom. For a little, Follow, and do me service. Exeunt |

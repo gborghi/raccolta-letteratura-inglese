@@ -13,8 +13,6 @@ tags:
 </nav>
 
 
-LONGUEVILLE (coming forward)
-Dumaine, thy love is far from charity,
-That in love’s grief desir‘st society.
-You may look pale, but I should blush, I know,
-To be o’erheard and taken napping so.
+| Chi parla | Battuta |
+|---|---|
+| LONGUEVILLE | (coming forward) Dumaine, thy love is far from charity, That in love’s grief desir‘st society. You may look pale, but I should blush, I know, To be o’erheard and taken napping so. |

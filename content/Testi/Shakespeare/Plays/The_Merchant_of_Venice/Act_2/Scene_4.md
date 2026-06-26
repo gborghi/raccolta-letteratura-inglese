@@ -14,57 +14,26 @@ tags:
 </nav>
 
 
-Enter Graziano, Lorenzo, Salerio, and Salanio LORENZO
-Nay, we will slink away in supper-time,
-Disguise us at my lodging, and return
-All in an hour.
-GRAZIANO
-We have not made good preparation.
-SALERIO
-We have not spoke as yet of torchbearers.
-SOLANIO
-’Tis vile, unless it may be quaintly ordered,
-And better in my mind not undertook.
-LORENZO
-‘Tis now but four o’clock. We have two hours
-To furnish us.
-Enter Lancelot with a letter
-Friend Lancelot, what’s the news?
-LANCELOT (presenting the letter) An it shall please you to break up this, it shall seem to signify. 11
-LORENZO (taking the letter)
-I know the hand. In faith, ’tis a fair hand,
-And whiter than the paper it writ on
-Is the fair hand that writ.
-GRAZIANO Love-news, in faith.
-LANCELOT ⌈to Lorenzo⌉ By your leave, sir.
-LORENZO Whither goest thou?
-LANCELOT Marry, sir, to bid my old master the Jew to sup tonight with my new master the Christian.
-LORENZO
-Hold, here, take this. (Giving money) Tell gentle Jessica
-I will not fail her. Speak it privately.
-Go. Exit Lancelot
-Gentlemen,
-Will you prepare you for this masque tonight?
-I am provided of a torchbearer.
-SALERIO
-Ay, marry, I’ll be gone about it straight.
-SOLANIO
-And so will I.
-LORENZO Meet me and Graziano
-At Graziano’s lodging some hour hence.
-SALERIO ’Tis good we do so. Exit with Solanio
-GRAZIANO
-Was not that letter from fair Jessica?
-LORENZO
-I must needs tell thee all. She hath directed
-How I shall take her from her father’s house,
-What gold and jewels she is furnished with,
-What page’s suit she hath in readiness.
-If e’er the Jew her father come to heaven
-It will be for his gentle daughter’s sake;
-And never dare misfortune cross her foot
-Unless she do it under this excuse:
-That she is issue to a faithless Jew.
-Come, go with me. Peruse this as thou goest.
-He gives Graziano the letter
-Fair Jessica shall be my torchbearer. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Graziano, Lorenzo, Salerio, and Salanio LORENZO |
+| *(didascalia)* | Nay, we will slink away in supper-time,<br>Disguise us at my lodging, and return<br>All in an hour. |
+| GRAZIANO | We have not made good preparation. |
+| SALERIO | We have not spoke as yet of torchbearers. |
+| SOLANIO | ’Tis vile, unless it may be quaintly ordered,<br>And better in my mind not undertook. |
+| LORENZO | ‘Tis now but four o’clock. We have two hours<br>To furnish us. |
+| *(didascalia)* | Enter Lancelot with a letter |
+| LORENZO | Friend Lancelot, what’s the news? |
+| LANCELOT | (presenting the letter) An it shall please you to break up this, it shall seem to signify. 11 |
+| LORENZO | (taking the letter)<br>I know the hand. In faith, ’tis a fair hand,<br>And whiter than the paper it writ on<br>Is the fair hand that writ. |
+| GRAZIANO | Love-news, in faith. |
+| *(didascalia)* | LANCELOT to Lorenzo By your leave, sir. |
+| LORENZO | Whither goest thou? |
+| LANCELOT | Marry, sir, to bid my old master the Jew to sup tonight with my new master the Christian. |
+| LORENZO | Hold, here, take this. (Giving money) Tell gentle Jessica<br>I will not fail her. Speak it privately.<br>Go. Exit Lancelot<br>Gentlemen,<br>Will you prepare you for this masque tonight?<br>I am provided of a torchbearer. |
+| SALERIO | Ay, marry, I’ll be gone about it straight. |
+| SOLANIO | And so will I. |
+| LORENZO | Meet me and Graziano<br>At Graziano’s lodging some hour hence. |
+| SALERIO | ’Tis good we do so. Exit with Solanio |
+| GRAZIANO | Was not that letter from fair Jessica? |
+| LORENZO | I must needs tell thee all. She hath directed<br>How I shall take her from her father’s house,<br>What gold and jewels she is furnished with,<br>What page’s suit she hath in readiness.<br>If e’er the Jew her father come to heaven<br>It will be for his gentle daughter’s sake;<br>And never dare misfortune cross her foot<br>Unless she do it under this excuse:<br>That she is issue to a faithless Jew.<br>Come, go with me. Peruse this as thou goest.<br>He gives Graziano the letter<br>Fair Jessica shall be my torchbearer. Exeunt |

@@ -14,12 +14,14 @@ tags:
 </nav>
 
 
-Alarums to the fight; ⌈excursions,⌉ wherein both the Staffords are slain. Enter Jack Cade, Dick the Butcher, and the rest
-CADE Where’s Dick, the butcher of Ashford?
-BUTCHER Here, sir.
-CADE They fell before thee like sheep and oxen, and thou behaved’st thyself as if thou hadst been in thine own slaughterhouse. Therefore, thus will I reward thee—the Lent shall be as long again as it is. Thou shalt have licence to kill for a hundred, lacking one.
-BUTCHER I desire no more.
-CADE And to speak truth, thou deserv’st no less. ⌈He apparels himself in the Staffords’ armour⌉ This monument of the victory will I bear, and the bodies shall be dragged at my horse heels till I do come to London, where we will have the Mayor’s sword borne before us.
-BUTCHER If we mean to thrive and do good, break open the jails and let out the prisoners.
-CADE Fear not that, I warrant thee. Come, let’s march towards London.
-Exeunt, ⌈dragging the Staffords’ bodies⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarums to the fight; excursions, wherein both the Staffords are slain. Enter Jack Cade, Dick the Butcher, and the rest |
+| CADE | Where’s Dick, the butcher of Ashford? |
+| BUTCHER | Here, sir. |
+| CADE | They fell before thee like sheep and oxen, and thou behaved’st thyself as if thou hadst been in thine own slaughterhouse. Therefore, thus will I reward thee—the Lent shall be as long again as it is. Thou shalt have licence to kill for a hundred, lacking one. |
+| BUTCHER | I desire no more. |
+| *(didascalia)* | CADE And to speak truth, thou deserv’st no less. He apparels himself in the Staffords’ armour This monument of the victory will I bear, and the bodies shall be dragged at my horse heels till I do come to London, where we will have the Mayor’s sword borne before us. |
+| BUTCHER | If we mean to thrive and do good, break open the jails and let out the prisoners. |
+| CADE | Fear not that, I warrant thee. Come, let’s march towards London. |
+| *(didascalia)* | Exeunt, dragging the Staffords’ bodies |

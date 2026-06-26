@@ -13,54 +13,12 @@ tags:
 </nav>
 
 
-GONZALO
-Upon mine honour, sir, I heard a humming,
-And that a strange one too, which did awake me.
-I shaked you, sir, and cried. As mine eyes opened
-I saw their weapons drawn. There was a noise,
-That’s verily. ’Tis best we stand upon our guard,
-Or that we quit this place. Let’s draw our weapons.
-
-ALONSO
-Lead off this ground, and let’s make further search
-For my poor son.
-
-GONZALO
-Heavens keep him from these beasts!
-For he is sure i’th’ island.
-
-ALONSO
-Lead away.
-Exeunt all but Ariel
-
-ARIEL
-Prospero my lord shall know what I have done.
-So, King, go safely on to seek thy son.
-Exit
-
-2.2 Enter Caliban, wearing a gaberdine, and with a
-burden of wood
-
-CALIBAN ⌈throwing down his burden⌉
-All the infections that the sun sucks up
-From bogs, fens, flats, on Prosper fall, and make him
-By inch-meal a disease!
-⌈A noise of thunder heard⌉
-His spirits hear me,
-And yet I needs must curse. But they’ll nor pinch,
-Fright me with urchin-shows, pitch me i’th’ mire,
-Nor lead me like a fire-brand in the dark
-Out of my way, unless he bid ’em. But
-For every trifle are they set upon me;
-Sometime like apes, that mow and chatter at me
-And after bite me; then like hedgehogs, which
-Lie tumbling in my barefoot way and mount
-Their pricks at my footfall; sometime am I
-All wound with adders, who with cloven tongues
-Do hiss me into madness.
-Enter Trinculo
-Lo now, lo!
-Here comes a spirit of his, and to torment me
-For bringing wood in slowly. I’ll fall flat.
-Perchance he will not mind me.
-He lies down
+| Chi parla | Battuta |
+|---|---|
+| GONZALO | Upon mine honour, sir, I heard a humming, And that a strange one too, which did awake me. I shaked you, sir, and cried. As mine eyes opened I saw their weapons drawn. There was a noise, That’s verily. ’Tis best we stand upon our guard, Or that we quit this place. Let’s draw our weapons. |
+| ALONSO | Lead off this ground, and let’s make further search For my poor son. |
+| GONZALO | Heavens keep him from these beasts! For he is sure i’th’ island. |
+| ALONSO | Lead away. Exeunt all but Ariel |
+| ARIEL | Prospero my lord shall know what I have done. So, King, go safely on to seek thy son. Exit |
+| ARIEL | 2.2 Enter Caliban, wearing a gaberdine, and with a burden of wood |
+| CALIBAN | throwing down his burden All the infections that the sun sucks up From bogs, fens, flats, on Prosper fall, and make him By inch-meal a disease! A noise of thunder heard His spirits hear me, And yet I needs must curse. But they’ll nor pinch, Fright me with urchin-shows, pitch me i’th’ mire, Nor lead me like a fire-brand in the dark Out of my way, unless he bid ’em. But For every trifle are they set upon me; Sometime like apes, that mow and chatter at me And after bite me; then like hedgehogs, which Lie tumbling in my barefoot way and mount Their pricks at my footfall; sometime am I All wound with adders, who with cloven tongues Do hiss me into madness. Enter Trinculo Lo now, lo! Here comes a spirit of his, and to torment me For bringing wood in slowly. I’ll fall flat. Perchance he will not mind me. He lies down |

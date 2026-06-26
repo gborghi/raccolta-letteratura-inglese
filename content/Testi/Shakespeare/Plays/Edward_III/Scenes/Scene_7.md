@@ -14,21 +14,10 @@ tags:
 </nav>
 
 
-Alarum. Enter and exit a many Frenchmen flying. Chasing after them, enter and exit Edward Prince of Wales running. Then enter Jean King of France and the Due de Lorraine
-KING OF FRANCE
-O Lorraine, say: what mean our men to fly?
-Our number is far greater than our foes.
-DUC DE LORRAINE
-The garrison of Genoese, my lord,
-That came from Paris, weary with their march,
-Grudging to be so suddenly employed,
-No sooner in the forefront took their place,
-But straight retiring, so dismayed the rest
-As likewise they betook themselves to flight,
-In which, for haste to make a safe escape,
-More in the clustering throng are pressed to death
-Than by the enemy a thousandfold.
-KING OF FRANCE
-O, hapless fortune! Let us yet assay
-If we can counsel some of them to stay.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter and exit a many Frenchmen flying. Chasing after them, enter and exit Edward Prince of Wales running. Then enter Jean King of France and the Due de Lorraine |
+| KING OF FRANCE | O Lorraine, say: what mean our men to fly?<br>Our number is far greater than our foes. |
+| DUC DE LORRAINE | The garrison of Genoese, my lord,<br>That came from Paris, weary with their march,<br>Grudging to be so suddenly employed,<br>No sooner in the forefront took their place,<br>But straight retiring, so dismayed the rest<br>As likewise they betook themselves to flight,<br>In which, for haste to make a safe escape,<br>More in the clustering throng are pressed to death<br>Than by the enemy a thousandfold. |
+| KING OF FRANCE | O, hapless fortune! Let us yet assay<br>If we can counsel some of them to stay. |
+| *(didascalia)* | Exeunt |

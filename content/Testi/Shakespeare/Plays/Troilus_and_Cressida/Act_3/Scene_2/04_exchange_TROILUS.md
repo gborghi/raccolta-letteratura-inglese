@@ -13,11 +13,8 @@ tags:
 </nav>
 
 
-TROILUS Amen.
-
-CRESSIDA Amen.
-
-PANDARUS Amen. Whereupon I will show you a chamber with a bed—which bed, because it shall not speak of your pretty encounters, press it to death. Away!
-Exeunt Troilus and Cressida
-And Cupid grant all tongue-tied maidens here
-Bed, chamber, pander to provide this gear. Exit
+| Chi parla | Battuta |
+|---|---|
+| TROILUS | Amen. |
+| CRESSIDA | Amen. |
+| PANDARUS | Amen. Whereupon I will show you a chamber with a bed—which bed, because it shall not speak of your pretty encounters, press it to death. Away! Exeunt Troilus and Cressida And Cupid grant all tongue-tied maidens here Bed, chamber, pander to provide this gear. Exit |

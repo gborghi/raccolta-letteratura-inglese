@@ -13,8 +13,7 @@ tags:
 </nav>
 
 
-ARIEL To th’ syllable.
-
-PROSPERO (to Ferdinand)
-Come, follow. (To Miranda) Speak not for him.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| ARIEL | To th’ syllable. |
+| PROSPERO | (to Ferdinand) Come, follow. (To Miranda) Speak not for him. Exeunt |

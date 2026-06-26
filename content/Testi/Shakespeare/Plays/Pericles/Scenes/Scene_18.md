@@ -14,65 +14,11 @@ tags:
 </nav>
 
 
-Enter Gower
-GOWER
-Thus time we waste, and long leagues make we short,
-Sail seas in cockles, have and wish but for‘t,
-Making to take imagination
-From bourn to bourn, region to region.
-By you being pardoned, we commit no crime
-To use one language in each sev’ral clime
-Where our scene seems to live. I do beseech you
-To learn of me, who stand i’th’ gaps to teach you
-The stages of our story: Pericles
-Is now again thwarting the wayward seas,
-Attended on by many a lord and knight,
-To see his daughter, all his life’s delight.
-Old Helicanus goes along. Behind
-Is left to govern, if you bear in mind,
-Old Aeschines, whom Helicanus late
-Advanced in Tyre to great and high estate.
-Well sailing ships and bounteous winds have brought
-This king to Tarsus—think his pilot thought;
-So with his steerage shall your thoughts go on—
-To fetch his daughter home, who first is gone.
-Like motes and shadows see them move a while;
-Your ears unto your eyes I’ll reconcile.
-Dumb show.
-Enter Pericles at one door with all his train, Cleon
-
-and Dionyza ⌈in mourning garments⌉ at the other.
-
-Cleon ⌈draws the curtain and⌉ shows Pericles the
-
-tomb, whereat Pericles makes lamentation, puts on
-
-sack-cloth, and in a mighty passion departs,
-
-followed by his train. Cleon and Dionyza depart at
-
-the other door
-See how belief may suffer by foul show.
-This borrowed passion stands for true-owed woe,
-And Pericles, in sorrow all devoured,
-With sighs shot through, and biggest tears o‘ershow’red,
-Leaves Tarsus, and again embarks. He swears
-Never to wash his face nor cut his hairs.
-He puts on sack-cloth, and to sea. He bears
-A tempest which his mortal vessel tears,
-And yet he rides it out. Now please you wit
-The epitaph is for Marina writ
-By wicked Dionyza.
-He reads Marina’s epitaph on the tomb
-‘The fairest, sweetest, best lies here,
-Who withered in her spring of year.
-In nature’s garden, though by growth a bud,
-She was the chiefest flower: she was good.’
-No visor does become black villainy
-So well as soft and tender flattery.
-Let Pericles believe his daughter’s dead
-And bear his courses to be ordered
-By Lady Fortune, while our scene must play
-His daughter’s woe and heavy well-a-day
-In her unholy service. Patience then,
-And think you now are all in Mytilene. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Gower |
+| GOWER | Thus time we waste, and long leagues make we short,<br>Sail seas in cockles, have and wish but for‘t,<br>Making to take imagination<br>From bourn to bourn, region to region.<br>By you being pardoned, we commit no crime<br>To use one language in each sev’ral clime<br>Where our scene seems to live. I do beseech you<br>To learn of me, who stand i’th’ gaps to teach you<br>The stages of our story: Pericles<br>Is now again thwarting the wayward seas,<br>Attended on by many a lord and knight,<br>To see his daughter, all his life’s delight.<br>Old Helicanus goes along. Behind<br>Is left to govern, if you bear in mind,<br>Old Aeschines, whom Helicanus late<br>Advanced in Tyre to great and high estate.<br>Well sailing ships and bounteous winds have brought<br>This king to Tarsus—think his pilot thought;<br>So with his steerage shall your thoughts go on—<br>To fetch his daughter home, who first is gone.<br>Like motes and shadows see them move a while;<br>Your ears unto your eyes I’ll reconcile.<br>Dumb show. |
+| *(didascalia)* | Enter Pericles at one door with all his train, Cleon |
+| *(didascalia)* | and Dionyza in mourning garments at the other. |
+| *(didascalia)* | Cleon draws the curtain and shows Pericles the |
+| GOWER | tomb, whereat Pericles makes lamentation, puts on<br><br>sack-cloth, and in a mighty passion departs,<br><br>followed by his train. Cleon and Dionyza depart at<br><br>the other door<br>See how belief may suffer by foul show.<br>This borrowed passion stands for true-owed woe,<br>And Pericles, in sorrow all devoured,<br>With sighs shot through, and biggest tears o‘ershow’red,<br>Leaves Tarsus, and again embarks. He swears<br>Never to wash his face nor cut his hairs.<br>He puts on sack-cloth, and to sea. He bears<br>A tempest which his mortal vessel tears,<br>And yet he rides it out. Now please you wit<br>The epitaph is for Marina writ<br>By wicked Dionyza.<br>He reads Marina’s epitaph on the tomb<br>‘The fairest, sweetest, best lies here,<br>Who withered in her spring of year.<br>In nature’s garden, though by growth a bud,<br>She was the chiefest flower: she was good.’<br>No visor does become black villainy<br>So well as soft and tender flattery.<br>Let Pericles believe his daughter’s dead<br>And bear his courses to be ordered<br>By Lady Fortune, while our scene must play<br>His daughter’s woe and heavy well-a-day<br>In her unholy service. Patience then,<br>And think you now are all in Mytilene. Exit |

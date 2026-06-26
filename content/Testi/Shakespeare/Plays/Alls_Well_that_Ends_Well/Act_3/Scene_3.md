@@ -14,23 +14,11 @@ tags:
 </nav>
 
 
-Flourish of trumpets. Enter the Duke of Florence, Bertram, a drummer and trumpeters, soldiers, and Paroles
-DUKE (to Bertram)
-The general of our horse thou art, and we,
-Great in our hope, lay our best love and credence
-Upon thy promising fortune.
-BERTRAM
-Sir, it is
-A charge too heavy for my strength, but yet
-We’ll strive to bear it for your worthy sake
-To th’extreme edge of hazard.
-DUKE
-Then go thou forth,
-And Fortune play upon thy prosperous helm
-As thy auspicious mistress.
-BERTRAM
-This very day,
-Great Mars, I put myself into thy file.
-Make me but like my thoughts, and I shall prove
-A lover of thy drum, hater of love.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish of trumpets. Enter the Duke of Florence, Bertram, a drummer and trumpeters, soldiers, and Paroles |
+| DUKE | (to Bertram)<br>The general of our horse thou art, and we,<br>Great in our hope, lay our best love and credence<br>Upon thy promising fortune. |
+| BERTRAM | Sir, it is<br>A charge too heavy for my strength, but yet<br>We’ll strive to bear it for your worthy sake<br>To th’extreme edge of hazard. |
+| DUKE | Then go thou forth,<br>And Fortune play upon thy prosperous helm<br>As thy auspicious mistress. |
+| BERTRAM | This very day,<br>Great Mars, I put myself into thy file.<br>Make me but like my thoughts, and I shall prove<br>A lover of thy drum, hater of love. |
+| *(didascalia)* | Exeunt |

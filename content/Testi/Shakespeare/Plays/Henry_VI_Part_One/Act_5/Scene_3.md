@@ -14,40 +14,11 @@ tags:
 </nav>
 
 
-Alarum. Excursions. Enter Joan la Pucelle
-JOAN
-The Regent conquers, and the Frenchmen fly.
-Now help, ye charming spells and periapts,
-And ye choice spirits that admonish me
-And give me signs of future accidents.
-Thunder
-You speedy helpers, that are substitutes
-Under the lordly monarch of the north,
-Appear, and aid me in this enterprise.
-Enter Fiends
-This speed and quick appearance argues proof
-Of your accustomed diligence to me.
-Now, ye familiar spirits that are culled
-Out of the powerful regions under earth,
-Help me this once, that France may get the field.
-They walk and speak not
-O, hold me not with silence overlong!
-Where I was wont to feed you with my blood,
-I’ll lop a member off and give it you
-In earnest of a further benefit,
-So you do condescend to help me now.
-They hang their heads
-No hope to have redress? My body shall
-Pay recompense if you will grant my suit.
-They shake their heads
-Cannot my body nor blood-sacrifice
-Entreat you to your wonted furtherance?
-Then take my soul—my body, soul, and all—
-Before that England give the French the foil.
-They depart
-See, they forsake me. Now the time is come
-That France must vail her lofty-plumed crest
-And let her head fall into England’s lap.
-My ancient incantations are too weak,
-And hell too strong for me to buckle with.
-Now, France, thy glory droopeth to the dust. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Excursions. Enter Joan la Pucelle |
+| JOAN | The Regent conquers, and the Frenchmen fly.<br>Now help, ye charming spells and periapts,<br>And ye choice spirits that admonish me<br>And give me signs of future accidents. |
+| *(didascalia)* | Thunder |
+| JOAN | You speedy helpers, that are substitutes<br>Under the lordly monarch of the north,<br>Appear, and aid me in this enterprise. |
+| *(didascalia)* | Enter Fiends |
+| JOAN | This speed and quick appearance argues proof<br>Of your accustomed diligence to me.<br>Now, ye familiar spirits that are culled<br>Out of the powerful regions under earth,<br>Help me this once, that France may get the field.<br>They walk and speak not<br>O, hold me not with silence overlong!<br>Where I was wont to feed you with my blood,<br>I’ll lop a member off and give it you<br>In earnest of a further benefit,<br>So you do condescend to help me now.<br>They hang their heads<br>No hope to have redress? My body shall<br>Pay recompense if you will grant my suit.<br>They shake their heads<br>Cannot my body nor blood-sacrifice<br>Entreat you to your wonted furtherance?<br>Then take my soul—my body, soul, and all—<br>Before that England give the French the foil.<br>They depart<br>See, they forsake me. Now the time is come<br>That France must vail her lofty-plumed crest<br>And let her head fall into England’s lap.<br>My ancient incantations are too weak,<br>And hell too strong for me to buckle with.<br>Now, France, thy glory droopeth to the dust. Exit |

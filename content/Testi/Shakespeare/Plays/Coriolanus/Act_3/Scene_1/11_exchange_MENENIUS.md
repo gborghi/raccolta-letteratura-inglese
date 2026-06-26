@@ -13,12 +13,6 @@ tags:
 </nav>
 
 
-MENENIUS
-I’ll bring him to you.
-(To the Senators) Let me desire your company. He must
-come,
-Or what is worst will follow.
-⌈FIRST⌉ SENATOR
-Pray you, let’s to him.
-Exeunt ⌈tribunes and Citizens at one door,
-Patricians at another door⌉
+| Chi parla | Battuta |
+|---|---|
+| MENENIUS | I’ll bring him to you. (To the Senators) Let me desire your company. He must come, Or what is worst will follow. FIRST SENATOR Pray you, let’s to him. Exeunt tribunes and Citizens at one door, Patricians at another door |

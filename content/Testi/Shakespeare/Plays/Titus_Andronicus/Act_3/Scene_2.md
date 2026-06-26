@@ -14,107 +14,23 @@ tags:
 </nav>
 
 
-A banquet. Enter Titus Andronicus, Marcus, Lavinia, and the boy (young Lucius)
-TITUS
-So, so, now sit, and look you eat no more
-Than will preserve just so much strength in us
-As will revenge these bitter woes of ours.
-⌈They sit⌉
-Marcus, unknit that sorrow-wreathen knot.
-Thy niece and I, poor creatures, want our hands,
-And cannot passionate our tenfold grief
-With folded arms. This poor right hand of mine
-Is left to tyrannize upon my breast,
-Who, when my heart, all mad with misery,
-Beats in this hollow prison of my flesh,
-Then thus I thump it down.
-He beats his breast
-(To Lavinia) Thou map of woe, that thus dost talk in
-signs,
-When thy poor heart beats with outrageous beating
-Thou canst not strike it thus to make it still!
-Wound it with sighing, girl; kill it with groans,
-Or get some little knife between thy teeth
-And just against thy heart make thou a hole,
-That all the tears that thy poor eyes let fall
-May run into that sink and, soaking in,
-Drown the lamenting fool in sea-salt tears.
-MARCUS
-Fie, brother, fie! Teach her not thus to lay
-Such violent hands upon her tender life.
-TITUS
-How now! Has sorrow made thee dote already?
-Why, Marcus, no man should be mad but I.
-What violent hands can she lay on her life?
-Ah, wherefore dost thou urge the name of hands
-To bid Aeneas tell the tale twice o’er
-How Troy was burnt and he made miserable?
-O, handle not the theme, to talk of hands,
-Lest we remember still that we have none.
-Fie, fie, how franticly I square my talk,
-As if we should forget we had no hands
-If Marcus did not name the word of hands!
-Come, let’s fall to; and, gentle girl, eat this.
-Here is no drink! Hark, Marcus, what she says.
-I can interpret all her martyred signs.
-She says she drinks no other drink but tears,
-Brewed with her sorrow, mashed upon her cheeks.
-Speechless complainer, I will learn thy thought.
-In thy dumb action will I be as perfect
-As begging hermits in their holy prayers.
-Thou shalt not sigh, nor hold thy stumps to heaven,
-Nor wink, nor nod, nor kneel, nor make a sign,
-But I of these will wrest an alphabet,
-And by still practice learn to know thy meaning.
-YOUNG LUCIUS
-Good grandsire, leave these bitter deep laments.
-Make my aunt merry with some pleasing tale.
-MARCUS
-Alas, the tender boy in passion moved
-Doth weep to see his grandsire’s heaviness.
-TITUS
-Peace, tender sapling, thou art made of tears,
-And tears will quickly melt thy life away.
-Marcus strikes the dish with a knife
-What dost thou strike at, Marcus, with thy knife?
-MARCUS
-At that that I have killed, my lord—a fly.
-TITUS
-Out on thee, murderer! Thou kill’st my heart.
-Mine eyes are cloyed with view of tyranny.
-A deed of death done on the innocent
-Becomes not Titus’ brother. Get thee gone.
-I see thou art not for my company.
-MARCUS
-Alas, my lord, I have but killed a fly.
-TITUS
-‘But’? How if that fly had a father, brother?
-How would he hang his slender gilded wings
-And buzz lamenting dirges in the air!
-Poor harmless fly,
-That with his pretty buzzing melody
-Came here to make us merry—and thou hast killed him!
-MARCUS
-Pardon me, sir, it was a black ill-favoured fly,
-Like to the Empress’ Moor. Therefore I killed him.
-TITUS O, O, O!
-Then pardon me for reprehending thee,
-For thou hast done a charitable deed.
-Give me thy knife. I will insult on him,
-Flattering myself as if it were the Moor
-Come hither purposely to poison me.
-He takes a knife and strikes
-There’s for thyself, and that’s for Tamora. Ah, sirrah!
-Yet I think we are not brought so low
-But that between us we can kill a fly
-That comes in likeness of a coal-black Moor.
-MARCUS
-Alas, poor man! Grief has so wrought on him
-He takes false shadows for true substances.
-TITUS
-Come, take away. Lavinia, go with me.
-I’ll to thy closet and go read with thee
-Sad stories chanced in the times of old.
-Come, boy, and go with me. Thy sight is young,
-And thou shalt read when mine begin to dazzle.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A banquet. Enter Titus Andronicus, Marcus, Lavinia, and the boy (young Lucius) |
+| TITUS | So, so, now sit, and look you eat no more<br>Than will preserve just so much strength in us<br>As will revenge these bitter woes of ours. |
+| *(didascalia)* | They sit |
+| TITUS | Marcus, unknit that sorrow-wreathen knot.<br>Thy niece and I, poor creatures, want our hands,<br>And cannot passionate our tenfold grief<br>With folded arms. This poor right hand of mine<br>Is left to tyrannize upon my breast,<br>Who, when my heart, all mad with misery,<br>Beats in this hollow prison of my flesh,<br>Then thus I thump it down.<br>He beats his breast<br>(To Lavinia) Thou map of woe, that thus dost talk in<br>signs,<br>When thy poor heart beats with outrageous beating<br>Thou canst not strike it thus to make it still!<br>Wound it with sighing, girl; kill it with groans,<br>Or get some little knife between thy teeth<br>And just against thy heart make thou a hole,<br>That all the tears that thy poor eyes let fall<br>May run into that sink and, soaking in,<br>Drown the lamenting fool in sea-salt tears. |
+| MARCUS | Fie, brother, fie! Teach her not thus to lay<br>Such violent hands upon her tender life. |
+| TITUS | How now! Has sorrow made thee dote already?<br>Why, Marcus, no man should be mad but I.<br>What violent hands can she lay on her life?<br>Ah, wherefore dost thou urge the name of hands<br>To bid Aeneas tell the tale twice o’er<br>How Troy was burnt and he made miserable?<br>O, handle not the theme, to talk of hands,<br>Lest we remember still that we have none.<br>Fie, fie, how franticly I square my talk,<br>As if we should forget we had no hands<br>If Marcus did not name the word of hands!<br>Come, let’s fall to; and, gentle girl, eat this.<br>Here is no drink! Hark, Marcus, what she says.<br>I can interpret all her martyred signs.<br>She says she drinks no other drink but tears,<br>Brewed with her sorrow, mashed upon her cheeks.<br>Speechless complainer, I will learn thy thought.<br>In thy dumb action will I be as perfect<br>As begging hermits in their holy prayers.<br>Thou shalt not sigh, nor hold thy stumps to heaven,<br>Nor wink, nor nod, nor kneel, nor make a sign,<br>But I of these will wrest an alphabet,<br>And by still practice learn to know thy meaning. |
+| YOUNG LUCIUS | Good grandsire, leave these bitter deep laments.<br>Make my aunt merry with some pleasing tale. |
+| MARCUS | Alas, the tender boy in passion moved<br>Doth weep to see his grandsire’s heaviness. |
+| TITUS | Peace, tender sapling, thou art made of tears,<br>And tears will quickly melt thy life away.<br>Marcus strikes the dish with a knife<br>What dost thou strike at, Marcus, with thy knife? |
+| MARCUS | At that that I have killed, my lord—a fly. |
+| TITUS | Out on thee, murderer! Thou kill’st my heart.<br>Mine eyes are cloyed with view of tyranny.<br>A deed of death done on the innocent<br>Becomes not Titus’ brother. Get thee gone.<br>I see thou art not for my company. |
+| MARCUS | Alas, my lord, I have but killed a fly. |
+| TITUS | ‘But’? How if that fly had a father, brother?<br>How would he hang his slender gilded wings<br>And buzz lamenting dirges in the air!<br>Poor harmless fly,<br>That with his pretty buzzing melody<br>Came here to make us merry—and thou hast killed him! |
+| MARCUS | Pardon me, sir, it was a black ill-favoured fly,<br>Like to the Empress’ Moor. Therefore I killed him. |
+| TITUS | O, O, O!<br>Then pardon me for reprehending thee,<br>For thou hast done a charitable deed.<br>Give me thy knife. I will insult on him,<br>Flattering myself as if it were the Moor<br>Come hither purposely to poison me.<br>He takes a knife and strikes<br>There’s for thyself, and that’s for Tamora. Ah, sirrah!<br>Yet I think we are not brought so low<br>But that between us we can kill a fly<br>That comes in likeness of a coal-black Moor. |
+| MARCUS | Alas, poor man! Grief has so wrought on him<br>He takes false shadows for true substances. |
+| TITUS | Come, take away. Lavinia, go with me.<br>I’ll to thy closet and go read with thee<br>Sad stories chanced in the times of old.<br>Come, boy, and go with me. Thy sight is young,<br>And thou shalt read when mine begin to dazzle. |
+| *(didascalia)* | Exeunt |

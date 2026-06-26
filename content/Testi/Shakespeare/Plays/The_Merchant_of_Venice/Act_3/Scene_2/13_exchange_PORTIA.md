@@ -13,11 +13,7 @@ tags:
 </nav>
 
 
-PORTIA
-O, love! Dispatch all business, and be gone.
-
-BASSANIO
-Since I have your good leave to go away
-I will make haste, but till I come again
-No bed shall e‘er be guilty of my stay
-Nor rest be interposer ’twixt us twain. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| PORTIA | O, love! Dispatch all business, and be gone. |
+| BASSANIO | Since I have your good leave to go away I will make haste, but till I come again No bed shall e‘er be guilty of my stay Nor rest be interposer ’twixt us twain. Exeunt |

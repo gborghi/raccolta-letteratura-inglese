@@ -13,18 +13,13 @@ tags:
 </nav>
 
 
-IAGO Why, go to bed and sleep.
-
-RODERIGO I will incontinently drown myself.
-
-IAGO If thou dost, I shall never love thee after. Why, thou silly gentleman!
-
-RODERIGO It is silliness to live when to live is torment; and then have we a prescription to die when death is our physician.
-
-IAGO O, villainous! I ha’ looked upon the world for four times seven years, and since I could distinguish betwixt a benefit and an injury I never found man that knew how to love himself. Ere I would say I would drown myself for the love of a guinea-hen, I would change my humanity with a baboon.
-
-RODERIGO What should I do? I confess it is my shame to be so fond, but it is not in my virtue to amend it.
-
-IAGO Virtue? A fig! ’Tis in ourselves that we are thus or thus. Our bodies are our gardens, to the which our wills are gardeners; so that if we will plant nettles or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs or distract it with many, either to have it sterile with idleness or manured with industry, why, the power and corrigible authority of this lies in our wills. If the beam of our lives had not one scale of reason to peise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions. But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this that you call love to be a sect or scion.
-
-RODERIGO It cannot be.
+| Chi parla | Battuta |
+|---|---|
+| IAGO | Why, go to bed and sleep. |
+| RODERIGO | I will incontinently drown myself. |
+| IAGO | If thou dost, I shall never love thee after. Why, thou silly gentleman! |
+| RODERIGO | It is silliness to live when to live is torment; and then have we a prescription to die when death is our physician. |
+| IAGO | O, villainous! I ha’ looked upon the world for four times seven years, and since I could distinguish betwixt a benefit and an injury I never found man that knew how to love himself. Ere I would say I would drown myself for the love of a guinea-hen, I would change my humanity with a baboon. |
+| RODERIGO | What should I do? I confess it is my shame to be so fond, but it is not in my virtue to amend it. |
+| IAGO | Virtue? A fig! ’Tis in ourselves that we are thus or thus. Our bodies are our gardens, to the which our wills are gardeners; so that if we will plant nettles or sow lettuce, set hyssop and weed up thyme, supply it with one gender of herbs or distract it with many, either to have it sterile with idleness or manured with industry, why, the power and corrigible authority of this lies in our wills. If the beam of our lives had not one scale of reason to peise another of sensuality, the blood and baseness of our natures would conduct us to most preposterous conclusions. But we have reason to cool our raging motions, our carnal stings, our unbitted lusts; whereof I take this that you call love to be a sect or scion. |
+| RODERIGO | It cannot be. |

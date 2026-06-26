@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter the Judges, Tribunes, and Senators with Titus’ two sons, Martius and Quintus, bound, passing ⌈over⌉ the stage to the place of execution, and Titus going before, pleading
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Judges, Tribunes, and Senators with Titus’ two sons, Martius and Quintus, bound, passing over the stage to the place of execution, and Titus going before, pleading |

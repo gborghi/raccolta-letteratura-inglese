@@ -14,177 +14,43 @@ tags:
 </nav>
 
 
-Enter the Earls of Shrewsbury, Surrey, Bishop of Rochester, and other lords, [attended,] severally, doing courtesy to each other, Clerk of the Council waiting bare-headed
-SURREY
-Good morrow to my lord of Shrewsbury.
-SHREWSBURY
-The like unto the honoured Earl of Surrey.
-Yon comes my lord of Rochester.
-ROCHESTER
-Good morrow, my good lords.
-SURREY
-Clerk of the Council,
-What time is’t of day?
-CLERK
-Past eight of clock, my lord.
-SHREWSBURY
-I wonder that my good Lord Chancellor
-Doth stay so long, considering there’s matters
-Of high importance to be scanned upon.
-SURREY
-Clerk of the Council, certify his lordship
-The lords expect him here.
-ROCHESTER
-It shall not need.
-Yon comes his lordship.
-Enter Sir Thomas More, with purse and mace borne
-
-before him
-MORE
-Good morrow to this fair assembly.
-Come, my good lords, let’s sit.
-They sit
-O serious square!
-Upon this little board is daily scanned
-The health and preservation of the land,
-We the physicians that effect this good,
-Now by choice diet, anon by letting blood.
-Our toil and careful watching brings the King
-In league with slumbers, to which peace doth sing.—
-Avoid the room there!—
-What business, lords, today?
-SHREWSBURY
-This, my good lord:
-About the entertainment of the Emperor
-’Gainst the perfidious French into our pay.
-SURREY
-My lords, as‘tis the custom in this place
-The youngest should speak first, so if I chance
-In this case to speak youngly, pardon me.
-I will agree France now hath her full strength,
-As having new recovered the pale blood
-Which war sluiced forth; and I consent to this:
-That the conjunction of our English forces
-With arms of Germany may sooner bring
-This prize of conquest in. But then, my lords,
-As in the moral hunting ’twixt the lion
-And other beasts force joined 〈 〉
-Frighted the weaker sharers from their parts,
-So, if the Empire’s sovereign chance to put
-His plea of partnership into war’s court,
-Swords should decide the difference, and our blood
-In private tears lament his entertainment.
-SHREWSBURY
-To doubt the worst is still the wise man’s shield
-That arms him safely, but the world knows this:
-The Emperor is a man of royal faith.
-His love unto our sovereign brings him down
-From his imperial seat, to march in pay
-Under our English flag, and wear the cross
-Like some high order on his manly breast.
-Thus serving, he’s not master of himself,
-But, like a colonel, commanding other,
-Is by the general overawed himself.
-ROCHESTER
-Yet, my good lord—
-SHREWSBURY
-Let me conclude my speech.
-As subjects share no portion in the conquest
-Of their true sovereign other than the merit
-That from the sovereign guerdons the true subject,
-So the good Emperor in a friendly league
-Of amity with England will not soil
-His honour with the theft of English spoil.
-MORE
-There is no question but this entertainment
-Will be most honourable, most commodious.
-I have oft heard good captains wish to have
-Rich soldiers to attend them, such as would fight
-Both for their lives and livings. Such a one
-Is the good Emperor. I would to God
-We had ten thousand of such able men.
-Ha, then there would appear no court, no city,
-But, where the wars were, they would pay
-themselves.
-Then, to prevent in French wars England’s loss,
-Let German flags wave with our English cross.
-Enter Sir Thomas Palmer
-PALMER
-My lords, his majesty hath sent by me
-These articles enclosed, first to be viewed,
-And then to be subscribed to. (With great reverence) I
-tender them
-In that due reverence which befits this place.
-MORE
-Subscribe these articles? Stay, let us pause.
-Our conscience first shall parley with our laws.
-My lord of Rochester, view you the paper.
-ROCHESTER
-Subscribe to these? Now good Sir Thomas Palmer,
-Beseech the King that he will pardon me.
-My heart will check my hand whilst I do write.
-Subscribing so, I were an hypocrite.
-PALMER
-Do you refuse it then, my lord?
-ROCHESTER
-I do, Sir Thomas.
-PALMER
-Then here I summon you forthwith t’appear
-
-Before his majesty, to answer there
-
-This capital contempt.
-ROCHESTER I rise, and part,
-In lieu of this, to tender him my heart. He riseth
-PALMER
-Will’t please your honour to subscribe, my lord?
-MORE
-Sir, tell his highness, I entreat
-
-Some time for to bethink me of this task.
-
-In the meanwhile, I do resign mine office
-
-Into my sovereign’s hands. All alter
-PALMER
-Then, my lord,
-Hear the prepared order from the King.
-
-On your refusal you shall straight depart
-
-Unto your house at Chelsea, till you know
-
-Our sovereign’s further pleasure.
-MORE Most willingly I go.
-My lords, if you will visit me at Chelsea
-
-We’ll go a-fishing, and with a cunning net,
-
-Not like weak film, we’ll catch none but the great.
-
-Farewell, my noble lords. Why, this is right:
-
-Good morrow to the sun, to state good night.
-Exit
-PALMER
-Will you subscribe, my lords?
-SURREY
-Instantly, good Sir Thomas.
-They write
-We’ll bring the writing unto our sovereign.
-PALMER My lord of Rochester,
-You must with me, to answer this contempt.
-ROCHESTER This is the worst.
-Who’s freed from life is from all care exempt.
-Exeunt Rochester and Palmer
-SURREY
-Now let us hasten to our sovereign.
-
-’Tis strange that my Lord Chancellor should refuse
-The duty that the law of God bequeaths
-Unto the king.
-SHREWSBURY
-Come, let us in. No doubt
-His mind will alter, and the Bishop’s too.
-Error in learnèd heads hath much to do.
-[Exeunt]
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earls of Shrewsbury, Surrey, Bishop of Rochester, and other lords, [attended,] severally, doing courtesy to each other, Clerk of the Council waiting bare-headed |
+| SURREY | Good morrow to my lord of Shrewsbury. |
+| SHREWSBURY | The like unto the honoured Earl of Surrey.<br>Yon comes my lord of Rochester. |
+| ROCHESTER | Good morrow, my good lords. |
+| SURREY | Clerk of the Council,<br>What time is’t of day? |
+| CLERK | Past eight of clock, my lord. |
+| SHREWSBURY | I wonder that my good Lord Chancellor<br>Doth stay so long, considering there’s matters<br>Of high importance to be scanned upon. |
+| SURREY | Clerk of the Council, certify his lordship<br>The lords expect him here. |
+| ROCHESTER | It shall not need.<br>Yon comes his lordship. |
+| *(didascalia)* | Enter Sir Thomas More, with purse and mace borne |
+| ROCHESTER | before him |
+| MORE | Good morrow to this fair assembly.<br>Come, my good lords, let’s sit.<br>They sit<br>O serious square!<br>Upon this little board is daily scanned<br>The health and preservation of the land,<br>We the physicians that effect this good,<br>Now by choice diet, anon by letting blood.<br>Our toil and careful watching brings the King<br>In league with slumbers, to which peace doth sing.—<br>Avoid the room there!—<br>What business, lords, today? |
+| SHREWSBURY | This, my good lord:<br>About the entertainment of the Emperor<br>’Gainst the perfidious French into our pay. |
+| SURREY | My lords, as‘tis the custom in this place<br>The youngest should speak first, so if I chance<br>In this case to speak youngly, pardon me.<br>I will agree France now hath her full strength,<br>As having new recovered the pale blood<br>Which war sluiced forth; and I consent to this:<br>That the conjunction of our English forces<br>With arms of Germany may sooner bring<br>This prize of conquest in. But then, my lords,<br>As in the moral hunting ’twixt the lion<br>And other beasts force joined 〈 〉<br>Frighted the weaker sharers from their parts,<br>So, if the Empire’s sovereign chance to put<br>His plea of partnership into war’s court,<br>Swords should decide the difference, and our blood<br>In private tears lament his entertainment. |
+| SHREWSBURY | To doubt the worst is still the wise man’s shield<br>That arms him safely, but the world knows this:<br>The Emperor is a man of royal faith.<br>His love unto our sovereign brings him down<br>From his imperial seat, to march in pay<br>Under our English flag, and wear the cross<br>Like some high order on his manly breast.<br>Thus serving, he’s not master of himself,<br>But, like a colonel, commanding other,<br>Is by the general overawed himself. |
+| ROCHESTER | Yet, my good lord— |
+| SHREWSBURY | Let me conclude my speech.<br>As subjects share no portion in the conquest<br>Of their true sovereign other than the merit<br>That from the sovereign guerdons the true subject,<br>So the good Emperor in a friendly league<br>Of amity with England will not soil<br>His honour with the theft of English spoil. |
+| MORE | There is no question but this entertainment<br>Will be most honourable, most commodious.<br>I have oft heard good captains wish to have<br>Rich soldiers to attend them, such as would fight<br>Both for their lives and livings. Such a one<br>Is the good Emperor. I would to God<br>We had ten thousand of such able men.<br>Ha, then there would appear no court, no city,<br>But, where the wars were, they would pay<br>themselves.<br>Then, to prevent in French wars England’s loss,<br>Let German flags wave with our English cross. |
+| *(didascalia)* | Enter Sir Thomas Palmer |
+| PALMER | My lords, his majesty hath sent by me<br>These articles enclosed, first to be viewed,<br>And then to be subscribed to. (With great reverence) I<br>tender them<br>In that due reverence which befits this place. |
+| MORE | Subscribe these articles? Stay, let us pause.<br>Our conscience first shall parley with our laws.<br>My lord of Rochester, view you the paper. |
+| ROCHESTER | Subscribe to these? Now good Sir Thomas Palmer,<br>Beseech the King that he will pardon me.<br>My heart will check my hand whilst I do write.<br>Subscribing so, I were an hypocrite. |
+| PALMER | Do you refuse it then, my lord? |
+| ROCHESTER | I do, Sir Thomas. |
+| PALMER | Then here I summon you forthwith t’appear<br><br>Before his majesty, to answer there<br><br>This capital contempt. |
+| ROCHESTER | I rise, and part,<br>In lieu of this, to tender him my heart. He riseth |
+| PALMER | Will’t please your honour to subscribe, my lord? |
+| MORE | Sir, tell his highness, I entreat<br><br>Some time for to bethink me of this task.<br><br>In the meanwhile, I do resign mine office<br><br>Into my sovereign’s hands. All alter |
+| PALMER | Then, my lord,<br>Hear the prepared order from the King.<br><br>On your refusal you shall straight depart<br><br>Unto your house at Chelsea, till you know<br><br>Our sovereign’s further pleasure. |
+| MORE | Most willingly I go.<br>My lords, if you will visit me at Chelsea<br><br>We’ll go a-fishing, and with a cunning net,<br><br>Not like weak film, we’ll catch none but the great.<br><br>Farewell, my noble lords. Why, this is right:<br><br>Good morrow to the sun, to state good night. |
+| *(didascalia)* | Exit |
+| PALMER | Will you subscribe, my lords? |
+| SURREY | Instantly, good Sir Thomas.<br>They write<br>We’ll bring the writing unto our sovereign. |
+| PALMER | My lord of Rochester,<br>You must with me, to answer this contempt. |
+| ROCHESTER | This is the worst.<br>Who’s freed from life is from all care exempt. |
+| *(didascalia)* | Exeunt Rochester and Palmer |
+| SURREY | Now let us hasten to our sovereign.<br><br>’Tis strange that my Lord Chancellor should refuse<br>The duty that the law of God bequeaths<br>Unto the king. |
+| SHREWSBURY | Come, let us in. No doubt<br>His mind will alter, and the Bishop’s too.<br>Error in learnèd heads hath much to do.<br>[Exeunt] |

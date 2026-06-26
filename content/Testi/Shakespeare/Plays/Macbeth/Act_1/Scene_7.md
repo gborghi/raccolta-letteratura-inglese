@@ -14,113 +14,22 @@ tags:
 </nav>
 
 
-Hautboys. Torches. Enter a sewer and divers servants with dishes and service over the stage. Then enter Macbeth
-MACBETH
-If it were done when ‘tis done, then ’twere well
-It were done quickly. If th‘assassination
-Could trammel up the consequence, and catch
-With his surcease success: that but this blow
-Might be the be-all and the end-all, here,
-But here upon this bank and shoal of time,
-We’d jump the life to come. But in these cases
-We still have judgement here, that we but teach
-Bloody instructions which, being taught, return
-To plague th’inventor. This even-handed justice
-Commends th‘ingredience of our poisoned chalice
-To our own lips. He’s here in double trust:
-First, as I am his kinsman and his subject,
-Strong both against the deed; then, as his host,
-Who should against his murderer shut the door,
-Not bear the knife myself. Besides, this Duncan
-Hath borne his faculties so meek, hath been
-So clear in his great office, that his virtues
-Will plead like angels, trumpet-tongued against
-The deep damnation of his taking-off,
-And pity, like a naked new-born babe,
-Striding the blast, or heaven’s cherubin, horsed
-Upon the sightless couriers of the air,
-Shall blow the horrid deed in every eye
-That tears shall drown the wind. I have no spur
-To prick the sides of my intent, but only
-Vaulting ambition which o’erleaps itself
-And falls on th’other.
-Enter Lady Macbeth
-
-How now? What news?
-LADY MACBETH
-He has almost supped. Why have you left the
-chamber?
-MACBETH
-Hath he asked for me?
-LADY MACBETH
-Know you not he has?
-MACBETH
-We will proceed no further in this business.
-He hath honoured me of late, and I have bought
-Golden opinions from all sorts of people,
-Which would be worn now in their newest gloss,
-Not cast aside so soon.
-LADY MACBETH
-Was the hope drunk
-Wherein you dressed yourself? Hath it slept since?
-And wakes it now to look so green and pale
-At what it did so freely? From this time
-Such I account thy love. Art thou afeard
-To be the same in thine own act and valour
-As thou art in desire? Wouldst thou have that
-Which thou esteem‘st the ornament of life,
-And live a coward in thine own esteem,
-Letting ’I dare not’ wait upon ‘I would’,
-Like the poor cat i’th’ adage?
-MACBETH
-Prithee, peace.
-I dare do all that may become a man;
-Who dares do more is none.
-LADY MACBETH
-What beast was’t then
-That made you break this enterprise to me?
-When you durst do it, then you were a man;
-And to be more than what you were, you would
-Be so much more the man. Nor time nor place
-Did then adhere, and yet you would make both.
-They have made themselves, and that their fitness now
-Does unmake you. I have given suck, and know
-How tender ’tis to love the babe that milks me.
-I would, while it was smiling in my face,
-Have plucked my nipple from his boneless gums
-And dashed the brains out, had I so sworn
-As you have done to this.
-MACBETH
-If we should fail?
-LADY MACBETH
-We fail!
-But screw your courage to the sticking-place
-And we’ll not fail. When Duncan is asleep—
-Whereto the rather shall his day’s hard journey
-Soundly invite him—his two chamberlains
-Will I with wine and wassail so convince
-That memory, the warder of the brain,
-Shall be a fume, and the receipt of reason
-A limbeck only. When in swinish sleep
-Their drenched natures lies as in a death,
-What cannot you and I perform upon
-Th’unguarded Duncan? What not put upon
-His spongy officers, who shall bear the guilt
-Of our great quell?
-MACBETH
-Bring forth men-children only,
-For thy undaunted mettle should compose
-Nothing but males. Will it not be received,
-When we have marked with blood those sleepy two
-Of his own chamber and used their very daggers,
-That they have done’t?
-LADY MACBETH
-Who dares receive it other,
-As we shall make our griefs and clamour roar
-Upon his death?
-MACBETH
-I am settled, and bend up
-Each corporal agent to this terrible feat.
-Away, and mock the time with fairest show.
-False face must hide what the false heart doth know.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Hautboys. Torches. Enter a sewer and divers servants with dishes and service over the stage. Then enter Macbeth |
+| MACBETH | If it were done when ‘tis done, then ’twere well<br>It were done quickly. If th‘assassination<br>Could trammel up the consequence, and catch<br>With his surcease success: that but this blow<br>Might be the be-all and the end-all, here,<br>But here upon this bank and shoal of time,<br>We’d jump the life to come. But in these cases<br>We still have judgement here, that we but teach<br>Bloody instructions which, being taught, return<br>To plague th’inventor. This even-handed justice<br>Commends th‘ingredience of our poisoned chalice<br>To our own lips. He’s here in double trust:<br>First, as I am his kinsman and his subject,<br>Strong both against the deed; then, as his host,<br>Who should against his murderer shut the door,<br>Not bear the knife myself. Besides, this Duncan<br>Hath borne his faculties so meek, hath been<br>So clear in his great office, that his virtues<br>Will plead like angels, trumpet-tongued against<br>The deep damnation of his taking-off,<br>And pity, like a naked new-born babe,<br>Striding the blast, or heaven’s cherubin, horsed<br>Upon the sightless couriers of the air,<br>Shall blow the horrid deed in every eye<br>That tears shall drown the wind. I have no spur<br>To prick the sides of my intent, but only<br>Vaulting ambition which o’erleaps itself<br>And falls on th’other. |
+| *(didascalia)* | Enter Lady Macbeth |
+| MACBETH | How now? What news? |
+| LADY MACBETH | He has almost supped. Why have you left the<br>chamber? |
+| MACBETH | Hath he asked for me? |
+| LADY MACBETH | Know you not he has? |
+| MACBETH | We will proceed no further in this business.<br>He hath honoured me of late, and I have bought<br>Golden opinions from all sorts of people,<br>Which would be worn now in their newest gloss,<br>Not cast aside so soon. |
+| LADY MACBETH | Was the hope drunk<br>Wherein you dressed yourself? Hath it slept since?<br>And wakes it now to look so green and pale<br>At what it did so freely? From this time<br>Such I account thy love. Art thou afeard<br>To be the same in thine own act and valour<br>As thou art in desire? Wouldst thou have that<br>Which thou esteem‘st the ornament of life,<br>And live a coward in thine own esteem,<br>Letting ’I dare not’ wait upon ‘I would’,<br>Like the poor cat i’th’ adage? |
+| MACBETH | Prithee, peace.<br>I dare do all that may become a man;<br>Who dares do more is none. |
+| LADY MACBETH | What beast was’t then<br>That made you break this enterprise to me?<br>When you durst do it, then you were a man;<br>And to be more than what you were, you would<br>Be so much more the man. Nor time nor place<br>Did then adhere, and yet you would make both.<br>They have made themselves, and that their fitness now<br>Does unmake you. I have given suck, and know<br>How tender ’tis to love the babe that milks me.<br>I would, while it was smiling in my face,<br>Have plucked my nipple from his boneless gums<br>And dashed the brains out, had I so sworn<br>As you have done to this. |
+| MACBETH | If we should fail? |
+| LADY MACBETH | We fail!<br>But screw your courage to the sticking-place<br>And we’ll not fail. When Duncan is asleep—<br>Whereto the rather shall his day’s hard journey<br>Soundly invite him—his two chamberlains<br>Will I with wine and wassail so convince<br>That memory, the warder of the brain,<br>Shall be a fume, and the receipt of reason<br>A limbeck only. When in swinish sleep<br>Their drenched natures lies as in a death,<br>What cannot you and I perform upon<br>Th’unguarded Duncan? What not put upon<br>His spongy officers, who shall bear the guilt<br>Of our great quell? |
+| MACBETH | Bring forth men-children only,<br>For thy undaunted mettle should compose<br>Nothing but males. Will it not be received,<br>When we have marked with blood those sleepy two<br>Of his own chamber and used their very daggers,<br>That they have done’t? |
+| LADY MACBETH | Who dares receive it other,<br>As we shall make our griefs and clamour roar<br>Upon his death? |
+| MACBETH | I am settled, and bend up<br>Each corporal agent to this terrible feat.<br>Away, and mock the time with fairest show.<br>False face must hide what the false heart doth know. |
+| *(didascalia)* | Exeunt |

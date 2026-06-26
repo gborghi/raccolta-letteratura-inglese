@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Lancelot the clown
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Lancelot the clown |

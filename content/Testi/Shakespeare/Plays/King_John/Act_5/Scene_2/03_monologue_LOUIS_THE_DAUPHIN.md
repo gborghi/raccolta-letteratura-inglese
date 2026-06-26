@@ -13,35 +13,6 @@ tags:
 </nav>
 
 
-LOUIS THE DAUPHIN
-A noble temper dost thou show in this,
-And great affections, wrestling in thy bosom,
-Doth make an earthquake of nobility.
-O, what a noble combat hast thou fought
-Between compulsion and a brave respect!
-Let me wipe off this honourable dew
-That silverly doth progress on thy cheeks.
-My heart hath melted at a lady’s tears,
-Being an ordinary inundation;
-But this effusion of such manly drops,
-This shower blown up by tempest of the soul,
-Startles mine eyes, and makes me more amazed
-Than had I seen the vaulty top of heaven
-Figured quite o’er with burning meteors.
-Lift up thy brow, renowned Salisbury,
-And with a great heart heave away this storm; 55
-Commend these waters to those baby eyes
-That never saw the giant world enraged,
-Nor met with Fortune other than at feasts,
-Full warm of blood, of mirth, of gossiping.
-Come, come, for thou shalt thrust thy hand as deep
-Into the purse of rich prosperity
-As Louis himself. So, nobles, shall you all
-That knit your sinews to the strength of mine.
-⌈A trumpet sounds⌉
-And even there methinks an angel spake!
-Enter Cardinal Pandolf
-Look where the holy legate comes apace,
-To give us warrant from the hand of heaven,
-And on our actions set the name of right
-With holy breath.
+| Chi parla | Battuta |
+|---|---|
+| LOUIS THE DAUPHIN | A noble temper dost thou show in this, And great affections, wrestling in thy bosom, Doth make an earthquake of nobility. O, what a noble combat hast thou fought Between compulsion and a brave respect! Let me wipe off this honourable dew That silverly doth progress on thy cheeks. My heart hath melted at a lady’s tears, Being an ordinary inundation; But this effusion of such manly drops, This shower blown up by tempest of the soul, Startles mine eyes, and makes me more amazed Than had I seen the vaulty top of heaven Figured quite o’er with burning meteors. Lift up thy brow, renowned Salisbury, And with a great heart heave away this storm; 55 Commend these waters to those baby eyes That never saw the giant world enraged, Nor met with Fortune other than at feasts, Full warm of blood, of mirth, of gossiping. Come, come, for thou shalt thrust thy hand as deep Into the purse of rich prosperity As Louis himself. So, nobles, shall you all That knit your sinews to the strength of mine. A trumpet sounds And even there methinks an angel spake! Enter Cardinal Pandolf Look where the holy legate comes apace, To give us warrant from the hand of heaven, And on our actions set the name of right With holy breath. |

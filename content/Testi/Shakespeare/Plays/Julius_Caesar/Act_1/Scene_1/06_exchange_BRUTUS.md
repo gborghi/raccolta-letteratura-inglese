@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-BRUTUS Another general shout!
-I do believe that these applauses are
-For some new honours that are heaped on Caesar.
+| Chi parla | Battuta |
+|---|---|
+| BRUTUS | Another general shout! I do believe that these applauses are For some new honours that are heaped on Caesar. |

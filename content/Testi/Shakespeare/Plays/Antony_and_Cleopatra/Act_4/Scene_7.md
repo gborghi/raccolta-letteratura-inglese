@@ -14,9 +14,8 @@ tags:
 </nav>
 
 
-Alarum. Enter Agrippa ⌈with drummers and trumpeters⌉
-AGRIPPA
-Retire! We have engaged our selves too far.
-Caesar himself has work, and our oppression
-Exceeds what we expected.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter Agrippa with drummers and trumpeters |
+| AGRIPPA | Retire! We have engaged our selves too far.<br>Caesar himself has work, and our oppression<br>Exceeds what we expected. |
+| *(didascalia)* | Exeunt |

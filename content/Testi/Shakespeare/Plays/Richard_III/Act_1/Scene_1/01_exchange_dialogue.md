@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Richard Duke of Gloucester
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Richard Duke of Gloucester |

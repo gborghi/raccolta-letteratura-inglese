@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Othello with a light. ⌈He draws back a curtain, revealing⌉ Desdemona asleep in her bed
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Othello with a light. He draws back a curtain, revealing Desdemona asleep in her bed |

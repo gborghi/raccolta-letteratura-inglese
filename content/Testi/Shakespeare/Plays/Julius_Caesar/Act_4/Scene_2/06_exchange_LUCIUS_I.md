@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-LUCIUS I have slept, my lord, already.
+| Chi parla | Battuta |
+|---|---|
+| LUCIUS | I have slept, my lord, already. |

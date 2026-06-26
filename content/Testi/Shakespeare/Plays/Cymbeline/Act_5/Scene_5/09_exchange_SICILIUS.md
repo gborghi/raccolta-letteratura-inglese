@@ -13,19 +13,8 @@ tags:
 </nav>
 
 
-SICILIUS
-He came in thunder. His celestial breath
-Was sulphurous to smell. The holy eagle
-Stooped, as to foot us. His ascension is
-More sweet than our blest fields. His royal bird
-Preens the immortal wing and claws his beak
-As when his god is pleased.
-
-ALL THE GHOSTS Thanks, Jupiter.
-
-SICILIUS
-The marble pavement closes, he is entered
-His radiant roof. Away, and, to be blest,
-Let us with care perform his great behest.
-The ghosts vanish
-Posthumus awakes
+| Chi parla | Battuta |
+|---|---|
+| SICILIUS | He came in thunder. His celestial breath Was sulphurous to smell. The holy eagle Stooped, as to foot us. His ascension is More sweet than our blest fields. His royal bird Preens the immortal wing and claws his beak As when his god is pleased. |
+| ALL THE GHOSTS | Thanks, Jupiter. |
+| SICILIUS | The marble pavement closes, he is entered His radiant roof. Away, and, to be blest, Let us with care perform his great behest. The ghosts vanish Posthumus awakes |

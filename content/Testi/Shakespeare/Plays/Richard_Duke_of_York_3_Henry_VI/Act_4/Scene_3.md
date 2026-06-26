@@ -14,52 +14,22 @@ tags:
 </nav>
 
 
-Enter three Watchmen, to guard King Edward’s tent
-FIRST WATCHMAN
-Come on, my masters, each man take his stand.
-The King by this is set him down to sleep.
-SECOND WATCHMAN What, will he not to bed?
-FIRST WATCHMAN
-Why, no—for he hath made a solemn vow
-Never to lie and take his natural rest
-Till Warwick or himself be quite suppressed.
-SECOND WATCHMAN
-Tomorrow then belike shall be the day,
-If Warwick be so near as men report.
-THIRD WATCHMAN
-But say, I pray, what nobleman is that
-That with the King here resteth in his tent?
-FIRST WATCHMAN
-’Tis the Lord Hastings, the King’s chiefest friend.
-THIRD WATCHMAN
-O, is it so ? But why commands the King
-That his chief followers lodge in towns about him,
-While he himself keeps in the cold field?
-SECOND WATCHMAN
-’Tis the more honour, because more dangerous.
-THIRD WATCHMAN
-Ay, but give me worship and quietness—
-I like it better than a dangerous honour.
-If Warwick knew in what estate he stands,
-’Tis to be doubted he would waken him.
-FIRST WATCHMAN
-Unless our halberds did shut up his passage.
-SECOND WATCHMAN
-Ay, wherefore else guard we his royal tent
-But to defend his person from night-foes?
-Enter silently the Earl of Warwick, George Duke of
-
-Clarence, the Earl of Oxford, and the Duke of
-
-Somerset, with French soldiers
-WARWICK
-This is his tent—and see where stand his guard.
-Courage, my masters—honour now or never!
-But follow me, and Edward shall be ours.
-FIRST WATCHMAN Who goes there?
-SECOND WATCHMAN Stay or thou diest.
-Warwick and the rest all cry ‘Warwick, Warwick!’
-
-and set upon the guard, who fly, crying ‘Arm, arm!’
-
-Warwick and the rest follow them
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter three Watchmen, to guard King Edward’s tent |
+| FIRST WATCHMAN | Come on, my masters, each man take his stand.<br>The King by this is set him down to sleep. |
+| SECOND WATCHMAN | What, will he not to bed? |
+| FIRST WATCHMAN | Why, no—for he hath made a solemn vow<br>Never to lie and take his natural rest<br>Till Warwick or himself be quite suppressed. |
+| SECOND WATCHMAN | Tomorrow then belike shall be the day,<br>If Warwick be so near as men report. |
+| THIRD WATCHMAN | But say, I pray, what nobleman is that<br>That with the King here resteth in his tent? |
+| FIRST WATCHMAN | ’Tis the Lord Hastings, the King’s chiefest friend. |
+| THIRD WATCHMAN | O, is it so ? But why commands the King<br>That his chief followers lodge in towns about him,<br>While he himself keeps in the cold field? |
+| SECOND WATCHMAN | ’Tis the more honour, because more dangerous. |
+| THIRD WATCHMAN | Ay, but give me worship and quietness—<br>I like it better than a dangerous honour.<br>If Warwick knew in what estate he stands,<br>’Tis to be doubted he would waken him. |
+| FIRST WATCHMAN | Unless our halberds did shut up his passage. |
+| SECOND WATCHMAN | Ay, wherefore else guard we his royal tent<br>But to defend his person from night-foes? |
+| *(didascalia)* | Enter silently the Earl of Warwick, George Duke of |
+| SECOND WATCHMAN | Clarence, the Earl of Oxford, and the Duke of<br><br>Somerset, with French soldiers |
+| WARWICK | This is his tent—and see where stand his guard.<br>Courage, my masters—honour now or never!<br>But follow me, and Edward shall be ours. |
+| FIRST WATCHMAN | Who goes there? |
+| SECOND WATCHMAN | Stay or thou diest.<br>Warwick and the rest all cry ‘Warwick, Warwick!’<br><br>and set upon the guard, who fly, crying ‘Arm, arm!’<br><br>Warwick and the rest follow them |

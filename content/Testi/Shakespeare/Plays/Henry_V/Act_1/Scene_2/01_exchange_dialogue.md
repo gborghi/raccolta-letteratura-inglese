@@ -13,25 +13,12 @@ tags:
 </nav>
 
 
-Enter King Harry, the Dukes of Gloucester, ⌈Clarence⌉, and Exeter, and the Earls of Warwick and Westmorland
-
-KING HARRY
-Where is my gracious lord of Canterbury?
-
-EXETER
-Not here in presence.
-
-KING HARRY Send for him, good uncle.
-
-WESTMORLAND
-Shall we call in th’ambassador, my liege?
-
-KING HARRY
-Not yet, my cousin. We would be resolved,
-Before we hear him, of some things of weight
-That task our thoughts, concerning us and France.
-Enter the Archbishop of Canterbury and the Bishop of Ely
-
-CANTERBURY
-God and his angels guard your sacred throne,
-And make you long become it.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Harry, the Dukes of Gloucester, Clarence, and Exeter, and the Earls of Warwick and Westmorland |
+| KING HARRY | Where is my gracious lord of Canterbury? |
+| EXETER | Not here in presence. |
+| KING HARRY | Send for him, good uncle. |
+| WESTMORLAND | Shall we call in th’ambassador, my liege? |
+| KING HARRY | Not yet, my cousin. We would be resolved, Before we hear him, of some things of weight That task our thoughts, concerning us and France. Enter the Archbishop of Canterbury and the Bishop of Ely |
+| CANTERBURY | God and his angels guard your sacred throne, And make you long become it. |

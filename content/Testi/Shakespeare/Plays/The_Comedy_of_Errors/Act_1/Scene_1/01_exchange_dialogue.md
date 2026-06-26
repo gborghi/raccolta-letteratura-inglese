@@ -13,8 +13,7 @@ tags:
 </nav>
 
 
-Enter Solinus, the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other attendants
-
-EGEON
-Proceed, Solinus, to procure my fall,
-And by the doom of death end woes and all.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other attendants |
+| EGEON | Proceed, Solinus, to procure my fall, And by the doom of death end woes and all. |

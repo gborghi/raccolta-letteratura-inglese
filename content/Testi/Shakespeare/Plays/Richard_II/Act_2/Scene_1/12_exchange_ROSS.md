@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-ROSS
-To horse, to horse! Urge doubts to them that fear.
-
-WILLOUGHBY
-Hold out my horse, and I will first be there.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| ROSS | To horse, to horse! Urge doubts to them that fear. |
+| WILLOUGHBY | Hold out my horse, and I will first be there. Exeunt |

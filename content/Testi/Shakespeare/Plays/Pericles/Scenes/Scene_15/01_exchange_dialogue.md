@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Gower
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Gower |

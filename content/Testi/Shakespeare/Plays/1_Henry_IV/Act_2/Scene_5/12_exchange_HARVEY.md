@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-HARVEY Good morrow, good my lord. Exeunt ⌈severally⌉
+| Chi parla | Battuta |
+|---|---|
+| HARVEY | Good morrow, good my lord. Exeunt severally |

@@ -14,57 +14,18 @@ tags:
 </nav>
 
 
-Enter the Comte de Montfort with a coronet in his hand and with him the Earl of Salisbury
-COMTE DE MONTFORT
-My lord of Salisbury, since by your aid
-Mine enemy Sir Charles of Blois is slain,
-And I again am quietly possessed
-In Bretagne’s dukedom, know that I resolve,
-For this kind furtherance of your king and you,
-To swear allegiance to his majesty—
-He offers Salisbury the coronet
-In sign whereof receive this coronet.
-Bear it unto him, and withal mine oath
-Never to be but Edward’s faithful friend.
-EARL OF SALISBURY (taking the coronet)
-I take it, Montfort. Thus I hope ere long
-The whole dominions of the realm of France
-Will be surrendered to his conquering hand.
-Exit Montfort
-Now, if I knew but safely how to pass,
-I would at Calais gladly meet his grace,
-Whither I am by letters certified
-That he intends to have his host removed.
-It shall be so. This policy will serve.
-(Calling) Ho, who’s within? Bring Villiers to me.
-Enter Villiers
-Villiers, thou know’st thou art my prisoner,
-And that I might for ransom, if I would,
-Require of thee a hundred thousand francs,
-Or else retain and keep thee captive still.
-But so it is that for a smaller charge
-Thou mayst be quit, an if thou wilt thyself.
-And this it is: procure me but a passport
-Of Charles, the Duke of Normandy, that I
-Without restraint may have recourse to Calais
-Through all the countries where he hath to do—
-Which thou mayst easily obtain, I think,
-By reason I have often heard thee say
-He and thou were students once together—
-And then thou shalt be set at liberty.
-How sayst thou? Wilt thou undertake to do it?
-VILLIERS
-I will, my lord. But I must speak with him.
-EARL OF SALISBURY
-Why, so thou shalt! Take horse and post from hence—
-Only before thou go’st, swear by thy faith
-That if thou canst not compass my desire,
-Thou wilt return my prisoner back again,
-And that shall be sufficient warrant for me.
-VILLIERS
-To that condition I agree, my lord,
-And will unfeignedly perform the same.
-Exit
-EARL or SALISBURY Farewell, Villiers!
-Thus once I mean to try a Frenchman’s faith.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Comte de Montfort with a coronet in his hand and with him the Earl of Salisbury |
+| COMTE DE MONTFORT | My lord of Salisbury, since by your aid<br>Mine enemy Sir Charles of Blois is slain,<br>And I again am quietly possessed<br>In Bretagne’s dukedom, know that I resolve,<br>For this kind furtherance of your king and you,<br>To swear allegiance to his majesty—<br>He offers Salisbury the coronet<br>In sign whereof receive this coronet.<br>Bear it unto him, and withal mine oath<br>Never to be but Edward’s faithful friend. |
+| EARL OF SALISBURY | (taking the coronet)<br>I take it, Montfort. Thus I hope ere long<br>The whole dominions of the realm of France<br>Will be surrendered to his conquering hand. |
+| *(didascalia)* | Exit Montfort |
+| EARL OF SALISBURY | Now, if I knew but safely how to pass,<br>I would at Calais gladly meet his grace,<br>Whither I am by letters certified<br>That he intends to have his host removed.<br>It shall be so. This policy will serve.<br>(Calling) Ho, who’s within? Bring Villiers to me. |
+| *(didascalia)* | Enter Villiers |
+| EARL OF SALISBURY | Villiers, thou know’st thou art my prisoner,<br>And that I might for ransom, if I would,<br>Require of thee a hundred thousand francs,<br>Or else retain and keep thee captive still.<br>But so it is that for a smaller charge<br>Thou mayst be quit, an if thou wilt thyself.<br>And this it is: procure me but a passport<br>Of Charles, the Duke of Normandy, that I<br>Without restraint may have recourse to Calais<br>Through all the countries where he hath to do—<br>Which thou mayst easily obtain, I think,<br>By reason I have often heard thee say<br>He and thou were students once together—<br>And then thou shalt be set at liberty.<br>How sayst thou? Wilt thou undertake to do it? |
+| VILLIERS | I will, my lord. But I must speak with him. |
+| EARL OF SALISBURY | Why, so thou shalt! Take horse and post from hence—<br>Only before thou go’st, swear by thy faith<br>That if thou canst not compass my desire,<br>Thou wilt return my prisoner back again,<br>And that shall be sufficient warrant for me. |
+| VILLIERS | To that condition I agree, my lord,<br>And will unfeignedly perform the same. |
+| *(didascalia)* | Exit |
+| EARL | or SALISBURY Farewell, Villiers!<br>Thus once I mean to try a Frenchman’s faith. |
+| *(didascalia)* | Exit |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-A table being covered with a green carpet, a state cushion on it, and the purse and mace lying thereon, enter More
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | A table being covered with a green carpet, a state cushion on it, and the purse and mace lying thereon, enter More |

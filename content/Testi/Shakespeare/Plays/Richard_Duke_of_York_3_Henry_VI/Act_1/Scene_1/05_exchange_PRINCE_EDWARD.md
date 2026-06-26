@@ -13,10 +13,7 @@ tags:
 </nav>
 
 
-PRINCE EDWARD
-Father, you cannot disinherit me.
-If you be king, why should not I succeed?
-
-KING HENRY
-Pardon me, Margaret; pardon me, sweet son—
-The Earl of Warwick and the Duke enforced me.
+| Chi parla | Battuta |
+|---|---|
+| PRINCE EDWARD | Father, you cannot disinherit me. If you be king, why should not I succeed? |
+| KING HENRY | Pardon me, Margaret; pardon me, sweet son— The Earl of Warwick and the Duke enforced me. |

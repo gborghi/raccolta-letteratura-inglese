@@ -13,9 +13,7 @@ tags:
 </nav>
 
 
-KING EDWARD (to Warwick)
-That is thy daughter, Warwick, is it not?
-Whose husband hath in Bretagne served so long
-About the planting of Lord Montfort there?
-
-EARL OF WARWICK It is, my lord.
+| Chi parla | Battuta |
+|---|---|
+| KING EDWARD | (to Warwick) That is thy daughter, Warwick, is it not? Whose husband hath in Bretagne served so long About the planting of Lord Montfort there? |
+| EARL OF WARWICK | It is, my lord. |

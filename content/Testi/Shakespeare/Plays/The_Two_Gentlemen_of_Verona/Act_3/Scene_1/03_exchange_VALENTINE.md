@@ -13,12 +13,8 @@ tags:
 </nav>
 
 
-VALENTINE
-Ay, my good lord.
-
-DUKE
-Then let me see thy cloak,
-I’ll get me one of such another length.
-
-VALENTINE
-Why, any cloak will serve the turn, my lord.
+| Chi parla | Battuta |
+|---|---|
+| VALENTINE | Ay, my good lord. |
+| DUKE | Then let me see thy cloak, I’ll get me one of such another length. |
+| VALENTINE | Why, any cloak will serve the turn, my lord. |

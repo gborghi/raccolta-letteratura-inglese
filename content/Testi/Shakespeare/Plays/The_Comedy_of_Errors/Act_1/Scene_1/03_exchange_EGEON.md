@@ -13,12 +13,8 @@ tags:
 </nav>
 
 
-EGEON
-Yet this my comfort: when your words are done,
-
-My woes end likewise with the evening sun.
-
-DUKE
-Well, Syracusian, say in brief the cause
-Why thou departed‘st from thy native home,
-And for what cause thou cam’st to Ephesus.
+| Chi parla | Battuta |
+|---|---|
+| EGEON | Yet this my comfort: when your words are done, |
+| EGEON | My woes end likewise with the evening sun. |
+| DUKE | Well, Syracusian, say in brief the cause Why thou departed‘st from thy native home, And for what cause thou cam’st to Ephesus. |

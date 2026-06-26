@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Alarum. Enter King Henry
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter King Henry |

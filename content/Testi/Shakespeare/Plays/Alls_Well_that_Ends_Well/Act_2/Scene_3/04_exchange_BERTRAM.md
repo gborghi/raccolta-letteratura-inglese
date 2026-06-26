@@ -13,12 +13,8 @@ tags:
 </nav>
 
 
-BERTRAM
-I cannot love her, nor will strive to do’t.
-
-KING
-Thou wrong’st thyself. If thou shouldst strive to choose—
-
-HELEN
-That you are well restored, my lord, I’m glad.
-Let the rest go.
+| Chi parla | Battuta |
+|---|---|
+| BERTRAM | I cannot love her, nor will strive to do’t. |
+| KING | Thou wrong’st thyself. If thou shouldst strive to choose— |
+| HELEN | That you are well restored, my lord, I’m glad. Let the rest go. |

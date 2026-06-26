@@ -13,12 +13,6 @@ tags:
 </nav>
 
 
-PORTIA (aside)
-How all the other passions fleet to air,
-As doubtful thoughts, and rash-embraced despair,
-And shudd’ring fear, and green-eyed jealousy. 110
-O love, be moderate! Allay thy ecstasy.
-In measure rain thy joy; scant this excess.
-I feel too much thy blessing: make it less,
-For fear I surfeit.
-Bassanio opens the leaden casket
+| Chi parla | Battuta |
+|---|---|
+| PORTIA | (aside) How all the other passions fleet to air, As doubtful thoughts, and rash-embraced despair, And shudd’ring fear, and green-eyed jealousy. 110 O love, be moderate! Allay thy ecstasy. In measure rain thy joy; scant this excess. I feel too much thy blessing: make it less, For fear I surfeit. Bassanio opens the leaden casket |

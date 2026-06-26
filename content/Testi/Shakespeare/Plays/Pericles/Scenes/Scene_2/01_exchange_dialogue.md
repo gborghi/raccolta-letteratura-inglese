@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Pericles, distempered, with his lords
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Pericles, distempered, with his lords |

@@ -14,47 +14,7 @@ tags:
 </nav>
 
 
-Enter Chorus
-CHORUS
-Now all the youth of England are on fire,
-And silken dalliance in the wardrobe lies;
-Now thrive the armourers, and honour’s thought
-Reigns solely in the breast of every man.
-They sell the pasture now to buy the horse,
-Following the mirror of all Christian kings
-With winged heels, as English Mercuries.
-For now sits expectation in the air
-And hides a sword from hilts unto the point
-With crowns imperial, crowns and coronets,
-Promised to Harry and his followers.
-The French, advised by good intelligence
-Of this most dreadful preparation,
-Shake in their fear, and with pale policy
-Seek to divert the English purposes.
-O England!—model to thy inward greatness,
-Like little body with a mighty heart,
-What mightst thou do, that honour would thee do,
-Were all thy children kind and natural?
-But see, thy fault France hath in thee found out:
-A nest of hollow bosoms, which he fills
-With treacherous crowns; and three corrupted men—
-One, Richard, Earl of Cambridge; and the second
-Henry, Lord Scrope of Masham; and the third
-Sir Thomas Grey, knight, of Northumberland—
-Have, for the gilt of France—O guilt indeed!—
-Confirmed conspiracy with fearful France;
-And by their hands this grace of kings must die,
-If hell and treason hold their promises,
-Ere he take ship for France, and in Southampton.
-Linger your patience on, and we’ll digest
-Th’abuse of distance, force—perforce—a play.
-The sum is paid, the traitors are agreed,
-The King is set from London, and the scene
-Is now transported, gentles, to Southampton.
-There is the playhouse now, there must you sit,
-And thence to France shall we convey you safe,
-And bring you back, charming the narrow seas
-To give you gentle pass—for if we may
-We’ll not offend one stomach with our play.
-But till the King come forth, and not till then,
-Unto Southampton do we shift our scene. Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Chorus |
+| CHORUS | Now all the youth of England are on fire,<br>And silken dalliance in the wardrobe lies;<br>Now thrive the armourers, and honour’s thought<br>Reigns solely in the breast of every man.<br>They sell the pasture now to buy the horse,<br>Following the mirror of all Christian kings<br>With winged heels, as English Mercuries.<br>For now sits expectation in the air<br>And hides a sword from hilts unto the point<br>With crowns imperial, crowns and coronets,<br>Promised to Harry and his followers.<br>The French, advised by good intelligence<br>Of this most dreadful preparation,<br>Shake in their fear, and with pale policy<br>Seek to divert the English purposes.<br>O England!—model to thy inward greatness,<br>Like little body with a mighty heart,<br>What mightst thou do, that honour would thee do,<br>Were all thy children kind and natural?<br>But see, thy fault France hath in thee found out:<br>A nest of hollow bosoms, which he fills<br>With treacherous crowns; and three corrupted men—<br>One, Richard, Earl of Cambridge; and the second<br>Henry, Lord Scrope of Masham; and the third<br>Sir Thomas Grey, knight, of Northumberland—<br>Have, for the gilt of France—O guilt indeed!—<br>Confirmed conspiracy with fearful France;<br>And by their hands this grace of kings must die,<br>If hell and treason hold their promises,<br>Ere he take ship for France, and in Southampton.<br>Linger your patience on, and we’ll digest<br>Th’abuse of distance, force—perforce—a play.<br>The sum is paid, the traitors are agreed,<br>The King is set from London, and the scene<br>Is now transported, gentles, to Southampton.<br>There is the playhouse now, there must you sit,<br>And thence to France shall we convey you safe,<br>And bring you back, charming the narrow seas<br>To give you gentle pass—for if we may<br>We’ll not offend one stomach with our play.<br>But till the King come forth, and not till then,<br>Unto Southampton do we shift our scene. Exit |

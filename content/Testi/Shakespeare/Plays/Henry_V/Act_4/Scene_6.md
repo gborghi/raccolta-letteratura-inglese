@@ -14,53 +14,15 @@ tags:
 </nav>
 
 
-Alarum. Enter King Harry and his train, with prisoners
-KING HARRY
-Well have we done, thrice-valiant countrymen.
-But all’s not done; yet keep the French the field.
-[Enter the Duke of Exeter]
-EXETER
-The Duke of York commends him to your majesty.
-KING HARRY
-Lives he, good uncle? Thrice within this hour
-I saw him down, thrice up again and fighting.
-From helmet to the spur, all blood he was.
-EXETER
-In which array, brave soldier, doth he lie,
-Larding the plain. And by his bloody side,
-Yokefellow to his honour-owing wounds,
-The noble Earl of Suffolk also lies.
-Suffolk first died, and York, all haggled over,
-Comes to him, where in gore he lay insteeped,
-And takes him by the beard, kisses the gashes
-That bloodily did yawn upon his face,
-And cries aloud, ‘Tarry, dear cousin Suffolk.
-My soul shall thine keep company to heaven.
-Tarry, sweet soul, for mine, then fly abreast,
-As in this glorious and well-foughten field
-We kept together in our chivalry.’
-Upon these words I came and cheered him up.
-He smiled me in the face, raught me his hand,
-And with a feeble grip says, ‘Dear my lord,
-Commend my service to my sovereign.’
-So did he turn, and over Suffolk’s neck
-He threw his wounded arm, and kissed his lips,
-And so espoused to death, with blood he sealed
-A testament of noble-ending love.
-The pretty and sweet manner of it forced
-Those waters from me which I would have stopped.
-But I had not so much of man in me,
-And all my mother came into mine eyes
-And gave me up to tears.
-KING HARRY
-I blame you not,
-For hearing this I must perforce compound
-With mistful eyes, or they will issue too.
-Alarum
-But hark, what new alarum is this same?
-The French have reinforced their scattered men.
-Then every soldier kill his prisoners.
-[The soldiers kill their prisoners]
-Give the word through.
-⌈PISTOL⌉ Coup’ la gorge.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Alarum. Enter King Harry and his train, with prisoners |
+| KING HARRY | Well have we done, thrice-valiant countrymen.<br>But all’s not done; yet keep the French the field.<br>[Enter the Duke of Exeter] |
+| EXETER | The Duke of York commends him to your majesty. |
+| KING HARRY | Lives he, good uncle? Thrice within this hour<br>I saw him down, thrice up again and fighting.<br>From helmet to the spur, all blood he was. |
+| EXETER | In which array, brave soldier, doth he lie,<br>Larding the plain. And by his bloody side,<br>Yokefellow to his honour-owing wounds,<br>The noble Earl of Suffolk also lies.<br>Suffolk first died, and York, all haggled over,<br>Comes to him, where in gore he lay insteeped,<br>And takes him by the beard, kisses the gashes<br>That bloodily did yawn upon his face,<br>And cries aloud, ‘Tarry, dear cousin Suffolk.<br>My soul shall thine keep company to heaven.<br>Tarry, sweet soul, for mine, then fly abreast,<br>As in this glorious and well-foughten field<br>We kept together in our chivalry.’<br>Upon these words I came and cheered him up.<br>He smiled me in the face, raught me his hand,<br>And with a feeble grip says, ‘Dear my lord,<br>Commend my service to my sovereign.’<br>So did he turn, and over Suffolk’s neck<br>He threw his wounded arm, and kissed his lips,<br>And so espoused to death, with blood he sealed<br>A testament of noble-ending love.<br>The pretty and sweet manner of it forced<br>Those waters from me which I would have stopped.<br>But I had not so much of man in me,<br>And all my mother came into mine eyes<br>And gave me up to tears. |
+| KING HARRY | I blame you not,<br>For hearing this I must perforce compound<br>With mistful eyes, or they will issue too. |
+| *(didascalia)* | Alarum |
+| KING HARRY | But hark, what new alarum is this same?<br>The French have reinforced their scattered men.<br>Then every soldier kill his prisoners.<br>[The soldiers kill their prisoners]<br>Give the word through. |
+| *(didascalia)* | PISTOL Coup’ la gorge. |
+| *(didascalia)* | Exeunt |

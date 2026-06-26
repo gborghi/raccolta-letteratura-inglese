@@ -14,30 +14,16 @@ tags:
 </nav>
 
 
-Enter Charles the Dauphin, the Bastard of Orléans, ⌈the Duke of Alençon, René Duke of Anjou, and French soldier⌉
-CHARLES
-Saint Denis bless this happy stratagem,
-And once again we’ll sleep secure in Rouen.
-BASTARD
-Here entered Pucelle and her practisants.
-Now she is there, how will she specify
-‘Here is the best and safest passage in’?
-RENE
-By thrusting out a torch from yonder tower—
-Which, once discerned, shows that her meaning is:
-No way to that, for weakness, which she entered.
-Enter Joan la Pucelle on the top, thrusting out a torch burning
-JOAN
-Behold, this is the happy wedding torch
-That joineth Rouen unto her countrymen,
-But burning fatal to the Talbonites.
-BASTARD
-See, noble Charles, the beacon of our friend.
-The burning torch in yonder turret stands.
-CHARLES
-Now shine it like a comet of revenge,
-A prophet to the fall of all our foes!
-RENE
-Defer no time; delays have dangerous ends.
-Enter and cry, ‘The Dauphin!’, presently,
-And then do execution on the watch. Alarum. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Charles the Dauphin, the Bastard of Orléans, the Duke of Alençon, René Duke of Anjou, and French soldier |
+| CHARLES | Saint Denis bless this happy stratagem,<br>And once again we’ll sleep secure in Rouen. |
+| BASTARD | Here entered Pucelle and her practisants.<br>Now she is there, how will she specify<br>‘Here is the best and safest passage in’? |
+| RENE | By thrusting out a torch from yonder tower—<br>Which, once discerned, shows that her meaning is:<br>No way to that, for weakness, which she entered. |
+| *(didascalia)* | Enter Joan la Pucelle on the top, thrusting out a torch burning |
+| JOAN | Behold, this is the happy wedding torch<br>That joineth Rouen unto her countrymen,<br>But burning fatal to the Talbonites. |
+| BASTARD | See, noble Charles, the beacon of our friend.<br>The burning torch in yonder turret stands. |
+| CHARLES | Now shine it like a comet of revenge,<br>A prophet to the fall of all our foes! |
+| RENE | Defer no time; delays have dangerous ends. |
+| *(didascalia)* | Enter and cry, ‘The Dauphin!’, presently, |
+| RENE | And then do execution on the watch. Alarum. Exeunt |

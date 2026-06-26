@@ -13,11 +13,7 @@ tags:
 </nav>
 
 
-ANOTHER LORD
-I task the earth to the like, forsworn Aumerle, And spur thee on with full as many lies As may be hollowed in thy treacherous ear From sun to sun. There is my honour’s pawn. Engage it to the trial if thou darest.
-He throws down his gage
-
-AUMERLE
-Who sets me else? By heaven, I’ll throw at all. I have a thousand spirits in one breast To answer twenty thousand such as you.
-
-ROMEO AND JULIET
+| Chi parla | Battuta |
+|---|---|
+| ANOTHER LORD | I task the earth to the like, forsworn Aumerle, And spur thee on with full as many lies As may be hollowed in thy treacherous ear From sun to sun. There is my honour’s pawn. Engage it to the trial if thou darest. He throws down his gage |
+| AUMERLE | Who sets me else? By heaven, I’ll throw at all. I have a thousand spirits in one breast To answer twenty thousand such as you. |

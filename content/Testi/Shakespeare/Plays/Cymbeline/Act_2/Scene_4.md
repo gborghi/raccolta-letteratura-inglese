@@ -14,261 +14,64 @@ tags:
 </nav>
 
 
-Enter Posthumus and Filario
-POSTHUMUS
-Fear it not, sir. I would I were so sure
-To win the King as I am bold her honour
-Will remain hers.
-FILARIO
-What means do you make to him?
-POSTHUMUS
-Not any; but abide the change of time,
-Quake in the present winter’s state, and wish
-That warmer days would come. In these seared hopes
-I barely gratify your love; they failing,
-I must die much your debtor.
-FILARIO
-Your very goodness and your company
-O‘erpays all I can do. By this, your king
-Hath heard of great Augustus. Caius Lucius
-Will do ’s commission throughly. And I think
-He’ll grant the tribute, send th’arrearages,
-Ere look upon our Romans, whose remembrance
-Is yet fresh in their grief.
-POSTHUMUS
-I do believe,
-Statist though I am none, nor like to be,
-That this will prove a war, and you shall hear
-The legions now in Gallia sooner landed
-In our not-fearing Britain than have tidings
-Of any penny tribute paid. Our countrymen
-Are men more ordered than when Julius Caesar
-Smiled at their lack of skill but found their courage
-Worthy his frowning at. Their discipline,
-Now wing-led with their courage, will make known
-To their approvers they are people such
-That mend upon the world.
-Enter Giacomo
-FILARIO
-See, Giacomo.
-POSTHUMUS (to Giacomo)
-The swiftest harts have posted you by land,
-And winds of all the corners kissed your sails
-To make your vessel nimble.
-FILARIO (to Giacomo)
-Welcome, sir.
-POSTHUMUS (to Giacomo)
-I hope the briefness of your answer made
-The speediness of your return.
-GIACOMO
-Your lady is
-One of the fair’st that I have looked upon—
-POSTHUMUS
-And therewithal the best, or let her beauty
-Look through a casement to allure false hearts,
-And be false with them.
-GIACOMO
-Here are letters for you.
-POSTHUMUS
-Their tenor good, I trust.
-GIACOMO
-’Tis very like.
-Posthumus reads the letters
-⌈FILARIO⌉
-Was Caius Lucius in the Briton court
-When you were there?
-GIACOMO
-He was expected then,
-But not approached.
-POSTHUMUS
-All is well yet.
-Sparkles this stone as it was wont, or is’t not
-Too dull for your good wearing?
-GIACOMO
-If I had lost it
-I should have lost the worth of it in gold.
-I’ll make a journey twice as far t’enjoy
-A second night of such sweet shortness which
-Was mine in Britain; for the ring is won.
-POSTHUMOUS
-The stone’s too hard to come by.
-GIACOMO
-Not a whit,
-Your lady being so easy.
-POSTHUMUS
-Make not, sir,
-Your loss your sport. I hope you know that we
-Must not continue friends.
-GIACOMO
-Good sir, we must,
-If you keep covenant. Had I not brought
-The knowledge of your mistress home I grant
-We were to question farther, but I now
-Profess myself the winner of her honour,
-Together with your ring, and not the wronger
-Of her or you, having proceeded but
-By both your wills.
-POSTHUMUS
-If you can make’t apparent
-That you have tasted her in bed, my hand
-And ring is yours. If not, the foul opinion
-You had of her pure honour gains or loses
-Your sword or mine, or masterless leaves both
-To who shall find them.
-GIACOMO
-Sir, my circumstances,
-Being so near the truth as I will make them,
-Must first induce you to believe; whose strength
-I will confirm with oath, which I doubt not
-You’ll give me leave to spare when you shall find
-You need it not.
-POSTHUMUS
-Proceed.
-GIACOMO
-First, her bedchamber—
-Where I confess I slept not, but profess
-Had that was well worth watching—it was hanged
-With tapestry of silk and silver; the story
-Proud Cleopatra when she met her Roman,
-And Cydnus swelled above the banks, or for
-The press of boats or pride: a piece of work
-So bravely done, so rich, that it did strive
-In workmanship and value; which I wondered
-Could be so rarely and exactly wrought,
-Such the true life on’t was.
-POSTHUMUS
-This is true,
-And this you might have heard of here, by me
-Or by some other.
-GIACOMO
-More particulars
-Must justify my knowledge.
-POSTHUMUS
-So they must,
-Or do your honour injury.
-GIACOMO
-The chimney
-Is south the chamber, and the chimney-piece
-Chaste Dian bathing. Never saw I figures
-So likely to report themselves; the cutter
-Was as another nature; dumb, outwent her,
-Motion and breath left out.
-POSTHUMUS
-This is a thing
-Which you might from relation likewise reap,
-Being, as it is, much spoke of.
-GIACOMO
-The roof o’th’ chamber
-With golden cherubins is fretted. Her andirons—
-I had forgot them—were two winking Cupids
-Of silver, each on one foot standing, nicely
-Depending on their brands.
-POSTHUMUS
-This is her honour!
-Let it be granted you have seen all this—and praise
-Be given to your remembrance—the description
-Of what is in her chamber nothing saves
-The wager you have laid.
-GIACOMO
-Then, if you can
-Be pale, I beg but leave to air this jewel. See!
-He shows the bracelet
-And now ’tis up again; it must be married
-To that your diamond. I’ll keep them.
-POSTHUMUS
-Jove!
-Once more let me behold it. Is it that
-Which I left with her?
-GIACOMO
-Sir, I thank her, that.
-She stripped it from her arm. I see her yet.
-Her pretty action did outsell her gift,
-And yet enriched it too. She gave it me,
-And said she prized it once.
-POSTHUMUS
-Maybe she plucked it off
-To send it me.
-GIACOMO
-She writes so to you, doth she?
-POSTHUMUS
-O, no, no, no—’tis true! Here, take this too.
-He gives Giacomo his ring
-It is a basilisk unto mine eye,
-Kills me to look on’t. Let there be no honour
-Where there is beauty, truth where semblance, love
-Where there’s another man. The vows of women
-Of no more bondage be to where they are made
-Than they are to their virtues, which is nothing!
-O, above measure false!
-PILASIO
-Have patience, sir,
-And take your ring again; ’tis not yet won.
-It may be probable she lost it, or
-Who knows if one her woman, being corrupted,
-Hath stol’n it from her?
-POSTHUMUS
-Very true,
-And so I hope he came by’t. Back my ring.
-He takes his ring again
-Render to me some corporal sign about her
-More evident than this; for this was stol’n.
-GIACOMO
-By Jupiter, I had it from her arm.
-POSTHUMUS
-Hark you, he swears, by Jupiter he swears.
-‘Tis true, nay, keep the ring, ’tis true. I am sure
-She would not lose it. Her attendants are
-All sworn and honourable. They induced to steal it?
-And by a stranger? No, he hath enjoyed her.
-The cognizance of her incontinency
-Is this. She hath bought the name of whore thus
-dearly.
-He gives Giacomo his ring
-There, take thy hire, and all the fiends of hell
-Divide themselves between you!
-FILARIO
-Sir, be patient.
-This is not strong enough to be believed
-Of one persuaded well of.
-POSTHUMUS
-Never talk on’t.
-She hath been colted by him.
-GIACOMO
-If you seek
-For further satisfying, under her breast—
-Worthy the pressing—lies a mole, right proud
-Of that most delicate lodging. By my life,
-I kissed it, and it gave me present hunger
-To feed again, though full. You do remember
-This stain upon her?
-POSTHUMUS
-Ay, and it doth confirm
-Another stain as big as hell can hold,
-Were there no more but it.
-GIACOMO
-Will you hear more?
-POSTHUMUS
-Spare your arithmetic, never count the turns.
-Once, and a million!
-GIACOMO
-I’ll be sworn.
-POSTHUMUS
-No swearing.
-If you will swear you have not done‘t, you lie,
-And I will kill thee if thou dost deny
-Thou’st made me cuckold.
-GlACOMO
-I’ll deny nothing.
-POSTHUMUS
-O that I had her here to tear her limb-meal!
-I will go there and do’t i’th’ court, before
-Her father. I’ll do something.
-Exit
-FILARIO
-Quite besides
-The government of patience! You have won.
-Let’s follow and pervert the present wrath
-He hath against himself.
-GIACOMO
-With all my heart.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Posthumus and Filario |
+| POSTHUMUS | Fear it not, sir. I would I were so sure<br>To win the King as I am bold her honour<br>Will remain hers. |
+| FILARIO | What means do you make to him? |
+| POSTHUMUS | Not any; but abide the change of time,<br>Quake in the present winter’s state, and wish<br>That warmer days would come. In these seared hopes<br>I barely gratify your love; they failing,<br>I must die much your debtor. |
+| FILARIO | Your very goodness and your company<br>O‘erpays all I can do. By this, your king<br>Hath heard of great Augustus. Caius Lucius<br>Will do ’s commission throughly. And I think<br>He’ll grant the tribute, send th’arrearages,<br>Ere look upon our Romans, whose remembrance<br>Is yet fresh in their grief. |
+| POSTHUMUS | I do believe,<br>Statist though I am none, nor like to be,<br>That this will prove a war, and you shall hear<br>The legions now in Gallia sooner landed<br>In our not-fearing Britain than have tidings<br>Of any penny tribute paid. Our countrymen<br>Are men more ordered than when Julius Caesar<br>Smiled at their lack of skill but found their courage<br>Worthy his frowning at. Their discipline,<br>Now wing-led with their courage, will make known<br>To their approvers they are people such<br>That mend upon the world. |
+| *(didascalia)* | Enter Giacomo |
+| FILARIO | See, Giacomo. |
+| POSTHUMUS | (to Giacomo)<br>The swiftest harts have posted you by land,<br>And winds of all the corners kissed your sails<br>To make your vessel nimble. |
+| FILARIO | (to Giacomo)<br>Welcome, sir. |
+| POSTHUMUS | (to Giacomo)<br>I hope the briefness of your answer made<br>The speediness of your return. |
+| GIACOMO | Your lady is<br>One of the fair’st that I have looked upon— |
+| POSTHUMUS | And therewithal the best, or let her beauty<br>Look through a casement to allure false hearts,<br>And be false with them. |
+| GIACOMO | Here are letters for you. |
+| POSTHUMUS | Their tenor good, I trust. |
+| GIACOMO | ’Tis very like.<br>Posthumus reads the letters |
+| *(didascalia)* | FILARIO |
+| GIACOMO | Was Caius Lucius in the Briton court<br>When you were there? |
+| GIACOMO | He was expected then,<br>But not approached. |
+| POSTHUMUS | All is well yet.<br>Sparkles this stone as it was wont, or is’t not<br>Too dull for your good wearing? |
+| GIACOMO | If I had lost it<br>I should have lost the worth of it in gold.<br>I’ll make a journey twice as far t’enjoy<br>A second night of such sweet shortness which<br>Was mine in Britain; for the ring is won. |
+| POSTHUMOUS | The stone’s too hard to come by. |
+| GIACOMO | Not a whit,<br>Your lady being so easy. |
+| POSTHUMUS | Make not, sir,<br>Your loss your sport. I hope you know that we<br>Must not continue friends. |
+| GIACOMO | Good sir, we must,<br>If you keep covenant. Had I not brought<br>The knowledge of your mistress home I grant<br>We were to question farther, but I now<br>Profess myself the winner of her honour,<br>Together with your ring, and not the wronger<br>Of her or you, having proceeded but<br>By both your wills. |
+| POSTHUMUS | If you can make’t apparent<br>That you have tasted her in bed, my hand<br>And ring is yours. If not, the foul opinion<br>You had of her pure honour gains or loses<br>Your sword or mine, or masterless leaves both<br>To who shall find them. |
+| GIACOMO | Sir, my circumstances,<br>Being so near the truth as I will make them,<br>Must first induce you to believe; whose strength<br>I will confirm with oath, which I doubt not<br>You’ll give me leave to spare when you shall find<br>You need it not. |
+| POSTHUMUS | Proceed. |
+| GIACOMO | First, her bedchamber—<br>Where I confess I slept not, but profess<br>Had that was well worth watching—it was hanged<br>With tapestry of silk and silver; the story<br>Proud Cleopatra when she met her Roman,<br>And Cydnus swelled above the banks, or for<br>The press of boats or pride: a piece of work<br>So bravely done, so rich, that it did strive<br>In workmanship and value; which I wondered<br>Could be so rarely and exactly wrought,<br>Such the true life on’t was. |
+| POSTHUMUS | This is true,<br>And this you might have heard of here, by me<br>Or by some other. |
+| GIACOMO | More particulars<br>Must justify my knowledge. |
+| POSTHUMUS | So they must,<br>Or do your honour injury. |
+| GIACOMO | The chimney<br>Is south the chamber, and the chimney-piece<br>Chaste Dian bathing. Never saw I figures<br>So likely to report themselves; the cutter<br>Was as another nature; dumb, outwent her,<br>Motion and breath left out. |
+| POSTHUMUS | This is a thing<br>Which you might from relation likewise reap,<br>Being, as it is, much spoke of. |
+| GIACOMO | The roof o’th’ chamber<br>With golden cherubins is fretted. Her andirons—<br>I had forgot them—were two winking Cupids<br>Of silver, each on one foot standing, nicely<br>Depending on their brands. |
+| POSTHUMUS | This is her honour!<br>Let it be granted you have seen all this—and praise<br>Be given to your remembrance—the description<br>Of what is in her chamber nothing saves<br>The wager you have laid. |
+| GIACOMO | Then, if you can<br>Be pale, I beg but leave to air this jewel. See!<br>He shows the bracelet<br>And now ’tis up again; it must be married<br>To that your diamond. I’ll keep them. |
+| POSTHUMUS | Jove!<br>Once more let me behold it. Is it that<br>Which I left with her? |
+| GIACOMO | Sir, I thank her, that.<br>She stripped it from her arm. I see her yet.<br>Her pretty action did outsell her gift,<br>And yet enriched it too. She gave it me,<br>And said she prized it once. |
+| POSTHUMUS | Maybe she plucked it off<br>To send it me. |
+| GIACOMO | She writes so to you, doth she? |
+| POSTHUMUS | O, no, no, no—’tis true! Here, take this too.<br>He gives Giacomo his ring<br>It is a basilisk unto mine eye,<br>Kills me to look on’t. Let there be no honour<br>Where there is beauty, truth where semblance, love<br>Where there’s another man. The vows of women<br>Of no more bondage be to where they are made<br>Than they are to their virtues, which is nothing!<br>O, above measure false! |
+| PILASIO | Have patience, sir,<br>And take your ring again; ’tis not yet won.<br>It may be probable she lost it, or<br>Who knows if one her woman, being corrupted,<br>Hath stol’n it from her? |
+| POSTHUMUS | Very true,<br>And so I hope he came by’t. Back my ring.<br>He takes his ring again<br>Render to me some corporal sign about her<br>More evident than this; for this was stol’n. |
+| GIACOMO | By Jupiter, I had it from her arm. |
+| POSTHUMUS | Hark you, he swears, by Jupiter he swears.<br>‘Tis true, nay, keep the ring, ’tis true. I am sure<br>She would not lose it. Her attendants are<br>All sworn and honourable. They induced to steal it?<br>And by a stranger? No, he hath enjoyed her.<br>The cognizance of her incontinency<br>Is this. She hath bought the name of whore thus<br>dearly.<br>He gives Giacomo his ring<br>There, take thy hire, and all the fiends of hell<br>Divide themselves between you! |
+| FILARIO | Sir, be patient.<br>This is not strong enough to be believed<br>Of one persuaded well of. |
+| POSTHUMUS | Never talk on’t.<br>She hath been colted by him. |
+| GIACOMO | If you seek<br>For further satisfying, under her breast—<br>Worthy the pressing—lies a mole, right proud<br>Of that most delicate lodging. By my life,<br>I kissed it, and it gave me present hunger<br>To feed again, though full. You do remember<br>This stain upon her? |
+| POSTHUMUS | Ay, and it doth confirm<br>Another stain as big as hell can hold,<br>Were there no more but it. |
+| GIACOMO | Will you hear more? |
+| POSTHUMUS | Spare your arithmetic, never count the turns.<br>Once, and a million! |
+| GIACOMO | I’ll be sworn. |
+| POSTHUMUS | No swearing.<br>If you will swear you have not done‘t, you lie,<br>And I will kill thee if thou dost deny<br>Thou’st made me cuckold.<br>GlACOMO<br>I’ll deny nothing. |
+| POSTHUMUS | O that I had her here to tear her limb-meal!<br>I will go there and do’t i’th’ court, before<br>Her father. I’ll do something. |
+| *(didascalia)* | Exit |
+| FILARIO | Quite besides<br>The government of patience! You have won.<br>Let’s follow and pervert the present wrath<br>He hath against himself. |
+| GIACOMO | With all my heart. |
+| *(didascalia)* | Exeunt |

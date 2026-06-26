@@ -13,8 +13,6 @@ tags:
 </nav>
 
 
-YORK
-Yet looks he like a king. Behold, his eye,
-As bright as is the eagle’s, lightens forth
-Controlling majesty. Alack, alack for woe
-That any harm should stain so fair a show!
+| Chi parla | Battuta |
+|---|---|
+| YORK | Yet looks he like a king. Behold, his eye, As bright as is the eagle’s, lightens forth Controlling majesty. Alack, alack for woe That any harm should stain so fair a show! |

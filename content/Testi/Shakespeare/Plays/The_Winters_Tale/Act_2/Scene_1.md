@@ -14,286 +14,58 @@ tags:
 </nav>
 
 
-Enter Hermione, Mamillius, and Ladies
-HERMIONE
-Take the boy to you. He so troubles me
-’Tis past enduring.
-FIRST LADY
-Come, my gracious lord,
-Shall I be your play-fellow?
-MAMILLIUS No, I’ll none of you.
-FIRST LADY Why, my sweet lord?
-MAMILLIUS
-You’ll kiss me hard, and speak to me as if
-I were a baby still. (To Second Lady) I love you better.
-SECOND LADY
-And why so, my lord?
-MAMILLIUS
-Not for because
-Your brows are blacker—yet black brows they say
-Become some women best, so that there be not
-Too much hair there, but in a semicircle,
-Or a half-moon made with a pen.
-SECOND LADY
-Who taught ’this?
-MAMILLIUS
-I learned it out of women’s faces. Pray now,
-What colour are your eyebrows?
-FIRST LADY
-Blue, my lord.
-MAMILLIUS
-Nay, that’s a mock. I have seen a lady’s nose
-That has been blue, but not her eyebrows.
-FIRST LADY
-Hark ye, The Queen your mother rounds apace. We shall
-Present our services to a fine new prince
-One of these days, and then you’d wanton with us,
-If we would have you.
-SECOND LADY
-She is spread of late
-Into a goodly bulk, good time encounter her.
-HERMIONE
-What wisdom stirs amongst you? Come sir, now
-I am for you again. Pray you sit by us,
-And tell’s a tale.
-MAMILLIUS Merry or sad shall’t be?
-HERMIONE As merry as you will.
-MAMILLIUS
-A sad tale’s best for winter. I have one
-Of sprites and goblins.
-HERMIONE
-Let’s have that, good sir. Come on, sit down, come on, and do your best
-To fright me with your sprites. You’re powerful at it.
-MAMILLIUS
-There was a man—
-HERMIONE
-Nay, come sit down, then on.
-MAMILLIUS (sitting)
-Dwelt by a churchyard.—I will tell it softly,
-Yon crickets shall not hear it.
-HERMIONE
-Come on then, and give’t me in mine ear.
-Enter apart Leontes, Antigonus, and Lords
-LEONTES
-Was he met there? His train? Camillo with him?
-A LORD
-Behind the tuft of pines I met them. Never
-Saw I men scour so on their way. I eyed them
-Even to their ships.
-LEONTES
-How blest am I
-In my just censure, in my true opinion!
-Alack, for lesser knowledge—how accursed
-In being so blest! There may be in the cup
-A spider steeped, and one may drink, depart,
-And yet partake no venom, for his knowledge
-Is not infected; but if one present
-Th’abhorred ingredient to his eye, make known
-How he hath drunk, he cracks his gorge, his sides,
-With violent hefts. I have drunk, and seen the spider.
-Camillo was his help in this, his pander.
-There is a plot against my life, my crown.
-All’s true that is mistrusted. That false villain
-Whom I employed was pre-employed by him.
-He has discovered my design, and I
-Remain a pinched thing, yea, a very trick
-For them to play at will. How came the posterns
-So easily open?
-A LORD
-By his great authority,
-Which often hath no less prevailed than so
-On your command.
-LEONTES I know’t too well.
-(To Hermione) Give me the boy. I am glad you did not
-nurse him.
-Though he does bear some signs of me, yet you
-Have too much blood in him.
-HERMIONE
-What is this? Sport?
-LEONTES (to a Lord)
-Bear the boy hence. He shall not come about her.
-Away with him, and let her sport herself
-With that she’s big with, (to Hermione) for ’tis
-Polixenes
-Has made thee swell thus. Exit one with Mamillius
-HERMIONE
-But I’d say he had not, And I’ll be sworn you would believe my saying,
-Howe’er you lean to th’ nayward.
-LEONTES
-You, my lords,
-Look on her, mark her well. Be but about
-To say she is a goodly lady, and
-The justice of your hearts will thereto add
-“Tis pity she’s not honest, honourable.’
-Praise her but for this her without-door form—
-Which on my faith deserves high speech—and
-straight
-The shrug, the ‘hum’ or ‘ha’, these petty brands
-That calumny doth use—O, I am out,
-That mercy does, for calumny will sear
-Virtue itself—these shrugs, these ‘hum’s’ and ‘ha’s’,
-When you have said she’s goodly, come between
-Ere you can say she’s honest. But be’t known
-From him that has most cause to grieve it should be,
-She’s an adultress.
-HERMIONE
-Should a villain say so,
-The most replenished villain in the world,
-He were as much more villain. You, my lord,
-Do but mistake.
-LEONTES
-You have mistook, my lady—
-Polixenes for Leontes. O, thou thing,
-Which I’ll not call a creature of thy place
-Lest barbarism, making me the precedent,
-Should a like language use to all degrees,
-And mannerly distinguishment leave out
-Betwixt the prince and beggar. I have said
-She’s an adultress, I have said with whom.
-More, she’s a traitor, and Camillo is
-A federary with her, and one that knows
-What she should shame to know herself,
-But with her most vile principal: that she’s
-A bed-swerver, even as bad as those
-That vulgars give bold’st titles; ay, and privy
-To this their late escape.
-HERMIONE
-No, by my life,
-Privy to none of this. How will this grieve you
-When you shall come to clearer knowledge, that
-You thus have published me? Gentle my lord,
-You scarce can right me throughly then to say
-You did mistake.
-LEONTES
-No. If I mistake
-In those foundations which I build upon,
-The centre is not big enough to bear
-A schoolboy’s top.—Away with her to prison!
-He who shall speak for her is afar-off guilty,
-But that he speaks.
-HERMIONE
-There’s some ill planet reigns.
-I must be patient till the heavens look
-With an aspect more favourable. Good my lords,
-I am not prone to weeping, as our sex no
-Commonly are; the want of which vain dew
-Perchance shall dry your pities. But I have
-That honourable grief lodged here which burns
-Worse than tears drown. Beseech you all, my lords,
-With thoughts so qualified as your charities
-Shall best instruct you, measure me; and so
-The King’s will be performed.
-LEONTES
-Shall I be heard?
-HERMIONE
-Who is’t that goes with me? Beseech your highness
-My women may be with me, for you see
-My plight requires it.—Do not weep, good fools,
-There is no cause. When you shall know your
-mistress
-Has deserved prison, then abound in tears
-As I come out. This action I now go on
-Is for my better grace.—Adieu, my lord.
-I never wished to see you sorry; now
-I trust I shall. My women, come, you have leave.
-LEONTES Go, do our bidding. Hence!
-Exit Hermione, guarded, with Ladies
-A LORD
-Beseech your highness, call the Queen again.
-ANTIGONUS (to Leontes)
-Be certain what you do, sir, lest your justice
-Prove violence, in the which three great ones suffer—
-Yourself, your queen, your son.
-A LORD (to Leontes)
-For her, my lord,
-I dare my life lay down, and will do‘t, sir,
-Please you t’accept it, that the Queen is spotless
-I’th’ eyes of heaven and to you—I mean
-In this which you accuse her.
-ANTIGONUS (to Leontes)
-If it prove
-She’s otherwise, I’ll keep my stables where
-I lodge my wife, I’ll go in couples with her;
-Than when I feel and see her, no farther trust her.
-For every inch of woman in the world,
-Ay, every dram of woman’s flesh is false
-If she be.
-LEONTES
-Hold your peaces.
-A LORD
-Good my lord—
-ANTIGONUS (to Leontes)
-It is for you we speak, not for ourselves.
-You are abused, and by some putter-on
-That will be damned for’t. Would I knew the villain—
-I would land-damn him. Be she honour-flawed—
-I have three daughters: the eldest is eleven;
-The second and the third nine and some five;
-If this prove true, they’ll pay for’t. By mine honour,
-I’ll geld ’em all. Fourteen they shall not see,
-To bring false generations. They are co-heirs,
-And I had rather glib myself than they
-Should not produce fair issue.
-LEONTES
-Cease, no more!
-You smell this business with a sense as cold
-As is a dead man’s nose. But I do see’t and feel’t
-As you feel doing thus; and see withal
-The instruments that feel.
-ANTIGONUS
-If it be so,
-We need no grave to bury honesty;
-There’s not a grain of it the face to sweeten
-Of the whole dungy earth.
-LEONTES
-What? Lack I credit?
-A LORD
-I had rather you did lack than I, my lord,
-Upon this ground; and more it would content me
-To have her honour true than your suspicion,
-Be blamed for’t how you might.
-LEONTES Why, what need we
-Commune with you of this, but rather follow
-Our forceful instigation? Our prerogative
-Calls not your counsels, but our natural goodness
-Imparts this; which, if you—or stupefied
-Or seeming so in skill—cannot or will not
-Relish a truth like us, inform yourselves
-We need no more of your advice. The matter,
-The loss, the gain, the ord‘ring on’t, is all
-Properly ours.
-ANTIGONUS
-And I wish, my liege,
-You had only in your silent judgement tried it
-Without more overture.
-LEONTES
-How could that be?
-Either thou art most ignorant by age
-Or thou wert born a fool. Camillo’s flight
-Added to their familiarity,
-Which was as gross as ever touched conjecture
-That lacked sight only, naught for approbation
-But only seeing, all other circumstances
-Made up to th’ deed—doth push on this proceeding.
-Yet for a greater confirmation—
-For in an act of this importance ’twere
-Most piteous to be wild—I have dispatched in post
-To sacred Delphos, to Apollo’s temple,
-Cleomenes and Dion, whom you know
-Of stuffed sufficiency. Now from the oracle
-They will bring all, whose spiritual counsel had
-Shall stop or spur me. Have I done well?
-A LORD Well done, my lord.
-LEONTES
-Though I am satisfied, and need no more
-Than what I know, yet shall the oracle
-Give rest to th’ minds of others such as he,
-Whose ignorant credulity will not
-Come up to th’ truth. So have we thought it good
-From our free person she should be confined,
-Lest that the treachery of the two fled hence
-Be left her to perform. Come, follow us.
-We are to speak in public; for this business
-Will raise us all.
-ANTIGONUS (aside) To laughter, as I take it,
-If the good truth were known. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Hermione, Mamillius, and Ladies |
+| HERMIONE | Take the boy to you. He so troubles me<br>’Tis past enduring. |
+| FIRST LADY | Come, my gracious lord,<br>Shall I be your play-fellow? |
+| MAMILLIUS | No, I’ll none of you. |
+| FIRST LADY | Why, my sweet lord? |
+| MAMILLIUS | You’ll kiss me hard, and speak to me as if<br>I were a baby still. (To Second Lady) I love you better. |
+| SECOND LADY | And why so, my lord? |
+| MAMILLIUS | Not for because<br>Your brows are blacker—yet black brows they say<br>Become some women best, so that there be not<br>Too much hair there, but in a semicircle,<br>Or a half-moon made with a pen. |
+| SECOND LADY | Who taught ’this? |
+| MAMILLIUS | I learned it out of women’s faces. Pray now,<br>What colour are your eyebrows? |
+| FIRST LADY | Blue, my lord. |
+| MAMILLIUS | Nay, that’s a mock. I have seen a lady’s nose<br>That has been blue, but not her eyebrows. |
+| FIRST LADY | Hark ye, The Queen your mother rounds apace. We shall<br>Present our services to a fine new prince<br>One of these days, and then you’d wanton with us,<br>If we would have you. |
+| SECOND LADY | She is spread of late<br>Into a goodly bulk, good time encounter her. |
+| HERMIONE | What wisdom stirs amongst you? Come sir, now<br>I am for you again. Pray you sit by us,<br>And tell’s a tale. |
+| MAMILLIUS | Merry or sad shall’t be? |
+| HERMIONE | As merry as you will. |
+| MAMILLIUS | A sad tale’s best for winter. I have one<br>Of sprites and goblins. |
+| HERMIONE | Let’s have that, good sir. Come on, sit down, come on, and do your best<br>To fright me with your sprites. You’re powerful at it. |
+| MAMILLIUS | There was a man— |
+| HERMIONE | Nay, come sit down, then on. |
+| MAMILLIUS | (sitting)<br>Dwelt by a churchyard.—I will tell it softly,<br>Yon crickets shall not hear it. |
+| HERMIONE | Come on then, and give’t me in mine ear. |
+| *(didascalia)* | Enter apart Leontes, Antigonus, and Lords |
+| LEONTES | Was he met there? His train? Camillo with him?<br>A LORD<br>Behind the tuft of pines I met them. Never<br>Saw I men scour so on their way. I eyed them<br>Even to their ships. |
+| LEONTES | How blest am I<br>In my just censure, in my true opinion!<br>Alack, for lesser knowledge—how accursed<br>In being so blest! There may be in the cup<br>A spider steeped, and one may drink, depart,<br>And yet partake no venom, for his knowledge<br>Is not infected; but if one present<br>Th’abhorred ingredient to his eye, make known<br>How he hath drunk, he cracks his gorge, his sides,<br>With violent hefts. I have drunk, and seen the spider.<br>Camillo was his help in this, his pander.<br>There is a plot against my life, my crown.<br>All’s true that is mistrusted. That false villain<br>Whom I employed was pre-employed by him.<br>He has discovered my design, and I<br>Remain a pinched thing, yea, a very trick<br>For them to play at will. How came the posterns<br>So easily open?<br>A LORD<br>By his great authority,<br>Which often hath no less prevailed than so<br>On your command. |
+| LEONTES | I know’t too well.<br>(To Hermione) Give me the boy. I am glad you did not<br>nurse him.<br>Though he does bear some signs of me, yet you<br>Have too much blood in him. |
+| HERMIONE | What is this? Sport? |
+| LEONTES | (to a Lord)<br>Bear the boy hence. He shall not come about her.<br>Away with him, and let her sport herself<br>With that she’s big with, (to Hermione) for ’tis<br>Polixenes<br>Has made thee swell thus. Exit one with Mamillius |
+| HERMIONE | But I’d say he had not, And I’ll be sworn you would believe my saying,<br>Howe’er you lean to th’ nayward. |
+| LEONTES | You, my lords,<br>Look on her, mark her well. Be but about<br>To say she is a goodly lady, and<br>The justice of your hearts will thereto add<br>“Tis pity she’s not honest, honourable.’<br>Praise her but for this her without-door form—<br>Which on my faith deserves high speech—and<br>straight<br>The shrug, the ‘hum’ or ‘ha’, these petty brands<br>That calumny doth use—O, I am out,<br>That mercy does, for calumny will sear<br>Virtue itself—these shrugs, these ‘hum’s’ and ‘ha’s’,<br>When you have said she’s goodly, come between<br>Ere you can say she’s honest. But be’t known<br>From him that has most cause to grieve it should be,<br>She’s an adultress. |
+| HERMIONE | Should a villain say so,<br>The most replenished villain in the world,<br>He were as much more villain. You, my lord,<br>Do but mistake. |
+| LEONTES | You have mistook, my lady—<br>Polixenes for Leontes. O, thou thing,<br>Which I’ll not call a creature of thy place<br>Lest barbarism, making me the precedent,<br>Should a like language use to all degrees,<br>And mannerly distinguishment leave out<br>Betwixt the prince and beggar. I have said<br>She’s an adultress, I have said with whom.<br>More, she’s a traitor, and Camillo is<br>A federary with her, and one that knows<br>What she should shame to know herself,<br>But with her most vile principal: that she’s<br>A bed-swerver, even as bad as those<br>That vulgars give bold’st titles; ay, and privy<br>To this their late escape. |
+| HERMIONE | No, by my life,<br>Privy to none of this. How will this grieve you<br>When you shall come to clearer knowledge, that<br>You thus have published me? Gentle my lord,<br>You scarce can right me throughly then to say<br>You did mistake. |
+| LEONTES | No. If I mistake<br>In those foundations which I build upon,<br>The centre is not big enough to bear<br>A schoolboy’s top.—Away with her to prison!<br>He who shall speak for her is afar-off guilty,<br>But that he speaks. |
+| HERMIONE | There’s some ill planet reigns.<br>I must be patient till the heavens look<br>With an aspect more favourable. Good my lords,<br>I am not prone to weeping, as our sex no<br>Commonly are; the want of which vain dew<br>Perchance shall dry your pities. But I have<br>That honourable grief lodged here which burns<br>Worse than tears drown. Beseech you all, my lords,<br>With thoughts so qualified as your charities<br>Shall best instruct you, measure me; and so<br>The King’s will be performed. |
+| LEONTES | Shall I be heard? |
+| HERMIONE | Who is’t that goes with me? Beseech your highness<br>My women may be with me, for you see<br>My plight requires it.—Do not weep, good fools,<br>There is no cause. When you shall know your<br>mistress<br>Has deserved prison, then abound in tears<br>As I come out. This action I now go on<br>Is for my better grace.—Adieu, my lord.<br>I never wished to see you sorry; now<br>I trust I shall. My women, come, you have leave. |
+| LEONTES | Go, do our bidding. Hence! |
+| *(didascalia)* | Exit Hermione, guarded, with Ladies |
+| LEONTES | A LORD<br>Beseech your highness, call the Queen again. |
+| ANTIGONUS | (to Leontes)<br>Be certain what you do, sir, lest your justice<br>Prove violence, in the which three great ones suffer—<br>Yourself, your queen, your son.<br>A LORD (to Leontes)<br>For her, my lord,<br>I dare my life lay down, and will do‘t, sir,<br>Please you t’accept it, that the Queen is spotless<br>I’th’ eyes of heaven and to you—I mean<br>In this which you accuse her. |
+| ANTIGONUS | (to Leontes)<br>If it prove<br>She’s otherwise, I’ll keep my stables where<br>I lodge my wife, I’ll go in couples with her;<br>Than when I feel and see her, no farther trust her.<br>For every inch of woman in the world,<br>Ay, every dram of woman’s flesh is false<br>If she be. |
+| LEONTES | Hold your peaces.<br>A LORD<br>Good my lord— |
+| ANTIGONUS | (to Leontes)<br>It is for you we speak, not for ourselves.<br>You are abused, and by some putter-on<br>That will be damned for’t. Would I knew the villain—<br>I would land-damn him. Be she honour-flawed—<br>I have three daughters: the eldest is eleven;<br>The second and the third nine and some five;<br>If this prove true, they’ll pay for’t. By mine honour,<br>I’ll geld ’em all. Fourteen they shall not see,<br>To bring false generations. They are co-heirs,<br>And I had rather glib myself than they<br>Should not produce fair issue. |
+| LEONTES | Cease, no more!<br>You smell this business with a sense as cold<br>As is a dead man’s nose. But I do see’t and feel’t<br>As you feel doing thus; and see withal<br>The instruments that feel. |
+| ANTIGONUS | If it be so,<br>We need no grave to bury honesty;<br>There’s not a grain of it the face to sweeten<br>Of the whole dungy earth. |
+| LEONTES | What? Lack I credit?<br>A LORD<br>I had rather you did lack than I, my lord,<br>Upon this ground; and more it would content me<br>To have her honour true than your suspicion,<br>Be blamed for’t how you might. |
+| LEONTES | Why, what need we<br>Commune with you of this, but rather follow<br>Our forceful instigation? Our prerogative<br>Calls not your counsels, but our natural goodness<br>Imparts this; which, if you—or stupefied<br>Or seeming so in skill—cannot or will not<br>Relish a truth like us, inform yourselves<br>We need no more of your advice. The matter,<br>The loss, the gain, the ord‘ring on’t, is all<br>Properly ours. |
+| ANTIGONUS | And I wish, my liege,<br>You had only in your silent judgement tried it<br>Without more overture. |
+| LEONTES | How could that be?<br>Either thou art most ignorant by age<br>Or thou wert born a fool. Camillo’s flight<br>Added to their familiarity,<br>Which was as gross as ever touched conjecture<br>That lacked sight only, naught for approbation<br>But only seeing, all other circumstances<br>Made up to th’ deed—doth push on this proceeding.<br>Yet for a greater confirmation—<br>For in an act of this importance ’twere<br>Most piteous to be wild—I have dispatched in post<br>To sacred Delphos, to Apollo’s temple,<br>Cleomenes and Dion, whom you know<br>Of stuffed sufficiency. Now from the oracle<br>They will bring all, whose spiritual counsel had<br>Shall stop or spur me. Have I done well?<br>A LORD Well done, my lord. |
+| LEONTES | Though I am satisfied, and need no more<br>Than what I know, yet shall the oracle<br>Give rest to th’ minds of others such as he,<br>Whose ignorant credulity will not<br>Come up to th’ truth. So have we thought it good<br>From our free person she should be confined,<br>Lest that the treachery of the two fled hence<br>Be left her to perform. Come, follow us.<br>We are to speak in public; for this business<br>Will raise us all. |
+| ANTIGONUS | (aside) To laughter, as I take it,<br>If the good truth were known. Exeunt |

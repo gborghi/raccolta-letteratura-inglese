@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-ALL THE PLEBEIANS Stand back! Room! Bear back!
+| Chi parla | Battuta |
+|---|---|
+| ALL THE PLEBEIANS | Stand back! Room! Bear back! |

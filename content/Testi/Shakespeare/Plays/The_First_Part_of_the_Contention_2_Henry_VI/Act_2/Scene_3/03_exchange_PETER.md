@@ -13,13 +13,7 @@ tags:
 </nav>
 
 
-PETER [kneeling] O God, have I overcome mine enemy in this presence? O, Peter, thou hast prevailed in right.
-
-KING HENRY (to attendants, pointing to Horner)
-Go, take hence that traitor from our sight,
-For by his death we do perceive his guilt.
-And God in justice hath revealed to us
-The truth and innocence of this poor fellow,
-Which he had thought to have murdered wrongfully.
-(To Peter) Come, fellow, follow us for thy reward.
-Sound a flourish. Exeunt, some carrying Horner’s body
+| Chi parla | Battuta |
+|---|---|
+| PETER | [kneeling] O God, have I overcome mine enemy in this presence? O, Peter, thou hast prevailed in right. |
+| KING HENRY | (to attendants, pointing to Horner) Go, take hence that traitor from our sight, For by his death we do perceive his guilt. And God in justice hath revealed to us The truth and innocence of this poor fellow, Which he had thought to have murdered wrongfully. (To Peter) Come, fellow, follow us for thy reward. Sound a flourish. Exeunt, some carrying Horner’s body |

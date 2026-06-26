@@ -13,12 +13,6 @@ tags:
 </nav>
 
 
-CLARENCE
-Methought I had, and often did I strive
-To yield the ghost, but still the envious flood
-Stopped-in my soul and would not let it forth
-To find the empty, vast, and wand’ring air,
-But smothered it within my panting bulk,
-Who almost burst to belch it in the sea.
-⌈BRACKENBURY⌉
-Awaked you not in this sore agony?
+| Chi parla | Battuta |
+|---|---|
+| CLARENCE | Methought I had, and often did I strive To yield the ghost, but still the envious flood Stopped-in my soul and would not let it forth To find the empty, vast, and wand’ring air, But smothered it within my panting bulk, Who almost burst to belch it in the sea. BRACKENBURY Awaked you not in this sore agony? |

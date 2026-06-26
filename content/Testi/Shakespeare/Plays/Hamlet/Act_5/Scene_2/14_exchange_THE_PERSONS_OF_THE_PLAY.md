@@ -13,30 +13,15 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-ORSINO, Duke of Illyria
-
-FIRST OFFICER
-
-SECOND OFFICER
-
-VIOLA, a lady, later disguised as Cesario
-
-A CAPTAIN
-SEBASTIAN, her twin brother
-ANTONIO, another sea-captain
-OLIVIA, a Countess
-MARIA, her waiting-gentlewoman
-
-SIR TOBY Belch, Olivia’s kinsman
-
-SIR ANDREW Aguecheek, companion of Sir Toby
-MALVOLIO, Olivia’s steward
-FABIAN, a member of Olivia’s household
-
-FESTE the Clown, her jester
-
-A PRIEST
-
-A SERVANT of Olivia
-Musicians, sailors, lords, attendants
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY ORSINO, Duke of Illyria |
+| SECOND OFFICER | VIOLA, a lady, later disguised as Cesario |
+| *(didascalia)* | A |
+| CAPTAIN | SEBASTIAN, her twin brother ANTONIO, another sea-captain OLIVIA, a Countess MARIA, her waiting-gentlewoman |
+| SIR TOBY | Belch, Olivia’s kinsman |
+| SIR ANDREW | Aguecheek, companion of Sir Toby MALVOLIO, Olivia’s steward FABIAN, a member of Olivia’s household |
+| FESTE | the Clown, her jester |
+| *(didascalia)* | A |
+| *(didascalia)* | A |
+| SERVANT | of Olivia Musicians, sailors, lords, attendants |

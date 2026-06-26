@@ -13,11 +13,8 @@ tags:
 </nav>
 
 
-RIVERS (to Margaret)
-Tyrants themselves wept when it was reported.
-
-DORSET (to Margaret)
-No man but prophesied revenge for it.
-
-BUCKINGHAM (to Margaret)
-Northumberland, then present, wept to see it.
+| Chi parla | Battuta |
+|---|---|
+| RIVERS | (to Margaret) Tyrants themselves wept when it was reported. |
+| DORSET | (to Margaret) No man but prophesied revenge for it. |
+| BUCKINGHAM | (to Margaret) Northumberland, then present, wept to see it. |

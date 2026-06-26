@@ -13,20 +13,10 @@ tags:
 </nav>
 
 
-MOWBRAY Be it so.
-Enter Westmorland
-Here is returned my lord of Westmorland.
-
-WESTMORLAND
-The Prince is here at hand. Pleaseth your lordship
-To meet his grace just distance ’tween our armies?
-
-MOWBRAY
-Your grace of York, in God’s name then set forward.
-
-ARCHBISHOP OF YORK
-Before, and greet his grace!—My lord, we come.
-⌈They march over the stage.⌉
-Enter Prince John ⌈with one or more soldiers
-
-carrying wind⌉
+| Chi parla | Battuta |
+|---|---|
+| MOWBRAY | Be it so. Enter Westmorland Here is returned my lord of Westmorland. |
+| WESTMORLAND | The Prince is here at hand. Pleaseth your lordship To meet his grace just distance ’tween our armies? |
+| MOWBRAY | Your grace of York, in God’s name then set forward. |
+| ARCHBISHOP OF YORK | Before, and greet his grace!—My lord, we come. They march over the stage. Enter Prince John with one or more soldiers |
+| *(didascalia)* | carrying wind |

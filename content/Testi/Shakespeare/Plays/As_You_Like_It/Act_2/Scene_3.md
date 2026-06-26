@@ -14,88 +14,16 @@ tags:
 </nav>
 
 
-Enter Orlando and Adam, meeting
-ORLANDO Who’s there?
-ADAM
-What, my young master, O my gentle master,
-O my sweet master, O you memory
-Of old Sir Rowland, why, what make you here!
-Why are you virtuous? Why do people love you?
-And wherefore are you gentle, strong, and valiant?
-Why would you be so fond to overcome
-The bonny prizer of the humorous Duke?
-Your praise is come too swiftly home before you.
-Know you not, master, to some kind of men
-Their graces serve them but as enemies?
-No more do yours. Your virtues, gentle master,
-Are sanctified and holy traitors to you.
-O, what a world is this, when what is comely
-Envenoms him that bears it!
-ORLANDO Why, what’s the matter?
-ADAM O, unhappy youth,
-Come not within these doors. Within this roof
-The enemy of all your graces lives,
-Your brother—no, no brother—yet the son—
-Yet not the son, I will not call him son—
-Of him I was about to call his father,
-Hath heard your praises, and this night he means
-To burn the lodging where you use to lie,
-And you within it. If he fail of that,
-He will have other means to cut you off.
-I overheard him and his practices.
-This is no place, this house is but a butchery.
-Abhor it, fear it, do not enter it.
-ORLANDO
-Why, whither, Adam, wouldst thou have me go?
-ADAM
-No matter whither, so you come not here.
-ORLANDO
-What, wouldst thou have me go and beg my food,
-Or with a base and boisterous sword enforce
-A thievish living on the common road?
-This I must do, or know not what to do.
-Yet this I will not do, do how I can.
-I rather will subject me to the malice
-Of a diverted blood and bloody brother.
-ADAM
-But do not so. I have five hundred crowns,
-The thrifty hire I saved under your father,
-Which I did store to be my foster-nurse
-When service should in my old limbs lie lame,
-And unregarded age in corners thrown.
-Take that, and he that doth the ravens feed,
-Yea providently caters for the sparrow,
-Be comfort to my age. Here is the gold.
-All this I give you. Let me be your servant.
-Though I look old, yet I am strong and lusty,
-For in my youth I never did apply
-Hot and rebellious liquors in my blood,
-Nor did not with unbashful forehead woo
-The means of weakness and debility.
-Therefore my age is as a lusty winter,
-Frosty but kindly. Let me go with you,
-I’ll do the service of a younger man
-In all your business and necessities.
-ORLANDO
-O good old man, how well in thee appears
-The constant service of the antique world,
-When service sweat for duty, not for meed!
-Thou art not for the fashion of these times,
-Where none will sweat but for promotion,
-And having that do choke their service up
-Even with the having. It is not so with thee.
-But, poor old man, thou prun’st a rotten tree,
-That cannot so much as a blossom yield
-In lieu of all thy pains and husbandry.
-But come thy ways. We’ll go along together,
-And ere we have thy youthful wages spent,
-We’ll light upon some settled low content.
-ADAM
-Master, go on, and I will follow thee
-To the last gasp with truth and loyalty.
-From seventeen years till now almost fourscore
-Here livèd I, but now live here no more.
-At seventeen years, many their fortunes seek,
-But at fourscore, it is too late a week.
-Yet fortune cannot recompense me better
-Than to die well, and not my master’s debtor. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Orlando and Adam, meeting |
+| ORLANDO | Who’s there? |
+| ADAM | What, my young master, O my gentle master,<br>O my sweet master, O you memory<br>Of old Sir Rowland, why, what make you here!<br>Why are you virtuous? Why do people love you?<br>And wherefore are you gentle, strong, and valiant?<br>Why would you be so fond to overcome<br>The bonny prizer of the humorous Duke?<br>Your praise is come too swiftly home before you.<br>Know you not, master, to some kind of men<br>Their graces serve them but as enemies?<br>No more do yours. Your virtues, gentle master,<br>Are sanctified and holy traitors to you.<br>O, what a world is this, when what is comely<br>Envenoms him that bears it! |
+| ORLANDO | Why, what’s the matter? |
+| ADAM | O, unhappy youth,<br>Come not within these doors. Within this roof<br>The enemy of all your graces lives,<br>Your brother—no, no brother—yet the son—<br>Yet not the son, I will not call him son—<br>Of him I was about to call his father,<br>Hath heard your praises, and this night he means<br>To burn the lodging where you use to lie,<br>And you within it. If he fail of that,<br>He will have other means to cut you off.<br>I overheard him and his practices.<br>This is no place, this house is but a butchery.<br>Abhor it, fear it, do not enter it. |
+| ORLANDO | Why, whither, Adam, wouldst thou have me go? |
+| ADAM | No matter whither, so you come not here. |
+| ORLANDO | What, wouldst thou have me go and beg my food,<br>Or with a base and boisterous sword enforce<br>A thievish living on the common road?<br>This I must do, or know not what to do.<br>Yet this I will not do, do how I can.<br>I rather will subject me to the malice<br>Of a diverted blood and bloody brother. |
+| ADAM | But do not so. I have five hundred crowns,<br>The thrifty hire I saved under your father,<br>Which I did store to be my foster-nurse<br>When service should in my old limbs lie lame,<br>And unregarded age in corners thrown.<br>Take that, and he that doth the ravens feed,<br>Yea providently caters for the sparrow,<br>Be comfort to my age. Here is the gold.<br>All this I give you. Let me be your servant.<br>Though I look old, yet I am strong and lusty,<br>For in my youth I never did apply<br>Hot and rebellious liquors in my blood,<br>Nor did not with unbashful forehead woo<br>The means of weakness and debility.<br>Therefore my age is as a lusty winter,<br>Frosty but kindly. Let me go with you,<br>I’ll do the service of a younger man<br>In all your business and necessities. |
+| ORLANDO | O good old man, how well in thee appears<br>The constant service of the antique world,<br>When service sweat for duty, not for meed!<br>Thou art not for the fashion of these times,<br>Where none will sweat but for promotion,<br>And having that do choke their service up<br>Even with the having. It is not so with thee.<br>But, poor old man, thou prun’st a rotten tree,<br>That cannot so much as a blossom yield<br>In lieu of all thy pains and husbandry.<br>But come thy ways. We’ll go along together,<br>And ere we have thy youthful wages spent,<br>We’ll light upon some settled low content. |
+| ADAM | Master, go on, and I will follow thee<br>To the last gasp with truth and loyalty.<br>From seventeen years till now almost fourscore<br>Here livèd I, but now live here no more.<br>At seventeen years, many their fortunes seek,<br>But at fourscore, it is too late a week.<br>Yet fortune cannot recompense me better<br>Than to die well, and not my master’s debtor. Exeunt |

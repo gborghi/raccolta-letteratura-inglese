@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-ORLANDO With all my heart, good youth.
-
-ROSALIND Nay, you must call me Rosalind.—Come, sister. Will you go?
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| ORLANDO | With all my heart, good youth. |
+| ROSALIND | Nay, you must call me Rosalind.—Come, sister. Will you go? Exeunt |

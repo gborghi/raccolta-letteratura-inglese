@@ -13,5 +13,6 @@ tags:
 </nav>
 
 
-PRINCESS We will read it, I swear.
-Break the neck of the wax, and everyone give ear.
+| Chi parla | Battuta |
+|---|---|
+| PRINCESS | We will read it, I swear. Break the neck of the wax, and everyone give ear. |

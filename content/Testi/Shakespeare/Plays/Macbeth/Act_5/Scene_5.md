@@ -14,77 +14,23 @@ tags:
 </nav>
 
 
-Enter Macbeth, Seyton, and soldiers, with a drummer and colours
-MACBETH
-Hang out our banners on the outward walls.
-The cry is still ‘They come.’ Our castle’s strength
-Will laugh a siege to scorn. Here let them lie
-Till famine and the ague eat them up.
-Were they not forced with those that should be ours
-We might have met them dareful, beard to beard,
-And beat them backward home.
-A cry within of women
-What is that noise?
-SEYTON
-It is the cry of women, my good lord.
-[Exit]
-MACBETH
-I have almost forgot the taste of fears.
-The time has been my senses would have cooled
-To hear a night-shriek, and my fell of hair
-Would at a dismal treatise rouse and stir
-As life were in’t. I have supped full with horrors.
-Direness, familiar to my slaughterous thoughts,
-Cannot once start me.
-⌈Enter Seyton⌉
-Wherefore was that cry?
-SEYTON
-The Queen, my lord, is dead.
-MACBETH
-She should have died hereafter.
-There would have been a time for such a word.
-Tomorrow, and tomorrow, and tomorrow
-Creeps in this petty pace from day to day
-To the last syllable of recorded time,
-And all our yesterdays have lighted fools
-The way to dusty death. Out, out, brief candle.
-Life’s but a walking shadow, a poor player
-That struts and frets his hour upon the stage,
-And then is heard no more. It is a tale
-Told by an idiot, full of sound and fury,
-Signifying nothing.
-Enter a Messenger
-Thou com’st to use
-Thy tongue: thy story quickly.
-MESSENGER
-Gracious my lord,
-I should report that which I say I saw,
-But know not how to do’t.
-MACBETH
-Well, say, sir.
-MESSENGER
-As I did stand my watch upon the hill
-I looked toward Birnam, and anon methought
-The wood began to move.
-MACBETH
-Liar and slave!
-MESSENGER
-Let me endure your wrath if’t be not so.
-Within this three mile may you see it coming.
-I say, a moving grove.
-MACBETH
-If thou speak’st false
-Upon the next tree shall thou hang alive
-Till famine cling thee. If thy speech be sooth,
-I care not if thou dost for me as much.
-I pall in resolution, and begin
-To doubt th‘equivocation of the fiend,
-That lies like truth. ’Fear not till Birnam Wood
-Do come to Dunsinane‘—and now a wood
-Comes toward Dunsinane. Arm, arm, and out.
-If this which he avouches does appear
-There is nor flying hence nor tarrying here.
-I ’gin to be aweary of the sun,
-And wish th‘estate o’th’ world were now undone.
-Ring the alarum bell. Alarums Blow wind, come wrack,
-At least we’ll die with harness on our back. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Macbeth, Seyton, and soldiers, with a drummer and colours |
+| MACBETH | Hang out our banners on the outward walls.<br>The cry is still ‘They come.’ Our castle’s strength<br>Will laugh a siege to scorn. Here let them lie<br>Till famine and the ague eat them up.<br>Were they not forced with those that should be ours<br>We might have met them dareful, beard to beard,<br>And beat them backward home.<br>A cry within of women<br>What is that noise? |
+| SEYTON | It is the cry of women, my good lord.<br>[Exit] |
+| MACBETH | I have almost forgot the taste of fears.<br>The time has been my senses would have cooled<br>To hear a night-shriek, and my fell of hair<br>Would at a dismal treatise rouse and stir<br>As life were in’t. I have supped full with horrors.<br>Direness, familiar to my slaughterous thoughts,<br>Cannot once start me. |
+| *(didascalia)* | Enter Seyton |
+| MACBETH | Wherefore was that cry? |
+| SEYTON | The Queen, my lord, is dead. |
+| MACBETH | She should have died hereafter.<br>There would have been a time for such a word.<br>Tomorrow, and tomorrow, and tomorrow<br>Creeps in this petty pace from day to day<br>To the last syllable of recorded time,<br>And all our yesterdays have lighted fools<br>The way to dusty death. Out, out, brief candle.<br>Life’s but a walking shadow, a poor player<br>That struts and frets his hour upon the stage,<br>And then is heard no more. It is a tale<br>Told by an idiot, full of sound and fury,<br>Signifying nothing. |
+| *(didascalia)* | Enter a Messenger |
+| MACBETH | Thou com’st to use<br>Thy tongue: thy story quickly. |
+| MESSENGER | Gracious my lord,<br>I should report that which I say I saw,<br>But know not how to do’t. |
+| MACBETH | Well, say, sir. |
+| MESSENGER | As I did stand my watch upon the hill<br>I looked toward Birnam, and anon methought<br>The wood began to move. |
+| MACBETH | Liar and slave! |
+| MESSENGER | Let me endure your wrath if’t be not so. |
+| *(didascalia)* | Within this three mile may you see it coming. |
+| MESSENGER | I say, a moving grove. |
+| MACBETH | If thou speak’st false<br>Upon the next tree shall thou hang alive<br>Till famine cling thee. If thy speech be sooth,<br>I care not if thou dost for me as much.<br>I pall in resolution, and begin<br>To doubt th‘equivocation of the fiend,<br>That lies like truth. ’Fear not till Birnam Wood<br>Do come to Dunsinane‘—and now a wood<br>Comes toward Dunsinane. Arm, arm, and out.<br>If this which he avouches does appear<br>There is nor flying hence nor tarrying here.<br>I ’gin to be aweary of the sun,<br>And wish th‘estate o’th’ world were now undone.<br>Ring the alarum bell. Alarums Blow wind, come wrack,<br>At least we’ll die with harness on our back. Exeunt |

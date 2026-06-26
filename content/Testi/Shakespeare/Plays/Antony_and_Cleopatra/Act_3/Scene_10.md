@@ -14,66 +14,24 @@ tags:
 </nav>
 
 
-Camidius marcheth with his land army over the stage, and taurus, the lieutenant of caesar, with his
-NOBARBUS
-Naught, naught, all naught! I can behold no longer.
-Th’Antoniad, the Egyptian admiral,
-With all their sixty, fly and turn the rudder.
-To see’t mine eyes are blasted.
-Enter Scarus
-SCARUS
-Gods and goddesses—
-All the whole synod of them!
-ENOBARBUS
-What’s thy passion?
-SCARUS
-The greater cantle of the world is lost
-With very ignorance; we have kissed away
-Kingdoms and provinces.
-ENOBARBUS
-How appears the fight?
-SCARUS
-On our side like the tokened pestilence,
-Where death is sure. Yon riband-red nag of Egypt—
-Whom leprosy o‘ertake!-i’th’ midst o’th’ fight—
-When vantage like a pair of twins appeared,
-Both as the same, or rather ours the elder—
-The breese upon her, like a cow in June,
-Hoists sails and flies.
-ENOBARBUS
-That I beheld.
-Mine eyes did sicken at the sight, and could not
-Endure a further view.
-SCARUS
-She once being luffed,
-The noble ruin of her magic, Antony,
-Claps on his sea-wing and, like a doting mallard,
-Leaving the fight in height, flies after her.
-I never saw an action of such shame.
-Experience, manhood, honour, ne’er before
-Did violate so itself.
-ENOBARBUS
-Alack, alack!
-Enter Camidius
-CAMIDIUS
-Our fortune on the sea is out of breath,
-And sinks most lamentably. Had our general
-Been what he knew himself, it had gone well.
-O, he has given example for our flight
-Most grossly by his own.
-ENOBARBUS
-Ay, are you thereabouts? Why then, good night indeed!
-CAMIDIUS
-Toward Peloponnesus are they fled.
-SCARUS
-’Tis easy to’t, and there I will attend
-What further comes.
-CAMIDIUS
-To Caesar will I render
-My legions and my horse. Six kings already
-Show me the way of yielding.
-ENOBARBUS
-I’ll yet follow
-The wounded chance of Antony, though my reason
-Sits in the wind against me.
-⌈Exeunt severally⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Camidius marcheth with his land army over the stage, and taurus, the lieutenant of caesar, with his |
+| NOBARBUS | Naught, naught, all naught! I can behold no longer.<br>Th’Antoniad, the Egyptian admiral,<br>With all their sixty, fly and turn the rudder.<br>To see’t mine eyes are blasted. |
+| *(didascalia)* | Enter Scarus |
+| SCARUS | Gods and goddesses—<br>All the whole synod of them! |
+| ENOBARBUS | What’s thy passion? |
+| SCARUS | The greater cantle of the world is lost<br>With very ignorance; we have kissed away<br>Kingdoms and provinces. |
+| ENOBARBUS | How appears the fight? |
+| SCARUS | On our side like the tokened pestilence,<br>Where death is sure. Yon riband-red nag of Egypt—<br>Whom leprosy o‘ertake!-i’th’ midst o’th’ fight—<br>When vantage like a pair of twins appeared,<br>Both as the same, or rather ours the elder—<br>The breese upon her, like a cow in June,<br>Hoists sails and flies. |
+| ENOBARBUS | That I beheld.<br>Mine eyes did sicken at the sight, and could not<br>Endure a further view. |
+| SCARUS | She once being luffed,<br>The noble ruin of her magic, Antony,<br>Claps on his sea-wing and, like a doting mallard,<br>Leaving the fight in height, flies after her.<br>I never saw an action of such shame.<br>Experience, manhood, honour, ne’er before<br>Did violate so itself. |
+| ENOBARBUS | Alack, alack! |
+| *(didascalia)* | Enter Camidius |
+| CAMIDIUS | Our fortune on the sea is out of breath,<br>And sinks most lamentably. Had our general<br>Been what he knew himself, it had gone well.<br>O, he has given example for our flight<br>Most grossly by his own. |
+| ENOBARBUS | Ay, are you thereabouts? Why then, good night indeed! |
+| CAMIDIUS | Toward Peloponnesus are they fled. |
+| SCARUS | ’Tis easy to’t, and there I will attend<br>What further comes. |
+| CAMIDIUS | To Caesar will I render<br>My legions and my horse. Six kings already<br>Show me the way of yielding. |
+| ENOBARBUS | I’ll yet follow<br>The wounded chance of Antony, though my reason<br>Sits in the wind against me. |
+| *(didascalia)* | Exeunt severally |

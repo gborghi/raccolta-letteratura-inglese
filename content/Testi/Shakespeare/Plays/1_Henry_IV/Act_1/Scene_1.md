@@ -14,121 +14,17 @@ tags:
 </nav>
 
 
-Enter King Henry, Lord John of Lancaster, and the Earl of Westmorland, with other ⌈lords⌉
-KING HENRY
-So shaken as we are, so wan with care,
-Find we a time for frighted peace to pant
-And breathe short-winded accents of new broils
-To be commenced in strands afar remote.
-No more the thirsty entrance of this soil
-Shall daub her lips with her own children’s blood.
-No more shall trenching war channel her fields,
-Nor bruise her flow‘rets with the armed hoofs
-Of hostile paces. Those opposed eyes,
-Which, like the meteors of a troubled heaven,
-All of one nature, of one substance bred,
-Did lately meet in the intestine shock
-And furious close of civil butchery,
-Shall now in mutual well-beseeming ranks
-March all one way, and be no more opposed
-Against acquaintance, kindred, and allies.
-The edge of war, like an ill-sheathèd knife,
-No more shall cut his master. Therefore, friends,
-As far as to the sepulchre of Christ—
-Whose soldier now, under whose blessèd cross
-We are impressèd and engaged to fight—
-Forthwith a power of English shall we levy,
-Whose arms were moulded in their mothers’ womb
-To chase these pagans in those holy fields
-Over whose acres walked those blessed feet
-Which fourteen hundred years ago were nailed,
-For our advantage, on the bitter cross.
-But this our purpose now is twelve month old,
-And bootless ’tis to tell you we will go.
-Therefor we meet not now. Then let me hear
-Of you, my gentle cousin Westmorland,
-What yesternight our Council did decree
-In forwarding this dear expedience.
-WESTMORLAND
-My liege, this haste was hot in question,
-And many limits of the charge set down
-But yesternight, when all athwart there came
-A post from Wales, loaden with heavy news,
-Whose worst was that the noble Mortimer,
-Leading the men of Herefordshire to fight
-Against the irregular and wild Glyndwr,
-Was by the rude hands of that Welshman taken,
-A thousand of his people butcherèd,
-Upon whose dead corpse’ there was such misuse,
-Such beastly shameless transformation,
-By those Welshwomen done as may not be
-Without much shame retold or spoken of.
-KING HENRY
-It seems then that the tidings of this broil
-Brake off our business for the Holy Land.
-WESTMORLAND
-This matched with other did, my gracious lord,
-For more uneven and unwelcome news
-Came from the north, and thus it did import:
-On Holy-rood day the gallant Hotspur there—
-Young Harry Percy—and brave Archibald,
-That ever valiant and approvèd Scot,
-At Holmedon met,
-Where they did spend a sad and bloody hour,
-As by discharge of their artillery
-And shape of likelihood the news was told;
-For he that brought them in the very heat
-And pride of their contention did take horse,
-Uncertain of the issue any way.
-KING HENRY
-Here is a dear, a true industrious friend,
-Sir Walter Blunt, new lighted from his horse,
-Stained with the variation of each soil
-Betwixt that Holmedon and this seat of ours;
-And he hath brought us smooth and welcome news.
-The Earl of Douglas is discomfited.
-Ten thousand bold Scots, two-and-twenty knights,
-Balked in their own blood did Sir Walter see
-On Holmedon’s plains. Of prisoners Hotspur took
-Mordake the Earl of Fife and eldest son
-To beaten Douglas, and the Earl of Athol,
-Of Moray, Angus, and Menteith;
-And is not this an honourable spoil,
-A gallant prize? Ha, cousin, is it not?
-WESTMORLAND
-In faith, it is a conquest for a prince to boast of.
-KING HENRY
-Yea, there thou mak‘st me sad, and mak’st me sin
-In envy that my lord Northumberland
-Should be the father to so blest a son—
-A son who is the theme of honour’s tongue,
-Amongst a grove the very straightest plant,
-Who is sweet Fortune’s minion and her pride—
-Whilst I by looking on the praise of him
-See riot and dishonour stain the brow
-Of my young Harry. O, that it could be proved
-That some night-tripping fairy had exchanged
-In cradle clothes our children where they lay,
-And called mine Percy, his Plantagenet!
-Then would I have his Harry, and he mine.
-But let him from my thoughts. What think you, coz,
-Of this young Percy’s pride? The prisoners
-Which he in this adventure hath surprised
-To his own use he keeps, and sends me word
-I shall have none but Mordake Earl of Fife.
-WESTMORLAND
-This is his uncle’s teaching. This is Worcester,
-Malevolent to you in all aspects,
-Which makes him prune himself, and bristle up
-The crest of youth against your dignity.
-KING HENRY
-But I have sent for him to answer this;
-And for this cause awhile we must neglect
-Our holy purpose to Jerusalem.
-Cousin, on Wednesday next our Council we
-Will hold at Windsor. So inform the lords.
-But come yourself with speed to us again,
-For more is to be said and to be done
-Than out of anger can be uttered.
-WESTMORLAND I will, my liege.
-Exeunt ⌈King Henry, Lancaster, and other lords at one door; Westmorland at another door⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Henry, Lord John of Lancaster, and the Earl of Westmorland, with other lords |
+| KING HENRY | So shaken as we are, so wan with care,<br>Find we a time for frighted peace to pant<br>And breathe short-winded accents of new broils<br>To be commenced in strands afar remote.<br>No more the thirsty entrance of this soil<br>Shall daub her lips with her own children’s blood.<br>No more shall trenching war channel her fields,<br>Nor bruise her flow‘rets with the armed hoofs<br>Of hostile paces. Those opposed eyes,<br>Which, like the meteors of a troubled heaven,<br>All of one nature, of one substance bred,<br>Did lately meet in the intestine shock<br>And furious close of civil butchery,<br>Shall now in mutual well-beseeming ranks<br>March all one way, and be no more opposed<br>Against acquaintance, kindred, and allies.<br>The edge of war, like an ill-sheathèd knife,<br>No more shall cut his master. Therefore, friends,<br>As far as to the sepulchre of Christ—<br>Whose soldier now, under whose blessèd cross<br>We are impressèd and engaged to fight—<br>Forthwith a power of English shall we levy,<br>Whose arms were moulded in their mothers’ womb<br>To chase these pagans in those holy fields<br>Over whose acres walked those blessed feet<br>Which fourteen hundred years ago were nailed,<br>For our advantage, on the bitter cross.<br>But this our purpose now is twelve month old,<br>And bootless ’tis to tell you we will go.<br>Therefor we meet not now. Then let me hear<br>Of you, my gentle cousin Westmorland,<br>What yesternight our Council did decree<br>In forwarding this dear expedience. |
+| WESTMORLAND | My liege, this haste was hot in question,<br>And many limits of the charge set down<br>But yesternight, when all athwart there came<br>A post from Wales, loaden with heavy news,<br>Whose worst was that the noble Mortimer,<br>Leading the men of Herefordshire to fight<br>Against the irregular and wild Glyndwr,<br>Was by the rude hands of that Welshman taken,<br>A thousand of his people butcherèd,<br>Upon whose dead corpse’ there was such misuse,<br>Such beastly shameless transformation,<br>By those Welshwomen done as may not be<br>Without much shame retold or spoken of. |
+| KING HENRY | It seems then that the tidings of this broil<br>Brake off our business for the Holy Land. |
+| WESTMORLAND | This matched with other did, my gracious lord,<br>For more uneven and unwelcome news<br>Came from the north, and thus it did import:<br>On Holy-rood day the gallant Hotspur there—<br>Young Harry Percy—and brave Archibald,<br>That ever valiant and approvèd Scot,<br>At Holmedon met,<br>Where they did spend a sad and bloody hour,<br>As by discharge of their artillery<br>And shape of likelihood the news was told;<br>For he that brought them in the very heat<br>And pride of their contention did take horse,<br>Uncertain of the issue any way. |
+| KING HENRY | Here is a dear, a true industrious friend,<br>Sir Walter Blunt, new lighted from his horse,<br>Stained with the variation of each soil<br>Betwixt that Holmedon and this seat of ours;<br>And he hath brought us smooth and welcome news.<br>The Earl of Douglas is discomfited.<br>Ten thousand bold Scots, two-and-twenty knights,<br>Balked in their own blood did Sir Walter see<br>On Holmedon’s plains. Of prisoners Hotspur took<br>Mordake the Earl of Fife and eldest son<br>To beaten Douglas, and the Earl of Athol,<br>Of Moray, Angus, and Menteith;<br>And is not this an honourable spoil,<br>A gallant prize? Ha, cousin, is it not? |
+| WESTMORLAND | In faith, it is a conquest for a prince to boast of. |
+| KING HENRY | Yea, there thou mak‘st me sad, and mak’st me sin<br>In envy that my lord Northumberland<br>Should be the father to so blest a son—<br>A son who is the theme of honour’s tongue,<br>Amongst a grove the very straightest plant,<br>Who is sweet Fortune’s minion and her pride—<br>Whilst I by looking on the praise of him<br>See riot and dishonour stain the brow<br>Of my young Harry. O, that it could be proved<br>That some night-tripping fairy had exchanged<br>In cradle clothes our children where they lay,<br>And called mine Percy, his Plantagenet!<br>Then would I have his Harry, and he mine.<br>But let him from my thoughts. What think you, coz,<br>Of this young Percy’s pride? The prisoners<br>Which he in this adventure hath surprised<br>To his own use he keeps, and sends me word<br>I shall have none but Mordake Earl of Fife. |
+| WESTMORLAND | This is his uncle’s teaching. This is Worcester,<br>Malevolent to you in all aspects,<br>Which makes him prune himself, and bristle up<br>The crest of youth against your dignity. |
+| KING HENRY | But I have sent for him to answer this;<br>And for this cause awhile we must neglect<br>Our holy purpose to Jerusalem.<br>Cousin, on Wednesday next our Council we<br>Will hold at Windsor. So inform the lords.<br>But come yourself with speed to us again,<br>For more is to be said and to be done<br>Than out of anger can be uttered. |
+| WESTMORLAND | I will, my liege. |
+| *(didascalia)* | Exeunt King Henry, Lancaster, and other lords at one door; Westmorland at another door |

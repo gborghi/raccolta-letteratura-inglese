@@ -14,163 +14,40 @@ tags:
 </nav>
 
 
-Enter Anne Boleyn and an Old Lady
-ANNE
-Not for that neither. Here’s the pang that pinches—
-His highness having lived so long with her, and she
-So good a lady that no tongue could ever
-Pronounce dishonour of her—by my life,
-She never knew harm-doing—O now, after
-So many courses of the sun enthroned,
-Still growing in a majesty and pomp the which
-To leave a thousandfold more bitter than
-’Tis sweet at first t’acquire—after this process,
-To give her the avaunt, it is a pity
-Would move a monster.
-OLD LADY
-Hearts of most hard temper
-Melt and lament for her.
-ANNE
-O, God’s will! Much better
-She ne’er had known pomp; though’t be temporal,
-Yet if that quarrel, fortune, do divorce
-It from the bearer, ’tis a sufferance panging
-As soul and bodies severing.
-OLD LADY
-Alas, poor lady!
-She’s a stranger now again.
-ANNE
-So much the more
-Must pity drop upon her. Verily,
-I swear, ’tis better to be lowly born
-And range with humble livers in content
-Than to be perked up in a glist’ring grief
-And wear a golden sorrow.
-OLD LADY
-Our content
-Is our best having.
-ANNE
-By my troth and maidenhead,
-I would not be a queen.
-OLD LADY
-Beshrew me, I would—
-And venture maidenhead for’t; and so would you,
-For all this spice of your hypocrisy.
-You, that have so fair parts of woman on you,
-Have, too, a woman’s heart which ever yet
-Affected eminence, wealth, sovereignty;
-Which, to say sooth, are blessings; and which gifts,
-Saving your mincing, the capacity
-Of your soft cheveril conscience would receive
-If you might please to stretch it.
-ANNE
-Nay, good troth.
-OLD LADY
-Yes, troth and troth. You would not be a queen?
-ANNE
-No, not for all the riches under heaven.
-OLD LADY
-’Tis strange. A threepence bowed would hire me,
-Old as I am, to queen it. But I pray you,
-What think you of a duchess? Have you limbs
-To bear that load of title?
-ANNE
-No, in truth.
-OLD LADY
-Then you are weakly made. Pluck off a little;
-I would not be a young count in your way
-For more than blushing comes to. If your back
-Cannot vouchsafe this burden, ’tis too weak
-Ever to get a boy.
-ANNE
-How you do talk!
-I swear again, I would not be a queen
-For all the world.
-OLD LADY
-In faith, for little England
-You’d venture an emballing; I myself
-Would for Caernarfonshire, although there ’longed
-No more to th’ crown but that. Lo, who comes here?
-Enter the Lord Chamberlain
-LORD CHAMBERLAIN
-Good morrow, ladies. What were’t worth to know
-The secret of your conference?
-ANNE
-My good lord,
-Not your demand; it values not your asking.
-Our mistress’ sorrows we were pitying.
-LORD CHAMBERLAIN
-It was a gentle business, and becoming
-The action of good women. There is hope
-All will be well.
-ANNE
-Now I pray God, amen.
-LORD CHAMBERLAIN
-You bear a gentle mind, and heav’nly blessings
-Follow such creatures. That you may, fair lady,
-Perceive I speak sincerely, and high note’s
-Ta’en of your many virtues, the King’s majesty
-Commends his good opinion of you, and
-Does purpose honour to you no less flowing
-Than Marchioness of Pembroke; to which title
-A thousand pound a year annual support
-Out of his grace he adds.
-ANNE
-I do not know
-What kind of my obedience I should tender.
-More than my all is nothing; nor my prayers
-Are not words duly hallowed, nor my wishes
-More worth than empty vanities; yet prayers and wishes
-Are all I can return. Beseech your lordship,
-Vouchsafe to speak my thanks and my obedience,
-As from a blushing handmaid to his highness,
-Whose health and royalty I pray for.
-LORD CHAMBERLAIN
-Lady,
-I shall not fail t’approve the fair conceit
-The King hath of you. (Aside) I have perused her well.
-Beauty and honour in her are so mingled
-That they have caught the King, and who knows yet
-But from this lady may proceed a gem
-To lighten all this isle. (To Anne) I’ll to the King
-And say I spoke with you;
-ANNE My honoured lord.
-Exit the Lord Chamberlain
-OLD LADY Why, this it is—see, see!
-I have been begging sixteen years in court,
-Am yet a courtier beggarly, nor could
-Come pat betwixt too early and too late
-For any suit of pounds; and you—O, fate!—
-A very fresh fish here—fie, fie upon
-This compelled fortune!—have your mouth filled up
-Before you open it.
-ANNE
-This is strange to me.
-OLD LADY
-How tastes it? Is it bitter? Forty pence, no.
-There was a lady once—’tis an old story—
-That would not be a queen, that would she not,
-For all the mud in Egypt. Have you heard it?
-ANNE
-Come, you are pleasant.
-OLD LADY
-With your theme I could
-O’ermount the lark. The Marchioness of Pembroke?
-A thousand pounds a year, for pure respect?
-No other obligation? By my life,
-That promises more thousands. Honour’s train
-Is longer than his foreskirt. By this time
-I know your back will bear a duchess. Say,
-Are you not stronger than you were?
-ANNE
-Good lady,
-Make yourself mirth with your particular fancy,
-And leave me out on’t. Would I had no being;
-If this salute my blood a jot. It faints me
-To think what follows.
-The Queen is comfortless, and we forgetful
-In our long absence. Pray do not deliver
-What here you’ve heard to her.
-OLD LADY
-What do you think me—
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Anne Boleyn and an Old Lady |
+| ANNE | Not for that neither. Here’s the pang that pinches—<br>His highness having lived so long with her, and she<br>So good a lady that no tongue could ever<br>Pronounce dishonour of her—by my life,<br>She never knew harm-doing—O now, after<br>So many courses of the sun enthroned,<br>Still growing in a majesty and pomp the which<br>To leave a thousandfold more bitter than<br>’Tis sweet at first t’acquire—after this process,<br>To give her the avaunt, it is a pity<br>Would move a monster. |
+| OLD LADY | Hearts of most hard temper<br>Melt and lament for her. |
+| ANNE | O, God’s will! Much better<br>She ne’er had known pomp; though’t be temporal,<br>Yet if that quarrel, fortune, do divorce<br>It from the bearer, ’tis a sufferance panging<br>As soul and bodies severing. |
+| OLD LADY | Alas, poor lady!<br>She’s a stranger now again. |
+| ANNE | So much the more<br>Must pity drop upon her. Verily,<br>I swear, ’tis better to be lowly born<br>And range with humble livers in content<br>Than to be perked up in a glist’ring grief<br>And wear a golden sorrow. |
+| OLD LADY | Our content<br>Is our best having. |
+| ANNE | By my troth and maidenhead,<br>I would not be a queen. |
+| OLD LADY | Beshrew me, I would—<br>And venture maidenhead for’t; and so would you,<br>For all this spice of your hypocrisy.<br>You, that have so fair parts of woman on you,<br>Have, too, a woman’s heart which ever yet<br>Affected eminence, wealth, sovereignty;<br>Which, to say sooth, are blessings; and which gifts,<br>Saving your mincing, the capacity<br>Of your soft cheveril conscience would receive<br>If you might please to stretch it. |
+| ANNE | Nay, good troth. |
+| OLD LADY | Yes, troth and troth. You would not be a queen? |
+| ANNE | No, not for all the riches under heaven. |
+| OLD LADY | ’Tis strange. A threepence bowed would hire me,<br>Old as I am, to queen it. But I pray you,<br>What think you of a duchess? Have you limbs<br>To bear that load of title? |
+| ANNE | No, in truth. |
+| OLD LADY | Then you are weakly made. Pluck off a little;<br>I would not be a young count in your way<br>For more than blushing comes to. If your back<br>Cannot vouchsafe this burden, ’tis too weak<br>Ever to get a boy. |
+| ANNE | How you do talk!<br>I swear again, I would not be a queen<br>For all the world. |
+| OLD LADY | In faith, for little England<br>You’d venture an emballing; I myself<br>Would for Caernarfonshire, although there ’longed<br>No more to th’ crown but that. Lo, who comes here? |
+| *(didascalia)* | Enter the Lord Chamberlain |
+| LORD CHAMBERLAIN | Good morrow, ladies. What were’t worth to know<br>The secret of your conference? |
+| ANNE | My good lord,<br>Not your demand; it values not your asking.<br>Our mistress’ sorrows we were pitying. |
+| LORD CHAMBERLAIN | It was a gentle business, and becoming<br>The action of good women. There is hope<br>All will be well. |
+| ANNE | Now I pray God, amen. |
+| LORD CHAMBERLAIN | You bear a gentle mind, and heav’nly blessings<br>Follow such creatures. That you may, fair lady,<br>Perceive I speak sincerely, and high note’s<br>Ta’en of your many virtues, the King’s majesty<br>Commends his good opinion of you, and<br>Does purpose honour to you no less flowing<br>Than Marchioness of Pembroke; to which title<br>A thousand pound a year annual support<br>Out of his grace he adds. |
+| ANNE | I do not know<br>What kind of my obedience I should tender.<br>More than my all is nothing; nor my prayers<br>Are not words duly hallowed, nor my wishes<br>More worth than empty vanities; yet prayers and wishes<br>Are all I can return. Beseech your lordship,<br>Vouchsafe to speak my thanks and my obedience,<br>As from a blushing handmaid to his highness,<br>Whose health and royalty I pray for. |
+| LORD CHAMBERLAIN | Lady,<br>I shall not fail t’approve the fair conceit<br>The King hath of you. (Aside) I have perused her well.<br>Beauty and honour in her are so mingled<br>That they have caught the King, and who knows yet<br>But from this lady may proceed a gem<br>To lighten all this isle. (To Anne) I’ll to the King<br>And say I spoke with you; |
+| ANNE | My honoured lord. |
+| *(didascalia)* | Exit the Lord Chamberlain |
+| OLD LADY | Why, this it is—see, see!<br>I have been begging sixteen years in court,<br>Am yet a courtier beggarly, nor could<br>Come pat betwixt too early and too late<br>For any suit of pounds; and you—O, fate!—<br>A very fresh fish here—fie, fie upon<br>This compelled fortune!—have your mouth filled up<br>Before you open it. |
+| ANNE | This is strange to me. |
+| OLD LADY | How tastes it? Is it bitter? Forty pence, no.<br>There was a lady once—’tis an old story—<br>That would not be a queen, that would she not,<br>For all the mud in Egypt. Have you heard it? |
+| ANNE | Come, you are pleasant. |
+| OLD LADY | With your theme I could<br>O’ermount the lark. The Marchioness of Pembroke?<br>A thousand pounds a year, for pure respect?<br>No other obligation? By my life,<br>That promises more thousands. Honour’s train<br>Is longer than his foreskirt. By this time<br>I know your back will bear a duchess. Say,<br>Are you not stronger than you were? |
+| ANNE | Good lady,<br>Make yourself mirth with your particular fancy,<br>And leave me out on’t. Would I had no being;<br>If this salute my blood a jot. It faints me<br>To think what follows.<br>The Queen is comfortless, and we forgetful<br>In our long absence. Pray do not deliver<br>What here you’ve heard to her. |
+| OLD LADY | What do you think me— |
+| *(didascalia)* | Exeunt |

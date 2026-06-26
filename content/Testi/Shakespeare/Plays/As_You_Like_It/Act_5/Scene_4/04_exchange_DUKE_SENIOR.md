@@ -13,15 +13,9 @@ tags:
 </nav>
 
 
-DUKE SENIOR Stay, Jaques, stay.
-
-JAQUES
-To see no pastime, I. What you would have
-I’ll stay to know at your abandoned cave. Exit
-
-DUKE SENIOR
-Proceed, proceed. We’ll so begin these rites
-As we do trust they’ll end, in true delights.
-⌈They dance; then⌉ exeunt all but Rosalind
-
-Epilogue
+| Chi parla | Battuta |
+|---|---|
+| DUKE SENIOR | Stay, Jaques, stay. |
+| JAQUES | To see no pastime, I. What you would have I’ll stay to know at your abandoned cave. Exit |
+| DUKE SENIOR | Proceed, proceed. We’ll so begin these rites As we do trust they’ll end, in true delights. They dance; then exeunt all but Rosalind |
+| DUKE SENIOR | Epilogue |

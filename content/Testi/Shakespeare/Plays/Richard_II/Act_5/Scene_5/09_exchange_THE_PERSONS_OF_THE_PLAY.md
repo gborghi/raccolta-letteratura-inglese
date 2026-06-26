@@ -13,40 +13,15 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-
-CHORUS
-
-ROMEO
-MONTAGUE, his father
-
-MONTAGUE’S WIFE
-BENVOLIO, Montague’s nephew
-ABRAHAM, Montague’s servingman
-BALTHASAR, Romeo’s man
-
-JULIET
-CAPULET, her father
-
-CAPULET’S WIFE
-TYBALT, her nephew
-His page
-
-PETRUCCIO
-
-CAPULET’S COUSIN
-Juliet’s NURSE
-Other SERVINGMEN
-
-MUSICIANS
-Escalus, PRINCE of Verona
-
-FRIAR LAURENCE
-
-FRIAR JOHN
-An APOTHECARY
-
-CHIEF WATCHMAN
-Other CITIZENS OF THE WATCH
-
-Masquers, guests, gentlewomen, followers of the Montague and Capulet factions
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| ROMEO | MONTAGUE, his father |
+| MONTAGUE’S WIFE | BENVOLIO, Montague’s nephew ABRAHAM, Montague’s servingman BALTHASAR, Romeo’s man |
+| JULIET | CAPULET, her father |
+| CAPULET’S WIFE | TYBALT, her nephew His page |
+| CAPULET’S COUSIN | Juliet’s NURSE Other SERVINGMEN |
+| MUSICIANS | Escalus, PRINCE of Verona |
+| FRIAR JOHN | An APOTHECARY |
+| CHIEF WATCHMAN | Other CITIZENS OF THE WATCH |
+| CHIEF WATCHMAN | Masquers, guests, gentlewomen, followers of the Montague and Capulet factions |

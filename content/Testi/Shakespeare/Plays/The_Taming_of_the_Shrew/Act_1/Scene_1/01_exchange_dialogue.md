@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Flourish. Enter Lucentio and his man, Tranio
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter Lucentio and his man, Tranio |

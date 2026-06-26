@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Bolingbroke Duke of Lancaster and Hereford, the Duke of York, the Earl of Northumberland, ⌈Lord Ross, Harry Percy, and Lord Willoughby⌉
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Bolingbroke Duke of Lancaster and Hereford, the Duke of York, the Earl of Northumberland, Lord Ross, Harry Percy, and Lord Willoughby |

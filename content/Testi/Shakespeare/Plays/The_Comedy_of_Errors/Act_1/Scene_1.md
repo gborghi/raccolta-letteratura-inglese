@@ -14,175 +14,19 @@ tags:
 </nav>
 
 
-Enter Solinus, the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other attendants
-EGEON
-Proceed, Solinus, to procure my fall,
-And by the doom of death end woes and all.
-DUKE
-Merchant of Syracusa, plead no more.
-I am not partial to infringe our laws.
-The enmity and discord which of late
-Sprung from the rancorous outrage of your Duke
-To merchants, our well-dealing countrymen,
-Who, wanting guilders to redeem their lives,
-Have sealed his rigorous statutes with their bloods,
-Excludes all pity from our threat‘ning looks.
-For since the mortal and intestine jars
-’Twixt thy seditious countrymen and us,
-It hath in solemn synods been decreed,
-Both by the Syracusians and ourselves,
-To admit no traffic to our adverse towns.
-Nay more: if any born at Ephesus
-Be seen at Syracusian marts and fairs;
-Again, if any Syracusian born
-Come to the bay of Ephesus—he dies,
-His goods confiscate to the Duke’s dispose,
-Unless a thousand marks be levied
-To quit the penalty and ransom him.
-Thy substance, valued at the highest rate,
-Cannot amount unto a hundred marks.
-Therefore by law thou art condemned to die.
-EGEON
-Yet this my comfort: when your words are done,
-
-My woes end likewise with the evening sun.
-DUKE
-Well, Syracusian, say in brief the cause
-Why thou departed‘st from thy native home,
-And for what cause thou cam’st to Ephesus.
-EGEON
-A heavier task could not have been imposed
-Than I to speak my griefs unspeakable.
-Yet, that the world may witness that my end
-Was wrought by nature, not by vile offence,
-I’ll utter what my sorrow gives me leave.
-In Syracusa was I born, and wed
-Unto a woman happy but for me,
-And by me happy, had not our hap been bad.
-With her I lived in joy, our wealth increased
-By prosperous voyages I often made
-To Epidamnum, till my factor’s death,
-And the great care of goods at random left,
-Drew me from kind embracements of my spouse,
-From whom my absence was not six months old
-Before herself—almost at fainting under
-The pleasing punishment that women bear-
-Had made provision for her following me,
-And soon and safe arrived where I was.
-There had she not been long but she became
-A joyful mother of two goodly sons;
-And, which was strange, the one so like the other
-As could not be distinguished but by names.
-That very hour, and in the selfsame inn,
-A mean-born woman was delivered
-Of such a burden male, twins both alike.
-Those, for their parents were exceeding poor,
-I bought, and brought up to attend my sons.
-My wife, not meanly proud of two such boys,
-Made daily motions for our home return.
-Unwilling, I agreed. Alas! Too soon
-We came aboard.
-A league from Epidamnum had we sailed
-Before the always-wind-obeying deep
-Gave any tragic instance of our harm.
-But longer did we not retain much hope,
-For what obscured light the heavens did grant
-Did but convey unto our fearful minds
-A doubtful warrant of immediate death,
-Which though myself would gladly have embraced,
-Yet the incessant weepings of my wife—
-Weeping before for what she saw must come—
-And piteous plainings of the pretty babes,
-That mourned for fashion, ignorant what to fear,
-Forced me to seek delays for them and me.
-And this it was—for other means was none:
-The sailors sought for safety by our boat,
-And left the ship, then sinking-ripe, to us.
-My wife, more careful for the latter-born,
-Had fastened him unto a small spare mast
-Such as seafaring men provide for storms.
-To him one of the other twins was bound,
-Whilst I had been like heedful of the other.
-The children thus disposed, my wife and I,
-Fixing our eyes on whom our care was fixed,
-Fastened ourselves at either end the mast,
-And floating straight, obedient to the stream,
-Was carried towards Corinth, as we thought.
-At length the sun, gazing upon the earth,
-Dispersed those vapours that offended us,
-And by the benefit of his wished light
-The seas waxed calm, and we discovered
-Two ships from far, making amain to us:
-Of Corinth that, of Epidaurus this.
-But ere they came—O let me say no more!
-Gather the sequel by that went before.
-DUKE
-Nay, forward, old man; do not break off so,
-For we may pity though not pardon thee.
-EGEON
-O, had the gods done so, I had not now
-Worthily termed them merciless to us.
-For, ere the ships could meet by twice five leagues,
-We were encountered by a mighty rock,
-Which being violently borne upon,
-Our helpful ship was splitted in the midst,
-So that in this unjust divorce of us
-Fortune had left to both of us alike
-What to delight in, what to sorrow for.
-Her part, poor soul, seeming as burdened
-With lesser weight but not with lesser woe,
-Was carried with more speed before the wind,
-And in our sight they three were taken up
-By fishermen of Corinth, as we thought.
-At length another ship had seized on us,
-And, knowing whom it was their hap to save,
-Gave healthful welcome to their shipwrecked guests,
-And would have reft the fishers of their prey
-Had not their barque been very slow of sail;
-And therefore homeward did they bend their course.
-Thus have you heard me severed from my bliss,
-That by misfortunes was my life prolonged
-To tell sad stories of my own mishaps.
-DUKE
-And for the sake of them thou sorrow’st for,
-Do me the favour to dilate at full
-What have befall’n of them and thee till now.
-EGEON
-My youngest boy, and yet my eldest care,
-At eighteen years became inquisitive
-After his brother, and importuned me
-That his attendant—so his case was like,
-Reft of his brother, but retained his name—
-Might bear him company in the quest of him;
-Whom whilst I laboured of a love to see,
-I hazarded the loss of whom I loved.
-Five summers have I spent in farthest Greece,
-Roaming clean through the bounds of Asia,
-And coasting homeward came to Ephesus,
-Hopeless to find, yet loath to leave unsought
-Or that or any place that harbours men.
-But here must end the story of my life,
-And happy were I in my timely death
-Could all my travels warrant me they live.
-DUKE
-Hapless Egeon, whom the fates have marked
-To bear the extremity of dire mishap,
-Now trust me, were it not against our laws—
-Which princes, would they, may not disannul—
-Against my crown, my oath, my dignity,
-My soul should sue as advocate for thee.
-But though thou art adjudged to the death,
-And passed sentence may not be recalled
-But to our honour’s great disparagement,
-Yet will I favour thee in what I can.
-Therefore, merchant, I’ll limit thee this day
-To seek thy health by beneficial help.
-Try all the friends thou hast in Ephesus:
-Beg thou or borrow to make up the sum,
-And live. If no, then thou art doomed to die.
-Jailer, take him to thy custody.
-JAILER I will, my lord.
-EGEON
-Hopeless and helpless doth Egeon wend,
-But to procrastinate his lifeless end.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Solinus, the Duke of Ephesus, with Egeon the Merchant of Syracuse, Jailer, and other attendants |
+| EGEON | Proceed, Solinus, to procure my fall,<br>And by the doom of death end woes and all. |
+| DUKE | Merchant of Syracusa, plead no more.<br>I am not partial to infringe our laws.<br>The enmity and discord which of late<br>Sprung from the rancorous outrage of your Duke<br>To merchants, our well-dealing countrymen,<br>Who, wanting guilders to redeem their lives,<br>Have sealed his rigorous statutes with their bloods,<br>Excludes all pity from our threat‘ning looks.<br>For since the mortal and intestine jars<br>’Twixt thy seditious countrymen and us,<br>It hath in solemn synods been decreed,<br>Both by the Syracusians and ourselves,<br>To admit no traffic to our adverse towns.<br>Nay more: if any born at Ephesus<br>Be seen at Syracusian marts and fairs;<br>Again, if any Syracusian born<br>Come to the bay of Ephesus—he dies,<br>His goods confiscate to the Duke’s dispose,<br>Unless a thousand marks be levied<br>To quit the penalty and ransom him.<br>Thy substance, valued at the highest rate,<br>Cannot amount unto a hundred marks.<br>Therefore by law thou art condemned to die. |
+| EGEON | Yet this my comfort: when your words are done,<br><br>My woes end likewise with the evening sun. |
+| DUKE | Well, Syracusian, say in brief the cause<br>Why thou departed‘st from thy native home,<br>And for what cause thou cam’st to Ephesus. |
+| EGEON | A heavier task could not have been imposed<br>Than I to speak my griefs unspeakable.<br>Yet, that the world may witness that my end<br>Was wrought by nature, not by vile offence,<br>I’ll utter what my sorrow gives me leave.<br>In Syracusa was I born, and wed<br>Unto a woman happy but for me,<br>And by me happy, had not our hap been bad.<br>With her I lived in joy, our wealth increased<br>By prosperous voyages I often made<br>To Epidamnum, till my factor’s death,<br>And the great care of goods at random left,<br>Drew me from kind embracements of my spouse,<br>From whom my absence was not six months old<br>Before herself—almost at fainting under<br>The pleasing punishment that women bear-<br>Had made provision for her following me,<br>And soon and safe arrived where I was.<br>There had she not been long but she became<br>A joyful mother of two goodly sons;<br>And, which was strange, the one so like the other<br>As could not be distinguished but by names.<br>That very hour, and in the selfsame inn,<br>A mean-born woman was delivered<br>Of such a burden male, twins both alike.<br>Those, for their parents were exceeding poor,<br>I bought, and brought up to attend my sons.<br>My wife, not meanly proud of two such boys,<br>Made daily motions for our home return.<br>Unwilling, I agreed. Alas! Too soon<br>We came aboard.<br>A league from Epidamnum had we sailed<br>Before the always-wind-obeying deep<br>Gave any tragic instance of our harm.<br>But longer did we not retain much hope,<br>For what obscured light the heavens did grant<br>Did but convey unto our fearful minds<br>A doubtful warrant of immediate death,<br>Which though myself would gladly have embraced,<br>Yet the incessant weepings of my wife—<br>Weeping before for what she saw must come—<br>And piteous plainings of the pretty babes,<br>That mourned for fashion, ignorant what to fear,<br>Forced me to seek delays for them and me.<br>And this it was—for other means was none:<br>The sailors sought for safety by our boat,<br>And left the ship, then sinking-ripe, to us.<br>My wife, more careful for the latter-born,<br>Had fastened him unto a small spare mast<br>Such as seafaring men provide for storms.<br>To him one of the other twins was bound,<br>Whilst I had been like heedful of the other.<br>The children thus disposed, my wife and I,<br>Fixing our eyes on whom our care was fixed,<br>Fastened ourselves at either end the mast,<br>And floating straight, obedient to the stream,<br>Was carried towards Corinth, as we thought.<br>At length the sun, gazing upon the earth,<br>Dispersed those vapours that offended us,<br>And by the benefit of his wished light<br>The seas waxed calm, and we discovered<br>Two ships from far, making amain to us:<br>Of Corinth that, of Epidaurus this.<br>But ere they came—O let me say no more!<br>Gather the sequel by that went before. |
+| DUKE | Nay, forward, old man; do not break off so,<br>For we may pity though not pardon thee. |
+| EGEON | O, had the gods done so, I had not now<br>Worthily termed them merciless to us.<br>For, ere the ships could meet by twice five leagues,<br>We were encountered by a mighty rock,<br>Which being violently borne upon,<br>Our helpful ship was splitted in the midst,<br>So that in this unjust divorce of us<br>Fortune had left to both of us alike<br>What to delight in, what to sorrow for.<br>Her part, poor soul, seeming as burdened<br>With lesser weight but not with lesser woe,<br>Was carried with more speed before the wind,<br>And in our sight they three were taken up<br>By fishermen of Corinth, as we thought.<br>At length another ship had seized on us,<br>And, knowing whom it was their hap to save,<br>Gave healthful welcome to their shipwrecked guests,<br>And would have reft the fishers of their prey<br>Had not their barque been very slow of sail;<br>And therefore homeward did they bend their course.<br>Thus have you heard me severed from my bliss,<br>That by misfortunes was my life prolonged<br>To tell sad stories of my own mishaps. |
+| DUKE | And for the sake of them thou sorrow’st for,<br>Do me the favour to dilate at full<br>What have befall’n of them and thee till now. |
+| EGEON | My youngest boy, and yet my eldest care,<br>At eighteen years became inquisitive<br>After his brother, and importuned me<br>That his attendant—so his case was like,<br>Reft of his brother, but retained his name—<br>Might bear him company in the quest of him;<br>Whom whilst I laboured of a love to see,<br>I hazarded the loss of whom I loved.<br>Five summers have I spent in farthest Greece,<br>Roaming clean through the bounds of Asia,<br>And coasting homeward came to Ephesus,<br>Hopeless to find, yet loath to leave unsought<br>Or that or any place that harbours men.<br>But here must end the story of my life,<br>And happy were I in my timely death<br>Could all my travels warrant me they live. |
+| DUKE | Hapless Egeon, whom the fates have marked<br>To bear the extremity of dire mishap,<br>Now trust me, were it not against our laws—<br>Which princes, would they, may not disannul—<br>Against my crown, my oath, my dignity,<br>My soul should sue as advocate for thee.<br>But though thou art adjudged to the death,<br>And passed sentence may not be recalled<br>But to our honour’s great disparagement,<br>Yet will I favour thee in what I can.<br>Therefore, merchant, I’ll limit thee this day<br>To seek thy health by beneficial help.<br>Try all the friends thou hast in Ephesus:<br>Beg thou or borrow to make up the sum,<br>And live. If no, then thou art doomed to die.<br>Jailer, take him to thy custody. |
+| JAILER | I will, my lord. |
+| EGEON | Hopeless and helpless doth Egeon wend,<br>But to procrastinate his lifeless end. |
+| *(didascalia)* | Exeunt |

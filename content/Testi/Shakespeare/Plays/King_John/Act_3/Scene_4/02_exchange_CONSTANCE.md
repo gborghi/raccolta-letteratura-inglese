@@ -13,7 +13,7 @@ tags:
 </nav>
 
 
-CONSTANCE
-To England, if you will.
-
-KING PHILIP Bind up your hairs.
+| Chi parla | Battuta |
+|---|---|
+| CONSTANCE | To England, if you will. |
+| KING PHILIP | Bind up your hairs. |

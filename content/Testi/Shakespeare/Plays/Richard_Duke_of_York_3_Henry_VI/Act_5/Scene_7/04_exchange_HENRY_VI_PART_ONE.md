@@ -13,6 +13,6 @@ tags:
 </nav>
 
 
-HENRY VI PART ONE
-
-BY WILLIAM SHAKESPEARE AND OTHERS
+| Chi parla | Battuta |
+|---|---|
+| BY WILLIAM SHAKESPEARE AND | OTHERS |

@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-ALL Ding, dong, bell.
+| Chi parla | Battuta |
+|---|---|
+| ALL | Ding, dong, bell. |

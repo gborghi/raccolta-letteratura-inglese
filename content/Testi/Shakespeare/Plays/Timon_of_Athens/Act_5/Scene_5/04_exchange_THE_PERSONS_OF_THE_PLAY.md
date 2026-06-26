@@ -13,45 +13,22 @@ tags:
 </nav>
 
 
-THE PERSONS OF THE PLAY
-
-KING DUNCAN of Scotland
-
-A CAPTAIN in Duncan’s army
-MACBETH, Thane of Glamis, later Thane of Cawdor, then King of
-Scotland
-
-A PORTER at Macbeth’s castle
-Three MURDERERS attending on Macbeth
-SEYTON, servant of Macbeth
-
-LADY MACBETH, Macbeth’s wife
-BANQUO, a Scottish thane
-FLEANCE, his son
-MACDUFF, Thane of Fife
-
-LADY MACDUFF, his wife
-
-MACDUFF’S SON
-SIWARD, Earl of Northumberland
-
-YOUNG SIWARD, his son
-An English DOCTOR
-
-HECATE, Queen of the Witches
-Six WITCHES
-Three APPARITIONS, one an armed head, one a bloody child, one
-a child crowned
-
-A SPIRIT LIKE A CAT
-Other SPIRITS
-
-An OLD MAN
-
-A MESSENGER
-
-MURDERERS
-
-SERVANTS
-
-A show of eight kings; Lords and Thanes, attendants, soldiers, drummers
+| Chi parla | Battuta |
+|---|---|
+| THE PERSONS OF THE | PLAY |
+| KING DUNCAN | of Scotland |
+| *(didascalia)* | A |
+| CAPTAIN | in Duncan’s army MACBETH, Thane of Glamis, later Thane of Cawdor, then King of Scotland |
+| *(didascalia)* | A |
+| PORTER | at Macbeth’s castle Three MURDERERS attending on Macbeth SEYTON, servant of Macbeth |
+| LADY | MACBETH, Macbeth’s wife BANQUO, a Scottish thane FLEANCE, his son MACDUFF, Thane of Fife |
+| LADY | MACDUFF, his wife |
+| MACDUFF’S SON | SIWARD, Earl of Northumberland |
+| YOUNG | SIWARD, his son An English DOCTOR |
+| *(didascalia)* | HECATE, Queen of the Witches Six |
+| WITCHES | Three APPARITIONS, one an armed head, one a bloody child, one a child crowned |
+| *(didascalia)* | A |
+| SPIRIT LIKE | A CAT Other SPIRITS |
+| *(didascalia)* | An |
+| *(didascalia)* | A |
+| SERVANTS | A show of eight kings; Lords and Thanes, attendants, soldiers, drummers |

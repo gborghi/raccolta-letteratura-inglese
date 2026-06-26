@@ -14,226 +14,53 @@ tags:
 </nav>
 
 
-Flourish. Enter Theseus, Hippolyta, Emilia, Pirithous, and some attendants
-EMILIA
-I’ll no step further.
-PIRITHOUS
-Will you lose this sight?
-EMILIA
-I had rather see a wren hawk at a fly
-Than this decision. Every blow that falls
-Threats a brave life; each stroke laments
-The place whereon it falls, and sounds more like
-A bell than blade. I will stay here.
-It is enough my hearing shall be punished
-With what shall happen, ’gainst the which there is
-No deafing, but to hear; not taint mine eye
-With dread sights it may shun.
-PIRITHOUS (to Theseus)
-Sir, my good lord,
-Your sister will no further.
-THESEUS
-O she must.
-She shall see deeds of honour in their kind,
-Which sometime show well pencilled. Nature now
-Shall make and act the story, the belief
-Both sealed with eye and ear. (To Emilia) You must be
-present—
-You are the victor’s meed, the price and garland
-To crown the question’s title.
-EMILIA
-Pardon me,
-If I were there I’d wink.
-THESEUS
-You must be there—
-This trial is, as ’twere, i’th’ night, and you
-The only star to shine.
-EMILIA
-I am extinct.
-There is but envy in that light which shows
-The one the other. Darkness, which ever was
-The dam of horror, who does stand accursed
-Of many mortal millions, may even now,
-By casting her black mantle over both,
-That neither could find other, get herself
-Some part of a good name, and many a murder
-Set off whereto she’s guilty.
-HIPPOLYTA
-You must go.
-EMILIA
-In faith, I will not.
-THESEUS
-Why, the knights must kindle
-Their valour at your eye. Know, of this war
-You are the treasure, and must needs be by
-To give the service pay.
-EMILIA
-Sir, pardon me—
-The title of a kingdom may be tried
-Out of itself.
-THESEUS
-Well, well—then at your pleasure.
-Those that remain with you could wish their office
-To any of their enemies.
-HIPPOLYTA
-Farewell, sister. I am like to know your husband fore yourself,
-By some small start of time. He whom the gods
-Do of the two know best, I pray them he
-Be made your lot.
-Exeunt all but Emilia
-⌈Emilia takes out two pictures, one from her right side, and one from her left⌉
-EMILIA
-Arcite is gently visaged, yet his eye
-Is like an engine bent or a sharp weapon
-In a soft sheath. Mercy and manly courage
-Are bedfellows in his visage. Palamon
-Has a most menacing aspect. His brow
-Is graved and seems to bury what it frowns on,
-Yet sometime ’tis not so, but alters to
-The quality of his thoughts. Long time his eye
-Will dwell upon his object. Melancholy
-Becomes him nobly—so does Arcite’s mirth.
-But Palamon’s sadness is a kind of mirth,
-So mingled as if mirth did make him sad
-And sadness merry. Those darker humours that
-Stick misbecomingly on others, on them
-Live in fair dwelling.
-Cornetts. Trumpets sound as to a charge
-Hark, how yon spurs to spirit do incite
-The princes to their proof. Arcite may win me,
-And yet may Palamon wound Arcite to
-The spoiling of his figure. O, what pity
-Enough for such a chance! If I were by
-I might do hurt, for they would glance their eyes
-Toward my seat, and in that motion might
-Omit a ward or forfeit an offence
-Which craved that very time. It is much better
-Cornetts. A great cry and noise within, crying, ‘A Palamon’
-I am not there. O better never born,
-Than minister to such harm.
-Enter Servant
-What is the chance?
-SERVANT The cry’s ‘A Palamon’.
-EMILIA
-Then he has won. ’Twas ever likely—
-He looked all grace and success, and he is
-Doubtless the prim’st of men. I prithee run
-And tell me how it goes.
-Shout and cornetts, crying,
-‘A Palamon’
-SERVANT
-Still ‘Palamon’.
-EMILIA
-Run and enquire.
-Exit Servant
-⌈She speaks to the picture in her right hand⌉
-Poor servant, thou hast lost.
-Upon my right side still I wore thy picture,
-Palamon’s on the left. Why so, I know not.
-I had no end in’t, else chance would have it so.
-Another cry and shout within and cornetts
-On the sinister side the heart lies—Palamon
-Had the best-boding chance. This burst of clamour
-Is sure the end o’th’ combat.
-Enter Servant
-SERVANT
-They said that Palamon had Arcite’s body
-Within an inch o‘th’ pyramid—that the cry
-Was general ‘A Palamon’. But anon
-Th’assistants made a brave redemption, and
-The two bold titlers at this instant are
-Hand to hand at it.
-EMILIA
-Were they metamorphosed
-Both into one! O why? There were no woman
-Worth so composed a man: their single share,
-Their nobleness peculiar to them, gives
-The prejudice of disparity, value’s shortness,
-To any lady breathing—
-Cornetts. Cry within, ‘Arcite, Arcite’
-More exulting?
-‘Palamon’ still?
-SERVANT
-Nay, now the sound is ‘Arcite’.
-EMILIA
-I prithee, lay attention to the cry.
-Cornetts. A great shout and cry, ‘Arcite, victory!’
-Set both thine ears to th’ business.
-SERVANT
-The cry is
-‘Arcite’ and ‘Victory’—hark, ‘Arcite, victory!’
-The combat’s consummation is proclaimed
-By the wind instruments.
-EMILIA
-Half sights saw
-That Arcite was no babe. God’s lid, his richness
-And costliness of spirit looked through him—it could
-No more be hid in him than fire in flax,
-Than humble banks can go to law with waters
-That drift winds force to raging. I did think
-Good Palamon would miscarry, yet I knew not
-Why I did think so. Our reasons are not prophets
-When oft our fancies are. They are coming off—
-Alas, poor Palamon.
-She puts away the pictures.
-Cornetts. Enter Theseus, Hippolyta, Pirithous,
-
-Arcite as victor, and attendants
-THESEUS
-Lo, where our sister is in expectation,
-Yet quaking and unsettled. Fairest Emily,
-The gods by their divine arbitrament
-Have given you this knight. He is a good one
-As ever struck at head. ⌈To Arcite and Emilia⌉ Give me
-your hands.
-(To Arcite) Receive you her, (to Emilia) you him: (to
-both) be plighted with
-A love that grows as you decay.
-ARCITE
-Emilia,
-To buy you I have lost what’s dearest to me
-Save what is bought, and yet I purchase cheaply
-As I do rate your value.
-THESEUS (to Emilia)
-O lovèd sister,
-He speaks now of as brave a knight as e’er
-Did spur a noble steed. Surely the gods
-Would have him die a bachelor lest his race
-Should show i’th’ world too godlike. His behaviour
-So charmed me that, methought, Alcides was
-To him a sow of lead. If I could praise
-Each part of him to th‘all I have spoke, your Arcite
-Did not lose by’t; for he that was thus good,
-Encountered yet his better. I have heard
-Two emulous Philomels beat the ear o’th’ night
-With their contentious throats, now one the higher,
-Anon the other, then again the first,
-And by and by out-breasted, that the sense
-Could not be judge between ’em—so it fared
-Good space between these kinsmen, till heavens did
-Make hardly one the winner. (To Arcite) Wear the
-garland
-With joy that you have won.—For the subdued,
-Give them our present justice, since I know
-Their lives but pinch ’em. Let it here be done.
-The scene’s not for our seeing; go we hence
-Right joyful, with some sorrow. (To Arcite) Arm your
-prize;
-I know you will not lose her. Hippolyta,
-I see one eye of yours conceives a tear,
-The which it will deliver.
-Flourish
-EMILIA
-Is this winning?
-O all you heavenly powers, where is your mercy?
-But that your wills have said it must be so,
-And charge me live to comfort this unfriended,
-This miserable prince, that cuts away
-A life more worthy from him than all women,
-I should and would die too.
-HFPPOLYTA
-Infinite pity
-That four such eyes should be so fixed on one
-That two must needs be blind for’t.
-THESEUS So it is.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Flourish. Enter Theseus, Hippolyta, Emilia, Pirithous, and some attendants |
+| EMILIA | I’ll no step further. |
+| PIRITHOUS | Will you lose this sight? |
+| EMILIA | I had rather see a wren hawk at a fly<br>Than this decision. Every blow that falls<br>Threats a brave life; each stroke laments<br>The place whereon it falls, and sounds more like<br>A bell than blade. I will stay here.<br>It is enough my hearing shall be punished<br>With what shall happen, ’gainst the which there is<br>No deafing, but to hear; not taint mine eye<br>With dread sights it may shun. |
+| PIRITHOUS | (to Theseus)<br>Sir, my good lord,<br>Your sister will no further. |
+| THESEUS | O she must.<br>She shall see deeds of honour in their kind,<br>Which sometime show well pencilled. Nature now<br>Shall make and act the story, the belief<br>Both sealed with eye and ear. (To Emilia) You must be<br>present—<br>You are the victor’s meed, the price and garland<br>To crown the question’s title. |
+| EMILIA | Pardon me,<br>If I were there I’d wink. |
+| THESEUS | You must be there—<br>This trial is, as ’twere, i’th’ night, and you<br>The only star to shine. |
+| EMILIA | I am extinct.<br>There is but envy in that light which shows<br>The one the other. Darkness, which ever was<br>The dam of horror, who does stand accursed<br>Of many mortal millions, may even now,<br>By casting her black mantle over both,<br>That neither could find other, get herself<br>Some part of a good name, and many a murder<br>Set off whereto she’s guilty. |
+| HIPPOLYTA | You must go. |
+| EMILIA | In faith, I will not. |
+| THESEUS | Why, the knights must kindle<br>Their valour at your eye. Know, of this war<br>You are the treasure, and must needs be by<br>To give the service pay. |
+| EMILIA | Sir, pardon me—<br>The title of a kingdom may be tried<br>Out of itself. |
+| THESEUS | Well, well—then at your pleasure.<br>Those that remain with you could wish their office<br>To any of their enemies. |
+| HIPPOLYTA | Farewell, sister. I am like to know your husband fore yourself,<br>By some small start of time. He whom the gods<br>Do of the two know best, I pray them he<br>Be made your lot. |
+| *(didascalia)* | Exeunt all but Emilia |
+| *(didascalia)* | Emilia takes out two pictures, one from her right side, and one from her left |
+| EMILIA | Arcite is gently visaged, yet his eye<br>Is like an engine bent or a sharp weapon<br>In a soft sheath. Mercy and manly courage<br>Are bedfellows in his visage. Palamon<br>Has a most menacing aspect. His brow<br>Is graved and seems to bury what it frowns on,<br>Yet sometime ’tis not so, but alters to<br>The quality of his thoughts. Long time his eye<br>Will dwell upon his object. Melancholy<br>Becomes him nobly—so does Arcite’s mirth.<br>But Palamon’s sadness is a kind of mirth,<br>So mingled as if mirth did make him sad<br>And sadness merry. Those darker humours that<br>Stick misbecomingly on others, on them<br>Live in fair dwelling.<br>Cornetts. Trumpets sound as to a charge<br>Hark, how yon spurs to spirit do incite<br>The princes to their proof. Arcite may win me,<br>And yet may Palamon wound Arcite to<br>The spoiling of his figure. O, what pity<br>Enough for such a chance! If I were by<br>I might do hurt, for they would glance their eyes<br>Toward my seat, and in that motion might<br>Omit a ward or forfeit an offence<br>Which craved that very time. It is much better<br>Cornetts. A great cry and noise within, crying, ‘A Palamon’<br>I am not there. O better never born,<br>Than minister to such harm. |
+| *(didascalia)* | Enter Servant |
+| EMILIA | What is the chance? |
+| SERVANT | The cry’s ‘A Palamon’. |
+| EMILIA | Then he has won. ’Twas ever likely—<br>He looked all grace and success, and he is<br>Doubtless the prim’st of men. I prithee run<br>And tell me how it goes. |
+| *(didascalia)* | Shout and cornetts, crying, |
+| EMILIA | ‘A Palamon’ |
+| SERVANT | Still ‘Palamon’. |
+| EMILIA | Run and enquire. |
+| *(didascalia)* | Exit Servant |
+| *(didascalia)* | She speaks to the picture in her right hand |
+| EMILIA | Poor servant, thou hast lost.<br>Upon my right side still I wore thy picture,<br>Palamon’s on the left. Why so, I know not.<br>I had no end in’t, else chance would have it so.<br>Another cry and shout within and cornetts<br>On the sinister side the heart lies—Palamon<br>Had the best-boding chance. This burst of clamour<br>Is sure the end o’th’ combat. |
+| *(didascalia)* | Enter Servant |
+| SERVANT | They said that Palamon had Arcite’s body |
+| *(didascalia)* | Within an inch o‘th’ pyramid—that the cry |
+| SERVANT | Was general ‘A Palamon’. But anon<br>Th’assistants made a brave redemption, and<br>The two bold titlers at this instant are<br>Hand to hand at it. |
+| EMILIA | Were they metamorphosed<br>Both into one! O why? There were no woman<br>Worth so composed a man: their single share,<br>Their nobleness peculiar to them, gives<br>The prejudice of disparity, value’s shortness,<br>To any lady breathing—<br>Cornetts. Cry within, ‘Arcite, Arcite’<br>More exulting?<br>‘Palamon’ still? |
+| SERVANT | Nay, now the sound is ‘Arcite’. |
+| EMILIA | I prithee, lay attention to the cry.<br>Cornetts. A great shout and cry, ‘Arcite, victory!’<br>Set both thine ears to th’ business. |
+| SERVANT | The cry is<br>‘Arcite’ and ‘Victory’—hark, ‘Arcite, victory!’<br>The combat’s consummation is proclaimed<br>By the wind instruments. |
+| EMILIA | Half sights saw<br>That Arcite was no babe. God’s lid, his richness<br>And costliness of spirit looked through him—it could<br>No more be hid in him than fire in flax,<br>Than humble banks can go to law with waters<br>That drift winds force to raging. I did think<br>Good Palamon would miscarry, yet I knew not<br>Why I did think so. Our reasons are not prophets<br>When oft our fancies are. They are coming off—<br>Alas, poor Palamon.<br>She puts away the pictures.<br>Cornetts. Enter Theseus, Hippolyta, Pirithous,<br><br>Arcite as victor, and attendants |
+| THESEUS | Lo, where our sister is in expectation,<br>Yet quaking and unsettled. Fairest Emily,<br>The gods by their divine arbitrament<br>Have given you this knight. He is a good one |
+| *(didascalia)* | As ever struck at head. To Arcite and Emilia Give me |
+| THESEUS | your hands.<br>(To Arcite) Receive you her, (to Emilia) you him: (to<br>both) be plighted with<br>A love that grows as you decay. |
+| ARCITE | Emilia,<br>To buy you I have lost what’s dearest to me<br>Save what is bought, and yet I purchase cheaply<br>As I do rate your value. |
+| THESEUS | (to Emilia)<br>O lovèd sister,<br>He speaks now of as brave a knight as e’er<br>Did spur a noble steed. Surely the gods<br>Would have him die a bachelor lest his race<br>Should show i’th’ world too godlike. His behaviour<br>So charmed me that, methought, Alcides was<br>To him a sow of lead. If I could praise<br>Each part of him to th‘all I have spoke, your Arcite<br>Did not lose by’t; for he that was thus good,<br>Encountered yet his better. I have heard<br>Two emulous Philomels beat the ear o’th’ night<br>With their contentious throats, now one the higher,<br>Anon the other, then again the first,<br>And by and by out-breasted, that the sense<br>Could not be judge between ’em—so it fared<br>Good space between these kinsmen, till heavens did<br>Make hardly one the winner. (To Arcite) Wear the<br>garland<br>With joy that you have won.—For the subdued,<br>Give them our present justice, since I know<br>Their lives but pinch ’em. Let it here be done.<br>The scene’s not for our seeing; go we hence<br>Right joyful, with some sorrow. (To Arcite) Arm your<br>prize;<br>I know you will not lose her. Hippolyta,<br>I see one eye of yours conceives a tear,<br>The which it will deliver. |
+| *(didascalia)* | Flourish |
+| EMILIA | Is this winning?<br>O all you heavenly powers, where is your mercy?<br>But that your wills have said it must be so,<br>And charge me live to comfort this unfriended,<br>This miserable prince, that cuts away<br>A life more worthy from him than all women,<br>I should and would die too. |
+| HFPPOLYTA | Infinite pity<br>That four such eyes should be so fixed on one<br>That two must needs be blind for’t. |
+| THESEUS | So it is. |
+| *(didascalia)* | Exeunt |

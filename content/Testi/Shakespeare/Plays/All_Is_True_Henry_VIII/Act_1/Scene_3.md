@@ -14,116 +14,33 @@ tags:
 </nav>
 
 
-Enter the Lord Chamberlain and Lord Sands
-LORD CHAMBERLAIN
-Is’t possible the spells of France should juggle
-Men into such strange mysteries?
-SANDS
-New customs,
-Though they be never so ridiculous—
-Nay, let ’em be unmanly—yet are followed.
-LORD CHAMBERLAIN
-As far as I see, all the good our English
-Have got by the late voyage is but merely
-A fit or two o’th’ face. But they are shrewd ones,
-For when they hold ’em you would swear directly
-Their very noses had been counsellors
-To Pepin or Clotharius, they keep state so.
-SANDS
-They have all new legs, and lame ones; one would
-take it,
-That never see ’em pace before, the spavin
-Or spring-halt reigned among ’em.
-LORD CHAMBERLAIN
-Death, my lord,
-Their clothes are after such a pagan cut to’t
-That sure they’ve worn out Christendom.
-Enter Sir Thomas Lovell
-How now—
-What news, Sir Thomas Lovell?
-LOVELL
-Faith, my lord,
-I hear of none but the new proclamation
-That’s clapped upon the court gate.
-LORD CHAMBERLAIN
-What is’t for?
-LOVELL
-The reformation of our travelled gallants
-That fill the court with quarrels, talk, and tailors.
-LORD CHAMBERLAIN
-I’m glad ’tis there. Now I would pray our ’messieurs’
-
-To think an English courtier may be wise
-And never see the Louvre.
-LOVELL
-They must either,
-For so run the conditions, leave those remnants
-Of fool and feather that they got in France,
-With all their honourable points of ignorance
-Pertaining thereunto—as fights and fireworks,
-Abusing better men than they can be
-Out of a foreign wisdom, renouncing clean
-The faith they have in tennis and tall stockings,
-Short blistered breeches, and those types of travel—
-And understand again like honest men,
-Or pack to their old playfellows. There, I take it,
-They may, cum privilegio, ‘oui’ away
-The lag end of their lewdness and be laughed at.
-SANDS
-‘Tis time to give ’em physic, their diseases
-Are grown so catching.
-LORD CHAMBERLAIN
-What a loss our ladies
-Will have of these trim vanities!
-LOVELL
-Ay, marry,
-There will be woe indeed, lords. The sly whoresons
-Have got a speeding trick to lay down ladies.
-A French song and a fiddle has no fellow.
-SANDS
-The devil fiddle ’em! I am glad they are going,
-For sure there’s no converting of ’em. Now
-An honest country lord, as I am, beaten
-A long time out of play, may bring his plainsong
-And have an hour of hearing, and, by’r Lady,
-Held current music, too.
-LORD CHAMBERLAIN
-Well said, Lord Sands.
-Your colt’s tooth is not cast yet?
-SANDS
-No, my lord,
-Nor shall not while I have a stump.
-LORD CHAMBERLAIN (to Lovell)
-Sir Thomas,
-Whither were you a-going?
-LOVELL
-To the Cardinal’s.
-Your lordship is a guest too.
-LORD CHAMBERLAIN
-O, ’tis true.
-This night he makes a supper, and a great one,
-To many lords and ladies. There will be
-The beauty of this kingdom, I’ll assure you.
-LOVELL
-That churchman bears a bounteous mind indeed,
-A hand as fruitful as the land that feeds us.
-His dews fall everywhere.
-LORD CHAMBERLAIN
-No doubt he’s noble.
-He had a black mouth that said other of him.
-SANDS
-He may, my lord; he’s wherewithal. In him
-Sparing would show a worse sin than ill doctrine.
-Men of his way should be most liberal.
-They are set here for examples.
-LORD CHAMBERLAIN
-True, they are so,
-But few now give so great ones. My barge stays.
-Your lordship shall along. (To Lovell) Come, good Sir
-Thomas,
-We shall be late else, which I would not be,
-For I was spoke to, with Sir Henry Guildford,
-This night to be comptrollers.
-SANDS
-I am your lordship’s.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Lord Chamberlain and Lord Sands |
+| LORD CHAMBERLAIN | Is’t possible the spells of France should juggle<br>Men into such strange mysteries? |
+| SANDS | New customs,<br>Though they be never so ridiculous—<br>Nay, let ’em be unmanly—yet are followed. |
+| LORD CHAMBERLAIN | As far as I see, all the good our English<br>Have got by the late voyage is but merely<br>A fit or two o’th’ face. But they are shrewd ones,<br>For when they hold ’em you would swear directly<br>Their very noses had been counsellors<br>To Pepin or Clotharius, they keep state so. |
+| SANDS | They have all new legs, and lame ones; one would<br>take it,<br>That never see ’em pace before, the spavin<br>Or spring-halt reigned among ’em. |
+| LORD CHAMBERLAIN | Death, my lord,<br>Their clothes are after such a pagan cut to’t<br>That sure they’ve worn out Christendom. |
+| *(didascalia)* | Enter Sir Thomas Lovell |
+| LORD CHAMBERLAIN | How now—<br>What news, Sir Thomas Lovell? |
+| LOVELL | Faith, my lord,<br>I hear of none but the new proclamation<br>That’s clapped upon the court gate. |
+| LORD CHAMBERLAIN | What is’t for? |
+| LOVELL | The reformation of our travelled gallants<br>That fill the court with quarrels, talk, and tailors. |
+| LORD CHAMBERLAIN | I’m glad ’tis there. Now I would pray our ’messieurs’<br><br>To think an English courtier may be wise<br>And never see the Louvre. |
+| LOVELL | They must either,<br>For so run the conditions, leave those remnants<br>Of fool and feather that they got in France,<br>With all their honourable points of ignorance<br>Pertaining thereunto—as fights and fireworks,<br>Abusing better men than they can be<br>Out of a foreign wisdom, renouncing clean<br>The faith they have in tennis and tall stockings,<br>Short blistered breeches, and those types of travel—<br>And understand again like honest men,<br>Or pack to their old playfellows. There, I take it,<br>They may, cum privilegio, ‘oui’ away<br>The lag end of their lewdness and be laughed at. |
+| SANDS | ‘Tis time to give ’em physic, their diseases<br>Are grown so catching. |
+| LORD CHAMBERLAIN | What a loss our ladies<br>Will have of these trim vanities! |
+| LOVELL | Ay, marry,<br>There will be woe indeed, lords. The sly whoresons<br>Have got a speeding trick to lay down ladies.<br>A French song and a fiddle has no fellow. |
+| SANDS | The devil fiddle ’em! I am glad they are going,<br>For sure there’s no converting of ’em. Now<br>An honest country lord, as I am, beaten<br>A long time out of play, may bring his plainsong<br>And have an hour of hearing, and, by’r Lady,<br>Held current music, too. |
+| LORD CHAMBERLAIN | Well said, Lord Sands.<br>Your colt’s tooth is not cast yet? |
+| SANDS | No, my lord,<br>Nor shall not while I have a stump. |
+| LORD CHAMBERLAIN | (to Lovell)<br>Sir Thomas,<br>Whither were you a-going? |
+| LOVELL | To the Cardinal’s.<br>Your lordship is a guest too. |
+| LORD CHAMBERLAIN | O, ’tis true.<br>This night he makes a supper, and a great one,<br>To many lords and ladies. There will be<br>The beauty of this kingdom, I’ll assure you. |
+| LOVELL | That churchman bears a bounteous mind indeed,<br>A hand as fruitful as the land that feeds us.<br>His dews fall everywhere. |
+| LORD CHAMBERLAIN | No doubt he’s noble.<br>He had a black mouth that said other of him. |
+| SANDS | He may, my lord; he’s wherewithal. In him<br>Sparing would show a worse sin than ill doctrine.<br>Men of his way should be most liberal.<br>They are set here for examples. |
+| LORD CHAMBERLAIN | True, they are so,<br>But few now give so great ones. My barge stays.<br>Your lordship shall along. (To Lovell) Come, good Sir<br>Thomas,<br>We shall be late else, which I would not be,<br>For I was spoke to, with Sir Henry Guildford,<br>This night to be comptrollers. |
+| SANDS | I am your lordship’s. |
+| *(didascalia)* | Exeunt |

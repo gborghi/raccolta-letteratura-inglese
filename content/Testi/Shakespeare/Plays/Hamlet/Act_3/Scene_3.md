@@ -14,124 +14,26 @@ tags:
 </nav>
 
 
-Enter King Claudius, Rosencrantz, and Guildenstern
-KING CLAUDIUS
-I like him not, nor stands it safe with us
-To let his madness range. Therefore prepare you.
-I your commission will forthwith dispatch,
-And he to England shall along with you.
-The terms of our estate may not endure
-Hazard so dangerous as doth hourly grow
-Out of his lunacies.
-GUILDENSTERN
-We will ourselves provide.
-Most holy and religious fear it is
-To keep those many many bodies safe
-That live and feed upon your majesty.
-ROSENCRANTZ
-The single and peculiar life is bound
-With all the strength and armour of the mind
-To keep itself from noyance; but much more
-That spirit upon whose weal depends and rests
-The lives of many. The cease of majesty
-Dies not alone, but like a gulf doth draw
-What’s near it with it. It is a massy wheel
-Fixed on the summit of the highest mount,
-To whose huge spokes ten thousand lesser things
-Are mortised and adjoined, which when it falls
-Each small annexment, petty consequence,
-Attends the boist’rous ruin. Never alone
-Did the King sigh, but with a general groan.
-KING CLAUDIUS
-Arm you, I pray you, to this speedy voyage,
-For we will fetters put upon this fear
-Which now goes too free-footed.
-ROSENCRANTZ and GUILDENSTERN
-We will haste us.
-Exeunt both
-Enter Polonius
-POLONIUS
-My lord, he’s going to his mother’s closet.
-Behind the arras I’ll convey myself
-To hear the process. I’ll warrant she’ll tax him home.
-And, as you said—and wisely was it said—
-‘Tis meet that some more audience than a mother,
-Since nature makes them partial, should o’erhear
-The speech of vantage. Fare you well, my liege.
-I’ll call upon you ere you go to bed,
-And tell you what I know.
-KING CLAUDIUS
-Thanks, dear my lord.
-Exit Polonius
-O, my offence is rank! It smells to heaven.
-It hath the primal eldest curse upon‘t,
-A brother’s murder. Pray can I not.
-Though inclination be as sharp as will,
-My stronger guilt defeats my strong intent,
-And like a man to double business bound
-I stand in pause where I shall first begin,
-And both neglect. What if this cursed hand
-Were thicker than itself with brother’s blood,
-Is there not rain enough in the sweet heavens
-To wash it white as snow? Whereto serves mercy
-But to confront the visage of offence?
-And what’s in prayer but this twofold force,
-To be forestalled ere we come to fall,
-Or pardoned being down? Then I’ll look up.
-My fault is past-but O, what form of prayer
-Can serve my turn? ‘Forgive me my foul murder’?
-That cannot be, since I am still possessed
-Of those effects for which I did the murder—
-My crown, mine own ambition, and my queen.
-May one be pardoned and retain th’offence?
-In the corrupted currents of this world
-Offence’s gilded hand may shove by justice,
-And oft ‘tis seen the wicked prize itself
-Buys out the law. But ’tis not so above.
-There is no shuffling, there the action lies
-In his true nature, and we ourselves compelled
-Even to the teeth and forehead of our faults
-To give in evidence. What then? What rests?
-Try what repentance can. What can it not?
-Yet what can it when one cannot repent?
-O wretched state, O bosom black as death,
-O limed soul that, struggling to be free,
-Art more engaged! Help, angels! Make assay.
-Bow, stubborn knees; and heart with strings of steel,
-Be soft as sinews of the new-born babe.
-All may be well.
-He kneels.
-Enter Prince Hamlet behind him
-HAMLET
-Now might I do it pat, now a is praying,
-And now I’ll do‘t,
-⌈He draws his sword⌉
-and so a goes to heaven,
-And so am I revenged. That would be scanned.
-A villain kills my father, and for that
-I, his sole son, do this same villain send
-To heaven.
-O, this is hire and salary, not revenge!
-A took my father grossly, full of bread,
-With all his crimes broad blown, as flush as May;
-And how his audit stands, who knows save heaven?
-But in our circumstance and course of thought
-’Tis heavy with him. And am I then revenged
-To take him in the purging of his soul,
-When he is fit and seasoned for his passage?
-No.
-He sheathes his sword
-Up, sword, and know thou a more horrid hint.
-When he is drunk asleep, or in his rage,
-Or in th‘incestuous pleasure of his bed,
-At gaming, swearing, or about some act
-That has no relish of salvation in’t,
-Then trip him that his heels may kick at heaven,
-And that his soul may be as damned and black
-As hell whereto it goes. My mother stays.
-This physic but prolongs thy sickly days.
-Exit
-KING CLAUDIUS
-My words fly up, my thoughts remain below.
-Words without thoughts never to heaven go.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter King Claudius, Rosencrantz, and Guildenstern |
+| KING CLAUDIUS | I like him not, nor stands it safe with us<br>To let his madness range. Therefore prepare you.<br>I your commission will forthwith dispatch,<br>And he to England shall along with you.<br>The terms of our estate may not endure<br>Hazard so dangerous as doth hourly grow<br>Out of his lunacies. |
+| GUILDENSTERN | We will ourselves provide.<br>Most holy and religious fear it is<br>To keep those many many bodies safe<br>That live and feed upon your majesty. |
+| ROSENCRANTZ | The single and peculiar life is bound<br>With all the strength and armour of the mind<br>To keep itself from noyance; but much more<br>That spirit upon whose weal depends and rests<br>The lives of many. The cease of majesty |
+| *(didascalia)* | Dies not alone, but like a gulf doth draw |
+| ROSENCRANTZ | What’s near it with it. It is a massy wheel<br>Fixed on the summit of the highest mount,<br>To whose huge spokes ten thousand lesser things<br>Are mortised and adjoined, which when it falls<br>Each small annexment, petty consequence,<br>Attends the boist’rous ruin. Never alone<br>Did the King sigh, but with a general groan. |
+| KING CLAUDIUS | Arm you, I pray you, to this speedy voyage,<br>For we will fetters put upon this fear<br>Which now goes too free-footed. |
+| ROSENCRANTZ | and GUILDENSTERN<br>We will haste us. |
+| *(didascalia)* | Exeunt both |
+| *(didascalia)* | Enter Polonius |
+| POLONIUS | My lord, he’s going to his mother’s closet.<br>Behind the arras I’ll convey myself<br>To hear the process. I’ll warrant she’ll tax him home.<br>And, as you said—and wisely was it said—<br>‘Tis meet that some more audience than a mother,<br>Since nature makes them partial, should o’erhear<br>The speech of vantage. Fare you well, my liege.<br>I’ll call upon you ere you go to bed,<br>And tell you what I know. |
+| KING CLAUDIUS | Thanks, dear my lord. |
+| *(didascalia)* | Exit Polonius |
+| KING CLAUDIUS | O, my offence is rank! It smells to heaven.<br>It hath the primal eldest curse upon‘t,<br>A brother’s murder. Pray can I not.<br>Though inclination be as sharp as will,<br>My stronger guilt defeats my strong intent,<br>And like a man to double business bound<br>I stand in pause where I shall first begin,<br>And both neglect. What if this cursed hand<br>Were thicker than itself with brother’s blood,<br>Is there not rain enough in the sweet heavens<br>To wash it white as snow? Whereto serves mercy<br>But to confront the visage of offence?<br>And what’s in prayer but this twofold force,<br>To be forestalled ere we come to fall,<br>Or pardoned being down? Then I’ll look up.<br>My fault is past-but O, what form of prayer<br>Can serve my turn? ‘Forgive me my foul murder’?<br>That cannot be, since I am still possessed<br>Of those effects for which I did the murder—<br>My crown, mine own ambition, and my queen.<br>May one be pardoned and retain th’offence?<br>In the corrupted currents of this world<br>Offence’s gilded hand may shove by justice,<br>And oft ‘tis seen the wicked prize itself<br>Buys out the law. But ’tis not so above.<br>There is no shuffling, there the action lies<br>In his true nature, and we ourselves compelled<br>Even to the teeth and forehead of our faults<br>To give in evidence. What then? What rests?<br>Try what repentance can. What can it not?<br>Yet what can it when one cannot repent?<br>O wretched state, O bosom black as death,<br>O limed soul that, struggling to be free,<br>Art more engaged! Help, angels! Make assay.<br>Bow, stubborn knees; and heart with strings of steel,<br>Be soft as sinews of the new-born babe.<br>All may be well.<br>He kneels. |
+| *(didascalia)* | Enter Prince Hamlet behind him |
+| HAMLET | Now might I do it pat, now a is praying,<br>And now I’ll do‘t, |
+| *(didascalia)* | He draws his sword |
+| HAMLET | and so a goes to heaven,<br>And so am I revenged. That would be scanned.<br>A villain kills my father, and for that<br>I, his sole son, do this same villain send<br>To heaven.<br>O, this is hire and salary, not revenge!<br>A took my father grossly, full of bread,<br>With all his crimes broad blown, as flush as May;<br>And how his audit stands, who knows save heaven?<br>But in our circumstance and course of thought<br>’Tis heavy with him. And am I then revenged<br>To take him in the purging of his soul,<br>When he is fit and seasoned for his passage?<br>No.<br>He sheathes his sword<br>Up, sword, and know thou a more horrid hint.<br>When he is drunk asleep, or in his rage,<br>Or in th‘incestuous pleasure of his bed,<br>At gaming, swearing, or about some act<br>That has no relish of salvation in’t,<br>Then trip him that his heels may kick at heaven,<br>And that his soul may be as damned and black<br>As hell whereto it goes. My mother stays.<br>This physic but prolongs thy sickly days. |
+| *(didascalia)* | Exit |
+| KING CLAUDIUS | My words fly up, my thoughts remain below.<br>Words without thoughts never to heaven go. |
+| *(didascalia)* | Exit |

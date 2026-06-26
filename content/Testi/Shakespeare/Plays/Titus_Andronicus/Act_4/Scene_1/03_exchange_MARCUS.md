@@ -13,11 +13,6 @@ tags:
 </nav>
 
 
-MARCUS
-O heavens, can you hear a good man groan
-And not relent, or not compassion him?
-Marcus, attend him in his ecstasy,
-That hath more scars of sorrow in his heart
-Than foemen’s marks upon his battered shield,
-But yet so just that he will not revenge.
-Revenge the heavens for old Andronicus! Exit
+| Chi parla | Battuta |
+|---|---|
+| MARCUS | O heavens, can you hear a good man groan And not relent, or not compassion him? Marcus, attend him in his ecstasy, That hath more scars of sorrow in his heart Than foemen’s marks upon his battered shield, But yet so just that he will not revenge. Revenge the heavens for old Andronicus! Exit |

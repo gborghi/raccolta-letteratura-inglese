@@ -14,144 +14,28 @@ tags:
 </nav>
 
 
-Enter the Earls of Shrewsbury and Surrey, Sir Thomas Palmer, and Sir Roger Cholmley
-Mend this:
-SHREWSBURY
-My lord of Surrey, and Sir Thomas Palmer,
-
-Might I with patience tempt your grave advice?
-
-I tell ye true, that in these dangerous times
-
-I do not like this frowning vulgar brow.
-
-My searching eye did never entertain
-
-A more distracted countenance of grief
-
-Than I have late observed
-
-In the displeased commons of the city.
-SURREY
-’Tis strange, that from his princely clemency
-So well a tempered mercy and a grace
-To all the aliens in this fruitful land,
-That this high-crested insolence should spring
-From them that breathe from his majestic bounty,
-That, fattened with the traffic of our country,
-Already leap into his subjects’ face.
-PALMER
-Yet Sherwin hindered to commence his suit
-Against de Barde, by the Ambassador
-By supplication made unto the King;
-Who, having first enticed away his wife
-And got his plate, near worth four hundred pound,
-To grieve some wronged citizens that found
-This vile disgrace oft cast into their teeth,
-Of late sues Sherwin, and arrested him
-For money for the boarding of his wife.
-SURREY
-The more knave Barde, that, using Sherwin’s goods,
-Doth ask him interest for the occupation.
-I like not that, my lord of Shrewsbury.
-He’s ill bestead that lends a well-paced horse
-Unto a man that will not find him meat.
-CHOLMLEY
-My lord of Surrey will be pleasant still.
-PALMER
-I being then employed by your honours
-To stay the broil that fell about the same,
-Where by persuasion I enforced the wrongs
-And urged the grief of the displeased city,
-He answered me, and with a solemn oath,
-That if he had the Mayor of London’s wife
-He would keep her, in despite of any English man.
-SURREY
-’Tis good, Sir Thomas, then, for you and me
-Your wife is dead, and I a bachelor.
-If no man can possess his wife alone,
-I am glad, Sir Thomas Palmer, I have none.
-CHOLMLEY
-If a take my wife, a shall find her meat.
-SURREY
-And reason good, Sir Robert Cholmley, too:
-If these hot Frenchmen needsly will have sport,
-They should in kindness yet defray the charge.
-’Tis hard when men possess our wives in quiet,
-And yet leave us in to discharge their diet.
-SHREWSBURY
-My lord, our caters shall not use the market
-For our provision but some stranger Lombard now
-Will take the victuals from him he hath bought.
-A carpenter, as I was late informed,
-Who having bought a pair of doves in Cheap,
-Immediately a Frenchman Lombard took them from him,
-And beat the poor man for resisting him;
-And when the fellow did complain his wrongs
-He was severely punished for his labour.
-SURREY
-But if the English blood be once but up,
-
-As I perceive their hearts already full,
-
-I fear me much, before their spleens be cooled,
-
-Some of these saucy aliens for their pride 60
-
-Will pay for’t soundly, wheresoe’er it lights.
-
-This tide of rage that with the eddy strives,
-
-I fear me much, will drown too many lives.
-CHOLMLEY
-Now afore God, your honours, pardon me.
-
-Men of your place and greatness are to blame- 65
-
-I tell ye true, my lords-in that his majesty
-
-Is not informed of this base abuse,
-
-And daily wrongs are offered to his subjects;
-
-For if he were, I know his gracious wisdom
-
-Would soon redress it.
-Enter a Messenger
-SfIREWSBURY
-Sirrah, what news?
-CHOLMLEY
-None good, I fear.
-MESSENGER
-My lord, ill news; and worse, I fear, will follow
-
-If speedily it be not looked unto.
-
-The city is in an uproar, and the Mayor
-
-Is threatened if he come out of his house.
-
-A number, poor artifices
-
-[CHOLMLEY]
-’Twas to be feared what this would come unto.
-This follows on the Doctor’s publishing
-The bill of wrongs in public at the Spital.
-SHREWSBURY
-That Doctor Beal may chance beshrew himself
-For reading of the bill.
-PALMER
-Let us go gather forces to the Mayor
-For quick suppressing this rebellious rout.
-SURREY
-Now I bethink myself of Master More,
-One of the sheriffs, a wise and learned gentleman,
-And in especial favour with the people.
-He, backed with other grave and sober men,
-May by his gentle and persuasive speech
-Perhaps prevail more than we can with power.
-SHREWSBURY
-Believe me but your honour well advises.
-Let us make haste, or I do greatly fear
-Some to their graves this morning’s work will bear.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Earls of Shrewsbury and Surrey, Sir Thomas Palmer, and Sir Roger Cholmley |
+| *(didascalia)* | Mend this: |
+| SHREWSBURY | My lord of Surrey, and Sir Thomas Palmer,<br><br>Might I with patience tempt your grave advice?<br><br>I tell ye true, that in these dangerous times<br><br>I do not like this frowning vulgar brow.<br><br>My searching eye did never entertain<br><br>A more distracted countenance of grief<br><br>Than I have late observed<br><br>In the displeased commons of the city. |
+| SURREY | ’Tis strange, that from his princely clemency<br>So well a tempered mercy and a grace<br>To all the aliens in this fruitful land,<br>That this high-crested insolence should spring<br>From them that breathe from his majestic bounty,<br>That, fattened with the traffic of our country,<br>Already leap into his subjects’ face. |
+| PALMER | Yet Sherwin hindered to commence his suit<br>Against de Barde, by the Ambassador<br>By supplication made unto the King;<br>Who, having first enticed away his wife<br>And got his plate, near worth four hundred pound,<br>To grieve some wronged citizens that found<br>This vile disgrace oft cast into their teeth,<br>Of late sues Sherwin, and arrested him<br>For money for the boarding of his wife. |
+| SURREY | The more knave Barde, that, using Sherwin’s goods,<br>Doth ask him interest for the occupation.<br>I like not that, my lord of Shrewsbury.<br>He’s ill bestead that lends a well-paced horse<br>Unto a man that will not find him meat. |
+| CHOLMLEY | My lord of Surrey will be pleasant still. |
+| PALMER | I being then employed by your honours<br>To stay the broil that fell about the same,<br>Where by persuasion I enforced the wrongs<br>And urged the grief of the displeased city,<br>He answered me, and with a solemn oath,<br>That if he had the Mayor of London’s wife<br>He would keep her, in despite of any English man. |
+| SURREY | ’Tis good, Sir Thomas, then, for you and me<br>Your wife is dead, and I a bachelor.<br>If no man can possess his wife alone,<br>I am glad, Sir Thomas Palmer, I have none. |
+| CHOLMLEY | If a take my wife, a shall find her meat. |
+| SURREY | And reason good, Sir Robert Cholmley, too:<br>If these hot Frenchmen needsly will have sport,<br>They should in kindness yet defray the charge.<br>’Tis hard when men possess our wives in quiet,<br>And yet leave us in to discharge their diet. |
+| SHREWSBURY | My lord, our caters shall not use the market<br>For our provision but some stranger Lombard now<br>Will take the victuals from him he hath bought.<br>A carpenter, as I was late informed,<br>Who having bought a pair of doves in Cheap,<br>Immediately a Frenchman Lombard took them from him,<br>And beat the poor man for resisting him;<br>And when the fellow did complain his wrongs<br>He was severely punished for his labour. |
+| SURREY | But if the English blood be once but up,<br><br>As I perceive their hearts already full,<br><br>I fear me much, before their spleens be cooled,<br><br>Some of these saucy aliens for their pride 60<br><br>Will pay for’t soundly, wheresoe’er it lights.<br><br>This tide of rage that with the eddy strives,<br><br>I fear me much, will drown too many lives. |
+| CHOLMLEY | Now afore God, your honours, pardon me.<br><br>Men of your place and greatness are to blame- 65<br><br>I tell ye true, my lords-in that his majesty<br><br>Is not informed of this base abuse,<br><br>And daily wrongs are offered to his subjects;<br><br>For if he were, I know his gracious wisdom<br><br>Would soon redress it. |
+| *(didascalia)* | Enter a Messenger |
+| CHOLMLEY | SfIREWSBURY<br>Sirrah, what news? |
+| CHOLMLEY | None good, I fear. |
+| MESSENGER | My lord, ill news; and worse, I fear, will follow<br><br>If speedily it be not looked unto.<br><br>The city is in an uproar, and the Mayor<br><br>Is threatened if he come out of his house.<br><br>A number, poor artifices<br><br>[CHOLMLEY]<br>’Twas to be feared what this would come unto.<br>This follows on the Doctor’s publishing<br>The bill of wrongs in public at the Spital. |
+| SHREWSBURY | That Doctor Beal may chance beshrew himself<br>For reading of the bill. |
+| PALMER | Let us go gather forces to the Mayor<br>For quick suppressing this rebellious rout. |
+| SURREY | Now I bethink myself of Master More,<br>One of the sheriffs, a wise and learned gentleman,<br>And in especial favour with the people.<br>He, backed with other grave and sober men,<br>May by his gentle and persuasive speech<br>Perhaps prevail more than we can with power. |
+| SHREWSBURY | Believe me but your honour well advises.<br>Let us make haste, or I do greatly fear<br>Some to their graves this morning’s work will bear. |
+| *(didascalia)* | Exeunt |

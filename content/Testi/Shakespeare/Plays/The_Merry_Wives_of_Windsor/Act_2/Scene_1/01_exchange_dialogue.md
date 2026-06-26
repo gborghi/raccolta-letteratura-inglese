@@ -13,4 +13,6 @@ tags:
 </nav>
 
 
-Enter Mistress Page, with a letter
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Mistress Page, with a letter |

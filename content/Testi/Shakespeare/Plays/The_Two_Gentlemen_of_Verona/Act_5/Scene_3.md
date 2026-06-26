@@ -14,26 +14,15 @@ tags:
 </nav>
 
 
-Enter the Outlaws with Silvia captive
-FIRST OUTLAW
-Come, come, be patient. We must bring you to our captain.
-SILVIA
-A thousand more mischances than this one
-Have learned me how to brook this patiently.
-SECOND OUTLAW Come, bring her away.
-FIRST OUTLAW
-Where is the gentleman that was with her?
-THIRD OUTLAW
-Being nimble-footed he hath outrun us;
-But Moses and Valerius follow him.
-Go thou with her to the west end of the wood.
-There is our captain. We’ll follow him that’s fled.
-The thicket is beset, he cannot scape.
-Exeunt the Second and Third Outlaws
-FIRST OUTLAW (to Silvia)
-Come, I must bring you to our captain’s cave.
-Fear not. He bears an honourable mind,
-And will not use a woman lawlessly.
-SILVIA (aside)
-O Valentine! This I endure for thee.
-Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Outlaws with Silvia captive |
+| FIRST OUTLAW | Come, come, be patient. We must bring you to our captain. |
+| SILVIA | A thousand more mischances than this one<br>Have learned me how to brook this patiently. |
+| SECOND OUTLAW | Come, bring her away. |
+| FIRST OUTLAW | Where is the gentleman that was with her? |
+| THIRD OUTLAW | Being nimble-footed he hath outrun us;<br>But Moses and Valerius follow him.<br>Go thou with her to the west end of the wood.<br>There is our captain. We’ll follow him that’s fled.<br>The thicket is beset, he cannot scape. |
+| *(didascalia)* | Exeunt the Second and Third Outlaws |
+| FIRST OUTLAW | (to Silvia)<br>Come, I must bring you to our captain’s cave.<br>Fear not. He bears an honourable mind,<br>And will not use a woman lawlessly. |
+| SILVIA | (aside)<br>O Valentine! This I endure for thee. |
+| *(didascalia)* | Exeunt |

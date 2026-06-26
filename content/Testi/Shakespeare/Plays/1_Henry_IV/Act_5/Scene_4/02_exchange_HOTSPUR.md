@@ -13,50 +13,14 @@ tags:
 </nav>
 
 
-HOTSPUR
-If I mistake not, thou art Harry Monmouth.
-
-PRINCE HARRY
-Thou speak’st as if I would deny my name.
-
-HOTSPUR
-My name is Harry Percy.
-
-PRINCE HARRY Why then, I see
-A very valiant rebel of the name.
-I am the Prince of Wales; and think not, Percy,
-To share with me in glory any more.
-Two stars keep not their motion in one sphere,
-Nor can one England brook a double reign
-Of Harry Percy and the Prince of Wales.
-
-HOTSPUR
-Nor shall it, Harry, for the hour is come
-To end the one of us, and would to God
-Thy name in arms were now as great as mine.
-
-PRINCE HARRY
-I’ll make it greater ere I part from thee,
-And all the budding honours on thy crest
-I’ll crop to make a garland for my head.
-
-HOTSPUR
-I can no longer brook thy vanities.
-They fight.
-Enter Sir John Oldcastle
-
-SIR JOHN Well said, Hal! To it, Hal! Nay, you shall find no boy’s play here, I can tell you.
-Enter Douglas. He fighteth with Sir John, who falls down as if he were dead. Exit Douglas. The Prince killeth Hotspur
-
-HOTSPUR
-O Harry, thou hast robbed me of my youth.
-I better brook the loss of brittle life
-Than those proud titles thou hast won of me.
-They wound my thoughts worse than thy sword my
-flesh.
-But thoughts, the slaves of life, and life, time’s fool,
-And time, that takes survey of all the world,
-Must have a stop. O, I could prophesy,
-But that the earthy and cold hand of death
-Lies on my tongue. No, Percy, thou art dust,
-And food for—He dies
+| Chi parla | Battuta |
+|---|---|
+| HOTSPUR | If I mistake not, thou art Harry Monmouth. |
+| PRINCE HARRY | Thou speak’st as if I would deny my name. |
+| HOTSPUR | My name is Harry Percy. |
+| PRINCE HARRY | Why then, I see A very valiant rebel of the name. I am the Prince of Wales; and think not, Percy, To share with me in glory any more. Two stars keep not their motion in one sphere, Nor can one England brook a double reign Of Harry Percy and the Prince of Wales. |
+| HOTSPUR | Nor shall it, Harry, for the hour is come To end the one of us, and would to God Thy name in arms were now as great as mine. |
+| PRINCE HARRY | I’ll make it greater ere I part from thee, And all the budding honours on thy crest I’ll crop to make a garland for my head. |
+| HOTSPUR | I can no longer brook thy vanities. They fight. Enter Sir John Oldcastle |
+| SIR JOHN | Well said, Hal! To it, Hal! Nay, you shall find no boy’s play here, I can tell you. Enter Douglas. He fighteth with Sir John, who falls down as if he were dead. Exit Douglas. The Prince killeth Hotspur |
+| HOTSPUR | O Harry, thou hast robbed me of my youth. I better brook the loss of brittle life Than those proud titles thou hast won of me. They wound my thoughts worse than thy sword my flesh. But thoughts, the slaves of life, and life, time’s fool, And time, that takes survey of all the world, Must have a stop. O, I could prophesy, But that the earthy and cold hand of death Lies on my tongue. No, Percy, thou art dust, And food for—He dies |

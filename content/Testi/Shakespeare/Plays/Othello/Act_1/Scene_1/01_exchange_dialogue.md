@@ -13,15 +13,9 @@ tags:
 </nav>
 
 
-Enter Iago and Roderigo
-
-RODERIGO
-Tush, never tell me! I take it much unkindly
-That thou, Iago, who hast had my purse
-As if the strings were thine, shouldst know of this.
-
-IAGO ’Sblood, but you’ll not hear me!
-If ever I did dream of such a matter, abhor me.
-
-RODERIGO
-Thou told’st me thou didst hold him in thy hate.
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Iago and Roderigo |
+| RODERIGO | Tush, never tell me! I take it much unkindly That thou, Iago, who hast had my purse As if the strings were thine, shouldst know of this. |
+| IAGO | ’Sblood, but you’ll not hear me! If ever I did dream of such a matter, abhor me. |
+| RODERIGO | Thou told’st me thou didst hold him in thy hate. |

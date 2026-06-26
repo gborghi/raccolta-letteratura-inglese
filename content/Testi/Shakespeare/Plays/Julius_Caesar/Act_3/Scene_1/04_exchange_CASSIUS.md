@@ -13,13 +13,7 @@ tags:
 </nav>
 
 
-CASSIUS
-Your voice shall be as strong as any man’s
-In the disposing of new dignities.
-
-BRUTUS
-Only be patient till we have appeased
-The multitude, beside themselves with fear,
-And then we will deliver you the cause
-Why I, that did love Caesar when I struck him,
-Have thus proceeded.
+| Chi parla | Battuta |
+|---|---|
+| CASSIUS | Your voice shall be as strong as any man’s In the disposing of new dignities. |
+| BRUTUS | Only be patient till we have appeased The multitude, beside themselves with fear, And then we will deliver you the cause Why I, that did love Caesar when I struck him, Have thus proceeded. |

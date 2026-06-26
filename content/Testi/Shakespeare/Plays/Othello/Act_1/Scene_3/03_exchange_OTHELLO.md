@@ -13,14 +13,7 @@ tags:
 </nav>
 
 
-OTHELLO
-Ensign, conduct them. You best know the place.
-Exit Iago with two or three officers
-And till she come, as truly as to heaven
-I do confess the vices of my blood,
-So justly to your grave ears I’ll present
-How I did thrive in this fair lady’s love
-And she in mine.
-
-DUKE
-Say it, Othello.
+| Chi parla | Battuta |
+|---|---|
+| OTHELLO | Ensign, conduct them. You best know the place. Exit Iago with two or three officers And till she come, as truly as to heaven I do confess the vices of my blood, So justly to your grave ears I’ll present How I did thrive in this fair lady’s love And she in mine. |
+| DUKE | Say it, Othello. |

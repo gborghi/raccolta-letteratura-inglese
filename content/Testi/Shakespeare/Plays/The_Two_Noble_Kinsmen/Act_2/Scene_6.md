@@ -14,45 +14,8 @@ tags:
 </nav>
 
 
-Enter the jailer’s Daughter
-JAILER’S DAUGHTER
-Let all the dukes and all the devils roar—
-He is at liberty! I have ventured for him,
-And out I have brought him. To a little wood
-A mile hence I have sent him, where a cedar
-Higher than all the rest spreads like a plane,
-Fast by a brook—and there he shall keep close
-Till I provide him files and food, for yet
-His iron bracelets are not off. O Love,
-What a stout-hearted child thou art! My father
-Durst better have endured cold iron than done it.
-I love him beyond love and beyond reason
-Or wit or safety. I have made him know it—
-I care not, I am desperate. If the law
-Find me and then condemn me for‘t, some wenches,
-Some honest-hearted maids, will sing my dirge
-And tell to memory my death was noble,
-Dying almost a martyr. That way he takes,
-I purpose, is my way too. Sure, he cannot
-Be so unmanly as to leave me here.
-If he do, maids will not so easily
-Trust men again. And yet, he has not thanked me
-For what I have done—no, not so much as kissed me—
-And that, methinks, is not so well. Nor scarcely
-Could I persuade him to become a free man,
-He made such scruples of the wrong he did
-To me and to my father. Yet, I hope
-When he considers more, this love of mine
-Will take more root within him. Let him do
-What he will with me—so he use me kindly.
-For use me, so he shall, or I’ll proclaim him,
-And to his face, no man. I’ll presently
-Provide him necessaries and pack my clothes up,
-And where there is a patch of ground I’ll venture,
-So he be with me. By him, like a shadow,
-I’ll ever dwell. Within this hour the hubbub
-Will be all o’er the prison—I am then
-Kissing the man they look for. Farewell, father:
-Get many more such prisoners and such daughters,
-And shortly you may keep yourself. Now to him.
-Exit
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the jailer’s Daughter |
+| JAILER’S DAUGHTER | Let all the dukes and all the devils roar—<br>He is at liberty! I have ventured for him,<br>And out I have brought him. To a little wood<br>A mile hence I have sent him, where a cedar<br>Higher than all the rest spreads like a plane,<br>Fast by a brook—and there he shall keep close<br>Till I provide him files and food, for yet<br>His iron bracelets are not off. O Love,<br>What a stout-hearted child thou art! My father<br>Durst better have endured cold iron than done it.<br>I love him beyond love and beyond reason<br>Or wit or safety. I have made him know it—<br>I care not, I am desperate. If the law<br>Find me and then condemn me for‘t, some wenches,<br>Some honest-hearted maids, will sing my dirge<br>And tell to memory my death was noble,<br>Dying almost a martyr. That way he takes,<br>I purpose, is my way too. Sure, he cannot<br>Be so unmanly as to leave me here.<br>If he do, maids will not so easily<br>Trust men again. And yet, he has not thanked me<br>For what I have done—no, not so much as kissed me—<br>And that, methinks, is not so well. Nor scarcely<br>Could I persuade him to become a free man,<br>He made such scruples of the wrong he did<br>To me and to my father. Yet, I hope<br>When he considers more, this love of mine<br>Will take more root within him. Let him do<br>What he will with me—so he use me kindly.<br>For use me, so he shall, or I’ll proclaim him,<br>And to his face, no man. I’ll presently<br>Provide him necessaries and pack my clothes up,<br>And where there is a patch of ground I’ll venture,<br>So he be with me. By him, like a shadow,<br>I’ll ever dwell. Within this hour the hubbub<br>Will be all o’er the prison—I am then<br>Kissing the man they look for. Farewell, father:<br>Get many more such prisoners and such daughters,<br>And shortly you may keep yourself. Now to him. |
+| *(didascalia)* | Exit |

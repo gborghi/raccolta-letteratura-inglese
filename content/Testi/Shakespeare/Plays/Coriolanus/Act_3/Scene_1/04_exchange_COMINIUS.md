@@ -13,22 +13,10 @@ tags:
 </nav>
 
 
-COMINIUS
-Well, on to th’ market-place.
-
-CORIOLANUS
-Whoever gave that counsel to give forth
-The corn o‘th’ storehouse gratis, as ’twas used
-Sometime in Greece—
-
-MENENIUS
-Well, well, no more of that.
-
-CORIOLANUS
-Though there the people had more absolute power—
-I say they nourished disobedience, fed
-The ruin of the state.
-
-BRUTUS
-Why shall the people give
-One that speaks thus their voice?
+| Chi parla | Battuta |
+|---|---|
+| COMINIUS | Well, on to th’ market-place. |
+| CORIOLANUS | Whoever gave that counsel to give forth The corn o‘th’ storehouse gratis, as ’twas used Sometime in Greece— |
+| MENENIUS | Well, well, no more of that. |
+| CORIOLANUS | Though there the people had more absolute power— I say they nourished disobedience, fed The ruin of the state. |
+| BRUTUS | Why shall the people give One that speaks thus their voice? |

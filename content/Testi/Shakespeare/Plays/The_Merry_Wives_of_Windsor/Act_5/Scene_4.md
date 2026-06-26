@@ -14,5 +14,7 @@ tags:
 </nav>
 
 
-Enter Sir Hugh Evans, ⌈Disguised as a satyr,⌉ and ⌈William Page and others⌉ children, disguised as fairies
-EVANS Trib, trib, fairies! Come! And remember your parts. Be pold, I pray you. Follow me into the pit, and when I give the watch’ords, do as I pid you. Come, come; trib, trib! Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter Sir Hugh Evans, Disguised as a satyr, and William Page and others children, disguised as fairies |
+| EVANS | Trib, trib, fairies! Come! And remember your parts. Be pold, I pray you. Follow me into the pit, and when I give the watch’ords, do as I pid you. Come, come; trib, trib! Exeunt |

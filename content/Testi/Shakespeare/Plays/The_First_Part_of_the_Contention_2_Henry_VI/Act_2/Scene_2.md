@@ -14,104 +14,24 @@ tags:
 </nav>
 
 
-Enter the Duke of York and the Earls of Salisbury and Warwick
-YORK
-Now, my good lords of Salisbury and Warwick,
-Our simple supper ended, give me leave
-In this close walk to satisfy myself
-In craving your opinion of my title,
-Which is infallible, to England’s crown.
-SALISBURY
-My lord, I long to hear it out at full.
-WARWICK
-Sweet York, begin, and if thy claim be good,
-The Nevilles are thy subjects to command.
-YORK Then thus:
-Edward the Third, my lords, had seven sons:
-The first, Edward the Black Prince, Prince of Wales;
-The second, William of Hatfield; and the third,
-Lionel Duke of Clarence; next to whom
-Was John of Gaunt, the Duke of Lancaster;
-The fifth was Edmund Langley, Duke of York;
-The sixth was Thomas of Woodstock, Duke of
-Gloucester;
-William of Windsor was the seventh and last.
-Edward the Black Prince died before his father
-And left behind him Richard, his only son,
-Who, after Edward the Third’s death, reigned as king
-Till Henry Bolingbroke, Duke of Lancaster,
-The eldest son and heir of John of Gaunt,
-Crowned by the name of Henry the Fourth,
-Seized on the realm, deposed the rightful king,
-Sent his poor queen to France from whence she came,
-And him to Pomfret; where, as well you know,
-Harmless Richard was murdered traitorously.
-WARWICK (to Salisbury)
-Father, the Duke of York hath told the truth;
-Thus got the house of Lancaster the crown.
-YORK
-Which now they hold by force and not by right;
-For Richard, the first son’s heir, being dead,
-The issue of the next son should have reigned.
-SALISBURY
-But William of Hatfield died without an heir.
-YORK
-The third son, Duke of Clarence, from whose line
-I claim the crown, had issue Phillipe, a daughter,
-Who married Edmund Mortimer, Earl of March;
-Edmund had issue, Roger, Earl of March;
-Roger had issue, Edmund, Anne and Eleanor.
-SALISBURY
-This Edmund, in the reign of Bolingbroke,
-As I have read, laid claim unto the crown,
-And, but for Owain Glyndwr, had been king,
-Who kept him in captivity till he died.
-But to the rest.
-YORK His eldest sister, Anne,
-My mother, being heir unto the crown,
-Married Richard, Earl of Cambridge, who was son
-To Edmund Langley, Edward the Third’s fifth son.
-By her I claim the kingdom: she was heir
-To Roger, Earl of March, who was the son
-Of Edmund Mortimer, who married Phillipe,
-Sole daughter unto Lionel, Duke of Clarence.
-So if the issue of the elder son
-Succeed before the younger, I am king.
-WARWICK
-What plain proceedings is more plain than this?
-Henry doth claim the crown from John of Gaunt,
-The fourth son; York claims it from the third:
-Till Lionel’s issue fails, John’s should not reign.
-It fails not yet, but flourishes in thee
-And in thy sons, fair slips of such a stock.
-Then, father Salisbury, kneel we together,
-And in this private plot be we the first
-That shall salute our rightful sovereign
-With honour of his birthright to the crown.
-SALISBURY and WARWICK (kneeling)
-Long live our sovereign Richard, England’s king!
-YORK
-We thank you, lords;
-⌈Salisbury and Warwick rise⌉
-but I am not your king
-Till I be crowned, and that my sword be stained
-With heart-blood of the house of Lancaster—
-And that’s not suddenly to be performed,
-But with advice and silent secrecy.
-Do you, as I do, in these dangerous days,
-Wink at the Duke of Suffolk’s insolence,
-At Beaufort’s pride, at Somerset’s ambition,
-At Buckingham, and all the crew of them,
-Till they have snared the shepherd of the flock,
-That virtuous prince, the good Duke Humphrey.
-᾽Tis that they seek, and they, in seeking that,
-Shall find their deaths, if York can prophesy.
-SALISBURY
-My lord, break off—we know your mind at full.
-WARWICK
-My heart assures me that the Earl of Warwick
-Shall one day make the Duke of York a king.
-YORK
-And Neville, this I do assure myself—
-Richard shall live to make the Earl of Warwick
-The greatest man in England but the King. Exeunt
+| Chi parla | Battuta |
+|---|---|
+| *(didascalia)* | Enter the Duke of York and the Earls of Salisbury and Warwick |
+| YORK | Now, my good lords of Salisbury and Warwick,<br>Our simple supper ended, give me leave<br>In this close walk to satisfy myself<br>In craving your opinion of my title,<br>Which is infallible, to England’s crown. |
+| SALISBURY | My lord, I long to hear it out at full. |
+| WARWICK | Sweet York, begin, and if thy claim be good,<br>The Nevilles are thy subjects to command. |
+| YORK | Then thus:<br>Edward the Third, my lords, had seven sons:<br>The first, Edward the Black Prince, Prince of Wales;<br>The second, William of Hatfield; and the third,<br>Lionel Duke of Clarence; next to whom<br>Was John of Gaunt, the Duke of Lancaster;<br>The fifth was Edmund Langley, Duke of York;<br>The sixth was Thomas of Woodstock, Duke of<br>Gloucester;<br>William of Windsor was the seventh and last.<br>Edward the Black Prince died before his father<br>And left behind him Richard, his only son,<br>Who, after Edward the Third’s death, reigned as king<br>Till Henry Bolingbroke, Duke of Lancaster,<br>The eldest son and heir of John of Gaunt,<br>Crowned by the name of Henry the Fourth,<br>Seized on the realm, deposed the rightful king,<br>Sent his poor queen to France from whence she came,<br>And him to Pomfret; where, as well you know,<br>Harmless Richard was murdered traitorously. |
+| WARWICK | (to Salisbury)<br>Father, the Duke of York hath told the truth;<br>Thus got the house of Lancaster the crown. |
+| YORK | Which now they hold by force and not by right;<br>For Richard, the first son’s heir, being dead,<br>The issue of the next son should have reigned. |
+| SALISBURY | But William of Hatfield died without an heir. |
+| YORK | The third son, Duke of Clarence, from whose line<br>I claim the crown, had issue Phillipe, a daughter,<br>Who married Edmund Mortimer, Earl of March;<br>Edmund had issue, Roger, Earl of March;<br>Roger had issue, Edmund, Anne and Eleanor. |
+| SALISBURY | This Edmund, in the reign of Bolingbroke,<br>As I have read, laid claim unto the crown,<br>And, but for Owain Glyndwr, had been king,<br>Who kept him in captivity till he died.<br>But to the rest. |
+| YORK | His eldest sister, Anne,<br>My mother, being heir unto the crown,<br>Married Richard, Earl of Cambridge, who was son<br>To Edmund Langley, Edward the Third’s fifth son.<br>By her I claim the kingdom: she was heir<br>To Roger, Earl of March, who was the son<br>Of Edmund Mortimer, who married Phillipe,<br>Sole daughter unto Lionel, Duke of Clarence.<br>So if the issue of the elder son<br>Succeed before the younger, I am king. |
+| WARWICK | What plain proceedings is more plain than this?<br>Henry doth claim the crown from John of Gaunt,<br>The fourth son; York claims it from the third:<br>Till Lionel’s issue fails, John’s should not reign.<br>It fails not yet, but flourishes in thee<br>And in thy sons, fair slips of such a stock.<br>Then, father Salisbury, kneel we together,<br>And in this private plot be we the first<br>That shall salute our rightful sovereign<br>With honour of his birthright to the crown. |
+| SALISBURY | and WARWICK (kneeling)<br>Long live our sovereign Richard, England’s king! |
+| YORK | We thank you, lords; |
+| *(didascalia)* | Salisbury and Warwick rise |
+| YORK | but I am not your king<br>Till I be crowned, and that my sword be stained<br>With heart-blood of the house of Lancaster—<br>And that’s not suddenly to be performed,<br>But with advice and silent secrecy.<br>Do you, as I do, in these dangerous days,<br>Wink at the Duke of Suffolk’s insolence,<br>At Beaufort’s pride, at Somerset’s ambition,<br>At Buckingham, and all the crew of them,<br>Till they have snared the shepherd of the flock,<br>That virtuous prince, the good Duke Humphrey.<br>᾽Tis that they seek, and they, in seeking that,<br>Shall find their deaths, if York can prophesy. |
+| SALISBURY | My lord, break off—we know your mind at full. |
+| WARWICK | My heart assures me that the Earl of Warwick<br>Shall one day make the Duke of York a king. |
+| YORK | And Neville, this I do assure myself—<br>Richard shall live to make the Earl of Warwick<br>The greatest man in England but the King. Exeunt |
