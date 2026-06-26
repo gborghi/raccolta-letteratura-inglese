@@ -16,8 +16,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet: Oh! how I love, on a fair summer’s eve
-
 *by Keats*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
@@ -32,18 +30,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Oh! how I love, on a fair summer’s eve,
-When streams of light pour down the golden west,
-And on the balmy zephyrs tranquil rest
-The silver clouds, far - far away to leave
-All meaner thoughts, and take a sweet reprieve
-From little cares; to find, with easy quest,
-A fragrant wild, with Nature’s beauty drest,
-And there into delight my soul deceive.
-There warm my breast with patriotic lore,
-Musing on Milton’s fate - on Sydney’s bier -
-10
-Till their stern forms before my mind arise:
-Perhaps on wing of Poesy upsoar,
-Full often dropping a delicious tear,
-When some melodious sorrow spells mine eyes.
+Oh! how I love, on a fair summer’s eve,  
+When streams of light pour down the golden west,  
+And on the balmy zephyrs tranquil rest  
+The silver clouds, far - far away to leave  
+All meaner thoughts, and take a sweet reprieve  
+From little cares; to find, with easy quest,  
+A fragrant wild, with Nature’s beauty drest,  
+And there into delight my soul deceive.  
+There warm my breast with patriotic lore,  
+Musing on Milton’s fate - on Sydney’s bier -  
+10  
+Till their stern forms before my mind arise:  
+Perhaps on wing of Poesy upsoar,  
+Full often dropping a delicious tear,  
+When some melodious sorrow spells mine eyes.  

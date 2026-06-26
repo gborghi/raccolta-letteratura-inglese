@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — CONFESS that to me the celebration of the Centenary of William Morris (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_38_HAPPENED_to_meet_again_recently_after_ma/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_39_CONFESS_that_to_me_the_celebration_of_th/part_02">part 02 ›</a></div>

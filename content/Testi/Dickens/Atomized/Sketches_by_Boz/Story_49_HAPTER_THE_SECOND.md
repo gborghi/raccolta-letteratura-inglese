@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER THE SECOND.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_48_HAPTER_I">‹ Story 48 HAPTER I</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_50_HAPTER_IIMR_MINNS_AND_HIS_COUSIN">Story 50 HAPTER IIMR MINNS AND HIS COUSIN ›</a></div>

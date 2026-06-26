@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Lion
-
 *Motif* — appears in **3** work(s).
 
 ## Works

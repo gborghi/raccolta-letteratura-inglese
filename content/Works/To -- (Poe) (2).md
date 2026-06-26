@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# To --
-
 *by Poe*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
@@ -30,20 +28,20 @@ tags:
 
 ## Testo integrale / Full text
 
-1
-     The bowers whereat, in dreams, I see
-         The wantonest singing birds
-     Are lips—and all thy melody
-         Of lip-begotten words—
-                      2
-     Thine eyes, in Heaven of heart enshrin’d
-         Then desolately fall,
-     O! God! on my funereal mind
-         Like starlight on a pall—
-                       3
-     Thy heart—_thy_ heart!—I wake and sigh,
-         And sleep to dream till day
-     Of truth that gold can never buy—
-         Of the trifles that it may.
+1  
+     The bowers whereat, in dreams, I see  
+         The wantonest singing birds  
+     Are lips—and all thy melody  
+         Of lip-begotten words—  
+                      2  
+     Thine eyes, in Heaven of heart enshrin’d  
+         Then desolately fall,  
+     O! God! on my funereal mind  
+         Like starlight on a pall—  
+                       3  
+     Thy heart—_thy_ heart!—I wake and sigh,  
+         And sleep to dream till day  
+     Of truth that gold can never buy—  
+         Of the trifles that it may.  
 
-      1829.
+      1829.  

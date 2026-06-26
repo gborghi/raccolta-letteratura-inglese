@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 22: A Puzzle (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_24_Mr_Merdles_Complaint/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_25_A_Puzzle/part_02">part 02 ›</a></div>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Terror and Horror · Madness · Madness
-
 *Cluster* — **25 works**.
 
 ## Defining concepts

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Conversation Poem
-
 *Form/Genre* — appears in **2** work(s).
 
 ## Works

@@ -16,8 +16,6 @@ tags:
   - setting/london
 ---
 
-# cabman
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

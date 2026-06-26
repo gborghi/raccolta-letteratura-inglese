@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Ship
-
 *Setting* — appears in **31** work(s).
 
 ## Works

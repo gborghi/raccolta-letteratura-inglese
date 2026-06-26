@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# longbow2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/longbow2-(Chesterton)">longbow2</a></div>
 </nav>

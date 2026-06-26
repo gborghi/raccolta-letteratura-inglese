@@ -15,8 +15,6 @@ tags:
   - form/apologetics
 ---
 
-# mending
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

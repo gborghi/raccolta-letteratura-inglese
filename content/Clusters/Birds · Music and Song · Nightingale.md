@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Birds · Music and Song · Nightingale
-
 *Cluster* — **55 works**.
 
 ## Defining concepts

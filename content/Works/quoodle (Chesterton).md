@@ -18,8 +18,6 @@ tags:
   - topos/book_of_nature
 ---
 
-# quoodle
-
 *by Chesterton*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -34,49 +32,49 @@ tags:
 
 ## Testo integrale / Full text
 
-THE SONG OF QUOODLE
+THE SONG OF QUOODLE  
 
-G.K.Chesterton
+G.K.Chesterton  
 
-They haven't got no noses,
-The fallen sons of Eve;
-Even the smell of roses
-Is not what they supposes;
-But more than mind discloses
-And more than men believe.
+They haven't got no noses,  
+The fallen sons of Eve;  
+Even the smell of roses  
+Is not what they supposes;  
+But more than mind discloses  
+And more than men believe.  
 
-They haven't got no noses,
-They cannot even tell
-When door and darkness closes
-The park a Jew encloses,
-Where even the law of Moses
-Will let you steal a smell.
+They haven't got no noses,  
+They cannot even tell  
+When door and darkness closes  
+The park a Jew encloses,  
+Where even the law of Moses  
+Will let you steal a smell.  
 
-The brilliant smell of water,
-The brave smell of a stone,
-The smell of dew and thunder,
-The old bones buried under,
-Are things in which they blunder
-And err, if left alone.
+The brilliant smell of water,  
+The brave smell of a stone,  
+The smell of dew and thunder,  
+The old bones buried under,  
+Are things in which they blunder  
+And err, if left alone.  
 
-The wind from winter forests,
-The scent of scentless flowers,
-The breath of brides' adorning,
-The smell of snare and warning,
-The smell of Sunday morning,
-God gave to us for ours
+The wind from winter forests,  
+The scent of scentless flowers,  
+The breath of brides' adorning,  
+The smell of snare and warning,  
+The smell of Sunday morning,  
+God gave to us for ours  
 
    *    *    *    *    *
 
-And Quoodle here discloses
-All things that Quoodle can,
-They haven't got no noses,
-They haven't got no noses,
-And goodness only knowses
-The Noselessness of Man.
+And Quoodle here discloses  
+All things that Quoodle can,  
+They haven't got no noses,  
+They haven't got no noses,  
+And goodness only knowses  
+The Noselessness of Man.  
 
 
 
 
 
-===== FINE FILE: quoodle.txt =====
+===== FINE FILE: quoodle.txt =====  

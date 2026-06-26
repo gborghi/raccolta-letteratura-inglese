@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# The First Dandelion
-
 *by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 
@@ -34,11 +32,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Simple and fresh and fair from winter’s close emerging,
-  As if no artifice of fashion, business, politics, had ever been,
-  Forth from its sunny nook of shelter’d grass--innocent, golden, calm
-      as the dawn,
-  The spring’s first dandelion shows its trustful face.
+  Simple and fresh and fair from winter’s close emerging,  
+  As if no artifice of fashion, business, politics, had ever been,  
+  Forth from its sunny nook of shelter’d grass--innocent, golden, calm  
+      as the dawn,  
+  The spring’s first dandelion shows its trustful face.  

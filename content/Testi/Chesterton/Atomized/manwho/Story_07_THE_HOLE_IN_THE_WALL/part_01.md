@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE HOLE IN THE WALL (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_06_THE_FAD_OF_THE_FISHERMAN/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_07_THE_HOLE_IN_THE_WALL/part_02">part 02 ›</a></div>

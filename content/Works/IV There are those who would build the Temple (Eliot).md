@@ -17,8 +17,6 @@ tags:
   - histref/the_bible
 ---
 
-# IV There are those who would build the Temple
-
 *by Eliot*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 
@@ -34,56 +32,56 @@ tags:
 
 ## Testo integrale / Full text
 
-IV There are those who would build the Temple
-There are those who would build the Temple,
-And those who prefer that the Temple should not be built.
-In the days of Nehemiah the Prophet
-There was no exception to the general rule.
-In Shushan the palace, in the month Nisan,
-He served the wine to the king Artaxerxes,
-And he grieved for the broken city, Jerusalem;
-And the King gave him leave to depart
-That he might rebuild the city.
-So he went, with a few, to Jerusalem,
-And there, by the dragon’s well, by the dung gate,
-By the fountain gate, by the king’s pool,
-Jerusalem lay waste, consumed with fire;
-No place for a beast to pass.
-There were enemies without to destroy him,
-And spies and self-seekers within,
-When he and his men laid their hands to rebuilding the wall.
-So they built as men must build
-With the sword in one hand and the trowel in the other.
+IV There are those who would build the Temple  
+There are those who would build the Temple,  
+And those who prefer that the Temple should not be built.  
+In the days of Nehemiah the Prophet  
+There was no exception to the general rule.  
+In Shushan the palace, in the month Nisan,  
+He served the wine to the king Artaxerxes,  
+And he grieved for the broken city, Jerusalem;  
+And the King gave him leave to depart  
+That he might rebuild the city.  
+So he went, with a few, to Jerusalem,  
+And there, by the dragon’s well, by the dung gate,  
+By the fountain gate, by the king’s pool,  
+Jerusalem lay waste, consumed with fire;  
+No place for a beast to pass.  
+There were enemies without to destroy him,  
+And spies and self-seekers within,  
+When he and his men laid their hands to rebuilding the wall.  
+So they built as men must build  
+With the sword in one hand and the trowel in the other.  
 
-V O Lord, deliver me from the man of excellent intention and impure heart
-O Lord, deliver me from the man of excellent intention and impure heart: for the heart is deceitful above all things, and desperately wicked.
-
-
-Sanballat the Horonite and Tobiah the Ammonite and Geshem the Arabian: were doubtless men of public spirit and zeal.
+V O Lord, deliver me from the man of excellent intention and impure heart  
+O Lord, deliver me from the man of excellent intention and impure heart: for the heart is deceitful above all things, and desperately wicked.  
 
 
-Preserve me from the enemy who has something to gain: and from the friend who has something to lose.
+Sanballat the Horonite and Tobiah the Ammonite and Geshem the Arabian: were doubtless men of public spirit and zeal.  
 
 
-Remembering the words of Nehemiah the Prophet: ‘The trowel in hand, and the gun rather loose in the holster.’
+Preserve me from the enemy who has something to gain: and from the friend who has something to lose.  
 
 
-Those who sit in a house of which the use is forgotten: are like snakes that lie on mouldering stairs, content in the sunlight.
+Remembering the words of Nehemiah the Prophet: ‘The trowel in hand, and the gun rather loose in the holster.’  
 
 
-And the others run about like dogs, full of enterprise, sniffing and barking: they say, ‘This house is a nest of serpents, let us destroy it,
+Those who sit in a house of which the use is forgotten: are like snakes that lie on mouldering stairs, content in the sunlight.  
 
 
-And have done with these abominations, the turpitudes of the Christians.’ And these are not justified, nor the others.
+And the others run about like dogs, full of enterprise, sniffing and barking: they say, ‘This house is a nest of serpents, let us destroy it,  
 
 
-And they write innumerable books; being too vain and distracted for silence: seeking every one after his own elevation, and dodging his emptiness.
+And have done with these abominations, the turpitudes of the Christians.’ And these are not justified, nor the others.  
 
 
-If humility and purity be not in the heart, they are not in the home: and if they are not in the home, they are not in the City.
+And they write innumerable books; being too vain and distracted for silence: seeking every one after his own elevation, and dodging his emptiness.  
 
 
-The man who has builded during the day would return to his hearth at nightfall: to be blessed with the gift of silence, and doze before he sleeps.
+If humility and purity be not in the heart, they are not in the home: and if they are not in the home, they are not in the City.  
 
 
-But we are encompassed with snakes and dogs: therefore some must labour, and others must hold the spears.
+The man who has builded during the day would return to his hearth at nightfall: to be blessed with the gift of silence, and doze before he sleeps.  
+
+
+But we are encompassed with snakes and dogs: therefore some must labour, and others must hold the spears.  

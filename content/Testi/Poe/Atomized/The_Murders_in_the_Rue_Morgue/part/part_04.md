@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Murders in the Rue Morgue (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Murders-in-the-Rue-Morgue-(Poe)">The Murders in the Rue Morgue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Murders_in_the_Rue_Morgue/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Murders_in_the_Rue_Morgue/part/part_05">part 05 ›</a></div>

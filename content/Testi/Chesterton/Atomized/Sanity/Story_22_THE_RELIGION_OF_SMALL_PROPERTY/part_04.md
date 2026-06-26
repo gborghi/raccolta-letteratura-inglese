@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE RELIGION OF SMALL PROPERTY (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_22_THE_RELIGION_OF_SMALL_PROPERTY/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_22_THE_RELIGION_OF_SMALL_PROPERTY/part_05">part 05 ›</a></div>

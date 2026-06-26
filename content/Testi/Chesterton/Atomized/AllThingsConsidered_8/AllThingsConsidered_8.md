@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Metzengerstein
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Metzengerstein-(Poe)">Metzengerstein</a></div>
 </nav>

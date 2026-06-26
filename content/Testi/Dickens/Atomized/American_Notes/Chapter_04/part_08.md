@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# American Notes — Chapter 3 (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/American-Notes-(Dickens)">American Notes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/American_Notes/Chapter_04/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/American_Notes/Chapter_04/part_09">part 09 ›</a></div>

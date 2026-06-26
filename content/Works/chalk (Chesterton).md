@@ -18,8 +18,6 @@ tags:
   - setting/rural_england
 ---
 
-# chalk
-
 *by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 

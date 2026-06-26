@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Desire
-
 *Motif* — appears in **70** work(s).
 
 ## Works

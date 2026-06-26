@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Tempest — Act III, Scene 3 — monologue (ARIEL) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TEMPEST-(Shakespeare)">The Tempest</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Speaker
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Speaker-(Chesterton)">The Speaker</a></div>
 </nav>

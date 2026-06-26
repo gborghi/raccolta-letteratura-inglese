@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — Viii The Chief Mourner Of Marne (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_10_The_Secret_Of_Flambeau/part_01">part 01 ›</a></div>

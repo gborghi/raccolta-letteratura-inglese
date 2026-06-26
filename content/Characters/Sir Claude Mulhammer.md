@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sir Claude Mulhammer
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Well
-
 *Motif* — appears in **1** work(s).
 
 ## Works

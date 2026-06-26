@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Manhattan
-
 *Setting* — appears in **3** work(s).
 
 ## Works

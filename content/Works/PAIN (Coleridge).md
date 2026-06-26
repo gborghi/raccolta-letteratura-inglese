@@ -15,8 +15,6 @@ tags:
   - concept/transience
 ---
 
-# PAIN
-
 *by Coleridge*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Once could the Morn’s first beams, the healthful breeze,
-All Nature charm, and gay was every hour: —
-But ah! not Music’s self, nor fragrant bower
-Can glad the trembling sense of wan Disease.
-Now that the frequent pangs my frame assail,   5
-Now that my sleepless eyes are sunk and dim,
-And seas of Pain seem waving through each limb —
-Ah what can all Life’s gilded scenes avail?
-I view the crowd, whom Youth and Health inspire,
-Hear the loud laugh, and catch the sportive lay,   10
-Then sigh and think — I too could laugh and play
-And gaily sport it on the Muse’s lyre,
-Ere Tyrant Pain had chas’d away delight,
-Ere the wild pulse throbb’d anguish thro’ the night!
-? 1790.
+Once could the Morn’s first beams, the healthful breeze,  
+All Nature charm, and gay was every hour: —  
+But ah! not Music’s self, nor fragrant bower  
+Can glad the trembling sense of wan Disease.  
+Now that the frequent pangs my frame assail,   5  
+Now that my sleepless eyes are sunk and dim,  
+And seas of Pain seem waving through each limb —  
+Ah what can all Life’s gilded scenes avail?  
+I view the crowd, whom Youth and Health inspire,  
+Hear the loud laugh, and catch the sportive lay,   10  
+Then sigh and think — I too could laugh and play  
+And gaily sport it on the Muse’s lyre,  
+Ere Tyrant Pain had chas’d away delight,  
+Ere the wild pulse throbb’d anguish thro’ the night!  
+? 1790.  

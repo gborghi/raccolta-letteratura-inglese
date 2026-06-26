@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — ON THE NOVEL WITH A PURPOSE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_13_THE_CALL_TO_THE_BARBARIANS">‹ Story 13 THE CALL TO THE BARBARIANS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_15_THE_REVOLT_AGAINST_IDEAS">Story 15 THE REVOLT AGAINST IDEAS ›</a></div>

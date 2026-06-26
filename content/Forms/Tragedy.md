@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Tragedy
-
 *Form/Genre* — appears in **27** work(s).
 
 ## Works

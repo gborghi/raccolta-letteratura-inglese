@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Dramatic Monologue
-
 *Form/Genre* — appears in **20** work(s).
 
 ## Works

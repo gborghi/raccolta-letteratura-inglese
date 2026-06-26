@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — The Fallacy of the Young Nation (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_16_On_the_Wit_of_Whistler/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_17_The_Fallacy_of_the_Young_Nation/part_02">part 02 ›</a></div>

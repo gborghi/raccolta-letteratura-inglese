@@ -30,8 +30,6 @@ tags:
   - character/earl_of_salisbury
 ---
 
-# EDWARD III
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

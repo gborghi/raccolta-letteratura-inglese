@@ -27,8 +27,6 @@ tags:
   - form/short_story
 ---
 
-# The Man of the Crowd
-
 *by Poe*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 

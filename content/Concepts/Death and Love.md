@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Death and Love
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mr Bumble
-
 *Character* — appears in **1** work(s).
 
 ## Works

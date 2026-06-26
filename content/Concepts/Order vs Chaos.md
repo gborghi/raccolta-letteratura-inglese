@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Order vs Chaos
-
 *Theme/Concept* — appears in **23** work(s).
 
 ## Works

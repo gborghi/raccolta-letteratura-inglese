@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — I. The Religion Of Fossils
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_05_My_Six_Conversions">‹ Story 05 My Six Conversions</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_07_My_Six_Conversions">Story 07 My Six Conversions ›</a></div>

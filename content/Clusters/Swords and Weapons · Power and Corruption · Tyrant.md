@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Swords and Weapons · Power and Corruption · Tyrant
-
 *Cluster* — **28 works**.
 
 ## Defining concepts

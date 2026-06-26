@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Aspiration
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

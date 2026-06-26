@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Jane Eyre — Chapter 37 (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_37/part_06">‹ part 06</a><span></span></div>

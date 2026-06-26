@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Martin Chuzzlewit — Chapter 10
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_09">‹ Chapter 09</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_11_ELEVEN">Chapter 11 ELEVEN ›</a></div>

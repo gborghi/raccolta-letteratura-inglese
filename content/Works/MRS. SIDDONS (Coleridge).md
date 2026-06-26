@@ -15,8 +15,6 @@ tags:
   - motif/night
 ---
 
-# MRS. SIDDONS
-
 *by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-As when a child on some long Winter’s night
-Affrighted clinging to its Grandam’s knees
-With eager wond’ring and perturb’d delight
-Listens strange tales of fearful dark decrees
-Muttered to wretch by necromantic spell;   5
-Or of those hags, who at the witching time
-Of murky Midnight ride the air sublime,
-And mingle foul embrace with fiends of Hell:
-Cold Horror drinks its blood! Anon the tear
-More gentle starts, to hear the Beldame tell   10
-Of pretty Babes, that lov’d each other dear.
-Murder’d by cruel Uncle’s mandate fell:
-Even such the shiv’ring joys thy tones impart,
-Even so thou, SIDDONS! meltest my sad heart!
-December 29, 1794.
+As when a child on some long Winter’s night  
+Affrighted clinging to its Grandam’s knees  
+With eager wond’ring and perturb’d delight  
+Listens strange tales of fearful dark decrees  
+Muttered to wretch by necromantic spell;   5  
+Or of those hags, who at the witching time  
+Of murky Midnight ride the air sublime,  
+And mingle foul embrace with fiends of Hell:  
+Cold Horror drinks its blood! Anon the tear  
+More gentle starts, to hear the Beldame tell   10  
+Of pretty Babes, that lov’d each other dear.  
+Murder’d by cruel Uncle’s mandate fell:  
+Even such the shiv’ring joys thy tones impart,  
+Even so thou, SIDDONS! meltest my sad heart!  
+December 29, 1794.  

@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet: After dark vapours have oppress’d our plains
-
 *by Keats*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-After dark vapours have oppress’d our plains
-For a long dreary season, comes a day
-Born of the gentle South, and clears away
-From the sick heavens all unseemly stains.
-The anxious month, relieved of its pains,
-Takes as a long-lost right the feel of May;
-The eyelids with the passing coolness play
-Like rose leaves with the drip of summer rains.
-The calmest thoughts come round us; as of leaves
-Budding - fruit ripening in stillness - autumn suns 10
-Smiling at eve upon the quiet sheaves -
-Sweet Sappho’s cheek - a smiling infant’s breath -
-The gradual sand that through an hourglass runs -
-A woodland rivulet - a Poet’s death.
+After dark vapours have oppress’d our plains  
+For a long dreary season, comes a day  
+Born of the gentle South, and clears away  
+From the sick heavens all unseemly stains.  
+The anxious month, relieved of its pains,  
+Takes as a long-lost right the feel of May;  
+The eyelids with the passing coolness play  
+Like rose leaves with the drip of summer rains.  
+The calmest thoughts come round us; as of leaves  
+Budding - fruit ripening in stillness - autumn suns 10  
+Smiling at eve upon the quiet sheaves -  
+Sweet Sappho’s cheek - a smiling infant’s breath -  
+The gradual sand that through an hourglass runs -  
+A woodland rivulet - a Poet’s death.  

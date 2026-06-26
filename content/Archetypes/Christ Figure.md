@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Christ Figure
-
 *Archetype* — appears in **32** work(s).
 
 ## Works

@@ -31,8 +31,6 @@ tags:
   - setting/a_garden
 ---
 
-# The Nightingale and the Rose
-
 *by Wilde*  ·  **Cluster:** [[Rose · Desire · Value and Scarcity]]
 
 > [!abstract] 

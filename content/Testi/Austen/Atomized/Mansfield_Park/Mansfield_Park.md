@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Mansfield Park
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
 </nav>

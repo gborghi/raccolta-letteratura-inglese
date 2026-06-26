@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 42: ILLUSTRATIVE, LIKE THE PRECEDING ONE, OF THE OLD PROVERB,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_43_WHAT_BEFELL_MR_PICKWICK_WHEN_H">‹ Chapter 43 WHAT BEFELL MR PICKWICK WHEN H</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_45_SHOWING_HOW_MR_SAMUEL_WELLER_G">Chapter 45 SHOWING HOW MR SAMUEL WELLER G ›</a></div>

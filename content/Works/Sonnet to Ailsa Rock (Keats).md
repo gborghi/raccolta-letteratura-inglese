@@ -15,8 +15,6 @@ tags:
   - setting/scotland
 ---
 
-# Sonnet to Ailsa Rock
-
 *by Keats*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Hearken, thou craggy ocean pyramid!
-Give answer from thy voice, the sea-fowls’ screams!
-When were thy shoulders mantled in huge streams?
-When, from the sun, was thy broad forehead hid?
-How long is’t since the mighty power bid
-Thee heave to airy sleep from fathom dreams?
-Sleep in the lap of thunder or sunbeams,
-Or when grey clouds are thy cold coverlid.
-Thou answer’st not; for thou art dead asleep;
-Thy life is but two dead eternities -
-10
-The last in air, the former in the deep;
-First with the whales, last with the eagle-skies -
-Drown’d wast thou till an earthquake made thee steep,
-Another cannot wake thy giant size.
+Hearken, thou craggy ocean pyramid!  
+Give answer from thy voice, the sea-fowls’ screams!  
+When were thy shoulders mantled in huge streams?  
+When, from the sun, was thy broad forehead hid?  
+How long is’t since the mighty power bid  
+Thee heave to airy sleep from fathom dreams?  
+Sleep in the lap of thunder or sunbeams,  
+Or when grey clouds are thy cold coverlid.  
+Thou answer’st not; for thou art dead asleep;  
+Thy life is but two dead eternities -  
+10  
+The last in air, the former in the deep;  
+First with the whales, last with the eagle-skies -  
+Drown’d wast thou till an earthquake made thee steep,  
+Another cannot wake thy giant size.  

@@ -14,8 +14,6 @@ tags:
   - archetype/fool
 ---
 
-# The Gadfly
-
 *by Keats*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -30,88 +28,88 @@ tags:
 
 ## Testo integrale / Full text
 
-From a Letter to Tom Keats
+From a Letter to Tom Keats  
 
-I
-All gentle folks who owe a grudge
-To any living thing
-Open your ears and stay your trudge
-Whilst I in dudgeon sing.
+I  
+All gentle folks who owe a grudge  
+To any living thing  
+Open your ears and stay your trudge  
+Whilst I in dudgeon sing.  
 
-II
-The Gadfly he hath stung me sore -
-O may he ne’er sting you!
-But we have many a horrid bore
-He may sting black and blue.
+II  
+The Gadfly he hath stung me sore -  
+O may he ne’er sting you!  
+But we have many a horrid bore  
+He may sting black and blue.  
 
-III
-Has any here an old grey Mare
-With three legs all her store,
-O put it to her Buttocks bare
-And straight she’ll run on four.
+III  
+Has any here an old grey Mare  
+With three legs all her store,  
+O put it to her Buttocks bare  
+And straight she’ll run on four.  
 
-IV
-Has any here a Lawyer suit
-Of Seventeen-Forty-Three,
-Take Lawyer’s nose and put it to’t
-And you the end will see.
+IV  
+Has any here a Lawyer suit  
+Of Seventeen-Forty-Three,  
+Take Lawyer’s nose and put it to’t  
+And you the end will see.  
 
-V
-Is there a Man in Parliament
-Dumbfounder’d in his speech,
-O let his neighbour make a rent
-And put one in his breech.
+V  
+Is there a Man in Parliament  
+Dumbfounder’d in his speech,  
+O let his neighbour make a rent  
+And put one in his breech.  
 
-VI
-O Lowther how much better thou
-Hadst figur’d t’other day
-When to the folks thou mad’st a bow
-And hadst no more to say
+VI  
+O Lowther how much better thou  
+Hadst figur’d t’other day  
+When to the folks thou mad’st a bow  
+And hadst no more to say  
 
-VII
-If lucky Gadfly had but ta’en
-His seat....
-And put thee to a little pain
-To save thee from a worse.
+VII  
+If lucky Gadfly had but ta’en  
+His seat....  
+And put thee to a little pain  
+To save thee from a worse.  
 
-VIII
-Better than Southey it had been,
-Better than Mr D — ,
-Better than Wordsworth too, I ween,
-Better than Mr V — ,
+VIII  
+Better than Southey it had been,  
+Better than Mr D — ,  
+Better than Wordsworth too, I ween,  
+Better than Mr V — ,  
 
-IX
-Forgive me pray good people all
-For deviating so -
-In spirit sure I had a call -
-And now I on will go.
+IX  
+Forgive me pray good people all  
+For deviating so -  
+In spirit sure I had a call -  
+And now I on will go.  
 
-X
-Has any here a daughter fair
-Too fond of reading novels,
-Too apt to fall in love with care
-And charming Mister Lovels,
+X  
+Has any here a daughter fair  
+Too fond of reading novels,  
+Too apt to fall in love with care  
+And charming Mister Lovels,  
 
-XI
-O O put a Gadfly to that thing
-She keeps so white and pert -
-I I mean the finger for the ring,
-And it will breed a wort.
+XI  
+O O put a Gadfly to that thing  
+She keeps so white and pert -  
+I I mean the finger for the ring,  
+And it will breed a wort.  
 
-XII
-Has any here a pious spouse
-Who seven times a day
-Scolds as King David pray’d, to chouse
-And have her holy way -
+XII  
+Has any here a pious spouse  
+Who seven times a day  
+Scolds as King David pray’d, to chouse  
+And have her holy way -  
 
-XIII
-O O let a Gadfly’s little sting
-Persuade her sacred tongue
-That noises are a common thing.
-But that her bell has rung.
+XIII  
+O O let a Gadfly’s little sting  
+Persuade her sacred tongue  
+That noises are a common thing.  
+But that her bell has rung.  
 
-XIV
-And as this is the summum bo-
-num of all conquering,
-I I leave ‘withouten wordes mo’
-The Gadfly’s little sting.
+XIV  
+And as this is the summum bo-  
+num of all conquering,  
+I I leave ‘withouten wordes mo’  
+The Gadfly’s little sting.  

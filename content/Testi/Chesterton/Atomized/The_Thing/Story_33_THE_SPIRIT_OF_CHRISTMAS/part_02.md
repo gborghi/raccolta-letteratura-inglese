@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE SPIRIT OF CHRISTMAS (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_33_THE_SPIRIT_OF_CHRISTMAS/part_01">‹ part 01</a><span></span></div>

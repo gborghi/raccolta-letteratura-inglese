@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# thursday
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/thursday-(Chesterton)">thursday</a></div>
 </nav>

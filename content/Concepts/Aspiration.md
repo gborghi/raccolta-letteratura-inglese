@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Aspiration
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

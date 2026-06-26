@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Philip the Bastard
-
 *Character* — appears in **1** work(s).
 
 ## Works

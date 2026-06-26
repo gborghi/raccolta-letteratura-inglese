@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 27 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_27/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_28/part_02">part 02 ›</a></div>

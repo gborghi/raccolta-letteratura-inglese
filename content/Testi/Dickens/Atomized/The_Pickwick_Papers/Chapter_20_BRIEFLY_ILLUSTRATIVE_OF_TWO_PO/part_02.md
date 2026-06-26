@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 18: BRIEFLY ILLUSTRATIVE OF TWO POINTS; FIRST, THE POWER OF (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_20_BRIEFLY_ILLUSTRATIVE_OF_TWO_PO/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_20_BRIEFLY_ILLUSTRATIVE_OF_TWO_PO/part_03">part 03 ›</a></div>

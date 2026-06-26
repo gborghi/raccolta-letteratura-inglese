@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Martin Chuzzlewit — Chapter 33: THIRTY THREE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_32_THIRTY_TWO">‹ Chapter 32 THIRTY TWO</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_34_THIRTY_FOUR">Chapter 34 THIRTY FOUR ›</a></div>

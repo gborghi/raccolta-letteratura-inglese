@@ -16,8 +16,6 @@ tags:
   - setting/pastoral_countryside
 ---
 
-# INSCRIPTION FOR A FOUNTAIN ON A HEATH
-
 *by Coleridge*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
@@ -33,23 +31,23 @@ tags:
 
 ## Testo integrale / Full text
 
-This Sycamore, oft musical with bees, —
-Such tents the Patriarchs loved! O long unharmed
-May all its agéd boughs o’er-canopy
-The small round basin, which this jutting stone
-Keeps pure from falling leaves! Long may the Spring,   5
-Quietly as a sleeping infant’s breath,
-Send up cold waters to the traveller
-With soft and even pulse! Nor ever cease
-Yon tiny cone of sand its soundless dance,
-Which at the bottom, like a Fairy’s Page,   10
-As merry and no taller, dances still,
-Nor wrinkles the smooth surface of the Fount.
-Here Twilight is and Coolness: here is moss,
-A soft seat, and a deep and ample shade.
-Thou may’st toil far and find no second tree.   15
-Drink, Pilgrim, here; Here rest! and if thy heart
-Be innocent, here too shalt thou refresh
-Thy spirit, listening to some gentle sound,
-Or passing gale or hum of murmuring bees!
-1802.
+This Sycamore, oft musical with bees, —  
+Such tents the Patriarchs loved! O long unharmed  
+May all its agéd boughs o’er-canopy  
+The small round basin, which this jutting stone  
+Keeps pure from falling leaves! Long may the Spring,   5  
+Quietly as a sleeping infant’s breath,  
+Send up cold waters to the traveller  
+With soft and even pulse! Nor ever cease  
+Yon tiny cone of sand its soundless dance,  
+Which at the bottom, like a Fairy’s Page,   10  
+As merry and no taller, dances still,  
+Nor wrinkles the smooth surface of the Fount.  
+Here Twilight is and Coolness: here is moss,  
+A soft seat, and a deep and ample shade.  
+Thou may’st toil far and find no second tree.   15  
+Drink, Pilgrim, here; Here rest! and if thy heart  
+Be innocent, here too shalt thou refresh  
+Thy spirit, listening to some gentle sound,  
+Or passing gale or hum of murmuring bees!  
+1802.  

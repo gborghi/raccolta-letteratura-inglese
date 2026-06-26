@@ -30,8 +30,6 @@ tags:
   - character/agatha
 ---
 
-# THE FAMILY REUNION
-
 *by Eliot*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

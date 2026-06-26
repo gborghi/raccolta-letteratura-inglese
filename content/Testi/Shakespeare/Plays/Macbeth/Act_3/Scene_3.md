@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Macbeth — Act III, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Macbeth/Act_3/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Macbeth/Act_3/Scene_4">Scene 4 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE FINGER OF STONE (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_05_THE_FINGER_OF_STONE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_05_THE_FINGER_OF_STONE/part_06">part 06 ›</a></div>

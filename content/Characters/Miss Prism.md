@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Miss Prism
-
 *Character* — appears in **1** work(s).
 
 ## Works

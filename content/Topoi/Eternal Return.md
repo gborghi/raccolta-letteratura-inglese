@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Eternal Return
-
 *Topos* — appears in **37** work(s).
 
 ## Works

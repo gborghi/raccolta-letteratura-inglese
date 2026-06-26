@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Caroline Helstone
-
 *Character* — appears in **1** work(s).
 
 ## Works

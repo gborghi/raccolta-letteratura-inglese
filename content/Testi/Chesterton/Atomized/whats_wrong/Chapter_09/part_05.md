@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# whats wrong — Part 4 (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_09/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_09/part_06">part 06 ›</a></div>

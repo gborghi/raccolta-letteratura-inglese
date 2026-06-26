@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Eugenics — Part 2: THE REAL AIM
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Eugenics-(Chesterton)">Eugenics</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/Eugenics/Chapter_02">Chapter 02 ›</a></div>

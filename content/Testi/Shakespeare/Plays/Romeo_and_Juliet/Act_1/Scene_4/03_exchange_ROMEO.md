@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Romeo and Juliet — Act I, Scene 4 — exchange (ROMEO) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Martin Chuzzlewit — Chapter 42: FORTY TWO
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_41_FORTY_ONE">‹ Chapter 41 FORTY ONE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_43_FORTY_THREE">Chapter 43 FORTY THREE ›</a></div>

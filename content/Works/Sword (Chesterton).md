@@ -21,8 +21,6 @@ tags:
   - archetype/hero
 ---
 
-# Sword
-
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

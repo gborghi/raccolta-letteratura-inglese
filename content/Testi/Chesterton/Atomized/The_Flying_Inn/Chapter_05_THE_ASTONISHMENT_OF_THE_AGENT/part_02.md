@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 5: THE ASTONISHMENT OF THE AGENT (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_05_THE_ASTONISHMENT_OF_THE_AGENT/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_05_THE_ASTONISHMENT_OF_THE_AGENT/part_03">part 03 ›</a></div>

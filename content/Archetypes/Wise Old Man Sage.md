@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Wise Old Man / Sage
-
 *Archetype* — appears in **7** work(s).
 
 ## Works

@@ -31,8 +31,6 @@ tags:
   - archetype/double_doppelganger
 ---
 
-# Robert Louis Stevenson
-
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 

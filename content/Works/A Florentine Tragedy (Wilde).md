@@ -36,8 +36,6 @@ tags:
   - character/guido_bardi
 ---
 
-# A Florentine Tragedy
-
 *by Wilde*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

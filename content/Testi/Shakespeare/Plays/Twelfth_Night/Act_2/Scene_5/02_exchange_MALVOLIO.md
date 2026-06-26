@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act II, Scene 5 — exchange (MALVOLIO) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 </nav>

@@ -14,8 +14,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# FOR A HOUSE-DOG’S COLLAR
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,18 +27,18 @@ tags:
 
 ## Testo integrale / Full text
 
-When thieves come, I bark: when gallants, I am still —
-So perform both my Master’s and Mistress’s will.
-First published in Morning Post, Oct. 2, 1802. Included in The
-Friend (title, ‘For a French House-Dog’s Collar’), No. 12, Nov. 9,
-1809.
-In vain I praise thee, Zoilus!
-In vain thou rail’st at me!
-Me no one credits, Zoilus!
-And no one credits thee!
-First published in Morning Post, Oct. 2, 1802. Adapted from a Latin
-Epigram ‘In Zoilum,’ by George Buchanan:
-‘Frustra ego te laudo, frustra
-Me, Zoile, laedis;
-Nemo mihi credit,
-Zoile, nemo, tibi.’
+When thieves come, I bark: when gallants, I am still —  
+So perform both my Master’s and Mistress’s will.  
+First published in Morning Post, Oct. 2, 1802. Included in The  
+Friend (title, ‘For a French House-Dog’s Collar’), No. 12, Nov. 9,  
+1809.  
+In vain I praise thee, Zoilus!  
+In vain thou rail’st at me!  
+Me no one credits, Zoilus!  
+And no one credits thee!  
+First published in Morning Post, Oct. 2, 1802. Adapted from a Latin  
+Epigram ‘In Zoilum,’ by George Buchanan:  
+‘Frustra ego te laudo, frustra  
+Me, Zoile, laedis;  
+Nemo mihi credit,  
+Zoile, nemo, tibi.’  

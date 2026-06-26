@@ -15,8 +15,6 @@ tags:
   - motif/seasons
 ---
 
-# TO A PRIMROSE
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -30,28 +28,28 @@ tags:
 
 ## Testo integrale / Full text
 
-THE FIRST SEEN IN THE SEASON
-Nitens et roboris expers
-Turget et insolida est: et spe delectat.
-OVID, Metam. [xv. 203].
-Thy smiles I note, sweet early Flower,
-That peeping from thy rustic bower
-The festive news to earth dost bring,
-A fragrant messenger of Spring.
-But, tender blossom, why so pale?   5
-Dost hear stern Winter in the gale?
-And didst thou tempt the ungentle sky
-To catch one vernal glance and die?
-Such the wan lustre Sickness wears
-When Health’s first feeble beam appears;   10
-So languid are the smiles that seek
-To settle on the care-worn cheek,
-When timorous Hope the head uprears,
-Still drooping and still moist with tears,
-If, through dispersing grief, be seen   15
-Of Bliss the heavenly spark serene.
-And sweeter far the early blow,
-Fast following after storms of Woe,
-Than (Comfort’s riper season come)
-Are full-blown joys and Pleasure’s gaudy bloom.   20
-1796.
+THE FIRST SEEN IN THE SEASON  
+Nitens et roboris expers  
+Turget et insolida est: et spe delectat.  
+OVID, Metam. [xv. 203].  
+Thy smiles I note, sweet early Flower,  
+That peeping from thy rustic bower  
+The festive news to earth dost bring,  
+A fragrant messenger of Spring.  
+But, tender blossom, why so pale?   5  
+Dost hear stern Winter in the gale?  
+And didst thou tempt the ungentle sky  
+To catch one vernal glance and die?  
+Such the wan lustre Sickness wears  
+When Health’s first feeble beam appears;   10  
+So languid are the smiles that seek  
+To settle on the care-worn cheek,  
+When timorous Hope the head uprears,  
+Still drooping and still moist with tears,  
+If, through dispersing grief, be seen   15  
+Of Bliss the heavenly spark serene.  
+And sweeter far the early blow,  
+Fast following after storms of Woe,  
+Than (Comfort’s riper season come)  
+Are full-blown joys and Pleasure’s gaudy bloom.   20  
+1796.  

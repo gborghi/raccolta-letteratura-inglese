@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 </nav>

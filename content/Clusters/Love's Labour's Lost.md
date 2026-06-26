@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Love's Labour's Lost
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

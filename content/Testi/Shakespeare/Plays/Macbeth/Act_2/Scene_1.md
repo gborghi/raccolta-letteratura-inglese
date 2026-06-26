@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Macbeth — Act II, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Macbeth/Act_1/Scene_7">‹ Scene 7</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Macbeth/Act_2/Scene_2">Scene 2 ›</a></div>

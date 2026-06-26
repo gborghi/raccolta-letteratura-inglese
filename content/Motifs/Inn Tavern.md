@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Inn / Tavern
-
 *Motif* — appears in **27** work(s).
 
 ## Works

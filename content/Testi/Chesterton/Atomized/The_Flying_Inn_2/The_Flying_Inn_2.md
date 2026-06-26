@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)-(2)">The Flying Inn 2</a></div>
 </nav>

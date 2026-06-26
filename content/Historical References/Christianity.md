@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Christianity
-
 *Historical reference* — appears in **204** work(s).
 
 ## Works

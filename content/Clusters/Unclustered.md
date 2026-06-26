@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Unclustered
-
 *Cluster* — **3 works**.
 
 ## Defining concepts

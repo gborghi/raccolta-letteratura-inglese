@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 22: Who passes by this Road so late? (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_61_The_History_of_a_Self_Tormento/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_62_Who_passes_by_this_Road_so_lat/part_02">part 02 ›</a></div>

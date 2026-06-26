@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sir Andrew Aguecheek
-
 *Character* — appears in **1** work(s).
 
 ## Works

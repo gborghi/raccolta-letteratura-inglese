@@ -44,8 +44,6 @@ tags:
   - character/marquis_st_evremonde
 ---
 
-# A Tale of Two Cities
-
 *by Dickens*  ·  **Cluster:** [[Order vs Chaos · Historical Novel · Fanaticism]]
 
 > [!abstract] 

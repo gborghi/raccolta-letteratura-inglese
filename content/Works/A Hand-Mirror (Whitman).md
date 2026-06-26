@@ -15,8 +15,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# A Hand-Mirror
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Hold it up sternly--see this it sends back, (who is it? is it you?)
-  Outside fair costume, within ashes and filth,
-  No more a flashing eye, no more a sonorous voice or springy step,
-  Now some slave’s eye, voice, hands, step,
-  A drunkard’s breath, unwholesome eater’s face, venerealee’s flesh,
-  Lungs rotting away piecemeal, stomach sour and cankerous,
-  Joints rheumatic, bowels clogged with abomination,
-  Blood circulating dark and poisonous streams,
-  Words babble, hearing and touch callous,
-  No brain, no heart left, no magnetism of sex;
-  Such from one look in this looking-glass ere you go hence,
-  Such a result so soon--and from such a beginning!
+  Hold it up sternly--see this it sends back, (who is it? is it you?)  
+  Outside fair costume, within ashes and filth,  
+  No more a flashing eye, no more a sonorous voice or springy step,  
+  Now some slave’s eye, voice, hands, step,  
+  A drunkard’s breath, unwholesome eater’s face, venerealee’s flesh,  
+  Lungs rotting away piecemeal, stomach sour and cankerous,  
+  Joints rheumatic, bowels clogged with abomination,  
+  Blood circulating dark and poisonous streams,  
+  Words babble, hearing and touch callous,  
+  No brain, no heart left, no magnetism of sex;  
+  Such from one look in this looking-glass ere you go hence,  
+  Such a result so soon--and from such a beginning!  

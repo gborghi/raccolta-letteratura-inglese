@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Gothic Novel
-
 *Form/Genre* — appears in **11** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Enchanted Wood
-
 *Motif* — appears in **0** work(s).
 
 #graph/motif

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 30: Closing in (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_69_A_Plea_in_the_Marshalsea/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_70_Closing_in/part_02">part 02 ›</a></div>

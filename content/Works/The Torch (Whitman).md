@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# The Torch
-
 *by Whitman*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
@@ -28,11 +26,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: AUTUMN RIVULETS_
+_Cluster: AUTUMN RIVULETS_  
 
 
-  On my Northwest coast in the midst of the night a fishermen’s group
-      stands watching,
-  Out on the lake that expands before them, others are spearing salmon,
-  The canoe, a dim shadowy thing, moves across the black water,
-  Bearing a torch ablaze at the prow.
+  On my Northwest coast in the midst of the night a fishermen’s group  
+      stands watching,  
+  Out on the lake that expands before them, others are spearing salmon,  
+  The canoe, a dim shadowy thing, moves across the black water,  
+  Bearing a torch ablaze at the prow.  

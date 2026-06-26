@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Pain
-
 *Motif* — appears in **1** work(s).
 
 ## Works

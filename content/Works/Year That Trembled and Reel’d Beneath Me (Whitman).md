@@ -14,8 +14,6 @@ tags:
   - motif/music_and_song
 ---
 
-# Year That Trembled and Reel’d Beneath Me
-
 *by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 

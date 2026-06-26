@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Immortality
-
 *Theme/Concept* — appears in **287** work(s).
 
 ## Works

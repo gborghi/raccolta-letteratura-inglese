@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Unparalleled Adventures of one Hans Pfaall (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)">The Unparalleled Adventures of one Hans Pfaall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Unparalleled_Adventures_of_one_Hans_Pfaall/part/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Unparalleled_Adventures_of_one_Hans_Pfaall/part/part_07">part 07 ›</a></div>

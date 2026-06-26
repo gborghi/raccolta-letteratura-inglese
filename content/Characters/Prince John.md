@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Prince John
-
 *Character* — appears in **1** work(s).
 
 ## Works

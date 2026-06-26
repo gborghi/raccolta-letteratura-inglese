@@ -46,8 +46,6 @@ tags:
   - character/mrs_bardell
 ---
 
-# The Pickwick Papers
-
 *by Dickens*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 

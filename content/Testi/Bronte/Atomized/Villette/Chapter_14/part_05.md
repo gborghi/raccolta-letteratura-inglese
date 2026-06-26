@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 14 (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_14/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_14/part_06">part 06 ›</a></div>

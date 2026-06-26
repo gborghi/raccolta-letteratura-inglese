@@ -15,8 +15,6 @@ tags:
   - form/free_verse
 ---
 
-# The Unexpress’d
-
 *by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  How dare one say it?
-  After the cycles, poems, singers, plays,
-  Vaunted Ionia’s, India’s--Homer, Shakspere--the long, long times’
-      thick dotted roads, areas,
-  The shining clusters and the Milky Ways of stars--Nature’s pulses reap’d,
-  All retrospective passions, heroes, war, love, adoration,
-  All ages’ plummets dropt to their utmost depths,
-  All human lives, throats, wishes, brains--all experiences’ utterance;
-  After the countless songs, or long or short, all tongues, all lands,
-  Still something not yet told in poesy’s voice or print--something lacking,
-  (Who knows? the best yet unexpress’d and lacking.)
+  How dare one say it?  
+  After the cycles, poems, singers, plays,  
+  Vaunted Ionia’s, India’s--Homer, Shakspere--the long, long times’  
+      thick dotted roads, areas,  
+  The shining clusters and the Milky Ways of stars--Nature’s pulses reap’d,  
+  All retrospective passions, heroes, war, love, adoration,  
+  All ages’ plummets dropt to their utmost depths,  
+  All human lives, throats, wishes, brains--all experiences’ utterance;  
+  After the countless songs, or long or short, all tongues, all lands,  
+  Still something not yet told in poesy’s voice or print--something lacking,  
+  (Who knows? the best yet unexpress’d and lacking.)  

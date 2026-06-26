@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Dirge
-
 *Form/Genre* — appears in **2** work(s).
 
 ## Works

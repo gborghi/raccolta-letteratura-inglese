@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — A Man Of Distinction
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_111_Straight_Thinking">‹ Story 111 Straight Thinking</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_113_St_Pius_X">Story 113 St Pius X ›</a></div>

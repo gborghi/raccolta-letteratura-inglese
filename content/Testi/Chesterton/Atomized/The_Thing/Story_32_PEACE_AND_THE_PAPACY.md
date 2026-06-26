@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — PEACE AND THE PAPACY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_31_IF_THEY_HAD_BELIEVED">‹ Story 31 IF THEY HAD BELIEVED</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_33_THE_SPIRIT_OF_CHRISTMAS">Story 33 THE SPIRIT OF CHRISTMAS ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 28: Nobody’s Disappearance
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_30_Five_and_Twenty">‹ Chapter 30 Five and Twenty</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_32_Mrs_Flintwinch_goes_on_Dreamin">Chapter 32 Mrs Flintwinch goes on Dreamin ›</a></div>

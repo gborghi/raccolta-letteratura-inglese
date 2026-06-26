@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — PHONETIC SPELLING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_25_THE_ERROR_OF_IMPARTIALITY">‹ Story 25 THE ERROR OF IMPARTIALITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_27_HUMANITARIANISM_AND_STRENGTH">Story 27 HUMANITARIANISM AND STRENGTH ›</a></div>

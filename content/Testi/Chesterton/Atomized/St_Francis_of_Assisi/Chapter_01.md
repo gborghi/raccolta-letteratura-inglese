@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# St. Francis of Assisi — Chapter 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/St.-Francis-of-Assisi-(Chesterton)">St Francis of Assisi</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/St_Francis_of_Assisi/Chapter_02">Chapter 02 ›</a></div>

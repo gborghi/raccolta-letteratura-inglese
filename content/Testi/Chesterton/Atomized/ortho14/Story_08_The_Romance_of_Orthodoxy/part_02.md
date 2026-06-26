@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14 — The Romance of Orthodoxy (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_08_The_Romance_of_Orthodoxy/part_03">part 03 ›</a></div>

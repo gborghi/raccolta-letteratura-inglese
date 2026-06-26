@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# MrPond
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
 </nav>

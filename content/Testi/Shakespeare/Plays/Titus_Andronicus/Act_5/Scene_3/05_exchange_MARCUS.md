@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Titus Andronicus — Act V, Scene 3 — exchange (MARCUS) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
 </nav>

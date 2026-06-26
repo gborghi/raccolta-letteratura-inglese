@@ -32,8 +32,6 @@ tags:
   - character/maria_bertram
 ---
 
-# Mansfield Park
-
 *by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
 
 > [!abstract] 

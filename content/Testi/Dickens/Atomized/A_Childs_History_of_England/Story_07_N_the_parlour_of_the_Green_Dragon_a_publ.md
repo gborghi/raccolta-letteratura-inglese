@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England — N the parlour of the Green Dragon, a public-house in the immediate
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_06_R_ROBERT_BOLTON">‹ Story 06 R ROBERT BOLTON</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_08_Y_CHILD">Story 08 Y CHILD ›</a></div>

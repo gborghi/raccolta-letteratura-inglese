@@ -44,8 +44,6 @@ tags:
   - character/the_witch
 ---
 
-# The Fisherman and his Soul
-
 *by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# RICHARD III
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
 </nav>

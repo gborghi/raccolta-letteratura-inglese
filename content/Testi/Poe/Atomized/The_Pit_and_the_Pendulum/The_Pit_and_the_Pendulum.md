@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Pit and the Pendulum
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Pit and the Pendulum</div>
 </nav>

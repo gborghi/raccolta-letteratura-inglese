@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mrs Norris
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -18,8 +18,6 @@ tags:
   - topos/paradise_lost
 ---
 
-# Milton
-
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

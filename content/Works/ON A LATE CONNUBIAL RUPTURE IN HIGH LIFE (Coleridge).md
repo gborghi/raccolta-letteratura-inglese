@@ -14,8 +14,6 @@ tags:
   - motif/rose
 ---
 
-# ON A LATE CONNUBIAL RUPTURE IN HIGH LIFE
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -29,25 +27,25 @@ tags:
 
 ## Testo integrale / Full text
 
-[PRINCE AND PRINCESS OF WALES]
-I sigh, fair injur’d stranger! for thy fate;
-But what shall sighs avail thee? thy poor heart,
-‘Mid all the ‘pomp and circumstance’ of state,
-Shivers in nakedness. Unbidden, start
-Sad recollections of Hope’s garish dream,   5
-That shaped a seraph form, and named it Love,
-Its hues gay-varying, as the orient beam
-Varies the neck of Cytherea’s dove.
-To one soft accent of domestic joy
-Poor are the shouts that shake the high-arch’d dome;   10
-Those plaudits that thy public path annoy,
-Alas! they tell thee — Thou’rt a wretch at home!
-O then retire, and weep! Their very woes
-Solace the guiltless. Drop the pearly flood
-On thy sweet infant, as the full-blown rose,   15
-Surcharg’d with dew, bends o’er its neighbouring bud.
-And ah! that Truth some holy spell might lend
-To lure thy Wanderer from the Syren’s power;
-Then bid your souls inseparably blend
-Like two bright dew-drops meeting in a flower.   20
-1796.
+[PRINCE AND PRINCESS OF WALES]  
+I sigh, fair injur’d stranger! for thy fate;  
+But what shall sighs avail thee? thy poor heart,  
+‘Mid all the ‘pomp and circumstance’ of state,  
+Shivers in nakedness. Unbidden, start  
+Sad recollections of Hope’s garish dream,   5  
+That shaped a seraph form, and named it Love,  
+Its hues gay-varying, as the orient beam  
+Varies the neck of Cytherea’s dove.  
+To one soft accent of domestic joy  
+Poor are the shouts that shake the high-arch’d dome;   10  
+Those plaudits that thy public path annoy,  
+Alas! they tell thee — Thou’rt a wretch at home!  
+O then retire, and weep! Their very woes  
+Solace the guiltless. Drop the pearly flood  
+On thy sweet infant, as the full-blown rose,   15  
+Surcharg’d with dew, bends o’er its neighbouring bud.  
+And ah! that Truth some holy spell might lend  
+To lure thy Wanderer from the Syren’s power;  
+Then bid your souls inseparably blend  
+Like two bright dew-drops meeting in a flower.   20  
+1796.  

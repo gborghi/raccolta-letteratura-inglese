@@ -16,8 +16,6 @@ tags:
   - concept/the_sublime
 ---
 
-# Patroling Barnegat
-
 *by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SEA-DRIFT_
+_Cluster: SEA-DRIFT_  
 
 
-  Wild, wild the storm, and the sea high running,
-  Steady the roar of the gale, with incessant undertone muttering,
-  Shouts of demoniac laughter fitfully piercing and pealing,
-  Waves, air, midnight, their savagest trinity lashing,
-  Out in the shadows there milk-white combs careering,
-  On beachy slush and sand spirts of snow fierce slanting,
-  Where through the murk the easterly death-wind breasting,
-  Through cutting swirl and spray watchful and firm advancing,
-  (That in the distance! is that a wreck? is the red signal flaring?)
-  Slush and sand of the beach tireless till daylight wending,
-  Steadily, slowly, through hoarse roar never remitting,
-  Along the midnight edge by those milk-white combs careering,
-  A group of dim, weird forms, struggling, the night confronting,
-  That savage trinity warily watching.
+  Wild, wild the storm, and the sea high running,  
+  Steady the roar of the gale, with incessant undertone muttering,  
+  Shouts of demoniac laughter fitfully piercing and pealing,  
+  Waves, air, midnight, their savagest trinity lashing,  
+  Out in the shadows there milk-white combs careering,  
+  On beachy slush and sand spirts of snow fierce slanting,  
+  Where through the murk the easterly death-wind breasting,  
+  Through cutting swirl and spray watchful and firm advancing,  
+  (That in the distance! is that a wreck? is the red signal flaring?)  
+  Slush and sand of the beach tireless till daylight wending,  
+  Steadily, slowly, through hoarse roar never remitting,  
+  Along the midnight edge by those milk-white combs careering,  
+  A group of dim, weird forms, struggling, the night confronting,  
+  That savage trinity warily watching.  

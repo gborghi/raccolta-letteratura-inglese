@@ -28,8 +28,6 @@ tags:
   - histref/victorian_england
 ---
 
-# The Model Millionaire
-
 *by Wilde*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

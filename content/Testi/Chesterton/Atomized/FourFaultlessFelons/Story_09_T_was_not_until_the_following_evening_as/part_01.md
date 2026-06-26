@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T was not until the following evening, as already noted, that the news (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_07_EDIATELY_after_leaving_the_little_garden/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_09_T_was_not_until_the_following_evening_as/part_02">part 02 ›</a></div>

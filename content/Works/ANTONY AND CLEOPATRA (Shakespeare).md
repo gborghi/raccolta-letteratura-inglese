@@ -38,8 +38,6 @@ tags:
   - character/charmian
 ---
 
-# ANTONY AND CLEOPATRA
-
 *by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Chimes — Chapter 3: Third Quarter (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Chimes-(Dickens)">The Chimes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Chimes/Chapter_03_Third_Quarter/part_02">part 02 ›</a></div>

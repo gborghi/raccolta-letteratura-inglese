@@ -14,8 +14,6 @@ tags:
   - form/song
 ---
 
-# A Carol Closing Sixty-Nine
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  A carol closing sixty-nine--a resume--a repetition,
-  My lines in joy and hope continuing on the same,
-  Of ye, O God, Life, Nature, Freedom, Poetry;
-  Of you, my Land--your rivers, prairies, States--you, mottled Flag I love,
-  Your aggregate retain’d entire--Of north, south, east and west, your
-      items all;
-  Of me myself--the jocund heart yet beating in my breast,
-  The body wreck’d, old, poor and paralyzed--the strange inertia
-      falling pall-like round me,
-  The burning fires down in my sluggish blood not yet extinct,
-  The undiminish’d faith--the groups of loving friends.
+  A carol closing sixty-nine--a resume--a repetition,  
+  My lines in joy and hope continuing on the same,  
+  Of ye, O God, Life, Nature, Freedom, Poetry;  
+  Of you, my Land--your rivers, prairies, States--you, mottled Flag I love,  
+  Your aggregate retain’d entire--Of north, south, east and west, your  
+      items all;  
+  Of me myself--the jocund heart yet beating in my breast,  
+  The body wreck’d, old, poor and paralyzed--the strange inertia  
+      falling pall-like round me,  
+  The burning fires down in my sluggish blood not yet extinct,  
+  The undiminish’d faith--the groups of loving friends.  

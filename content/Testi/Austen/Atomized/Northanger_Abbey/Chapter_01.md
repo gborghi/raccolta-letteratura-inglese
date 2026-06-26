@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Northanger Abbey — Chapter 31
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_02">Chapter 02 ›</a></div>

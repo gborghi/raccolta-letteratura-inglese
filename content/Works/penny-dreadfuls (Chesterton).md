@@ -16,8 +16,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# penny-dreadfuls
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

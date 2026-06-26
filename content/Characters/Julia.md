@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Julia
-
 *Character* — appears in **1** work(s).
 
 ## Works

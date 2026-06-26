@@ -14,8 +14,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# Not Heat Flames Up and Consumes
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

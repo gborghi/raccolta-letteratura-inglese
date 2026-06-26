@@ -18,8 +18,6 @@ tags:
   - histref/eastern_religion
 ---
 
-# Proud Music of the Storm
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

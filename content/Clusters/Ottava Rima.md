@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Ottava Rima
-
 *Cluster* — **2 works**.
 
 ## Defining concepts

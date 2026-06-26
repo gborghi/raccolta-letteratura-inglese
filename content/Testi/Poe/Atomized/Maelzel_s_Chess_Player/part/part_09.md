@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Maelzel's Chess-Player (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Maelzel's-Chess-Player-(Poe)">Maelzel s Chess Player</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Maelzel_s_Chess_Player/part/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Poe/Atomized/Maelzel_s_Chess_Player/part/part_10">part 10 ›</a></div>

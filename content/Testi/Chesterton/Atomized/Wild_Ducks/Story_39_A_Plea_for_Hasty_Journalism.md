@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — A Plea for Hasty Journalism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_38_Eulogy_of_Robin_Hood">‹ Story 38 Eulogy of Robin Hood</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_40_The_Voice_of_Shelley">Story 40 The Voice of Shelley ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE POET AND THE CHEESE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_01_THE_SUFFRAGIST">‹ Story 01 THE SUFFRAGIST</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_03_THE_THING">Story 03 THE THING ›</a></div>

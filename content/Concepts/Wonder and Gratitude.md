@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Wonder and Gratitude
-
 *Theme/Concept* — appears in **192** work(s).
 
 ## Works

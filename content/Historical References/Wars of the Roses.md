@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Wars of the Roses
-
 *Historical reference* — appears in **5** work(s).
 
 ## Works

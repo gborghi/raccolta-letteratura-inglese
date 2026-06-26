@@ -16,8 +16,6 @@ tags:
   - concept/faith
 ---
 
-# To Him That Was Crucified
-
 *by Whitman*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 

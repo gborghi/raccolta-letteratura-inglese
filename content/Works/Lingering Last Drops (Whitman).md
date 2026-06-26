@@ -14,8 +14,6 @@ tags:
   - form/free_verse
 ---
 
-# Lingering Last Drops
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  And whence and why come you?
+  And whence and why come you?  
 
-  We know not whence, (was the answer,)
-  We only know that we drift here with the rest,
-  That we linger’d and lagg’d--but were wafted at last, and are now here,
-  To make the passing shower’s concluding drops.
+  We know not whence, (was the answer,)  
+  We only know that we drift here with the rest,  
+  That we linger’d and lagg’d--but were wafted at last, and are now here,  
+  To make the passing shower’s concluding drops.  

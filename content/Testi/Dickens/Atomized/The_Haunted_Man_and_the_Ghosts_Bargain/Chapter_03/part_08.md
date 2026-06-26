@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Haunted Man and the Ghost's Bargain — Chapter 3 (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)">The Haunted Man and the Ghosts Bargain</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Haunted_Man_and_the_Ghosts_Bargain/Chapter_03/part_09">part 09 ›</a></div>

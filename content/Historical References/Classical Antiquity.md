@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Classical Antiquity
-
 *Historical reference* — appears in **65** work(s).
 
 ## Works

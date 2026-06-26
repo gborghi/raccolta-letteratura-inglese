@@ -19,8 +19,6 @@ tags:
   - topos/seven_ages_of_man
 ---
 
-# ALLEGORIC VISION
-
 *by Coleridge*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

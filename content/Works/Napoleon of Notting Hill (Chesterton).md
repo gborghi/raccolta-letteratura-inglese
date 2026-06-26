@@ -37,8 +37,6 @@ tags:
   - character/mr_buck
 ---
 
-# Napoleon of Notting Hill
-
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

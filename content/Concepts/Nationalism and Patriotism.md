@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Nationalism and Patriotism
-
 *Theme/Concept* — appears in **119** work(s).
 
 ## Works

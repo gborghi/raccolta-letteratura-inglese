@@ -16,8 +16,6 @@ tags:
   - form/translation
 ---
 
-# HEXAMETERS: PARAPHRASE OF PSALM XLVI
-
 *by Coleridge*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -31,16 +29,16 @@ tags:
 
 ## Testo integrale / Full text
 
-GMd -s omr Strngth nd omr Rfmge: threfOre w+ll w nOt trmbl,
-ThM’ th Erth b rmMvd nd thM’ th prptml Moknta+ns
-Sink in the Swell of the Ocean! God is our Strength and our Refuge.
-There is a River the Flowing whereof shall gladden the City,
-Hallelujah! the City of God! Jehova shall help her.   5
-Th IdMltrs rgd, the kingdoms were moving in fury;
-But he uttered his Voice: Earth melted away from beneath them.
-Halleluja! th’ Eternal is with us, Almighty Jehova!
-Fearful the works of the Lord, yea fearful his Desolations;
-But He maketh the Battle to cease, he burneth the Spear and the
-Chariot.    10
-Halleluja! th’ Eternal is with us, the God of our Fathers!
-1799.
+GMd -s omr Strngth nd omr Rfmge: threfOre w+ll w nOt trmbl,  
+ThM’ th Erth b rmMvd nd thM’ th prptml Moknta+ns  
+Sink in the Swell of the Ocean! God is our Strength and our Refuge.  
+There is a River the Flowing whereof shall gladden the City,  
+Hallelujah! the City of God! Jehova shall help her.   5  
+Th IdMltrs rgd, the kingdoms were moving in fury;  
+But he uttered his Voice: Earth melted away from beneath them.  
+Halleluja! th’ Eternal is with us, Almighty Jehova!  
+Fearful the works of the Lord, yea fearful his Desolations;  
+But He maketh the Battle to cease, he burneth the Spear and the  
+Chariot.    10  
+Halleluja! th’ Eternal is with us, the God of our Fathers!  
+1799.  

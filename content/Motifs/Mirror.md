@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Mirror
-
 *Motif* — appears in **38** work(s).
 
 ## Works

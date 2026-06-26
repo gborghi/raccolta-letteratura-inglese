@@ -43,8 +43,6 @@ tags:
   - character/helen_burns
 ---
 
-# Jane Eyre
-
 *by Bronte*  ·  **Cluster:** [[Madwoman · Great House]]
 
 > [!abstract] 

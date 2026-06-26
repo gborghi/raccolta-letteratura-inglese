@@ -20,8 +20,6 @@ tags:
   - setting/london
 ---
 
-# The Angry Street
-
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

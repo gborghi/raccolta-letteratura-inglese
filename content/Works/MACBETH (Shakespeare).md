@@ -60,8 +60,6 @@ tags:
   - character/lady_macduff
 ---
 
-# MACBETH
-
 *by Shakespeare*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 

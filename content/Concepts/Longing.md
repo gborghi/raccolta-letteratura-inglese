@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Longing
-
 *Theme/Concept* — appears in **7** work(s).
 
 ## Works

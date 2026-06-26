@@ -16,8 +16,6 @@ tags:
   - archetype/lover
 ---
 
-# Sonnet 57
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,19 +31,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Being your slave, what should I do but tend 
-Upon the hours and times of your desire? 
-I have no precious time at all to spend, 
-Nor services to do, till you require; 
-Nor dare I chide the world-without-end hour 
-Whilst I, my sovereign, watch the clock for you, 
-Nor think the bitterness of absence sour 
-When you have bid your servant once adieu. 
-Nor dare I question with my jealous thought 
-Where you may be, or your affairs suppose, 
-But like a sad slave stay and think of naught 
-Save, where you are, how happy you make those.
+Being your slave, what should I do but tend  
+Upon the hours and times of your desire?  
+I have no precious time at all to spend,  
+Nor services to do, till you require;  
+Nor dare I chide the world-without-end hour  
+Whilst I, my sovereign, watch the clock for you,  
+Nor think the bitterness of absence sour  
+When you have bid your servant once adieu.  
+Nor dare I question with my jealous thought  
+Where you may be, or your affairs suppose,  
+But like a sad slave stay and think of naught  
+Save, where you are, how happy you make those.  
 
-So true a fool is love that in your will,
+So true a fool is love that in your will,  
 
-Though you do anything, he thinks no ill.
+Though you do anything, he thinks no ill.  

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self
-
 *Theme/Concept* — appears in **15** work(s).
 
 ## Works

@@ -12,8 +12,6 @@ tags:
   - character/sunday
 ---
 
-# thursday
-
 *by Chesterton*  ·  **Cluster:** [[Unclustered]]
 
 ## Connections

@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Not Meagre, Latent Boughs Alone
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -33,14 +31,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Not meagre, latent boughs alone, O songs! (scaly and bare, like
-      eagles’ talons,)
-  But haply for some sunny day (who knows?) some future spring, some
-      summer--bursting forth,
-  To verdant leaves, or sheltering shade--to nourishing fruit,
-  Apples and grapes--the stalwart limbs of trees emerging--the fresh,
-      free, open air,
-  And love and faith, like scented roses blooming.
+  Not meagre, latent boughs alone, O songs! (scaly and bare, like  
+      eagles’ talons,)  
+  But haply for some sunny day (who knows?) some future spring, some  
+      summer--bursting forth,  
+  To verdant leaves, or sheltering shade--to nourishing fruit,  
+  Apples and grapes--the stalwart limbs of trees emerging--the fresh,  
+      free, open air,  
+  And love and faith, like scented roses blooming.  

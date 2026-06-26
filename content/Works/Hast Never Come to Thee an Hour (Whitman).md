@@ -14,8 +14,6 @@ tags:
   - motif/money_gold
 ---
 
-# Hast Never Come to Thee an Hour
-
 *by Whitman*  ·  **Cluster:** [[Vanitas · Contemptus Mundi · Vanity of Worldly Things]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Hast never come to thee an hour,
-  A sudden gleam divine, precipitating, bursting all these bubbles,
-      fashions, wealth?
-  These eager business aims--books, politics, art, amours,
-  To utter nothingness?
+  Hast never come to thee an hour,  
+  A sudden gleam divine, precipitating, bursting all these bubbles,  
+      fashions, wealth?  
+  These eager business aims--books, politics, art, amours,  
+  To utter nothingness?  

@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Femme Fatale
-
 *Archetype* — appears in **25** work(s).
 
 ## Works

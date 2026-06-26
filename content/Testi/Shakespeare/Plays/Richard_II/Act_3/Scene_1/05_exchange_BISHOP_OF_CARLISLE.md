@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard II — Act III, Scene 1 — exchange (BISHOP OF CARLISLE) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
 </nav>

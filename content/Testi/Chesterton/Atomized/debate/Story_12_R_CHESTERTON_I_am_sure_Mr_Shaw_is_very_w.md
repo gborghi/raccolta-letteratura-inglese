@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. CHESTERTON:  I am sure Mr. Shaw is very welcome
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_11_R_SHAW_I_now_want_to_ask_Mr_Chesterton_w">‹ Story 11 R SHAW I now want to ask Mr Chesterton w</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_13_R_BELLOC_I_was_told_when_I_accepted_this">Story 13 R BELLOC I was told when I accepted this ›</a></div>

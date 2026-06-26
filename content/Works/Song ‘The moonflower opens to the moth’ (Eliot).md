@@ -16,8 +16,6 @@ tags:
   - motif/night
 ---
 
-# Song: ‘The moonflower opens to the moth’
-
 *by Eliot*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -31,30 +29,30 @@ tags:
 
 ## Testo integrale / Full text
 
-Song: ‘The moonflower opens to the moth’
-The moonflower opens to the moth,
-   The mist crawls in from sea;
-A great white bird, a snowy owl,
-   Slips from the alder tree.
-Whiter the flowers, Love, you hold,
-   Than the white mist on the sea;
-Have you no brighter tropic flowers
-   With scarlet life, for me?
+Song: ‘The moonflower opens to the moth’  
+The moonflower opens to the moth,  
+   The mist crawls in from sea;  
+A great white bird, a snowy owl,  
+   Slips from the alder tree.  
+Whiter the flowers, Love, you hold,  
+   Than the white mist on the sea;  
+Have you no brighter tropic flowers  
+   With scarlet life, for me?  
 
-Nocturne
-Romeo, grand sérieux, to importune
+Nocturne  
+Romeo, grand sérieux, to importune  
 
 
-Guitar and hat in hand, beside the gate
-With Juliet, in the usual debate
-Of love, beneath a bored but courteous moon;
-The conversation failing, strikes some tune
-Banal, and out of pity for their fate
-Behind the wall I have some servant wait,
-Stab, and the lady sinks into a swoon.
-Blood looks effective on the moonlit ground —
-The hero smiles; in my best mode oblique
-Rolls toward the moon a frenzied eye profound,
-(No need of ‘Love forever?’ — ‘Love next week?’)
-While female readers all in tears are drowned: —
-‘The perfect climax all true lovers seek!’
+Guitar and hat in hand, beside the gate  
+With Juliet, in the usual debate  
+Of love, beneath a bored but courteous moon;  
+The conversation failing, strikes some tune  
+Banal, and out of pity for their fate  
+Behind the wall I have some servant wait,  
+Stab, and the lady sinks into a swoon.  
+Blood looks effective on the moonlit ground —  
+The hero smiles; in my best mode oblique  
+Rolls toward the moon a frenzied eye profound,  
+(No need of ‘Love forever?’ — ‘Love next week?’)  
+While female readers all in tears are drowned: —  
+‘The perfect climax all true lovers seek!’  

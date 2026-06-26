@@ -17,8 +17,6 @@ tags:
   - motif/dreams
 ---
 
-# SONNET: COMPOSED ON A JOURNEY HOMEWARD; THE AUTHOR HAVING RECEIVED INTELLIGENCE
-
 *by Coleridge*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 
@@ -32,19 +30,19 @@ tags:
 
 ## Testo integrale / Full text
 
-OF THE BIRTH OF A SON, SEPT. 20,    1796
-Oft o’er my brain does that strange fancy roll
-Which makes the present (while the flash doth last)
-Seem a mere semblance of some unknown past,
-Mixed with such feelings, as perplex the soul
-Self-questioned in her sleep; and some have said   5
-We liv’d, ere yet this robe of flesh we wore.
-O my sweet baby! when I reach my door,
-If heavy looks should tell me thou art dead,
-(As sometimes, through excess of hope, I fear)
-I think that I should struggle to believe   10
-Thou wert a spirit, to this nether sphere
-Sentenc’d for some more venial crime to grieve;
-Did’st scream, then spring to meet Heaven’s quick reprieve,
-While we wept idly o’er thy little bier!
-1796.
+OF THE BIRTH OF A SON, SEPT. 20,    1796  
+Oft o’er my brain does that strange fancy roll  
+Which makes the present (while the flash doth last)  
+Seem a mere semblance of some unknown past,  
+Mixed with such feelings, as perplex the soul  
+Self-questioned in her sleep; and some have said   5  
+We liv’d, ere yet this robe of flesh we wore.  
+O my sweet baby! when I reach my door,  
+If heavy looks should tell me thou art dead,  
+(As sometimes, through excess of hope, I fear)  
+I think that I should struggle to believe   10  
+Thou wert a spirit, to this nether sphere  
+Sentenc’d for some more venial crime to grieve;  
+Did’st scream, then spring to meet Heaven’s quick reprieve,  
+While we wept idly o’er thy little bier!  
+1796.  

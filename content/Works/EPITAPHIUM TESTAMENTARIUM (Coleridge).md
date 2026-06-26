@@ -16,8 +16,6 @@ tags:
   - concept/love_romantic
 ---
 
-# EPITAPHIUM TESTAMENTARIUM
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -32,13 +30,13 @@ tags:
 
 ## Testo integrale / Full text
 
-¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.
-Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes
-Do Morti: reddo caetera, Christe! tibi.
-1826.
-ÁÉÂ µv »q»·¸Á¿Â Ä±ÖÁ¿Â
-In many ways does the full heart reveal
-The presence of the love it would conceal;
-But in far more th’ estrangéd heart lets know
-The absence of the love, which yet it fain would shew.
-1826.
+¤x Ä¿æ £¤—£• Ä¿æ À¹¸±½¿æÂ Epitaphium testamentarium ±PÄy³Á±Æ¿½.  
+Quae linquam, aut nihil, aut nihili, aut vix sunt mea. Sordes  
+Do Morti: reddo caetera, Christe! tibi.  
+1826.  
+ÁÉÂ µv »q»·¸Á¿Â Ä±ÖÁ¿Â  
+In many ways does the full heart reveal  
+The presence of the love it would conceal;  
+But in far more th’ estrangéd heart lets know  
+The absence of the love, which yet it fain would shew.  
+1826.  

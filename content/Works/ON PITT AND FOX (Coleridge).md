@@ -15,8 +15,6 @@ tags:
   - motif/death
 ---
 
-# ON PITT AND FOX
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -30,29 +28,29 @@ tags:
 
 ## Testo integrale / Full text
 
-Britannia’s boast, her glory and her pride,
-Pitt in his Country’s service lived and died:
-At length resolv’d, like Pitt had done, to do,
-For once to serve his Country, Fox died too!
-First published by Mr. B. Dobell in the Athenæum, Jan. 6, 1904. This
-epigram belongs to the same MS. source as the preceding, ‘On the Taste
-of the Times,’ and may have been the composition of S. T. C.
-In Fugitive Pieces (1806) (see P. W., 1898, i. 34) Byron published a
-reply ‘for insertion in the Morning Chronicle to the following
-illiberal impromptu on the death of Mr. Fox, which appeared in the
-Morning Post [Sept. 26, 1806]: —
-“Our Nation’s Foes lament on Fox’s death,
-But bless the hour when Pitt resigned his breath:
-These feelings wide let Sense and Truth unclue,
-We give the palm where Justice points its due.”’
-I have little doubt that this ‘illiberal impromptu’ was published by S.
-T. C., who had just returned from Italy and was once more writing for
-the press. It is possible that he veiled his initials in the line, ‘Let
-Sense and Truth unClue.’
-An excellent adage commands that we should
-Relate of the dead that alone which is good;
-But of the great Lord who here lies in lead
-We know nothing good but that he is dead.
-First published in The Friend, No. 12, Nov. 9, 1809. Included in
-Essays, &c., iii. 986. First collected in P. and D. W., 1877, ii.
-178.
+Britannia’s boast, her glory and her pride,  
+Pitt in his Country’s service lived and died:  
+At length resolv’d, like Pitt had done, to do,  
+For once to serve his Country, Fox died too!  
+First published by Mr. B. Dobell in the Athenæum, Jan. 6, 1904. This  
+epigram belongs to the same MS. source as the preceding, ‘On the Taste  
+of the Times,’ and may have been the composition of S. T. C.  
+In Fugitive Pieces (1806) (see P. W., 1898, i. 34) Byron published a  
+reply ‘for insertion in the Morning Chronicle to the following  
+illiberal impromptu on the death of Mr. Fox, which appeared in the  
+Morning Post [Sept. 26, 1806]: —  
+“Our Nation’s Foes lament on Fox’s death,  
+But bless the hour when Pitt resigned his breath:  
+These feelings wide let Sense and Truth unclue,  
+We give the palm where Justice points its due.”’  
+I have little doubt that this ‘illiberal impromptu’ was published by S.  
+T. C., who had just returned from Italy and was once more writing for  
+the press. It is possible that he veiled his initials in the line, ‘Let  
+Sense and Truth unClue.’  
+An excellent adage commands that we should  
+Relate of the dead that alone which is good;  
+But of the great Lord who here lies in lead  
+We know nothing good but that he is dead.  
+First published in The Friend, No. 12, Nov. 9, 1809. Included in  
+Essays, &c., iii. 986. First collected in P. and D. W., 1877, ii.  
+178.  

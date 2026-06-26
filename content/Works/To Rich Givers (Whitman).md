@@ -15,8 +15,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# To Rich Givers
-
 *by Whitman*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  What you give me I cheerfully accept,
-  A little sustenance, a hut and garden, a little money, as I
-      rendezvous with my poems,
-  A traveler’s lodging and breakfast as journey through the States,--
-      why should I be ashamed to own such gifts? why to advertise for them?
-  For I myself am not one who bestows nothing upon man and woman,
-  For I bestow upon any man or woman the entrance to all the gifts of
-      the universe.
+  What you give me I cheerfully accept,  
+  A little sustenance, a hut and garden, a little money, as I  
+      rendezvous with my poems,  
+  A traveler’s lodging and breakfast as journey through the States,--  
+      why should I be ashamed to own such gifts? why to advertise for them?  
+  For I myself am not one who bestows nothing upon man and woman,  
+  For I bestow upon any man or woman the entrance to all the gifts of  
+      the universe.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — The Church of the Servile State
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_06_The_War_on_Holidays">‹ Story 06 The War on Holidays</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_08_Science_and_the_Eugenists">Story 08 Science and the Eugenists ›</a></div>

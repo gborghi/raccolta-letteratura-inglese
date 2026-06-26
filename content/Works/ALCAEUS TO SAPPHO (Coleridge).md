@@ -17,8 +17,6 @@ tags:
   - histref/ancient_greece
 ---
 
-# ALCAEUS TO SAPPHO
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -34,24 +32,24 @@ tags:
 
 ## Testo integrale / Full text
 
-How sweet, when crimson colours dart
-Across a breast of snow,
-To see that you are in the heart
-That beats and throbs below.
-All Heaven is in a maiden’s blush,   5
-In which the soul doth speak,
-That it was you who sent the flush
-Into the maiden’s cheek.
-Large steadfast eyes! eyes gently rolled
-In shades of changing blue,   10
-How sweet are they, if they behold
-No dearer sight than you.
-And, can a lip more richly glow,
-Or be more fair than this?
-The world will surely answer, No!   15
-I, SAPPHO, answer, Yes!
-Then grant one smile, tho’ it should mean
-A thing of doubtful birth;
-That I may say these eyes have seen
-The fairest face on earth!   20
-1800.
+How sweet, when crimson colours dart  
+Across a breast of snow,  
+To see that you are in the heart  
+That beats and throbs below.  
+All Heaven is in a maiden’s blush,   5  
+In which the soul doth speak,  
+That it was you who sent the flush  
+Into the maiden’s cheek.  
+Large steadfast eyes! eyes gently rolled  
+In shades of changing blue,   10  
+How sweet are they, if they behold  
+No dearer sight than you.  
+And, can a lip more richly glow,  
+Or be more fair than this?  
+The world will surely answer, No!   15  
+I, SAPPHO, answer, Yes!  
+Then grant one smile, tho’ it should mean  
+A thing of doubtful birth;  
+That I may say these eyes have seen  
+The fairest face on earth!   20  
+1800.  

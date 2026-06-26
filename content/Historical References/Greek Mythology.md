@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Greek Mythology
-
 *Historical reference* — appears in **99** work(s).
 
 ## Works

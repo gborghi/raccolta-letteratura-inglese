@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Guilt
-
 *Theme/Concept* — appears in **77** work(s).
 
 ## Works

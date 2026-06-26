@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Honour
-
 *Theme/Concept* — appears in **42** work(s).
 
 ## Works

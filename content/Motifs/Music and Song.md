@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Music and Song
-
 *Motif* — appears in **164** work(s).
 
 ## Works

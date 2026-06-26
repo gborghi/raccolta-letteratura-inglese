@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 9: Appearance and Disappearance (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_49_Appearance_and_Disappearance/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_50_The_Dreams_of_Mrs_Flintwinch_t/part_01">part 01 ›</a></div>

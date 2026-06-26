@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# CharlesDickens
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/CharlesDickens-(Chesterton)">CharlesDickens</a></div>
 </nav>

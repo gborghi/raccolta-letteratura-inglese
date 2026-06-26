@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# midsummer nights dream (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/midsummer-nights-dream-(Chesterton)">midsummer nights dream</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/midsummer_nights_dream/part/part_02">part 02 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Optimism Of Byron
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_03_William_Morris_And_His_School">‹ Story 03 William Morris And His School</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_05_Pope_And_The_Art_Of_Satire">Story 05 Pope And The Art Of Satire ›</a></div>

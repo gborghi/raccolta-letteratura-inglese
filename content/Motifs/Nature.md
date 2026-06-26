@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Nature
-
 *Motif* — appears in **337** work(s).
 
 ## Works

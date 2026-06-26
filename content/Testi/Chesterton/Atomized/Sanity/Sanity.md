@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 </nav>

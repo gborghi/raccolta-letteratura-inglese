@@ -18,8 +18,6 @@ tags:
   - character/major_bagstock
 ---
 
-# Dombey and Son
-
 *by Dickens*  ·  **Cluster:** [[Unclustered]]
 
 ## Connections

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 6: I ENLARGE MY CIRCLE OF ACQUAINTANCE (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_03">part 03 ›</a></div>

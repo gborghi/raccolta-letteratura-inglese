@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merchant of Venice — Act III, Scene 2 — monologue (PORTIA) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
 </nav>

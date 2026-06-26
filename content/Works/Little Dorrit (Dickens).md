@@ -42,8 +42,6 @@ tags:
   - character/daniel_doyce
 ---
 
-# Little Dorrit
-
 *by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

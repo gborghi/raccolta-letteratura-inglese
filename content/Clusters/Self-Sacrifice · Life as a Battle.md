@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Self-Sacrifice · Life as a Battle
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

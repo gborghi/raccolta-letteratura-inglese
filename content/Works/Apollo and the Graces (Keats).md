@@ -15,8 +15,6 @@ tags:
   - concept/joy
 ---
 
-# Apollo and the Graces
-
 *by Keats*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Written to the Tune of the Air in ‘Don Giovanni’
+Written to the Tune of the Air in ‘Don Giovanni’  
 
-APOLLO        Which of the fairest three
-Today will ride with me?
-My steeds are all pawing at the threshold of the morn:
-Which of the fairest three
-Today will ride with me
-Across the gold Autumn’s whole Kingdom of corn?
-THE GRACES all answer I will, I - I - I -
-O O young Apollo let me fly
-Along with thee,
-I I will - I, I, I,
-The many wonders see
-I — I — I — I —  10
-And thy lyre shall never have a slackened string
-I, I, I, I,
-Thro the golden day will sing.
+APOLLO        Which of the fairest three  
+Today will ride with me?  
+My steeds are all pawing at the threshold of the morn:  
+Which of the fairest three  
+Today will ride with me  
+Across the gold Autumn’s whole Kingdom of corn?  
+THE GRACES all answer I will, I - I - I -  
+O O young Apollo let me fly  
+Along with thee,  
+I I will - I, I, I,  
+The many wonders see  
+I — I — I — I —  10  
+And thy lyre shall never have a slackened string  
+I, I, I, I,  
+Thro the golden day will sing.  

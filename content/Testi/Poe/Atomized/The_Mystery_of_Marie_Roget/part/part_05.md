@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Mystery of Marie Roget (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Mystery-of-Marie-Roget-(Poe)">The Mystery of Marie Roget</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Mystery_of_Marie_Roget/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Mystery_of_Marie_Roget/part/part_06">part 06 ›</a></div>

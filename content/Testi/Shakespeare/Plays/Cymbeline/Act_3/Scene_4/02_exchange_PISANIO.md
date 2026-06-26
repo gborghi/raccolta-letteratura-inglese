@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Cymbeline — Act III, Scene 4 — exchange (PISANIO) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
 </nav>

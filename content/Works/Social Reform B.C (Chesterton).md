@@ -17,8 +17,6 @@ tags:
   - motif/marriage
 ---
 
-# Social Reform B.C
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

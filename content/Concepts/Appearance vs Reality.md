@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Appearance vs Reality
-
 *Theme/Concept* — appears in **189** work(s).
 
 ## Works

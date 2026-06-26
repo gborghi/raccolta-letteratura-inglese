@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mark Tapley
-
 *Character* — appears in **1** work(s).
 
 ## Works

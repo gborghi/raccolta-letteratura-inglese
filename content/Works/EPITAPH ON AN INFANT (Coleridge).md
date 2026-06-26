@@ -17,8 +17,6 @@ tags:
   - form/elegy
 ---
 
-# EPITAPH ON AN INFANT
-
 *by Coleridge*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -33,12 +31,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Its balmy lips the infant blest
-Relaxing from its Mother’s breast,
-How sweet it heaves the happy sigh
-Of innocent satiety!
-And such my Infant’s latest sigh!   5
-Oh tell, rude stone! the passer by,
-That here the pretty babe doth lie,
-Death sang to sleep with Lullaby.
-1811.
+Its balmy lips the infant blest  
+Relaxing from its Mother’s breast,  
+How sweet it heaves the happy sigh  
+Of innocent satiety!  
+And such my Infant’s latest sigh!   5  
+Oh tell, rude stone! the passer by,  
+That here the pretty babe doth lie,  
+Death sang to sleep with Lullaby.  
+1811.  

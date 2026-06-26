@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Professor — Chapter 16
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Professor/Chapter_16">‹ Chapter 16</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_18">Chapter 18 ›</a></div>

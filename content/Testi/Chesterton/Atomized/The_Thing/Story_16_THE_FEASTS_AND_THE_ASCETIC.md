@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE FEASTS AND THE ASCETIC
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_15_THE_REVOLT_AGAINST_IDEAS">‹ Story 15 THE REVOLT AGAINST IDEAS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_17_WHO_ARE_THE_CONSPIRATORS">Story 17 WHO ARE THE CONSPIRATORS ›</a></div>

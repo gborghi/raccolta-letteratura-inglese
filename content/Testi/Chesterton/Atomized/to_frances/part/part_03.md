@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# to-frances (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/to-frances-(Chesterton)">to frances</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/to_frances/part/part_02">‹ part 02</a><span></span></div>

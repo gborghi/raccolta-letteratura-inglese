@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Colloquy of Monos and Una
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Colloquy-of-Monos-and-Una-(Poe)">The Colloquy of Monos and Una</a></div>
 </nav>

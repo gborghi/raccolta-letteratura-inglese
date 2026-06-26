@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC All is Grist
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-All-is-Grist-(Chesterton)">GKC All is Grist</a></div>
 </nav>

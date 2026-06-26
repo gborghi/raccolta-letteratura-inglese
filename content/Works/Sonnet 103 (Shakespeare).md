@@ -16,8 +16,6 @@ tags:
   - motif/letters_writing
 ---
 
-# Sonnet 103
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Alack, what poverty my muse brings forth 
-That, having such a scope to show her pride, 
-The argument all bare is of more worth 
-Than when it hath my added praise beside! 
-O blame me not if I no more can write! 
-Look in your glass and there appears a face 
-That overgoes my blunt invention quite, 
-Dulling my lines and doing me disgrace. 
-Were it not sinful then, striving to mend, 
-To mar the subject that before was well?—
-For to no other pass my verses tend 
-Than of your graces and your gifts to tell; 
-And more, much more, than in my verse can sit 
-Your own glass shows you when you look in it.
+Alack, what poverty my muse brings forth  
+That, having such a scope to show her pride,  
+The argument all bare is of more worth  
+Than when it hath my added praise beside!  
+O blame me not if I no more can write!  
+Look in your glass and there appears a face  
+That overgoes my blunt invention quite,  
+Dulling my lines and doing me disgrace.  
+Were it not sinful then, striving to mend,  
+To mar the subject that before was well?—  
+For to no other pass my verses tend  
+Than of your graces and your gifts to tell;  
+And more, much more, than in my verse can sit  
+Your own glass shows you when you look in it.  

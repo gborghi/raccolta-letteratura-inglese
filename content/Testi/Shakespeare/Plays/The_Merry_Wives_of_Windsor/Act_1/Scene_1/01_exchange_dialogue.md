@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merry Wives of Windsor — Act I, Scene 1 — exchange (dialogue) [1]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
 </nav>

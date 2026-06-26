@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act IV, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_4/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_5/Scene_1">Scene 1 ›</a></div>

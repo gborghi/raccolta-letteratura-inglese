@@ -18,8 +18,6 @@ tags:
   - setting/rural_england
 ---
 
-# SONNET: TO THE RIVER OTTER
-
 *by Coleridge*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Dear native Brook! wild Streamlet of the West!
-How many various-fated years have past,
-What happy and what mournful hours, since last
-I skimm’d the smooth thin stone along thy breast,
-Numbering its light leaps! yet so deep imprest   5
-Sink the sweet scenes of childhood, that mine eyes
-I never shut amid the sunny ray,
-But straight with all their tints thy waters rise,
-Thy crossing plank, thy marge with willows grey,
-And bedded sand that vein’d with various dyes   10
-Gleam’d through thy bright transparence! On my way,
-Visions of Childhood! oft have ye beguil’d
-Lone manhood’s cares, yet waking fondest sighs:
-Ah! that once more I were a careless Child!
-? 1793.
+Dear native Brook! wild Streamlet of the West!  
+How many various-fated years have past,  
+What happy and what mournful hours, since last  
+I skimm’d the smooth thin stone along thy breast,  
+Numbering its light leaps! yet so deep imprest   5  
+Sink the sweet scenes of childhood, that mine eyes  
+I never shut amid the sunny ray,  
+But straight with all their tints thy waters rise,  
+Thy crossing plank, thy marge with willows grey,  
+And bedded sand that vein’d with various dyes   10  
+Gleam’d through thy bright transparence! On my way,  
+Visions of Childhood! oft have ye beguil’d  
+Lone manhood’s cares, yet waking fondest sighs:  
+Ah! that once more I were a careless Child!  
+? 1793.  

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Apollo
-
 *Character* — appears in **5** work(s).
 
 ## Works

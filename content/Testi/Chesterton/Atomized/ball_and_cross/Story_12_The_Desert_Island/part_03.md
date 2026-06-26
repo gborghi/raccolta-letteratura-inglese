@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Desert Island (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_12_The_Desert_Island/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_13_The_Garden_of_Peace/part_01">part 01 ›</a></div>

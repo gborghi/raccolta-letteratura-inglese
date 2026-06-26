@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Landor's Cottage (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Landor's-Cottage-(Poe)">Landor s Cottage</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Landor_s_Cottage/part/part_04">‹ part 04</a><span></span></div>

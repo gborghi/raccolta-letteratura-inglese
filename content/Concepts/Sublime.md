@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Sublime
-
 *Theme/Concept* — appears in **145** work(s).
 
 ## Works

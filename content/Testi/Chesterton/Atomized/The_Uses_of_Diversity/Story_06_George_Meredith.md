@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity — George Meredith
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_05_The_Domesticity_of_Detectives">‹ Story 05 The Domesticity of Detectives</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_07_The_Irishman">Story 07 The Irishman ›</a></div>

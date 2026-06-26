@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 28: An Appearance in the Marshalsea (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_68_An_Appearance_in_the_Marshalse/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_68_An_Appearance_in_the_Marshalse/part_04">part 04 ›</a></div>

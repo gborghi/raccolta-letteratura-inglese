@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Battle of Lepanto
-
 *Historical reference* — appears in **2** work(s).
 
 ## Works

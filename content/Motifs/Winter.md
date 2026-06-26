@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Winter
-
 *Motif* — appears in **92** work(s).
 
 ## Works

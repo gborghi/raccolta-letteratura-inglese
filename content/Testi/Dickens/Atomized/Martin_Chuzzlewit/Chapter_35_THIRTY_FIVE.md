@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Martin Chuzzlewit — Chapter 35: THIRTY FIVE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Martin-Chuzzlewit-(Dickens)">Martin Chuzzlewit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_34_THIRTY_FOUR">‹ Chapter 34 THIRTY FOUR</a><a class="ex-next" href="/Testi/Dickens/Atomized/Martin_Chuzzlewit/Chapter_36_THIRTY_SIX">Chapter 36 THIRTY SIX ›</a></div>

@@ -19,8 +19,6 @@ tags:
   - concept/joy
 ---
 
-# The Uses of Diversity
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

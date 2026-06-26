@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# whats wrong
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
 </nav>

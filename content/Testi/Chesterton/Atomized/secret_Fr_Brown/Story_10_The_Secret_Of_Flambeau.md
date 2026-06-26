@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — The Secret Of Flambeau
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_09_Viii_The_Chief_Mourner_Of_Marne">‹ Story 09 Viii The Chief Mourner Of Marne</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_01_The_Secret_Of_Father_Brown/part_01">part 01 ›</a></div>

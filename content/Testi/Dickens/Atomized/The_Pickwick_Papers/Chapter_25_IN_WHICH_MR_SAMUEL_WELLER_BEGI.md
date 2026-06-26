@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 23: IN WHICH MR. SAMUEL WELLER BEGINS TO DEVOTE HIS ENERGIES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_24_MR_PICKWICK_JOURNEYS_TO_IPSWIC">‹ Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_26_WHEREIN_MR_PETER_MAGNUS_GROWS">Chapter 26 WHEREIN MR PETER MAGNUS GROWS ›</a></div>

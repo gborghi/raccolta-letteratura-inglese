@@ -21,8 +21,6 @@ tags:
   - setting/london
 ---
 
-# AllThingsConsidered-8
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

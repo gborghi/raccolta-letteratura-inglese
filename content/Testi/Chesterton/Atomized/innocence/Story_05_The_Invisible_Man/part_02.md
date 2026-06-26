@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Invisible Man (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man/part_03">part 03 ›</a></div>

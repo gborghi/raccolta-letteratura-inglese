@@ -15,8 +15,6 @@ tags:
   - concept/the_self
 ---
 
-# You Felons on Trial in Courts
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

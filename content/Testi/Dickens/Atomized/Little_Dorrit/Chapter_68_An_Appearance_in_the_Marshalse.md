@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 28: An Appearance in the Marshalsea
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_67_The_Pupil_of_the_Marshalsea">‹ Chapter 67 The Pupil of the Marshalsea</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_69_A_Plea_in_the_Marshalsea">Chapter 69 A Plea in the Marshalsea ›</a></div>

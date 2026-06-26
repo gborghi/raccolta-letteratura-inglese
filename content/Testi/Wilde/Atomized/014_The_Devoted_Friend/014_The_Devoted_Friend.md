@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Devoted Friend
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Devoted-Friend-(Wilde)">014 The Devoted Friend</a></div>
 </nav>

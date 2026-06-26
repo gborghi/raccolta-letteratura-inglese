@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Scotland / the Highlands
-
 *Setting* — appears in **12** work(s).
 
 ## Works

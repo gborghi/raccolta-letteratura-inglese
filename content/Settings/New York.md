@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# New York
-
 *Setting* — appears in **2** work(s).
 
 ## Works

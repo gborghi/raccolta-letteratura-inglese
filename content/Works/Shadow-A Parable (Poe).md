@@ -25,8 +25,6 @@ tags:
   - setting/egypt
 ---
 
-# Shadow-A Parable
-
 *by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 

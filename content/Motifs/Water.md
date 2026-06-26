@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Water
-
 *Motif* — appears in **79** work(s).
 
 ## Works

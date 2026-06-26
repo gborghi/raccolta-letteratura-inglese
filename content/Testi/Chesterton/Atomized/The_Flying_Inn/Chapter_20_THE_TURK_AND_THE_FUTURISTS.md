@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 20: THE TURK AND THE FUTURISTS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_19_THE_HOSPITALITY_OF_THE_CAPTAIN">‹ Chapter 19 THE HOSPITALITY OF THE CAPTAIN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_21_THE_ROAD_TO_ROUNDABOUT">Chapter 21 THE ROAD TO ROUNDABOUT ›</a></div>

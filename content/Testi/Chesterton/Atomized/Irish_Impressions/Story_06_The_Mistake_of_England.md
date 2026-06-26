@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — The Mistake of England
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_05_The_Englishman_in_Ireland">‹ Story 05 The Englishman in Ireland</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_07_The_Mistake_of_Ireland">Story 07 The Mistake of Ireland ›</a></div>

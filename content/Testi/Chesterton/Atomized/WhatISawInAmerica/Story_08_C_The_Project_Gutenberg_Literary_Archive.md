@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_07_B_Project_Gutenberg_is_a_registered_trad">‹ Story 07 B Project Gutenberg is a registered trad</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_09_D_The_copyright_laws_of_the_place_where">Story 09 D The copyright laws of the place where ›</a></div>

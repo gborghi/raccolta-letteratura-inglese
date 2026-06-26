@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Imagination
-
 *Theme/Concept* — appears in **173** work(s).
 
 ## Works

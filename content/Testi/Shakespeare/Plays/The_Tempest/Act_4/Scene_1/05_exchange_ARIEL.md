@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Tempest — Act IV, Scene 1 — exchange (ARIEL) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TEMPEST-(Shakespeare)">The Tempest</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14 — The Paradoxes of Christianity (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_06_The_Paradoxes_of_Christianity/part_02">part 02 ›</a></div>

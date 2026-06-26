@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Strange Talk Of Two Victorians
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_24_Henry_James">‹ Story 24 Henry James</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_26_Laughter">Story 26 Laughter ›</a></div>

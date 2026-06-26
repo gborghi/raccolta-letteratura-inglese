@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE DRIFT FROM DOMESTICITY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_02_Is_HUMANISM_A_RELIGION">‹ Story 02 Is HUMANISM A RELIGION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_04_LOGIC_AND_LAWN_TENNIS">Story 04 LOGIC AND LAWN TENNIS ›</a></div>

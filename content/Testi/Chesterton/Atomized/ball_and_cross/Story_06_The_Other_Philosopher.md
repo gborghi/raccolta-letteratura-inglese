@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Other Philosopher
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_05_The_Peacemaker">‹ Story 05 The Peacemaker</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_07_The_Village_of_Grassley_in_the_Hole">Story 07 The Village of Grassley in the Hole ›</a></div>

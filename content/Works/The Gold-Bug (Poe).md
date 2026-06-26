@@ -16,8 +16,6 @@ tags:
   - form/short_story
 ---
 
-# The Gold-Bug
-
 *by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

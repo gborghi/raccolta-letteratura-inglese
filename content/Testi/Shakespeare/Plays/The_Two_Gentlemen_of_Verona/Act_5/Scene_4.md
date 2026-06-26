@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Gentlemen of Verona — Act V, Scene 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Two_Gentlemen_of_Verona/Act_5/Scene_3">‹ Scene 3</a><span></span></div>

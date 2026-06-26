@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Antony and Cleopatra — Act III, Scene 9
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_3/Scene_8">‹ Scene 8</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_3/Scene_10">Scene 10 ›</a></div>

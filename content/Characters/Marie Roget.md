@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Marie Roget
-
 *Character* — appears in **1** work(s).
 
 ## Works

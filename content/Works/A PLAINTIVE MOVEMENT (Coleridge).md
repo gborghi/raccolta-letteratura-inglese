@@ -15,8 +15,6 @@ tags:
   - motif/music_and_song
 ---
 
-# A PLAINTIVE MOVEMENT
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-Go little Pipe! for ever I must leave thee,
-Ah, vainly true!
-Never, ah never! must I more receive thee?
-Adieu! adieu!
-Well, thou art gone! and what remains behind,
-Soothing the soul to Hope?
-The moaning Wind —
-Hide with sere leaves my Grave’s undaisied Slope.
-(?) October. 1814.
-[It would be better to alter this metre —
-10´ 6` 6´ 10` | 11´ 4` 11´ 4`: and still more plaintive if the 1st and
-4th were 11´ 11´ as well as the 5th and 7th.]
-Now first published from an MS.
+Go little Pipe! for ever I must leave thee,  
+Ah, vainly true!  
+Never, ah never! must I more receive thee?  
+Adieu! adieu!  
+Well, thou art gone! and what remains behind,  
+Soothing the soul to Hope?  
+The moaning Wind —  
+Hide with sere leaves my Grave’s undaisied Slope.  
+(?) October. 1814.  
+[It would be better to alter this metre —  
+10´ 6` 6´ 10` | 11´ 4` 11´ 4`: and still more plaintive if the 1st and  
+4th were 11´ 11´ as well as the 5th and 7th.]  
+Now first published from an MS.  

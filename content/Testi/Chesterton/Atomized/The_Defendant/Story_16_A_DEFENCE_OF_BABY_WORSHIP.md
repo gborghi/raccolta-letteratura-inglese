@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF BABY-WORSHIP
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_15_A_DEFENCE_OF_SLANG">‹ Story 15 A DEFENCE OF SLANG</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_17_A_DEFENCE_OF_DETECTIVE_STORIES">Story 17 A DEFENCE OF DETECTIVE STORIES ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Henry VI
-
 *Character* — appears in **3** work(s).
 
 ## Works

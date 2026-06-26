@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self-Deception
-
 *Theme/Concept* — appears in **0** work(s).
 
 #graph/concept

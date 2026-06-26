@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act IV, Scene 1 — exchange (WILLIAMS) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 </nav>

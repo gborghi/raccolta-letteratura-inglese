@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# City · London · Theatrum Mundi
-
 *Cluster* — **17 works**.
 
 ## Defining concepts

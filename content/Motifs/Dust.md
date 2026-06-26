@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Dust
-
 *Motif* — appears in **55** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE REAL LIFE ON THE LAND
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_13_VOWS_AND_VOLUNTEERS">‹ Story 13 VOWS AND VOLUNTEERS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_15_SOME_ASPECTS_OF_MACHINERY">Story 15 SOME ASPECTS OF MACHINERY ›</a></div>

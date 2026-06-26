@@ -48,8 +48,6 @@ tags:
   - character/mr_sapsea
 ---
 
-# The Mystery of Edwin Drood
-
 *by Dickens*  ·  **Cluster:** [[Damsel]]
 
 > [!abstract] 

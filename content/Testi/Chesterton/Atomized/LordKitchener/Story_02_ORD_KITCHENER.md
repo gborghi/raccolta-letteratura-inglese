@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — ORD KITCHENER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_01_ORD_KITCHENER">‹ Story 01 ORD KITCHENER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_03_A_By_reading_or_using_any_part_of_this_P">Story 03 A By reading or using any part of this P ›</a></div>

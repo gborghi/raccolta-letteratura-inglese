@@ -15,8 +15,6 @@ tags:
   - motif/the_city
 ---
 
-# Miracles
-
 *by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 

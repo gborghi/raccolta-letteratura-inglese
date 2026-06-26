@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Dombey and Son — Chapter 46
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_101">‹ Chapter 101</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_103">Chapter 103 ›</a></div>

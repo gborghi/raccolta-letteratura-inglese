@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Fortune's Wheel
-
 *Topos* — appears in **46** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Great Expectations
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
 </nav>

@@ -18,8 +18,6 @@ tags:
   - form/epigram
 ---
 
-# TRANSLATION OF A LATIN INSCRIPTION BY THE REV. W. L. BOWLES IN NETHER-STOWEY CHURCH
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Depart in joy from this world’s noise and strife
-To the deep quiet of celestial life!
-Depart! — Affection’s self reproves the tear
-Which falls, O honour’d Parent! on thy bier; —
-Yet Nature will be heard, the heart will swell,   5
-And the voice tremble with a last Farewell!
-1797.
-[The Tablet is erected to the Memory of Richard Camplin, who died Jan.
-20, 1792.
-‘Lætus abi! mundi strepitu curisque remotus;
-Lætus abi! cæli quâ vocat alma Quies.
-Ipsa fides loquitur lacrymamque incusat inanem,
-Quæ cadit in vestros, care Pater, Cineres.
-Heu! tantum liceat meritos hos solvere Ritus,   5
-Naturæ et tremulâ dicere Voce, Vale!’]
+Depart in joy from this world’s noise and strife  
+To the deep quiet of celestial life!  
+Depart! — Affection’s self reproves the tear  
+Which falls, O honour’d Parent! on thy bier; —  
+Yet Nature will be heard, the heart will swell,   5  
+And the voice tremble with a last Farewell!  
+1797.  
+[The Tablet is erected to the Memory of Richard Camplin, who died Jan.  
+20, 1792.  
+‘Lætus abi! mundi strepitu curisque remotus;  
+Lætus abi! cæli quâ vocat alma Quies.  
+Ipsa fides loquitur lacrymamque incusat inanem,  
+Quæ cadit in vestros, care Pater, Cineres.  
+Heu! tantum liceat meritos hos solvere Ritus,   5  
+Naturæ et tremulâ dicere Voce, Vale!’]  

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Ghosts · Ghost · Death and Love
-
 *Cluster* — **9 works**.
 
 ## Defining concepts

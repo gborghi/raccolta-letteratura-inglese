@@ -17,8 +17,6 @@ tags:
   - motif/time
 ---
 
-# Sonnet 55
-
 *by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -33,19 +31,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Not marble nor the gilded monuments 
-Of princes shall outlive this powerful rhyme, 
-But you shall shine more bright in these contents 
-Than unswept stone besmeared with sluttish time. 
-When wasteful war shall statues overturn, 
-And broils root out the work of masonry, 
-Nor Mars his sword nor war’s quick fire shall burn 
-The living record of your memory. 
-’Gainst death and all oblivious enmity 
-Shall you pace forth; your praise shall still find room 
-Even in the eyes of all posterity 
-That wear this world out to the ending doom.
+Not marble nor the gilded monuments  
+Of princes shall outlive this powerful rhyme,  
+But you shall shine more bright in these contents  
+Than unswept stone besmeared with sluttish time.  
+When wasteful war shall statues overturn,  
+And broils root out the work of masonry,  
+Nor Mars his sword nor war’s quick fire shall burn  
+The living record of your memory.  
+’Gainst death and all oblivious enmity  
+Shall you pace forth; your praise shall still find room  
+Even in the eyes of all posterity  
+That wear this world out to the ending doom.  
 
-So, till the judgement that yourself arise,
+So, till the judgement that yourself arise,  
 
-You live in this, and dwell in lovers’ eyes.
+You live in this, and dwell in lovers’ eyes.  

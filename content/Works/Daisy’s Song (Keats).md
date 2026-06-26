@@ -16,8 +16,6 @@ tags:
   - motif/nature
 ---
 
-# Daisy’s Song
-
 *by Keats*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-The sun, with his great eye,
-Sees not so much as I;
-And the moon, all silver-proud,
-Might as well be in a cloud.
+I  
+The sun, with his great eye,  
+Sees not so much as I;  
+And the moon, all silver-proud,  
+Might as well be in a cloud.  
 
-II
-And O the spring - the spring!
-I lead the life of a king!
-Couch’d in the teeming grass,
-I spy each pretty lass.
+II  
+And O the spring - the spring!  
+I lead the life of a king!  
+Couch’d in the teeming grass,  
+I spy each pretty lass.  
 
-III
-I look where no one dares,
-And I stare where no one stares,
-And when the night is nigh,
-Lambs bleat my lullaby.
+III  
+I look where no one dares,  
+And I stare where no one stares,  
+And when the night is nigh,  
+Lambs bleat my lullaby.  

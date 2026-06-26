@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Earl of Surrey
-
 *Character* — appears in **1** work(s).
 
 ## Works

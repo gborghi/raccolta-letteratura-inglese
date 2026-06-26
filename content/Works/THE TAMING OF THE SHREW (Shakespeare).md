@@ -41,8 +41,6 @@ tags:
   - character/christopher_sly
 ---
 
-# THE TAMING OF THE SHREW
-
 *by Shakespeare*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

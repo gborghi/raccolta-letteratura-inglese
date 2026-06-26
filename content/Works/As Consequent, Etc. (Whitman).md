@@ -15,8 +15,6 @@ tags:
   - motif/autumn
 ---
 
-# As Consequent, Etc.
-
 *by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 

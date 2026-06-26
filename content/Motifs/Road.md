@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Road
-
 *Motif* — appears in **40** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 8: VOX POPULI VOX DEI
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_07_THE_SOCIETY_OF_SIMPLE_SOULS">‹ Chapter 07 THE SOCIETY OF SIMPLE SOULS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_09_THE_HIGHER_CRITICISM_AND_MR_HI">Chapter 09 THE HIGHER CRITICISM AND MR HI ›</a></div>

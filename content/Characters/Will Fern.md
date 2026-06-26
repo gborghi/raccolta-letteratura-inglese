@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Will Fern
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Grave
-
 *Motif* — appears in **194** work(s).
 
 ## Works

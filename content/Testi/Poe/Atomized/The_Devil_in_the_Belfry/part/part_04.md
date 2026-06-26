@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Devil in the Belfry (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Devil-in-the-Belfry-(Poe)">The Devil in the Belfry</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Devil_in_the_Belfry/part/part_03">‹ part 03</a><span></span></div>

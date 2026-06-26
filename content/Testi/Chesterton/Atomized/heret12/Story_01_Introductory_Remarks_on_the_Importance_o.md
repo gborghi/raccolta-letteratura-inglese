@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Introductory Remarks on the Importance of Orthodoxy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit">Story 02 On the Negative Spirit ›</a></div>

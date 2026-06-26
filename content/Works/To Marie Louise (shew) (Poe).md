@@ -16,8 +16,6 @@ tags:
   - form/blank_verse
 ---
 
-# To Marie Louise (shew)
-
 *by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,23 +31,23 @@ tags:
 
 ## Testo integrale / Full text
 
-Of all who hail thy presence as the morning—
-     Of all to whom thine absence is the night—
-     The blotting utterly from out high heaven
-     The sacred sun—of all who, weeping, bless thee
-     Hourly for hope—for life—ah! above all,
-     For the resurrection of deep-buried faith
-     In Truth—in Virtue—in Humanity—
-     Of all who, on Despair’s unhallowed bed
-     Lying down to die, have suddenly arisen
-     At thy soft-murmured words, “Let there be light!”
-      At the soft-murmured words that were fulfilled
-     In the seraphic glancing of thine eyes—
-     Of all who owe thee most—whose gratitude
-     Nearest resembles worship—oh, remember
-     The truest—the most fervently devoted,
-     And think that these weak lines are written by him—
-     By him who, as he pens them, thrills to think
-     His spirit is communing with an angel’s.
+Of all who hail thy presence as the morning—  
+     Of all to whom thine absence is the night—  
+     The blotting utterly from out high heaven  
+     The sacred sun—of all who, weeping, bless thee  
+     Hourly for hope—for life—ah! above all,  
+     For the resurrection of deep-buried faith  
+     In Truth—in Virtue—in Humanity—  
+     Of all who, on Despair’s unhallowed bed  
+     Lying down to die, have suddenly arisen  
+     At thy soft-murmured words, “Let there be light!”  
+      At the soft-murmured words that were fulfilled  
+     In the seraphic glancing of thine eyes—  
+     Of all who owe thee most—whose gratitude  
+     Nearest resembles worship—oh, remember  
+     The truest—the most fervently devoted,  
+     And think that these weak lines are written by him—  
+     By him who, as he pens them, thrills to think  
+     His spirit is communing with an angel’s.  
 
-      1847.
+      1847.  

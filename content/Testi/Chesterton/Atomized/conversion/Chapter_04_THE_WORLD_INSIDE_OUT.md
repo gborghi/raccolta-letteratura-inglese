@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion — Chapter 4: THE WORLD INSIDE OUT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES">‹ Chapter 03 THE REAL OBSTACLES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_05_THE_EXCEPTION_PROVES_THE_RULE">Chapter 05 THE EXCEPTION PROVES THE RULE ›</a></div>

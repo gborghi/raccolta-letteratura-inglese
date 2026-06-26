@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Incredulity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 </nav>

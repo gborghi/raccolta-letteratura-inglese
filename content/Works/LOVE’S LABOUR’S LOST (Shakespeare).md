@@ -32,8 +32,6 @@ tags:
   - character/costard
 ---
 
-# LOVE’S LABOUR’S LOST
-
 *by Shakespeare*  ·  **Cluster:** [[Love's Labour's Lost]]
 
 > [!abstract] 

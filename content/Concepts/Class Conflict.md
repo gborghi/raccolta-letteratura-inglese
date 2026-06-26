@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Class Conflict
-
 *Theme/Concept* — appears in **49** work(s).
 
 ## Works

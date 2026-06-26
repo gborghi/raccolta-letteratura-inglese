@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 40: THE WANDERER (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_39_WICKFIELD_AND_HEEP/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_40_THE_WANDERER/part_02">part 02 ›</a></div>

@@ -41,8 +41,6 @@ tags:
   - character/lucifer
 ---
 
-# ball and cross
-
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

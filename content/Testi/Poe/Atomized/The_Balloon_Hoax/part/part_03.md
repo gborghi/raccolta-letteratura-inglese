@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Balloon-Hoax (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Balloon-Hoax-(Poe)">The Balloon Hoax</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Balloon_Hoax/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Balloon_Hoax/part/part_04">part 04 ›</a></div>

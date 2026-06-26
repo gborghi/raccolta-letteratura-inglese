@@ -40,8 +40,6 @@ tags:
   - character/hastings
 ---
 
-# RICHARD III
-
 *by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
 
 > [!abstract] 

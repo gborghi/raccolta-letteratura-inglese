@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# JULIUS CAESAR
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
 </nav>

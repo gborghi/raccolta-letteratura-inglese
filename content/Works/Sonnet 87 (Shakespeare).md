@@ -18,8 +18,6 @@ tags:
   - concept/love_romantic
 ---
 
-# Sonnet 87
-
 *by Shakespeare*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
@@ -35,17 +33,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Farewell—thou art too dear for my possessing, 
-And like enough thou know‘st thy estimate. 
-The charter of thy worth gives thee releasing; 
-My bonds in thee are all determinate. 
-For how do I hold thee but by thy granting, 
-And for that riches where is my deserving? 
-The cause of this fair gift in me is wanting, 
-And so my patent back again is swerving. 
-Thyself thou gav’st, thy own worth then not knowing, 
-Or me to whom thou gav’st it else mistaking; 
-So thy great gift, upon misprision growing, 
-Comes home again, on better judgement making. 
-Thus have I had thee as a dream doth flatter: 
-In sleep a king, but waking no such matter.
+Farewell—thou art too dear for my possessing,  
+And like enough thou know‘st thy estimate.  
+The charter of thy worth gives thee releasing;  
+My bonds in thee are all determinate.  
+For how do I hold thee but by thy granting,  
+And for that riches where is my deserving?  
+The cause of this fair gift in me is wanting,  
+And so my patent back again is swerving.  
+Thyself thou gav’st, thy own worth then not knowing,  
+Or me to whom thou gav’st it else mistaking;  
+So thy great gift, upon misprision growing,  
+Comes home again, on better judgement making.  
+Thus have I had thee as a dream doth flatter:  
+In sleep a king, but waking no such matter.  

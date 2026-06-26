@@ -14,8 +14,6 @@ tags:
   - archetype/lover
 ---
 
-# NOT AT HOME
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-That Jealousy may rule a mind
-Where Love could never be
-I know; but ne’er expect to find
-Love without Jealousy.
-She has a strange cast in her ee,   5
-A swart sour-visaged maid —
-But yet Love’s own twin-sister she
-His house-mate and his shade.
-Ask for her and she’ll be denied: —
-What then? they only mean   10
-Their mistress has lain down to sleep,
-And can’t just then be seen.
-? 1830.
+That Jealousy may rule a mind  
+Where Love could never be  
+I know; but ne’er expect to find  
+Love without Jealousy.  
+She has a strange cast in her ee,   5  
+A swart sour-visaged maid —  
+But yet Love’s own twin-sister she  
+His house-mate and his shade.  
+Ask for her and she’ll be denied: —  
+What then? they only mean   10  
+Their mistress has lain down to sleep,  
+And can’t just then be seen.  
+? 1830.  

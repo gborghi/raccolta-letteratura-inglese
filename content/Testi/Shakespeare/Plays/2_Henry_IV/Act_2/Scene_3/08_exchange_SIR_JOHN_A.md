@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 2 Henry IV — Act II, Scene 3 — exchange (SIR JOHN A) [8]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
 </nav>

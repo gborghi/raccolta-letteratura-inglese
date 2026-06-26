@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — Sacrament Or Magic
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_175_A_Local_Habitation">‹ Story 175 A Local Habitation</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_177_The_Concrete_And_The_Abstract">Story 177 The Concrete And The Abstract ›</a></div>

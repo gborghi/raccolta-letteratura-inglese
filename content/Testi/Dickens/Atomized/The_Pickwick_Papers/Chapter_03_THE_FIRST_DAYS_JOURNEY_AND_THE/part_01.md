@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 2: THE FIRST DAY’S JOURNEY, AND THE FIRST EVENING’S ADVENTURES; (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_59_IN_WHICH_THE_PICKWICK_CLUB_IS">‹ Chapter 59 IN WHICH THE PICKWICK CLUB IS</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE/part_02">part 02 ›</a></div>

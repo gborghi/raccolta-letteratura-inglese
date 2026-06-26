@@ -14,8 +14,6 @@ tags:
   - motif/hands
 ---
 
-# Of the Terrible Doubt of Appearances
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

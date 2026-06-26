@@ -14,8 +14,6 @@ tags:
   - concept/disillusionment
 ---
 
-# THE TASTE OF THE TIMES
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,14 +26,14 @@ tags:
 
 ## Testo integrale / Full text
 
-Some whim or fancy pleases every eye;
-For talents premature ‘tis now the rage:
-In Music how great Handel would have smil’d
-T’ have seen what crowds are raptur’d with a child!
-A Garrick we have had in little Betty —
-And now we’re told we have a Pitt in Petty!
-All must allow, since thus it is decreed,
-He is a very petty Pitt indeed!
-? 1806.
-First printed (from an autograph MS.) by Mr. Bertram Dobell in the
-Athenæum, Jan. 9, 1904. Now collected for the first time.
+Some whim or fancy pleases every eye;  
+For talents premature ‘tis now the rage:  
+In Music how great Handel would have smil’d  
+T’ have seen what crowds are raptur’d with a child!  
+A Garrick we have had in little Betty —  
+And now we’re told we have a Pitt in Petty!  
+All must allow, since thus it is decreed,  
+He is a very petty Pitt indeed!  
+? 1806.  
+First printed (from an autograph MS.) by Mr. Bertram Dobell in the  
+Athenæum, Jan. 9, 1904. Now collected for the first time.  

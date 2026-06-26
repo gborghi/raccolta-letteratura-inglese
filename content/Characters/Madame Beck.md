@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Madame Beck
-
 *Character* — appears in **1** work(s).
 
 ## Works

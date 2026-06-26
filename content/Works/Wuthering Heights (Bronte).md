@@ -43,8 +43,6 @@ tags:
   - character/cathy_linton
 ---
 
-# Wuthering Heights
-
 *by Bronte*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 

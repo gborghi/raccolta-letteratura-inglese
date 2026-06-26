@@ -15,8 +15,6 @@ tags:
   - motif/flowers
 ---
 
-# VER PERPETUUM
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -31,15 +29,15 @@ tags:
 
 ## Testo integrale / Full text
 
-FRAGMENT FROM AN UNPUBLISHED POEM.
-The early Year’s fast-flying vapours stray
-In shadowing trains across the orb of day:
-And we, poor Insects of a few short hours,
-Deem it a world of Gloom.
-Were it not better hope a nobler doom,   5
-Proud to believe that with more active powers
-On rapid many-coloured wing
-We thro’ one bright perpetual Spring
-Shall hover round the fruits and flowers,
-Screen’d by those clouds and cherish’d by those showers!   10
-1796.
+FRAGMENT FROM AN UNPUBLISHED POEM.  
+The early Year’s fast-flying vapours stray  
+In shadowing trains across the orb of day:  
+And we, poor Insects of a few short hours,  
+Deem it a world of Gloom.  
+Were it not better hope a nobler doom,   5  
+Proud to believe that with more active powers  
+On rapid many-coloured wing  
+We thro’ one bright perpetual Spring  
+Shall hover round the fruits and flowers,  
+Screen’d by those clouds and cherish’d by those showers!   10  
+1796.  

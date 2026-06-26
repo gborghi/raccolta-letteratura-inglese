@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 14: COMPRISING A BRIEF DESCRIPTION OF THE COMPANY AT THE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_14_SOME_ACCOUNT_OF_EATANSWILL_OF">‹ Chapter 14 SOME ACCOUNT OF EATANSWILL OF</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_16_IN_WHICH_IS_GIVEN_A_FAITHFUL_P">Chapter 16 IN WHICH IS GIVEN A FAITHFUL P ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Outsider
-
 *Archetype* — appears in **90** work(s).
 
 ## Works

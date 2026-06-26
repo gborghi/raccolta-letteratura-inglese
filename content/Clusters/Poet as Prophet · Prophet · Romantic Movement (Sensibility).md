@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Poet as Prophet · Prophet · Romantic Movement (Sensibility)
-
 *Cluster* — **18 works**.
 
 ## Defining concepts

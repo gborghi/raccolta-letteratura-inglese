@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 1 Henry IV — Act III, Scene 2 — monologue (KING HENRY) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/1-HENRY-IV-(Shakespeare)">1 Henry IV</a></div>
 </nav>

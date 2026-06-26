@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Garden
-
 *Setting* — appears in **24** work(s).
 
 ## Works

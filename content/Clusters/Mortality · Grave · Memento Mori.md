@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Mortality · Grave · Memento Mori
-
 *Cluster* — **105 works**.
 
 ## Defining concepts

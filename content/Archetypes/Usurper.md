@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Usurper
-
 *Archetype* — appears in **11** work(s).
 
 ## Works

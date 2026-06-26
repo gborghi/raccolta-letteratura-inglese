@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 3: A NEW ACQUAINTANCE--THE STROLLER’S TALE--A DISAGREEABLE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE">‹ Chapter 03 THE FIRST DAYS JOURNEY AND THE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N">Chapter 05 A FIELD DAY AND BIVOUAC MORE N ›</a></div>

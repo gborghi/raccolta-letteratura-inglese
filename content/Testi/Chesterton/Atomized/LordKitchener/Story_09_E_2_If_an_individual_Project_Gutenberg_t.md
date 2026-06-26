@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — E.2.  If an individual Project Gutenberg-tm electronic work is derived
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_08_E_1_The_following_sentence_with_active_l">‹ Story 08 E 1 The following sentence with active l</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_10_E_3_If_an_individual_Project_Gutenberg_t">Story 10 E 3 If an individual Project Gutenberg t ›</a></div>

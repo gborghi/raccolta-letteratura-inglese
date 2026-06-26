@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Unparalleled Adventures of one Hans Pfaall
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Unparalleled-Adventures-of-one-Hans-Pfaall-(Poe)">The Unparalleled Adventures of one Hans Pfaall</a></div>
 </nav>

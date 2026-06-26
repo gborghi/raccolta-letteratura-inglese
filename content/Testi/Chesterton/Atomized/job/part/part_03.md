@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# job (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/job-(Chesterton)">job</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/job/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/job/part/part_04">part 04 ›</a></div>

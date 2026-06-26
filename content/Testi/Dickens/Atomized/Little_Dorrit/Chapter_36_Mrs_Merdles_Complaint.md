@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 33: Mrs Merdle’s Complaint
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_35_More_Fortune_Telling">‹ Chapter 35 More Fortune Telling</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_37_A_Shoal_of_Barnacles">Chapter 37 A Shoal of Barnacles ›</a></div>

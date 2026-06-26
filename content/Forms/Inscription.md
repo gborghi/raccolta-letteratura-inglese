@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Inscription
-
 *Form/Genre* — appears in **1** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE HOUSE OF THE PEACOCK
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_05_THE_FINGER_OF_STONE">‹ Story 05 THE FINGER OF STONE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_07_THE_PURPLE_JEWEL">Story 07 THE PURPLE JEWEL ›</a></div>

@@ -17,8 +17,6 @@ tags:
   - motif/the_mirror
 ---
 
-# An Extempore
-
 *by Keats*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 

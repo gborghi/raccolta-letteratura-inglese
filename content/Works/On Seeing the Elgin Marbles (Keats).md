@@ -18,8 +18,6 @@ tags:
   - form/sonnet
 ---
 
-# On Seeing the Elgin Marbles
-
 *by Keats*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
@@ -35,18 +33,18 @@ tags:
 
 ## Testo integrale / Full text
 
-My spirit is too weak - mortality
-Weighs heavily on me like unwilling sleep.
-And each imagin’d pinnacle and steep
-Of godlike hardship, tells me I must die
-Like a sick Eagle looking at the sky.
-Yet ’tis a gentle luxury to weep
-That I have not the cloudy winds to keep,
-Fresh for the opening of the morning’s eye.
-Such dim-conceived glories of the brain
-Bring round the heart an undescribable feud:
-10
-So do these wonders a most dizzy pain,
-That mingles Grecian grandeur with the rude
-Wasting of old Time - with a billowy main -
-A sun - a shadow of a magnitude.
+My spirit is too weak - mortality  
+Weighs heavily on me like unwilling sleep.  
+And each imagin’d pinnacle and steep  
+Of godlike hardship, tells me I must die  
+Like a sick Eagle looking at the sky.  
+Yet ’tis a gentle luxury to weep  
+That I have not the cloudy winds to keep,  
+Fresh for the opening of the morning’s eye.  
+Such dim-conceived glories of the brain  
+Bring round the heart an undescribable feud:  
+10  
+So do these wonders a most dizzy pain,  
+That mingles Grecian grandeur with the rude  
+Wasting of old Time - with a billowy main -  
+A sun - a shadow of a magnitude.  

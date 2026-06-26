@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mrs Sparsit
-
 *Character* — appears in **1** work(s).
 
 ## Works

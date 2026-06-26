@@ -15,8 +15,6 @@ tags:
   - histref/christianity
 ---
 
-# Broad Minded Bishop
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-A Broad Minded Bishop Rebukes The Verminous St. Francis
+A Broad Minded Bishop Rebukes The Verminous St. Francis  
 
-If Brother Francis pardoned Brother Flea,
-There still seems need of such strange charity,
-Seeing he is, for all his gay goodwill,
-Bitten by funny little creatures still.
+If Brother Francis pardoned Brother Flea,  
+There still seems need of such strange charity,  
+Seeing he is, for all his gay goodwill,  
+Bitten by funny little creatures still.  
 
 
-===== FINE FILE: Broad_Minded_Bishop.txt =====
+===== FINE FILE: Broad_Minded_Bishop.txt =====  

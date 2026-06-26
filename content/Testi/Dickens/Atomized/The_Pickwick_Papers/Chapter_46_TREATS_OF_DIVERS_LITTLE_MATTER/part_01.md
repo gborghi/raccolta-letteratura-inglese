@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 44: TREATS OF DIVERS LITTLE MATTERS WHICH OCCURRED IN THE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_45_SHOWING_HOW_MR_SAMUEL_WELLER_G/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_46_TREATS_OF_DIVERS_LITTLE_MATTER/part_02">part 02 ›</a></div>

@@ -15,8 +15,6 @@ tags:
   - concept/joy
 ---
 
-# TO THE MUSE
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Tho’ no bold flights to thee belong;
-And tho’ thy lays with conscious fear,
-Shrink from Judgement’s eye severe,
-Yet much I thank thee, Spirit of my song!
-For, lovely Muse! thy sweet employ   5
-Exalts my soul, refines my breast,
-Gives each pure pleasure keener zest,
-And softens sorrow into pensive Joy.
-From thee I learn’d the wish to bless,
-From thee to commune with my heart;    10
-From thee, dear Muse! the gayer part,
-To laugh with pity at the crowds that press
-Where Fashion flaunts her robes by Folly spun,
-Whose hues gay-varying wanton in the sun.
-1789.
+Tho’ no bold flights to thee belong;  
+And tho’ thy lays with conscious fear,  
+Shrink from Judgement’s eye severe,  
+Yet much I thank thee, Spirit of my song!  
+For, lovely Muse! thy sweet employ   5  
+Exalts my soul, refines my breast,  
+Gives each pure pleasure keener zest,  
+And softens sorrow into pensive Joy.  
+From thee I learn’d the wish to bless,  
+From thee to commune with my heart;    10  
+From thee, dear Muse! the gayer part,  
+To laugh with pity at the crowds that press  
+Where Fashion flaunts her robes by Folly spun,  
+Whose hues gay-varying wanton in the sun.  
+1789.  

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Grace Under Pressure / Stoic Endurance
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

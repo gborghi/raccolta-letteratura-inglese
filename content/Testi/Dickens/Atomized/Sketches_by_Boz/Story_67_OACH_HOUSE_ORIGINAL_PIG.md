@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — OACH-HOUSE, ORIGINAL PIG.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_66_OACH_HOUSE_PIG_AND_TINDER_BOX">‹ Story 66 OACH HOUSE PIG AND TINDER BOX</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_68_ARGE_ROOM_BOOT_JACK_AND_COUNTENANCE">Story 68 ARGE ROOM BOOT JACK AND COUNTENANCE ›</a></div>

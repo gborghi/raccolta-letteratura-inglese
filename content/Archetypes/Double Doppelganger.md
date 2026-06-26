@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Double / Doppelganger
-
 *Archetype* — appears in **19** work(s).
 
 ## Works

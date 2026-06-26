@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Measure for Measure — Act V, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Measure_for_Measure/Act_4/Scene_6">‹ Scene 6</a><span></span></div>

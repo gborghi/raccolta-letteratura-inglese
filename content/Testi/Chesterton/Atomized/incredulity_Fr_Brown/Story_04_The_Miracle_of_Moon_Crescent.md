@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Miracle of Moon Crescent
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_03_The_Oracle_of_the_Dog">‹ Story 03 The Oracle of the Dog</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_05_The_Curse_of_the_Golden_Cross">Story 05 The Curse of the Golden Cross ›</a></div>

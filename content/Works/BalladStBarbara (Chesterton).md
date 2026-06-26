@@ -27,8 +27,6 @@ tags:
   - histref/christianity
 ---
 
-# BalladStBarbara
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
@@ -44,45 +42,45 @@ tags:
 
 ## Testo integrale / Full text
 
-Project Gutenberg's The Ballad of St. Barbara, by Gilbert Keith Chesterton
+Project Gutenberg's The Ballad of St. Barbara, by Gilbert Keith Chesterton  
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with
+This eBook is for the use of anyone anywhere at no cost and with  
 
-almost no restrictions whatsoever.  You may copy it, give it away or
+almost no restrictions whatsoever.  You may copy it, give it away or  
 
-re-use it under the terms of the Project Gutenberg License included
+re-use it under the terms of the Project Gutenberg License included  
 
-with this eBook or online at www.gutenberg.org
+with this eBook or online at www.gutenberg.org  
 
 
 
 
 
-Title: The Ballad of St. Barbara
+Title: The Ballad of St. Barbara  
 
-       And Other Verses
+       And Other Verses  
 
 
 
-Author: Gilbert Keith Chesterton
+Author: Gilbert Keith Chesterton  
 
 
 
-Release Date: April 28, 2010 [EBook #32167]
+Release Date: April 28, 2010 [EBook #32167]  
 
 
 
-Language: English
+Language: English  
 
 
 
-Character set encoding: ISO-8859-1
+Character set encoding: ISO-8859-1  
 
 
 
-*** START OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***
+*** START OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***  
 
 
 
@@ -92,13 +90,13 @@ Character set encoding: ISO-8859-1
 
 
 
-Produced by Irma Spehar, Markus Brenner and the Online
+Produced by Irma Spehar, Markus Brenner and the Online  
 
-Distributed Proofreading Team at http://www.pgdp.net (This
+Distributed Proofreading Team at http://www.pgdp.net (This  
 
-file was produced from images generously made available
+file was produced from images generously made available  
 
-by The Internet Archive/Canadian Libraries)
+by The Internet Archive/Canadian Libraries)  
 
 
 
@@ -112,25 +110,25 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-                       The Ballad of St. Barbara
+                       The Ballad of St. Barbara  
 
-                           AND OTHER VERSES
+                           AND OTHER VERSES  
 
 
 
-                                  BY
+                                  BY  
 
-                       GILBERT KEITH CHESTERTON
+                       GILBERT KEITH CHESTERTON  
 
 
 
 
 
-                                LONDON
+                                LONDON  
 
-                             CECIL PALMER
+                             CECIL PALMER  
 
-                 OAKLEY HOUSE BLOOMSBURY STREET W.C.1.
+                 OAKLEY HOUSE BLOOMSBURY STREET W.C.1.  
 
 
 
@@ -138,13 +136,13 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-                                 FIRST
+                                 FIRST  
 
-                                EDITION
+                                EDITION  
 
-                                 1922
+                                 1922  
 
-                               COPYRIGHT
+                               COPYRIGHT  
 
 
 
@@ -154,81 +152,81 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    TO F. C. IN MEMORIAM PALESTINE, '19
+    TO F. C. IN MEMORIAM PALESTINE, '19  
 
 
 
 
 
-    Do you remember one immortal
+    Do you remember one immortal  
 
-    Lost moment out of time and space,
+    Lost moment out of time and space,  
 
-    What time we thought, who passed the portal
+    What time we thought, who passed the portal  
 
-    Of that divine disastrous place
+    Of that divine disastrous place  
 
-    Where Life was slain and Truth was slandered
+    Where Life was slain and Truth was slandered  
 
-    On that one holier hill than Rome,
+    On that one holier hill than Rome,  
 
-    How far abroad our bodies wandered
+    How far abroad our bodies wandered  
 
-    That evening when our souls came home?
+    That evening when our souls came home?  
 
 
 
-    The mystic city many-gated,
+    The mystic city many-gated,  
 
-    With monstrous columns, was your own:
+    With monstrous columns, was your own:  
 
-    Herodian stones fell down and waited
+    Herodian stones fell down and waited  
 
-    Two thousand years to be your throne.
+    Two thousand years to be your throne.  
 
-    In the grey rocks the burning blossom
+    In the grey rocks the burning blossom  
 
-    Glowed terrible as the sacred blood:
+    Glowed terrible as the sacred blood:  
 
-    It was no stranger to your bosom
+    It was no stranger to your bosom  
 
-    Than bluebells of an English wood.
+    Than bluebells of an English wood.  
 
 
 
-    Do you remember a road that follows
+    Do you remember a road that follows  
 
-    The way of unforgotten feet,
+    The way of unforgotten feet,  
 
-    Where from the waste of rocks and hollows
+    Where from the waste of rocks and hollows  
 
-    Climb up the crawling crooked street
+    Climb up the crawling crooked street  
 
-    The stages of one towering drama
+    The stages of one towering drama  
 
-    Always ahead and out of sight ...
+    Always ahead and out of sight ...  
 
-    Do you remember Aceldama
+    Do you remember Aceldama  
 
-    And the jackal barking in the night?
+    And the jackal barking in the night?  
 
 
 
-    Life is not void or stuff for scorners:
+    Life is not void or stuff for scorners:  
 
-    We have laughed loud and kept our love,
+    We have laughed loud and kept our love,  
 
-    We have heard singers in tavern corners
+    We have heard singers in tavern corners  
 
-    And not forgotten the birds above:
+    And not forgotten the birds above:  
 
-    We have known smiters and sons of thunder
+    We have known smiters and sons of thunder  
 
-    And not unworthily walked with them,
+    And not unworthily walked with them,  
 
-    We have grown wiser and lost not wonder;
+    We have grown wiser and lost not wonder;  
 
-    And we have seen Jerusalem.
+    And we have seen Jerusalem.  
 
 
 
@@ -236,141 +234,141 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    CONTENTS
+    CONTENTS  
 
 
 
 
 
-                                                  PAGE
+                                                  PAGE  
 
 
 
-    To F. C. In Memoriam Palestine, '19            vii
+    To F. C. In Memoriam Palestine, '19            vii  
 
 
 
-    The Ballad of St. Barbara                        1
+    The Ballad of St. Barbara                        1  
 
 
 
-    Elegy in a Country Churchyard                   13
+    Elegy in a Country Churchyard                   13  
 
 
 
-    The Sword of Surprise                           14
+    The Sword of Surprise                           14  
 
 
 
-    A Wedding in War-time                           15
+    A Wedding in War-time                           15  
 
 
 
-    The Mystery                                     18
+    The Mystery                                     18  
 
 
 
-    "The Myth of Arthur"                            19
+    "The Myth of Arthur"                            19  
 
 
 
-    The Old Song                                    20
+    The Old Song                                    20  
 
 
 
-    The Trinkets                                    24
+    The Trinkets                                    24  
 
 
 
-    The Philanthropist                              26
+    The Philanthropist                              26  
 
 
 
-    On the Downs                                    27
+    On the Downs                                    27  
 
 
 
-    The Red Sea                                     30
+    The Red Sea                                     30  
 
 
 
-    For a War Memorial                              32
+    For a War Memorial                              32  
 
 
 
-    Memory                                          33
+    Memory                                          33  
 
 
 
-    The English Graves                              35
+    The English Graves                              35  
 
 
 
-    Nightmare                                       37
+    Nightmare                                       37  
 
 
 
-    A Second Childhood                              40
+    A Second Childhood                              40  
 
 
 
-    "Mediævalism"                                   43
+    "Mediævalism"                                   43  
 
 
 
-    Poland                                          46
+    Poland                                          46  
 
 
 
-    The Hunting of the Dragon                       48
+    The Hunting of the Dragon                       48  
 
 
 
-    Sonnet                                          51
+    Sonnet                                          51  
 
 
 
-    Fantasia                                        52
+    Fantasia                                        52  
 
 
 
-    A Christmas Carol                               54
+    A Christmas Carol                               54  
 
 
 
-    To Captain Fryatt                               56
+    To Captain Fryatt                               56  
 
 
 
-    For Four Guilds:
+    For Four Guilds:  
 
-        I. The Glass-Stainers                       57
+        I. The Glass-Stainers                       57  
 
-       II. The Bridge-Builders                      59
+       II. The Bridge-Builders                      59  
 
-      III. The Stone-Masons                         62
+      III. The Stone-Masons                         62  
 
-       IV. The Bell-Ringers                         64
+       IV. The Bell-Ringers                         64  
 
 
 
-    The Convert                                     67
+    The Convert                                     67  
 
 
 
-    Songs of Education:
+    Songs of Education:  
 
-        I. History                                  71
+        I. History                                  71  
 
-       II. Geography                                74
+       II. Geography                                74  
 
-      III. For the Crêche                           76
+      III. For the Crêche                           76  
 
-       IV. Citizenship                              78
+       IV. Citizenship                              78  
 
-        V. The Higher Mathematics                   80
+        V. The Higher Mathematics                   80  
 
-       VI. Hygiene                                  82
+       VI. Hygiene                                  82  
 
 
 
@@ -380,467 +378,467 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE BALLAD OF ST. BARBARA
+    THE BALLAD OF ST. BARBARA  
 
 
 
-    _(St. Barbara is the patron saint of artillery and of those in
+    _(St. Barbara is the patron saint of artillery and of those in  
 
-    danger of sudden death.)_
+    danger of sudden death.)_  
 
 
 
 
 
-    When the long grey lines came flooding upon Paris in the plain,
+    When the long grey lines came flooding upon Paris in the plain,  
 
-    We stood and drank of the last free air we never could taste again:
+    We stood and drank of the last free air we never could taste again:  
 
-    They had led us back from the lost battle, to halt we knew not where
+    They had led us back from the lost battle, to halt we knew not where  
 
-    And stilled us; and our gaping guns were dumb with our despair.
+    And stilled us; and our gaping guns were dumb with our despair.  
 
-    The grey tribes flowed for ever from the infinite lifeless lands
+    The grey tribes flowed for ever from the infinite lifeless lands  
 
-    And a Norman to a Breton spoke, his chin upon his hands.
+    And a Norman to a Breton spoke, his chin upon his hands.  
 
 
 
-    "There was an end to Ilium; and an end came to Rome;
+    "There was an end to Ilium; and an end came to Rome;  
 
-    And a man plays on a painted stage in the land that he calls home;
+    And a man plays on a painted stage in the land that he calls home;  
 
-    Arch after arch of triumph, but floor beyond falling floor,
+    Arch after arch of triumph, but floor beyond falling floor,  
 
-    That lead to a low door at last; and beyond there is no door."
+    That lead to a low door at last; and beyond there is no door."  
 
 
 
-    And the Breton to the Norman spoke, like a small child spoke he,
+    And the Breton to the Norman spoke, like a small child spoke he,  
 
-    And his sea-blue eyes were empty as his home beside the sea:
+    And his sea-blue eyes were empty as his home beside the sea:  
 
-    "There are more windows in one house than there are eyes to see,
+    "There are more windows in one house than there are eyes to see,  
 
-    There are more doors in a man's house, but God has hid the key:
+    There are more doors in a man's house, but God has hid the key:  
 
-    Ruin is a builder of windows; her legend witnesseth
+    Ruin is a builder of windows; her legend witnesseth  
 
-    Barbara, the saint of gunners, and a stay in sudden death."
+    Barbara, the saint of gunners, and a stay in sudden death."  
 
 
 
-    It seemed the wheel of the world stood still an instant in its turning,
+    It seemed the wheel of the world stood still an instant in its turning,  
 
-    More than the kings of the earth that turned with the turning of Valmy
+    More than the kings of the earth that turned with the turning of Valmy  
 
-      mill:
+      mill:  
 
-    While trickled the idle tale and the sea-blue eyes were burning,
+    While trickled the idle tale and the sea-blue eyes were burning,  
 
-    Still as the heart of a whirlwind the heart of the world stood still.
+    Still as the heart of a whirlwind the heart of the world stood still.  
 
 
 
-        "Barbara the beautiful
+        "Barbara the beautiful  
 
-        Had praise of lute and pen:
+        Had praise of lute and pen:  
 
-        Her hair was like a summer night
+        Her hair was like a summer night  
 
-        Dark and desired of men.
+        Dark and desired of men.  
 
 
 
-        Her feet like birds from far away
+        Her feet like birds from far away  
 
-        That linger and light in doubt;
+        That linger and light in doubt;  
 
-        And her face was like a window
+        And her face was like a window  
 
-        Where a man's first love looked out.
+        Where a man's first love looked out.  
 
 
 
-        Her sire was master of many slaves
+        Her sire was master of many slaves  
 
-        A hard man of his hands;
+        A hard man of his hands;  
 
-        They built a tower about her
+        They built a tower about her  
 
-        In the desolate golden lands,
+        In the desolate golden lands,  
 
 
 
-        Sealed as the tyrants sealed their tombs,
+        Sealed as the tyrants sealed their tombs,  
 
-        Planned with an ancient plan,
+        Planned with an ancient plan,  
 
-        And set two windows in the tower
+        And set two windows in the tower  
 
-        Like the two eyes of a man."
+        Like the two eyes of a man."  
 
 
 
-    Our guns were set toward the foe; we had no word, for firing.
+    Our guns were set toward the foe; we had no word, for firing.  
 
-    Grey in the gateway of St. Gond the Guard of the tyrant shone;
+    Grey in the gateway of St. Gond the Guard of the tyrant shone;  
 
-    Dark with the fate of a falling star, retiring and retiring,
+    Dark with the fate of a falling star, retiring and retiring,  
 
-    The Breton line went backward and the Breton tale went on.
+    The Breton line went backward and the Breton tale went on.  
 
 
 
-        "Her father had sailed across the sea
+        "Her father had sailed across the sea  
 
-        From the harbour of Africa
+        From the harbour of Africa  
 
-        When all the slaves took up their tools
+        When all the slaves took up their tools  
 
-        For the bidding of Barbara.
+        For the bidding of Barbara.  
 
 
 
-        She smote the bare wall with her hand
+        She smote the bare wall with her hand  
 
-        And bad them smite again;
+        And bad them smite again;  
 
-        She poured them wealth of wine and meat
+        She poured them wealth of wine and meat  
 
-        To stay them in their pain.
+        To stay them in their pain.  
 
 
 
-        And cried through the lifted thunder
+        And cried through the lifted thunder  
 
-        Of thronging hammer and hod
+        Of thronging hammer and hod  
 
-        'Throw open the third window
+        'Throw open the third window  
 
-        In the third name of God.'
+        In the third name of God.'  
 
 
 
-        Then the hearts failed and the tools fell,
+        Then the hearts failed and the tools fell,  
 
-        And far towards the foam,
+        And far towards the foam,  
 
-        Men saw a shadow on the sands
+        Men saw a shadow on the sands  
 
-        And her father coming home."
+        And her father coming home."  
 
 
 
-    Speak low and low, along the line the whispered word is flying
+    Speak low and low, along the line the whispered word is flying  
 
-    Before the touch, before the time, we may not loose a breath:
+    Before the touch, before the time, we may not loose a breath:  
 
-    Their guns must mash us to the mire and there be no replying,
+    Their guns must mash us to the mire and there be no replying,  
 
-    Till the hand is raised to fling us for the final dice to death.
+    Till the hand is raised to fling us for the final dice to death.  
 
 
 
-        "There were two windows in your tower,
+        "There were two windows in your tower,  
 
-        Barbara, Barbara,
+        Barbara, Barbara,  
 
-        For all between the sun and moon
+        For all between the sun and moon  
 
-        In the lands of Africa.
+        In the lands of Africa.  
 
 
 
-        Hath a man three eyes, Barbara,
+        Hath a man three eyes, Barbara,  
 
-        A bird three wings,
+        A bird three wings,  
 
-        That you have riven roof and wall
+        That you have riven roof and wall  
 
-        To look upon vain things?"
+        To look upon vain things?"  
 
 
 
-        Her voice was like a wandering thing
+        Her voice was like a wandering thing  
 
-        That falters yet is free,
+        That falters yet is free,  
 
-        Whose soul has drunk in a distant land
+        Whose soul has drunk in a distant land  
 
-        Of the rivers of liberty.
+        Of the rivers of liberty.  
 
 
 
-        "There are more wings than the wind knows
+        "There are more wings than the wind knows  
 
-        Or eyes than see the sun
+        Or eyes than see the sun  
 
-        In the light of the lost window
+        In the light of the lost window  
 
-        And the wind of the doors undone.
+        And the wind of the doors undone.  
 
 
 
-        For out of the first lattice
+        For out of the first lattice  
 
-        Are the red lands that break
+        Are the red lands that break  
 
-        And out of the second lattice
+        And out of the second lattice  
 
-        Sea like a green snake,
+        Sea like a green snake,  
 
 
 
-        But out of the third lattice
+        But out of the third lattice  
 
-        Under low eaves like wings
+        Under low eaves like wings  
 
-        Is a new corner of the sky
+        Is a new corner of the sky  
 
-        And the other side of things."
+        And the other side of things."  
 
 
 
-    It opened in the inmost place an instant beyond uttering,
+    It opened in the inmost place an instant beyond uttering,  
 
-    A casement and a chasm and a thunder of doors undone,
+    A casement and a chasm and a thunder of doors undone,  
 
-    A seraph's strong wing shaken out the shock of its unshuttering,
+    A seraph's strong wing shaken out the shock of its unshuttering,  
 
-    That split the shattered sunlight from a light behind the sun.
+    That split the shattered sunlight from a light behind the sun.  
 
 
 
-        "Then he drew sword and drave her
+        "Then he drew sword and drave her  
 
-        Where the judges sat and said
+        Where the judges sat and said  
 
-        'Caesar sits above the gods,
+        'Caesar sits above the gods,  
 
-        Barbara the maid.
+        Barbara the maid.  
 
 
 
-        Caesar hath made a treaty
+        Caesar hath made a treaty  
 
-        With the moon and with the sun,
+        With the moon and with the sun,  
 
-        All the gods that men can praise
+        All the gods that men can praise  
 
-        Praise him every one.
+        Praise him every one.  
 
 
 
-        There is peace with the anointed
+        There is peace with the anointed  
 
-        Of the scarlet oils of Bel,
+        Of the scarlet oils of Bel,  
 
-        With the Fish God, where the whirlpool
+        With the Fish God, where the whirlpool  
 
-        Is a winding stair to hell,
+        Is a winding stair to hell,  
 
 
 
-        With the pathless pyramids of slime,
+        With the pathless pyramids of slime,  
 
-        Where the mitred negro lifts
+        Where the mitred negro lifts  
 
-        To his black cherub in the cloud
+        To his black cherub in the cloud  
 
-        Abominable gifts,
+        Abominable gifts,  
 
 
 
-        With the leprous silver cities
+        With the leprous silver cities  
 
-        Where the dumb priests dance and nod,
+        Where the dumb priests dance and nod,  
 
-        But not with the three windows
+        But not with the three windows  
 
-        And the last name of God.'"
+        And the last name of God.'"  
 
 
 
-    They are firing, we are falling, and the red skies rend and shiver us,
+    They are firing, we are falling, and the red skies rend and shiver us,  
 
-    Barbara, Barbara, we may not loose a breath--
+    Barbara, Barbara, we may not loose a breath--  
 
-    Be at the bursting doors of doom, and in the dark deliver us,
+    Be at the bursting doors of doom, and in the dark deliver us,  
 
-    Who loosen the last window on the sun of sudden death.
+    Who loosen the last window on the sun of sudden death.  
 
 
 
-        "Barbara the beautiful
+        "Barbara the beautiful  
 
-        Stood up as queen set free,
+        Stood up as queen set free,  
 
-        Whose mouth is set to a terrible cup
+        Whose mouth is set to a terrible cup  
 
-        And the trumpet of liberty.
+        And the trumpet of liberty.  
 
 
 
-        'I have looked forth from a window
+        'I have looked forth from a window  
 
-        That no man now shall bar,
+        That no man now shall bar,  
 
-        Caesar's toppling battle-towers
+        Caesar's toppling battle-towers  
 
-        Shall never stretch so far.
+        Shall never stretch so far.  
 
 
 
-        The slaves are dancing in their chains,
+        The slaves are dancing in their chains,  
 
-        The child laughs at the rod,
+        The child laughs at the rod,  
 
-        Because of the bird of the three wings,
+        Because of the bird of the three wings,  
 
-        And the third face of God.'
+        And the third face of God.'  
 
 
 
-        The sword upon his shoulder
+        The sword upon his shoulder  
 
-        Shifted and shone and fell,
+        Shifted and shone and fell,  
 
-        And Barbara lay very small
+        And Barbara lay very small  
 
-        And crumpled like a shell."
+        And crumpled like a shell."  
 
 
 
-    What wall upon what hinges turned stands open like a door?
+    What wall upon what hinges turned stands open like a door?  
 
-    Too simple for the sight of faith, too huge for human eyes,
+    Too simple for the sight of faith, too huge for human eyes,  
 
-    What light upon what ancient way shines to a far-off floor,
+    What light upon what ancient way shines to a far-off floor,  
 
-    The line of the lost land of France or the plains of Paradise?
+    The line of the lost land of France or the plains of Paradise?  
 
 
 
-        "Caesar smiled above the gods,
+        "Caesar smiled above the gods,  
 
-        His lip of stone was curled,
+        His lip of stone was curled,  
 
-        His iron armies wound like chains
+        His iron armies wound like chains  
 
-        Round and round the world,
+        Round and round the world,  
 
 
 
-        And the strong slayer of his own
+        And the strong slayer of his own  
 
-        That cut down flesh for grass,
+        That cut down flesh for grass,  
 
-        Smiled too, and went to his own tower
+        Smiled too, and went to his own tower  
 
-        Like a walking tower of brass,
+        Like a walking tower of brass,  
 
 
 
-        And the songs ceased and the slaves were dumb;
+        And the songs ceased and the slaves were dumb;  
 
-        And far towards the foam
+        And far towards the foam  
 
-        Men saw a shadow on the sands;
+        Men saw a shadow on the sands;  
 
-        And her father coming home....
+        And her father coming home....  
 
 
 
-        Blood of his blood upon the sword
+        Blood of his blood upon the sword  
 
-        Stood red but never dry.
+        Stood red but never dry.  
 
-        He wiped it slowly, till the blade
+        He wiped it slowly, till the blade  
 
-        Was blue as the blue sky.
+        Was blue as the blue sky.  
 
 
 
-        But the blue sky split with a thunder-crack,
+        But the blue sky split with a thunder-crack,  
 
-        Spat down a blinding brand,
+        Spat down a blinding brand,  
 
-        And all of him lay back and flat
+        And all of him lay back and flat  
 
-        As his shadow on the sand."
+        As his shadow on the sand."  
 
 
 
-    The touch and the tornado; all our guns give tongue together
+    The touch and the tornado; all our guns give tongue together  
 
-    St. Barbara for the gunnery and God defend the right,
+    St. Barbara for the gunnery and God defend the right,  
 
-    They are stopped and gapped and battered as we blast away the weather.
+    They are stopped and gapped and battered as we blast away the weather.  
 
-    Building window upon window to our lady of the light.
+    Building window upon window to our lady of the light.  
 
-    For the light is come on Liberty, her foes are falling, falling,
+    For the light is come on Liberty, her foes are falling, falling,  
 
-    They are reeling, they are running, as the shameful years have run,
+    They are reeling, they are running, as the shameful years have run,  
 
-    She is risen for all the humble, she has heard the conquered calling,
+    She is risen for all the humble, she has heard the conquered calling,  
 
-    St. Barbara of the Gunners, with her hand upon the gun.
+    St. Barbara of the Gunners, with her hand upon the gun.  
 
-    They are burst asunder in the midst that eat of their own flatteries,
+    They are burst asunder in the midst that eat of their own flatteries,  
 
-    Whose lip is curled to order as its barbered hair is curled....
+    Whose lip is curled to order as its barbered hair is curled....  
 
-    Blast of the beauty of sudden death, St. Barbara of the batteries!
+    Blast of the beauty of sudden death, St. Barbara of the batteries!  
 
-    That blow the new white window in the wall of all the world.
+    That blow the new white window in the wall of all the world.  
 
 
 
-    For the hand is raised behind us, and the bolt smites hard
+    For the hand is raised behind us, and the bolt smites hard  
 
-    Through the rending of the doorways, through the death-gap of the
+    Through the rending of the doorways, through the death-gap of the  
 
-      Guard,
+      Guard,  
 
-    For the cry of the Three Colours is in Condé and beyond
+    For the cry of the Three Colours is in Condé and beyond  
 
-    And the Guard is flung for carrion in the graveyard of St. Gond,
+    And the Guard is flung for carrion in the graveyard of St. Gond,  
 
-    Through Mondemont and out of it, through Morin marsh and on
+    Through Mondemont and out of it, through Morin marsh and on  
 
-    With earthquake of salutation the impossible thing is gone,
+    With earthquake of salutation the impossible thing is gone,  
 
-    Gaul, charioted and charging, great Gaul upon a gun,
+    Gaul, charioted and charging, great Gaul upon a gun,  
 
-    Tip-toe on all her thousand years and trumpeting to the sun:
+    Tip-toe on all her thousand years and trumpeting to the sun:  
 
-    As day returns, as death returns, swung backwards and swung home,
+    As day returns, as death returns, swung backwards and swung home,  
 
-    Back on the barbarous reign returns the battering-ram of Rome.
+    Back on the barbarous reign returns the battering-ram of Rome.  
 
-    While that that the east held hard and hot like pincers in a forge,
+    While that that the east held hard and hot like pincers in a forge,  
 
-    Came like the west wind roaring up the cannon of St. George,
+    Came like the west wind roaring up the cannon of St. George,  
 
-    Where the hunt is up and racing over stream and swamp and tarn
+    Where the hunt is up and racing over stream and swamp and tarn  
 
-    And their batteries, black with battle, hold the bridgeheads of the
+    And their batteries, black with battle, hold the bridgeheads of the  
 
-      Marne
+      Marne  
 
-    And across the carnage of the Guard, by Paris in the plain,
+    And across the carnage of the Guard, by Paris in the plain,  
 
-    The Normans to the Bretons cried and the Bretons cheered again....
+    The Normans to the Bretons cried and the Bretons cheered again....  
 
-    But he that told the tale went home to his house beside the sea
+    But he that told the tale went home to his house beside the sea  
 
-    And burned before St. Barbara, the light of the windows three,
+    And burned before St. Barbara, the light of the windows three,  
 
-    Three candles for an unknown thing, never to come again,
+    Three candles for an unknown thing, never to come again,  
 
-    That opened like the eye of God on Paris in the plain.
+    That opened like the eye of God on Paris in the plain.  
 
 
 
@@ -850,39 +848,39 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    ELEGY IN A COUNTRY CHURCHYARD
+    ELEGY IN A COUNTRY CHURCHYARD  
 
 
 
 
 
-    The men that worked for England
+    The men that worked for England  
 
-    They have their graves at home:
+    They have their graves at home:  
 
-    And bees and birds of England
+    And bees and birds of England  
 
-    About the cross can roam.
+    About the cross can roam.  
 
 
 
-    But they that fought for England,
+    But they that fought for England,  
 
-    Following a falling star,
+    Following a falling star,  
 
-    Alas, alas for England
+    Alas, alas for England  
 
-    They have their graves afar.
+    They have their graves afar.  
 
 
 
-    And they that rule in England,
+    And they that rule in England,  
 
-    In stately conclave met,
+    In stately conclave met,  
 
-    Alas, alas for England
+    Alas, alas for England  
 
-    They have no graves as yet.
+    They have no graves as yet.  
 
 
 
@@ -892,49 +890,49 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE SWORD OF SURPRISE
+    THE SWORD OF SURPRISE  
 
 
 
 
 
-    Sunder me from my bones, O sword of God,
+    Sunder me from my bones, O sword of God,  
 
-    Till they stand stark and strange as do the trees;
+    Till they stand stark and strange as do the trees;  
 
-    That I whose heart goes up with the soaring woods
+    That I whose heart goes up with the soaring woods  
 
-    May marvel as much at these.
+    May marvel as much at these.  
 
 
 
-    Sunder me from my blood that in the dark
+    Sunder me from my blood that in the dark  
 
-    I hear that red ancestral river run,
+    I hear that red ancestral river run,  
 
-    Like branching buried floods that find the sea
+    Like branching buried floods that find the sea  
 
-    But never see the sun.
+    But never see the sun.  
 
 
 
-    Give me miraculous eyes to see my eyes,
+    Give me miraculous eyes to see my eyes,  
 
-    Those rolling mirrors made alive in me,
+    Those rolling mirrors made alive in me,  
 
-    Terrible crystal more incredible
+    Terrible crystal more incredible  
 
-    Than all the things they see.
+    Than all the things they see.  
 
 
 
-    Sunder me from my soul, that I may see
+    Sunder me from my soul, that I may see  
 
-    The sins like streaming wounds, the life's brave beat;
+    The sins like streaming wounds, the life's brave beat;  
 
-    Till I shall save myself, as I would save
+    Till I shall save myself, as I would save  
 
-    A stranger in the street.
+    A stranger in the street.  
 
 
 
@@ -944,153 +942,153 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    A WEDDING IN WAR-TIME
+    A WEDDING IN WAR-TIME  
 
 
 
 
 
-    Our God who made two lovers in a garden,
+    Our God who made two lovers in a garden,  
 
-    And smote them separate and set them free,
+    And smote them separate and set them free,  
 
-    Their four eyes wild for wonder and wrath and pardon
+    Their four eyes wild for wonder and wrath and pardon  
 
-    And their kiss thunder as lips of land and sea:
+    And their kiss thunder as lips of land and sea:  
 
-    Each rapt unendingly beyond the other,
+    Each rapt unendingly beyond the other,  
 
-    Two starry worlds of unknown gods at war,
+    Two starry worlds of unknown gods at war,  
 
-    Wife and not mate, a man and not a brother,
+    Wife and not mate, a man and not a brother,  
 
-    We thank thee thou hast made us what we are.
+    We thank thee thou hast made us what we are.  
 
 
 
-    Make not the grey slime of infinity
+    Make not the grey slime of infinity  
 
-    To swamp these flowers thou madest one by one;
+    To swamp these flowers thou madest one by one;  
 
-    Let not the night that was thine enemy
+    Let not the night that was thine enemy  
 
-    Mix a mad twilight of the moon and sun;
+    Mix a mad twilight of the moon and sun;  
 
-    Waken again to thunderclap and clamour
+    Waken again to thunderclap and clamour  
 
-    The wonder of our sundering and the song,
+    The wonder of our sundering and the song,  
 
-    Or break our hearts with thine hell-shattering hammer
+    Or break our hearts with thine hell-shattering hammer  
 
-    But leave a shade between us all day long.
+    But leave a shade between us all day long.  
 
 
 
-    Shade of high shame and honourable blindness
+    Shade of high shame and honourable blindness  
 
-    When youth, in storm of dizzy and distant things,
+    When youth, in storm of dizzy and distant things,  
 
-    Finds the wild windfall of a little kindness
+    Finds the wild windfall of a little kindness  
 
-    And shakes to think that all the world has wings.
+    And shakes to think that all the world has wings.  
 
-    When the one head that turns the heavens in turning
+    When the one head that turns the heavens in turning  
 
-    Moves yet as lightly as a lingering bird,
+    Moves yet as lightly as a lingering bird,  
 
-    And red and random, blown astray but burning,
+    And red and random, blown astray but burning,  
 
-    Like a lost spark goes by the glorious word.
+    Like a lost spark goes by the glorious word.  
 
 
 
-    Make not this sex, this other side of things,
+    Make not this sex, this other side of things,  
 
-    A thing less distant than the world's desire;
+    A thing less distant than the world's desire;  
 
-    What colour to the end of evening clings
+    What colour to the end of evening clings  
 
-    And what far cry of frontiers and what fire
+    And what far cry of frontiers and what fire  
 
-    Fallen too far beyond the sun for seeking,
+    Fallen too far beyond the sun for seeking,  
 
-    Let it divide us though our kingdom come;
+    Let it divide us though our kingdom come;  
 
-    With a far signal in our secret speaking
+    With a far signal in our secret speaking  
 
-    To hang the proud horizon in our home.
+    To hang the proud horizon in our home.  
 
 
 
-    Once we were one, a shapeless cloud that lingers
+    Once we were one, a shapeless cloud that lingers  
 
-    Loading the seas and shutting out the skies,
+    Loading the seas and shutting out the skies,  
 
-    One with the woods, a monster of myriad fingers,
+    One with the woods, a monster of myriad fingers,  
 
-    You laid on me no finger of surprise.
+    You laid on me no finger of surprise.  
 
-    One with the stars, a god with myriad eyes,
+    One with the stars, a god with myriad eyes,  
 
-    I saw you nowhere and was blind for scorn:
+    I saw you nowhere and was blind for scorn:  
 
-    One till the world was riven and the rise
+    One till the world was riven and the rise  
 
-    Of the white days when you and I were born.
+    Of the white days when you and I were born.  
 
 
 
-    Darkens the world: the world-old fetters rattle;
+    Darkens the world: the world-old fetters rattle;  
 
-    And these that have no hope behind the sun
+    And these that have no hope behind the sun  
 
-    May feed like bondmen and may breed like cattle,
+    May feed like bondmen and may breed like cattle,  
 
-    One in the darkness as the dead are one;
+    One in the darkness as the dead are one;  
 
-    Us if the rended grave give up its glory
+    Us if the rended grave give up its glory  
 
-    Trumpets shall summon asunder and face to face:
+    Trumpets shall summon asunder and face to face:  
 
-    We will be strangers in so strange a story
+    We will be strangers in so strange a story  
 
-    And wonder, meeting in so wild a place.
+    And wonder, meeting in so wild a place.  
 
 
 
-    Ah, not in vain or utterly for loss
+    Ah, not in vain or utterly for loss  
 
-    Come even the black flag and the battle-hordes,
+    Come even the black flag and the battle-hordes,  
 
-    If these grey devils flee the sign of the cross
+    If these grey devils flee the sign of the cross  
 
-    Even in the symbol of the crossing swords.
+    Even in the symbol of the crossing swords.  
 
-    Nor shall death doubt Who made our souls alive
+    Nor shall death doubt Who made our souls alive  
 
-    Swords meeting and not stakes set side by side,
+    Swords meeting and not stakes set side by side,  
 
-    Bade us in the sunburst and the thunder thrive
+    Bade us in the sunburst and the thunder thrive  
 
-    Earthquake and Dawn; the bridegroom and the bride.
+    Earthquake and Dawn; the bridegroom and the bride.  
 
 
 
-    Death and not dreams or doubt of things undying,
+    Death and not dreams or doubt of things undying,  
 
-    Of whose the holy hearth or whose the sword;
+    Of whose the holy hearth or whose the sword;  
 
-    Though sacred spirits dissever in strong crying
+    Though sacred spirits dissever in strong crying  
 
-    Into Thy hands, but Thy two hands, O Lord,
+    Into Thy hands, but Thy two hands, O Lord,  
 
-    Though not in Earth as once in Eden standing
+    Though not in Earth as once in Eden standing  
 
-    So plain again we see Thee what thou art,
+    So plain again we see Thee what thou art,  
 
-    As in this blaze, the blasting and the branding
+    As in this blaze, the blasting and the branding  
 
-    Of this wild wedding where we meet and part.
+    Of this wild wedding where we meet and part.  
 
 
 
@@ -1100,49 +1098,49 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE MYSTERY
+    THE MYSTERY  
 
 
 
 
 
-    If sunset clouds could grow on trees
+    If sunset clouds could grow on trees  
 
-    It would but match the may in flower;
+    It would but match the may in flower;  
 
-    And skies be underneath the seas
+    And skies be underneath the seas  
 
-    No topsyturvier than a shower.
+    No topsyturvier than a shower.  
 
 
 
-    If mountains rose on wings to wander
+    If mountains rose on wings to wander  
 
-    They were no wilder than a cloud;
+    They were no wilder than a cloud;  
 
-    Yet all my praise is mean as slander,
+    Yet all my praise is mean as slander,  
 
-    Mean as these mean words spoken aloud.
+    Mean as these mean words spoken aloud.  
 
 
 
-    And never more than now I know
+    And never more than now I know  
 
-    That man's first heaven is far behind;
+    That man's first heaven is far behind;  
 
-    Unless the blazing seraph's blow
+    Unless the blazing seraph's blow  
 
-    Has left him in the garden blind.
+    Has left him in the garden blind.  
 
 
 
-    Witness, O Sun that blinds our eyes,
+    Witness, O Sun that blinds our eyes,  
 
-    Unthinkable and unthankable King,
+    Unthinkable and unthankable King,  
 
-    That though all other wonder dies
+    That though all other wonder dies  
 
-    I wonder at not wondering.
+    I wonder at not wondering.  
 
 
 
@@ -1152,47 +1150,47 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    "THE MYTH OF ARTHUR"
+    "THE MYTH OF ARTHUR"  
 
 
 
 
 
-    O learned man who never learned to learn,
+    O learned man who never learned to learn,  
 
-    Save to deduce, by timid steps and small,
+    Save to deduce, by timid steps and small,  
 
-    From towering smoke that fire can never burn
+    From towering smoke that fire can never burn  
 
-    And from tall tales that men were never tall.
+    And from tall tales that men were never tall.  
 
-    Say, have you thought what manner of man it is
+    Say, have you thought what manner of man it is  
 
-    Of whom men say "He could strike giants down"?
+    Of whom men say "He could strike giants down"?  
 
-    Or what strong memories over time's abyss
+    Or what strong memories over time's abyss  
 
-    Bore up the pomp of Camelot and the crown.
+    Bore up the pomp of Camelot and the crown.  
 
-    And why one banner all the background fills,
+    And why one banner all the background fills,  
 
-    Beyond the pageants of so many spears,
+    Beyond the pageants of so many spears,  
 
-    And by what witchery in the western hills
+    And by what witchery in the western hills  
 
-    A throne stands empty for a thousand years.
+    A throne stands empty for a thousand years.  
 
-    Who hold, unheeding this immense impact,
+    Who hold, unheeding this immense impact,  
 
-    Immortal story for a mortal sin;
+    Immortal story for a mortal sin;  
 
-    Lest human fable touch historic fact,
+    Lest human fable touch historic fact,  
 
-    Chase myths like moths, and fight them with a pin.
+    Chase myths like moths, and fight them with a pin.  
 
-    Take comfort; rest--there needs not this ado.
+    Take comfort; rest--there needs not this ado.  
 
-    You shall not be a myth, I promise you.
+    You shall not be a myth, I promise you.  
 
 
 
@@ -1202,127 +1200,127 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE OLD SONG
+    THE OLD SONG  
 
 
 
-    _(On the Embankment in stormy weather.)_
+    _(On the Embankment in stormy weather.)_  
 
 
 
 
 
-    A livid sky on London
+    A livid sky on London  
 
-    And like iron steeds that rear
+    And like iron steeds that rear  
 
-    A shock of engines halted,
+    A shock of engines halted,  
 
-    And I knew the end was near:
+    And I knew the end was near:  
 
-    And something said that far away, over the hills and far away,
+    And something said that far away, over the hills and far away,  
 
-    There came a crawling thunder and the end of all things here.
+    There came a crawling thunder and the end of all things here.  
 
-    For London Bridge is broken down, broken down, broken down,
+    For London Bridge is broken down, broken down, broken down,  
 
-    As digging lets the daylight on the sunken streets of yore,
+    As digging lets the daylight on the sunken streets of yore,  
 
-    The lightning looked on London town, the broken bridge of London town,
+    The lightning looked on London town, the broken bridge of London town,  
 
-    The ending of a broken road where men shall go no more.
+    The ending of a broken road where men shall go no more.  
 
 
 
-    I saw the kings of London town,
+    I saw the kings of London town,  
 
-    The kings that buy and sell,
+    The kings that buy and sell,  
 
-    That built it up with penny loaves
+    That built it up with penny loaves  
 
-    And penny lies as well:
+    And penny lies as well:  
 
-    And where the streets were paved with gold, the shrivelled paper shone
+    And where the streets were paved with gold, the shrivelled paper shone  
 
-      for gold,
+      for gold,  
 
-    The scorching light of promises that pave the streets of hell.
+    The scorching light of promises that pave the streets of hell.  
 
-    For penny loaves will melt away, melt away, melt away,
+    For penny loaves will melt away, melt away, melt away,  
 
-    Mock the mean that haggled in the grain they did not grow;
+    Mock the mean that haggled in the grain they did not grow;  
 
-    With hungry faces in the gate, a hundred thousand in the gate,
+    With hungry faces in the gate, a hundred thousand in the gate,  
 
-    A thunder-flash on London and the finding of the foe.
+    A thunder-flash on London and the finding of the foe.  
 
 
 
-    I heard the hundred pin-makers
+    I heard the hundred pin-makers  
 
-    Slow down their racking din,
+    Slow down their racking din,  
 
-    Till in the stillness men could hear
+    Till in the stillness men could hear  
 
-    The dropping of the pin:
+    The dropping of the pin:  
 
-    And somewhere men without the wall, beneath the wood, without the wall,
+    And somewhere men without the wall, beneath the wood, without the wall,  
 
-    Had found the place where London ends and England can begin.
+    Had found the place where London ends and England can begin.  
 
-    For pins and needles bend and break, bend and break, bend and break,
+    For pins and needles bend and break, bend and break, bend and break,  
 
-    Faster than the breaking spears or the bending of the bow
+    Faster than the breaking spears or the bending of the bow  
 
-    Of pageants pale in thunder-light, 'twixt thunder-load and
+    Of pageants pale in thunder-light, 'twixt thunder-load and  
 
-      thunder-light,
+      thunder-light,  
 
-    The Hundreds marching on the hills in the wars of long ago.
+    The Hundreds marching on the hills in the wars of long ago.  
 
 
 
-    I saw great Cobbett riding,
+    I saw great Cobbett riding,  
 
-    The horseman of the shires;
+    The horseman of the shires;  
 
-    And his face was red with judgment
+    And his face was red with judgment  
 
-    And a light of Luddite fires:
+    And a light of Luddite fires:  
 
-    And south to Sussex and the sea the lights leapt up for liberty,
+    And south to Sussex and the sea the lights leapt up for liberty,  
 
-    The trumpet of the yeomanry, the hammer of the squires;
+    The trumpet of the yeomanry, the hammer of the squires;  
 
-    For bars of iron rust away, rust away, rust away,
+    For bars of iron rust away, rust away, rust away,  
 
-    Rend before the hammer and the horseman riding in,
+    Rend before the hammer and the horseman riding in,  
 
-    Crying that all men at the last, and at the worst and at the last,
+    Crying that all men at the last, and at the worst and at the last,  
 
-    Have found the place where England ends and England can begin.
+    Have found the place where England ends and England can begin.  
 
 
 
-    His horse-hoofs go before you,
+    His horse-hoofs go before you,  
 
-    Far beyond your bursting tyres;
+    Far beyond your bursting tyres;  
 
-    And time is bridged behind him
+    And time is bridged behind him  
 
-    And our sons are with our sires.
+    And our sons are with our sires.  
 
-    A trailing meteor on the Downs he rides above the rotting towns,
+    A trailing meteor on the Downs he rides above the rotting towns,  
 
-    The Horseman of Apocalypse, the Rider of the Shires.
+    The Horseman of Apocalypse, the Rider of the Shires.  
 
-    For London Bridge is broken down, broken down, broken down;
+    For London Bridge is broken down, broken down, broken down;  
 
-    Blow the horn of Huntingdon from Scotland to the sea--
+    Blow the horn of Huntingdon from Scotland to the sea--  
 
-    ... Only a flash of thunder-light, a flying dream of thunder-light,
+    ... Only a flash of thunder-light, a flying dream of thunder-light,  
 
-    Had shown under the shattered sky a people that were free.
+    Had shown under the shattered sky a people that were free.  
 
 
 
@@ -1332,63 +1330,63 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE TRINKETS
+    THE TRINKETS  
 
 
 
 
 
-    A wandering world of rivers,
+    A wandering world of rivers,  
 
-    A wavering world of trees,
+    A wavering world of trees,  
 
-    If the world grow dim and dizzy
+    If the world grow dim and dizzy  
 
-    With all changes and degrees,
+    With all changes and degrees,  
 
-    It is but Our Lady's mirror
+    It is but Our Lady's mirror  
 
-    Hung dreaming in its place,
+    Hung dreaming in its place,  
 
-    Shining with only shadows
+    Shining with only shadows  
 
-    Till she wakes it with her face.
+    Till she wakes it with her face.  
 
 
 
-    The standing whirlpool of the stars,
+    The standing whirlpool of the stars,  
 
-    The wheel of all the world,
+    The wheel of all the world,  
 
-    Is a ring on Our Lady's finger
+    Is a ring on Our Lady's finger  
 
-    With the suns and moons empearled
+    With the suns and moons empearled  
 
-    With stars for stones to please her
+    With stars for stones to please her  
 
-    Who sits playing with her rings
+    Who sits playing with her rings  
 
-    With the great heart that a woman has
+    With the great heart that a woman has  
 
-    And the love of little things.
+    And the love of little things.  
 
 
 
-    Wings of the whirlwind of the world
+    Wings of the whirlwind of the world  
 
-    From here to Ispahan,
+    From here to Ispahan,  
 
-    Spurning the flying forests
+    Spurning the flying forests  
 
-    Are light as Our Lady's fan:
+    Are light as Our Lady's fan:  
 
-    For all things violent here and vain
+    For all things violent here and vain  
 
-    Lie open and all at ease
+    Lie open and all at ease  
 
-    Where God has girded heaven to guard
+    Where God has girded heaven to guard  
 
-    Her holy vanities.
+    Her holy vanities.  
 
 
 
@@ -1398,57 +1396,57 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE PHILANTHROPIST
+    THE PHILANTHROPIST  
 
 
 
-    _(With apologies to a beautiful poem.)_
+    _(With apologies to a beautiful poem.)_  
 
 
 
 
 
-    Abou Ben Adhem (may his tribe decrease
+    Abou Ben Adhem (may his tribe decrease  
 
-    By cautious birth-control and die in peace)
+    By cautious birth-control and die in peace)  
 
-    Mellow with learning lightly took the word
+    Mellow with learning lightly took the word  
 
-    That marked him not with them that love the Lord,
+    That marked him not with them that love the Lord,  
 
-    And told the angel of the book and pen
+    And told the angel of the book and pen  
 
-    "Write me as one that loves his fellow-men:
+    "Write me as one that loves his fellow-men:  
 
-    For them alone I labour; to reclaim
+    For them alone I labour; to reclaim  
 
-    The ragged roaming Bedouin and to tame
+    The ragged roaming Bedouin and to tame  
 
-    To ordered service; to uproot their vine
+    To ordered service; to uproot their vine  
 
-    Who mock the Prophet, being mad with wine,
+    Who mock the Prophet, being mad with wine,  
 
-    Let daylight through their tents and through their lives,
+    Let daylight through their tents and through their lives,  
 
-    Number their camels, even count their wives,
+    Number their camels, even count their wives,  
 
-    Plot out the desert into streets and squares;
+    Plot out the desert into streets and squares;  
 
-    And count it a more fruitful work than theirs
+    And count it a more fruitful work than theirs  
 
-    Who lift a vain and visionary love
+    Who lift a vain and visionary love  
 
-    To your vague Allah in the skies above."
+    To your vague Allah in the skies above."  
 
 
 
-    Gently replied the angel of the pen:
+    Gently replied the angel of the pen:  
 
-    "Labour in peace and love your fellow-men:
+    "Labour in peace and love your fellow-men:  
 
-    And love not God, since men alone are dear,
+    And love not God, since men alone are dear,  
 
-    Only fear God; for you have cause to fear."
+    Only fear God; for you have cause to fear."  
 
 
 
@@ -1458,149 +1456,149 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    ON THE DOWNS
+    ON THE DOWNS  
 
 
 
 
 
-    When you came over the top of the world
+    When you came over the top of the world  
 
-    In the great day on the Downs,
+    In the great day on the Downs,  
 
-    The air was crisp and the clouds were curled,
+    The air was crisp and the clouds were curled,  
 
-    When you came over the top of the world,
+    When you came over the top of the world,  
 
-    And under your feet were spire and street
+    And under your feet were spire and street  
 
-    And seven English towns.
+    And seven English towns.  
 
 
 
-    And I could not think that the pride was perished
+    And I could not think that the pride was perished  
 
-    As you came over the down;
+    As you came over the down;  
 
-    Liberty, chivalry, all we cherished,
+    Liberty, chivalry, all we cherished,  
 
-    Lost in a rattle of pelf and perished;
+    Lost in a rattle of pelf and perished;  
 
-    Or the land we love that you walked above
+    Or the land we love that you walked above  
 
-    Withering town by town.
+    Withering town by town.  
 
 
 
-    For you came out on the dome of the earth
+    For you came out on the dome of the earth  
 
-    Like a vision of victory,
+    Like a vision of victory,  
 
-    Out on the great green dome of the earth
+    Out on the great green dome of the earth  
 
-    As the great blue dome of the sky for girth,
+    As the great blue dome of the sky for girth,  
 
-    And under your feet the shires could meet
+    And under your feet the shires could meet  
 
-    And your eyes went out to sea.
+    And your eyes went out to sea.  
 
 
 
-    Under your feet the towns were seven,
+    Under your feet the towns were seven,  
 
-    Alive and alone on high,
+    Alive and alone on high,  
 
-    Your back to the broad white wall of heaven;
+    Your back to the broad white wall of heaven;  
 
-    You were one and the towns were seven,
+    You were one and the towns were seven,  
 
-    Single and one as the soaring sun
+    Single and one as the soaring sun  
 
-    And your head upheld the sky.
+    And your head upheld the sky.  
 
 
 
-    And I thought of a thundering flag unfurled
+    And I thought of a thundering flag unfurled  
 
-    And the roar of the burghers' bell:
+    And the roar of the burghers' bell:  
 
-    Beacons crackled and bolts were hurled
+    Beacons crackled and bolts were hurled  
 
-    As you came over the top of the world;
+    As you came over the top of the world;  
 
-    And under your feet were chance and cheat
+    And under your feet were chance and cheat  
 
-    And the slime of the slopes of hell.
+    And the slime of the slopes of hell.  
 
 
 
-    It has not been as the great wind spoke
+    It has not been as the great wind spoke  
 
-    On the great green down that day:
+    On the great green down that day:  
 
-    We have seen, wherever the wide wind spoke,
+    We have seen, wherever the wide wind spoke,  
 
-    Slavery slaying the English folk:
+    Slavery slaying the English folk:  
 
-    The robbers of land we have seen command
+    The robbers of land we have seen command  
 
-    The rulers of land obey.
+    The rulers of land obey.  
 
 
 
-    We have seen the gigantic golden worms
+    We have seen the gigantic golden worms  
 
-    In the garden of paradise:
+    In the garden of paradise:  
 
-    We have seen the great and the wise make terms
+    We have seen the great and the wise make terms  
 
-    With the peace of snakes and the pride of worms,
+    With the peace of snakes and the pride of worms,  
 
-    and them that plant make covenant
+    and them that plant make covenant  
 
-    With the locust and the lice.
+    With the locust and the lice.  
 
 
 
-    And the wind blows and the world goes on
+    And the wind blows and the world goes on  
 
-    And the world can say that we,
+    And the world can say that we,  
 
-    Who stood on the cliffs where the quarries shone,
+    Who stood on the cliffs where the quarries shone,  
 
-    Stood upon clouds that the sun shone on:
+    Stood upon clouds that the sun shone on:  
 
-    And the clouds dissunder and drown in thunder
+    And the clouds dissunder and drown in thunder  
 
-    The news that will never be.
+    The news that will never be.  
 
 
 
-    Lady of all that have loved the people,
+    Lady of all that have loved the people,  
 
-    Light over roads astray,
+    Light over roads astray,  
 
-    Maze of steading and street and steeple,
+    Maze of steading and street and steeple,  
 
-    Great as a heart that has loved the people:
+    Great as a heart that has loved the people:  
 
-    Stand on the crown of the soaring down,
+    Stand on the crown of the soaring down,  
 
-    Lift up your arms and pray.
+    Lift up your arms and pray.  
 
 
 
-    Only you I have not forgotten
+    Only you I have not forgotten  
 
-    For wreck of the world's renown,
+    For wreck of the world's renown,  
 
-    Rending and ending of things gone rotten,
+    Rending and ending of things gone rotten,  
 
-    Only the face of you unforgotten:
+    Only the face of you unforgotten:  
 
-    And your head upthrown in the skies alone
+    And your head upthrown in the skies alone  
 
-    As you came over the down.
+    As you came over the down.  
 
 
 
@@ -1610,81 +1608,81 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE RED SEA
+    THE RED SEA  
 
 
 
 
 
-    Our souls shall be Leviathans
+    Our souls shall be Leviathans  
 
-    In purple seas of wine
+    In purple seas of wine  
 
-    When drunkenness is dead with death,
+    When drunkenness is dead with death,  
 
-    And drink is all divine;
+    And drink is all divine;  
 
-    Learning in those immortal vats
+    Learning in those immortal vats  
 
-    What mortal vineyards mean;
+    What mortal vineyards mean;  
 
-    For only in heaven we shall know
+    For only in heaven we shall know  
 
-    How happy we have been.
+    How happy we have been.  
 
 
 
-    Like clouds that wallow in the wind
+    Like clouds that wallow in the wind  
 
-    Be free to drift and drink;
+    Be free to drift and drink;  
 
-    Tower without insolence when we rise,
+    Tower without insolence when we rise,  
 
-    Without surrender sink:
+    Without surrender sink:  
 
-    Dreams dizzy and crazy we shall know
+    Dreams dizzy and crazy we shall know  
 
-    And have no need to write
+    And have no need to write  
 
-    Our blameless blasphemies of praise,
+    Our blameless blasphemies of praise,  
 
-    Our nightmares of delight.
+    Our nightmares of delight.  
 
 
 
-    For so in such misshapen shape
+    For so in such misshapen shape  
 
-    The vision came to me,
+    The vision came to me,  
 
-    Where such titanian dolphins dark
+    Where such titanian dolphins dark  
 
-    Roll in a sunset sea:
+    Roll in a sunset sea:  
 
-    Dark with dense colours, strange and strong
+    Dark with dense colours, strange and strong  
 
-    As terrible true love,
+    As terrible true love,  
 
-    Haloed like fish in phospher light
+    Haloed like fish in phospher light  
 
-    The holy monsters move.
+    The holy monsters move.  
 
 
 
-    Measure is here and law, to learn,
+    Measure is here and law, to learn,  
 
-    When honour rules it so,
+    When honour rules it so,  
 
-    To lift the glass and lay it down
+    To lift the glass and lay it down  
 
-    Or break the glass and go.
+    Or break the glass and go.  
 
-    But when the world's New Deluge boils
+    But when the world's New Deluge boils  
 
-    From the New Noah's vine,
+    From the New Noah's vine,  
 
-    Our souls shall be Leviathans
+    Our souls shall be Leviathans  
 
-    In sanguine seas of wine.
+    In sanguine seas of wine.  
 
 
 
@@ -1694,55 +1692,55 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    FOR A WAR MEMORIAL
+    FOR A WAR MEMORIAL  
 
 
 
-    _(Suggested Inscription probably not selected by the
+    _(Suggested Inscription probably not selected by the  
 
-    Committee.)_
+    Committee.)_  
 
 
 
 
 
-    The hucksters haggle in the mart
+    The hucksters haggle in the mart  
 
-    The cars and carts go by;
+    The cars and carts go by;  
 
-    Senates and schools go droning on;
+    Senates and schools go droning on;  
 
-    For dead things cannot die.
+    For dead things cannot die.  
 
 
 
-    A storm stooped on the place of tombs
+    A storm stooped on the place of tombs  
 
-    With bolts to blast and rive;
+    With bolts to blast and rive;  
 
-    But these be names of many men
+    But these be names of many men  
 
-    The lightning found alive.
+    The lightning found alive.  
 
 
 
-    If usurers rule and rights decay
+    If usurers rule and rights decay  
 
-    And visions view once more
+    And visions view once more  
 
-    Great Carthage like a golden shell
+    Great Carthage like a golden shell  
 
-    Gape hollow on the shore,
+    Gape hollow on the shore,  
 
 
 
-    Still to the last of crumbling time
+    Still to the last of crumbling time  
 
-    Upon this stone be read
+    Upon this stone be read  
 
-    How many men of England died
+    How many men of England died  
 
-    To prove they were not dead.
+    To prove they were not dead.  
 
 
 
@@ -1752,65 +1750,65 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    MEMORY
+    MEMORY  
 
 
 
 
 
-    If I ever go back to Baltimore,
+    If I ever go back to Baltimore,  
 
-    The city of Maryland,
+    The city of Maryland,  
 
-    I shall miss again as I missed before
+    I shall miss again as I missed before  
 
-    A thousand things of the world in store,
+    A thousand things of the world in store,  
 
-    The story standing in every door
+    The story standing in every door  
 
-    That beckons with every hand.
+    That beckons with every hand.  
 
 
 
-    I shall not know where the bonds were riven
+    I shall not know where the bonds were riven  
 
-    And a hundred faiths set free,
+    And a hundred faiths set free,  
 
-    Where a wandering cavalier had given
+    Where a wandering cavalier had given  
 
-    Her hundredth name to the Queen of Heaven,
+    Her hundredth name to the Queen of Heaven,  
 
-    And made oblation of feuds forgiven
+    And made oblation of feuds forgiven  
 
-    To Our Lady of Liberty.
+    To Our Lady of Liberty.  
 
 
 
-    I shall not travel the tracks of fame
+    I shall not travel the tracks of fame  
 
-    Where the war was not to the strong;
+    Where the war was not to the strong;  
 
-    When Lee the last of the heroes came
+    When Lee the last of the heroes came  
 
-    With the Men of the South and a flag like flame,
+    With the Men of the South and a flag like flame,  
 
-    And called the land by its lovely name
+    And called the land by its lovely name  
 
-    In the unforgotten song.
+    In the unforgotten song.  
 
 
 
-    If ever I cross the sea and stray
+    If ever I cross the sea and stray  
 
-    To the city of Maryland,
+    To the city of Maryland,  
 
-    I will sit on a stone and watch or pray
+    I will sit on a stone and watch or pray  
 
-    For a stranger's child that was there one day:
+    For a stranger's child that was there one day:  
 
-    And the child will never come back to play,
+    And the child will never come back to play,  
 
-    And no-one will understand.
+    And no-one will understand.  
 
 
 
@@ -1820,51 +1818,51 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE ENGLISH GRAVES
+    THE ENGLISH GRAVES  
 
 
 
 
 
-    Were I that wandering citizen whose city is the world,
+    Were I that wandering citizen whose city is the world,  
 
-    I would not weep for all that fell before the flags were furled;
+    I would not weep for all that fell before the flags were furled;  
 
-    I would not let one murmur mar the trumpets volleying forth
+    I would not let one murmur mar the trumpets volleying forth  
 
-    How God grew weary of the kings, and the cold hell in the north.
+    How God grew weary of the kings, and the cold hell in the north.  
 
-    But we whose hearts are homing birds have heavier thoughts of home,
+    But we whose hearts are homing birds have heavier thoughts of home,  
 
-    Though the great eagles burn with gold on Paris or on Rome,
+    Though the great eagles burn with gold on Paris or on Rome,  
 
-    Who stand beside our dead and stare, like seers at an eclipse,
+    Who stand beside our dead and stare, like seers at an eclipse,  
 
-    At the riddle of the island tale and the twilight of the ships.
+    At the riddle of the island tale and the twilight of the ships.  
 
 
 
-    For these were simple men that loved with hands and feet and eyes,
+    For these were simple men that loved with hands and feet and eyes,  
 
-    Whose souls were humbled to the hills and narrowed to the skies,
+    Whose souls were humbled to the hills and narrowed to the skies,  
 
-    The hundred little lands within one little land that lie,
+    The hundred little lands within one little land that lie,  
 
-    Where Severn seeks the sunset isles or Sussex scales the sky.
+    Where Severn seeks the sunset isles or Sussex scales the sky.  
 
 
 
-    And what is theirs, though banners blow on Warsaw risen again,
+    And what is theirs, though banners blow on Warsaw risen again,  
 
-    Or ancient laughter walks in gold through the vineyards of Lorraine,
+    Or ancient laughter walks in gold through the vineyards of Lorraine,  
 
-    Their dead are marked on English stones, their loves on English trees,
+    Their dead are marked on English stones, their loves on English trees,  
 
-    How little is the prize they win, how mean a coin for these--
+    How little is the prize they win, how mean a coin for these--  
 
-    How small a shrivelled laurel-leaf lies crumpled here and curled:
+    How small a shrivelled laurel-leaf lies crumpled here and curled:  
 
-    They died to save their country and they only saved the world.
+    They died to save their country and they only saved the world.  
 
 
 
@@ -1874,109 +1872,109 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    NIGHTMARE
+    NIGHTMARE  
 
 
 
 
 
-    The silver and violet leopard of the night
+    The silver and violet leopard of the night  
 
-    Spotted with stars and smooth with silence sprang;
+    Spotted with stars and smooth with silence sprang;  
 
-    And though three doors stood open, the end of light
+    And though three doors stood open, the end of light  
 
-    Closed like a trap; and stillness was a clang.
+    Closed like a trap; and stillness was a clang.  
 
 
 
-    Under the leopard sky of lurid stars
+    Under the leopard sky of lurid stars  
 
-    I strove with evil sleep the hot night long,
+    I strove with evil sleep the hot night long,  
 
-    Dreams dumb and swollen of triumphs without wars,
+    Dreams dumb and swollen of triumphs without wars,  
 
-    Of tongueless trumpet and unanswering gong.
+    Of tongueless trumpet and unanswering gong.  
 
 
 
-    I saw a pale imperial pomp go by,
+    I saw a pale imperial pomp go by,  
 
-    Helmet and hornèd mitre and heavy wreath;
+    Helmet and hornèd mitre and heavy wreath;  
 
-    Their high strange ensigns hung upon the sky
+    Their high strange ensigns hung upon the sky  
 
-    And their great shields were like the doors of death.
+    And their great shields were like the doors of death.  
 
 
 
-    Their mitres were as moving pyramids
+    Their mitres were as moving pyramids  
 
-    And all their crowns as marching towers were tall;
+    And all their crowns as marching towers were tall;  
 
-    Their eyes were cold under their carven lids
+    Their eyes were cold under their carven lids  
 
-    And the same carven smile was on them all.
+    And the same carven smile was on them all.  
 
 
 
-    Over a paven plain that seemed unending
+    Over a paven plain that seemed unending  
 
-    They passed unfaltering till it found an end
+    They passed unfaltering till it found an end  
 
-    In one long shallow step; and these descending
+    In one long shallow step; and these descending  
 
-    Fared forth anew as long away to wend.
+    Fared forth anew as long away to wend.  
 
 
 
-    I thought they travelled for a thousand years;
+    I thought they travelled for a thousand years;  
 
-    And at the end was nothing for them all,
+    And at the end was nothing for them all,  
 
-    For all that splendour of sceptres and of spears,
+    For all that splendour of sceptres and of spears,  
 
-    But a new step, another easy fall.
+    But a new step, another easy fall.  
 
 
 
-    The smile of stone seemed but a little less,
+    The smile of stone seemed but a little less,  
 
-    The load of silver but a little more:
+    The load of silver but a little more:  
 
-    And ever was that terraced wilderness
+    And ever was that terraced wilderness  
 
-    And falling plain paved like a palace floor.
+    And falling plain paved like a palace floor.  
 
 
 
-    Rust red as gore crawled on their arms of might
+    Rust red as gore crawled on their arms of might  
 
-    And on their faces wrinkles and not scars:
+    And on their faces wrinkles and not scars:  
 
-    Till the dream suddenly ended; noise and light
+    Till the dream suddenly ended; noise and light  
 
-    Loosened the tyranny of the tropic stars.
+    Loosened the tyranny of the tropic stars.  
 
 
 
-    But over them like a subterranean sun
+    But over them like a subterranean sun  
 
-    I saw the sign of all the fiends that fell;
+    I saw the sign of all the fiends that fell;  
 
-    And a wild voice cried "Hasten and be done,
+    And a wild voice cried "Hasten and be done,  
 
-    Is there no steepness in the stairs of hell?"
+    Is there no steepness in the stairs of hell?"  
 
 
 
-    He that returns, He that remains the same,
+    He that returns, He that remains the same,  
 
-    Turned the round real world, His iron vice;
+    Turned the round real world, His iron vice;  
 
-    Down the grey garden paths a bird called twice,
+    Down the grey garden paths a bird called twice,  
 
-    And through three doors mysterious daylight came.
+    And through three doors mysterious daylight came.  
 
 
 
@@ -1986,135 +1984,135 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    A SECOND CHILDHOOD
+    A SECOND CHILDHOOD  
 
 
 
 
 
-    When all my days are ending
+    When all my days are ending  
 
-    And I have no song to sing,
+    And I have no song to sing,  
 
-    I think I shall not be too old
+    I think I shall not be too old  
 
-    To stare at everything;
+    To stare at everything;  
 
-    As I stared once at a nursery door
+    As I stared once at a nursery door  
 
-    Or a tall tree and a swing.
+    Or a tall tree and a swing.  
 
 
 
-    Wherein God's ponderous mercy hangs
+    Wherein God's ponderous mercy hangs  
 
-    On all my sins and me,
+    On all my sins and me,  
 
-    Because He does not take away
+    Because He does not take away  
 
-    The terror from the tree
+    The terror from the tree  
 
-    And stones still shine along the road
+    And stones still shine along the road  
 
-    That are and cannot be.
+    That are and cannot be.  
 
 
 
-    Men grow too old for love, my love,
+    Men grow too old for love, my love,  
 
-    Men grow too old for wine,
+    Men grow too old for wine,  
 
-    But I shall not grow too old to see
+    But I shall not grow too old to see  
 
-    Unearthly daylight shine,
+    Unearthly daylight shine,  
 
-    Changing my chamber's dust to snow
+    Changing my chamber's dust to snow  
 
-    Till I doubt if it be mine.
+    Till I doubt if it be mine.  
 
 
 
-    Behold, the crowning mercies melt,
+    Behold, the crowning mercies melt,  
 
-    The first surprises stay;
+    The first surprises stay;  
 
-    And in my dross is dropped a gift
+    And in my dross is dropped a gift  
 
-    For which I dare not pray:
+    For which I dare not pray:  
 
-    That a man grow used to grief and joy
+    That a man grow used to grief and joy  
 
-    But not to night and day.
+    But not to night and day.  
 
 
 
-    Men grow too old for love, my love,
+    Men grow too old for love, my love,  
 
-    Men grow too old for lies;
+    Men grow too old for lies;  
 
-    But I shall not grow too old to see
+    But I shall not grow too old to see  
 
-    Enormous night arise,
+    Enormous night arise,  
 
-    A cloud that is larger than the world
+    A cloud that is larger than the world  
 
-    And a monster made of eyes.
+    And a monster made of eyes.  
 
 
 
-    Nor am I worthy to unloose
+    Nor am I worthy to unloose  
 
-    The latchet of my shoe;
+    The latchet of my shoe;  
 
-    Or shake the dust from off my feet
+    Or shake the dust from off my feet  
 
-    Or the staff that bears me through
+    Or the staff that bears me through  
 
-    On ground that is too good to last,
+    On ground that is too good to last,  
 
-    Too solid to be true.
+    Too solid to be true.  
 
 
 
-    Men grow too old to woo, my love,
+    Men grow too old to woo, my love,  
 
-    Men grow too old to wed:
+    Men grow too old to wed:  
 
-    But I shall not grow too old to see
+    But I shall not grow too old to see  
 
-    Hung crazily overhead
+    Hung crazily overhead  
 
-    Incredible rafters when I wake
+    Incredible rafters when I wake  
 
-    And find I am not dead.
+    And find I am not dead.  
 
 
 
-    A thrill of thunder in my hair:
+    A thrill of thunder in my hair:  
 
-    Though blackening clouds be plain,
+    Though blackening clouds be plain,  
 
-    Still I am stung and startled
+    Still I am stung and startled  
 
-    By the first drop of the rain:
+    By the first drop of the rain:  
 
-    Romance and pride and passion pass
+    Romance and pride and passion pass  
 
-    And these are what remain.
+    And these are what remain.  
 
 
 
-    Strange crawling carpets of the grass,
+    Strange crawling carpets of the grass,  
 
-    Wide windows of the sky:
+    Wide windows of the sky:  
 
-    So in this perilous grace of God
+    So in this perilous grace of God  
 
-    With all my sins go I:
+    With all my sins go I:  
 
-    And things grow new though I grow old,
+    And things grow new though I grow old,  
 
-    Though I grow old and die.
+    Though I grow old and die.  
 
 
 
@@ -2124,99 +2122,99 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    "MEDIÆVALISM"
+    "MEDIÆVALISM"  
 
 
 
 
 
-    If men should rise and return to the noise and time of the tourney,
+    If men should rise and return to the noise and time of the tourney,  
 
-    The name and fame of the tabard, the tangle of gules and gold,
+    The name and fame of the tabard, the tangle of gules and gold,  
 
-    Would these things stand and suffice for the bourne of a backward
+    Would these things stand and suffice for the bourne of a backward  
 
-      journey,
+      journey,  
 
-    A light on our days returning, as it was in the days of old?
+    A light on our days returning, as it was in the days of old?  
 
 
 
-    Nay, there is none rides back to pick up a glove or a feather,
+    Nay, there is none rides back to pick up a glove or a feather,  
 
-    Though the gauntlet rang with honour or the plume was more than a
+    Though the gauntlet rang with honour or the plume was more than a  
 
-      crown:
+      crown:  
 
-    And hushed is the holy trumpet that called the nations together
+    And hushed is the holy trumpet that called the nations together  
 
-    And under the Horns of Hattin the hope of the world went down.
+    And under the Horns of Hattin the hope of the world went down.  
 
 
 
-    Ah, not in remembrance stored, but out of oblivion starting,
+    Ah, not in remembrance stored, but out of oblivion starting,  
 
-    Because you have sought new homes and all that you sought is so,
+    Because you have sought new homes and all that you sought is so,  
 
-    Because you had trodden the fire and barred the door in departing,
+    Because you had trodden the fire and barred the door in departing,  
 
-    Returns in your chosen exile the glory of long ago.
+    Returns in your chosen exile the glory of long ago.  
 
 
 
-    Not then when you barred the door, not then when you trod the embers,
+    Not then when you barred the door, not then when you trod the embers,  
 
-    But now, at your new road's end, you have seen the face of a fate,
+    But now, at your new road's end, you have seen the face of a fate,  
 
-    That not as a child looks back, and not as a fool remembers,
+    That not as a child looks back, and not as a fool remembers,  
 
-    All that men took too lightly and all that they love too late.
+    All that men took too lightly and all that they love too late.  
 
 
 
-    It is you that have made no rubric for saints, no raiment for lovers,
+    It is you that have made no rubric for saints, no raiment for lovers,  
 
-    Your caps that cry for a feather, your roofs that sigh for a spire:
+    Your caps that cry for a feather, your roofs that sigh for a spire:  
 
-    Is it a dream from the dead if your own decay discovers
+    Is it a dream from the dead if your own decay discovers  
 
-    Alive in your rotting graveyard the worm of the world's desire?
+    Alive in your rotting graveyard the worm of the world's desire?  
 
 
 
-    Therefore the old trees tower, that the green trees grow and are
+    Therefore the old trees tower, that the green trees grow and are  
 
-      stunted:
+      stunted:  
 
-    Therefore these dead men mock you, that you the living are dead:
+    Therefore these dead men mock you, that you the living are dead:  
 
-    Since ever you battered the saints and the tools of your crafts were
+    Since ever you battered the saints and the tools of your crafts were  
 
-      blunted,
+      blunted,  
 
-    Or shattered the glass in its glory and loaded yourselves with the
+    Or shattered the glass in its glory and loaded yourselves with the  
 
-      lead.
+      lead.  
 
 
 
-    When the usurer hunts the squire as the squire has hunted the peasant,
+    When the usurer hunts the squire as the squire has hunted the peasant,  
 
-    As sheep that are eaten of worms where men were eaten of sheep:
+    As sheep that are eaten of worms where men were eaten of sheep:  
 
-    Now is the judgment of earth, and the weighing of past and present,
+    Now is the judgment of earth, and the weighing of past and present,  
 
-    Who scorn to weep over ruins, behold your ruin and weep.
+    Who scorn to weep over ruins, behold your ruin and weep.  
 
 
 
-    Have ye not known, ye fools, that have made the present a prison,
+    Have ye not known, ye fools, that have made the present a prison,  
 
-    That thirst can remember water and hunger remember bread?
+    That thirst can remember water and hunger remember bread?  
 
-    We went not gathering ghosts; but the shriek of your shame is arisen
+    We went not gathering ghosts; but the shriek of your shame is arisen  
 
-    Out of your own black Babel too loud; and it woke the dead.
+    Out of your own black Babel too loud; and it woke the dead.  
 
 
 
@@ -2226,63 +2224,63 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    POLAND
+    POLAND  
 
 
 
 
 
-    Augurs that watched archaic birds
+    Augurs that watched archaic birds  
 
-    Such plumèd prodigies might read,
+    Such plumèd prodigies might read,  
 
-    The eagles that were double-faced,
+    The eagles that were double-faced,  
 
-    The eagle that was black indeed;
+    The eagle that was black indeed;  
 
-    And when the battle-birds went down
+    And when the battle-birds went down  
 
-    And in their track the vultures come,
+    And in their track the vultures come,  
 
-    We know what pardon and what peace
+    We know what pardon and what peace  
 
-    Will keep our little masters dumb.
+    Will keep our little masters dumb.  
 
 
 
-    The men that sell what others make,
+    The men that sell what others make,  
 
-    As vultures eat what others slay,
+    As vultures eat what others slay,  
 
-    Will prove in matching plume with plume
+    Will prove in matching plume with plume  
 
-    That naught is black and all is grey;
+    That naught is black and all is grey;  
 
-    Grey as those dingy doves that once,
+    Grey as those dingy doves that once,  
 
-    By money-changers palmed and priced,
+    By money-changers palmed and priced,  
 
-    Amid the crash of tables flapped
+    Amid the crash of tables flapped  
 
-    And huddled from the wrath of Christ.
+    And huddled from the wrath of Christ.  
 
 
 
-    But raised for ever for a sign
+    But raised for ever for a sign  
 
-    Since God made anger glorious,
+    Since God made anger glorious,  
 
-    Where eagles black and vultures grey
+    Where eagles black and vultures grey  
 
-    Flocked back about the heroic house,
+    Flocked back about the heroic house,  
 
-    Where war is holier than peace,
+    Where war is holier than peace,  
 
-    Where hate is holier than love,
+    Where hate is holier than love,  
 
-    Shone terrible as the Holy Ghost
+    Shone terrible as the Holy Ghost  
 
-    An eagle whiter than a dove.
+    An eagle whiter than a dove.  
 
 
 
@@ -2292,123 +2290,123 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE HUNTING OF THE DRAGON
+    THE HUNTING OF THE DRAGON  
 
 
 
 
 
-    When we went hunting the Dragon
+    When we went hunting the Dragon  
 
-    In the days when we were young,
+    In the days when we were young,  
 
-    We tossed the bright world over our shoulder
+    We tossed the bright world over our shoulder  
 
-    As bugle and baldrick slung;
+    As bugle and baldrick slung;  
 
-    Never was world so wild and fair
+    Never was world so wild and fair  
 
-    As what went by on the wind,
+    As what went by on the wind,  
 
-    Never such fields of paradise
+    Never such fields of paradise  
 
-    As the fields we left behind:
+    As the fields we left behind:  
 
-      For this is the best of a rest for men
+      For this is the best of a rest for men  
 
-      That men should rise and ride
+      That men should rise and ride  
 
-      Making a flying fairyland
+      Making a flying fairyland  
 
-      Of market and country-side,
+      Of market and country-side,  
 
-      Wings on the cottage, wings on the wood,
+      Wings on the cottage, wings on the wood,  
 
-      Wings upon pot and pan,
+      Wings upon pot and pan,  
 
-      For the hunting of the Dragon
+      For the hunting of the Dragon  
 
-      That is the life of a man.
+      That is the life of a man.  
 
 
 
-    For men grow weary of fairyland
+    For men grow weary of fairyland  
 
-    When the Dragon is a dream,
+    When the Dragon is a dream,  
 
-    And tire of the talking bird in the tree,
+    And tire of the talking bird in the tree,  
 
-    The singing fish in the stream;
+    The singing fish in the stream;  
 
-    And the wandering stars grow stale, grow stale,
+    And the wandering stars grow stale, grow stale,  
 
-    And the wonder is stiff with scorn;
+    And the wonder is stiff with scorn;  
 
-    For this is the honour of fairyland
+    For this is the honour of fairyland  
 
-    And the following of the horn;
+    And the following of the horn;  
 
 
 
-      Beauty on beauty called us back
+      Beauty on beauty called us back  
 
-      When we could rise and ride,
+      When we could rise and ride,  
 
-      And a woman looked out of every window
+      And a woman looked out of every window  
 
-      As wonderful as a bride:
+      As wonderful as a bride:  
 
-      And the tavern-sign as a tabard blazed,
+      And the tavern-sign as a tabard blazed,  
 
-      And the children cheered and ran,
+      And the children cheered and ran,  
 
-      For the love of the hate of the Dragon
+      For the love of the hate of the Dragon  
 
-      That is the pride of a man.
+      That is the pride of a man.  
 
 
 
-    The sages called him a shadow
+    The sages called him a shadow  
 
-    And the light went out of the sun:
+    And the light went out of the sun:  
 
-    And the wise men told us that all was well
+    And the wise men told us that all was well  
 
-    And all was weary and one:
+    And all was weary and one:  
 
-    And then, and then, in the quiet garden,
+    And then, and then, in the quiet garden,  
 
-    With never a weed to kill,
+    With never a weed to kill,  
 
-    We knew that his shining tail had shone
+    We knew that his shining tail had shone  
 
-    In the white road over the hill:
+    In the white road over the hill:  
 
-    We knew that the clouds were flakes of flame,
+    We knew that the clouds were flakes of flame,  
 
-    We knew that the sunset fire
+    We knew that the sunset fire  
 
-    Was red with the blood of the Dragon
+    Was red with the blood of the Dragon  
 
-    Whose death is the world's desire.
+    Whose death is the world's desire.  
 
 
 
-      For the horn was blown in the heart of the night
+      For the horn was blown in the heart of the night  
 
-      That men should rise and ride,
+      That men should rise and ride,  
 
-      Keeping the tryst of a terrible jest
+      Keeping the tryst of a terrible jest  
 
-      Never for long untried;
+      Never for long untried;  
 
-      Drinking a dreadful blood for wine,
+      Drinking a dreadful blood for wine,  
 
-      Never in cup or can,
+      Never in cup or can,  
 
-      The death of a deathless Dragon,
+      The death of a deathless Dragon,  
 
-      That is the life of a man.
+      That is the life of a man.  
 
 
 
@@ -2418,41 +2416,41 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    SONNET
+    SONNET  
 
 
 
 
 
-    High on the wall that holds Jerusalem
+    High on the wall that holds Jerusalem  
 
-    I saw one stand under the stars like stone.
+    I saw one stand under the stars like stone.  
 
-    And when I perish it shall not be known
+    And when I perish it shall not be known  
 
-    Whether he lived, some strolling son of Shem,
+    Whether he lived, some strolling son of Shem,  
 
-    Or was some great ghost wearing the diadem
+    Or was some great ghost wearing the diadem  
 
-    Of Solomon or Saladin on a throne:
+    Of Solomon or Saladin on a throne:  
 
-    I only know, the features being unshown,
+    I only know, the features being unshown,  
 
-    I did not dare draw near and look on them.
+    I did not dare draw near and look on them.  
 
 
 
-    Did ye not guess ... the diadem might be
+    Did ye not guess ... the diadem might be  
 
-    Plaited in stranger style by hands of hate ...
+    Plaited in stranger style by hands of hate ...  
 
-    But when I looked, the wall was desolate
+    But when I looked, the wall was desolate  
 
-    And the grey starlight powdered tower and tree:
+    And the grey starlight powdered tower and tree:  
 
-    And vast and vague beyond the Golden Gate
+    And vast and vague beyond the Golden Gate  
 
-    Heaved Moab of the mountains like a sea.
+    Heaved Moab of the mountains like a sea.  
 
 
 
@@ -2462,75 +2460,75 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    FANTASIA
+    FANTASIA  
 
 
 
 
 
-    The happy men that lose their heads
+    The happy men that lose their heads  
 
-    They find their heads in heaven,
+    They find their heads in heaven,  
 
-    As cherub heads with cherub wings,
+    As cherub heads with cherub wings,  
 
-    And cherub haloes even:
+    And cherub haloes even:  
 
-    Out of the infinite evening lands
+    Out of the infinite evening lands  
 
-    Along the sunset sea,
+    Along the sunset sea,  
 
-    Leaving the purple fields behind,
+    Leaving the purple fields behind,  
 
-    The cherub wings beat down the wind
+    The cherub wings beat down the wind  
 
-    Back to the groping body and blind
+    Back to the groping body and blind  
 
-    As the bird back to the tree.
+    As the bird back to the tree.  
 
 
 
-    Whether the plumes be passion-red
+    Whether the plumes be passion-red  
 
-    For him that truly dies
+    For him that truly dies  
 
-    By headsmen's blade or battle-axe,
+    By headsmen's blade or battle-axe,  
 
-    Or blue like butterflies,
+    Or blue like butterflies,  
 
-    For him that lost it in a lane
+    For him that lost it in a lane  
 
-    In April's fits and starts,
+    In April's fits and starts,  
 
-    His folly is forgiven then:
+    His folly is forgiven then:  
 
-    But higher, and far beyond our ken,
+    But higher, and far beyond our ken,  
 
-    Is the healing of the unhappy men,
+    Is the healing of the unhappy men,  
 
-    The men that lost their hearts.
+    The men that lost their hearts.  
 
 
 
-    Is there not pardon for the brave
+    Is there not pardon for the brave  
 
-    And broad release above,
+    And broad release above,  
 
-    Who lost their heads for liberty
+    Who lost their heads for liberty  
 
-    Or lost their hearts for love?
+    Or lost their hearts for love?  
 
-    Or is the wise man wise indeed
+    Or is the wise man wise indeed  
 
-    Whom larger thoughts keep whole?
+    Whom larger thoughts keep whole?  
 
-    Who sees life equal like a chart,
+    Who sees life equal like a chart,  
 
-    Made strong to play the saner part,
+    Made strong to play the saner part,  
 
-    And keep his head and keep his heart,
+    And keep his head and keep his heart,  
 
-    And only lose his soul.
+    And only lose his soul.  
 
 
 
@@ -2540,61 +2538,61 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    A CHRISTMAS CAROL
+    A CHRISTMAS CAROL  
 
 
 
-    _(The Chief Constable has issued a statement declaring that
+    _(The Chief Constable has issued a statement declaring that  
 
-    carol singing in the streets by children is illegal, and morally
+    carol singing in the streets by children is illegal, and morally  
 
-    and physically injurious. He appeals to the public to discourage
+    and physically injurious. He appeals to the public to discourage  
 
-    the practice.--Daily Paper.)_
+    the practice.--Daily Paper.)_  
 
 
 
 
 
-    God rest you merry gentlemen,
+    God rest you merry gentlemen,  
 
-    Let nothing you dismay;
+    Let nothing you dismay;  
 
-    The Herald Angels cannot sing,
+    The Herald Angels cannot sing,  
 
-    The cops arrest them on the wing,
+    The cops arrest them on the wing,  
 
-    And warn them of the docketing
+    And warn them of the docketing  
 
-    Of anything they say.
+    Of anything they say.  
 
 
 
-    God rest you merry gentlemen,
+    God rest you merry gentlemen,  
 
-    May nothing you dismay:
+    May nothing you dismay:  
 
-    On your reposeful cities lie
+    On your reposeful cities lie  
 
-    Deep silence, broken only by
+    Deep silence, broken only by  
 
-    The motor horn's melodious cry,
+    The motor horn's melodious cry,  
 
-    The hooter's happy bray.
+    The hooter's happy bray.  
 
 
 
-    So, when the song of children ceased
+    So, when the song of children ceased  
 
-    And Herod was obeyed,
+    And Herod was obeyed,  
 
-    In his high hall Corinthian
+    In his high hall Corinthian  
 
-    With purple and with peacock fan,
+    With purple and with peacock fan,  
 
-    Rested that merry gentleman;
+    Rested that merry gentleman;  
 
-    And nothing him dismayed.
+    And nothing him dismayed.  
 
 
 
@@ -2604,49 +2602,49 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    TO CAPTAIN FRYATT
+    TO CAPTAIN FRYATT  
 
 
 
 
 
-    Trampled yet red is the last of the embers,
+    Trampled yet red is the last of the embers,  
 
-    Red the last cloud of a sun that has set;
+    Red the last cloud of a sun that has set;  
 
-    What of your sleeping though Flanders remembers,
+    What of your sleeping though Flanders remembers,  
 
-    What of your waking, if England forget?
+    What of your waking, if England forget?  
 
 
 
-    Why should you share in the hearts that we harden,
+    Why should you share in the hearts that we harden,  
 
-    In the shame of our nature, who see it and live?
+    In the shame of our nature, who see it and live?  
 
-    How more than the godly the greedy can pardon,
+    How more than the godly the greedy can pardon,  
 
-    How well and how quickly the hungry forgive.
+    How well and how quickly the hungry forgive.  
 
 
 
-    Ah, well if the soil of the stranger had wrapped you,
+    Ah, well if the soil of the stranger had wrapped you,  
 
-    While the lords that you served and the friends that you knew
+    While the lords that you served and the friends that you knew  
 
-    Hawk in the marts of the tyrants that trapped you,
+    Hawk in the marts of the tyrants that trapped you,  
 
-    Tout in the shops of the butchers that slew.
+    Tout in the shops of the butchers that slew.  
 
 
 
-    Why should you wake for a realm that is rotten,
+    Why should you wake for a realm that is rotten,  
 
-    Stuffed with their bribes and as dead to their debts?
+    Stuffed with their bribes and as dead to their debts?  
 
-    Sleep and forget us, as we have forgotten;
+    Sleep and forget us, as we have forgotten;  
 
-    For Flanders remembers and England forgets.
+    For Flanders remembers and England forgets.  
 
 
 
@@ -2656,387 +2654,387 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    FOR FOUR GUILDS
+    FOR FOUR GUILDS  
 
 
 
 
 
-    FOR FOUR GUILDS:
+    FOR FOUR GUILDS:  
 
 
 
-    I. THE GLASS-STAINERS
+    I. THE GLASS-STAINERS  
 
 
 
-    To every Man his Mystery,
+    To every Man his Mystery,  
 
-    A trade and only one:
+    A trade and only one:  
 
-    The masons make the hives of men,
+    The masons make the hives of men,  
 
-    The domes of grey or dun,
+    The domes of grey or dun,  
 
-    But we have wrought in rose and gold
+    But we have wrought in rose and gold  
 
-    The houses of the sun.
+    The houses of the sun.  
 
 
 
-    The shipwrights build the houses high,
+    The shipwrights build the houses high,  
 
-    Whose green foundations sway
+    Whose green foundations sway  
 
-    Alive with fish like little flames,
+    Alive with fish like little flames,  
 
-    When the wind goes out to slay.
+    When the wind goes out to slay.  
 
-    But we abide with painted sails
+    But we abide with painted sails  
 
-    The cyclone of the day.
+    The cyclone of the day.  
 
 
 
-    The weavers make the clothes of men
+    The weavers make the clothes of men  
 
-    And coats for everyone;
+    And coats for everyone;  
 
-    They walk the streets like sunset clouds;
+    They walk the streets like sunset clouds;  
 
-    But we have woven and spun
+    But we have woven and spun  
 
-    In scarlet or in golden-green
+    In scarlet or in golden-green  
 
-    The gay coats of the sun.
+    The gay coats of the sun.  
 
 
 
-    You whom the usurers and the lords
+    You whom the usurers and the lords  
 
-    With insolent liveries trod,
+    With insolent liveries trod,  
 
-    Deep in dark church behold, above
+    Deep in dark church behold, above  
 
-    Their lance-lengths by a rod,
+    Their lance-lengths by a rod,  
 
-    Where we have blazed the tabard
+    Where we have blazed the tabard  
 
-    Of the trumpeter of God.
+    Of the trumpeter of God.  
 
 
 
 
 
-    FOR FOUR GUILDS:
+    FOR FOUR GUILDS:  
 
 
 
-    II. THE BRIDGE-BUILDERS
+    II. THE BRIDGE-BUILDERS  
 
 
 
-    In the world's whitest morning
+    In the world's whitest morning  
 
-    As hoary with hope,
+    As hoary with hope,  
 
-    The Builder of Bridges
+    The Builder of Bridges  
 
-    Was priest and was pope:
+    Was priest and was pope:  
 
-    And the mitre of mystery
+    And the mitre of mystery  
 
-    And the canopy his,
+    And the canopy his,  
 
-    Who darkened the chasms
+    Who darkened the chasms  
 
-    And domed the abyss.
+    And domed the abyss.  
 
 
 
-    To eastward and westward
+    To eastward and westward  
 
-    Spread wings at his word
+    Spread wings at his word  
 
-    The arch with the key-stone
+    The arch with the key-stone  
 
-    That stoops like a bird;
+    That stoops like a bird;  
 
-    That rides the wild air
+    That rides the wild air  
 
-    And the daylight cast under;
+    And the daylight cast under;  
 
-    The highway of danger,
+    The highway of danger,  
 
-    The gateway of wonder.
+    The gateway of wonder.  
 
 
 
-    Of his throne were the thunders
+    Of his throne were the thunders  
 
-    That rivet and fix
+    That rivet and fix  
 
-    Wild weddings of strangers
+    Wild weddings of strangers  
 
-    That meet and not mix;
+    That meet and not mix;  
 
-    The town and the cornland;
+    The town and the cornland;  
 
-    The bride and the groom:
+    The bride and the groom:  
 
-    In the breaking of bridges
+    In the breaking of bridges  
 
-    Is treason and doom.
+    Is treason and doom.  
 
 
 
-    But he bade us, who fashion
+    But he bade us, who fashion  
 
-    The road that can fly,
+    The road that can fly,  
 
-    That we build not too heavy
+    That we build not too heavy  
 
-    And build not too high:
+    And build not too high:  
 
-    Seeing alway that under
+    Seeing alway that under  
 
-    The dark arch's bend
+    The dark arch's bend  
 
-    Shine death and white daylight
+    Shine death and white daylight  
 
-    Unchanged to the end.
+    Unchanged to the end.  
 
 
 
-    Who walk on his mercy
+    Who walk on his mercy  
 
-    Walk light, as he saith,
+    Walk light, as he saith,  
 
-    Seeing that our life
+    Seeing that our life  
 
-    Is a bridge above death;
+    Is a bridge above death;  
 
-    And the world and its gardens
+    And the world and its gardens  
 
-    And hills, as ye heard,
+    And hills, as ye heard,  
 
-    Are born above space
+    Are born above space  
 
-    On the wings of a bird.
+    On the wings of a bird.  
 
 
 
-    Not high and not heavy
+    Not high and not heavy  
 
-    Is building of his:
+    Is building of his:  
 
-    When ye seal up the flood
+    When ye seal up the flood  
 
-    And forget the abyss,
+    And forget the abyss,  
 
-    When your towers are uplifted,
+    When your towers are uplifted,  
 
-    Your banners unfurled,
+    Your banners unfurled,  
 
-    In the breaking of bridges
+    In the breaking of bridges  
 
-    Is the end of the world.
+    Is the end of the world.  
 
 
 
 
 
-    FOR FOUR GUILDS:
+    FOR FOUR GUILDS:  
 
 
 
-    III. THE STONE-MASONS
+    III. THE STONE-MASONS  
 
 
 
-    We have graven the mountain of God with hands,
+    We have graven the mountain of God with hands,  
 
-    As our hands were graven of God, they say,
+    As our hands were graven of God, they say,  
 
-    Where the seraphs burn in the sun like brands
+    Where the seraphs burn in the sun like brands  
 
-    And the devils carry the rains away;
+    And the devils carry the rains away;  
 
-    Making a thrift of the throats of hell,
+    Making a thrift of the throats of hell,  
 
-    Our gargoyles gather the roaring rain,
+    Our gargoyles gather the roaring rain,  
 
-    Whose yawn is more than a frozen yell
+    Whose yawn is more than a frozen yell  
 
-    And their very vomiting not in vain.
+    And their very vomiting not in vain.  
 
 
 
-    Wilder than all that a tongue can utter,
+    Wilder than all that a tongue can utter,  
 
-    Wiser than all that is told in words,
+    Wiser than all that is told in words,  
 
-    The wings of stone of the soaring gutter
+    The wings of stone of the soaring gutter  
 
-    Fly out and follow the flight of the birds;
+    Fly out and follow the flight of the birds;  
 
-    The rush and rout of the angel wars
+    The rush and rout of the angel wars  
 
-    Stand out above the astounded street,
+    Stand out above the astounded street,  
 
-    Where we flung our gutters against the stars
+    Where we flung our gutters against the stars  
 
-    For a sign that the first and the last shall meet.
+    For a sign that the first and the last shall meet.  
 
 
 
-    We have graven the forest of heaven with hands,
+    We have graven the forest of heaven with hands,  
 
-    Being great with a mirth too gross for pride,
+    Being great with a mirth too gross for pride,  
 
-    In the stone that battered him Stephen stands
+    In the stone that battered him Stephen stands  
 
-    And Peter himself is petrified:
+    And Peter himself is petrified:  
 
-    Such hands as have grubbed in the glebe for bread
+    Such hands as have grubbed in the glebe for bread  
 
-    Have bidden the blank rock blossom and thrive,
+    Have bidden the blank rock blossom and thrive,  
 
-    Such hands as have stricken a live man dead
+    Such hands as have stricken a live man dead  
 
-    Have struck, and stricken the dead alive.
+    Have struck, and stricken the dead alive.  
 
 
 
-    Fold your hands before heaven in praying,
+    Fold your hands before heaven in praying,  
 
-    Lift up your hands into heaven and cry;
+    Lift up your hands into heaven and cry;  
 
-    But look where our dizziest spires are saying
+    But look where our dizziest spires are saying  
 
-    What the hands of a man did up in the sky:
+    What the hands of a man did up in the sky:  
 
-    Drenched before you have heard the thunder,
+    Drenched before you have heard the thunder,  
 
-    White before you have felt the snow;
+    White before you have felt the snow;  
 
-    For the giants lift up their hands to wonder
+    For the giants lift up their hands to wonder  
 
-    How high the hands of a man could go.
+    How high the hands of a man could go.  
 
 
 
 
 
-    FOR FOUR GUILDS:
+    FOR FOUR GUILDS:  
 
 
 
-    IV. THE BELL-RINGERS
+    IV. THE BELL-RINGERS  
 
 
 
-    The angels are singing like birds in a tree
+    The angels are singing like birds in a tree  
 
-    In the organ of good St. Cecily:
+    In the organ of good St. Cecily:  
 
-    And the parson reads with his hand upon
+    And the parson reads with his hand upon  
 
-    The graven eagle of great St. John:
+    The graven eagle of great St. John:  
 
-    But never the fluted pipes shall go
+    But never the fluted pipes shall go  
 
-    Like the fifes of an army all a-row,
+    Like the fifes of an army all a-row,  
 
-    Merrily marching down the street
+    Merrily marching down the street  
 
-    To the marts where the busy and idle meet;
+    To the marts where the busy and idle meet;  
 
-    And never the brazen bird shall fly
+    And never the brazen bird shall fly  
 
-    Out of the window and into the sky,
+    Out of the window and into the sky,  
 
-    Till men in cities and shires and ships
+    Till men in cities and shires and ships  
 
-    Look up at the living Apocalypse.
+    Look up at the living Apocalypse.  
 
 
 
-    But all can hark at the dark of even
+    But all can hark at the dark of even  
 
-    The bells that bay like the hounds of heaven,
+    The bells that bay like the hounds of heaven,  
 
-    Tolling and telling that over and under,
+    Tolling and telling that over and under,  
 
-    In the ways of the air like a wandering thunder,
+    In the ways of the air like a wandering thunder,  
 
-    The hunt is up over hills untrod:
+    The hunt is up over hills untrod:  
 
-    For the wind is the way of the dogs of God:
+    For the wind is the way of the dogs of God:  
 
-    From the tyrant's tower to the outlaw's den
+    From the tyrant's tower to the outlaw's den  
 
-    Hunting the souls of the sons of men.
+    Hunting the souls of the sons of men.  
 
-    Ruler and robber and pedlar and peer,
+    Ruler and robber and pedlar and peer,  
 
-    Who will not harken and yet will hear;
+    Who will not harken and yet will hear;  
 
-    Filling men's heads with the hurry and hum
+    Filling men's heads with the hurry and hum  
 
-    Making them welcome before they come.
+    Making them welcome before they come.  
 
 
 
-    And we poor men stand under the steeple
+    And we poor men stand under the steeple  
 
-    Drawing the cords that can draw the people,
+    Drawing the cords that can draw the people,  
 
-    And in our leash like the leaping dogs
+    And in our leash like the leaping dogs  
 
-    Are God's most deafening demagogues:
+    Are God's most deafening demagogues:  
 
-    And we are but little, like dwarfs underground,
+    And we are but little, like dwarfs underground,  
 
-    While hang up in heaven the houses of sound,
+    While hang up in heaven the houses of sound,  
 
-    Moving like mountains that faith sets free,
+    Moving like mountains that faith sets free,  
 
-    Yawning like caverns that roar with the sea,
+    Yawning like caverns that roar with the sea,  
 
-    As awfully loaded, as airily buoyed,
+    As awfully loaded, as airily buoyed,  
 
-    Armoured archangels that trample the void:
+    Armoured archangels that trample the void:  
 
-    Wild as with dancing and weighty with dooms,
+    Wild as with dancing and weighty with dooms,  
 
-    Heavy as their panoply, light as their plumes.
+    Heavy as their panoply, light as their plumes.  
 
 
 
-    Neither preacher nor priest are we:
+    Neither preacher nor priest are we:  
 
-    Each man mount to his own degree:
+    Each man mount to his own degree:  
 
-    Only remember that just such a cord
+    Only remember that just such a cord  
 
-    Tosses in heaven the trumpet and sword;
+    Tosses in heaven the trumpet and sword;  
 
-    Souls on their terraces, saints on their towers,
+    Souls on their terraces, saints on their towers,  
 
-    Rise up in arms at alarum like ours:
+    Rise up in arms at alarum like ours:  
 
-    Glow like great watchfires that redden the skies
+    Glow like great watchfires that redden the skies  
 
-    Titans whose wings are a glory of eyes,
+    Titans whose wings are a glory of eyes,  
 
-    Crowned constellations by twelves and by sevens,
+    Crowned constellations by twelves and by sevens,  
 
-    Domed dominations more old than the heavens,
+    Domed dominations more old than the heavens,  
 
-    Virtues that thunder and thrones that endure
+    Virtues that thunder and thrones that endure  
 
-    Sway like a bell to the prayers of the poor.
+    Sway like a bell to the prayers of the poor.  
 
 
 
@@ -3046,41 +3044,41 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    THE CONVERT
+    THE CONVERT  
 
 
 
 
 
-    After one moment when I bowed my head
+    After one moment when I bowed my head  
 
-    And the whole world turned over and came upright,
+    And the whole world turned over and came upright,  
 
-    And I came out where the old road shone white,
+    And I came out where the old road shone white,  
 
-    I walked the ways and heard what all men said,
+    I walked the ways and heard what all men said,  
 
-    Forests of tongues, like autumn leaves unshed,
+    Forests of tongues, like autumn leaves unshed,  
 
-    Being not unlovable but strange and light;
+    Being not unlovable but strange and light;  
 
-    Old riddles and new creeds, not in despite
+    Old riddles and new creeds, not in despite  
 
-    But softly, as men smile about the dead.
+    But softly, as men smile about the dead.  
 
 
 
-    The sages have a hundred maps to give
+    The sages have a hundred maps to give  
 
-    That trace their crawling cosmos like a tree,
+    That trace their crawling cosmos like a tree,  
 
-    They rattle reason out through many a sieve
+    They rattle reason out through many a sieve  
 
-    That stores the sand and lets the gold go free:
+    That stores the sand and lets the gold go free:  
 
-    And all these things are less than dust to me
+    And all these things are less than dust to me  
 
-    Because my name is Lazarus and I live.
+    Because my name is Lazarus and I live.  
 
 
 
@@ -3090,603 +3088,603 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-    SONGS OF EDUCATION
+    SONGS OF EDUCATION  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    I. HISTORY
+    I. HISTORY  
 
 
 
-    _Form 991785, Sub-Section D_
+    _Form 991785, Sub-Section D_  
 
 
 
 
 
-    The Roman threw us a road, a road,
+    The Roman threw us a road, a road,  
 
-    And sighed and strolled away:
+    And sighed and strolled away:  
 
-    The Saxon gave us a raid, a raid,
+    The Saxon gave us a raid, a raid,  
 
-    A raid that came to stay;
+    A raid that came to stay;  
 
-    The Dane went west, but the Dane confessed
+    The Dane went west, but the Dane confessed  
 
-    That he went a bit too far;
+    That he went a bit too far;  
 
-    And we all became, by another name,
+    And we all became, by another name,  
 
-    The Imperial race we are.
+    The Imperial race we are.  
 
 
 
-    _Chorus_
+    _Chorus_  
 
 
 
-    The Imperial race, the inscrutable race,
+    The Imperial race, the inscrutable race,  
 
-    The invincible race we are.
+    The invincible race we are.  
 
 
 
-    Though Sussex hills are bare, are bare,
+    Though Sussex hills are bare, are bare,  
 
-    And Sussex weald is wide,
+    And Sussex weald is wide,  
 
-    From Chichester to Chester
+    From Chichester to Chester  
 
-    Men saw the Norman ride;
+    Men saw the Norman ride;  
 
-    He threw his sword in the air and sang
+    He threw his sword in the air and sang  
 
-    To a sort of a light guitar;
+    To a sort of a light guitar;  
 
-    It was all the same, for we all became
+    It was all the same, for we all became  
 
-    The identical nobs we are.
+    The identical nobs we are.  
 
 
 
-    _Chorus_
+    _Chorus_  
 
 
 
-    The identical nobs, individual nobs
+    The identical nobs, individual nobs  
 
-    Unmistakable nobs we are.
+    Unmistakable nobs we are.  
 
 
 
-    The people lived on the land, the land,
+    The people lived on the land, the land,  
 
-    They pottered about and prayed;
+    They pottered about and prayed;  
 
-    They built a cathedral here and there
+    They built a cathedral here and there  
 
-    Or went on a small crusade:
+    Or went on a small crusade:  
 
-    Till the bones of Becket were bundled out
+    Till the bones of Becket were bundled out  
 
-    For the fun of a fat White Czar,
+    For the fun of a fat White Czar,  
 
-    And we all became, in spoil and flame,
+    And we all became, in spoil and flame,  
 
-    The intelligent lot we are.
+    The intelligent lot we are.  
 
 
 
-    _Chorus_
+    _Chorus_  
 
 
 
-    The intelligent lot, the intuitive lot,
+    The intelligent lot, the intuitive lot,  
 
-    The infallible lot we are.
+    The infallible lot we are.  
 
 
 
-    O Warwick woods are green, are green,
+    O Warwick woods are green, are green,  
 
-    But Warwick trees can fall:
+    But Warwick trees can fall:  
 
-    And Birmingham grew so big, so big,
+    And Birmingham grew so big, so big,  
 
-    And Stratford stayed so small.
+    And Stratford stayed so small.  
 
-    Till the hooter howled to the morning lark
+    Till the hooter howled to the morning lark  
 
-    That sang to the morning star;
+    That sang to the morning star;  
 
-    And we all became, in freedom's name,
+    And we all became, in freedom's name,  
 
-    The fortunate chaps we are.
+    The fortunate chaps we are.  
 
 
 
-    _Chorus_
+    _Chorus_  
 
 
 
-    The fortunate chaps, felicitous chaps,
+    The fortunate chaps, felicitous chaps,  
 
-    The fairy-like chaps we are.
+    The fairy-like chaps we are.  
 
 
 
-    The people they left the land, the land,
+    The people they left the land, the land,  
 
-    But they went on working hard;
+    But they went on working hard;  
 
-    And the village green that had got mislaid
+    And the village green that had got mislaid  
 
-    Turned up in the squire's back-yard:
+    Turned up in the squire's back-yard:  
 
-    But twenty men of us all got work
+    But twenty men of us all got work  
 
-    On a bit of his motor car;
+    On a bit of his motor car;  
 
-    And we all became, with the world's acclaim,
+    And we all became, with the world's acclaim,  
 
-    The marvellous mugs we are:
+    The marvellous mugs we are:  
 
 
 
-    _Chorus_
+    _Chorus_  
 
 
 
-    The marvellous mugs, miraculous mugs,
+    The marvellous mugs, miraculous mugs,  
 
-    The mystical mugs we are.
+    The mystical mugs we are.  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    II. GEOGRAPHY
+    II. GEOGRAPHY  
 
 
 
-    _Form 17955301, Sub-Section Z_
+    _Form 17955301, Sub-Section Z_  
 
 
 
-    The earth is a place on which England is found,
+    The earth is a place on which England is found,  
 
-    And you find it however you twirl the globe round;
+    And you find it however you twirl the globe round;  
 
-    For the spots are all red and the rest is all grey,
+    For the spots are all red and the rest is all grey,  
 
-    And that is the meaning of Empire Day.
+    And that is the meaning of Empire Day.  
 
 
 
-    Gibraltar's a rock that you see very plain,
+    Gibraltar's a rock that you see very plain,  
 
-    And attached to its base is the district of Spain.
+    And attached to its base is the district of Spain.  
 
-    And the island of Malta is marked further on,
+    And the island of Malta is marked further on,  
 
-    Where some natives were known as the Knights of St. John.
+    Where some natives were known as the Knights of St. John.  
 
-    Then Cyprus, and east to the Suez Canal,
+    Then Cyprus, and east to the Suez Canal,  
 
-    That was conquered by Dizzy and Rothschild his pal
+    That was conquered by Dizzy and Rothschild his pal  
 
-    With the Sword of the Lord in the old English way;
+    With the Sword of the Lord in the old English way;  
 
-    And that is the meaning of Empire Day.
+    And that is the meaning of Empire Day.  
 
 
 
-    Our principal imports come far as Cape Horn;
+    Our principal imports come far as Cape Horn;  
 
-    For necessities, cocoa; for luxuries, corn;
+    For necessities, cocoa; for luxuries, corn;  
 
-    Thus Brahmins are born for the rice-field, and thus,
+    Thus Brahmins are born for the rice-field, and thus,  
 
-    The Gods made the Greeks to grow currants for us;
+    The Gods made the Greeks to grow currants for us;  
 
-    Tobacco and petrol and Jazzing and Jews:
+    Tobacco and petrol and Jazzing and Jews:  
 
-    The Jazzing will pass but the Jews they will stay;
+    The Jazzing will pass but the Jews they will stay;  
 
-    And that is the meaning of Empire Day.
+    And that is the meaning of Empire Day.  
 
 
 
-    Our principal exports, all labelled and packed,
+    Our principal exports, all labelled and packed,  
 
-    At the ends of the earth are delivered intact:
+    At the ends of the earth are delivered intact:  
 
-    Our soap or our salmon can travel in tins
+    Our soap or our salmon can travel in tins  
 
-    Between the two poles and as like as two pins;
+    Between the two poles and as like as two pins;  
 
-    So that Lancashire merchants whenever they like
+    So that Lancashire merchants whenever they like  
 
-    Can water the beer of a man in Klondike
+    Can water the beer of a man in Klondike  
 
-    Or poison the meat of a man in Bombay;
+    Or poison the meat of a man in Bombay;  
 
-    And that is the meaning of Empire Day.
+    And that is the meaning of Empire Day.  
 
 
 
-    The day of St. George is a musty affair
+    The day of St. George is a musty affair  
 
-    Which Russians and Greeks are permitted to share;
+    Which Russians and Greeks are permitted to share;  
 
-    The day of Trafalgar is Spanish in name
+    The day of Trafalgar is Spanish in name  
 
-    And the Spaniards refuse to pronounce it the same;
+    And the Spaniards refuse to pronounce it the same;  
 
-    But the Day of the Empire from Canada came
+    But the Day of the Empire from Canada came  
 
-    With Morden and Borden and Beaverbrook's fame
+    With Morden and Borden and Beaverbrook's fame  
 
-    And saintly seraphical souls such as they:
+    And saintly seraphical souls such as they:  
 
-    And that is the meaning of Empire Day.
+    And that is the meaning of Empire Day.  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    III. FOR THE CRÊCHE
+    III. FOR THE CRÊCHE  
 
 
 
-    _Form 8277059, Sub-Section K_
+    _Form 8277059, Sub-Section K_  
 
 
 
-    I remember my mother, the day that we met,
+    I remember my mother, the day that we met,  
 
-    A thing I shall never entirely forget;
+    A thing I shall never entirely forget;  
 
-    And I toy with the fancy that, young as I am,
+    And I toy with the fancy that, young as I am,  
 
-    I should know her again if we met in a tram.
+    I should know her again if we met in a tram.  
 
-      But mother is happy in turning a crank
+      But mother is happy in turning a crank  
 
-      That increases the balance at somebody's bank;
+      That increases the balance at somebody's bank;  
 
-      And I feel satisfaction that mother is free
+      And I feel satisfaction that mother is free  
 
-      From the sinister task of attending to me.
+      From the sinister task of attending to me.  
 
 
 
-    They have brightened our room, that is spacious and cool,
+    They have brightened our room, that is spacious and cool,  
 
-    With diagrams used in the Idiot School,
+    With diagrams used in the Idiot School,  
 
-    And Books for the Blind that will teach us to see;
+    And Books for the Blind that will teach us to see;  
 
-    But mother is happy, for mother is free.
+    But mother is happy, for mother is free.  
 
-      For mother is dancing up forty-eight floors,
+      For mother is dancing up forty-eight floors,  
 
-      For love of the Leeds International Stores,
+      For love of the Leeds International Stores,  
 
-      And the flame of that faith might perhaps have grown cold,
+      And the flame of that faith might perhaps have grown cold,  
 
-      With the care of a baby of seven weeks old.
+      With the care of a baby of seven weeks old.  
 
 
 
-    For mother is happy in greasing a wheel
+    For mother is happy in greasing a wheel  
 
-    For somebody else, who is cornering Steel;
+    For somebody else, who is cornering Steel;  
 
-    And though our one meeting was not very long,
+    And though our one meeting was not very long,  
 
-    She took the occasion to sing me this song:
+    She took the occasion to sing me this song:  
 
-      "O, hush thee, my baby, the time soon will come
+      "O, hush thee, my baby, the time soon will come  
 
-      When thy sleep will be broken with hooting and hum;
+      When thy sleep will be broken with hooting and hum;  
 
-      There are handles want turning and turning all day,
+      There are handles want turning and turning all day,  
 
-      And knobs to be pressed in the usual way;
+      And knobs to be pressed in the usual way;  
 
 
 
-    O, hush thee, my baby, take rest while I croon,
+    O, hush thee, my baby, take rest while I croon,  
 
-    For Progress comes early, and Freedom too soon."
+    For Progress comes early, and Freedom too soon."  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    IV. CITIZENSHIP
+    IV. CITIZENSHIP  
 
 
 
-    _Form 8889512, Sub-Section Q_
+    _Form 8889512, Sub-Section Q_  
 
 
 
-    How slowly learns the child at school
+    How slowly learns the child at school  
 
-    The names of all the nobs that rule
+    The names of all the nobs that rule  
 
-    From Ponsonby to Pennant;
+    From Ponsonby to Pennant;  
 
-    Ere his bewildered mind find rest,
+    Ere his bewildered mind find rest,  
 
-    Knowing his host can be a Guest,
+    Knowing his host can be a Guest,  
 
-    His landlord is a Tennant.
+    His landlord is a Tennant.  
 
 
 
-    He knew not, at the age of three,
+    He knew not, at the age of three,  
 
-    What Lord St. Leger next will be
+    What Lord St. Leger next will be  
 
-    Or what he was before;
+    Or what he was before;  
 
-    A Primrose in the social swim
+    A Primrose in the social swim  
 
-    A Mr. Primrose is to him,
+    A Mr. Primrose is to him,  
 
-    And he is nothing more.
+    And he is nothing more.  
 
 
 
-    But soon, about the age of ten,
+    But soon, about the age of ten,  
 
-    He finds he is a Citizen,
+    He finds he is a Citizen,  
 
-    And knows his way about;
+    And knows his way about;  
 
-    Can pause within, or just beyond,
+    Can pause within, or just beyond,  
 
-    The line 'twixt Mond and Demi-Mond,
+    The line 'twixt Mond and Demi-Mond,  
 
-    'Twixt Getting On--or Out.
+    'Twixt Getting On--or Out.  
 
 
 
-    The Citizen will take his share
+    The Citizen will take his share  
 
-    (In every sense) as bull and bear;
+    (In every sense) as bull and bear;  
 
-    Nor need this oral ditty
+    Nor need this oral ditty  
 
-    Invoke the philologic pen
+    Invoke the philologic pen  
 
-    To show you that a Citizen
+    To show you that a Citizen  
 
-    Means Something in the City.
+    Means Something in the City.  
 
 
 
-    Thus gains he, with the virile gown,
+    Thus gains he, with the virile gown,  
 
-    The fasces and the civic crown,
+    The fasces and the civic crown,  
 
-    The forum of the free;
+    The forum of the free;  
 
-    Not more to Rome's high law allied
+    Not more to Rome's high law allied  
 
-    Is Devonport in all his pride
+    Is Devonport in all his pride  
 
-    Or Lipton's self than he.
+    Or Lipton's self than he.  
 
 
 
-    For he will learn, if he will try,
+    For he will learn, if he will try,  
 
-    The deep interior truths whereby
+    The deep interior truths whereby  
 
-    We rule the Commonwealth;
+    We rule the Commonwealth;  
 
-    What is the Food-Controller's fee
+    What is the Food-Controller's fee  
 
-    And whether the Health Ministry
+    And whether the Health Ministry  
 
-    Are in it for their health.
+    Are in it for their health.  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    V. THE HIGHER MATHEMATICS
+    V. THE HIGHER MATHEMATICS  
 
 
 
-    _Form 339125, Sub-Section M_
+    _Form 339125, Sub-Section M_  
 
 
 
-            Twice one is two,
+            Twice one is two,  
 
-            Twice two is four,
+            Twice two is four,  
 
-    But twice two is ninety-six if you know the way to score.
+    But twice two is ninety-six if you know the way to score.  
 
-            Half of two is one,
+            Half of two is one,  
 
-            Half of four is two,
+            Half of four is two,  
 
-    But half of four is forty per cent. if your name is Montagu:
+    But half of four is forty per cent. if your name is Montagu:  
 
-      For everything else is on the square
+      For everything else is on the square  
 
-      If done by the best quadratics;
+      If done by the best quadratics;  
 
-      And nothing is low in High Finance
+      And nothing is low in High Finance  
 
-      Or the Higher Mathematics.
+      Or the Higher Mathematics.  
 
 
 
-            A straight line is straight
+            A straight line is straight  
 
-            And a square mile is flat:
+            And a square mile is flat:  
 
-    But you learn in trigonometrics a trick worth two of that.
+    But you learn in trigonometrics a trick worth two of that.  
 
-            Two straight lines
+            Two straight lines  
 
-            Can't enclose a Space,
+            Can't enclose a Space,  
 
-    But they can enclose a Corner to support the Chosen Race:
+    But they can enclose a Corner to support the Chosen Race:  
 
-      For you never know what Dynamics do
+      For you never know what Dynamics do  
 
-      With the lower truths of Statics;
+      With the lower truths of Statics;  
 
-      And half of two is a touring car
+      And half of two is a touring car  
 
-      In the Higher Mathematics.
+      In the Higher Mathematics.  
 
 
 
-            There is a place apart
+            There is a place apart  
 
-            Beyond the solar ray,
+            Beyond the solar ray,  
 
-    Where parallel straight lines can meet in an unofficial way.
+    Where parallel straight lines can meet in an unofficial way.  
 
-            There is a room that holds
+            There is a room that holds  
 
-            The examiner or his clerks,
+            The examiner or his clerks,  
 
-    Where you can square the circle or the man that gives the marks.
+    Where you can square the circle or the man that gives the marks.  
 
-      Where you hide in the cellar and then look down
+      Where you hide in the cellar and then look down  
 
-      On the poets that live in the attics;
+      On the poets that live in the attics;  
 
-      For the whole of the house is upside down
+      For the whole of the house is upside down  
 
-      In the Higher Mathematics.
+      In the Higher Mathematics.  
 
 
 
 
 
-    SONGS OF EDUCATION:
+    SONGS OF EDUCATION:  
 
 
 
-    VI. HYGIENE
+    VI. HYGIENE  
 
 
 
-    _Form 394411102, Sub-Section X_
+    _Form 394411102, Sub-Section X_  
 
 
 
-    _"All practical Eugenists are agreed on the importance of
+    _"All practical Eugenists are agreed on the importance of  
 
-    sleep."--The Eugenic Congress._
+    sleep."--The Eugenic Congress._  
 
 
 
 
 
-    When Science taught mankind to breathe
+    When Science taught mankind to breathe  
 
-    A little while ago,
+    A little while ago,  
 
-    Only a wise and thoughtful few
+    Only a wise and thoughtful few  
 
-    Were really in the know:
+    Were really in the know:  
 
-    Nor could the Youth his features wreathe,
+    Nor could the Youth his features wreathe,  
 
-    Puffing from all the lungs beneath:
+    Puffing from all the lungs beneath:  
 
-    When Duty whispered softly "Breathe!"
+    When Duty whispered softly "Breathe!"  
 
-    The Youth would answer "Blow!"
+    The Youth would answer "Blow!"  
 
 
 
-    When Science proved with lucid care
+    When Science proved with lucid care  
 
-    The need of Exercise,
+    The need of Exercise,  
 
-    Our thoughtless Youth was climbing trees
+    Our thoughtless Youth was climbing trees  
 
-    Or lightly blacking eyes:
+    Or lightly blacking eyes:  
 
-    To reckless idlers breaking bounds
+    To reckless idlers breaking bounds  
 
-    For football or for hare-and-hounds,
+    For football or for hare-and-hounds,  
 
-    Or fighting hard for fourteen rounds,
+    Or fighting hard for fourteen rounds,  
 
-    It came as a surprise.
+    It came as a surprise.  
 
 
 
-    But when she boldly counsels Sleep
+    But when she boldly counsels Sleep  
 
-    To persons when in bed,
+    To persons when in bed,  
 
-    Then, then indeed men blush to see
+    Then, then indeed men blush to see  
 
-    The daybreak blushing red:
+    The daybreak blushing red:  
 
-    The early risers whom we term
+    The early risers whom we term  
 
-    Healthy, grow sickly and infirm;
+    Healthy, grow sickly and infirm;  
 
-    The Early Bird who caught the Worm
+    The Early Bird who caught the Worm  
 
-    Will catch the Germ instead.
+    Will catch the Germ instead.  
 
 
 
-    For this at least be Science praised
+    For this at least be Science praised  
 
-    If all the rest be rot,
+    If all the rest be rot,  
 
-    That now she snubs the priggish child
+    That now she snubs the priggish child  
 
-    That quits too soon his cot:
+    That quits too soon his cot:  
 
-    The pharisaic pachyderm
+    The pharisaic pachyderm  
 
-    Of spiritual pride shall squirm:
+    Of spiritual pride shall squirm:  
 
-    The Early Bird catches the worm,
+    The Early Bird catches the worm,  
 
-    The Worm that dieth not.
+    The Worm that dieth not.  
 
 
 
@@ -3694,9 +3692,9 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-                            THE ARDEN PRESS
+                            THE ARDEN PRESS  
 
-                     STAMFORD STREET LONDON, S.E.1
+                     STAMFORD STREET LONDON, S.E.1  
 
 
 
@@ -3708,73 +3706,73 @@ by The Internet Archive/Canadian Libraries)
 
 
 
-End of the Project Gutenberg EBook of The Ballad of St. Barbara, by 
+End of the Project Gutenberg EBook of The Ballad of St. Barbara, by  
 
-Gilbert Keith Chesterton
+Gilbert Keith Chesterton  
 
 
 
-*** END OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***
+*** END OF THIS PROJECT GUTENBERG EBOOK THE BALLAD OF ST. BARBARA ***  
 
 
 
-***** This file should be named 32167-8.txt or 32167-8.zip *****
+***** This file should be named 32167-8.txt or 32167-8.zip *****  
 
-This and all associated files of various formats will be found in:
+This and all associated files of various formats will be found in:  
 
-        http://www.gutenberg.org/3/2/1/6/32167/
+        http://www.gutenberg.org/3/2/1/6/32167/  
 
 
 
-Produced by Irma Spehar, Markus Brenner and the Online
+Produced by Irma Spehar, Markus Brenner and the Online  
 
-Distributed Proofreading Team at http://www.pgdp.net (This
+Distributed Proofreading Team at http://www.pgdp.net (This  
 
-file was produced from images generously made available
+file was produced from images generously made available  
 
-by The Internet Archive/Canadian Libraries)
+by The Internet Archive/Canadian Libraries)  
 
 
 
 
 
-Updated editions will replace the previous one--the old editions
+Updated editions will replace the previous one--the old editions  
 
-will be renamed.
+will be renamed.  
 
 
 
-Creating the works from public domain print editions means that no
+Creating the works from public domain print editions means that no  
 
-one owns a United States copyright in these works, so the Foundation
+one owns a United States copyright in these works, so the Foundation  
 
-(and you!) can copy and distribute it in the United States without
+(and you!) can copy and distribute it in the United States without  
 
-permission and without paying copyright royalties.  Special rules,
+permission and without paying copyright royalties.  Special rules,  
 
-set forth in the General Terms of Use part of this license, apply to
+set forth in the General Terms of Use part of this license, apply to  
 
-copying and distributing Project Gutenberg-tm electronic works to
+copying and distributing Project Gutenberg-tm electronic works to  
 
-protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+protect the PROJECT GUTENBERG-tm concept and trademark.  Project  
 
-Gutenberg is a registered trademark, and may not be used if you
+Gutenberg is a registered trademark, and may not be used if you  
 
-charge for the eBooks, unless you receive specific permission.  If you
+charge for the eBooks, unless you receive specific permission.  If you  
 
-do not charge anything for copies of this eBook, complying with the
+do not charge anything for copies of this eBook, complying with the  
 
-rules is very easy.  You may use this eBook for nearly any purpose
+rules is very easy.  You may use this eBook for nearly any purpose  
 
-such as creation of derivative works, reports, performances and
+such as creation of derivative works, reports, performances and  
 
-research.  They may be modified and printed and given away--you may do
+research.  They may be modified and printed and given away--you may do  
 
-practically ANYTHING with public domain eBooks.  Redistribution is
+practically ANYTHING with public domain eBooks.  Redistribution is  
 
-subject to the trademark license, especially commercial
+subject to the trademark license, especially commercial  
 
-redistribution.
+redistribution.  
 
 
 
@@ -3782,664 +3780,664 @@ redistribution.
 
 
 
-*** START: FULL LICENSE ***
+*** START: FULL LICENSE ***  
 
 
 
-THE FULL PROJECT GUTENBERG LICENSE
+THE FULL PROJECT GUTENBERG LICENSE  
 
-PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK  
 
 
 
-To protect the Project Gutenberg-tm mission of promoting the free
+To protect the Project Gutenberg-tm mission of promoting the free  
 
-distribution of electronic works, by using or distributing this work
+distribution of electronic works, by using or distributing this work  
 
-(or any other work associated in any way with the phrase "Project
+(or any other work associated in any way with the phrase "Project  
 
-Gutenberg"), you agree to comply with all the terms of the Full Project
+Gutenberg"), you agree to comply with all the terms of the Full Project  
 
-Gutenberg-tm License (available with this file or online at
+Gutenberg-tm License (available with this file or online at  
 
-http://gutenberg.org/license).
+http://gutenberg.org/license).  
 
 
 
 
 
-Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm  
 
-electronic works
+electronic works  
 
 
 
-1.A.  By reading or using any part of this Project Gutenberg-tm
+1.A.  By reading or using any part of this Project Gutenberg-tm  
 
-electronic work, you indicate that you have read, understand, agree to
+electronic work, you indicate that you have read, understand, agree to  
 
-and accept all the terms of this license and intellectual property
+and accept all the terms of this license and intellectual property  
 
-(trademark/copyright) agreement.  If you do not agree to abide by all
+(trademark/copyright) agreement.  If you do not agree to abide by all  
 
-the terms of this agreement, you must cease using and return or destroy
+the terms of this agreement, you must cease using and return or destroy  
 
-all copies of Project Gutenberg-tm electronic works in your possession.
+all copies of Project Gutenberg-tm electronic works in your possession.  
 
-If you paid a fee for obtaining a copy of or access to a Project
+If you paid a fee for obtaining a copy of or access to a Project  
 
-Gutenberg-tm electronic work and you do not agree to be bound by the
+Gutenberg-tm electronic work and you do not agree to be bound by the  
 
-terms of this agreement, you may obtain a refund from the person or
+terms of this agreement, you may obtain a refund from the person or  
 
-entity to whom you paid the fee as set forth in paragraph 1.E.8.
+entity to whom you paid the fee as set forth in paragraph 1.E.8.  
 
 
 
-1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+1.B.  "Project Gutenberg" is a registered trademark.  It may only be  
 
-used on or associated in any way with an electronic work by people who
+used on or associated in any way with an electronic work by people who  
 
-agree to be bound by the terms of this agreement.  There are a few
+agree to be bound by the terms of this agreement.  There are a few  
 
-things that you can do with most Project Gutenberg-tm electronic works
+things that you can do with most Project Gutenberg-tm electronic works  
 
-even without complying with the full terms of this agreement.  See
+even without complying with the full terms of this agreement.  See  
 
-paragraph 1.C below.  There are a lot of things you can do with Project
+paragraph 1.C below.  There are a lot of things you can do with Project  
 
-Gutenberg-tm electronic works if you follow the terms of this agreement
+Gutenberg-tm electronic works if you follow the terms of this agreement  
 
-and help preserve free future access to Project Gutenberg-tm electronic
+and help preserve free future access to Project Gutenberg-tm electronic  
 
-works.  See paragraph 1.E below.
+works.  See paragraph 1.E below.  
 
 
 
-1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"  
 
-or PGLAF), owns a compilation copyright in the collection of Project
+or PGLAF), owns a compilation copyright in the collection of Project  
 
-Gutenberg-tm electronic works.  Nearly all the individual works in the
+Gutenberg-tm electronic works.  Nearly all the individual works in the  
 
-collection are in the public domain in the United States.  If an
+collection are in the public domain in the United States.  If an  
 
-individual work is in the public domain in the United States and you are
+individual work is in the public domain in the United States and you are  
 
-located in the United States, we do not claim a right to prevent you from
+located in the United States, we do not claim a right to prevent you from  
 
-copying, distributing, performing, displaying or creating derivative
+copying, distributing, performing, displaying or creating derivative  
 
-works based on the work as long as all references to Project Gutenberg
+works based on the work as long as all references to Project Gutenberg  
 
-are removed.  Of course, we hope that you will support the Project
+are removed.  Of course, we hope that you will support the Project  
 
-Gutenberg-tm mission of promoting free access to electronic works by
+Gutenberg-tm mission of promoting free access to electronic works by  
 
-freely sharing Project Gutenberg-tm works in compliance with the terms of
+freely sharing Project Gutenberg-tm works in compliance with the terms of  
 
-this agreement for keeping the Project Gutenberg-tm name associated with
+this agreement for keeping the Project Gutenberg-tm name associated with  
 
-the work.  You can easily comply with the terms of this agreement by
+the work.  You can easily comply with the terms of this agreement by  
 
-keeping this work in the same format with its attached full Project
+keeping this work in the same format with its attached full Project  
 
-Gutenberg-tm License when you share it without charge with others.
+Gutenberg-tm License when you share it without charge with others.  
 
 
 
-1.D.  The copyright laws of the place where you are located also govern
+1.D.  The copyright laws of the place where you are located also govern  
 
-what you can do with this work.  Copyright laws in most countries are in
+what you can do with this work.  Copyright laws in most countries are in  
 
-a constant state of change.  If you are outside the United States, check
+a constant state of change.  If you are outside the United States, check  
 
-the laws of your country in addition to the terms of this agreement
+the laws of your country in addition to the terms of this agreement  
 
-before downloading, copying, displaying, performing, distributing or
+before downloading, copying, displaying, performing, distributing or  
 
-creating derivative works based on this work or any other Project
+creating derivative works based on this work or any other Project  
 
-Gutenberg-tm work.  The Foundation makes no representations concerning
+Gutenberg-tm work.  The Foundation makes no representations concerning  
 
-the copyright status of any work in any country outside the United
+the copyright status of any work in any country outside the United  
 
-States.
+States.  
 
 
 
-1.E.  Unless you have removed all references to Project Gutenberg:
+1.E.  Unless you have removed all references to Project Gutenberg:  
 
 
 
-1.E.1.  The following sentence, with active links to, or other immediate
+1.E.1.  The following sentence, with active links to, or other immediate  
 
-access to, the full Project Gutenberg-tm License must appear prominently
+access to, the full Project Gutenberg-tm License must appear prominently  
 
-whenever any copy of a Project Gutenberg-tm work (any work on which the
+whenever any copy of a Project Gutenberg-tm work (any work on which the  
 
-phrase "Project Gutenberg" appears, or with which the phrase "Project
+phrase "Project Gutenberg" appears, or with which the phrase "Project  
 
-Gutenberg" is associated) is accessed, displayed, performed, viewed,
+Gutenberg" is associated) is accessed, displayed, performed, viewed,  
 
-copied or distributed:
+copied or distributed:  
 
 
 
-This eBook is for the use of anyone anywhere at no cost and with
+This eBook is for the use of anyone anywhere at no cost and with  
 
-almost no restrictions whatsoever.  You may copy it, give it away or
+almost no restrictions whatsoever.  You may copy it, give it away or  
 
-re-use it under the terms of the Project Gutenberg License included
+re-use it under the terms of the Project Gutenberg License included  
 
-with this eBook or online at www.gutenberg.org
+with this eBook or online at www.gutenberg.org  
 
 
 
-1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+1.E.2.  If an individual Project Gutenberg-tm electronic work is derived  
 
-from the public domain (does not contain a notice indicating that it is
+from the public domain (does not contain a notice indicating that it is  
 
-posted with permission of the copyright holder), the work can be copied
+posted with permission of the copyright holder), the work can be copied  
 
-and distributed to anyone in the United States without paying any fees
+and distributed to anyone in the United States without paying any fees  
 
-or charges.  If you are redistributing or providing access to a work
+or charges.  If you are redistributing or providing access to a work  
 
-with the phrase "Project Gutenberg" associated with or appearing on the
+with the phrase "Project Gutenberg" associated with or appearing on the  
 
-work, you must comply either with the requirements of paragraphs 1.E.1
+work, you must comply either with the requirements of paragraphs 1.E.1  
 
-through 1.E.7 or obtain permission for the use of the work and the
+through 1.E.7 or obtain permission for the use of the work and the  
 
-Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or  
 
-1.E.9.
+1.E.9.  
 
 
 
-1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+1.E.3.  If an individual Project Gutenberg-tm electronic work is posted  
 
-with the permission of the copyright holder, your use and distribution
+with the permission of the copyright holder, your use and distribution  
 
-must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+must comply with both paragraphs 1.E.1 through 1.E.7 and any additional  
 
-terms imposed by the copyright holder.  Additional terms will be linked
+terms imposed by the copyright holder.  Additional terms will be linked  
 
-to the Project Gutenberg-tm License for all works posted with the
+to the Project Gutenberg-tm License for all works posted with the  
 
-permission of the copyright holder found at the beginning of this work.
+permission of the copyright holder found at the beginning of this work.  
 
 
 
-1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm  
 
-License terms from this work, or any files containing a part of this
+License terms from this work, or any files containing a part of this  
 
-work or any other work associated with Project Gutenberg-tm.
+work or any other work associated with Project Gutenberg-tm.  
 
 
 
-1.E.5.  Do not copy, display, perform, distribute or redistribute this
+1.E.5.  Do not copy, display, perform, distribute or redistribute this  
 
-electronic work, or any part of this electronic work, without
+electronic work, or any part of this electronic work, without  
 
-prominently displaying the sentence set forth in paragraph 1.E.1 with
+prominently displaying the sentence set forth in paragraph 1.E.1 with  
 
-active links or immediate access to the full terms of the Project
+active links or immediate access to the full terms of the Project  
 
-Gutenberg-tm License.
+Gutenberg-tm License.  
 
 
 
-1.E.6.  You may convert to and distribute this work in any binary,
+1.E.6.  You may convert to and distribute this work in any binary,  
 
-compressed, marked up, nonproprietary or proprietary form, including any
+compressed, marked up, nonproprietary or proprietary form, including any  
 
-word processing or hypertext form.  However, if you provide access to or
+word processing or hypertext form.  However, if you provide access to or  
 
-distribute copies of a Project Gutenberg-tm work in a format other than
+distribute copies of a Project Gutenberg-tm work in a format other than  
 
-"Plain Vanilla ASCII" or other format used in the official version
+"Plain Vanilla ASCII" or other format used in the official version  
 
-posted on the official Project Gutenberg-tm web site (www.gutenberg.org),
+posted on the official Project Gutenberg-tm web site (www.gutenberg.org),  
 
-you must, at no additional cost, fee or expense to the user, provide a
+you must, at no additional cost, fee or expense to the user, provide a  
 
-copy, a means of exporting a copy, or a means of obtaining a copy upon
+copy, a means of exporting a copy, or a means of obtaining a copy upon  
 
-request, of the work in its original "Plain Vanilla ASCII" or other
+request, of the work in its original "Plain Vanilla ASCII" or other  
 
-form.  Any alternate format must include the full Project Gutenberg-tm
+form.  Any alternate format must include the full Project Gutenberg-tm  
 
-License as specified in paragraph 1.E.1.
+License as specified in paragraph 1.E.1.  
 
 
 
-1.E.7.  Do not charge a fee for access to, viewing, displaying,
+1.E.7.  Do not charge a fee for access to, viewing, displaying,  
 
-performing, copying or distributing any Project Gutenberg-tm works
+performing, copying or distributing any Project Gutenberg-tm works  
 
-unless you comply with paragraph 1.E.8 or 1.E.9.
+unless you comply with paragraph 1.E.8 or 1.E.9.  
 
 
 
-1.E.8.  You may charge a reasonable fee for copies of or providing
+1.E.8.  You may charge a reasonable fee for copies of or providing  
 
-access to or distributing Project Gutenberg-tm electronic works provided
+access to or distributing Project Gutenberg-tm electronic works provided  
 
-that
+that  
 
 
 
 - You pay a royalty fee of 20% of the gross profits you derive from
 
-     the use of Project Gutenberg-tm works calculated using the method
+     the use of Project Gutenberg-tm works calculated using the method  
 
-     you already use to calculate your applicable taxes.  The fee is
+     you already use to calculate your applicable taxes.  The fee is  
 
-     owed to the owner of the Project Gutenberg-tm trademark, but he
+     owed to the owner of the Project Gutenberg-tm trademark, but he  
 
-     has agreed to donate royalties under this paragraph to the
+     has agreed to donate royalties under this paragraph to the  
 
-     Project Gutenberg Literary Archive Foundation.  Royalty payments
+     Project Gutenberg Literary Archive Foundation.  Royalty payments  
 
-     must be paid within 60 days following each date on which you
+     must be paid within 60 days following each date on which you  
 
-     prepare (or are legally required to prepare) your periodic tax
+     prepare (or are legally required to prepare) your periodic tax  
 
-     returns.  Royalty payments should be clearly marked as such and
+     returns.  Royalty payments should be clearly marked as such and  
 
-     sent to the Project Gutenberg Literary Archive Foundation at the
+     sent to the Project Gutenberg Literary Archive Foundation at the  
 
-     address specified in Section 4, "Information about donations to
+     address specified in Section 4, "Information about donations to  
 
-     the Project Gutenberg Literary Archive Foundation."
+     the Project Gutenberg Literary Archive Foundation."  
 
 
 
 - You provide a full refund of any money paid by a user who notifies
 
-     you in writing (or by e-mail) within 30 days of receipt that s/he
+     you in writing (or by e-mail) within 30 days of receipt that s/he  
 
-     does not agree to the terms of the full Project Gutenberg-tm
+     does not agree to the terms of the full Project Gutenberg-tm  
 
-     License.  You must require such a user to return or
+     License.  You must require such a user to return or  
 
-     destroy all copies of the works possessed in a physical medium
+     destroy all copies of the works possessed in a physical medium  
 
-     and discontinue all use of and all access to other copies of
+     and discontinue all use of and all access to other copies of  
 
-     Project Gutenberg-tm works.
+     Project Gutenberg-tm works.  
 
 
 
 - You provide, in accordance with paragraph 1.F.3, a full refund of any
 
-     money paid for a work or a replacement copy, if a defect in the
+     money paid for a work or a replacement copy, if a defect in the  
 
-     electronic work is discovered and reported to you within 90 days
+     electronic work is discovered and reported to you within 90 days  
 
-     of receipt of the work.
+     of receipt of the work.  
 
 
 
 - You comply with all other terms of this agreement for free
 
-     distribution of Project Gutenberg-tm works.
+     distribution of Project Gutenberg-tm works.  
 
 
 
-1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm  
 
-electronic work or group of works on different terms than are set
+electronic work or group of works on different terms than are set  
 
-forth in this agreement, you must obtain permission in writing from
+forth in this agreement, you must obtain permission in writing from  
 
-both the Project Gutenberg Literary Archive Foundation and Michael
+both the Project Gutenberg Literary Archive Foundation and Michael  
 
-Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+Hart, the owner of the Project Gutenberg-tm trademark.  Contact the  
 
-Foundation as set forth in Section 3 below.
+Foundation as set forth in Section 3 below.  
 
 
 
-1.F.
+1.F.  
 
 
 
-1.F.1.  Project Gutenberg volunteers and employees expend considerable
+1.F.1.  Project Gutenberg volunteers and employees expend considerable  
 
-effort to identify, do copyright research on, transcribe and proofread
+effort to identify, do copyright research on, transcribe and proofread  
 
-public domain works in creating the Project Gutenberg-tm
+public domain works in creating the Project Gutenberg-tm  
 
-collection.  Despite these efforts, Project Gutenberg-tm electronic
+collection.  Despite these efforts, Project Gutenberg-tm electronic  
 
-works, and the medium on which they may be stored, may contain
+works, and the medium on which they may be stored, may contain  
 
-"Defects," such as, but not limited to, incomplete, inaccurate or
+"Defects," such as, but not limited to, incomplete, inaccurate or  
 
-corrupt data, transcription errors, a copyright or other intellectual
+corrupt data, transcription errors, a copyright or other intellectual  
 
-property infringement, a defective or damaged disk or other medium, a
+property infringement, a defective or damaged disk or other medium, a  
 
-computer virus, or computer codes that damage or cannot be read by
+computer virus, or computer codes that damage or cannot be read by  
 
-your equipment.
+your equipment.  
 
 
 
-1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right  
 
-of Replacement or Refund" described in paragraph 1.F.3, the Project
+of Replacement or Refund" described in paragraph 1.F.3, the Project  
 
-Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg Literary Archive Foundation, the owner of the Project  
 
-Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm trademark, and any other party distributing a Project  
 
-Gutenberg-tm electronic work under this agreement, disclaim all
+Gutenberg-tm electronic work under this agreement, disclaim all  
 
-liability to you for damages, costs and expenses, including legal
+liability to you for damages, costs and expenses, including legal  
 
-fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT  
 
-LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE  
 
-PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE  
 
-TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE  
 
-LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR  
 
-INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH  
 
-DAMAGE.
+DAMAGE.  
 
 
 
-1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a  
 
-defect in this electronic work within 90 days of receiving it, you can
+defect in this electronic work within 90 days of receiving it, you can  
 
-receive a refund of the money (if any) you paid for it by sending a
+receive a refund of the money (if any) you paid for it by sending a  
 
-written explanation to the person you received the work from.  If you
+written explanation to the person you received the work from.  If you  
 
-received the work on a physical medium, you must return the medium with
+received the work on a physical medium, you must return the medium with  
 
-your written explanation.  The person or entity that provided you with
+your written explanation.  The person or entity that provided you with  
 
-the defective work may elect to provide a replacement copy in lieu of a
+the defective work may elect to provide a replacement copy in lieu of a  
 
-refund.  If you received the work electronically, the person or entity
+refund.  If you received the work electronically, the person or entity  
 
-providing it to you may choose to give you a second opportunity to
+providing it to you may choose to give you a second opportunity to  
 
-receive the work electronically in lieu of a refund.  If the second copy
+receive the work electronically in lieu of a refund.  If the second copy  
 
-is also defective, you may demand a refund in writing without further
+is also defective, you may demand a refund in writing without further  
 
-opportunities to fix the problem.
+opportunities to fix the problem.  
 
 
 
-1.F.4.  Except for the limited right of replacement or refund set forth
+1.F.4.  Except for the limited right of replacement or refund set forth  
 
-in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER  
 
-WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO  
 
-WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.  
 
 
 
-1.F.5.  Some states do not allow disclaimers of certain implied
+1.F.5.  Some states do not allow disclaimers of certain implied  
 
-warranties or the exclusion or limitation of certain types of damages.
+warranties or the exclusion or limitation of certain types of damages.  
 
-If any disclaimer or limitation set forth in this agreement violates the
+If any disclaimer or limitation set forth in this agreement violates the  
 
-law of the state applicable to this agreement, the agreement shall be
+law of the state applicable to this agreement, the agreement shall be  
 
-interpreted to make the maximum disclaimer or limitation permitted by
+interpreted to make the maximum disclaimer or limitation permitted by  
 
-the applicable state law.  The invalidity or unenforceability of any
+the applicable state law.  The invalidity or unenforceability of any  
 
-provision of this agreement shall not void the remaining provisions.
+provision of this agreement shall not void the remaining provisions.  
 
 
 
-1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the  
 
-trademark owner, any agent or employee of the Foundation, anyone
+trademark owner, any agent or employee of the Foundation, anyone  
 
-providing copies of Project Gutenberg-tm electronic works in accordance
+providing copies of Project Gutenberg-tm electronic works in accordance  
 
-with this agreement, and any volunteers associated with the production,
+with this agreement, and any volunteers associated with the production,  
 
-promotion and distribution of Project Gutenberg-tm electronic works,
+promotion and distribution of Project Gutenberg-tm electronic works,  
 
-harmless from all liability, costs and expenses, including legal fees,
+harmless from all liability, costs and expenses, including legal fees,  
 
-that arise directly or indirectly from any of the following which you do
+that arise directly or indirectly from any of the following which you do  
 
-or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+or cause to occur: (a) distribution of this or any Project Gutenberg-tm  
 
-work, (b) alteration, modification, or additions or deletions to any
+work, (b) alteration, modification, or additions or deletions to any  
 
-Project Gutenberg-tm work, and (c) any Defect you cause.
+Project Gutenberg-tm work, and (c) any Defect you cause.  
 
 
 
 
 
-Section  2.  Information about the Mission of Project Gutenberg-tm
+Section  2.  Information about the Mission of Project Gutenberg-tm  
 
 
 
-Project Gutenberg-tm is synonymous with the free distribution of
+Project Gutenberg-tm is synonymous with the free distribution of  
 
-electronic works in formats readable by the widest variety of computers
+electronic works in formats readable by the widest variety of computers  
 
-including obsolete, old, middle-aged and new computers.  It exists
+including obsolete, old, middle-aged and new computers.  It exists  
 
-because of the efforts of hundreds of volunteers and donations from
+because of the efforts of hundreds of volunteers and donations from  
 
-people in all walks of life.
+people in all walks of life.  
 
 
 
-Volunteers and financial support to provide volunteers with the
+Volunteers and financial support to provide volunteers with the  
 
-assistance they need, are critical to reaching Project Gutenberg-tm's
+assistance they need, are critical to reaching Project Gutenberg-tm's  
 
-goals and ensuring that the Project Gutenberg-tm collection will
+goals and ensuring that the Project Gutenberg-tm collection will  
 
-remain freely available for generations to come.  In 2001, the Project
+remain freely available for generations to come.  In 2001, the Project  
 
-Gutenberg Literary Archive Foundation was created to provide a secure
+Gutenberg Literary Archive Foundation was created to provide a secure  
 
-and permanent future for Project Gutenberg-tm and future generations.
+and permanent future for Project Gutenberg-tm and future generations.  
 
-To learn more about the Project Gutenberg Literary Archive Foundation
+To learn more about the Project Gutenberg Literary Archive Foundation  
 
-and how your efforts and donations can help, see Sections 3 and 4
+and how your efforts and donations can help, see Sections 3 and 4  
 
-and the Foundation web page at http://www.pglaf.org.
+and the Foundation web page at http://www.pglaf.org.  
 
 
 
 
 
-Section 3.  Information about the Project Gutenberg Literary Archive
+Section 3.  Information about the Project Gutenberg Literary Archive  
 
-Foundation
+Foundation  
 
 
 
-The Project Gutenberg Literary Archive Foundation is a non profit
+The Project Gutenberg Literary Archive Foundation is a non profit  
 
-501(c)(3) educational corporation organized under the laws of the
+501(c)(3) educational corporation organized under the laws of the  
 
-state of Mississippi and granted tax exempt status by the Internal
+state of Mississippi and granted tax exempt status by the Internal  
 
-Revenue Service.  The Foundation's EIN or federal tax identification
+Revenue Service.  The Foundation's EIN or federal tax identification  
 
-number is 64-6221541.  Its 501(c)(3) letter is posted at
+number is 64-6221541.  Its 501(c)(3) letter is posted at  
 
-http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+http://pglaf.org/fundraising.  Contributions to the Project Gutenberg  
 
-Literary Archive Foundation are tax deductible to the full extent
+Literary Archive Foundation are tax deductible to the full extent  
 
-permitted by U.S. federal laws and your state's laws.
+permitted by U.S. federal laws and your state's laws.  
 
 
 
-The Foundation's principal office is located at 4557 Melan Dr. S.
+The Foundation's principal office is located at 4557 Melan Dr. S.  
 
-Fairbanks, AK, 99712., but its volunteers and employees are scattered
+Fairbanks, AK, 99712., but its volunteers and employees are scattered  
 
-throughout numerous locations.  Its business office is located at
+throughout numerous locations.  Its business office is located at  
 
-809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email  
 
-business@pglaf.org.  Email contact links and up to date contact
+business@pglaf.org.  Email contact links and up to date contact  
 
-information can be found at the Foundation's web site and official
+information can be found at the Foundation's web site and official  
 
-page at http://pglaf.org
+page at http://pglaf.org  
 
 
 
-For additional contact information:
+For additional contact information:  
 
-     Dr. Gregory B. Newby
+     Dr. Gregory B. Newby  
 
-     Chief Executive and Director
+     Chief Executive and Director  
 
-     gbnewby@pglaf.org
+     gbnewby@pglaf.org  
 
 
 
 
 
-Section 4.  Information about Donations to the Project Gutenberg
+Section 4.  Information about Donations to the Project Gutenberg  
 
-Literary Archive Foundation
+Literary Archive Foundation  
 
 
 
-Project Gutenberg-tm depends upon and cannot survive without wide
+Project Gutenberg-tm depends upon and cannot survive without wide  
 
-spread public support and donations to carry out its mission of
+spread public support and donations to carry out its mission of  
 
-increasing the number of public domain and licensed works that can be
+increasing the number of public domain and licensed works that can be  
 
-freely distributed in machine readable form accessible by the widest
+freely distributed in machine readable form accessible by the widest  
 
-array of equipment including outdated equipment.  Many small donations
+array of equipment including outdated equipment.  Many small donations  
 
-($1 to $5,000) are particularly important to maintaining tax exempt
+($1 to $5,000) are particularly important to maintaining tax exempt  
 
-status with the IRS.
+status with the IRS.  
 
 
 
-The Foundation is committed to complying with the laws regulating
+The Foundation is committed to complying with the laws regulating  
 
-charities and charitable donations in all 50 states of the United
+charities and charitable donations in all 50 states of the United  
 
-States.  Compliance requirements are not uniform and it takes a
+States.  Compliance requirements are not uniform and it takes a  
 
-considerable effort, much paperwork and many fees to meet and keep up
+considerable effort, much paperwork and many fees to meet and keep up  
 
-with these requirements.  We do not solicit donations in locations
+with these requirements.  We do not solicit donations in locations  
 
-where we have not received written confirmation of compliance.  To
+where we have not received written confirmation of compliance.  To  
 
-SEND DONATIONS or determine the status of compliance for any
+SEND DONATIONS or determine the status of compliance for any  
 
-particular state visit http://pglaf.org
+particular state visit http://pglaf.org  
 
 
 
-While we cannot and do not solicit contributions from states where we
+While we cannot and do not solicit contributions from states where we  
 
-have not met the solicitation requirements, we know of no prohibition
+have not met the solicitation requirements, we know of no prohibition  
 
-against accepting unsolicited donations from donors in such states who
+against accepting unsolicited donations from donors in such states who  
 
-approach us with offers to donate.
+approach us with offers to donate.  
 
 
 
-International donations are gratefully accepted, but we cannot make
+International donations are gratefully accepted, but we cannot make  
 
-any statements concerning tax treatment of donations received from
+any statements concerning tax treatment of donations received from  
 
-outside the United States.  U.S. laws alone swamp our small staff.
+outside the United States.  U.S. laws alone swamp our small staff.  
 
 
 
-Please check the Project Gutenberg Web pages for current donation
+Please check the Project Gutenberg Web pages for current donation  
 
-methods and addresses.  Donations are accepted in a number of other
+methods and addresses.  Donations are accepted in a number of other  
 
-ways including checks, online payments and credit card donations.
+ways including checks, online payments and credit card donations.  
 
-To donate, please visit: http://pglaf.org/donate
+To donate, please visit: http://pglaf.org/donate  
 
 
 
 
 
-Section 5.  General Information About Project Gutenberg-tm electronic
+Section 5.  General Information About Project Gutenberg-tm electronic  
 
-works.
+works.  
 
 
 
-Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+Professor Michael S. Hart is the originator of the Project Gutenberg-tm  
 
-concept of a library of electronic works that could be freely shared
+concept of a library of electronic works that could be freely shared  
 
-with anyone.  For thirty years, he produced and distributed Project
+with anyone.  For thirty years, he produced and distributed Project  
 
-Gutenberg-tm eBooks with only a loose network of volunteer support.
+Gutenberg-tm eBooks with only a loose network of volunteer support.  
 
 
 
 
 
-Project Gutenberg-tm eBooks are often created from several printed
+Project Gutenberg-tm eBooks are often created from several printed  
 
-editions, all of which are confirmed as Public Domain in the U.S.
+editions, all of which are confirmed as Public Domain in the U.S.  
 
-unless a copyright notice is included.  Thus, we do not necessarily
+unless a copyright notice is included.  Thus, we do not necessarily  
 
-keep eBooks in compliance with any particular paper edition.
+keep eBooks in compliance with any particular paper edition.  
 
 
 
 
 
-Most people start at our Web site which has the main PG search facility:
+Most people start at our Web site which has the main PG search facility:  
 
 
 
-     http://www.gutenberg.org
+     http://www.gutenberg.org  
 
 
 
-This Web site includes information about Project Gutenberg-tm,
+This Web site includes information about Project Gutenberg-tm,  
 
-including how to make donations to the Project Gutenberg Literary
+including how to make donations to the Project Gutenberg Literary  
 
-Archive Foundation, how to help produce our new eBooks, and how to
+Archive Foundation, how to help produce our new eBooks, and how to  
 
-subscribe to our email newsletter to hear about new eBooks.
+subscribe to our email newsletter to hear about new eBooks.  
 
 
 
-===== FINE FILE: BalladStBarbara.txt =====
+===== FINE FILE: BalladStBarbara.txt =====  

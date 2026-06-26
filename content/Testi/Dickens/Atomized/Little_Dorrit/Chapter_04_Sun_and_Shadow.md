@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 1: Sun and Shadow
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_03_POVERTY">‹ Chapter 03 POVERTY</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_05_Fellow_Travellers">Chapter 05 Fellow Travellers ›</a></div>

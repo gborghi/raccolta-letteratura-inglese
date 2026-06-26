@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON WHAT WE WOULD DO WITH TWO MILLION (IF WE HAD IT)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_02_ON_ESSAYS">‹ Story 02 ON ESSAYS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_04_ON_BOYS">Story 04 ON BOYS ›</a></div>

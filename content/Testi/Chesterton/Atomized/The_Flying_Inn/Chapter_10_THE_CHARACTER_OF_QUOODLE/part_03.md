@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 10: THE CHARACTER OF QUOODLE (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_10_THE_CHARACTER_OF_QUOODLE/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_11_VEGETARIANISM_IN_THE_DRAWING_R/part_01">part 01 ›</a></div>

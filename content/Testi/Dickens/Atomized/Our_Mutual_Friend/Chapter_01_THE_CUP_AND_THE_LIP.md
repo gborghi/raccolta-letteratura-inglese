@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Our Mutual Friend — Book 1: THE CUP AND THE LIP
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_02_BIRDS_OF_A_FEATHER">Chapter 02 BIRDS OF A FEATHER ›</a></div>

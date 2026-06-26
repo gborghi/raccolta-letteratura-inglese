@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The Vampire of the Village
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem">‹ Story 10 The Insoluble Problem</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_01_The_Scandal_of_Father_Brown/part_01">part 01 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# ON MY JOYFUL DEPARTURE FROM THE SAME CITY
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-As I am a Rhymer,
-And now at least a merry one,
-Mr. Mum’s Rudesheimer
-And the church of St. Geryon
-Are the two things alone   5
-That deserve to be known
-In the body-and-soul-stinking town of Cologne.
-1828.
+As I am a Rhymer,  
+And now at least a merry one,  
+Mr. Mum’s Rudesheimer  
+And the church of St. Geryon  
+Are the two things alone   5  
+That deserve to be known  
+In the body-and-soul-stinking town of Cologne.  
+1828.  

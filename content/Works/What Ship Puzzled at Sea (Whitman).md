@@ -14,8 +14,6 @@ tags:
   - form/epigram
 ---
 
-# What Ship Puzzled at Sea
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: WHISPERS OF HEAVENLY DEATH_
+_Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
-  What ship puzzled at sea, cons for the true reckoning?
-  Or coming in, to avoid the bars and follow the channel a perfect
-      pilot needs?
-  Here, sailor! here, ship! take aboard the most perfect pilot,
-  Whom, in a little boat, putting off and rowing, I hailing you offer.
+  What ship puzzled at sea, cons for the true reckoning?  
+  Or coming in, to avoid the bars and follow the channel a perfect  
+      pilot needs?  
+  Here, sailor! here, ship! take aboard the most perfect pilot,  
+  Whom, in a little boat, putting off and rowing, I hailing you offer.  

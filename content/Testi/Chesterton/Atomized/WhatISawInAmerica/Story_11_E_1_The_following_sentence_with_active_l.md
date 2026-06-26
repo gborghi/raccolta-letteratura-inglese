@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — E.1.  The following sentence, with active links to, or other immediate
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_10_E_Unless_you_have_removed_all_references">‹ Story 10 E Unless you have removed all references</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_12_E_2_If_an_individual_Project_Gutenberg_t">Story 12 E 2 If an individual Project Gutenberg t ›</a></div>

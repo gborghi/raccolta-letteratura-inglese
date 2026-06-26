@@ -18,8 +18,6 @@ tags:
   - histref/the_crusades
 ---
 
-# Mormonism
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet: As from the darkening gloom a silver dove
-
 *by Keats*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-As from the darkening gloom a silver dove
-Upsoars, and darts into the eastern light,
-On pinions that naught moves but pure delight,
-So fled thy soul into the realms above,
-Regions of peace and everlasting love;
-Where happy spirits, crown’d with circlets bright
-Of starry beam, and gloriously bedight,
-Taste the high joy none but the blest can prove.
-There thou or joinest the immortal quire
-In melodies that even heaven fair
-10
-Fill with superior bliss, or, at desire
-Of the omnipotent Father, cleavest the air
-On holy message sent - What pleasures higher?
-Wherefore does any grief our joy impair?
+As from the darkening gloom a silver dove  
+Upsoars, and darts into the eastern light,  
+On pinions that naught moves but pure delight,  
+So fled thy soul into the realms above,  
+Regions of peace and everlasting love;  
+Where happy spirits, crown’d with circlets bright  
+Of starry beam, and gloriously bedight,  
+Taste the high joy none but the blest can prove.  
+There thou or joinest the immortal quire  
+In melodies that even heaven fair  
+10  
+Fill with superior bliss, or, at desire  
+Of the omnipotent Father, cleavest the air  
+On holy message sent - What pleasures higher?  
+Wherefore does any grief our joy impair?  

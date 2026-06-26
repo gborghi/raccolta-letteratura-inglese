@@ -13,8 +13,6 @@ tags:
   - motif/the_city
 ---
 
-# Among the Multitude
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

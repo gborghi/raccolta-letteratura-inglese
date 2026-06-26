@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# As You Like It — Act II, Scene 7 — exchange (DUKE SENIOR) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/AS-YOU-LIKE-IT-(Shakespeare)">As You Like It</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Revenge
-
 *Theme/Concept* — appears in **34** work(s).
 
 ## Works

@@ -14,8 +14,6 @@ tags:
   - concept/wonder_and_gratitude
 ---
 
-# Sparkles from the Wheel
-
 *by Whitman*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

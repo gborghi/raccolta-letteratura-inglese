@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act III, Scene 2 — exchange (ALL) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 </nav>

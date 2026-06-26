@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Incredulity — The Curse of the Golden Cross
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_04_The_Miracle_of_Moon_Crescent">‹ Story 04 The Miracle of Moon Crescent</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_06_The_Dagger_with_Wings">Story 06 The Dagger with Wings ›</a></div>

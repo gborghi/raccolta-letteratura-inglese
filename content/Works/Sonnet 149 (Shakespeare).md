@@ -16,8 +16,6 @@ tags:
   - motif/eyes_sight
 ---
 
-# Sonnet 149
-
 *by Shakespeare*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Canst thou, O cruel, say I love thee not 
-When I against myself with thee partake? 
-Do I not think on thee when I forgot 
-Am of myself, all-tyrant, for thy sake? 
-Who hateth thee that I do call my friend? 
-On whom frown‘st thou that I do fawn upon? 
-Nay, if thou lour’st on me, do I not spend 
-Revenge upon myself with present moan? 
-What merit do I in myself respect 
-That is so proud thy service to despise, 
-When all my best doth worship thy defect, 
-Commanded by the motion of thine eyes? 
-But, love, hate on; for now I know thy mind. 
-Those that can see thou lov’st, and I am blind.
+Canst thou, O cruel, say I love thee not  
+When I against myself with thee partake?  
+Do I not think on thee when I forgot  
+Am of myself, all-tyrant, for thy sake?  
+Who hateth thee that I do call my friend?  
+On whom frown‘st thou that I do fawn upon?  
+Nay, if thou lour’st on me, do I not spend  
+Revenge upon myself with present moan?  
+What merit do I in myself respect  
+That is so proud thy service to despise,  
+When all my best doth worship thy defect,  
+Commanded by the motion of thine eyes?  
+But, love, hate on; for now I know thy mind.  
+Those that can see thou lov’st, and I am blind.  

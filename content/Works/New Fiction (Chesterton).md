@@ -15,8 +15,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# New Fiction
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,23 +27,23 @@ tags:
 
 ## Testo integrale / Full text
 
-THE NEW FICTION
+THE NEW FICTION  
 
-		by G.K.Chesterton
+		by G.K.Chesterton  
 
-("Leave them alone", we seem to hear Mr. Galsworthy say of his Young People.
----From a Review by Mr. Bettany)
+("Leave them alone", we seem to hear Mr. Galsworthy say of his Young People.  
+---From a Review by Mr. Bettany)  
 
-     Little Blue-Fits has lost his wits,
-     And doesn't know where to find them;
-     Leave them alone and they'll come home,
-     And leave their tales behind them.
+     Little Blue-Fits has lost his wits,  
+     And doesn't know where to find them;  
+     Leave them alone and they'll come home,  
+     And leave their tales behind them.  
 
-     The remarkable tales, with remarkable sales,
-     And Bonnets and Bees in disorder;
-     For the Bonnets we view are exceedingly Blue,
-     And decidedly over the Border.
+     The remarkable tales, with remarkable sales,  
+     And Bonnets and Bees in disorder;  
+     For the Bonnets we view are exceedingly Blue,  
+     And decidedly over the Border.  
 
 
 
-===== FINE FILE: New_Fiction.txt =====
+===== FINE FILE: New_Fiction.txt =====  

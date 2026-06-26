@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — TOLSTOY AND THE CULT OF SIMPLICITY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE">‹ Story 08 THOMAS CARLYLE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_10_SAVONAROLA">Story 10 SAVONAROLA ›</a></div>

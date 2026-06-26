@@ -15,8 +15,6 @@ tags:
   - topos/the_unattainable_beloved
 ---
 
-# Translation from a Sonnet of Ronsard
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -32,16 +30,16 @@ tags:
 
 ## Testo integrale / Full text
 
-Nature withheld Cassandra in the skies,
-For more adornment, a full thousand years;
-She took their cream of beauty’s fairest dyes,
-And shap’d and tinted her above all Peers’
-Meanwhile Love kept her dearly with his wings,
-And underneath their shadow fill’d her eyes
-With such a richness that the cloudy Kings
-Of high Olympus utter’d slavish sighs.
-When from the heavens I saw her first descend,
-My heart took fire, and only burning pains,
-10
-They were my pleasures - they my life’s sad end;
-Love pour’d her beauty into my warm veins . . .
+Nature withheld Cassandra in the skies,  
+For more adornment, a full thousand years;  
+She took their cream of beauty’s fairest dyes,  
+And shap’d and tinted her above all Peers’  
+Meanwhile Love kept her dearly with his wings,  
+And underneath their shadow fill’d her eyes  
+With such a richness that the cloudy Kings  
+Of high Olympus utter’d slavish sighs.  
+When from the heavens I saw her first descend,  
+My heart took fire, and only burning pains,  
+10  
+They were my pleasures - they my life’s sad end;  
+Love pour’d her beauty into my warm veins . . .  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# job
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/job-(Chesterton)">job</a></div>
 </nav>

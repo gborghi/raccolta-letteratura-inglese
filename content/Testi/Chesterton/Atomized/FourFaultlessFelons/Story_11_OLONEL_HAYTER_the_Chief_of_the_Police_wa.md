@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — OLONEL HAYTER, the Chief of the Police, was moving towards the inner
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_10_THE_THEORY_OF_MODERATE_MURDER">‹ Story 10 THE THEORY OF MODERATE MURDER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_12_THE_THING_THAT_REALLY_HAPPENED">Story 12 THE THING THAT REALLY HAPPENED ›</a></div>

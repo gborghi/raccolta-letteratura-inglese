@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Old Family Interiors
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_06_The_Maternal_Homestead">‹ Story 06 The Maternal Homestead</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_08_Paumanok_and_my_Life_on_it_as_Child_and">Story 08 Paumanok and my Life on it as Child and ›</a></div>

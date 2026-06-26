@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Unrequited / Frustrated Love · Unattainable Beloved · Petrarchan Sonnet
-
 *Cluster* — **30 works**.
 
 ## Defining concepts

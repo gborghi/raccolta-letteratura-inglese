@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 6: Something Right Somewhere
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_45_Something_Wrong_Somewhere">‹ Chapter 45 Something Wrong Somewhere</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_47_Mostly_Prunes_and_Prism">Chapter 47 Mostly Prunes and Prism ›</a></div>

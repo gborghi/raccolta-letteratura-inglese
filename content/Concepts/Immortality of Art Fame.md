@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Immortality of Art / Fame
-
 *Theme/Concept* — appears in **68** work(s).
 
 ## Works

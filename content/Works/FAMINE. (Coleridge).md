@@ -14,8 +14,6 @@ tags:
   - form/verse_drama
 ---
 
-# FAMINE.
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

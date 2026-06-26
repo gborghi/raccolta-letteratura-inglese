@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XIII—PRIVATE THEATRES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_21_HAPTER_XIIGREENWICH_FAIR">‹ Story 21 HAPTER XIIGREENWICH FAIR</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_23_HAPTER_XIVVAUXHALL_GARDENS_BY_DAY">Story 23 HAPTER XIVVAUXHALL GARDENS BY DAY ›</a></div>

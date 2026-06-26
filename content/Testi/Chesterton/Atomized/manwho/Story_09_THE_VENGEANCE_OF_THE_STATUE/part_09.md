@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE VENGEANCE OF THE STATUE (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_09_THE_VENGEANCE_OF_THE_STATUE/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_09_THE_VENGEANCE_OF_THE_STATUE/part_10">part 10 ›</a></div>

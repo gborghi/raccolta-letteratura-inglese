@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF FARCE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_12_A_DEFENCE_OF_UGLY_THINGS">‹ Story 12 A DEFENCE OF UGLY THINGS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_14_A_DEFENCE_OF_HUMILITY">Story 14 A DEFENCE OF HUMILITY ›</a></div>

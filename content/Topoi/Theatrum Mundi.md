@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Theatrum Mundi
-
 *Topos* — appears in **32** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — Autobiography
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_167_The_Enemies_Of_Joy">‹ Story 167 The Enemies Of Joy</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_169_Life_And_Liberty">Story 169 Life And Liberty ›</a></div>

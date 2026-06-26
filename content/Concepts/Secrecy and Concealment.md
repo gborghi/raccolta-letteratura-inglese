@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Secrecy and Concealment
-
 *Theme/Concept* — appears in **3** work(s).
 
 ## Works

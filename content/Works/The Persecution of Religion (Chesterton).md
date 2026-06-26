@@ -17,8 +17,6 @@ tags:
   - histref/christianity
 ---
 
-# The Persecution of Religion
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

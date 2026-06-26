@@ -14,8 +14,6 @@ tags:
   - concept/melancholy
 ---
 
-# TO SIMPLICITY
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,21 +26,21 @@ tags:
 
 ## Testo integrale / Full text
 
-O! I do
-love
-thee, meek
-Simplicity!
-For of thy lays the lulling simpleness
-Goes to my heart and soothes each small distress,
-Distress though small, yet haply great to me!
-‘Tis true on Lady Fortune’s gentlest pad   5
-I amble on; yet, though I know not why,
-So sad I am! — but should a friend and I
-Grow cool and miff, O! I am very sad!
-And then with sonnets and with sympathy
-My dreamy bosom’s mystic woes I pall;   10
-Now of my false friend plaining plaintively,
-Now raving at mankind in general;
-But, whether sad or fierce, ‘tis simple all,
-All very simple, meek Simplicity!
-III
+O! I do  
+love  
+thee, meek  
+Simplicity!  
+For of thy lays the lulling simpleness  
+Goes to my heart and soothes each small distress,  
+Distress though small, yet haply great to me!  
+‘Tis true on Lady Fortune’s gentlest pad   5  
+I amble on; yet, though I know not why,  
+So sad I am! — but should a friend and I  
+Grow cool and miff, O! I am very sad!  
+And then with sonnets and with sympathy  
+My dreamy bosom’s mystic woes I pall;   10  
+Now of my false friend plaining plaintively,  
+Now raving at mankind in general;  
+But, whether sad or fierce, ‘tis simple all,  
+All very simple, meek Simplicity!  
+III  

@@ -16,8 +16,6 @@ tags:
   - histref/christianity
 ---
 
-# Return of the Angels
-
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 

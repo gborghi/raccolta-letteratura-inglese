@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 </nav>

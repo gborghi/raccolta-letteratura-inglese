@@ -21,8 +21,6 @@ tags:
   - form/autobiography
 ---
 
-# diabolist
-
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

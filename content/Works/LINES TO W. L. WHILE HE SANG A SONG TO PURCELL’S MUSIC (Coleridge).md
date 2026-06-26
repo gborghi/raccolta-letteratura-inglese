@@ -15,8 +15,6 @@ tags:
   - concept/melancholy
 ---
 
-# LINES TO W. L.: WHILE HE SANG A SONG TO PURCELL’S MUSIC
-
 *by Coleridge*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-While my young cheek retains its healthful hues,
-And I have many friends who hold me dear,
-L —— ! methinks, I would not often hear
-Such melodies as thine, lest I should lose
-All memory of the wrongs and sore distress   5
-For which my miserable brethren weep!
-But should uncomforted misfortunes steep
-My daily bread in tears and bitterness;
-And if at Death’s dread moment I should lie
-With no belovéd face at my bed-side,   10
-To fix the last glance of my closing eye,
-Methinks such strains, breathed by my angel-guide,
-Would make me pass the cup of anguish by,
-Mix with the blest, nor know that I had died!
-1797.
+While my young cheek retains its healthful hues,  
+And I have many friends who hold me dear,  
+L —— ! methinks, I would not often hear  
+Such melodies as thine, lest I should lose  
+All memory of the wrongs and sore distress   5  
+For which my miserable brethren weep!  
+But should uncomforted misfortunes steep  
+My daily bread in tears and bitterness;  
+And if at Death’s dread moment I should lie  
+With no belovéd face at my bed-side,   10  
+To fix the last glance of my closing eye,  
+Methinks such strains, breathed by my angel-guide,  
+Would make me pass the cup of anguish by,  
+Mix with the blest, nor know that I had died!  
+1797.  

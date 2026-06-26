@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC All is Grist — Chapter 1 (part 19)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-All-is-Grist-(Chesterton)">GKC All is Grist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_All_is_Grist/Chapter_01/part_18">‹ part 18</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_All_is_Grist/Chapter_01/part_20">part 20 ›</a></div>

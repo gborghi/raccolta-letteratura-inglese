@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Winters Tale — Act V, Scene 1 — exchange (dialogue) [1]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-WINTER’S-TALE-(Shakespeare)">The Winters Tale</a></div>
 </nav>

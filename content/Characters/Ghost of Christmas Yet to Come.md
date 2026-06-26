@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Ghost of Christmas Yet to Come
-
 *Character* — appears in **1** work(s).
 
 ## Works

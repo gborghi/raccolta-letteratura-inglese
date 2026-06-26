@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Robert Louis Stevenson — Chapter 7 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Louis-Stevenson-(Chesterton)">Robert Louis Stevenson</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_06/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Robert_Louis_Stevenson/Chapter_07/part_02">part 02 ›</a></div>

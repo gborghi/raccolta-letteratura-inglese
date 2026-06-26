@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 2 Henry IV — Act I, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/2_Henry_IV/Act_1/Scene_3">Scene 3 ›</a></div>

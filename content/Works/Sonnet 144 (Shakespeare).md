@@ -19,8 +19,6 @@ tags:
   - motif/fire
 ---
 
-# Sonnet 144
-
 *by Shakespeare*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 
@@ -36,17 +34,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Two loves I have, of comfort and despair, 
-Which like two spirits do suggest me still. 
-The better angel is a man right fair, 
-The worser spirit a woman coloured ill. 
-To win me soon to hell my female evil 
-Tempteth my better angel from my side, 
-And would corrupt my saint to be a devil, 
-Wooing his purity with her foul pride; 
-And whether that my angel be turned fiend 
-Suspect I may, yet not directly tell; 
-But being both from me, both to each friend, 
-I guess one angel in another’s hell. 
-Yet this shall I ne’er know, but live in doubt 
-Till my bad angel fire my good one out.
+Two loves I have, of comfort and despair,  
+Which like two spirits do suggest me still.  
+The better angel is a man right fair,  
+The worser spirit a woman coloured ill.  
+To win me soon to hell my female evil  
+Tempteth my better angel from my side,  
+And would corrupt my saint to be a devil,  
+Wooing his purity with her foul pride;  
+And whether that my angel be turned fiend  
+Suspect I may, yet not directly tell;  
+But being both from me, both to each friend,  
+I guess one angel in another’s hell.  
+Yet this shall I ne’er know, but live in doubt  
+Till my bad angel fire my good one out.  

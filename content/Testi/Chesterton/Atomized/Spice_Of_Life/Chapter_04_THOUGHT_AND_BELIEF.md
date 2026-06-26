@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Spice Of Life — Part 3: THOUGHT AND BELIEF
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_03_PARTICULAR_BOOKS_AND_WRITERS">‹ Chapter 03 PARTICULAR BOOKS AND WRITERS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD">Chapter 05 AT HOME AND ABROAD ›</a></div>

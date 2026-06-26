@@ -16,8 +16,6 @@ tags:
   - histref/the_french_revolution
 ---
 
-# ODE TO THE DEPARTING YEAR
-
 *by Coleridge*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -33,10 +31,10 @@ tags:
 
 ## Testo integrale / Full text
 
-8¿z 0¿{, b b º±ºq.
-YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â
-£ÄÁ¿²µÖ, Ä±ÁqÃÃÉ½ ÆÁ¿¹¼w¿¹Â ´ÅÃÆÁ¿¹¼w¿¹Â.
+8¿z 0¿{, b b º±ºq.  
+YÀ’ ±V ¼µ ´µ¹½xÂ @Á¸¿¼±½Äµw±Â Ày½¿Â  
+£ÄÁ¿²µÖ, Ä±ÁqÃÃÉ½ ÆÁ¿¹¼w¿¹Â ´ÅÃÆÁ¿¹¼w¿¹Â.  
 *       *       *       *       *
-¤x ¼s»»¿½ %¾µ¹. š±v Ã{ ¼’ ÄqÇµ¹ À±Á|½
-³±½ »·¸y¼±½Ä¹½ ¿0ºÄµwÁ±Â ÁµÖÂ.
-Aeschyl. Agam. 1173-75; 1199-1200.
+¤x ¼s»»¿½ %¾µ¹. š±v Ã{ ¼’ ÄqÇµ¹ À±Á|½  
+³±½ »·¸y¼±½Ä¹½ ¿0ºÄµwÁ±Â ÁµÖÂ.  
+Aeschyl. Agam. 1173-75; 1199-1200.  

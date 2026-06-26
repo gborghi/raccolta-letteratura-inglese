@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Poverty
-
 *Theme/Concept* — appears in **63** work(s).
 
 ## Works

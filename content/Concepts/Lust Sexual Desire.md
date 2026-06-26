@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Lust / Sexual Desire
-
 *Theme/Concept* — appears in **74** work(s).
 
 ## Works

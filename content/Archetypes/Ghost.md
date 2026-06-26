@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Ghost
-
 *Archetype* — appears in **26** work(s).
 
 ## Works

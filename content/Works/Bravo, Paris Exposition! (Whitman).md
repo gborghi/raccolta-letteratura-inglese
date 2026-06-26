@@ -14,8 +14,6 @@ tags:
   - form/ode
 ---
 
-# Bravo, Paris Exposition!
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Add to your show, before you close it, France,
-  With all the rest, visible, concrete, temples, towers, goods,
-      machines and ores,
-  Our sentiment wafted from many million heart-throbs, ethereal but solid,
-  (We grand-sons and great-grandsons do not forget your grandsires,)
-  From fifty Nations and nebulous Nations, compacted, sent oversea to-day,
-  America’s applause, love, memories and good-will.
+  Add to your show, before you close it, France,  
+  With all the rest, visible, concrete, temples, towers, goods,  
+      machines and ores,  
+  Our sentiment wafted from many million heart-throbs, ethereal but solid,  
+  (We grand-sons and great-grandsons do not forget your grandsires,)  
+  From fifty Nations and nebulous Nations, compacted, sent oversea to-day,  
+  America’s applause, love, memories and good-will.  

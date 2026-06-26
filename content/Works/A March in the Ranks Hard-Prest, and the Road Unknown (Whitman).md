@@ -17,8 +17,6 @@ tags:
   - motif/the_road
 ---
 
-# A March in the Ranks Hard-Prest, and the Road Unknown
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

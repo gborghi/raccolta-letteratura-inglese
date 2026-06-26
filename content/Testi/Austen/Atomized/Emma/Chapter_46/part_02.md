@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Emma — Chapter 8 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_46/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_47/part_01">part 01 ›</a></div>

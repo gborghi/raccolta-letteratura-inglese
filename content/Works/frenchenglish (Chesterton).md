@@ -16,8 +16,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# frenchenglish
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

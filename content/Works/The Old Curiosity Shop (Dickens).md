@@ -47,8 +47,6 @@ tags:
   - character/sally_brass
 ---
 
-# The Old Curiosity Shop
-
 *by Dickens*  ·  **Cluster:** [[Innocent]]
 
 > [!abstract] 

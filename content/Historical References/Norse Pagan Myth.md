@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Norse / Pagan Myth
-
 *Historical reference* — appears in **2** work(s).
 
 ## Works

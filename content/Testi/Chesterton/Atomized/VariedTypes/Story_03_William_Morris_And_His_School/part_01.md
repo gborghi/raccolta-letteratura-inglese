@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — William Morris And His School (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_22_Damage">‹ Story 22 Damage</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_03_William_Morris_And_His_School/part_02">part 02 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Mortality
-
 *Theme/Concept* — appears in **448** work(s).
 
 ## Works

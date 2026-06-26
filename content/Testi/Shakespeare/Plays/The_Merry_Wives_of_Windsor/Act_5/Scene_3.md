@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merry Wives of Windsor — Act V, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Merry_Wives_of_Windsor/Act_5/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Merry_Wives_of_Windsor/Act_5/Scene_4">Scene 4 ›</a></div>

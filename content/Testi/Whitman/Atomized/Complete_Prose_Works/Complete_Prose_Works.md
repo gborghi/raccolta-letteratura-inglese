@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 </nav>

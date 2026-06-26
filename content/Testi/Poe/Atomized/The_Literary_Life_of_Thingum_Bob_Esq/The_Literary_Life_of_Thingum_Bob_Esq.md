@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Literary Life of Thingum Bob, Esq
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)">The Literary Life of Thingum Bob Esq</a></div>
 </nav>

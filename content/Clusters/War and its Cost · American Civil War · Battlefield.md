@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# War and its Cost · American Civil War · Battlefield
-
 *Cluster* — **39 works**.
 
 ## Defining concepts

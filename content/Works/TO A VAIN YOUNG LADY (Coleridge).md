@@ -14,8 +14,6 @@ tags:
   - concept/paradox
 ---
 
-# TO A VAIN YOUNG LADY
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,15 +26,15 @@ tags:
 
 ## Testo integrale / Full text
 
-Didst thou think less of thy dear self
-Far more would others think of thee!
-Sweet Anne! the knowledge of thy wealth
-Reduces thee to poverty.
-Boon Nature gave wit, beauty, health,
-On thee as on her darling pitching;
-Couldst thou forget thou’rt thus enrich’d
-That moment would’st thou become rich in!
-And wert thou not so self-bewitch’d,
-Sweet Anne! thou wert, indeed, bewitching.
-First published in Morning Post, Sept. 23 1802. Included in The
-Friend, No. 12, Nov. 9, 1809.
+Didst thou think less of thy dear self  
+Far more would others think of thee!  
+Sweet Anne! the knowledge of thy wealth  
+Reduces thee to poverty.  
+Boon Nature gave wit, beauty, health,  
+On thee as on her darling pitching;  
+Couldst thou forget thou’rt thus enrich’d  
+That moment would’st thou become rich in!  
+And wert thou not so self-bewitch’d,  
+Sweet Anne! thou wert, indeed, bewitching.  
+First published in Morning Post, Sept. 23 1802. Included in The  
+Friend, No. 12, Nov. 9, 1809.  

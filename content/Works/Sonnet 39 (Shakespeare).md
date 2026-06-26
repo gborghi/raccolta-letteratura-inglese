@@ -17,8 +17,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# Sonnet 39
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,19 +31,19 @@ tags:
 
 ## Testo integrale / Full text
 
-O, how thy worth with manners may I sing 
-When thou art all the better part of me? 
-What can mine own praise to mine own self bring, 
-And what is’t but mine own when I praise thee? 
-Even for this let us divided live, 
-And our dear love lose name of single one, 
-That by this separation I may give 
-That due to thee which thou deserv’st alone. 
-O absence, what a torment wouldst thou prove 
-Were it not thy sour leisure gave sweet leave 
-To entertain the time with thoughts of love, 
-Which time and thoughts so sweetly doth deceive,
+O, how thy worth with manners may I sing  
+When thou art all the better part of me?  
+What can mine own praise to mine own self bring,  
+And what is’t but mine own when I praise thee?  
+Even for this let us divided live,  
+And our dear love lose name of single one,  
+That by this separation I may give  
+That due to thee which thou deserv’st alone.  
+O absence, what a torment wouldst thou prove  
+Were it not thy sour leisure gave sweet leave  
+To entertain the time with thoughts of love,  
+Which time and thoughts so sweetly doth deceive,  
 
-And that thou teachest how to make one twain
+And that thou teachest how to make one twain  
 
-By praising him here who doth hence remain!
+By praising him here who doth hence remain!  

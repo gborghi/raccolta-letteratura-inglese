@@ -20,8 +20,6 @@ tags:
   - form/lyric
 ---
 
-# The Happiest Day
-
 *by Poe*  ·  **Cluster:** [[Vanitas · Contemptus Mundi · Vanity of Worldly Things]]
 
 > [!abstract] 
@@ -36,33 +34,33 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-     The happiest day—the happiest hour
-     My seared and blighted heart hath known,
-     The highest hope of pride and power,
-     I feel hath flown.
-     Of power! said I? Yes! such I ween
-     But they have vanished long, alas!
-     The visions of my youth have been
-     But let them pass.
-     III
-     And pride, what have I now with thee?
-     Another brow may ev’n inherit
-     The venom thou hast poured on me
-     Be still my spirit!
-     IV
-     The happiest day—the happiest hour
-     Mine eyes shall see—have ever seen
-     The brightest glance of pride and power
-     I feet have been:
-     V
-     But were that hope of pride and power
-     Now offered with the pain
-     Ev’n _then_ I felt—that brightest hour
-     I would not live again:
-             VI
-     For on its wing was dark alloy
-     And as it fluttered—fell
-     An essence—powerful to destroy
-     A soul that knew it well.
-     1827.
+I  
+     The happiest day—the happiest hour  
+     My seared and blighted heart hath known,  
+     The highest hope of pride and power,  
+     I feel hath flown.  
+     Of power! said I? Yes! such I ween  
+     But they have vanished long, alas!  
+     The visions of my youth have been  
+     But let them pass.  
+     III  
+     And pride, what have I now with thee?  
+     Another brow may ev’n inherit  
+     The venom thou hast poured on me  
+     Be still my spirit!  
+     IV  
+     The happiest day—the happiest hour  
+     Mine eyes shall see—have ever seen  
+     The brightest glance of pride and power  
+     I feet have been:  
+     V  
+     But were that hope of pride and power  
+     Now offered with the pain  
+     Ev’n _then_ I felt—that brightest hour  
+     I would not live again:  
+             VI  
+     For on its wing was dark alloy  
+     And as it fluttered—fell  
+     An essence—powerful to destroy  
+     A soul that knew it well.  
+     1827.  

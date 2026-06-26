@@ -17,8 +17,6 @@ tags:
   - form/essay
 ---
 
-# The Domain of Arnheim
-
 *by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 

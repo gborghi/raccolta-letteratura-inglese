@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Fictional Autobiography
-
 *Form/Genre* — appears in **9** work(s).
 
 ## Works

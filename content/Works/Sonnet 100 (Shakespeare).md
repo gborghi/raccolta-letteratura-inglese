@@ -18,8 +18,6 @@ tags:
   - concept/immortality_of_art
 ---
 
-# Sonnet 100
-
 *by Shakespeare*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
@@ -34,17 +32,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Where art thou, muse, that thou forget‘st so long 
-To speak of that which gives thee all thy might? 
-Spend’st thou thy fury on some worthless song, 
-Dark‘ning thy power to lend base subjects light? 
-Return, forgetful muse, and straight redeem 
-In gentle numbers time so idly spent; 
-Sing to the ear that doth thy lays esteem 
-And gives thy pen both skill and argument. 
-Rise, resty muse, my love’s sweet face survey 
-If time have any wrinkle graven there. 
-If any, be a satire to decay 
-And make time’s spoils despised everywhere. 
-Give my love fame faster than time wastes life; 
-So, thou prevene’st his scythe and crooked knife.
+Where art thou, muse, that thou forget‘st so long  
+To speak of that which gives thee all thy might?  
+Spend’st thou thy fury on some worthless song,  
+Dark‘ning thy power to lend base subjects light?  
+Return, forgetful muse, and straight redeem  
+In gentle numbers time so idly spent;  
+Sing to the ear that doth thy lays esteem  
+And gives thy pen both skill and argument.  
+Rise, resty muse, my love’s sweet face survey  
+If time have any wrinkle graven there.  
+If any, be a satire to decay  
+And make time’s spoils despised everywhere.  
+Give my love fame faster than time wastes life;  
+So, thou prevene’st his scythe and crooked knife.  

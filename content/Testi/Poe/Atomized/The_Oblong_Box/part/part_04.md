@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Oblong Box (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Oblong Box</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Oblong_Box/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Oblong_Box/part/part_05">part 05 ›</a></div>

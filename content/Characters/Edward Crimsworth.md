@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Edward Crimsworth
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -16,8 +16,6 @@ tags:
   - motif/animals
 ---
 
-# PERSPIRATION. A TRAVELLING ECLOGUE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-The dust flies smothering, as on clatt’ring wheel
-Loath’d Aristocracy careers along;
-The distant track quick vibrates to the eye,
-And white and dazzling undulates with heat,
-Where scorching to the unwary traveller’s touch,   5
-The stone fence flings its narrow slip of shade;
-Or, where the worn sides of the chalky road
-Yield their scant excavations (sultry grots!),
-Emblem of languid patience, we behold
-The fleecy files faint-ruminating lie.   10
-1794.
+The dust flies smothering, as on clatt’ring wheel  
+Loath’d Aristocracy careers along;  
+The distant track quick vibrates to the eye,  
+And white and dazzling undulates with heat,  
+Where scorching to the unwary traveller’s touch,   5  
+The stone fence flings its narrow slip of shade;  
+Or, where the worn sides of the chalky road  
+Yield their scant excavations (sultry grots!),  
+Emblem of languid patience, we behold  
+The fleecy files faint-ruminating lie.   10  
+1794.  

@@ -41,8 +41,6 @@ tags:
   - character/sempronius
 ---
 
-# TIMON OF ATHENS
-
 *by Shakespeare*  ·  **Cluster:** [[Misanthropy]]
 
 > [!abstract] 

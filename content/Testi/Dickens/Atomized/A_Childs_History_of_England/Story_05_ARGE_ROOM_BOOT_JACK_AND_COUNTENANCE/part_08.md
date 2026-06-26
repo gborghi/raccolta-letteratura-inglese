@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England — ARGE ROOM, BOOT-JACK AND COUNTENANCE. (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_05_ARGE_ROOM_BOOT_JACK_AND_COUNTENANCE/part_07">‹ part 07</a><span></span></div>

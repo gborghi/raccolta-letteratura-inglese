@@ -17,8 +17,6 @@ tags:
   - setting/pastoral_countryside
 ---
 
-# Give Me the Splendid Silent Sun
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

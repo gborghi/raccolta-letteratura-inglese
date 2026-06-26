@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Emma — Chapter 13
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_31">‹ Chapter 31</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_33">Chapter 33 ›</a></div>

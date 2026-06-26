@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Absence of Mr Glass (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_12_The_Fairy_Tale_of_Father_Brown">‹ Story 12 The Fairy Tale of Father Brown</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_01_The_Absence_of_Mr_Glass/part_02">part 02 ›</a></div>

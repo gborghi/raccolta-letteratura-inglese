@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Comic Verse / Song
-
 *Form/Genre* — appears in **85** work(s).
 
 ## Works

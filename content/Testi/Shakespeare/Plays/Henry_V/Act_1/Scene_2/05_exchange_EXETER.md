@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act I, Scene 2 — exchange (EXETER) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 </nav>

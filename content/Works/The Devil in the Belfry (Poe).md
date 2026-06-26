@@ -16,8 +16,6 @@ tags:
   - form/satire
 ---
 
-# The Devil in the Belfry
-
 *by Poe*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

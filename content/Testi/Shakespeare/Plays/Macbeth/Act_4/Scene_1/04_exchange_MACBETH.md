@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Macbeth — Act IV, Scene 1 — exchange (MACBETH) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 </nav>

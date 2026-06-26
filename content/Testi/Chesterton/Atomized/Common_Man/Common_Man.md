@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# thursday — Chapter 14 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/thursday-(Chesterton)">thursday</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/thursday/Chapter_14/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/thursday/Chapter_15/part_01">part 01 ›</a></div>

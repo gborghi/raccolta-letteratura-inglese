@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER VII—HACKNEY-COACH STANDS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_15_HAPTER_VIMEDITATIONS_IN_MONMOUTH_STREET">‹ Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_17_HAPTER_VIIIDOCTORS_COMMONS">Story 17 HAPTER VIIIDOCTORS COMMONS ›</a></div>

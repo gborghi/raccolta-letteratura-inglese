@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — The Narrowness Of Novelty
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_34_His_Sigh_Is_A_Hullaballoo">‹ Story 34 His Sigh Is A Hullaballoo</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_36_The_Merits_Of_Shakespeare_S_Plots">Story 36 The Merits Of Shakespeare S Plots ›</a></div>

@@ -46,8 +46,6 @@ tags:
   - character/duchess_of_berwick
 ---
 
-# Lady Windermere's Fan
-
 *by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

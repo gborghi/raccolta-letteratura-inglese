@@ -16,8 +16,6 @@ tags:
   - concept/poverty
 ---
 
-# THE OUTCAST
-
 *by Coleridge*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Pale Roamer through the night! thou poor Forlorn!
-Remorse that man on his death-bed possess,
-Who in the credulous hour of tenderness
-Betrayed, then cast thee forth to Want and Scorn!
-The world is pitiless: the chaste one’s pride   5
-Mimic of Virtue scowls on thy distress:
-Thy Loves and they that envied thee deride:
-And Vice alone will shelter Wretchedness!
-O! I could weep to think that there should be
-Cold-bosom’d lewd ones, who endure to place   10
-Foul offerings on the shrine of Misery,
-And force from Famine the caress of Love;
-May He shed healing on the sore disgrace,
-He, the great Comforter that rules above!
-? 1794.
+Pale Roamer through the night! thou poor Forlorn!  
+Remorse that man on his death-bed possess,  
+Who in the credulous hour of tenderness  
+Betrayed, then cast thee forth to Want and Scorn!  
+The world is pitiless: the chaste one’s pride   5  
+Mimic of Virtue scowls on thy distress:  
+Thy Loves and they that envied thee deride:  
+And Vice alone will shelter Wretchedness!  
+O! I could weep to think that there should be  
+Cold-bosom’d lewd ones, who endure to place   10  
+Foul offerings on the shrine of Misery,  
+And force from Famine the caress of Love;  
+May He shed healing on the sore disgrace,  
+He, the great Comforter that rules above!  
+? 1794.  

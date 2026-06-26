@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Natural Order
-
 *Theme/Concept* — appears in **95** work(s).
 
 ## Works

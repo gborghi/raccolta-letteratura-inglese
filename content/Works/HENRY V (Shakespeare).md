@@ -36,8 +36,6 @@ tags:
   - character/chorus
 ---
 
-# HENRY V
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

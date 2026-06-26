@@ -18,8 +18,6 @@ tags:
   - motif/storm
 ---
 
-# For a War Memorial
-
 *by Chesterton*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
@@ -35,32 +33,32 @@ tags:
 
 ## Testo integrale / Full text
 
-For a War Memorial
+For a War Memorial  
 
-[Suggested inscription probably not selected by the Committee.]
+[Suggested inscription probably not selected by the Committee.]  
 
-      The hucksters haggle in the mart
-      The cars and carts go by;
-      Senates and schools go droning on;
-      For dead things cannot die.
+      The hucksters haggle in the mart  
+      The cars and carts go by;  
+      Senates and schools go droning on;  
+      For dead things cannot die.  
 
-      A storm stooped on the place of tombs
-      With bolts to blast and rive;
-      But these be names of many men
-      The lightning found alive.
+      A storm stooped on the place of tombs  
+      With bolts to blast and rive;  
+      But these be names of many men  
+      The lightning found alive.  
 
-      If usurers rule and rights decay
-      And visions view once more
-      Great Carthage like a golden shell
-      Gape hollow on the shore,
+      If usurers rule and rights decay  
+      And visions view once more  
+      Great Carthage like a golden shell  
+      Gape hollow on the shore,  
 
-      Still to the last of crumbling time
-      Upon this stone be read
-      How many men of England died
-      To prove they were not dead.
+      Still to the last of crumbling time  
+      Upon this stone be read  
+      How many men of England died  
+      To prove they were not dead.  
 
-          G.K. Chesterton 
+          G.K. Chesterton  
 
 
 
-===== FINE FILE: For_a_War_Memorial.txt =====
+===== FINE FILE: For_a_War_Memorial.txt =====  

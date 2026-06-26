@@ -15,8 +15,6 @@ tags:
   - concept/the_natural_order
 ---
 
-# Wandering at Morn
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

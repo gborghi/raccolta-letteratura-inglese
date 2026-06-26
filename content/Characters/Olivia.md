@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Olivia
-
 *Character* — appears in **1** work(s).
 
 ## Works

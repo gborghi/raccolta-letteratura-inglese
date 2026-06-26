@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Spice Of Life — Part 4: AT HOME AND ABROAD (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_05_AT_HOME_AND_ABROAD/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_06_THE_SPICE_OF_LIFE/part_01">part 01 ›</a></div>

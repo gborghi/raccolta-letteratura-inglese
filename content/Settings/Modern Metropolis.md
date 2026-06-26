@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Modern Metropolis
-
 *Setting* — appears in **10** work(s).
 
 ## Works

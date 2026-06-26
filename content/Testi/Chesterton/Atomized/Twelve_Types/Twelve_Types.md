@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 </nav>

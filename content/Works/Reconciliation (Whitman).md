@@ -16,8 +16,6 @@ tags:
   - concept/love_divine
 ---
 
-# Reconciliation
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

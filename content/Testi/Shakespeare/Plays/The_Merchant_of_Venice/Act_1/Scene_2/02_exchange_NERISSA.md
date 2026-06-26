@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merchant of Venice — Act I, Scene 2 — exchange (NERISSA) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
 </nav>

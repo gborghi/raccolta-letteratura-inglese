@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 2 Henry IV — Act V, Scene 2 — exchange (PISTOL) [7]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
 </nav>

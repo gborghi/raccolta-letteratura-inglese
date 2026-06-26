@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 46: INTELLIGENCE (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_46_INTELLIGENCE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_47_MARTHA/part_01">part 01 ›</a></div>

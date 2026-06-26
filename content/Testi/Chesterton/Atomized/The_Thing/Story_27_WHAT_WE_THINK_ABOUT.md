@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — WHAT WE THINK ABOUT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_26_INGE_VERSUS_BARNES">‹ Story 26 INGE VERSUS BARNES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_28_THE_OPTIMIST_AS_A_SUICIDE">Story 28 THE OPTIMIST AS A SUICIDE ›</a></div>

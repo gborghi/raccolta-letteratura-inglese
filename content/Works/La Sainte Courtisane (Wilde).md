@@ -38,8 +38,6 @@ tags:
   - character/honorius
 ---
 
-# La Sainte Courtisane
-
 *by Wilde*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 

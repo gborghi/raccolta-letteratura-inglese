@@ -14,8 +14,6 @@ tags:
   - concept/nationalism_and_patriotism
 ---
 
-# Laws for Creations
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

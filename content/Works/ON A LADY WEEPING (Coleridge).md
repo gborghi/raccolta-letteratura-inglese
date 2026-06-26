@@ -15,8 +15,6 @@ tags:
   - motif/spring
 ---
 
-# ON A LADY WEEPING
-
 *by Coleridge*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 
@@ -30,19 +28,19 @@ tags:
 
 ## Testo integrale / Full text
 
-IMITATION FROM THE LATIN OF NICOLAUS ARCHIUS
-Lovely gems of radiance meek
-Trembling down my Laura’s cheek,
-As the streamlets silent glide
-Thro’ the Mead’s enamell’d pride,
-Pledges sweet of pious woe,    5
-Tears which Friendship taught to flow,
-Sparkling in yon humid light
-Love embathes his pinions bright:
-There amid the glitt’ring show’r
-Smiling sits th’ insidious Power;   10
-As some wingéd Warbler oft
-When Spring-clouds shed their treasures soft
-Joyous tricks his plumes anew,
-And flutters in the fost’ring dew.
-? 1790.
+IMITATION FROM THE LATIN OF NICOLAUS ARCHIUS  
+Lovely gems of radiance meek  
+Trembling down my Laura’s cheek,  
+As the streamlets silent glide  
+Thro’ the Mead’s enamell’d pride,  
+Pledges sweet of pious woe,    5  
+Tears which Friendship taught to flow,  
+Sparkling in yon humid light  
+Love embathes his pinions bright:  
+There amid the glitt’ring show’r  
+Smiling sits th’ insidious Power;   10  
+As some wingéd Warbler oft  
+When Spring-clouds shed their treasures soft  
+Joyous tricks his plumes anew,  
+And flutters in the fost’ring dew.  
+? 1790.  

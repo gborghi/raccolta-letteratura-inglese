@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Red Jacket (From Aloft)
-
 *by Whitman*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
@@ -34,15 +32,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Upon this scene, this show,
-  Yielded to-day by fashion, learning, wealth,
-  (Nor in caprice alone--some grains of deepest meaning,)
-  Haply, aloft, (who knows?) from distant sky-clouds’ blended shapes,
-  As some old tree, or rock or cliff, thrill’d with its soul,
-  Product of Nature’s sun, stars, earth direct--a towering human form,
-  In hunting-shirt of film, arm’d with the rifle, a half-ironical
-      smile curving its phantom lips,
-  Like one of Ossian’s ghosts looks down.
+  Upon this scene, this show,  
+  Yielded to-day by fashion, learning, wealth,  
+  (Nor in caprice alone--some grains of deepest meaning,)  
+  Haply, aloft, (who knows?) from distant sky-clouds’ blended shapes,  
+  As some old tree, or rock or cliff, thrill’d with its soul,  
+  Product of Nature’s sun, stars, earth direct--a towering human form,  
+  In hunting-shirt of film, arm’d with the rifle, a half-ironical  
+      smile curving its phantom lips,  
+  Like one of Ossian’s ghosts looks down.  

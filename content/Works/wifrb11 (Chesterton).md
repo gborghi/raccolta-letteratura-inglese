@@ -28,8 +28,6 @@ tags:
   - character/flambeau
 ---
 
-# wifrb11
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

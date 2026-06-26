@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Tremendous Trifles
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Tremendous-Trifles-(Chesterton)">Tremendous Trifles</a></div>
 </nav>

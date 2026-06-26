@@ -14,8 +14,6 @@ tags:
   - motif/the_sea
 ---
 
-# Behold This Swarthy Face
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

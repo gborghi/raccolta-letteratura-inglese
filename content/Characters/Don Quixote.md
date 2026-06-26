@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Don Quixote
-
 *Character* — appears in **4** work(s).
 
 ## Works

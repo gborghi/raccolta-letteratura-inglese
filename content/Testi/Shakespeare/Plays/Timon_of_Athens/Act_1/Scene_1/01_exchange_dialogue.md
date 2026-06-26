@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Timon of Athens — Act I, Scene 1 — exchange (dialogue) [1]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
 </nav>

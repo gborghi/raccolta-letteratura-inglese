@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Higher Nihilism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_24_The_Case_Of_Claudel">‹ Story 24 The Case Of Claudel</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_26_The_Ascetic_At_Large">Story 26 The Ascetic At Large ›</a></div>

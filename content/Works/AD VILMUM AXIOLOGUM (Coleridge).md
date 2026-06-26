@@ -15,8 +15,6 @@ tags:
   - archetype/prophet
 ---
 
-# AD VILMUM AXIOLOGUM
-
 *by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 

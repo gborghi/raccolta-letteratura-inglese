@@ -14,8 +14,6 @@ tags:
   - motif/love
 ---
 
-# IMITATED FROM THE WELSH
-
 *by Coleridge*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-If while my passion I impart,
-You deem my words untrue,
-O place your hand upon my heart —
-Feel how it throbs for you!
-Ah no! reject the thoughtless claim   5
-In pity to your Lover!
-That thrilling touch would aid the flame
-It wishes to discover.
-? 1794.
+If while my passion I impart,  
+You deem my words untrue,  
+O place your hand upon my heart —  
+Feel how it throbs for you!  
+Ah no! reject the thoughtless claim   5  
+In pity to your Lover!  
+That thrilling touch would aid the flame  
+It wishes to discover.  
+? 1794.  

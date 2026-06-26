@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Clarence
-
 *Character* — appears in **2** work(s).
 
 ## Works

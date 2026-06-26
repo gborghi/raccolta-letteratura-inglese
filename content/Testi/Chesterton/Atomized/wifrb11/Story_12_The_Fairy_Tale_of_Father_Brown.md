@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Fairy Tale of Father Brown
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_11_The_Strange_Crime_of_John_Boulnois">‹ Story 11 The Strange Crime of John Boulnois</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_01_The_Absence_of_Mr_Glass/part_01">part 01 ›</a></div>

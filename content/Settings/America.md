@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# America
-
 *Setting* — appears in **19** work(s).
 
 ## Works

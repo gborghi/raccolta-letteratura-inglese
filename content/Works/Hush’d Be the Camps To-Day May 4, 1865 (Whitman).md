@@ -31,21 +31,21 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: MEMORIES OF PRESIDENT LINCOLN_
+_Cluster: MEMORIES OF PRESIDENT LINCOLN_  
 
 
-  Hush’d be the camps to-day,
-  And soldiers let us drape our war-worn weapons,
-  And each with musing soul retire to celebrate,
-  Our dear commander’s death.
+  Hush’d be the camps to-day,  
+  And soldiers let us drape our war-worn weapons,  
+  And each with musing soul retire to celebrate,  
+  Our dear commander’s death.  
 
-  No more for him life’s stormy conflicts,
-  Nor victory, nor defeat--no more time’s dark events,
-  Charging like ceaseless clouds across the sky.
-  But sing poet in our name,
+  No more for him life’s stormy conflicts,  
+  Nor victory, nor defeat--no more time’s dark events,  
+  Charging like ceaseless clouds across the sky.  
+  But sing poet in our name,  
 
-  Sing of the love we bore him--because you, dweller in camps, know it truly.
+  Sing of the love we bore him--because you, dweller in camps, know it truly.  
 
-  As they invault the coffin there,
-  Sing--as they close the doors of earth upon him--one verse,
-  For the heavy hearts of soldiers.
+  As they invault the coffin there,  
+  Sing--as they close the doors of earth upon him--one verse,  
+  For the heavy hearts of soldiers.  

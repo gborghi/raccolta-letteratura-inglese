@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Heroism · Hero · Last Stand
-
 *Cluster* — **28 works**.
 
 ## Defining concepts

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Novel
-
 *Form/Genre* — appears in **40** work(s).
 
 ## Works

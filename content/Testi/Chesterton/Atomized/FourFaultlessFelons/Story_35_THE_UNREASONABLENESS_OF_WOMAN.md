@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE UNREASONABLENESS OF WOMAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_34_THE_PRINCESS_INTERVENES">‹ Story 34 THE PRINCESS INTERVENES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_36_THE_TERMS_OF_A_TRAITOR">Story 36 THE TERMS OF A TRAITOR ›</a></div>

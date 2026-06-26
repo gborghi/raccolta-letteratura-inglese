@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 17: SOMEBODY TURNS UP
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_16_I_AM_A_NEW_BOY_IN_MORE_SENSES">‹ Chapter 16 I AM A NEW BOY IN MORE SENSES</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT">Chapter 18 A RETROSPECT ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Arrow of Heaven
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_01_The_Resurrection_of_Father_Brown">‹ Story 01 The Resurrection of Father Brown</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_03_The_Oracle_of_the_Dog">Story 03 The Oracle of the Dog ›</a></div>

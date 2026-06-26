@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# AS YOU LIKE IT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/AS-YOU-LIKE-IT-(Shakespeare)">As You Like It</a></div>
 </nav>

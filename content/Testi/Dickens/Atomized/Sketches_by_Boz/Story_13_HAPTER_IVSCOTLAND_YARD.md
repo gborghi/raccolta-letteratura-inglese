@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER IV—SCOTLAND-YARD
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_12_HAPTER_IIISHOPS_AND_THEIR_TENANTS">‹ Story 12 HAPTER IIISHOPS AND THEIR TENANTS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_14_HAPTER_VSEVEN_DIALS">Story 14 HAPTER VSEVEN DIALS ›</a></div>

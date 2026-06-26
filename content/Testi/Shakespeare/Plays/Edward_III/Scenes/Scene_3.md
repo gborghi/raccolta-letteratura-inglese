@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Edward III — Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/EDWARD-III-(Shakespeare)">Edward III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Edward_III/Scenes/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Edward_III/Scenes/Scene_4">Scene 4 ›</a></div>

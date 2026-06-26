@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Bleak House — Chapter 1 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_01/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_02/part_01">part 01 ›</a></div>

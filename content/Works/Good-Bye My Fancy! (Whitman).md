@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Good-Bye My Fancy!
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -33,29 +31,29 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Good-bye my Fancy!
-  Farewell dear mate, dear love!
-  I’m going away, I know not where,
-  Or to what fortune, or whether I may ever see you again,
-  So Good-bye my Fancy.
+  Good-bye my Fancy!  
+  Farewell dear mate, dear love!  
+  I’m going away, I know not where,  
+  Or to what fortune, or whether I may ever see you again,  
+  So Good-bye my Fancy.  
 
-  Now for my last--let me look back a moment;
-  The slower fainter ticking of the clock is in me,
-  Exit, nightfall, and soon the heart-thud stopping.
+  Now for my last--let me look back a moment;  
+  The slower fainter ticking of the clock is in me,  
+  Exit, nightfall, and soon the heart-thud stopping.  
 
-  Long have we lived, joy’d, caress’d together;
-  Delightful!--now separation--Good-bye my Fancy.
+  Long have we lived, joy’d, caress’d together;  
+  Delightful!--now separation--Good-bye my Fancy.  
 
-  Yet let me not be too hasty,
-  Long indeed have we lived, slept, filter’d, become really blended
-      into one;
-  Then if we die we die together, (yes, we’ll remain one,)
-  If we go anywhere we’ll go together to meet what happens,
-  May-be we’ll be better off and blither, and learn something,
-  May-be it is yourself now really ushering me to the true songs, (who
-      knows?)
-  May-be it is you the mortal knob really undoing, turning--so now finally,
-  Good-bye--and hail! my Fancy.
+  Yet let me not be too hasty,  
+  Long indeed have we lived, slept, filter’d, become really blended  
+      into one;  
+  Then if we die we die together, (yes, we’ll remain one,)  
+  If we go anywhere we’ll go together to meet what happens,  
+  May-be we’ll be better off and blither, and learn something,  
+  May-be it is yourself now really ushering me to the true songs, (who  
+      knows?)  
+  May-be it is you the mortal knob really undoing, turning--so now finally,  
+  Good-bye--and hail! my Fancy.  

@@ -14,8 +14,6 @@ tags:
   - histref/christianity
 ---
 
-# Also by T. S. Eliot
-
 *by Eliot*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

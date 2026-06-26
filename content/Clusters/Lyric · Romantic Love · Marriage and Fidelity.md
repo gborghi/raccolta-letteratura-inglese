@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Lyric · Romantic Love · Marriage and Fidelity
-
 *Cluster* — **148 works**.
 
 ## Defining concepts

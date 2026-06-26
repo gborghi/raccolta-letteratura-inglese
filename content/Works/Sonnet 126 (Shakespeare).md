@@ -17,8 +17,6 @@ tags:
   - motif/the_mirror
 ---
 
-# Sonnet 126
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-O thou my lovely boy, who in thy power 
-Dost hold time’s fickle glass, his sickle-hour; 
-Who hast by waning grown, and therein show‘st 
-Thy lovers withering as thy sweet self grow’st—
-If nature, sovereign mistress over wrack, 
-As thou goest onwards still will pluck thee back, 
-She keeps thee to this purpose: that her skill 
-May time disgrace, and wretched minutes kill. 
-Yet fear her, O thou minion of her pleasure! 
-She may detain but not still keep her treasure. 
-Her audit, though delayed, answered must be, 
-And her quietus is to render thee.
+O thou my lovely boy, who in thy power  
+Dost hold time’s fickle glass, his sickle-hour;  
+Who hast by waning grown, and therein show‘st  
+Thy lovers withering as thy sweet self grow’st—  
+If nature, sovereign mistress over wrack,  
+As thou goest onwards still will pluck thee back,  
+She keeps thee to this purpose: that her skill  
+May time disgrace, and wretched minutes kill.  
+Yet fear her, O thou minion of her pleasure!  
+She may detain but not still keep her treasure.  
+Her audit, though delayed, answered must be,  
+And her quietus is to render thee.  

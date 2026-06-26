@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# divorce
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/divorce-(Chesterton)">divorce</a></div>
 </nav>

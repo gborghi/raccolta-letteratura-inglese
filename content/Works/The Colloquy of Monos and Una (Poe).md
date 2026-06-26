@@ -17,8 +17,6 @@ tags:
   - concept/apocalypse
 ---
 
-# The Colloquy of Monos and Una
-
 *by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

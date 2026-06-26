@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 38: HOW MR. WINKLE, WHEN HE STEPPED OUT OF THE FRYING-PAN,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_39_HONOURABLY_ACCOUNTS_FOR_MR_WEL">‹ Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_41_MR_SAMUEL_WELLER_BEING_INTRUST">Chapter 41 MR SAMUEL WELLER BEING INTRUST ›</a></div>

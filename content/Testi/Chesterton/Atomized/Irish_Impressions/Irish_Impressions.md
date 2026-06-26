@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 </nav>

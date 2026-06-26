@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# longbow2 — Chapter 2 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/longbow2-(Chesterton)">longbow2</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/longbow2/Chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/longbow2/Chapter_02/part_04">part 04 ›</a></div>

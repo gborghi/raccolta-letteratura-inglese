@@ -27,8 +27,6 @@ tags:
   - topos/world_upside_down
 ---
 
-# whats wrong
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

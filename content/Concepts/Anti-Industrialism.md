@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Anti-Industrialism
-
 *Theme/Concept* — appears in **35** work(s).
 
 ## Works

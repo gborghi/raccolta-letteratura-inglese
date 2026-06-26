@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Transience · Decay · Carpe Diem
-
 *Cluster* — **41 works**.
 
 ## Defining concepts

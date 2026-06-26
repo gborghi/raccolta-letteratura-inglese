@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act IV, Scene 7 — exchange (LAERTES A) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

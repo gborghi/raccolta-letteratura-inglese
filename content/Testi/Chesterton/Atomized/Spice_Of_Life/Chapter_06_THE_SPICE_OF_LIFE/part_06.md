@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Spice Of Life — Part 5: THE SPICE OF LIFE (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_06_THE_SPICE_OF_LIFE/part_05">‹ part 05</a><span></span></div>

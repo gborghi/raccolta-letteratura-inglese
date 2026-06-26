@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Hop-Frog
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Hop-Frog-(Poe)">Hop Frog</a></div>
 </nav>

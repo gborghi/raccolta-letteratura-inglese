@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Edgar
-
 *Character* — appears in **2** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Vulgarity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_28_The_New_Case_For_Catholic_Schools">‹ Story 28 The New Case For Catholic Schools</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why">Story 30 The Revival Of Philosophy Why ›</a></div>

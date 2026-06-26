@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — R. PETER PRICE, the private inquiry agent, did not glow with that (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_27_R_PETER_PRICE_the_private_inquiry_agent/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_27_R_PETER_PRICE_the_private_inquiry_agent/part_03">part 03 ›</a></div>

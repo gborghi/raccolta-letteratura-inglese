@@ -21,8 +21,6 @@ tags:
   - form/parody
 ---
 
-# Loss of Breath
-
 *by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 

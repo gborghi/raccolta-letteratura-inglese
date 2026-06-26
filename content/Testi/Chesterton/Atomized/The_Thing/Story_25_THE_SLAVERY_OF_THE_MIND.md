@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE SLAVERY OF THE MIND
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS">‹ Story 24 SOME OF OUR ERRORS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_26_INGE_VERSUS_BARNES">Story 26 INGE VERSUS BARNES ›</a></div>

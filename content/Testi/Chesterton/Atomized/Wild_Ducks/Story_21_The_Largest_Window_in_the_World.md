@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Largest Window in the World
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_20_The_Need_of_Personalities_in_Politics">‹ Story 20 The Need of Personalities in Politics</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_22_The_Apostle_and_the_Wild_Ducks">Story 22 The Apostle and the Wild Ducks ›</a></div>

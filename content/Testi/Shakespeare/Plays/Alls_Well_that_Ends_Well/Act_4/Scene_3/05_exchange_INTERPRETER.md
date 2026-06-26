@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Alls Well that Ends Well — Act IV, Scene 3 — exchange (INTERPRETER) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)">Alls Well that Ends Well</a></div>
 </nav>

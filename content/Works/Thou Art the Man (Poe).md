@@ -19,8 +19,6 @@ tags:
   - form/short_story
 ---
 
-# Thou Art the Man
-
 *by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

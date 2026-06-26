@@ -19,8 +19,6 @@ tags:
   - form/biography
 ---
 
-# VariedTypes
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

@@ -13,8 +13,6 @@ tags:
   - motif/the_sea
 ---
 
-# M, N, O
-
 *by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -27,18 +25,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Macavity’s a Mystery Cat: he’s called the Hidden Paw 1
-Malheur à la malheureuse Tamise  1
-Midwinter spring is its own season 1
-Miss Helen Slingsby was my maiden aunt 1
-Miss Nancy Ellicott 1
-Mungojerrie and Rumpelteazer were a very notorious couple of cats 1
+Macavity’s a Mystery Cat: he’s called the Hidden Paw 1  
+Malheur à la malheureuse Tamise  1  
+Midwinter spring is its own season 1  
+Miss Helen Slingsby was my maiden aunt 1  
+Miss Nancy Ellicott 1  
+Mungojerrie and Rumpelteazer were a very notorious couple of cats 1  
 
-Not the expression of collective emotion 1
+Not the expression of collective emotion 1  
 
-Old Deuteronomy’s lived a long time 1
-One of my marionettes is dead 1
+Old Deuteronomy’s lived a long time 1  
+One of my marionettes is dead 1  
 
-Paint me a cavernous waste shore 1
-Pipit sate upright in her chair 1
-Polyphiloprogenitive 1
+Paint me a cavernous waste shore 1  
+Pipit sate upright in her chair 1  
+Polyphiloprogenitive 1  

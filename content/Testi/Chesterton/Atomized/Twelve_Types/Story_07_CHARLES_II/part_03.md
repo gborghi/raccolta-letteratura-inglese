@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — CHARLES II (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_07_CHARLES_II/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE/part_01">part 01 ›</a></div>

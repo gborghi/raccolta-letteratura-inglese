@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Carpe Diem
-
 *Topos* — appears in **34** work(s).
 
 ## Works

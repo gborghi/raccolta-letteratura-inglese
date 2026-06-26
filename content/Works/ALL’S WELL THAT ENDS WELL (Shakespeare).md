@@ -31,8 +31,6 @@ tags:
   - character/diana
 ---
 
-# ALL’S WELL THAT ENDS WELL
-
 *by Shakespeare*  ·  **Cluster:** [[Problem Play]]
 
 > [!abstract] 

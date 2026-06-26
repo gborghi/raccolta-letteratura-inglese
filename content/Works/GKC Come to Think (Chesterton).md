@@ -18,8 +18,6 @@ tags:
   - concept/rationcination_detection
 ---
 
-# GKC Come to Think
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

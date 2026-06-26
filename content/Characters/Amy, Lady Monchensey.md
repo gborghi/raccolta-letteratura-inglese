@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Amy, Lady Monchensey
-
 *Character* — appears in **1** work(s).
 
 ## Works

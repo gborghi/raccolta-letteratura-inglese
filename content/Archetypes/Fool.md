@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Fool
-
 *Archetype* — appears in **50** work(s).
 
 ## Works

@@ -33,8 +33,6 @@ tags:
   - character/hubert
 ---
 
-# KING JOHN
-
 *by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

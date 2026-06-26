@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Julius Caesar — Act I, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Julius_Caesar/Act_1/Scene_3">Scene 3 ›</a></div>

@@ -18,8 +18,6 @@ tags:
   - motif/storm
 ---
 
-# femina
-
 *by Chesterton*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -33,38 +31,38 @@ tags:
 
 ## Testo integrale / Full text
 
-Femina Contra Mundum
-====================
+Femina Contra Mundum  
+====================  
 
-G K Chesterton
+G K Chesterton  
 
-The sun was black with judgment, and the moon
-	    Blood: but between
-I saw a man stand, saying: 'To me at least
-	    The grass is green.
+The sun was black with judgment, and the moon  
+	    Blood: but between  
+I saw a man stand, saying: 'To me at least  
+	    The grass is green.  
 
-'There was no star that I forgot to fear
-	    With love and wonder.
-The birds have loved me'; but no answer came --
-	    Only the thunder.
+'There was no star that I forgot to fear  
+	    With love and wonder.  
+The birds have loved me'; but no answer came --  
+	    Only the thunder.  
 
-   .     .     .     .     .     .     .     .
+   .     .     .     .     .     .     .     .  
 
-Once more the man stood, saying: 'A cottage door,
-	    Wherethrough I gazed
-That instant as I turned -- yea, I am vile;
-	    Yet my eyes blazed.
+Once more the man stood, saying: 'A cottage door,  
+	    Wherethrough I gazed  
+That instant as I turned -- yea, I am vile;  
+	    Yet my eyes blazed.  
 
-'For I had weighed the mountains in a balance,
-	    And the skies in a scale,
-I come to sell the stars -- old lamps for new --
-	    Old stars for sale.'
+'For I had weighed the mountains in a balance,  
+	    And the skies in a scale,  
+I come to sell the stars -- old lamps for new --  
+	    Old stars for sale.'  
 
-Then a calm voice fell all the thunder through,
-	    A tone less rough:
-'Thou hast begun to love one of my works
-	    Almost enough.'
+Then a calm voice fell all the thunder through,  
+	    A tone less rough:  
+'Thou hast begun to love one of my works  
+	    Almost enough.'  
 
 
 
-===== FINE FILE: femina.txt =====
+===== FINE FILE: femina.txt =====  

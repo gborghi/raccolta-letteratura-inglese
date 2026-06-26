@@ -16,8 +16,6 @@ tags:
   - form/sonnet
 ---
 
-# To the Ladies who Saw Me Crown’d
-
 *by Keats*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-What is there in the universal Earth
-More lovely than a Wreath from the bay tree?
-Haply a Halo round the Moon - a glee
-Circling from three sweet pair of lips in mirth;
-And haply you will say the dewy birth
-Of morning roses - riplings tenderly
-Spread by the Halcyon’s breast upon the sea -
-But these comparisons are nothing worth -
-Then is there nothing in the world so fair?
-The silvery tears of April? - Youth of May?  10
-Or June that breaths out life for butterflies?
-No - none of these can from my favourite bear
-Away the Palm - yet shall it ever pay
-Due reverence to your most sovereign eyes.
+What is there in the universal Earth  
+More lovely than a Wreath from the bay tree?  
+Haply a Halo round the Moon - a glee  
+Circling from three sweet pair of lips in mirth;  
+And haply you will say the dewy birth  
+Of morning roses - riplings tenderly  
+Spread by the Halcyon’s breast upon the sea -  
+But these comparisons are nothing worth -  
+Then is there nothing in the world so fair?  
+The silvery tears of April? - Youth of May?  10  
+Or June that breaths out life for butterflies?  
+No - none of these can from my favourite bear  
+Away the Palm - yet shall it ever pay  
+Due reverence to your most sovereign eyes.  

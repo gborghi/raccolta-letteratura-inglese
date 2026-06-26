@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF USEFUL INFORMATION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_09_A_DEFENCE_OF_CHINA_SHEPHERDESSES">‹ Story 09 A DEFENCE OF CHINA SHEPHERDESSES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_11_A_DEFENCE_OF_HERALDRY">Story 11 A DEFENCE OF HERALDRY ›</a></div>

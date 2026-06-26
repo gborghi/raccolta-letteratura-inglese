@@ -15,8 +15,6 @@ tags:
   - motif/food_feasting
 ---
 
-# Folly’s Song
-
 *by Keats*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -31,25 +29,25 @@ tags:
 
 ## Testo integrale / Full text
 
-When wedding fiddles are a-playing,
-Huzza for folly O!
+When wedding fiddles are a-playing,  
+Huzza for folly O!  
 
-And when maidens go a-maying,
-Huzza for folly O!
-When a milk-pail is upset,
-Huzza for folly O!
-And the clothes left in the wet,
-Huzza for folly O!
-When the barrel’s set abroach,
-Huzza for folly O!
-When Kate Eyebrow keeps a coach,
-Huzza for folly O!
-When the pig is over-roasted,
-Huzza for folly O!
-And the cheese is over-toasted,
-Huzza for folly O!
-When Sir Snap is with his lawyer,
-Huzza for folly O!
-And Miss Chip has kiss’d the sawyer,
-Huzza for folly O!
-...
+And when maidens go a-maying,  
+Huzza for folly O!  
+When a milk-pail is upset,  
+Huzza for folly O!  
+And the clothes left in the wet,  
+Huzza for folly O!  
+When the barrel’s set abroach,  
+Huzza for folly O!  
+When Kate Eyebrow keeps a coach,  
+Huzza for folly O!  
+When the pig is over-roasted,  
+Huzza for folly O!  
+And the cheese is over-toasted,  
+Huzza for folly O!  
+When Sir Snap is with his lawyer,  
+Huzza for folly O!  
+And Miss Chip has kiss’d the sawyer,  
+Huzza for folly O!  
+...  

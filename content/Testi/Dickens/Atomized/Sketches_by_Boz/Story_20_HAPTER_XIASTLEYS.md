@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XI—ASTLEY’S
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_19_HAPTER_XTHE_RIVER">‹ Story 19 HAPTER XTHE RIVER</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_21_HAPTER_XIIGREENWICH_FAIR">Story 21 HAPTER XIIGREENWICH FAIR ›</a></div>

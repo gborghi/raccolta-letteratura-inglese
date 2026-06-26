@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 31: WHICH IS ALL ABOUT THE LAW, AND SUNDRY GREAT AUTHORITIES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_32_HOW_THE_PICKWICKIANS_MADE_AND">‹ Chapter 32 HOW THE PICKWICKIANS MADE AND</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_34_DESCRIBES_FAR_MORE_FULLY_THAN">Chapter 34 DESCRIBES FAR MORE FULLY THAN ›</a></div>

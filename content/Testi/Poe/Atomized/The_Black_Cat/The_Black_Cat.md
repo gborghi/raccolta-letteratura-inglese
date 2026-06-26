@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Black Cat
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Black-Cat-(Poe)">The Black Cat</a></div>
 </nav>

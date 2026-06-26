@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Antony and Cleopatra — Act IV, Scene 14
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_4/Scene_12">‹ Scene 12</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_4/Scene_15">Scene 15 ›</a></div>

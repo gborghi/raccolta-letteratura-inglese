@@ -20,8 +20,6 @@ tags:
   - form/short_story
 ---
 
-# The Business Man
-
 *by Poe*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

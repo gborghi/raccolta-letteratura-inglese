@@ -16,8 +16,6 @@ tags:
   - histref/the_french_revolution
 ---
 
-# TALLEYRAND TO LORD GRENVILLE
-
 *by Coleridge*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

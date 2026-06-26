@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE PRINCESS INTERVENES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_33_T_has_already_been_explained_that_Pavoni">‹ Story 33 T has already been explained that Pavoni</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_35_THE_UNREASONABLENESS_OF_WOMAN">Story 35 THE UNREASONABLENESS OF WOMAN ›</a></div>

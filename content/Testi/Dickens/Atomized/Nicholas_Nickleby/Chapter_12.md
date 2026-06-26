@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Nicholas Nickleby — Chapter 12
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_11">‹ Chapter 11</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_13">Chapter 13 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility — Chapter 47
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_46">‹ Chapter 46</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_48">Chapter 48 ›</a></div>

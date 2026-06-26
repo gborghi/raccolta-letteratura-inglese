@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ApprAndCritOfChDickens — Chapter 1: PAGE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are">‹ Chapter 03 celebrated characters who are</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE/part_02">part 02 ›</a></div>

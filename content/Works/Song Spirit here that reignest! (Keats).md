@@ -15,8 +15,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# Song: Spirit here that reignest!
-
 *by Keats*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -31,29 +29,29 @@ tags:
 
 ## Testo integrale / Full text
 
-Written on a blank page in Beaumont and Fletcher’s Works, between
-‘Cupid’s Revenge’ and ‘The Two Noble Kinsmen’
+Written on a blank page in Beaumont and Fletcher’s Works, between  
+‘Cupid’s Revenge’ and ‘The Two Noble Kinsmen’  
 
-I
-Spirit here that reignest!
-Spirit here that painest!
-Spirit here that burnest!
-Spirit here that mournest!
-Spirit, I bow
-My forehead low,
-Enshaded with thy pinions.
-Spirit, I look
-All passion-struck
-Into thy pale dominions.
+I  
+Spirit here that reignest!  
+Spirit here that painest!  
+Spirit here that burnest!  
+Spirit here that mournest!  
+Spirit, I bow  
+My forehead low,  
+Enshaded with thy pinions.  
+Spirit, I look  
+All passion-struck  
+Into thy pale dominions.  
 
-II
-Spirit here that laughest!
-Spirit here that quaffest!
-Spirit here that dancest!
-Noble soul that prancest!
-Spirit, with thee
-I join in the glee
-A-nudging the elbow of Momus.
-Spirit, I flush
-With a Bacchanal blush
-Just fresh from the Banquet of Comus.
+II  
+Spirit here that laughest!  
+Spirit here that quaffest!  
+Spirit here that dancest!  
+Noble soul that prancest!  
+Spirit, with thee  
+I join in the glee  
+A-nudging the elbow of Momus.  
+Spirit, I flush  
+With a Bacchanal blush  
+Just fresh from the Banquet of Comus.  

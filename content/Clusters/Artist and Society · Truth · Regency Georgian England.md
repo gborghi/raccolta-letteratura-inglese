@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Artist and Society · Truth · Regency/Georgian England
-
 *Cluster* — **50 works**.
 
 ## Defining concepts

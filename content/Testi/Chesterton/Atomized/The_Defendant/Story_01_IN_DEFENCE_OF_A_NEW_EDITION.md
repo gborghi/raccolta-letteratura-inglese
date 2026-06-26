@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — IN DEFENCE OF A NEW EDITION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_02_INTRODUCTION">Story 02 INTRODUCTION ›</a></div>

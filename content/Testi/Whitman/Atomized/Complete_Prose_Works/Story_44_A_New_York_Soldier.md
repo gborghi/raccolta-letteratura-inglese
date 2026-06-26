@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A New York Soldier
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_43_A_Cavalry_Camp">‹ Story 43 A Cavalry Camp</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_45_Home_Made_Music">Story 45 Home Made Music ›</a></div>

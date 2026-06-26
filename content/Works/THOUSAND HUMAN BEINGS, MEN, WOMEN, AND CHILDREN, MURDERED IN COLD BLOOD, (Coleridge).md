@@ -16,8 +16,6 @@ tags:
   - archetype/prophet
 ---
 
-# THOUSAND HUMAN BEINGS, MEN, WOMEN, AND CHILDREN, MURDERED IN COLD BLOOD,
-
 *by Coleridge*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 

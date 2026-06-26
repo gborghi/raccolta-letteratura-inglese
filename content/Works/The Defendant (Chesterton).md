@@ -27,8 +27,6 @@ tags:
   - archetype/child
 ---
 
-# The Defendant
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

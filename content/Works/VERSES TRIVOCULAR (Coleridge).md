@@ -14,8 +14,6 @@ tags:
   - motif/clothing
 ---
 
-# VERSES TRIVOCULAR
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Of one scrap of science I’ve evidence ocular.
-A heart of one chamber they call unilocular,
-And in a sharp frost, or when snow-flakes fall floccular,
-Your wise man of old wrapp’d himself in a Roquelaure,
-Which was called a Wrap-rascal when folks would be jocular.
-And shell-fish, the small, Periwinkle and Cockle are,
-So with them will I finish these verses trivocular.
-Now first published from an MS.
+Of one scrap of science I’ve evidence ocular.  
+A heart of one chamber they call unilocular,  
+And in a sharp frost, or when snow-flakes fall floccular,  
+Your wise man of old wrapp’d himself in a Roquelaure,  
+Which was called a Wrap-rascal when folks would be jocular.  
+And shell-fish, the small, Periwinkle and Cockle are,  
+So with them will I finish these verses trivocular.  
+Now first published from an MS.  

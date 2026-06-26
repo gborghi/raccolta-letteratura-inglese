@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 14: Little Dorrit’s Party (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_17_Little_Dorrits_Party/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_18_Mrs_Flintwinch_has_another_Dre/part_01">part 01 ›</a></div>

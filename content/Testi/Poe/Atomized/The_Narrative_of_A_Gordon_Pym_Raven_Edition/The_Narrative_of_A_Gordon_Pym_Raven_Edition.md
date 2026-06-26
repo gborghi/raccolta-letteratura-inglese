@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of A. Gordon Pym (Raven Edition)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
 </nav>

@@ -21,8 +21,6 @@ tags:
   - histref/catholic_church
 ---
 
-# Common Man
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

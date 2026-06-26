@@ -15,8 +15,6 @@ tags:
   - form/epigram
 ---
 
-# WHAT IS LIFE?
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Resembles life what once was deem’d of light,
-Too ample in itself for human sight?
-An absolute self — an element ungrounded —
-All that we see, all colours of all shade
-By encroach of darkness made? — 5
-Is very life by consciousness unbounded?
-And all the thoughts, pains, joys of mortal breath,
-A war-embrace of wrestling life and death?
-1805.
+Resembles life what once was deem’d of light,  
+Too ample in itself for human sight?  
+An absolute self — an element ungrounded —  
+All that we see, all colours of all shade  
+By encroach of darkness made? — 5  
+Is very life by consciousness unbounded?  
+And all the thoughts, pains, joys of mortal breath,  
+A war-embrace of wrestling life and death?  
+1805.  

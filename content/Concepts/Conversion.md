@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Conversion
-
 *Theme/Concept* — appears in **31** work(s).
 
 ## Works

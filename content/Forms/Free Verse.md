@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Free Verse
-
 *Form/Genre* — appears in **157** work(s).
 
 ## Works

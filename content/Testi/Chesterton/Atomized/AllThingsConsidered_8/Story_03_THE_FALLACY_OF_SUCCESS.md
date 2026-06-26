@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — THE FALLACY OF SUCCESS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_02_COCKNEYS_AND_THEIR_JOKES">‹ Story 02 COCKNEYS AND THEIR JOKES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_04_ON_RUNNING_AFTER_ONE_S_HAT">Story 04 ON RUNNING AFTER ONE S HAT ›</a></div>

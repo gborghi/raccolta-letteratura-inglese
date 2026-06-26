@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Union
-
 *Theme/Concept* — appears in **4** work(s).
 
 ## Works

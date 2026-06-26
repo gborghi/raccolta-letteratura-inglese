@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Allegory · Quest · Pilgrim
-
 *Cluster* — **28 works**.
 
 ## Defining concepts

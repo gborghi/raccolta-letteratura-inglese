@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Islam and the East
-
 *Historical reference* — appears in **1** work(s).
 
 ## Works

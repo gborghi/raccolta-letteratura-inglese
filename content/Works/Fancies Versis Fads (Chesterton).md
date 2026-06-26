@@ -18,8 +18,6 @@ tags:
   - concept/anti_industrialism
 ---
 
-# Fancies Versis Fads
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

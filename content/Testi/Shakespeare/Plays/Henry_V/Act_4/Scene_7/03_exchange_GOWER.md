@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act IV, Scene 7 — exchange (GOWER) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 </nav>

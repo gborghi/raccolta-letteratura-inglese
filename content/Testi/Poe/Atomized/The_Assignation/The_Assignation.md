@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Assignation
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Assignation-(Poe)">The Assignation</a></div>
 </nav>

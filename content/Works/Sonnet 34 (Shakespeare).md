@@ -18,8 +18,6 @@ tags:
   - concept/love_romantic
 ---
 
-# Sonnet 34
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,19 +31,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Why didst thou promise such a beauteous day 
-And make me travel forth without my cloak, 
-To let base clouds o‘ertake me in my way, 
-Hiding thy brav’ry in their rotten smoke? 
-‘Tis not enough that through the cloud thou break 
-To dry the rain on my storm-beaten face, 
-For no man well of such a salve can speak 
-That heals the wound and cures not the disgrace. 
-Nor can thy shame give physic to my grief; 
-Though thou repent, yet I have still the loss. 
-Th’offender’s sorrow lends but weak relief 
-To him that bears the strong offence’s cross.
+Why didst thou promise such a beauteous day  
+And make me travel forth without my cloak,  
+To let base clouds o‘ertake me in my way,  
+Hiding thy brav’ry in their rotten smoke?  
+‘Tis not enough that through the cloud thou break  
+To dry the rain on my storm-beaten face,  
+For no man well of such a salve can speak  
+That heals the wound and cures not the disgrace.  
+Nor can thy shame give physic to my grief;  
+Though thou repent, yet I have still the loss.  
+Th’offender’s sorrow lends but weak relief  
+To him that bears the strong offence’s cross.  
 
-Ah, but those tears are pearl which thy love sheds,
+Ah, but those tears are pearl which thy love sheds,  
 
-And they are rich, and ransom all ill deeds.
+And they are rich, and ransom all ill deeds.  

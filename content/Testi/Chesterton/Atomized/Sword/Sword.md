@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sword
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sword-(Chesterton)">Sword</a></div>
 </nav>

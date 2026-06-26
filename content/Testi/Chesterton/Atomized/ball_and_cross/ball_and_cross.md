@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 </nav>

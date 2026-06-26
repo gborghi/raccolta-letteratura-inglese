@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# MrPond — A Tall Story (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_08_A_Tall_Story/part_02">part 02 ›</a></div>

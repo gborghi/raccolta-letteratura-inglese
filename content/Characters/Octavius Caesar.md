@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Octavius Caesar
-
 *Character* — appears in **2** work(s).
 
 ## Works

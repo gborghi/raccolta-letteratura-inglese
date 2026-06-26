@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act II, Scene 2 — exchange (MENENIUS) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 </nav>

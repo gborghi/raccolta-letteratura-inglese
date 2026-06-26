@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Vandalism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why">‹ Story 30 The Revival Of Philosophy Why</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_32_Elizabeth_Barrett_Browning">Story 32 Elizabeth Barrett Browning ›</a></div>

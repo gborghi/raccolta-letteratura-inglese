@@ -39,8 +39,6 @@ tags:
   - character/autolycus
 ---
 
-# THE WINTER’S TALE
-
 *by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 

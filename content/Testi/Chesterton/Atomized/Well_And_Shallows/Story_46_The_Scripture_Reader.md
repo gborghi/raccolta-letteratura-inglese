@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Scripture Reader
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_45_Austria">‹ Story 45 Austria</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_47_An_Explanation">Story 47 An Explanation ›</a></div>

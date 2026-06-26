@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 52: INVOLVING A SERIOUS CHANGE IN THE WELLER FAMILY, AND THE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_53_IN_WHICH_MR_PICKWICK_ENCOUNTER/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_54_INVOLVING_A_SERIOUS_CHANGE_IN/part_02">part 02 ›</a></div>

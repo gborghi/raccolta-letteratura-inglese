@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE CLEANSING OF THE NAME
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_28_THE_THIEF_ON_TRIAL">‹ Story 28 THE THIEF ON TRIAL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_30_THE_MENACE_OF_THE_WORD">Story 30 THE MENACE OF THE WORD ›</a></div>

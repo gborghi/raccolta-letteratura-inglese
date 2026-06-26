@@ -25,8 +25,6 @@ tags:
   - motif/the_sea
 ---
 
-# Irish Impressions
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

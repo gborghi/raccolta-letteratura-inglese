@@ -14,8 +14,6 @@ tags:
   - motif/animals
 ---
 
-# ON A READER OF HIS OWN VERSES
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,16 +27,16 @@ tags:
 
 ## Testo integrale / Full text
 
-Hoarse Mævius reads his hobbling verse
-To all and at all times,
-And deems them both divinely smooth,
-His voice as well as rhymes.
-But folks say, Mævius is no ass!
-But Mævius makes it clear
-That he’s a monster of an ass,
-An ass without an ear.
-First published in Morning Post, Sept. 7, 1799. Included in An.
-Anth., 1800; Keepsake, 1829, p. 122; Lit. Rem., i. 49. First
-collected P. and D. W., 1877, ii. 162. Adapted from Wernicke’s
-Epigrams, Bk. IX, No. 42. An einen gewissen Pritschmeister. ‘Umsonst
-dass jedermann, dieweil du manches Blatt.’
+Hoarse Mævius reads his hobbling verse  
+To all and at all times,  
+And deems them both divinely smooth,  
+His voice as well as rhymes.  
+But folks say, Mævius is no ass!  
+But Mævius makes it clear  
+That he’s a monster of an ass,  
+An ass without an ear.  
+First published in Morning Post, Sept. 7, 1799. Included in An.  
+Anth., 1800; Keepsake, 1829, p. 122; Lit. Rem., i. 49. First  
+collected P. and D. W., 1877, ii. 162. Adapted from Wernicke’s  
+Epigrams, Bk. IX, No. 42. An einen gewissen Pritschmeister. ‘Umsonst  
+dass jedermann, dieweil du manches Blatt.’  

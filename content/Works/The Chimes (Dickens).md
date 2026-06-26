@@ -32,8 +32,6 @@ tags:
   - character/lilian_fern
 ---
 
-# The Chimes
-
 *by Dickens*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

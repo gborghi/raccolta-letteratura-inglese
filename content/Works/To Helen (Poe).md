@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# To Helen
-
 *by Poe*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -36,20 +34,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Helen, thy beauty is to me
-         Like those Nicean barks of yore,
-     That gently, o’er a perfumed sea,
-         The weary way-worn wanderer bore
-         To his own native shore.
-     On desperate seas long wont to roam,
-         Thy hyacinth hair, thy classic face,
-     Thy Naiad airs have brought me home
-         To the glory that was Greece,
-     And the grandeur that was Rome.
-     Lo! in yon brilliant window-niche
-         How statue-like I me thee stand,
-     The agate lamp within thy hand!
-         Ah, Psyche, from the regions which
-         Are Holy-land!
+Helen, thy beauty is to me  
+         Like those Nicean barks of yore,  
+     That gently, o’er a perfumed sea,  
+         The weary way-worn wanderer bore  
+         To his own native shore.  
+     On desperate seas long wont to roam,  
+         Thy hyacinth hair, thy classic face,  
+     Thy Naiad airs have brought me home  
+         To the glory that was Greece,  
+     And the grandeur that was Rome.  
+     Lo! in yon brilliant window-niche  
+         How statue-like I me thee stand,  
+     The agate lamp within thy hand!  
+         Ah, Psyche, from the regions which  
+         Are Holy-land!  
 
-      1831.
+      1831.  

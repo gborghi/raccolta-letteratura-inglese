@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE HISTORY OF KING LEAR - THE QUARTO TEXT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
 </nav>

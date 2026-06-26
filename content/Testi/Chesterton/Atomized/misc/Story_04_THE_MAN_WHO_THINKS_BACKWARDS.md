@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE MAN WHO THINKS BACKWARDS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_03_THE_THING">‹ Story 03 THE THING</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_05_THE_NAMELESS_MAN">Story 05 THE NAMELESS MAN ›</a></div>

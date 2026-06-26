@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Maturation and Growth
-
 *Theme/Concept* — appears in **76** work(s).
 
 ## Works

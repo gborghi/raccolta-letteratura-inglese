@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Washington DC
-
 *Setting* — appears in **1** work(s).
 
 ## Works

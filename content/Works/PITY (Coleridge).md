@@ -15,8 +15,6 @@ tags:
   - histref/the_bible
 ---
 
-# PITY
-
 *by Coleridge*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Sweet Mercy! how my very heart has bled
-To see thee, poor Old Man! and thy grey hairs
-Hoar with the snowy blast: while no one cares
-To clothe thy shrivell’d limbs and palsied head.
-My Father! throw away this tatter’d vest   5
-That mocks thy shivering! take my garment — use
-A young man’s arm! I’ll melt these frozen dews
-That hang from thy white beard and numb thy breast.
-My Sara too shall tend thee, like a child:
-And thou shalt talk, in our fireside’s recess,   10
-Of purple Pride, that scowls on Wretchedness —
-He did not so, the Galilaean mild,
-Who met the Lazars turn’d from rich men’s doors
-And call’d them Friends, and heal’d their noisome sores!
-? 1795.
+Sweet Mercy! how my very heart has bled  
+To see thee, poor Old Man! and thy grey hairs  
+Hoar with the snowy blast: while no one cares  
+To clothe thy shrivell’d limbs and palsied head.  
+My Father! throw away this tatter’d vest   5  
+That mocks thy shivering! take my garment — use  
+A young man’s arm! I’ll melt these frozen dews  
+That hang from thy white beard and numb thy breast.  
+My Sara too shall tend thee, like a child:  
+And thou shalt talk, in our fireside’s recess,   10  
+Of purple Pride, that scowls on Wretchedness —  
+He did not so, the Galilaean mild,  
+Who met the Lazars turn’d from rich men’s doors  
+And call’d them Friends, and heal’d their noisome sores!  
+? 1795.  

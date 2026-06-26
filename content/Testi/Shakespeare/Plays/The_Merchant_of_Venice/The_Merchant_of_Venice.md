@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE MERCHANT OF VENICE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
 </nav>

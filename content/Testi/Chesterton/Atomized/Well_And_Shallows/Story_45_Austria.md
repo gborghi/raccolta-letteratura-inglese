@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — Austria
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_44_The_Return_Of_Caesar">‹ Story 44 The Return Of Caesar</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_46_The_Scripture_Reader">Story 46 The Scripture Reader ›</a></div>

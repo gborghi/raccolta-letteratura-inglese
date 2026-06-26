@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Death Personified
-
 *Archetype* — appears in **5** work(s).
 
 ## Works

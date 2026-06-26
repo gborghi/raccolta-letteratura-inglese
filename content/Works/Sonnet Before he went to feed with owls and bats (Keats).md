@@ -18,8 +18,6 @@ tags:
   - form/satire
 ---
 
-# Sonnet: Before he went to feed with owls and bats
-
 *by Keats*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -35,18 +33,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Before he went to feed with owls and bats
-Nebuchadnezzar had an ugly dream,
-Worse than an hus’if s when she thinks her cream
-Made a naumachia for mice and rats.
-So scared, he sent for that ‘Good King of Cats’
-Young Daniel, who soon did pluck away the beam
-From out his eye, and said he did not deem
-The sceptre worth a straw - his cushions old door-mats.
-A horrid nightmare similar somewhat
-Of late has haunted a most motley crew,
-10
-Most loggerheads and chapmen - we are told
-That any Daniel tho’ he be a sot
-Can make the lying lips turn pale of hue
-By belching out ‘ye are that head of gold.’
+Before he went to feed with owls and bats  
+Nebuchadnezzar had an ugly dream,  
+Worse than an hus’if s when she thinks her cream  
+Made a naumachia for mice and rats.  
+So scared, he sent for that ‘Good King of Cats’  
+Young Daniel, who soon did pluck away the beam  
+From out his eye, and said he did not deem  
+The sceptre worth a straw - his cushions old door-mats.  
+A horrid nightmare similar somewhat  
+Of late has haunted a most motley crew,  
+10  
+Most loggerheads and chapmen - we are told  
+That any Daniel tho’ he be a sot  
+Can make the lying lips turn pale of hue  
+By belching out ‘ye are that head of gold.’  

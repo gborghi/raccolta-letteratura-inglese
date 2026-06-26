@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Jealousy
-
 *Theme/Concept* — appears in **37** work(s).
 
 ## Works

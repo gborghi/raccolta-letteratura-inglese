@@ -16,8 +16,6 @@ tags:
   - archetype/prophet
 ---
 
-# FANCY IN NUBIBUS OR THE POET IN THE CLOUDS
-
 *by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-O! it is pleasant, with a heart at ease,
-Just after sunset, or by moonlight skies,
-To make the shifting clouds be what you please,
-Or let the easily persuaded eyes
-Own each quaint likeness issuing from the mould   5
-Of a friend’s fancy; or with head bent low
-And cheek aslant see rivers flow of gold
-‘Twixt crimson banks; and then, a traveller, go
-From mount to mount through Cloudland, gorgeous land!
-Or list’ning to the tide, with closéd sight,   10
-Be that blind bard, who on the Chian strand
-By those deep sounds possessed with inward light,
-Beheld the Iliad and the Odyssee
-Rise to the swelling of the voiceful sea.
-1817.
+O! it is pleasant, with a heart at ease,  
+Just after sunset, or by moonlight skies,  
+To make the shifting clouds be what you please,  
+Or let the easily persuaded eyes  
+Own each quaint likeness issuing from the mould   5  
+Of a friend’s fancy; or with head bent low  
+And cheek aslant see rivers flow of gold  
+‘Twixt crimson banks; and then, a traveller, go  
+From mount to mount through Cloudland, gorgeous land!  
+Or list’ning to the tide, with closéd sight,   10  
+Be that blind bard, who on the Chian strand  
+By those deep sounds possessed with inward light,  
+Beheld the Iliad and the Odyssee  
+Rise to the swelling of the voiceful sea.  
+1817.  

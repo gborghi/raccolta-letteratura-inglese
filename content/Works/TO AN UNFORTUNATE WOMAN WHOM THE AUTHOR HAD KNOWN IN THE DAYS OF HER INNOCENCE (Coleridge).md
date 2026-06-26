@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# TO AN UNFORTUNATE WOMAN WHOM THE AUTHOR HAD KNOWN IN THE DAYS OF HER INNOCENCE
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -33,20 +31,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Myrtle-leaf that, ill besped,
-Pinest in the gladsome ray,
-Soil’d beneath the common tread
-Far from thy protecting spray!
-When the Partridge o’er the sheaf   5
-Whirr’d along the yellow vale,
-Sad I saw thee, heedless leaf!
-Love the dalliance of the gale.
-Lightly didst thou, foolish thing!
-Heave and flutter to his sighs,   10
-While the flatterer, on his wing,
-Woo’d and whisper’d thee to rise.
-Gaily from thy mother-stalk
-Wert thou danc’d and wafted high —
-Soon on this unshelter’d walk   15
-Flung to fade, to rot and die.
-1797.
+Myrtle-leaf that, ill besped,  
+Pinest in the gladsome ray,  
+Soil’d beneath the common tread  
+Far from thy protecting spray!  
+When the Partridge o’er the sheaf   5  
+Whirr’d along the yellow vale,  
+Sad I saw thee, heedless leaf!  
+Love the dalliance of the gale.  
+Lightly didst thou, foolish thing!  
+Heave and flutter to his sighs,   10  
+While the flatterer, on his wing,  
+Woo’d and whisper’d thee to rise.  
+Gaily from thy mother-stalk  
+Wert thou danc’d and wafted high —  
+Soon on this unshelter’d walk   15  
+Flung to fade, to rot and die.  
+1797.  

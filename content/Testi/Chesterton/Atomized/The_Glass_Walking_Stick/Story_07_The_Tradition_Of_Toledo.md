@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — The Tradition Of Toledo
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_06_The_Colour_Of_Spain">‹ Story 06 The Colour Of Spain</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_08_Tom_Jones_And_The_Escorial">Story 08 Tom Jones And The Escorial ›</a></div>

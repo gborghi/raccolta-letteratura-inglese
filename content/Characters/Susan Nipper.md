@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Susan Nipper
-
 *Character* — appears in **1** work(s).
 
 ## Works

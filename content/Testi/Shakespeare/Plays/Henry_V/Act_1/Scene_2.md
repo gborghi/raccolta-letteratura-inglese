@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act I, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_V/Act_1/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Henry_V/Act_2/Scene_0">Scene 0 ›</a></div>

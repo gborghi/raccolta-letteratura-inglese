@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mr Pancks
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Man That Was Used Up
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Man-That-Was-Used-Up-(Poe)">The Man That Was Used Up</a></div>
 </nav>

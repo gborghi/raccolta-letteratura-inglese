@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Blue Cross (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_01_The_Blue_Cross/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_01_The_Blue_Cross/part_06">part 06 ›</a></div>

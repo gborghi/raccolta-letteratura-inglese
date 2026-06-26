@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Friendship
-
 *Theme/Concept* — appears in **112** work(s).
 
 ## Works

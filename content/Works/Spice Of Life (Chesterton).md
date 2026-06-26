@@ -17,8 +17,6 @@ tags:
   - concept/imagination
 ---
 
-# Spice Of Life
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

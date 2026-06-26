@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF NONSENSE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_06_A_DEFENCE_OF_PUBLICITY">‹ Story 06 A DEFENCE OF PUBLICITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_08_A_DEFENCE_OF_PLANETS">Story 08 A DEFENCE OF PLANETS ›</a></div>

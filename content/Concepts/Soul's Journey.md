@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Soul's Journey
-
 *Theme/Concept* — appears in **3** work(s).
 
 ## Works

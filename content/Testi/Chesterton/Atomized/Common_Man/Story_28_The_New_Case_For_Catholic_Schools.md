@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The New Case For Catholic Schools
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_27_Tales_From_Tolstoi">‹ Story 27 Tales From Tolstoi</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_29_Vulgarity">Story 29 Vulgarity ›</a></div>

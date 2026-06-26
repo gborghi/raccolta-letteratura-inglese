@@ -14,8 +14,6 @@ tags:
   - motif/letters_writing
 ---
 
-# Full of Life Now
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

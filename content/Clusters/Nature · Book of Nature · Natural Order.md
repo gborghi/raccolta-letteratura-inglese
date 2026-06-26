@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Nature · Book of Nature · Natural Order
-
 *Cluster* — **73 works**.
 
 ## Defining concepts

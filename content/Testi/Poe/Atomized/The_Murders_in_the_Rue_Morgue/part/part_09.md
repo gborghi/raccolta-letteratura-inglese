@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Murders in the Rue Morgue (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Murders-in-the-Rue-Morgue-(Poe)">The Murders in the Rue Morgue</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Murders_in_the_Rue_Morgue/part/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Murders_in_the_Rue_Morgue/part/part_10">part 10 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — WHY I AM A CATHOLIC
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_06_THE_USUAL_ARTICLE">‹ Story 06 THE USUAL ARTICLE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_08_WHAT_DO_THEY_THINK">Story 08 WHAT DO THEY THINK ›</a></div>

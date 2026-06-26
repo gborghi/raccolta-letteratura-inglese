@@ -16,8 +16,6 @@ tags:
   - form/epigram
 ---
 
-# THE HOUR-GLASS
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -32,14 +30,14 @@ tags:
 
 ## Testo integrale / Full text
 
-O think, fair maid! these sands that pass
-In slender threads adown this glass,
-Were once the body of some swain,
-Who lov’d too well and lov’d in vain,
-And let one soft sigh heave thy breast,   5
-That not in life alone unblest
-E’en lovers’ ashes find no rest.
-First published in The Courier, August 30, 1811; included in Essays
-on His Own Times, iii. 994. Now collected for the first time.
-The original is a translation of a Latin Epigram, ‘Horologium Pulvereum,
-Tumulus Alcippi,’ by Girolamo Amaltei.
+O think, fair maid! these sands that pass  
+In slender threads adown this glass,  
+Were once the body of some swain,  
+Who lov’d too well and lov’d in vain,  
+And let one soft sigh heave thy breast,   5  
+That not in life alone unblest  
+E’en lovers’ ashes find no rest.  
+First published in The Courier, August 30, 1811; included in Essays  
+on His Own Times, iii. 994. Now collected for the first time.  
+The original is a translation of a Latin Epigram, ‘Horologium Pulvereum,  
+Tumulus Alcippi,’ by Girolamo Amaltei.  

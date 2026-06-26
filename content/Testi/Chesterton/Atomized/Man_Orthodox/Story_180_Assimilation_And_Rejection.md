@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — Assimilation And Rejection
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_179_A_Note_On_Comparative_Religion">‹ Story 179 A Note On Comparative Religion</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_181_The_Winter_Feast">Story 181 The Winter Feast ›</a></div>

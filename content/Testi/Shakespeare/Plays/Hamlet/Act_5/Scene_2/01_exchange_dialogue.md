@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act V, Scene 2 — exchange (dialogue) [1]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

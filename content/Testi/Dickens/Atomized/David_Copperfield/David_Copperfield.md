@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 </nav>

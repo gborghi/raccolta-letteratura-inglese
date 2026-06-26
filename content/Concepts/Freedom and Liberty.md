@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Freedom and Liberty
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Vanity of Worldly Things
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

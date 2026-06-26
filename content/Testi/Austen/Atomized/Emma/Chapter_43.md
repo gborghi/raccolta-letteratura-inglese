@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Emma — Chapter 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Emma/Chapter_42">‹ Chapter 42</a><a class="ex-next" href="/Testi/Austen/Atomized/Emma/Chapter_44">Chapter 44 ›</a></div>

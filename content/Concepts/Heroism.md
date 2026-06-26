@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Heroism
-
 *Theme/Concept* — appears in **99** work(s).
 
 ## Works

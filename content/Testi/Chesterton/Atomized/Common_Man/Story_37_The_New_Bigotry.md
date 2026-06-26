@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The New Bigotry
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_36_The_Epitaph_Of_Pierpont_Morgan">‹ Story 36 The Epitaph Of Pierpont Morgan</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_38_Books_For_Boys">Story 38 Books For Boys ›</a></div>

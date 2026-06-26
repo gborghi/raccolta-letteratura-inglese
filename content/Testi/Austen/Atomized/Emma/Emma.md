@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Emma
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Emma-(Austen)">Emma</a></div>
 </nav>

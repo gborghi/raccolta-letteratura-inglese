@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Memory and Time
-
 *Theme/Concept* — appears in **122** work(s).
 
 ## Works

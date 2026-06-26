@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE TRAGEDY OF KING LEAR - THE FOLIO TEXT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 </nav>

@@ -14,8 +14,6 @@ tags:
   - concept/identity
 ---
 
-# My Picture-Gallery
-
 *by Whitman*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 

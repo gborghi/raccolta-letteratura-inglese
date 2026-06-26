@@ -15,8 +15,6 @@ tags:
   - topos/the_unattainable_beloved
 ---
 
-# Sonnet 48
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,19 +29,19 @@ tags:
 
 ## Testo integrale / Full text
 
-How careful was I when I took my way 
-Each trifle under truest bars to thrust, 
-That to my use it might unused stay 
-From hands of falsehood, in sure wards of trust. 
-But thou, to whom my jewels trifles are, 
-Most worthy comfort, now my greatest grief, 
-Thou best of dearest and mine only care 
-Art left the prey of every vulgar thief. 
-Thee have I not locked up in any chest 
-Save where thou art not, though I feel thou art—
-Within the gentle closure of my breast, 
-From whence at pleasure thou mayst come and part;
+How careful was I when I took my way  
+Each trifle under truest bars to thrust,  
+That to my use it might unused stay  
+From hands of falsehood, in sure wards of trust.  
+But thou, to whom my jewels trifles are,  
+Most worthy comfort, now my greatest grief,  
+Thou best of dearest and mine only care  
+Art left the prey of every vulgar thief.  
+Thee have I not locked up in any chest  
+Save where thou art not, though I feel thou art—  
+Within the gentle closure of my breast,  
+From whence at pleasure thou mayst come and part;  
 
-And even thence thou wilt be stol’n, I fear,
+And even thence thou wilt be stol’n, I fear,  
 
-For truth proves thievish for a prize so dear.
+For truth proves thievish for a prize so dear.  

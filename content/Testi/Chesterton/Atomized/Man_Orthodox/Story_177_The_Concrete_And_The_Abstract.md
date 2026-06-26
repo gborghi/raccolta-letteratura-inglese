@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Concrete And The Abstract
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_176_Sacrament_Or_Magic">‹ Story 176 Sacrament Or Magic</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_178_The_Light_And_The_Heat">Story 178 The Light And The Heat ›</a></div>

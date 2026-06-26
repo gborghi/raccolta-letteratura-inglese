@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE FREE MAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_11_THE_WRONG_INCENDIARY">‹ Story 11 THE WRONG INCENDIARY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_13_THE_HYPOTHETICAL_HOUSEHOLDER">Story 13 THE HYPOTHETICAL HOUSEHOLDER ›</a></div>

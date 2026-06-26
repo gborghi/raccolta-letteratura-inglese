@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 13: SOME ACCOUNT OF EATANSWILL; OF THE STATE OF PARTIES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN">‹ Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_15_COMPRISING_A_BRIEF_DESCRIPTION">Chapter 15 COMPRISING A BRIEF DESCRIPTION ›</a></div>

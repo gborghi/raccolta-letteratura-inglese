@@ -25,8 +25,6 @@ tags:
   - form/parody
 ---
 
-# The Literary Life of Thingum Bob, Esq
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

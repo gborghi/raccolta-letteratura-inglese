@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The System of Doctor Tarr and Professor Fether (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)">The System of Doctor Tarr and Professor Fether</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_System_of_Doctor_Tarr_and_Professor_Fether/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_System_of_Doctor_Tarr_and_Professor_Fether/part/part_05">part 05 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Tragedy of King Lear (Folio Text) — Act II, Scene 1 — exchange (GLOUCESTER I) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 </nav>

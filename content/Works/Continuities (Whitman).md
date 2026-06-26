@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# Continuities
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -34,16 +32,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Nothing is ever really lost, or can be lost,
-  No birth, identity, form--no object of the world.
-  Nor life, nor force, nor any visible thing;
-  Appearance must not foil, nor shifted sphere confuse thy brain.
-  Ample are time and space--ample the fields of Nature.
-  The body, sluggish, aged, cold--the embers left from earlier fires,
-  The light in the eye grown dim, shall duly flame again;
-  The sun now low in the west rises for mornings and for noons continual;
-  To frozen clods ever the spring’s invisible law returns,
-  With grass and flowers and summer fruits and corn.
+  Nothing is ever really lost, or can be lost,  
+  No birth, identity, form--no object of the world.  
+  Nor life, nor force, nor any visible thing;  
+  Appearance must not foil, nor shifted sphere confuse thy brain.  
+  Ample are time and space--ample the fields of Nature.  
+  The body, sluggish, aged, cold--the embers left from earlier fires,  
+  The light in the eye grown dim, shall duly flame again;  
+  The sun now low in the west rises for mornings and for noons continual;  
+  To frozen clods ever the spring’s invisible law returns,  
+  With grass and flowers and summer fruits and corn.  

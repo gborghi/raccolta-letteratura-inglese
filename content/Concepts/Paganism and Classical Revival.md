@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Paganism and Classical Revival
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

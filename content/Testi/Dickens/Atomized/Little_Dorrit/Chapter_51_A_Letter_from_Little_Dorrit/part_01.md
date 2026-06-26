@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 11: A Letter from Little Dorrit (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_50_The_Dreams_of_Mrs_Flintwinch_t/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_51_A_Letter_from_Little_Dorrit/part_02">part 02 ›</a></div>

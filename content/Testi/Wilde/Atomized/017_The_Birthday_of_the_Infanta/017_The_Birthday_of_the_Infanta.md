@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Birthday of the Infanta
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Birthday-of-the-Infanta-(Wilde)">017 The Birthday of the Infanta</a></div>
 </nav>

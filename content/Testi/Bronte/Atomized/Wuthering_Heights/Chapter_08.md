@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Wuthering Heights — Chapter 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_07">‹ Chapter 07</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_09">Chapter 09 ›</a></div>

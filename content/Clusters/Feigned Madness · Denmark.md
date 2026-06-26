@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Feigned Madness · Denmark
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

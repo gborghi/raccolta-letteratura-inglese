@@ -15,8 +15,6 @@ tags:
   - motif/river
 ---
 
-# A FRAGMENT FOUND IN A LECTURE-ROOM
-
 *by Coleridge*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
@@ -31,19 +29,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Where deep in mud Cam rolls his slumbrous stream,
-And bog and desolation reign supreme;
-Where all Boeotia clouds the misty brain,
-The owl Mathesis pipes her loathsome strain.
-Far, far aloof the frighted Muses fly,   5
-Indignant Genius scowls and passes by:
-The frolic Pleasures start amid their dance,
-And Wit congeal’d stands fix’d in wintry trance.
-But to the sounds with duteous haste repair
-Cold Industry, and wary-footed Care;   10
-And Dulness, dosing on a couch of lead,
-Pleas’d with the song uplifts her heavy head,
-The sympathetic numbers lists awhile,
-Then yawns propitiously a frosty smile. . . .
-[Caetera desunt.]
-1792.
+Where deep in mud Cam rolls his slumbrous stream,  
+And bog and desolation reign supreme;  
+Where all Boeotia clouds the misty brain,  
+The owl Mathesis pipes her loathsome strain.  
+Far, far aloof the frighted Muses fly,   5  
+Indignant Genius scowls and passes by:  
+The frolic Pleasures start amid their dance,  
+And Wit congeal’d stands fix’d in wintry trance.  
+But to the sounds with duteous haste repair  
+Cold Industry, and wary-footed Care;   10  
+And Dulness, dosing on a couch of lead,  
+Pleas’d with the song uplifts her heavy head,  
+The sympathetic numbers lists awhile,  
+Then yawns propitiously a frosty smile. . . .  
+[Caetera desunt.]  
+1792.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 </nav>

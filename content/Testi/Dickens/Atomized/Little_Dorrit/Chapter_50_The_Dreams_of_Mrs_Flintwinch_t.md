@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 10: The Dreams of Mrs Flintwinch thicken
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_49_Appearance_and_Disappearance">‹ Chapter 49 Appearance and Disappearance</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_51_A_Letter_from_Little_Dorrit">Chapter 51 A Letter from Little Dorrit ›</a></div>

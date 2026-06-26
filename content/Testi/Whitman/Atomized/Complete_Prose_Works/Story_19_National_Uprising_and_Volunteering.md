@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — National Uprising and Volunteering
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_18_Opening_of_the_Secession_War">‹ Story 18 Opening of the Secession War</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_20_Contemptuous_Feeling">Story 20 Contemptuous Feeling ›</a></div>

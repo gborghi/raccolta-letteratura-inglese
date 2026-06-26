@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 </nav>

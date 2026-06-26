@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Gentlemen of Verona — Act V, Scene 4 — monologue (THE TAMING OF THE SHREW) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
 </nav>

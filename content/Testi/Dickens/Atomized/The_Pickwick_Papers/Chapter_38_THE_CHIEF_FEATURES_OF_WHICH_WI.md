@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_37_IN_WHICH_MR_PICKWICK_THINKS_HE">‹ Chapter 37 IN WHICH MR PICKWICK THINKS HE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_39_HONOURABLY_ACCOUNTS_FOR_MR_WEL">Chapter 39 HONOURABLY ACCOUNTS FOR MR WEL ›</a></div>

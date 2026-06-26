@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# White and Red · Riddle · Secrecy and Concealment
-
 *Cluster* — **7 works**.
 
 ## Defining concepts

@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# Evening Star
-
 *by Poe*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -33,27 +31,27 @@ tags:
 
 ## Testo integrale / Full text
 
-’Twas noontide of summer,
-        And midtime of night,
-     And stars, in their orbits,
-        Shone pale, through the light
-     Of the brighter, cold moon.
-        ‘Mid planets her slaves,
-     Herself in the Heavens,
-        Her beam on the waves.
-        I gazed awhile
-        On her cold smile;
-     Too cold—too cold for me—
-        There passed, as a shroud,
-        A fleecy cloud,
-     And I turned away to thee,
-        Proud Evening Star,
-        In thy glory afar
-     And dearer thy beam shall be;
-        For joy to my heart
-        Is the proud part
-     Thou bearest in Heaven at night.,
-        And more I admire
-        Thy distant fire,
-     Than that colder, lowly light.
-     1827.
+’Twas noontide of summer,  
+        And midtime of night,  
+     And stars, in their orbits,  
+        Shone pale, through the light  
+     Of the brighter, cold moon.  
+        ‘Mid planets her slaves,  
+     Herself in the Heavens,  
+        Her beam on the waves.  
+        I gazed awhile  
+        On her cold smile;  
+     Too cold—too cold for me—  
+        There passed, as a shroud,  
+        A fleecy cloud,  
+     And I turned away to thee,  
+        Proud Evening Star,  
+        In thy glory afar  
+     And dearer thy beam shall be;  
+        For joy to my heart  
+        Is the proud part  
+     Thou bearest in Heaven at night.,  
+        And more I admire  
+        Thy distant fire,  
+     Than that colder, lowly light.  
+     1827.  

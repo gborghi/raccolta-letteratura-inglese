@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity — Ireland and the Domestic Drama
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_07_The_Irishman">‹ Story 07 The Irishman</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_09_The_Japanese">Story 09 The Japanese ›</a></div>

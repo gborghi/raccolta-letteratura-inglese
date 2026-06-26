@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Tenant of Wildfell Hall — Chapter 7 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_07/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_09/part_01">part 01 ›</a></div>

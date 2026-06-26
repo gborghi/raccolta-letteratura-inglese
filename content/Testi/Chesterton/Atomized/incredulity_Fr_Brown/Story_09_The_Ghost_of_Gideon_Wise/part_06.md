@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Ghost of Gideon Wise (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_09_The_Ghost_of_Gideon_Wise/part_05">‹ part 05</a><span></span></div>

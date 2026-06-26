@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Blank Verse
-
 *Form/Genre* — appears in **70** work(s).
 
 ## Works

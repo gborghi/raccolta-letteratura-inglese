@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Augustus Snodgrass
-
 *Character* — appears in **1** work(s).
 
 ## Works

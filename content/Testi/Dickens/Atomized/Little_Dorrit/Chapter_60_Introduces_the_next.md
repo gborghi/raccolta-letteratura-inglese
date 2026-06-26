@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 20: Introduces the next
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_59_The_Storming_of_the_Castle_in">‹ Chapter 59 The Storming of the Castle in</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_61_The_History_of_a_Self_Tormento">Chapter 61 The History of a Self Tormento ›</a></div>

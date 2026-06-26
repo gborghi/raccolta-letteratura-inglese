@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity — The Spirits
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_02_Lamp_Posts">‹ Story 02 Lamp Posts</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_04_Tennyson">Story 04 Tennyson ›</a></div>

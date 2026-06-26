@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Reformation
-
 *Historical reference* — appears in **15** work(s).
 
 ## Works

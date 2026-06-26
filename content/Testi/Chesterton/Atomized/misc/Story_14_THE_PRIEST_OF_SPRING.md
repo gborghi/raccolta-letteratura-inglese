@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE PRIEST OF SPRING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_13_THE_HYPOTHETICAL_HOUSEHOLDER">‹ Story 13 THE HYPOTHETICAL HOUSEHOLDER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_15_THE_REAL_JOURNALIST">Story 15 THE REAL JOURNALIST ›</a></div>

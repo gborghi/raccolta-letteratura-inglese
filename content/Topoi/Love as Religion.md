@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Love as Religion
-
 *Topos* — appears in **97** work(s).
 
 ## Works

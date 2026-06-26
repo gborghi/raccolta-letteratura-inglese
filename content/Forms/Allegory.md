@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Allegory
-
 *Form/Genre* — appears in **54** work(s).
 
 ## Works

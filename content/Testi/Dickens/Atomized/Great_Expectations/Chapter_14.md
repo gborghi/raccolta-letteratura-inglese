@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Great Expectations — Chapter 14
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_13">‹ Chapter 13</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_15">Chapter 15 ›</a></div>

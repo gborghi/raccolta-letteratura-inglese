@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Quest
-
 *Topos* — appears in **47** work(s).
 
 ## Works

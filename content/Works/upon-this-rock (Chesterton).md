@@ -17,8 +17,6 @@ tags:
   - histref/christianity
 ---
 
-# upon-this-rock
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

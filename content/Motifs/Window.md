@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Window
-
 *Motif* — appears in **30** work(s).
 
 ## Works

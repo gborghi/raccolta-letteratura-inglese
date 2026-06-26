@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act V, Scene 1 — exchange (SIR TOBY) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 </nav>

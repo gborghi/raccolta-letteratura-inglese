@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 24: THE ENIGMAS OF LADY JOAN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_23_THE_MARCH_ON_IVYWOOD/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_24_THE_ENIGMAS_OF_LADY_JOAN/part_02">part 02 ›</a></div>

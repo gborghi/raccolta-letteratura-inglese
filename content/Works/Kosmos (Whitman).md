@@ -15,8 +15,6 @@ tags:
   - motif/stars
 ---
 
-# Kosmos
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE CLASSICS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_08_ON_THE_NEW_POETRY">‹ Story 08 ON THE NEW POETRY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_10_ON_PSYCHO_ANALYSIS">Story 10 ON PSYCHO ANALYSIS ›</a></div>

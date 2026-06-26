@@ -17,8 +17,6 @@ tags:
   - form/satire
 ---
 
-# success
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

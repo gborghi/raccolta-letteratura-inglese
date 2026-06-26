@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — ON A SENSE OF PROPORTION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_04_THE_CHANCE_OF_RECOVERY">‹ Story 04 THE CHANCE OF RECOVERY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_06_SOME_ASPECTS_OF_BIG_BUSINESS">Story 06 SOME ASPECTS OF BIG BUSINESS ›</a></div>

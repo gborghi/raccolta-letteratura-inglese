@@ -14,8 +14,6 @@ tags:
   - concept/friendship
 ---
 
-# TO THE REV. GEORGE COLERIDGE
-
 *by Coleridge*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

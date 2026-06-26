@@ -14,8 +14,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# As I Walk These Broad Majestic Days
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard II — Act IV, Scene 1 — exchange (SURREY) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
 </nav>

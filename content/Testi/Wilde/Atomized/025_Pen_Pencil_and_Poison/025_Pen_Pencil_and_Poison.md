@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# Pen, Pencil and Poison
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/Pen,-Pencil-and-Poison-(Wilde)">025 Pen Pencil and Poison</a></div>
 </nav>

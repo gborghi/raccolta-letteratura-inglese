@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Bon-Bon
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Bon-Bon-(Poe)">Bon Bon</a></div>
 </nav>

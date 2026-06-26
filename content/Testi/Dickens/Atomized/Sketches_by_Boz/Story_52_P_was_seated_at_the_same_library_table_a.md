@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — P., was seated at the same library-table, and in the same room, as we
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_51_HAPTER_IIISENTIMENT">‹ Story 51 HAPTER IIISENTIMENT</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_53_HAPTER_IVTHE_TUGGSES_AT_RAMSGATE">Story 53 HAPTER IVTHE TUGGSES AT RAMSGATE ›</a></div>

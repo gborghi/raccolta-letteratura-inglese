@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Man Who Knew Too Much — The Face in the Target (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_01_The_Face_in_the_Target/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_01_The_Face_in_the_Target/part_07">part 07 ›</a></div>

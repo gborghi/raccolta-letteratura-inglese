@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE REVOLT AGAINST IDEAS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_14_ON_THE_NOVEL_WITH_A_PURPOSE">‹ Story 14 ON THE NOVEL WITH A PURPOSE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_16_THE_FEASTS_AND_THE_ASCETIC">Story 16 THE FEASTS AND THE ASCETIC ›</a></div>

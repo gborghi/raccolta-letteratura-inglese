@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Literary Life of Thingum Bob, Esq (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Literary-Life-of-Thingum-Bob,-Esq-(Poe)">The Literary Life of Thingum Bob Esq</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Literary_Life_of_Thingum_Bob_Esq/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Literary_Life_of_Thingum_Bob_Esq/part/part_05">part 05 ›</a></div>

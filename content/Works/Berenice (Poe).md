@@ -27,8 +27,6 @@ tags:
   - setting/the_castle
 ---
 
-# Berenice
-
 *by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

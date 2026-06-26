@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ApprAndCritOfChDickens
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
 </nav>

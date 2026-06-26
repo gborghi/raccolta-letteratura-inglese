@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# What is Right With the World (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/What-is-Right-With-the-World-(Chesterton)">What is Right With the World</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/What_is_Right_With_the_World/part/part_02">‹ part 02</a><span></span></div>

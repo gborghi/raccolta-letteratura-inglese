@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Young King
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Young-King-(Wilde)">016 The Young King</a></div>
 </nav>

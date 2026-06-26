@@ -15,8 +15,6 @@ tags:
   - motif/dawn
 ---
 
-# An Old Man’s Thought of School
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 

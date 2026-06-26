@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. CHESTERTON:  Now as to the much more interesting question,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_07_OICE_Yes_he_is">‹ Story 07 OICE Yes he is</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_09_R_SHAW_I_cannot_say_that_Mr_Chesterton_h">Story 09 R SHAW I cannot say that Mr Chesterton h ›</a></div>

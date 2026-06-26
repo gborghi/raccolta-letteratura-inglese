@@ -46,8 +46,6 @@ tags:
   - character/bianca
 ---
 
-# OTHELLO
-
 *by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

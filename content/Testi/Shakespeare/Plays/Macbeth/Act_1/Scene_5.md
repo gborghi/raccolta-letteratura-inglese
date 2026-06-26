@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Macbeth — Act I, Scene 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Macbeth/Act_1/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Macbeth/Act_1/Scene_7">Scene 7 ›</a></div>

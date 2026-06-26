@@ -17,8 +17,6 @@ tags:
   - concept/regeneration
 ---
 
-# Old Ireland
-
 *by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 

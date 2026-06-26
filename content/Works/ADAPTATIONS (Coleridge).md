@@ -14,8 +14,6 @@ tags:
   - topos/immortality_through_verse
 ---
 
-# ADAPTATIONS
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

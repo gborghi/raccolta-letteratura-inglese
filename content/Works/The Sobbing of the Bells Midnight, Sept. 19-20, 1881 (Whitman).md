@@ -29,13 +29,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SONGS OF PARTING_
+_Cluster: SONGS OF PARTING_  
 
 
-  The sobbing of the bells, the sudden death-news everywhere,
-  The slumberers rouse, the rapport of the People,
-  (Full well they know that message in the darkness,
-  Full well return, respond within their breasts, their brains, the
-      sad reverberations,)
-  The passionate toll and clang--city to city, joining, sounding, passing,
-  Those heart-beats of a Nation in the night.
+  The sobbing of the bells, the sudden death-news everywhere,  
+  The slumberers rouse, the rapport of the People,  
+  (Full well they know that message in the darkness,  
+  Full well return, respond within their breasts, their brains, the  
+      sad reverberations,)  
+  The passionate toll and clang--city to city, joining, sounding, passing,  
+  Those heart-beats of a Nation in the night.  

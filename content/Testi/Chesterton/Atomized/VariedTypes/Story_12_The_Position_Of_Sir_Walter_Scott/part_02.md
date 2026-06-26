@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — The Position Of Sir Walter Scott (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_12_The_Position_Of_Sir_Walter_Scott/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_12_The_Position_Of_Sir_Walter_Scott/part_03">part 03 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Justice / Right and Wrong
-
 *Theme/Concept* — appears in **46** work(s).
 
 ## Works

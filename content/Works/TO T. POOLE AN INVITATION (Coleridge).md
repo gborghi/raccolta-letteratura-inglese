@@ -14,8 +14,6 @@ tags:
   - concept/the_common_man
 ---
 
-# TO T. POOLE: AN INVITATION
-
 *by Coleridge*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 
@@ -29,29 +27,29 @@ tags:
 
 ## Testo integrale / Full text
 
-Plucking flowers from the Galaxy
-On the pinions of Abstraction,
-I did quite forget to ax ‘e,
-Whether you have an objaction,
-With us to swill ‘e and to swell ‘e
-And make a pig-stie of your belly.
-A lovely limb most dainty
-Of a ci-devant Mud-raker,
-I makes bold to acquaint ‘e
-We’ve trusted to the Baker:
-And underneath it satis
-Of the subterrene apple
-By the erudite ‘clep’d taties —
-With which, if you’ld wish to grapple,
-As sure as I’m a sloven,
-The clock will not strike twice one,
-When the said dish will be out of the oven,
-And the dinner will be a nice one.
-P.S.
-Besides we’ve got some cabbage.
-You Jew-dog, if you linger,
-May the Itch in pomp of scabbage
-Pop out between each finger.
-January, 1797.
-First published (minus the postscript) in Thomas Poole and His
-Friends, 1888, i. 211.
+Plucking flowers from the Galaxy  
+On the pinions of Abstraction,  
+I did quite forget to ax ‘e,  
+Whether you have an objaction,  
+With us to swill ‘e and to swell ‘e  
+And make a pig-stie of your belly.  
+A lovely limb most dainty  
+Of a ci-devant Mud-raker,  
+I makes bold to acquaint ‘e  
+We’ve trusted to the Baker:  
+And underneath it satis  
+Of the subterrene apple  
+By the erudite ‘clep’d taties —  
+With which, if you’ld wish to grapple,  
+As sure as I’m a sloven,  
+The clock will not strike twice one,  
+When the said dish will be out of the oven,  
+And the dinner will be a nice one.  
+P.S.  
+Besides we’ve got some cabbage.  
+You Jew-dog, if you linger,  
+May the Itch in pomp of scabbage  
+Pop out between each finger.  
+January, 1797.  
+First published (minus the postscript) in Thomas Poole and His  
+Friends, 1888, i. 211.  

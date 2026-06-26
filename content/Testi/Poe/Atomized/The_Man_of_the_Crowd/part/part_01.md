@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Man of the Crowd (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Man-of-the-Crowd-(Poe)">The Man of the Crowd</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Man_of_the_Crowd/part/part_02">part 02 ›</a></div>

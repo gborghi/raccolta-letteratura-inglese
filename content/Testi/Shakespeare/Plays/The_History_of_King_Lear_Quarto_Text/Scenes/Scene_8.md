@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The History of King Lear (Quarto Text) — Scene 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-HISTORY-OF-KING-LEAR---THE-QUARTO-TEXT-(Shakespeare)">The History of King Lear Quarto Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_History_of_King_Lear_Quarto_Text/Scenes/Scene_7">‹ Scene 7</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_History_of_King_Lear_Quarto_Text/Scenes/Scene_9">Scene 9 ›</a></div>

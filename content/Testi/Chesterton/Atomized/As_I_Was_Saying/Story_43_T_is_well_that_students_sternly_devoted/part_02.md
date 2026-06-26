@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — T is well that students sternly devoted to that science should (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_43_T_is_well_that_students_sternly_devoted/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_44_T_amuses_me_to_think_that_amid_all_the_i/part_01">part 01 ›</a></div>

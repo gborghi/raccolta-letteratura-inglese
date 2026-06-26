@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Detective
-
 *Archetype* — appears in **21** work(s).
 
 ## Works

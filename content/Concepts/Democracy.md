@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Democracy
-
 *Theme/Concept* — appears in **59** work(s).
 
 ## Works

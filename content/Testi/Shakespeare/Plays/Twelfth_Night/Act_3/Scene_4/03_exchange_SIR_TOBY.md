@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act III, Scene 4 — exchange (SIR TOBY) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 </nav>

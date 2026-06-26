@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# DONNE: ECLOGUE. ‘ON UNWORTHY WISDOM
-
 *by Coleridge*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -30,14 +28,14 @@ tags:
 
 ## Testo integrale / Full text
 
-So reclused Hermits oftentimes do know
-More of Heaven’s glory than a worldly can:
-As Man is of the World, the Heart of Man
-Is an Epitome of God’s great Book
-Of Creatures, and Men need no further look.
-These lines are quoted by Coleridge in The Friend, 1818, i. 192; 1850,
-i. 147. The first two lines run thus:
-The recluse Hermit oft’ times more doth know
-Of the world’s inmost wheels, than worldlings can, &c.
-The alteration was first pointed out in an edition of The Friend
-issued by H. N. Coleridge in 1837.
+So reclused Hermits oftentimes do know  
+More of Heaven’s glory than a worldly can:  
+As Man is of the World, the Heart of Man  
+Is an Epitome of God’s great Book  
+Of Creatures, and Men need no further look.  
+These lines are quoted by Coleridge in The Friend, 1818, i. 192; 1850,  
+i. 147. The first two lines run thus:  
+The recluse Hermit oft’ times more doth know  
+Of the world’s inmost wheels, than worldlings can, &c.  
+The alteration was first pointed out in an edition of The Friend  
+issued by H. N. Coleridge in 1837.  

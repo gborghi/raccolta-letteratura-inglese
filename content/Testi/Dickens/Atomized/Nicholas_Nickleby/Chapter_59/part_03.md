@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Nicholas Nickleby — Chapter 59 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_59/part_04">part 04 ›</a></div>

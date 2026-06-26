@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14 — The Flag of the World (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_05_The_Flag_of_the_World/part_06">part 06 ›</a></div>

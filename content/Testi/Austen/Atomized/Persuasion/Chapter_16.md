@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Persuasion — Chapter 16
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_15">‹ Chapter 15</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_17">Chapter 17 ›</a></div>

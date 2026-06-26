@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Old Curiosity Shop — Chapter 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_02">Chapter 02 ›</a></div>

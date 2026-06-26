@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — The Paradox of Labour
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_03_The_Family_and_the_Feud">‹ Story 03 The Family and the Feud</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_05_The_Englishman_in_Ireland">Story 05 The Englishman in Ireland ›</a></div>

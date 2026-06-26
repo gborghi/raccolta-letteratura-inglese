@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON FOCH
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_41_ON_MYSELF_ON_ABRAHAM_LINCOLN">‹ Story 41 ON MYSELF ON ABRAHAM LINCOLN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_43_ON_DICKENS_AND_AFTER">Story 43 ON DICKENS AND AFTER ›</a></div>

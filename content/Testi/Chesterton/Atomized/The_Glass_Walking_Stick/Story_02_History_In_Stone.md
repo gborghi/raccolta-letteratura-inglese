@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — History In Stone
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_01_The_Glass_Walking_Stick">‹ Story 01 The Glass Walking Stick</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_03_The_Old_Nurse">Story 03 The Old Nurse ›</a></div>

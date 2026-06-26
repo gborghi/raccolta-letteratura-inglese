@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard II — Act V, Scene 5 — monologue (RICHARD) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
 </nav>

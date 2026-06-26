@@ -14,8 +14,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# Poets to Come
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -29,19 +27,19 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Poets to come! orators, singers, musicians to come!
-  Not to-day is to justify me and answer what I am for,
-  But you, a new brood, native, athletic, continental, greater than
-      before known,
-  Arouse! for you must justify me.
+  Poets to come! orators, singers, musicians to come!  
+  Not to-day is to justify me and answer what I am for,  
+  But you, a new brood, native, athletic, continental, greater than  
+      before known,  
+  Arouse! for you must justify me.  
 
-  I myself but write one or two indicative words for the future,
-  I but advance a moment only to wheel and hurry back in the darkness.
+  I myself but write one or two indicative words for the future,  
+  I but advance a moment only to wheel and hurry back in the darkness.  
 
-  I am a man who, sauntering along without fully stopping, turns a
-      casual look upon you and then averts his face,
-  Leaving it to you to prove and define it,
-  Expecting the main things from you.
+  I am a man who, sauntering along without fully stopping, turns a  
+      casual look upon you and then averts his face,  
+  Leaving it to you to prove and define it,  
+  Expecting the main things from you.  

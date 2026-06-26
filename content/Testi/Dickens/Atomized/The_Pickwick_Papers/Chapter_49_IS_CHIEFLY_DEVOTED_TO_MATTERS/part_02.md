@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 47: IS CHIEFLY DEVOTED TO MATTERS OF BUSINESS, AND THE (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_49_IS_CHIEFLY_DEVOTED_TO_MATTERS/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_49_IS_CHIEFLY_DEVOTED_TO_MATTERS/part_03">part 03 ›</a></div>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# New England / America · New England
-
 *Cluster* — **6 works**.
 
 ## Defining concepts

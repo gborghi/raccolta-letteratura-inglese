@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 23: Mistress Affery makes a Conditional Promise, (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_63_Mistress_Affery_makes_a_Condit/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_64_The_Evening_of_a_Long_Day/part_01">part 01 ›</a></div>

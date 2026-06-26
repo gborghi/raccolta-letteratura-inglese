@@ -38,8 +38,6 @@ tags:
   - character/lord_lowborough
 ---
 
-# The Tenant of Wildfell Hall
-
 *by Bronte*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 

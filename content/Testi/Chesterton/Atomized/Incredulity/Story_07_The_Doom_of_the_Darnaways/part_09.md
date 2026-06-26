@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Incredulity — The Doom of the Darnaways (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_07_The_Doom_of_the_Darnaways/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_08_The_Ghost_of_Gideon_Wise/part_01">part 01 ›</a></div>

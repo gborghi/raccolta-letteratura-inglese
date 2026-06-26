@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE MASK OF THE AGNOSTIC (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_09_THE_MASK_OF_THE_AGNOSTIC/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_09_THE_MASK_OF_THE_AGNOSTIC/part_03">part 03 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Divorce Democracy (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Divorce-Democracy-(Chesterton)">Divorce Democracy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Divorce_Democracy/part/part_02">‹ part 02</a><span></span></div>

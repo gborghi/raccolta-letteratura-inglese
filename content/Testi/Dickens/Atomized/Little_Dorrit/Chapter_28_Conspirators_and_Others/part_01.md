@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 25: Conspirators and Others (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_27_Fortune_Telling/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_28_Conspirators_and_Others/part_02">part 02 ›</a></div>

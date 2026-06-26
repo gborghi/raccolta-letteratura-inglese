@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — Hush!’ The lady paused and stared with a steady gaze of horror, on
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_53_HAPTER_IVTHE_TUGGSES_AT_RAMSGATE">‹ Story 53 HAPTER IVTHE TUGGSES AT RAMSGATE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_55_HAPTER_VHORATIO_SPARKINS">Story 55 HAPTER VHORATIO SPARKINS ›</a></div>

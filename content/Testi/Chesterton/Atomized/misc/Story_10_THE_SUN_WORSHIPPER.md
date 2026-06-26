@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE SUN WORSHIPPER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_09_THE_ENCHANTED_MAN">‹ Story 09 THE ENCHANTED MAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_11_THE_WRONG_INCENDIARY">Story 11 THE WRONG INCENDIARY ›</a></div>

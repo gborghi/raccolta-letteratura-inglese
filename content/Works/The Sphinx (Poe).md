@@ -17,8 +17,6 @@ tags:
   - form/short_story
 ---
 
-# The Sphinx
-
 *by Poe*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 

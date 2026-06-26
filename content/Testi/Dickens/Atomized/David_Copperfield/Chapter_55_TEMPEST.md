@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 55: TEMPEST
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_54_Mr_MICAWBERS_TRANSACTIONS">‹ Chapter 54 Mr MICAWBERS TRANSACTIONS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_56_THE_NEW_WOUND_AND_THE_OLD">Chapter 56 THE NEW WOUND AND THE OLD ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER VIII—THE GREAT WINGLEBURY DUEL (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_59_HAPTER_VIIITHE_GREAT_WINGLEBURY_DUEL/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_60_HAPTER_IXMRS_JOSEPH_PORTER/part_01">part 01 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Bread and Wine / Eucharist
-
 *Motif* — appears in **18** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Agnes Grey
-
 *Character* — appears in **1** work(s).
 
 ## Works

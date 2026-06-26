@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — CHRISTMAS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_34_A_DEAD_POET">‹ Story 34 A DEAD POET</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_02_COCKNEYS_AND_THEIR_JOKES/part_01">part 01 ›</a></div>

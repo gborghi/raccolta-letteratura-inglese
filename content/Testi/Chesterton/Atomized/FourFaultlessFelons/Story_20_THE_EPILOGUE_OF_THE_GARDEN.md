@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE EPILOGUE OF THE GARDEN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_19_THE_SECRET_OF_THE_TREE">‹ Story 19 THE SECRET OF THE TREE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_21_THE_NAME_OF_NADOWAY">Story 21 THE NAME OF NADOWAY ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Slum Novelists and the Slums (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_18_Slum_Novelists_and_the_Slums/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_19_Concluding_Remarks_on_the_Importance_of/part_01">part 01 ›</a></div>

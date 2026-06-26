@@ -19,8 +19,6 @@ tags:
   - motif/moon
 ---
 
-# child psychology
-
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 

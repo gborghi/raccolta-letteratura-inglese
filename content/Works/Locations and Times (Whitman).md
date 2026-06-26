@@ -13,8 +13,6 @@ tags:
   - motif/nature
 ---
 
-# Locations and Times
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -28,10 +26,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Locations and times--what is it in me that meets them all, whenever
-      and wherever, and makes me at home?
-  Forms, colors, densities, odors--what is it in me that corresponds
-      with them?
+  Locations and times--what is it in me that meets them all, whenever  
+      and wherever, and makes me at home?  
+  Forms, colors, densities, odors--what is it in me that corresponds  
+      with them?  

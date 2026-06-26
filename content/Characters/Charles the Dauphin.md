@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Charles the Dauphin
-
 *Character* — appears in **1** work(s).
 
 ## Works

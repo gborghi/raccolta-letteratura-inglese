@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Bret Harte
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_12_The_Position_Of_Sir_Walter_Scott">‹ Story 12 The Position Of Sir Walter Scott</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_14_Alfred_The_Great">Story 14 Alfred The Great ›</a></div>

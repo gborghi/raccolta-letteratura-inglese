@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Gentlemen of Verona — Act I, Scene 2 — monologue (JULIA) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
 </nav>

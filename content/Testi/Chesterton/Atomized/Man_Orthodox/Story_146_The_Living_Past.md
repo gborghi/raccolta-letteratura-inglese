@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Living Past
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_145_The_Number_You_First_Thought_Of">‹ Story 145 The Number You First Thought Of</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_147_The_Unchanging_Vision">Story 147 The Unchanging Vision ›</a></div>

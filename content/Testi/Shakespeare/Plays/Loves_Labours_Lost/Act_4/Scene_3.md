@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Loves Labours Lost — Act IV, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)">Loves Labours Lost</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_4/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Loves_Labours_Lost/Act_5/Scene_1">Scene 1 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Macbeth — Act III, Scene 1 — exchange (MURDERERS) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 </nav>

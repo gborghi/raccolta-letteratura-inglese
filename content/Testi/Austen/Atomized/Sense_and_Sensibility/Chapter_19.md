@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility — Chapter 19
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_18">‹ Chapter 18</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_20">Chapter 20 ›</a></div>

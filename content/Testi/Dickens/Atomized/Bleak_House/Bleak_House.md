@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Bleak House
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
 </nav>

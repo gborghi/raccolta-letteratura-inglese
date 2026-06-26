@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Dream of MacIan (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_14_A_Museum_of_Souls/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_15_The_Dream_of_MacIan/part_02">part 02 ›</a></div>

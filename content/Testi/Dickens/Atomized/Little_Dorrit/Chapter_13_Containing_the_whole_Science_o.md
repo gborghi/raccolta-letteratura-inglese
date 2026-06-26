@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 10: Containing the whole Science of Government
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_12_Little_Mother">‹ Chapter 12 Little Mother</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_14_Let_Loose">Chapter 14 Let Loose ›</a></div>

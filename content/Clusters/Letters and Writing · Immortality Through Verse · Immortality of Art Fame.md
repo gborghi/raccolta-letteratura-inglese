@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Letters and Writing · Immortality Through Verse · Immortality of Art / Fame
-
 *Cluster* — **58 works**.
 
 ## Defining concepts

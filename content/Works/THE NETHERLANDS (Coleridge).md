@@ -14,8 +14,6 @@ tags:
   - topos/book_of_nature
 ---
 
-# THE NETHERLANDS
-
 *by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Water and windmills, greenness, Islets green; —
-Willows whose Trunks beside the shadows stood
-Of their own higher half, and willowy swamp: —
-Farmhouses that at anchor seem’d — in the inland sky
-The fog-transfixing Spires —
-Water, wide water, greenness and green banks,
-And water seen —
-June 1828. Now first published from an MS.
+Water and windmills, greenness, Islets green; —  
+Willows whose Trunks beside the shadows stood  
+Of their own higher half, and willowy swamp: —  
+Farmhouses that at anchor seem’d — in the inland sky  
+The fog-transfixing Spires —  
+Water, wide water, greenness and green banks,  
+And water seen —  
+June 1828. Now first published from an MS.  

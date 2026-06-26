@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# The Last Invocation
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -29,18 +27,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: WHISPERS OF HEAVENLY DEATH_
+_Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
-  At the last, tenderly,
-  From the walls of the powerful fortress’d house,
-  From the clasp of the knitted locks, from the keep of the well-closed doors,
-  Let me be wafted.
+  At the last, tenderly,  
+  From the walls of the powerful fortress’d house,  
+  From the clasp of the knitted locks, from the keep of the well-closed doors,  
+  Let me be wafted.  
 
-  Let me glide noiselessly forth;
-  With the key of softness unlock the locks--with a whisper,
-  Set ope the doors O soul.
+  Let me glide noiselessly forth;  
+  With the key of softness unlock the locks--with a whisper,  
+  Set ope the doors O soul.  
 
-  Tenderly--be not impatient,
-  (Strong is your hold O mortal flesh,
-  Strong is your hold O love.)
+  Tenderly--be not impatient,  
+  (Strong is your hold O mortal flesh,  
+  Strong is your hold O love.)  

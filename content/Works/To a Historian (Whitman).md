@@ -14,8 +14,6 @@ tags:
   - motif/time
 ---
 
-# To a Historian
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,17 +28,17 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  You who celebrate bygones,
-  Who have explored the outward, the surfaces of the races, the life
-      that has exhibited itself,
-  Who have treated of man as the creature of politics, aggregates,
-      rulers and priests,
-  I, habitan of the Alleghanies, treating of him as he is in himself
-      in his own rights,
-  Pressing the pulse of the life that has seldom exhibited itself,
-      (the great pride of man in himself,)
-  Chanter of Personality, outlining what is yet to be,
-  I project the history of the future.
+  You who celebrate bygones,  
+  Who have explored the outward, the surfaces of the races, the life  
+      that has exhibited itself,  
+  Who have treated of man as the creature of politics, aggregates,  
+      rulers and priests,  
+  I, habitan of the Alleghanies, treating of him as he is in himself  
+      in his own rights,  
+  Pressing the pulse of the life that has seldom exhibited itself,  
+      (the great pride of man in himself,)  
+  Chanter of Personality, outlining what is yet to be,  
+  I project the history of the future.  

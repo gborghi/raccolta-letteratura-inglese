@@ -15,8 +15,6 @@ tags:
   - motif/silence
 ---
 
-# I Sit and Look Out
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,24 +28,24 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  I sit and look out upon all the sorrows of the world, and upon all
-      oppression and shame,
-  I hear secret convulsive sobs from young men at anguish with
-      themselves, remorseful after deeds done,
-  I see in low life the mother misused by her children, dying,
-      neglected, gaunt, desperate,
-  I see the wife misused by her husband, I see the treacherous seducer
-      of young women,
-  I mark the ranklings of jealousy and unrequited love attempted to be
-      hid, I see these sights on the earth,
-  I see the workings of battle, pestilence, tyranny, I see martyrs and
-      prisoners,
-  I observe a famine at sea, I observe the sailors casting lots who
-      shall be kill’d to preserve the lives of the rest,
-  I observe the slights and degradations cast by arrogant persons upon
-      laborers, the poor, and upon negroes, and the like;
-  All these--all the meanness and agony without end I sitting look out upon,
-  See, hear, and am silent.
+  I sit and look out upon all the sorrows of the world, and upon all  
+      oppression and shame,  
+  I hear secret convulsive sobs from young men at anguish with  
+      themselves, remorseful after deeds done,  
+  I see in low life the mother misused by her children, dying,  
+      neglected, gaunt, desperate,  
+  I see the wife misused by her husband, I see the treacherous seducer  
+      of young women,  
+  I mark the ranklings of jealousy and unrequited love attempted to be  
+      hid, I see these sights on the earth,  
+  I see the workings of battle, pestilence, tyranny, I see martyrs and  
+      prisoners,  
+  I observe a famine at sea, I observe the sailors casting lots who  
+      shall be kill’d to preserve the lives of the rest,  
+  I observe the slights and degradations cast by arrogant persons upon  
+      laborers, the poor, and upon negroes, and the like;  
+  All these--all the meanness and agony without end I sitting look out upon,  
+  See, hear, and am silent.  

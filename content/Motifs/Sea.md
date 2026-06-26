@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Sea
-
 *Motif* — appears in **234** work(s).
 
 ## Works

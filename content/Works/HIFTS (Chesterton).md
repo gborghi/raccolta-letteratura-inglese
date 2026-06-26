@@ -22,8 +22,6 @@ tags:
   - setting/london
 ---
 
-# HIFTS
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

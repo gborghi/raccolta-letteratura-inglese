@@ -29,8 +29,6 @@ tags:
   - concept/deception
 ---
 
-# The Narrative of A. Gordon Pym (Raven Edition)
-
 *by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 

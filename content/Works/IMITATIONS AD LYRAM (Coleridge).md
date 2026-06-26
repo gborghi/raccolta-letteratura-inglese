@@ -16,8 +16,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# IMITATIONS: AD LYRAM
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -33,21 +31,21 @@ tags:
 
 ## Testo integrale / Full text
 
-(CASIMIR, BOOK II. ODE 3)
-The solemn-breathing air is ended —
-Cease, O Lyre! thy kindred lay!
-From the poplar-branch suspended
-Glitter to the eye of Day!
-On thy wires hov’ring, dying,   5
-Softly sighs the summer wind:
-I will slumber, careless lying,
-By yon waterfall reclin’d.
-In the forest hollow-roaring
-Hark! I hear a deep’ning sound — 10
-Clouds rise thick with heavy low’ring!
-See! th’ horizon blackens round!
-Parent of the soothing measure,
-Let me seize thy wetted string!
-Swiftly flies the flatterer, Pleasure,   15
-Headlong, ever on the wing.
-1794.
+(CASIMIR, BOOK II. ODE 3)  
+The solemn-breathing air is ended —  
+Cease, O Lyre! thy kindred lay!  
+From the poplar-branch suspended  
+Glitter to the eye of Day!  
+On thy wires hov’ring, dying,   5  
+Softly sighs the summer wind:  
+I will slumber, careless lying,  
+By yon waterfall reclin’d.  
+In the forest hollow-roaring  
+Hark! I hear a deep’ning sound — 10  
+Clouds rise thick with heavy low’ring!  
+See! th’ horizon blackens round!  
+Parent of the soothing measure,  
+Let me seize thy wetted string!  
+Swiftly flies the flatterer, Pleasure,   15  
+Headlong, ever on the wing.  
+1794.  

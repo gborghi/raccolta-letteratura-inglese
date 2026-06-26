@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XXII—GIN-SHOPS (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_31_HAPTER_XXIIGIN_SHOPS/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_32_HAPTER_XXIIITHE_PAWNBROKERS_SHOP/part_01">part 01 ›</a></div>

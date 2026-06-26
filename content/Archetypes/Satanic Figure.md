@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Satanic Figure
-
 *Archetype* — appears in **24** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Flying Stars
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_03_The_Queer_Feet">‹ Story 03 The Queer Feet</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man">Story 05 The Invisible Man ›</a></div>

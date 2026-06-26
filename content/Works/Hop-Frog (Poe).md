@@ -27,8 +27,6 @@ tags:
   - setting/the_court
 ---
 
-# Hop-Frog
-
 *by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

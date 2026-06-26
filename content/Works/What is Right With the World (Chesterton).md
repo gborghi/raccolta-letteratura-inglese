@@ -18,8 +18,6 @@ tags:
   - concept/the_natural_order
 ---
 
-# What is Right With the World
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mr Fezziwig
-
 *Character* — appears in **1** work(s).
 
 ## Works

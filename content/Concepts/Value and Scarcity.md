@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Value and Scarcity
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

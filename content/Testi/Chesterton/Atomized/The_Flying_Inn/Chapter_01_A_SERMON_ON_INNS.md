@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 1: A SERMON ON INNS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_02_THE_END_OF_OLIVE_ISLAND">Chapter 02 THE END OF OLIVE ISLAND ›</a></div>

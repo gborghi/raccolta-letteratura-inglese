@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — Written in the Sand
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_05_The_True_Vanity_of_Vanities">‹ Story 05 The True Vanity of Vanities</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_07_A_Case_of_Comrades">Story 07 A Case of Comrades ›</a></div>

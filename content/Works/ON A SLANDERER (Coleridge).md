@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# ON A SLANDERER
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-From yonder tomb of recent date,
-There comes a strange mephitic blast.
-Here lies — Ha! Backbite, you at last —
-‘Tis he indeed: and sure as fate,
-They buried him in overhaste —
-Into the earth he has been cast,
-And in this grave,
-Before the man had breathed his last.
+From yonder tomb of recent date,  
+There comes a strange mephitic blast.  
+Here lies — Ha! Backbite, you at last —  
+‘Tis he indeed: and sure as fate,  
+They buried him in overhaste —  
+Into the earth he has been cast,  
+And in this grave,  
+Before the man had breathed his last.  
 1799. First published from an MS. in 1893. An expansion of [Epigram] No.
-12.
+12.  

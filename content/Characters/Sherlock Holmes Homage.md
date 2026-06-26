@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sherlock Holmes Homage
-
 *Character* — appears in **3** work(s).
 
 ## Works

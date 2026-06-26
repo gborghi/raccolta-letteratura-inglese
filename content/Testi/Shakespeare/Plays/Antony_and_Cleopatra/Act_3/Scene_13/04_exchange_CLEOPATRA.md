@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Antony and Cleopatra — Act III, Scene 13 — exchange (CLEOPATRA) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE SULTAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_28_THE_FALSE_PHOTOGRAPHER">‹ Story 28 THE FALSE PHOTOGRAPHER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_30_THE_ARCHITECT_OF_SPEARS">Story 30 THE ARCHITECT OF SPEARS ›</a></div>

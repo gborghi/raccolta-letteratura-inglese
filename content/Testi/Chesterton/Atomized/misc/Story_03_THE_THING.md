@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE THING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_02_THE_POET_AND_THE_CHEESE">‹ Story 02 THE POET AND THE CHEESE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_04_THE_MAN_WHO_THINKS_BACKWARDS">Story 04 THE MAN WHO THINKS BACKWARDS ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act IV, Scene 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_V/Act_4/Scene_7">‹ Scene 7</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Henry_V/Act_5/Scene_0">Scene 0 ›</a></div>

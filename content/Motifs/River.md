@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# River
-
 *Motif* — appears in **56** work(s).
 
 ## Works

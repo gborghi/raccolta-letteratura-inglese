@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Ode · Nature vs Civilization · Pastoral Retreat
-
 *Cluster* — **32 works**.
 
 ## Defining concepts

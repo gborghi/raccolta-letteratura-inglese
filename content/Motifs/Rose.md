@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Rose
-
 *Motif* — appears in **84** work(s).
 
 ## Works

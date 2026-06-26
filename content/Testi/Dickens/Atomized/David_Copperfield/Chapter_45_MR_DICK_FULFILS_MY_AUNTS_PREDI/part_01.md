@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 45: MR. DICK FULFILS MY AUNT’S PREDICTIONS (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_44_OUR_HOUSEKEEPING/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_45_MR_DICK_FULFILS_MY_AUNTS_PREDI/part_02">part 02 ›</a></div>

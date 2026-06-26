@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Desire and Longing
-
 *Theme/Concept* — appears in **8** work(s).
 
 ## Works

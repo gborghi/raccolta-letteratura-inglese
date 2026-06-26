@@ -18,8 +18,6 @@ tags:
   - concept/love_romantic
 ---
 
-# Sonnet 119
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -34,17 +32,17 @@ tags:
 
 ## Testo integrale / Full text
 
-What potions have I drunk of siren tears 
-Distilled from limbecks foul as hell within, 
-Applying fears to hopes and hopes to fears, 
-Still losing when I saw myself to win! 
-What wretched errors hath my heart committed 
-Whilst it hath thought itself so blessed never! 
-How have mine eyes out of their spheres been fitted 
-In the distraction of this madding fever! 
-O benefit of ill! Now I find true 
-That better is by evil still made better, 
-And ruined love when it is built anew 
-Grows fairer than at first, more strong, far greater. 
-So I return rebuked to my content, 
-And gain by ills thrice more than I have spent.
+What potions have I drunk of siren tears  
+Distilled from limbecks foul as hell within,  
+Applying fears to hopes and hopes to fears,  
+Still losing when I saw myself to win!  
+What wretched errors hath my heart committed  
+Whilst it hath thought itself so blessed never!  
+How have mine eyes out of their spheres been fitted  
+In the distraction of this madding fever!  
+O benefit of ill! Now I find true  
+That better is by evil still made better,  
+And ruined love when it is built anew  
+Grows fairer than at first, more strong, far greater.  
+So I return rebuked to my content,  
+And gain by ills thrice more than I have spent.  

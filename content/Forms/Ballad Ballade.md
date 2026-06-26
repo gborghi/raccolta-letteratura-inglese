@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Ballad / Ballade
-
 *Form/Genre* — appears in **53** work(s).
 
 ## Works

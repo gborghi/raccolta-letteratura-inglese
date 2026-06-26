@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Food and Feasting
-
 *Motif* — appears in **53** work(s).
 
 ## Works

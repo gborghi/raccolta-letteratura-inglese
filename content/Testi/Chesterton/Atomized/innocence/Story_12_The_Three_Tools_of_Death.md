@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Three Tools of Death
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_11_The_Sign_of_the_Broken_Sword">‹ Story 11 The Sign of the Broken Sword</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_01_The_Blue_Cross/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manalive
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manalive-(Chesterton)">manalive</a></div>
 </nav>

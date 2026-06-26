@@ -26,8 +26,6 @@ tags:
   - setting/the_court
 ---
 
-# The Truth of Masks
-
 *by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Hymn
-
 *Form/Genre* — appears in **65** work(s).
 
 ## Works

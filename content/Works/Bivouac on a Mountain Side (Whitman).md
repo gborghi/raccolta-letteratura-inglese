@@ -15,8 +15,6 @@ tags:
   - concept/war_and_its_cost
 ---
 
-# Bivouac on a Mountain Side
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

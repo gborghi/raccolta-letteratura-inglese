@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Rabelaisian Regrets (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_18_The_New_Groove/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_20_Rabelaisian_Regrets/part_02">part 02 ›</a></div>

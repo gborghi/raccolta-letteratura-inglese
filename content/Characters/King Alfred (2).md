@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# King Alfred
-
 *Character* — appears in **4** work(s).
 
 ## Works

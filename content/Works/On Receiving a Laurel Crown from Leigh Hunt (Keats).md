@@ -16,8 +16,6 @@ tags:
   - form/sonnet
 ---
 
-# On Receiving a Laurel Crown from Leigh Hunt
-
 *by Keats*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Minutes are flying swiftly, and as yet
-Nothing unearthly has enticed my brain
-Into a delphic labyrinth - I would fain
-Catch an unmortal thought to pay the debt
-I owe to the kind Poet who has set
-Upon my ambitious head a glorious gain.
-Two bending laurel sprigs - ’tis nearly pain
-To be conscious of such a Coronet.
-Still time is fleeting, and no dream arises
-Gorgeous as I would have it - only I see  10
-A trampling down of what the world most prizes
-Turbans and Crowns, and blank regality;
-And then I run into most wild surmises
-Of all the many glories that may be.
+Minutes are flying swiftly, and as yet  
+Nothing unearthly has enticed my brain  
+Into a delphic labyrinth - I would fain  
+Catch an unmortal thought to pay the debt  
+I owe to the kind Poet who has set  
+Upon my ambitious head a glorious gain.  
+Two bending laurel sprigs - ’tis nearly pain  
+To be conscious of such a Coronet.  
+Still time is fleeting, and no dream arises  
+Gorgeous as I would have it - only I see  10  
+A trampling down of what the world most prizes  
+Turbans and Crowns, and blank regality;  
+And then I run into most wild surmises  
+Of all the many glories that may be.  

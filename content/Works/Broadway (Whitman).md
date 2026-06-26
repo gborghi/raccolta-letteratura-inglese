@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Broadway
-
 *by Whitman*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  What hurrying human tides, or day or night!
-  What passions, winnings, losses, ardors, swim thy waters!
-  What whirls of evil, bliss and sorrow, stem thee!
-  What curious questioning glances--glints of love!
-  Leer, envy, scorn, contempt, hope, aspiration!
-  Thou portal--thou arena--thou of the myriad long-drawn lines and groups!
-  (Could but thy flagstones, curbs, facades, tell their inimitable tales;
-  Thy windows rich, and huge hotels--thy side-walks wide;)
-  Thou of the endless sliding, mincing, shuffling feet!
-  Thou, like the parti-colored world itself--like infinite, teeming,
-      mocking life!
-  Thou visor’d, vast, unspeakable show and lesson!
+  What hurrying human tides, or day or night!  
+  What passions, winnings, losses, ardors, swim thy waters!  
+  What whirls of evil, bliss and sorrow, stem thee!  
+  What curious questioning glances--glints of love!  
+  Leer, envy, scorn, contempt, hope, aspiration!  
+  Thou portal--thou arena--thou of the myriad long-drawn lines and groups!  
+  (Could but thy flagstones, curbs, facades, tell their inimitable tales;  
+  Thy windows rich, and huge hotels--thy side-walks wide;)  
+  Thou of the endless sliding, mincing, shuffling feet!  
+  Thou, like the parti-colored world itself--like infinite, teeming,  
+      mocking life!  
+  Thou visor’d, vast, unspeakable show and lesson!  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — SCIENCE AND RELIGION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_21_THE_WORSHIP_OF_THE_WEALTHY">‹ Story 21 THE WORSHIP OF THE WEALTHY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_23_THE_METHUSELAHITE">Story 23 THE METHUSELAHITE ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - concept/appearance_vs_reality
 ---
 
-# When I Read the Book
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  When I read the book, the biography famous,
-  And is this then (said I) what the author calls a man’s life?
-  And so will some one when I am dead and gone write my life?
-  (As if any man really knew aught of my life,
-  Why even I myself I often think know little or nothing of my real life,
-  Only a few hints, a few diffused faint clews and indirections
-  I seek for my own use to trace out here.)
+  When I read the book, the biography famous,  
+  And is this then (said I) what the author calls a man’s life?  
+  And so will some one when I am dead and gone write my life?  
+  (As if any man really knew aught of my life,  
+  Why even I myself I often think know little or nothing of my real life,  
+  Only a few hints, a few diffused faint clews and indirections  
+  I seek for my own use to trace out here.)  

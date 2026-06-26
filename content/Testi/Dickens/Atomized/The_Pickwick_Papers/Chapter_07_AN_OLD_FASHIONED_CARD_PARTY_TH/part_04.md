@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 6: AN OLD-FASHIONED CARD-PARTY--THE CLERGYMAN’S VERSES--THE (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_07_AN_OLD_FASHIONED_CARD_PARTY_TH/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_07_AN_OLD_FASHIONED_CARD_PARTY_TH/part_05">part 05 ›</a></div>

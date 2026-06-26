@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE DRAMATIST
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_06_THE_CRITIC">‹ Story 06 THE CRITIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER">Story 08 THE PHILOSOPHER ›</a></div>

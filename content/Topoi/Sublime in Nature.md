@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Sublime in Nature
-
 *Topos* — appears in **2** work(s).
 
 ## Works

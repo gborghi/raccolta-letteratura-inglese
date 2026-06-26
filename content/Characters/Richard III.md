@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Richard III
-
 *Character* — appears in **2** work(s).
 
 ## Works

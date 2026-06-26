@@ -14,8 +14,6 @@ tags:
   - setting/america
 ---
 
-# Thoughts
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

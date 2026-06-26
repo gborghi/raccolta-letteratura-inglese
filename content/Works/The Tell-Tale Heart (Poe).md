@@ -21,8 +21,6 @@ tags:
   - form/short_story
 ---
 
-# The Tell-Tale Heart
-
 *by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

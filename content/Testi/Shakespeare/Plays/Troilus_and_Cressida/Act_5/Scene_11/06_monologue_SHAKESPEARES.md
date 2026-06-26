@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Troilus and Cressida — Act V, Scene 11 — monologue (SHAKESPEARE’S) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of A. Gordon Pym (Raven Edition) — Chapter 12 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_12/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_12/part_03">part 03 ›</a></div>

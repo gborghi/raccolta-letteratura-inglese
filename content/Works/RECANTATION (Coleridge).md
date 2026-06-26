@@ -18,8 +18,6 @@ tags:
   - concept/power_and_corruption
 ---
 
-# RECANTATION
-
 *by Coleridge*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# William Cobbett
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/William-Cobbett-(Chesterton)">William Cobbett</a></div>
 </nav>

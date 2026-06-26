@@ -34,8 +34,6 @@ tags:
   - character/the_jailers_daughter
 ---
 
-# THE TWO NOBLE KINSMEN
-
 *by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 

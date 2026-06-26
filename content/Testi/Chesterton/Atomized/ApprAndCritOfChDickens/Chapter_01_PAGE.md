@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ApprAndCritOfChDickens — Chapter 1: PAGE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_02_desire_to_say_as_little_as_pos">Chapter 02 desire to say as little as pos ›</a></div>

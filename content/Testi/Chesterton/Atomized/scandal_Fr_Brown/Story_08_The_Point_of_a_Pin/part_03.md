@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The Point of a Pin (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin/part_04">part 04 ›</a></div>

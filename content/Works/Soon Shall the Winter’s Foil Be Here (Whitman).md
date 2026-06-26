@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# Soon Shall the Winter’s Foil Be Here
-
 *by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 
@@ -34,22 +32,22 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Soon shall the winter’s foil be here;
-  Soon shall these icy ligatures unbind and melt--A little while,
-  And air, soil, wave, suffused shall be in softness, bloom and
-      growth--a thousand forms shall rise
-  From these dead clods and chills as from low burial graves.
+  Soon shall the winter’s foil be here;  
+  Soon shall these icy ligatures unbind and melt--A little while,  
+  And air, soil, wave, suffused shall be in softness, bloom and  
+      growth--a thousand forms shall rise  
+  From these dead clods and chills as from low burial graves.  
 
-  Thine eyes, ears--all thy best attributes--all that takes cognizance
-      of natural beauty,
-  Shall wake and fill. Thou shalt perceive the simple shows, the
-      delicate miracles of earth,
-  Dandelions, clover, the emerald grass, the early scents and flowers,
-  The arbutus under foot, the willow’s yellow-green, the blossoming
-      plum and cherry;
-  With these the robin, lark and thrush, singing their songs--the
-      flitting bluebird;
-  For such the scenes the annual play brings on.
+  Thine eyes, ears--all thy best attributes--all that takes cognizance  
+      of natural beauty,  
+  Shall wake and fill. Thou shalt perceive the simple shows, the  
+      delicate miracles of earth,  
+  Dandelions, clover, the emerald grass, the early scents and flowers,  
+  The arbutus under foot, the willow’s yellow-green, the blossoming  
+      plum and cherry;  
+  With these the robin, lark and thrush, singing their songs--the  
+      flitting bluebird;  
+  For such the scenes the annual play brings on.  

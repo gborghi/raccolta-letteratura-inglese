@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# War as Glory
-
 *Topos* — appears in **26** work(s).
 
 ## Works

@@ -16,8 +16,6 @@ tags:
   - setting/a_ship
 ---
 
-# THE FOSTER-MOTHER’S TALE
-
 *by Coleridge*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 

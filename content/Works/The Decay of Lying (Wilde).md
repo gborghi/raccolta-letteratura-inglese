@@ -32,8 +32,6 @@ tags:
   - character/hamlet
 ---
 
-# The Decay of Lying
-
 *by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

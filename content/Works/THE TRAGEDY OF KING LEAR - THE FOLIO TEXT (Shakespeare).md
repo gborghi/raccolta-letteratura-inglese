@@ -44,8 +44,6 @@ tags:
   - character/the_fool
 ---
 
-# THE TRAGEDY OF KING LEAR - THE FOLIO TEXT
-
 *by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

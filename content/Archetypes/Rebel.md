@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Rebel
-
 *Archetype* — appears in **36** work(s).
 
 ## Works

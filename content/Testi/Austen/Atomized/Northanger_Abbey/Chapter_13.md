@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Northanger Abbey — Chapter 12
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_12">‹ Chapter 12</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_14">Chapter 14 ›</a></div>

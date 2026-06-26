@@ -17,8 +17,6 @@ tags:
   - histref/catholic_church
 ---
 
-# AN INVOCATION
-
 *by Coleridge*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -33,20 +31,20 @@ tags:
 
 ## Testo integrale / Full text
 
-FROM REMORSE
-[Act III, Scene i. ll. 69-82.]
-Hear, sweet Spirit, hear the spell,
-Lest a blacker charm compel!
-So shall the midnight breezes swell
-With thy deep long-lingering knell.
-And at evening evermore,   5
-In a chapel on the shore,
-Shall the chaunter, sad and saintly,
-Yellow tapers burning faintly,
-Doleful masses chaunt for thee,
-Miserere Domine!   10
-Hush! the cadence dies away
-On the quiet moonlight sea:
-The boatmen rest their oars and say,
-Miserere Domine!
-1812.
+FROM REMORSE  
+[Act III, Scene i. ll. 69-82.]  
+Hear, sweet Spirit, hear the spell,  
+Lest a blacker charm compel!  
+So shall the midnight breezes swell  
+With thy deep long-lingering knell.  
+And at evening evermore,   5  
+In a chapel on the shore,  
+Shall the chaunter, sad and saintly,  
+Yellow tapers burning faintly,  
+Doleful masses chaunt for thee,  
+Miserere Domine!   10  
+Hush! the cadence dies away  
+On the quiet moonlight sea:  
+The boatmen rest their oars and say,  
+Miserere Domine!  
+1812.  

@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Great Chain of Being
-
 *Topos* — appears in **6** work(s).
 
 ## Works

@@ -14,8 +14,6 @@ tags:
   - concept/wonder_and_gratitude
 ---
 
-# That Music Always Round Me
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

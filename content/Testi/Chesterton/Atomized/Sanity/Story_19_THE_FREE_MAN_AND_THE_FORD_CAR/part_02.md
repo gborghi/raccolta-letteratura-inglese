@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE FREE MAN AND THE FORD CAR (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_19_THE_FREE_MAN_AND_THE_FORD_CAR/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_19_THE_FREE_MAN_AND_THE_FORD_CAR/part_03">part 03 ›</a></div>

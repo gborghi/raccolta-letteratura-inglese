@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Melodrama
-
 *Form/Genre* — appears in **1** work(s).
 
 ## Works

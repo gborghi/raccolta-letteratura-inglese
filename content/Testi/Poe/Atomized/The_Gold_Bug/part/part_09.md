@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Gold-Bug (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Gold-Bug-(Poe)">The Gold Bug</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Gold_Bug/part/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Gold_Bug/part/part_10">part 10 ›</a></div>

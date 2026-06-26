@@ -39,8 +39,6 @@ tags:
   - motif/garden
 ---
 
-# manalive
-
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 

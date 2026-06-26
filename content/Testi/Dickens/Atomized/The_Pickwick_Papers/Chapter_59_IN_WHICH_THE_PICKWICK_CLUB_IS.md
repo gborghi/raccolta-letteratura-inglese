@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 57: IN WHICH THE PICKWICK CLUB IS FINALLY DISSOLVED, AND
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_58_AN_IMPORTANT_CONFERENCE_TAKES">‹ Chapter 58 AN IMPORTANT CONFERENCE TAKES</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE/part_01">part 01 ›</a></div>

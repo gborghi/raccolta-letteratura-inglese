@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 10: I BECOME NEGLECTED, AND AM PROVIDED FOR (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT/part_01">part 01 ›</a></div>

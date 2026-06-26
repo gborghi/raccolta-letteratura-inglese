@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE VANISHING PRINCE (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE/part_04">part 04 ›</a></div>

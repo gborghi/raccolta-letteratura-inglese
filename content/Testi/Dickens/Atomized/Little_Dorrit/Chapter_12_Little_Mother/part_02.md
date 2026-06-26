@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 9: Little Mother (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_12_Little_Mother/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_12_Little_Mother/part_03">part 03 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Slum Novelists and the Slums
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_17_The_Fallacy_of_the_Young_Nation">‹ Story 17 The Fallacy of the Young Nation</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_19_Concluding_Remarks_on_the_Importance_of">Story 19 Concluding Remarks on the Importance of ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Business Man (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Business-Man-(Poe)">The Business Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Business_Man/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Business_Man/part/part_04">part 04 ›</a></div>

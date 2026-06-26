@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lazarus / the Risen Man
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Loss of Breath
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Loss-of-Breath-(Poe)">Loss of Breath</a></div>
 </nav>

@@ -44,8 +44,6 @@ tags:
   - character/agamemnon
 ---
 
-# TROILUS AND CRESSIDA
-
 *by Shakespeare*  ·  **Cluster:** [[Order vs Chaos · Historical Novel · Fanaticism]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lady Clementina Beauchamp
-
 *Character* — appears in **1** work(s).
 
 ## Works

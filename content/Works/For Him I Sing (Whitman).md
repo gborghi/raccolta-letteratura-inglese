@@ -14,8 +14,6 @@ tags:
   - motif/nature
 ---
 
-# For Him I Sing
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  For him I sing,
-  I raise the present on the past,
-  (As some perennial tree out of its roots, the present on the past,)
-  With time and space I him dilate and fuse the immortal laws,
-  To make himself by them the law unto himself.
+  For him I sing,  
+  I raise the present on the past,  
+  (As some perennial tree out of its roots, the present on the past,)  
+  With time and space I him dilate and fuse the immortal laws,  
+  To make himself by them the law unto himself.  

@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility — Chapter 49 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_49/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_49/part_03">part 03 ›</a></div>

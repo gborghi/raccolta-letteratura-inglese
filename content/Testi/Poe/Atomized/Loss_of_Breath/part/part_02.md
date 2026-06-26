@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Loss of Breath (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Loss-of-Breath-(Poe)">Loss of Breath</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Loss_of_Breath/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/Loss_of_Breath/part/part_03">part 03 ›</a></div>

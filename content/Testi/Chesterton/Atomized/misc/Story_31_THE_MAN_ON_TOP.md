@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE MAN ON TOP
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_30_THE_ARCHITECT_OF_SPEARS">‹ Story 30 THE ARCHITECT OF SPEARS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_32_THE_OTHER_KIND_OF_MAN">Story 32 THE OTHER KIND OF MAN ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# Lord Arthur Savile's Crime (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/Lord-Arthur-Savile's-Crime-(Wilde)">020 Lord Arthur Saviles Crime</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/020_Lord_Arthur_Saviles_Crime/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Wilde/Atomized/020_Lord_Arthur_Saviles_Crime/part/part_03">part 03 ›</a></div>

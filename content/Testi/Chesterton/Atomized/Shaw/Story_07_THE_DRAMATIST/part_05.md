@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE DRAMATIST (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_07_THE_DRAMATIST/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_07_THE_DRAMATIST/part_06">part 06 ›</a></div>

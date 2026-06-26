@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# King Alfred
-
 *Historical reference* — appears in **5** work(s).
 
 ## Works

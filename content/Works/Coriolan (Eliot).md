@@ -24,8 +24,6 @@ tags:
   - setting/ancient_rome
 ---
 
-# Coriolan
-
 *by Eliot*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

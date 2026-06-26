@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 16: THE SEVEN MOODS OF DORIAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_15_THE_SONGS_OF_THE_CAR_CLUB">‹ Chapter 15 THE SONGS OF THE CAR CLUB</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_17_THE_POET_IN_PARLIAMENT">Chapter 17 THE POET IN PARLIAMENT ›</a></div>

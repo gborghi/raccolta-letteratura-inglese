@@ -14,8 +14,6 @@ tags:
   - form/epigram
 ---
 
-# OF HUMANE LEARNING
-
 *by Coleridge*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
@@ -28,16 +26,16 @@ tags:
 
 ## Testo integrale / Full text
 
-STANZA CLX
-For onely that man understands indeed,
-And well remembers, which he well can doe,
-The Laws live, onely where the Law doth breed
-Obedience to the workes it bindes us to:
-And as the life of Wisedome hath exprest,
-If this ye know, then doe it, and be blest.
-LORD BROOKE.
-Motto to Notes on a Barrister’s Hints on Evangelical Preaching, 1810,
-in Lit. Rem., 1839, iv. 320.
-ll. 2,    3
-Who well remembers what he well can do;
-The Faith lives only where the faith doth breed.
+STANZA CLX  
+For onely that man understands indeed,  
+And well remembers, which he well can doe,  
+The Laws live, onely where the Law doth breed  
+Obedience to the workes it bindes us to:  
+And as the life of Wisedome hath exprest,  
+If this ye know, then doe it, and be blest.  
+LORD BROOKE.  
+Motto to Notes on a Barrister’s Hints on Evangelical Preaching, 1810,  
+in Lit. Rem., 1839, iv. 320.  
+ll. 2,    3  
+Who well remembers what he well can do;  
+The Faith lives only where the faith doth breed.  

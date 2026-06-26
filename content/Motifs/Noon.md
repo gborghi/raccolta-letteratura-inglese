@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Noon
-
 *Motif* — appears in **2** work(s).
 
 ## Works

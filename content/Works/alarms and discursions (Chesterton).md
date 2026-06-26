@@ -32,8 +32,6 @@ tags:
   - setting/london
 ---
 
-# alarms and discursions
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

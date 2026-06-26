@@ -13,8 +13,6 @@ tags:
   - motif/the_sea
 ---
 
-# Fast Anchor’d Eternal O Love!
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
@@ -27,12 +25,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CALAMUS_
+_Cluster: CALAMUS_  
 
 
-  Fast-anchor’d eternal O love! O woman I love!
-  O bride! O wife! more resistless than I can tell, the thought of you!
-  Then separate, as disembodied or another born,
-  Ethereal, the last athletic reality, my consolation,
-  I ascend, I float in the regions of your love O man,
-  O sharer of my roving life.
+  Fast-anchor’d eternal O love! O woman I love!  
+  O bride! O wife! more resistless than I can tell, the thought of you!  
+  Then separate, as disembodied or another born,  
+  Ethereal, the last athletic reality, my consolation,  
+  I ascend, I float in the regions of your love O man,  
+  O sharer of my roving life.  

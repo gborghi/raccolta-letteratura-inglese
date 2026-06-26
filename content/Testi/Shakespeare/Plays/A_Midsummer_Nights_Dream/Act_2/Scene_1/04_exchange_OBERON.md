@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# A Midsummer Nights Dream — Act II, Scene 1 — exchange (OBERON) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)">A Midsummer Nights Dream</a></div>
 </nav>

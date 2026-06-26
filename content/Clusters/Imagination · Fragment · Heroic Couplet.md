@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Imagination · Fragment · Heroic Couplet
-
 *Cluster* — **47 works**.
 
 ## Defining concepts

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Desire
-
 *Theme/Concept* — appears in **29** work(s).
 
 ## Works

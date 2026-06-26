@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Night
-
 *Motif* — appears in **107** work(s).
 
 ## Works

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Sleep · Sleeper Awakes · Resurrection
-
 *Cluster* — **16 works**.
 
 ## Defining concepts

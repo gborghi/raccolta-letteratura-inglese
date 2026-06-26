@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Comradeship · Union · Hands / Hand in Hand
-
 *Cluster* — **23 works**.
 
 ## Defining concepts

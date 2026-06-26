@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Fog and Smoke
-
 *Cluster* — **4 works**.
 
 ## Defining concepts

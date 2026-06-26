@@ -26,8 +26,6 @@ tags:
   - archetype/villain
 ---
 
-# THE DEATH OF WALLENSTEIN
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

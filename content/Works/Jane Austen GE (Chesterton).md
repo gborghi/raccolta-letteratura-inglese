@@ -16,8 +16,6 @@ tags:
   - concept/power_and_corruption
 ---
 
-# Jane Austen GE
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

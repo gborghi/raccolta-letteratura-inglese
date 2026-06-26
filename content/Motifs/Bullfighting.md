@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Bullfighting
-
 *Motif* — appears in **3** work(s).
 
 ## Works

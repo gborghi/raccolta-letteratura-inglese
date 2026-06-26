@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lady Dedlock
-
 *Character* — appears in **1** work(s).
 
 ## Works

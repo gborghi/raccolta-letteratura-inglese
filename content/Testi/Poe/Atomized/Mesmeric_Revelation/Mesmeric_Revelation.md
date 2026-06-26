@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mesmeric Revelation
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mesmeric-Revelation-(Poe)">Mesmeric Revelation</a></div>
 </nav>

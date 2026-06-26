@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Appearance vs Reality · Beauty · Eyes and Sight
-
 *Cluster* — **59 works**.
 
 ## Defining concepts

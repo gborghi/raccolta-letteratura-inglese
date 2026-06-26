@@ -30,8 +30,6 @@ tags:
   - histref/victorian_england
 ---
 
-# Sketches by Boz
-
 *by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

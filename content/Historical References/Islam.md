@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Islam
-
 *Historical reference* — appears in **1** work(s).
 
 ## Works

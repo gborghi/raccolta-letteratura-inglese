@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Thou Art the Man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Thou-Art-the-Man-(Poe)">Thou Art the Man</a></div>
 </nav>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Twelfth Night
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

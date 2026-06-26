@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Eugenics — Part 2 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Eugenics-(Chesterton)">Eugenics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Eugenics/Chapter_03/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Eugenics/Chapter_03/part_05">part 05 ›</a></div>

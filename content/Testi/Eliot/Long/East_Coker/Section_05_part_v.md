@@ -7,8 +7,6 @@ tags:
   - author/Eliot
 ---
 
-# East Coker — V
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · East Coker</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/East_Coker/Section_04_part_iv">‹ Section 04 part iv</a><span></span></div>

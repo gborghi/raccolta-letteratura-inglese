@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Picture of Dorian Gray
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Picture-of-Dorian-Gray-(Wilde)">009 The Picture of Dorian Gray</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — ABOUT ROYAL WEDDINGS (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_45_MAY_explain_that_I_am_one_of_the_people">‹ Story 45 MAY explain that I am one of the people</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_36_ABOUT_ROYAL_WEDDINGS/part_02">part 02 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — ANONYMITY AND FURTHER COUNSELS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_18_LIMERICKS_AND_COUNSELS_OF_PERFECTION">‹ Story 18 LIMERICKS AND COUNSELS OF PERFECTION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_20_ON_THE_CRYPTIC_AND_THE_ELLIPTIC">Story 20 ON THE CRYPTIC AND THE ELLIPTIC ›</a></div>

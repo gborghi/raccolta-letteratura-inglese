@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Fate and Free Will
-
 *Theme/Concept* — appears in **61** work(s).
 
 ## Works

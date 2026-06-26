@@ -14,8 +14,6 @@ tags:
   - motif/the_supernatural
 ---
 
-# As If a Phantom Caress’d Me
-
 *by Whitman*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 

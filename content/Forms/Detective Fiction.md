@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Detective Fiction
-
 *Form/Genre* — appears in **21** work(s).
 
 ## Works

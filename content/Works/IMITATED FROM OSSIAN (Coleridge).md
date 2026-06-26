@@ -17,8 +17,6 @@ tags:
   - motif/moon
 ---
 
-# IMITATED FROM OSSIAN
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,24 +31,24 @@ tags:
 
 ## Testo integrale / Full text
 
-The stream with languid murmur creeps,
-In Lumin’s flowery vale:
-Beneath the dew the Lily weeps
-Slow-waving to the gale.
-‘Cease, restless gale!’ it seems to say,   5
-‘Nor wake me with thy sighing!
-The honours of my vernal day
-On rapid wing are flying.
-‘To-morrow shall the Traveller come
-Who late beheld me blooming:   10
-His searching eye shall vainly roam
-The dreary vale of Lumin.’
-With eager gaze and wetted cheek
-My wonted haunts along,
-Thus, faithful Maiden! thou shalt seek   15
-The Youth of simplest song.
-But I along the breeze shall roll
-The voice of feeble power;
-And dwell, the Moon-beam of thy soul,
-In Slumber’s nightly hour.   20
-1793.
+The stream with languid murmur creeps,  
+In Lumin’s flowery vale:  
+Beneath the dew the Lily weeps  
+Slow-waving to the gale.  
+‘Cease, restless gale!’ it seems to say,   5  
+‘Nor wake me with thy sighing!  
+The honours of my vernal day  
+On rapid wing are flying.  
+‘To-morrow shall the Traveller come  
+Who late beheld me blooming:   10  
+His searching eye shall vainly roam  
+The dreary vale of Lumin.’  
+With eager gaze and wetted cheek  
+My wonted haunts along,  
+Thus, faithful Maiden! thou shalt seek   15  
+The Youth of simplest song.  
+But I along the breeze shall roll  
+The voice of feeble power;  
+And dwell, the Moon-beam of thy soul,  
+In Slumber’s nightly hour.   20  
+1793.  

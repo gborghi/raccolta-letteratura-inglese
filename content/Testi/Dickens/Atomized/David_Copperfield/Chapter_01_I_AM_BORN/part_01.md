@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 1: I AM BORN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_64_A_LAST_RETROSPECT">‹ Chapter 64 A LAST RETROSPECT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_01_I_AM_BORN/part_02">part 02 ›</a></div>

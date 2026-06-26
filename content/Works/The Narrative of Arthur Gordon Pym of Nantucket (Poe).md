@@ -29,8 +29,6 @@ tags:
   - setting/a_ship
 ---
 
-# The Narrative of Arthur Gordon Pym of Nantucket
-
 *by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 

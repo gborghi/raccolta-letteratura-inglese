@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — An Apology For Buffoons (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_04_An_Apology_For_Buffoons/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_04_An_Apology_For_Buffoons/part_04">part 04 ›</a></div>

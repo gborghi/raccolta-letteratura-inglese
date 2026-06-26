@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — The National Spirit
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_26_The_Victorians">‹ Story 26 The Victorians</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_28_The_Rights_Of_Ritual">Story 28 The Rights Of Ritual ›</a></div>

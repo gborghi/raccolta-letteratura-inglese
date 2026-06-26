@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Julius Caesar — Act V, Scene 5 — exchange (THE PERSONS OF THE PLAY) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
 </nav>

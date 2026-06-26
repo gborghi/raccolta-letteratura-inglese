@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# Unseen Buds
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -32,15 +30,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Unseen buds, infinite, hidden well,
-  Under the snow and ice, under the darkness, in every square or cubic inch,
-  Germinal, exquisite, in delicate lace, microscopic, unborn,
-  Like babes in wombs, latent, folded, compact, sleeping;
-  Billions of billions, and trillions of trillions of them waiting,
-  (On earth and in the sea--the universe--the stars there in the
-      heavens,)
-  Urging slowly, surely forward, forming endless,
-  And waiting ever more, forever more behind.
+  Unseen buds, infinite, hidden well,  
+  Under the snow and ice, under the darkness, in every square or cubic inch,  
+  Germinal, exquisite, in delicate lace, microscopic, unborn,  
+  Like babes in wombs, latent, folded, compact, sleeping;  
+  Billions of billions, and trillions of trillions of them waiting,  
+  (On earth and in the sea--the universe--the stars there in the  
+      heavens,)  
+  Urging slowly, surely forward, forming endless,  
+  And waiting ever more, forever more behind.  

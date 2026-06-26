@@ -20,8 +20,6 @@ tags:
   - character/fortunato
 ---
 
-# The Cask of Amontillado
-
 *by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

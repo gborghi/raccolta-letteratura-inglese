@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# Now Precedent Songs, Farewell
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -34,24 +32,24 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Now precedent songs, farewell--by every name farewell,
-  (Trains of a staggering line in many a strange procession, waggons,
-  From ups and downs--with intervals--from elder years, mid-age, or youth,)
-  “In Cabin’d Ships, or Thee Old Cause or Poets to Come
-  Or Paumanok, Song of Myself, Calamus, or Adam,
-  Or Beat! Beat! Drums! or To the Leaven’d Soil they Trod,
-  Or Captain! My Captain! Kosmos, Quicksand Years, or Thoughts,
-  Thou Mother with thy Equal Brood,” and many, many more unspecified,
-  From fibre heart of mine--from throat and tongue--(My life’s hot
-      pulsing blood,
-  The personal urge and form for me--not merely paper, automatic type
-      and ink,)
-  Each song of mine--each utterance in the past--having its long, long
-      history,
-  Of life or death, or soldier’s wound, of country’s loss or safety,
-  (O heaven! what flash and started endless train of all! compared
-      indeed to that!
-  What wretched shred e’en at the best of all!)
+  Now precedent songs, farewell--by every name farewell,  
+  (Trains of a staggering line in many a strange procession, waggons,  
+  From ups and downs--with intervals--from elder years, mid-age, or youth,)  
+  “In Cabin’d Ships, or Thee Old Cause or Poets to Come  
+  Or Paumanok, Song of Myself, Calamus, or Adam,  
+  Or Beat! Beat! Drums! or To the Leaven’d Soil they Trod,  
+  Or Captain! My Captain! Kosmos, Quicksand Years, or Thoughts,  
+  Thou Mother with thy Equal Brood,” and many, many more unspecified,  
+  From fibre heart of mine--from throat and tongue--(My life’s hot  
+      pulsing blood,  
+  The personal urge and form for me--not merely paper, automatic type  
+      and ink,)  
+  Each song of mine--each utterance in the past--having its long, long  
+      history,  
+  Of life or death, or soldier’s wound, of country’s loss or safety,  
+  (O heaven! what flash and started endless train of all! compared  
+      indeed to that!  
+  What wretched shred e’en at the best of all!)  

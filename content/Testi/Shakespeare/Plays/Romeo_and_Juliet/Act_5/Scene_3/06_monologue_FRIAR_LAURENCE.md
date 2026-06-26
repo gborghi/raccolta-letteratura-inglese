@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Romeo and Juliet — Act V, Scene 3 — monologue (FRIAR LAURENCE) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
 </nav>

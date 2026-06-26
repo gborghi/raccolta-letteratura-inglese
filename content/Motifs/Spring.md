@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Spring
-
 *Motif* — appears in **66** work(s).
 
 ## Works

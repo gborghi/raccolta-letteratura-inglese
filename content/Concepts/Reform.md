@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Reform
-
 *Theme/Concept* — appears in **46** work(s).
 
 ## Works

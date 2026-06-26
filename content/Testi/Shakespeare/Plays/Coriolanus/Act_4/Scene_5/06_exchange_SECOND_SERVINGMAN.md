@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act IV, Scene 5 — exchange (SECOND SERVINGMAN) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 </nav>

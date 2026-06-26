@@ -10,6 +10,31 @@ import matter from "gray-matter"
 
 const NUL = String.fromCharCode(0)
 
+// Normalize a string for title comparison: lower-case, collapse whitespace, and
+// convert typographic variants (curly quotes → straight, em/en dash → hyphen).
+function normTitle(s) {
+  return String(s)
+    .replace(/[‘’]/g, "'")   // curly single quotes → '
+    .replace(/[“”]/g, '"')   // curly double quotes → "
+    .replace(/[–—]/g, "-")   // en dash, em dash → -
+    .replace(/\s+/g, " ")
+    .trim()
+    .toLowerCase()
+}
+
+// Strip the first body H1 line if it matches the frontmatter title (after
+// typographic normalization). Only the very first non-empty line is checked;
+// if it is not a matching H1, the content is returned unchanged.
+function stripLeadingH1IfMatchesTitle(content, title) {
+  if (!title) return content
+  const norm = normTitle(title)
+  // Match the first line; allow leading blank lines before the H1.
+  return content.replace(/^([ \t]*\r?\n)*[ \t]*#[ \t]+(.+?)[ \t]*\r?\n/, (match, _blanks, h1Text) => {
+    if (normTitle(h1Text) === norm) return ""
+    return match
+  })
+}
+
 // Lenient flat-frontmatter parser (the vault has key: value / key: [..] / block lists).
 function parseFrontmatter(raw) {
   raw = raw.split(NUL).join("")
@@ -346,11 +371,11 @@ async function publishUnits(rawSourceToWork) {
             `tags:\n  - graph/excerpt\n  - author/${author}\n` +
             `---\n\n`
 
-          // Body already starts with "# Title"; keep it, insert nav after it.
-          let outBody = body
-          const h1m = outBody.match(/^(\s*#\s+.+?\r?\n)/)
-          if (h1m) outBody = outBody.slice(0, h1m[0].length) + "\n" + nav + outBody.slice(h1m[0].length)
-          else outBody = `# ${title}\n\n` + nav + outBody
+          // Strip the leading H1 from the body (Quartz renders the frontmatter
+          // title as a page heading automatically; keeping the body H1 produces
+          // a double-title). Then prepend the nav block.
+          let outBody = stripLeadingH1IfMatchesTitle(body, title)
+          outBody = nav + outBody
 
           const dest = path.join(CONTENT, TESTI_REL, author, sub, it.relU.split("/").join(path.sep))
           await fs.mkdir(path.dirname(dest), { recursive: true })
@@ -446,6 +471,10 @@ async function main() {
   let written = 0
   for (const { rel, relU, data, content } of parsed) {
     let newContent = transform(content, unitHref)
+    // Strip the leading H1 when it duplicates the frontmatter title (Quartz
+    // renders the title from frontmatter as a page heading automatically, so
+    // leaving the body H1 produces a visible double-title).
+    newContent = stripLeadingH1IfMatchesTitle(newContent, data.title)
     const topFolder = relU.split("/")[0]
     const axis = AXIS_FOLDERS[topFolder]
 

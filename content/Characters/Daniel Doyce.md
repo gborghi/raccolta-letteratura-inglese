@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Daniel Doyce
-
 *Character* — appears in **1** work(s).
 
 ## Works

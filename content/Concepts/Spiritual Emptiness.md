@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Spiritual Emptiness
-
 *Theme/Concept* — appears in **24** work(s).
 
 ## Works

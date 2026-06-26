@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Ancient Greece
-
 *Historical reference* — appears in **16** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# De Profundis (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/De-Profundis-(Wilde)">029 De Profundis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/029_De_Profundis/part/part_01">‹ part 01</a><span></span></div>

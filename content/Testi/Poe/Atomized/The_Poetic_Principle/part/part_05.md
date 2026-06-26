@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Poetic Principle (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Poetic Principle</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Poetic_Principle/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Poetic_Principle/part/part_06">part 06 ›</a></div>

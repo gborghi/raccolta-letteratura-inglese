@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — OLONEL GRIMM of the Pavonian Police was very exactly described as a
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_37_THE_SPEAKING_OF_THE_WORD">‹ Story 37 THE SPEAKING OF THE WORD</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_03_R_ASA_LEE_PINION_of_the_Chicago_Comet_ha/part_01">part 01 ›</a></div>

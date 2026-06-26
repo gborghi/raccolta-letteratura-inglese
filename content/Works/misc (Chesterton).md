@@ -17,8 +17,6 @@ tags:
   - archetype/corrupt_official
 ---
 
-# misc
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

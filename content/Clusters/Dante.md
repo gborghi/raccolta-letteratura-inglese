@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Dante
-
 *Cluster* — **2 works**.
 
 ## Defining concepts

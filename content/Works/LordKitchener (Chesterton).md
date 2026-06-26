@@ -19,8 +19,6 @@ tags:
   - motif/crown
 ---
 
-# LordKitchener
-
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 

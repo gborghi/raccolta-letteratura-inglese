@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Regency/Georgian England
-
 *Historical reference* — appears in **48** work(s).
 
 ## Works

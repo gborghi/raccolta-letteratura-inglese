@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 43: ANOTHER RETROSPECT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_42_MISCHIEF">‹ Chapter 42 MISCHIEF</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_44_OUR_HOUSEKEEPING">Chapter 44 OUR HOUSEKEEPING ›</a></div>

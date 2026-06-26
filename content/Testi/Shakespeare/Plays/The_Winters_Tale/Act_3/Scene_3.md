@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Winters Tale — Act III, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-WINTER’S-TALE-(Shakespeare)">The Winters Tale</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Winters_Tale/Act_3/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Winters_Tale/Act_4/Scene_1">Scene 1 ›</a></div>

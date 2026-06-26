@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Satire of Society
-
 *Theme/Concept* — appears in **279** work(s).
 
 ## Works

@@ -31,8 +31,6 @@ tags:
   - setting/london
 ---
 
-# Pen, Pencil and Poison
-
 *by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

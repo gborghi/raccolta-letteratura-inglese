@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Caleb Plummer
-
 *Character* — appears in **1** work(s).
 
 ## Works

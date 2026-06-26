@@ -15,8 +15,6 @@ tags:
   - setting/america
 ---
 
-# To the States
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -31,11 +29,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  To the States or any one of them, or any city of the States, Resist
-      much, obey little,
-  Once unquestioning obedience, once fully enslaved,
-  Once fully enslaved, no nation, state, city of this earth, ever
-      afterward resumes its liberty.
+  To the States or any one of them, or any city of the States, Resist  
+      much, obey little,  
+  Once unquestioning obedience, once fully enslaved,  
+  Once fully enslaved, no nation, state, city of this earth, ever  
+      afterward resumes its liberty.  

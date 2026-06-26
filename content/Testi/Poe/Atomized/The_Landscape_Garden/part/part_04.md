@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Landscape Garden (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Landscape-Garden-(Poe)">The Landscape Garden</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Landscape_Garden/part/part_03">‹ part 03</a><span></span></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 56: AN IMPORTANT CONFERENCE TAKES PLACE BETWEEN MR. PICKWICK (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_57_MR_SOLOMON_PELL_ASSISTED_BY_A/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_58_AN_IMPORTANT_CONFERENCE_TAKES/part_02">part 02 ›</a></div>

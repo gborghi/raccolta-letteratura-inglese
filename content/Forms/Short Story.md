@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Short Story
-
 *Form/Genre* — appears in **74** work(s).
 
 ## Works

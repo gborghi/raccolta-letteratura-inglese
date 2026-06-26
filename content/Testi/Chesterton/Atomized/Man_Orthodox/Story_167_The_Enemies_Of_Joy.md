@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Enemies Of Joy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_166_Change_And_Decay">‹ Story 166 Change And Decay</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_168_Autobiography">Story 168 Autobiography ›</a></div>

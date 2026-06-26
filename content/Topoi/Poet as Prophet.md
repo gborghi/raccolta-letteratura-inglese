@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Poet as Prophet
-
 *Topos* — appears in **66** work(s).
 
 ## Works

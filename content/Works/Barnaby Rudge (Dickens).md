@@ -46,8 +46,6 @@ tags:
   - character/hugh
 ---
 
-# Barnaby Rudge
-
 *by Dickens*  ·  **Cluster:** [[Order vs Chaos · Historical Novel · Fanaticism]]
 
 > [!abstract] 

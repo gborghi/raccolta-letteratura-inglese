@@ -20,8 +20,6 @@ tags:
   - setting/rural_england
 ---
 
-# Irish Impressions
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Wackford Squeers
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# White and Red
-
 *Motif* — appears in **39** work(s).
 
 ## Works

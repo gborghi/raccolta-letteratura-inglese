@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Soul of Man under Socialism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Soul-of-Man-under-Socialism-(Wilde)">028 The Soul of Man under Socialism</a></div>
 </nav>

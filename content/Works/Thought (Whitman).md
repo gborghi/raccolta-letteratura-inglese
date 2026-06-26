@@ -14,8 +14,6 @@ tags:
   - motif/decay
 ---
 
-# Thought
-
 *by Whitman*  ·  **Cluster:** [[Vanitas · Contemptus Mundi · Vanity of Worldly Things]]
 
 > [!abstract] 

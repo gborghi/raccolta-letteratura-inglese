@@ -18,8 +18,6 @@ tags:
   - motif/birds
 ---
 
-# Sonnet 98
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-From you have I been absent in the spring 
-When proud-pied April, dressed in all his trim, 
-Hath put a spirit of youth in everything, 
-That heavy Saturn laughed and leapt with him. 
-Yet nor the lays of birds nor the sweet smell 
-Of different flowers in odour and in hue 
-Could make me any summer’s story tell, 
-Or from their proud lap pluck them where they grew; 
-Nor did I wonder at the lily’s white, 
-Nor praise the deep vermilion in the rose. 
-They were but sweet, but figures of delight 
-Drawn after you, you pattern of all those; 
-Yet seemed it winter still, and, you away, 
-As with your shadow I with these did play.
+From you have I been absent in the spring  
+When proud-pied April, dressed in all his trim,  
+Hath put a spirit of youth in everything,  
+That heavy Saturn laughed and leapt with him.  
+Yet nor the lays of birds nor the sweet smell  
+Of different flowers in odour and in hue  
+Could make me any summer’s story tell,  
+Or from their proud lap pluck them where they grew;  
+Nor did I wonder at the lily’s white,  
+Nor praise the deep vermilion in the rose.  
+They were but sweet, but figures of delight  
+Drawn after you, you pattern of all those;  
+Yet seemed it winter still, and, you away,  
+As with your shadow I with these did play.  

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_18_TOO_FULL_OF_ADVENTURE_TO_BE_BR/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_18_TOO_FULL_OF_ADVENTURE_TO_BE_BR/part_07">part 07 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - motif/birds
 ---
 
-# ON A VOLUNTEER SINGER
-
 *by Coleridge*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
@@ -29,7 +27,7 @@ tags:
 
 ## Testo integrale / Full text
 
-Swans sing before they die—’twere no bad thing
-Should certain persons die before they sing.
-First published in An. Anth., 1800. Included in Keepsake, 1829, p.
-277; Essays, &c., 1850, ii. 988. First collected in 1834.
+Swans sing before they die—’twere no bad thing  
+Should certain persons die before they sing.  
+First published in An. Anth., 1800. Included in Keepsake, 1829, p.  
+277; Essays, &c., 1850, ii. 988. First collected in 1834.  

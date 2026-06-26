@@ -14,8 +14,6 @@ tags:
   - form/free_verse
 ---
 
-# Long, Long Hence
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  After a long, long course, hundreds of years, denials,
-  Accumulations, rous’d love and joy and thought,
-  Hopes, wishes, aspirations, ponderings, victories, myriads of readers,
-  Coating, compassing, covering--after ages’ and ages’ encrustations,
-  Then only may these songs reach fruition.
+  After a long, long course, hundreds of years, denials,  
+  Accumulations, rous’d love and joy and thought,  
+  Hopes, wishes, aspirations, ponderings, victories, myriads of readers,  
+  Coating, compassing, covering--after ages’ and ages’ encrustations,  
+  Then only may these songs reach fruition.  

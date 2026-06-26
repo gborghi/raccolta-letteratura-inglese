@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Home
-
 *Motif* — appears in **3** work(s).
 
 ## Works

@@ -18,8 +18,6 @@ tags:
   - histref/the_first_world_war
 ---
 
-# ILN-1930-04-19
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

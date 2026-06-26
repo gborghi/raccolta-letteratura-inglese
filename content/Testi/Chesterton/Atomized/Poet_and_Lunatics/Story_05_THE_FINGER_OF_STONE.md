@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE FINGER OF STONE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_04_THE_CRIME_OF_GABRIEL_GALE">‹ Story 04 THE CRIME OF GABRIEL GALE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_06_THE_HOUSE_OF_THE_PEACOCK">Story 06 THE HOUSE OF THE PEACOCK ›</a></div>

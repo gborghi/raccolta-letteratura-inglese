@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# trees of pride — THE WAGER OF SQUIRE VANE (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_06_THE_WAGER_OF_SQUIRE_VANE/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_06_THE_WAGER_OF_SQUIRE_VANE/part_04">part 04 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sir Simon de Canterville
-
 *Character* — appears in **1** work(s).
 
 ## Works

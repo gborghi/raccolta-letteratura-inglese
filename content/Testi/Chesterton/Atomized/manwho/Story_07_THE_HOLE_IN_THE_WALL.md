@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE HOLE IN THE WALL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_06_THE_FAD_OF_THE_FISHERMAN">‹ Story 06 THE FAD OF THE FISHERMAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_08_THE_TEMPLE_OF_SILENCE">Story 08 THE TEMPLE OF SILENCE ›</a></div>

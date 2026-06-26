@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Memory and Time · Memory · Nostalgia
-
 *Cluster* — **49 works**.
 
 ## Defining concepts

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Salad of Colonel Cray
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs">‹ Story 09 The God of the Gongs</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_11_The_Strange_Crime_of_John_Boulnois">Story 11 The Strange Crime of John Boulnois ›</a></div>

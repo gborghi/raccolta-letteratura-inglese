@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — The Code Napoleon
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_30_Tricks_Of_Memory">‹ Story 30 Tricks Of Memory</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_32_Cyrano_And_Chantecler">Story 32 Cyrano And Chantecler ›</a></div>

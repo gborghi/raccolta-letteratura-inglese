@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# Paumanok
-
 *by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -30,13 +28,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Sea-beauty! stretch’d and basking!
-  One side thy inland ocean laving, broad, with copious commerce,
-      steamers, sails,
-  And one the Atlantic’s wind caressing, fierce or gentle--mighty hulls
-      dark-gliding in the distance.
-  Isle of sweet brooks of drinking-water--healthy air and soil!
-  Isle of the salty shore and breeze and brine!
+  Sea-beauty! stretch’d and basking!  
+  One side thy inland ocean laving, broad, with copious commerce,  
+      steamers, sails,  
+  And one the Atlantic’s wind caressing, fierce or gentle--mighty hulls  
+      dark-gliding in the distance.  
+  Isle of sweet brooks of drinking-water--healthy air and soil!  
+  Isle of the salty shore and breeze and brine!  

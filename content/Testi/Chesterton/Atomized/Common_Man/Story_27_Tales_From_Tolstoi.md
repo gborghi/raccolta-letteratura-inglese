@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Tales From Tolstoi
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_26_Laughter">‹ Story 26 Laughter</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_28_The_New_Case_For_Catholic_Schools">Story 28 The New Case For Catholic Schools ›</a></div>

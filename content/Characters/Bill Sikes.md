@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Bill Sikes
-
 *Character* — appears in **1** work(s).
 
 ## Works

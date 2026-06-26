@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# whats wrong — Part 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_05_THE_HOME_OF_MAN">‹ Chapter 05 THE HOME OF MAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_07">Chapter 07 ›</a></div>

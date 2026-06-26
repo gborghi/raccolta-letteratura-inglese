@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# American West
-
 *Historical reference* — appears in **3** work(s).
 
 ## Works

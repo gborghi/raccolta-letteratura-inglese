@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Temptation
-
 *Theme/Concept* — appears in **47** work(s).
 
 ## Works

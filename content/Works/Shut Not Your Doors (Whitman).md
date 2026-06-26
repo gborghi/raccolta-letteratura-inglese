@@ -14,8 +14,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# Shut Not Your Doors
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,13 +28,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Shut not your doors to me proud libraries,
-  For that which was lacking on all your well-fill’d shelves, yet
-      needed most, I bring,
-  Forth from the war emerging, a book I have made,
-  The words of my book nothing, the drift of it every thing,
-  A book separate, not link’d with the rest nor felt by the intellect,
-  But you ye untold latencies will thrill to every page.
+  Shut not your doors to me proud libraries,  
+  For that which was lacking on all your well-fill’d shelves, yet  
+      needed most, I bring,  
+  Forth from the war emerging, a book I have made,  
+  The words of my book nothing, the drift of it every thing,  
+  A book separate, not link’d with the rest nor felt by the intellect,  
+  But you ye untold latencies will thrill to every page.  

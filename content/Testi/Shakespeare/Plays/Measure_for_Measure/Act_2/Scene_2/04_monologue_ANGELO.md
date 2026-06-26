@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Measure for Measure — Act II, Scene 2 — monologue (ANGELO) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
 </nav>

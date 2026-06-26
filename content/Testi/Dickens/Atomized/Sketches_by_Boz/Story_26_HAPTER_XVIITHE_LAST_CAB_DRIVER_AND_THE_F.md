@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XVII—THE LAST CAB-DRIVER, AND THE FIRST OMNIBUS CAD
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_25_HAPTER_XVIOMNIBUSES">‹ Story 25 HAPTER XVIOMNIBUSES</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_27_HAPTER_XVIIIA_PARLIAMENTARY_SKETCH">Story 27 HAPTER XVIIIA PARLIAMENTARY SKETCH ›</a></div>

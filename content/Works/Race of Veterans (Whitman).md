@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# Race of Veterans
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  Race of veterans--race of victors!
-  Race of the soil, ready for conflict--race of the conquering march!
-  (No more credulity’s race, abiding-temper’d race,)
-  Race henceforth owning no law but the law of itself,
-  Race of passion and the storm.
+  Race of veterans--race of victors!  
+  Race of the soil, ready for conflict--race of the conquering march!  
+  (No more credulity’s race, abiding-temper’d race,)  
+  Race henceforth owning no law but the law of itself,  
+  Race of passion and the storm.  

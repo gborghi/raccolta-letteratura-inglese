@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Some Specimen Cases
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_36_Unnamed_Remains_the_Bravest_Soldier">‹ Story 36 Unnamed Remains the Bravest Soldier</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_38_My_Preparations_for_Visits">Story 38 My Preparations for Visits ›</a></div>

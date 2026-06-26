@@ -22,8 +22,6 @@ tags:
   - form/song
 ---
 
-# Song
-
 *by Poe*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
@@ -39,21 +37,21 @@ tags:
 
 ## Testo integrale / Full text
 
-I saw thee on thy bridal day—
-         When a burning blush came o’er thee,
-     Though happiness around thee lay,
-         The world all love before thee:
-     And in thine eye a kindling light
-         (Whatever it might be)
-     Was all on Earth my aching sight
-        Of Loveliness could see.
-     That blush, perhaps, was maiden shame—
-         As such it well may pass—
-     Though its glow hath raised a fiercer flame
-         In the breast of him, alas!
-     Who saw thee on that bridal day,
-         When that deep blush _would_ come o’er thee,
-     Though happiness around thee lay,
-         The world all love before thee.
+I saw thee on thy bridal day—  
+         When a burning blush came o’er thee,  
+     Though happiness around thee lay,  
+         The world all love before thee:  
+     And in thine eye a kindling light  
+         (Whatever it might be)  
+     Was all on Earth my aching sight  
+        Of Loveliness could see.  
+     That blush, perhaps, was maiden shame—  
+         As such it well may pass—  
+     Though its glow hath raised a fiercer flame  
+         In the breast of him, alas!  
+     Who saw thee on that bridal day,  
+         When that deep blush _would_ come o’er thee,  
+     Though happiness around thee lay,  
+         The world all love before thee.  
 
-      1827.
+      1827.  

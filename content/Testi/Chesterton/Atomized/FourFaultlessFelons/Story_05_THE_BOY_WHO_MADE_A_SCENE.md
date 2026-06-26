@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE BOY WHO MADE A SCENE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_04_THE_MAN_WITH_THE_GREEN_UMBRELLA">‹ Story 04 THE MAN WITH THE GREEN UMBRELLA</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_06_THE_MAN_WHO_COULD_NOT_HATE">Story 06 THE MAN WHO COULD NOT HATE ›</a></div>

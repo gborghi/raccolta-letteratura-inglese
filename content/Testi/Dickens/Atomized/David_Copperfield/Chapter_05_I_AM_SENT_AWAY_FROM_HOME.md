@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 5: I AM SENT AWAY FROM HOME
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE">‹ Chapter 04 I FALL INTO DISGRACE</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN">Chapter 06 I ENLARGE MY CIRCLE OF ACQUAIN ›</a></div>

@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# unborn
-
 *by Chesterton*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
@@ -31,42 +29,42 @@ tags:
 
 ## Testo integrale / Full text
 
-"By the Babe Unborn"
+"By the Babe Unborn"  
 
-                        by G.K. Chesterton
-
-
-
-                If trees were tall and grasses short,
-                  As in some crazy tale,
-                If here and there a sea were blue
-                  Beyond the breaking pale,
-                
-                If a fixed fire hung in the air
-                  To warm me one day through,
-                If deep green hair grew on great hills,
-                  I know what I should do.
-                
-                In dark I lie; dreaming that there
-                  Are great eyes cold or kind,
-                And twisted streets and silent doors,
-                  And living men behind.
-                
-                Let storm clouds come: better an hour,
-                  And leave to weep and fight,
-                Than all the ages I have ruled
-                  The empires of the night.
-                
-                I think that if they gave me leave
-                  Within the world to stand,
-                I would be good through all the day
-                  I spent in fairyland.
-                
-                They should not hear a word from me
-                  Of selfishness or scorn,
-                If only I could find the door,
-                  If only I were born.
+                        by G.K. Chesterton  
 
 
 
-===== FINE FILE: unborn.txt =====
+                If trees were tall and grasses short,  
+                  As in some crazy tale,  
+                If here and there a sea were blue  
+                  Beyond the breaking pale,  
+
+                If a fixed fire hung in the air  
+                  To warm me one day through,  
+                If deep green hair grew on great hills,  
+                  I know what I should do.  
+
+                In dark I lie; dreaming that there  
+                  Are great eyes cold or kind,  
+                And twisted streets and silent doors,  
+                  And living men behind.  
+
+                Let storm clouds come: better an hour,  
+                  And leave to weep and fight,  
+                Than all the ages I have ruled  
+                  The empires of the night.  
+
+                I think that if they gave me leave  
+                  Within the world to stand,  
+                I would be good through all the day  
+                  I spent in fairyland.  
+
+                They should not hear a word from me  
+                  Of selfishness or scorn,  
+                If only I could find the door,  
+                  If only I were born.  
+
+
+
+===== FINE FILE: unborn.txt =====  

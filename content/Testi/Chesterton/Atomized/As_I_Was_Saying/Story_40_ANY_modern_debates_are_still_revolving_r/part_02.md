@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — ANY modern debates are still revolving round the old question, even if (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_40_ANY_modern_debates_are_still_revolving_r/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_40_ANY_modern_debates_are_still_revolving_r/part_03">part 03 ›</a></div>

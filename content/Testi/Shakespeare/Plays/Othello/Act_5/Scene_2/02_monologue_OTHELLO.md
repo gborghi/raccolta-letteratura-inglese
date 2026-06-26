@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Othello — Act V, Scene 2 — monologue (OTHELLO) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
 </nav>

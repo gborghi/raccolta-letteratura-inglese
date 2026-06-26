@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON ENCYCLOPAEDIAS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_20_ON_EVIL_EUPHEMISMS">‹ Story 20 ON EVIL EUPHEMISMS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_22_ON_PREACHING">Story 22 ON PREACHING ›</a></div>

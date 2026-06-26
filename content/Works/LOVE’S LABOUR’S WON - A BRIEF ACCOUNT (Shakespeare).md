@@ -15,8 +15,6 @@ tags:
   - motif/the_book
 ---
 
-# LOVE’S LABOUR’S WON - A BRIEF ACCOUNT
-
 *by Shakespeare*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

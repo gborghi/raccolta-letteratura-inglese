@@ -28,10 +28,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Roaming in thought over the Universe, I saw the little that is Good
-      steadily hastening towards immortality,
-  And the vast all that is call’d Evil I saw hastening to merge itself
-      and become lost and dead.
+  Roaming in thought over the Universe, I saw the little that is Good  
+      steadily hastening towards immortality,  
+  And the vast all that is call’d Evil I saw hastening to merge itself  
+      and become lost and dead.  

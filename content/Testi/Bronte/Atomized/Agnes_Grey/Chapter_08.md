@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Agnes Grey — Chapter 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_07">‹ Chapter 07</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_09">Chapter 09 ›</a></div>

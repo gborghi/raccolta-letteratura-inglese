@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Common Man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_01_The_Common_Man">‹ Story 01 The Common Man</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_03_A_Midsummer_Night_S_Dream">Story 03 A Midsummer Night S Dream ›</a></div>

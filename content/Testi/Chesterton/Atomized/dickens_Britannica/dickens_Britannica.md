@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# dickens Britannica
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/dickens-Britannica-(Chesterton)">dickens Britannica</a></div>
 </nav>

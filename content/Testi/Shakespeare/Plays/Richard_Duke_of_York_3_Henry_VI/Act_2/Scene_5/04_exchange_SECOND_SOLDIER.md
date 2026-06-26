@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard Duke of York (3 Henry VI) — Act II, Scene 5 — exchange (SECOND SOLDIER) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 </nav>

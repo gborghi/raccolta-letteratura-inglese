@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# Old Age’s Lambent Peaks
-
 *by Whitman*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
@@ -32,15 +30,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  The touch of flame--the illuminating fire--the loftiest look at last,
-  O’er city, passion, sea--o’er prairie, mountain, wood--the earth itself,
-  The airy, different, changing hues of all, in failing twilight,
-  Objects and groups, bearings, faces, reminiscences;
-  The calmer sight--the golden setting, clear and broad:
-  So much i’ the atmosphere, the points of view, the situations whence
-      we scan,
-  Bro’t out by them alone--so much (perhaps the best) unreck’d before;
-  The lights indeed from them--old age’s lambent peaks.
+  The touch of flame--the illuminating fire--the loftiest look at last,  
+  O’er city, passion, sea--o’er prairie, mountain, wood--the earth itself,  
+  The airy, different, changing hues of all, in failing twilight,  
+  Objects and groups, bearings, faces, reminiscences;  
+  The calmer sight--the golden setting, clear and broad:  
+  So much i’ the atmosphere, the points of view, the situations whence  
+      we scan,  
+  Bro’t out by them alone--so much (perhaps the best) unreck’d before;  
+  The lights indeed from them--old age’s lambent peaks.  

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 13: The Progress of an Epidemic (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_53_The_Progress_of_an_Epidemic/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_53_The_Progress_of_an_Epidemic/part_05">part 05 ›</a></div>

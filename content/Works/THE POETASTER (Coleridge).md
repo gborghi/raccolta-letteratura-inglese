@@ -14,8 +14,6 @@ tags:
   - form/verse_drama
 ---
 
-# THE POETASTER
-
 *by Coleridge*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 

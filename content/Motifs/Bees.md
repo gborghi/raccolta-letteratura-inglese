@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Bees
-
 *Motif* — appears in **6** work(s).
 
 ## Works

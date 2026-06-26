@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 11: I BEGIN LIFE ON MY OWN ACCOUNT, AND DON’T LIKE IT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_10_I_BECOME_NEGLECTED_AND_AM_PROV">‹ Chapter 10 I BECOME NEGLECTED AND AM PROV</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_12_LIKING_LIFE_ON_MY_OWN_ACCOUNT">Chapter 12 LIKING LIFE ON MY OWN ACCOUNT ›</a></div>

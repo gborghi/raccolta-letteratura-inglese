@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lady Macbeth
-
 *Character* — appears in **1** work(s).
 
 ## Works

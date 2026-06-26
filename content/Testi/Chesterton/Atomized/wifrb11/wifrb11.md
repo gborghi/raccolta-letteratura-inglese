@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 </nav>

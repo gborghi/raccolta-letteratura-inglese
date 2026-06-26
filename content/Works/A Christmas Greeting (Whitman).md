@@ -15,8 +15,6 @@ tags:
   - form/free_verse
 ---
 
-# A Christmas Greeting
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Welcome, Brazilian brother--thy ample place is ready;
-  A loving hand--a smile from the north--a sunny instant hall!
-  (Let the future care for itself, where it reveals its troubles,
-      impedimentas,
-  Ours, ours the present throe, the democratic aim, the acceptance and
-      the faith;)
-  To thee to-day our reaching arm, our turning neck--to thee from us
-      the expectant eye,
-  Thou cluster free! thou brilliant lustrous one! thou, learning well,
-  The true lesson of a nation’s light in the sky,
-  (More shining than the Cross, more than the Crown,)
-  The height to be superb humanity.
+  Welcome, Brazilian brother--thy ample place is ready;  
+  A loving hand--a smile from the north--a sunny instant hall!  
+  (Let the future care for itself, where it reveals its troubles,  
+      impedimentas,  
+  Ours, ours the present throe, the democratic aim, the acceptance and  
+      the faith;)  
+  To thee to-day our reaching arm, our turning neck--to thee from us  
+      the expectant eye,  
+  Thou cluster free! thou brilliant lustrous one! thou, learning well,  
+  The true lesson of a nation’s light in the sky,  
+  (More shining than the Cross, more than the Crown,)  
+  The height to be superb humanity.  

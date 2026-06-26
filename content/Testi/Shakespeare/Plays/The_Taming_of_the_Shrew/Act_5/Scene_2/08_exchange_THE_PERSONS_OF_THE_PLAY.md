@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Taming of the Shrew — Act V, Scene 2 — exchange (THE PERSONS OF THE PLAY) [8]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
 </nav>

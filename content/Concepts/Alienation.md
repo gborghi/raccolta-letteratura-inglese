@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Alienation
-
 *Theme/Concept* — appears in **118** work(s).
 
 ## Works

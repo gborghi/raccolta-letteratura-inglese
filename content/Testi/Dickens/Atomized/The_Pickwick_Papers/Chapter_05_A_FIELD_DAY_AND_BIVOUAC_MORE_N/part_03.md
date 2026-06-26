@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 4: A FIELD DAY AND BIVOUAC--MORE NEW FRIENDS--AN INVITATION TO (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_05_A_FIELD_DAY_AND_BIVOUAC_MORE_N/part_04">part 04 ›</a></div>

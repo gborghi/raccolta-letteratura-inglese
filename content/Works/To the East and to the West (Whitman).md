@@ -13,8 +13,6 @@ tags:
   - concept/nationalism_and_patriotism
 ---
 
-# To the East and to the West
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

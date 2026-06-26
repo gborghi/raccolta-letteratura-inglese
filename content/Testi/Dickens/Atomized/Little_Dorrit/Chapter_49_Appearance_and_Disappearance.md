@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 9: Appearance and Disappearance
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_48_The_Dowager_Mrs_Gowan_is_remin">‹ Chapter 48 The Dowager Mrs Gowan is remin</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_50_The_Dreams_of_Mrs_Flintwinch_t">Chapter 50 The Dreams of Mrs Flintwinch t ›</a></div>

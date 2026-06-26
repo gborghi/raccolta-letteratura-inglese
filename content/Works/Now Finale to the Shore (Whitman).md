@@ -14,8 +14,6 @@ tags:
   - concept/mortality
 ---
 
-# Now Finale to the Shore
-
 *by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 
@@ -28,16 +26,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SONGS OF PARTING_
+_Cluster: SONGS OF PARTING_  
 
 
-  Now finale to the shore,
-  Now land and life finale and farewell,
-  Now Voyager depart, (much, much for thee is yet in store,)
-  Often enough hast thou adventur’d o’er the seas,
-  Cautiously cruising, studying the charts,
-  Duly again to port and hawser’s tie returning;
-  But now obey thy cherish’d secret wish,
-  Embrace thy friends, leave all in order,
-  To port and hawser’s tie no more returning,
-  Depart upon thy endless cruise old Sailor.
+  Now finale to the shore,  
+  Now land and life finale and farewell,  
+  Now Voyager depart, (much, much for thee is yet in store,)  
+  Often enough hast thou adventur’d o’er the seas,  
+  Cautiously cruising, studying the charts,  
+  Duly again to port and hawser’s tie returning;  
+  But now obey thy cherish’d secret wish,  
+  Embrace thy friends, leave all in order,  
+  To port and hawser’s tie no more returning,  
+  Depart upon thy endless cruise old Sailor.  

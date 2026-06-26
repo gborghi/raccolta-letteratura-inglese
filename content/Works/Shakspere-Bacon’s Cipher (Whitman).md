@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# Shakspere-Bacon’s Cipher
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -31,12 +29,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  I doubt it not--then more, far more;
-  In each old song bequeath’d--in every noble page or text,
-  (Different--something unreck’d before--some unsuspected author,)
-  In every object, mountain, tree, and star--in every birth and life,
-  As part of each--evolv’d from each--meaning, behind the ostent,
-  A mystic cipher waits infolded.
+  I doubt it not--then more, far more;  
+  In each old song bequeath’d--in every noble page or text,  
+  (Different--something unreck’d before--some unsuspected author,)  
+  In every object, mountain, tree, and star--in every birth and life,  
+  As part of each--evolv’d from each--meaning, behind the ostent,  
+  A mystic cipher waits infolded.  

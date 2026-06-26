@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Christianity · Faith and Doubt · Doubt
-
 *Cluster* — **73 works**.
 
 ## Defining concepts

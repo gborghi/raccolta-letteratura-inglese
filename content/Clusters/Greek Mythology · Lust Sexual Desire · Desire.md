@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Greek Mythology · Lust / Sexual Desire · Desire
-
 *Cluster* — **42 works**.
 
 ## Defining concepts

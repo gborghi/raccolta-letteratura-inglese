@@ -16,8 +16,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# ON OBSERVING A BLOSSOM ON THE FIRST OF FEBRUARY 1796
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -31,30 +29,30 @@ tags:
 
 ## Testo integrale / Full text
 
-Sweet flower! that peeping from thy russet stem
-Unfoldest timidly, (for in strange sort
-This dark, frieze-coated, hoarse, teeth-chattering month
-Hath borrow’d Zephyr’s voice, and gazed upon thee
-With blue voluptuous eye) alas, poor Flower!   5
-These are but flatteries of the faithless year.
-Perchance, escaped its unknown polar cave,
-Even now the keen North-East is on its way.
-Flower that must perish! shall I liken thee
-To some sweet girl of too too rapid growth   10
-Nipp’d by consumption mid untimely charms?
-Or to Bristowa’s bard, the wondrous boy!
-An amaranth, which earth scarce seem’d to own,
-Till disappointment came, and pelting wrong
-Beat it to earth? or with indignant grief   15
-Shall I compare thee to poor Poland’s hope,
-Bright flower of hope killed in the opening bud?
-Farewell, sweet blossom! better fate be thine
-And mock my boding! Dim similitudes
-Weaving in moral strains, I’ve stolen one hour   20
-From anxious Self, Life’s cruel taskmaster!
-And the warm wooings of this sunny day
-Tremble along my frame and harmonize
-The attempered organ, that even saddest thoughts
-Mix with some sweet sensations, like harsh tunes   25
-Played deftly on a soft-toned instrument.
-1796.
+Sweet flower! that peeping from thy russet stem  
+Unfoldest timidly, (for in strange sort  
+This dark, frieze-coated, hoarse, teeth-chattering month  
+Hath borrow’d Zephyr’s voice, and gazed upon thee  
+With blue voluptuous eye) alas, poor Flower!   5  
+These are but flatteries of the faithless year.  
+Perchance, escaped its unknown polar cave,  
+Even now the keen North-East is on its way.  
+Flower that must perish! shall I liken thee  
+To some sweet girl of too too rapid growth   10  
+Nipp’d by consumption mid untimely charms?  
+Or to Bristowa’s bard, the wondrous boy!  
+An amaranth, which earth scarce seem’d to own,  
+Till disappointment came, and pelting wrong  
+Beat it to earth? or with indignant grief   15  
+Shall I compare thee to poor Poland’s hope,  
+Bright flower of hope killed in the opening bud?  
+Farewell, sweet blossom! better fate be thine  
+And mock my boding! Dim similitudes  
+Weaving in moral strains, I’ve stolen one hour   20  
+From anxious Self, Life’s cruel taskmaster!  
+And the warm wooings of this sunny day  
+Tremble along my frame and harmonize  
+The attempered organ, that even saddest thoughts  
+Mix with some sweet sensations, like harsh tunes   25  
+Played deftly on a soft-toned instrument.  
+1796.  

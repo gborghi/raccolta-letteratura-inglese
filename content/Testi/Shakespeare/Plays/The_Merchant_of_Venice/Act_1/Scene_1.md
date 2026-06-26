@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merchant of Venice — Act I, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERCHANT-OF-VENICE-(Shakespeare)">The Merchant of Venice</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Merchant_of_Venice/Act_1/Scene_2">Scene 2 ›</a></div>

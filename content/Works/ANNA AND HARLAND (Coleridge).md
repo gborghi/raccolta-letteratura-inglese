@@ -17,8 +17,6 @@ tags:
   - motif/memory
 ---
 
-# ANNA AND HARLAND
-
 *by Coleridge*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Within these wilds was Anna wont to rove
-While Harland told his love in many a sigh,
-But stern on Harland roll’d her brother’s eye,
-They fought, they fell — her brother and her love!
-To Death’s dark house did grief-worn Anna haste,   5
-Yet here her pensive ghost delights to stay;
-Oft pouring on the winds the broken lay —
-And hark, I hear her—’twas the passing blast.
-I love to sit upon her tomb’s dark grass,
-Then Memory backward rolls Time’s shadowy tide;   10
-The tales of other days before me glide:
-With eager thought I seize them as they pass;
-For fair, tho’ faint, the forms of Memory gleam,
-Like Heaven’s bright beauteous bow reflected in the stream.
-? 1790.
+Within these wilds was Anna wont to rove  
+While Harland told his love in many a sigh,  
+But stern on Harland roll’d her brother’s eye,  
+They fought, they fell — her brother and her love!  
+To Death’s dark house did grief-worn Anna haste,   5  
+Yet here her pensive ghost delights to stay;  
+Oft pouring on the winds the broken lay —  
+And hark, I hear her—’twas the passing blast.  
+I love to sit upon her tomb’s dark grass,  
+Then Memory backward rolls Time’s shadowy tide;   10  
+The tales of other days before me glide:  
+With eager thought I seize them as they pass;  
+For fair, tho’ faint, the forms of Memory gleam,  
+Like Heaven’s bright beauteous bow reflected in the stream.  
+? 1790.  

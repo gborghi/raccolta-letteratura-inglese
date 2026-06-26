@@ -25,8 +25,6 @@ tags:
   - character/christ
 ---
 
-# God in the Cave
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

@@ -14,8 +14,6 @@ tags:
   - topos/pastoral_retreat
 ---
 
-# SUSETTE
-
 *by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -30,35 +28,35 @@ tags:
 
 ## Testo integrale / Full text
 
-assise dans la barque.
-Batelier, dit Lisette,
-Je voudrais passer l’eau,
-Mais je suis bien pauvrette
-Pour payer le bateau:
-— Venez, venez, toujours . . .   5
-Et vogue la nacelle
-Qui porte mes amours!
-(Ils abordent. Lubin reste sur la rive à attacher sa barque.)
-SUSETTE,
-s’avancant
-en
-scène.
-Je m’en vais chez mon père,
-Dit Lisette à Colin.
-— Eh bien! Crois-tu, ma chère,   10
-Qu’il m’accorde ta main?
-— Ah! répondit la belle,
-Osez, osez toujours.
-— Et vogue la nacelle
-Qui porte mes amours!    15
-LUBIN et SUSETTE
-Après le mariage,
-Toujours dans son bateau
-Colin fut le plus sage
-Des maris du hameau.
-A sa chanson fidèle,   20
-Il répète toujours:
-Et vogue la nacelle
-Qui porte mes amours!
-H
-[Vide ante, p. 313]
+assise dans la barque.  
+Batelier, dit Lisette,  
+Je voudrais passer l’eau,  
+Mais je suis bien pauvrette  
+Pour payer le bateau:  
+— Venez, venez, toujours . . .   5  
+Et vogue la nacelle  
+Qui porte mes amours!  
+(Ils abordent. Lubin reste sur la rive à attacher sa barque.)  
+SUSETTE,  
+s’avancant  
+en  
+scène.  
+Je m’en vais chez mon père,  
+Dit Lisette à Colin.  
+— Eh bien! Crois-tu, ma chère,   10  
+Qu’il m’accorde ta main?  
+— Ah! répondit la belle,  
+Osez, osez toujours.  
+— Et vogue la nacelle  
+Qui porte mes amours!    15  
+LUBIN et SUSETTE  
+Après le mariage,  
+Toujours dans son bateau  
+Colin fut le plus sage  
+Des maris du hameau.  
+A sa chanson fidèle,   20  
+Il répète toujours:  
+Et vogue la nacelle  
+Qui porte mes amours!  
+H  
+[Vide ante, p. 313]  

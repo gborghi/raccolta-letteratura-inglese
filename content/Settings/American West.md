@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# American West
-
 *Setting* — appears in **4** work(s).
 
 ## Works

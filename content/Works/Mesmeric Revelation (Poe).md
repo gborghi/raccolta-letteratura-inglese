@@ -21,8 +21,6 @@ tags:
   - form/short_story
 ---
 
-# Mesmeric Revelation
-
 *by Poe*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 

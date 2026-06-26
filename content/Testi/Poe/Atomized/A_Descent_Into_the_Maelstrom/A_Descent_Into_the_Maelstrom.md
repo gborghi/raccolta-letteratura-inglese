@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# A Descent Into the Maelstrom
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/A-Descent-Into-the-Maelstrom-(Poe)">A Descent Into the Maelstrom</a></div>
 </nav>

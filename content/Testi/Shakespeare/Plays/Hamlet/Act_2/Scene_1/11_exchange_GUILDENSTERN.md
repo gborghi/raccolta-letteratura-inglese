@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act II, Scene 1 — exchange (GUILDENSTERN) [11]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

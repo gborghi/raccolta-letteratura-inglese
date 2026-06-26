@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Mystery of Marie Roget
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Mystery-of-Marie-Roget-(Poe)">The Mystery of Marie Roget</a></div>
 </nav>

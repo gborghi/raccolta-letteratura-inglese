@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — ON COURAGE AND INDEPENDENCE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_15_THE_REVOLT_AGAINST_IDEAS/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_21_ON_COURAGE_AND_INDEPENDENCE/part_02">part 02 ›</a></div>

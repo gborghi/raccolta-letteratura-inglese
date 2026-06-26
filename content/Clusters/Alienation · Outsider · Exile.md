@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Alienation · Outsider · Exile
-
 *Cluster* — **31 works**.
 
 ## Defining concepts

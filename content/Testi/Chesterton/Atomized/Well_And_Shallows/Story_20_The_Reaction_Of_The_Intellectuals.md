@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Reaction Of The Intellectuals
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_19_The_Return_To_Religion">‹ Story 19 The Return To Religion</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_21_Levity_Or_Levitation">Story 21 Levity Or Levitation ›</a></div>

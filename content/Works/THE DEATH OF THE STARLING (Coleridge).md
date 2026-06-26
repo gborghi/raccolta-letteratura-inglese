@@ -15,8 +15,6 @@ tags:
   - histref/greek_mythology
 ---
 
-# THE DEATH OF THE STARLING
-
 *by Coleridge*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -31,15 +29,15 @@ tags:
 
 ## Testo integrale / Full text
 
-Lugete, O Veneres, Cupidinesque. — CATULLUS.
-Pity! mourn in plaintive tone
-The lovely starling dead and gone!
-Pity mourns in plaintive tone
-The lovely starling dead and gone.
-Weep, ye Loves! and Venus! weep   5
-The lovely starling fall’n asleep!
-Venus sees with tearful eyes —
-In her lap the starling lies!
-While the Loves all in a ring
-Softly stroke the stiffen’d wing.   10
-? 1794.
+Lugete, O Veneres, Cupidinesque. — CATULLUS.  
+Pity! mourn in plaintive tone  
+The lovely starling dead and gone!  
+Pity mourns in plaintive tone  
+The lovely starling dead and gone.  
+Weep, ye Loves! and Venus! weep   5  
+The lovely starling fall’n asleep!  
+Venus sees with tearful eyes —  
+In her lap the starling lies!  
+While the Loves all in a ring  
+Softly stroke the stiffen’d wing.   10  
+? 1794.  

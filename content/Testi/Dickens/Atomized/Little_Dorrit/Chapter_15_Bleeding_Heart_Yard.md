@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 12: Bleeding Heart Yard
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_14_Let_Loose">‹ Chapter 14 Let Loose</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_16_Patriarchal">Chapter 16 Patriarchal ›</a></div>

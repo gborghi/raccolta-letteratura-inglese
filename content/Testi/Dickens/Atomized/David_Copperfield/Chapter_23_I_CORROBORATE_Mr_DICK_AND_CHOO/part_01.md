@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 23: I CORROBORATE Mr. DICK, AND CHOOSE A PROFESSION (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_02">part 02 ›</a></div>

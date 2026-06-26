@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Doom of the Darnaways
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_06_The_Dagger_with_Wings">‹ Story 06 The Dagger with Wings</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_08_x">Story 08 x ›</a></div>

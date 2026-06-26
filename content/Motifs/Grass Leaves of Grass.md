@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Grass / Leaves of Grass
-
 *Motif* — appears in **8** work(s).
 
 ## Works

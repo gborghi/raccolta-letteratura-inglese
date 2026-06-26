@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Halcyon Days
-
 *by Whitman*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Not from successful love alone,
-  Nor wealth, nor honor’d middle age, nor victories of politics or war;
-  But as life wanes, and all the turbulent passions calm,
-  As gorgeous, vapory, silent hues cover the evening sky,
-  As softness, fulness, rest, suffuse the frame, like freshier, balmier air,
-  As the days take on a mellower light, and the apple at last hangs
-      really finish’d and indolent-ripe on the tree,
-  Then for the teeming quietest, happiest days of all!
-  The brooding and blissful halcyon days!
+  Not from successful love alone,  
+  Nor wealth, nor honor’d middle age, nor victories of politics or war;  
+  But as life wanes, and all the turbulent passions calm,  
+  As gorgeous, vapory, silent hues cover the evening sky,  
+  As softness, fulness, rest, suffuse the frame, like freshier, balmier air,  
+  As the days take on a mellower light, and the apple at last hangs  
+      really finish’d and indolent-ripe on the tree,  
+  Then for the teeming quietest, happiest days of all!  
+  The brooding and blissful halcyon days!  

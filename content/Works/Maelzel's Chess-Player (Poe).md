@@ -19,8 +19,6 @@ tags:
   - form/detective_fiction
 ---
 
-# Maelzel's Chess-Player
-
 *by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

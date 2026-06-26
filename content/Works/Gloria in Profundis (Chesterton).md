@@ -21,8 +21,6 @@ tags:
   - histref/christianity
 ---
 
-# Gloria in Profundis
-
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -39,46 +37,46 @@ tags:
 
 ## Testo integrale / Full text
 
-GLORIA IN PROFUNDIS
+GLORIA IN PROFUNDIS  
 
 
-There has fallen on earth for a token
-A god too great for the sky.
-He has burst out of all things and broken
-The bounds of eternity:
-Into time and the terminal land
-He has strayed like a thief or a lover,
-For the wine of the world brims over,
-Its splendour is spilt on the sand.
+There has fallen on earth for a token  
+A god too great for the sky.  
+He has burst out of all things and broken  
+The bounds of eternity:  
+Into time and the terminal land  
+He has strayed like a thief or a lover,  
+For the wine of the world brims over,  
+Its splendour is spilt on the sand.  
 
-Who is proud when the heavens are humble,
-Who mounts if the mountains fall,
-If the fixed stars topple and tumble
-And a deluge of love drowns all-
-Who rears up his head for a crown,
-Who holds up his will for a warrant,
-Who strives with the starry torrent,
-When all that is good goes down?
+Who is proud when the heavens are humble,  
+Who mounts if the mountains fall,  
+If the fixed stars topple and tumble  
+And a deluge of love drowns all-  
+Who rears up his head for a crown,  
+Who holds up his will for a warrant,  
+Who strives with the starry torrent,  
+When all that is good goes down?  
 
-For in dread of such falling and failing
-The fallen angels fell
-Inverted in insolence, scaling
-The hanging mountain of hell:
-But unmeasured of plummet and rod
-Too deep for their sight to scan, 
-Outrushing the fall of man
-Is the height of the fall of God.
+For in dread of such falling and failing  
+The fallen angels fell  
+Inverted in insolence, scaling  
+The hanging mountain of hell:  
+But unmeasured of plummet and rod  
+Too deep for their sight to scan,  
+Outrushing the fall of man  
+Is the height of the fall of God.  
 
-Glory to God in the Lowest
-The spout of the stars in spate-
-Where thunderbolt thinks to be slowest
-And the lightning fears to be late:
-As men dive for sunken gem
-Pursuing, we hunt and hound it,
-The fallen star has found it
-In the cavern of Bethlehem.
+Glory to God in the Lowest  
+The spout of the stars in spate-  
+Where thunderbolt thinks to be slowest  
+And the lightning fears to be late:  
+As men dive for sunken gem  
+Pursuing, we hunt and hound it,  
+The fallen star has found it  
+In the cavern of Bethlehem.  
 
-                        Gilbert Keith Chesterton
+                        Gilbert Keith Chesterton  
 
 
-===== FINE FILE: Gloria_in_Profundis.txt =====
+===== FINE FILE: Gloria_in_Profundis.txt =====  

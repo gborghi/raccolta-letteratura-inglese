@@ -16,8 +16,6 @@ tags:
   - form/short_story
 ---
 
-# Von Kempelen and his Discovery
-
 *by Poe*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

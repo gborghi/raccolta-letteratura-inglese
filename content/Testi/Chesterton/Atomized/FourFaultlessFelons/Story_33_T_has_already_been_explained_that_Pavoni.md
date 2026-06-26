@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T has already been explained that Pavonia was governed on enlightened
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_32_THE_PROCESSION_OF_THE_PLOTTERS">‹ Story 32 THE PROCESSION OF THE PLOTTERS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_34_THE_PRINCESS_INTERVENES">Story 34 THE PRINCESS INTERVENES ›</a></div>

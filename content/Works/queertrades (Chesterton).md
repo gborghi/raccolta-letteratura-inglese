@@ -19,8 +19,6 @@ tags:
   - setting/london
 ---
 
-# queertrades
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

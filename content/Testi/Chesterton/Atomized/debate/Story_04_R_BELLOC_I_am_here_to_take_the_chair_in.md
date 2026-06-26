@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. BELLOC:  I am here to take the chair in the debate between two
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_03_O_WE_AGREE">‹ Story 03 O WE AGREE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_05_R_SHAW_Mr_Belloc_and_Ladies_and_Gentleme">Story 05 R SHAW Mr Belloc and Ladies and Gentleme ›</a></div>

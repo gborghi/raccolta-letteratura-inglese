@@ -19,8 +19,6 @@ tags:
   - histref/the_bible
 ---
 
-# job
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

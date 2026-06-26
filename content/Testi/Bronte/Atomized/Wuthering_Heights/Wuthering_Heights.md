@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Wuthering Heights
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
 </nav>

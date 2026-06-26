@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Betsey Trotwood
-
 *Character* — appears in **1** work(s).
 
 ## Works

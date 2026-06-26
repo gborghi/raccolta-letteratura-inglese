@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Sir Thomas More — Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_2">Scene 2 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Guido Bardi
-
 *Character* — appears in **1** work(s).
 
 ## Works

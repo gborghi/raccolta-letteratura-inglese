@@ -15,8 +15,6 @@ tags:
   - concept/the_waste_land
 ---
 
-# Notes on the Waste Land
-
 *by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 

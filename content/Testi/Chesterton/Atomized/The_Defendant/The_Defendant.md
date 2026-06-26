@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 </nav>

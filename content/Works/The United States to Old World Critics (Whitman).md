@@ -16,8 +16,6 @@ tags:
   - form/free_verse
 ---
 
-# The United States to Old World Critics
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -32,11 +30,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Here first the duties of to-day, the lessons of the concrete,
-  Wealth, order, travel, shelter, products, plenty;
-  As of the building of some varied, vast, perpetual edifice,
-  Whence to arise inevitable in time, the towering roofs, the lamps,
-  The solid-planted spires tall shooting to the stars.
+  Here first the duties of to-day, the lessons of the concrete,  
+  Wealth, order, travel, shelter, products, plenty;  
+  As of the building of some varied, vast, perpetual edifice,  
+  Whence to arise inevitable in time, the towering roofs, the lamps,  
+  The solid-planted spires tall shooting to the stars.  

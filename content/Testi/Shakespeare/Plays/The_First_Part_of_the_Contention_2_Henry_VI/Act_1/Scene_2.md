@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The First Part of the Contention (2 Henry VI) — Act I, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_First_Part_of_the_Contention_2_Henry_VI/Act_1/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_First_Part_of_the_Contention_2_Henry_VI/Act_1/Scene_3">Scene 3 ›</a></div>

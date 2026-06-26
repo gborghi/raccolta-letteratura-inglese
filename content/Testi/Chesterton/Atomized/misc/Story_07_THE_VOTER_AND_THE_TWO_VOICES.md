@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE VOTER AND THE TWO VOICES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_06_THE_GARDENER_AND_THE_GUINEA">‹ Story 06 THE GARDENER AND THE GUINEA</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_08_THE_MAD_OFFICIAL">Story 08 THE MAD OFFICIAL ›</a></div>

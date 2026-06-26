@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Serpent / Snake
-
 *Motif* — appears in **34** work(s).
 
 ## Works

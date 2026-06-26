@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — Science and the Eugenists
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_07_The_Church_of_the_Servile_State">‹ Story 07 The Church of the Servile State</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_09_The_Evolution_of_the_Prison">Story 09 The Evolution of the Prison ›</a></div>

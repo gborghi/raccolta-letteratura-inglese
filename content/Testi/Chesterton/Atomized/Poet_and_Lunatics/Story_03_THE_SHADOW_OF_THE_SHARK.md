@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE SHADOW OF THE SHARK
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_02_THE_YELLOW_BIRD">‹ Story 02 THE YELLOW BIRD</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_04_THE_CRIME_OF_GABRIEL_GALE">Story 04 THE CRIME OF GABRIEL GALE ›</a></div>

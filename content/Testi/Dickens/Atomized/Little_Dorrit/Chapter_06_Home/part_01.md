@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 3: Home (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_05_Fellow_Travellers/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_06_Home/part_02">part 02 ›</a></div>

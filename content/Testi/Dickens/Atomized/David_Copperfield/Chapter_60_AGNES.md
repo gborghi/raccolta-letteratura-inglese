@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 60: AGNES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_59_RETURN">‹ Chapter 59 RETURN</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_61_I_AM_SHOWN_TWO_INTERESTING_PEN">Chapter 61 I AM SHOWN TWO INTERESTING PEN ›</a></div>

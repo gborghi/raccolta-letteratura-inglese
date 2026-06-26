@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Apocalypse and Millennium
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

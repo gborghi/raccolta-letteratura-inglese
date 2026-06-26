@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Stone and Marble
-
 *Motif* — appears in **1** work(s).
 
 ## Works

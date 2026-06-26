@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Nightingale
-
 *Motif* — appears in **17** work(s).
 
 ## Works

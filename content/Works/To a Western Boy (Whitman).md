@@ -13,8 +13,6 @@ tags:
   - concept/education
 ---
 
-# To a Western Boy
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

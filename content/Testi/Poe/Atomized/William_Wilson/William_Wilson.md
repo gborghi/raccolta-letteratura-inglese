@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# William Wilson
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/William-Wilson-(Poe)">William Wilson</a></div>
 </nav>

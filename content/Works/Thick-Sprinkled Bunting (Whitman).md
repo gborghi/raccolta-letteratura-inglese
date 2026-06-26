@@ -14,8 +14,6 @@ tags:
   - concept/war_and_its_cost
 ---
 
-# Thick-Sprinkled Bunting
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

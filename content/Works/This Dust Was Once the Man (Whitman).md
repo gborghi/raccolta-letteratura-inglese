@@ -17,8 +17,6 @@ tags:
   - concept/nationalism_and_patriotism
 ---
 
-# This Dust Was Once the Man
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -35,10 +33,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: MEMORIES OF PRESIDENT LINCOLN_
+_Cluster: MEMORIES OF PRESIDENT LINCOLN_  
 
 
-  This dust was once the man,
-  Gentle, plain, just and resolute, under whose cautious hand,
-  Against the foulest crime in history known in any land or age,
-  Was saved the Union of these States.
+  This dust was once the man,  
+  Gentle, plain, just and resolute, under whose cautious hand,  
+  Against the foulest crime in history known in any land or age,  
+  Was saved the Union of these States.  

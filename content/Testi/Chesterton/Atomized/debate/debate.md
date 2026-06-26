@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 </nav>

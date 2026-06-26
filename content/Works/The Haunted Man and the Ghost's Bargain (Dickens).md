@@ -43,8 +43,6 @@ tags:
   - character/the_phantom
 ---
 
-# The Haunted Man and the Ghost's Bargain
-
 *by Dickens*  ·  **Cluster:** [[Supernatural]]
 
 > [!abstract] 

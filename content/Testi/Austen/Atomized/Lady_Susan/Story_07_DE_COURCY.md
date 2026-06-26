@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Lady Susan — DE COURCY.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Lady_Susan/Story_06_ATHERINE_VERNON">‹ Story 06 ATHERINE VERNON</a><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_08_ATHERINE_VERNON">Story 08 ATHERINE VERNON ›</a></div>

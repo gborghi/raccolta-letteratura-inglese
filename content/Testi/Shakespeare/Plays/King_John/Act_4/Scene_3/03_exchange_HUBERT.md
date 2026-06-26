@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# King John — Act IV, Scene 3 — exchange (HUBERT) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
 </nav>

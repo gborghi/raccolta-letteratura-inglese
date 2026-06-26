@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Martyrdom · Martyr / Saint · Cross
-
 *Cluster* — **37 works**.
 
 ## Defining concepts

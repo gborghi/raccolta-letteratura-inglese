@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Short Story · Concealment / Hidden Identity · Justice / Right and Wrong
-
 *Cluster* — **22 works**.
 
 ## Defining concepts

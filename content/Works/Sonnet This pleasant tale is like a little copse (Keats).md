@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet: This pleasant tale is like a little copse
-
 *by Keats*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -34,20 +32,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Written at the end of “The Floure and the Lefe’
+Written at the end of “The Floure and the Lefe’  
 
-This pleasant tale is like a little copse:
-The honied lines do freshly interlace
-To keep the reader in so sweet a place,
-So that he here and there full-hearted stops;
-And oftentimes he feels the dewy drops
-Come cool and suddenly against his face,
-And by the wandering melody may trace
-Which way the tender-legged linnet hops.
-Oh! what a power hath white simplicity!
-What mighty power has this gentle story!
-10
-I that for ever feel athirst for glory
-Could at this moment be content to lie
-Meekly upon the grass, as those whose sobbings
-Were heard of none beside the mournful robins.
+This pleasant tale is like a little copse:  
+The honied lines do freshly interlace  
+To keep the reader in so sweet a place,  
+So that he here and there full-hearted stops;  
+And oftentimes he feels the dewy drops  
+Come cool and suddenly against his face,  
+And by the wandering melody may trace  
+Which way the tender-legged linnet hops.  
+Oh! what a power hath white simplicity!  
+What mighty power has this gentle story!  
+10  
+I that for ever feel athirst for glory  
+Could at this moment be content to lie  
+Meekly upon the grass, as those whose sobbings  
+Were heard of none beside the mournful robins.  

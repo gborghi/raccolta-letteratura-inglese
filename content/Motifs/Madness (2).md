@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Madness
-
 *Motif* — appears in **44** work(s).
 
 ## Works

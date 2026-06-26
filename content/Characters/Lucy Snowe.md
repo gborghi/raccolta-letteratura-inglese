@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lucy Snowe
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -15,8 +15,6 @@ tags:
   - motif/love
 ---
 
-# Sonnet 46
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,19 +29,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Mine eye and heart are at a mortal war 
-How to divide the conquest of thy sight. 
-Mine eye my heart thy picture’s sight would bar, 
-My heart, mine eye the freedom of that right. 
-My heart doth plead that thou in him dost lie, 
-A closet never pierced with crystal eyes; 
-But the defendant doth that plea deny, 
-And says in him thy fair appearance lies. 
-To ’cide this title is empanellèd 
-A quest of thoughts, all tenants to the heart, 
-And by their verdict is determined 
-The clear eye’s moiety and the dear heart’s part,
+Mine eye and heart are at a mortal war  
+How to divide the conquest of thy sight.  
+Mine eye my heart thy picture’s sight would bar,  
+My heart, mine eye the freedom of that right.  
+My heart doth plead that thou in him dost lie,  
+A closet never pierced with crystal eyes;  
+But the defendant doth that plea deny,  
+And says in him thy fair appearance lies.  
+To ’cide this title is empanellèd  
+A quest of thoughts, all tenants to the heart,  
+And by their verdict is determined  
+The clear eye’s moiety and the dear heart’s part,  
 
-As thus: mine eye’s due is thy outward part,
+As thus: mine eye’s due is thy outward part,  
 
-And my heart’s right thy inward love of heart.
+And my heart’s right thy inward love of heart.  

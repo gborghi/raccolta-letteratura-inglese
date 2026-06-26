@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Fancies Versis Fads — Book 1: MANUFACTURERS (part 37)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Fancies-Versis-Fads-(Chesterton)">Fancies Versis Fads</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS/part_36">‹ part 36</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Fancies_Versis_Fads/Chapter_01_MANUFACTURERS/part_38">part 38 ›</a></div>

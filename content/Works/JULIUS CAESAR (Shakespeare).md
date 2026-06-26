@@ -41,8 +41,6 @@ tags:
   - character/calpurnia
 ---
 
-# JULIUS CAESAR
-
 *by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
 
 > [!abstract] 

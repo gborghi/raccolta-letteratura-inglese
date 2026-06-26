@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Celts and Celtophiles
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_11_Paganism_and_Mr_Lowes_Dickinson">‹ Story 11 Paganism and Mr Lowes Dickinson</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_13_On_Certain_Modern_Writers_and_the_Instit">Story 13 On Certain Modern Writers and the Instit ›</a></div>

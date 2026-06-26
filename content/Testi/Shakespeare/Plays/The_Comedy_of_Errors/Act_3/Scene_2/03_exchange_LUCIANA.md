@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Comedy of Errors — Act III, Scene 2 — exchange (LUCIANA) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 </nav>

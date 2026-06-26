@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_22_SHOWING_HOW_DODSON_AND_FOGG_WE/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_23_IN_WHICH_THE_OLD_MAN_LAUNCHES/part_02">part 02 ›</a></div>

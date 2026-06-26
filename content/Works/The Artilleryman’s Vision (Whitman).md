@@ -16,8 +16,6 @@ tags:
   - motif/fog_and_smoke
 ---
 
-# The Artilleryman’s Vision
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

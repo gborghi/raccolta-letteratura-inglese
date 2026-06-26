@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Resurrection of Father Brown (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_09_The_Ghost_of_Gideon_Wise">‹ Story 09 The Ghost of Gideon Wise</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_01_The_Resurrection_of_Father_Brown/part_02">part 02 ›</a></div>

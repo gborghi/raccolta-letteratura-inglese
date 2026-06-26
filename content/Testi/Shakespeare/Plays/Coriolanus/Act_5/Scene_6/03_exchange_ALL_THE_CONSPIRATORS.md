@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act V, Scene 6 — exchange (ALL THE CONSPIRATORS) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 </nav>

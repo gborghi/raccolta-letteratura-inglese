@@ -14,8 +14,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# A Font of Type
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 

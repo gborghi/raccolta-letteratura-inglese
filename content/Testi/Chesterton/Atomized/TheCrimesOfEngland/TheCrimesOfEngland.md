@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# TheCrimesOfEngland
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/TheCrimesOfEngland-(Chesterton)">TheCrimesOfEngland</a></div>
 </nav>

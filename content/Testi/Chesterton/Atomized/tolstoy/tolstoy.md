@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# tolstoy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/tolstoy-(Chesterton)">tolstoy</a></div>
 </nav>

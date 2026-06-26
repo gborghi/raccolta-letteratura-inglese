@@ -27,8 +27,6 @@ tags:
   - histref/the_industrial_revolution
 ---
 
-# All I Survey
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

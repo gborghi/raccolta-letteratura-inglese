@@ -16,8 +16,6 @@ tags:
   - motif/desire
 ---
 
-# O! Were I one of the Olympian twelve
-
 *by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
@@ -33,14 +31,14 @@ tags:
 
 ## Testo integrale / Full text
 
-O! Were I one of the Olympian twelve,
-Their godships should pass this into a law, -
-That when a man doth set himself in toil
-After some beauty veiled far away,
-Each step he took should make his lady’s hand
-More soft, more white, and her fair cheek more fair;
-And for each briar-berry he might eat,
-A kiss should bud upon the tree of love,
-And pulp and ripen richer every hour,
-To melt away upon the traveller’s lips.
-10
+O! Were I one of the Olympian twelve,  
+Their godships should pass this into a law, -  
+That when a man doth set himself in toil  
+After some beauty veiled far away,  
+Each step he took should make his lady’s hand  
+More soft, more white, and her fair cheek more fair;  
+And for each briar-berry he might eat,  
+A kiss should bud upon the tree of love,  
+And pulp and ripen richer every hour,  
+To melt away upon the traveller’s lips.  
+10  

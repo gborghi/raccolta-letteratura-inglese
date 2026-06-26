@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Tolstoy And The Cult Of Simplicity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_09_Thomas_Carlyle">‹ Story 09 Thomas Carlyle</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_11_Savonarola">Story 11 Savonarola ›</a></div>

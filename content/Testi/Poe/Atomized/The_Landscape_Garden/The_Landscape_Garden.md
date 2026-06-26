@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Landscape Garden
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Landscape-Garden-(Poe)">The Landscape Garden</a></div>
 </nav>

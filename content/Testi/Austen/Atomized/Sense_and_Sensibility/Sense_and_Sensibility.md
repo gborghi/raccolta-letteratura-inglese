@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 </nav>

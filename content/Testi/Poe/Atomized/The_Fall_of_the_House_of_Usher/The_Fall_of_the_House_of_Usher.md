@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Fall of the House of Usher
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Fall-of-the-House-of-Usher-(Poe)">The Fall of the House of Usher</a></div>
 </nav>

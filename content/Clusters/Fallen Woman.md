@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Fallen Woman
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

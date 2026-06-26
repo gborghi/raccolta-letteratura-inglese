@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Renaissance
-
 *Historical reference* — appears in **24** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act II, Scene 1 — monologue (MENENIUS I) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 </nav>

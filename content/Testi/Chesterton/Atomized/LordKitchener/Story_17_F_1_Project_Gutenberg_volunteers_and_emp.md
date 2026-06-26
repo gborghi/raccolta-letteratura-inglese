@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — F.1.  Project Gutenberg volunteers and employees expend considerable
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_16_E_9_If_you_wish_to_charge_a_fee_or_distr">‹ Story 16 E 9 If you wish to charge a fee or distr</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_18_F_2_LIMITED_WARRANTY_DISCLAIMER_OF_DAMAG">Story 18 F 2 LIMITED WARRANTY DISCLAIMER OF DAMAG ›</a></div>

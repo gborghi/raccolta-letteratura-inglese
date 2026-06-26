@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — The Root of Reality
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_01_Two_Stones_in_a_Square">‹ Story 01 Two Stones in a Square</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_03_The_Family_and_the_Feud">Story 03 The Family and the Feud ›</a></div>

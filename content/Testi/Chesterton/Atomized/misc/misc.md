@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 </nav>

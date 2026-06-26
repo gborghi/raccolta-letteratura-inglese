@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Ages of the World
-
 *Topos* — appears in **6** work(s).
 
 ## Works

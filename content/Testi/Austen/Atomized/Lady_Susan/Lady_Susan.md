@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Lady Susan
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
 </nav>

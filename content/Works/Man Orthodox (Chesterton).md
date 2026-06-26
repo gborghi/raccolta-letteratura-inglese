@@ -21,8 +21,6 @@ tags:
   - histref/the_bible
 ---
 
-# Man Orthodox
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

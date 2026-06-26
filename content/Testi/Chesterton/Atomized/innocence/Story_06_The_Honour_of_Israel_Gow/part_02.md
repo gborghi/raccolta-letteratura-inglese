@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Honour of Israel Gow (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_06_The_Honour_of_Israel_Gow/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_06_The_Honour_of_Israel_Gow/part_03">part 03 ›</a></div>

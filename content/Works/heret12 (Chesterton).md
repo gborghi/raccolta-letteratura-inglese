@@ -24,8 +24,6 @@ tags:
   - character/odysseus
 ---
 
-# heret12
-
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — Shocking The Modernists
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_38_Frozen_Free_Thought">‹ Story 38 Frozen Free Thought</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_40_A_Grammar_Of_Knighthood">Story 40 A Grammar Of Knighthood ›</a></div>

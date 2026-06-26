@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Hope
-
 *Theme/Concept* — appears in **13** work(s).
 
 ## Works

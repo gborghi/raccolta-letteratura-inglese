@@ -43,8 +43,6 @@ tags:
   - character/montague_tigg
 ---
 
-# Martin Chuzzlewit
-
 *by Dickens*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 

@@ -18,8 +18,6 @@ tags:
   - histref/american_civil_war
 ---
 
-# The Wound-Dresser
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

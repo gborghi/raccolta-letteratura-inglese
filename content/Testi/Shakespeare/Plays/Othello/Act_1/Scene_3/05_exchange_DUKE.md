@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Othello — Act I, Scene 3 — exchange (DUKE) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
 </nav>

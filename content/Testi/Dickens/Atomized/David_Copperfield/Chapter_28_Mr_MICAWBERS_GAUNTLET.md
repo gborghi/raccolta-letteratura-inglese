@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 28: Mr. MICAWBER’S GAUNTLET
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES">‹ Chapter 27 TOMMY TRADDLES</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_29_I_VISIT_STEERFORTH_AT_HIS_HOME">Chapter 29 I VISIT STEERFORTH AT HIS HOME ›</a></div>

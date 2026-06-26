@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Crown
-
 *Motif* — appears in **78** work(s).
 
 ## Works

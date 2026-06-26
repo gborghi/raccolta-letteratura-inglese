@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Comradeship
-
 *Theme/Concept* — appears in **53** work(s).
 
 ## Works

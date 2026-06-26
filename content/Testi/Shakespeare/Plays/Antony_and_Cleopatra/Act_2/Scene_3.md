@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Antony and Cleopatra — Act II, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_2/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Antony_and_Cleopatra/Act_2/Scene_4">Scene 4 ›</a></div>

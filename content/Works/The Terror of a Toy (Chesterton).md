@@ -19,8 +19,6 @@ tags:
   - motif/childhood
 ---
 
-# The Terror of a Toy
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

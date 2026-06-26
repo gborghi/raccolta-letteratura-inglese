@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Memento Mori
-
 *Topos* — appears in **145** work(s).
 
 ## Works

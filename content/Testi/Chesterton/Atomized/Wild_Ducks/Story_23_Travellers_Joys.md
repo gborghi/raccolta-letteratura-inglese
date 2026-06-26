@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — Travellers' Joys
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_22_The_Apostle_and_the_Wild_Ducks">‹ Story 22 The Apostle and the Wild Ducks</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_24_Understanding_France">Story 24 Understanding France ›</a></div>

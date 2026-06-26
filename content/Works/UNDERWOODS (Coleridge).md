@@ -17,8 +17,6 @@ tags:
   - form/epigram
 ---
 
-# UNDERWOODS
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -33,13 +31,13 @@ tags:
 
 ## Testo integrale / Full text
 
-No. VI. THE HOUR-GLASS.
-Consider this small dust, here in the glass
-By atoms moved:
-Could you believe that this the body was
-Of one that loved;
-And in his mistress’ flame playing like a fly,   5
-Was turned to cinders by her eye:
-Yes; and in death, as life unblest,
-To have ‘t exprest,
-Even ashes of lovers find no rest.
+No. VI. THE HOUR-GLASS.  
+Consider this small dust, here in the glass  
+By atoms moved:  
+Could you believe that this the body was  
+Of one that loved;  
+And in his mistress’ flame playing like a fly,   5  
+Was turned to cinders by her eye:  
+Yes; and in death, as life unblest,  
+To have ‘t exprest,  
+Even ashes of lovers find no rest.  

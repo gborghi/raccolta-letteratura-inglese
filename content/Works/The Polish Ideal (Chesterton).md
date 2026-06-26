@@ -20,8 +20,6 @@ tags:
   - histref/catholic_church
 ---
 
-# The Polish Ideal
-
 *by Chesterton*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 

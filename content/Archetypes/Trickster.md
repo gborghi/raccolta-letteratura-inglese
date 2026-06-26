@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Trickster
-
 *Archetype* — appears in **40** work(s).
 
 ## Works

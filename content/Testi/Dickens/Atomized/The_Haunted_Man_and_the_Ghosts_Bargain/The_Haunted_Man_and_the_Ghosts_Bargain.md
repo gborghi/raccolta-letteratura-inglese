@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Haunted Man and the Ghost's Bargain
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Haunted-Man-and-the-Ghost's-Bargain-(Dickens)">The Haunted Man and the Ghosts Bargain</a></div>
 </nav>

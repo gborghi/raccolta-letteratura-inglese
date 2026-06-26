@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Jane Eyre — Chapter 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_02">Chapter 02 ›</a></div>

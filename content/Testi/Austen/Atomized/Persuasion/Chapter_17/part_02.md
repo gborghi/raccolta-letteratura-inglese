@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Persuasion — Chapter 17 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_17/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_17/part_03">part 03 ›</a></div>

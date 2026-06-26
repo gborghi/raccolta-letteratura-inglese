@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Maelzel's Chess-Player
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Maelzel's-Chess-Player-(Poe)">Maelzel s Chess Player</a></div>
 </nav>

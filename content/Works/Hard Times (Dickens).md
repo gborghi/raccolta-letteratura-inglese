@@ -40,8 +40,6 @@ tags:
   - character/mrs_sparsit
 ---
 
-# Hard Times
-
 *by Dickens*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act III, Scene 2 — exchange (PLAYER QUEEN) [9]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

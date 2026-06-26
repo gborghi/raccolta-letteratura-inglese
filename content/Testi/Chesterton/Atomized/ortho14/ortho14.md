@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 </nav>

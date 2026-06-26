@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Inexpressibility
-
 *Theme/Concept* — appears in **3** work(s).
 
 ## Works

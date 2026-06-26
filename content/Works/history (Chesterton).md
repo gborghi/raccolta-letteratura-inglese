@@ -35,8 +35,6 @@ tags:
   - setting/medieval_england
 ---
 
-# history
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

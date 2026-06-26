@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Jonas Chuzzlewit
-
 *Character* — appears in **1** work(s).
 
 ## Works

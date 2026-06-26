@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 9
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_08">‹ Chapter 08</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_10">Chapter 10 ›</a></div>

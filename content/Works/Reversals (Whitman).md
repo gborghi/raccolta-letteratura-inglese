@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# Reversals
-
 *by Whitman*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 
@@ -29,9 +27,9 @@ tags:
 
 ## Testo integrale / Full text
 
-Let that which stood in front go behind,
-  Let that which was behind advance to the front,
-  Let bigots, fools, unclean persons, offer new propositions,
-  Let the old propositions be postponed,
-  Let a man seek pleasure everywhere except in himself,
-  Let a woman seek happiness everywhere except in herself
+Let that which stood in front go behind,  
+  Let that which was behind advance to the front,  
+  Let bigots, fools, unclean persons, offer new propositions,  
+  Let the old propositions be postponed,  
+  Let a man seek pleasure everywhere except in himself,  
+  Let a woman seek happiness everywhere except in herself  

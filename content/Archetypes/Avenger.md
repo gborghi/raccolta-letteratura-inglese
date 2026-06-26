@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Avenger
-
 *Archetype* — appears in **20** work(s).
 
 ## Works

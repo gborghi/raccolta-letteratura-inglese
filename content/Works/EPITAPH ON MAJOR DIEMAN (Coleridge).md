@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# EPITAPH ON MAJOR DIEMAN
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -30,8 +28,8 @@ tags:
 
 ## Testo integrale / Full text
 
-Know thou who walks’t by, Man! that wrapp’d up in lead, man,
-What once was a Dieman, now lies here a dead man.
-Alive a proud MAJOR! but ah me! of our poor all,
-The soul having gone, he is now merely Corporal.
-? 1800. Now first published from MS.
+Know thou who walks’t by, Man! that wrapp’d up in lead, man,  
+What once was a Dieman, now lies here a dead man.  
+Alive a proud MAJOR! but ah me! of our poor all,  
+The soul having gone, he is now merely Corporal.  
+? 1800. Now first published from MS.  

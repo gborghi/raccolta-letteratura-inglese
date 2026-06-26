@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_21_NCIDENTAL_DAMAGES_EVEN_IF_YOU_GIVE_NOTIC">‹ Story 21 NCIDENTAL DAMAGES EVEN IF YOU GIVE NOTIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_23_F_4_Except_for_the_limited_right_of_repl">Story 23 F 4 Except for the limited right of repl ›</a></div>

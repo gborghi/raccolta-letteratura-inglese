@@ -15,8 +15,6 @@ tags:
   - concept/grace_and_redemption
 ---
 
-# To One Shortly to Die
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Alfred Jingle
-
 *Character* — appears in **1** work(s).
 
 ## Works

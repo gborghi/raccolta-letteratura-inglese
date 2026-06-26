@@ -27,8 +27,6 @@ tags:
   - form/essay
 ---
 
-# The Island of the Fay
-
 *by Poe*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 

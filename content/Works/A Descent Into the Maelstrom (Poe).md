@@ -27,8 +27,6 @@ tags:
   - setting/a_ship
 ---
 
-# A Descent Into the Maelstrom
-
 *by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 

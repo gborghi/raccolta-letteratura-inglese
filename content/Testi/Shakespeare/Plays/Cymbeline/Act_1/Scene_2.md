@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Cymbeline — Act I, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Cymbeline/Act_1/Scene_3">Scene 3 ›</a></div>

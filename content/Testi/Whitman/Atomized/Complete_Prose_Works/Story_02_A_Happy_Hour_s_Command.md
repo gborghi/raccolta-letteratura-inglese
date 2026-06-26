@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Happy Hour's Command
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_01_SPECIMEN_DAYS">‹ Story 01 SPECIMEN DAYS</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_03_Answer_to_an_Insisting_Friend">Story 03 Answer to an Insisting Friend ›</a></div>

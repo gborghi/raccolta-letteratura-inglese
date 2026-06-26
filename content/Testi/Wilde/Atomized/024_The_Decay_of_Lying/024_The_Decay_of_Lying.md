@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Decay of Lying
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Decay-of-Lying-(Wilde)">024 The Decay of Lying</a></div>
 </nav>

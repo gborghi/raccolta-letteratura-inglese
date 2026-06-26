@@ -40,8 +40,6 @@ tags:
   - character/the_young_king
 ---
 
-# The Young King
-
 *by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

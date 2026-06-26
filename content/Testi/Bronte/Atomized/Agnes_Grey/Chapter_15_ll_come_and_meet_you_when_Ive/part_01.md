@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Agnes Grey — Volume 1: ’ll come and meet you when I’ve done it. Be quick, will (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_14/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_15_ll_come_and_meet_you_when_Ive/part_02">part 02 ›</a></div>

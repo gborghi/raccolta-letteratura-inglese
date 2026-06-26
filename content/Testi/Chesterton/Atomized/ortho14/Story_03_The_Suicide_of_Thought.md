@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14 — The Suicide of Thought
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_02_The_Maniac">‹ Story 02 The Maniac</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_04_The_Ethics_of_Elfland">Story 04 The Ethics of Elfland ›</a></div>

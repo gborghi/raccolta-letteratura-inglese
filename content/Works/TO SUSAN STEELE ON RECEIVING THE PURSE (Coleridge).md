@@ -14,8 +14,6 @@ tags:
   - concept/joy
 ---
 
-# TO SUSAN STEELE ON RECEIVING THE PURSE
-
 *by Coleridge*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 
@@ -29,19 +27,19 @@ tags:
 
 ## Testo integrale / Full text
 
-EXTRUMPERY LINES
-My dearest Dawtie!
-That’s never naughty —
-When the Mare was stolen, and not before,
-The wise man got a stable-door:
-And he and I are brother Ninnies,
-One Beast he lost and I two guineas;
-And as sure as it’s wet when it above rains,
-The man’s brains and mine both alike had thick coverings,
-For if he lost one mare, poor I lost two sovereigns!
-A cash-pouch I have got, but no cash to put in it,
-Tho’ there’s gold in the world and Sir Walter can win it:
-For your sake I’ll keep it for better or worse,
-So here is a dear loving kiss for your purse.
-S. T. COLERIDGE.
+EXTRUMPERY LINES  
+My dearest Dawtie!  
+That’s never naughty —  
+When the Mare was stolen, and not before,  
+The wise man got a stable-door:  
+And he and I are brother Ninnies,  
+One Beast he lost and I two guineas;  
+And as sure as it’s wet when it above rains,  
+The man’s brains and mine both alike had thick coverings,  
+For if he lost one mare, poor I lost two sovereigns!  
+A cash-pouch I have got, but no cash to put in it,  
+Tho’ there’s gold in the world and Sir Walter can win it:  
+For your sake I’ll keep it for better or worse,  
+So here is a dear loving kiss for your purse.  
+S. T. COLERIDGE.  
 1829. Now first published from an MS.

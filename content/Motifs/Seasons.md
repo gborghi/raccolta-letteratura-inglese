@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Seasons
-
 *Motif* — appears in **145** work(s).
 
 ## Works

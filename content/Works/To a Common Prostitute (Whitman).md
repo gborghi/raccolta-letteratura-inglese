@@ -15,8 +15,6 @@ tags:
   - concept/grace_and_redemption
 ---
 
-# To a Common Prostitute
-
 *by Whitman*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# New England / America
-
 *Setting* — appears in **19** work(s).
 
 ## Works

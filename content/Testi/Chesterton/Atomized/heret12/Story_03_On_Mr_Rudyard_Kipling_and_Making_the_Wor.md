@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — On Mr. Rudyard Kipling and Making the World Small
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit">‹ Story 02 On the Negative Spirit</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_04_Mr_Bernard_Shaw">Story 04 Mr Bernard Shaw ›</a></div>

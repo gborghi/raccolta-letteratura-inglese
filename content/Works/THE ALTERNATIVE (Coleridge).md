@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# THE ALTERNATIVE
-
 *by Coleridge*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
@@ -29,15 +27,15 @@ tags:
 
 ## Testo integrale / Full text
 
-This way or that, ye Powers above me!
-I of my grief were rid —
-Did Enna either really love me,
-Or cease to think she did.
-First published in Lit. Rem., i. 59. Included in Essays, &c., iii.
+This way or that, ye Powers above me!  
+I of my grief were rid —  
+Did Enna either really love me,  
+Or cease to think she did.  
+First published in Lit. Rem., i. 59. Included in Essays, &c., iii.  
 987. First collected in P. W., 1885, ii. 364.
-In Spain, that land of Monks and Apes,
-The thing called Wine doth come from grapes,
-But on the noble River Rhine,
-The thing called Gripes doth come from Wine!
-First published in Memoirs of C. M. Young, 1871, p. 221. First
-collected in 1893.
+In Spain, that land of Monks and Apes,  
+The thing called Wine doth come from grapes,  
+But on the noble River Rhine,  
+The thing called Gripes doth come from Wine!  
+First published in Memoirs of C. M. Young, 1871, p. 221. First  
+collected in 1893.  

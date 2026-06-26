@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act I, Scene 3 — monologue (LAERTES) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

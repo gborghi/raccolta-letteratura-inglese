@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Dolly Varden
-
 *Character* — appears in **1** work(s).
 
 ## Works

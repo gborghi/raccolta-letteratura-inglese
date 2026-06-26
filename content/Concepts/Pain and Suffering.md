@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Pain and Suffering
-
 *Theme/Concept* — appears in **11** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Medieval England
-
 *Historical reference* — appears in **29** work(s).
 
 ## Works

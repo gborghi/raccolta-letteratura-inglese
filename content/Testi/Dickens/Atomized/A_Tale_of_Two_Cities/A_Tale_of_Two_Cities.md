@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Tale of Two Cities
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# All the World's a Stage
-
 *Topos* — appears in **3** work(s).
 
 ## Works

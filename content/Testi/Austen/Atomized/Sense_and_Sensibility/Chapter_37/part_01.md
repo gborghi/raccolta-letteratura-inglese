@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility — Chapter 37 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_36/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_37/part_02">part 02 ›</a></div>

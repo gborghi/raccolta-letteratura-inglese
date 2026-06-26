@@ -14,8 +14,6 @@ tags:
   - histref/the_bible
 ---
 
-# Fame, like a wayward Giri, will still be coy
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -30,19 +28,19 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-Fame, like a wayward Giri, will still be coy
-To those who woo her with too slavish knees,
-But makes surrender to some thoughtless boy.
-And dotes the more upon a heart at ease;
-She is a Gipsey, will not speak to those
-Who have not learnt to be content without her;
-A Jilt, whose ear was never whisper’d close,
-Who thinks they scandal her who talk about her;
-A very Gipsey is she, Nilus-born,
-Sister-in-law to jealous Potiphar;
-10
-Ye lovesick Bards, repay her scorn for scorn,
-Ye Artists lovelorn, madmen that ye are!
-Make your best bow to her and bid adieu,
-Then, if she likes it, she will follow you.
+I  
+Fame, like a wayward Giri, will still be coy  
+To those who woo her with too slavish knees,  
+But makes surrender to some thoughtless boy.  
+And dotes the more upon a heart at ease;  
+She is a Gipsey, will not speak to those  
+Who have not learnt to be content without her;  
+A Jilt, whose ear was never whisper’d close,  
+Who thinks they scandal her who talk about her;  
+A very Gipsey is she, Nilus-born,  
+Sister-in-law to jealous Potiphar;  
+10  
+Ye lovesick Bards, repay her scorn for scorn,  
+Ye Artists lovelorn, madmen that ye are!  
+Make your best bow to her and bid adieu,  
+Then, if she likes it, she will follow you.  

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_18_A_RETROSPECT">‹ Chapter 18 A RETROSPECT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_HOME">Chapter 20 STEERFORTHS HOME ›</a></div>

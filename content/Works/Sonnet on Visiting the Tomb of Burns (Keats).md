@@ -16,8 +16,6 @@ tags:
   - concept/transience
 ---
 
-# Sonnet on Visiting the Tomb of Burns
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-The town, the churchyard, and the setting sun,
-The clouds, the trees, the rounded hills all seem,
-Though beautiful, cold - strange - as in a dream,
-I dreamed long ago, now new begun.
-The short-liv’d, paly summer is but won
-From winter’s ague, for one hour’s gleam;
-Though sapphire-warm, their stars do never beam:
-All is cold beauty; pain is never done:
-For who has mind to relish, Minos-wise,
-The real of beauty, free from that dead hue
-Sickly imagination and sick pride
-Cast wan upon it! Bums! with honour due
-I oft have honour’d thee. Great shadow, hide
-Thy face; I sin against thy native skies.
+The town, the churchyard, and the setting sun,  
+The clouds, the trees, the rounded hills all seem,  
+Though beautiful, cold - strange - as in a dream,  
+I dreamed long ago, now new begun.  
+The short-liv’d, paly summer is but won  
+From winter’s ague, for one hour’s gleam;  
+Though sapphire-warm, their stars do never beam:  
+All is cold beauty; pain is never done:  
+For who has mind to relish, Minos-wise,  
+The real of beauty, free from that dead hue  
+Sickly imagination and sick pride  
+Cast wan upon it! Bums! with honour due  
+I oft have honour’d thee. Great shadow, hide  
+Thy face; I sin against thy native skies.  

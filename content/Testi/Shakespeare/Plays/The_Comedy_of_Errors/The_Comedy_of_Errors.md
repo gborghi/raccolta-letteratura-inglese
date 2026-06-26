@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE COMEDY OF ERRORS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 </nav>

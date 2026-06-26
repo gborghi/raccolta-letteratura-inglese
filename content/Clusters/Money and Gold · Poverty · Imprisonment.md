@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Money and Gold · Poverty · Imprisonment
-
 *Cluster* — **22 works**.
 
 ## Defining concepts

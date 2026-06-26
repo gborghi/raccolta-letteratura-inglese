@@ -15,8 +15,6 @@ tags:
   - motif/music_and_song
 ---
 
-# One’s-Self I Sing
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,17 +28,17 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  One’s-self I sing, a simple separate person,
-  Yet utter the word Democratic, the word En-Masse.
+  One’s-self I sing, a simple separate person,  
+  Yet utter the word Democratic, the word En-Masse.  
 
-  Of physiology from top to toe I sing,
-  Not physiognomy alone nor brain alone is worthy for the Muse, I say
-      the Form complete is worthier far,
-  The Female equally with the Male I sing.
+  Of physiology from top to toe I sing,  
+  Not physiognomy alone nor brain alone is worthy for the Muse, I say  
+      the Form complete is worthier far,  
+  The Female equally with the Male I sing.  
 
-  Of Life immense in passion, pulse, and power,
-  Cheerful, for freest action form’d under the laws divine,
-  The Modern Man I sing.
+  Of Life immense in passion, pulse, and power,  
+  Cheerful, for freest action form’d under the laws divine,  
+  The Modern Man I sing.  

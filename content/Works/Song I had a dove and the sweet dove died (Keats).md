@@ -14,8 +14,6 @@ tags:
   - concept/love_romantic
 ---
 
-# Song: I had a dove and the sweet dove died
-
 *by Keats*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -29,14 +27,14 @@ tags:
 
 ## Testo integrale / Full text
 
-I had a dove and the sweet dove died;
-And I have thought it died of grieving:
-O, what could it grieve for? Its feet were tied,
-With a silken thread of my own hand’s weaving;
-Sweet little red feet! why should you die -
-Why should you leave me, sweet bird! why?
-You liv’d alone in the forest-tree,
-Why, pretty thing! would you not live with me?
-I kiss’d you oft and gave you white peas;
-Why not live sweetly, as in the green trees?
-10
+I had a dove and the sweet dove died;  
+And I have thought it died of grieving:  
+O, what could it grieve for? Its feet were tied,  
+With a silken thread of my own hand’s weaving;  
+Sweet little red feet! why should you die -  
+Why should you leave me, sweet bird! why?  
+You liv’d alone in the forest-tree,  
+Why, pretty thing! would you not live with me?  
+I kiss’d you oft and gave you white peas;  
+Why not live sweetly, as in the green trees?  
+10  

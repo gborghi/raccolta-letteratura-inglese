@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_64_HAPTER_XITHE_BLOOMSBURY_CHRISTENING">‹ Story 64 HAPTER XITHE BLOOMSBURY CHRISTENING</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_66_OACH_HOUSE_PIG_AND_TINDER_BOX">Story 66 OACH HOUSE PIG AND TINDER BOX ›</a></div>

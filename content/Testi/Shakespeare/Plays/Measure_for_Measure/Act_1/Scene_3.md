@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Measure for Measure — Act I, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Measure_for_Measure/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Measure_for_Measure/Act_1/Scene_4">Scene 4 ›</a></div>

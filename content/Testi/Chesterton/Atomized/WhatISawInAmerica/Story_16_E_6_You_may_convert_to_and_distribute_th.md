@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — E.6.  You may convert to and distribute this work in any binary,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_15_E_5_Do_not_copy_display_perform_distribu">‹ Story 15 E 5 Do not copy display perform distribu</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_17_E_7_Do_not_charge_a_fee_for_access_to_vi">Story 17 E 7 Do not charge a fee for access to vi ›</a></div>

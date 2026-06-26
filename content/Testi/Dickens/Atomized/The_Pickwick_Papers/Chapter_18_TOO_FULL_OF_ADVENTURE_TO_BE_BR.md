@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 16: TOO FULL OF ADVENTURE TO BE BRIEFLY DESCRIBED
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_17">‹ Chapter 17</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_19_SHOWING_THAT_AN_ATTACK_OF_RHEU">Chapter 19 SHOWING THAT AN ATTACK OF RHEU ›</a></div>

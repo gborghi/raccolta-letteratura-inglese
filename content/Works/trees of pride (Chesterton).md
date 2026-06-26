@@ -21,8 +21,6 @@ tags:
   - setting/rural_england
 ---
 
-# trees of pride
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

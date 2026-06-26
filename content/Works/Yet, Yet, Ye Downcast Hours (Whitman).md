@@ -14,8 +14,6 @@ tags:
   - concept/faith_and_doubt
 ---
 
-# Yet, Yet, Ye Downcast Hours
-
 *by Whitman*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

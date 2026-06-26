@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# AN ANGEL VISITANT
-
 *by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -30,9 +28,9 @@ tags:
 
 ## Testo integrale / Full text
 
-Within these circling hollies woodbine-clad —
-Beneath this small blue roof of vernal sky —
-How warm, how still! Tho’ tears should dim mine eye,
-Yet will my heart for days continue glad,
-For here, my love, thou art, and here am I!
-? 1801.
+Within these circling hollies woodbine-clad —  
+Beneath this small blue roof of vernal sky —  
+How warm, how still! Tho’ tears should dim mine eye,  
+Yet will my heart for days continue glad,  
+For here, my love, thou art, and here am I!  
+? 1801.  

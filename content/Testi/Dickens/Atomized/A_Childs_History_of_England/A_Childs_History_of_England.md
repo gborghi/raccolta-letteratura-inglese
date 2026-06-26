@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 </nav>

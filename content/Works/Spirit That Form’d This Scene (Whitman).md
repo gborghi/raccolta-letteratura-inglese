@@ -14,8 +14,6 @@ tags:
   - concept/the_sublime
 ---
 
-# Spirit That Form’d This Scene
-
 *by Whitman*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 

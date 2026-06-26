@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — Where Is The Paradox?
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_47_An_Explanation">‹ Story 47 An Explanation</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_04_An_Apology_For_Buffoons/part_01">part 01 ›</a></div>

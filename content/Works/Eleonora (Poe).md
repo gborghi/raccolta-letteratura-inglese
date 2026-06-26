@@ -29,8 +29,6 @@ tags:
   - setting/a_garden
 ---
 
-# Eleonora
-
 *by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 

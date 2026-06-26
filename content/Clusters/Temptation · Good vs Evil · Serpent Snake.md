@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Temptation · Good vs Evil · Serpent / Snake
-
 *Cluster* — **21 works**.
 
 ## Defining concepts

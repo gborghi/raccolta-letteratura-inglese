@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Tenant of Wildfell Hall — Chapter 50
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Tenant-of-Wildfell-Hall-(Bronte)">The Tenant of Wildfell Hall</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_49">‹ Chapter 49</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Tenant_of_Wildfell_Hall/Chapter_51">Chapter 51 ›</a></div>

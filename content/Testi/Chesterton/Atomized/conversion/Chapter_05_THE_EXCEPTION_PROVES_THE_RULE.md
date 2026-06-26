@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion — Chapter 5: THE EXCEPTION PROVES THE RULE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_04_THE_WORLD_INSIDE_OUT">‹ Chapter 04 THE WORLD INSIDE OUT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_06_A_NOTE_ON_PRESENT_PROSPECTS">Chapter 06 A NOTE ON PRESENT PROSPECTS ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# divorce — Chapter 9
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/divorce-(Chesterton)">divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/divorce/Chapter_08">‹ Chapter 08</a><a class="ex-next" href="/Testi/Chesterton/Atomized/divorce/Chapter_01/part_01">part 01 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Artist and Society
-
 *Theme/Concept* — appears in **191** work(s).
 
 ## Works

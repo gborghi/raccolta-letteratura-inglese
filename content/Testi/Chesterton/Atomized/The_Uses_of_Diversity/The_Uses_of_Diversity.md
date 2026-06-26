@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 </nav>

@@ -14,8 +14,6 @@ tags:
   - setting/america
 ---
 
-# What Best I See in Thee
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# Fill for me a brimming bowl
-
 *by Keats*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 
@@ -36,34 +34,34 @@ tags:
 
 ## Testo integrale / Full text
 
-Fill for me a brimming bowl
-And let me in it drown my soul:
-But put therein some drug, designed
-To banish women from my mind:
-For I want not the stream inspiring
-That fills the mind with - fond desiring,
-But I want as deep a draught
-As e’er from Lethe’s wave was quaff d;
-From my despairing heart to charm
-The image of the fairest form  10
-That e’er my reveling eyes beheld,
+Fill for me a brimming bowl  
+And let me in it drown my soul:  
+But put therein some drug, designed  
+To banish women from my mind:  
+For I want not the stream inspiring  
+That fills the mind with - fond desiring,  
+But I want as deep a draught  
+As e’er from Lethe’s wave was quaff d;  
+From my despairing heart to charm  
+The image of the fairest form  10  
+That e’er my reveling eyes beheld,  
 
-That e’er my wandering fancy spell’d.
-In vain! away I cannot chase
-The melting softness of that face,
-The beaminess of those bright eyes,
-That breast-earth’s only Paradise.
-My sight will never more be blest;
-For all I see has lost its zest:
-Nor with delight can I explore
-The Classic page, or Muse’s lore.  20
-Had she but known how beat my heart,
-And with one smile reliev’d its smart
-I should have felt sweet relief,
-I should have felt ‘the joy of grief.’
-Yet as the Tuscan mid the snow
-Of Lapland thinks on sweet Arno,
-Even so for ever shall she be
-The Halo of my Memory.
+That e’er my wandering fancy spell’d.  
+In vain! away I cannot chase  
+The melting softness of that face,  
+The beaminess of those bright eyes,  
+That breast-earth’s only Paradise.  
+My sight will never more be blest;  
+For all I see has lost its zest:  
+Nor with delight can I explore  
+The Classic page, or Muse’s lore.  20  
+Had she but known how beat my heart,  
+And with one smile reliev’d its smart  
+I should have felt sweet relief,  
+I should have felt ‘the joy of grief.’  
+Yet as the Tuscan mid the snow  
+Of Lapland thinks on sweet Arno,  
+Even so for ever shall she be  
+The Halo of my Memory.  
 
-August 1814
+August 1814  

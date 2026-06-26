@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Scapegoat
-
 *Archetype* — appears in **7** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Heroic Couplet
-
 *Form/Genre* — appears in **12** work(s).
 
 ## Works

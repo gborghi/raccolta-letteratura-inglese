@@ -43,8 +43,6 @@ tags:
   - character/the_woodcutter
 ---
 
-# The Star-Child
-
 *by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

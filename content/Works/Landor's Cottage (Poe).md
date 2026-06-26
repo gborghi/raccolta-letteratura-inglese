@@ -27,8 +27,6 @@ tags:
   - setting/pastoral_countryside
 ---
 
-# Landor's Cottage
-
 *by Poe*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 

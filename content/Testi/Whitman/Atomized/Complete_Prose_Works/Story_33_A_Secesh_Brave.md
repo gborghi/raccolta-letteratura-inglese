@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Secesh Brave
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_32_Brooklyn_Boys">‹ Story 32 Brooklyn Boys</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_34_The_Wounded_from_Chancellorsville">Story 34 The Wounded from Chancellorsville ›</a></div>

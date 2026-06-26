@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — St Pius X
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_19_A_Man_Of_Distinction">‹ Story 19 A Man Of Distinction</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_21_The_Black_Lines">Story 21 The Black Lines ›</a></div>

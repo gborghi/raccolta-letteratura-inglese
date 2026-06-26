@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Perishing of the Pendragons (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_08_The_Perishing_of_the_Pendragons/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_08_The_Perishing_of_the_Pendragons/part_05">part 05 ›</a></div>

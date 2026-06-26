@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE BOTTOMLESS WELL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY">‹ Story 04 THE SOUL OF THE SCHOOLBOY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_06_THE_FAD_OF_THE_FISHERMAN">Story 06 THE FAD OF THE FISHERMAN ›</a></div>

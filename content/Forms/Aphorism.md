@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Aphorism
-
 *Form/Genre* — appears in **36** work(s).
 
 ## Works

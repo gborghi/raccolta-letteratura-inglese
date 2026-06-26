@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Ms. Found in a Bottle (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Ms.-Found-in-a-Bottle-(Poe)">Ms Found in a Bottle</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Ms_Found_in_a_Bottle/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Ms_Found_in_a_Bottle/part/part_04">part 04 ›</a></div>

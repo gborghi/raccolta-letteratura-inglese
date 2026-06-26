@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lady Catherine de Bourgh
-
 *Character* — appears in **1** work(s).
 
 ## Works

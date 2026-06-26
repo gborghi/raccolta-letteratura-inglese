@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Dreams
-
 *Motif* — appears in **91** work(s).
 
 ## Works

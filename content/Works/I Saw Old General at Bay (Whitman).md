@@ -15,8 +15,6 @@ tags:
   - motif/stars
 ---
 
-# I Saw Old General at Bay
-
 *by Whitman*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 

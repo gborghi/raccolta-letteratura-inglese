@@ -16,8 +16,6 @@ tags:
   - form/sonnet
 ---
 
-# SONNET
-
 *by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -34,19 +32,19 @@ tags:
 
 ## Testo integrale / Full text
 
-TRANSLATED FROM MARINI
-Lady, to Death we’re doom’d, our crime the same!
-Thou, that in me thou kindled’st such fierce heat;
-I, that my heart did of a Sun so sweet
-The rays concentre to so hot a flame.
-I, fascinated by an Adder’s eye — 5
-Deaf as an Adder thou to all my pain;
-Thou obstinate in Scorn, in Passion I —
-I lov’d too much, too much didst thou disdain.
-Hear then our doom in Hell as just as stern,
-Our sentence equal as our crimes conspire — 10
-Who living bask’d at Beauty’s earthly fire,
-In living flames eternal these must burn —
-Hell for us both fit places too supplies —
-In my heart thou wilt burn, I roast before thine eyes.
-? 1805.
+TRANSLATED FROM MARINI  
+Lady, to Death we’re doom’d, our crime the same!  
+Thou, that in me thou kindled’st such fierce heat;  
+I, that my heart did of a Sun so sweet  
+The rays concentre to so hot a flame.  
+I, fascinated by an Adder’s eye — 5  
+Deaf as an Adder thou to all my pain;  
+Thou obstinate in Scorn, in Passion I —  
+I lov’d too much, too much didst thou disdain.  
+Hear then our doom in Hell as just as stern,  
+Our sentence equal as our crimes conspire — 10  
+Who living bask’d at Beauty’s earthly fire,  
+In living flames eternal these must burn —  
+Hell for us both fit places too supplies —  
+In my heart thou wilt burn, I roast before thine eyes.  
+? 1805.  

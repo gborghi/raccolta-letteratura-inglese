@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lizzie Hexam
-
 *Character* — appears in **1** work(s).
 
 ## Works

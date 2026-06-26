@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Pilgrim
-
 *Archetype* — appears in **36** work(s).
 
 ## Works

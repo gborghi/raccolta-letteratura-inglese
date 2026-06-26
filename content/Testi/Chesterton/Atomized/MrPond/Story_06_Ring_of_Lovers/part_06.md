@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# MrPond — Ring of Lovers (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_06_Ring_of_Lovers/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_07_The_Terrible_Troubadour/part_01">part 01 ›</a></div>

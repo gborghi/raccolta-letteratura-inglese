@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — SAVONAROLA
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_09_TOLSTOY_AND_THE_CULT_OF_SIMPLICITY">‹ Story 09 TOLSTOY AND THE CULT OF SIMPLICITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT">Story 11 THE POSITION OF SIR WALTER SCOTT ›</a></div>

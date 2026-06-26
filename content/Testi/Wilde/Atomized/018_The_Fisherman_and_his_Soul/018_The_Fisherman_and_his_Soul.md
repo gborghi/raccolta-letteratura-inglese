@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Fisherman and his Soul
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Fisherman-and-his-Soul-(Wilde)">018 The Fisherman and his Soul</a></div>
 </nav>

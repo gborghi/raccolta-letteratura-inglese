@@ -14,8 +14,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet on Peace
-
 *by Keats*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -30,17 +28,17 @@ tags:
 
 ## Testo integrale / Full text
 
-O Peace! and dost thou with thy presence bless
-The dwellings of this war-surrounded Isle;
-Soothing with placid brow our late distress,
-Making the triple kingdom brightly smile?
-Joyful I hail thy presence; and I hail
-The sweet companions that await on thee;
-Complete my joy - let not my first wish fail,
-Let the sweet mountain nymph thy favourite be,
-With England’s happiness proclaim Europa’s Liberty.
-O Europe! let not sceptred tyrants see  10
-That thou must shelter in thy former state;
-Keep thy chains burst, and boldly say thou art free;
-Give thy kings law - leave not uncurbed the great;
-So with the horrors past thou’lt win thy happier fate!
+O Peace! and dost thou with thy presence bless  
+The dwellings of this war-surrounded Isle;  
+Soothing with placid brow our late distress,  
+Making the triple kingdom brightly smile?  
+Joyful I hail thy presence; and I hail  
+The sweet companions that await on thee;  
+Complete my joy - let not my first wish fail,  
+Let the sweet mountain nymph thy favourite be,  
+With England’s happiness proclaim Europa’s Liberty.  
+O Europe! let not sceptred tyrants see  10  
+That thou must shelter in thy former state;  
+Keep thy chains burst, and boldly say thou art free;  
+Give thy kings law - leave not uncurbed the great;  
+So with the horrors past thou’lt win thy happier fate!  

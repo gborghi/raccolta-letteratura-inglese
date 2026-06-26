@@ -14,8 +14,6 @@ tags:
   - form/epigram
 ---
 
-# THE GOOD, GREAT MAN
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,8 +26,8 @@ tags:
 
 ## Testo integrale / Full text
 
-‘How seldom, friend! a good great man inherits
-Honour or wealth with all his worth and pains!
-It sounds like stories from the land of spirits
-If any man obtain that which he merits
-Or any merit that which he obtains.’   5
+‘How seldom, friend! a good great man inherits  
+Honour or wealth with all his worth and pains!  
+It sounds like stories from the land of spirits  
+If any man obtain that which he merits  
+Or any merit that which he obtains.’   5  

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XI—THE BLOOMSBURY CHRISTENING (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_64_HAPTER_XITHE_BLOOMSBURY_CHRISTENING/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_64_HAPTER_XITHE_BLOOMSBURY_CHRISTENING/part_06">part 06 ›</a></div>

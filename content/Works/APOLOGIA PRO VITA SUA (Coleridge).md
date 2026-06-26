@@ -16,8 +16,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# APOLOGIA PRO VITA SUA
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -32,12 +30,12 @@ tags:
 
 ## Testo integrale / Full text
 
-The poet in his lone yet genial hour
-Gives to his eyes a magnifying power:
-Or rather he emancipates his eyes
-From the black shapeless accidents of size —
-In unctuous cones of kindling coal,   5
-Or smoke upwreathing from the pipe’s trim hole,
-His gifted ken can see
-Phantoms of sublimity.
-1800.
+The poet in his lone yet genial hour  
+Gives to his eyes a magnifying power:  
+Or rather he emancipates his eyes  
+From the black shapeless accidents of size —  
+In unctuous cones of kindling coal,   5  
+Or smoke upwreathing from the pipe’s trim hole,  
+His gifted ken can see  
+Phantoms of sublimity.  
+1800.  

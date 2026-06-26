@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE CLOSED CONSPIRACY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_17_ON_THE_OPEN_CONSPIRACY">‹ Story 17 ON THE OPEN CONSPIRACY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_19_ON_CURRENT_CLAPTRAP">Story 19 ON CURRENT CLAPTRAP ›</a></div>

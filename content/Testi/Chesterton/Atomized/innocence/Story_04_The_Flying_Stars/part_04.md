@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Flying Stars (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars/part_05">part 05 ›</a></div>

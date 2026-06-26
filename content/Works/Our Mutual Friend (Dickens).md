@@ -43,8 +43,6 @@ tags:
   - character/mr_venus
 ---
 
-# Our Mutual Friend
-
 *by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

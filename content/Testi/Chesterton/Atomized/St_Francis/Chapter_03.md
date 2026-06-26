@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# St Francis — Chapter 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/St-Francis-(Chesterton)">St Francis</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/St_Francis/Chapter_02">‹ Chapter 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/St_Francis/Chapter_04">Chapter 04 ›</a></div>

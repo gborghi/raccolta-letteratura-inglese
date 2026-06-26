@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 20: Moving in Society
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_22_The_Father_of_the_Marshalsea_i">‹ Chapter 22 The Father of the Marshalsea i</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_24_Mr_Merdles_Complaint">Chapter 24 Mr Merdles Complaint ›</a></div>

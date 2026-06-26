@@ -16,8 +16,6 @@ tags:
   - setting/germany
 ---
 
-# HEXAMETERS
-
 *by Coleridge*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 

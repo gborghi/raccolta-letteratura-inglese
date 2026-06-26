@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Measure for Measure — Act I, Scene 2 — exchange (CLAUDIO) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
 </nav>

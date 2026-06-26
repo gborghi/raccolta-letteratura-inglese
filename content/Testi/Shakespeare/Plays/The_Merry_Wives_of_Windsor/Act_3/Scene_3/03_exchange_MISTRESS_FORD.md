@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merry Wives of Windsor — Act III, Scene 3 — exchange (MISTRESS FORD) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
 </nav>

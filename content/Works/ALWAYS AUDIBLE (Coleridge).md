@@ -14,8 +14,6 @@ tags:
   - motif/sleep
 ---
 
-# ALWAYS AUDIBLE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,8 +27,8 @@ tags:
 
 ## Testo integrale / Full text
 
-Pass under Jack’s window at twelve at night
-You’ll hear him still — he’s roaring!
-Pass under Jack’s window at twelve at noon,
-You’ll hear him still — he’s snoring!
-First published in Morning Post, Dec. 19, 1801. First collected 1893.
+Pass under Jack’s window at twelve at night  
+You’ll hear him still — he’s roaring!  
+Pass under Jack’s window at twelve at noon,  
+You’ll hear him still — he’s snoring!  
+First published in Morning Post, Dec. 19, 1801. First collected 1893.  

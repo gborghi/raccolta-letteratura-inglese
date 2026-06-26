@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Metamorphosis / Transformation
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

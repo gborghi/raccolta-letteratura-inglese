@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Divine Comedy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_91_The_Person_Of_Jesus_Christ">‹ Story 91 The Person Of Jesus Christ</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_93_The_Dragon">Story 93 The Dragon ›</a></div>

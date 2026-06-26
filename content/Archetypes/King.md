@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# King
-
 *Archetype* — appears in **41** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE FANTASTIC FRIENDS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_02_THE_YELLOW_BIRD">Story 02 THE YELLOW BIRD ›</a></div>

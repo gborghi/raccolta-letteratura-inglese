@@ -14,8 +14,6 @@ tags:
   - archetype/lover
 ---
 
-# LOVE AND FRIENDSHIP OPPOSITE
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Her attachment may differ from yours in degree,
-Provided they are both of one kind;
-But Friendship, how tender so ever it be,
-Gives no accord to Love, however refined.
-Love, that meets not with Love, its true nature revealing,   5
-Grows ashamed of itself, and demurs:
-If you cannot lift hers up to your state of feeling,
-You must lower down your state to hers.
-? 1830.
+Her attachment may differ from yours in degree,  
+Provided they are both of one kind;  
+But Friendship, how tender so ever it be,  
+Gives no accord to Love, however refined.  
+Love, that meets not with Love, its true nature revealing,   5  
+Grows ashamed of itself, and demurs:  
+If you cannot lift hers up to your state of feeling,  
+You must lower down your state to hers.  
+? 1830.  

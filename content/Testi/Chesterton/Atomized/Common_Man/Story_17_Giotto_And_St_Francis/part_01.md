@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Giotto And St.  Francis (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_15_From_Meredith_To_Rupert_Brooke/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_17_Giotto_And_St_Francis/part_02">part 02 ›</a></div>

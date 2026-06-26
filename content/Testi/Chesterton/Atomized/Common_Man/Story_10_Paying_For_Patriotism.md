@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Paying For Patriotism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_09_The_Romance_Of_A_Rascal">‹ Story 09 The Romance Of A Rascal</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_11_The_Pantomime">Story 11 The Pantomime ›</a></div>

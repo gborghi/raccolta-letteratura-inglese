@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 19: I LOOK ABOUT ME, AND MAKE A DISCOVERY (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_19_I_LOOK_ABOUT_ME_AND_MAKE_A_DIS/part_06">part 06 ›</a></div>

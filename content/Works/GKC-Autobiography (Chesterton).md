@@ -21,8 +21,6 @@ tags:
   - histref/catholic_church
 ---
 
-# GKC-Autobiography
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

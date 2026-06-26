@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity — Mormonism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_22_Questions_of_Divorce">‹ Story 22 Questions of Divorce</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_24_Pageants_and_Dress">Story 24 Pageants and Dress ›</a></div>

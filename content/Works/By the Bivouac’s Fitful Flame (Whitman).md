@@ -15,8 +15,6 @@ tags:
   - motif/memory
 ---
 
-# By the Bivouac’s Fitful Flame
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

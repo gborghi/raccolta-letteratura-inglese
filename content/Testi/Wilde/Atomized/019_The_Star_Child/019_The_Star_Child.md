@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Star-Child
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Star-Child-(Wilde)">019 The Star Child</a></div>
 </nav>

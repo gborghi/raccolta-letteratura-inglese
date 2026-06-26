@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE PHILOSOPHER (part 14)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER/part_13">‹ part 13</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER/part_15">part 15 ›</a></div>

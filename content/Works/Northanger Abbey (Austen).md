@@ -37,8 +37,6 @@ tags:
   - character/general_tilney
 ---
 
-# Northanger Abbey
-
 *by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
 
 > [!abstract] 

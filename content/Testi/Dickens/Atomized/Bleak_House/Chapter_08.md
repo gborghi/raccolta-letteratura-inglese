@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Bleak House — Chapter 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_07">‹ Chapter 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_09">Chapter 09 ›</a></div>

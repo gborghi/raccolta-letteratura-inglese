@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Social Novel (Novel of Manners)
-
 *Form/Genre* — appears in **21** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Romance Of A Rascal
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_08_The_Superstition_Of_School">‹ Story 08 The Superstition Of School</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_10_Paying_For_Patriotism">Story 10 Paying For Patriotism ›</a></div>

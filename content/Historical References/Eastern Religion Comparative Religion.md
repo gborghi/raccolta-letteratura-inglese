@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Eastern Religion / Comparative Religion
-
 *Historical reference* — appears in **20** work(s).
 
 ## Works

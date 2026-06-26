@@ -16,8 +16,6 @@ tags:
   - form/fragment
 ---
 
-# The Calming Thought of All
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -32,10 +30,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  That coursing on, whate’er men’s speculations,
-  Amid the changing schools, theologies, philosophies,
-  Amid the bawling presentations new and old,
-  The round earth’s silent vital laws, facts, modes continue.
+  That coursing on, whate’er men’s speculations,  
+  Amid the changing schools, theologies, philosophies,  
+  Amid the bawling presentations new and old,  
+  The round earth’s silent vital laws, facts, modes continue.  

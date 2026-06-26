@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Man of the Crowd
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Man-of-the-Crowd-(Poe)">The Man of the Crowd</a></div>
 </nav>

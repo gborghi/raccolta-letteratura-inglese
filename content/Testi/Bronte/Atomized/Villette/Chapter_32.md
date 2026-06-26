@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 30
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_31_never_hazarded_a_second_With_a">‹ Chapter 31 never hazarded a second With a</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_33">Chapter 33 ›</a></div>

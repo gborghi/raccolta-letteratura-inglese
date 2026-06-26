@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON VULGARITY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_26_ON_TWILIGHT_SLEEP">‹ Story 26 ON TWILIGHT SLEEP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_28_ON_A_HUMILIATING_HERESY">Story 28 ON A HUMILIATING HERESY ›</a></div>

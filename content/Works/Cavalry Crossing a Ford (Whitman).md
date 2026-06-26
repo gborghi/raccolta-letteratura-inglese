@@ -15,8 +15,6 @@ tags:
   - form/free_verse
 ---
 
-# Cavalry Crossing a Ford
-
 *by Whitman*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  A line in long array where they wind betwixt green islands,
-  They take a serpentine course, their arms flash in the sun--hark to
-      the musical clank,
-  Behold the silvery river, in it the splashing horses loitering stop
-      to drink,
-  Behold the brown-faced men, each group, each person a picture, the
-      negligent rest on the saddles,
-  Some emerge on the opposite bank, others are just entering the ford--while,
-  Scarlet and blue and snowy white,
-  The guidon flags flutter gayly in the wind.
+  A line in long array where they wind betwixt green islands,  
+  They take a serpentine course, their arms flash in the sun--hark to  
+      the musical clank,  
+  Behold the silvery river, in it the splashing horses loitering stop  
+      to drink,  
+  Behold the brown-faced men, each group, each person a picture, the  
+      negligent rest on the saddles,  
+  Some emerge on the opposite bank, others are just entering the ford--while,  
+  Scarlet and blue and snowy white,  
+  The guidon flags flutter gayly in the wind.  

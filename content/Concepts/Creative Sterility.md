@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Creative Sterility
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

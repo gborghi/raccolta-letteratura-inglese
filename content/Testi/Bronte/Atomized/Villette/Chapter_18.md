@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 18
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_17">‹ Chapter 17</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_19">Chapter 19 ›</a></div>

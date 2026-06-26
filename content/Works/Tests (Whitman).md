@@ -14,8 +14,6 @@ tags:
   - form/free_verse
 ---
 
-# Tests
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -28,14 +26,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: AUTUMN RIVULETS_
+_Cluster: AUTUMN RIVULETS_  
 
 
-  All submit to them where they sit, inner, secure, unapproachable to
-      analysis in the soul,
-  Not traditions, not the outer authorities are the judges,
-  They are the judges of outer authorities and of all traditions,
-  They corroborate as they go only whatever corroborates themselves,
-      and touches themselves;
-  For all that, they have it forever in themselves to corroborate far
-      and near without one exception.
+  All submit to them where they sit, inner, secure, unapproachable to  
+      analysis in the soul,  
+  Not traditions, not the outer authorities are the judges,  
+  They are the judges of outer authorities and of all traditions,  
+  They corroborate as they go only whatever corroborates themselves,  
+      and touches themselves;  
+  For all that, they have it forever in themselves to corroborate far  
+      and near without one exception.  

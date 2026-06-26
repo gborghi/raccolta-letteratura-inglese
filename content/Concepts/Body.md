@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Body
-
 *Theme/Concept* — appears in **35** work(s).
 
 ## Works

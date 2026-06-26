@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — Art and Advertisement
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_02_Utopia_of_Usurers">‹ Story 02 Utopia of Usurers</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_04_Letters_and_the_New_Laureates">Story 04 Letters and the New Laureates ›</a></div>

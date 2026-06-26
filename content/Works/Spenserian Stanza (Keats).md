@@ -14,8 +14,6 @@ tags:
   - histref/the_renaissance
 ---
 
-# Spenserian Stanza
-
 *by Keats*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 
@@ -30,14 +28,14 @@ tags:
 
 ## Testo integrale / Full text
 
-Written at the close of Canto II, Book V, of’The Faerie Queene’.
+Written at the close of Canto II, Book V, of’The Faerie Queene’.  
 
-In after-time, a sage of mickle lore
-Yclep’d Typographus, the Giant took,
-And did refit his limbs as heretofore,
-And made him read in many a learned book,
-And into many a lively legend look;
-Thereby in goodly themes so training him,
-That all his brutishness he quite forsook,
-When, meeting Artegall and Talus grim,
-The one he struck stone-blind, the other’s eyes wox dim.
+In after-time, a sage of mickle lore  
+Yclep’d Typographus, the Giant took,  
+And did refit his limbs as heretofore,  
+And made him read in many a learned book,  
+And into many a lively legend look;  
+Thereby in goodly themes so training him,  
+That all his brutishness he quite forsook,  
+When, meeting Artegall and Talus grim,  
+The one he struck stone-blind, the other’s eyes wox dim.  

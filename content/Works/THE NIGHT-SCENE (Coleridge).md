@@ -19,8 +19,6 @@ tags:
   - motif/serpent_snake
 ---
 
-# THE NIGHT-SCENE
-
 *by Coleridge*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

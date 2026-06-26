@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Speaker (part 15)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Speaker-(Chesterton)">The Speaker</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Speaker/part/part_14">‹ part 14</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Speaker/part/part_16">part 16 ›</a></div>

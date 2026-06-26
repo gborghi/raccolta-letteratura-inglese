@@ -16,8 +16,6 @@ tags:
   - archetype/femme_fatale
 ---
 
-# Sonnet 134
-
 *by Shakespeare*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-So, now I have confessed that he is thine, 
-And I myself am mortgaged to thy will, 
-Myself I’ll forfeit, so that other mine 
-Thou wilt restore to be my comfort still. 
-But thou wilt not, nor he will not be free, 
-For thou art covetous, and he is kind. 
-He learned but surety-like to write for me 
-Under that bond that him as fast doth bind. 
-The statute of thy beauty thou wilt take, 
-Thou usurer that putt’st forth all to use, 
-And sue a friend came debtor for my sake; 
-So him I lose through my unkind abuse. 
-Him have I lost; thou hast both him and me; 
-He pays the whole, and yet am I not free.
+So, now I have confessed that he is thine,  
+And I myself am mortgaged to thy will,  
+Myself I’ll forfeit, so that other mine  
+Thou wilt restore to be my comfort still.  
+But thou wilt not, nor he will not be free,  
+For thou art covetous, and he is kind.  
+He learned but surety-like to write for me  
+Under that bond that him as fast doth bind.  
+The statute of thy beauty thou wilt take,  
+Thou usurer that putt’st forth all to use,  
+And sue a friend came debtor for my sake;  
+So him I lose through my unkind abuse.  
+Him have I lost; thou hast both him and me;  
+He pays the whole, and yet am I not free.  

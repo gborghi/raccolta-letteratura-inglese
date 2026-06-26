@@ -30,8 +30,6 @@ tags:
   - setting/rural_england
 ---
 
-# William Cobbett
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

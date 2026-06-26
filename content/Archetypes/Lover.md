@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Lover
-
 *Archetype* — appears in **113** work(s).
 
 ## Works

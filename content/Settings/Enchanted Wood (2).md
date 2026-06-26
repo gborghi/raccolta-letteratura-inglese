@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Enchanted Wood
-
 *Setting* — appears in **12** work(s).
 
 ## Works

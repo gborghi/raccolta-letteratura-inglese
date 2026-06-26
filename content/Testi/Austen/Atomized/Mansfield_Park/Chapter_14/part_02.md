@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Mansfield Park — Chapter 14 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_14/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_15/part_01">part 01 ›</a></div>

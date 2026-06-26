@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 10: CLEARING UP ALL DOUBTS (IF ANY EXISTED) OF THE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_10_A_DISCOVERY_AND_A_CHASE/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_11_CLEARING_UP_ALL_DOUBTS_IF_ANY/part_02">part 02 ›</a></div>

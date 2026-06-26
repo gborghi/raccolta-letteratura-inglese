@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Titus Andronicus — Act IV, Scene 1 — exchange (MARCUS) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
 </nav>

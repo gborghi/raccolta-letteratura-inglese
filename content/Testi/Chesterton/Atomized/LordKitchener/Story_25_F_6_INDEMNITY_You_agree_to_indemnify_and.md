@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_24_F_5_Some_states_do_not_allow_disclaimers">‹ Story 24 F 5 Some states do not allow disclaimers</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER/part_01">part 01 ›</a></div>

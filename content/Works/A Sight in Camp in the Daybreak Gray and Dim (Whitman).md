@@ -17,8 +17,6 @@ tags:
   - setting/the_military_camp
 ---
 
-# A Sight in Camp in the Daybreak Gray and Dim
-
 *by Whitman*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 

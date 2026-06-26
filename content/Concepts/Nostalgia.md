@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Nostalgia
-
 *Theme/Concept* — appears in **78** work(s).
 
 ## Works

@@ -33,8 +33,6 @@ tags:
   - character/christ
 ---
 
-# The Critic as Artist
-
 *by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

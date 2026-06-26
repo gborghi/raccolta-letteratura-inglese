@@ -15,8 +15,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# 179 8 FIRE, FAMINE, AND SLAUGHTER
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

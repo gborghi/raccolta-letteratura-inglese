@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Puritanism
-
 *Historical reference* — appears in **15** work(s).
 
 ## Works

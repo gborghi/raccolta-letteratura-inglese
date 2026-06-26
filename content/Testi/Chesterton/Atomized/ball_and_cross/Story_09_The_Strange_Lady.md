@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Strange Lady
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_08_An_Interlude_of_Argument">‹ Story 08 An Interlude of Argument</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_10_The_Swords_Rejoined">Story 10 The Swords Rejoined ›</a></div>

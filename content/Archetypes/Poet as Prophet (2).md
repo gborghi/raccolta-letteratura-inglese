@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Poet as Prophet
-
 *Archetype* — appears in **1** work(s).
 
 ## Works

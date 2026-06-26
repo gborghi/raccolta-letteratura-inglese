@@ -14,8 +14,6 @@ tags:
   - form/free_verse
 ---
 
-# Good-Bye My Fancy
-
 *by Whitman*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Good-bye my fancy--(I had a word to say,
-  But ’tis not quite the time--The best of any man’s word or say,
-  Is when its proper place arrives--and for its meaning,
-  I keep mine till the last.)
+  Good-bye my fancy--(I had a word to say,  
+  But ’tis not quite the time--The best of any man’s word or say,  
+  Is when its proper place arrives--and for its meaning,  
+  I keep mine till the last.)  

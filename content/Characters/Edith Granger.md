@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Edith Granger
-
 *Character* — appears in **1** work(s).
 
 ## Works

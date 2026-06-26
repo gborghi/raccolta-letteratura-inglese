@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — B.  "Project Gutenberg" is a registered trademark.  It may only be
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_06_A_By_reading_or_using_any_part_of_this_P">‹ Story 06 A By reading or using any part of this P</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_08_C_The_Project_Gutenberg_Literary_Archive">Story 08 C The Project Gutenberg Literary Archive ›</a></div>

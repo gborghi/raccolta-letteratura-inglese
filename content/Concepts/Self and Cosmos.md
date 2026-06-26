@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self and Cosmos
-
 *Theme/Concept* — appears in **14** work(s).
 
 ## Works

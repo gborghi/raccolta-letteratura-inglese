@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Robert Louis Stevenson
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Louis-Stevenson-(Chesterton)">Robert Louis Stevenson</a></div>
 </nav>

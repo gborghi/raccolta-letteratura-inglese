@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Othello — Act I, Scene 1 — monologue (IAGO O) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
 </nav>

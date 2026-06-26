@@ -16,8 +16,6 @@ tags:
   - motif/madness
 ---
 
-# ON A DISCOVERY MADE TOO LATE
-
 *by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Thou bleedest, my poor Heart! and thy distress
-Reasoning I ponder with a scornful smile
-And probe thy sore wound sternly, though the while
-Swoln be mine eye and dim with heaviness.
-Why didst thou listen to Hope’s whisper bland?   5
-Or, listening, why forget the healing tale,
-When Jealousy with feverous fancies pale
-Jarr’d thy fine fibres with a maniac’s hand?
-Faint was that Hope, and rayless! — Yet ‘twas fair
-And sooth’d with many a dream the hour of rest:   10
-Thou should’st have lov’d it most, when most opprest,
-And nurs’d it with an agony of care,
-Even as a mother her sweet infant heir
-That wan and sickly droops upon her breast!
-1794.
+Thou bleedest, my poor Heart! and thy distress  
+Reasoning I ponder with a scornful smile  
+And probe thy sore wound sternly, though the while  
+Swoln be mine eye and dim with heaviness.  
+Why didst thou listen to Hope’s whisper bland?   5  
+Or, listening, why forget the healing tale,  
+When Jealousy with feverous fancies pale  
+Jarr’d thy fine fibres with a maniac’s hand?  
+Faint was that Hope, and rayless! — Yet ‘twas fair  
+And sooth’d with many a dream the hour of rest:   10  
+Thou should’st have lov’d it most, when most opprest,  
+And nurs’d it with an agony of care,  
+Even as a mother her sweet infant heir  
+That wan and sickly droops upon her breast!  
+1794.  

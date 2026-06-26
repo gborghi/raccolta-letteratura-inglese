@@ -15,8 +15,6 @@ tags:
   - concept/war_and_its_cost
 ---
 
-# Look Down Fair Moon
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -30,10 +28,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  Look down fair moon and bathe this scene,
-  Pour softly down night’s nimbus floods on faces ghastly, swollen, purple,
-  On the dead on their backs with arms toss’d wide,
-  Pour down your unstinted nimbus sacred moon.
+  Look down fair moon and bathe this scene,  
+  Pour softly down night’s nimbus floods on faces ghastly, swollen, purple,  
+  On the dead on their backs with arms toss’d wide,  
+  Pour down your unstinted nimbus sacred moon.  

@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Dawn / Alba
-
 *Topos* — appears in **4** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 32: THE BEGINNING OF A LONG JOURNEY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_31_A_GREATER_LOSS">‹ Chapter 31 A GREATER LOSS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL">Chapter 33 BLISSFUL ›</a></div>

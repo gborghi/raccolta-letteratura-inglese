@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Edward III — Scene 2 — monologue (EARL OF WARWICK) [19]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/EDWARD-III-(Shakespeare)">Edward III</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Antihero
-
 *Archetype* — appears in **7** work(s).
 
 ## Works

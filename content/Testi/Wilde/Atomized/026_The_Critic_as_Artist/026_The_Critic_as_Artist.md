@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Critic as Artist
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Critic-as-Artist-(Wilde)">026 The Critic as Artist</a></div>
 </nav>

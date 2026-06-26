@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Sir Thomas More — Scene 6 — monologue (MORE) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
 </nav>

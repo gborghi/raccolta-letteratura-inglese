@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# dickens Britannica (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/dickens-Britannica-(Chesterton)">dickens Britannica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/dickens_Britannica/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/dickens_Britannica/part/part_06">part 06 ›</a></div>

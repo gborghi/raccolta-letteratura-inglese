@@ -20,8 +20,6 @@ tags:
   - setting/the_sea
 ---
 
-# The Balloon-Hoax
-
 *by Poe*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 

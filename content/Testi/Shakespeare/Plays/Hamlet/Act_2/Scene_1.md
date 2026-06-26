@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Hamlet — Act II, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Hamlet/Act_1/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Hamlet/Act_3/Scene_1">Scene 1 ›</a></div>

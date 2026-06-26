@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Joy
-
 *Theme/Concept* — appears in **210** work(s).
 
 ## Works

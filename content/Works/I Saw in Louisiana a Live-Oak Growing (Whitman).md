@@ -14,8 +14,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# I Saw in Louisiana a Live-Oak Growing
-
 *by Whitman*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 

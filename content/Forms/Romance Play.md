@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Romance Play
-
 *Form/Genre* — appears in **6** work(s).
 
 ## Works

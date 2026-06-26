@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Italy
-
 *Setting* — appears in **21** work(s).
 
 ## Works

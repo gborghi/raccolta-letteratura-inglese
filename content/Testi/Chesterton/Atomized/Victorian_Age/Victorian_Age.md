@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Victorian Age
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Victorian-Age-(Chesterton)">Victorian Age</a></div>
 </nav>

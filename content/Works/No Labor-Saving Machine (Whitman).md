@@ -13,8 +13,6 @@ tags:
   - motif/music_and_song
 ---
 
-# No Labor-Saving Machine
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
@@ -27,14 +25,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CALAMUS_
+_Cluster: CALAMUS_  
 
 
-  No labor-saving machine,
-  Nor discovery have I made,
-  Nor will I be able to leave behind me any wealthy bequest to found
-      hospital or library,
-  Nor reminiscence of any deed of courage for America,
-  Nor literary success nor intellect; nor book for the book-shelf,
-  But a few carols vibrating through the air I leave,
-  For comrades and lovers.
+  No labor-saving machine,  
+  Nor discovery have I made,  
+  Nor will I be able to leave behind me any wealthy bequest to found  
+      hospital or library,  
+  Nor reminiscence of any deed of courage for America,  
+  Nor literary success nor intellect; nor book for the book-shelf,  
+  But a few carols vibrating through the air I leave,  
+  For comrades and lovers.  

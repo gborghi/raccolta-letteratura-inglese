@@ -22,8 +22,6 @@ tags:
   - archetype/innocent
 ---
 
-# carol
-
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -40,32 +38,32 @@ tags:
 
 ## Testo integrale / Full text
 
-A Christmas Carol
+A Christmas Carol  
 
-The Christ-child lay on Mary's lap,
-  His hair was like a light.
-(O weary, weary were the world,
-  But here is all aright.)
+The Christ-child lay on Mary's lap,  
+  His hair was like a light.  
+(O weary, weary were the world,  
+  But here is all aright.)  
 
-The Christ-child lay on Mary's breast,
-  His hair was like a star.
-(O stern and cunning are the kings,
-  But here the true hearts are.)
+The Christ-child lay on Mary's breast,  
+  His hair was like a star.  
+(O stern and cunning are the kings,  
+  But here the true hearts are.)  
 
-The Christ-child lay on Mary's heart,
-  His hair was like a fire.
-(O weary, weary is the world,
-  But here the world's desire.)
+The Christ-child lay on Mary's heart,  
+  His hair was like a fire.  
+(O weary, weary is the world,  
+  But here the world's desire.)  
 
-The Christ-child stood at Mary's knee,
-  His hair was like a crown.
-And all the flowers looked up at Him,
-  And all the stars looked down.
-
-
-(From "The Wild Knight", first published 1900.
-Also published in "The collected Poems of G.K.Chesterton")
+The Christ-child stood at Mary's knee,  
+  His hair was like a crown.  
+And all the flowers looked up at Him,  
+  And all the stars looked down.  
 
 
+(From "The Wild Knight", first published 1900.  
+Also published in "The collected Poems of G.K.Chesterton")  
 
-===== FINE FILE: carol.txt =====
+
+
+===== FINE FILE: carol.txt =====  

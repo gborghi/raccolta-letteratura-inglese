@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Persuasion
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
 </nav>

@@ -15,8 +15,6 @@ tags:
   - concept/love_divine
 ---
 
-# Over the Carnage Rose Prophetic a Voice
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

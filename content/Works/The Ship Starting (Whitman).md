@@ -15,8 +15,6 @@ tags:
   - topos/the_open_road
 ---
 
-# The Ship Starting
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -31,12 +29,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Lo, the unbounded sea,
-  On its breast a ship starting, spreading all sails, carrying even
-      her moonsails.
-  The pennant is flying aloft as she speeds she speeds so stately--
-      below emulous waves press forward,
-  They surround the ship with shining curving motions and foam.
+  Lo, the unbounded sea,  
+  On its breast a ship starting, spreading all sails, carrying even  
+      her moonsails.  
+  The pennant is flying aloft as she speeds she speeds so stately--  
+      below emulous waves press forward,  
+  They surround the ship with shining curving motions and foam.  

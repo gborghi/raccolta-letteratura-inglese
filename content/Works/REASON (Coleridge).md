@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# REASON
-
 *by Coleridge*  ·  **Cluster:** [[Dante]]
 
 > [!abstract] 
@@ -30,15 +28,15 @@ tags:
 
 ## Testo integrale / Full text
 
-[‘Finally, what is Reason? You have often asked me: and this
-is my answer’: — ]
-Whene’er the mist, that stands ‘twixt God and thee,
-Defecates to a pure transparency,
-That intercepts no light and adds no stain —
-There Reason is, and then begins her reign!
-But alas!    5
-— —’tu stesso, ti fai grosso
-Col falso immaginar, sì che non vedi
-Ciò che vedresti, se l’avessi scosso.’
-Dante, Paradiso, Canto i.
-1830.
+[‘Finally, what is Reason? You have often asked me: and this  
+is my answer’: — ]  
+Whene’er the mist, that stands ‘twixt God and thee,  
+Defecates to a pure transparency,  
+That intercepts no light and adds no stain —  
+There Reason is, and then begins her reign!  
+But alas!    5  
+— —’tu stesso, ti fai grosso  
+Col falso immaginar, sì che non vedi  
+Ciò che vedresti, se l’avessi scosso.’  
+Dante, Paradiso, Canto i.  
+1830.  

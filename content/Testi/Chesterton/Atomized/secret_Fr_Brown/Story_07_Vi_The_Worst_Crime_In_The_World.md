@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — Vi The Worst Crime In The World
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey">‹ Story 06 V The Vanishing Of Vaudrey</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_08_Vii_The_Red_Moon_Of_Meru">Story 08 Vii The Red Moon Of Meru ›</a></div>

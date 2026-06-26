@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Hands / Hand in Hand
-
 *Motif* — appears in **5** work(s).
 
 ## Works

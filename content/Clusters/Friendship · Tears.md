@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Friendship · Tears
-
 *Cluster* — **25 works**.
 
 ## Defining concepts

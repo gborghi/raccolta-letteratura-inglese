@@ -31,8 +31,6 @@ tags:
   - setting/medieval_england
 ---
 
-# King Stephen
-
 *by Keats*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

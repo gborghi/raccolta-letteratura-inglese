@@ -26,8 +26,6 @@ tags:
   - character/sir_claude_mulhammer
 ---
 
-# THE CONFIDENTIAL CLERK
-
 *by Eliot*  ·  **Cluster:** [[Child · Orphan]]
 
 > [!abstract] 

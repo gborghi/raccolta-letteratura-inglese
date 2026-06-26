@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Cricket on the Hearth — Chirp The First
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_04_A_Fairy_Tale_Of_Home">‹ Story 04 A Fairy Tale Of Home</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_06_Chirp_The_Second">Story 06 Chirp The Second ›</a></div>

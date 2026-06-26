@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# CharlesDickens — Chapter 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/CharlesDickens-(Chesterton)">CharlesDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/CharlesDickens/Chapter_04">‹ Chapter 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/CharlesDickens/Chapter_06">Chapter 06 ›</a></div>

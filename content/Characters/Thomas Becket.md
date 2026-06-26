@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Thomas Becket
-
 *Character* — appears in **1** work(s).
 
 ## Works

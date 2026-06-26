@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Ghosts
-
 *Motif* — appears in **45** work(s).
 
 ## Works

@@ -17,8 +17,6 @@ tags:
   - character/death_personified
 ---
 
-# skeleton
-
 *by Chesterton*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-The Skeleton
+The Skeleton  
 
-Chattering finch and water-fly
-Are not merrier than I;
-Here among the flowers I lie
-Laughing everlastingly.
-No; I may not tell the best;
-Surely, friends, I might have guessed
-Death was but the good King's jest,
-It was hid so carefully.
+Chattering finch and water-fly  
+Are not merrier than I;  
+Here among the flowers I lie  
+Laughing everlastingly.  
+No; I may not tell the best;  
+Surely, friends, I might have guessed  
+Death was but the good King's jest,  
+It was hid so carefully.  
 
-G.K. CHESTERTON
+G.K. CHESTERTON  
 
 
-===== FINE FILE: skeleton.txt =====
+===== FINE FILE: skeleton.txt =====  

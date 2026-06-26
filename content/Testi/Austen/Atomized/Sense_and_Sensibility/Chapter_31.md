@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Sense and Sensibility — Chapter 31
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Sense-and-Sensibility-(Austen)">Sense and Sensibility</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_30">‹ Chapter 30</a><a class="ex-next" href="/Testi/Austen/Atomized/Sense_and_Sensibility/Chapter_32">Chapter 32 ›</a></div>

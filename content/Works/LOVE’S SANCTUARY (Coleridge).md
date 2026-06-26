@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# LOVE’S SANCTUARY
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -30,9 +28,9 @@ tags:
 
 ## Testo integrale / Full text
 
-This yearning heart (Love! witness what I say)
-Enshrines thy form as purely as it may,
-Round which, as to some spirit uttering bliss,
-My thoughts all stand ministrant night and day
-Like saintly Priests, that dare not think amiss.
-? 1801.
+This yearning heart (Love! witness what I say)  
+Enshrines thy form as purely as it may,  
+Round which, as to some spirit uttering bliss,  
+My thoughts all stand ministrant night and day  
+Like saintly Priests, that dare not think amiss.  
+? 1801.  

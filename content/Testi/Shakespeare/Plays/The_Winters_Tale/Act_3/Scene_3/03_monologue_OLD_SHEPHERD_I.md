@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Winters Tale — Act III, Scene 3 — monologue (OLD SHEPHERD I) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-WINTER’S-TALE-(Shakespeare)">The Winters Tale</a></div>
 </nav>

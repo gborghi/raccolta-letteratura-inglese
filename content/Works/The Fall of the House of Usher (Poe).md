@@ -22,8 +22,6 @@ tags:
   - character/madeline_usher
 ---
 
-# The Fall of the House of Usher
-
 *by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 

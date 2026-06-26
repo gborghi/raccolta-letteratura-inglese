@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Melancholy
-
 *Theme/Concept* — appears in **199** work(s).
 
 ## Works

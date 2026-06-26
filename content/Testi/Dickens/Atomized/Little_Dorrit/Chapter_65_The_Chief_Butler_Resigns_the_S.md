@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 25: The Chief Butler Resigns the Seals of Office
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_64_The_Evening_of_a_Long_Day">‹ Chapter 64 The Evening of a Long Day</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_66_Reaping_the_Whirlwind">Chapter 66 Reaping the Whirlwind ›</a></div>

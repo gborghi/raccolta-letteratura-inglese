@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Everlasting Man — Part 2: On the Man Called Christ (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Everlasting-Man-(Chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ/part_05">part 05 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Monster
-
 *Archetype* — appears in **6** work(s).
 
 ## Works

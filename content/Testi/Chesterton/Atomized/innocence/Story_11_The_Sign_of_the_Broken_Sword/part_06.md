@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Sign of the Broken Sword (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_11_The_Sign_of_the_Broken_Sword/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_12_The_Three_Tools_of_Death/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 41: DORA’S AUNTS (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_41_DORAS_AUNTS/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_42_MISCHIEF/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Book 1: POVERTY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_02_RICHES">Chapter 02 RICHES ›</a></div>

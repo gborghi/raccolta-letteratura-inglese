@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Inner Life
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Disillusionment · First World War · Italy
-
 *Cluster* — **9 works**.
 
 ## Defining concepts

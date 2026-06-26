@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC-Autobiography — Chapter 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Autobiography-(Chesterton)">GKC Autobiography</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_02">Chapter 02 ›</a></div>

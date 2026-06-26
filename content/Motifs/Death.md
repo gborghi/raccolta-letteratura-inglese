@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Death
-
 *Motif* — appears in **464** work(s).
 
 ## Works

@@ -15,8 +15,6 @@ tags:
   - motif/seasons
 ---
 
-# Youth, Day, Old Age and Night
-
 *by Whitman*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Youth, large, lusty, loving--youth full of grace, force, fascination,
-  Do you know that Old Age may come after you with equal grace,
-      force, fascination?
+Youth, large, lusty, loving--youth full of grace, force, fascination,  
+  Do you know that Old Age may come after you with equal grace,  
+      force, fascination?  
 
-  Day full-blown and splendid-day of the immense sun, action,
-      ambition, laughter,
-  The Night follows close with millions of suns, and sleep and
-      restoring darkness.
+  Day full-blown and splendid-day of the immense sun, action,  
+      ambition, laughter,  
+  The Night follows close with millions of suns, and sleep and  
+      restoring darkness.  

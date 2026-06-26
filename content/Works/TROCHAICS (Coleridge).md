@@ -14,8 +14,6 @@ tags:
   - concept/love_romantic
 ---
 
-# TROCHAICS
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-Thus she said, and, all around,
-Her diviner spirit, gan to borrow;
-Earthly Hearings hear unearthly sound,
-Hearts heroic faint, and sink aswound.
-Welcome, welcome, spite of pain and sorrow,
-Love to-day, and Thought to-morrow.
+Thus she said, and, all around,  
+Her diviner spirit, gan to borrow;  
+Earthly Hearings hear unearthly sound,  
+Hearts heroic faint, and sink aswound.  
+Welcome, welcome, spite of pain and sorrow,  
+Love to-day, and Thought to-morrow.  
 1801. Now first published from an MS.

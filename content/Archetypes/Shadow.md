@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Shadow
-
 *Archetype* — appears in **4** work(s).
 
 ## Works

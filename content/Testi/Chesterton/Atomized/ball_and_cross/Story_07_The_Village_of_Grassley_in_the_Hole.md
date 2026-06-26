@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Village of Grassley-in-the-Hole
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_06_The_Other_Philosopher">‹ Story 06 The Other Philosopher</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_08_An_Interlude_of_Argument">Story 08 An Interlude of Argument ›</a></div>

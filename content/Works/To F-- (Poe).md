@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# To F--
-
 *by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -32,19 +30,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Beloved! amid the earnest woes
-         That crowd around my earthly path—
-     (Drear path, alas! where grows
-     Not even one lonely rose)—
-         My soul at least a solace hath
-     In dreams of thee, and therein knows
-     An Eden of bland repose.
-     And thus thy memory is to me
-         Like some enchanted far-off isle
-     In some tumultuous sea—
-     Some ocean throbbing far and free
-         With storms—but where meanwhile
-     Serenest skies continually
-         Just o’er that one bright island smile.
+Beloved! amid the earnest woes  
+         That crowd around my earthly path—  
+     (Drear path, alas! where grows  
+     Not even one lonely rose)—  
+         My soul at least a solace hath  
+     In dreams of thee, and therein knows  
+     An Eden of bland repose.  
+     And thus thy memory is to me  
+         Like some enchanted far-off isle  
+     In some tumultuous sea—  
+     Some ocean throbbing far and free  
+         With storms—but where meanwhile  
+     Serenest skies continually  
+         Just o’er that one bright island smile.  
 
-      1845.
+      1845.  

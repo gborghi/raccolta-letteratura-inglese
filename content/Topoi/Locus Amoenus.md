@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Locus Amoenus
-
 *Topos* — appears in **23** work(s).
 
 ## Works

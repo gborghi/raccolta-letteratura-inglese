@@ -24,8 +24,6 @@ tags:
   - setting/the_orient
 ---
 
-# New Jerusalem
-
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

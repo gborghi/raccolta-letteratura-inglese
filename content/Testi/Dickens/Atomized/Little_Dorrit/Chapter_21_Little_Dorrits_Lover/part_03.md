@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 18: Little Dorrit’s Lover (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_21_Little_Dorrits_Lover/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_22_The_Father_of_the_Marshalsea_i/part_01">part 01 ›</a></div>

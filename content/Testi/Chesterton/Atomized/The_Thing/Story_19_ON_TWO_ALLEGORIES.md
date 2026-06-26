@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — ON TWO ALLEGORIES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_18_THE_HAT_AND_THE_HALO">‹ Story 18 THE HAT AND THE HALO</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_20_THE_PROTESTANT_SUPERSTITIONS">Story 20 THE PROTESTANT SUPERSTITIONS ›</a></div>

@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# HOMELESS
-
 *by Coleridge*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
@@ -31,12 +29,12 @@ tags:
 
 ## Testo integrale / Full text
 
-‘O! Christmas Day, Oh! happy day!
-A foretaste from above,
-To him who hath a happy home
-And love returned from love!’
-O! Christmas Day, O gloomy day,   5
-The barb in Memory’s dart,
-To him who walks alone through Life,
-The desolate in heart.
-1826.
+‘O! Christmas Day, Oh! happy day!  
+A foretaste from above,  
+To him who hath a happy home  
+And love returned from love!’  
+O! Christmas Day, O gloomy day,   5  
+The barb in Memory’s dart,  
+To him who walks alone through Life,  
+The desolate in heart.  
+1826.  

@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Combat / Strife
-
 *Topos* — appears in **34** work(s).
 
 ## Works

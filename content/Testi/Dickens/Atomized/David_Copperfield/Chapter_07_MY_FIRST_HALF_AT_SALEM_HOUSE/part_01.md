@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 7: MY ‘FIRST HALF’ AT SALEM HOUSE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_06_I_ENLARGE_MY_CIRCLE_OF_ACQUAIN/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_07_MY_FIRST_HALF_AT_SALEM_HOUSE/part_02">part 02 ›</a></div>

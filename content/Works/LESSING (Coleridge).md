@@ -14,8 +14,6 @@ tags:
   - form/song
 ---
 
-# LESSING
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,22 +27,22 @@ tags:
 
 ## Testo integrale / Full text
 
-Sämmtliche Schriften, vol. i, p. 50, ed. Lachmann-Maltzahn, Leipzig,
-1853.
-DIE NAMEN.
-Ich fragte meine Schöne:
-Wie soll mein Lied dich nennen?
-Soll dich als Dorimana,
-Als Galathee, als Chloris,
-Als Lesbia, als Doris,    5
-Die Welt der Enkel kennen?
-Ach! Namen sind nur Töne;
-Sprach meine holde Schöne,
-Wähl’ selbst. Du kannst mich Doris,
-Und Galathee und Chloris   10
-Und —— wie du willst mich nennen:
-Nur nenne mich die deine.
-The German original is printed in the Notes to P. W., 1893, pp. 619,
-620.
-K
-[Vide ante, p. 327]
+Sämmtliche Schriften, vol. i, p. 50, ed. Lachmann-Maltzahn, Leipzig,  
+1853.  
+DIE NAMEN.  
+Ich fragte meine Schöne:  
+Wie soll mein Lied dich nennen?  
+Soll dich als Dorimana,  
+Als Galathee, als Chloris,  
+Als Lesbia, als Doris,    5  
+Die Welt der Enkel kennen?  
+Ach! Namen sind nur Töne;  
+Sprach meine holde Schöne,  
+Wähl’ selbst. Du kannst mich Doris,  
+Und Galathee und Chloris   10  
+Und —— wie du willst mich nennen:  
+Nur nenne mich die deine.  
+The German original is printed in the Notes to P. W., 1893, pp. 619,  
+620.  
+K  
+[Vide ante, p. 327]  

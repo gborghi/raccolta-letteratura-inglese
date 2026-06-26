@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 37: A LITTLE COLD WATER (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_36_ENTHUSIASM/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_37_A_LITTLE_COLD_WATER/part_02">part 02 ›</a></div>

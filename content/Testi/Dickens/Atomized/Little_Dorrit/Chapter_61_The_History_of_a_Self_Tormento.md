@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 21: The History of a Self-Tormentor
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_60_Introduces_the_next">‹ Chapter 60 Introduces the next</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_62_Who_passes_by_this_Road_so_lat">Chapter 62 Who passes by this Road so lat ›</a></div>

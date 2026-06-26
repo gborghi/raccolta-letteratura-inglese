@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Nature vs Civilization
-
 *Theme/Concept* — appears in **57** work(s).
 
 ## Works

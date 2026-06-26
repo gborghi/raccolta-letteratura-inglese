@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Miss Pross
-
 *Character* — appears in **1** work(s).
 
 ## Works

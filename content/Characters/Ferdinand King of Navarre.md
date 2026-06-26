@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Ferdinand King of Navarre
-
 *Character* — appears in **1** work(s).
 
 ## Works

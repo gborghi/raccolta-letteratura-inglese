@@ -15,8 +15,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# Thought
-
 *by Whitman*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

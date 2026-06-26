@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Irish Question
-
 *Historical reference* — appears in **6** work(s).
 
 ## Works

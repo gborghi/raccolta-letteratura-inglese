@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Man Who Knew Too Much — The Vengeance of the Statue (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_08_The_Vengeance_of_the_Statue/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_08_The_Vengeance_of_the_Statue/part_05">part 05 ›</a></div>

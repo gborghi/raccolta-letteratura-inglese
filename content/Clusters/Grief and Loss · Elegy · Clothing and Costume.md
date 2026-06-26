@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Grief and Loss · Elegy · Clothing and Costume
-
 *Cluster* — **87 works**.
 
 ## Defining concepts

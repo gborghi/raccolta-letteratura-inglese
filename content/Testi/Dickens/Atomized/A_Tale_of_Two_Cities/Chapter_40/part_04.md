@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Tale of Two Cities — Chapter 8 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_40/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_41/part_01">part 01 ›</a></div>

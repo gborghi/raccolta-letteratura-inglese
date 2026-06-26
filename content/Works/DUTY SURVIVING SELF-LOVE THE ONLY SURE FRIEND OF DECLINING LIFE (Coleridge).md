@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# DUTY SURVIVING SELF-LOVE THE ONLY SURE FRIEND OF DECLINING LIFE
-
 *by Coleridge*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 
@@ -31,19 +29,19 @@ tags:
 
 ## Testo integrale / Full text
 
-A SOLILOQUY
-Unchanged within, to see all changed without,
-Is a blank lot and hard to bear, no doubt.
-Yet why at others’ wanings should’st thou fret?
-Then only might’st thou feel a just regret,
-Hadst thou withheld thy love or hid thy light   5
-In selfish forethought of neglect and slight.
-O wiselier then, from feeble yearnings freed,
-While, and on whom, thou may’st — shine on! nor heed
-Whether the object by reflected light
-Return thy radiance or absorb it quite:   10
-And though thou notest from thy safe recess
-Old Friends burn dim, like lamps in noisome air,
-Love them for what they are; nor love them less,
-Because to thee they are not what they were.
-1826.
+A SOLILOQUY  
+Unchanged within, to see all changed without,  
+Is a blank lot and hard to bear, no doubt.  
+Yet why at others’ wanings should’st thou fret?  
+Then only might’st thou feel a just regret,  
+Hadst thou withheld thy love or hid thy light   5  
+In selfish forethought of neglect and slight.  
+O wiselier then, from feeble yearnings freed,  
+While, and on whom, thou may’st — shine on! nor heed  
+Whether the object by reflected light  
+Return thy radiance or absorb it quite:   10  
+And though thou notest from thy safe recess  
+Old Friends burn dim, like lamps in noisome air,  
+Love them for what they are; nor love them less,  
+Because to thee they are not what they were.  
+1826.  

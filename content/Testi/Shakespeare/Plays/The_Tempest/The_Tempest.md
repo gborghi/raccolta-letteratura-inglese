@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE TEMPEST
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TEMPEST-(Shakespeare)">The Tempest</a></div>
 </nav>

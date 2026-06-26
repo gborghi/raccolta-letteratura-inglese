@@ -17,8 +17,6 @@ tags:
   - topos/love_as_religion
 ---
 
-# THE ROSE
-
 *by Coleridge*  ·  **Cluster:** [[Rose · Desire · Value and Scarcity]]
 
 > [!abstract] 
@@ -34,28 +32,28 @@ tags:
 
 ## Testo integrale / Full text
 
-As late each flower that sweetest blows
-I pluck’d, the Garden’s pride!
-Within the petals of a Rose
-A sleeping Love I spied.
-Around his brows a beamy wreath   5
-Of many a lucent hue;
-All purple glow’d his cheek, beneath,
-Inebriate with dew.
-I softly seiz’d the unguarded Power,
-Nor scared his balmy rest:    10
-And placed him, caged within the flower,
-On spotless Sara’s breast.
-But when unweeting of the guile
-Awoke the prisoner sweet,
-He struggled to escape awhile   15
-And stamp’d his faery feet.
-Ah! soon the soul-entrancing sight
-Subdued the impatient boy!
-He gazed! he thrill’d with deep delight!
-Then clapp’d his wings for joy.   20
-‘And O!’ he cried—’Of magic kind
-What charms this Throne endear!
-Some other Love let Venus find —
-I’ll fix my empire here.’
-1793.
+As late each flower that sweetest blows  
+I pluck’d, the Garden’s pride!  
+Within the petals of a Rose  
+A sleeping Love I spied.  
+Around his brows a beamy wreath   5  
+Of many a lucent hue;  
+All purple glow’d his cheek, beneath,  
+Inebriate with dew.  
+I softly seiz’d the unguarded Power,  
+Nor scared his balmy rest:    10  
+And placed him, caged within the flower,  
+On spotless Sara’s breast.  
+But when unweeting of the guile  
+Awoke the prisoner sweet,  
+He struggled to escape awhile   15  
+And stamp’d his faery feet.  
+Ah! soon the soul-entrancing sight  
+Subdued the impatient boy!  
+He gazed! he thrill’d with deep delight!  
+Then clapp’d his wings for joy.   20  
+‘And O!’ he cried—’Of magic kind  
+What charms this Throne endear!  
+Some other Love let Venus find —  
+I’ll fix my empire here.’  
+1793.  

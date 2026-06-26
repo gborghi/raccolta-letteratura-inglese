@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Parody
-
 *Form/Genre* — appears in **30** work(s).
 
 ## Works

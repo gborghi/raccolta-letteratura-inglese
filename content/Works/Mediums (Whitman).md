@@ -14,8 +14,6 @@ tags:
   - motif/death
 ---
 
-# Mediums
-
 *by Whitman*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 

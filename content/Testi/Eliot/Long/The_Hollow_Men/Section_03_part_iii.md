@@ -7,25 +7,23 @@ tags:
   - author/Eliot
 ---
 
-# The Hollow Men — III
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Eliot · The Hollow Men</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Eliot/Long/The_Hollow_Men/Section_02_part_ii">‹ Section 02 part ii</a><a class="ex-next" href="/Testi/Eliot/Long/The_Hollow_Men/Section_04_part_iv">Section 04 part iv ›</a></div>
 </nav>
 
 
-III
-This is the dead land
-This is cactus land
-Here the stone images
-Are raised, here they receive
-The supplication of a dead man’s hand
-Under the twinkle of a fading star.
-Is it like this
-In death’s other kingdom
-Waking alone
-At the hour when we are
-Trembling with tenderness
-Lips that would kiss
-Form prayers to broken stone.
+III  
+This is the dead land  
+This is cactus land  
+Here the stone images  
+Are raised, here they receive  
+The supplication of a dead man’s hand  
+Under the twinkle of a fading star.  
+Is it like this  
+In death’s other kingdom  
+Waking alone  
+At the hour when we are  
+Trembling with tenderness  
+Lips that would kiss  
+Form prayers to broken stone.  

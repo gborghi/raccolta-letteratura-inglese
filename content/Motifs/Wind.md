@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Wind
-
 *Motif* — appears in **66** work(s).
 
 ## Works

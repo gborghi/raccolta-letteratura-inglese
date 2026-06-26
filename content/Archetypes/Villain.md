@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Villain
-
 *Archetype* — appears in **31** work(s).
 
 ## Works

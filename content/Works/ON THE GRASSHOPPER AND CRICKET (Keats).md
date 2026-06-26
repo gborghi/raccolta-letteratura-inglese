@@ -14,8 +14,6 @@ tags:
   - topos/book_of_nature
 ---
 
-# ON THE GRASSHOPPER AND CRICKET
-
 *by Keats*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -29,19 +27,19 @@ tags:
 
 ## Testo integrale / Full text
 
-The poetry of earth is never dead:
-  When all the birds are faint with the hot sun,
-  And hide in cooling trees, a voice will run
-From hedge to hedge about the new-mown mead;
-That is the Grasshopper’s — he takes the lead
-  In summer luxury, — he has never done
-  With his delights; for when tired out with fun
-He rests at ease beneath some pleasant weed.
-The poetry of earth is ceasing never:
-  On a lone winter evening, when the frost
-    Has wrought a silence, from the stove there shrills
-The Cricket’s song, in warmth increasing ever,
-  And seems to one in drowsiness half lost,
-    The Grasshopper’s among some grassy hills.
+The poetry of earth is never dead:  
+  When all the birds are faint with the hot sun,  
+  And hide in cooling trees, a voice will run  
+From hedge to hedge about the new-mown mead;  
+That is the Grasshopper’s — he takes the lead  
+  In summer luxury, — he has never done  
+  With his delights; for when tired out with fun  
+He rests at ease beneath some pleasant weed.  
+The poetry of earth is ceasing never:  
+  On a lone winter evening, when the frost  
+    Has wrought a silence, from the stove there shrills  
+The Cricket’s song, in warmth increasing ever,  
+  And seems to one in drowsiness half lost,  
+    The Grasshopper’s among some grassy hills.  
 
-December 30, 1816.
+December 30, 1816.  

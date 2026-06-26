@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — DEMAGOGUES AND MYSTAGOGUES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_28_WINE_WHEN_IT_IS_RED">‹ Story 28 WINE WHEN IT IS RED</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_30_THE_EATANSWILL_GAZETTE">Story 30 THE EATANSWILL GAZETTE ›</a></div>

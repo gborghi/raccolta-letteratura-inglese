@@ -26,8 +26,6 @@ tags:
   - setting/london
 ---
 
-# Wild Ducks
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

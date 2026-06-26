@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Egypt
-
 *Setting* — appears in **8** work(s).
 
 ## Works

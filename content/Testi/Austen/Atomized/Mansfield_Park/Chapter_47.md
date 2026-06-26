@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Mansfield Park — Chapter 47
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_46">‹ Chapter 46</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_48">Chapter 48 ›</a></div>

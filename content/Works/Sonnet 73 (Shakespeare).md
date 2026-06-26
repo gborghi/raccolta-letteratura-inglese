@@ -18,8 +18,6 @@ tags:
   - motif/death
 ---
 
-# Sonnet 73
-
 *by Shakespeare*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -34,19 +32,19 @@ tags:
 
 ## Testo integrale / Full text
 
-That time of year thou mayst in me behold 
-When yellow leaves, or none, or few, do hang 
-Upon those boughs which shake against the cold, 
-Bare ruined choirs where late the sweet birds sang. 
-In me thou seest the twilight of such day 
-As after sunset fadeth in the west, 
-Which by and by black night doth take away, 
-Death’s second self, that seals up all in rest. 
-In me thou seest the glowing of such fire 
-That on the ashes of his youth doth lie 
-As the death-bed whereon it must expire, 
-Consumed with that which it was nourished by.
+That time of year thou mayst in me behold  
+When yellow leaves, or none, or few, do hang  
+Upon those boughs which shake against the cold,  
+Bare ruined choirs where late the sweet birds sang.  
+In me thou seest the twilight of such day  
+As after sunset fadeth in the west,  
+Which by and by black night doth take away,  
+Death’s second self, that seals up all in rest.  
+In me thou seest the glowing of such fire  
+That on the ashes of his youth doth lie  
+As the death-bed whereon it must expire,  
+Consumed with that which it was nourished by.  
 
-This thou perceiv’st, which makes thy love more strong,
+This thou perceiv’st, which makes thy love more strong,  
 
-To love that well which thou must leave ere long.
+To love that well which thou must leave ere long.  

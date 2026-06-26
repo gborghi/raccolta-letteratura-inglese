@@ -32,8 +32,6 @@ tags:
   - character/tom_bloomfield
 ---
 
-# Agnes Grey
-
 *by Bronte*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 

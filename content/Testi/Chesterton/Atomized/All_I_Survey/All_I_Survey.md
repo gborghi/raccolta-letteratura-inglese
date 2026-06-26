@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# All I Survey
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/All-I-Survey-(Chesterton)">All I Survey</a></div>
 </nav>

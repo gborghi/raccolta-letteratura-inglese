@@ -17,8 +17,6 @@ tags:
   - histref/christianity
 ---
 
-# Sonnet 105
-
 *by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Let not my love be called idolatry, 
-Nor my belovèd as an idol show, 
-Since all alike my songs and praises be 
-To one, of one, still such, and ever so. 
-Kind is my love today, tomorrow kind, 
-Still constant in a wondrous excellence. 
-Therefore my verse, to constancy confined, 
-One thing expressing, leaves out difference. 
-‘Fair, kind, and true’ is all my argument, 
-‘Fair, kind, and true’ varying to other words, 
-And in this change is my invention spent, 
-Three themes in one, which wondrous scope affords. 
-Fair, kind, and true have often lived alone, 
-Which three till now never kept seat in one.
+Let not my love be called idolatry,  
+Nor my belovèd as an idol show,  
+Since all alike my songs and praises be  
+To one, of one, still such, and ever so.  
+Kind is my love today, tomorrow kind,  
+Still constant in a wondrous excellence.  
+Therefore my verse, to constancy confined,  
+One thing expressing, leaves out difference.  
+‘Fair, kind, and true’ is all my argument,  
+‘Fair, kind, and true’ varying to other words,  
+And in this change is my invention spent,  
+Three themes in one, which wondrous scope affords.  
+Fair, kind, and true have often lived alone,  
+Which three till now never kept seat in one.  

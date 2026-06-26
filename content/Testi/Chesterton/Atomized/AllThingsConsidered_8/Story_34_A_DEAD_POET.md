@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — A DEAD POET
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_33_THE_MAID_OF_ORLEANS">‹ Story 33 THE MAID OF ORLEANS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_35_CHRISTMAS">Story 35 CHRISTMAS ›</a></div>

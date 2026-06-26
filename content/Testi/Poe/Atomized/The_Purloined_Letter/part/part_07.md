@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Purloined Letter (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Purloined-Letter-(Poe)">The Purloined Letter</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Purloined_Letter/part/part_06">‹ part 06</a><span></span></div>

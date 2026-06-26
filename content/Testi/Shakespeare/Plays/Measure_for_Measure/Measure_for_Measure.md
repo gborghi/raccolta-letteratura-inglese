@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# MEASURE FOR MEASURE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MEASURE-FOR-MEASURE-(Shakespeare)">Measure for Measure</a></div>
 </nav>

@@ -17,8 +17,6 @@ tags:
   - topos/fortunes_wheel
 ---
 
-# ON BALA HILL
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-With many a weary step at length I gain
-Thy summit, Bala! and the cool breeze plays
-Cheerily round my brow — as hence the gaze
-Returns to dwell upon the journey’d plain.
-‘Twas a long way and tedious! — to the eye   5
-Tho’ fair th’ extended Vale, and fair to view
-The falling leaves of many a faded hue
-That eddy in the wild gust moaning by!
-Ev’n so it far’d with Life! in discontent
-Restless thro’ Fortune’s mingled scenes I went,   10
-Yet wept to think they would return no more!
-O cease fond heart! in such sad thoughts to roam,
-For surely thou ere long shalt reach thy home,
-And pleasant is the way that lies before.
-1794.
+With many a weary step at length I gain  
+Thy summit, Bala! and the cool breeze plays  
+Cheerily round my brow — as hence the gaze  
+Returns to dwell upon the journey’d plain.  
+‘Twas a long way and tedious! — to the eye   5  
+Tho’ fair th’ extended Vale, and fair to view  
+The falling leaves of many a faded hue  
+That eddy in the wild gust moaning by!  
+Ev’n so it far’d with Life! in discontent  
+Restless thro’ Fortune’s mingled scenes I went,   10  
+Yet wept to think they would return no more!  
+O cease fond heart! in such sad thoughts to roam,  
+For surely thou ere long shalt reach thy home,  
+And pleasant is the way that lies before.  
+1794.  

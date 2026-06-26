@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE MERRY WIVES OF WINDSOR
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
 </nav>

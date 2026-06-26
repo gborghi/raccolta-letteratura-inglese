@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Literary Criticism
-
 *Form/Genre* — appears in **43** work(s).
 
 ## Works

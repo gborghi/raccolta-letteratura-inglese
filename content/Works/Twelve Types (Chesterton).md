@@ -17,8 +17,6 @@ tags:
   - concept/paradox
 ---
 
-# Twelve Types
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

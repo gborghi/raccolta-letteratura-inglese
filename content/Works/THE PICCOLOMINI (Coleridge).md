@@ -25,8 +25,6 @@ tags:
   - form/blank_verse
 ---
 
-# THE PICCOLOMINI
-
 *by Coleridge*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

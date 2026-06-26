@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Wine and Drink
-
 *Motif* — appears in **84** work(s).
 
 ## Works

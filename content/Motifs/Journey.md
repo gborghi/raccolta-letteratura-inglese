@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Journey
-
 *Motif* — appears in **100** work(s).
 
 ## Works

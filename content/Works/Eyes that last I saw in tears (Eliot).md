@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Eyes that last I saw in tears
-
 *by Eliot*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
@@ -33,33 +31,33 @@ tags:
 
 ## Testo integrale / Full text
 
-Eyes that last I saw in tears
-Eyes that last I saw in tears
-Through division
-Here in death’s dream kingdom
-The golden vision reappears
-I see the eyes but not the tears
-This is my affliction.
-This is my affliction
-Eyes I shall not see again
-Eyes of decision
-Eyes I shall not see unless
-At the door of death’s other kingdom
-Where, as in this,
-The eyes outlast a little while
-A little while outlast the tears
-And hold us in derision.
+Eyes that last I saw in tears  
+Eyes that last I saw in tears  
+Through division  
+Here in death’s dream kingdom  
+The golden vision reappears  
+I see the eyes but not the tears  
+This is my affliction.  
+This is my affliction  
+Eyes I shall not see again  
+Eyes of decision  
+Eyes I shall not see unless  
+At the door of death’s other kingdom  
+Where, as in this,  
+The eyes outlast a little while  
+A little while outlast the tears  
+And hold us in derision.  
 
-The wind sprang up at four o’clock
-The wind sprang up at four o’clock
-The wind sprang up and broke the bells
-Swinging between life and death
-Here, in death’s dream kingdom
-The waking echo of confusing strife
-Is it a dream or something else
-When the surface of the blackened river
-Is a face that sweats with tears?
-I saw across the blackened river
-The camp fire shake with alien spears.
-Here, across death’s other river
-The Tartar horsemen shake their spears.
+The wind sprang up at four o’clock  
+The wind sprang up at four o’clock  
+The wind sprang up and broke the bells  
+Swinging between life and death  
+Here, in death’s dream kingdom  
+The waking echo of confusing strife  
+Is it a dream or something else  
+When the surface of the blackened river  
+Is a face that sweats with tears?  
+I saw across the blackened river  
+The camp fire shake with alien spears.  
+Here, across death’s other river  
+The Tartar horsemen shake their spears.  

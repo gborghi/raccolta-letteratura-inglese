@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Books For Boys
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_37_The_New_Bigotry">‹ Story 37 The New Bigotry</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_39_The_Outline_Of_Liberty">Story 39 The Outline Of Liberty ›</a></div>

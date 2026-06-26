@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Stars
-
 *Motif* — appears in **139** work(s).
 
 ## Works

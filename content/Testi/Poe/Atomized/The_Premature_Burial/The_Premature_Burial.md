@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Premature Burial
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Premature Burial</div>
 </nav>

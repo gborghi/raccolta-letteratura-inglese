@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE CRIME OF GABRIEL GALE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_04_THE_CRIME_OF_GABRIEL_GALE/part_02">part 02 ›</a></div>

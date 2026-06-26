@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# HAMLET
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HAMLET-(Shakespeare)">Hamlet</a></div>
 </nav>

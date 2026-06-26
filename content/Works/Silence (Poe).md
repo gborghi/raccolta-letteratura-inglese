@@ -19,8 +19,6 @@ tags:
   - form/sonnet
 ---
 
-# Silence
-
 *by Poe*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -35,20 +33,20 @@ tags:
 
 ## Testo integrale / Full text
 
-There are some qualities—some incorporate things,
-         That have a double life, which thus is made
-     A type of that twin entity which springs
-         From matter and light, evinced in solid and shade.
-     There is a two-fold _Silence_—sea and shore—
-         Body and soul. One dwells in lonely places,
-         Newly with grass o’ergrown; some solemn graces,
-     Some human memories and tearful lore,
-     Render him terrorless: his name’s “No More.”
-      He is the corporate Silence: dread him not!
-         No power hath he of evil in himself;
-     But should some urgent fate (untimely lot!)
-         Bring thee to meet his shadow (nameless elf,
-     That haunteth the lone regions where hath trod
-     No foot of man,) commend thyself to God!
+There are some qualities—some incorporate things,  
+         That have a double life, which thus is made  
+     A type of that twin entity which springs  
+         From matter and light, evinced in solid and shade.  
+     There is a two-fold _Silence_—sea and shore—  
+         Body and soul. One dwells in lonely places,  
+         Newly with grass o’ergrown; some solemn graces,  
+     Some human memories and tearful lore,  
+     Render him terrorless: his name’s “No More.”  
+      He is the corporate Silence: dread him not!  
+         No power hath he of evil in himself;  
+     But should some urgent fate (untimely lot!)  
+         Bring thee to meet his shadow (nameless elf,  
+     That haunteth the lone regions where hath trod  
+     No foot of man,) commend thyself to God!  
 
-      1840.
+      1840.  

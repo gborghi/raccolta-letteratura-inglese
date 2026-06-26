@@ -17,8 +17,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# The City Dead-House
-
 *by Whitman*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

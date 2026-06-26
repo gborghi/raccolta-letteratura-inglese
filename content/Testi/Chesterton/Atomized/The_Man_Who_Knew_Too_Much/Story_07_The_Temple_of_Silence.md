@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Man Who Knew Too Much — The Temple of Silence
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Man-Who-Knew-Too-Much-(Chesterton)">The Man Who Knew Too Much</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_06_The_Hole_in_the_Wall">‹ Story 06 The Hole in the Wall</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Man_Who_Knew_Too_Much/Story_08_The_Vengeance_of_the_Statue">Story 08 The Vengeance of the Statue ›</a></div>

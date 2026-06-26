@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XII—THE DRUNKARD’S DEATH (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_65_HAPTER_XIITHE_DRUNKARDS_DEATH/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_65_HAPTER_XIITHE_DRUNKARDS_DEATH/part_08">part 08 ›</a></div>

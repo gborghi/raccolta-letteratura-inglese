@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Prince Paul Maraloffski
-
 *Character* — appears in **1** work(s).
 
 ## Works

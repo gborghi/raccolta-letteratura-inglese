@@ -39,8 +39,6 @@ tags:
   - character/don_pedro
 ---
 
-# The Birthday of the Infanta
-
 *by Wilde*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

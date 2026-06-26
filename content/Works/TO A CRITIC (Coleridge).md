@@ -14,8 +14,6 @@ tags:
   - concept/the_grotesque
 ---
 
-# TO A CRITIC
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-WHO EXTRACTED A PASSAGE FROM A POEM WITHOUT ADDING A WORD RESPECTING THE CONTEXT, AND THEN DERIDED IT AS UNINTELLIGIBLE.
-Most candid critic, what if I,
-By way of joke, pull out your eye,
-And holding up the fragment, cry,
-‘Ha! ha! that men such fools should be!
-Behold this shapeless Dab! — and he
-Who own’d it, fancied it could see!’
-The joke were mighty analytic,
-But should you like it, candid critic?
-First published in Morning Post, Dec. 16, 1801: included in Keepsake, 1829, and in Essays, &c., iii. 977-8. First collected in P. and D. W., 1877, ii. 167.
+WHO EXTRACTED A PASSAGE FROM A POEM WITHOUT ADDING A WORD RESPECTING THE CONTEXT, AND THEN DERIDED IT AS UNINTELLIGIBLE.  
+Most candid critic, what if I,  
+By way of joke, pull out your eye,  
+And holding up the fragment, cry,  
+‘Ha! ha! that men such fools should be!  
+Behold this shapeless Dab! — and he  
+Who own’d it, fancied it could see!’  
+The joke were mighty analytic,  
+But should you like it, candid critic?  
+First published in Morning Post, Dec. 16, 1801: included in Keepsake, 1829, and in Essays, &c., iii. 977-8. First collected in P. and D. W., 1877, ii. 167.  

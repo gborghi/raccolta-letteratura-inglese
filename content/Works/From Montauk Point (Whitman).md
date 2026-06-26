@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# From Montauk Point
-
 *by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  I stand as on some mighty eagle’s beak,
-  Eastward the sea absorbing, viewing, (nothing but sea and sky,)
-  The tossing waves, the foam, the ships in the distance,
-  The wild unrest, the snowy, curling caps--that inbound urge and urge
-      of waves,
-  Seeking the shores forever.
+  I stand as on some mighty eagle’s beak,  
+  Eastward the sea absorbing, viewing, (nothing but sea and sky,)  
+  The tossing waves, the foam, the ships in the distance,  
+  The wild unrest, the snowy, curling caps--that inbound urge and urge  
+      of waves,  
+  Seeking the shores forever.  

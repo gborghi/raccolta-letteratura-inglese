@@ -17,8 +17,6 @@ tags:
   - concept/the_common_man
 ---
 
-# Faces
-
 *by Whitman*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

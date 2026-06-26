@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# SONNETS ON EMINENT CHARACTERS
-
 *by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -28,11 +26,11 @@ tags:
 
 ## Testo integrale / Full text
 
-CONTRIBUTED TO THE ‘MORNING CHRONICLE’ IN DECEMBER 1794 AND JANUARY 1795
-[The Sonnets were introduced by the following letter: —
-‘MR. EDITOR — If, Sir, the following Poems will not disgrace
-your poetical department, I will transmit you a series of
-Sonnets (as it is the fashion to call them) addressed like
-these to eminent Contemporaries.
-‘JESUS COLLEGE, CAMBRIDGE.’     S. T. C.]
-I
+CONTRIBUTED TO THE ‘MORNING CHRONICLE’ IN DECEMBER 1794 AND JANUARY 1795  
+[The Sonnets were introduced by the following letter: —  
+‘MR. EDITOR — If, Sir, the following Poems will not disgrace  
+your poetical department, I will transmit you a series of  
+Sonnets (as it is the fashion to call them) addressed like  
+these to eminent Contemporaries.  
+‘JESUS COLLEGE, CAMBRIDGE.’     S. T. C.]  
+I  

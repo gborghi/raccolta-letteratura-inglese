@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Clothing and Costume
-
 *Motif* — appears in **64** work(s).
 
 ## Works

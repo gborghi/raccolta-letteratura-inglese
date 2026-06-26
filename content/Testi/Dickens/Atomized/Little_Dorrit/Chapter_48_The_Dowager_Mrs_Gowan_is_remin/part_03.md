@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 8: The Dowager Mrs Gowan is reminded that ‘It Never Does’ (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_48_The_Dowager_Mrs_Gowan_is_remin/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_48_The_Dowager_Mrs_Gowan_is_remin/part_04">part 04 ›</a></div>

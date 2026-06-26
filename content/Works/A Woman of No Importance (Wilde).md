@@ -51,8 +51,6 @@ tags:
   - character/mrs_allonby
 ---
 
-# A Woman of No Importance
-
 *by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

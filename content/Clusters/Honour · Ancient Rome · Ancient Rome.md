@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Honour · Ancient Rome · Ancient Rome
-
 *Cluster* — **6 works**.
 
 ## Defining concepts

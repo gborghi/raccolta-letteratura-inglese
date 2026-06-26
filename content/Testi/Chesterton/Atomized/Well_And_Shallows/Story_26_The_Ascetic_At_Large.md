@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Ascetic At Large
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_25_The_Higher_Nihilism">‹ Story 25 The Higher Nihilism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_27_The_Backward_Bolshie">Story 27 The Backward Bolshie ›</a></div>

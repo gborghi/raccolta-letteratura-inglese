@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Medieval England
-
 *Setting* — appears in **10** work(s).
 
 ## Works

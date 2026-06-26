@@ -16,8 +16,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# Night on the Prairies
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

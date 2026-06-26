@@ -14,8 +14,6 @@ tags:
   - motif/money_gold
 ---
 
-# TO A VIRTUOUS OECONOMIST: WERNICKE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-You’re careful o’er your wealth ‘tis true:
-Yet so that of your plenteous store
-The needy takes and blesses you,
-For you hate Poverty, but not the Poor.
-First published in Morning Post, Oct. 28, 1799. Now reprinted for the
-first time. Adapted from Wernicke’s Epigrams (Bk. I, No. 49). An den
-sparsamen Celidon.
-‘Du liebst zwar Geld und Gut, doch so dass dein Erbarmen
-Der Arme fühlt.’
+You’re careful o’er your wealth ‘tis true:  
+Yet so that of your plenteous store  
+The needy takes and blesses you,  
+For you hate Poverty, but not the Poor.  
+First published in Morning Post, Oct. 28, 1799. Now reprinted for the  
+first time. Adapted from Wernicke’s Epigrams (Bk. I, No. 49). An den  
+sparsamen Celidon.  
+‘Du liebst zwar Geld und Gut, doch so dass dein Erbarmen  
+Der Arme fühlt.’  

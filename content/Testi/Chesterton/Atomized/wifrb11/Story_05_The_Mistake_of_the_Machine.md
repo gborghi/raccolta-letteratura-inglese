@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Mistake of the Machine
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_04_The_Man_in_the_Passage">‹ Story 04 The Man in the Passage</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_06_The_Head_of_Caesar">Story 06 The Head of Caesar ›</a></div>

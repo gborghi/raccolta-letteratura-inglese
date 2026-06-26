@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON A HUMILIATING HERESY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_27_ON_VULGARITY">‹ Story 27 ON VULGARITY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_29_ON_ORIGINAL_SIN">Story 29 ON ORIGINAL SIN ›</a></div>

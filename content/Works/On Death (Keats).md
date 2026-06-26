@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# On Death
-
 *by Keats*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 
@@ -32,14 +30,14 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-Can death be sleep, when life is but a dream,
-And scenes of bliss pass as a phantom by?
-The transient pleasures as a vision seem,
-And yet we think the greatest pain’s to die.
+I  
+Can death be sleep, when life is but a dream,  
+And scenes of bliss pass as a phantom by?  
+The transient pleasures as a vision seem,  
+And yet we think the greatest pain’s to die.  
 
-II
-How strange it is that man on earth should roam,
-And lead a life of woe, but not forsake
-His rugged path; nor dare he view alone
-His future doom which is but to awake.
+II  
+How strange it is that man on earth should roam,  
+And lead a life of woe, but not forsake  
+His rugged path; nor dare he view alone  
+His future doom which is but to awake.  

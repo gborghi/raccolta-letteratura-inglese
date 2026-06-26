@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Supernatural · Uncanny · Double
-
 *Cluster* — **19 works**.
 
 ## Defining concepts

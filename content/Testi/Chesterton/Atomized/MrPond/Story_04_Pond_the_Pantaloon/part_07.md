@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# MrPond — Pond the Pantaloon (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_04_Pond_the_Pantaloon/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_05_The_Unmentionable_Man/part_01">part 01 ›</a></div>

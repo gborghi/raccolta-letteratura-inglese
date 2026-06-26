@@ -49,8 +49,6 @@ tags:
   - character/james_vane
 ---
 
-# The Picture of Dorian Gray
-
 *by Wilde*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 30: The Word of a Gentleman
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_32_Mrs_Flintwinch_goes_on_Dreamin">‹ Chapter 32 Mrs Flintwinch goes on Dreamin</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_34_Spirit">Chapter 34 Spirit ›</a></div>

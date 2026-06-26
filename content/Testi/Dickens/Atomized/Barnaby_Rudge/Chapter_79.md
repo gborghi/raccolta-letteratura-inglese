@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Barnaby Rudge — Chapter 79
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_78">‹ Chapter 78</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_80">Chapter 80 ›</a></div>

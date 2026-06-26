@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# History Play
-
 *Form/Genre* — appears in **14** work(s).
 
 ## Works

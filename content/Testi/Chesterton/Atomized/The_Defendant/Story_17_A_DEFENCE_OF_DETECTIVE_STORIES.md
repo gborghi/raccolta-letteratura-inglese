@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF DETECTIVE STORIES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_16_A_DEFENCE_OF_BABY_WORSHIP">‹ Story 16 A DEFENCE OF BABY WORSHIP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_18_A_DEFENCE_OF_PATRIOTISM">Story 18 A DEFENCE OF PATRIOTISM ›</a></div>

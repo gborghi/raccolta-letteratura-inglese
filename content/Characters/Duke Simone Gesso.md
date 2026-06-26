@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Duke Simone Gesso
-
 *Character* — appears in **1** work(s).
 
 ## Works

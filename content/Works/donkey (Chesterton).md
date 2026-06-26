@@ -19,8 +19,6 @@ tags:
   - form/lyric
 ---
 
-# donkey
-
 *by Chesterton*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
@@ -37,30 +35,30 @@ tags:
 
 ## Testo integrale / Full text
 
-The Donkey
+The Donkey  
 
-			      G.K.Chesterton
+			      G.K.Chesterton  
 
-        When fishes flew and forests walked
-          And figs grew upon thorn,
-        Some moment when the moon was blood
-          Then surely I was born.
-          
-        With monstrous head and sickening cry
-          And ears like errant wings,
-        The devil's walking parody
-          On all four-footed things.
-          
-        The tattered outlaw of the earth,
-          Of ancient crooked will;
-        Starve, scourge, deride me: I am dumb,
-          I keep my secret still.
-            
-        Fools! For I also had my hour;
-          One far fierce hour and sweet:
-        There was a shout about my ears,
-          And palms before my feet.
+        When fishes flew and forests walked  
+          And figs grew upon thorn,  
+        Some moment when the moon was blood  
+          Then surely I was born.  
+
+        With monstrous head and sickening cry  
+          And ears like errant wings,  
+        The devil's walking parody  
+          On all four-footed things.  
+
+        The tattered outlaw of the earth,  
+          Of ancient crooked will;  
+        Starve, scourge, deride me: I am dumb,  
+          I keep my secret still.  
+
+        Fools! For I also had my hour;  
+          One far fierce hour and sweet:  
+        There was a shout about my ears,  
+          And palms before my feet.  
 
 
 
-===== FINE FILE: donkey.txt =====
+===== FINE FILE: donkey.txt =====  

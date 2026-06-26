@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — Some Old Curiosities
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_02_The_Religion_of_the_Stipendiary_Magistra">‹ Story 02 The Religion of the Stipendiary Magistra</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_04_A_Discussion_at_Dawn">Story 04 A Discussion at Dawn ›</a></div>

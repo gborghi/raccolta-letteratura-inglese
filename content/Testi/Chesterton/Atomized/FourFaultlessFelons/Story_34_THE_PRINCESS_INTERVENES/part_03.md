@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE PRINCESS INTERVENES (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_34_THE_PRINCESS_INTERVENES/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_34_THE_PRINCESS_INTERVENES/part_04">part 04 ›</a></div>

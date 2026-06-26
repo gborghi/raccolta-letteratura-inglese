@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 21: IN WHICH THE OLD MAN LAUNCHES FORTH INTO HIS FAVOURITE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_22_SHOWING_HOW_DODSON_AND_FOGG_WE">‹ Chapter 22 SHOWING HOW DODSON AND FOGG WE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_24_MR_PICKWICK_JOURNEYS_TO_IPSWIC">Chapter 24 MR PICKWICK JOURNEYS TO IPSWIC ›</a></div>

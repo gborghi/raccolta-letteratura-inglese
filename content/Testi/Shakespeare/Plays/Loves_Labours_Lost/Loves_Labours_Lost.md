@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# LOVE’S LABOUR’S LOST
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)">Loves Labours Lost</a></div>
 </nav>

@@ -16,8 +16,6 @@ tags:
   - motif/sun
 ---
 
-# Sonnet 59
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -32,19 +30,19 @@ tags:
 
 ## Testo integrale / Full text
 
-If there be nothing new, but that which is 
-Hath been before, how are our brains beguiled, 
-Which, labouring for invention, bear amiss 
-The second burden of a former child! 
-O that record could with a backward look 
-Even of five hundred courses of the sun 
-Show me your image in some antique book 
-Since mind at first in character was done, 
-That I might see what the old world could say 
-To this composed wonder of your frame; 
-Whether we are mended or whe’er better they, 
-Or whether revolution be the same.
+If there be nothing new, but that which is  
+Hath been before, how are our brains beguiled,  
+Which, labouring for invention, bear amiss  
+The second burden of a former child!  
+O that record could with a backward look  
+Even of five hundred courses of the sun  
+Show me your image in some antique book  
+Since mind at first in character was done,  
+That I might see what the old world could say  
+To this composed wonder of your frame;  
+Whether we are mended or whe’er better they,  
+Or whether revolution be the same.  
 
-O, sure I am the wits of former days
+O, sure I am the wits of former days  
 
-To subjects worse have given admiring praise.
+To subjects worse have given admiring praise.  

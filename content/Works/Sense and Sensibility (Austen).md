@@ -33,8 +33,6 @@ tags:
   - character/lucy_steele
 ---
 
-# Sense and Sensibility
-
 *by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
 
 > [!abstract] 

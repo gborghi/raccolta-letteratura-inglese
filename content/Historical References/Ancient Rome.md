@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Ancient Rome
-
 *Historical reference* — appears in **20** work(s).
 
 ## Works

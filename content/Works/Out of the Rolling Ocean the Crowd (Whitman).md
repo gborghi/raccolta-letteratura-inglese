@@ -15,8 +15,6 @@ tags:
   - motif/water
 ---
 
-# Out of the Rolling Ocean the Crowd
-
 *by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -30,21 +28,21 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CHILDREN OF ADAM_
+_Cluster: CHILDREN OF ADAM_  
 
 
-  Out of the rolling ocean the crowd came a drop gently to me,
-  Whispering I love you, before long I die,
-  I have travel’d a long way merely to look on you to touch you,
-  For I could not die till I once look’d on you,
-  For I fear’d I might afterward lose you.
+  Out of the rolling ocean the crowd came a drop gently to me,  
+  Whispering I love you, before long I die,  
+  I have travel’d a long way merely to look on you to touch you,  
+  For I could not die till I once look’d on you,  
+  For I fear’d I might afterward lose you.  
 
-  Now we have met, we have look’d, we are safe,
-  Return in peace to the ocean my love,
-  I too am part of that ocean my love, we are not so much separated,
-  Behold the great rondure, the cohesion of all, how perfect!
-  But as for me, for you, the irresistible sea is to separate us,
-  As for an hour carrying us diverse, yet cannot carry us diverse forever;
-  Be not impatient--a little space--know you I salute the air, the
-      ocean and the land,
-  Every day at sundown for your dear sake my love.
+  Now we have met, we have look’d, we are safe,  
+  Return in peace to the ocean my love,  
+  I too am part of that ocean my love, we are not so much separated,  
+  Behold the great rondure, the cohesion of all, how perfect!  
+  But as for me, for you, the irresistible sea is to separate us,  
+  As for an hour carrying us diverse, yet cannot carry us diverse forever;  
+  Be not impatient--a little space--know you I salute the air, the  
+      ocean and the land,  
+  Every day at sundown for your dear sake my love.  

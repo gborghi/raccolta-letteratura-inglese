@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# history — Chapter 15 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/history-(Chesterton)">history</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/history/Chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/history/Chapter_16/part_01">part 01 ›</a></div>

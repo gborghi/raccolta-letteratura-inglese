@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Inn
-
 *Setting* — appears in **9** work(s).
 
 ## Works

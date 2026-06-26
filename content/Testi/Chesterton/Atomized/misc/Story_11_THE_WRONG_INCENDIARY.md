@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE WRONG INCENDIARY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_10_THE_SUN_WORSHIPPER">‹ Story 10 THE SUN WORSHIPPER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_12_THE_FREE_MAN">Story 12 THE FREE MAN ›</a></div>

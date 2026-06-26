@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Othello — Act III, Scene 3 — exchange (DESDEMONA) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/OTHELLO-(Shakespeare)">Othello</a></div>
 </nav>

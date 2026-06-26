@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Dante
-
 *Historical reference* — appears in **13** work(s).
 
 ## Works

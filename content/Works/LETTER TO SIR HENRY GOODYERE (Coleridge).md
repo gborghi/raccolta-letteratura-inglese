@@ -15,8 +15,6 @@ tags:
   - motif/light_and_dark
 ---
 
-# LETTER TO SIR HENRY GOODYERE
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -30,20 +28,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Stanzas II, III, IV, and a few words from Stanza V, are prefixed as the
-motto to Essay XV of The Friend, 1818, i. 179; 1850, i. 136.
-For Stanza II, line 3 —
-But he which dwells there is not so; for he
-With him who dwells there ‘tis not so; for he
-For Stanza III —
-So had your body her morning, hath her noon,
-And shall not better, her next change is night:
-But her fair larger guest, t’whom sun and moon
-Are sparks, and short liv’d, claims another right. —
-The motto reads:
-Our bodies had their morning, have their noon,
-And shall not better — the next change is night,
-But their fair larger guest, t’whom sun and moon
-Are sparks and short liv’d, claims another right.
-The alteration was first noted in 1837. In 1850 line 3 of Stanza III
-‘fair’ is misprinted ‘far’.
+Stanzas II, III, IV, and a few words from Stanza V, are prefixed as the  
+motto to Essay XV of The Friend, 1818, i. 179; 1850, i. 136.  
+For Stanza II, line 3 —  
+But he which dwells there is not so; for he  
+With him who dwells there ‘tis not so; for he  
+For Stanza III —  
+So had your body her morning, hath her noon,  
+And shall not better, her next change is night:  
+But her fair larger guest, t’whom sun and moon  
+Are sparks, and short liv’d, claims another right. —  
+The motto reads:  
+Our bodies had their morning, have their noon,  
+And shall not better — the next change is night,  
+But their fair larger guest, t’whom sun and moon  
+Are sparks and short liv’d, claims another right.  
+The alteration was first noted in 1837. In 1850 line 3 of Stanza III  
+‘fair’ is misprinted ‘far’.  

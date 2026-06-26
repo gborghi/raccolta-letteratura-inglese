@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE THIEF ON TRIAL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_27_R_PETER_PRICE_the_private_inquiry_agent">‹ Story 27 R PETER PRICE the private inquiry agent</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_29_THE_CLEANSING_OF_THE_NAME">Story 29 THE CLEANSING OF THE NAME ›</a></div>

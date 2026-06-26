@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE NORDIC HINDOO (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_22_THE_NORDIC_HINDOO/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS/part_01">part 01 ›</a></div>

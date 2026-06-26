@@ -42,8 +42,6 @@ tags:
   - archetype/trickster
 ---
 
-# The Flying Inn
-
 *by Chesterton*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Translation
-
 *Form/Genre* — appears in **11** work(s).
 
 ## Works

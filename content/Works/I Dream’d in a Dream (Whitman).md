@@ -14,8 +14,6 @@ tags:
   - concept/democracy
 ---
 
-# I Dream’d in a Dream
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

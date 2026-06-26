@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 31: A GREATER LOSS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS">‹ Chapter 30 A LOSS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_32_THE_BEGINNING_OF_A_LONG_JOURNE">Chapter 32 THE BEGINNING OF A LONG JOURNE ›</a></div>

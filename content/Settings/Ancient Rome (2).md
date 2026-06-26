@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Ancient Rome
-
 *Setting* — appears in **7** work(s).
 
 ## Works

@@ -17,8 +17,6 @@ tags:
   - character/death_personified
 ---
 
-# Sonnet 60
-
 *by Shakespeare*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
@@ -34,19 +32,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Like as the waves make towards the pebbled shore, 
-So do our minutes hasten to their end, 
-Each changing place with that which goes before; 
-In sequent toil all forwards do contend. 
-Nativity, once in the main of light, 
-Crawls to maturity, wherewith being crowned 
-Crooked eclipses ’gainst his glory fight, 
-And time that gave doth now his gift confound. 
-Time doth transfix the flourish set on youth, 
-And delves the parallels in beauty’s brow; 
-Feeds on the rarities of nature’s truth, 
-And nothing stands but for his scythe to mow.
+Like as the waves make towards the pebbled shore,  
+So do our minutes hasten to their end,  
+Each changing place with that which goes before;  
+In sequent toil all forwards do contend.  
+Nativity, once in the main of light,  
+Crawls to maturity, wherewith being crowned  
+Crooked eclipses ’gainst his glory fight,  
+And time that gave doth now his gift confound.  
+Time doth transfix the flourish set on youth,  
+And delves the parallels in beauty’s brow;  
+Feeds on the rarities of nature’s truth,  
+And nothing stands but for his scythe to mow.  
 
-And yet to times in hope my verse shall stand,
+And yet to times in hope my verse shall stand,  
 
-Praising thy worth despite his cruel hand.
+Praising thy worth despite his cruel hand.  

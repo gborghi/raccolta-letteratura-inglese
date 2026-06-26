@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Wuthering Heights — Chapter 12
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_11">‹ Chapter 11</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_13">Chapter 13 ›</a></div>

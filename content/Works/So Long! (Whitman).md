@@ -16,8 +16,6 @@ tags:
   - motif/comradeship
 ---
 
-# So Long!
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 

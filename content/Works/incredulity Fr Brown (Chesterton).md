@@ -31,8 +31,6 @@ tags:
   - archetype/villain
 ---
 
-# incredulity Fr Brown
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

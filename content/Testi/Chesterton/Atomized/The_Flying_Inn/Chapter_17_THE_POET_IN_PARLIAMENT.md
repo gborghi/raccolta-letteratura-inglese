@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 17: THE POET IN PARLIAMENT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_16_THE_SEVEN_MOODS_OF_DORIAN">‹ Chapter 16 THE SEVEN MOODS OF DORIAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_18_THE_REPUBLIC_OF_PEACEWAYS">Chapter 18 THE REPUBLIC OF PEACEWAYS ›</a></div>

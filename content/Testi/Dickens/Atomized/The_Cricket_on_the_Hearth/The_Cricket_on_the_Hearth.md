@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Cricket on the Hearth
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
 </nav>

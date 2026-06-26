@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — Ii. The Man With Two Beards
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate">‹ Story 02 I The Mirror Of The Magistrate</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_04_Iii_The_Song_Of_The_Flying_Fish">Story 04 Iii The Song Of The Flying Fish ›</a></div>

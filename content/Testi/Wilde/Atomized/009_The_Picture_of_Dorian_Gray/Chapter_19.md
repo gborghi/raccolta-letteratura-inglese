@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Picture of Dorian Gray — Chapter 18
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Picture-of-Dorian-Gray-(Wilde)">009 The Picture of Dorian Gray</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/009_The_Picture_of_Dorian_Gray/Chapter_18">‹ Chapter 18</a><a class="ex-next" href="/Testi/Wilde/Atomized/009_The_Picture_of_Dorian_Gray/Chapter_20">Chapter 20 ›</a></div>

@@ -19,8 +19,6 @@ tags:
   - setting/rural_england
 ---
 
-# cheese
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

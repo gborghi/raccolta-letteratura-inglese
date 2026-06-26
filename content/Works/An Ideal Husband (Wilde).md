@@ -41,8 +41,6 @@ tags:
   - character/mabel_chiltern
 ---
 
-# An Ideal Husband
-
 *by Wilde*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

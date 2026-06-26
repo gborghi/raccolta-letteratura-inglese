@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — ORD KITCHENER (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_25_F_6_INDEMNITY_You_agree_to_indemnify_and">‹ Story 25 F 6 INDEMNITY You agree to indemnify and</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_02_ORD_KITCHENER/part_02">part 02 ›</a></div>

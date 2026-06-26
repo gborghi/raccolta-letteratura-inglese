@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Money and Gold
-
 *Motif* — appears in **156** work(s).
 
 ## Works

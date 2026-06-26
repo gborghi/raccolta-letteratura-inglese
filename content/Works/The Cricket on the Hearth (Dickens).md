@@ -35,8 +35,6 @@ tags:
   - character/tilly_slowboy
 ---
 
-# The Cricket on the Hearth
-
 *by Dickens*  ·  **Cluster:** [[Supernatural]]
 
 > [!abstract] 

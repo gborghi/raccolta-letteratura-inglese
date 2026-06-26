@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Battle of Life
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
 </nav>

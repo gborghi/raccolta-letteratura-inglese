@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Ship · Endurance
-
 *Cluster* — **12 works**.
 
 ## Defining concepts

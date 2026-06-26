@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# incredulity Fr Brown — The Curse of the Golden Cross (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/incredulity-Fr-Brown-(Chesterton)">incredulity Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_05_The_Curse_of_the_Golden_Cross/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/incredulity_Fr_Brown/Story_05_The_Curse_of_the_Golden_Cross/part_09">part 09 ›</a></div>

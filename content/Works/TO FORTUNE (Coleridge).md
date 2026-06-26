@@ -13,8 +13,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# TO FORTUNE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

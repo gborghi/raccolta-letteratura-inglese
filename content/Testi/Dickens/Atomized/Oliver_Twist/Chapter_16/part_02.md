@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Oliver Twist — Chapter 16 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Oliver-Twist-(Dickens)">Oliver Twist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Oliver_Twist/Chapter_16/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Oliver_Twist/Chapter_16/part_03">part 03 ›</a></div>

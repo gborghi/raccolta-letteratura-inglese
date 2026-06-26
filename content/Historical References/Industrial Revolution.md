@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Industrial Revolution
-
 *Historical reference* — appears in **23** work(s).
 
 ## Works

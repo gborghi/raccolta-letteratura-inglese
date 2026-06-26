@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER V—THE PARLOUR ORATOR
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_38_HAPTER_IVMISS_EVANS_AND_THE_EAGLE">‹ Story 38 HAPTER IVMISS EVANS AND THE EAGLE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_40_HAPTER_VITHE_HOSPITAL_PATIENT">Story 40 HAPTER VITHE HOSPITAL PATIENT ›</a></div>

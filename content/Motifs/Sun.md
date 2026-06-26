@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Sun
-
 *Motif* — appears in **139** work(s).
 
 ## Works

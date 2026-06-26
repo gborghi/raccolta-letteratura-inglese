@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 2 Henry IV — Act III, Scene 2 — exchange (SHALLOW) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
 </nav>

@@ -25,8 +25,6 @@ tags:
   - form/short_story
 ---
 
-# The Man That Was Used Up
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

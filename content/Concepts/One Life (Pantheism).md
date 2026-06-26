@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# One Life (Pantheism)
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

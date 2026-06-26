@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# A Paumanok Picture
-
 *by Whitman*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -30,14 +28,14 @@ tags:
 
 ## Testo integrale / Full text
 
-Two boats with nets lying off the sea-beach, quite still,
-  Ten fishermen waiting--they discover a thick school of mossbonkers
-      --they drop the join’d seine-ends in the water,
-  The boats separate and row off, each on its rounding course to the
-      beach, enclosing the mossbonkers,
-  The net is drawn in by a windlass by those who stop ashore,
-  Some of the fishermen lounge in their boats, others stand
-      ankle-deep in the water, pois’d on strong legs,
-  The boats partly drawn up, the water slapping against them,
-  Strew’d on the sand in heaps and windrows, well out from the water,
-      the green-back’d spotted mossbonkers.
+Two boats with nets lying off the sea-beach, quite still,  
+  Ten fishermen waiting--they discover a thick school of mossbonkers  
+      --they drop the join’d seine-ends in the water,  
+  The boats separate and row off, each on its rounding course to the  
+      beach, enclosing the mossbonkers,  
+  The net is drawn in by a windlass by those who stop ashore,  
+  Some of the fishermen lounge in their boats, others stand  
+      ankle-deep in the water, pois’d on strong legs,  
+  The boats partly drawn up, the water slapping against them,  
+  Strew’d on the sand in heaps and windrows, well out from the water,  
+      the green-back’d spotted mossbonkers.  

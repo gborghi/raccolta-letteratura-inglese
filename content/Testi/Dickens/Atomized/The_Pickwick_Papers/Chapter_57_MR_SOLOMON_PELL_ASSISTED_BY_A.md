@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 55: MR. SOLOMON PELL, ASSISTED BY A SELECT COMMITTEE OF
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_56_CONTAINING_SOME_PARTICULARS_RE">‹ Chapter 56 CONTAINING SOME PARTICULARS RE</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_58_AN_IMPORTANT_CONFERENCE_TAKES">Chapter 58 AN IMPORTANT CONFERENCE TAKES ›</a></div>

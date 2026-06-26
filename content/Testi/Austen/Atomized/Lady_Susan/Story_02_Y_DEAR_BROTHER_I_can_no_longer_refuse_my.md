@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Lady Susan — Y DEAR BROTHER,—I can no longer refuse myself the pleasure of
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Lady_Susan/Story_01_ADY_SUSAN">‹ Story 01 ADY SUSAN</a><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_03_ATHERINE_VERNON">Story 03 ATHERINE VERNON ›</a></div>

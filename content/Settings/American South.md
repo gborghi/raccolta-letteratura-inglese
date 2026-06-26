@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# American South
-
 *Setting* — appears in **2** work(s).
 
 ## Works

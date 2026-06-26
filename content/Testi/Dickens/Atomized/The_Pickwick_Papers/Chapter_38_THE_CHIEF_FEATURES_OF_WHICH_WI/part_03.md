@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 36: THE CHIEF FEATURES OF WHICH WILL BE FOUND TO BE AN (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_38_THE_CHIEF_FEATURES_OF_WHICH_WI/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_38_THE_CHIEF_FEATURES_OF_WHICH_WI/part_04">part 04 ›</a></div>

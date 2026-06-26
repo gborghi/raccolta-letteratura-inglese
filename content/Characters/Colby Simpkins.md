@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Colby Simpkins
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -15,8 +15,6 @@ tags:
   - form/elegy
 ---
 
-# As Toilsome I Wander’d Virginia’s Woods
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -30,22 +28,22 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  As toilsome I wander’d Virginia’s woods,
-  To the music of rustling leaves kick’d by my feet, (for ’twas autumn,)
-  I mark’d at the foot of a tree the grave of a soldier;
-  Mortally wounded he and buried on the retreat, (easily all could
-      understand,)
-  The halt of a mid-day hour, when up! no time to lose--yet this sign left,
-  On a tablet scrawl’d and nail’d on the tree by the grave,
-  Bold, cautious, true, and my loving comrade.
+  As toilsome I wander’d Virginia’s woods,  
+  To the music of rustling leaves kick’d by my feet, (for ’twas autumn,)  
+  I mark’d at the foot of a tree the grave of a soldier;  
+  Mortally wounded he and buried on the retreat, (easily all could  
+      understand,)  
+  The halt of a mid-day hour, when up! no time to lose--yet this sign left,  
+  On a tablet scrawl’d and nail’d on the tree by the grave,  
+  Bold, cautious, true, and my loving comrade.  
 
-  Long, long I muse, then on my way go wandering,
-  Many a changeful season to follow, and many a scene of life,
-  Yet at times through changeful season and scene, abrupt, alone, or
-      in the crowded street,
-  Comes before me the unknown soldier’s grave, comes the inscription
-      rude in Virginia’s woods,
-  Bold, cautious, true, and my loving comrade.
+  Long, long I muse, then on my way go wandering,  
+  Many a changeful season to follow, and many a scene of life,  
+  Yet at times through changeful season and scene, abrupt, alone, or  
+      in the crowded street,  
+  Comes before me the unknown soldier’s grave, comes the inscription  
+      rude in Virginia’s woods,  
+  Bold, cautious, true, and my loving comrade.  

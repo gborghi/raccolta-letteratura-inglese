@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Vanitas
-
 *Topos* — appears in **26** work(s).
 
 ## Works

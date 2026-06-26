@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Book of Nature
-
 *Topos* — appears in **125** work(s).
 
 ## Works

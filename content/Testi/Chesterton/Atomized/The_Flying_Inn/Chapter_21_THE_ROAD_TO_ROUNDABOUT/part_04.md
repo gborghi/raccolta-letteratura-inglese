@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 21: THE ROAD TO ROUNDABOUT (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_21_THE_ROAD_TO_ROUNDABOUT/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_22_THE_CHEMISTRY_OF_MR_CROOKE/part_01">part 01 ›</a></div>

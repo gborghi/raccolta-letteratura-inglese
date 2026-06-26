@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Revival Of Philosophy--Why? (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_20_Rabelaisian_Regrets/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_30_The_Revival_Of_Philosophy_Why/part_02">part 02 ›</a></div>

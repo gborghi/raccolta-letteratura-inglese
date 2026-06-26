@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 54: Mr. MICAWBER’S TRANSACTIONS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_53_ANOTHER_RETROSPECT">‹ Chapter 53 ANOTHER RETROSPECT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_55_TEMPEST">Chapter 55 TEMPEST ›</a></div>

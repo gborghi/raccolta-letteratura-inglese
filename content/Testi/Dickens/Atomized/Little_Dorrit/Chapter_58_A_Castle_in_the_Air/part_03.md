@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 18: A Castle in the Air (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_58_A_Castle_in_the_Air/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_59_The_Storming_of_the_Castle_in/part_01">part 01 ›</a></div>

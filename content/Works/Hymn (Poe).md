@@ -20,8 +20,6 @@ tags:
   - histref/catholic_church
 ---
 
-# Hymn
-
 *by Poe*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -37,17 +35,17 @@ tags:
 
 ## Testo integrale / Full text
 
-At morn—at noon—at twilight dim—
-     Maria! thou hast heard my hymn!
-     In joy and woe—in good and ill—
-     Mother of God, be with me still!
-     When the Hours flew brightly by
-     And not a cloud obscured the sky,
-     My soul, lest it should truant be,
-     Thy grace did guide to thine and thee;
-     Now, when storms of Fate o’ercast
-     Darkly my Present and my Past,
-     Let my Future radiant shine
-     With sweet hopes of thee and thine!
+At morn—at noon—at twilight dim—  
+     Maria! thou hast heard my hymn!  
+     In joy and woe—in good and ill—  
+     Mother of God, be with me still!  
+     When the Hours flew brightly by  
+     And not a cloud obscured the sky,  
+     My soul, lest it should truant be,  
+     Thy grace did guide to thine and thee;  
+     Now, when storms of Fate o’ercast  
+     Darkly my Present and my Past,  
+     Let my Future radiant shine  
+     With sweet hopes of thee and thine!  
 
-      1835.
+      1835.  

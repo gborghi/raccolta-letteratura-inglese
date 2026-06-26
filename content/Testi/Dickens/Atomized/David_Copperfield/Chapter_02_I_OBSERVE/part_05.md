@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 2: I OBSERVE (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_01">part 01 ›</a></div>

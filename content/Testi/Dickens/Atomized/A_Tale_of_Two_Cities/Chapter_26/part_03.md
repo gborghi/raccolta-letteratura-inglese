@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Tale of Two Cities — Chapter 19 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_26/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_28/part_01">part 01 ›</a></div>

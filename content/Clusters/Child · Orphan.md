@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Child · Orphan
-
 *Cluster* — **10 works**.
 
 ## Defining concepts

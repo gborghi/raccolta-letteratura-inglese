@@ -14,8 +14,6 @@ tags:
   - motif/clothing
 ---
 
-# AN APOLOGY FOR SPENCERS
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-Said William to Edmund I can’t guess the reason
-Why Spencers abound in this bleak wintry season.
-Quoth Edmund to William, I perceive you’re no Solon —
-Men may purchase a half-coat when they cannot a whole-one.
-BRISTOLIENSIS.
-March 21, 1796. First published in The Watchman, No. IV. March 25,
+Said William to Edmund I can’t guess the reason  
+Why Spencers abound in this bleak wintry season.  
+Quoth Edmund to William, I perceive you’re no Solon —  
+Men may purchase a half-coat when they cannot a whole-one.  
+BRISTOLIENSIS.  
+March 21, 1796. First published in The Watchman, No. IV. March 25,  
 1796. First collected Poems, 1907.

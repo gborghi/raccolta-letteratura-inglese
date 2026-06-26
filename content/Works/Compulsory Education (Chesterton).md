@@ -16,8 +16,6 @@ tags:
   - concept/faith
 ---
 
-# Compulsory Education
-
 *by Chesterton*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 

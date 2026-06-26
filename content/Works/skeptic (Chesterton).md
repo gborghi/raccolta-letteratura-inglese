@@ -15,8 +15,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# skeptic
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

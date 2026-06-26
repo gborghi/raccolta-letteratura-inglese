@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Our Mutual Friend — Chapter 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_41_A_LONG_LANE">‹ Chapter 41 A LONG LANE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_43">Chapter 43 ›</a></div>

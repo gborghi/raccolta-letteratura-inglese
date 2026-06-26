@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE SOUL OF THE SCHOOLBOY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE">‹ Story 03 THE VANISHING PRINCE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_05_THE_BOTTOMLESS_WELL">Story 05 THE BOTTOMLESS WELL ›</a></div>

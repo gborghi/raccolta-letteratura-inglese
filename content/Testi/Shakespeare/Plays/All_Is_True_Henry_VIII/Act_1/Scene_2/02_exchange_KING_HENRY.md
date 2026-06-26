@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# All Is True (Henry VIII) — Act I, Scene 2 — exchange (KING HENRY) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)">All Is True Henry VIII</a></div>
 </nav>

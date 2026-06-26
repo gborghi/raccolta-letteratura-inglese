@@ -15,8 +15,6 @@ tags:
   - form/epigram
 ---
 
-# Stronger Lessons
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Have you learn’d lessons only of those who admired you, and were
-      tender with you, and stood aside for you?
-  Have you not learn’d great lessons from those who reject you, and
-      brace themselves against you? or who treat you with contempt,
-      or dispute the passage with you?
+  Have you learn’d lessons only of those who admired you, and were  
+      tender with you, and stood aside for you?  
+  Have you not learn’d great lessons from those who reject you, and  
+      brace themselves against you? or who treat you with contempt,  
+      or dispute the passage with you?  

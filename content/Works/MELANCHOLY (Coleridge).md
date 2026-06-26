@@ -15,8 +15,6 @@ tags:
   - motif/sleep
 ---
 
-# MELANCHOLY
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-A FRAGMENT
-Stretch’d on a moulder’d Abbey’s broadest wall,
-Where ruining ivies propp’d the ruins steep —
-Her folded arms wrapping her tatter’d pall,    The fern was press’d beneath her hair,
-The dark green Adder’s Tongue was there;
-And still as pass’d the flagging sea-gale weak,
-The long lank leaf bow’d fluttering o’er her cheek.
-That pallid cheek was flush’d: her eager look
-Beam’d eloquent in slumber! Inly wrought,   10
-Imperfect sounds her moving lips forsook,
-And her bent forehead work’d with troubled thought.
-Strange was the dream ——
-? 1794.
+A FRAGMENT  
+Stretch’d on a moulder’d Abbey’s broadest wall,  
+Where ruining ivies propp’d the ruins steep —  
+Her folded arms wrapping her tatter’d pall,    The fern was press’d beneath her hair,  
+The dark green Adder’s Tongue was there;  
+And still as pass’d the flagging sea-gale weak,  
+The long lank leaf bow’d fluttering o’er her cheek.  
+That pallid cheek was flush’d: her eager look  
+Beam’d eloquent in slumber! Inly wrought,   10  
+Imperfect sounds her moving lips forsook,  
+And her bent forehead work’d with troubled thought.  
+Strange was the dream ——  
+? 1794.  

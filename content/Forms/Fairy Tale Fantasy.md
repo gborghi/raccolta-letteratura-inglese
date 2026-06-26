@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Fairy Tale / Fantasy
-
 *Form/Genre* — appears in **13** work(s).
 
 ## Works

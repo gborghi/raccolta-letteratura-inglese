@@ -13,8 +13,6 @@ tags:
   - concept/appearance_vs_reality
 ---
 
-# EPIGRAM ON THE SECRECY OF A CERTAIN LADY
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,9 +26,9 @@ tags:
 
 ## Testo integrale / Full text
 
-‘She’s secret as the grave, allow!’
-‘I do; I cannot doubt it.
-But ‘tis a grave with tombstone on,
-That tells you all about it.’
-First published in The Courier, Jan. 3, 1814. Included in Essays,
-&c., iii. 986. Now collected for the first time.
+‘She’s secret as the grave, allow!’  
+‘I do; I cannot doubt it.  
+But ‘tis a grave with tombstone on,  
+That tells you all about it.’  
+First published in The Courier, Jan. 3, 1814. Included in Essays,  
+&c., iii. 986. Now collected for the first time.  

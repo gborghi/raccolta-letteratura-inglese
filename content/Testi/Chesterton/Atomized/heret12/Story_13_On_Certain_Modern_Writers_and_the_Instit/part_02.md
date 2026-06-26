@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — On Certain Modern Writers and the Institution of the Family (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_13_On_Certain_Modern_Writers_and_the_Instit/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_13_On_Certain_Modern_Writers_and_the_Instit/part_03">part 03 ›</a></div>

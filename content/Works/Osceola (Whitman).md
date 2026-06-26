@@ -17,8 +17,6 @@ tags:
   - form/narrative_poem
 ---
 
-# Osceola
-
 *by Whitman*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 
@@ -34,20 +32,20 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  When his hour for death had come,
-  He slowly rais’d himself from the bed on the floor,
-  Drew on his war-dress, shirt, leggings, and girdled the belt around
-      his waist,
-  Call’d for vermilion paint (his looking-glass was held before him,)
-  Painted half his face and neck, his wrists, and back-hands.
-  Put the scalp-knife carefully in his belt--then lying down, resting
-      moment,
-  Rose again, half sitting, smiled, gave in silence his extended hand
-      to each and all,
-  Sank faintly low to the floor (tightly grasping the tomahawk handle,)
-  Fix’d his look on wife and little children--the last:
+  When his hour for death had come,  
+  He slowly rais’d himself from the bed on the floor,  
+  Drew on his war-dress, shirt, leggings, and girdled the belt around  
+      his waist,  
+  Call’d for vermilion paint (his looking-glass was held before him,)  
+  Painted half his face and neck, his wrists, and back-hands.  
+  Put the scalp-knife carefully in his belt--then lying down, resting  
+      moment,  
+  Rose again, half sitting, smiled, gave in silence his extended hand  
+      to each and all,  
+  Sank faintly low to the floor (tightly grasping the tomahawk handle,)  
+  Fix’d his look on wife and little children--the last:  
 
-  (And here a line in memory of his name and death.)
+  (And here a line in memory of his name and death.)  

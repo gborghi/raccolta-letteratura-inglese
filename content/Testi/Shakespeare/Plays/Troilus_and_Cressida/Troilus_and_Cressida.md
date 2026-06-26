@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# TROILUS AND CRESSIDA
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 </nav>

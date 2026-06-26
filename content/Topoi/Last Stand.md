@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Last Stand
-
 *Topos* — appears in **20** work(s).
 
 ## Works

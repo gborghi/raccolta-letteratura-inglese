@@ -48,8 +48,6 @@ tags:
   - character/mrs_jellyby
 ---
 
-# Bleak House
-
 *by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

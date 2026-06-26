@@ -14,8 +14,6 @@ tags:
   - motif/time
 ---
 
-# HOW MANY BARDS GILD THE LAPSES OF TIME!
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-How many bards gild the lapses of time!
-  A few of them have ever been the food
-  Of my delighted fancy, — I could brood
-Over their beauties, earthly, or sublime:
-And often, when I sit me down to rhyme,
-  These will in throngs before my mind intrude:
-  But no confusion, no disturbance rude
-Do they occasion; ’tis a pleasing chime.
-So the unnumber’d sounds that evening store;
-  The songs of birds — the whisp’ring of the leaves —
-The voice of waters — the great bell that heaves
-  With solemn sound, — and thousand others more,
-That distance of recognizance bereaves,
-  Make pleasing music, and not wild uproar.
+How many bards gild the lapses of time!  
+  A few of them have ever been the food  
+  Of my delighted fancy, — I could brood  
+Over their beauties, earthly, or sublime:  
+And often, when I sit me down to rhyme,  
+  These will in throngs before my mind intrude:  
+  But no confusion, no disturbance rude  
+Do they occasion; ’tis a pleasing chime.  
+So the unnumber’d sounds that evening store;  
+  The songs of birds — the whisp’ring of the leaves —  
+The voice of waters — the great bell that heaves  
+  With solemn sound, — and thousand others more,  
+That distance of recognizance bereaves,  
+  Make pleasing music, and not wild uproar.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# whats wrong — Part 4: EDUCATION, OR THE MISTAKE ABOUT THE CHILD
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_03_FEMINISM_OR_THE_MISTAKE_ABOUT">‹ Chapter 03 FEMINISM OR THE MISTAKE ABOUT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_05_THE_HOME_OF_MAN">Chapter 05 THE HOME OF MAN ›</a></div>

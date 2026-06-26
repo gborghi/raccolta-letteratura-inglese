@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Marriage and Fidelity
-
 *Theme/Concept* — appears in **125** work(s).
 
 ## Works

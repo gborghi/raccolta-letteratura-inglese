@@ -15,8 +15,6 @@ tags:
   - form/blank_verse
 ---
 
-# THE DUNGEON
-
 *by Coleridge*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

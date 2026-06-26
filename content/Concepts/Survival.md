@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Survival
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

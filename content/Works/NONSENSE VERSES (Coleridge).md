@@ -15,8 +15,6 @@ tags:
   - motif/night
 ---
 
-# NONSENSE VERSES
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -30,21 +28,21 @@ tags:
 
 ## Testo integrale / Full text
 
-[AN EXPERIMENT FOR A METRE]
-Ye fowls of ill presage,
-Go vanish into Night!
-Let all things sweet and fair
-Yield homage to the pair:
-From Infancy to Age
-Each Brow be smooth and bright,
-As Lake in evening light.
-To-day be Joy! and Sorrow
-Devoid of Blame
-(The widow’d Dame)
-Shall welcome be to-morrow.
-Thou, too, dull Night! may’st come unchid:
-This wall of Flame the Dark hath hid
-With turrets each a Pyramid; —
-For the Tears that we shed, are Gladness,
-A mockery of Sadness!
-Now first published from an MS.
+[AN EXPERIMENT FOR A METRE]  
+Ye fowls of ill presage,  
+Go vanish into Night!  
+Let all things sweet and fair  
+Yield homage to the pair:  
+From Infancy to Age  
+Each Brow be smooth and bright,  
+As Lake in evening light.  
+To-day be Joy! and Sorrow  
+Devoid of Blame  
+(The widow’d Dame)  
+Shall welcome be to-morrow.  
+Thou, too, dull Night! may’st come unchid:  
+This wall of Flame the Dark hath hid  
+With turrets each a Pyramid; —  
+For the Tears that we shed, are Gladness,  
+A mockery of Sadness!  
+Now first published from an MS.  

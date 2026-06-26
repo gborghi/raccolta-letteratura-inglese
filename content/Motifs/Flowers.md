@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Flowers
-
 *Motif* — appears in **229** work(s).
 
 ## Works

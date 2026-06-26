@@ -30,8 +30,6 @@ tags:
   - character/benjamin_britain
 ---
 
-# The Battle of Life
-
 *by Dickens*  ·  **Cluster:** [[Self-Sacrifice · Life as a Battle]]
 
 > [!abstract] 

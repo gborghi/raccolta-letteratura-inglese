@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. CHESTERTON:  Ladies and gentlemen.  The answer is in the negative.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_05_R_SHAW_Mr_Belloc_and_Ladies_and_Gentleme">‹ Story 05 R SHAW Mr Belloc and Ladies and Gentleme</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_07_OICE_Yes_he_is">Story 07 OICE Yes he is ›</a></div>

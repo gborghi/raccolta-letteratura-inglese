@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Cricket on the Hearth — The Cricket On The Hearth
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Cricket-on-the-Hearth-(Dickens)">The Cricket on the Hearth</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_01_Introduction">‹ Story 01 Introduction</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Cricket_on_the_Hearth/Story_03_The_Cricket_On_The_Hearth">Story 03 The Cricket On The Hearth ›</a></div>

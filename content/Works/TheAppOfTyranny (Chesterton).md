@@ -16,8 +16,6 @@ tags:
   - concept/nationalism_and_patriotism
 ---
 
-# TheAppOfTyranny
-
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

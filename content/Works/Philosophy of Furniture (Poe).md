@@ -22,8 +22,6 @@ tags:
   - form/satire
 ---
 
-# Philosophy of Furniture
-
 *by Poe*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Robert Browning
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Robert-Browning-(Chesterton)">Robert Browning</a></div>
 </nav>

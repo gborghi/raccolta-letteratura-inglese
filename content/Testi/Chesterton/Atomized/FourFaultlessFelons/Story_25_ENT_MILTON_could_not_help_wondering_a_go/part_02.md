@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — ENT MILTON could not help wondering a good deal, especially when (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_25_ENT_MILTON_could_not_help_wondering_a_go/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_25_ENT_MILTON_could_not_help_wondering_a_go/part_03">part 03 ›</a></div>

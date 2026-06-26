@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Problem Play
-
 *Cluster* — **2 works**.
 
 ## Defining concepts

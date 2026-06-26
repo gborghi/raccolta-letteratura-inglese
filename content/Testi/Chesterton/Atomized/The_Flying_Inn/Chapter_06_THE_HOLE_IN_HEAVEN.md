@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 6: THE HOLE IN HEAVEN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_05_THE_ASTONISHMENT_OF_THE_AGENT">‹ Chapter 05 THE ASTONISHMENT OF THE AGENT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_07_THE_SOCIETY_OF_SIMPLE_SOULS">Chapter 07 THE SOCIETY OF SIMPLE SOULS ›</a></div>

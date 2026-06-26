@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 17
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_16">‹ Chapter 16</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_18">Chapter 18 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — THE OPTIMISM OF BYRON
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_02_WILLIAM_MORRIS_AND_HIS_SCHOOL">‹ Story 02 WILLIAM MORRIS AND HIS SCHOOL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_04_POPE_AND_THE_ART_OF_SATIRE">Story 04 POPE AND THE ART OF SATIRE ›</a></div>

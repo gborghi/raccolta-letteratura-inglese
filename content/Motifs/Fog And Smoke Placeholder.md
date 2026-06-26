@@ -5,8 +5,6 @@ tags:
   - graph/motif
 ---
 
-# Fog And Smoke Placeholder
-
 *Motif* — appears in **1** work(s).
 
 ## Works

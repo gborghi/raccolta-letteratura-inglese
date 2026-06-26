@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# All I Survey — Chapter 24 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/All-I-Survey-(Chesterton)">All I Survey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/All_I_Survey/Chapter_24/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/All_I_Survey/Chapter_32/part_01">part 01 ›</a></div>

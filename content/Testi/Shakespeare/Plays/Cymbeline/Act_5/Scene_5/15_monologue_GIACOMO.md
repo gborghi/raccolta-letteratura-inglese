@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Cymbeline — Act V, Scene 5 — monologue (GIACOMO) [15]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
 </nav>

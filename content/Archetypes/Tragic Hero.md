@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Tragic Hero
-
 *Archetype* — appears in **19** work(s).
 
 ## Works

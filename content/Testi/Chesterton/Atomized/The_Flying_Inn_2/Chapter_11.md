@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 10
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)-(2)">The Flying Inn 2</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn_2/Chapter_10">‹ Chapter 10</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn_2/Chapter_12">Chapter 12 ›</a></div>

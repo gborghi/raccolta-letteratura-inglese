@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Damsel
-
 *Archetype* — appears in **2** work(s).
 
 ## Works

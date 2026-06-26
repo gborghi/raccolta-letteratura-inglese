@@ -18,8 +18,6 @@ tags:
   - topos/inexpressibility
 ---
 
-# Sonnet 17
-
 *by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -34,19 +32,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Who will believe my verse in time to come 
-If it were filled with your most high deserts?—
-Though yet, heaven knows, it is but as a tomb 
-Which hides your life, and shows not half your parts. 
-If I could write the beauty of your eyes 
-And in fresh numbers number all your graces, 
-The age to come would say ‘This poet lies; 
-Such heavenly touches ne’er touched earthly faces.’ 
-So should my papers, yellowed with their age, 
-Be scorned, like old men of less truth than tongue, 
-And your true rights be termed a poet’s rage 
-And stretched metre of an antique song.
+Who will believe my verse in time to come  
+If it were filled with your most high deserts?—  
+Though yet, heaven knows, it is but as a tomb  
+Which hides your life, and shows not half your parts.  
+If I could write the beauty of your eyes  
+And in fresh numbers number all your graces,  
+The age to come would say ‘This poet lies;  
+Such heavenly touches ne’er touched earthly faces.’  
+So should my papers, yellowed with their age,  
+Be scorned, like old men of less truth than tongue,  
+And your true rights be termed a poet’s rage  
+And stretched metre of an antique song.  
 
-But were some child of yours alive that time,
+But were some child of yours alive that time,  
 
-You should live twice: in it, and in my rhyme.
+You should live twice: in it, and in my rhyme.  

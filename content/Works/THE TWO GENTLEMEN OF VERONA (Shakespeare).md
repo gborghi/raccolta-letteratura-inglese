@@ -38,8 +38,6 @@ tags:
   - character/thurio
 ---
 
-# THE TWO GENTLEMEN OF VERONA
-
 *by Shakespeare*  ·  **Cluster:** [[Verona]]
 
 > [!abstract] 

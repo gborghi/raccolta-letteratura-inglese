@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Despair
-
 *Theme/Concept* — appears in **10** work(s).
 
 ## Works

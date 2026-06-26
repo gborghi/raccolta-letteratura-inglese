@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Grace and Redemption
-
 *Theme/Concept* — appears in **181** work(s).
 
 ## Works

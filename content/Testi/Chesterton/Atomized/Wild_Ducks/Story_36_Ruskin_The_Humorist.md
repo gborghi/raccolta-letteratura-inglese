@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — Ruskin:  The Humorist
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_35_ON_LITERATURE">‹ Story 35 ON LITERATURE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_37_Literature_of_Information">Story 37 Literature of Information ›</a></div>

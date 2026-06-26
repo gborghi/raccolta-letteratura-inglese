@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Our Mutual Friend — Book 2: BIRDS OF A FEATHER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_01_THE_CUP_AND_THE_LIP">‹ Chapter 01 THE CUP AND THE LIP</a><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_03_A_LONG_LANE">Chapter 03 A LONG LANE ›</a></div>

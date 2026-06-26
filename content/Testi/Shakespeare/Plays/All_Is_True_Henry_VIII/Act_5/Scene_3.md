@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# All Is True (Henry VIII) — Act V, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL-IS-TRUE---(HENRY-VIII)-(Shakespeare)">All Is True Henry VIII</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/All_Is_True_Henry_VIII/Act_5/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/All_Is_True_Henry_VIII/Act_5/Scene_4">Scene 4 ›</a></div>

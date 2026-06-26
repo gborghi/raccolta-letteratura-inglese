@@ -14,8 +14,6 @@ tags:
   - concept/identity
 ---
 
-# WRITTEN IN AN ALBUM
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,9 +27,9 @@ tags:
 
 ## Testo integrale / Full text
 
-Parry seeks the Polar ridge,
-Rhymes seeks S. T. Coleridge,
-Author of Works, whereof — tho’ not in Dutch —
-The public little knows — the publisher too much.
-First published in 1834.
-TO A LADY WHO REQUESTED ME TO WRITE A
+Parry seeks the Polar ridge,  
+Rhymes seeks S. T. Coleridge,  
+Author of Works, whereof — tho’ not in Dutch —  
+The public little knows — the publisher too much.  
+First published in 1834.  
+TO A LADY WHO REQUESTED ME TO WRITE A  

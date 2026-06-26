@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Professor — Chapter 6 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Professor/Chapter_06/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_07/part_02">part 02 ›</a></div>

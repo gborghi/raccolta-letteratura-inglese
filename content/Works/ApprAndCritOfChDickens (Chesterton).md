@@ -19,8 +19,6 @@ tags:
   - motif/the_city
 ---
 
-# ApprAndCritOfChDickens
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Divorce Democracy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Divorce-Democracy-(Chesterton)">Divorce Democracy</a></div>
 </nav>

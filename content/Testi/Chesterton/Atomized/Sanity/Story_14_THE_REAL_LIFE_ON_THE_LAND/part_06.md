@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE REAL LIFE ON THE LAND (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_14_THE_REAL_LIFE_ON_THE_LAND/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_14_THE_REAL_LIFE_ON_THE_LAND/part_07">part 07 ›</a></div>

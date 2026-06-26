@@ -14,8 +14,6 @@ tags:
   - concept/spiritual_emptiness
 ---
 
-# A, B, C
-
 *by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -29,21 +27,21 @@ tags:
 
 ## Testo integrale / Full text
 
-INDEX OF FIRST LINES OF POEMS
-‘A cold coming we had of it  1
-A man’s destination is his own village 1
-Among a crowd of tenuous dreams, unknown 1
-Among the smoke and fog of a December afternoon 1
-Apeneck Sweeney spreads his knees 1
-April is the cruellest month, breeding 1
-Around her fountain which flows 1
+INDEX OF FIRST LINES OF POEMS  
+‘A cold coming we had of it  1  
+A man’s destination is his own village 1  
+Among a crowd of tenuous dreams, unknown 1  
+Among the smoke and fog of a December afternoon 1  
+Apeneck Sweeney spreads his knees 1  
+April is the cruellest month, breeding 1  
+Around her fountain which flows 1  
 
-Because I do not hope to turn again 1
-Burbank crossed a little bridge 1
-Bustopher Jones is not skin and bones 1
+Because I do not hope to turn again 1  
+Burbank crossed a little bridge 1  
+Bustopher Jones is not skin and bones 1  
 
-Children’s voices in the orchard 1
-Come under the shadow of this gray rock 1
+Children’s voices in the orchard 1  
+Come under the shadow of this gray rock 1  
 
-En Amérique, professeur 1
-Eyes that last I saw in tears 1
+En Amérique, professeur 1  
+Eyes that last I saw in tears 1  

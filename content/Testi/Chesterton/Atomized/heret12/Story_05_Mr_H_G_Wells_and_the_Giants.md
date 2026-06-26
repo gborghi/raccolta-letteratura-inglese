@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Mr. H. G. Wells and the Giants
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_04_Mr_Bernard_Shaw">‹ Story 04 Mr Bernard Shaw</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_06_Omar_and_the_Sacred_Vine">Story 06 Omar and the Sacred Vine ›</a></div>

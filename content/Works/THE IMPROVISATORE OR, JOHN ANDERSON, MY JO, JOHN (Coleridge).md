@@ -16,8 +16,6 @@ tags:
   - concept/sin_and_the_fall
 ---
 
-# THE IMPROVISATORE OR, JOHN ANDERSON, MY JO, JOHN
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 

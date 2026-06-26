@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Narrative Poem
-
 *Form/Genre* — appears in **50** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Pericles — Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_4">Scene 4 ›</a></div>

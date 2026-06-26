@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Essay
-
 *Form/Genre* — appears in **136** work(s).
 
 ## Works

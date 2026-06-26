@@ -15,8 +15,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# Thoughts
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -31,15 +29,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Of ownership--as if one fit to own things could not at pleasure enter
-      upon all, and incorporate them into himself or herself;
-  Of vista--suppose some sight in arriere through the formative chaos,
-      presuming the growth, fulness, life, now attain’d on the journey,
-  (But I see the road continued, and the journey ever continued;)
-  Of what was once lacking on earth, and in due time has become
-      supplied--and of what will yet be supplied,
-  Because all I see and know I believe to have its main purport in
-      what will yet be supplied.
+  Of ownership--as if one fit to own things could not at pleasure enter  
+      upon all, and incorporate them into himself or herself;  
+  Of vista--suppose some sight in arriere through the formative chaos,  
+      presuming the growth, fulness, life, now attain’d on the journey,  
+  (But I see the road continued, and the journey ever continued;)  
+  Of what was once lacking on earth, and in due time has become  
+      supplied--and of what will yet be supplied,  
+  Because all I see and know I believe to have its main purport in  
+      what will yet be supplied.  

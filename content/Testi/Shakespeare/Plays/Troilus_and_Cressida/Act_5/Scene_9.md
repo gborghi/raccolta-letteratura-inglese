@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Troilus and Cressida — Act V, Scene 9
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_5/Scene_8">‹ Scene 8</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_5/Scene_10">Scene 10 ›</a></div>

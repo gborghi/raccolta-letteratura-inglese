@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 21: LITTLE EM’LY (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_21_LITTLE_EMLY/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_01">part 01 ›</a></div>

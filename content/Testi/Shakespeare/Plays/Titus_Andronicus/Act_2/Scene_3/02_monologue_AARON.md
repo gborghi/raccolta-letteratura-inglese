@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Titus Andronicus — Act II, Scene 3 — monologue (AARON) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
 </nav>

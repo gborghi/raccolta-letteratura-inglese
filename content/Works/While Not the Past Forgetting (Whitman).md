@@ -17,8 +17,6 @@ tags:
   - form/elegy
 ---
 
-# While Not the Past Forgetting
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -33,12 +31,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  While not the past forgetting,
-  To-day, at least, contention sunk entire--peace, brotherhood uprisen;
-  For sign reciprocal our Northern, Southern hands,
-  Lay on the graves of all dead soldiers, North or South,
-  (Nor for the past alone--for meanings to the future,)
-  Wreaths of roses and branches of palm.
+  While not the past forgetting,  
+  To-day, at least, contention sunk entire--peace, brotherhood uprisen;  
+  For sign reciprocal our Northern, Southern hands,  
+  Lay on the graves of all dead soldiers, North or South,  
+  (Nor for the past alone--for meanings to the future,)  
+  Wreaths of roses and branches of palm.  

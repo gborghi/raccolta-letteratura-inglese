@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 4: A Letter from Little Dorrit
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_43_On_the_Road">‹ Chapter 43 On the Road</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_45_Something_Wrong_Somewhere">Chapter 45 Something Wrong Somewhere ›</a></div>

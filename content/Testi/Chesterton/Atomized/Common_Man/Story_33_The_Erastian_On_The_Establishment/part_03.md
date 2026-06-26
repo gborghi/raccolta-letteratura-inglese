@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Erastian On The Establishment (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_33_The_Erastian_On_The_Establishment/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_33_The_Erastian_On_The_Establishment/part_04">part 04 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Titus Andronicus — Act III, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TITUS-ANDRONICUS-(Shakespeare)">Titus Andronicus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Titus_Andronicus/Act_3/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Titus_Andronicus/Act_4/Scene_1">Scene 1 ›</a></div>

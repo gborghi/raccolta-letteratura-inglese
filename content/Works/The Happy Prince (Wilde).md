@@ -37,8 +37,6 @@ tags:
   - character/christ
 ---
 
-# The Happy Prince
-
 *by Wilde*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

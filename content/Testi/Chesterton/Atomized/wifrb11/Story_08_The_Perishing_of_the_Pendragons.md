@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Perishing of the Pendragons
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_07_The_Purple_Wig">‹ Story 07 The Purple Wig</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_09_The_God_of_the_Gongs">Story 09 The God of the Gongs ›</a></div>

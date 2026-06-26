@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# O Tan-Faced Prairie-Boy
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  O tan-faced prairie-boy,
-  Before you came to camp came many a welcome gift,
-  Praises and presents came and nourishing food, till at last among
-      the recruits,
-  You came, taciturn, with nothing to give--we but look’d on each other,
-  When lo! more than all the gifts of the world you gave me.
+  O tan-faced prairie-boy,  
+  Before you came to camp came many a welcome gift,  
+  Praises and presents came and nourishing food, till at last among  
+      the recruits,  
+  You came, taciturn, with nothing to give--we but look’d on each other,  
+  When lo! more than all the gifts of the world you gave me.  

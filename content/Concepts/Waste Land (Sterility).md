@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Waste Land (Sterility)
-
 *Theme/Concept* — appears in **11** work(s).
 
 ## Works

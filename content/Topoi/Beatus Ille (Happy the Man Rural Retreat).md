@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Beatus Ille (Happy the Man / Rural Retreat)
-
 *Topos* — appears in **15** work(s).
 
 ## Works

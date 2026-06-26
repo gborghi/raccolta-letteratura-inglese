@@ -20,8 +20,6 @@ tags:
   - histref/christianity
 ---
 
-# prayer
-
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -37,30 +35,30 @@ tags:
 
 ## Testo integrale / Full text
 
-A Prayer in Darkness
+A Prayer in Darkness  
 
-			   G.K.Chesterton
+			   G.K.Chesterton  
 
-This much, O heaven--if I should brood or rave,
-  Pity me not; but let the world be fed,
-  Yea, in my madness if I strike me dead,
-Heed you the grass that grows upon my grave.
+This much, O heaven--if I should brood or rave,  
+  Pity me not; but let the world be fed,  
+  Yea, in my madness if I strike me dead,  
+Heed you the grass that grows upon my grave.  
 
-If I dare snarl between this sun and sod,
-  Whimper and clamour, give me grace to own,
-  In sun and rain and fruit in season shown,
-The shining silence of the scorn of God.
+If I dare snarl between this sun and sod,  
+  Whimper and clamour, give me grace to own,  
+  In sun and rain and fruit in season shown,  
+The shining silence of the scorn of God.  
 
-Thank God the stars are set beyond my power,
-  If I must travail in a night of wrath,
-  Thank God my tears will never vex a moth,
-Nor any curse of mine cut down a flower.
+Thank God the stars are set beyond my power,  
+  If I must travail in a night of wrath,  
+  Thank God my tears will never vex a moth,  
+Nor any curse of mine cut down a flower.  
 
-Men say the sun was darkened: yet I had
-  Thought it beat brightly, even on--Calvary:
-  And He that hung upon the Torturing Tree
-Heard all the crickets singing, and was glad.
+Men say the sun was darkened: yet I had  
+  Thought it beat brightly, even on--Calvary:  
+  And He that hung upon the Torturing Tree  
+Heard all the crickets singing, and was glad.  
 
 
 
-===== FINE FILE: prayer.txt =====
+===== FINE FILE: prayer.txt =====  

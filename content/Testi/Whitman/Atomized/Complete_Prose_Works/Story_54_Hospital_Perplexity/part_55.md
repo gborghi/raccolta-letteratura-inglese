@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Hospital Perplexity (part 55)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_54_Hospital_Perplexity/part_54">‹ part 54</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_54_Hospital_Perplexity/part_56">part 56 ›</a></div>

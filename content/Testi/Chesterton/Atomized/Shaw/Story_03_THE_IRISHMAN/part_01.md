@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE IRISHMAN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES">‹ Story 09 THE LATER PHASES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN/part_02">part 02 ›</a></div>

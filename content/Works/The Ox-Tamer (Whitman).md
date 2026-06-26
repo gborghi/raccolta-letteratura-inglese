@@ -14,8 +14,6 @@ tags:
   - motif/nature
 ---
 
-# The Ox-Tamer
-
 *by Whitman*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 

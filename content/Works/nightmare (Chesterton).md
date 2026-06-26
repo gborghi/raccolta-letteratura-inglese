@@ -18,8 +18,6 @@ tags:
   - form/essay
 ---
 
-# nightmare
-
 *by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

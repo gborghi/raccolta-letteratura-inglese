@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# Orange Buds by Mail from Florida
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -32,13 +30,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  A lesser proof than old Voltaire’s, yet greater,
-  Proof of this present time, and thee, thy broad expanse, America,
-  To my plain Northern hut, in outside clouds and snow,
-  Brought safely for a thousand miles o’er land and tide,
-  Some three days since on their own soil live-sprouting,
-  Now here their sweetness through my room unfolding,
-  A bunch of orange buds by mall from Florida.
+  A lesser proof than old Voltaire’s, yet greater,  
+  Proof of this present time, and thee, thy broad expanse, America,  
+  To my plain Northern hut, in outside clouds and snow,  
+  Brought safely for a thousand miles o’er land and tide,  
+  Some three days since on their own soil live-sprouting,  
+  Now here their sweetness through my room unfolding,  
+  A bunch of orange buds by mall from Florida.  

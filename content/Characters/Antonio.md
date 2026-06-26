@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Antonio
-
 *Character* — appears in **2** work(s).
 
 ## Works

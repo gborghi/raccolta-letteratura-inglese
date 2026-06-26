@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Taming of the Shrew — Act I, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_1/Scene_2">Scene 2 ›</a></div>

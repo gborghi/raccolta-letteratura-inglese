@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Vincentio the Duke
-
 *Character* — appears in **1** work(s).
 
 ## Works

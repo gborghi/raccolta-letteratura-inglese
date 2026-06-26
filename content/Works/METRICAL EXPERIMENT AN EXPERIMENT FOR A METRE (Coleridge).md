@@ -15,8 +15,6 @@ tags:
   - motif/stars
 ---
 
-# METRICAL EXPERIMENT: AN EXPERIMENT FOR A METRE
-
 *by Coleridge*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-I heard a voice pealing loud triumph to-day:
-The voice of the Triumph, O Freedom, was thine!
-Sumptuous Tyranny challeng’d the fray,
-‘Drunk with Idolatry, drunk with wine.’
-Whose could the Triumph be Freedom but thine?
-Stars of the Heaven shine to feed thee;
-Hush’d are the Whirl-blasts and heed thee; —
-By her depth, by her height, Nature swears thou art mine!
+I heard a voice pealing loud triumph to-day:  
+The voice of the Triumph, O Freedom, was thine!  
+Sumptuous Tyranny challeng’d the fray,  
+‘Drunk with Idolatry, drunk with wine.’  
+Whose could the Triumph be Freedom but thine?  
+Stars of the Heaven shine to feed thee;  
+Hush’d are the Whirl-blasts and heed thee; —  
+By her depth, by her height, Nature swears thou art mine!  
 1. Amphibrach tetrameter catalectic Ø ¯ Ø | Ø ¯ Ø | Ø ¯ Ø | Ø ¯
 2. Ditto.
 3. Three pseudo amphimacers, and one long syllable.

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Mercy
-
 *Theme/Concept* — appears in **27** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Omar and the Sacred Vine (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_05_Mr_H_G_Wells_and_the_Giants/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_06_Omar_and_the_Sacred_Vine/part_02">part 02 ›</a></div>

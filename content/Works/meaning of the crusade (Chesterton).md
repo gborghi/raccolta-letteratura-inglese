@@ -24,8 +24,6 @@ tags:
   - histref/the_french_revolution
 ---
 
-# meaning of the crusade
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

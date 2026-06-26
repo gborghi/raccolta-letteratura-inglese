@@ -15,8 +15,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# On Lying In Bed
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

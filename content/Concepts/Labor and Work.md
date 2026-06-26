@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Labor and Work
-
 *Theme/Concept* — appears in **7** work(s).
 
 ## Works

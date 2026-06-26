@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 1: Fellow Travellers (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_41_Fellow_Travellers/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_43_On_the_Road/part_01">part 01 ›</a></div>

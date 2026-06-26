@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# London
-
 *Setting* — appears in **58** work(s).
 
 ## Works

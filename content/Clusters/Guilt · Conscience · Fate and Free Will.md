@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Guilt · Conscience · Fate and Free Will
-
 *Cluster* — **12 works**.
 
 ## Defining concepts

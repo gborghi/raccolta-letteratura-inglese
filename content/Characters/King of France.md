@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# King of France
-
 *Character* — appears in **1** work(s).
 
 ## Works

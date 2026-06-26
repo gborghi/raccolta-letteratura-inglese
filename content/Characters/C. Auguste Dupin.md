@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# C. Auguste Dupin
-
 *Character* — appears in **3** work(s).
 
 ## Works

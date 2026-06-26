@@ -16,8 +16,6 @@ tags:
   - form/elegy
 ---
 
-# The Dead Emperor
-
 *by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -33,10 +31,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  To-day, with bending head and eyes, thou, too, Columbia,
-  Less for the mighty crown laid low in sorrow--less for the Emperor,
-  Thy true condolence breathest, sendest out o’er many a salt sea mile,
-  Mourning a good old man--a faithful shepherd, patriot.
+  To-day, with bending head and eyes, thou, too, Columbia,  
+  Less for the mighty crown laid low in sorrow--less for the Emperor,  
+  Thy true condolence breathest, sendest out o’er many a salt sea mile,  
+  Mourning a good old man--a faithful shepherd, patriot.  

@@ -13,8 +13,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# P, Q, R
-
 *by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -27,12 +25,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Paint me a cavernous waste shore 1
-Pipit sate upright in her chair 1
-Polyphiloprogenitive 1
+Paint me a cavernous waste shore 1  
+Pipit sate upright in her chair 1  
+Polyphiloprogenitive 1  
 
-Romeo, grand sérieux, to importune 1
+Romeo, grand sérieux, to importune 1  
 
-Standing upon the shore of all we know 1
-Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1
-Sunday: this satisfied procession 1
+Standing upon the shore of all we know 1  
+Stone, bronze, stone, steel, stone, oakleaves, horses’ heels 1  
+Sunday: this satisfied procession 1  

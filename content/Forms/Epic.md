@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Epic
-
 *Form/Genre* — appears in **6** work(s).
 
 ## Works

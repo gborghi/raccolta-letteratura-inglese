@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mystification (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mystification-(Poe)">Mystification</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Mystification/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/Mystification/part/part_03">part 03 ›</a></div>

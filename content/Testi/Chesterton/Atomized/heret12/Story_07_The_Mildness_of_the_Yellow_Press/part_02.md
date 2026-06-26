@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — The Mildness of the Yellow Press (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_07_The_Mildness_of_the_Yellow_Press/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_07_The_Mildness_of_the_Yellow_Press/part_03">part 03 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 8: STRONGLY ILLUSTRATIVE OF THE POSITION, THAT THE COURSE OF (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_09_STRONGLY_ILLUSTRATIVE_OF_THE_P/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_09_STRONGLY_ILLUSTRATIVE_OF_THE_P/part_04">part 04 ›</a></div>

@@ -30,8 +30,6 @@ tags:
   - setting/a_ship
 ---
 
-# Ms. Found in a Bottle
-
 *by Poe*  ·  **Cluster:** [[Night Journey Vision · Katabasis Descent · Quest Hero]]
 
 > [!abstract] 

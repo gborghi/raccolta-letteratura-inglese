@@ -29,8 +29,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# aquinas
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

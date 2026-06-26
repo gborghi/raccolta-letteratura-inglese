@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE OTHER KIND OF MAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_31_THE_MAN_ON_TOP">‹ Story 31 THE MAN ON TOP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_33_THE_MEDIAEVAL_VILLAIN">Story 33 THE MEDIAEVAL VILLAIN ›</a></div>

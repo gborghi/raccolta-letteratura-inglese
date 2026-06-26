@@ -15,8 +15,6 @@ tags:
   - motif/sun
 ---
 
-# TO LORD STANHOPE
-
 *by Coleridge*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -30,21 +28,21 @@ tags:
 
 ## Testo integrale / Full text
 
-ON READING HIS LATE PROTEST IN THE HOUSE OF LORDS
-‘MORNING CHRONICLE,’ JAN. 31, 1795
-STANHOPE! I hail, with ardent Hymn, thy name!
-Thou shalt be bless’d and lov’d, when in the dust
-Thy corse shall moulder — Patriot pure and just!
-And o’er thy tomb the grateful hand of FAME
-Shall grave:—’Here sleeps the Friend of Humankind!’   5
-For thou, untainted by CORRUPTION’S bowl,
-Or foul AMBITION, with undaunted soul
-Hast spoke the language of a Free-born mind
-Pleading the cause of Nature! Still pursue
-Thy path of Honour! — To thy Country true,   10
-Still watch th’ expiring flame of Liberty!
-O Patriot! still pursue thy virtuous way,
-As holds his course the splendid Orb of Day,
-Or thro’ the stormy or the tranquil sky!
-ONE OF THE PEOPLE.
-1795.
+ON READING HIS LATE PROTEST IN THE HOUSE OF LORDS  
+‘MORNING CHRONICLE,’ JAN. 31, 1795  
+STANHOPE! I hail, with ardent Hymn, thy name!  
+Thou shalt be bless’d and lov’d, when in the dust  
+Thy corse shall moulder — Patriot pure and just!  
+And o’er thy tomb the grateful hand of FAME  
+Shall grave:—’Here sleeps the Friend of Humankind!’   5  
+For thou, untainted by CORRUPTION’S bowl,  
+Or foul AMBITION, with undaunted soul  
+Hast spoke the language of a Free-born mind  
+Pleading the cause of Nature! Still pursue  
+Thy path of Honour! — To thy Country true,   10  
+Still watch th’ expiring flame of Liberty!  
+O Patriot! still pursue thy virtuous way,  
+As holds his course the splendid Orb of Day,  
+Or thro’ the stormy or the tranquil sky!  
+ONE OF THE PEOPLE.  
+1795.  

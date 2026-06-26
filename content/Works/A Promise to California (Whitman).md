@@ -14,8 +14,6 @@ tags:
   - motif/the_sea
 ---
 
-# A Promise to California
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

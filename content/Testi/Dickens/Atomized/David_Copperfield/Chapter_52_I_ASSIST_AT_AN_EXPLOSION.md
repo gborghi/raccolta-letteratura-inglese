@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 52: I ASSIST AT AN EXPLOSION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_51_THE_BEGINNING_OF_A_LONGER_JOUR">‹ Chapter 51 THE BEGINNING OF A LONGER JOUR</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_53_ANOTHER_RETROSPECT">Chapter 53 ANOTHER RETROSPECT ›</a></div>

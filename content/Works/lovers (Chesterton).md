@@ -18,8 +18,6 @@ tags:
   - motif/madness
 ---
 
-# lovers
-
 *by Chesterton*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

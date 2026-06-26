@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Blood
-
 *Motif* — appears in **110** work(s).
 
 ## Works

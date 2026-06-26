@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Spenserian Stanza
-
 *Form/Genre* — appears in **7** work(s).
 
 ## Works

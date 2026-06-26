@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Medieval Romance
-
 *Form/Genre* — appears in **6** work(s).
 
 ## Works

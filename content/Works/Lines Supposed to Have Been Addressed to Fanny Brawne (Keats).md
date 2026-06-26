@@ -17,8 +17,6 @@ tags:
   - motif/ghosts
 ---
 
-# Lines Supposed to Have Been Addressed to Fanny Brawne
-
 *by Keats*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -33,11 +31,11 @@ tags:
 
 ## Testo integrale / Full text
 
-This living hand, now warm and capable
-Of earnest grasping, would, if it were cold
-And in the icy silence of the tomb,
-So haunt thy days and chill thy dreaming nights
-That thou wouldst wish thine own heart dry of blood
-So in my veins red life might stream again,
-And thou be conscience-calm’d - see here it is -
-I hold it towards you.
+This living hand, now warm and capable  
+Of earnest grasping, would, if it were cold  
+And in the icy silence of the tomb,  
+So haunt thy days and chill thy dreaming nights  
+That thou wouldst wish thine own heart dry of blood  
+So in my veins red life might stream again,  
+And thou be conscience-calm’d - see here it is -  
+I hold it towards you.  

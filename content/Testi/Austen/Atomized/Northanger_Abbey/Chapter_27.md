@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Northanger Abbey — Chapter 26
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_26">‹ Chapter 26</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_28">Chapter 28 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act V, Scene 1 — exchange (OLIVIA) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 </nav>

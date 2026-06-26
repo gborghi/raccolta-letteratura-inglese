@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Wounded from Chancellorsville
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_33_A_Secesh_Brave">‹ Story 33 A Secesh Brave</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_35_A_Night_Battle_over_a_Week_Since">Story 35 A Night Battle over a Week Since ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Pericles — Scene 21
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_20">‹ Scene 20</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_22">Scene 22 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 2 Henry IV — Act V, Scene 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/2-HENRY-IV-(Shakespeare)">2 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/2_Henry_IV/Act_5/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/2_Henry_IV/Act_5/Scene_5">Scene 5 ›</a></div>

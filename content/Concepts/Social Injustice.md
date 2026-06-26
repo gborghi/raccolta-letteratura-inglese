@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Social Injustice
-
 *Theme/Concept* — appears in **73** work(s).
 
 ## Works

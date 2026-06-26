@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The System of Doctor Tarr and Professor Fether
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-System-of-Doctor-Tarr-and-Professor-Fether-(Poe)">The System of Doctor Tarr and Professor Fether</a></div>
 </nav>

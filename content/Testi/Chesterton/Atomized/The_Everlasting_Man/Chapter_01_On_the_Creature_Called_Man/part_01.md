@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Everlasting Man — Part 1: On the Creature Called Man (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Everlasting-Man-(Chesterton)">The Everlasting Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_02_On_the_Man_Called_Christ">‹ Chapter 02 On the Man Called Christ</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Everlasting_Man/Chapter_01_On_the_Creature_Called_Man/part_02">part 02 ›</a></div>

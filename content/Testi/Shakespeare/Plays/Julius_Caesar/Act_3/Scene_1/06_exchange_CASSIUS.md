@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Julius Caesar — Act III, Scene 1 — exchange (CASSIUS) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
 </nav>

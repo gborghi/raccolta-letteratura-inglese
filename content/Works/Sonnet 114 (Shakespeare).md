@@ -17,8 +17,6 @@ tags:
   - motif/wine_and_drink
 ---
 
-# Sonnet 114
-
 *by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Or whether doth my mind, being crowned with you, 
-Drink up the monarch’s plague, this flattery, 
-Or whether shall I say mine eye saith true, 
-And that your love taught it this alchemy, 
-To make of monsters and things indigest 
-Such cherubins as your sweet self resemble, 
-Creating every bad a perfect best 
-As fast as objects to his beams assemble? 
-O, ‘tis the first, ’tis flatt‘ry in my seeing, 
-And my great mind most kingly drinks it up. 
-Mine eye well knows what with his gust is ’greeing, 
-And to his palate doth prepare the cup. 
-If it be poisoned, ’tis the lesser sin 
-That mine eye loves it and doth first begin.
+Or whether doth my mind, being crowned with you,  
+Drink up the monarch’s plague, this flattery,  
+Or whether shall I say mine eye saith true,  
+And that your love taught it this alchemy,  
+To make of monsters and things indigest  
+Such cherubins as your sweet self resemble,  
+Creating every bad a perfect best  
+As fast as objects to his beams assemble?  
+O, ‘tis the first, ’tis flatt‘ry in my seeing,  
+And my great mind most kingly drinks it up.  
+Mine eye well knows what with his gust is ’greeing,  
+And to his palate doth prepare the cup.  
+If it be poisoned, ’tis the lesser sin  
+That mine eye loves it and doth first begin.  

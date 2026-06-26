@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Common Man
-
 *Theme/Concept* — appears in **109** work(s).
 
 ## Works

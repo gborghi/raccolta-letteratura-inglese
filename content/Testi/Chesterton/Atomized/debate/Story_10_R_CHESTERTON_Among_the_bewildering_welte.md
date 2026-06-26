@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. CHESTERTON:  Among the bewildering welter of fallacies which
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_09_R_SHAW_I_cannot_say_that_Mr_Chesterton_h">‹ Story 09 R SHAW I cannot say that Mr Chesterton h</a><a class="ex-next" href="/Testi/Chesterton/Atomized/debate/Story_11_R_SHAW_I_now_want_to_ask_Mr_Chesterton_w">Story 11 R SHAW I now want to ask Mr Chesterton w ›</a></div>

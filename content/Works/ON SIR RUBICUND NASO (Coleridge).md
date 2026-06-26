@@ -14,8 +14,6 @@ tags:
   - motif/wine_and_drink
 ---
 
-# ON SIR RUBICUND NASO
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,9 +27,9 @@ tags:
 
 ## Testo integrale / Full text
 
-A COURT ALDERMAN AND WHISPERER OF SECRETS
-Speak out, Sir! you’re safe, for so ruddy your nose
-That, talk where you will, ‘tis all under the Rose.
-First published in Morning Post, Dec. 7, 1799. Included in Essays,
-&c., iii. 975. First collected Poems, 1907. Compare Lessing’s
-Sinngedicht No. 35. Auf eine lange Nase.
+A COURT ALDERMAN AND WHISPERER OF SECRETS  
+Speak out, Sir! you’re safe, for so ruddy your nose  
+That, talk where you will, ‘tis all under the Rose.  
+First published in Morning Post, Dec. 7, 1799. Included in Essays,  
+&c., iii. 975. First collected Poems, 1907. Compare Lessing’s  
+Sinngedicht No. 35. Auf eine lange Nase.  

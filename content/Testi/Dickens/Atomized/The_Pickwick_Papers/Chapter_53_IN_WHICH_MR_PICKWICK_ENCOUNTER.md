@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 51: IN WHICH MR. PICKWICK ENCOUNTERS AN OLD ACQUAINTANCE--TO
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_52_HOW_MR_PICKWICK_SPED_UPON_HIS">‹ Chapter 52 HOW MR PICKWICK SPED UPON HIS</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_54_INVOLVING_A_SERIOUS_CHANGE_IN">Chapter 54 INVOLVING A SERIOUS CHANGE IN ›</a></div>

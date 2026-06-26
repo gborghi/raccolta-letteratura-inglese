@@ -8,8 +8,6 @@ tags:
   - author/Coleridge
 ---
 
-# The Rime of the Ancient Mariner — Argument
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Coleridge · <a href="/Works/THE-RIME-OF-THE-ANCIENT-MARINER-(Coleridge)">The Rime of the Ancient Mariner</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Coleridge/Long/The_Rime_of_the_Ancient_Mariner/Section_01_part_i">Section 01 part i ›</a></div>

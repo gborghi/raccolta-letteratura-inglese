@@ -43,8 +43,6 @@ tags:
   - character/pompey
 ---
 
-# MEASURE FOR MEASURE
-
 *by Shakespeare*  ·  **Cluster:** [[Ottava Rima]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — THOUGHTS AROUND KOEPENICK
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_15_EDWARD_VII_AND_SCOTLAND">‹ Story 15 EDWARD VII AND SCOTLAND</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_17_THE_BOY">Story 17 THE BOY ›</a></div>

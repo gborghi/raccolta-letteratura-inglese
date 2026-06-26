@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Our Mutual Friend — Book 4: A TURNING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Our-Mutual-Friend-(Dickens)">Our Mutual Friend</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_58">‹ Chapter 58</a><a class="ex-next" href="/Testi/Dickens/Atomized/Our_Mutual_Friend/Chapter_60">Chapter 60 ›</a></div>

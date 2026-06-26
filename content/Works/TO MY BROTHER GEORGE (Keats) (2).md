@@ -14,8 +14,6 @@ tags:
   - concept/wonder_and_gratitude
 ---
 
-# TO MY BROTHER GEORGE
-
 *by Keats*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Many the wonders I this day have seen:
-  The sun, when first he kist away the tears
-  That fill’d the eyes of morn; — the laurel’d peers
-Who from the feathery gold of evening lean: —
-The ocean with its vastness, its blue green,
-  Its ships, its rocks, its caves, its hopes, its fears, —
-  Its voice mysterious, which whoso hears
-Must think on what will be, and what has been.
-E’en now, dear George, while this for you I write,
-  Cynthia is from her silken curtains peeping
-So scantly, that it seems her bridal night,
-  And she her half-discover’d revels keeping.
-But what, without the social thought of thee,
-Would be the wonders of the sky and sea?
+Many the wonders I this day have seen:  
+  The sun, when first he kist away the tears  
+  That fill’d the eyes of morn; — the laurel’d peers  
+Who from the feathery gold of evening lean: —  
+The ocean with its vastness, its blue green,  
+  Its ships, its rocks, its caves, its hopes, its fears, —  
+  Its voice mysterious, which whoso hears  
+Must think on what will be, and what has been.  
+E’en now, dear George, while this for you I write,  
+  Cynthia is from her silken curtains peeping  
+So scantly, that it seems her bridal night,  
+  And she her half-discover’d revels keeping.  
+But what, without the social thought of thee,  
+Would be the wonders of the sky and sea?  

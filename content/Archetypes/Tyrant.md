@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Tyrant
-
 *Archetype* — appears in **39** work(s).
 
 ## Works

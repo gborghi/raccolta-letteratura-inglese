@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Problem Play
-
 *Form/Genre* — appears in **3** work(s).
 
 ## Works

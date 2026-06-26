@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 4: I FALL INTO DISGRACE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_03_I_HAVE_A_CHANGE/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE/part_02">part 02 ›</a></div>

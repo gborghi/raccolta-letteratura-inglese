@@ -13,8 +13,6 @@ tags:
   - motif/music_and_song
 ---
 
-# Sometimes with One I Love
-
 *by Whitman*  ·  **Cluster:** [[Unrequited Frustrated Love · Unattainable Beloved · Petrarchan Sonnet]]
 
 > [!abstract] 

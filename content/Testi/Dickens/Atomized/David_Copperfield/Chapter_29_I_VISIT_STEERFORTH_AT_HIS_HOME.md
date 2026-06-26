@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 29: I VISIT STEERFORTH AT HIS HOME, AGAIN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET">‹ Chapter 28 Mr MICAWBERS GAUNTLET</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_30_A_LOSS">Chapter 30 A LOSS ›</a></div>

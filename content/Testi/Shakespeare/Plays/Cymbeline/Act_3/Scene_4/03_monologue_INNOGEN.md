@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Cymbeline — Act III, Scene 4 — monologue (INNOGEN) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
 </nav>

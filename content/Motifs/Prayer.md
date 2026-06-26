@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Prayer
-
 *Motif* — appears in **3** work(s).
 
 ## Works

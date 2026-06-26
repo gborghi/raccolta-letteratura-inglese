@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# New Jerusalem — Chapter 9 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/New-Jerusalem-(Chesterton)">New Jerusalem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_09/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_09/part_05">part 05 ›</a></div>

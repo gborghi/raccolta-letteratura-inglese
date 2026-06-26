@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Tiresias
-
 *Character* — appears in **3** work(s).
 
 ## Works

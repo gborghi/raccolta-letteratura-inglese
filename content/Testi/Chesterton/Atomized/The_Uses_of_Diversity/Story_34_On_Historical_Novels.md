@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Uses of Diversity — On Historical Novels
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Uses-of-Diversity-(Chesterton)">The Uses of Diversity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_33_Stupidities">‹ Story 33 Stupidities</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Uses_of_Diversity/Story_35_On_Monsters">Story 35 On Monsters ›</a></div>

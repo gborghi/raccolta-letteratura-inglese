@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — The Lash for Labour
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_09_The_Evolution_of_the_Prison">‹ Story 09 The Evolution of the Prison</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism">Story 11 The Mask of Socialism ›</a></div>

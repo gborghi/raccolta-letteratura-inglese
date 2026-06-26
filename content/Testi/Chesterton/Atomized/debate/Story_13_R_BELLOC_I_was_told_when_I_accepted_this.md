@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# debate — R. BELLOC:  I was told when I accepted this onerous office
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/debate-(Chesterton)">debate</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/debate/Story_12_R_CHESTERTON_I_am_sure_Mr_Shaw_is_very_w">‹ Story 12 R CHESTERTON I am sure Mr Shaw is very w</a><span></span></div>

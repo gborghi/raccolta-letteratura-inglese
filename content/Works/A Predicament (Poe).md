@@ -23,8 +23,6 @@ tags:
   - form/short_story
 ---
 
-# A Predicament
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

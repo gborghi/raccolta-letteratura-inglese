@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Laughter
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_25_The_Strange_Talk_Of_Two_Victorians">‹ Story 25 The Strange Talk Of Two Victorians</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_27_Tales_From_Tolstoi">Story 27 Tales From Tolstoi ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# Vocalism
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

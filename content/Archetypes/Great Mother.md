@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Great Mother
-
 *Archetype* — appears in **32** work(s).
 
 ## Works

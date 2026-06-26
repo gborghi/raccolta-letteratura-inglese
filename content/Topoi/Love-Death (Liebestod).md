@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Love-Death (Liebestod)
-
 *Topos* — appears in **2** work(s).
 
 ## Works

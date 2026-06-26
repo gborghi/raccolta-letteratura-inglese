@@ -36,8 +36,6 @@ tags:
   - setting/a_garden
 ---
 
-# Scenes From "Politian"
-
 *by Poe*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

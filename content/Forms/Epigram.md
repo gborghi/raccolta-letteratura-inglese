@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Epigram
-
 *Form/Genre* — appears in **203** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Hound Of Heaven
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_20_Rabelaisian_Regrets">‹ Story 20 Rabelaisian Regrets</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_22_The_Frivolous_Man">Story 22 The Frivolous Man ›</a></div>

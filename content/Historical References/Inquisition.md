@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Inquisition
-
 *Historical reference* — appears in **1** work(s).
 
 ## Works

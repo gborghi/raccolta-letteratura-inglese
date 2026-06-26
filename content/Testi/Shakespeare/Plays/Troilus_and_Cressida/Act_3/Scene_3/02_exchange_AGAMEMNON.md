@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Troilus and Cressida — Act III, Scene 3 — exchange (AGAMEMNON) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 </nav>

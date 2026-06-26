@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Letters and Writing
-
 *Motif* — appears in **87** work(s).
 
 ## Works

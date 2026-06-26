@@ -21,8 +21,6 @@ tags:
   - character/william_wilson
 ---
 
-# William Wilson
-
 *by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 

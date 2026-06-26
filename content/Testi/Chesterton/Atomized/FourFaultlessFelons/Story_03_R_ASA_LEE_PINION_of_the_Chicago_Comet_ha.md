@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_02_PROLOGUE_OF_THE_PRESSMAN">‹ Story 02 PROLOGUE OF THE PRESSMAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_04_THE_MAN_WITH_THE_GREEN_UMBRELLA">Story 04 THE MAN WITH THE GREEN UMBRELLA ›</a></div>

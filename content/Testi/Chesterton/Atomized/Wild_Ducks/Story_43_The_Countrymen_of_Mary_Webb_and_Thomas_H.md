@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Countrymen of Mary Webb and Thomas Hardy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_42_Jane_Austen_s_Juvenilia">‹ Story 42 Jane Austen s Juvenilia</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_44_The_Words_of_Strong_Poetry">Story 44 The Words of Strong Poetry ›</a></div>

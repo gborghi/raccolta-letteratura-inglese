@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Ubi Sunt
-
 *Topos* — appears in **14** work(s).
 
 ## Works

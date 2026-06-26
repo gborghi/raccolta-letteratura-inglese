@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Hexameter Verse
-
 *Form/Genre* — appears in **4** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Voice of Shelley
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_39_A_Plea_for_Hasty_Journalism">‹ Story 39 A Plea for Hasty Journalism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_41_The_Great_Translation">Story 41 The Great Translation ›</a></div>

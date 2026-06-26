@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Orphan
-
 *Archetype* — appears in **13** work(s).
 
 ## Works

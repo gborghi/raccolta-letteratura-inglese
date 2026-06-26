@@ -15,8 +15,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# COLOGNE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -30,14 +28,14 @@ tags:
 
 ## Testo integrale / Full text
 
-In Köhln, a town of monks and bones,
-And pavements fang’d with murderous stones
-And rags, and hags, and hideous wenches;
-I counted two and seventy stenches,
-All well defined, and several stinks!   5
-Ye Nymphs that reign o’er sewers and sinks,
-The river Rhine, it is well known,
-Doth wash your city of Cologne;
-But tell me, Nymphs, what power divine
-Shall henceforth wash the river Rhine?   10
-1828.
+In Köhln, a town of monks and bones,  
+And pavements fang’d with murderous stones  
+And rags, and hags, and hideous wenches;  
+I counted two and seventy stenches,  
+All well defined, and several stinks!   5  
+Ye Nymphs that reign o’er sewers and sinks,  
+The river Rhine, it is well known,  
+Doth wash your city of Cologne;  
+But tell me, Nymphs, what power divine  
+Shall henceforth wash the river Rhine?   10  
+1828.  

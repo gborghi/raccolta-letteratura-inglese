@@ -15,8 +15,6 @@ tags:
   - concept/faith
 ---
 
-# SELF-KNOWLEDGE
-
 *by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -29,15 +27,15 @@ tags:
 
 ## Testo integrale / Full text
 
-E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.
-“½ö¸¹ Ãµ±ÅÄy½! — and is this the prime
-And heaven-sprung adage of the olden time! —
-Say, canst thou make thyself? — Learn first that trade; —
-Haply thou mayst know what thyself had made.
-What hast thou, Man, that thou dar’st call thine own? — 5
-What is there in thee, Man, that can be known? —
-Dark fluxion, all unfixable by thought,
-A phantom dim of past and future wrought,
-Vain sister of the worm, — life, death, soul, clod —
-Ignore thyself, and strive to know thy God!   10
-1832.
+E coelo descendit ³½ö¸¹ Ãµ±ÅÄy½. — JUVENAL, xi. 27.  
+“½ö¸¹ Ãµ±ÅÄy½! — and is this the prime  
+And heaven-sprung adage of the olden time! —  
+Say, canst thou make thyself? — Learn first that trade; —  
+Haply thou mayst know what thyself had made.  
+What hast thou, Man, that thou dar’st call thine own? — 5  
+What is there in thee, Man, that can be known? —  
+Dark fluxion, all unfixable by thought,  
+A phantom dim of past and future wrought,  
+Vain sister of the worm, — life, death, soul, clod —  
+Ignore thyself, and strive to know thy God!   10  
+1832.  

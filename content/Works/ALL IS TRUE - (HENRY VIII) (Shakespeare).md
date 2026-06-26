@@ -36,8 +36,6 @@ tags:
   - character/cranmer
 ---
 
-# ALL IS TRUE - (HENRY VIII)
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

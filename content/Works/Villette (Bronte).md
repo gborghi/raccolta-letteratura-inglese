@@ -40,8 +40,6 @@ tags:
   - character/mrs_bretton
 ---
 
-# Villette
-
 *by Bronte*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 

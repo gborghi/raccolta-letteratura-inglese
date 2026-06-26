@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Regan
-
 *Character* — appears in **2** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 17: SHOWING THAT AN ATTACK OF RHEUMATISM, IN SOME CASES, ACTS (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_18_TOO_FULL_OF_ADVENTURE_TO_BE_BR/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_19_SHOWING_THAT_AN_ATTACK_OF_RHEU/part_02">part 02 ›</a></div>

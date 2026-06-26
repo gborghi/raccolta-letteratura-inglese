@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# To --
-
 *by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-I heed not that my earthly lot
-         Hath-little of Earth in it—
-     That years of love have been forgot
-     In the hatred of a minute:—
-     I mourn not that the desolate
-         Are happier, sweet, than I,
-     But that you sorrow for my fate
-     Who am a passer-by.
+I heed not that my earthly lot  
+         Hath-little of Earth in it—  
+     That years of love have been forgot  
+     In the hatred of a minute:—  
+     I mourn not that the desolate  
+         Are happier, sweet, than I,  
+     But that you sorrow for my fate  
+     Who am a passer-by.  
 
-      1829.
+      1829.  

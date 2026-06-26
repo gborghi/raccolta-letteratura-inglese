@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE FREE MAN AND THE FORD CAR
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_18_THE_HOLIDAY_OF_THE_SLAVE">‹ Story 18 THE HOLIDAY OF THE SLAVE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_20_A_NOTE_ON_EMIGRATION">Story 20 A NOTE ON EMIGRATION ›</a></div>

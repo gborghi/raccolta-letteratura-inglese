@@ -20,8 +20,6 @@ tags:
   - setting/the_sea
 ---
 
-# ON REVISITING THE SEA-SHORE AFTER LONG ABSENCE, UNDER STRONG MEDICAL RECOMMENDATION NOT TO BATHE
-
 *by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -36,28 +34,28 @@ tags:
 
 ## Testo integrale / Full text
 
-God be with thee, gladsome Ocean!
-How gladly greet I thee once more!
-Ships and waves, and ceaseless motion,
-And men rejoicing on thy shore.
-Dissuading spake the mild Physician,    5
-‘Those briny waves for thee are Death!’
-But my soul fulfilled her mission,
-And lo! I breathe untroubled breath!
-Fashion’s pining sons and daughters,
-That seek the crowd they seem to fly,   10
-Trembling they approach thy waters;
-And what cares Nature, if they die?
-Me a thousand hopes and pleasures
-A thousand recollections bland,
-Thoughts sublime, and stately measures,   15
-Revisit on thy echoing strand:
-Dreams (the Soul herself forsaking),
-Tearful raptures, boyish mirth;
-Silent adorations, making
-A blessed shadow of this Earth!   20
-O ye hopes, that stir within me,
-Health comes with you from above!
-God is with me, God is in me!
-I cannot die, if Life be Love.
-August, 1801.
+God be with thee, gladsome Ocean!  
+How gladly greet I thee once more!  
+Ships and waves, and ceaseless motion,  
+And men rejoicing on thy shore.  
+Dissuading spake the mild Physician,    5  
+‘Those briny waves for thee are Death!’  
+But my soul fulfilled her mission,  
+And lo! I breathe untroubled breath!  
+Fashion’s pining sons and daughters,  
+That seek the crowd they seem to fly,   10  
+Trembling they approach thy waters;  
+And what cares Nature, if they die?  
+Me a thousand hopes and pleasures  
+A thousand recollections bland,  
+Thoughts sublime, and stately measures,   15  
+Revisit on thy echoing strand:  
+Dreams (the Soul herself forsaking),  
+Tearful raptures, boyish mirth;  
+Silent adorations, making  
+A blessed shadow of this Earth!   20  
+O ye hopes, that stir within me,  
+Health comes with you from above!  
+God is with me, God is in me!  
+I cannot die, if Life be Love.  
+August, 1801.  

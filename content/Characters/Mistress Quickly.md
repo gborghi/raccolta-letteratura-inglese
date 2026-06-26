@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mistress Quickly
-
 *Character* — appears in **3** work(s).
 
 ## Works

@@ -14,8 +14,6 @@ tags:
   - motif/wind
 ---
 
-# KEEN, FITFUL GUSTS ARE WHISP’RING HERE AND THERE
-
 *by Keats*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Keen, fitful gusts are whisp’ring here and there
-  Among the bushes half leafless, and dry;
-  The stars look very cold about the sky,
-And I have many miles on foot to fare.
-Yet feel I little of the cool bleak air,
-  Or of the dead leaves rustling drearily,
-  Or of those silver lamps that burn on high,
-Or of the distance from home’s pleasant lair:
-For I am brimfull of the friendliness
-  That in a little cottage I have found;
-Of fair-hair’d Milton’s eloquent distress,
-  And all his love for gentle Lycid drown’d;
-Of lovely Laura in her light green dress,
-  And faithful Petrarch gloriously crown’d.
+Keen, fitful gusts are whisp’ring here and there  
+  Among the bushes half leafless, and dry;  
+  The stars look very cold about the sky,  
+And I have many miles on foot to fare.  
+Yet feel I little of the cool bleak air,  
+  Or of the dead leaves rustling drearily,  
+  Or of those silver lamps that burn on high,  
+Or of the distance from home’s pleasant lair:  
+For I am brimfull of the friendliness  
+  That in a little cottage I have found;  
+Of fair-hair’d Milton’s eloquent distress,  
+  And all his love for gentle Lycid drown’d;  
+Of lovely Laura in her light green dress,  
+  And faithful Petrarch gloriously crown’d.  

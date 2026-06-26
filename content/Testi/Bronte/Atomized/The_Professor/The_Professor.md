@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Professor
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Barnaby Rudge — Chapter 29
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_28">‹ Chapter 28</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_30">Chapter 30 ›</a></div>

@@ -17,8 +17,6 @@ tags:
   - form/short_story
 ---
 
-# The Thousand-And-Second Tale of Scheherazade
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

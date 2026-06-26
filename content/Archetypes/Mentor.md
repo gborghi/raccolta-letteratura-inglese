@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Mentor
-
 *Archetype* — appears in **2** work(s).
 
 ## Works

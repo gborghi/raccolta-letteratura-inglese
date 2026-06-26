@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Francis
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_05_Pope_And_The_Art_Of_Satire">‹ Story 05 Pope And The Art Of Satire</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_07_Rostand">Story 07 Rostand ›</a></div>

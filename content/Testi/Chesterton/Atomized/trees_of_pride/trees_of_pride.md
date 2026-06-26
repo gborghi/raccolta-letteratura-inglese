@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# trees of pride
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
 </nav>

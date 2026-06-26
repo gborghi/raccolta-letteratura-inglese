@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The Green Man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_03_The_Blast_of_the_Book">‹ Story 03 The Blast of the Book</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_05_The_Pursuit_of_Mr_Blue">Story 05 The Pursuit of Mr Blue ›</a></div>

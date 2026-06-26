@@ -20,8 +20,6 @@ tags:
   - concept/kingship_and_legitimacy
 ---
 
-# I
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

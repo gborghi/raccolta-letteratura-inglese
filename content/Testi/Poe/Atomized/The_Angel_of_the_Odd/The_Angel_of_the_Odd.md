@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Angel of the Odd
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Angel-of-the-Odd-(Poe)">The Angel of the Odd</a></div>
 </nav>

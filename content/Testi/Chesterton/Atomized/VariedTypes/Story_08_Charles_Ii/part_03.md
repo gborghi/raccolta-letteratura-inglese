@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Charles Ii (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_08_Charles_Ii/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_09_Thomas_Carlyle/part_01">part 01 ›</a></div>

@@ -17,8 +17,6 @@ tags:
   - form/elegy
 ---
 
-# Death of General Grant
-
 *by Whitman*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 
@@ -35,15 +33,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  As one by one withdraw the lofty actors,
-  From that great play on history’s stage eterne,
-  That lurid, partial act of war and peace--of old and new contending,
-  Fought out through wrath, fears, dark dismays, and many a long suspense;
-  All past--and since, in countless graves receding, mellowing,
-  Victor’s and vanquish’d--Lincoln’s and Lee’s--now thou with them,
-  Man of the mighty days--and equal to the days!
-  Thou from the prairies!--tangled and many-vein’d and hard has been thy part,
-  To admiration has it been enacted!
+  As one by one withdraw the lofty actors,  
+  From that great play on history’s stage eterne,  
+  That lurid, partial act of war and peace--of old and new contending,  
+  Fought out through wrath, fears, dark dismays, and many a long suspense;  
+  All past--and since, in countless graves receding, mellowing,  
+  Victor’s and vanquish’d--Lincoln’s and Lee’s--now thou with them,  
+  Man of the mighty days--and equal to the days!  
+  Thou from the prairies!--tangled and many-vein’d and hard has been thy part,  
+  To admiration has it been enacted!  

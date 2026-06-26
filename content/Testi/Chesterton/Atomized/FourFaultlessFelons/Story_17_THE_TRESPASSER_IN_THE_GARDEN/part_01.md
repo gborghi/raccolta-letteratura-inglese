@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE TRESPASSER IN THE GARDEN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_16_THE_MAN_WITH_THE_BLACK_BAG/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN/part_02">part 02 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - concept/truth
 ---
 
-# A LIAR BY PROFESSION
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,13 +26,13 @@ tags:
 
 ## Testo integrale / Full text
 
-As Dick and I at Charing Cross were walking,
-Whom should we see on t’other side pass by
-But Informator with a stranger talking,
-So I exclaim’d, ‘Lord, what a lie!’
-Quoth Dick—’What, can you hear him?’
-‘Hear him! stuff!
-I saw him open his mouth — an’t that enough?’
-First published in An. Anth., 1800. First collected P. and D. W.,
-ii. 163. Adapted from Lessing’s Sinngedicht No. 142. Auf den Ley.
-‘Der gute Mann, den Ley beiseite dort gezogen!’
+As Dick and I at Charing Cross were walking,  
+Whom should we see on t’other side pass by  
+But Informator with a stranger talking,  
+So I exclaim’d, ‘Lord, what a lie!’  
+Quoth Dick—’What, can you hear him?’  
+‘Hear him! stuff!  
+I saw him open his mouth — an’t that enough?’  
+First published in An. Anth., 1800. First collected P. and D. W.,  
+ii. 163. Adapted from Lessing’s Sinngedicht No. 142. Auf den Ley.  
+‘Der gute Mann, den Ley beiseite dort gezogen!’  

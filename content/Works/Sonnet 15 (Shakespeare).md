@@ -19,8 +19,6 @@ tags:
   - motif/decay
 ---
 
-# Sonnet 15
-
 *by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -35,19 +33,19 @@ tags:
 
 ## Testo integrale / Full text
 
-When I consider every thing that grows 
-Holds in perfection but a little moment, 
-That this huge stage presenteth naught but shows 
-Whereon the stars in secret influence comment; 
-When I perceive that men as plants increase 
-Cheered and checked even by the selfsame sky; 
-Vaunt in their youthful sap, at height decrease, 
-And wear their brave state out of memory: 
-Then the conceit of this inconstant stay 
-Sets you most rich in youth before my sight, 
-Where wasteful time debateth with decay 
-To change your day of youth to sullied night;
+When I consider every thing that grows  
+Holds in perfection but a little moment,  
+That this huge stage presenteth naught but shows  
+Whereon the stars in secret influence comment;  
+When I perceive that men as plants increase  
+Cheered and checked even by the selfsame sky;  
+Vaunt in their youthful sap, at height decrease,  
+And wear their brave state out of memory:  
+Then the conceit of this inconstant stay  
+Sets you most rich in youth before my sight,  
+Where wasteful time debateth with decay  
+To change your day of youth to sullied night;  
 
-And all in war with time for love of you,
+And all in war with time for love of you,  
 
-As he takes from you, I engraft you new.
+As he takes from you, I engraft you new.  

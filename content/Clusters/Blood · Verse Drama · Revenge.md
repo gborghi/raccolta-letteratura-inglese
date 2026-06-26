@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Blood · Verse Drama · Revenge
-
 *Cluster* — **18 works**.
 
 ## Defining concepts

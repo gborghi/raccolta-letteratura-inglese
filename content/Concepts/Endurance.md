@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Endurance
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

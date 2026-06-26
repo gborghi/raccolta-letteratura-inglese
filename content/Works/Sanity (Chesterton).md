@@ -17,8 +17,6 @@ tags:
   - histref/the_industrial_revolution
 ---
 
-# Sanity
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

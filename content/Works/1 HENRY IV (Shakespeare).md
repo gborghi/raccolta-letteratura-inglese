@@ -38,8 +38,6 @@ tags:
   - character/kate_percy
 ---
 
-# 1 HENRY IV
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

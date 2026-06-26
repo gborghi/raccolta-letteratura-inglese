@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Old Curiosity Shop
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 13: Patriarchal (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_16_Patriarchal/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_17_Little_Dorrits_Party/part_01">part 01 ›</a></div>

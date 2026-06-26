@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 12: DESCRIPTIVE OF A VERY IMPORTANT PROCEEDING ON THE PART OF (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_14_SOME_ACCOUNT_OF_EATANSWILL_OF/part_01">part 01 ›</a></div>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Innocent
-
 *Cluster* — **3 works**.
 
 ## Defining concepts

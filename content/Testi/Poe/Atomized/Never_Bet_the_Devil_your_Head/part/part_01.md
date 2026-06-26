@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Never Bet the Devil your Head (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Never-Bet-the-Devil-your-Head-(Poe)">Never Bet the Devil your Head</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Never_Bet_the_Devil_your_Head/part/part_02">part 02 ›</a></div>

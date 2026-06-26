@@ -42,8 +42,6 @@ tags:
   - character/clara_peggotty
 ---
 
-# David Copperfield
-
 *by Dickens*  ·  **Cluster:** [[Fallen Woman]]
 
 > [!abstract] 

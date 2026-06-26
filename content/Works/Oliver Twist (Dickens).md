@@ -41,8 +41,6 @@ tags:
   - character/rose_maylie
 ---
 
-# Oliver Twist
-
 *by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# King John — Act II, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/King_John/Act_3/Scene_2">Scene 2 ›</a></div>

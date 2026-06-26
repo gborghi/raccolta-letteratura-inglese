@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# World Upside Down
-
 *Topos* — appears in **70** work(s).
 
 ## Works

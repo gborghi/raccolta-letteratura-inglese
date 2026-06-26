@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lorenzo
-
 *Character* — appears in **2** work(s).
 
 ## Works

@@ -14,8 +14,6 @@ tags:
   - concept/beauty
 ---
 
-# Italian Music in Dakota
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

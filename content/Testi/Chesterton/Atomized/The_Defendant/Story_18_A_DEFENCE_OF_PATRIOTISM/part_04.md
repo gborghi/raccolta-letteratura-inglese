@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF PATRIOTISM (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_18_A_DEFENCE_OF_PATRIOTISM/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_18_A_DEFENCE_OF_PATRIOTISM/part_05">part 05 ›</a></div>

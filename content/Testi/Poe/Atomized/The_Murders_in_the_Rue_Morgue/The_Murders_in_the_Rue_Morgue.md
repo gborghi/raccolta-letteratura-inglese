@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Murders in the Rue Morgue
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Murders-in-the-Rue-Morgue-(Poe)">The Murders in the Rue Morgue</a></div>
 </nav>

@@ -15,8 +15,6 @@ tags:
   - motif/bells
 ---
 
-# Aboard at a Ship’s Helm
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -31,22 +29,22 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SEA-DRIFT_
+_Cluster: SEA-DRIFT_  
 
 
-  Aboard at a ship’s helm,
-  A young steersman steering with care.
+  Aboard at a ship’s helm,  
+  A young steersman steering with care.  
 
-  Through fog on a sea-coast dolefully ringing,
-  An ocean-bell--O a warning bell, rock’d by the waves.
+  Through fog on a sea-coast dolefully ringing,  
+  An ocean-bell--O a warning bell, rock’d by the waves.  
 
-  O you give good notice indeed, you bell by the sea-reefs ringing,
-  Ringing, ringing, to warn the ship from its wreck-place.
+  O you give good notice indeed, you bell by the sea-reefs ringing,  
+  Ringing, ringing, to warn the ship from its wreck-place.  
 
-  For as on the alert O steersman, you mind the loud admonition,
-  The bows turn, the freighted ship tacking speeds away under her gray sails,
-  The beautiful and noble ship with all her precious wealth speeds
-      away gayly and safe.
+  For as on the alert O steersman, you mind the loud admonition,  
+  The bows turn, the freighted ship tacking speeds away under her gray sails,  
+  The beautiful and noble ship with all her precious wealth speeds  
+      away gayly and safe.  
 
-  But O the ship, the immortal ship! O ship aboard the ship!
-  Ship of the body, ship of the soul, voyaging, voyaging, voyaging.
+  But O the ship, the immortal ship! O ship aboard the ship!  
+  Ship of the body, ship of the soul, voyaging, voyaging, voyaging.  

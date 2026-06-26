@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# The Dismantled Ship
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -34,12 +32,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  In some unused lagoon, some nameless bay,
-  On sluggish, lonesome waters, anchor’d near the shore,
-  An old, dismasted, gray and batter’d ship, disabled, done,
-  After free voyages to all the seas of earth, haul’d up at last and
-      hawser’d tight,
-  Lies rusting, mouldering.
+  In some unused lagoon, some nameless bay,  
+  On sluggish, lonesome waters, anchor’d near the shore,  
+  An old, dismasted, gray and batter’d ship, disabled, done,  
+  After free voyages to all the seas of earth, haul’d up at last and  
+      hawser’d tight,  
+  Lies rusting, mouldering.  

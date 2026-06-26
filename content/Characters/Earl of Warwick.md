@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Earl of Warwick
-
 *Character* — appears in **1** work(s).
 
 ## Works

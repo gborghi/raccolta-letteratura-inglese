@@ -13,8 +13,6 @@ tags:
   - concept/alienation
 ---
 
-# J, K, L
-
 *by Eliot*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -27,16 +25,16 @@ tags:
 
 ## Testo integrale / Full text
 
-Jellicle Cats are black and white 1
+Jellicle Cats are black and white 1  
 
-Le garçon délabré qui n’a rien à faire 1
-Let these memorials of built stone — music’s 1
-Let us go then, you and I 1
-Lord, the Roman hyacinths are blooming in bowls and 1
+Le garçon délabré qui n’a rien à faire 1  
+Let these memorials of built stone — music’s 1  
+Let us go then, you and I 1  
+Lord, the Roman hyacinths are blooming in bowls and 1  
 
-Macavity’s a Mystery Cat: he’s called the Hidden Paw 1
-Malheur à la malheureuse Tamise  1
-Midwinter spring is its own season 1
-Miss Helen Slingsby was my maiden aunt 1
-Miss Nancy Ellicott 1
-Mungojerrie and Rumpelteazer were a very notorious couple of cats 1
+Macavity’s a Mystery Cat: he’s called the Hidden Paw 1  
+Malheur à la malheureuse Tamise  1  
+Midwinter spring is its own season 1  
+Miss Helen Slingsby was my maiden aunt 1  
+Miss Nancy Ellicott 1  
+Mungojerrie and Rumpelteazer were a very notorious couple of cats 1  

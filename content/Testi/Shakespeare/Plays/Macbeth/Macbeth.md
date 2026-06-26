@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# MACBETH
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MACBETH-(Shakespeare)">Macbeth</a></div>
 </nav>

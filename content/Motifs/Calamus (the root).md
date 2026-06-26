@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Calamus (the root)
-
 *Motif* — appears in **2** work(s).
 
 ## Works

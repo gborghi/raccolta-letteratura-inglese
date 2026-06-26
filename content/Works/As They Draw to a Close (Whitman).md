@@ -14,8 +14,6 @@ tags:
   - motif/the_book
 ---
 
-# As They Draw to a Close
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 39: MR. SAMUEL WELLER, BEING INTRUSTED WITH A MISSION OF
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_40_HOW_MR_WINKLE_WHEN_HE_STEPPED">‹ Chapter 40 HOW MR WINKLE WHEN HE STEPPED</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_42_INTRODUCES_MR_PICKWICK_TO_A_NE">Chapter 42 INTRODUCES MR PICKWICK TO A NE ›</a></div>

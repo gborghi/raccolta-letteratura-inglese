@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Rose · Desire · Value and Scarcity
-
 *Cluster* — **26 works**.
 
 ## Defining concepts

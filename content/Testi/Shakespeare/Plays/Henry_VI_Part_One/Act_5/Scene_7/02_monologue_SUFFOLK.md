@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry VI Part One — Act V, Scene 7 — monologue (SUFFOLK) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-VI-PART-ONE-(Shakespeare)">Henry VI Part One</a></div>
 </nav>

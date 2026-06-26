@@ -16,8 +16,6 @@ tags:
   - motif/seasons
 ---
 
-# Warble for Lilac-Time
-
 *by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 

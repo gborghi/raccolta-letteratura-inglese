@@ -41,8 +41,6 @@ tags:
   - character/prince_john
 ---
 
-# 2 HENRY IV
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

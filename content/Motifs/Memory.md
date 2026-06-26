@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Memory
-
 *Motif* — appears in **116** work(s).
 
 ## Works

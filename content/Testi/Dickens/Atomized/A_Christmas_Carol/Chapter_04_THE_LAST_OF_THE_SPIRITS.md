@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Christmas Carol — Stave 4: THE LAST OF THE SPIRITS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_03_THE_SECOND_OF_THE_THREE_SPIRIT">‹ Chapter 03 THE SECOND OF THE THREE SPIRIT</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_05_THE_END_OF_IT">Chapter 05 THE END OF IT ›</a></div>

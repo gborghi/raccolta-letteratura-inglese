@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE FAD OF THE FISHERMAN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_05_THE_BOTTOMLESS_WELL/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_06_THE_FAD_OF_THE_FISHERMAN/part_02">part 02 ›</a></div>

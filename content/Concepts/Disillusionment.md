@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Disillusionment
-
 *Theme/Concept* — appears in **50** work(s).
 
 ## Works

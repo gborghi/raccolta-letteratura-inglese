@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# America
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -34,12 +32,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Centre of equal daughters, equal sons,
-  All, all alike endear’d, grown, ungrown, young or old,
-  Strong, ample, fair, enduring, capable, rich,
-  Perennial with the Earth, with Freedom, Law and Love,
-  A grand, sane, towering, seated Mother,
-  Chair’d in the adamant of Time.
+  Centre of equal daughters, equal sons,  
+  All, all alike endear’d, grown, ungrown, young or old,  
+  Strong, ample, fair, enduring, capable, rich,  
+  Perennial with the Earth, with Freedom, Law and Love,  
+  A grand, sane, towering, seated Mother,  
+  Chair’d in the adamant of Time.  

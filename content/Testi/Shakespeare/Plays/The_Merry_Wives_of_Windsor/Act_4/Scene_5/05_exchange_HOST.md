@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Merry Wives of Windsor — Act IV, Scene 5 — exchange (HOST) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-MERRY-WIVES-OF-WINDSOR-(Shakespeare)">The Merry Wives of Windsor</a></div>
 </nav>

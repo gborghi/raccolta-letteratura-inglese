@@ -17,8 +17,6 @@ tags:
   - motif/dust
 ---
 
-# Sonnet 108
-
 *by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-What’s in the brain that ink may character 
-Which hath not figured to thee my true spirit? 
-What’s new to speak, what now to register, 
-That may express my love or thy dear merit? 
-Nothing, sweet boy; but yet like prayers divine 
-I must each day say o’er the very same, 
-Counting no old thing old, thou mine, I thine, 
-Even as when first I hallowed thy fair name. 
-So that eternal love in love’s fresh case 
-Weighs not the dust and injury of age, 
-Nor gives to necessary wrinkles place, 
-But makes antiquity for aye his page, 
-Finding the first conceit of love there bred 
-Where time and outward form would show it dead.
+What’s in the brain that ink may character  
+Which hath not figured to thee my true spirit?  
+What’s new to speak, what now to register,  
+That may express my love or thy dear merit?  
+Nothing, sweet boy; but yet like prayers divine  
+I must each day say o’er the very same,  
+Counting no old thing old, thou mine, I thine,  
+Even as when first I hallowed thy fair name.  
+So that eternal love in love’s fresh case  
+Weighs not the dust and injury of age,  
+Nor gives to necessary wrinkles place,  
+But makes antiquity for aye his page,  
+Finding the first conceit of love there bred  
+Where time and outward form would show it dead.  

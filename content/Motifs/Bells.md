@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Bells
-
 *Motif* — appears in **36** work(s).
 
 ## Works

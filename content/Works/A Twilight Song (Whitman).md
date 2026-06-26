@@ -16,8 +16,6 @@ tags:
   - form/elegy
 ---
 
-# A Twilight Song
-
 *by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -32,29 +30,29 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  As I sit in twilight late alone by the flickering oak-flame,
-  Musing on long-pass’d war-scenes--of the countless buried unknown
-      soldiers,
-  Of the vacant names, as unindented air’s and sea’s--the unreturn’d,
-  The brief truce after battle, with grim burial-squads, and the
-      deep-fill’d trenches
-  Of gather’d from dead all America, North, South, East, West, whence
-      they came up,
-  From wooded Maine, New-England’s farms, from fertile Pennsylvania,
-      Illinois, Ohio,
-  From the measureless West, Virginia, the South, the Carolinas, Texas,
-  (Even here in my room-shadows and half-lights in the noiseless
-      flickering flames,
-  Again I see the stalwart ranks on-filing, rising--I hear the
-      rhythmic tramp of the armies;)
-  You million unwrit names all, all--you dark bequest from all the war,
-  A special verse for you--a flash of duty long neglected--your mystic
-      roll strangely gather’d here,
-  Each name recall’d by me from out the darkness and death’s ashes,
-  Henceforth to be, deep, deep within my heart recording, for many
-      future year,
-  Your mystic roll entire of unknown names, or North or South,
-  Embalm’d with love in this twilight song.
+  As I sit in twilight late alone by the flickering oak-flame,  
+  Musing on long-pass’d war-scenes--of the countless buried unknown  
+      soldiers,  
+  Of the vacant names, as unindented air’s and sea’s--the unreturn’d,  
+  The brief truce after battle, with grim burial-squads, and the  
+      deep-fill’d trenches  
+  Of gather’d from dead all America, North, South, East, West, whence  
+      they came up,  
+  From wooded Maine, New-England’s farms, from fertile Pennsylvania,  
+      Illinois, Ohio,  
+  From the measureless West, Virginia, the South, the Carolinas, Texas,  
+  (Even here in my room-shadows and half-lights in the noiseless  
+      flickering flames,  
+  Again I see the stalwart ranks on-filing, rising--I hear the  
+      rhythmic tramp of the armies;)  
+  You million unwrit names all, all--you dark bequest from all the war,  
+  A special verse for you--a flash of duty long neglected--your mystic  
+      roll strangely gather’d here,  
+  Each name recall’d by me from out the darkness and death’s ashes,  
+  Henceforth to be, deep, deep within my heart recording, for many  
+      future year,  
+  Your mystic roll entire of unknown names, or North or South,  
+  Embalm’d with love in this twilight song.  

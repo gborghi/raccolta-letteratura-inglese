@@ -14,8 +14,6 @@ tags:
   - motif/fire
 ---
 
-# IAMBICS
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-No cold shall thee benumb,
-Nor darkness stain thy sight;
-To thee new Heat, new Light
-Shall from this object come,
-Whose Praises if thou now wilt sound aright,
-My Pen shall give thee leave hereafter to be dumb.
+No cold shall thee benumb,  
+Nor darkness stain thy sight;  
+To thee new Heat, new Light  
+Shall from this object come,  
+Whose Praises if thou now wilt sound aright,  
+My Pen shall give thee leave hereafter to be dumb.  
 1801. Now first published from an MS.

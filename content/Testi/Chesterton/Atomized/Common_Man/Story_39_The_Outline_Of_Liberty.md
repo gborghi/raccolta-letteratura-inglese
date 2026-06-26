@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Outline Of Liberty
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_38_Books_For_Boys">‹ Story 38 Books For Boys</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_40_A_Note_On_Nudism">Story 40 A Note On Nudism ›</a></div>

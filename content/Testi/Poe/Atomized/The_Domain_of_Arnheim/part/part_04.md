@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Domain of Arnheim (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Domain-of-Arnheim-(Poe)">The Domain of Arnheim</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Domain_of_Arnheim/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Domain_of_Arnheim/part/part_05">part 05 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# To a Certain Cantatrice
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Here, take this gift,
-  I was reserving it for some hero, speaker, or general,
-  One who should serve the good old cause, the great idea, the
-      progress and freedom of the race,
-  Some brave confronter of despots, some daring rebel;
-  But I see that what I was reserving belongs to you just as much as to any.
+  Here, take this gift,  
+  I was reserving it for some hero, speaker, or general,  
+  One who should serve the good old cause, the great idea, the  
+      progress and freedom of the race,  
+  Some brave confronter of despots, some daring rebel;  
+  But I see that what I was reserving belongs to you just as much as to any.  

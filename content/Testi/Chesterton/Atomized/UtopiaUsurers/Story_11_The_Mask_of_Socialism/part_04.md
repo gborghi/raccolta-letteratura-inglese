@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — The Mask of Socialism (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_11_The_Mask_of_Socialism/part_05">part 05 ›</a></div>

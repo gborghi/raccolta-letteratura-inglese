@@ -16,8 +16,6 @@ tags:
   - form/essay
 ---
 
-# Doubts About Darwinism
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

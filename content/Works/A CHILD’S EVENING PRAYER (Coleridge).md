@@ -18,8 +18,6 @@ tags:
   - histref/christianity
 ---
 
-# A CHILD’S EVENING PRAYER
-
 *by Coleridge*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
@@ -35,20 +33,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Ere on my bed my limbs I lay,
-God grant me grace my prayers to say:
-O God! preserve my mother dear
-In strength and health for many a year;
-And, O! preserve my father too,   5
-And may I pay him reverence due;
-And may I my best thoughts employ
-To be my parents’ hope and joy;
-And O! preserve my brothers both
-From evil doings and from sloth,   10
-And may we always love each other
-Our friends, our father, and our mother:
-And still, O Lord, to me impart
-An innocent and grateful heart,
-That after my great sleep I may   15
-Awake to thy eternal day! Amen.
-1806.
+Ere on my bed my limbs I lay,  
+God grant me grace my prayers to say:  
+O God! preserve my mother dear  
+In strength and health for many a year;  
+And, O! preserve my father too,   5  
+And may I pay him reverence due;  
+And may I my best thoughts employ  
+To be my parents’ hope and joy;  
+And O! preserve my brothers both  
+From evil doings and from sloth,   10  
+And may we always love each other  
+Our friends, our father, and our mother:  
+And still, O Lord, to me impart  
+An innocent and grateful heart,  
+That after my great sleep I may   15  
+Awake to thy eternal day! Amen.  
+1806.  

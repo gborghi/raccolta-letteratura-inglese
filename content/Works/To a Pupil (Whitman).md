@@ -14,8 +14,6 @@ tags:
   - concept/education
 ---
 
-# To a Pupil
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

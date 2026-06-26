@@ -16,8 +16,6 @@ tags:
   - concept/friendship
 ---
 
-# Sonnet 88
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-When thou shalt be disposed to set me light 
-And place my merit in the eye of scorn, 
-Upon thy side against myself I’ll fight, 
-And prove thee virtuous though thou art forsworn. 
-With mine own weakness being best acquainted, 
-Upon thy part I can set down a story 
-Of faults concealed wherein I am attainted, 
-That thou in losing me shall win much glory; 
-And I by this will be a gainer too; 
-For bending all my loving thoughts on thee, 
-The injuries that to myself I do, 
-Doing thee vantage, double vantage me. 
-Such is my love, to thee I so belong, 
-That for thy right myself will bear all wrong.
+When thou shalt be disposed to set me light  
+And place my merit in the eye of scorn,  
+Upon thy side against myself I’ll fight,  
+And prove thee virtuous though thou art forsworn.  
+With mine own weakness being best acquainted,  
+Upon thy part I can set down a story  
+Of faults concealed wherein I am attainted,  
+That thou in losing me shall win much glory;  
+And I by this will be a gainer too;  
+For bending all my loving thoughts on thee,  
+The injuries that to myself I do,  
+Doing thee vantage, double vantage me.  
+Such is my love, to thee I so belong,  
+That for thy right myself will bear all wrong.  

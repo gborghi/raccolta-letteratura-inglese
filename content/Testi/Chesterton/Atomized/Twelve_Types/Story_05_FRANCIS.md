@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — FRANCIS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_04_POPE_AND_THE_ART_OF_SATIRE">‹ Story 04 POPE AND THE ART OF SATIRE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_06_ROSTAND">Story 06 ROSTAND ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER I.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_47_HAPTER_ITHE_BOARDING_HOUSE">‹ Story 47 HAPTER ITHE BOARDING HOUSE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_49_HAPTER_THE_SECOND">Story 49 HAPTER THE SECOND ›</a></div>

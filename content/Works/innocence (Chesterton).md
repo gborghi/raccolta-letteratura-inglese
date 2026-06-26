@@ -39,8 +39,6 @@ tags:
   - character/flambeau
 ---
 
-# innocence
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

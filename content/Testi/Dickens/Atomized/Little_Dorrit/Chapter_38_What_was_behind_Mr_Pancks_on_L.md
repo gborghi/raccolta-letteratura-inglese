@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_37_A_Shoal_of_Barnacles">‹ Chapter 37 A Shoal of Barnacles</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_39_The_Marshalsea_becomes_an_Orph">Chapter 39 The Marshalsea becomes an Orph ›</a></div>

@@ -17,8 +17,6 @@ tags:
   - concept/the_body
 ---
 
-# This Compost
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 

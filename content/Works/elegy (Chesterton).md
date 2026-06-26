@@ -16,8 +16,6 @@ tags:
   - form/elegy
 ---
 
-# elegy
-
 *by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -32,27 +30,27 @@ tags:
 
 ## Testo integrale / Full text
 
-Elegy in a Country Churchyard
+Elegy in a Country Churchyard  
 
-	       -------------------------------------------------------------
+	       -------------------------------------------------------------  
 
-	       The men that worked for England
-	       They have their graves at home:
-	       And bees and birds of England
-	       About the cross can roam.
+	       The men that worked for England  
+	       They have their graves at home:  
+	       And bees and birds of England  
+	       About the cross can roam.  
 
-	       But they that fought for England,
-	       Following a falling star,
-	       Alas, alas for England
-	       They have their graves afar.
+	       But they that fought for England,  
+	       Following a falling star,  
+	       Alas, alas for England  
+	       They have their graves afar.  
 
-	       And they that rule in England,
-	       In stately conclave met,
-	       Alas, alas for England,
-	       They have no graves as yet.
+	       And they that rule in England,  
+	       In stately conclave met,  
+	       Alas, alas for England,  
+	       They have no graves as yet.  
 				   - G.K. Chesterton
 
-	       -------------------------------------------------------------
+	       -------------------------------------------------------------  
 
 
-===== FINE FILE: elegy.txt =====
+===== FINE FILE: elegy.txt =====  

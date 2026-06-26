@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 16 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_16/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_18/part_01">part 01 ›</a></div>

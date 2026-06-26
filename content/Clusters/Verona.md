@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Verona
-
 *Cluster* — **2 works**.
 
 ## Defining concepts

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Insects
-
 *Motif* — appears in **5** work(s).
 
 ## Works

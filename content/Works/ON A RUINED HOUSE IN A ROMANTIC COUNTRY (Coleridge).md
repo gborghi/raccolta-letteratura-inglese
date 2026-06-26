@@ -14,8 +14,6 @@ tags:
   - motif/moon
 ---
 
-# ON A RUINED HOUSE IN A ROMANTIC COUNTRY
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,18 +27,18 @@ tags:
 
 ## Testo integrale / Full text
 
-And this reft house is that the which he built,
-Lamented Jack! And here his malt he pil’d,
-Cautious in vain! These rats that squeak so wild,
-Squeak, not unconscious of their father’s guilt.
-Did ye not see her gleaming thro’ the glade?
-Belike, ‘twas she, the maiden all forlorn.
-What though she milk no cow with crumpled horn,
-Yet aye she haunts the dale where erst she stray’d;
-And aye beside her stalks her amorous knight!
-Still on his thighs their wonted brogues are worn,   10
-And thro’ those brogues, still tatter’d and betorn,
-His hindward charms gleam an unearthly white;
-As when thro’ broken clouds at night’s high noon
-Peeps in fair fragments forth the full-orb’d harvest-moon!
-1797.
+And this reft house is that the which he built,  
+Lamented Jack! And here his malt he pil’d,  
+Cautious in vain! These rats that squeak so wild,  
+Squeak, not unconscious of their father’s guilt.  
+Did ye not see her gleaming thro’ the glade?  
+Belike, ‘twas she, the maiden all forlorn.  
+What though she milk no cow with crumpled horn,  
+Yet aye she haunts the dale where erst she stray’d;  
+And aye beside her stalks her amorous knight!  
+Still on his thighs their wonted brogues are worn,   10  
+And thro’ those brogues, still tatter’d and betorn,  
+His hindward charms gleam an unearthly white;  
+As when thro’ broken clouds at night’s high noon  
+Peeps in fair fragments forth the full-orb’d harvest-moon!  
+1797.  

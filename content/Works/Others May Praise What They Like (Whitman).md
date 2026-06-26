@@ -14,8 +14,6 @@ tags:
   - concept/nature_vs_civilization
 ---
 
-# Others May Praise What They Like
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

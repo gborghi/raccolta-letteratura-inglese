@@ -14,8 +14,6 @@ tags:
   - motif/music_and_song
 ---
 
-# Beginning My Studies
-
 *by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Beginning my studies the first step pleas’d me so much,
-  The mere fact consciousness, these forms, the power of motion,
-  The least insect or animal, the senses, eyesight, love,
-  The first step I say awed me and pleas’d me so much,
-  I have hardly gone and hardly wish’d to go any farther,
-  But stop and loiter all the time to sing it in ecstatic songs.
+  Beginning my studies the first step pleas’d me so much,  
+  The mere fact consciousness, these forms, the power of motion,  
+  The least insect or animal, the senses, eyesight, love,  
+  The first step I say awed me and pleas’d me so much,  
+  I have hardly gone and hardly wish’d to go any farther,  
+  But stop and loiter all the time to sing it in ecstatic songs.  

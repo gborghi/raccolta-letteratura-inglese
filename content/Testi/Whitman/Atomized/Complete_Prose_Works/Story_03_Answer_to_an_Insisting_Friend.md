@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Answer to an Insisting Friend
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_02_A_Happy_Hour_s_Command">‹ Story 02 A Happy Hour s Command</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_04_Genealogy_Van_Velsor_and_Whitman">Story 04 Genealogy Van Velsor and Whitman ›</a></div>

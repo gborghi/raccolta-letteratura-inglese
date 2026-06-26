@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Christ
-
 *Character* — appears in **91** work(s).
 
 ## Works

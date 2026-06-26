@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 32: DESCRIBES, FAR MORE FULLY THAN THE COURT NEWSMAN EVER (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_33_WHICH_IS_ALL_ABOUT_THE_LAW_AND/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_34_DESCRIBES_FAR_MORE_FULLY_THAN/part_02">part 02 ›</a></div>

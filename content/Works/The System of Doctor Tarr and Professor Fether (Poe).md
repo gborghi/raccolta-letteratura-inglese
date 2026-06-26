@@ -17,8 +17,6 @@ tags:
   - form/satire
 ---
 
-# The System of Doctor Tarr and Professor Fether
-
 *by Poe*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

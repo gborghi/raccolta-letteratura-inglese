@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON PSYCHO-ANALYSIS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_09_ON_THE_CLASSICS">‹ Story 09 ON THE CLASSICS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_11_ON_EGOISTS_AND_EGOISTS">Story 11 ON EGOISTS AND EGOISTS ›</a></div>

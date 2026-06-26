@@ -28,8 +28,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# Bon-Bon
-
 *by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

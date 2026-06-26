@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T will be best, both for the reader and the writer, not to bother about
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_30_THE_MENACE_OF_THE_WORD">‹ Story 30 THE MENACE OF THE WORD</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_32_THE_PROCESSION_OF_THE_PLOTTERS">Story 32 THE PROCESSION OF THE PLOTTERS ›</a></div>

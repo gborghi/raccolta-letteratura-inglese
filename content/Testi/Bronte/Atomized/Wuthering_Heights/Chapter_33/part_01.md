@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Wuthering Heights — Chapter 33 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Wuthering-Heights-(Bronte)">Wuthering Heights</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_32/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Bronte/Atomized/Wuthering_Heights/Chapter_33/part_02">part 02 ›</a></div>

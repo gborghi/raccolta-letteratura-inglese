@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet on Sitting Down to Read King Lear Once Again
-
 *by Keats*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-O golden tongued Romance, with serene lute!
-Fair plumed Syren, Queen of far-away!
-Leave melodising on this wintry day,
-Shut up thine olden pages, and be mute:
-Adieu! for, once again, the fierce dispute
-Betwixt damnation and impassion’d clay
-Must I burn through; once more humbly assay
-The bitter-sweet of this Shakespearian fruit:
-Chief Poet! and ye clouds of Albion,
-Begetters of our deep eternal theme!
-10
-When through the old oak forest I am gone,
-Let me not wander in a barren dream,
-But, when I am consumed in the fire,
-Give me new Phoenix wings’ to fly at my desire.
+O golden tongued Romance, with serene lute!  
+Fair plumed Syren, Queen of far-away!  
+Leave melodising on this wintry day,  
+Shut up thine olden pages, and be mute:  
+Adieu! for, once again, the fierce dispute  
+Betwixt damnation and impassion’d clay  
+Must I burn through; once more humbly assay  
+The bitter-sweet of this Shakespearian fruit:  
+Chief Poet! and ye clouds of Albion,  
+Begetters of our deep eternal theme!  
+10  
+When through the old oak forest I am gone,  
+Let me not wander in a barren dream,  
+But, when I am consumed in the fire,  
+Give me new Phoenix wings’ to fly at my desire.  

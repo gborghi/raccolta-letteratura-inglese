@@ -26,8 +26,6 @@ tags:
   - histref/victorian_england
 ---
 
-# The Sphinx Without a Secret
-
 *by Wilde*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

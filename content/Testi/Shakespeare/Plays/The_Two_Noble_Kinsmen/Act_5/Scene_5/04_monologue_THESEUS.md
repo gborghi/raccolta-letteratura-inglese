@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Noble Kinsmen — Act V, Scene 5 — monologue (THESEUS) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)">The Two Noble Kinsmen</a></div>
 </nav>

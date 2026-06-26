@@ -18,8 +18,6 @@ tags:
   - histref/eastern_religion
 ---
 
-# new-omar
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -35,18 +33,18 @@ tags:
 
 ## Testo integrale / Full text
 
-THE NEW OMAR
+THE NEW OMAR  
 
-A Book of verses underneath the bough,
-  Provided that the verses do not scan,
-A loaf of bread, a jug of wine and Thou,
-  Short-haired, all angles, looking like a man.
+A Book of verses underneath the bough,  
+  Provided that the verses do not scan,  
+A loaf of bread, a jug of wine and Thou,  
+  Short-haired, all angles, looking like a man.  
 
-But let the wine be unfermented, Pale,
-  Of chemicals compounded, God knows how--
-This were indeed the Prophet's Paradise,
-  O Paradise were Wilderness enow.
+But let the wine be unfermented, Pale,  
+  Of chemicals compounded, God knows how--  
+This were indeed the Prophet's Paradise,  
+  O Paradise were Wilderness enow.  
 
 
 
-===== FINE FILE: new-omar.txt =====
+===== FINE FILE: new-omar.txt =====  

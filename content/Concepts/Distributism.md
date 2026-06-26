@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Distributism
-
 *Theme/Concept* — appears in **30** work(s).
 
 ## Works

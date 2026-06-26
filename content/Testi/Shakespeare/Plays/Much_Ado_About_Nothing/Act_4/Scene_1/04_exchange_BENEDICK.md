@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Much Ado About Nothing — Act IV, Scene 1 — exchange (BENEDICK) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
 </nav>

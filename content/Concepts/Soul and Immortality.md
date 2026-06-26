@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Soul and Immortality
-
 *Theme/Concept* — appears in **0** work(s).
 
 #graph/concept

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE PROBLEM OF A PREFACE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_01_INTRODUCTION_TO_THE_FIRST_EDITION">‹ Story 01 INTRODUCTION TO THE FIRST EDITION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN">Story 03 THE IRISHMAN ›</a></div>

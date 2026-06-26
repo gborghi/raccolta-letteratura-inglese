@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Comedy of Errors — Act IV, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_4/Scene_4">Scene 4 ›</a></div>

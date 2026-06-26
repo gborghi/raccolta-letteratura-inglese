@@ -32,8 +32,6 @@ tags:
   - setting/the_castle
 ---
 
-# Otho the Great
-
 *by Keats*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

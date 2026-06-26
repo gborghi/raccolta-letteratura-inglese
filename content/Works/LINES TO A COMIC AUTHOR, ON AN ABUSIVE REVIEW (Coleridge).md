@@ -15,8 +15,6 @@ tags:
   - archetype/fool
 ---
 
-# LINES TO A COMIC AUTHOR, ON AN ABUSIVE REVIEW
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 
@@ -31,21 +29,21 @@ tags:
 
 ## Testo integrale / Full text
 
-What though the chilly wide-mouth’d quacking chorus
-From the rank swamps of murk Review-land croak:
-So was it, neighbour, in the times before us,
-When Momus, throwing on his Attic cloak,
-Romp’d with the Graces; and each tickled Muse   5
-(That Turk, Dan Phœbus, whom bards call divine,
-Was married to — at least, he kept — all nine)
-Fled, but still with reverted faces ran;
-Yet, somewhat the broad freedoms to excuse,
-They had allured the audacious Greek to use,   10
-Swore they mistook him for their own good man.
-This Momus — Aristophanes on earth
-Men call’d him — maugre all his wit and worth,
-Was croak’d and gabbled at. How, then, should you,
-Or I, friend, hope to ‘scape the skulking crew?   15
-No! laugh, and say aloud, in tones of glee,
-‘I hate the quacking tribe, and they hate me!’
-? 1825.
+What though the chilly wide-mouth’d quacking chorus  
+From the rank swamps of murk Review-land croak:  
+So was it, neighbour, in the times before us,  
+When Momus, throwing on his Attic cloak,  
+Romp’d with the Graces; and each tickled Muse   5  
+(That Turk, Dan Phœbus, whom bards call divine,  
+Was married to — at least, he kept — all nine)  
+Fled, but still with reverted faces ran;  
+Yet, somewhat the broad freedoms to excuse,  
+They had allured the audacious Greek to use,   10  
+Swore they mistook him for their own good man.  
+This Momus — Aristophanes on earth  
+Men call’d him — maugre all his wit and worth,  
+Was croak’d and gabbled at. How, then, should you,  
+Or I, friend, hope to ‘scape the skulking crew?   15  
+No! laugh, and say aloud, in tones of glee,  
+‘I hate the quacking tribe, and they hate me!’  
+? 1825.  

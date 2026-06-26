@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# What Am I After All
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,13 +28,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: AUTUMN RIVULETS_
+_Cluster: AUTUMN RIVULETS_  
 
 
-  What am I after all but a child, pleas’d with the sound of my own
-      name? repeating it over and over;
-  I stand apart to hear--it never tires me.
+  What am I after all but a child, pleas’d with the sound of my own  
+      name? repeating it over and over;  
+  I stand apart to hear--it never tires me.  
 
-  To you your name also;
-  Did you think there was nothing but two or three pronunciations in
-      the sound of your name?
+  To you your name also;  
+  Did you think there was nothing but two or three pronunciations in  
+      the sound of your name?  

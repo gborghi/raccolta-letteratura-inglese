@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — Chapter 1 (part 13)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)-(2)">Irish Impressions 2</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions_2/Chapter_01/part_12">‹ part 12</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions_2/Chapter_01/part_14">part 14 ›</a></div>

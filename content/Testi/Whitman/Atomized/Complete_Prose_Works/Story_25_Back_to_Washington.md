@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Back to Washington
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_24_After_First_Fredericksburg">‹ Story 24 After First Fredericksburg</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_26_Fifty_Hours_Left_Wounded_on_the_Field">Story 26 Fifty Hours Left Wounded on the Field ›</a></div>

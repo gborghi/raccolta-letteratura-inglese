@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Julius Caesar — Act IV, Scene 2 — exchange (GHOST) [8]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/JULIUS-CAESAR-(Shakespeare)">Julius Caesar</a></div>
 </nav>

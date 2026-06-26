@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Berenice (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Berenice-(Poe)">Berenice</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Berenice/part/part_02">part 02 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER VIII—THE GREAT WINGLEBURY DUEL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_58_I_really_thought_the_Ram_would_have_drop">‹ Story 58 I really thought the Ram would have drop</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_60_HAPTER_IXMRS_JOSEPH_PORTER">Story 60 HAPTER IXMRS JOSEPH PORTER ›</a></div>

@@ -35,8 +35,6 @@ tags:
   - character/yorke_hunsden
 ---
 
-# The Professor
-
 *by Bronte*  ·  **Cluster:** [[Education · Self-Made Man · Wheel]]
 
 > [!abstract] 

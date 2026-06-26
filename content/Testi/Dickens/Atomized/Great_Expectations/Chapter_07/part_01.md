@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Great Expectations — Chapter 7 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_05/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_07/part_02">part 02 ›</a></div>

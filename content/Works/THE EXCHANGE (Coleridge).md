@@ -14,8 +14,6 @@ tags:
   - form/song
 ---
 
-# THE EXCHANGE
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-We pledged our hearts, my love and I, —
-I in my arms the maiden clasping;
-I could not guess the reason why,
-But, oh! I trembled like an aspen.
-Her father’s love she bade me gain;   5
-I went, but shook like any reed!
-I strove to act the man — in vain!
-We had exchanged our hearts indeed.
-1804.
+We pledged our hearts, my love and I, —  
+I in my arms the maiden clasping;  
+I could not guess the reason why,  
+But, oh! I trembled like an aspen.  
+Her father’s love she bade me gain;   5  
+I went, but shook like any reed!  
+I strove to act the man — in vain!  
+We had exchanged our hearts indeed.  
+1804.  

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Court · Medieval England · History Play
-
 *Cluster* — **8 works**.
 
 ## Defining concepts

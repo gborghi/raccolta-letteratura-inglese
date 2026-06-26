@@ -15,8 +15,6 @@ tags:
   - concept/immortality
 ---
 
-# Germs
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Forms, qualities, lives, humanity, language, thoughts,
-  The ones known, and the ones unknown, the ones on the stars,
-  The stars themselves, some shaped, others unshaped,
-  Wonders as of those countries, the soil, trees, cities, inhabitants,
-      whatever they may be,
-  Splendid suns, the moons and rings, the countless combinations and effects,
-  Such-like, and as good as such-like, visible here or anywhere, stand
-      provided for a handful of space, which I extend my arm and
-      half enclose with my hand,
-  That containing the start of each and all, the virtue, the germs of all.
+  Forms, qualities, lives, humanity, language, thoughts,  
+  The ones known, and the ones unknown, the ones on the stars,  
+  The stars themselves, some shaped, others unshaped,  
+  Wonders as of those countries, the soil, trees, cities, inhabitants,  
+      whatever they may be,  
+  Splendid suns, the moons and rings, the countless combinations and effects,  
+  Such-like, and as good as such-like, visible here or anywhere, stand  
+      provided for a handful of space, which I extend my arm and  
+      half enclose with my hand,  
+  That containing the start of each and all, the virtue, the germs of all.  

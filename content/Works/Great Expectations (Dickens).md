@@ -44,8 +44,6 @@ tags:
   - character/biddy
 ---
 
-# Great Expectations
-
 *by Dickens*  ·  **Cluster:** [[Great Expectations]]
 
 > [!abstract] 

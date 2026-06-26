@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Conscience
-
 *Theme/Concept* — appears in **60** work(s).
 
 ## Works

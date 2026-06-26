@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# You Lingering Sparse Leaves of Me
-
 *by Whitman*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -33,13 +31,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  You lingering sparse leaves of me on winter-nearing boughs,
-  And I some well-shorn tree of field or orchard-row;
-  You tokens diminute and lorn--(not now the flush of May, or July
-      clover-bloom--no grain of August now;)
-  You pallid banner-staves--you pennants valueless--you overstay’d of time,
-  Yet my soul-dearest leaves confirming all the rest,
-  The faithfulest--hardiest--last.
+  You lingering sparse leaves of me on winter-nearing boughs,  
+  And I some well-shorn tree of field or orchard-row;  
+  You tokens diminute and lorn--(not now the flush of May, or July  
+      clover-bloom--no grain of August now;)  
+  You pallid banner-staves--you pennants valueless--you overstay’d of time,  
+  Yet my soul-dearest leaves confirming all the rest,  
+  The faithfulest--hardiest--last.  

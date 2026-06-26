@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Comedy
-
 *Form/Genre* — appears in **25** work(s).
 
 ## Works

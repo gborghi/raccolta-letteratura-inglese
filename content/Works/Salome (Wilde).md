@@ -41,8 +41,6 @@ tags:
   - character/the_young_syrian
 ---
 
-# Salome
-
 *by Wilde*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

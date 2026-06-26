@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE TERMS OF A TRAITOR
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_35_THE_UNREASONABLENESS_OF_WOMAN">‹ Story 35 THE UNREASONABLENESS OF WOMAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_37_THE_SPEAKING_OF_THE_WORD">Story 37 THE SPEAKING OF THE WORD ›</a></div>

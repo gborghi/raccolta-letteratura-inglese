@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 30: HOW THE PICKWICKIANS MADE AND CULTIVATED THE ACQUAINTANCE (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_32_HOW_THE_PICKWICKIANS_MADE_AND/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_33_WHICH_IS_ALL_ABOUT_THE_LAW_AND/part_01">part 01 ›</a></div>

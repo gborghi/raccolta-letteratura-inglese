@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Troilus and Cressida — Act III, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_2/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Troilus_and_Cressida/Act_3/Scene_2">Scene 2 ›</a></div>

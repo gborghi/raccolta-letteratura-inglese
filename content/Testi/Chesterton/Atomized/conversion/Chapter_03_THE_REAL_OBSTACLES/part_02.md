@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion — Chapter 3: THE REAL OBSTACLES (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES/part_03">part 03 ›</a></div>

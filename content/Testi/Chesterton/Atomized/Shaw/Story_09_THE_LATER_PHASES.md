@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE LATER PHASES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_08_THE_PHILOSOPHER">‹ Story 08 THE PHILOSOPHER</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN/part_01">part 01 ›</a></div>

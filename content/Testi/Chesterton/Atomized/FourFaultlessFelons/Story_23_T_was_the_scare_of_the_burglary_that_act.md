@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T was the scare of the burglary that actually started the story towards
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_22_THE_BURGLAR_AND_THE_BROOCH">‹ Story 22 THE BURGLAR AND THE BROOCH</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_24_A_QUEER_REFORMATION">Story 24 A QUEER REFORMATION ›</a></div>

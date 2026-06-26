@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Tragedy of King Lear (Folio Text) — Act V, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TRAGEDY-OF-KING-LEAR---THE-FOLIO-TEXT-(Shakespeare)">The Tragedy of King Lear Folio Text</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Tragedy_of_King_Lear_Folio_Text/Act_4/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Tragedy_of_King_Lear_Folio_Text/Act_5/Scene_3">Scene 3 ›</a></div>

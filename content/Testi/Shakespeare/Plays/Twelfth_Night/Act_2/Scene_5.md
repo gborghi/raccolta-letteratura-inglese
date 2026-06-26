@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Twelfth Night — Act II, Scene 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TWELFTH-NIGHT-(Shakespeare)">Twelfth Night</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_2/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Twelfth_Night/Act_3/Scene_1">Scene 1 ›</a></div>

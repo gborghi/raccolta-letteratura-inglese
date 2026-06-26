@@ -16,8 +16,6 @@ tags:
   - form/epigram
 ---
 
-# NATURE’S ANSWER
-
 *by Coleridge*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 
@@ -30,11 +28,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Is’t returned, as ‘twas sent? Is’t no worse for the wear?   5
-Think first, what you are! Call to mind what you were!
-I gave you innocence, I gave you hope,
-Gave health, and genius, and an ample scope.
-Return you me guilt, lethargy, despair?
-Make out the invent’ry; inspect, compare!   10
-Then die — if die you dare!
-1811.
+Is’t returned, as ‘twas sent? Is’t no worse for the wear?   5  
+Think first, what you are! Call to mind what you were!  
+I gave you innocence, I gave you hope,  
+Gave health, and genius, and an ample scope.  
+Return you me guilt, lethargy, despair?  
+Make out the invent’ry; inspect, compare!   10  
+Then die — if die you dare!  
+1811.  

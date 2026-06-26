@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER X—THE RIVER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_18_HAPTER_IXLONDON_RECREATIONS">‹ Story 18 HAPTER IXLONDON RECREATIONS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_20_HAPTER_XIASTLEYS">Story 20 HAPTER XIASTLEYS ›</a></div>

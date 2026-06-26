@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Mock Epic
-
 *Form/Genre* — appears in **8** work(s).
 
 ## Works

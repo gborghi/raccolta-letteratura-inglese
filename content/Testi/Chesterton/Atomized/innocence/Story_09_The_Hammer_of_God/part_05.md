@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Hammer of God (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_09_The_Hammer_of_God/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_09_The_Hammer_of_God/part_06">part 06 ›</a></div>

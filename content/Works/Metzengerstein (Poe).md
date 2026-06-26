@@ -27,8 +27,6 @@ tags:
   - setting/the_castle
 ---
 
-# Metzengerstein
-
 *by Poe*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 

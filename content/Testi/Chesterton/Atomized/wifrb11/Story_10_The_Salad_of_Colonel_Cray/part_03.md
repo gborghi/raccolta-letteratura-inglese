@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Salad of Colonel Cray (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_10_The_Salad_of_Colonel_Cray/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_10_The_Salad_of_Colonel_Cray/part_04">part 04 ›</a></div>

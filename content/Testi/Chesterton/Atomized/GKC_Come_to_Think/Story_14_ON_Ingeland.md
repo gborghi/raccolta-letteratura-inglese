@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON Ingeland
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_13_ON_WHO_KILLED_JOHN_KEATS">‹ Story 13 ON WHO KILLED JOHN KEATS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_15_ON_LONELINESS">Story 15 ON LONELINESS ›</a></div>

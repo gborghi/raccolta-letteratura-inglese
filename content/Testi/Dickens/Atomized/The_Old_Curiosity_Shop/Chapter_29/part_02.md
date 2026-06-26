@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Old Curiosity Shop — Chapter 29 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Old-Curiosity-Shop-(Dickens)">The Old Curiosity Shop</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Old_Curiosity_Shop/Chapter_29/part_03">part 03 ›</a></div>

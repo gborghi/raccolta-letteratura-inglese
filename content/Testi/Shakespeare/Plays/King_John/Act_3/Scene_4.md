@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# King John — Act III, Scene 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/King_John/Act_3/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/King_John/Act_4/Scene_1">Scene 1 ›</a></div>

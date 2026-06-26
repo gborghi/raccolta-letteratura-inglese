@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Hero
-
 *Archetype* — appears in **35** work(s).
 
 ## Works

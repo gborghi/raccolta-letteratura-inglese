@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act I, Scene 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Coriolanus/Act_1/Scene_7">‹ Scene 7</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Coriolanus/Act_1/Scene_9">Scene 9 ›</a></div>

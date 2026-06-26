@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Night Journey / Vision · Katabasis / Descent · Quest Hero
-
 *Cluster* — **7 works**.
 
 ## Defining concepts

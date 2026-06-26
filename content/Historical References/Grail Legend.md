@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Grail Legend
-
 *Historical reference* — appears in **4** work(s).
 
 ## Works

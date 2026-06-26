@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# trees of pride — THE TALE OF THE PEACOCK TREES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_04_THE_CHASE_AFTER_THE_TRUTH">‹ Story 04 THE CHASE AFTER THE TRUTH</a><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_06_THE_WAGER_OF_SQUIRE_VANE">Story 06 THE WAGER OF SQUIRE VANE ›</a></div>

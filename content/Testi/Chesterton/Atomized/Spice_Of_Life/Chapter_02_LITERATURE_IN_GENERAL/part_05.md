@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Spice Of Life — Part 1: LITERATURE IN GENERAL (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_02_LITERATURE_IN_GENERAL/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_02_LITERATURE_IN_GENERAL/part_06">part 06 ›</a></div>

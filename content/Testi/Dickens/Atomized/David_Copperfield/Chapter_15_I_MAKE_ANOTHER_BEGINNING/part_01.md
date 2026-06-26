@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 15: I MAKE ANOTHER BEGINNING (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_14_MY_AUNT_MAKES_UP_HER_MIND_ABOU/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING/part_02">part 02 ›</a></div>

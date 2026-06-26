@@ -14,8 +14,6 @@ tags:
   - motif/sun
 ---
 
-# To the Leaven’d Soil They Trod
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 

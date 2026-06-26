@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England — UDFOG is a pleasant town—a remarkably pleasant town—situated in a
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_02_OACH_HOUSE_PIG_AND_TINDER_BOX">Story 02 OACH HOUSE PIG AND TINDER BOX ›</a></div>

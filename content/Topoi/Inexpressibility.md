@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Inexpressibility
-
 *Topos* — appears in **52** work(s).
 
 ## Works

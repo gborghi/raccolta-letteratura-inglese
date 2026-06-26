@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Grave
-
 *Setting* — appears in **1** work(s).
 
 ## Works

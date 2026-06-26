@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Prince Escalus
-
 *Character* — appears in **1** work(s).
 
 ## Works

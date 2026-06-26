@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Essay · Critique of Progress · Common Man
-
 *Cluster* — **72 works**.
 
 ## Defining concepts

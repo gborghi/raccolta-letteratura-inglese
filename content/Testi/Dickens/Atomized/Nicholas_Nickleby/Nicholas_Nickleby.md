@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Nicholas Nickleby
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
 </nav>

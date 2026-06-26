@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Quest Hero
-
 *Archetype* — appears in **5** work(s).
 
 ## Works

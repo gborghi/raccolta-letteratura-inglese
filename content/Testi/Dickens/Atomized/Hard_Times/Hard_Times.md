@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Hard Times
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
 </nav>

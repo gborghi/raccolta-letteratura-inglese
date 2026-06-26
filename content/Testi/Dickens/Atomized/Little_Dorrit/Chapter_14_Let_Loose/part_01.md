@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 11: Let Loose (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_13_Containing_the_whole_Science_o/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_14_Let_Loose/part_02">part 02 ›</a></div>

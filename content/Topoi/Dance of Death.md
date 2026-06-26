@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Dance of Death
-
 *Topos* — appears in **5** work(s).
 
 ## Works

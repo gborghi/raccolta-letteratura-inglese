@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_14_THE_CREATURE_THAT_MAN_FORGETS/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_15_THE_SONGS_OF_THE_CAR_CLUB/part_02">part 02 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Linton Heathcliff
-
 *Character* — appears in **1** work(s).
 
 ## Works

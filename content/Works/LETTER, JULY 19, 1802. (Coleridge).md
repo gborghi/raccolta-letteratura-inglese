@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# LETTER, JULY 19, 1802.
-
 *by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -29,19 +27,19 @@ tags:
 
 ## Testo integrale / Full text
 
-And sing his lofty song and teach me to rejoice!
-O Edmund, friend of my devoutest choice,
-O rais’d from anxious dread and busy care,
-By the immenseness of the good and fair
-Which thou see’st everywhere,   5
-Joy lifts thy spirit, joy attunes thy voice,
-To thee do all things live from pole to pole,
-Their life the eddying of thy living soul!
-O simple Spirit, guided from above,
-O lofty Poet, full of life and love,   10
-Brother and Friend of my devoutest choice,
-Thus may’st thou ever, evermore rejoice!
-•£¤—£•.
-M. P.
-[Note. — For lines 7, 8, 11, 12 of this variant, vide ante, variant
-of lines 75 foll.]
+And sing his lofty song and teach me to rejoice!  
+O Edmund, friend of my devoutest choice,  
+O rais’d from anxious dread and busy care,  
+By the immenseness of the good and fair  
+Which thou see’st everywhere,   5  
+Joy lifts thy spirit, joy attunes thy voice,  
+To thee do all things live from pole to pole,  
+Their life the eddying of thy living soul!  
+O simple Spirit, guided from above,  
+O lofty Poet, full of life and love,   10  
+Brother and Friend of my devoutest choice,  
+Thus may’st thou ever, evermore rejoice!  
+•£¤—£•.  
+M. P.  
+[Note. — For lines 7, 8, 11, 12 of this variant, vide ante, variant  
+of lines 75 foll.]  

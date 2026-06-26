@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Terror and Horror
-
 *Theme/Concept* — appears in **83** work(s).
 
 ## Works

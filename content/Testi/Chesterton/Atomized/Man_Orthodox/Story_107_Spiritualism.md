@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — Spiritualism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_106_The_Protection_Of_The_Bible">‹ Story 106 The Protection Of The Bible</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_108_The_Englishman_S_Religion">Story 108 The Englishman S Religion ›</a></div>

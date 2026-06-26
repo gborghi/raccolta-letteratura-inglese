@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Seth Pecksniff
-
 *Character* — appears in **1** work(s).
 
 ## Works

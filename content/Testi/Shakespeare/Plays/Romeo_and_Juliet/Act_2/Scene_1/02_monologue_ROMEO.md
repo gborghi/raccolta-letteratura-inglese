@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Romeo and Juliet — Act II, Scene 1 — monologue (ROMEO) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
 </nav>

@@ -16,8 +16,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet to John Hamilton Reynolds
-
 *by Keats*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
@@ -32,18 +30,18 @@ tags:
 
 ## Testo integrale / Full text
 
-O that a week could be an age, and we
-Felt parting and warm meeting every week,
-Then one poor year a thousand years would be,
-The flush of welcome ever on the cheek:
-So could we live long life in little space,
-So time itself would be annihilate,
-So a day’s journey in oblivious haze
-To serve our joys would lengthen and dilate.
-O to arrive each Monday morn from Ind!
-To land each Tuesday from the rich Levant!
-10
-In little time a host of joys to bind,
-And keep our souls in one eternal pant!
-This morn, my friend, and yester-evening taught
-Me how to harbour such a happy thought.
+O that a week could be an age, and we  
+Felt parting and warm meeting every week,  
+Then one poor year a thousand years would be,  
+The flush of welcome ever on the cheek:  
+So could we live long life in little space,  
+So time itself would be annihilate,  
+So a day’s journey in oblivious haze  
+To serve our joys would lengthen and dilate.  
+O to arrive each Monday morn from Ind!  
+To land each Tuesday from the rich Levant!  
+10  
+In little time a host of joys to bind,  
+And keep our souls in one eternal pant!  
+This morn, my friend, and yester-evening taught  
+Me how to harbour such a happy thought.  

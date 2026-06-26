@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Ambition
-
 *Theme/Concept* — appears in **45** work(s).
 
 ## Works

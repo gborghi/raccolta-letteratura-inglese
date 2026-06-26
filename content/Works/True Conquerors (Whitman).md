@@ -16,8 +16,6 @@ tags:
   - form/epigram
 ---
 
-# True Conquerors
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
@@ -32,13 +30,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Old farmers, travelers, workmen (no matter how crippled or bent,)
-  Old sailors, out of many a perilous voyage, storm and wreck,
-  Old soldiers from campaigns, with all their wounds, defeats and scars;
-  Enough that they’ve survived at all--long life’s unflinching ones!
-  Forth from their struggles, trials, fights, to have emerged at all--
-      in that alone,
-  True conquerors o’er all the rest.
+  Old farmers, travelers, workmen (no matter how crippled or bent,)  
+  Old sailors, out of many a perilous voyage, storm and wreck,  
+  Old soldiers from campaigns, with all their wounds, defeats and scars;  
+  Enough that they’ve survived at all--long life’s unflinching ones!  
+  Forth from their struggles, trials, fights, to have emerged at all--  
+      in that alone,  
+  True conquerors o’er all the rest.  

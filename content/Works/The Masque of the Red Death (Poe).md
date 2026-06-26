@@ -34,8 +34,6 @@ tags:
   - character/prospero
 ---
 
-# The Masque of the Red Death
-
 *by Poe*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 

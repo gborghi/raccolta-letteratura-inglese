@@ -14,8 +14,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# The Base of All Metaphysics
-
 *by Whitman*  ·  **Cluster:** [[Friendship · Tears]]
 
 > [!abstract] 

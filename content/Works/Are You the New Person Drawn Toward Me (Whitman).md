@@ -14,8 +14,6 @@ tags:
   - histref/eastern_religion
 ---
 
-# Are You the New Person Drawn Toward Me?
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

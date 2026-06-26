@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Dick Swiveller
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -15,8 +15,6 @@ tags:
   - motif/the_journey
 ---
 
-# FROM THE GERMAN
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -31,10 +29,10 @@ tags:
 
 ## Testo integrale / Full text
 
-Know’st thou the land where the pale citrons grow,
-The golden fruits in darker foliage glow?
-Soft blows the wind that breathes from that blue sky!
-Still stands the myrtle and the laurel high!
-Know’st thou it well, that land, beloved Friend?   5
-Thither with thee, O, thither would I wend!
-? 1799.
+Know’st thou the land where the pale citrons grow,  
+The golden fruits in darker foliage glow?  
+Soft blows the wind that breathes from that blue sky!  
+Still stands the myrtle and the laurel high!  
+Know’st thou it well, that land, beloved Friend?   5  
+Thither with thee, O, thither would I wend!  
+? 1799.  

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Dromio of Ephesus
-
 *Character* — appears in **1** work(s).
 
 ## Works

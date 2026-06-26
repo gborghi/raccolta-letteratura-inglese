@@ -30,8 +30,6 @@ tags:
   - character/margaret_of_anjou
 ---
 
-# HENRY VI PART ONE
-
 *by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
 
 > [!abstract] 

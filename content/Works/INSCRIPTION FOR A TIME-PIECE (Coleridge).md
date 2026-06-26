@@ -17,8 +17,6 @@ tags:
   - motif/eyes_sight
 ---
 
-# INSCRIPTION FOR A TIME-PIECE
-
 *by Coleridge*  ·  **Cluster:** [[Time · Tempus Fugit · Clock]]
 
 > [!abstract] 
@@ -33,25 +31,25 @@ tags:
 
 ## Testo integrale / Full text
 
-Now! It is gone — Our brief hours travel post,
-Each with its thought or deed, its Why or How: —
-But know, each parting hour gives up a ghost
-To dwell within thee — an eternal Now!
-First published in Lit. Rem., i. 60. First collected in 1844.
-ON THE MOST VERACIOUS ANECDOTIST
-AND
-SMALL-TALK MAN, THOMAS HILL, ESQ
-Tom Hill, who laughs at Cares and Woes,
-As nauci — nili — pili —
-What is he like, as I suppose?
-Why, to be sure, a Rose — a Rose.
-At least, no soul that Tom Hill knows
-Could e’er recall a Li-ly.
-Now first published from an MS.
-Nothing speaks our mind so well
-As to speak Nothing. Come then, tell
-Thy Mind in Tears, whoe’er thou be
-That ow’st a name to Misery:
-None can fluency deny
-To Tears, the Language of the Eye.
-Now first published from an MS. in the British Museum.
+Now! It is gone — Our brief hours travel post,  
+Each with its thought or deed, its Why or How: —  
+But know, each parting hour gives up a ghost  
+To dwell within thee — an eternal Now!  
+First published in Lit. Rem., i. 60. First collected in 1844.  
+ON THE MOST VERACIOUS ANECDOTIST  
+AND  
+SMALL-TALK MAN, THOMAS HILL, ESQ  
+Tom Hill, who laughs at Cares and Woes,  
+As nauci — nili — pili —  
+What is he like, as I suppose?  
+Why, to be sure, a Rose — a Rose.  
+At least, no soul that Tom Hill knows  
+Could e’er recall a Li-ly.  
+Now first published from an MS.  
+Nothing speaks our mind so well  
+As to speak Nothing. Come then, tell  
+Thy Mind in Tears, whoe’er thou be  
+That ow’st a name to Misery:  
+None can fluency deny  
+To Tears, the Language of the Eye.  
+Now first published from an MS. in the British Museum.  

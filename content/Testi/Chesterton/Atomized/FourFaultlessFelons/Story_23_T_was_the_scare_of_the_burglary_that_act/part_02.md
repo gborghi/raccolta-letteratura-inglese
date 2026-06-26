@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T was the scare of the burglary that actually started the story towards (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_23_T_was_the_scare_of_the_burglary_that_act/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_23_T_was_the_scare_of_the_burglary_that_act/part_03">part 03 ›</a></div>

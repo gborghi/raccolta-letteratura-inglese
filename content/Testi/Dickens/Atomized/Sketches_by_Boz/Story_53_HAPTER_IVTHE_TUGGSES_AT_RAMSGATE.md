@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER IV—THE TUGGSES AT RAMSGATE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_52_P_was_seated_at_the_same_library_table_a">‹ Story 52 P was seated at the same library table a</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_54_Hush_The_lady_paused_and_stared_with_a_s">Story 54 Hush The lady paused and stared with a s ›</a></div>

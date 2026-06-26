@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Venice
-
 *Setting* — appears in **5** work(s).
 
 ## Works

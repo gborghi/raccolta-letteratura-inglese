@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# everlasting man — Part 1 (part 40)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/everlasting-man-(Chesterton)">everlasting man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/everlasting_man/Chapter_02/part_39">‹ part 39</a><a class="ex-next" href="/Testi/Chesterton/Atomized/everlasting_man/Chapter_02/part_41">part 41 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — A Midsummer Night'S Dream (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_02_The_Common_Man/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_03_A_Midsummer_Night_S_Dream/part_02">part 02 ›</a></div>

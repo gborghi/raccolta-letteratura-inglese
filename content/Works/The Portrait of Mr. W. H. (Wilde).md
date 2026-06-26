@@ -39,8 +39,6 @@ tags:
   - character/willie_hughes
 ---
 
-# The Portrait of Mr. W. H.
-
 *by Wilde*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

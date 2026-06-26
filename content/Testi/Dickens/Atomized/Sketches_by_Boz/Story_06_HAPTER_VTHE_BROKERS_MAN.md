@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER V—THE BROKER’S MAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_05_HAPTER_IVTHE_ELECTION_FOR_BEADLE">‹ Story 05 HAPTER IVTHE ELECTION FOR BEADLE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_07_R_BUNGS_NARRATIVE">Story 07 R BUNGS NARRATIVE ›</a></div>

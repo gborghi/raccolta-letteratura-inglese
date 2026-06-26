@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Christmas Carol — Stave 1: MARLEY'S GHOST
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS">Chapter 02 THE FIRST OF THE THREE SPIRITS ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mesmeric Revelation (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mesmeric-Revelation-(Poe)">Mesmeric Revelation</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Mesmeric_Revelation/part/part_02">part 02 ›</a></div>

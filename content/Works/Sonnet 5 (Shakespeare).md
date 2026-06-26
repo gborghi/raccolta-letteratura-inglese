@@ -19,8 +19,6 @@ tags:
   - motif/decay
 ---
 
-# Sonnet 5
-
 *by Shakespeare*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -35,19 +33,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Those hours that with gentle work did frame 
-The lovely gaze where every eye doth dwell 
-Will play the tyrants to the very same, 
-And that unfair which fairly doth excel; 
-For never-resting time leads summer on 
-To hideous winter, and confounds him there, 
-Sap checked with frost, and lusty leaves quite gone, 
-Beauty o’er-snowed, and bareness everywhere. 
-Then were not summer’s distillation left 
-A liquid prisoner pent in walls of glass, 
-Beauty’s effect with beauty were bereft, 
-Nor it nor no remembrance what it was.
+Those hours that with gentle work did frame  
+The lovely gaze where every eye doth dwell  
+Will play the tyrants to the very same,  
+And that unfair which fairly doth excel;  
+For never-resting time leads summer on  
+To hideous winter, and confounds him there,  
+Sap checked with frost, and lusty leaves quite gone,  
+Beauty o’er-snowed, and bareness everywhere.  
+Then were not summer’s distillation left  
+A liquid prisoner pent in walls of glass,  
+Beauty’s effect with beauty were bereft,  
+Nor it nor no remembrance what it was.  
 
-But flowers distilled, though they with winter meet,
+But flowers distilled, though they with winter meet,  
 
-Lose but their show; their substance still lives sweet.
+Lose but their show; their substance still lives sweet.  

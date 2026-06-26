@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Orient
-
 *Setting* — appears in **14** work(s).
 
 ## Works

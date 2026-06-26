@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE OPEN CONSPIRACY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_16_ON_THE_IMPORTANCE_OF_WHY_WE_DO_OR_DON_T">‹ Story 16 ON THE IMPORTANCE OF WHY WE DO OR DON T</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_18_ON_THE_CLOSED_CONSPIRACY">Story 18 ON THE CLOSED CONSPIRACY ›</a></div>

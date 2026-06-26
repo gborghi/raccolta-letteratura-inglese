@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Professor — Chapter 25
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_02_INTRODUCTORY">Chapter 02 INTRODUCTORY ›</a></div>

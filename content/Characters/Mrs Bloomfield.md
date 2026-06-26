@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mrs Bloomfield
-
 *Character* — appears in **1** work(s).
 
 ## Works

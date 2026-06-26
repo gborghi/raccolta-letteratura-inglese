@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# ON A LATE MARRIAGE BETWEEN AN OLD MAID AND FRENCH PETIT MAÎTRE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,10 +26,10 @@ tags:
 
 ## Testo integrale / Full text
 
-Tho’ Miss — —’s match is a subject of mirth,
-She considered the matter full well,
-And wisely preferred leading one ape on earth
-To perhaps a whole dozen in hell.
-First published in The Watchman, No. V, April 2, 1796. Included in
-Literary Remains, 1836, i. 45. First collected P. and D. W., 1877,
-ii. 368.
+Tho’ Miss — —’s match is a subject of mirth,  
+She considered the matter full well,  
+And wisely preferred leading one ape on earth  
+To perhaps a whole dozen in hell.  
+First published in The Watchman, No. V, April 2, 1796. Included in  
+Literary Remains, 1836, i. 45. First collected P. and D. W., 1877,  
+ii. 368.  

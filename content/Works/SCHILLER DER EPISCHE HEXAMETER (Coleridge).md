@@ -14,8 +14,6 @@ tags:
   - concept/immortality_of_art
 ---
 
-# SCHILLER: DER EPISCHE HEXAMETER
-
 *by Coleridge*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -29,11 +27,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Schwindelnd trägt er dich fort auf rastlos strömenden Wogen;
-Hinter dir siehst du, du siehst vor dir nur Himmel und Meer.
-DAS DISTICHON
-Im Hexameter steigt des Springquells flüssige Säule;
-Im Pentameter drauf fällt sie melodisch herab.
-See Poems, 1844, p. 372.
-C
-[Vide ante, p. 308]
+Schwindelnd trägt er dich fort auf rastlos strömenden Wogen;  
+Hinter dir siehst du, du siehst vor dir nur Himmel und Meer.  
+DAS DISTICHON  
+Im Hexameter steigt des Springquells flüssige Säule;  
+Im Pentameter drauf fällt sie melodisch herab.  
+See Poems, 1844, p. 372.  
+C  
+[Vide ante, p. 308]  

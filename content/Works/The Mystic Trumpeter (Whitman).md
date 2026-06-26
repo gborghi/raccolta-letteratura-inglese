@@ -18,8 +18,6 @@ tags:
   - topos/poet_as_prophet
 ---
 
-# The Mystic Trumpeter
-
 *by Whitman*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Kubla Khan
-
 *Character* — appears in **1** work(s).
 
 ## Works

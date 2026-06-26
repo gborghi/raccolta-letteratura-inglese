@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Winter Feast
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_13_Culture_versus_Civilisation">‹ Story 13 Culture versus Civilisation</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_15_They_Tell_a_Story">Story 15 They Tell a Story ›</a></div>

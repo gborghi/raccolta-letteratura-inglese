@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Taming of the Shrew — Act II, Scene 1 — exchange (BAPTISTA) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
 </nav>

@@ -15,8 +15,6 @@ tags:
   - form/ode
 ---
 
-# Spain, 1873-74
-
 *by Whitman*  ·  **Cluster:** [[Ruins the Abbey · Sic Transit Gloria Mundi · Ubi Sunt]]
 
 > [!abstract] 
@@ -31,21 +29,21 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: FROM NOON TO STARRY NIGHT_
+_Cluster: FROM NOON TO STARRY NIGHT_  
 
 
-  Out of the murk of heaviest clouds,
-  Out of the feudal wrecks and heap’d-up skeletons of kings,
-  Out of that old entire European debris, the shatter’d mummeries,
-  Ruin’d cathedrals, crumble of palaces, tombs of priests,
-  Lo, Freedom’s features fresh undimm’d look forth--the same immortal
-      face looks forth;
-  (A glimpse as of thy Mother’s face Columbia,
-  A flash significant as of a sword,
-  Beaming towards thee.)
+  Out of the murk of heaviest clouds,  
+  Out of the feudal wrecks and heap’d-up skeletons of kings,  
+  Out of that old entire European debris, the shatter’d mummeries,  
+  Ruin’d cathedrals, crumble of palaces, tombs of priests,  
+  Lo, Freedom’s features fresh undimm’d look forth--the same immortal  
+      face looks forth;  
+  (A glimpse as of thy Mother’s face Columbia,  
+  A flash significant as of a sword,  
+  Beaming towards thee.)  
 
-  Nor think we forget thee maternal;
-  Lag’d’st thou so long? shall the clouds close again upon thee?
-  Ah, but thou hast thyself now appear’d to us--we know thee,
-  Thou hast given us a sure proof, the glimpse of thyself,
-  Thou waitest there as everywhere thy time.
+  Nor think we forget thee maternal;  
+  Lag’d’st thou so long? shall the clouds close again upon thee?  
+  Ah, but thou hast thyself now appear’d to us--we know thee,  
+  Thou hast given us a sure proof, the glimpse of thyself,  
+  Thou waitest there as everywhere thy time.  

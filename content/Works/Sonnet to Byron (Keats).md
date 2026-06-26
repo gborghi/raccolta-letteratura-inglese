@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet to Byron
-
 *by Keats*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Byron! how sweetly sad thy melody!
-Attuning still the soul to tenderness,
-As if soft Pity, with unusual stress,
-Had touch’d her plaintive lute, and thou, being by,
-Hadst caught the tones, nor suffer’d them to die.
-O’ershadowing sorrow doth not make thee less
-Delightful: thou thy griefs dost dress
-With a bright halo, shining beamily,
-As when a cloud the golden moon doth veil,
-Its sides are ting’d with a resplendent glow,  10
-Through the dark robe oft amber rays prevail,
-And like fair veins in sable marble flow;
-Still warble, dying swan! still tell the tale,
-The enchanting tale, the tale of pleasing woe.
+Byron! how sweetly sad thy melody!  
+Attuning still the soul to tenderness,  
+As if soft Pity, with unusual stress,  
+Had touch’d her plaintive lute, and thou, being by,  
+Hadst caught the tones, nor suffer’d them to die.  
+O’ershadowing sorrow doth not make thee less  
+Delightful: thou thy griefs dost dress  
+With a bright halo, shining beamily,  
+As when a cloud the golden moon doth veil,  
+Its sides are ting’d with a resplendent glow,  10  
+Through the dark robe oft amber rays prevail,  
+And like fair veins in sable marble flow;  
+Still warble, dying swan! still tell the tale,  
+The enchanting tale, the tale of pleasing woe.  

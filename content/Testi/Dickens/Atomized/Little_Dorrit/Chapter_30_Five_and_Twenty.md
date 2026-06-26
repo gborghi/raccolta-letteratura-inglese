@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 27: Five-and-Twenty
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_29_Nobodys_State_of_Mind">‹ Chapter 29 Nobodys State of Mind</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_31_Nobodys_Disappearance">Chapter 31 Nobodys Disappearance ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Pericles — Scene 16
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_15">‹ Scene 15</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Pericles/Scenes/Scene_17">Scene 17 ›</a></div>

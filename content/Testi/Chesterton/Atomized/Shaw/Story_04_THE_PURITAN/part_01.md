@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE PURITAN (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_03_THE_IRISHMAN/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_04_THE_PURITAN/part_02">part 02 ›</a></div>

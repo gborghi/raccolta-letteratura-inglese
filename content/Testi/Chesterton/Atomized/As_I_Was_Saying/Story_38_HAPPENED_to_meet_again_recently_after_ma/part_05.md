@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — HAPPENED to meet again, recently, after many years, a very brilliant (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_38_HAPPENED_to_meet_again_recently_after_ma/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_38_HAPPENED_to_meet_again_recently_after_ma/part_06">part 06 ›</a></div>

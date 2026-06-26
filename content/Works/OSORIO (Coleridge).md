@@ -24,8 +24,6 @@ tags:
   - form/blank_verse
 ---
 
-# OSORIO
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

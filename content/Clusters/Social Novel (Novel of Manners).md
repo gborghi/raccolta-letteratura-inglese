@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Social Novel (Novel of Manners)
-
 *Cluster* — **5 works**.
 
 ## Defining concepts

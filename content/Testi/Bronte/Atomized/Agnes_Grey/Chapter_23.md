@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Agnes Grey — Chapter 22
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_22">‹ Chapter 22</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_24">Chapter 24 ›</a></div>

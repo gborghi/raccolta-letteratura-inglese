@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# LordKitchener — E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/LordKitchener-(Chesterton)">LordKitchener</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/LordKitchener/Story_15_E_8_You_may_charge_a_reasonable_fee_for">‹ Story 15 E 8 You may charge a reasonable fee for</a><a class="ex-next" href="/Testi/Chesterton/Atomized/LordKitchener/Story_17_F_1_Project_Gutenberg_volunteers_and_emp">Story 17 F 1 Project Gutenberg volunteers and emp ›</a></div>

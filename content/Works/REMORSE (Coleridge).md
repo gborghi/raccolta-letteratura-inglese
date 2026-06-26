@@ -30,8 +30,6 @@ tags:
   - setting/the_castle
 ---
 
-# REMORSE
-
 *by Coleridge*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Faust
-
 *Character* — appears in **3** work(s).
 
 ## Works

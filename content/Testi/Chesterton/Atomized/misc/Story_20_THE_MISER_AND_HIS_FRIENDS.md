@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE MISER AND HIS FRIENDS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_19_THE_CONSCRIPT_AND_THE_CRISIS">‹ Story 19 THE CONSCRIPT AND THE CRISIS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_21_THE_MYSTAGOGUE">Story 21 THE MYSTAGOGUE ›</a></div>

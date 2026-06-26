@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Corner
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_135_From_Dickens_To_Gissing">‹ Story 135 From Dickens To Gissing</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_137_Chaos">Story 137 Chaos ›</a></div>

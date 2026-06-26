@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Storm
-
 *Motif* — appears in **82** work(s).
 
 ## Works

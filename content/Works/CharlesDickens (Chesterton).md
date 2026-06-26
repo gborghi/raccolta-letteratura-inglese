@@ -23,8 +23,6 @@ tags:
   - concept/poverty
 ---
 
-# CharlesDickens
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

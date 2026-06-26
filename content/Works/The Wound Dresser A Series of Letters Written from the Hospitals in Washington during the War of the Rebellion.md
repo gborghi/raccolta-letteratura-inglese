@@ -24,8 +24,6 @@ tags:
   - setting/washington_dc
 ---
 
-# The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

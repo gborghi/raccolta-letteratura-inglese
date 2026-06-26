@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Portrait of Mr. W. H.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Portrait-of-Mr.-W.-H.-(Wilde)">010 The Portrait of Mr W H</a></div>
 </nav>

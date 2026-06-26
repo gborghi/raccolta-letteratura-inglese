@@ -21,8 +21,6 @@ tags:
   - form/autobiography
 ---
 
-# ortho14
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

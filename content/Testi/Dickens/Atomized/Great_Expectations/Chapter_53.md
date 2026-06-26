@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Great Expectations — Chapter 53
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Great-Expectations-(Dickens)">Great Expectations</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_52">‹ Chapter 52</a><a class="ex-next" href="/Testi/Dickens/Atomized/Great_Expectations/Chapter_54">Chapter 54 ›</a></div>

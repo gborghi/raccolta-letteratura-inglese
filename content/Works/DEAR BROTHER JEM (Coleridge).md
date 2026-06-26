@@ -14,8 +14,6 @@ tags:
   - concept/vanity
 ---
 
-# DEAR BROTHER JEM
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-Jem writes his verses with more speed
-Than the printer’s boy can set ‘em;
-Quite as fast as we can read,
-And only not so fast as we forget ‘em.
-First published in Morning Post, Sept. 23, 1799. Included in An.
-Anth., 1800; Essays, &c., 1850, iii. 974. First collected P. and D.
-W., 1877, ii. 164.
+Jem writes his verses with more speed  
+Than the printer’s boy can set ‘em;  
+Quite as fast as we can read,  
+And only not so fast as we forget ‘em.  
+First published in Morning Post, Sept. 23, 1799. Included in An.  
+Anth., 1800; Essays, &c., 1850, iii. 974. First collected P. and D.  
+W., 1877, ii. 164.  

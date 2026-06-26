@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Napoleon of Notting Hill
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Napoleon-of-Notting-Hill-(Chesterton)">Napoleon of Notting Hill</a></div>
 </nav>

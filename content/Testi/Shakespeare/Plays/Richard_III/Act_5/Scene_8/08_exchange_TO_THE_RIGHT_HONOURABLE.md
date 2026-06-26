@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard III — Act V, Scene 8 — exchange (TO THE RIGHT HONOURABLE HENRY) [8]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
 </nav>

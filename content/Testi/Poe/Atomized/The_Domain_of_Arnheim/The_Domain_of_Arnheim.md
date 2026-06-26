@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Domain of Arnheim
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Domain-of-Arnheim-(Poe)">The Domain of Arnheim</a></div>
 </nav>

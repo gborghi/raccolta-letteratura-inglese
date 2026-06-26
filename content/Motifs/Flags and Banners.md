@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Flags and Banners
-
 *Motif* — appears in **4** work(s).
 
 ## Works

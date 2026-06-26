@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 4: THE INN FINDS WINGS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_03_THE_SIGN_OF_THE_OLD_SHIP">‹ Chapter 03 THE SIGN OF THE OLD SHIP</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_05_THE_ASTONISHMENT_OF_THE_AGENT">Chapter 05 THE ASTONISHMENT OF THE AGENT ›</a></div>

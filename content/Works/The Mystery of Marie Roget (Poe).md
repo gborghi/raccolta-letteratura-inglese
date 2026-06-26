@@ -30,8 +30,6 @@ tags:
   - character/marie_roget
 ---
 
-# The Mystery of Marie Roget
-
 *by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

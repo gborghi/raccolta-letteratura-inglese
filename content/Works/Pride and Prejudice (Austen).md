@@ -38,8 +38,6 @@ tags:
   - character/lady_catherine_de_bourgh
 ---
 
-# Pride and Prejudice
-
 *by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
 
 > [!abstract] 

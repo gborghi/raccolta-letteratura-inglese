@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE ENCHANTED MAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_08_THE_MAD_OFFICIAL">‹ Story 08 THE MAD OFFICIAL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_10_THE_SUN_WORSHIPPER">Story 10 THE SUN WORSHIPPER ›</a></div>

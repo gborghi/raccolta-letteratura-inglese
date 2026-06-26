@@ -16,8 +16,6 @@ tags:
   - histref/the_reformation
 ---
 
-# A METRICAL ACCIDENT
-
 *by Coleridge*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Curious instance of casual metre and rhyme in a prose narrative (The
-Life of Jerome of Prague). The metre is Amphibrach dimeter Catalectic
-Ø ¯ Ø | Ø ¯, and the rhymes antistrophic.
-Then Jerome did call       a
-From his flame-pointed Fence;       b
-Which under he trod,       c
-As upward to mount    d
-From the fiery flood, —  e
-‘I summon you all,    a
-A hundred years hence,     b
-To appear before God,      c
-To give an account    d
-Of my innocent blood!’     e
-July 7, 1826. Now first published from an MS.
+Curious instance of casual metre and rhyme in a prose narrative (The  
+Life of Jerome of Prague). The metre is Amphibrach dimeter Catalectic  
+Ø ¯ Ø | Ø ¯, and the rhymes antistrophic.  
+Then Jerome did call       a  
+From his flame-pointed Fence;       b  
+Which under he trod,       c  
+As upward to mount    d  
+From the fiery flood, —  e  
+‘I summon you all,    a  
+A hundred years hence,     b  
+To appear before God,      c  
+To give an account    d  
+Of my innocent blood!’     e  
+July 7, 1826. Now first published from an MS.  

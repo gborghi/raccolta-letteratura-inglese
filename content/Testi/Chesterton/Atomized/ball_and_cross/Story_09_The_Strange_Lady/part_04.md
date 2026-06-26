@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — The Strange Lady (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_09_The_Strange_Lady/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_09_The_Strange_Lady/part_05">part 05 ›</a></div>

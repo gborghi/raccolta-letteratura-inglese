@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Never Bet the Devil your Head
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Never-Bet-the-Devil-your-Head-(Poe)">Never Bet the Devil your Head</a></div>
 </nav>

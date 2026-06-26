@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Order vs Chaos · Historical Novel · Fanaticism
-
 *Cluster* — **3 works**.
 
 ## Defining concepts

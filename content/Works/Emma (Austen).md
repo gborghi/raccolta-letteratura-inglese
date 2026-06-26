@@ -34,8 +34,6 @@ tags:
   - character/miss_bates
 ---
 
-# Emma
-
 *by Austen*  ·  **Cluster:** [[Social Novel (Novel of Manners)]]
 
 > [!abstract] 

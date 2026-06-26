@@ -14,8 +14,6 @@ tags:
   - concept/imagination
 ---
 
-# WRITTEN ON THE DAY THAT MR. LEIGH HUNT LEFT PRISON
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-What though, for showing truth to flatter’d state
-  Kind Hunt was shut in prison, yet has he,
-  In his immortal spirit, been as free
-As the sky-searching lark, and as elate.
-Minion of grandeur! think you he did wait?
-  Think you he nought but prison walls did see,
-  Till, so unwilling, thou unturn’dst the key?
-Ah, no! far happier, nobler was his fate!
-In Spenser’s halls he strayed, and bowers fair,
-  Culling enchanted flowers; and he flew
-With daring Milton through the fields of air:
-  To regions of his own his genius true
-Took happy flights. Who shall his fame impair
-  When thou art dead, and all thy wretched crew?
+What though, for showing truth to flatter’d state  
+  Kind Hunt was shut in prison, yet has he,  
+  In his immortal spirit, been as free  
+As the sky-searching lark, and as elate.  
+Minion of grandeur! think you he did wait?  
+  Think you he nought but prison walls did see,  
+  Till, so unwilling, thou unturn’dst the key?  
+Ah, no! far happier, nobler was his fate!  
+In Spenser’s halls he strayed, and bowers fair,  
+  Culling enchanted flowers; and he flew  
+With daring Milton through the fields of air:  
+  To regions of his own his genius true  
+Took happy flights. Who shall his fame impair  
+  When thou art dead, and all thy wretched crew?  

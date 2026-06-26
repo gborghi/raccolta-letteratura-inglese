@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lady Windermere
-
 *Character* — appears in **2** work(s).
 
 ## Works

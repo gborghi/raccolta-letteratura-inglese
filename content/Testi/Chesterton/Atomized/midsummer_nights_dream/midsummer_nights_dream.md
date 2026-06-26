@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# midsummer nights dream
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/midsummer-nights-dream-(Chesterton)">midsummer nights dream</a></div>
 </nav>

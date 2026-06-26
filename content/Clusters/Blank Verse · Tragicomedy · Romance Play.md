@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Blank Verse · Tragicomedy · Romance Play
-
 *Cluster* — **6 works**.
 
 ## Defining concepts

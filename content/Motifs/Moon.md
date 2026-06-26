@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Moon
-
 *Motif* — appears in **84** work(s).
 
 ## Works

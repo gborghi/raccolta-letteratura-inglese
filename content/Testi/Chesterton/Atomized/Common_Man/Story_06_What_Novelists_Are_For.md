@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — What Novelists Are For
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_05_Monsters_And_The_Middle_Ages">‹ Story 05 Monsters And The Middle Ages</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_07_The_Song_Of_Roland">Story 07 The Song Of Roland ›</a></div>

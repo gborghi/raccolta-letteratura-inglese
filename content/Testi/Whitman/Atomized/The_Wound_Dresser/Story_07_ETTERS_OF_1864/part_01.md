@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — ETTERS OF 1864 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_06_SS_and_books_and_the_trunk_etc_but_I_wil/part_11">‹ part 11</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_07_ETTERS_OF_1864/part_02">part 02 ›</a></div>

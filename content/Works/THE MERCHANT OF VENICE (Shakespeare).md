@@ -37,8 +37,6 @@ tags:
   - character/launcelot_gobbo
 ---
 
-# THE MERCHANT OF VENICE
-
 *by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

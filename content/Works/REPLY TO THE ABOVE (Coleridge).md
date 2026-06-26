@@ -15,8 +15,6 @@ tags:
   - form/epigram
 ---
 
-# REPLY TO THE ABOVE
-
 *by Coleridge*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
@@ -30,14 +28,14 @@ tags:
 
 ## Testo integrale / Full text
 
-For shame, dear friend, renounce this canting strain!
-What would’st thou have a good great man obtain?
-Place? titles? salary? a gilded chain?
-Or throne of corses which his sword had slain?   10
-Greatness and goodness are not means, but ends!
-Hath he not always treasures, always friends,
-The good great man? three treasures, LOVE, and LIGHT,
-And CALM THOUGHTS, regular as infant’s breath:
-And three firm friends, more sure than day and night,   15
-HIMSELF, his MAKER, and the ANGEL DEATH!
-1802.
+For shame, dear friend, renounce this canting strain!  
+What would’st thou have a good great man obtain?  
+Place? titles? salary? a gilded chain?  
+Or throne of corses which his sword had slain?   10  
+Greatness and goodness are not means, but ends!  
+Hath he not always treasures, always friends,  
+The good great man? three treasures, LOVE, and LIGHT,  
+And CALM THOUGHTS, regular as infant’s breath:  
+And three firm friends, more sure than day and night,   15  
+HIMSELF, his MAKER, and the ANGEL DEATH!  
+1802.  

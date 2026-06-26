@@ -19,8 +19,6 @@ tags:
   - setting/london
 ---
 
-# cockneys
-
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

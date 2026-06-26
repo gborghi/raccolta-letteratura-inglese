@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The First Part of the Contention (2 Henry VI) — Act IV, Scene 2 — exchange (ALL CADE’S FOLLOWERS) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-FIRST-PART-OF-THE-CONTENTION---(2-HENRY-VI)-(Shakespeare)">The First Part of the Contention 2 Henry VI</a></div>
 </nav>

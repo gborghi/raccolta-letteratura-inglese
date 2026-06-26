@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# SIR THOMAS MORE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
 </nav>

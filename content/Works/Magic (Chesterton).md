@@ -20,8 +20,6 @@ tags:
   - motif/light_and_dark
 ---
 
-# Magic
-
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

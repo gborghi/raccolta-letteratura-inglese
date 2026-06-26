@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# Whispers of Heavenly Death
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: WHISPERS OF HEAVENLY DEATH_
+_Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
-  Whispers of heavenly death murmur’d I hear,
-  Labial gossip of night, sibilant chorals,
-  Footsteps gently ascending, mystical breezes wafted soft and low,
-  Ripples of unseen rivers, tides of a current flowing, forever flowing,
-  (Or is it the plashing of tears? the measureless waters of human tears?)
+  Whispers of heavenly death murmur’d I hear,  
+  Labial gossip of night, sibilant chorals,  
+  Footsteps gently ascending, mystical breezes wafted soft and low,  
+  Ripples of unseen rivers, tides of a current flowing, forever flowing,  
+  (Or is it the plashing of tears? the measureless waters of human tears?)  
 
-  I see, just see skyward, great cloud-masses,
-  Mournfully slowly they roll, silently swelling and mixing,
-  With at times a half-dimm’d sadden’d far-off star,
-  Appearing and disappearing.
+  I see, just see skyward, great cloud-masses,  
+  Mournfully slowly they roll, silently swelling and mixing,  
+  With at times a half-dimm’d sadden’d far-off star,  
+  Appearing and disappearing.  
 
-  (Some parturition rather, some solemn immortal birth;
-  On the frontiers to eyes impenetrable,
-  Some soul is passing over.)
+  (Some parturition rather, some solemn immortal birth;  
+  On the frontiers to eyes impenetrable,  
+  Some soul is passing over.)  

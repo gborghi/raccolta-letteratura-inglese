@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Temptation
-
 *Topos* — appears in **0** work(s).
 
 #graph/topos

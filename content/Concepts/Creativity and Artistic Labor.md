@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Creativity and Artistic Labor
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

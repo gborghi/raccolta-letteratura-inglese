@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 </nav>

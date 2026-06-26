@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Growth--Health--Work
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_10_Printing_Office_Old_Brooklyn">‹ Story 10 Printing Office Old Brooklyn</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_12_My_Passion_for_Ferries">Story 12 My Passion for Ferries ›</a></div>

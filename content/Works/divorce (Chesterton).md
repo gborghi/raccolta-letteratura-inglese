@@ -17,8 +17,6 @@ tags:
   - form/essay
 ---
 
-# divorce
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

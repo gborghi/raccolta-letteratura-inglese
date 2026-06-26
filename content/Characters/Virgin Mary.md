@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Virgin Mary
-
 *Character* — appears in **16** work(s).
 
 ## Works

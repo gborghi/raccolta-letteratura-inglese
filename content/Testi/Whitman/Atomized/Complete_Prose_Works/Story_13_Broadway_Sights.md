@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Broadway Sights
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_12_My_Passion_for_Ferries">‹ Story 12 My Passion for Ferries</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_14_Omnibus_Jaunts_and_Drivers">Story 14 Omnibus Jaunts and Drivers ›</a></div>

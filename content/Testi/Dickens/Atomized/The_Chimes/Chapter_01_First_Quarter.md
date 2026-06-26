@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Chimes — Chapter 1: First Quarter
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Chimes-(Dickens)">The Chimes</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/The_Chimes/Chapter_02_The_Second_Quarter">Chapter 02 The Second Quarter ›</a></div>

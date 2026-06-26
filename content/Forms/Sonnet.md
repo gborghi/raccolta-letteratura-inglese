@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Sonnet
-
 *Form/Genre* — appears in **239** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Portrait of Mr. W. H. (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Portrait-of-Mr.-W.-H.-(Wilde)">010 The Portrait of Mr W H</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/010_The_Portrait_of_Mr_W_H/part/part_02">‹ part 02</a><span></span></div>

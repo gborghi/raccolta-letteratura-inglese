@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Melancholy · Suffering · Pain and Suffering
-
 *Cluster* — **50 works**.
 
 ## Defining concepts

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Grotesque
-
 *Theme/Concept* — appears in **53** work(s).
 
 ## Works

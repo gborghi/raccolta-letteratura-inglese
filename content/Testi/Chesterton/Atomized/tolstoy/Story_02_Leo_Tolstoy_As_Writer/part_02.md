@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# tolstoy — Leo Tolstoy As Writer (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/tolstoy-(Chesterton)">tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/tolstoy/Story_02_Leo_Tolstoy_As_Writer/part_01">‹ part 01</a><span></span></div>

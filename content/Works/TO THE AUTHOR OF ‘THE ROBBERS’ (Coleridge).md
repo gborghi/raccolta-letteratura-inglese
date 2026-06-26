@@ -15,8 +15,6 @@ tags:
   - concept/the_grotesque
 ---
 
-# TO THE AUTHOR OF ‘THE ROBBERS’
-
 *by Coleridge*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Schiller! that hour I would have wish’d to die,
-If thro’ the shuddering midnight I had sent
-From the dark dungeon of the Tower time-rent
-That fearful voice, a famish’d Father’s cry —
-Lest in some after moment aught more mean   5
-Might stamp me mortal! A triumphant shout
-Black Horror scream’d, and all her goblin rout
-Diminish’d shrunk from the more withering scene!
-Ah! Bard tremendous in sublimity!
-Could I behold thee in thy loftier mood   10
-Wandering at eve with finely-frenzied eye
-Beneath some vast old tempest-swinging wood!
-Awhile with mute awe gazing I would brood:
-Then weep aloud in a wild ecstasy!
-? 1794.
+Schiller! that hour I would have wish’d to die,  
+If thro’ the shuddering midnight I had sent  
+From the dark dungeon of the Tower time-rent  
+That fearful voice, a famish’d Father’s cry —  
+Lest in some after moment aught more mean   5  
+Might stamp me mortal! A triumphant shout  
+Black Horror scream’d, and all her goblin rout  
+Diminish’d shrunk from the more withering scene!  
+Ah! Bard tremendous in sublimity!  
+Could I behold thee in thy loftier mood   10  
+Wandering at eve with finely-frenzied eye  
+Beneath some vast old tempest-swinging wood!  
+Awhile with mute awe gazing I would brood:  
+Then weep aloud in a wild ecstasy!  
+? 1794.  

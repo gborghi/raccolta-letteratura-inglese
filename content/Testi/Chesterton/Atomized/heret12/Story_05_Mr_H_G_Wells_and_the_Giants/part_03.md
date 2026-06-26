@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Mr. H. G. Wells and the Giants (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_05_Mr_H_G_Wells_and_the_Giants/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_05_Mr_H_G_Wells_and_the_Giants/part_04">part 04 ›</a></div>

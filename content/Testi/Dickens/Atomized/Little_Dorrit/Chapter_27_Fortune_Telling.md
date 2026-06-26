@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 24: Fortune-Telling
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_26_Machinery_in_Motion">‹ Chapter 26 Machinery in Motion</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_28_Conspirators_and_Others">Chapter 28 Conspirators and Others ›</a></div>

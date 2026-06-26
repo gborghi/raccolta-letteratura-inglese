@@ -18,8 +18,6 @@ tags:
   - motif/childhood
 ---
 
-# SONNET: TO A FRIEND WHO ASKED, HOW I FELT WHEN THE NURSE FIRST PRESENTED MY INFANT TO ME
-
 *by Coleridge*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Charles! my slow heart was only sad, when first
-I scann’d that face of feeble infancy:
-For dimly on my thoughtful spirit burst
-All I had been, and all my child might be!
-But when I saw it on its mother’s arm,   5
-And hanging at her bosom (she the while
-Bent o’er its features with a tearful smile)
-Then I was thrill’d and melted, and most warm
-Impress’d a father’s kiss: and all beguil’d
-Of dark remembrance and presageful fear,   10
-I seem’d to see an angel-form appear —
-‘Twas even thine, belovéd woman mild!
-So for the mother’s sake the child was dear,
-And dearer was the mother for the child.
-1796.
+Charles! my slow heart was only sad, when first  
+I scann’d that face of feeble infancy:  
+For dimly on my thoughtful spirit burst  
+All I had been, and all my child might be!  
+But when I saw it on its mother’s arm,   5  
+And hanging at her bosom (she the while  
+Bent o’er its features with a tearful smile)  
+Then I was thrill’d and melted, and most warm  
+Impress’d a father’s kiss: and all beguil’d  
+Of dark remembrance and presageful fear,   10  
+I seem’d to see an angel-form appear —  
+‘Twas even thine, belovéd woman mild!  
+So for the mother’s sake the child was dear,  
+And dearer was the mother for the child.  
+1796.  

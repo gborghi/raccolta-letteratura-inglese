@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Childhood
-
 *Motif* — appears in **76** work(s).
 
 ## Works

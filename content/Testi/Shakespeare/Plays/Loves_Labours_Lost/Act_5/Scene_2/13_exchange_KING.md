@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Loves Labours Lost — Act V, Scene 2 — exchange (KING) [13]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/LOVE’S-LABOUR’S-LOST-(Shakespeare)">Loves Labours Lost</a></div>
 </nav>

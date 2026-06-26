@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Portia
-
 *Character* — appears in **2** work(s).
 
 ## Works

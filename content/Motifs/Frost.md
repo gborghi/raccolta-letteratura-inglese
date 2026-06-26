@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Frost
-
 *Motif* — appears in **4** work(s).
 
 ## Works

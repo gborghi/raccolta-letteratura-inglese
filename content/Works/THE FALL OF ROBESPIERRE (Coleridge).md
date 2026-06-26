@@ -23,8 +23,6 @@ tags:
   - form/blank_verse
 ---
 
-# THE FALL OF ROBESPIERRE
-
 *by Coleridge*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

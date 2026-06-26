@@ -40,8 +40,6 @@ tags:
   - character/lincoln
 ---
 
-# SIR THOMAS MORE
-
 *by Shakespeare*  ·  **Cluster:** [[Court · Medieval England · History Play]]
 
 > [!abstract] 

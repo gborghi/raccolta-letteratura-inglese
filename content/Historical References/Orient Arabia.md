@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Orient / Arabia
-
 *Historical reference* — appears in **2** work(s).
 
 ## Works

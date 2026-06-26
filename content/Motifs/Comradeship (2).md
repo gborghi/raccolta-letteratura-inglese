@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Comradeship
-
 *Motif* — appears in **7** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 22: SOME OLD SCENES, AND SOME NEW PEOPLE (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_23_I_CORROBORATE_Mr_DICK_AND_CHOO/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 1 Henry IV — Act III, Scene 1 — exchange (MORTIMER) [7]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/1-HENRY-IV-(Shakespeare)">1 Henry IV</a></div>
 </nav>

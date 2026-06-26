@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER III—SHOPS AND THEIR TENANTS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_11_HAPTER_IITHE_STREETSNIGHT">‹ Story 11 HAPTER IITHE STREETSNIGHT</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_13_HAPTER_IVSCOTLAND_YARD">Story 13 HAPTER IVSCOTLAND YARD ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# TheAppOfTyranny
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/TheAppOfTyranny-(Chesterton)">TheAppOfTyranny</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Faith
-
 *Theme/Concept* — appears in **367** work(s).
 
 ## Works

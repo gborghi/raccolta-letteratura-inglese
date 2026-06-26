@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Battle of Life — Part 2 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Battle-of-Life-(Dickens)">The Battle of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_01/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Battle_of_Life/Chapter_02/part_02">part 02 ›</a></div>

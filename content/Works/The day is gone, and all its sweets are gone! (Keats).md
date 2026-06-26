@@ -16,8 +16,6 @@ tags:
   - motif/flowers
 ---
 
-# The day is gone, and all its sweets are gone!
-
 *by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -32,18 +30,18 @@ tags:
 
 ## Testo integrale / Full text
 
-The day is gone, and all its sweets are gone!
-Sweet voice, sweet lips, soft hand, and softer breast,
-Warm breath, light whisper, tender semi-tone,
-Bright eyes, accomplish’d shape, and lang’rous waist!
-Faded the flower and all its budded charms,
-Faded the sight of beauty from my eyes,
-Faded the shape of beauty from my arms,
-Faded the voice, warmth, whiteness, paradise -
-Vanish’d unseasonably at shut of eve,
-When the dusk holiday - or holinight
-10
-Of fragrant-curtain’d love begins to weave
-The woof of darkness thick, for hid delight ;
-But, as I’ve read love’s missal through today,
-He’ll let me sleep, seeing I fast and pray.
+The day is gone, and all its sweets are gone!  
+Sweet voice, sweet lips, soft hand, and softer breast,  
+Warm breath, light whisper, tender semi-tone,  
+Bright eyes, accomplish’d shape, and lang’rous waist!  
+Faded the flower and all its budded charms,  
+Faded the sight of beauty from my eyes,  
+Faded the shape of beauty from my arms,  
+Faded the voice, warmth, whiteness, paradise -  
+Vanish’d unseasonably at shut of eve,  
+When the dusk holiday - or holinight  
+10  
+Of fragrant-curtain’d love begins to weave  
+The woof of darkness thick, for hid delight ;  
+But, as I’ve read love’s missal through today,  
+He’ll let me sleep, seeing I fast and pray.  

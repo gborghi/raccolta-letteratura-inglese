@@ -16,8 +16,6 @@ tags:
   - concept/immortality
 ---
 
-# On the Beach at Night Alone
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -31,23 +29,23 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SEA-DRIFT_
+_Cluster: SEA-DRIFT_  
 
 
-  On the beach at night alone,
-  As the old mother sways her to and fro singing her husky song,
-  As I watch the bright stars shining, I think a thought of the clef
-      of the universes and of the future.
+  On the beach at night alone,  
+  As the old mother sways her to and fro singing her husky song,  
+  As I watch the bright stars shining, I think a thought of the clef  
+      of the universes and of the future.  
 
-  A vast similitude interlocks all,
-  All spheres, grown, ungrown, small, large, suns, moons, planets,
-  All distances of place however wide,
-  All distances of time, all inanimate forms,
-  All souls, all living bodies though they be ever so different, or in
-      different worlds,
-  All gaseous, watery, vegetable, mineral processes, the fishes, the brutes,
-  All nations, colors, barbarisms, civilizations, languages,
-  All identities that have existed or may exist on this globe, or any globe,
-  All lives and deaths, all of the past, present, future,
-  This vast similitude spans them, and always has spann’d,
-  And shall forever span them and compactly hold and enclose them.
+  A vast similitude interlocks all,  
+  All spheres, grown, ungrown, small, large, suns, moons, planets,  
+  All distances of place however wide,  
+  All distances of time, all inanimate forms,  
+  All souls, all living bodies though they be ever so different, or in  
+      different worlds,  
+  All gaseous, watery, vegetable, mineral processes, the fishes, the brutes,  
+  All nations, colors, barbarisms, civilizations, languages,  
+  All identities that have existed or may exist on this globe, or any globe,  
+  All lives and deaths, all of the past, present, future,  
+  This vast similitude spans them, and always has spann’d,  
+  And shall forever span them and compactly hold and enclose them.  

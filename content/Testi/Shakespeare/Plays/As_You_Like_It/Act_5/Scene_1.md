@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# As You Like It — Act V, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/AS-YOU-LIKE-IT-(Shakespeare)">As You Like It</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/As_You_Like_It/Act_4/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/As_You_Like_It/Act_5/Scene_2">Scene 2 ›</a></div>

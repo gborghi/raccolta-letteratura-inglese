@@ -15,8 +15,6 @@ tags:
   - histref/christianity
 ---
 
-# On Darwinism and Mystery
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

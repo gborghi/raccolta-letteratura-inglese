@@ -16,8 +16,6 @@ tags:
   - archetype/lover
 ---
 
-# TO ASRA
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Are there two things, of all which men possess,
-That are so like each other and so near,
-As mutual Love seems like to Happiness?
-Dear Asra, woman beyond utterance dear!
-This Love which ever welling at my heart,   5
-Now in its living fount doth heave and fall,
-Now overflowing pours thro’ every part
-Of all my frame, and fills and changes all,
-Like vernal waters springing up through snow,
-This Love that seeming great beyond the power   10
-Of growth, yet seemeth ever more to grow,
-Could I transmute the whole to one rich Dower
-Of Happy Life, and give it all to Thee,
-Thy lot, methinks, were Heaven, thy age, Eternity!
-1801.
+Are there two things, of all which men possess,  
+That are so like each other and so near,  
+As mutual Love seems like to Happiness?  
+Dear Asra, woman beyond utterance dear!  
+This Love which ever welling at my heart,   5  
+Now in its living fount doth heave and fall,  
+Now overflowing pours thro’ every part  
+Of all my frame, and fills and changes all,  
+Like vernal waters springing up through snow,  
+This Love that seeming great beyond the power   10  
+Of growth, yet seemeth ever more to grow,  
+Could I transmute the whole to one rich Dower  
+Of Happy Life, and give it all to Thee,  
+Thy lot, methinks, were Heaven, thy age, Eternity!  
+1801.  

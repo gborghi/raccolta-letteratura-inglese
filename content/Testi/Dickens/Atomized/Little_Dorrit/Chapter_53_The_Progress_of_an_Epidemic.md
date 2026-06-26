@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 13: The Progress of an Epidemic
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_52_In_which_a_Great_Patriotic_Con">‹ Chapter 52 In which a Great Patriotic Con</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_54_Taking_Advice">Chapter 54 Taking Advice ›</a></div>

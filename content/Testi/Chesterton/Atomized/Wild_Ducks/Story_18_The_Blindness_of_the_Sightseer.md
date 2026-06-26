@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Blindness of the Sightseer
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_17_Walking_Tours">‹ Story 17 Walking Tours</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_19_The_Aesthetes_in_the_Kitchen_Garden">Story 19 The Aesthetes in the Kitchen Garden ›</a></div>

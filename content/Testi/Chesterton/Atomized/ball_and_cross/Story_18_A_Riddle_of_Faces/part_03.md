@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ball and cross — A Riddle of Faces (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ball-and-cross-(Chesterton)">ball and cross</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_18_A_Riddle_of_Faces/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ball_and_cross/Story_18_A_Riddle_of_Faces/part_04">part 04 ›</a></div>

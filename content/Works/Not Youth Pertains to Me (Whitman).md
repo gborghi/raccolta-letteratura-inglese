@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# Not Youth Pertains to Me
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,16 +27,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  Not youth pertains to me,
-  Nor delicatesse, I cannot beguile the time with talk,
-  Awkward in the parlor, neither a dancer nor elegant,
-  In the learn’d coterie sitting constrain’d and still, for learning
-      inures not to me,
-  Beauty, knowledge, inure not to me--yet there are two or three things
-      inure to me,
-  I have nourish’d the wounded and sooth’d many a dying soldier,
-  And at intervals waiting or in the midst of camp,
-  Composed these songs.
+  Not youth pertains to me,  
+  Nor delicatesse, I cannot beguile the time with talk,  
+  Awkward in the parlor, neither a dancer nor elegant,  
+  In the learn’d coterie sitting constrain’d and still, for learning  
+      inures not to me,  
+  Beauty, knowledge, inure not to me--yet there are two or three things  
+      inure to me,  
+  I have nourish’d the wounded and sooth’d many a dying soldier,  
+  And at intervals waiting or in the midst of camp,  
+  Composed these songs.  

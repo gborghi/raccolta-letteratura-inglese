@@ -31,8 +31,6 @@ tags:
   - motif/the_supernatural
 ---
 
-# everlasting man
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

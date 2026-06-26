@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Catholic Church
-
 *Historical reference* — appears in **41** work(s).
 
 ## Works

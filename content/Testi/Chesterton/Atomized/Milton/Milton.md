@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Milton
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Milton-(Chesterton)">Milton</a></div>
 </nav>

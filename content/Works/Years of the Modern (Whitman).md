@@ -15,8 +15,6 @@ tags:
   - histref/the_industrial_revolution
 ---
 
-# Years of the Modern
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

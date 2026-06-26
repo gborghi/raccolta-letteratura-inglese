@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Incredulity — The Dagger with Wings (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_05_The_Curse_of_the_Golden_Cross/part_09">‹ part 09</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_06_The_Dagger_with_Wings/part_02">part 02 ›</a></div>

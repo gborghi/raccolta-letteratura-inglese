@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Providence
-
 *Theme/Concept* — appears in **87** work(s).
 
 ## Works

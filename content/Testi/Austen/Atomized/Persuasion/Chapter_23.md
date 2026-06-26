@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Persuasion — Chapter 23
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Persuasion-(Austen)">Persuasion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Persuasion/Chapter_22">‹ Chapter 22</a><a class="ex-next" href="/Testi/Austen/Atomized/Persuasion/Chapter_24">Chapter 24 ›</a></div>

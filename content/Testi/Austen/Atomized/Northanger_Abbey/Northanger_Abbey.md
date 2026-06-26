@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Northanger Abbey
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
 </nav>

@@ -18,8 +18,6 @@ tags:
   - form/lyric
 ---
 
-# Stanzas to Miss Wylie
-
 *by Keats*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
@@ -36,24 +34,24 @@ tags:
 
 ## Testo integrale / Full text
 
-O come Georgiana!’ the rose is full blown,
-The riches of Flora are lavishly strown,
-The air is all softness, and crystal the streams,
-The West is resplendently clothed in beams.
-O come! let us haste to the freshening shades,
-The quaintly carv’d seats, and the opening glades;
-Where the faeries are chanting their evening hymns,
-And in the last sunbeam the sylph lightly swims.
-And when thou art weary I’ll find thee a bed,
-Of mosses and flowers to pillow thy head:
-10
-And there Georgiana I’ll sit at thy feet,
-While my story of love I enraptur’d repeat.
-So fondly I’ll breathe, and so softly I’ll sigh,
-Thou wilt think that some amorous Zephyr is nigh:
-Yet no - as I breathe I will press thy fair knee,
-And then thou wilt know that the sigh comes from me.
-Ah! why dearest girl should we lose all these blisses?
-That mortal’s a fool who such happiness misses:
-So smile acquiescence, and give me thy hand,
-With love looking eyes, and with voice sweetly bland. 20
+O come Georgiana!’ the rose is full blown,  
+The riches of Flora are lavishly strown,  
+The air is all softness, and crystal the streams,  
+The West is resplendently clothed in beams.  
+O come! let us haste to the freshening shades,  
+The quaintly carv’d seats, and the opening glades;  
+Where the faeries are chanting their evening hymns,  
+And in the last sunbeam the sylph lightly swims.  
+And when thou art weary I’ll find thee a bed,  
+Of mosses and flowers to pillow thy head:  
+10  
+And there Georgiana I’ll sit at thy feet,  
+While my story of love I enraptur’d repeat.  
+So fondly I’ll breathe, and so softly I’ll sigh,  
+Thou wilt think that some amorous Zephyr is nigh:  
+Yet no - as I breathe I will press thy fair knee,  
+And then thou wilt know that the sigh comes from me.  
+Ah! why dearest girl should we lose all these blisses?  
+That mortal’s a fool who such happiness misses:  
+So smile acquiescence, and give me thy hand,  
+With love looking eyes, and with voice sweetly bland. 20  

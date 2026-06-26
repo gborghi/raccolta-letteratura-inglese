@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard III — Act III, Scene 7 — exchange (MAYOR) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
 </nav>

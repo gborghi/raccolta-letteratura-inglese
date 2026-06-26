@@ -14,8 +14,6 @@ tags:
   - concept/faith
 ---
 
-# ARGUMENT.
-
 *by Coleridge*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

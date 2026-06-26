@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Light and Dark
-
 *Motif* — appears in **112** work(s).
 
 ## Works

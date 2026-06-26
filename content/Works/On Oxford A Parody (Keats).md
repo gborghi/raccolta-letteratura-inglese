@@ -16,8 +16,6 @@ tags:
   - form/satire
 ---
 
-# On Oxford A Parody
-
 *by Keats*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -32,26 +30,26 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-The Gothic looks solemn,
-The plain Doric column
-Supports an old Bishop and Crosier;
-The mouldering arch,
-Shaded o’er by a larch
-Stands next door to Wilson the Hosier.
+I  
+The Gothic looks solemn,  
+The plain Doric column  
+Supports an old Bishop and Crosier;  
+The mouldering arch,  
+Shaded o’er by a larch  
+Stands next door to Wilson the Hosier.  
 
-II
-Vicè - that is, by turns, -
-O’er pale faces mourns
-The black tassell’d trencher and common hat
-The Chantry boy sings,
-The Steeple-bell rings,
-And as for the Chancellor - dominat.
+II  
+Vicè - that is, by turns, -  
+O’er pale faces mourns  
+The black tassell’d trencher and common hat  
+The Chantry boy sings,  
+The Steeple-bell rings,  
+And as for the Chancellor - dominat.  
 
-III
-There are plenty of trees,
-And plenty of ease,
-And plenty of fat deer for parsons:
-And when it is venison,
-Short is the benison, -
-Then each on a leg or thigh fastens.
+III  
+There are plenty of trees,  
+And plenty of ease,  
+And plenty of fat deer for parsons:  
+And when it is venison,  
+Short is the benison, -  
+Then each on a leg or thigh fastens.  

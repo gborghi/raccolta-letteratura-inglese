@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mellonta Tauta (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mellonta-Tauta-(Poe)">Mellonta Tauta</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/Mellonta_Tauta/part/part_02">part 02 ›</a></div>

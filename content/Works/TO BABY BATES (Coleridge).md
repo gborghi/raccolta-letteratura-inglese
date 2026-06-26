@@ -16,8 +16,6 @@ tags:
   - histref/the_bible
 ---
 
-# TO BABY BATES
-
 *by Coleridge*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
@@ -32,24 +30,24 @@ tags:
 
 ## Testo integrale / Full text
 
-You come from o’er the waters,
-From famed Columbia’s land,
-And you have sons and daughters,
-And money at command.
-But I live in an island,
-Great Britain is its name,
-With money none to buy land,
-The more it is the shame.
-But we are all the children
-Of one great God of Love,
-Whose mercy like a mill-drain
-Runs over from above.
-Lullaby, lullaby,
-Sugar-plums and cates,
-Close your little peeping eye,
-Bonny Baby B —— s.
-First collected 1893. ‘Baby Bates’ was the daughter of Joshua Bates, one
-of the donors of the Boston Library. Her father and mother passed a year
-(1828-1829) at Highgate, ‘close to the house of Dr. and Mrs. Gillman.’
-See a letter to Mrs. Bates from S. T. C. dated Jan. 23, 1829. N. and
-Q. 4th Series, i. 469.
+You come from o’er the waters,  
+From famed Columbia’s land,  
+And you have sons and daughters,  
+And money at command.  
+But I live in an island,  
+Great Britain is its name,  
+With money none to buy land,  
+The more it is the shame.  
+But we are all the children  
+Of one great God of Love,  
+Whose mercy like a mill-drain  
+Runs over from above.  
+Lullaby, lullaby,  
+Sugar-plums and cates,  
+Close your little peeping eye,  
+Bonny Baby B —— s.  
+First collected 1893. ‘Baby Bates’ was the daughter of Joshua Bates, one  
+of the donors of the Boston Library. Her father and mother passed a year  
+(1828-1829) at Highgate, ‘close to the house of Dr. and Mrs. Gillman.’  
+See a letter to Mrs. Bates from S. T. C. dated Jan. 23, 1829. N. and  
+Q. 4th Series, i. 469.  

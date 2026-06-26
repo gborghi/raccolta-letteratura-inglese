@@ -20,8 +20,6 @@ tags:
   - form/satire
 ---
 
-# Diddling
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

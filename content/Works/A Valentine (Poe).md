@@ -19,8 +19,6 @@ tags:
   - form/lyric
 ---
 
-# A Valentine
-
 *by Poe*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -36,30 +34,30 @@ tags:
 
 ## Testo integrale / Full text
 
-For her this rhyme is penned, whose luminous eyes,
-         Brightly expressive as the twins of Leda,
-     Shall find her own sweet name, that, nestling lies
-         Upon the page, enwrapped from every reader.
-     Search narrowly the lines!—they hold a treasure
-         Divine—a talisman—an amulet
-     That must be worn _at heart_. Search well the measure—
-         The words—the syllables! Do not forget
-     The trivialest point, or you may lose your labor!
-         And yet there is in this no Gordian knot
-     Which one might not undo without a sabre,
-         If one could merely comprehend the plot.
-     Enwritten upon the leaf where now are peering
-         Eyes scintillating soul, there lie _perdus_
-     Three eloquent words oft uttered in the hearing
-         Of poets, by poets—as the name is a poet’s, too.
-     Its letters, although naturally lying
-         Like the knight Pinto—Mendez Ferdinando—
-     Still form a synonym for Truth—Cease trying!
-         You will not read the riddle, though you do the best you _can_ do.
+For her this rhyme is penned, whose luminous eyes,  
+         Brightly expressive as the twins of Leda,  
+     Shall find her own sweet name, that, nestling lies  
+         Upon the page, enwrapped from every reader.  
+     Search narrowly the lines!—they hold a treasure  
+         Divine—a talisman—an amulet  
+     That must be worn _at heart_. Search well the measure—  
+         The words—the syllables! Do not forget  
+     The trivialest point, or you may lose your labor!  
+         And yet there is in this no Gordian knot  
+     Which one might not undo without a sabre,  
+         If one could merely comprehend the plot.  
+     Enwritten upon the leaf where now are peering  
+         Eyes scintillating soul, there lie _perdus_  
+     Three eloquent words oft uttered in the hearing  
+         Of poets, by poets—as the name is a poet’s, too.  
+     Its letters, although naturally lying  
+         Like the knight Pinto—Mendez Ferdinando—  
+     Still form a synonym for Truth—Cease trying!  
+         You will not read the riddle, though you do the best you _can_ do.  
 
-      1846.
+      1846.  
 
-      [To discover the names in this and the following poem read the first
-      letter of the first line in connection with the second letter of the
-      second line, the third letter of the third line, the fourth of the fourth
-      and so on to the end.]
+      [To discover the names in this and the following poem read the first  
+      letter of the first line in connection with the second letter of the  
+      second line, the third letter of the third line, the fourth of the fourth  
+      and so on to the end.]  

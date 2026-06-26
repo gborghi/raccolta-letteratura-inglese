@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Vanitas · Contemptus Mundi · Vanity of Worldly Things
-
 *Cluster* — **6 works**.
 
 ## Defining concepts

@@ -16,8 +16,6 @@ tags:
   - topos/tempus_fugit
 ---
 
-# FROM ZAPOLYA
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -32,20 +30,20 @@ tags:
 
 ## Testo integrale / Full text
 
-A Sunny shaft did I behold,
-From sky to earth it slanted:
-And poised therein a bird so bold —
-Sweet bird, thou wert enchanted!
-He sank, he rose, he twinkled, he trolled   5
-Within that shaft of sunny mist;
-His eyes of fire, his beak of gold,
-All else of amethyst!
-And thus he sang: ‘Adieu! adieu!
-Love’s dreams prove seldom true.   10
-The blossoms they make no delay:
-The sparkling dew-drops will not stay.
-Sweet month of May,
-We must away;
-Far, far away!   15
-To-day! to-day!’
-1815.
+A Sunny shaft did I behold,  
+From sky to earth it slanted:  
+And poised therein a bird so bold —  
+Sweet bird, thou wert enchanted!  
+He sank, he rose, he twinkled, he trolled   5  
+Within that shaft of sunny mist;  
+His eyes of fire, his beak of gold,  
+All else of amethyst!  
+And thus he sang: ‘Adieu! adieu!  
+Love’s dreams prove seldom true.   10  
+The blossoms they make no delay:  
+The sparkling dew-drops will not stay.  
+Sweet month of May,  
+We must away;  
+Far, far away!   15  
+To-day! to-day!’  
+1815.  

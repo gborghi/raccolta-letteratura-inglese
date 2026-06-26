@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — WILLIAM MORRIS AND HIS SCHOOL (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT">‹ Story 11 THE POSITION OF SIR WALTER SCOTT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_02_WILLIAM_MORRIS_AND_HIS_SCHOOL/part_02">part 02 ›</a></div>

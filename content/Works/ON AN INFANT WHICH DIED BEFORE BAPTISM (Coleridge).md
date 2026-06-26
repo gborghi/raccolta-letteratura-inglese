@@ -17,8 +17,6 @@ tags:
   - character/death_personified
 ---
 
-# ON AN INFANT WHICH DIED BEFORE BAPTISM
-
 *by Coleridge*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -34,10 +32,10 @@ tags:
 
 ## Testo integrale / Full text
 
-‘Be, rather than be called, a child of God,’
-Death whispered! With assenting nod,
-Its head upon its mother’s breast,
-The Baby bowed, without demur —
-Of the kingdom of the Blest
-Possessor, not Inheritor.
-April 8, 1799.
+‘Be, rather than be called, a child of God,’  
+Death whispered! With assenting nod,  
+Its head upon its mother’s breast,  
+The Baby bowed, without demur —  
+Of the kingdom of the Blest  
+Possessor, not Inheritor.  
+April 8, 1799.  

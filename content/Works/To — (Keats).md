@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# To —
-
 *by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -32,28 +30,28 @@ tags:
 
 ## Testo integrale / Full text
 
-Think not of it, sweet one, so; -
-Give it not a tear;
-Sigh thou mayst, and bid it go
-Any - anywhere.
+Think not of it, sweet one, so; -  
+Give it not a tear;  
+Sigh thou mayst, and bid it go  
+Any - anywhere.  
 
-Do not look so sad, sweet one, —
-Sad and fadingly;
-Shed one drop, then it is gone,
-O ’twas born to die.
+Do not look so sad, sweet one, —  
+Sad and fadingly;  
+Shed one drop, then it is gone,  
+O ’twas born to die.  
 
-Still so pale? then dearest weep;
-Weep, I’ll count the tears,
-And each one shall be a bliss
-For thee in after years.
+Still so pale? then dearest weep;  
+Weep, I’ll count the tears,  
+And each one shall be a bliss  
+For thee in after years.  
 
-Brighter has it left thine eyes
-Than a sunny rill;
-And thy whispering melodies
-Are tenderer still.
+Brighter has it left thine eyes  
+Than a sunny rill;  
+And thy whispering melodies  
+Are tenderer still.  
 
-Yet - as all things mourn awhile
-At fleeting blisses,
-Let us too! but be our dirge
-A dirge of kisses.
-20
+Yet - as all things mourn awhile  
+At fleeting blisses,  
+Let us too! but be our dirge  
+A dirge of kisses.  
+20  

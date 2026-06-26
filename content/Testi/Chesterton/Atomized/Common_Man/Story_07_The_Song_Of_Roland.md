@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Song Of Roland
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_06_What_Novelists_Are_For">‹ Story 06 What Novelists Are For</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_08_The_Superstition_Of_School">Story 08 The Superstition Of School ›</a></div>

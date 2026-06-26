@@ -14,8 +14,6 @@ tags:
   - motif/the_sea
 ---
 
-# Recorders Ages Hence
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

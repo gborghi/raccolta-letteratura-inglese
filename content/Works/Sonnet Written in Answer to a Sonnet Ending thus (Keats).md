@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet Written in Answer to a Sonnet Ending thus:
-
 *by Keats*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -32,22 +30,22 @@ tags:
 
 ## Testo integrale / Full text
 
-Dark eyes are dearer far
-Than those that mock the hyacinthine bell!
-J. H. Reynolds
+Dark eyes are dearer far  
+Than those that mock the hyacinthine bell!  
+J. H. Reynolds  
 
-Blue! ’Tis the life of heaven, - the domain
-Of Cynthia, - the wide palace of the sun, -
-The tent of Hesperus, and all his train, -
-The bosomer of clouds, gold, grey and dun.
-Blue! Tis the life of waters: - Ocean
-And all its vassal streams, pools numberless,
-May rage, and foam, and fret, but never can
-Subside, if not to dark blue nativeness.
-Blue! Gentle cousin of the forest-green,
-Married to green in all the sweetest flowers, -
-10
-Forget-me-not, - the bluebell, - and, that queen
-Of secrecy, the violet: what strange powers
-Hast thou, as a mere shadow! But how great,
-When in an Eye thou art, alive with fate!
+Blue! ’Tis the life of heaven, - the domain  
+Of Cynthia, - the wide palace of the sun, -  
+The tent of Hesperus, and all his train, -  
+The bosomer of clouds, gold, grey and dun.  
+Blue! Tis the life of waters: - Ocean  
+And all its vassal streams, pools numberless,  
+May rage, and foam, and fret, but never can  
+Subside, if not to dark blue nativeness.  
+Blue! Gentle cousin of the forest-green,  
+Married to green in all the sweetest flowers, -  
+10  
+Forget-me-not, - the bluebell, - and, that queen  
+Of secrecy, the violet: what strange powers  
+Hast thou, as a mere shadow! But how great,  
+When in an Eye thou art, alive with fate!  

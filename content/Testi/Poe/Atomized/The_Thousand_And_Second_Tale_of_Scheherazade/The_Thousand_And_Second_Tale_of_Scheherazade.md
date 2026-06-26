@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Thousand-And-Second Tale of Scheherazade
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Thousand-And-Second-Tale-of-Scheherazade-(Poe)">The Thousand And Second Tale of Scheherazade</a></div>
 </nav>

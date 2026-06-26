@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Sun · Light and Dark · Fire
-
 *Cluster* — **51 works**.
 
 ## Defining concepts

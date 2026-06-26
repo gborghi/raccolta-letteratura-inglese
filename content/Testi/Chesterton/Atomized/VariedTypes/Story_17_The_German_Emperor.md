@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — The German Emperor
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_16_Queen_Victoria">‹ Story 16 Queen Victoria</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_18_Tennyson">Story 18 Tennyson ›</a></div>

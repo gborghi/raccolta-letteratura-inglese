@@ -21,8 +21,6 @@ tags:
   - setting/rural_england
 ---
 
-# A Shy Bird
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Power of Language
-
 *Theme/Concept* — appears in **0** work(s).
 
 #graph/concept

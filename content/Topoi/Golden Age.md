@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Golden Age
-
 *Topos* — appears in **16** work(s).
 
 ## Works

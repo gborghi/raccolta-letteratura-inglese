@@ -14,8 +14,6 @@ tags:
   - concept/comradeship
 ---
 
-# To a Stranger
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Witch / Enchantress
-
 *Archetype* — appears in **4** work(s).
 
 ## Works

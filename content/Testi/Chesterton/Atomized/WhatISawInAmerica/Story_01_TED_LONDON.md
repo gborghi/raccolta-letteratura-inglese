@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — TED LONDON
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_02_RISH_AND_OTHER_INTERVIEWERS_47">Story 02 RISH AND OTHER INTERVIEWERS 47 ›</a></div>

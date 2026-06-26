@@ -16,8 +16,6 @@ tags:
   - concept/terror_and_horror
 ---
 
-# The Conversation of Eiros and Charmion
-
 *by Poe*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

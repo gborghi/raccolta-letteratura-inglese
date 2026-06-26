@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Immortality Through Verse
-
 *Topos* — appears in **84** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Tale of Two Cities — Chapter 10
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Tale-of-Two-Cities-(Dickens)">A Tale of Two Cities</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_41">‹ Chapter 41</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Tale_of_Two_Cities/Chapter_43">Chapter 43 ›</a></div>

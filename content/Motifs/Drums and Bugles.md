@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Drums and Bugles
-
 *Motif* — appears in **5** work(s).
 
 ## Works

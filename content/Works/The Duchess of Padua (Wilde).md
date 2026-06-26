@@ -46,8 +46,6 @@ tags:
   - character/ascanio_cristofano
 ---
 
-# The Duchess of Padua
-
 *by Wilde*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

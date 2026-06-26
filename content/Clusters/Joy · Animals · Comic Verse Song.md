@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Joy · Animals · Comic Verse / Song
-
 *Cluster* — **77 works**.
 
 ## Defining concepts

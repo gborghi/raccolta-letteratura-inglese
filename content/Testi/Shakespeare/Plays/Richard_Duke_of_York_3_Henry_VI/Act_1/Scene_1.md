@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard Duke of York (3 Henry VI) — Act I, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-DUKE-OF-YORK---(3-HENRY-VI)-(Shakespeare)">Richard Duke of York 3 Henry VI</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Shakespeare/Plays/Richard_Duke_of_York_3_Henry_VI/Act_1/Scene_2">Scene 2 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Canterville Ghost
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Canterville-Ghost-(Wilde)">021 The Canterville Ghost</a></div>
 </nav>

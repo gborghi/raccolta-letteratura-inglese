@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 3: I HAVE A CHANGE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_02_I_OBSERVE">‹ Chapter 02 I OBSERVE</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_04_I_FALL_INTO_DISGRACE">Chapter 04 I FALL INTO DISGRACE ›</a></div>

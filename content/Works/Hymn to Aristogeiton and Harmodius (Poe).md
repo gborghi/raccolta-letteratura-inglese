@@ -24,8 +24,6 @@ tags:
   - setting/ancient_greece
 ---
 
-# Hymn to Aristogeiton and Harmodius
-
 *by Poe*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -43,26 +41,26 @@ tags:
 
 ## Testo integrale / Full text
 
-Translation from the Greek
+Translation from the Greek  
 
-                I
-     Wreathed in myrtle, my sword I’ll conceal
-     Like those champions devoted and brave,
-     When they plunged in the tyrant their steel,
-     And to Athens deliverance gave.
-                II
-     Beloved heroes! your deathless souls roam
-     In the joy breathing isles of the blest;
-     Where the mighty of old have their home
-     Where Achilles and Diomed rest
-                III
-     In fresh myrtle my blade I’ll entwine,
-     Like Harmodius, the gallant and good,
-     When he made at the tutelar shrine
-     A libation of Tyranny’s blood.
-                IV
-     Ye deliverers of Athens from shame!
-     Ye avengers of Liberty’s wrongs!
-     Endless ages shall cherish your fame,
-     Embalmed in their echoing songs!
-     1827.
+                I  
+     Wreathed in myrtle, my sword I’ll conceal  
+     Like those champions devoted and brave,  
+     When they plunged in the tyrant their steel,  
+     And to Athens deliverance gave.  
+                II  
+     Beloved heroes! your deathless souls roam  
+     In the joy breathing isles of the blest;  
+     Where the mighty of old have their home  
+     Where Achilles and Diomed rest  
+                III  
+     In fresh myrtle my blade I’ll entwine,  
+     Like Harmodius, the gallant and good,  
+     When he made at the tutelar shrine  
+     A libation of Tyranny’s blood.  
+                IV  
+     Ye deliverers of Athens from shame!  
+     Ye avengers of Liberty’s wrongs!  
+     Endless ages shall cherish your fame,  
+     Embalmed in their echoing songs!  
+     1827.  

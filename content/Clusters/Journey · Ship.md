@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Journey · Ship
-
 *Cluster* — **15 works**.
 
 ## Defining concepts

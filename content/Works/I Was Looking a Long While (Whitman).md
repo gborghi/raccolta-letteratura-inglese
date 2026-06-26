@@ -14,8 +14,6 @@ tags:
   - concept/critique_of_progress
 ---
 
-# I Was Looking a Long While
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

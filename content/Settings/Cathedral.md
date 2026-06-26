@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Cathedral
-
 *Setting* — appears in **1** work(s).
 
 ## Works

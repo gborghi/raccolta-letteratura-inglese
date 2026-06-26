@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Sources of Character--Results--1860
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_16_Through_Eight_Years">‹ Story 16 Through Eight Years</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_18_Opening_of_the_Secession_War">Story 18 Opening of the Secession War ›</a></div>

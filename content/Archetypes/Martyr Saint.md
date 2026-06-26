@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Martyr / Saint
-
 *Archetype* — appears in **51** work(s).
 
 ## Works

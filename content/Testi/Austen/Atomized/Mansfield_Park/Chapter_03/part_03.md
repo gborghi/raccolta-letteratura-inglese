@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Mansfield Park — Chapter 3 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Mansfield-Park-(Austen)">Mansfield Park</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_03/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Mansfield_Park/Chapter_04/part_01">part 01 ›</a></div>

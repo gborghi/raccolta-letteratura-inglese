@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# 1 Henry IV — Act III, Scene 3
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/1-HENRY-IV-(Shakespeare)">1 Henry IV</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/1_Henry_IV/Act_3/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/1_Henry_IV/Act_4/Scene_1">Scene 1 ›</a></div>

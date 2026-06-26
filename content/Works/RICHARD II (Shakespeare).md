@@ -36,8 +36,6 @@ tags:
   - character/mowbray
 ---
 
-# RICHARD II
-
 *by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

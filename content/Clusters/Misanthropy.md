@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Misanthropy
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

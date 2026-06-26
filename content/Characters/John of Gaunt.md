@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# John of Gaunt
-
 *Character* — appears in **1** work(s).
 
 ## Works

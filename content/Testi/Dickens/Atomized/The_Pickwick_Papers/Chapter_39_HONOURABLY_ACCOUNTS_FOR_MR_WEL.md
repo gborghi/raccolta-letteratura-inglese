@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 37: HONOURABLY ACCOUNTS FOR MR. WELLER’S ABSENCE, BY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_38_THE_CHIEF_FEATURES_OF_WHICH_WI">‹ Chapter 38 THE CHIEF FEATURES OF WHICH WI</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_40_HOW_MR_WINKLE_WHEN_HE_STEPPED">Chapter 40 HOW MR WINKLE WHEN HE STEPPED ›</a></div>

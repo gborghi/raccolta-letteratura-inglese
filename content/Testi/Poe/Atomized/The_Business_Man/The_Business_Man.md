@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Business Man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Business-Man-(Poe)">The Business Man</a></div>
 </nav>

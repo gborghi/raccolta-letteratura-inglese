@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Romantic Movement (Sensibility)
-
 *Historical reference* — appears in **8** work(s).
 
 ## Works

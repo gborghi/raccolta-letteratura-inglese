@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 35: IN WHICH MR. PICKWICK THINKS HE HAD BETTER GO TO BATH; AND
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_36_IS_WHOLLY_DEVOTED_TO_A_FULL_AN">‹ Chapter 36 IS WHOLLY DEVOTED TO A FULL AN</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_38_THE_CHIEF_FEATURES_OF_WHICH_WI">Chapter 38 THE CHIEF FEATURES OF WHICH WI ›</a></div>

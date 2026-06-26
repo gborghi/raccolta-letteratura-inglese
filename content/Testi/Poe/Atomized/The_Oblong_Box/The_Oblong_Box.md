@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Oblong Box
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Oblong Box</div>
 </nav>

@@ -17,8 +17,6 @@ tags:
   - motif/memory
 ---
 
-# TO THE REV. W. J. HORT: WHILE TEACHING A YOUNG LADY SOME SONG-TUNES ON HIS FLUTE
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -33,33 +31,33 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-Hush! ye clamorous Cares! be mute!
-Again, dear Harmonist! again
-Thro’ the hollow of thy flute
-Breathe that passion-warbled strain:
-Till Memory each form shall bring   5
-The loveliest of her shadowy throng;
-And Hope, that soars on sky-lark wing,
-Carol wild her gladdest song!
-II
-O skill’d with magic spell to roll
-The thrilling tones, that concentrate the soul!   10
-Breathe thro’ thy flute those tender notes again,
-While near thee sits the chaste-eyed Maiden mild;
-And bid her raise the Poet’s kindred strain
-In soft impassion’d voice, correctly wild.
-III
-In Freedom’s UNDIVIDED dell,   15
-Where Toil and Health with mellow’d Love shall dwell,
-Far from folly, far from men,
-In the rude romantic glen,
-Up the cliff, and thro’ the glade,
-Wandering with the dear-lov’d maid,   20
-I shall listen to the lay,
-And ponder on thee far away
-Still, as she bids those thrilling notes aspire
-(‘Making my fond attuned heart her lyre’),
-Thy honour’d form, my Friend! shall reappear,   25
-And I will thank thee with a raptur’d tear.
-1795.
+I  
+Hush! ye clamorous Cares! be mute!  
+Again, dear Harmonist! again  
+Thro’ the hollow of thy flute  
+Breathe that passion-warbled strain:  
+Till Memory each form shall bring   5  
+The loveliest of her shadowy throng;  
+And Hope, that soars on sky-lark wing,  
+Carol wild her gladdest song!  
+II  
+O skill’d with magic spell to roll  
+The thrilling tones, that concentrate the soul!   10  
+Breathe thro’ thy flute those tender notes again,  
+While near thee sits the chaste-eyed Maiden mild;  
+And bid her raise the Poet’s kindred strain  
+In soft impassion’d voice, correctly wild.  
+III  
+In Freedom’s UNDIVIDED dell,   15  
+Where Toil and Health with mellow’d Love shall dwell,  
+Far from folly, far from men,  
+In the rude romantic glen,  
+Up the cliff, and thro’ the glade,  
+Wandering with the dear-lov’d maid,   20  
+I shall listen to the lay,  
+And ponder on thee far away  
+Still, as she bids those thrilling notes aspire  
+(‘Making my fond attuned heart her lyre’),  
+Thy honour’d form, my Friend! shall reappear,   25  
+And I will thank thee with a raptur’d tear.  
+1795.  

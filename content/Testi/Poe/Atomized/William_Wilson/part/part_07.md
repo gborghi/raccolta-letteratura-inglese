@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# William Wilson (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/William-Wilson-(Poe)">William Wilson</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/William_Wilson/part/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Poe/Atomized/William_Wilson/part/part_08">part 08 ›</a></div>

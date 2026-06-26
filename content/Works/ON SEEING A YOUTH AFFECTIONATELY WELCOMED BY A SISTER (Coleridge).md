@@ -16,8 +16,6 @@ tags:
   - concept/melancholy
 ---
 
-# ON SEEING A YOUTH AFFECTIONATELY WELCOMED BY A SISTER
-
 *by Coleridge*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-I too a sister had! too cruel Death!
-How sad Remembrance bids my bosom heave!
-Tranquil her soul, as sleeping Infant’s breath;
-Meek were her manners as a vernal Eve.
-Knowledge, that frequent lifts the bloated mind,   5
-Gave her the treasure of a lowly breast,
-And Wit to venom’d Malice oft assign’d,
-Dwelt in her bosom in a Turtle’s nest.
-Cease, busy Memory! cease to urge the dart;
-Nor on my soul her love to me impress!   10
-For oh I mourn in anguish — and my heart
-Feels the keen pang, th’ unutterable distress.
-Yet wherefore grieve I that her sorrows cease,
-For Life was misery, and the Grave is Peace!
-1791.
+I too a sister had! too cruel Death!  
+How sad Remembrance bids my bosom heave!  
+Tranquil her soul, as sleeping Infant’s breath;  
+Meek were her manners as a vernal Eve.  
+Knowledge, that frequent lifts the bloated mind,   5  
+Gave her the treasure of a lowly breast,  
+And Wit to venom’d Malice oft assign’d,  
+Dwelt in her bosom in a Turtle’s nest.  
+Cease, busy Memory! cease to urge the dart;  
+Nor on my soul her love to me impress!   10  
+For oh I mourn in anguish — and my heart  
+Feels the keen pang, th’ unutterable distress.  
+Yet wherefore grieve I that her sorrows cease,  
+For Life was misery, and the Grave is Peace!  
+1791.  

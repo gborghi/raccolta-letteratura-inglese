@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 47: MARTHA
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_46_INTELLIGENCE">‹ Chapter 46 INTELLIGENCE</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_48_DOMESTIC">Chapter 48 DOMESTIC ›</a></div>

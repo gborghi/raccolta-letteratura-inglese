@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Grip the Raven
-
 *Character* — appears in **1** work(s).
 
 ## Works

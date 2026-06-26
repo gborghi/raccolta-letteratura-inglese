@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — Iv The Actor And The Alibi
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_04_Iii_The_Song_Of_The_Flying_Fish">‹ Story 04 Iii The Song Of The Flying Fish</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey">Story 06 V The Vanishing Of Vaudrey ›</a></div>

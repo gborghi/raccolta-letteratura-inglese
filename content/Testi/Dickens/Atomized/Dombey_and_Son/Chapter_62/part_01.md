@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Dombey and Son — Chapter 6 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_61/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/Dombey_and_Son/Chapter_62/part_02">part 02 ›</a></div>

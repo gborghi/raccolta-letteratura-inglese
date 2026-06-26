@@ -16,8 +16,6 @@ tags:
   - motif/death
 ---
 
-# MY BAPTISMAL BIRTH-DAY
-
 *by Coleridge*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 
@@ -32,18 +30,18 @@ tags:
 
 ## Testo integrale / Full text
 
-God’s child in Christ adopted, — Christ my all, —
-What that earth boasts were not lost cheaply, rather
-Than forfeit that blest name, by which I call
-The Holy One, the Almighty God, my Father? —
-Father! in Christ we live, and Christ in Thee — 5
-Eternal Thou, and everlasting we.
-The heir of heaven, henceforth I fear not death:
-In Christ I live! in Christ I draw the breath
-Of the true life! — Let then earth, sea, and sky
-Make war against me! On my heart I show   10
-Their mighty master’s seal. In vain they try
-To end my life, that can but end its woe. —
-Is that a death-bed where a Christian lies? —
-Yes! but not his—’tis Death itself there dies.
-1833.
+God’s child in Christ adopted, — Christ my all, —  
+What that earth boasts were not lost cheaply, rather  
+Than forfeit that blest name, by which I call  
+The Holy One, the Almighty God, my Father? —  
+Father! in Christ we live, and Christ in Thee — 5  
+Eternal Thou, and everlasting we.  
+The heir of heaven, henceforth I fear not death:  
+In Christ I live! in Christ I draw the breath  
+Of the true life! — Let then earth, sea, and sky  
+Make war against me! On my heart I show   10  
+Their mighty master’s seal. In vain they try  
+To end my life, that can but end its woe. —  
+Is that a death-bed where a Christian lies? —  
+Yes! but not his—’tis Death itself there dies.  
+1833.  

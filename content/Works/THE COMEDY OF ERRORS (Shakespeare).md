@@ -32,8 +32,6 @@ tags:
   - character/emilia
 ---
 
-# THE COMEDY OF ERRORS
-
 *by Shakespeare*  ·  **Cluster:** [[Supernatural · Uncanny · Double]]
 
 > [!abstract] 

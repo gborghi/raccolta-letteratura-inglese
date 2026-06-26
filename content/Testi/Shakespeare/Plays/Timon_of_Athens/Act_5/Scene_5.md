@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Timon of Athens — Act V, Scene 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_5/Scene_4">‹ Scene 4</a><span></span></div>

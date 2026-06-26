@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# TheCrimesOfEngland — Chapter 10 (part 11)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/TheCrimesOfEngland-(Chesterton)">TheCrimesOfEngland</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/TheCrimesOfEngland/Chapter_10/part_10">‹ part 10</a><a class="ex-next" href="/Testi/Chesterton/Atomized/TheCrimesOfEngland/Chapter_10/part_12">part 12 ›</a></div>

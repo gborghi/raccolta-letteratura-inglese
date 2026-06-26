@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Cattle Droves about Washington
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_52_Spiritual_Characters_among_the_Soldiers">‹ Story 52 Spiritual Characters among the Soldiers</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_54_Hospital_Perplexity">Story 54 Hospital Perplexity ›</a></div>

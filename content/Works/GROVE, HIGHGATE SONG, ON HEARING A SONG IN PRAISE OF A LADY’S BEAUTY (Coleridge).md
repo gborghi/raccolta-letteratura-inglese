@@ -16,8 +16,6 @@ tags:
   - motif/flowers
 ---
 
-# GROVE, HIGHGATE SONG, ON HEARING A SONG IN PRAISE OF A LADY’S BEAUTY
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -31,11 +29,11 @@ tags:
 
 ## Testo integrale / Full text
 
-AUGUST 1829
-‘Tis not the lily-brow I prize,
-Nor roseate cheeks, nor sunny eyes,
-Enough of lilies and of roses!
-A thousand-fold more dear to me
-The gentle look that Love discloses, — 5
-The look that Love alone can see!
-Keepsake, 1830.
+AUGUST 1829  
+‘Tis not the lily-brow I prize,  
+Nor roseate cheeks, nor sunny eyes,  
+Enough of lilies and of roses!  
+A thousand-fold more dear to me  
+The gentle look that Love discloses, — 5  
+The look that Love alone can see!  
+Keepsake, 1830.  

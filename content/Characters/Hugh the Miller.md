@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Hugh the Miller
-
 *Character* — appears in **1** work(s).
 
 ## Works

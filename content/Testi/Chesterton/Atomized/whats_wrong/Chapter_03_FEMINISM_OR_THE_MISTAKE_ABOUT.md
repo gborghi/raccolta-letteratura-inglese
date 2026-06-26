@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# whats wrong — Part 3: FEMINISM, OR THE MISTAKE ABOUT WOMAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/whats-wrong-(Chesterton)">whats wrong</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_02_IMPERIALISM_OR_THE_MISTAKE_ABO">‹ Chapter 02 IMPERIALISM OR THE MISTAKE ABO</a><a class="ex-next" href="/Testi/Chesterton/Atomized/whats_wrong/Chapter_04_EDUCATION_OR_THE_MISTAKE_ABOUT">Chapter 04 EDUCATION OR THE MISTAKE ABOUT ›</a></div>

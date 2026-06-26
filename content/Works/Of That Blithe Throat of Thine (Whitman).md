@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Of That Blithe Throat of Thine
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 
@@ -32,16 +30,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Of that blithe throat of thine from arctic bleak and blank,
-  I’ll mind the lesson, solitary bird--let me too welcome chilling drifts,
-  E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,
-  Old age land-lock’d within its winter bay--(cold, cold, O cold!)
-  These snowy hairs, my feeble arm, my frozen feet,
-  For them thy faith, thy rule I take, and grave it to the last;
-  Not summer’s zones alone--not chants of youth, or south’s warm tides alone,
-  But held by sluggish floes, pack’d in the northern ice, the cumulus
-      of years,
-  These with gay heart I also sing.
+  Of that blithe throat of thine from arctic bleak and blank,  
+  I’ll mind the lesson, solitary bird--let me too welcome chilling drifts,  
+  E’en the profoundest chill, as now--a torpid pulse, a brain unnerv’d,  
+  Old age land-lock’d within its winter bay--(cold, cold, O cold!)  
+  These snowy hairs, my feeble arm, my frozen feet,  
+  For them thy faith, thy rule I take, and grave it to the last;  
+  Not summer’s zones alone--not chants of youth, or south’s warm tides alone,  
+  But held by sluggish floes, pack’d in the northern ice, the cumulus  
+      of years,  
+  These with gay heart I also sing.  

@@ -19,8 +19,6 @@ tags:
   - histref/dante
 ---
 
-# APOLOGETIC PREFACE TO ‘FIRE, FAMINE, AND SLAUGHTER’
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

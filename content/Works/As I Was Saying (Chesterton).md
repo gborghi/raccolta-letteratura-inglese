@@ -18,8 +18,6 @@ tags:
   - histref/christianity
 ---
 
-# As I Was Saying
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

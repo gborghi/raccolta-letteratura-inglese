@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Mystery of Edwin Drood — Part 1: hear Neville moving too. Are you going back?” (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_21/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_24_hear_Neville_moving_too_Are_yo/part_02">part 02 ›</a></div>

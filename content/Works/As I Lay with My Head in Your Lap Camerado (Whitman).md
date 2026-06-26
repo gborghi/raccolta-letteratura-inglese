@@ -14,8 +14,6 @@ tags:
   - concept/doubt
 ---
 
-# As I Lay with My Head in Your Lap Camerado
-
 *by Whitman*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

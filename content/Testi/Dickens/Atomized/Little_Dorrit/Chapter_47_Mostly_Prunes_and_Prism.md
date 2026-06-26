@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 7: Mostly, Prunes and Prism
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_46_Something_Right_Somewhere">‹ Chapter 46 Something Right Somewhere</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_48_The_Dowager_Mrs_Gowan_is_remin">Chapter 48 The Dowager Mrs Gowan is remin ›</a></div>

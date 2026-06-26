@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Double
-
 *Topos* — appears in **24** work(s).
 
 ## Works

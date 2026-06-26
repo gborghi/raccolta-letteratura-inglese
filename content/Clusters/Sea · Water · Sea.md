@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Sea · Water · Sea
-
 *Cluster* — **35 works**.
 
 ## Defining concepts

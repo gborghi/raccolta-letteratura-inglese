@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ortho14 — The Maniac (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ortho14-(Chesterton)">ortho14</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ortho14/Story_02_The_Maniac/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ortho14/Story_03_The_Suicide_of_Thought/part_01">part 01 ›</a></div>

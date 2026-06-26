@@ -19,8 +19,6 @@ tags:
   - setting/the_sea
 ---
 
-# titanic
-
 *by Chesterton*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 

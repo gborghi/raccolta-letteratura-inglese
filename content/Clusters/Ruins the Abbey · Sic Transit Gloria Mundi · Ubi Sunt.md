@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Ruins / the Abbey · Sic Transit Gloria Mundi · Ubi Sunt
-
 *Cluster* — **13 works**.
 
 ## Defining concepts

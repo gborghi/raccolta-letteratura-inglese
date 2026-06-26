@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 </nav>

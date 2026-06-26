@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sir John Chester
-
 *Character* — appears in **1** work(s).
 
 ## Works

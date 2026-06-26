@@ -18,8 +18,6 @@ tags:
   - motif/the_supernatural
 ---
 
-# THE TWO ROUND SPACES ON THE TOMBSTONE
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -35,43 +33,43 @@ tags:
 
 ## Testo integrale / Full text
 
-The Devil believes that the Lord will come,
-Stealing a march without beat of drum,
-About the same time that he came last,
-On an Old Christmas-day in a snowy blast:
-Till he bids the trump sound neither body nor soul stirs,   5
-For the dead men’s heads have slipt under their bolsters.
-Oh! ho! brother Bard, in our churchyard,
-Both beds and bolsters are soft and green;
-Save one alone, and that’s of stone,
-And under it lies a Counsellor keen.   10
-‘Twould be a square tomb, if it were not too long;
-And ‘tis fenced round with irons sharp, spear-like, and strong.
-This fellow from Aberdeen hither did skip
-With a waxy face and a blubber lip,
-And a black tooth in front, to show in part   15
-What was the colour of his whole heart.
-This Counsellor sweet,
-This Scotchman complete,
-(The Devil scotch him for a snake!)
-I trust he lies in his grave awake.   20
-On the sixth of January,
-When all around is white with snow,
-As a Cheshire yeoman’s dairy,
-Brother Bard, ho! ho! believe it, or no,
-On that stone tomb to you I’ll show   25
-Two round spaces void of snow.
-I swear by our Knight, and his forefathers’ souls,
-That in size and shape they are just like the holes
-In the house of privity
-Of that ancient family.   30
-On those two places void of snow,
-There have sat in the night for an hour or so,
-Before sunrise, and after cock-crow,
-He kicking his heels, she cursing her corns,
-All to the tune of the wind in their horns,   35
-The Devil and his Grannam,
-With a snow-blast to fan ‘em;
-Expecting and hoping the trumpet to blow,
-For they are cock-sure of the fellow below!
-1800.
+The Devil believes that the Lord will come,  
+Stealing a march without beat of drum,  
+About the same time that he came last,  
+On an Old Christmas-day in a snowy blast:  
+Till he bids the trump sound neither body nor soul stirs,   5  
+For the dead men’s heads have slipt under their bolsters.  
+Oh! ho! brother Bard, in our churchyard,  
+Both beds and bolsters are soft and green;  
+Save one alone, and that’s of stone,  
+And under it lies a Counsellor keen.   10  
+‘Twould be a square tomb, if it were not too long;  
+And ‘tis fenced round with irons sharp, spear-like, and strong.  
+This fellow from Aberdeen hither did skip  
+With a waxy face and a blubber lip,  
+And a black tooth in front, to show in part   15  
+What was the colour of his whole heart.  
+This Counsellor sweet,  
+This Scotchman complete,  
+(The Devil scotch him for a snake!)  
+I trust he lies in his grave awake.   20  
+On the sixth of January,  
+When all around is white with snow,  
+As a Cheshire yeoman’s dairy,  
+Brother Bard, ho! ho! believe it, or no,  
+On that stone tomb to you I’ll show   25  
+Two round spaces void of snow.  
+I swear by our Knight, and his forefathers’ souls,  
+That in size and shape they are just like the holes  
+In the house of privity  
+Of that ancient family.   30  
+On those two places void of snow,  
+There have sat in the night for an hour or so,  
+Before sunrise, and after cock-crow,  
+He kicking his heels, she cursing her corns,  
+All to the tune of the wind in their horns,   35  
+The Devil and his Grannam,  
+With a snow-blast to fan ‘em;  
+Expecting and hoping the trumpet to blow,  
+For they are cock-sure of the fellow below!  
+1800.  

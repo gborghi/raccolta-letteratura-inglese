@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Wine and Drink · Ballad / Ballade · Road
-
 *Cluster* — **24 works**.
 
 ## Defining concepts

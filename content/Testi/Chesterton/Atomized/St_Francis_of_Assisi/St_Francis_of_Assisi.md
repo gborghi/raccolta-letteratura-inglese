@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# St. Francis of Assisi
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/St.-Francis-of-Assisi-(Chesterton)">St Francis of Assisi</a></div>
 </nav>

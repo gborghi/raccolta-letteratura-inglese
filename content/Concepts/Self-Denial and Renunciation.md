@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self-Denial and Renunciation
-
 *Theme/Concept* — appears in **3** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Balloon-Hoax
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Balloon-Hoax-(Poe)">The Balloon Hoax</a></div>
 </nav>

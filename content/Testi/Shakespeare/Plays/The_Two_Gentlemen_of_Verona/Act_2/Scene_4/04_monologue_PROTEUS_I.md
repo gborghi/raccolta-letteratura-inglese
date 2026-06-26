@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Gentlemen of Verona — Act II, Scene 4 — monologue (PROTEUS I) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
 </nav>

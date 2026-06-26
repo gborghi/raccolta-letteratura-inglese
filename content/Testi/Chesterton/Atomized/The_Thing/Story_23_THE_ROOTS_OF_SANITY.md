@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE ROOTS OF SANITY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_22_THE_NORDIC_HINDOO">‹ Story 22 THE NORDIC HINDOO</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS">Story 24 SOME OF OUR ERRORS ›</a></div>

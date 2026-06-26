@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry VI Part One — Act I, Scene 1 — exchange (BEDFORD) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-VI-PART-ONE-(Shakespeare)">Henry VI Part One</a></div>
 </nav>

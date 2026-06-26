@@ -50,8 +50,6 @@ tags:
   - character/the_fool
 ---
 
-# THE HISTORY OF KING LEAR - THE QUARTO TEXT
-
 *by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

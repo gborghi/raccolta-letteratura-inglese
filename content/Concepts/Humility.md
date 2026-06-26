@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Humility
-
 *Theme/Concept* — appears in **122** work(s).
 
 ## Works

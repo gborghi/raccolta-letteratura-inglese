@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Wheel
-
 *Motif* — appears in **15** work(s).
 
 ## Works

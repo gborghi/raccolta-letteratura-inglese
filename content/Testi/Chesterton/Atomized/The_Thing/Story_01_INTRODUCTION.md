@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — INTRODUCTION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_02_Is_HUMANISM_A_RELIGION">Story 02 Is HUMANISM A RELIGION ›</a></div>

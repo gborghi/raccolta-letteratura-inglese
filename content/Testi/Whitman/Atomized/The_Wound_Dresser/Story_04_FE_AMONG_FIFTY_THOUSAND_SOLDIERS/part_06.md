@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — FE AMONG FIFTY THOUSAND SOLDIERS (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_04_FE_AMONG_FIFTY_THOUSAND_SOLDIERS/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_04_FE_AMONG_FIFTY_THOUSAND_SOLDIERS/part_07">part 07 ›</a></div>

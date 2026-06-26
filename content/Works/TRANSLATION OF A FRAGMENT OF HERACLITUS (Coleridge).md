@@ -15,8 +15,6 @@ tags:
   - histref/greek_mythology
 ---
 
-# TRANSLATION OF A FRAGMENT OF HERACLITUS
-
 *by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -32,15 +30,15 @@ tags:
 
 ## Testo integrale / Full text
 
-Not hers
-To win the sense by words of rhetoric,
-Lip-blossoms breathing perishable sweets;
-But by the power of the informing Word
-Roll sounding onward through a thousand years
-Her deep prophetic bodements.
+Not hers  
+To win the sense by words of rhetoric,  
+Lip-blossoms breathing perishable sweets;  
+But by the power of the informing Word  
+Roll sounding onward through a thousand years  
+Her deep prophetic bodements.  
 1816. First published in Lit. Rem., iii. 418, 419. First collected P.
-and D. W., 1877, ii. 367.
-Truth I pursued, as Fancy sketch’d the way,
-And wiser men than I went worse astray.
-First published as Motto to Essay II, The Friend, 1818, ii. 37; 1850,
-ii. 27. First collected 1893.
+and D. W., 1877, ii. 367.  
+Truth I pursued, as Fancy sketch’d the way,  
+And wiser men than I went worse astray.  
+First published as Motto to Essay II, The Friend, 1818, ii. 37; 1850,  
+ii. 27. First collected 1893.  

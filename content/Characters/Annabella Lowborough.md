@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Annabella Lowborough
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -17,8 +17,6 @@ tags:
   - form/fragment
 ---
 
-# The Poet - A Fragment
-
 *by Keats*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Where’s the Poet? show him! show him,
-Muses nine! that I may know him!
-’Tis the man who with a man
-Is an equal, be he King,
-Or poorest of the beggar-clan,
-Or any other wondrous thing
-A man may be ‘twixt ape and Plato;
-’Tis the man who with a bird,
-Wren or Eagle, finds his way to
-All its instincts; he hath heard
-The Lion’s roaring, and can tell
-What his horny throat expresseth,
-And to him the Tiger’s yell
-Comes articulate and presseth
-On his ear like mother tongue.
+Where’s the Poet? show him! show him,  
+Muses nine! that I may know him!  
+’Tis the man who with a man  
+Is an equal, be he King,  
+Or poorest of the beggar-clan,  
+Or any other wondrous thing  
+A man may be ‘twixt ape and Plato;  
+’Tis the man who with a bird,  
+Wren or Eagle, finds his way to  
+All its instincts; he hath heard  
+The Lion’s roaring, and can tell  
+What his horny throat expresseth,  
+And to him the Tiger’s yell  
+Comes articulate and presseth  
+On his ear like mother tongue.  

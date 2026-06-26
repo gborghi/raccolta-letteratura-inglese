@@ -19,8 +19,6 @@ tags:
   - histref/catholic_church
 ---
 
-# anti religious thought
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

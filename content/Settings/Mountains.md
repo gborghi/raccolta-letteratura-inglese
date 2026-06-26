@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Mountains
-
 *Setting* — appears in **5** work(s).
 
 ## Works

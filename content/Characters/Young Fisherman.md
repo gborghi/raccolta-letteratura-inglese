@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Young Fisherman
-
 *Character* — appears in **1** work(s).
 
 ## Works

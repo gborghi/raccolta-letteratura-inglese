@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Taming of the Shrew — Act IV, Scene 6
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TAMING-OF-THE-SHREW-(Shakespeare)">The Taming of the Shrew</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_4/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Taming_of_the_Shrew/Act_5/Scene_1">Scene 1 ›</a></div>

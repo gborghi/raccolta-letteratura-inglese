@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sword (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sword-(Chesterton)">Sword</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sword/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sword/part/part_04">part 04 ›</a></div>

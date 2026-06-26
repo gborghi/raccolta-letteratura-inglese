@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Travel Writing
-
 *Form/Genre* — appears in **7** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# American Notes
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/American-Notes-(Dickens)">American Notes</a></div>
 </nav>

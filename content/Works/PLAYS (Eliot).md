@@ -13,8 +13,6 @@ tags:
   - histref/medieval_england
 ---
 
-# PLAYS
-
 *by Eliot*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

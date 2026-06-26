@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Pastoral Retreat
-
 *Topos* — appears in **36** work(s).
 
 ## Works

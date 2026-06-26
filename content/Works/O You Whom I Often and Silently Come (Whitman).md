@@ -13,8 +13,6 @@ tags:
   - concept/the_body
 ---
 
-# O You Whom I Often and Silently Come
-
 *by Whitman*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 

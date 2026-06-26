@@ -17,8 +17,6 @@ tags:
   - concept/alienation
 ---
 
-# Sonnet 111
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-O, for my sake do you with fortune chide, 
-The guilty goddess of my harmful deeds, 
-That did not better for my life provide 
-Than public means which public manners breeds. 
-Thence comes it that my name receives a brand, 
-And almost thence my nature is subdued 
-To what it works in, like the dyer’s hand. 
-Pity me then, and wish I were renewed, 
-Whilst like a willing patient I will drink 
-Potions of eisel ’gainst my strong infection; 
-No bitterness that I will bitter think, 
-Nor double penance to correct correction. 
-Pity me then, dear friend, and I assure ye 
-Even that your pity is enough to cure me.
+O, for my sake do you with fortune chide,  
+The guilty goddess of my harmful deeds,  
+That did not better for my life provide  
+Than public means which public manners breeds.  
+Thence comes it that my name receives a brand,  
+And almost thence my nature is subdued  
+To what it works in, like the dyer’s hand.  
+Pity me then, and wish I were renewed,  
+Whilst like a willing patient I will drink  
+Potions of eisel ’gainst my strong infection;  
+No bitterness that I will bitter think,  
+Nor double penance to correct correction.  
+Pity me then, dear friend, and I assure ye  
+Even that your pity is enough to cure me.  

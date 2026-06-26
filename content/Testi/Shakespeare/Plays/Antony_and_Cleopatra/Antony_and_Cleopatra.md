@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# ANTONY AND CLEOPATRA
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ANTONY-AND-CLEOPATRA-(Shakespeare)">Antony and Cleopatra</a></div>
 </nav>

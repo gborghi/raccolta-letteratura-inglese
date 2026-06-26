@@ -16,8 +16,6 @@ tags:
   - motif/water
 ---
 
-# WATER BALLAD
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -31,29 +29,29 @@ tags:
 
 ## Testo integrale / Full text
 
-FROM THE FRENCH
-‘Come hither, gently rowing,
-Come, bear me quickly o’er
-This stream so brightly flowing
-To yonder woodland shore.
-But vain were my endeavour   5
-To pay thee, courteous guide;
-Row on, row on, for ever
-I’d have thee by my side.
-‘Good boatman, prithee haste thee,
-I seek my father-land.’ — 10
-‘Say, when I there have placed thee,
-Dare I demand thy hand?’
-‘A maiden’s head can never
-So hard a point decide;
-Row on, row on, for ever   15
-I’d have thee by my side.’
-The happy bridal over
-The wanderer ceased to roam,
-For, seated by her lover,
-The boat became her home.   20
-And still they sang together
-As steering o’er the tide:
-‘Row on through wind and weather
-For ever by my side.’
-? 1799.
+FROM THE FRENCH  
+‘Come hither, gently rowing,  
+Come, bear me quickly o’er  
+This stream so brightly flowing  
+To yonder woodland shore.  
+But vain were my endeavour   5  
+To pay thee, courteous guide;  
+Row on, row on, for ever  
+I’d have thee by my side.  
+‘Good boatman, prithee haste thee,  
+I seek my father-land.’ — 10  
+‘Say, when I there have placed thee,  
+Dare I demand thy hand?’  
+‘A maiden’s head can never  
+So hard a point decide;  
+Row on, row on, for ever   15  
+I’d have thee by my side.’  
+The happy bridal over  
+The wanderer ceased to roam,  
+For, seated by her lover,  
+The boat became her home.   20  
+And still they sang together  
+As steering o’er the tide:  
+‘Row on through wind and weather  
+For ever by my side.’  
+? 1799.  

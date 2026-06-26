@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE GREAT GOD NAMSE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_30_ON_THE_NEW_RELIGION_COMING">‹ Story 30 ON THE NEW RELIGION COMING</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_32_ON_THE_INNOCENCE_OF_MACAULAY">Story 32 ON THE INNOCENCE OF MACAULAY ›</a></div>

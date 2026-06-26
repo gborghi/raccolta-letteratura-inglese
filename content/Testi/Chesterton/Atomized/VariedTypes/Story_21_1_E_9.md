@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — 1.E.9.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_20_Please_Read_This_Before_You_Distribute_O">‹ Story 20 Please Read This Before You Distribute O</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_22_Damage">Story 22 Damage ›</a></div>

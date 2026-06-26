@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Gold and Grey
-
 *Motif* — appears in **4** work(s).
 
 ## Works

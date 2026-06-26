@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Jane Eyre
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
 </nav>

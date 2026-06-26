@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The God of the Gongs
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_08_The_Perishing_of_the_Pendragons">‹ Story 08 The Perishing of the Pendragons</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_10_The_Salad_of_Colonel_Cray">Story 10 The Salad of Colonel Cray ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE IDOLS OF SCOTLAND
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_29_THE_OUTLINE_OF_THE_FALL">‹ Story 29 THE OUTLINE OF THE FALL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_31_IF_THEY_HAD_BELIEVED">Story 31 IF THEY HAD BELIEVED ›</a></div>

@@ -16,8 +16,6 @@ tags:
   - archetype/prophet
 ---
 
-# PRIESTLEY
-
 *by Coleridge*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Though rous’d by that dark Vizir Riot rude
-Have driven our PRIESTLEY o’er the Ocean swell;
-Though Superstition and her wolfish brood
-Bay his mild radiance, impotent and fell;
-Calm in his halls of brightness he shall dwell!   5
-For lo! RELIGION at his strong behest
-Starts with mild anger from the Papal spell,
-And flings to Earth her tinsel-glittering vest,
-Her mitred State and cumbrous Pomp unholy;
-And JUSTICE wakes to bid th’ Oppressor wail   10
-Insulting aye the wrongs of patient Folly;
-And from her dark retreat by Wisdom won
-Meek NATURE slowly lifts her matron veil
-To smile with fondness on her gazing Son!
-December 11, 1794.
+Though rous’d by that dark Vizir Riot rude  
+Have driven our PRIESTLEY o’er the Ocean swell;  
+Though Superstition and her wolfish brood  
+Bay his mild radiance, impotent and fell;  
+Calm in his halls of brightness he shall dwell!   5  
+For lo! RELIGION at his strong behest  
+Starts with mild anger from the Papal spell,  
+And flings to Earth her tinsel-glittering vest,  
+Her mitred State and cumbrous Pomp unholy;  
+And JUSTICE wakes to bid th’ Oppressor wail   10  
+Insulting aye the wrongs of patient Folly;  
+And from her dark retreat by Wisdom won  
+Meek NATURE slowly lifts her matron veil  
+To smile with fondness on her gazing Son!  
+December 11, 1794.  

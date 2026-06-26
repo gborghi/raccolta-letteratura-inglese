@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Northanger Abbey — Chapter 10 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Northanger-Abbey-(Austen)">Northanger Abbey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_11/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Austen/Atomized/Northanger_Abbey/Chapter_11/part_04">part 04 ›</a></div>

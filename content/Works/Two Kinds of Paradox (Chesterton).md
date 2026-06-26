@@ -18,8 +18,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# Two Kinds of Paradox
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

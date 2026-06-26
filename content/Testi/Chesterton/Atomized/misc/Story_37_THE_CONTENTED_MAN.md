@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE CONTENTED MAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_36_THE_CHARTERED_LIBERTINE">‹ Story 36 THE CHARTERED LIBERTINE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_38_THE_ANGRY_AUTHOR_HIS_FAREWELL">Story 38 THE ANGRY AUTHOR HIS FAREWELL ›</a></div>

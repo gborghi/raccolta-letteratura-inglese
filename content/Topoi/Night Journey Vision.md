@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Night Journey / Vision
-
 *Topos* — appears in **21** work(s).
 
 ## Works

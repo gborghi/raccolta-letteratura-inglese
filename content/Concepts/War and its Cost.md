@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# War and its Cost
-
 *Theme/Concept* — appears in **166** work(s).
 
 ## Works

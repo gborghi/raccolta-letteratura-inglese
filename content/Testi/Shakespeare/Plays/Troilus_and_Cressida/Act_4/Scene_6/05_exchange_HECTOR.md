@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Troilus and Cressida — Act IV, Scene 6 — exchange (HECTOR) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TROILUS-AND-CRESSIDA-(Shakespeare)">Troilus and Cressida</a></div>
 </nav>

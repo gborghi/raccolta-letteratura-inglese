@@ -39,8 +39,6 @@ tags:
   - histref/greek_tragedy
 ---
 
-# De Profundis
-
 *by Wilde*  ·  **Cluster:** [[Martyrdom · Martyr Saint · Cross]]
 
 > [!abstract] 

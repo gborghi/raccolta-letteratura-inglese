@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Transience
-
 *Theme/Concept* — appears in **236** work(s).
 
 ## Works

@@ -16,8 +16,6 @@ tags:
   - form/free_verse
 ---
 
-# MY 71st Year
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -32,15 +30,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  After surmounting three-score and ten,
-  With all their chances, changes, losses, sorrows,
-  My parents’ deaths, the vagaries of my life, the many tearing
-      passions of me, the war of ’63 and ’4,
-  As some old broken soldier, after a long, hot, wearying march, or
-      haply after battle,
-  To-day at twilight, hobbling, answering company roll-call, Here,
-      with vital voice,
-  Reporting yet, saluting yet the Officer over all.
+  After surmounting three-score and ten,  
+  With all their chances, changes, losses, sorrows,  
+  My parents’ deaths, the vagaries of my life, the many tearing  
+      passions of me, the war of ’63 and ’4,  
+  As some old broken soldier, after a long, hot, wearying march, or  
+      haply after battle,  
+  To-day at twilight, hobbling, answering company roll-call, Here,  
+      with vital voice,  
+  Reporting yet, saluting yet the Officer over all.  

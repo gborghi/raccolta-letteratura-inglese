@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Contemptus Mundi
-
 *Topos* — appears in **11** work(s).
 
 ## Works

@@ -25,8 +25,6 @@ tags:
   - setting/egypt
 ---
 
-# Some Words with a Mummy
-
 *by Poe*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -16,8 +16,6 @@ tags:
   - concept/identity
 ---
 
-# EPITAPH: ON HIMSELF
-
 *by Coleridge*  ·  **Cluster:** [[Sleep · Sleeper Awakes · Resurrection]]
 
 > [!abstract] 
@@ -33,11 +31,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Here sleeps at length poor Col., and without screaming —
-Who died as he had always lived, a-dreaming:
-Shot dead, while sleeping, by the Gout within —
-Alone, and all unknown, at E’nbro’ in an Inn.
-‘Composed in my sleep for myself while dreaming that I was dying’ . . .
-at the Black Bull, Edinburgh, Tuesday, Sept. 13, 1803. Sent in a letter
-to Thomas Wedgwood, Sept. 16, 1803. First published Cottle’s
-Reminiscences, 1848, p. 467. First collected in 1893.
+Here sleeps at length poor Col., and without screaming —  
+Who died as he had always lived, a-dreaming:  
+Shot dead, while sleeping, by the Gout within —  
+Alone, and all unknown, at E’nbro’ in an Inn.  
+‘Composed in my sleep for myself while dreaming that I was dying’ . . .  
+at the Black Bull, Edinburgh, Tuesday, Sept. 13, 1803. Sent in a letter  
+to Thomas Wedgwood, Sept. 16, 1803. First published Cottle’s  
+Reminiscences, 1848, p. 467. First collected in 1893.  

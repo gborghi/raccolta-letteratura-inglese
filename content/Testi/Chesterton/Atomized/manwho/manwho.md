@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 </nav>

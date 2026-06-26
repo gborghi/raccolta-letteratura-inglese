@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The New Groove
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_17_Giotto_And_St_Francis">‹ Story 17 Giotto And St Francis</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_19_The_Real_Dr_Johnson">Story 19 The Real Dr Johnson ›</a></div>

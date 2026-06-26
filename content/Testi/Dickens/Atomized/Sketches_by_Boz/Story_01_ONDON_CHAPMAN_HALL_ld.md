@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — ONDON: CHAPMAN & HALL, ld.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_02_HAPTER_ITHE_BEADLE_THE_PARISH_ENGINE_THE">Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE ›</a></div>

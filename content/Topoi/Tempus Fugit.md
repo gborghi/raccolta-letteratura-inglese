@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Tempus Fugit
-
 *Topos* — appears in **80** work(s).
 
 ## Works

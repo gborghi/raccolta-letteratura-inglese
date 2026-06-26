@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — The Englishman in Ireland
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_04_The_Paradox_of_Labour">‹ Story 04 The Paradox of Labour</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_06_The_Mistake_of_England">Story 06 The Mistake of England ›</a></div>

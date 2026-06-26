@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE MAD OFFICIAL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_07_THE_VOTER_AND_THE_TWO_VOICES">‹ Story 07 THE VOTER AND THE TWO VOICES</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_09_THE_ENCHANTED_MAN">Story 09 THE ENCHANTED MAN ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - form/epigram
 ---
 
-# THE SECOND BIRTH
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-There are two births, the one when Light
-First strikes the new-awaken’d sense —
-The other when two souls unite,
-And we must count our life from then.
-When you lov’d me, and I lov’d you,   5
-Then both of us were born anew.
-? 1801.
+There are two births, the one when Light  
+First strikes the new-awaken’d sense —  
+The other when two souls unite,  
+And we must count our life from then.  
+When you lov’d me, and I lov’d you,   5  
+Then both of us were born anew.  
+? 1801.  

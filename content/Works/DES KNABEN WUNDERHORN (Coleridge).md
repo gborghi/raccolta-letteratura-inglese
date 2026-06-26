@@ -15,8 +15,6 @@ tags:
   - form/song
 ---
 
-# DES KNABEN WUNDERHORN
-
 *by Coleridge*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
@@ -30,22 +28,22 @@ tags:
 
 ## Testo integrale / Full text
 
-Wenn ich ein Vöglein wär
-Und auch zwei Flüglein hätt’,
-Flög’ ich zu dir;
-Weil’s aber nicht kann sein,
-Weil’s aber nicht kann sein,   5
-Bleib’ ich allhier.
-Bin ich gleich weit von dir,
-Bin ich doch im Schlaf bei dir
-Und red’ mit dir;
-Wenn ich erwachen thu’,   10
-Wenn ich erwachen thu’,
-Bin ich allein.
-Es vergeht keine Stund’ in der Nacht
-Da mein Herz nicht erwacht
-Und an dich gedenkt.   15
-Wie du mir viel tausendmal,
-Wie du mir viel tausendmal,
-Dein Herz geschenkt.
-I
+Wenn ich ein Vöglein wär  
+Und auch zwei Flüglein hätt’,  
+Flög’ ich zu dir;  
+Weil’s aber nicht kann sein,  
+Weil’s aber nicht kann sein,   5  
+Bleib’ ich allhier.  
+Bin ich gleich weit von dir,  
+Bin ich doch im Schlaf bei dir  
+Und red’ mit dir;  
+Wenn ich erwachen thu’,   10  
+Wenn ich erwachen thu’,  
+Bin ich allein.  
+Es vergeht keine Stund’ in der Nacht  
+Da mein Herz nicht erwacht  
+Und an dich gedenkt.   15  
+Wie du mir viel tausendmal,  
+Wie du mir viel tausendmal,  
+Dein Herz geschenkt.  
+I  

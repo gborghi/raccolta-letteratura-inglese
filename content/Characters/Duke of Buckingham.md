@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Duke of Buckingham
-
 *Character* — appears in **1** work(s).
 
 ## Works

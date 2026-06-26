@@ -10,8 +10,6 @@ tags:
   - character/auguste_dupin
 ---
 
-# The Purloined Letter
-
 *by Poe*  ·  **Cluster:** [[Unclustered]]
 
 ## Connections

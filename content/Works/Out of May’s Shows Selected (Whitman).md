@@ -17,8 +17,6 @@ tags:
   - form/lyric
 ---
 
-# Out of May’s Shows Selected
-
 *by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 
@@ -33,11 +31,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Apple orchards, the trees all cover’d with blossoms;
-  Wheat fields carpeted far and near in vital emerald green;
-  The eternal, exhaustless freshness of each early morning;
-  The yellow, golden, transparent haze of the warm afternoon sun;
-  The aspiring lilac bushes with profuse purple or white flowers.
+  Apple orchards, the trees all cover’d with blossoms;  
+  Wheat fields carpeted far and near in vital emerald green;  
+  The eternal, exhaustless freshness of each early morning;  
+  The yellow, golden, transparent haze of the warm afternoon sun;  
+  The aspiring lilac bushes with profuse purple or white flowers.  

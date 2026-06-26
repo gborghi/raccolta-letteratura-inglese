@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Satire of Society · Epigram · Satire
-
 *Cluster* — **112 works**.
 
 ## Defining concepts

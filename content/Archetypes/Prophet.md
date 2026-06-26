@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Prophet
-
 *Archetype* — appears in **28** work(s).
 
 ## Works

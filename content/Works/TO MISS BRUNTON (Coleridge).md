@@ -14,8 +14,6 @@ tags:
   - concept/joy
 ---
 
-# TO MISS BRUNTON
-
 *by Coleridge*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-WITH THE PRECEDING TRANSLATION
-That darling of the Tragic Muse,
-When Wrangham sung her praise,
-Thalia lost her rosy hues,
-And sicken’d at her lays:
-But transient was th’ unwonted sigh;    5
-For soon the Goddess spied
-A sister-form of mirthful eye,
-And danc’d for joy and cried:
-‘Meek Pity’s sweetest child, proud dame,
-The fates have given to you!   10
-Still bid your Poet boast her name;
-I have my Brunton too.’
-1794.
+WITH THE PRECEDING TRANSLATION  
+That darling of the Tragic Muse,  
+When Wrangham sung her praise,  
+Thalia lost her rosy hues,  
+And sicken’d at her lays:  
+But transient was th’ unwonted sigh;    5  
+For soon the Goddess spied  
+A sister-form of mirthful eye,  
+And danc’d for joy and cried:  
+‘Meek Pity’s sweetest child, proud dame,  
+The fates have given to you!   10  
+Still bid your Poet boast her name;  
+I have my Brunton too.’  
+1794.  

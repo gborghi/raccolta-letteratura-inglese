@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mellonta Tauta
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mellonta-Tauta-(Poe)">Mellonta Tauta</a></div>
 </nav>

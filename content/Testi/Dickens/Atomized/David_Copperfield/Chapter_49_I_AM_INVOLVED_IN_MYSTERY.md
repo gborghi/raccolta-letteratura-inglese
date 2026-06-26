@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_48_DOMESTIC">‹ Chapter 48 DOMESTIC</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_50_Mr_PEGGOTTYS_DREAM_COMES_TRUE">Chapter 50 Mr PEGGOTTYS DREAM COMES TRUE ›</a></div>

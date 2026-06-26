@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Noble Kinsmen — Act IV, Scene 3 — exchange (JAILER) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)">The Two Noble Kinsmen</a></div>
 </nav>

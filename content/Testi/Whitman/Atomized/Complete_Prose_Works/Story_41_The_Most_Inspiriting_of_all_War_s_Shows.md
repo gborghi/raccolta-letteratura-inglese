@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Most Inspiriting of all War's Shows
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_40_Bad_Wounds_the_Young">‹ Story 40 Bad Wounds the Young</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_42_Battle_of_Gettysburg">Story 42 Battle of Gettysburg ›</a></div>

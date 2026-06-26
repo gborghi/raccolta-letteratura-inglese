@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Despair · Fear
-
 *Cluster* — **3 works**.
 
 ## Defining concepts

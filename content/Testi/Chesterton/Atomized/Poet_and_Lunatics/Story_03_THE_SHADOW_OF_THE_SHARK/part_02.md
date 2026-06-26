@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Poet and Lunatics — THE SHADOW OF THE SHARK (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Poet-and-Lunatics-(Chesterton)">Poet and Lunatics</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Poet_and_Lunatics/Story_03_THE_SHADOW_OF_THE_SHARK/part_03">part 03 ›</a></div>

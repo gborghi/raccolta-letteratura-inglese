@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Elizabeth Barrett Browning
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_31_Vandalism">‹ Story 31 Vandalism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_33_The_Erastian_On_The_Establishment">Story 33 The Erastian On The Establishment ›</a></div>

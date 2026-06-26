@@ -18,8 +18,6 @@ tags:
   - histref/christianity
 ---
 
-# twelve-men
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

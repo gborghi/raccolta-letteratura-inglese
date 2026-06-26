@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Three Witches
-
 *Character* — appears in **1** work(s).
 
 ## Works

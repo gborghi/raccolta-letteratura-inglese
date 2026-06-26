@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Equality in Death
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

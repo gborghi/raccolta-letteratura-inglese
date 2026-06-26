@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 35: What was behind Mr Pancks on Little Dorrit’s Hand (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_38_What_was_behind_Mr_Pancks_on_L/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_38_What_was_behind_Mr_Pancks_on_L/part_03">part 03 ›</a></div>

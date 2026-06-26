@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Beauty
-
 *Theme/Concept* — appears in **156** work(s).
 
 ## Works

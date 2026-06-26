@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry VI Part One — Act IV, Scene 7 — exchange (dialogue) [1]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-VI-PART-ONE-(Shakespeare)">Henry VI Part One</a></div>
 </nav>

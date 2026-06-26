@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 </nav>

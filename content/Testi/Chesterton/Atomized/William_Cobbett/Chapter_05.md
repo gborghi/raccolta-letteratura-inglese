@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# William Cobbett — Chapter 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/William-Cobbett-(Chesterton)">William Cobbett</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/William_Cobbett/Chapter_04">‹ Chapter 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/William_Cobbett/Chapter_06">Chapter 06 ›</a></div>

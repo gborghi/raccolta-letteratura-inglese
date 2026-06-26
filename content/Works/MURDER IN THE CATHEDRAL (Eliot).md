@@ -41,8 +41,6 @@ tags:
   - character/thomas_becket
 ---
 
-# MURDER IN THE CATHEDRAL
-
 *by Eliot*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 

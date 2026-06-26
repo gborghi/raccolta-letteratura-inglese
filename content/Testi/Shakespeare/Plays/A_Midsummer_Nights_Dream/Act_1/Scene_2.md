@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# A Midsummer Nights Dream — Act I, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)">A Midsummer Nights Dream</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/A_Midsummer_Nights_Dream/Act_1/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/A_Midsummer_Nights_Dream/Act_2/Scene_1">Scene 1 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - concept/power_and_corruption
 ---
 
-# ON DEPUTY ——
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-By many a booby’s vengeance bit
-I leave your haunts, ye sons of wit!
-And swear, by Heaven’s blessed light,
-That Epigrams no more I’ll write.
-Now hang that ***** for an ass,
-Thus to thrust in his idiot face,
-Which spite of oaths, if e’er I spy,
-I’ll write an Epigram — or die.
-LABERIUS.
-First published in Morning Post, Jan. 2, 1798. First collected, P.
-and D. W., 1877, ii. 369.
-To be ruled like a Frenchman the Briton is loth,
-Yet in truth a direct-tory governs them both.
+By many a booby’s vengeance bit  
+I leave your haunts, ye sons of wit!  
+And swear, by Heaven’s blessed light,  
+That Epigrams no more I’ll write.  
+Now hang that ***** for an ass,  
+Thus to thrust in his idiot face,  
+Which spite of oaths, if e’er I spy,  
+I’ll write an Epigram — or die.  
+LABERIUS.  
+First published in Morning Post, Jan. 2, 1798. First collected, P.  
+and D. W., 1877, ii. 369.  
+To be ruled like a Frenchman the Briton is loth,  
+Yet in truth a direct-tory governs them both.  
 1798. First collected P. and D. W., 1877, ii. 166.

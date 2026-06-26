@@ -16,8 +16,6 @@ tags:
   - form/short_story
 ---
 
-# Why the Little Frenchman Wears his Hand in a Sling
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

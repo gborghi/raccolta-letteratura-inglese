@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 27: TOMMY TRADDLES (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_28_Mr_MICAWBERS_GAUNTLET/part_01">part 01 ›</a></div>

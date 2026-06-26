@@ -34,8 +34,6 @@ tags:
   - character/christ
 ---
 
-# The Everlasting Man
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

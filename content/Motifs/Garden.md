@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Garden
-
 *Motif* — appears in **56** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Earl of Northumberland
-
 *Character* — appears in **2** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Don John of Austria
-
 *Character* — appears in **2** work(s).
 
 ## Works

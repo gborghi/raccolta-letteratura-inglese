@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Underworld / Cave
-
 *Setting* — appears in **10** work(s).
 
 ## Works

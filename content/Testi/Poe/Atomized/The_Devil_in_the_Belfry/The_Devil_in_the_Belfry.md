@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Devil in the Belfry
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Devil-in-the-Belfry-(Poe)">The Devil in the Belfry</a></div>
 </nav>

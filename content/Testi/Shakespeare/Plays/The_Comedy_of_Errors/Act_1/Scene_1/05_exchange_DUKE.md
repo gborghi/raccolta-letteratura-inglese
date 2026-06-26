@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Comedy of Errors — Act I, Scene 1 — exchange (DUKE) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 </nav>

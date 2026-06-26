@@ -16,8 +16,6 @@ tags:
   - form/song
 ---
 
-# Song for All Seas, All Ships
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -32,38 +30,38 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SEA-DRIFT_
+_Cluster: SEA-DRIFT_  
 
 
-       1
-  To-day a rude brief recitative,
-  Of ships sailing the seas, each with its special flag or ship-signal,
-  Of unnamed heroes in the ships--of waves spreading and spreading
-      far as the eye can reach,
-  Of dashing spray, and the winds piping and blowing,
-  And out of these a chant for the sailors of all nations,
-  Fitful, like a surge.
+       1  
+  To-day a rude brief recitative,  
+  Of ships sailing the seas, each with its special flag or ship-signal,  
+  Of unnamed heroes in the ships--of waves spreading and spreading  
+      far as the eye can reach,  
+  Of dashing spray, and the winds piping and blowing,  
+  And out of these a chant for the sailors of all nations,  
+  Fitful, like a surge.  
 
-  Of sea-captains young or old, and the mates, and of all intrepid sailors,
-  Of the few, very choice, taciturn, whom fate can never surprise nor
-      death dismay.
-  Pick’d sparingly without noise by thee old ocean, chosen by thee,
-  Thou sea that pickest and cullest the race in time, and unitest nations,
-  Suckled by thee, old husky nurse, embodying thee,
-  Indomitable, untamed as thee.
+  Of sea-captains young or old, and the mates, and of all intrepid sailors,  
+  Of the few, very choice, taciturn, whom fate can never surprise nor  
+      death dismay.  
+  Pick’d sparingly without noise by thee old ocean, chosen by thee,  
+  Thou sea that pickest and cullest the race in time, and unitest nations,  
+  Suckled by thee, old husky nurse, embodying thee,  
+  Indomitable, untamed as thee.  
 
-  (Ever the heroes on water or on land, by ones or twos appearing,
-  Ever the stock preserv’d and never lost, though rare, enough for
-      seed preserv’d.)
+  (Ever the heroes on water or on land, by ones or twos appearing,  
+  Ever the stock preserv’d and never lost, though rare, enough for  
+      seed preserv’d.)  
 
-       2
-  Flaunt out O sea your separate flags of nations!
-  Flaunt out visible as ever the various ship-signals!
-  But do you reserve especially for yourself and for the soul of man
-      one flag above all the rest,
-  A spiritual woven signal for all nations, emblem of man elate above death,
-  Token of all brave captains and all intrepid sailors and mates,
-  And all that went down doing their duty,
-  Reminiscent of them, twined from all intrepid captains young or old,
-  A pennant universal, subtly waving all time, o’er all brave sailors,
-  All seas, all ships.
+       2  
+  Flaunt out O sea your separate flags of nations!  
+  Flaunt out visible as ever the various ship-signals!  
+  But do you reserve especially for yourself and for the soul of man  
+      one flag above all the rest,  
+  A spiritual woven signal for all nations, emblem of man elate above death,  
+  Token of all brave captains and all intrepid sailors and mates,  
+  And all that went down doing their duty,  
+  Reminiscent of them, twined from all intrepid captains young or old,  
+  A pennant universal, subtly waving all time, o’er all brave sailors,  
+  All seas, all ships.  

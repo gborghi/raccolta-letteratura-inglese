@@ -15,8 +15,6 @@ tags:
   - concept/beauty
 ---
 
-# TO THE EVENING STAR
-
 *by Coleridge*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-O meek attendant of Sol’s setting blaze,
-I hail, sweet star, thy chaste effulgent glow;
-On thee full oft with fixéd eye I gaze
-Till I, methinks, all spirit seem to grow.
-O first and fairest of the starry choir,   5
-O loveliest ‘mid the daughters of the night,
-Must not the maid I love like thee inspire
-Pure joy and calm Delight?
-Must she not be, as is thy placid sphere
-Serenely brilliant? Whilst to gaze a while   10
-Be all my wish ‘mid Fancy’s high career
-E’en till she quit this scene of earthly toil;
-Then Hope perchance might fondly sigh to join
-Her spirit in thy kindred orb, O Star benign!
-? 1790.
+O meek attendant of Sol’s setting blaze,  
+I hail, sweet star, thy chaste effulgent glow;  
+On thee full oft with fixéd eye I gaze  
+Till I, methinks, all spirit seem to grow.  
+O first and fairest of the starry choir,   5  
+O loveliest ‘mid the daughters of the night,  
+Must not the maid I love like thee inspire  
+Pure joy and calm Delight?  
+Must she not be, as is thy placid sphere  
+Serenely brilliant? Whilst to gaze a while   10  
+Be all my wish ‘mid Fancy’s high career  
+E’en till she quit this scene of earthly toil;  
+Then Hope perchance might fondly sigh to join  
+Her spirit in thy kindred orb, O Star benign!  
+? 1790.  

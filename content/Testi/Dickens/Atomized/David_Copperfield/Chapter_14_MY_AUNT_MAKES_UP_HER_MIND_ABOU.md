@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 14: MY AUNT MAKES UP HER MIND ABOUT ME
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION">‹ Chapter 13 THE SEQUEL OF MY RESOLUTION</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING">Chapter 15 I MAKE ANOTHER BEGINNING ›</a></div>

@@ -13,8 +13,6 @@ tags:
   - motif/the_city
 ---
 
-# I Hear It Was Charged Against Me
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

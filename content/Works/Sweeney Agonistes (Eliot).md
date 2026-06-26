@@ -25,8 +25,6 @@ tags:
   - character/sweeney
 ---
 
-# Sweeney Agonistes
-
 *by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 

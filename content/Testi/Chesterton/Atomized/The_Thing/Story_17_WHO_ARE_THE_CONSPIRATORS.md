@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — WHO ARE THE CONSPIRATORS?
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_16_THE_FEASTS_AND_THE_ASCETIC">‹ Story 16 THE FEASTS AND THE ASCETIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_18_THE_HAT_AND_THE_HALO">Story 18 THE HAT AND THE HALO ›</a></div>

@@ -16,8 +16,6 @@ tags:
   - form/free_verse
 ---
 
-# Grand Is the Seen
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 
@@ -31,16 +29,16 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Grand is the seen, the light, to me--grand are the sky and stars,
-  Grand is the earth, and grand are lasting time and space,
-  And grand their laws, so multiform, puzzling, evolutionary;
-  But grander far the unseen soul of me, comprehending, endowing all those,
-  Lighting the light, the sky and stars, delving the earth, sailing
-      the sea,
-  (What were all those, indeed, without thee, unseen soul? of what
-      amount without thee?)
-  More evolutionary, vast, puzzling, O my soul!
-  More multiform far--more lasting thou than they.
+  Grand is the seen, the light, to me--grand are the sky and stars,  
+  Grand is the earth, and grand are lasting time and space,  
+  And grand their laws, so multiform, puzzling, evolutionary;  
+  But grander far the unseen soul of me, comprehending, endowing all those,  
+  Lighting the light, the sky and stars, delving the earth, sailing  
+      the sea,  
+  (What were all those, indeed, without thee, unseen soul? of what  
+      amount without thee?)  
+  More evolutionary, vast, puzzling, O my soul!  
+  More multiform far--more lasting thou than they.  

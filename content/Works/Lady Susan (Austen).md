@@ -29,8 +29,6 @@ tags:
   - character/mrs_johnson
 ---
 
-# Lady Susan
-
 *by Austen*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 

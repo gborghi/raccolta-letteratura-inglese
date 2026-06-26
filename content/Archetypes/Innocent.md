@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Innocent
-
 *Archetype* — appears in **37** work(s).
 
 ## Works

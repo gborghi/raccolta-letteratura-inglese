@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 21: Mr Merdle’s Complaint
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_23_Moving_in_Society">‹ Chapter 23 Moving in Society</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_25_A_Puzzle">Chapter 25 A Puzzle ›</a></div>

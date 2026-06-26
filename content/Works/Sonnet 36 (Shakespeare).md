@@ -16,8 +16,6 @@ tags:
   - concept/identity
 ---
 
-# Sonnet 36
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,19 +29,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Let me confess that we two must be twain 
-Although our undivided loves are one; 
-So shall those blots that do with me remain 
-Without thy help by me be borne alone. 
-In our two loves there is but one respect, 
-Though in our lives a separable spite 
-Which, though it alter not love’s sole effect, 
-Yet doth it steal sweet hours from love’s delight. 
-I may not evermore acknowledge thee 
-Lest my bewailed guilt should do thee shame, 
-Nor thou with public kindness honour me 
-Unless thou take that honour from thy name.
+Let me confess that we two must be twain  
+Although our undivided loves are one;  
+So shall those blots that do with me remain  
+Without thy help by me be borne alone.  
+In our two loves there is but one respect,  
+Though in our lives a separable spite  
+Which, though it alter not love’s sole effect,  
+Yet doth it steal sweet hours from love’s delight.  
+I may not evermore acknowledge thee  
+Lest my bewailed guilt should do thee shame,  
+Nor thou with public kindness honour me  
+Unless thou take that honour from thy name.  
 
-But do not so. I love thee in such sort
+But do not so. I love thee in such sort  
 
-As, thou being mine, mine is thy good report.
+As, thou being mine, mine is thy good report.  

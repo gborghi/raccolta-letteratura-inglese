@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# meaning of the crusade (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/meaning-of-the-crusade-(Chesterton)">meaning of the crusade</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/meaning_of_the_crusade/part/part_06">‹ part 06</a><span></span></div>

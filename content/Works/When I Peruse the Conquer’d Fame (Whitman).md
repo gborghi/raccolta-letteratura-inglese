@@ -13,8 +13,6 @@ tags:
   - concept/friendship
 ---
 
-# When I Peruse the Conquer’d Fame
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

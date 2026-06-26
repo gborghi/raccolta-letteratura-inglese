@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Landor's Cottage
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Landor's-Cottage-(Poe)">Landor s Cottage</a></div>
 </nav>

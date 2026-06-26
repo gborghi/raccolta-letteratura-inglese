@@ -15,8 +15,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# TO RICHARD BRINSLEY SHERIDAN, ESQ.
-
 *by Coleridge*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,18 +29,18 @@ tags:
 
 ## Testo integrale / Full text
 
-It was some Spirit, SHERIDAN! that breath’d
-O’er thy young mind such wildly-various power!
-My soul hath mark’d thee in her shaping hour,
-Thy temples with Hymettian flow’rets wreath’d:
-And sweet thy voice, as when o’er LAURA’S bier   5
-Sad Music trembled thro’ Vauclusa’s glade;
-Sweet, as at dawn the love-lorn Serenade
-That wafts soft dreams to SLUMBER’S listening ear.
-Now patriot Rage and Indignation high
-Swell the full tones! And now thine eye-beams dance   10
-Meanings of Scorn and Wit’s quaint revelry!
-Writhes inly from the bosom-probing glance
-The Apostate by the brainless rout ador’d,
-As erst that elder Fiend beneath great Michael’s sword.
-January 29, 1795.
+It was some Spirit, SHERIDAN! that breath’d  
+O’er thy young mind such wildly-various power!  
+My soul hath mark’d thee in her shaping hour,  
+Thy temples with Hymettian flow’rets wreath’d:  
+And sweet thy voice, as when o’er LAURA’S bier   5  
+Sad Music trembled thro’ Vauclusa’s glade;  
+Sweet, as at dawn the love-lorn Serenade  
+That wafts soft dreams to SLUMBER’S listening ear.  
+Now patriot Rage and Indignation high  
+Swell the full tones! And now thine eye-beams dance   10  
+Meanings of Scorn and Wit’s quaint revelry!  
+Writhes inly from the bosom-probing glance  
+The Apostate by the brainless rout ador’d,  
+As erst that elder Fiend beneath great Michael’s sword.  
+January 29, 1795.  

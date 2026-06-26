@@ -16,8 +16,6 @@ tags:
   - histref/the_french_revolution
 ---
 
-# DOMESTIC PEACE
-
 *by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -33,19 +31,19 @@ tags:
 
 ## Testo integrale / Full text
 
-FROM ‘THE FALL OF ROBESPIERRE’, ACT I, L. 210
-Tell me, on what holy ground
-May Domestic Peace be found?
-Halcyon daughter of the skies,
-Far on fearful wings she flies,
-From the pomp of Sceptered State,   5
-From the Rebel’s noisy hate.
-In a cottag’d vale She dwells,
-Listening to the Sabbath bells!
-Still around her steps are seen
-Spotless Honour’s meeker mien,   10
-Love, the sire of pleasing fears,
-Sorrow smiling through her tears,
-And conscious of the past employ
-Memory, bosom-spring of joy.
-1794.
+FROM ‘THE FALL OF ROBESPIERRE’, ACT I, L. 210  
+Tell me, on what holy ground  
+May Domestic Peace be found?  
+Halcyon daughter of the skies,  
+Far on fearful wings she flies,  
+From the pomp of Sceptered State,   5  
+From the Rebel’s noisy hate.  
+In a cottag’d vale She dwells,  
+Listening to the Sabbath bells!  
+Still around her steps are seen  
+Spotless Honour’s meeker mien,   10  
+Love, the sire of pleasing fears,  
+Sorrow smiling through her tears,  
+And conscious of the past employ  
+Memory, bosom-spring of joy.  
+1794.  

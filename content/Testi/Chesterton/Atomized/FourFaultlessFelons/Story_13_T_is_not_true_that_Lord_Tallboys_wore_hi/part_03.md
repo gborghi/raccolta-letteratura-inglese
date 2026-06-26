@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — T is not true that Lord Tallboys wore his top-hat in bed, during his (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_13_T_is_not_true_that_Lord_Tallboys_wore_hi/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_15_R_WALTER_WINDRUSH_the_eminent_and_eccent/part_01">part 01 ›</a></div>

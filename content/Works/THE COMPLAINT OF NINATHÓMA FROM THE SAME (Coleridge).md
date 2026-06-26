@@ -18,8 +18,6 @@ tags:
   - setting/the_sea
 ---
 
-# THE COMPLAINT OF NINATHÓMA:FROM THE SAME
-
 *by Coleridge*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 
@@ -35,20 +33,20 @@ tags:
 
 ## Testo integrale / Full text
 
-How long will ye round me be swelling,
-O ye blue-tumbling waves of the sea?
-Not always in caves was my dwelling,
-Nor beneath the cold blast of the tree.
-Through the high-sounding halls of Cathlóma   5
-In the steps of my beauty I strayed;
-The warriors beheld Ninathóma,
-And they blesséd the white-bosom’d Maid!
-A Ghost! by my cavern it darted!
-In moon-beams the Spirit was drest — 10
-For lovely appear the Departed
-When they visit the dreams of my rest!
-But disturb’d by the tempest’s commotion
-Fleet the shadowy forms of delight —
-Ah cease, thou shrill blast of the Ocean!   15
-To howl through my cavern by night.
-1793.
+How long will ye round me be swelling,  
+O ye blue-tumbling waves of the sea?  
+Not always in caves was my dwelling,  
+Nor beneath the cold blast of the tree.  
+Through the high-sounding halls of Cathlóma   5  
+In the steps of my beauty I strayed;  
+The warriors beheld Ninathóma,  
+And they blesséd the white-bosom’d Maid!  
+A Ghost! by my cavern it darted!  
+In moon-beams the Spirit was drest — 10  
+For lovely appear the Departed  
+When they visit the dreams of my rest!  
+But disturb’d by the tempest’s commotion  
+Fleet the shadowy forms of delight —  
+Ah cease, thou shrill blast of the Ocean!   15  
+To howl through my cavern by night.  
+1793.  

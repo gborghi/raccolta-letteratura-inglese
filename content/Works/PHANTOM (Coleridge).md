@@ -15,8 +15,6 @@ tags:
   - form/fragment
 ---
 
-# PHANTOM
-
 *by Coleridge*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-All look and likeness caught from earth,
-All accident of kin and birth,
-Had pass’d away. There was no trace
-Of aught on that illumined face,
-Uprais’d beneath the rifted stone   5
-But of one spirit all her own; —
-She, she herself, and only she,
-Shone through her body visibly.
-1805.
+All look and likeness caught from earth,  
+All accident of kin and birth,  
+Had pass’d away. There was no trace  
+Of aught on that illumined face,  
+Uprais’d beneath the rifted stone   5  
+But of one spirit all her own; —  
+She, she herself, and only she,  
+Shone through her body visibly.  
+1805.  

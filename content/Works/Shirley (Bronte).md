@@ -38,8 +38,6 @@ tags:
   - character/mrs_pryor
 ---
 
-# Shirley
-
 *by Bronte*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

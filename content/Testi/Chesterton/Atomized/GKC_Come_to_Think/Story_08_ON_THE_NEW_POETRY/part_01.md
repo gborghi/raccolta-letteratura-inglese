@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE NEW POETRY (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_44_ON_THE_KING">‹ Story 44 ON THE KING</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_08_ON_THE_NEW_POETRY/part_02">part 02 ›</a></div>

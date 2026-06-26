@@ -14,8 +14,6 @@ tags:
   - concept/fate_and_free_will
 ---
 
-# Beginners
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,15 +27,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  How they are provided for upon the earth, (appearing at intervals,)
-  How dear and dreadful they are to the earth,
-  How they inure to themselves as much as to any--what a paradox
-      appears their age,
-  How people respond to them, yet know them not,
-  How there is something relentless in their fate all times,
-  How all times mischoose the objects of their adulation and reward,
-  And how the same inexorable price must still be paid for the same
-      great purchase.
+  How they are provided for upon the earth, (appearing at intervals,)  
+  How dear and dreadful they are to the earth,  
+  How they inure to themselves as much as to any--what a paradox  
+      appears their age,  
+  How people respond to them, yet know them not,  
+  How there is something relentless in their fate all times,  
+  How all times mischoose the objects of their adulation and reward,  
+  And how the same inexorable price must still be paid for the same  
+      great purchase.  

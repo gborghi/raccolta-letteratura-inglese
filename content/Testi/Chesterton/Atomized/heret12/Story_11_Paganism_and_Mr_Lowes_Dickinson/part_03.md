@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — Paganism and Mr. Lowes Dickinson (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_11_Paganism_and_Mr_Lowes_Dickinson/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_13_On_Certain_Modern_Writers_and_the_Instit/part_01">part 01 ›</a></div>

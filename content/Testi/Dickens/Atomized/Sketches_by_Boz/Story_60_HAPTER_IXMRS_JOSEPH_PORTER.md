@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER IX—MRS. JOSEPH PORTER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_59_HAPTER_VIIITHE_GREAT_WINGLEBURY_DUEL">‹ Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_61_HAPTER_XA_PASSAGE_IN_THE_LIFE_OF_MR_WATK">Story 61 HAPTER XA PASSAGE IN THE LIFE OF MR WATK ›</a></div>

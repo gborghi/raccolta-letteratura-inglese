@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Common Man
-
 *Archetype* — appears in **1** work(s).
 
 ## Works

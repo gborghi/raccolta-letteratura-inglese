@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of Arthur Gordon Pym of Nantucket — Chapter 8
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_06">‹ Chapter 06</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_08">Chapter 08 ›</a></div>

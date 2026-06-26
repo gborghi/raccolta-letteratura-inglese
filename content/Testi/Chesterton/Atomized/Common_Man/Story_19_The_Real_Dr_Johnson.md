@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Real Dr.  Johnson
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_18_The_New_Groove">‹ Story 18 The New Groove</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_20_Rabelaisian_Regrets">Story 20 Rabelaisian Regrets ›</a></div>

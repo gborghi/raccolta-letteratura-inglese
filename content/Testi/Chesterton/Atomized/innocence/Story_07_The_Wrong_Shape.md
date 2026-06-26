@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Wrong Shape
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_06_The_Honour_of_Israel_Gow">‹ Story 06 The Honour of Israel Gow</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_08_The_Sins_of_Prince_Saradine">Story 08 The Sins of Prince Saradine ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Porphyro
-
 *Character* — appears in **1** work(s).
 
 ## Works

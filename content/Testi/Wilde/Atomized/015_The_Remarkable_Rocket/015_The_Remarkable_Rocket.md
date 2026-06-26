@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Remarkable Rocket
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Remarkable-Rocket-(Wilde)">015 The Remarkable Rocket</a></div>
 </nav>

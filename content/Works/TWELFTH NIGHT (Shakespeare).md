@@ -36,8 +36,6 @@ tags:
   - character/sebastian
 ---
 
-# TWELFTH NIGHT
-
 *by Shakespeare*  ·  **Cluster:** [[Twelfth Night]]
 
 > [!abstract] 

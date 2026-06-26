@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Chimes
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Chimes-(Dickens)">The Chimes</a></div>
 </nav>

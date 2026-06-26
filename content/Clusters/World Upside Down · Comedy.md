@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# World Upside Down · Comedy
-
 *Cluster* — **9 works**.
 
 ## Defining concepts

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Winter Feast
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_180_Assimilation_And_Rejection">‹ Story 180 Assimilation And Rejection</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_182_The_Three_Gifts">Story 182 The Three Gifts ›</a></div>

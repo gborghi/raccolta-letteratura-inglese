@@ -30,8 +30,6 @@ tags:
   - histref/the_renaissance
 ---
 
-# St Francis
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

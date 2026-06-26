@@ -16,8 +16,6 @@ tags:
   - archetype/child
 ---
 
-# TO A CHILD
-
 *by Coleridge*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 
@@ -32,12 +30,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Little Miss Fanny,
-So cubic and canny,
-With blue eyes and blue shoes —
-The Queen of the Blues!
-As darling a girl as there is in the world —
-If she’ll laugh, skip and jump,
-And not be Miss Glump!
+Little Miss Fanny,  
+So cubic and canny,  
+With blue eyes and blue shoes —  
+The Queen of the Blues!  
+As darling a girl as there is in the world —  
+If she’ll laugh, skip and jump,  
+And not be Miss Glump!  
 1834. First published in Athenæum, Jan. 28, 1888. First collected
-1893.
+1893.  

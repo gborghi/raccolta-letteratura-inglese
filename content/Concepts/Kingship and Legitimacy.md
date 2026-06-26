@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Kingship and Legitimacy
-
 *Theme/Concept* — appears in **32** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 15: Mrs Flintwinch has another Dream
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_17_Little_Dorrits_Party">‹ Chapter 17 Little Dorrits Party</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_19_Nobodys_Weakness">Chapter 19 Nobodys Weakness ›</a></div>

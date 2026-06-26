@@ -17,8 +17,6 @@ tags:
   - histref/christianity
 ---
 
-# American Fundamentalists
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

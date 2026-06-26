@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 59: RETURN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_58_ABSENCE">‹ Chapter 58 ABSENCE</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_60_AGNES">Chapter 60 AGNES ›</a></div>

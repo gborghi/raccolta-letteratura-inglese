@@ -15,8 +15,6 @@ tags:
   - concept/transience
 ---
 
-# A HINT TO PREMIERS AND FIRST CONSULS
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -30,15 +28,15 @@ tags:
 
 ## Testo integrale / Full text
 
-FROM AN OLD TRAGEDY, VIZ. AGATHA TO KING ARCHELAUS
-Three truths should make thee often think and pause;
-The first is, that thou govern’st over men;
-The second, that thy power is from the laws;
-And this the third, that thou must die! — and then? —
-First published in Morning Post, Sept. 27, 1802. Included in Essays,
-&c., iii. 992. First collected P. and D. W., 1877, ii. 162.
-From me, Aurelia! you desired
-Your proper praise to know;
-Well! you’re the FAIR by all admired —
-Some twenty years ago.
-First published in Morning Post, Oct. 2, 1802.
+FROM AN OLD TRAGEDY, VIZ. AGATHA TO KING ARCHELAUS  
+Three truths should make thee often think and pause;  
+The first is, that thou govern’st over men;  
+The second, that thy power is from the laws;  
+And this the third, that thou must die! — and then? —  
+First published in Morning Post, Sept. 27, 1802. Included in Essays,  
+&c., iii. 992. First collected P. and D. W., 1877, ii. 162.  
+From me, Aurelia! you desired  
+Your proper praise to know;  
+Well! you’re the FAIR by all admired —  
+Some twenty years ago.  
+First published in Morning Post, Oct. 2, 1802.  

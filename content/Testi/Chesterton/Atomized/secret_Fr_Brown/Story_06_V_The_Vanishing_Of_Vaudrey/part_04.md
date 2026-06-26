@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — V The Vanishing Of Vaudrey (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_06_V_The_Vanishing_Of_Vaudrey/part_05">part 05 ›</a></div>

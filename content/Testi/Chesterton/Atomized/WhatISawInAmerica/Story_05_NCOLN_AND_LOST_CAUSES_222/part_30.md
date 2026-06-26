@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — NCOLN AND LOST CAUSES              222 (part 30)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_05_NCOLN_AND_LOST_CAUSES_222/part_29">‹ part 29</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_05_NCOLN_AND_LOST_CAUSES_222/part_31">part 31 ›</a></div>

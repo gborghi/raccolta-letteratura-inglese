@@ -46,8 +46,6 @@ tags:
   - character/clifford
 ---
 
-# RICHARD DUKE OF YORK - (3 HENRY VI)
-
 *by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
 
 > [!abstract] 

@@ -14,8 +14,6 @@ tags:
   - form/elegy
 ---
 
-# To Those Who’ve Fail’d
-
 *by Whitman*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -29,15 +27,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  To those who’ve fail’d, in aspiration vast,
-  To unnam’d soldiers fallen in front on the lead,
-  To calm, devoted engineers--to over-ardent travelers--to pilots on
-      their ships,
-  To many a lofty song and picture without recognition--I’d rear
-      laurel-cover’d monument,
-  High, high above the rest--To all cut off before their time,
-  Possess’d by some strange spirit of fire,
-  Quench’d by an early death.
+  To those who’ve fail’d, in aspiration vast,  
+  To unnam’d soldiers fallen in front on the lead,  
+  To calm, devoted engineers--to over-ardent travelers--to pilots on  
+      their ships,  
+  To many a lofty song and picture without recognition--I’d rear  
+      laurel-cover’d monument,  
+  High, high above the rest--To all cut off before their time,  
+  Possess’d by some strange spirit of fire,  
+  Quench’d by an early death.  

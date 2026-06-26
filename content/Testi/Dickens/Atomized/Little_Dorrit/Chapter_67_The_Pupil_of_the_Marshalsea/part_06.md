@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 27: The Pupil of the Marshalsea (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_67_The_Pupil_of_the_Marshalsea/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_68_An_Appearance_in_the_Marshalse/part_01">part 01 ›</a></div>

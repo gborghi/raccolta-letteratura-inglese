@@ -19,8 +19,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet to Chatterton
-
 *by Keats*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -36,17 +34,17 @@ tags:
 
 ## Testo integrale / Full text
 
-O Chatterton! how very sad thy fate!
-Dear child of sorrow - son of misery!
-How soon the film of death obscur’d that eye,
-Whence Genius mildly flash’d, and high debate.
-How soon that voice, majestic and elate,
-Melted in dying numbers! Oh! how nigh
-Was night to thy fair morning. Thou didst die
-A half-blown flow’ret which cold blasts amate.
-But this is past: thou art among the stars
-Of highest Heaven: to the rolling spheres  10
-Thou sweetly singest: naught thy hymning mars,
-Above the ingrate world and human fears.
-On earth the good man base detraction bars
-From thy fair name, and waters it with tears.
+O Chatterton! how very sad thy fate!  
+Dear child of sorrow - son of misery!  
+How soon the film of death obscur’d that eye,  
+Whence Genius mildly flash’d, and high debate.  
+How soon that voice, majestic and elate,  
+Melted in dying numbers! Oh! how nigh  
+Was night to thy fair morning. Thou didst die  
+A half-blown flow’ret which cold blasts amate.  
+But this is past: thou art among the stars  
+Of highest Heaven: to the rolling spheres  10  
+Thou sweetly singest: naught thy hymning mars,  
+Above the ingrate world and human fears.  
+On earth the good man base detraction bars  
+From thy fair name, and waters it with tears.  

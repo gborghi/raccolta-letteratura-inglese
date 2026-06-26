@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Marriage
-
 *Motif* — appears in **51** work(s).
 
 ## Works

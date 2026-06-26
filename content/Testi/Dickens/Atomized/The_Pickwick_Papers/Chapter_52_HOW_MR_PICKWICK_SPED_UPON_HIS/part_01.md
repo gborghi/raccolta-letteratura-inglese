@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 50: HOW MR. PICKWICK SPED UPON HIS MISSION, AND HOW HE WAS (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_51_CONTAINING_THE_STORY_OF_THE_BA/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_52_HOW_MR_PICKWICK_SPED_UPON_HIS/part_02">part 02 ›</a></div>

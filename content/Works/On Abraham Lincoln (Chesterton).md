@@ -18,8 +18,6 @@ tags:
   - histref/american_civil_war
 ---
 
-# On Abraham Lincoln
-
 *by Chesterton*  ·  **Cluster:** [[Paradox · Food and Feasting · Aphorism]]
 
 > [!abstract] 

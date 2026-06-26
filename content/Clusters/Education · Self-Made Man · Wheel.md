@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Education · Self-Made Man · Wheel
-
 *Cluster* — **15 works**.
 
 ## Defining concepts

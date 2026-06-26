@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Facts in the Case of M. Valdemar
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Facts-in-the-Case-of-M.-Valdemar-(Poe)">The Facts in the Case of M Valdemar</a></div>
 </nav>

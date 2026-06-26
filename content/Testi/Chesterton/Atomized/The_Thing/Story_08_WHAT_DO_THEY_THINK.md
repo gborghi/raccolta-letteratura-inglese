@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — WHAT DO THEY THINK?
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_07_WHY_I_AM_A_CATHOLIC">‹ Story 07 WHY I AM A CATHOLIC</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_09_THE_MASK_OF_THE_AGNOSTIC">Story 09 THE MASK OF THE AGNOSTIC ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — I. The Mirror Of The Magistrate (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_03_Ii_The_Man_With_Two_Beards/part_01">part 01 ›</a></div>

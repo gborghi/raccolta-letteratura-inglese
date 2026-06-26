@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Poetic Principle
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Poetic Principle</div>
 </nav>

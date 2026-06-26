@@ -20,8 +20,6 @@ tags:
   - form/lyric
 ---
 
-# gold-leaves
-
 *by Chesterton*  ·  **Cluster:** [[Seasons · Winter · Autumn]]
 
 > [!abstract] 
@@ -36,31 +34,31 @@ tags:
 
 ## Testo integrale / Full text
 
-Gold Leaves
+Gold Leaves  
 
-	    by G.K.Chesterton
-
-
-	Lo! I am come to autumn,
-	  When all the leaves are gold;
-	Grey hairs and golden leaves cry out
-	  The year and I are old.
-
-	In youth I sought the prince of men,
-	  Captain in cosmic wars,
-	Our Titan, even the weeds would show
-	  Defiant, to the stars.
-
-	But now a great thing in the street
-	  Seems any human nod,
-	Where shift in strange democracy
-	  The million masks of God.
-
-	In youth I sought the golden flower
-	  Hidden in wood or wold,
-	But I am come to autumn,
-	  When all the leaves are gold.
+	    by G.K.Chesterton  
 
 
+	Lo! I am come to autumn,  
+	  When all the leaves are gold;  
+	Grey hairs and golden leaves cry out  
+	  The year and I are old.  
 
-===== FINE FILE: gold-leaves.txt =====
+	In youth I sought the prince of men,  
+	  Captain in cosmic wars,  
+	Our Titan, even the weeds would show  
+	  Defiant, to the stars.  
+
+	But now a great thing in the street  
+	  Seems any human nod,  
+	Where shift in strange democracy  
+	  The million masks of God.  
+
+	In youth I sought the golden flower  
+	  Hidden in wood or wold,  
+	But I am come to autumn,  
+	  When all the leaves are gold.  
+
+
+
+===== FINE FILE: gold-leaves.txt =====  

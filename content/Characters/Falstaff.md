@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Falstaff
-
 *Character* — appears in **6** work(s).
 
 ## Works

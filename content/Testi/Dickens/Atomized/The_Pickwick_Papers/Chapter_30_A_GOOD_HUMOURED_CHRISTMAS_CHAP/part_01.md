@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 28: A GOOD-HUMOURED CHRISTMAS CHAPTER, CONTAINING AN ACCOUNT (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_29_SAMUEL_WELLER_MAKES_A_PILGRIMA/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_30_A_GOOD_HUMOURED_CHRISTMAS_CHAP/part_02">part 02 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Shaw — THE LATER PHASES (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Shaw-(Chesterton)">Shaw</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Shaw/Story_09_THE_LATER_PHASES/part_05">part 05 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# POEM UPON NOTHING
-
 *by Coleridge*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-On nothing, Fanny, shall I write?
-Shall I not one charm of thee indite?
-The Muse is most unruly,
-And vows to sing of what’s more free,
-More soft, more beautiful than thee; —
-And that is Nothing, truly!
-First published in the Gazette of Fashion, Feb. 22, 1822. Reprinted
-(by Mr. Bertram Dobell) in N. and Q., 10th Series, vol. vi, p. 145.
-Now collected for the first time.
+On nothing, Fanny, shall I write?  
+Shall I not one charm of thee indite?  
+The Muse is most unruly,  
+And vows to sing of what’s more free,  
+More soft, more beautiful than thee; —  
+And that is Nothing, truly!  
+First published in the Gazette of Fashion, Feb. 22, 1822. Reprinted  
+(by Mr. Bertram Dobell) in N. and Q., 10th Series, vol. vi, p. 145.  
+Now collected for the first time.  

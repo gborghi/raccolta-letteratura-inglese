@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Oliver Twist — Chapter 31
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Oliver-Twist-(Dickens)">Oliver Twist</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Oliver_Twist/Chapter_30">‹ Chapter 30</a><a class="ex-next" href="/Testi/Dickens/Atomized/Oliver_Twist/Chapter_32">Chapter 32 ›</a></div>

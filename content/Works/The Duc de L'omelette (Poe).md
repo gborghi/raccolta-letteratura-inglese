@@ -16,8 +16,6 @@ tags:
   - form/satire
 ---
 
-# The Duc de L'omelette
-
 *by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

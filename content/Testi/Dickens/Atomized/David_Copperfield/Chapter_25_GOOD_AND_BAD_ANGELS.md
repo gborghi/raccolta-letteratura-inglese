@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 25: GOOD AND BAD ANGELS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_24_MY_FIRST_DISSIPATION">‹ Chapter 24 MY FIRST DISSIPATION</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_26_I_FALL_INTO_CAPTIVITY">Chapter 26 I FALL INTO CAPTIVITY ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# TheAppOfTyranny — Chapter 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/TheAppOfTyranny-(Chesterton)">TheAppOfTyranny</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_02">‹ Chapter 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_04">Chapter 04 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — EDIATELY after leaving the little garden-party, Tom and his tutor
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_06_THE_MAN_WHO_COULD_NOT_HATE">‹ Story 06 THE MAN WHO COULD NOT HATE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_08_THE_DETECTIVE_AND_THE_PARSON">Story 08 THE DETECTIVE AND THE PARSON ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# MUCH ADO ABOUT NOTHING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
 </nav>

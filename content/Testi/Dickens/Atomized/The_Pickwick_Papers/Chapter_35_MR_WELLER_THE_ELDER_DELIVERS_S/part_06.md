@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 33: MR. WELLER THE ELDER DELIVERS SOME CRITICAL SENTIMENTS (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_35_MR_WELLER_THE_ELDER_DELIVERS_S/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_36_IS_WHOLLY_DEVOTED_TO_A_FULL_AN/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Mystery of Edwin Drood
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
 </nav>

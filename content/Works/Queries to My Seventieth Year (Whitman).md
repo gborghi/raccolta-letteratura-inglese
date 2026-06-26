@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# Queries to My Seventieth Year
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Approaching, nearing, curious,
-  Thou dim, uncertain spectre--bringest thou life or death?
-  Strength, weakness, blindness, more paralysis and heavier?
-  Or placid skies and sun? Wilt stir the waters yet?
-  Or haply cut me short for good? Or leave me here as now,
-  Dull, parrot-like and old, with crack’d voice harping, screeching?
+  Approaching, nearing, curious,  
+  Thou dim, uncertain spectre--bringest thou life or death?  
+  Strength, weakness, blindness, more paralysis and heavier?  
+  Or placid skies and sun? Wilt stir the waters yet?  
+  Or haply cut me short for good? Or leave me here as now,  
+  Dull, parrot-like and old, with crack’d voice harping, screeching?  

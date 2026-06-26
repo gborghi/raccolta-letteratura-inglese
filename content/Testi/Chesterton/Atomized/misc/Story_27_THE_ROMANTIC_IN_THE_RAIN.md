@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE ROMANTIC IN THE RAIN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_26_THE_NEW_THEOLOGIAN">‹ Story 26 THE NEW THEOLOGIAN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_28_THE_FALSE_PHOTOGRAPHER">Story 28 THE FALSE PHOTOGRAPHER ›</a></div>

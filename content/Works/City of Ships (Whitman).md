@@ -15,8 +15,6 @@ tags:
   - concept/nationalism_and_patriotism
 ---
 
-# City of Ships
-
 *by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 

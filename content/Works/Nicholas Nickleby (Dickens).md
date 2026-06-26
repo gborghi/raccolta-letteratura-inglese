@@ -38,8 +38,6 @@ tags:
   - character/the_cheeryble_brothers
 ---
 
-# Nicholas Nickleby
-
 *by Dickens*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

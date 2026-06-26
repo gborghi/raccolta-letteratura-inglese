@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Bible
-
 *Historical reference* — appears in **182** work(s).
 
 ## Works

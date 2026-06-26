@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Bleak House — Chapter 59
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Bleak-House-(Dickens)">Bleak House</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_58">‹ Chapter 58</a><a class="ex-next" href="/Testi/Dickens/Atomized/Bleak_House/Chapter_60">Chapter 60 ›</a></div>

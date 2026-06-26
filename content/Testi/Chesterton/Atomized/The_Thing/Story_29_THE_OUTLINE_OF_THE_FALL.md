@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE OUTLINE OF THE FALL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_28_THE_OPTIMIST_AS_A_SUICIDE">‹ Story 28 THE OPTIMIST AS A SUICIDE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_30_THE_IDOLS_OF_SCOTLAND">Story 30 THE IDOLS OF SCOTLAND ›</a></div>

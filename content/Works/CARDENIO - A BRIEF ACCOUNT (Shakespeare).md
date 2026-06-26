@@ -23,8 +23,6 @@ tags:
   - motif/marriage
 ---
 
-# CARDENIO - A BRIEF ACCOUNT
-
 *by Shakespeare*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 

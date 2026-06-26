@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Mystery of Edwin Drood — Chapter 23 (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_25/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_25/part_06">part 06 ›</a></div>

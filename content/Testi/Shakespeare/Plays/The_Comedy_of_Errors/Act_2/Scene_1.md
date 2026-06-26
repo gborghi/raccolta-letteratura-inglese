@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Comedy of Errors — Act II, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_1/Scene_2">‹ Scene 2</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Comedy_of_Errors/Act_2/Scene_2">Scene 2 ›</a></div>

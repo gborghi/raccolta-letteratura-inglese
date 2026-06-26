@@ -18,8 +18,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# CATULLIAN HENDECASYLLABLES
-
 *by Coleridge*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -35,21 +33,21 @@ tags:
 
 ## Testo integrale / Full text
 
-Hear, my belovéd, an old Milesian story! —
-High, and embosom’d in congregated laurels,
-Glimmer’d a temple upon a breezy headland;
-In the dim distance amid the skiey billows
-Rose a fair island; the god of flocks had blest it.   5
-From the far shores of the bleat-resounding island
-Oft by the moonlight a little boat came floating,
-Came to the sea-cave beneath the breezy headland,
-Where amid myrtles a pathway stole in mazes
-Up to the groves of the high embosom’d temple.   10
-There in a thicket of dedicated roses,
-Oft did a priestess, as lovely as a vision,
-Pouring her soul to the son of Cytherea,
-Pray him to hover around the slight canoe-boat,
-And with invisible pilotage to guide it   15
-Over the dusk wave, until the nightly sailor
-Shivering with ecstasy sank upon her bosom.
-? 1799.
+Hear, my belovéd, an old Milesian story! —  
+High, and embosom’d in congregated laurels,  
+Glimmer’d a temple upon a breezy headland;  
+In the dim distance amid the skiey billows  
+Rose a fair island; the god of flocks had blest it.   5  
+From the far shores of the bleat-resounding island  
+Oft by the moonlight a little boat came floating,  
+Came to the sea-cave beneath the breezy headland,  
+Where amid myrtles a pathway stole in mazes  
+Up to the groves of the high embosom’d temple.   10  
+There in a thicket of dedicated roses,  
+Oft did a priestess, as lovely as a vision,  
+Pouring her soul to the son of Cytherea,  
+Pray him to hover around the slight canoe-boat,  
+And with invisible pilotage to guide it   15  
+Over the dusk wave, until the nightly sailor  
+Shivering with ecstasy sank upon her bosom.  
+? 1799.  

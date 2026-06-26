@@ -14,8 +14,6 @@ tags:
   - concept/satire_of_society
 ---
 
-# TO A PROUD PARENT
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,11 +26,11 @@ tags:
 
 ## Testo integrale / Full text
 
-Thy babes ne’er greet thee with the father’s name;
-‘My Lud!’ they lisp. Now whence can this arise?
-Perhaps their mother feels an honest shame
-And will not teach her infant to tell lies.
-First published in An. Anth., 1800, included in Essays, &c., ii.
+Thy babes ne’er greet thee with the father’s name;  
+‘My Lud!’ they lisp. Now whence can this arise?  
+Perhaps their mother feels an honest shame  
+And will not teach her infant to tell lies.  
+First published in An. Anth., 1800, included in Essays, &c., ii.  
 997. First collected P. and D. W., 1877, ii. 164. Adapted from
-Lessing’s Sinngedicht No. 17. An den Doktor Sp * *. ‘Dein Söhnchen
-lässt dich nie den Namen Vater hören.’
+Lessing’s Sinngedicht No. 17. An den Doktor Sp * *. ‘Dein Söhnchen  
+lässt dich nie den Namen Vater hören.’  

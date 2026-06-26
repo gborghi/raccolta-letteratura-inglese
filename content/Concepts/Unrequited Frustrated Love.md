@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Unrequited / Frustrated Love
-
 *Theme/Concept* — appears in **102** work(s).
 
 ## Works

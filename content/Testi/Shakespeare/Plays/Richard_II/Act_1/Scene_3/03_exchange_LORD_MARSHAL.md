@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard II — Act I, Scene 3 — exchange (LORD MARSHAL) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-II-(Shakespeare)">Richard II</a></div>
 </nav>

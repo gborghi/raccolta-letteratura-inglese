@@ -13,8 +13,6 @@ tags:
   - form/lyric
 ---
 
-# To Frances S. Osgood
-
 *by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -28,13 +26,13 @@ tags:
 
 ## Testo integrale / Full text
 
-Thou wouldst be loved?—then let thy heart
-         From its present pathway part not!
-     Being everything which now thou art,
-         Be nothing which thou art not.
-     So with the world thy gentle ways,
-         Thy grace, thy more than beauty,
-     Shall be an endless theme of praise,
-         And love—a simple duty.
+Thou wouldst be loved?—then let thy heart  
+         From its present pathway part not!  
+     Being everything which now thou art,  
+         Be nothing which thou art not.  
+     So with the world thy gentle ways,  
+         Thy grace, thy more than beauty,  
+     Shall be an endless theme of praise,  
+         And love—a simple duty.  
 
-      1845.
+      1845.  

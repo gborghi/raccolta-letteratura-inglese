@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — Three Foes Of The Family
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_30_Babies_And_Distributism">‹ Story 30 Babies And Distributism</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_32_The_Don_And_The_Cavalier">Story 32 The Don And The Cavalier ›</a></div>

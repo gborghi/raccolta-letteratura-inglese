@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 26: I FALL INTO CAPTIVITY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_25_GOOD_AND_BAD_ANGELS">‹ Chapter 25 GOOD AND BAD ANGELS</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_27_TOMMY_TRADDLES">Chapter 27 TOMMY TRADDLES ›</a></div>

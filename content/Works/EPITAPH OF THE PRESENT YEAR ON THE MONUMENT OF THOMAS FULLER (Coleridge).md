@@ -17,8 +17,6 @@ tags:
   - motif/fire
 ---
 
-# EPITAPH OF THE PRESENT YEAR ON THE MONUMENT OF THOMAS FULLER
-
 *by Coleridge*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-A Lutheran stout, I hold for Goose-and-Gaundry
-Both the Pope’s Limbo and his fiery Laundry:
-No wit e’er saw I in Original Sin,
-And no Sin find I in Original Wit;
-But if I’m all in the wrong, and, Grin for Grin,
-Scorch’d Souls must pay for each too lucky hit, —
-Oh, Fuller! much I fear, so vast thy debt,
-Thou art not out of Purgatory yet;
-Tho’ one, eight, three and three this year is reckon’d,
-And thou, I think, didst die sub Charles the Second.
-Nov. 28, 1833.
-Now first published from an MS.
+A Lutheran stout, I hold for Goose-and-Gaundry  
+Both the Pope’s Limbo and his fiery Laundry:  
+No wit e’er saw I in Original Sin,  
+And no Sin find I in Original Wit;  
+But if I’m all in the wrong, and, Grin for Grin,  
+Scorch’d Souls must pay for each too lucky hit, —  
+Oh, Fuller! much I fear, so vast thy debt,  
+Thou art not out of Purgatory yet;  
+Tho’ one, eight, three and three this year is reckon’d,  
+And thou, I think, didst die sub Charles the Second.  
+Nov. 28, 1833.  
+Now first published from an MS.  

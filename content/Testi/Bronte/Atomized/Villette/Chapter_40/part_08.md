@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 38 (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_40/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_41/part_01">part 01 ›</a></div>

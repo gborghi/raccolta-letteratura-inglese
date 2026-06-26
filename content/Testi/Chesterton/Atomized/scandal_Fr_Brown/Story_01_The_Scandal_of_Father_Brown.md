@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The Scandal of Father Brown
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_02_The_Quick_One">Story 02 The Quick One ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — I really thought the Ram would have dropped. He drew me aside, and
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_57_HAPTER_VIITHE_STEAM_EXCURSION">‹ Story 57 HAPTER VIITHE STEAM EXCURSION</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_59_HAPTER_VIIITHE_GREAT_WINGLEBURY_DUEL">Story 59 HAPTER VIIITHE GREAT WINGLEBURY DUEL ›</a></div>

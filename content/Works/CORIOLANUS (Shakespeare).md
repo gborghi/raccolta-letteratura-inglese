@@ -37,8 +37,6 @@ tags:
   - character/cominius
 ---
 
-# CORIOLANUS
-
 *by Shakespeare*  ·  **Cluster:** [[Honour · Ancient Rome · Ancient Rome]]
 
 > [!abstract] 

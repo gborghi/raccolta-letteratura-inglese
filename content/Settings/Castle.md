@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Castle
-
 *Setting* — appears in **13** work(s).
 
 ## Works

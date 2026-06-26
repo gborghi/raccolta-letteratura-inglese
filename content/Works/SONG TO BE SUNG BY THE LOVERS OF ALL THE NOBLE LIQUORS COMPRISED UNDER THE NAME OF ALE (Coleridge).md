@@ -17,8 +17,6 @@ tags:
   - histref/greek_mythology
 ---
 
-# SONG TO BE SUNG BY THE LOVERS OF ALL THE NOBLE LIQUORS COMPRISED UNDER THE NAME OF ALE
-
 *by Coleridge*  ·  **Cluster:** [[Joy · Animals · Comic Verse Song]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-A.
-Ye drinkers of Stingo and Nappy so free,
-Are the Gods on Olympus so happy as we?
-B.
-They cannot be so happy!
-For why? they drink no Nappy.
-A.
-But what if Nectar, in their lingo,
-Is but another name for Stingo?
-B.
-Why, then we and the Gods are equally blest,
-And Olympus an Ale-house as good as the best!
-First published in Morning Post, September 18, 1801. Included in
-Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.
-167.
+A.  
+Ye drinkers of Stingo and Nappy so free,  
+Are the Gods on Olympus so happy as we?  
+B.  
+They cannot be so happy!  
+For why? they drink no Nappy.  
+A.  
+But what if Nectar, in their lingo,  
+Is but another name for Stingo?  
+B.  
+Why, then we and the Gods are equally blest,  
+And Olympus an Ale-house as good as the best!  
+First published in Morning Post, September 18, 1801. Included in  
+Essays, &c., iii. 995-6. First collected P. and D. W., 1877, ii.  
+167.  

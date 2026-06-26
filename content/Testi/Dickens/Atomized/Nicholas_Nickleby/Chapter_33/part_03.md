@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Nicholas Nickleby — Chapter 33 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_33/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_34/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Shirley — Chapter 7 (part 9)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Shirley/Chapter_07/part_08">‹ part 08</a><a class="ex-next" href="/Testi/Bronte/Atomized/Shirley/Chapter_07/part_10">part 10 ›</a></div>

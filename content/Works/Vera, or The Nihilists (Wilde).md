@@ -50,8 +50,6 @@ tags:
   - character/michael
 ---
 
-# Vera, or The Nihilists
-
 *by Wilde*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self-Reliance and Earned Success
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

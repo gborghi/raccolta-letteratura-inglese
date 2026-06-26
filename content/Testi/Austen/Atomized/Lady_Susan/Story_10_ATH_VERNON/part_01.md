@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Lady Susan — ATH. VERNON. (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Lady_Susan/Story_09_ATHERINE_VERNON/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_10_ATH_VERNON/part_02">part 02 ›</a></div>

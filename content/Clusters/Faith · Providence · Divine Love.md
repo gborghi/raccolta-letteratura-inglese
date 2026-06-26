@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Faith · Providence · Divine Love
-
 *Cluster* — **71 works**.
 
 ## Defining concepts

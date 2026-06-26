@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — Back In The Fog
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_33_The_Church_And_Agoraphobia">‹ Story 33 The Church And Agoraphobia</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_35_Mary_And_The_Convert">Story 35 Mary And The Convert ›</a></div>

@@ -40,8 +40,6 @@ tags:
   - character/eleanor
 ---
 
-# THE FIRST PART OF THE CONTENTION - (2 HENRY VI)
-
 *by Shakespeare*  ·  **Cluster:** [[Wars of the Roses]]
 
 > [!abstract] 

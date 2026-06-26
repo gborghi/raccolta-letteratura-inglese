@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE RELIGION OF SMALL PROPERTY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_21_THE_NEED_OF_A_NEW_SPIRIT">‹ Story 21 THE NEED OF A NEW SPIRIT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_23_A_SUMMARY">Story 23 A SUMMARY ›</a></div>

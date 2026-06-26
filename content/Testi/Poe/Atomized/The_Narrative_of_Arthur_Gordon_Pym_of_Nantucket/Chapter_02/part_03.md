@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of Arthur Gordon Pym of Nantucket — Chapter 3 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_02/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_Arthur_Gordon_Pym_of_Nantucket/Chapter_03/part_01">part 01 ›</a></div>

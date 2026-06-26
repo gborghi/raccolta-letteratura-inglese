@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Agamemnon
-
 *Character* — appears in **1** work(s).
 
 ## Works

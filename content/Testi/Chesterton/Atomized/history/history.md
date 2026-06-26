@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# history
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/history-(Chesterton)">history</a></div>
 </nav>

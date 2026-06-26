@@ -23,8 +23,6 @@ tags:
   - histref/ancient_rome
 ---
 
-# A Tale of Jerusalem
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

@@ -48,8 +48,6 @@ tags:
   - character/fezziwig
 ---
 
-# A Christmas Carol
-
 *by Dickens*  ·  **Cluster:** [[Money and Gold · Poverty · Imprisonment]]
 
 > [!abstract] 

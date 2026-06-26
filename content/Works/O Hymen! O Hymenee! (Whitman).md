@@ -15,8 +15,6 @@ tags:
   - topos/carpe_diem
 ---
 
-# O Hymen! O Hymenee!
-
 *by Whitman*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -31,11 +29,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CHILDREN OF ADAM_
+_Cluster: CHILDREN OF ADAM_  
 
 
-  O hymen! O hymenee! why do you tantalize me thus?
-  O why sting me for a swift moment only?
-  Why can you not continue? O why do you now cease?
-  Is it because if you continued beyond the swift moment you would
-      soon certainly kill me?
+  O hymen! O hymenee! why do you tantalize me thus?  
+  O why sting me for a swift moment only?  
+  Why can you not continue? O why do you now cease?  
+  Is it because if you continued beyond the swift moment you would  
+      soon certainly kill me?  

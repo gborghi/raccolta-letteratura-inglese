@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Paul Dombey
-
 *Character* — appears in **1** work(s).
 
 ## Works

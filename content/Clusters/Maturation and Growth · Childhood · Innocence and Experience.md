@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Maturation and Growth · Childhood · Innocence and Experience
-
 *Cluster* — **23 works**.
 
 ## Defining concepts

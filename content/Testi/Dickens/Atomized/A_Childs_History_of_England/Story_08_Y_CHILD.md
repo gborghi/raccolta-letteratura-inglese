@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England — Y CHILD,
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_07_N_the_parlour_of_the_Green_Dragon_a_publ">‹ Story 07 N the parlour of the Green Dragon a publ</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_01_UDFOG_is_a_pleasant_towna_remarkably_ple/part_01">part 01 ›</a></div>

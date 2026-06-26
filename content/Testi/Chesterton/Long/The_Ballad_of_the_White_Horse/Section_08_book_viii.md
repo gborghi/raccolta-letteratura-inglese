@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Ballad of the White Horse — Book VIII
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Ballad-of-the-White-Horse-(Chesterton)">The Ballad of the White Horse</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Long/The_Ballad_of_the_White_Horse/Section_07_book_vii">‹ Section 07 book vii</a><span></span></div>

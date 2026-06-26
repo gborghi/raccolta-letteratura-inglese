@@ -14,8 +14,6 @@ tags:
   - motif/the_mirror
 ---
 
-# TO THE YOUNG ARTIST: KAYSER OF KASERWERTH
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -28,19 +26,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Kayser! to whom, as to a second self,
-Nature, or Nature’s next-of-kin, the Elf,
-Hight Genius, hath dispensed the happy skill
-To cheer or soothe the parting friend’s ‘Alas!’
-Turning the blank scroll to a magic glass,   5
-That makes the absent present at our will;
-And to the shadowing of thy pencil gives
-Such seeming substance, that it almost lives.
-Well hast thou given the thoughtful Poet’s face!
-Yet hast thou on the tablet of his mind   10
-A more delightful portrait left behind —
-Even thy own youthful beauty, and artless grace,
-Thy natural gladness and eyes bright with glee!
-Kayser! farewell!
-Be wise! be happy! and forget not me.
-1833.
+Kayser! to whom, as to a second self,  
+Nature, or Nature’s next-of-kin, the Elf,  
+Hight Genius, hath dispensed the happy skill  
+To cheer or soothe the parting friend’s ‘Alas!’  
+Turning the blank scroll to a magic glass,   5  
+That makes the absent present at our will;  
+And to the shadowing of thy pencil gives  
+Such seeming substance, that it almost lives.  
+Well hast thou given the thoughtful Poet’s face!  
+Yet hast thou on the tablet of his mind   10  
+A more delightful portrait left behind —  
+Even thy own youthful beauty, and artless grace,  
+Thy natural gladness and eyes bright with glee!  
+Kayser! farewell!  
+Be wise! be happy! and forget not me.  
+1833.  

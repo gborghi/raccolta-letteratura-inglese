@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 49: I AM INVOLVED IN MYSTERY (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_49_I_AM_INVOLVED_IN_MYSTERY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_49_I_AM_INVOLVED_IN_MYSTERY/part_04">part 04 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Christmas Carol — Stave 3: THE SECOND OF THE THREE SPIRITS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_02_THE_FIRST_OF_THE_THREE_SPIRITS">‹ Chapter 02 THE FIRST OF THE THREE SPIRITS</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS">Chapter 04 THE LAST OF THE SPIRITS ›</a></div>

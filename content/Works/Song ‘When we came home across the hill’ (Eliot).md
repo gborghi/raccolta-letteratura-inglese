@@ -15,8 +15,6 @@ tags:
   - motif/nature
 ---
 
-# Song: ‘When we came home across the hill’
-
 *by Eliot*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -30,22 +28,22 @@ tags:
 
 ## Testo integrale / Full text
 
-Song: ‘When we came home across the hill’
-When we came home across the hill
-   No leaves were fallen from the trees;
-   The gentle fingers of the breeze
-Had torn no quivering cobweb down.
-The hedgerow bloomed with flowers still,
-   No withered petals lay beneath;
-   But the wild roses in your wreath
-Were faded, and the leaves were brown.
+Song: ‘When we came home across the hill’  
+When we came home across the hill  
+   No leaves were fallen from the trees;  
+   The gentle fingers of the breeze  
+Had torn no quivering cobweb down.  
+The hedgerow bloomed with flowers still,  
+   No withered petals lay beneath;  
+   But the wild roses in your wreath  
+Were faded, and the leaves were brown.  
 
-Before Morning
-While all the East was weaving red with gray,
-The flowers at the window turned toward dawn,
-Petal on petal, waiting for the day,
-Fresh flowers, withered flowers, flowers of dawn.
-This morning’s flowers and flowers of yesterday
-Their fragrance drifts across the room at dawn,
-Fragrance of bloom and fragrance of decay,
-Fresh flowers, withered flowers, flowers of dawn.
+Before Morning  
+While all the East was weaving red with gray,  
+The flowers at the window turned toward dawn,  
+Petal on petal, waiting for the day,  
+Fresh flowers, withered flowers, flowers of dawn.  
+This morning’s flowers and flowers of yesterday  
+Their fragrance drifts across the room at dawn,  
+Fragrance of bloom and fragrance of decay,  
+Fresh flowers, withered flowers, flowers of dawn.  

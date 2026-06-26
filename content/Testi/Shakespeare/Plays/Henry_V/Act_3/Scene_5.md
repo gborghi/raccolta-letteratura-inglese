@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Henry V — Act III, Scene 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Henry_V/Act_3/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Henry_V/Act_3/Scene_6">Scene 6 ›</a></div>

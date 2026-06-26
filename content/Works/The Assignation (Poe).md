@@ -28,8 +28,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# The Assignation
-
 *by Poe*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 

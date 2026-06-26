@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Don Quixote
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Don-Quixote-(Chesterton)">Don Quixote</a></div>
 </nav>

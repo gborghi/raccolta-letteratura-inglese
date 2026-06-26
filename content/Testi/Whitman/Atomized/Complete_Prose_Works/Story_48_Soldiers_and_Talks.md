@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Soldiers and Talks
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_47_Heated_Term">‹ Story 47 Heated Term</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_49_Death_of_a_Wisconsin_Officer">Story 49 Death of a Wisconsin Officer ›</a></div>

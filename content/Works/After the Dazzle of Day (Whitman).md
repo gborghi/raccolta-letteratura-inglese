@@ -17,8 +17,6 @@ tags:
   - form/fragment
 ---
 
-# After the Dazzle of Day
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 
@@ -32,10 +30,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  After the dazzle of day is gone,
-  Only the dark, dark night shows to my eyes the stars;
-  After the clangor of organ majestic, or chorus, or perfect band,
-  Silent, athwart my soul, moves the symphony true.
+  After the dazzle of day is gone,  
+  Only the dark, dark night shows to my eyes the stars;  
+  After the clangor of organ majestic, or chorus, or perfect band,  
+  Silent, athwart my soul, moves the symphony true.  

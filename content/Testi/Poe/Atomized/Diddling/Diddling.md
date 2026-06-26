@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Diddling
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Diddling-(Poe)">Diddling</a></div>
 </nav>

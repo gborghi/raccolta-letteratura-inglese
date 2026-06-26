@@ -22,8 +22,6 @@ tags:
   - form/short_story
 ---
 
-# Never Bet the Devil your Head
-
 *by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — THE POSITION OF SIR WALTER SCOTT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_10_SAVONAROLA">‹ Story 10 SAVONAROLA</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_02_WILLIAM_MORRIS_AND_HIS_SCHOOL/part_01">part 01 ›</a></div>

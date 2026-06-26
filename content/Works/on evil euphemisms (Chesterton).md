@@ -15,8 +15,6 @@ tags:
   - concept/marriage_and_fidelity
 ---
 
-# on evil euphemisms
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

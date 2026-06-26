@@ -15,8 +15,6 @@ tags:
   - archetype/great_mother
 ---
 
-# BURKE
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-As late I lay in Slumber’s shadowy vale,
-With wetted cheek and in a mourner’s guise,
-I saw the sainted form of FREEDOM rise:
-She spake! not sadder moans the autumnal gale —
-‘Great Son of Genius! sweet to me thy name,   5
-Ere in an evil hour with alter’d voice
-Thou bad’st Oppression’s hireling crew rejoice
-Blasting with wizard spell my laurell’d fame.
-‘Yet never, BURKE! thou drank’st Corruption’s bowl!
-Thee stormy Pity and the cherish’d lure   10
-Of Pomp, and proud Precipitance of soul
-Wilder’d with meteor fires. Ah Spirit pure!
-‘That Error’s mist had left thy purgéd eye:
-So might I clasp thee with a Mother’s joy!’
-December 9, 1794.
+As late I lay in Slumber’s shadowy vale,  
+With wetted cheek and in a mourner’s guise,  
+I saw the sainted form of FREEDOM rise:  
+She spake! not sadder moans the autumnal gale —  
+‘Great Son of Genius! sweet to me thy name,   5  
+Ere in an evil hour with alter’d voice  
+Thou bad’st Oppression’s hireling crew rejoice  
+Blasting with wizard spell my laurell’d fame.  
+‘Yet never, BURKE! thou drank’st Corruption’s bowl!  
+Thee stormy Pity and the cherish’d lure   10  
+Of Pomp, and proud Precipitance of soul  
+Wilder’d with meteor fires. Ah Spirit pure!  
+‘That Error’s mist had left thy purgéd eye:  
+So might I clasp thee with a Mother’s joy!’  
+December 9, 1794.  

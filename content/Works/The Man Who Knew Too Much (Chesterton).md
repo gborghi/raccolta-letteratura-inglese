@@ -20,8 +20,6 @@ tags:
   - archetype/corrupt_official
 ---
 
-# The Man Who Knew Too Much
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

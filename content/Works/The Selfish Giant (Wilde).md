@@ -35,8 +35,6 @@ tags:
   - character/christ
 ---
 
-# The Selfish Giant
-
 *by Wilde*  ·  **Cluster:** [[Bible · Sin and the Fall · Fall from Innocence]]
 
 > [!abstract] 

@@ -15,8 +15,6 @@ tags:
   - motif/sun
 ---
 
-# SPOTS IN THE SUN
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -30,21 +28,21 @@ tags:
 
 ## Testo integrale / Full text
 
-My father confessor is strict and holy,
-Mi Fili, still he cries, peccare noli.
-And yet how oft I find the pious man
-At Annette’s door, the lovely courtesan!
-Her soul’s deformity the good man wins
-And not her charms! he comes to hear her sins!
-Good father! I would fain not do thee wrong;
-But ah! I fear that they who oft and long
-Stand gazing at the sun, to count each spot,
-Must sometimes find the sun itself too hot.
-First published in Morning Post, Oct. 11, 1802.
-When Surface talks of other people’s worth
-He has the weakest memory on earth!
-And when his own good deeds he deigns to mention,
-His memory still is no whit better grown;
-But then he makes up for it, all will own,
-By a prodigious talent of invention.
-First published in Morning Post, Oct. 11, 1802.
+My father confessor is strict and holy,  
+Mi Fili, still he cries, peccare noli.  
+And yet how oft I find the pious man  
+At Annette’s door, the lovely courtesan!  
+Her soul’s deformity the good man wins  
+And not her charms! he comes to hear her sins!  
+Good father! I would fain not do thee wrong;  
+But ah! I fear that they who oft and long  
+Stand gazing at the sun, to count each spot,  
+Must sometimes find the sun itself too hot.  
+First published in Morning Post, Oct. 11, 1802.  
+When Surface talks of other people’s worth  
+He has the weakest memory on earth!  
+And when his own good deeds he deigns to mention,  
+His memory still is no whit better grown;  
+But then he makes up for it, all will own,  
+By a prodigious talent of invention.  
+First published in Morning Post, Oct. 11, 1802.  

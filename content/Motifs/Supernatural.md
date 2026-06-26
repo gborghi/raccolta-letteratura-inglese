@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Supernatural
-
 *Motif* — appears in **109** work(s).
 
 ## Works

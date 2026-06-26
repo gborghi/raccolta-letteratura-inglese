@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# John Thorpe
-
 *Character* — appears in **1** work(s).
 
 ## Works

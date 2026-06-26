@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — WHAT WE THINK ABOUT (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_24_SOME_OF_OUR_ERRORS/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_27_WHAT_WE_THINK_ABOUT/part_02">part 02 ›</a></div>

@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# COLLECTED POEMS 1909–1962
-
 *by Eliot*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-COLLECTED POEMS 1909–1962
+COLLECTED POEMS 1909–1962  
 
-PRUFROCK
-and Other Observations
-1917
-
-
-For Jean Verdenal, 1889–1915
-mort aux Dardanelles
+PRUFROCK  
+and Other Observations  
+1917  
 
 
-Or puoi la quantitate
-comprender dell’amor ch’a te mi scalda,
-quando dismento nostra vanitate,
-trattando l’ombre come cosa salda.
+For Jean Verdenal, 1889–1915  
+mort aux Dardanelles  
+
+
+Or puoi la quantitate  
+comprender dell’amor ch’a te mi scalda,  
+quando dismento nostra vanitate,  
+trattando l’ombre come cosa salda.  

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Alls Well that Ends Well — Act III, Scene 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)">Alls Well that Ends Well</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_3/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_3/Scene_5">Scene 5 ›</a></div>

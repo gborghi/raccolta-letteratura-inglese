@@ -18,8 +18,6 @@ tags:
   - motif/desire
 ---
 
-# TO LESBIA
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -35,24 +33,24 @@ tags:
 
 ## Testo integrale / Full text
 
-Vivamus, mea Lesbia, atque amemus.
-CATULLUS.
-My Lesbia, let us love and live,
-And to the winds, my Lesbia, give
-Each cold restraint, each boding fear
-Of age and all her saws severe.
-Yon sun now posting to the main   5
-Will set, — but ‘tis to rise again; —
-But we, when once our mortal light
-Is set, must sleep in endless night.
-Then come, with whom alone I’ll live,
-A thousand kisses take and give!   10
-Another thousand! — to the store
-Add hundreds — then a thousand more!
-And when they to a million mount,
-Let confusion take the account, —
-That you, the number never knowing,    15
-May continue still bestowing —
-That I for joys may never pine,
-Which never can again be mine!
-? 1794.
+Vivamus, mea Lesbia, atque amemus.  
+CATULLUS.  
+My Lesbia, let us love and live,  
+And to the winds, my Lesbia, give  
+Each cold restraint, each boding fear  
+Of age and all her saws severe.  
+Yon sun now posting to the main   5  
+Will set, — but ‘tis to rise again; —  
+But we, when once our mortal light  
+Is set, must sleep in endless night.  
+Then come, with whom alone I’ll live,  
+A thousand kisses take and give!   10  
+Another thousand! — to the store  
+Add hundreds — then a thousand more!  
+And when they to a million mount,  
+Let confusion take the account, —  
+That you, the number never knowing,    15  
+May continue still bestowing —  
+That I for joys may never pine,  
+Which never can again be mine!  
+? 1794.  

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 33: Going!
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_72_Going">‹ Chapter 72 Going</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_74_Gone">Chapter 74 Gone ›</a></div>

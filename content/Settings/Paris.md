@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Paris
-
 *Setting* — appears in **8** work(s).
 
 ## Works

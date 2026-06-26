@@ -14,8 +14,6 @@ tags:
   - topos/locus_amoenus
 ---
 
-# A SIMILE
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-As the shy hind, the soft-eyed gentle Brute
-Now moves, now stops, approaches by degrees —
-At length emerges from the shelt’ring Trees,
-Lur’d by her Hunter with the Shepherd’s flute,
-Whose music travelling on the twilight breeze,
-When all besides was mute —
-She oft had heard, and ever lov’d to hear;
-She fearful Beast! but that no sound of Fear ——
-Undated. Now first published from an MS.
+As the shy hind, the soft-eyed gentle Brute  
+Now moves, now stops, approaches by degrees —  
+At length emerges from the shelt’ring Trees,  
+Lur’d by her Hunter with the Shepherd’s flute,  
+Whose music travelling on the twilight breeze,  
+When all besides was mute —  
+She oft had heard, and ever lov’d to hear;  
+She fearful Beast! but that no sound of Fear ——  
+Undated. Now first published from an MS.  

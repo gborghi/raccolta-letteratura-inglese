@@ -15,8 +15,6 @@ tags:
   - archetype/child
 ---
 
-# TIME, REAL AND IMAGINARY
-
 *by Coleridge*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 
@@ -31,16 +29,16 @@ tags:
 
 ## Testo integrale / Full text
 
-AN ALLEGORY
-On the wide level of a mountain’s head,
-(I knew not where, but ‘twas some faery place)
-Their pinions, ostrich-like, for sails out-spread,
-Two lovely children run an endless race,
-A sister and a brother!
-This far outstripp’d the other;
-Yet ever runs she with reverted face.
-And looks and listens for the boy behind:
-For he, alas! is blind!
-O’er rough and smooth with even step he passed,   10
-And knows not whether he be first or last.
-? 1812.
+AN ALLEGORY  
+On the wide level of a mountain’s head,  
+(I knew not where, but ‘twas some faery place)  
+Their pinions, ostrich-like, for sails out-spread,  
+Two lovely children run an endless race,  
+A sister and a brother!  
+This far outstripp’d the other;  
+Yet ever runs she with reverted face.  
+And looks and listens for the boy behind:  
+For he, alas! is blind!  
+O’er rough and smooth with even step he passed,   10  
+And knows not whether he be first or last.  
+? 1812.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE MUMMER
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_23_THE_SEPARATIST_AND_SACRED_THINGS">‹ Story 23 THE SEPARATIST AND SACRED THINGS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_25_THE_ARISTOCRATIC_ARRY">Story 25 THE ARISTOCRATIC ARRY ›</a></div>

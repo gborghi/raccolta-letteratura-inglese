@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Odysseus / Ulysses
-
 *Character* — appears in **5** work(s).
 
 ## Works

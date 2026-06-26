@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# The Professor — Chapter 1: INTRODUCTORY (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/The-Professor-(Bronte)">The Professor</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/The_Professor/Chapter_26">‹ Chapter 26</a><a class="ex-next" href="/Testi/Bronte/Atomized/The_Professor/Chapter_02_INTRODUCTORY/part_02">part 02 ›</a></div>

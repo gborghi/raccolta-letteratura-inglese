@@ -22,8 +22,6 @@ tags:
   - form/short_story
 ---
 
-# The Imp of the Perverse
-
 *by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON `WHO KILLED JOHN KEATS?'
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_12_ON_MR_EPSTEIN">‹ Story 12 ON MR EPSTEIN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_14_ON_Ingeland">Story 14 ON Ingeland ›</a></div>

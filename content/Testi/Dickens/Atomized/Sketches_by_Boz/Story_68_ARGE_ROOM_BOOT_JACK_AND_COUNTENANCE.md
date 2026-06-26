@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — ARGE ROOM, BOOT-JACK AND COUNTENANCE.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_67_OACH_HOUSE_ORIGINAL_PIG">‹ Story 67 OACH HOUSE ORIGINAL PIG</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_69_R_ROBERT_BOLTON_THE_GENTLEMAN_CONNECTED">Story 69 R ROBERT BOLTON THE GENTLEMAN CONNECTED ›</a></div>

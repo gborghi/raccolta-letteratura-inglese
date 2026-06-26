@@ -14,8 +14,6 @@ tags:
   - motif/the_mirror
 ---
 
-# That Shadow My Likeness
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

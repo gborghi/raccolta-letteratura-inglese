@@ -15,8 +15,6 @@ tags:
   - histref/american_civil_war
 ---
 
-# Virginia--The West
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

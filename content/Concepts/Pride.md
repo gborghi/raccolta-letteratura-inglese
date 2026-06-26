@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Pride
-
 *Theme/Concept* — appears in **64** work(s).
 
 ## Works

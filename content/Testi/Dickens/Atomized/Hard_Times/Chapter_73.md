@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Hard Times — Chapter 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_72">‹ Chapter 72</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_74">Chapter 74 ›</a></div>

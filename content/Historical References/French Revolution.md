@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# French Revolution
-
 *Historical reference* — appears in **26** work(s).
 
 ## Works

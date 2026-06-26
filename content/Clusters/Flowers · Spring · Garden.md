@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Flowers · Spring · Garden
-
 *Cluster* — **49 works**.
 
 ## Defining concepts

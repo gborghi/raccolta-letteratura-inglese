@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE SOUL OF THE SCHOOLBOY (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_04_THE_SOUL_OF_THE_SCHOOLBOY/part_04">part 04 ›</a></div>

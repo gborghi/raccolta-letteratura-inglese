@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Ms. Found in a Bottle
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Ms.-Found-in-a-Bottle-(Poe)">Ms Found in a Bottle</a></div>
 </nav>

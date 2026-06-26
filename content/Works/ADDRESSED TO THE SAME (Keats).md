@@ -14,8 +14,6 @@ tags:
   - form/sonnet
 ---
 
-# ADDRESSED TO THE SAME
-
 *by Keats*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Great spirits now on earth are sojourning;
-  He of the cloud, the cataract, the lake,
-  Who on Helvellyn’s summit, wide awake,
-Catches his freshness from Archangel’s wing:
-He of the rose, the violet, the spring.
-  The social smile, the chain for Freedom’s sake:
-  And lo! — whose stedfastness would never take
-A meaner sound than Raphael’s whispering.
-And other spirits there are standing apart
-  Upon the forehead of the age to come;
-These, these will give the world another heart,
-  And other pulses. Hear ye not the hum
-Of mighty workings? —  —  —  —  —  —
-  Listen awhile ye nations, and be dumb.
+Great spirits now on earth are sojourning;  
+  He of the cloud, the cataract, the lake,  
+  Who on Helvellyn’s summit, wide awake,  
+Catches his freshness from Archangel’s wing:  
+He of the rose, the violet, the spring.  
+  The social smile, the chain for Freedom’s sake:  
+  And lo! — whose stedfastness would never take  
+A meaner sound than Raphael’s whispering.  
+And other spirits there are standing apart  
+  Upon the forehead of the age to come;  
+These, these will give the world another heart,  
+  And other pulses. Hear ye not the hum  
+Of mighty workings? —  —  —  —  —  —  
+  Listen awhile ye nations, and be dumb.  

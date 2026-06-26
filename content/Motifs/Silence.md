@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Silence
-
 *Motif* — appears in **62** work(s).
 
 ## Works

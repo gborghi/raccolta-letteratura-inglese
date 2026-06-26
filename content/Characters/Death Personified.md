@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Death Personified
-
 *Character* — appears in **52** work(s).
 
 ## Works

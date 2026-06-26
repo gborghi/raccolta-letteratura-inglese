@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# James Harthouse
-
 *Character* — appears in **1** work(s).
 
 ## Works

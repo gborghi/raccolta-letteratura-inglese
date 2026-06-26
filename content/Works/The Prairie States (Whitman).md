@@ -14,8 +14,6 @@ tags:
   - form/fragment
 ---
 
-# The Prairie States
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -30,12 +28,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: AUTUMN RIVULETS_
+_Cluster: AUTUMN RIVULETS_  
 
 
-  A newer garden of creation, no primal solitude,
-  Dense, joyous, modern, populous millions, cities and farms,
-  With iron interlaced, composite, tied, many in one,
-  By all the world contributed--freedom’s and law’s and thrift’s society,
-  The crown and teeming paradise, so far, of time’s accumulations,
-  To justify the past.
+  A newer garden of creation, no primal solitude,  
+  Dense, joyous, modern, populous millions, cities and farms,  
+  With iron interlaced, composite, tied, many in one,  
+  By all the world contributed--freedom’s and law’s and thrift’s society,  
+  The crown and teeming paradise, so far, of time’s accumulations,  
+  To justify the past.  

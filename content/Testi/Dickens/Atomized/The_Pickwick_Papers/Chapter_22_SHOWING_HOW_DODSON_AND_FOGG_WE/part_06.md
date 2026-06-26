@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 20: SHOWING HOW DODSON AND FOGG WERE MEN OF BUSINESS, AND THEIR (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_22_SHOWING_HOW_DODSON_AND_FOGG_WE/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_23_IN_WHICH_THE_OLD_MAN_LAUNCHES/part_01">part 01 ›</a></div>

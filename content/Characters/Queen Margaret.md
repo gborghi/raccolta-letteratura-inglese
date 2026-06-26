@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Queen Margaret
-
 *Character* — appears in **3** work(s).
 
 ## Works

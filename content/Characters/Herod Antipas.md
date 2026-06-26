@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Herod Antipas
-
 *Character* — appears in **1** work(s).
 
 ## Works

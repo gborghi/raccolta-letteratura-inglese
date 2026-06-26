@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# trees of pride — THE MYSTERY OF THE WELL (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_07_THE_MYSTERY_OF_THE_WELL/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_07_THE_MYSTERY_OF_THE_WELL/part_06">part 06 ›</a></div>

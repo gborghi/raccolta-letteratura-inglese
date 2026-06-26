@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The gardens had been tended so carefully as to achieve the final (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_05_The_Pursuit_of_Mr_Blue/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_07_The_gardens_had_been_tended_so_carefully/part_02">part 02 ›</a></div>

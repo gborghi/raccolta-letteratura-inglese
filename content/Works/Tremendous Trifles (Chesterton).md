@@ -21,8 +21,6 @@ tags:
   - setting/london
 ---
 
-# Tremendous Trifles
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

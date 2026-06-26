@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON THE NEW RELIGION COMING
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_29_ON_ORIGINAL_SIN">‹ Story 29 ON ORIGINAL SIN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_31_ON_THE_GREAT_GOD_NAMSE">Story 31 ON THE GREAT GOD NAMSE ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 57: THE EMIGRANTS (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_56_THE_NEW_WOUND_AND_THE_OLD/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_57_THE_EMIGRANTS/part_02">part 02 ›</a></div>

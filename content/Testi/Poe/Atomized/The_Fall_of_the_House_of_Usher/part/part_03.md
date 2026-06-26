@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Fall of the House of Usher (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Fall-of-the-House-of-Usher-(Poe)">The Fall of the House of Usher</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Fall_of_the_House_of_Usher/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Fall_of_the_House_of_Usher/part/part_04">part 04 ›</a></div>

@@ -18,8 +18,6 @@ tags:
   - form/verse_drama
 ---
 
-# Shaw
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

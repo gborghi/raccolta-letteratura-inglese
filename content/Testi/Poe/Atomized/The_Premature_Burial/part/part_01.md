@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Premature Burial (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Premature Burial</div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Poe/Atomized/The_Premature_Burial/part/part_02">part 02 ›</a></div>

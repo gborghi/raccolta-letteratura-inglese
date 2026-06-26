@@ -15,8 +15,6 @@ tags:
   - motif/river
 ---
 
-# By Broad Potomac’s Shore
-
 *by Whitman*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 

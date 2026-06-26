@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Paradise Lost
-
 *Topos* — appears in **37** work(s).
 
 ## Works

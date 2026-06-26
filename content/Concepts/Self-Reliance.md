@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Self-Reliance
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

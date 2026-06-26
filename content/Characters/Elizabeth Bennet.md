@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Elizabeth Bennet
-
 *Character* — appears in **1** work(s).
 
 ## Works

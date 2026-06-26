@@ -15,8 +15,6 @@ tags:
   - motif/the_sea
 ---
 
-# Assurances
-
 *by Whitman*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 

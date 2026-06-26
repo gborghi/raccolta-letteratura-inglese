@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Paradox · Food and Feasting · Aphorism
-
 *Cluster* — **31 works**.
 
 ## Defining concepts

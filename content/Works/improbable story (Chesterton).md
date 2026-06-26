@@ -24,8 +24,6 @@ tags:
   - setting/the_modern_metropolis
 ---
 
-# improbable story
-
 *by Chesterton*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

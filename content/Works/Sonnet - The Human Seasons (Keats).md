@@ -17,8 +17,6 @@ tags:
   - motif/winter
 ---
 
-# Sonnet - The Human Seasons
-
 *by Keats*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Four seasons fill the measure of the year;
-There are four seasons in the mind of man:
-He has his lusty Spring, when fancy clear
-Takes in all beauty with an easy span:
-He has his Summer, when luxuriously
-Spring’s honied cud of youthful thought he loves
-To ruminate, and by such dreaming nigh
-His nearest unto heaven: quiet coves
-His soul has in its Autumn, when his wings
-He furleth close; contented so to look  10
-On mists in idleness - to let fair things
-Pass by unheeded as a threshold brook.
-He has his Winter too of pale misfeature,
-Or else he would forego his mortal nature.
+Four seasons fill the measure of the year;  
+There are four seasons in the mind of man:  
+He has his lusty Spring, when fancy clear  
+Takes in all beauty with an easy span:  
+He has his Summer, when luxuriously  
+Spring’s honied cud of youthful thought he loves  
+To ruminate, and by such dreaming nigh  
+His nearest unto heaven: quiet coves  
+His soul has in its Autumn, when his wings  
+He furleth close; contented so to look  10  
+On mists in idleness - to let fair things  
+Pass by unheeded as a threshold brook.  
+He has his Winter too of pale misfeature,  
+Or else he would forego his mortal nature.  

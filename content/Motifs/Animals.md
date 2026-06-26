@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Animals
-
 *Motif* — appears in **150** work(s).
 
 ## Works

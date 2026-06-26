@@ -15,8 +15,6 @@ tags:
   - concept/love_romantic
 ---
 
-# WITH FIELDING’S ‘AMELIA’
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Virtues and Woes alike too great for man
-In the soft tale oft claim the useless sigh;
-For vain the attempt to realise the plan,
-On Folly’s wings must Imitation fly.
-With other aim has Fielding here display’d   5
-Each social duty and each social care;
-With just yet vivid colouring portray’d
-What every wife should be, what many are.
-And sure the Parent of a race so sweet
-With double pleasure on the page shall dwell,   10
-Each scene with sympathizing breast shall meet,
-While Reason still with smiles delights to tell
-Maternal hope, that her loved progeny
-In all but sorrows shall Amelias be!
-? 1792.
+Virtues and Woes alike too great for man  
+In the soft tale oft claim the useless sigh;  
+For vain the attempt to realise the plan,  
+On Folly’s wings must Imitation fly.  
+With other aim has Fielding here display’d   5  
+Each social duty and each social care;  
+With just yet vivid colouring portray’d  
+What every wife should be, what many are.  
+And sure the Parent of a race so sweet  
+With double pleasure on the page shall dwell,   10  
+Each scene with sympathizing breast shall meet,  
+While Reason still with smiles delights to tell  
+Maternal hope, that her loved progeny  
+In all but sorrows shall Amelias be!  
+? 1792.  

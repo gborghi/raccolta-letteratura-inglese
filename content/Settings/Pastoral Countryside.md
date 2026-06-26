@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Pastoral Countryside
-
 *Setting* — appears in **24** work(s).
 
 ## Works

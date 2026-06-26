@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# (Reputed) Fallen Woman
-
 *Archetype* — appears in **24** work(s).
 
 ## Works

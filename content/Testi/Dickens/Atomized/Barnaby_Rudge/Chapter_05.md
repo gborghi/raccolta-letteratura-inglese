@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Barnaby Rudge — Chapter 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_04">‹ Chapter 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Barnaby_Rudge/Chapter_06">Chapter 06 ›</a></div>

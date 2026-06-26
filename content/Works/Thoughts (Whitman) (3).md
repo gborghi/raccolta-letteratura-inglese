@@ -15,8 +15,6 @@ tags:
   - histref/american_civil_war
 ---
 
-# Thoughts
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

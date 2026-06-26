@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# To-Day and Thee
-
 *by Whitman*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 
@@ -34,12 +32,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  The appointed winners in a long-stretch’d game;
-  The course of Time and nations--Egypt, India, Greece and Rome;
-  The past entire, with all its heroes, histories, arts, experiments,
-  Its store of songs, inventions, voyages, teachers, books,
-  Garner’d for now and thee--To think of it!
-  The heirdom all converged in thee!
+  The appointed winners in a long-stretch’d game;  
+  The course of Time and nations--Egypt, India, Greece and Rome;  
+  The past entire, with all its heroes, histories, arts, experiments,  
+  Its store of songs, inventions, voyages, teachers, books,  
+  Garner’d for now and thee--To think of it!  
+  The heirdom all converged in thee!  

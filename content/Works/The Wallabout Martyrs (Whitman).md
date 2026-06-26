@@ -19,8 +19,6 @@ tags:
   - form/free_verse
 ---
 
-# The Wallabout Martyrs
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 
@@ -37,11 +35,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Greater than memory of Achilles or Ulysses,
-  More, more by far to thee than tomb of Alexander,
-  Those cart loads of old charnel ashes, scales and splints of mouldy bones,
-  Once living men--once resolute courage, aspiration, strength,
-  The stepping stones to thee to-day and here, America.
+  Greater than memory of Achilles or Ulysses,  
+  More, more by far to thee than tomb of Alexander,  
+  Those cart loads of old charnel ashes, scales and splints of mouldy bones,  
+  Once living men--once resolute courage, aspiration, strength,  
+  The stepping stones to thee to-day and here, America.  

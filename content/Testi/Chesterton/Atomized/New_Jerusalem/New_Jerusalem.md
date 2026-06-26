@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# New Jerusalem
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/New-Jerusalem-(Chesterton)">New Jerusalem</a></div>
 </nav>

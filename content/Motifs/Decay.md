@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Decay
-
 *Motif* — appears in **42** work(s).
 
 ## Works

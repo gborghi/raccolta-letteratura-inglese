@@ -19,8 +19,6 @@ tags:
   - motif/money_gold
 ---
 
-# christmas-games
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

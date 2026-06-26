@@ -15,8 +15,6 @@ tags:
   - concept/comradeship
 ---
 
-# To a Foil’d European Revolutionaire
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 

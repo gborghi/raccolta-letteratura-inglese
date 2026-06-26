@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Rural England
-
 *Setting* — appears in **55** work(s).
 
 ## Works

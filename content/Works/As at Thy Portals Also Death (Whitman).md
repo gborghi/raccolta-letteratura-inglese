@@ -14,8 +14,6 @@ tags:
   - form/elegy
 ---
 
-# As at Thy Portals Also Death
-
 *by Whitman*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -29,18 +27,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SONGS OF PARTING_
+_Cluster: SONGS OF PARTING_  
 
 
-  As at thy portals also death,
-  Entering thy sovereign, dim, illimitable grounds,
-  To memories of my mother, to the divine blending, maternity,
-  To her, buried and gone, yet buried not, gone not from me,
-  (I see again the calm benignant face fresh and beautiful still,
-  I sit by the form in the coffin,
-  I kiss and kiss convulsively again the sweet old lips, the cheeks,
-      the closed eyes in the coffin;)
-  To her, the ideal woman, practical, spiritual, of all of earth,
-      life, love, to me the best,
-  I grave a monumental line, before I go, amid these songs,
-  And set a tombstone here.
+  As at thy portals also death,  
+  Entering thy sovereign, dim, illimitable grounds,  
+  To memories of my mother, to the divine blending, maternity,  
+  To her, buried and gone, yet buried not, gone not from me,  
+  (I see again the calm benignant face fresh and beautiful still,  
+  I sit by the form in the coffin,  
+  I kiss and kiss convulsively again the sweet old lips, the cheeks,  
+      the closed eyes in the coffin;)  
+  To her, the ideal woman, practical, spiritual, of all of earth,  
+      life, love, to me the best,  
+  I grave a monumental line, before I go, amid these songs,  
+  And set a tombstone here.  

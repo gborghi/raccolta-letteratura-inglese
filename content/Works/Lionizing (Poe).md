@@ -21,8 +21,6 @@ tags:
   - setting/london
 ---
 
-# Lionizing
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

@@ -15,8 +15,6 @@ tags:
   - concept/power_and_corruption
 ---
 
-# To a President
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  All you are doing and saying is to America dangled mirages,
-  You have not learn’d of Nature--of the politics of Nature you have
-      not learn’d the great amplitude, rectitude, impartiality,
-  You have not seen that only such as they are for these States,
-  And that what is less than they must sooner or later lift off from
-      these States.
+  All you are doing and saying is to America dangled mirages,  
+  You have not learn’d of Nature--of the politics of Nature you have  
+      not learn’d the great amplitude, rectitude, impartiality,  
+  You have not seen that only such as they are for these States,  
+  And that what is less than they must sooner or later lift off from  
+      these States.  

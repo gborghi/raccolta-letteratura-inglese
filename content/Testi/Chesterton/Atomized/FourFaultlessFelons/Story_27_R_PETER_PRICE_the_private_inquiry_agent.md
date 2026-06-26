@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — R. PETER PRICE, the private inquiry agent, did not glow with that
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_26_THE_PROBLEMS_OF_DETECTIVE_PRICE">‹ Story 26 THE PROBLEMS OF DETECTIVE PRICE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_28_THE_THIEF_ON_TRIAL">Story 28 THE THIEF ON TRIAL ›</a></div>

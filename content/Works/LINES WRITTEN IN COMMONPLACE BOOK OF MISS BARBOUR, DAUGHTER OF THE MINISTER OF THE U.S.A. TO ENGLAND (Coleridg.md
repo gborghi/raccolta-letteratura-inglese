@@ -17,8 +17,6 @@ tags:
   - histref/the_bible
 ---
 
-# LINES WRITTEN IN COMMONPLACE BOOK OF MISS BARBOUR, DAUGHTER OF THE MINISTER OF THE U.S.A. TO ENGLAND
-
 *by Coleridge*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Child of my muse! in Barbour’s gentle hand
-Go cross the main: thou seek’st no foreign land:
-‘Tis not the clod beneath our feet we name
-Our country. Each heaven-sanctioned tie the same,
-Laws, manners, language, faith, ancestral blood,   5
-Domestic honour, awe of womanhood: —
-With kindling pride thou wilt rejoice to see
-Britain with elbow-room and doubly free!
-Go seek thy countrymen! and if one scar
-Still linger of that fratricidal war,   10
-Look to the maid who brings thee from afar;
-Be thou the olive-leaf and she the dove,
-And say, I greet thee with a brother’s love!
-S. T. COLERIDGE.
+Child of my muse! in Barbour’s gentle hand  
+Go cross the main: thou seek’st no foreign land:  
+‘Tis not the clod beneath our feet we name  
+Our country. Each heaven-sanctioned tie the same,  
+Laws, manners, language, faith, ancestral blood,   5  
+Domestic honour, awe of womanhood: —  
+With kindling pride thou wilt rejoice to see  
+Britain with elbow-room and doubly free!  
+Go seek thy countrymen! and if one scar  
+Still linger of that fratricidal war,   10  
+Look to the maid who brings thee from afar;  
+Be thou the olive-leaf and she the dove,  
+And say, I greet thee with a brother’s love!  
+S. T. COLERIDGE.  

@@ -16,8 +16,6 @@ tags:
   - form/essay
 ---
 
-# debate
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

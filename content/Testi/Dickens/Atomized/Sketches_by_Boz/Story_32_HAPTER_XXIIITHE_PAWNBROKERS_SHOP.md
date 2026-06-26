@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XXIII—THE PAWNBROKER’S SHOP
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_31_HAPTER_XXIIGIN_SHOPS">‹ Story 31 HAPTER XXIIGIN SHOPS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_33_HAPTER_XXIVCRIMINAL_COURTS">Story 33 HAPTER XXIVCRIMINAL COURTS ›</a></div>

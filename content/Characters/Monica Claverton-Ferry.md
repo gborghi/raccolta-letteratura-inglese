@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Monica Claverton-Ferry
-
 *Character* — appears in **1** work(s).
 
 ## Works

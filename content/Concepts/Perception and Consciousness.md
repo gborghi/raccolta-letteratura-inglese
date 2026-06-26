@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Perception and Consciousness
-
 *Theme/Concept* — appears in **4** work(s).
 
 ## Works

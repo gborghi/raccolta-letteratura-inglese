@@ -14,8 +14,6 @@ tags:
   - topos/book_of_nature
 ---
 
-# Earth, My Likeness
-
 *by Whitman*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -29,14 +27,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CALAMUS_
+_Cluster: CALAMUS_  
 
 
-  Earth, my likeness,
-  Though you look so impassive, ample and spheric there,
-  I now suspect that is not all;
-  I now suspect there is something fierce in you eligible to burst forth,
-  For an athlete is enamour’d of me, and I of him,
-  But toward him there is something fierce and terrible in me eligible
-      to burst forth,
-  I dare not tell it in words, not even in these songs.
+  Earth, my likeness,  
+  Though you look so impassive, ample and spheric there,  
+  I now suspect that is not all;  
+  I now suspect there is something fierce in you eligible to burst forth,  
+  For an athlete is enamour’d of me, and I of him,  
+  But toward him there is something fierce and terrible in me eligible  
+      to burst forth,  
+  I dare not tell it in words, not even in these songs.  

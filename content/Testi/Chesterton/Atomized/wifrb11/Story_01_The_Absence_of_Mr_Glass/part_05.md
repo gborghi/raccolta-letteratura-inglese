@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Absence of Mr Glass (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_01_The_Absence_of_Mr_Glass/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_02_The_Paradise_of_Thieves/part_01">part 01 ›</a></div>

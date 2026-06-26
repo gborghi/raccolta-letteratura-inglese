@@ -20,8 +20,6 @@ tags:
   - histref/christianity
 ---
 
-# a-hymn
-
 *by Chesterton*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -36,38 +34,38 @@ tags:
 
 ## Testo integrale / Full text
 
-A Hymn
+A Hymn  
 
-by G.K.Chesterton
+by G.K.Chesterton  
 
-O God of earth and altar,
-  Bow down and hear our cry,
-Our earthly rulers falter,
-  Our people drift and die;
-The walls of gold entomb us,
-  The swords of scorn divide,
-Take not thy thunder from us,
-  But take away our pride.
+O God of earth and altar,  
+  Bow down and hear our cry,  
+Our earthly rulers falter,  
+  Our people drift and die;  
+The walls of gold entomb us,  
+  The swords of scorn divide,  
+Take not thy thunder from us,  
+  But take away our pride.  
 
-From all that terror teaches,
-  From lies of tongue and pen,
-From all the easy speeches
-  That comfort cruel men,
-From sale and profanation
-  Of honour and the sword,
-From sleep and from damnation,
-  Deliver us, good Lord.
+From all that terror teaches,  
+  From lies of tongue and pen,  
+From all the easy speeches  
+  That comfort cruel men,  
+From sale and profanation  
+  Of honour and the sword,  
+From sleep and from damnation,  
+  Deliver us, good Lord.  
 
-Tie in a living tether
-  The prince and priest and thrall,
-Bind all our lives together,
-  Smite us and save us all;
-In ire and exultation
-  Aflame with faith, and free,
-Lift up a living nation,
-  A single sword to thee.
-
-
+Tie in a living tether  
+  The prince and priest and thrall,  
+Bind all our lives together,  
+  Smite us and save us all;  
+In ire and exultation  
+  Aflame with faith, and free,  
+Lift up a living nation,  
+  A single sword to thee.  
 
 
-===== FINE FILE: a-hymn.txt =====
+
+
+===== FINE FILE: a-hymn.txt =====  

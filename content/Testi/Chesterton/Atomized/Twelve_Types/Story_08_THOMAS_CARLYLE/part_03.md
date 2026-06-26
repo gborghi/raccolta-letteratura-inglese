@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — THOMAS CARLYLE (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_08_THOMAS_CARLYLE/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_09_TOLSTOY_AND_THE_CULT_OF_SIMPLICITY/part_01">part 01 ›</a></div>

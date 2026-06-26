@@ -40,8 +40,6 @@ tags:
   - character/phoebe
 ---
 
-# AS YOU LIKE IT
-
 *by Shakespeare*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 

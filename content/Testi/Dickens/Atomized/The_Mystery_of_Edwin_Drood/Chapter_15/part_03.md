@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Mystery of Edwin Drood — Chapter 14 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Mystery-of-Edwin-Drood-(Dickens)">The Mystery of Edwin Drood</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_15/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Mystery_of_Edwin_Drood/Chapter_15/part_04">part 04 ›</a></div>

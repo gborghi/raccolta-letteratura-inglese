@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Spice Of Life — Part 2: PARTICULAR BOOKS AND WRITERS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Spice-Of-Life-(Chesterton)">Spice Of Life</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_02_LITERATURE_IN_GENERAL">‹ Chapter 02 LITERATURE IN GENERAL</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Spice_Of_Life/Chapter_04_THOUGHT_AND_BELIEF">Chapter 04 THOUGHT AND BELIEF ›</a></div>

@@ -17,8 +17,6 @@ tags:
   - archetype/child
 ---
 
-# TELL’S BIRTH-PLACE: IMITATED FROM STOLBERG
-
 *by Coleridge*  ·  **Cluster:** [[Heroism · Hero · Last Stand]]
 
 > [!abstract] 
@@ -33,39 +31,39 @@ tags:
 
 ## Testo integrale / Full text
 
-I
-Mark this holy chapel well!
-The birth-place, this, of William Tell.
-Here, where stands God’s altar dread,
-Stood his parents’ marriage-bed.
-II
-Here, first, an infant to her breast,   5
-Him his loving mother prest;
-And kissed the babe, and blessed the day,
-And prayed as mothers use to pray.
-III
-‘Vouchsafe him health, O God! and give
-The child thy servant still to live!’   10
-But God had destined to do more
-Through him, than through an arméd power.
-IV
-God gave him reverence of laws,
-Yet stirring blood in Freedom’s cause —
-A spirit to his rocks akin,   15
-The eye of the hawk, and the fire therein!
-V
-To Nature and to Holy Writ
-Alone did God the boy commit:
-Where flashed and roared the torrent, oft
-His soul found wings, and soared aloft!   20
-VI
-The straining oar and chamois chase
-Had formed his limbs to strength and grace:
-On wave and wind the boy would toss,
-Was great, nor knew how great he was!
-VII
-He knew not that his chosen hand,   25
-Made strong by God, his native land
-Would rescue from the shameful yoke
-Of Slavery —— the which he broke!
-? 1799.
+I  
+Mark this holy chapel well!  
+The birth-place, this, of William Tell.  
+Here, where stands God’s altar dread,  
+Stood his parents’ marriage-bed.  
+II  
+Here, first, an infant to her breast,   5  
+Him his loving mother prest;  
+And kissed the babe, and blessed the day,  
+And prayed as mothers use to pray.  
+III  
+‘Vouchsafe him health, O God! and give  
+The child thy servant still to live!’   10  
+But God had destined to do more  
+Through him, than through an arméd power.  
+IV  
+God gave him reverence of laws,  
+Yet stirring blood in Freedom’s cause —  
+A spirit to his rocks akin,   15  
+The eye of the hawk, and the fire therein!  
+V  
+To Nature and to Holy Writ  
+Alone did God the boy commit:  
+Where flashed and roared the torrent, oft  
+His soul found wings, and soared aloft!   20  
+VI  
+The straining oar and chamois chase  
+Had formed his limbs to strength and grace:  
+On wave and wind the boy would toss,  
+Was great, nor knew how great he was!  
+VII  
+He knew not that his chosen hand,   25  
+Made strong by God, his native land  
+Would rescue from the shameful yoke  
+Of Slavery —— the which he broke!  
+? 1799.  

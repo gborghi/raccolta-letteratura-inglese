@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# Life
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -33,30 +31,30 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Ever the undiscouraged, resolute, struggling soul of man;
-  (Have former armies fail’d? then we send fresh armies--and fresh again;)
-  Ever the grappled mystery of all earth’s ages old or new;
-  Ever the eager eyes, hurrahs, the welcome-clapping hands, the loud
-      applause;
-  Ever the soul dissatisfied, curious, unconvinced at last;
-  Struggling to-day the same--battling the same.
+  Ever the undiscouraged, resolute, struggling soul of man;  
+  (Have former armies fail’d? then we send fresh armies--and fresh again;)  
+  Ever the grappled mystery of all earth’s ages old or new;  
+  Ever the eager eyes, hurrahs, the welcome-clapping hands, the loud  
+      applause;  
+  Ever the soul dissatisfied, curious, unconvinced at last;  
+  Struggling to-day the same--battling the same.  
 
 
 
 
-“Going Somewhere”
+“Going Somewhere”  
 
-  My science-friend, my noblest woman-friend,
-  (Now buried in an English grave--and this a memory-leaf for her dear sake,)
-  Ended our talk--“The sum, concluding all we know of old or modern
-      learning, intuitions deep,
-  “Of all Geologies--Histories--of all Astronomy--of Evolution,
-      Metaphysics all,
-  “Is, that we all are onward, onward, speeding slowly, surely bettering,
-  “Life, life an endless march, an endless army, (no halt, but it is
-      duly over,)
-  “The world, the race, the soul--in space and time the universes,
-  “All bound as is befitting each--all surely going somewhere.”
+  My science-friend, my noblest woman-friend,  
+  (Now buried in an English grave--and this a memory-leaf for her dear sake,)  
+  Ended our talk--“The sum, concluding all we know of old or modern  
+      learning, intuitions deep,  
+  “Of all Geologies--Histories--of all Astronomy--of Evolution,  
+      Metaphysics all,  
+  “Is, that we all are onward, onward, speeding slowly, surely bettering,  
+  “Life, life an endless march, an endless army, (no halt, but it is  
+      duly over,)  
+  “The world, the race, the soul--in space and time the universes,  
+  “All bound as is befitting each--all surely going somewhere.”  

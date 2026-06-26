@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 23: THE MARCH ON IVYWOOD
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_22_THE_CHEMISTRY_OF_MR_CROOKE">‹ Chapter 22 THE CHEMISTRY OF MR CROOKE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_24_THE_ENIGMAS_OF_LADY_JOAN">Chapter 24 THE ENIGMAS OF LADY JOAN ›</a></div>

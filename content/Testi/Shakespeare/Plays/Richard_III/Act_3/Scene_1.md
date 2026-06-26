@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Richard III — Act III, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/RICHARD-III-(Shakespeare)">Richard III</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Richard_III/Act_2/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Richard_III/Act_3/Scene_2">Scene 2 ›</a></div>

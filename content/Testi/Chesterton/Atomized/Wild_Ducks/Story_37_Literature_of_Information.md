@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — Literature of Information
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_36_Ruskin_The_Humorist">‹ Story 36 Ruskin The Humorist</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_38_Eulogy_of_Robin_Hood">Story 38 Eulogy of Robin Hood ›</a></div>

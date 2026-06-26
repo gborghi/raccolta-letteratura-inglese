@@ -16,8 +16,6 @@ tags:
   - histref/the_bible
 ---
 
-# Our Birthday
-
 *by Chesterton*  ·  **Cluster:** [[Grace and Redemption · Humility · Bread and Wine Eucharist]]
 
 > [!abstract] 

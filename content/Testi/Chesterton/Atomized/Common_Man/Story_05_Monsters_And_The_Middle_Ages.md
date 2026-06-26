@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Monsters And The Middle Ages
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_04_On_Reading">‹ Story 04 On Reading</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_06_What_Novelists_Are_For">Story 06 What Novelists Are For ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# How to Write a Blackwood Article
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/How-to-Write-a-Blackwood-Article-(Poe)">How to Write a Blackwood Article</a></div>
 </nav>

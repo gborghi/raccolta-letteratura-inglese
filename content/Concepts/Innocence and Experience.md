@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Innocence and Experience
-
 *Theme/Concept* — appears in **67** work(s).
 
 ## Works

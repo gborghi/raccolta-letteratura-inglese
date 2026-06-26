@@ -14,8 +14,6 @@ tags:
   - motif/birds
 ---
 
-# Roots and Leaves Themselves Alone
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 

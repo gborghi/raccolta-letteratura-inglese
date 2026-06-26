@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Unnamed Remains the Bravest Soldier
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_35_A_Night_Battle_over_a_Week_Since">‹ Story 35 A Night Battle over a Week Since</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_37_Some_Specimen_Cases">Story 37 Some Specimen Cases ›</a></div>

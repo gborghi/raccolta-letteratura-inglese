@@ -16,8 +16,6 @@ tags:
   - setting/germany
 ---
 
-# SOMETHING CHILDISH, BUT VERY NATURAL
-
 *by Coleridge*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 
@@ -32,20 +30,20 @@ tags:
 
 ## Testo integrale / Full text
 
-WRITTEN IN GERMANY
-If I had but two little wings
-And were a little feathery bird,
-To you I’d fly, my dear!
-But thoughts like these are idle things,
-And I stay here.    5
-But in my sleep to you I fly:
-I’m always with you in my sleep!
-The world is all one’s own.
-But then one wakes, and where am I?
-All, all alone.    10
-Sleep stays not, though a monarch bids:
-So I love to wake ere break of day:
-For though my sleep be gone,
-Yet while ‘tis dark, one shuts one’s lids,
-And still dreams on.    15
-April 23, 1799.
+WRITTEN IN GERMANY  
+If I had but two little wings  
+And were a little feathery bird,  
+To you I’d fly, my dear!  
+But thoughts like these are idle things,  
+And I stay here.    5  
+But in my sleep to you I fly:  
+I’m always with you in my sleep!  
+The world is all one’s own.  
+But then one wakes, and where am I?  
+All, all alone.    10  
+Sleep stays not, though a monarch bids:  
+So I love to wake ere break of day:  
+For though my sleep be gone,  
+Yet while ‘tis dark, one shuts one’s lids,  
+And still dreams on.    15  
+April 23, 1799.  

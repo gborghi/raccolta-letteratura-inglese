@@ -15,8 +15,6 @@ tags:
   - motif/storm
 ---
 
-# AD LYRAM.
-
 *by Coleridge*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -32,18 +30,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Sonori buxi Filia sutilis,
-Pendebis alta, Barbite, populo,
-Dum ridet aer, et supinas
-Solicitat levis aura frondes:
-Te sibilantis lenior halitus
-Perflabit Euri: me iuvet interim
-Collum reclinasse, et virenti
-Sic temere iacuisse ripa.
-Eheu! serenum quae nebulae tegunt
-Repente caelum! quis sonus imbrium!
-Surgamus — heu semper fugaci
-Gaudia praeteritura passu!
-‘Advertisement’ to Ad Lyram,
-in Watchman, II, March 9, 1796.
-Title] Song. [Note. Imitated from Casimir.] MS. E.
+Sonori buxi Filia sutilis,  
+Pendebis alta, Barbite, populo,  
+Dum ridet aer, et supinas  
+Solicitat levis aura frondes:  
+Te sibilantis lenior halitus  
+Perflabit Euri: me iuvet interim  
+Collum reclinasse, et virenti  
+Sic temere iacuisse ripa.  
+Eheu! serenum quae nebulae tegunt  
+Repente caelum! quis sonus imbrium!  
+Surgamus — heu semper fugaci  
+Gaudia praeteritura passu!  
+‘Advertisement’ to Ad Lyram,  
+in Watchman, II, March 9, 1796.  
+Title] Song. [Note. Imitated from Casimir.] MS. E.  

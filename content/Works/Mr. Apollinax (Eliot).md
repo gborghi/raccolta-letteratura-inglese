@@ -15,8 +15,6 @@ tags:
   - histref/new_england
 ---
 
-# Mr. Apollinax
-
 *by Eliot*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

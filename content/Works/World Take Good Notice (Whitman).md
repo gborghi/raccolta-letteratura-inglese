@@ -14,8 +14,6 @@ tags:
   - concept/the_union
 ---
 
-# World Take Good Notice
-
 *by Whitman*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -28,11 +26,11 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  World take good notice, silver stars fading,
-  Milky hue ript, wet of white detaching,
-  Coals thirty-eight, baleful and burning,
-  Scarlet, significant, hands off warning,
-  Now and henceforth flaunt from these shores.
+  World take good notice, silver stars fading,  
+  Milky hue ript, wet of white detaching,  
+  Coals thirty-eight, baleful and burning,  
+  Scarlet, significant, hands off warning,  
+  Now and henceforth flaunt from these shores.  

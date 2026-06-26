@@ -15,8 +15,6 @@ tags:
   - concept/innocence_and_experience
 ---
 
-# FIRST ADVENT OF LOVE
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -31,10 +29,10 @@ tags:
 
 ## Testo integrale / Full text
 
-O fair is Love’s first hope to gentle mind!
-As Eve’s first star thro’ fleecy cloudlet peeping;
-And sweeter than the gentle south-west wind.
-O’er willowy meads, and shadow’d waters creeping,
-And Ceres’ golden fields; — the sultry hind   5
-Meets it with brow uplift, and stays his reaping.
-? 1824.
+O fair is Love’s first hope to gentle mind!  
+As Eve’s first star thro’ fleecy cloudlet peeping;  
+And sweeter than the gentle south-west wind.  
+O’er willowy meads, and shadow’d waters creeping,  
+And Ceres’ golden fields; — the sultry hind   5  
+Meets it with brow uplift, and stays his reaping.  
+? 1824.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — Concerning A Strange City
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_34_The_Meaning_Of_Metre">‹ Story 34 The Meaning Of Metre</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_36_The_Epitaph_Of_Pierpont_Morgan">Story 36 The Epitaph Of Pierpont Morgan ›</a></div>

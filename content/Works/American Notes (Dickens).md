@@ -28,8 +28,6 @@ tags:
   - setting/italy
 ---
 
-# American Notes
-
 *by Dickens*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

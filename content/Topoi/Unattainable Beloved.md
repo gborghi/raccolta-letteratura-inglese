@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Unattainable Beloved
-
 *Topos* — appears in **72** work(s).
 
 ## Works

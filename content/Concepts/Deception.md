@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Deception
-
 *Theme/Concept* — appears in **110** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Much Ado About Nothing — Act IV, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Much_Ado_About_Nothing/Act_3/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Much_Ado_About_Nothing/Act_4/Scene_2">Scene 2 ›</a></div>

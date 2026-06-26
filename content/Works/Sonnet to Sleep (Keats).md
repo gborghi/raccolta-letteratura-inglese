@@ -15,8 +15,6 @@ tags:
   - concept/guilt
 ---
 
-# Sonnet to Sleep
-
 *by Keats*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 
@@ -30,18 +28,18 @@ tags:
 
 ## Testo integrale / Full text
 
-O soft embalmer of the still midnight,
-Shutting, with careful fingers and benign,
-Our gloom - pleas’d eyes, embower’d from the light,
-Enshaded in forgetfulness divine:
-O soothest Sleep! if so it please thee, close
-In midst of this thine hymn my willing eyes,
-Or wait the ‘Amen,’ ere thy poppy throws
-Around my bed its lulling charities.
-Then save me, or the passed day will shine
-Upon my pillow, breeding many woes, -
-10
-Save me from curious conscience, that still lords
-Its strength for darkness, burrowing like a mole;
-Turn the key deftly in the oiled wards,
-And seal the hushed casket of my Soul.
+O soft embalmer of the still midnight,  
+Shutting, with careful fingers and benign,  
+Our gloom - pleas’d eyes, embower’d from the light,  
+Enshaded in forgetfulness divine:  
+O soothest Sleep! if so it please thee, close  
+In midst of this thine hymn my willing eyes,  
+Or wait the ‘Amen,’ ere thy poppy throws  
+Around my bed its lulling charities.  
+Then save me, or the passed day will shine  
+Upon my pillow, breeding many woes, -  
+10  
+Save me from curious conscience, that still lords  
+Its strength for darkness, burrowing like a mole;  
+Turn the key deftly in the oiled wards,  
+And seal the hushed casket of my Soul.  

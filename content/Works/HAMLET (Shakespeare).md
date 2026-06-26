@@ -44,8 +44,6 @@ tags:
   - character/guildenstern
 ---
 
-# HAMLET
-
 *by Shakespeare*  ·  **Cluster:** [[Feigned Madness · Denmark]]
 
 > [!abstract] 

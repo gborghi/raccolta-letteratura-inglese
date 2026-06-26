@@ -23,8 +23,6 @@ tags:
   - character/federico_gomez
 ---
 
-# THE ELDER STATESMAN
-
 *by Eliot*  ·  **Cluster:** [[Guilt · Conscience · Fate and Free Will]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE FACE IN THE TARGET
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_01_THE_MAN_WHO_KNEW_TOO_MUCH">‹ Story 01 THE MAN WHO KNEW TOO MUCH</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE">Story 03 THE VANISHING PRINCE ›</a></div>

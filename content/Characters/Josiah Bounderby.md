@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Josiah Bounderby
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Unseen / The Hidden
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

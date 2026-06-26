@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Flambeau
-
 *Character* — appears in **4** work(s).
 
 ## Works

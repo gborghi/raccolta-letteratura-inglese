@@ -19,8 +19,6 @@ tags:
   - concept/doubt
 ---
 
-# Roots of the World
-
 *by Chesterton*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

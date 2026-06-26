@@ -26,8 +26,6 @@ tags:
   - setting/the_court
 ---
 
-# Four Beasts in One-The Homo-Cameleopard
-
 *by Poe*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 

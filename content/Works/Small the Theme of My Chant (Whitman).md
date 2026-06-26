@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# Small the Theme of My Chant
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Small the theme of my Chant, yet the greatest--namely, One’s-Self--
-      a simple, separate person. That, for the use of the New World, I sing.
-  Man’s physiology complete, from top to toe, I sing. Not physiognomy alone,
-      nor brain alone, is worthy for the Muse;--I say the Form complete
-      is worthier far. The Female equally with the Male, I sing.
-  Nor cease at the theme of One’s-Self. I speak the word of the
-      modern, the word En-Masse.
-  My Days I sing, and the Lands--with interstice I knew of hapless War.
-  (O friend, whoe’er you are, at last arriving hither to commence, I
-      feel through every leaf the pressure of your hand, which I return.
-  And thus upon our journey, footing the road, and more than once, and
-      link’d together let us go.)
+  Small the theme of my Chant, yet the greatest--namely, One’s-Self--  
+      a simple, separate person. That, for the use of the New World, I sing.  
+  Man’s physiology complete, from top to toe, I sing. Not physiognomy alone,  
+      nor brain alone, is worthy for the Muse;--I say the Form complete  
+      is worthier far. The Female equally with the Male, I sing.  
+  Nor cease at the theme of One’s-Self. I speak the word of the  
+      modern, the word En-Masse.  
+  My Days I sing, and the Lands--with interstice I knew of hapless War.  
+  (O friend, whoe’er you are, at last arriving hither to commence, I  
+      feel through every leaf the pressure of your hand, which I return.  
+  And thus upon our journey, footing the road, and more than once, and  
+      link’d together let us go.)  

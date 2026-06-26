@@ -14,8 +14,6 @@ tags:
   - motif/sleep
 ---
 
-# A Clear Midnight
-
 *by Whitman*  ·  **Cluster:** [[Stars · Night · Military Camp]]
 
 > [!abstract] 

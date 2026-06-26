@@ -18,8 +18,6 @@ tags:
   - topos/love_as_religion
 ---
 
-# rash vows
-
 *by Chesterton*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 

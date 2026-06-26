@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Twelve Types — THE POSITION OF SIR WALTER SCOTT (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Twelve-Types-(Chesterton)">Twelve Types</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Twelve_Types/Story_11_THE_POSITION_OF_SIR_WALTER_SCOTT/part_07">part 07 ›</a></div>

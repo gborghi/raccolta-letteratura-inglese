@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Madwoman · Great House
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

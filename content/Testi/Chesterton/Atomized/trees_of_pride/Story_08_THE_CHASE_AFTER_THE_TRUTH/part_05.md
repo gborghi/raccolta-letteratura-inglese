@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# trees of pride — THE CHASE AFTER THE TRUTH (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/trees-of-pride-(Chesterton)">trees of pride</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/trees_of_pride/Story_08_THE_CHASE_AFTER_THE_TRUTH/part_04">‹ part 04</a><span></span></div>

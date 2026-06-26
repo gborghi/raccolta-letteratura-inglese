@@ -25,8 +25,6 @@ tags:
   - setting/a_ship
 ---
 
-# Mellonta Tauta
-
 *by Poe*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

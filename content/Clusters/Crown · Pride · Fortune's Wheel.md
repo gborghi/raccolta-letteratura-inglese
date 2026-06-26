@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Crown · Pride · Fortune's Wheel
-
 *Cluster* — **25 works**.
 
 ## Defining concepts

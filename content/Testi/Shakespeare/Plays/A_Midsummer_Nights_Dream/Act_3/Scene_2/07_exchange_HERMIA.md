@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# A Midsummer Nights Dream — Act III, Scene 2 — exchange (HERMIA) [7]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/A-MIDSUMMER-NIGHT’S-DREAM-(Shakespeare)">A Midsummer Nights Dream</a></div>
 </nav>

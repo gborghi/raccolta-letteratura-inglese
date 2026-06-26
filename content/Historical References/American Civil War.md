@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# American Civil War
-
 *Historical reference* — appears in **38** work(s).
 
 ## Works

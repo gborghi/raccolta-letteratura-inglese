@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# As I Sit Writing Here
-
 *by Whitman*  ·  **Cluster:** [[Melancholy · Suffering · Pain and Suffering]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  As I sit writing here, sick and grown old,
-  Not my least burden is that dulness of the years, querilities,
-  Ungracious glooms, aches, lethargy, constipation, whimpering ennui,
-  May filter in my dally songs.
+  As I sit writing here, sick and grown old,  
+  Not my least burden is that dulness of the years, querilities,  
+  Ungracious glooms, aches, lethargy, constipation, whimpering ennui,  
+  May filter in my dally songs.  

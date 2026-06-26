@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 48: RELATES HOW MR. PICKWICK, WITH THE ASSISTANCE OF SAMUEL (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_50_RELATES_HOW_MR_PICKWICK_WITH_T/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_51_CONTAINING_THE_STORY_OF_THE_BA/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER V—SEVEN DIALS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_13_HAPTER_IVSCOTLAND_YARD">‹ Story 13 HAPTER IVSCOTLAND YARD</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_15_HAPTER_VIMEDITATIONS_IN_MONMOUTH_STREET">Story 15 HAPTER VIMEDITATIONS IN MONMOUTH STREET ›</a></div>

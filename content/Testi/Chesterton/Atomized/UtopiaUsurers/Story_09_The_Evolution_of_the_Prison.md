@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# UtopiaUsurers — The Evolution of the Prison
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/UtopiaUsurers-(Chesterton)">UtopiaUsurers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_08_Science_and_the_Eugenists">‹ Story 08 Science and the Eugenists</a><a class="ex-next" href="/Testi/Chesterton/Atomized/UtopiaUsurers/Story_10_The_Lash_for_Labour">Story 10 The Lash for Labour ›</a></div>

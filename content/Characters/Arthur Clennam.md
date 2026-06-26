@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Arthur Clennam
-
 *Character* — appears in **1** work(s).
 
 ## Works

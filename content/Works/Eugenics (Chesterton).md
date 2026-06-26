@@ -18,8 +18,6 @@ tags:
   - form/essay
 ---
 
-# Eugenics
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

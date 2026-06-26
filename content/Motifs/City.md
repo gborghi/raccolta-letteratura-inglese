@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# City
-
 *Motif* — appears in **81** work(s).
 
 ## Works

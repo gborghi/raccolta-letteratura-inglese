@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Hop-Frog (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Hop-Frog-(Poe)">Hop Frog</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Hop_Frog/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Hop_Frog/part/part_04">part 04 ›</a></div>

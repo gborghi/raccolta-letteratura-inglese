@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Ship
-
 *Motif* — appears in **16** work(s).
 
 ## Works

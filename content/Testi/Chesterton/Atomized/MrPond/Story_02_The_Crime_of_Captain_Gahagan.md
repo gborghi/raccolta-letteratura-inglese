@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# MrPond — The Crime of Captain Gahagan
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/MrPond-(Chesterton)">MrPond</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/MrPond/Story_01_The_Three_Horsemen_of_Apocalypse">‹ Story 01 The Three Horsemen of Apocalypse</a><a class="ex-next" href="/Testi/Chesterton/Atomized/MrPond/Story_03_When_Doctors_Agree">Story 03 When Doctors Agree ›</a></div>

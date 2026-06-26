@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 </nav>

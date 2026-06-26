@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Death · Silence · Bells
-
 *Cluster* — **77 works**.
 
 ## Defining concepts

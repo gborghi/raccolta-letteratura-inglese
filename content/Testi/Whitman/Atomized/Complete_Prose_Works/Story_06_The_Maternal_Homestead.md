@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Maternal Homestead
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_05_The_Old_Whitman_and_Van_Velsor_Cemeterie">‹ Story 05 The Old Whitman and Van Velsor Cemeterie</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_07_Old_Family_Interiors">Story 07 Old Family Interiors ›</a></div>

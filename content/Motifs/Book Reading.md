@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Book / Reading
-
 *Motif* — appears in **74** work(s).
 
 ## Works

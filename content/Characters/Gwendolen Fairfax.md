@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Gwendolen Fairfax
-
 *Character* — appears in **1** work(s).
 
 ## Works

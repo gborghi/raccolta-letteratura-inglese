@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — Is HUMANISM A RELIGION?
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_01_INTRODUCTION">‹ Story 01 INTRODUCTION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_03_THE_DRIFT_FROM_DOMESTICITY">Story 03 THE DRIFT FROM DOMESTICITY ›</a></div>

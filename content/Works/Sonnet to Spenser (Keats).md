@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet to Spenser
-
 *by Keats*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -34,17 +32,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Spenser! a jealous honourer of thine,
-A forester deep in thy midmost trees,
-Did last eve ask my promise to refine
-Some English that might strive thine ear to please.
-But Elfin Poet ’tis impossible
-For an inhabitant of wintry earth
-To rise like Phoebus with a golden quell
-Fire-wing’d and make a morning in his mirth.
-It is impossible to escape from toil
-O’ the sudden and receive thy spiriting:  10
-The flower must drink the nature of the soil
-Before it can put forth its blossoming:
-Be with me in the summer days and I
-Will for thine honour and his pleasure try.
+Spenser! a jealous honourer of thine,  
+A forester deep in thy midmost trees,  
+Did last eve ask my promise to refine  
+Some English that might strive thine ear to please.  
+But Elfin Poet ’tis impossible  
+For an inhabitant of wintry earth  
+To rise like Phoebus with a golden quell  
+Fire-wing’d and make a morning in his mirth.  
+It is impossible to escape from toil  
+O’ the sudden and receive thy spiriting:  10  
+The flower must drink the nature of the soil  
+Before it can put forth its blossoming:  
+Be with me in the summer days and I  
+Will for thine honour and his pleasure try.  

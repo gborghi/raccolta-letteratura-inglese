@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — The Epitaph Of Pierpont Morgan
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_35_Concerning_A_Strange_City">‹ Story 35 Concerning A Strange City</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_37_The_New_Bigotry">Story 37 The New Bigotry ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Macavity
-
 *Character* — appears in **1** work(s).
 
 ## Works

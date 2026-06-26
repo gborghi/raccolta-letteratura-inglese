@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Shirley Keeldar
-
 *Character* — appears in **1** work(s).
 
 ## Works

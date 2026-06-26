@@ -22,8 +22,6 @@ tags:
   - setting/italy
 ---
 
-# Robert Browning
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

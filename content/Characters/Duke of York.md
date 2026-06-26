@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Duke of York
-
 *Character* — appears in **4** work(s).
 
 ## Works

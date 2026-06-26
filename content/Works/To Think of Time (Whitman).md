@@ -18,8 +18,6 @@ tags:
   - concept/faith
 ---
 
-# To Think of Time
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

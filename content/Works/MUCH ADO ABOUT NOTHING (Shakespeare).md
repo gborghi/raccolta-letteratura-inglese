@@ -33,8 +33,6 @@ tags:
   - character/leonato
 ---
 
-# MUCH ADO ABOUT NOTHING
-
 *by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 

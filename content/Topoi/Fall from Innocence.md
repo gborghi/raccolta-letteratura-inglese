@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Fall from Innocence
-
 *Topos* — appears in **36** work(s).
 
 ## Works

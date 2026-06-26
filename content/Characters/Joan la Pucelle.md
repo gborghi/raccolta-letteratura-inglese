@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Joan la Pucelle
-
 *Character* — appears in **1** work(s).
 
 ## Works

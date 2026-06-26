@@ -44,8 +44,6 @@ tags:
   - character/mrs_otis
 ---
 
-# The Canterville Ghost
-
 *by Wilde*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 

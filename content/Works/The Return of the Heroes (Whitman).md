@@ -16,8 +16,6 @@ tags:
   - histref/american_civil_war
 ---
 
-# The Return of the Heroes
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 

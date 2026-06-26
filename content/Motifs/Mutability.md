@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Mutability
-
 *Motif* — appears in **25** work(s).
 
 ## Works

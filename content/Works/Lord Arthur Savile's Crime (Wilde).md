@@ -43,8 +43,6 @@ tags:
   - character/lady_windermere
 ---
 
-# Lord Arthur Savile's Crime
-
 *by Wilde*  ·  **Cluster:** [[City · London · Theatrum Mundi]]
 
 > [!abstract] 

@@ -17,8 +17,6 @@ tags:
   - form/short_story
 ---
 
-# The Unparalleled Adventures of one Hans Pfaall
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

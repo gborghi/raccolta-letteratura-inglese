@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Hard Times — Part 76: it was consented that Sissy and Louisa should repair to the place in
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Hard-Times-(Dickens)">Hard Times</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_75">‹ Chapter 75</a><a class="ex-next" href="/Testi/Dickens/Atomized/Hard_Times/Chapter_77">Chapter 77 ›</a></div>

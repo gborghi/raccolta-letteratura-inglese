@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Fire
-
 *Motif* — appears in **96** work(s).
 
 ## Works

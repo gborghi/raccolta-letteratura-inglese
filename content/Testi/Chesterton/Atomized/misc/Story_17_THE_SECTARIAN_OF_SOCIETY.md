@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# misc — THE SECTARIAN OF SOCIETY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/misc-(Chesterton)">misc</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/misc/Story_16_THE_SENTIMENTAL_SCOT">‹ Story 16 THE SENTIMENTAL SCOT</a><a class="ex-next" href="/Testi/Chesterton/Atomized/misc/Story_18_THE_FOOL">Story 18 THE FOOL ›</a></div>

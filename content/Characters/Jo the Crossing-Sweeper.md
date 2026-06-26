@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Jo the Crossing-Sweeper
-
 *Character* — appears in **1** work(s).
 
 ## Works

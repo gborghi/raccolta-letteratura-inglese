@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Villette — Chapter 26
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Villette-(Bronte)">Villette</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Villette/Chapter_26_some_illustrated_work_of_natur">‹ Chapter 26 some illustrated work of natur</a><a class="ex-next" href="/Testi/Bronte/Atomized/Villette/Chapter_28">Chapter 28 ›</a></div>

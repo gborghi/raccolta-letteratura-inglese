@@ -14,8 +14,6 @@ tags:
   - setting/america
 ---
 
-# As the Time Draws Nigh
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 

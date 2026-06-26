@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Barnaby Rudge
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Barnaby-Rudge-(Dickens)">Barnaby Rudge</a></div>
 </nav>

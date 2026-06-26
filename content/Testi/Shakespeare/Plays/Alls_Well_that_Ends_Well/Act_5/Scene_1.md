@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Alls Well that Ends Well — Act V, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ALL’S-WELL-THAT-ENDS-WELL-(Shakespeare)">Alls Well that Ends Well</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_4/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Alls_Well_that_Ends_Well/Act_5/Scene_2">Scene 2 ›</a></div>

@@ -16,8 +16,6 @@ tags:
   - concept/marriage_and_fidelity
 ---
 
-# HOME-SICK
-
 *by Coleridge*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
@@ -32,21 +30,21 @@ tags:
 
 ## Testo integrale / Full text
 
-WRITTEN IN GERMANY
-‘Tis sweet to him who all the week
-Through city-crowds must push his way,
-To stroll alone through fields and woods,
-And hallow thus the Sabbath-day.
-And sweet it is, in summer bower,   5
-Sincere, affectionate and gay,
-One’s own dear children feasting round,
-To celebrate one’s marriage-day.
-But what is all to his delight,
-Who having long been doomed to roam,   10
-Throws off the bundle from his back,
-Before the door of his own home?
-Home-sickness is a wasting pang;
-This feel I hourly more and more:
-There’s healing only in thy wings,   15
-Thou breeze that play’st on Albion’s shore!
-May 6, 1799.
+WRITTEN IN GERMANY  
+‘Tis sweet to him who all the week  
+Through city-crowds must push his way,  
+To stroll alone through fields and woods,  
+And hallow thus the Sabbath-day.  
+And sweet it is, in summer bower,   5  
+Sincere, affectionate and gay,  
+One’s own dear children feasting round,  
+To celebrate one’s marriage-day.  
+But what is all to his delight,  
+Who having long been doomed to roam,   10  
+Throws off the bundle from his back,  
+Before the door of his own home?  
+Home-sickness is a wasting pang;  
+This feel I hourly more and more:  
+There’s healing only in thy wings,   15  
+Thou breeze that play’st on Albion’s shore!  
+May 6, 1799.  

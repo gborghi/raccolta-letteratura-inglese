@@ -17,8 +17,6 @@ tags:
   - character/death_personified
 ---
 
-# shop-of-ghosts
-
 *by Chesterton*  ·  **Cluster:** [[Ghosts · Ghost · Death and Love]]
 
 > [!abstract] 

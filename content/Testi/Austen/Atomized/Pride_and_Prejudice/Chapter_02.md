@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_01">‹ Chapter 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_03">Chapter 03 ›</a></div>

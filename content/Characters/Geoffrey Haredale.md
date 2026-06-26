@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Geoffrey Haredale
-
 *Character* — appears in **1** work(s).
 
 ## Works

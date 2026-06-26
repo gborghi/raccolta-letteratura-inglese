@@ -18,8 +18,6 @@ tags:
   - concept/honour
 ---
 
-# Sonnet 25
-
 *by Shakespeare*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 
@@ -34,19 +32,19 @@ tags:
 
 ## Testo integrale / Full text
 
-Let those who are in favour with their stars 
-Of public honour and proud titles boast, 
-Whilst I, whom fortune of such triumph bars, 
-Unlooked-for joy in that I honour most. 
-Great princes’ favourites their fair leaves spread 
-But as the marigold at the sun’s eye, 
-And in themselves their pride lies buried, 
-For at a frown they in their glory die. 
-The painful warrior famousèd for might, 
-After a thousand victories once foiled 
-Is from the book of honour razed quite, 
-And all the rest forgot for which he toiled.
+Let those who are in favour with their stars  
+Of public honour and proud titles boast,  
+Whilst I, whom fortune of such triumph bars,  
+Unlooked-for joy in that I honour most.  
+Great princes’ favourites their fair leaves spread  
+But as the marigold at the sun’s eye,  
+And in themselves their pride lies buried,  
+For at a frown they in their glory die.  
+The painful warrior famousèd for might,  
+After a thousand victories once foiled  
+Is from the book of honour razed quite,  
+And all the rest forgot for which he toiled.  
 
-Then happy I, that love and am beloved
+Then happy I, that love and am beloved  
 
-Where I may not remove nor be removed.
+Where I may not remove nor be removed.  

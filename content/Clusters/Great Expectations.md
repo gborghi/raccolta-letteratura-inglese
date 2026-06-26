@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Great Expectations
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — If Don John Of Austria Had Married Mary Queen Of Scots (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary/part_04">part 04 ›</a></div>

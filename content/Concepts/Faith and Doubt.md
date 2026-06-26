@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Faith and Doubt
-
 *Theme/Concept* — appears in **137** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — OACH-HOUSE, PIG AND TINDER-BOX.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_65_HAPTER_XIITHE_DRUNKARDS_DEATH">‹ Story 65 HAPTER XIITHE DRUNKARDS DEATH</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_67_OACH_HOUSE_ORIGINAL_PIG">Story 67 OACH HOUSE ORIGINAL PIG ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — William Penn and his Royalist Friends
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_33_The_Unknown_Warrior">‹ Story 33 The Unknown Warrior</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_35_ON_LITERATURE">Story 35 ON LITERATURE ›</a></div>

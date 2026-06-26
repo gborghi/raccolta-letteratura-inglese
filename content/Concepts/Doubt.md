@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Doubt
-
 *Theme/Concept* — appears in **94** work(s).
 
 ## Works

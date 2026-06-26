@@ -31,8 +31,6 @@ tags:
   - setting/the_court
 ---
 
-# ZAPOLYA A CHRISTMAS TALE IN TWO PARTS
-
 *by Coleridge*  ·  **Cluster:** [[Crown · Pride · Fortune's Wheel]]
 
 > [!abstract] 

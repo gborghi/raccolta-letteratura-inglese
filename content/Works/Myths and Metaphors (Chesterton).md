@@ -17,8 +17,6 @@ tags:
   - motif/dawn
 ---
 
-# Myths and Metaphors
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

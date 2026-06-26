@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER IV—THE ELECTION FOR BEADLE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_04_HAPTER_IIITHE_FOUR_SISTERS">‹ Story 04 HAPTER IIITHE FOUR SISTERS</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_06_HAPTER_VTHE_BROKERS_MAN">Story 06 HAPTER VTHE BROKERS MAN ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 28
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_27">‹ Chapter 27</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_29">Chapter 29 ›</a></div>

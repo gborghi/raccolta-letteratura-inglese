@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Court
-
 *Setting* — appears in **37** work(s).
 
 ## Works

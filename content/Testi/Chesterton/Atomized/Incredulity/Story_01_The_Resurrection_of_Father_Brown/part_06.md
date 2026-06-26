@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Incredulity — The Resurrection of Father Brown (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Incredulity-(Chesterton)">Incredulity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Incredulity/Story_01_The_Resurrection_of_Father_Brown/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Incredulity/Story_02_The_Arrow_of_Heaven/part_01">part 01 ›</a></div>

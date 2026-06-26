@@ -24,8 +24,6 @@ tags:
   - histref/ancient_rome
 ---
 
-# Silence-A Fable
-
 *by Poe*  ·  **Cluster:** [[Temptation · Good vs Evil · Serpent Snake]]
 
 > [!abstract] 

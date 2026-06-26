@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Tremendous Trifles — Chapter 15
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Tremendous-Trifles-(Chesterton)">Tremendous Trifles</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Tremendous_Trifles/Chapter_15">‹ Chapter 15</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Tremendous_Trifles/Chapter_17">Chapter 17 ›</a></div>

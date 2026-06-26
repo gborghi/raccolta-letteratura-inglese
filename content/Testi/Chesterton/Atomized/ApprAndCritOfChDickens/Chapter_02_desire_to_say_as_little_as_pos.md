@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ApprAndCritOfChDickens — Book 1: desire to say as little as possible; I will discuss any other
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_01_PAGE">‹ Chapter 01 PAGE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are">Chapter 03 celebrated characters who are ›</a></div>

@@ -25,8 +25,6 @@ tags:
   - form/satire
 ---
 
-# Don Quixote
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

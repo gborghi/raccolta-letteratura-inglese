@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 12: LIKING LIFE ON MY OWN ACCOUNT NO BETTER, I FORM A GREAT
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_11_I_BEGIN_LIFE_ON_MY_OWN_ACCOUNT">‹ Chapter 11 I BEGIN LIFE ON MY OWN ACCOUNT</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_13_THE_SEQUEL_OF_MY_RESOLUTION">Chapter 13 THE SEQUEL OF MY RESOLUTION ›</a></div>

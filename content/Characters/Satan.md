@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Satan
-
 *Character* — appears in **19** work(s).
 
 ## Works

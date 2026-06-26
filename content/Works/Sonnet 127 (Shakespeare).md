@@ -17,8 +17,6 @@ tags:
   - archetype/fallen_woman
 ---
 
-# Sonnet 127
-
 *by Shakespeare*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-In the old age black was not counted fair, 
-Or if it were, it bore not beauty’s name; 
-But now is black beauty’s successive heir, 
-And beauty slandered with a bastard shame: 
-For since each hand hath put on nature’s power, 
-Fairing the foul with art’s false borrowed face, 
-Sweet beauty hath no name, no holy bower, 
-But is profaned, if not lives in disgrace. 
-Therefore my mistress’ eyes are raven-black, 
-Her brow so suited, and they mourners seem 
-At such who, not born fair, no beauty lack, 
-Sland’ring creation with a false esteem. 
-Yet so they mourn, becoming of their woe, 
-That every tongue says beauty should look so.
+In the old age black was not counted fair,  
+Or if it were, it bore not beauty’s name;  
+But now is black beauty’s successive heir,  
+And beauty slandered with a bastard shame:  
+For since each hand hath put on nature’s power,  
+Fairing the foul with art’s false borrowed face,  
+Sweet beauty hath no name, no holy bower,  
+But is profaned, if not lives in disgrace.  
+Therefore my mistress’ eyes are raven-black,  
+Her brow so suited, and they mourners seem  
+At such who, not born fair, no beauty lack,  
+Sland’ring creation with a false esteem.  
+Yet so they mourn, becoming of their woe,  
+That every tongue says beauty should look so.  

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The English Way
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_108_The_Englishman_S_Religion">‹ Story 108 The Englishman S Religion</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_110_High_Or_Low">Story 110 High Or Low ›</a></div>

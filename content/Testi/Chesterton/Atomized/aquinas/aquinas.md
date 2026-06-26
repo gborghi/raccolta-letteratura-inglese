@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# aquinas
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/aquinas-(Chesterton)">aquinas</a></div>
 </nav>

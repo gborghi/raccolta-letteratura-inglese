@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Lyric
-
 *Form/Genre* — appears in **994** work(s).
 
 ## Works

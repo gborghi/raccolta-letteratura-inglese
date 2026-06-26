@@ -14,8 +14,6 @@ tags:
   - concept/deception
 ---
 
-# ON A REPORT OF A MINISTER’S DEATH
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,21 +26,21 @@ tags:
 
 ## Testo integrale / Full text
 
-WRITTEN IN GERMANY
-Last Monday all the Papers said
-That Mr. —— was dead;
-Why, then, what said the City?
-The tenth part sadly shook their head,
-And shaking sigh’d and sighing said,
-‘Pity, indeed, ‘tis pity!’
-But when the said report was found
-A rumour wholly without ground,
-Why, then, what said the city?
-The other nine parts shook their head,
-Repeating what the tenth had said,
-‘Pity, indeed, ‘tis pity!’
-First published in Morning Post, Sept. 18, 1799. Included in
-Keepsake, 1829, p. 122; Lit. Rem., i. 46. First collected P. and D.
-W., 1877, ii. 166. Adapted from Lessing’s Sinngedicht No. 29. Auf
-den falschen Ruf von Nigrins Tode. ‘Es sagte, sonder alle Gnade, die
-ganze Stadt Nigrinen tot.’
+WRITTEN IN GERMANY  
+Last Monday all the Papers said  
+That Mr. —— was dead;  
+Why, then, what said the City?  
+The tenth part sadly shook their head,  
+And shaking sigh’d and sighing said,  
+‘Pity, indeed, ‘tis pity!’  
+But when the said report was found  
+A rumour wholly without ground,  
+Why, then, what said the city?  
+The other nine parts shook their head,  
+Repeating what the tenth had said,  
+‘Pity, indeed, ‘tis pity!’  
+First published in Morning Post, Sept. 18, 1799. Included in  
+Keepsake, 1829, p. 122; Lit. Rem., i. 46. First collected P. and D.  
+W., 1877, ii. 166. Adapted from Lessing’s Sinngedicht No. 29. Auf  
+den falschen Ruf von Nigrins Tode. ‘Es sagte, sonder alle Gnade, die  
+ganze Stadt Nigrinen tot.’  

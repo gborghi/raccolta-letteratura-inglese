@@ -16,8 +16,6 @@ tags:
   - motif/ruins
 ---
 
-# Sonnet 125
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Were’t aught to me I bore the canopy, 
-With my extern the outward honouring, 
-Or laid great bases for eternity 
-Which proves more short than waste or ruining? 
-Have I not seen dwellers on form and favour 
-Lose all and more by paying too much rent, 
-For compound sweet forgoing simple savour, 
-Pitiful thrivers in their gazing spent? 
-No, let me be obsequious in thy heart, 
-And take thou my oblation, poor but free, 
-Which is not mixed with seconds, knows no art 
-But mutual render, only me for thee. 
-Hence, thou suborned informer! A true soul 
-When most impeached stands least in thy control.
+Were’t aught to me I bore the canopy,  
+With my extern the outward honouring,  
+Or laid great bases for eternity  
+Which proves more short than waste or ruining?  
+Have I not seen dwellers on form and favour  
+Lose all and more by paying too much rent,  
+For compound sweet forgoing simple savour,  
+Pitiful thrivers in their gazing spent?  
+No, let me be obsequious in thy heart,  
+And take thou my oblation, poor but free,  
+Which is not mixed with seconds, knows no art  
+But mutual render, only me for thee.  
+Hence, thou suborned informer! A true soul  
+When most impeached stands least in thy control.  

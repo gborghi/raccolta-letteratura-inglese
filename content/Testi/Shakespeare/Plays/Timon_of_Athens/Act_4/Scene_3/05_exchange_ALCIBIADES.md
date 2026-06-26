@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Timon of Athens — Act IV, Scene 3 — exchange (ALCIBIADES) [5]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
 </nav>

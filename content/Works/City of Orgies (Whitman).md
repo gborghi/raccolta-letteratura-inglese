@@ -14,8 +14,6 @@ tags:
   - setting/the_modern_metropolis
 ---
 
-# City of Orgies
-
 *by Whitman*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 

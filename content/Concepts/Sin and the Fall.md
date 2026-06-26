@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Sin and the Fall
-
 *Theme/Concept* — appears in **60** work(s).
 
 ## Works

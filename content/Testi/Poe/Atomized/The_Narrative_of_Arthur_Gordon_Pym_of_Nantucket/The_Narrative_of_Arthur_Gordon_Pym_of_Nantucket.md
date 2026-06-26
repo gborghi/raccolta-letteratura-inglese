@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of Arthur Gordon Pym of Nantucket
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-Arthur-Gordon-Pym-of-Nantucket-(Poe)">The Narrative of Arthur Gordon Pym of Nantucket</a></div>
 </nav>

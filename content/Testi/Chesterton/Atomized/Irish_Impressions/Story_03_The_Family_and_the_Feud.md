@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — The Family and the Feud
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_02_The_Root_of_Reality">‹ Story 02 The Root of Reality</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_04_The_Paradox_of_Labour">Story 04 The Paradox of Labour ›</a></div>

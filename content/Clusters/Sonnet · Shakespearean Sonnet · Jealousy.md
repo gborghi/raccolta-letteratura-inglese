@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Sonnet · Shakespearean Sonnet · Jealousy
-
 *Cluster* — **99 works**.
 
 ## Defining concepts

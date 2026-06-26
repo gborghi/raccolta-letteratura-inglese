@@ -14,8 +14,6 @@ tags:
   - motif/light_and_dark
 ---
 
-# AN EXPERIMENT FOR A METRE
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -29,17 +27,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Ø Ø ¯, Ø Ø ¯
-Ø Ø ¯, Ø Ø ¯
-Ø ¯ }
-¯ Ø ¯ } Ø Ø ¯; Ø Ø ¯, Ø Ø ¯,
-Ø ¯  }
-¯ Ø ¯  } Ø Ø ¯, Ø Ø ¯, Ø Ø ¯
-Ø ¯ }
-Ø Ø ¯ } Ø Ø ¯, Ø Ø ¯
-When thy Beauty appears,
-In its graces and airs,
-All bright as an Angel new dight from the Sky,
-At distance I gaze, and am awed by my fears,
-So strangely you dazzle my Eye.
-Now first published from an MS.
+Ø Ø ¯, Ø Ø ¯  
+Ø Ø ¯, Ø Ø ¯  
+Ø ¯ }  
+¯ Ø ¯ } Ø Ø ¯; Ø Ø ¯, Ø Ø ¯,  
+Ø ¯  }  
+¯ Ø ¯  } Ø Ø ¯, Ø Ø ¯, Ø Ø ¯  
+Ø ¯ }  
+Ø Ø ¯ } Ø Ø ¯, Ø Ø ¯  
+When thy Beauty appears,  
+In its graces and airs,  
+All bright as an Angel new dight from the Sky,  
+At distance I gaze, and am awed by my fears,  
+So strangely you dazzle my Eye.  
+Now first published from an MS.  

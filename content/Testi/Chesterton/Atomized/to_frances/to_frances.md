@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# to-frances
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/to-frances-(Chesterton)">to frances</a></div>
 </nav>

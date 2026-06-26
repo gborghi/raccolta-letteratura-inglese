@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Narrative of A. Gordon Pym (Raven Edition) — Chapter 25 (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Narrative-of-A.-Gordon-Pym-(Raven-Edition)-(Poe)">The Narrative of A Gordon Pym Raven Edition</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_25/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Narrative_of_A_Gordon_Pym_Raven_Edition/Chapter_25/part_09">part 09 ›</a></div>

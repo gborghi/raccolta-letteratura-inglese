@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — I mean, it's easy to say you've thrown it in, because it might be
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin">‹ Story 08 The Point of a Pin</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_10_The_Insoluble_Problem">Story 10 The Insoluble Problem ›</a></div>

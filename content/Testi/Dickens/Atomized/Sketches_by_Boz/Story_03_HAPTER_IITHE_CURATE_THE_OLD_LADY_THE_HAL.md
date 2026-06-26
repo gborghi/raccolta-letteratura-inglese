@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER II—THE CURATE. THE OLD LADY. THE HALF-PAY CAPTAIN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_02_HAPTER_ITHE_BEADLE_THE_PARISH_ENGINE_THE">‹ Story 02 HAPTER ITHE BEADLE THE PARISH ENGINE THE</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_04_HAPTER_IIITHE_FOUR_SISTERS">Story 04 HAPTER IIITHE FOUR SISTERS ›</a></div>

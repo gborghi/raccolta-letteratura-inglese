@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Eugenics
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Eugenics-(Chesterton)">Eugenics</a></div>
 </nav>

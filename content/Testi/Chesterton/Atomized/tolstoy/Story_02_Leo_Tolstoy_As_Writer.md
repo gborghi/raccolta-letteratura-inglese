@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# tolstoy — Leo Tolstoy As Writer
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/tolstoy-(Chesterton)">tolstoy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/tolstoy/Story_01_Tolstoy">‹ Story 01 Tolstoy</a><a class="ex-next" href="/Testi/Chesterton/Atomized/tolstoy/Story_03_G_H_Perris">Story 03 G H Perris ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_18_THE_DISEASE_OF_DUODIAPSYCHOSIS/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_18_THE_DISEASE_OF_DUODIAPSYCHOSIS/part_03">part 03 ›</a></div>

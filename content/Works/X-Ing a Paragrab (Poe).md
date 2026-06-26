@@ -15,8 +15,6 @@ tags:
   - form/short_story
 ---
 
-# X-Ing a Paragrab
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

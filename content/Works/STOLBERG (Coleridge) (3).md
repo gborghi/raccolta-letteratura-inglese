@@ -16,8 +16,6 @@ tags:
   - motif/music_and_song
 ---
 
-# STOLBERG
-
 *by Coleridge*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-‘An das Meer.’
-Der blinde Sänger stand am Meer,
-Die Wogen rauschten um ihn her,
-Und Riesenthaten goldner Zeit
-Umrauschten ihn im Feierkleid.
-Es kam zu ihm auf Schwanenschwung   5
-Melodisch die Begeisterung,
-Und Iliad und Odyssee
-Entsteigen mit Gesang der See.
-The German original is printed in the Notes to P. W., 1893, p. 639.
-See, too, Prefatory Memoir to the Tauchnitz edition of Coleridge’s
-Poems, by P. Freiligrath (1852).
+‘An das Meer.’  
+Der blinde Sänger stand am Meer,  
+Die Wogen rauschten um ihn her,  
+Und Riesenthaten goldner Zeit  
+Umrauschten ihn im Feierkleid.  
+Es kam zu ihm auf Schwanenschwung   5  
+Melodisch die Begeisterung,  
+Und Iliad und Odyssee  
+Entsteigen mit Gesang der See.  
+The German original is printed in the Notes to P. W., 1893, p. 639.  
+See, too, Prefatory Memoir to the Tauchnitz edition of Coleridge’s  
+Poems, by P. Freiligrath (1852).  

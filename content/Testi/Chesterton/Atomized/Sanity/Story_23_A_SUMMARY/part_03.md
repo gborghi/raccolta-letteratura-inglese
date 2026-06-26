@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — A SUMMARY (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_23_A_SUMMARY/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_23_A_SUMMARY/part_04">part 04 ›</a></div>

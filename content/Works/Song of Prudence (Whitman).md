@@ -15,8 +15,6 @@ tags:
   - topos/eternal_return
 ---
 
-# Song of Prudence
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

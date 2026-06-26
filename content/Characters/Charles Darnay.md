@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Charles Darnay
-
 *Character* — appears in **1** work(s).
 
 ## Works

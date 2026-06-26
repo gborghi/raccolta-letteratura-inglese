@@ -15,8 +15,6 @@ tags:
   - histref/greek_mythology
 ---
 
-# Oh, I am frighten’d with most hateful thoughts!
-
 *by Keats*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -30,13 +28,13 @@ tags:
 
 ## Testo integrale / Full text
 
-Oh, I am frighten’d with most hateful thoughts!
-Perhaps her voice is not a nightingale’s,
-Perhaps her teeth are not the fairest pearl;
-Her eye-lashes may be, for aught I know,
-Not longer than the mayfly’s small fan-horns;
-There may not be one dimple on her hand;
-And freckles many; ah! a careless nurse,
-In haste to teach the little thing to walk,
-May have crumpt2 up a pair of Dian’s legs,
-And warpt the ivory of a Juno’s neck.
+Oh, I am frighten’d with most hateful thoughts!  
+Perhaps her voice is not a nightingale’s,  
+Perhaps her teeth are not the fairest pearl;  
+Her eye-lashes may be, for aught I know,  
+Not longer than the mayfly’s small fan-horns;  
+There may not be one dimple on her hand;  
+And freckles many; ah! a careless nurse,  
+In haste to teach the little thing to walk,  
+May have crumpt2 up a pair of Dian’s legs,  
+And warpt the ivory of a Juno’s neck.  

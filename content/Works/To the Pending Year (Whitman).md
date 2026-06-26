@@ -15,8 +15,6 @@ tags:
   - form/free_verse
 ---
 
-# To the Pending Year
-
 *by Whitman*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Have I no weapon-word for thee--some message brief and fierce?
-  (Have I fought out and done indeed the battle?) Is there no shot left,
-  For all thy affectations, lisps, scorns, manifold silliness?
-  Nor for myself--my own rebellious self in thee?
+  Have I no weapon-word for thee--some message brief and fierce?  
+  (Have I fought out and done indeed the battle?) Is there no shot left,  
+  For all thy affectations, lisps, scorns, manifold silliness?  
+  Nor for myself--my own rebellious self in thee?  
 
-  Down, down, proud gorge!--though choking thee;
-  Thy bearded throat and high-borne forehead to the gutter;
-  Crouch low thy neck to eleemosynary gifts.
+  Down, down, proud gorge!--though choking thee;  
+  Thy bearded throat and high-borne forehead to the gutter;  
+  Crouch low thy neck to eleemosynary gifts.  

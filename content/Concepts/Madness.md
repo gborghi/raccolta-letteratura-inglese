@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Madness
-
 *Theme/Concept* — appears in **56** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# Lord Arthur Savile's Crime
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/Lord-Arthur-Savile's-Crime-(Wilde)">020 Lord Arthur Saviles Crime</a></div>
 </nav>

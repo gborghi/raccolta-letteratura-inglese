@@ -18,8 +18,6 @@ tags:
   - histref/catholic_church
 ---
 
-# Christianity and Rationalism
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

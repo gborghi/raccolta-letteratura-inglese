@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE BOY WHO MADE A SCENE (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_05_THE_BOY_WHO_MADE_A_SCENE/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_07_EDIATELY_after_leaving_the_little_garden/part_01">part 01 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Identity
-
 *Theme/Concept* — appears in **167** work(s).
 
 ## Works

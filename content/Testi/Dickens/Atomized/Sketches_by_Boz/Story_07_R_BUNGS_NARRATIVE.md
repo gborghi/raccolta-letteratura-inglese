@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — R BUNG’S NARRATIVE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_06_HAPTER_VTHE_BROKERS_MAN">‹ Story 06 HAPTER VTHE BROKERS MAN</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_08_HAPTER_VITHE_LADIES_SOCIETIES">Story 08 HAPTER VITHE LADIES SOCIETIES ›</a></div>

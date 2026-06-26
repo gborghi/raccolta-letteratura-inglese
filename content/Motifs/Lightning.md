@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Lightning
-
 *Motif* — appears in **2** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Agnes Grey — Chapter 14
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Agnes-Grey-(Bronte)">Agnes Grey</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_13">‹ Chapter 13</a><a class="ex-next" href="/Testi/Bronte/Atomized/Agnes_Grey/Chapter_15_ll_come_and_meet_you_when_Ive">Chapter 15 ll come and meet you when Ive ›</a></div>

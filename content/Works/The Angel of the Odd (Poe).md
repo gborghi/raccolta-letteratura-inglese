@@ -22,8 +22,6 @@ tags:
   - form/satire
 ---
 
-# The Angel of the Odd
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

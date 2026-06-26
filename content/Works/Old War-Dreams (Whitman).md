@@ -15,8 +15,6 @@ tags:
   - setting/the_battlefield
 ---
 
-# Old War-Dreams
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

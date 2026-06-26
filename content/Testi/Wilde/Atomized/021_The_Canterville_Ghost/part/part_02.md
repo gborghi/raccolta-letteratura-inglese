@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Canterville Ghost (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Canterville-Ghost-(Wilde)">021 The Canterville Ghost</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Wilde/Atomized/021_The_Canterville_Ghost/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Wilde/Atomized/021_The_Canterville_Ghost/part/part_03">part 03 ›</a></div>

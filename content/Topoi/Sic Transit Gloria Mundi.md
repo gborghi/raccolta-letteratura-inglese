@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Sic Transit Gloria Mundi
-
 *Topos* — appears in **27** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The British Beech
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_25_Salute_to_New_York">‹ Story 25 Salute to New York</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_27_Public_Monuments">Story 27 Public Monuments ›</a></div>

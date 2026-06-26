@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 6: The Father of the Marshalsea
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_08_Family_Affairs">‹ Chapter 08 Family Affairs</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_10_The_Child_of_the_Marshalsea">Chapter 10 The Child of the Marshalsea ›</a></div>

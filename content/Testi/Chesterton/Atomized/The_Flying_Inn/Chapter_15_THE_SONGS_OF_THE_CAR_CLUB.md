@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 15: THE SONGS OF THE CAR CLUB
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_14_THE_CREATURE_THAT_MAN_FORGETS">‹ Chapter 14 THE CREATURE THAT MAN FORGETS</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_16_THE_SEVEN_MOODS_OF_DORIAN">Chapter 16 THE SEVEN MOODS OF DORIAN ›</a></div>

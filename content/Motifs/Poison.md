@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Poison
-
 *Motif* — appears in **4** work(s).
 
 ## Works

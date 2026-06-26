@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Christmas Carol — Stave 5: THE END OF IT (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Christmas-Carol-(Dickens)">A Christmas Carol</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_04_THE_LAST_OF_THE_SPIRITS/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Christmas_Carol/Chapter_05_THE_END_OF_IT/part_02">part 02 ›</a></div>

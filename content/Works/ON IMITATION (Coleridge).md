@@ -14,8 +14,6 @@ tags:
   - concept/temptation
 ---
 
-# ON IMITATION
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -29,12 +27,12 @@ tags:
 
 ## Testo integrale / Full text
 
-All are not born to soar — and ah! how few
-In tracks where Wisdom leads their paths pursue!
-Contagious when to wit or wealth allied,
-Folly and Vice diffuse their venom wide.
-On Folly every fool his talent tries;   5
-It asks some toil to imitate the wise;
-Tho’ few like Fox can speak — like Pitt can think —
-Yet all like Fox can game — like Pitt can drink.
-?    1791
+All are not born to soar — and ah! how few  
+In tracks where Wisdom leads their paths pursue!  
+Contagious when to wit or wealth allied,  
+Folly and Vice diffuse their venom wide.  
+On Folly every fool his talent tries;   5  
+It asks some toil to imitate the wise;  
+Tho’ few like Fox can speak — like Pitt can think —  
+Yet all like Fox can game — like Pitt can drink.  
+?    1791  

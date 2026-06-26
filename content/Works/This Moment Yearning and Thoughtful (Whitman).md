@@ -13,8 +13,6 @@ tags:
   - concept/love_romantic
 ---
 
-# This Moment Yearning and Thoughtful
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

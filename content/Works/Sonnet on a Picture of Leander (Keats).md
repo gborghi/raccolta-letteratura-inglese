@@ -18,8 +18,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet on a Picture of Leander
-
 *by Keats*  ·  **Cluster:** [[Sea · Water · Sea]]
 
 > [!abstract] 
@@ -36,17 +34,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Come hither all sweet maidens soberly,
-Down-looking aye, and with a chasten’d light,
-Hid in the fringes of your eyelids white,
-And meekly let your fair hands joined be,
-As if so gentle that ye could not see,
-Untouch’d, a victim of your beauty bright,
-Sinking away to his young spirit’s night, -
-Sinking bewilder’d ‘mid the dreary sea:
-’Tis young Leander toiling to his death;
-Nigh swooning, he doth purse his weary lips
-For Hero’s cheek, and smiles against her smile.
-O horrid dream! see how his body dips
-Dead-heavy; arms and shoulders gleam awhile:
-He’s gone: up bubbles all his amorous breath!
+Come hither all sweet maidens soberly,  
+Down-looking aye, and with a chasten’d light,  
+Hid in the fringes of your eyelids white,  
+And meekly let your fair hands joined be,  
+As if so gentle that ye could not see,  
+Untouch’d, a victim of your beauty bright,  
+Sinking away to his young spirit’s night, -  
+Sinking bewilder’d ‘mid the dreary sea:  
+’Tis young Leander toiling to his death;  
+Nigh swooning, he doth purse his weary lips  
+For Hero’s cheek, and smiles against her smile.  
+O horrid dream! see how his body dips  
+Dead-heavy; arms and shoulders gleam awhile:  
+He’s gone: up bubbles all his amorous breath!  

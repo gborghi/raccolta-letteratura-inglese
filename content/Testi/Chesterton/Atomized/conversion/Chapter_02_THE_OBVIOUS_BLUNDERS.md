@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion — Chapter 2: THE OBVIOUS BLUNDERS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION">‹ Chapter 01 INTRODUCTORY A NEW RELIGION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_03_THE_REAL_OBSTACLES">Chapter 03 THE REAL OBSTACLES ›</a></div>

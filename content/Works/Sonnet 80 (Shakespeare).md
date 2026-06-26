@@ -15,8 +15,6 @@ tags:
   - motif/letters_writing
 ---
 
-# Sonnet 80
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-O, how I faint when I of you do write, 
-Knowing a better spirit doth use your name, 
-And in the praise thereof spends all his might, 
-To make me tongue-tied, speaking of your fame! 
-But since your worth, wide as the ocean is, 
-The humble as the proudest sail doth bear, 
-My saucy barque, inferior far to his, 
-On your broad main doth wilfully appear. 
-Your shallowest help will hold me up afloat 
-Whilst he upon your soundless deep doth ride; 
-Or, being wrecked, I am a worthless boat, 
-He of tall building and of goodly pride. 
-Then if he thrive and I be cast away, 
-The worst was this: my love was my decay.
+O, how I faint when I of you do write,  
+Knowing a better spirit doth use your name,  
+And in the praise thereof spends all his might,  
+To make me tongue-tied, speaking of your fame!  
+But since your worth, wide as the ocean is,  
+The humble as the proudest sail doth bear,  
+My saucy barque, inferior far to his,  
+On your broad main doth wilfully appear.  
+Your shallowest help will hold me up afloat  
+Whilst he upon your soundless deep doth ride;  
+Or, being wrecked, I am a worthless boat,  
+He of tall building and of goodly pride.  
+Then if he thrive and I be cast away,  
+The worst was this: my love was my decay.  

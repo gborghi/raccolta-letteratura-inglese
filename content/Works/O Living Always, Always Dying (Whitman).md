@@ -14,8 +14,6 @@ tags:
   - motif/death
 ---
 
-# O Living Always, Always Dying
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

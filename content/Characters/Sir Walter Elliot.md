@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sir Walter Elliot
-
 *Character* — appears in **1** work(s).
 
 ## Works

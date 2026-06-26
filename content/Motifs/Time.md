@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Time
-
 *Motif* — appears in **110** work(s).
 
 ## Works

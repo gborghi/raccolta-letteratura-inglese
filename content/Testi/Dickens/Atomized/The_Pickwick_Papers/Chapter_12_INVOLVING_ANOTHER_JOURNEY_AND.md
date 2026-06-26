@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 11: INVOLVING ANOTHER JOURNEY, AND AN ANTIQUARIAN DISCOVERY;
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_11_CLEARING_UP_ALL_DOUBTS_IF_ANY">‹ Chapter 11 CLEARING UP ALL DOUBTS IF ANY</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_13_DESCRIPTIVE_OF_A_VERY_IMPORTAN">Chapter 13 DESCRIPTIVE OF A VERY IMPORTAN ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Coriolanus — Act V, Scene 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CORIOLANUS-(Shakespeare)">Coriolanus</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Coriolanus/Act_5/Scene_3">‹ Scene 3</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Coriolanus/Act_5/Scene_6">Scene 6 ›</a></div>

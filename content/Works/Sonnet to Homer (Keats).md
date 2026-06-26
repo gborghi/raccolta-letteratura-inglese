@@ -16,8 +16,6 @@ tags:
   - concept/immortality_of_art
 ---
 
-# Sonnet to Homer
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,18 +31,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Standing aloof in giant ignorance,
-Of thee I hear and of the Cyclades,
-As one who sits ashore and longs perchance
-To visit dolphin-coral in deep seas.
-So thou wast blind; - but then the veil was rent,
-For Jove uncurtain’d Heaven to let thee live,
-And Neptune made for thee a spumy tent,
-And Pan made sing for thee his forest-hive;
-Aye on the shores of darkness there is light,
-And precipices show untrodden green,
-10
-There is a budding morrow in midnight,
-There is a triple sight in blindness keen;
-Such seeing hadst thou, as it once befell
-To Dian, Queen of Earth, and Heaven, and Hell.
+Standing aloof in giant ignorance,  
+Of thee I hear and of the Cyclades,  
+As one who sits ashore and longs perchance  
+To visit dolphin-coral in deep seas.  
+So thou wast blind; - but then the veil was rent,  
+For Jove uncurtain’d Heaven to let thee live,  
+And Neptune made for thee a spumy tent,  
+And Pan made sing for thee his forest-hive;  
+Aye on the shores of darkness there is light,  
+And precipices show untrodden green,  
+10  
+There is a budding morrow in midnight,  
+There is a triple sight in blindness keen;  
+Such seeing hadst thou, as it once befell  
+To Dian, Queen of Earth, and Heaven, and Hell.  

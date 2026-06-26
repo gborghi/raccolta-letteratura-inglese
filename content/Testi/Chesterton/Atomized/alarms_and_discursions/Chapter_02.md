@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# alarms and discursions — Chapter 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/alarms-and-discursions-(Chesterton)">alarms and discursions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_01">‹ Chapter 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/alarms_and_discursions/Chapter_03">Chapter 03 ›</a></div>

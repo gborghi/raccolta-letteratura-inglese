@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Comedy of Errors — Act V, Scene 1 — exchange (ANTIPHOLUS OF EPHESUS) [8]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-COMEDY-OF-ERRORS-(Shakespeare)">The Comedy of Errors</a></div>
 </nav>

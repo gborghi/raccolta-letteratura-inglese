@@ -37,8 +37,6 @@ tags:
   - character/prince_escalus
 ---
 
-# ROMEO AND JULIET
-
 *by Shakespeare*  ·  **Cluster:** [[Verona]]
 
 > [!abstract] 

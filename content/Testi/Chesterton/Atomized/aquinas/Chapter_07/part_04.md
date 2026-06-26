@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# aquinas — Chapter 8 (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/aquinas-(Chesterton)">aquinas</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/aquinas/Chapter_07/part_03">‹ part 03</a><span></span></div>

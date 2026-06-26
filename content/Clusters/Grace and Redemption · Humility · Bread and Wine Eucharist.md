@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Grace and Redemption · Humility · Bread and Wine / Eucharist
-
 *Cluster* — **38 works**.
 
 ## Defining concepts

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manalive — Chapter 4 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manalive-(Chesterton)">manalive</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manalive/Chapter_09/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manalive/Chapter_10/part_02">part 02 ›</a></div>

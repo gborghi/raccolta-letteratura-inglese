@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Verse Epistle
-
 *Form/Genre* — appears in **2** work(s).
 
 ## Works

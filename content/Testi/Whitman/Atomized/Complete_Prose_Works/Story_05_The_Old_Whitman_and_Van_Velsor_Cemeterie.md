@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — The Old Whitman and Van Velsor Cemeteries
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_04_Genealogy_Van_Velsor_and_Whitman">‹ Story 04 Genealogy Van Velsor and Whitman</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_06_The_Maternal_Homestead">Story 06 The Maternal Homestead ›</a></div>

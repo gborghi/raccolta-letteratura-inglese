@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# alarms and discursions
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/alarms-and-discursions-(Chesterton)">alarms and discursions</a></div>
 </nav>

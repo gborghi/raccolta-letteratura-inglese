@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Leaves
-
 *Motif* — appears in **8** work(s).
 
 ## Works

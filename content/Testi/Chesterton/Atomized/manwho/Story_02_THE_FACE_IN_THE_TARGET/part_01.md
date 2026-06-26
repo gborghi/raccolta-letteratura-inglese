@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE FACE IN THE TARGET (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_09_THE_VENGEANCE_OF_THE_STATUE">‹ Story 09 THE VENGEANCE OF THE STATUE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_02_THE_FACE_IN_THE_TARGET/part_02">part 02 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XVIII—A PARLIAMENTARY SKETCH
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_26_HAPTER_XVIITHE_LAST_CAB_DRIVER_AND_THE_F">‹ Story 26 HAPTER XVIITHE LAST CAB DRIVER AND THE F</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_28_HAPTER_XIXPUBLIC_DINNERS">Story 28 HAPTER XIXPUBLIC DINNERS ›</a></div>

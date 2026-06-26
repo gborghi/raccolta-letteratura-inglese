@@ -17,8 +17,6 @@ tags:
   - form/free_verse
 ---
 
-# Sail out for Good, Eidolon Yacht!
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Heave the anchor short!
-  Raise main-sail and jib--steer forth,
-  O little white-hull’d sloop, now speed on really deep waters,
-  (I will not call it our concluding voyage,
-  But outset and sure entrance to the truest, best, maturest;)
-  Depart, depart from solid earth--no more returning to these shores,
-  Now on for aye our infinite free venture wending,
-  Spurning all yet tried ports, seas, hawsers, densities, gravitation,
-  Sail out for good, eidolon yacht of me!
+  Heave the anchor short!  
+  Raise main-sail and jib--steer forth,  
+  O little white-hull’d sloop, now speed on really deep waters,  
+  (I will not call it our concluding voyage,  
+  But outset and sure entrance to the truest, best, maturest;)  
+  Depart, depart from solid earth--no more returning to these shores,  
+  Now on for aye our infinite free venture wending,  
+  Spurning all yet tried ports, seas, hawsers, densities, gravitation,  
+  Sail out for good, eidolon yacht of me!  

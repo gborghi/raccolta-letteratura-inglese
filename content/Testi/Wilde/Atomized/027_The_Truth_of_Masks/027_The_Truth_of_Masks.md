@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# The Truth of Masks
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/The-Truth-of-Masks-(Wilde)">027 The Truth of Masks</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lord George Gordon
-
 *Character* — appears in **1** work(s).
 
 ## Works

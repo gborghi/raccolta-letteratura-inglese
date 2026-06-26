@@ -17,8 +17,6 @@ tags:
   - form/sonnet
 ---
 
-# Sonnet to the Nile
-
 *by Keats*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-Son of the old moon-mountains African!
-Chief of the Pyramid and Crocodile!
-We call thee fruitful, and, that very while,
-A desert fills our seeing’s inward span;
-Nurse of swart nations since the world began,
-Art thou so fruitful? or dost thou beguile
-Such men to honour thee, who, worn with toil,
-Rest for a space ‘twixt Cairo and Decan?
-O, O may dark fancies err! they surely do;
-’Tis ignorance that makes a barren waste
-10
-Of all beyond itself, thou dost bedew
-Green rushes like our rivers, and dost taste
-The pleasant sunrise, green isles hast thou too,
-And to the sea as happily dost haste.
+Son of the old moon-mountains African!  
+Chief of the Pyramid and Crocodile!  
+We call thee fruitful, and, that very while,  
+A desert fills our seeing’s inward span;  
+Nurse of swart nations since the world began,  
+Art thou so fruitful? or dost thou beguile  
+Such men to honour thee, who, worn with toil,  
+Rest for a space ‘twixt Cairo and Decan?  
+O, O may dark fancies err! they surely do;  
+’Tis ignorance that makes a barren waste  
+10  
+Of all beyond itself, thou dost bedew  
+Green rushes like our rivers, and dost taste  
+The pleasant sunrise, green isles hast thou too,  
+And to the sea as happily dost haste.  

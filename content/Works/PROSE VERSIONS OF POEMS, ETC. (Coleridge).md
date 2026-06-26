@@ -18,8 +18,6 @@ tags:
   - motif/seasons
 ---
 
-# PROSE VERSIONS OF POEMS, ETC.
-
 *by Coleridge*  ·  **Cluster:** [[Imagination · Fragment · Heroic Couplet]]
 
 > [!abstract] 

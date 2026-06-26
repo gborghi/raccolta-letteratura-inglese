@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 16: I AM A NEW BOY IN MORE SENSES THAN ONE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_15_I_MAKE_ANOTHER_BEGINNING">‹ Chapter 15 I MAKE ANOTHER BEGINNING</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_17_SOMEBODY_TURNS_UP">Chapter 17 SOMEBODY TURNS UP ›</a></div>

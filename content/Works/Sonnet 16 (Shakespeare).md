@@ -18,8 +18,6 @@ tags:
   - concept/immortality_of_art
 ---
 
-# Sonnet 16
-
 *by Shakespeare*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -35,19 +33,19 @@ tags:
 
 ## Testo integrale / Full text
 
-But wherefore do not you a mightier way 
-Make war upon this bloody tyrant, time, 
-And fortify yourself in your decay 
-With means more blessed than my barren rhyme? 
-Now stand you on the top of happy hours, 
-And many maiden gardens yet unset 
-With virtuous wish would bear your living flowers, 
-Much liker than your painted counterfeit. 
-So should the lines of life that life repair 
-Which this time’s pencil or my pupil pen 
-Neither in inward worth nor outward fair 
-Can make you live yourself in eyes of men.
+But wherefore do not you a mightier way  
+Make war upon this bloody tyrant, time,  
+And fortify yourself in your decay  
+With means more blessed than my barren rhyme?  
+Now stand you on the top of happy hours,  
+And many maiden gardens yet unset  
+With virtuous wish would bear your living flowers,  
+Much liker than your painted counterfeit.  
+So should the lines of life that life repair  
+Which this time’s pencil or my pupil pen  
+Neither in inward worth nor outward fair  
+Can make you live yourself in eyes of men.  
 
-To give away yourself keeps yourself still,
+To give away yourself keeps yourself still,  
 
-And you must live drawn by your own sweet skill.
+And you must live drawn by your own sweet skill.  

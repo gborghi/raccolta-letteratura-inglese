@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Spanish Inquisition
-
 *Historical reference* — appears in **1** work(s).
 
 ## Works

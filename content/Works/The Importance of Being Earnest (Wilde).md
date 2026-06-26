@@ -39,8 +39,6 @@ tags:
   - character/canon_chasuble
 ---
 
-# The Importance of Being Earnest
-
 *by Wilde*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

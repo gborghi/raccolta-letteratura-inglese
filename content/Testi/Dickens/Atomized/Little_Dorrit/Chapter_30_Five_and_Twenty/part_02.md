@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 27: Five-and-Twenty (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_30_Five_and_Twenty/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_30_Five_and_Twenty/part_03">part 03 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Theseus
-
 *Character* — appears in **2** work(s).
 
 ## Works

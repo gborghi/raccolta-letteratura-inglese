@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Money and Avarice
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

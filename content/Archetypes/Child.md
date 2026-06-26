@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Child
-
 *Archetype* — appears in **60** work(s).
 
 ## Works

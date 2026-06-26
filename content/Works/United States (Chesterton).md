@@ -16,8 +16,6 @@ tags:
   - histref/catholic_church
 ---
 
-# United States
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

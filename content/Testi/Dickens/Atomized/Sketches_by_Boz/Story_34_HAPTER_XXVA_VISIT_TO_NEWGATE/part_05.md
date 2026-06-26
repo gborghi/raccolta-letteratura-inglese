@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Sketches by Boz — HAPTER XXV—A VISIT TO NEWGATE (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Sketches-by-Boz-(Dickens)">Sketches by Boz</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_34_HAPTER_XXVA_VISIT_TO_NEWGATE/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Sketches_by_Boz/Story_41_HAPTER_VIITHE_MISPLACED_ATTACHMENT_OF_MR/part_01">part 01 ›</a></div>

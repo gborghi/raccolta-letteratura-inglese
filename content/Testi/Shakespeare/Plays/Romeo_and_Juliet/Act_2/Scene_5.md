@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Romeo and Juliet — Act II, Scene 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_2/Scene_4">‹ Scene 4</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Romeo_and_Juliet/Act_3/Scene_1">Scene 1 ›</a></div>

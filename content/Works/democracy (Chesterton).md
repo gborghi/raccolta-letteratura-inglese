@@ -17,8 +17,6 @@ tags:
   - form/essay
 ---
 
-# democracy
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

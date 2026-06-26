@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# Sounds of the Winter
-
 *by Whitman*  ·  **Cluster:** [[Ode · Nature vs Civilization · Pastoral Retreat]]
 
 > [!abstract] 
@@ -33,13 +31,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Sounds of the winter too,
-  Sunshine upon the mountains--many a distant strain
-  From cheery railroad train--from nearer field, barn, house,
-  The whispering air--even the mute crops, garner’d apples, corn,
-  Children’s and women’s tones--rhythm of many a farmer and of flail,
-  An old man’s garrulous lips among the rest, Think not we give out yet,
-  Forth from these snowy hairs we keep up yet the lilt.
+  Sounds of the winter too,  
+  Sunshine upon the mountains--many a distant strain  
+  From cheery railroad train--from nearer field, barn, house,  
+  The whispering air--even the mute crops, garner’d apples, corn,  
+  Children’s and women’s tones--rhythm of many a farmer and of flail,  
+  An old man’s garrulous lips among the rest, Think not we give out yet,  
+  Forth from these snowy hairs we keep up yet the lilt.  

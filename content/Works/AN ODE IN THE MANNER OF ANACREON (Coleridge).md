@@ -16,8 +16,6 @@ tags:
   - histref/classical_antiquity
 ---
 
-# AN ODE IN THE MANNER OF ANACREON
-
 *by Coleridge*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -32,12 +30,12 @@ tags:
 
 ## Testo integrale / Full text
 
-As late, in wreaths, gay flowers I bound,
-Beneath some roses Love I found;
-And by his little frolic pinion
-As quick as thought I seiz’d the minion,
-Then in my cup the prisoner threw,   5
-And drank him in its sparkling dew:
-And sure I feel my angry guest
-Fluttering his wings within my breast!
-1792.
+As late, in wreaths, gay flowers I bound,  
+Beneath some roses Love I found;  
+And by his little frolic pinion  
+As quick as thought I seiz’d the minion,  
+Then in my cup the prisoner threw,   5  
+And drank him in its sparkling dew:  
+And sure I feel my angry guest  
+Fluttering his wings within my breast!  
+1792.  

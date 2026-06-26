@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 25: Conspirators and Others
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_27_Fortune_Telling">‹ Chapter 27 Fortune Telling</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_29_Nobodys_State_of_Mind">Chapter 29 Nobodys State of Mind ›</a></div>

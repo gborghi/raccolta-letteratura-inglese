@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# TheAppOfTyranny — Chapter 4 (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/TheAppOfTyranny-(Chesterton)">TheAppOfTyranny</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_05/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/TheAppOfTyranny/Chapter_05/part_08">part 08 ›</a></div>

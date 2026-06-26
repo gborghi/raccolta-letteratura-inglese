@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Jane Eyre — Chapter 9
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Jane-Eyre-(Bronte)">Jane Eyre</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_08">‹ Chapter 08</a><a class="ex-next" href="/Testi/Bronte/Atomized/Jane_Eyre/Chapter_10">Chapter 10 ›</a></div>

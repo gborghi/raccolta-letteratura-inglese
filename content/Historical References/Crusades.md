@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Crusades
-
 *Historical reference* — appears in **13** work(s).
 
 ## Works

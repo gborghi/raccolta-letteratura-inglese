@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Bible · Sin and the Fall · Fall from Innocence
-
 *Cluster* — **32 works**.
 
 ## Defining concepts

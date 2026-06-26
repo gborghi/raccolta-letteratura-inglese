@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 26: WHICH CONTAINS A BRIEF ACCOUNT OF THE PROGRESS OF THE (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_27_SHOWING_AMONG_A_VARIETY_OF_PLE/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_28_WHICH_CONTAINS_A_BRIEF_ACCOUNT/part_02">part 02 ›</a></div>

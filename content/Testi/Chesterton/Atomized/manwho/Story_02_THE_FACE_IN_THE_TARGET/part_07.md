@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE FACE IN THE TARGET (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_02_THE_FACE_IN_THE_TARGET/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_03_THE_VANISHING_PRINCE/part_01">part 01 ›</a></div>

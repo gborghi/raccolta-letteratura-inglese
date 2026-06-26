@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Pericles — Scene 1 — monologue (GOWER) [2]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
 </nav>

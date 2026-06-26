@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Time · Tempus Fugit · Clock
-
 *Cluster* — **35 works**.
 
 ## Defining concepts

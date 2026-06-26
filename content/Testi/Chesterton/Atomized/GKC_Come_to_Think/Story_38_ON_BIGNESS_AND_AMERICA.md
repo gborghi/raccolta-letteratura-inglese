@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON BIGNESS AND AMERICA
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_37_ON_AMERICA">‹ Story 37 ON AMERICA</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_39_ON_THE_AMERICAN_REVOLT_AGAINST_AMERICANI">Story 39 ON THE AMERICAN REVOLT AGAINST AMERICANI ›</a></div>

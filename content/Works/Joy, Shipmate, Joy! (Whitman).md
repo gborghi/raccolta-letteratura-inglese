@@ -14,8 +14,6 @@ tags:
   - motif/the_journey
 ---
 
-# Joy, Shipmate, Joy!
-
 *by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 
@@ -28,13 +26,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SONGS OF PARTING_
+_Cluster: SONGS OF PARTING_  
 
 
-  Joy, shipmate, Joy!
-  (Pleas’d to my soul at death I cry,)
-  Our life is closed, our life begins,
-  The long, long anchorage we leave,
-  The ship is clear at last, she leaps!
-  She swiftly courses from the shore,
-  Joy, shipmate, joy.
+  Joy, shipmate, Joy!  
+  (Pleas’d to my soul at death I cry,)  
+  Our life is closed, our life begins,  
+  The long, long anchorage we leave,  
+  The ship is clear at last, she leaps!  
+  She swiftly courses from the shore,  
+  Joy, shipmate, joy.  

@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Romantic Love
-
 *Theme/Concept* — appears in **435** work(s).
 
 ## Works

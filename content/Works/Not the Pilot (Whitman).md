@@ -14,8 +14,6 @@ tags:
   - motif/the_journey
 ---
 
-# Not the Pilot
-
 *by Whitman*  ·  **Cluster:** [[Journey · Ship]]
 
 > [!abstract] 

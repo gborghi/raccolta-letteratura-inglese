@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Helena Landless
-
 *Character* — appears in **1** work(s).
 
 ## Works

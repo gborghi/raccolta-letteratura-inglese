@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# conversion — Chapter 6: A NOTE ON PRESENT PROSPECTS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/conversion-(Chesterton)">conversion</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/conversion/Chapter_05_THE_EXCEPTION_PROVES_THE_RULE">‹ Chapter 05 THE EXCEPTION PROVES THE RULE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/conversion/Chapter_01_INTRODUCTORY_A_NEW_RELIGION/part_01">part 01 ›</a></div>

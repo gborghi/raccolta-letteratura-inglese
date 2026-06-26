@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# divorce — Chapter 8 (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/divorce-(Chesterton)">divorce</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/divorce/Chapter_08/part_02">‹ part 02</a><span></span></div>

@@ -17,8 +17,6 @@ tags:
   - motif/memory
 ---
 
-# Lines Written in the Highlands after a Visit to Burns’s Country
-
 *by Keats*  ·  **Cluster:** [[Memory and Time · Memory · Nostalgia]]
 
 > [!abstract] 

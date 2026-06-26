@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# A Predicament
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/A-Predicament-(Poe)">A Predicament</a></div>
 </nav>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Stars · Night · Military Camp
-
 *Cluster* — **33 works**.
 
 ## Defining concepts

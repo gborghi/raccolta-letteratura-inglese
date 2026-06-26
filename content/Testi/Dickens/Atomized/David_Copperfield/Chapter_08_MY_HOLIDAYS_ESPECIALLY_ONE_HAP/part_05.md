@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 8: MY HOLIDAYS. ESPECIALLY ONE HAPPY AFTERNOON (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_08_MY_HOLIDAYS_ESPECIALLY_ONE_HAP/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_09_I_HAVE_A_MEMORABLE_BIRTHDAY/part_01">part 01 ›</a></div>

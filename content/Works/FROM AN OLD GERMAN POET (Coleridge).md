@@ -14,8 +14,6 @@ tags:
   - concept/lust
 ---
 
-# FROM AN OLD GERMAN POET
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,19 +26,19 @@ tags:
 
 ## Testo integrale / Full text
 
-That France has put us oft to rout
-With powder, which ourselves found out;
-And laughs at us for fools in print,
-Of which our genius was the Mint;
-All this I easily admit,
-For we have genius, France has wit.
-But ‘tis too bad, that blind and mad
-To Frenchmen’s wives each travelling German goes,
-Expands his manly vigour by their sides,
-Becomes the father of his country’s foes
-And turns their warriors oft to parricides.
-First published in Morning Post, Oct. 11, 1802. Adapted from
-Wernicke’s Epigrams (Bk. VIII, No. 4), Auf die Buhlerey der Deutschen
-in Frankreich.
-‘Dass Frankreich uns pflegt zu verwunden
-Durch Pulver, welches wir erfunden.’
+That France has put us oft to rout  
+With powder, which ourselves found out;  
+And laughs at us for fools in print,  
+Of which our genius was the Mint;  
+All this I easily admit,  
+For we have genius, France has wit.  
+But ‘tis too bad, that blind and mad  
+To Frenchmen’s wives each travelling German goes,  
+Expands his manly vigour by their sides,  
+Becomes the father of his country’s foes  
+And turns their warriors oft to parricides.  
+First published in Morning Post, Oct. 11, 1802. Adapted from  
+Wernicke’s Epigrams (Bk. VIII, No. 4), Auf die Buhlerey der Deutschen  
+in Frankreich.  
+‘Dass Frankreich uns pflegt zu verwunden  
+Durch Pulver, welches wir erfunden.’  

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Seasons · Winter · Autumn
-
 *Cluster* — **43 works**.
 
 ## Defining concepts

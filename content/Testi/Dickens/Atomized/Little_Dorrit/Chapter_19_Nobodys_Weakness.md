@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 16: Nobody’s Weakness
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_18_Mrs_Flintwinch_has_another_Dre">‹ Chapter 18 Mrs Flintwinch has another Dre</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_20_Nobodys_Rival">Chapter 20 Nobodys Rival ›</a></div>

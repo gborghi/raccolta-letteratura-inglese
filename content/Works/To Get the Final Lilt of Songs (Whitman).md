@@ -17,8 +17,6 @@ tags:
   - form/epigram
 ---
 
-# To Get the Final Lilt of Songs
-
 *by Whitman*  ·  **Cluster:** [[Poet as Prophet · Prophet · Romantic Movement (Sensibility)]]
 
 > [!abstract] 
@@ -34,13 +32,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  To get the final lilt of songs,
-  To penetrate the inmost lore of poets--to know the mighty ones,
-  Job, Homer, Eschylus, Dante, Shakespere, Tennyson, Emerson;
-  To diagnose the shifting-delicate tints of love and pride and doubt--
-      to truly understand,
-  To encompass these, the last keen faculty and entrance-price,
-  Old age, and what it brings from all its past experiences.
+  To get the final lilt of songs,  
+  To penetrate the inmost lore of poets--to know the mighty ones,  
+  Job, Homer, Eschylus, Dante, Shakespere, Tennyson, Emerson;  
+  To diagnose the shifting-delicate tints of love and pride and doubt--  
+      to truly understand,  
+  To encompass these, the last keen faculty and entrance-price,  
+  Old age, and what it brings from all its past experiences.  

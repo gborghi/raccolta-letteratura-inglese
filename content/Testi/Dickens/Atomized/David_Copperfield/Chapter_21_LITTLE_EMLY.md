@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 21: LITTLE EM’LY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_20_STEERFORTHS_HOME">‹ Chapter 20 STEERFORTHS HOME</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_22_SOME_OLD_SCENES_AND_SOME_NEW_P">Chapter 22 SOME OLD SCENES AND SOME NEW P ›</a></div>

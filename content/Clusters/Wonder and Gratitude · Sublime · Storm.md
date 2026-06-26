@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Wonder and Gratitude · Sublime · Storm
-
 *Cluster* — **62 works**.
 
 ## Defining concepts

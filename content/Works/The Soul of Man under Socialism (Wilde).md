@@ -32,8 +32,6 @@ tags:
   - setting/industrial_city
 ---
 
-# The Soul of Man under Socialism
-
 *by Wilde*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

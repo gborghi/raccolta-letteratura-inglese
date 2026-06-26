@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Sybil Merton
-
 *Character* — appears in **1** work(s).
 
 ## Works

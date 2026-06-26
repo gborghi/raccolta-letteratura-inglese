@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Some Words with a Mummy (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Some-Words-with-a-Mummy-(Poe)">Some Words with a Mummy</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Some_Words_with_a_Mummy/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/Some_Words_with_a_Mummy/part/part_04">part 04 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Lady Susan — ADY SUSAN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Lady-Susan-(Austen)">Lady Susan</a></div>
 <div class="excerpt-pn"><span></span><a class="ex-next" href="/Testi/Austen/Atomized/Lady_Susan/Story_02_Y_DEAR_BROTHER_I_can_no_longer_refuse_my">Story 02 Y DEAR BROTHER I can no longer refuse my ›</a></div>

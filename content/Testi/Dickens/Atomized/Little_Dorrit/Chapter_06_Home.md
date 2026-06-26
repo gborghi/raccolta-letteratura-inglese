@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 3: Home
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_05_Fellow_Travellers">‹ Chapter 05 Fellow Travellers</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_07_Mrs_Flintwinch_has_a_Dream">Chapter 07 Mrs Flintwinch has a Dream ›</a></div>

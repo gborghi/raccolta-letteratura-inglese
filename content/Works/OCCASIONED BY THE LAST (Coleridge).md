@@ -14,8 +14,6 @@ tags:
   - concept/mortality
 ---
 
-# OCCASIONED BY THE LAST
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -28,13 +26,13 @@ tags:
 
 ## Testo integrale / Full text
 
-A JOKE (cries Jack) without
-a
-sting —
-Post obitum can no man sing.
-And true, if Jack don’t mend his manners
-And quit the atheistic banners,
-Post obitum will Jack run foul
-Of such folks as can only howl.
-First published in An. Anth., 1800. Included in Essays, &c., iii.
+A JOKE (cries Jack) without  
+a  
+sting —  
+Post obitum can no man sing.  
+And true, if Jack don’t mend his manners  
+And quit the atheistic banners,  
+Post obitum will Jack run foul  
+Of such folks as can only howl.  
+First published in An. Anth., 1800. Included in Essays, &c., iii.  
 988. First collected P. and D. W., 1877, ii, 165.

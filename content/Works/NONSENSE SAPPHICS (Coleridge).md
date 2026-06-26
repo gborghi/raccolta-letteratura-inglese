@@ -15,8 +15,6 @@ tags:
   - topos/immortality_through_verse
 ---
 
-# NONSENSE SAPPHICS
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-Here’s Jem’s first copy of nonsense verses,
-All in the antique style of Mistress Sappho,
-Latin just like Horace the tuneful Roman,
-Sapph’s imitator:
-But we Bards, we classical Lyric Poets,
-Know a thing or two in a scurvy Planet:
-Don’t we, now? Eh? Brother Horatius Flaccus,
-Tip us your paw, Lad: —
-Here’s to Mæcenas and the other worthies;
-Rich men of England! would ye be immortal?
-Patronise Genius, giving Cash and Praise to
-Gillman Jacobus;
-Gillman Jacobus, he of Merchant Taylors’,
-Minor ætate, ingenio at stupendus,
-Sapphic, Heroic, Elegiac, — what a
-Versificator!
-First published in Essays, &c., 1850, iii. 987. First collected 1893.
+Here’s Jem’s first copy of nonsense verses,  
+All in the antique style of Mistress Sappho,  
+Latin just like Horace the tuneful Roman,  
+Sapph’s imitator:  
+But we Bards, we classical Lyric Poets,  
+Know a thing or two in a scurvy Planet:  
+Don’t we, now? Eh? Brother Horatius Flaccus,  
+Tip us your paw, Lad: —  
+Here’s to Mæcenas and the other worthies;  
+Rich men of England! would ye be immortal?  
+Patronise Genius, giving Cash and Praise to  
+Gillman Jacobus;  
+Gillman Jacobus, he of Merchant Taylors’,  
+Minor ætate, ingenio at stupendus,  
+Sapphic, Heroic, Elegiac, — what a  
+Versificator!  
+First published in Essays, &c., 1850, iii. 987. First collected 1893.  

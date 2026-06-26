@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Supernatural
-
 *Cluster* — **2 works**.
 
 ## Defining concepts

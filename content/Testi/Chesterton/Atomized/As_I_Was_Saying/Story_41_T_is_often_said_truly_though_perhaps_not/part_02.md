@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — T is often said truly, though perhaps not often understood rightly, (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_41_T_is_often_said_truly_though_perhaps_not/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_42_READ_a_chance_phrase_in_a_daily_paper_th/part_01">part 01 ›</a></div>

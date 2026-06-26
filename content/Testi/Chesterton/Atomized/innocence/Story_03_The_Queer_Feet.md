@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Queer Feet
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_02_The_Secret_Garden">‹ Story 02 The Secret Garden</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_04_The_Flying_Stars">Story 04 The Flying Stars ›</a></div>

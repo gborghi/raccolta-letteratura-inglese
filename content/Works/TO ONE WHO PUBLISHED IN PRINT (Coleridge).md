@@ -16,8 +16,6 @@ tags:
   - motif/letters_writing
 ---
 
-# TO ONE WHO PUBLISHED IN PRINT
-
 *by Coleridge*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -32,35 +30,35 @@ tags:
 
 ## Testo integrale / Full text
 
-WHAT HAD BEEN ENTRUSTED TO HIM BY MY FIRESIDE
-Two things hast thou made known to half the nation,
-My secrets and my want of penetration:
-For O! far more than all which thou hast penn’d
-It shames me to have call’d a wretch, like thee, my friend!
-First published in Morning Post, Sept. 23, 1802. Adapted from
-Wernicke’s Epigrams (Bk. I, No. 12), An einen falschen Freund. ‘Weil
-ich mich dir vertraut, eh’ ich dich recht gekennet.’
-‘Obscuri sub luce maligna.’ — VIRG.
-Scarce any scandal, but has a handle;
-In truth most falsehoods have their rise;
-Truth first unlocks Pandora’s box,
-And out there fly a host of lies.
-Malignant light, by cloudy night,
-To precipices it decoys one!
-One nectar-drop from Jove’s own shop
-Will flavour a whole cup of poison.
-First published in Morning Post, Sept. 23, 1802.
-Old Harpy jeers at castles in the air,
-And thanks his stars, whenever Edmund speaks,
-That such a dupe as that is not his heir —
-But know, old Harpy! that these fancy freaks,
-Though vain and light, as floating gossamer,
-Always amuse, and sometimes mend the heart:
-A young man’s idlest hopes are still his pleasures,
-And fetch a higher price in Wisdom’s mart
-Than all the unenjoying Miser’s treasures.
-First published in Morning Post, Sept. 23, 1802. Included in P. R.,
-1802, ii. 868. Adapted from Wernicke, Bk. VII, No. 40, An einen
-Geizhals.
-‘Steht’s einem Geizhals an auf Aelius zu schmähn
-Weil er vergebens hofft auf was nicht kann geschehn?’
+WHAT HAD BEEN ENTRUSTED TO HIM BY MY FIRESIDE  
+Two things hast thou made known to half the nation,  
+My secrets and my want of penetration:  
+For O! far more than all which thou hast penn’d  
+It shames me to have call’d a wretch, like thee, my friend!  
+First published in Morning Post, Sept. 23, 1802. Adapted from  
+Wernicke’s Epigrams (Bk. I, No. 12), An einen falschen Freund. ‘Weil  
+ich mich dir vertraut, eh’ ich dich recht gekennet.’  
+‘Obscuri sub luce maligna.’ — VIRG.  
+Scarce any scandal, but has a handle;  
+In truth most falsehoods have their rise;  
+Truth first unlocks Pandora’s box,  
+And out there fly a host of lies.  
+Malignant light, by cloudy night,  
+To precipices it decoys one!  
+One nectar-drop from Jove’s own shop  
+Will flavour a whole cup of poison.  
+First published in Morning Post, Sept. 23, 1802.  
+Old Harpy jeers at castles in the air,  
+And thanks his stars, whenever Edmund speaks,  
+That such a dupe as that is not his heir —  
+But know, old Harpy! that these fancy freaks,  
+Though vain and light, as floating gossamer,  
+Always amuse, and sometimes mend the heart:  
+A young man’s idlest hopes are still his pleasures,  
+And fetch a higher price in Wisdom’s mart  
+Than all the unenjoying Miser’s treasures.  
+First published in Morning Post, Sept. 23, 1802. Included in P. R.,  
+1802, ii. 868. Adapted from Wernicke, Bk. VII, No. 40, An einen  
+Geizhals.  
+‘Steht’s einem Geizhals an auf Aelius zu schmähn  
+Weil er vergebens hofft auf was nicht kann geschehn?’  

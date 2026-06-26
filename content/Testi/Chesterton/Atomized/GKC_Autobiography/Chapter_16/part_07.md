@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC-Autobiography — Chapter 16 (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Autobiography-(Chesterton)">GKC Autobiography</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Autobiography/Chapter_16/part_06">‹ part 06</a><span></span></div>

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Mystification
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Mystification-(Poe)">Mystification</a></div>
 </nav>

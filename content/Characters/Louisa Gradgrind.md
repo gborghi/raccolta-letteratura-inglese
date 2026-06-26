@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Louisa Gradgrind
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# wifrb11 — The Duel of Dr Hirsch
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/wifrb11-(Chesterton)">wifrb11</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/wifrb11/Story_02_The_Paradise_of_Thieves">‹ Story 02 The Paradise of Thieves</a><a class="ex-next" href="/Testi/Chesterton/Atomized/wifrb11/Story_04_The_Man_in_the_Passage">Story 04 The Man in the Passage ›</a></div>

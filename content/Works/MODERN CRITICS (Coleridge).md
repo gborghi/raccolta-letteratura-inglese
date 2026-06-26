@@ -13,8 +13,6 @@ tags:
   - concept/deception
 ---
 
-# MODERN CRITICS
-
 *by Coleridge*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 
@@ -27,10 +25,10 @@ tags:
 
 ## Testo integrale / Full text
 
-No private grudge they need, no personal spite,
-The viva sectio is its own delight!
-All enmity, all envy, they disclaim,
-Disinterested thieves of our good name —
-Cool, sober murderers of their neighbours’ fame!
-First published in Biog. Lit., 1817, ii. 118. First collected in P.
-W., 1885, ii. 363.
+No private grudge they need, no personal spite,  
+The viva sectio is its own delight!  
+All enmity, all envy, they disclaim,  
+Disinterested thieves of our good name —  
+Cool, sober murderers of their neighbours’ fame!  
+First published in Biog. Lit., 1817, ii. 118. First collected in P.  
+W., 1885, ii. 363.  

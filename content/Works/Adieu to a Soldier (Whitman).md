@@ -15,8 +15,6 @@ tags:
   - setting/the_battlefield
 ---
 
-# Adieu to a Soldier
-
 *by Whitman*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

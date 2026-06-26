@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Birds
-
 *Motif* — appears in **211** work(s).
 
 ## Works

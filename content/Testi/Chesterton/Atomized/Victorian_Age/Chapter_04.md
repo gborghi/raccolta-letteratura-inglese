@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Victorian Age — Chapter 4
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Victorian-Age-(Chesterton)">Victorian Age</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_03">‹ Chapter 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Victorian_Age/Chapter_01/part_01">part 01 ›</a></div>

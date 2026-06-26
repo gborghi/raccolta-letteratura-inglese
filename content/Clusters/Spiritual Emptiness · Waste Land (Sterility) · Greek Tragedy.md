@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy
-
 *Cluster* — **12 works**.
 
 ## Defining concepts

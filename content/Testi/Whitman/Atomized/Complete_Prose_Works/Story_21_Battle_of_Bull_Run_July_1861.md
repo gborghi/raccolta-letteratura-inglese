@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — Battle of Bull Run, July, 1861
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_20_Contemptuous_Feeling">‹ Story 20 Contemptuous Feeling</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_22_The_Stupor_Passes_Something_Else_Begins">Story 22 The Stupor Passes Something Else Begins ›</a></div>

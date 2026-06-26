@@ -25,8 +25,6 @@ tags:
   - character/auguste_dupin
 ---
 
-# The Murders in the Rue Morgue
-
 *by Poe*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Glass Walking Stick — A Plea For The Heroic Couplet
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Glass-Walking-Stick-(Chesterton)">The Glass Walking Stick</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_36_The_Merits_Of_Shakespeare_S_Plots">‹ Story 36 The Merits Of Shakespeare S Plots</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Glass_Walking_Stick/Story_38_To_Praise_Exalt_Establish_And_Defend">Story 38 To Praise Exalt Establish And Defend ›</a></div>

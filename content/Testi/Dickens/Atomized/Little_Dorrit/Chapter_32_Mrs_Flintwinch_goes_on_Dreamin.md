@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 29: Mrs Flintwinch goes on Dreaming
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_31_Nobodys_Disappearance">‹ Chapter 31 Nobodys Disappearance</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_33_The_Word_of_a_Gentleman">Chapter 33 The Word of a Gentleman ›</a></div>

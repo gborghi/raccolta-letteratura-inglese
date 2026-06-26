@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# Complete Prose Works: Specimen Days and Collect, November Boughs and Goodbye My Fancy — A Night Battle over a Week Since
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/Complete-Prose-Works-Specimen-Days-and-Collect,-November-Boughs-and-Goodbye-My-Fancy-(Whitman)">Complete Prose Works</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_34_The_Wounded_from_Chancellorsville">‹ Story 34 The Wounded from Chancellorsville</a><a class="ex-next" href="/Testi/Whitman/Atomized/Complete_Prose_Works/Story_36_Unnamed_Remains_the_Bravest_Soldier">Story 36 Unnamed Remains the Bravest Soldier ›</a></div>

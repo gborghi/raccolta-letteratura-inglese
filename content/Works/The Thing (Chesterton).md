@@ -24,8 +24,6 @@ tags:
   - histref/the_reformation
 ---
 
-# The Thing
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

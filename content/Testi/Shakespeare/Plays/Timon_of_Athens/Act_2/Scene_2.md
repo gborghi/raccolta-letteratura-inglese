@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Timon of Athens — Act II, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/TIMON-OF-ATHENS-(Shakespeare)">Timon of Athens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_2/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Timon_of_Athens/Act_3/Scene_1">Scene 1 ›</a></div>

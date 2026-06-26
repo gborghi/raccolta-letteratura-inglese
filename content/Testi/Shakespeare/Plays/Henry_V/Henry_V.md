@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# HENRY V
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/HENRY-V-(Shakespeare)">Henry V</a></div>
 </nav>

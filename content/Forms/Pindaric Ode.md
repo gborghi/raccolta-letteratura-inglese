@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Pindaric Ode
-
 *Form/Genre* — appears in **5** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Wilde
 ---
 
-# De Profundis
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Wilde · <a href="/Works/De-Profundis-(Wilde)">029 De Profundis</a></div>
 </nav>

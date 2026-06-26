@@ -16,8 +16,6 @@ tags:
   - motif/storm
 ---
 
-# Sonnet:
-
 *by Keats*  ·  **Cluster:** [[Sonnet · Shakespearean Sonnet · Jealousy]]
 
 > [!abstract] 
@@ -33,17 +31,17 @@ tags:
 
 ## Testo integrale / Full text
 
-As Hermes once took to his feathers light,
-When lulled Argus, baffled, swoon’d and slept,
-So on a Delphic reed, my idle spright
-So play’d, so charm’d, so conquer’d, so bereft
-The dragon-world of all its hundred eyes;
-And, seeing it asleep, so fled away -
-Not to pure Ida’ with its snow-cold skies,
-Nor unto Tempe where Jove griev’d a day;
-But to that second circle of sad hell,
-Where ‘mid the gust, the whirlwind, and the flaw 10
-Of rain and hailstones, lovers need not tell
-Their sorrows. Pale were the sweet lips I saw,
-Pale were the lips I kiss’d, and fair the form
-I floated with, about that melancholy storm.
+As Hermes once took to his feathers light,  
+When lulled Argus, baffled, swoon’d and slept,  
+So on a Delphic reed, my idle spright  
+So play’d, so charm’d, so conquer’d, so bereft  
+The dragon-world of all its hundred eyes;  
+And, seeing it asleep, so fled away -  
+Not to pure Ida’ with its snow-cold skies,  
+Nor unto Tempe where Jove griev’d a day;  
+But to that second circle of sad hell,  
+Where ‘mid the gust, the whirlwind, and the flaw 10  
+Of rain and hailstones, lovers need not tell  
+Their sorrows. Pale were the sweet lips I saw,  
+Pale were the lips I kiss’d, and fair the form  
+I floated with, about that melancholy storm.  

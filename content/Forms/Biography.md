@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Biography
-
 *Form/Genre* — appears in **17** work(s).
 
 ## Works

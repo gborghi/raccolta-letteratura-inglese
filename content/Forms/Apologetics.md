@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Apologetics
-
 *Form/Genre* — appears in **24** work(s).
 
 ## Works

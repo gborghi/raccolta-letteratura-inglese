@@ -32,8 +32,6 @@ tags:
   - character/lucius
 ---
 
-# TITUS ANDRONICUS
-
 *by Shakespeare*  ·  **Cluster:** [[Blood · Verse Drama · Revenge]]
 
 > [!abstract] 

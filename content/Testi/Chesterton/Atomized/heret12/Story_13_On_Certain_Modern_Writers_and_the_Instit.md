@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — On Certain Modern Writers and the Institution of the Family
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_12_Celts_and_Celtophiles">‹ Story 12 Celts and Celtophiles</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_14_On_Smart_Novelists_and_the_Smart_Set">Story 14 On Smart Novelists and the Smart Set ›</a></div>

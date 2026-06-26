@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Thou Art the Man (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Thou-Art-the-Man-(Poe)">Thou Art the Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/Thou_Art_the_Man/part/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Poe/Atomized/Thou_Art_the_Man/part/part_05">part 05 ›</a></div>

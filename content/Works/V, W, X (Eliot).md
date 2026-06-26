@@ -13,8 +13,6 @@ tags:
   - concept/the_waste_land
 ---
 
-# V, W, X
-
 *by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 
@@ -27,12 +25,12 @@ tags:
 
 ## Testo integrale / Full text
 
-We are the hollow men 1
-Webster was much possessed by death 1
-What seas what shores what grey rocks and what islands 1
-When Mr. Apollinax visited the United States 1
-When we came home across the hill 1
-While all the East was weaving red with gray 1
+We are the hollow men 1  
+Webster was much possessed by death 1  
+What seas what shores what grey rocks and what islands 1  
+When Mr. Apollinax visited the United States 1  
+When we came home across the hill 1  
+While all the East was weaving red with gray 1  
 
-You ought to know Mr. Mistoffelees! 1
-You’ve read of several kinds of Cat 1
+You ought to know Mr. Mistoffelees! 1  
+You’ve read of several kinds of Cat 1  

@@ -15,8 +15,6 @@ tags:
   - motif/love
 ---
 
-# WESTPHALIAN SONG
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -30,16 +28,16 @@ tags:
 
 ## Testo integrale / Full text
 
-[The following is an almost literal translation of a very old and very
-favourite song among the Westphalian Boors. The turn at the end is the
-same with one of Mr. Dibdin’s excellent songs, and the air to which it
-is sung by the Boors is remarkably sweet and lively.]
-When thou to my true-love com’st
-Greet her from me kindly;
-When she asks thee how I fare?
-Say, folks in Heaven fare finely.
-When she asks, ‘What! Is he sick?’   5
-Say, dead! — and when for sorrow
-She begins to sob and cry,
-Say, I come to-morrow.
-? 1799.
+[The following is an almost literal translation of a very old and very  
+favourite song among the Westphalian Boors. The turn at the end is the  
+same with one of Mr. Dibdin’s excellent songs, and the air to which it  
+is sung by the Boors is remarkably sweet and lively.]  
+When thou to my true-love com’st  
+Greet her from me kindly;  
+When she asks thee how I fare?  
+Say, folks in Heaven fare finely.  
+When she asks, ‘What! Is he sick?’   5  
+Say, dead! — and when for sorrow  
+She begins to sob and cry,  
+Say, I come to-morrow.  
+? 1799.  

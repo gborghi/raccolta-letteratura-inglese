@@ -14,8 +14,6 @@ tags:
   - motif/hands
 ---
 
-# A Glimpse
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 34: MY AUNT ASTONISHES ME (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_33_BLISSFUL/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_34_MY_AUNT_ASTONISHES_ME/part_02">part 02 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Swords and Weapons
-
 *Motif* — appears in **120** work(s).
 
 ## Works

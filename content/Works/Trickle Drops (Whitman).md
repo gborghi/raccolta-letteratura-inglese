@@ -14,8 +14,6 @@ tags:
   - concept/comradeship
 ---
 
-# Trickle Drops
-
 *by Whitman*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -28,18 +26,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CALAMUS_
+_Cluster: CALAMUS_  
 
 
-  Trickle drops! my blue veins leaving!
-  O drops of me! trickle, slow drops,
-  Candid from me falling, drip, bleeding drops,
-  From wounds made to free you whence you were prison’d,
-  From my face, from my forehead and lips,
-  From my breast, from within where I was conceal’d, press forth red
-      drops, confession drops,
-  Stain every page, stain every song I sing, every word I say, bloody drops,
-  Let them know your scarlet heat, let them glisten,
-  Saturate them with yourself all ashamed and wet,
-  Glow upon all I have written or shall write, bleeding drops,
-  Let it all be seen in your light, blushing drops.
+  Trickle drops! my blue veins leaving!  
+  O drops of me! trickle, slow drops,  
+  Candid from me falling, drip, bleeding drops,  
+  From wounds made to free you whence you were prison’d,  
+  From my face, from my forehead and lips,  
+  From my breast, from within where I was conceal’d, press forth red  
+      drops, confession drops,  
+  Stain every page, stain every song I sing, every word I say, bloody drops,  
+  Let them know your scarlet heat, let them glisten,  
+  Saturate them with yourself all ashamed and wet,  
+  Glow upon all I have written or shall write, bleeding drops,  
+  Let it all be seen in your light, blushing drops.  

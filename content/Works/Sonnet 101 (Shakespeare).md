@@ -16,8 +16,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# Sonnet 101
-
 *by Shakespeare*  ·  **Cluster:** [[Letters and Writing · Immortality Through Verse · Immortality of Art Fame]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-O truant muse, what shall be thy amends 
-For thy neglect of truth in beauty dyed? 
-Both truth and beauty on my love depends; 
-So dost thou too, and therein dignified. 
-Make answer, muse. Wilt thou not haply say 
-‘Truth needs no colour with his colour fixed, 
-Beauty no pencil beauty’s truth to lay, 
-But best is best if never intermixed’? 
-Because he needs no praise wilt thou be dumb? 
-Excuse not silence so, for’t lies in thee 
-To make him much outlive a gilded tomb, 
-And to be praised of ages yet to be. 
-Then do thy office, muse; I teach thee how 
-To make him seem long hence as he shows now.
+O truant muse, what shall be thy amends  
+For thy neglect of truth in beauty dyed?  
+Both truth and beauty on my love depends;  
+So dost thou too, and therein dignified.  
+Make answer, muse. Wilt thou not haply say  
+‘Truth needs no colour with his colour fixed,  
+Beauty no pencil beauty’s truth to lay,  
+But best is best if never intermixed’?  
+Because he needs no praise wilt thou be dumb?  
+Excuse not silence so, for’t lies in thee  
+To make him much outlive a gilded tomb,  
+And to be praised of ages yet to be.  
+Then do thy office, muse; I teach thee how  
+To make him seem long hence as he shows now.  

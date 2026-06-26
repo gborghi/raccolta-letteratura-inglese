@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# Tears
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -31,20 +29,20 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SEA-DRIFT_
+_Cluster: SEA-DRIFT_  
 
 
-  Tears! tears! tears!
-  In the night, in solitude, tears,
-  On the white shore dripping, dripping, suck’d in by the sand,
-  Tears, not a star shining, all dark and desolate,
-  Moist tears from the eyes of a muffled head;
-  O who is that ghost? that form in the dark, with tears?
-  What shapeless lump is that, bent, crouch’d there on the sand?
-  Streaming tears, sobbing tears, throes, choked with wild cries;
-  O storm, embodied, rising, careering with swift steps along the beach!
-  O wild and dismal night storm, with wind--O belching and desperate!
-  O shade so sedate and decorous by day, with calm countenance and
-      regulated pace,
-  But away at night as you fly, none looking--O then the unloosen’d ocean,
-  Of tears! tears! tears!
+  Tears! tears! tears!  
+  In the night, in solitude, tears,  
+  On the white shore dripping, dripping, suck’d in by the sand,  
+  Tears, not a star shining, all dark and desolate,  
+  Moist tears from the eyes of a muffled head;  
+  O who is that ghost? that form in the dark, with tears?  
+  What shapeless lump is that, bent, crouch’d there on the sand?  
+  Streaming tears, sobbing tears, throes, choked with wild cries;  
+  O storm, embodied, rising, careering with swift steps along the beach!  
+  O wild and dismal night storm, with wind--O belching and desperate!  
+  O shade so sedate and decorous by day, with calm countenance and  
+      regulated pace,  
+  But away at night as you fly, none looking--O then the unloosen’d ocean,  
+  Of tears! tears! tears!  

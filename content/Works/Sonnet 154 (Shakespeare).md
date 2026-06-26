@@ -18,8 +18,6 @@ tags:
   - concept/temptation
 ---
 
-# Sonnet 154
-
 *by Shakespeare*  ·  **Cluster:** [[Greek Mythology · Lust Sexual Desire · Desire]]
 
 > [!abstract] 
@@ -34,17 +32,17 @@ tags:
 
 ## Testo integrale / Full text
 
-The little love-god lying once asleep 
-Laid by his side his heart-inflaming brand, 
-Whilst many nymphs that vowed chaste life to keep 
-Came tripping by; but in her maiden hand 
-The fairest votary took up that fire 
-Which many legions of true hearts had warmed, 
-And so the general of hot desire 
-Was sleeping by a virgin hand disarmed. 
-This brand she quenched in a cool well by, 
-Which from love’s fire took heat perpetual, 
-Growing a bath and healthful remedy 
-For men diseased; but I, my mistress’ thrall, 
-Came there for cure; and this by that I prove: 
-Love’s fire heats water, water cools not love.
+The little love-god lying once asleep  
+Laid by his side his heart-inflaming brand,  
+Whilst many nymphs that vowed chaste life to keep  
+Came tripping by; but in her maiden hand  
+The fairest votary took up that fire  
+Which many legions of true hearts had warmed,  
+And so the general of hot desire  
+Was sleeping by a virgin hand disarmed.  
+This brand she quenched in a cool well by,  
+Which from love’s fire took heat perpetual,  
+Growing a bath and healthful remedy  
+For men diseased; but I, my mistress’ thrall,  
+Came there for cure; and this by that I prove:  
+Love’s fire heats water, water cools not love.  

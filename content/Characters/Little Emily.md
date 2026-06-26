@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Little Emily
-
 *Character* — appears in **1** work(s).
 
 ## Works

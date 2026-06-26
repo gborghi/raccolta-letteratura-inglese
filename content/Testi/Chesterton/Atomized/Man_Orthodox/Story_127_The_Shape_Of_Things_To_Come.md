@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Man Orthodox — The Shape Of Things To Come
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Man-Orthodox-(Chesterton)">Man Orthodox</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_126_The_Tyrannical_Sceptic">‹ Story 126 The Tyrannical Sceptic</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Man_Orthodox/Story_128_Sky_Signs">Story 128 Sky Signs ›</a></div>

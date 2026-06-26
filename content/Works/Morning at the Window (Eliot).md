@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# Morning at the Window
-
 *by Eliot*  ·  **Cluster:** [[Alienation · Outsider · Exile]]
 
 > [!abstract] 
@@ -31,24 +29,24 @@ tags:
 
 ## Testo integrale / Full text
 
-Morning at the Window
-They are rattling breakfast plates in basement kitchens,
-And along the trampled edges of the street
-I am aware of the damp souls of housemaids
-Sprouting despondently at area gates.
-The brown waves of fog toss up to me
-Twisted faces from the bottom of the street,
-And tear from a passer-by with muddy skirts
-An aimless smile that hovers in the air
-And vanishes along the level of the roofs.
+Morning at the Window  
+They are rattling breakfast plates in basement kitchens,  
+And along the trampled edges of the street  
+I am aware of the damp souls of housemaids  
+Sprouting despondently at area gates.  
+The brown waves of fog toss up to me  
+Twisted faces from the bottom of the street,  
+And tear from a passer-by with muddy skirts  
+An aimless smile that hovers in the air  
+And vanishes along the level of the roofs.  
 
-The Boston Evening Transcript
-The readers of the Boston Evening Transcript
-Sway in the wind like a field of ripe corn.
-When evening quickens faintly in the street,
-Wakening the appetites of life in some
-And to others bringing the Boston Evening Transcript,
-I mount the steps and ring the bell, turning
-Wearily, as one would turn to nod good-bye to La Rochefoucauld,
-If the street were time and he at the end of the street,
-And I say, ‘Cousin Harriet, here is the Boston Evening Transcript.’
+The Boston Evening Transcript  
+The readers of the Boston Evening Transcript  
+Sway in the wind like a field of ripe corn.  
+When evening quickens faintly in the street,  
+Wakening the appetites of life in some  
+And to others bringing the Boston Evening Transcript,  
+I mount the steps and ring the bell, turning  
+Wearily, as one would turn to nod good-bye to La Rochefoucauld,  
+If the street were time and he at the end of the street,  
+And I say, ‘Cousin Harriet, here is the Boston Evening Transcript.’  

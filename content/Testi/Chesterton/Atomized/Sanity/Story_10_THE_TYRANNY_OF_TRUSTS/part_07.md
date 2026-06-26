@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Sanity — THE TYRANNY OF TRUSTS (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Sanity-(Chesterton)">Sanity</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Sanity/Story_10_THE_TYRANNY_OF_TRUSTS/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Sanity/Story_10_THE_TYRANNY_OF_TRUSTS/part_08">part 08 ›</a></div>

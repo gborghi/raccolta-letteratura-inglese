@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Sleep
-
 *Motif* — appears in **62** work(s).
 
 ## Works

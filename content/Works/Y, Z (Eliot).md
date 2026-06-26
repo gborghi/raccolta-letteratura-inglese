@@ -13,8 +13,6 @@ tags:
   - concept/the_artist_and_society
 ---
 
-# Y, Z
-
 *by Eliot*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

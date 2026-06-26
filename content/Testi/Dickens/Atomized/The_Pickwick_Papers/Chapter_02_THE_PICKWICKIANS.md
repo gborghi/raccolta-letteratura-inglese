@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 1: THE PICKWICKIANS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_01_IN_WHICH_THE_PICKWICK_CLUB_IS">‹ Chapter 01 IN WHICH THE PICKWICK CLUB IS</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_03_THE_FIRST_DAYS_JOURNEY_AND_THE">Chapter 03 THE FIRST DAYS JOURNEY AND THE ›</a></div>

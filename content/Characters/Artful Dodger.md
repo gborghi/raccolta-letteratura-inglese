@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Artful Dodger
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Much Ado About Nothing — Act III, Scene 3 — exchange (CONRAD) [3]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Tempest — Act II, Scene 1 — monologue (TRINCULO) [7]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TEMPEST-(Shakespeare)">The Tempest</a></div>
 </nav>

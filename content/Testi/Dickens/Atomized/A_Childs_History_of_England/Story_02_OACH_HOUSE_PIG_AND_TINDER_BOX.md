@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# A Child's History of England — OACH-HOUSE, PIG AND TINDER-BOX.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/A-Child's-History-of-England-(Dickens)">A Childs History of England</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_01_UDFOG_is_a_pleasant_towna_remarkably_ple">‹ Story 01 UDFOG is a pleasant towna remarkably ple</a><a class="ex-next" href="/Testi/Dickens/Atomized/A_Childs_History_of_England/Story_03_OACH_HOUSE_ORIGINAL_PIG">Story 03 OACH HOUSE ORIGINAL PIG ›</a></div>

@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Identity · Free Verse · Eternal Return
-
 *Cluster* — **66 works**.
 
 ## Defining concepts

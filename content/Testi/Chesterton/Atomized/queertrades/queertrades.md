@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# queertrades
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/queertrades-(Chesterton)">queertrades</a></div>
 </nav>

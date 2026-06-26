@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Wars of the Roses
-
 *Cluster* — **4 works**.
 
 ## Defining concepts

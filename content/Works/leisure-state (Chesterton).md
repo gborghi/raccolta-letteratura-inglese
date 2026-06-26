@@ -16,8 +16,6 @@ tags:
   - histref/the_industrial_revolution
 ---
 
-# leisure-state
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

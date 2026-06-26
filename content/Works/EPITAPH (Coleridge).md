@@ -16,8 +16,6 @@ tags:
   - form/epigram
 ---
 
-# EPITAPH
-
 *by Coleridge*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -33,12 +31,12 @@ tags:
 
 ## Testo integrale / Full text
 
-Stop, Christian passer-by! — Stop, child of God,
-And read with gentle breast. Beneath this sod
-A poet lies, or that which once seem’d he.
-O, lift one thought in prayer for S. T. C.;
-That he who many a year with toil of breath   5
-Found death in life, may here find life in death!
-Mercy for praise — to be forgiven for fame
-He ask’d, and hoped, through Christ. Do thou the same!
-9th November, 1833.
+Stop, Christian passer-by! — Stop, child of God,  
+And read with gentle breast. Beneath this sod  
+A poet lies, or that which once seem’d he.  
+O, lift one thought in prayer for S. T. C.;  
+That he who many a year with toil of breath   5  
+Found death in life, may here find life in death!  
+Mercy for praise — to be forgiven for fame  
+He ask’d, and hoped, through Christ. Do thou the same!  
+9th November, 1833.  

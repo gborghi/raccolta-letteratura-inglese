@@ -15,8 +15,6 @@ tags:
   - form/epigram
 ---
 
-# REASON FOR LOVE’S BLINDNESS
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -31,12 +29,12 @@ tags:
 
 ## Testo integrale / Full text
 
-I have heard of reasons manifold
-Why Love must needs be blind,
-But this the best of all I hold —
-His eyes are in his mind.
-What outward form and feature are   5
-He guesseth but in part;
-But that within is good and fair
-He seeth with the heart.
-? 1811.
+I have heard of reasons manifold  
+Why Love must needs be blind,  
+But this the best of all I hold —  
+His eyes are in his mind.  
+What outward form and feature are   5  
+He guesseth but in part;  
+But that within is good and fair  
+He seeth with the heart.  
+? 1811.  

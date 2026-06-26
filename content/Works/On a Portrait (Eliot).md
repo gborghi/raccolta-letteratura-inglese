@@ -16,8 +16,6 @@ tags:
   - motif/the_city
 ---
 
-# On a Portrait
-
 *by Eliot*  ·  **Cluster:** [[Appearance vs Reality · Beauty · Eyes and Sight]]
 
 > [!abstract] 
@@ -32,28 +30,28 @@ tags:
 
 ## Testo integrale / Full text
 
-On a Portrait
-Among a crowd of tenuous dreams, unknown
-To us of restless brain and weary feet,
-Forever hurrying, up and down the street,
-She stands at evening in the room alone.
-Not like a tranquil goddess carved of stone
-But evanescent, as if one should meet
-A pensive lamia in some wood-retreat,
-An immaterial fancy of one’s own.
-No meditations glad or ominous
-Disturb her lips, or move the slender hands;
-Her dark eyes keep their secrets hid from us,
-Beyond the circle of our thought she stands.
-The parrot on his bar, a silent spy,
-Regards her with a patient curious eye.
+On a Portrait  
+Among a crowd of tenuous dreams, unknown  
+To us of restless brain and weary feet,  
+Forever hurrying, up and down the street,  
+She stands at evening in the room alone.  
+Not like a tranquil goddess carved of stone  
+But evanescent, as if one should meet  
+A pensive lamia in some wood-retreat,  
+An immaterial fancy of one’s own.  
+No meditations glad or ominous  
+Disturb her lips, or move the slender hands;  
+Her dark eyes keep their secrets hid from us,  
+Beyond the circle of our thought she stands.  
+The parrot on his bar, a silent spy,  
+Regards her with a patient curious eye.  
 
-Song: ‘The moonflower opens to the moth’
-The moonflower opens to the moth,
-   The mist crawls in from sea;
-A great white bird, a snowy owl,
-   Slips from the alder tree.
-Whiter the flowers, Love, you hold,
-   Than the white mist on the sea;
-Have you no brighter tropic flowers
-   With scarlet life, for me?
+Song: ‘The moonflower opens to the moth’  
+The moonflower opens to the moth,  
+   The mist crawls in from sea;  
+A great white bird, a snowy owl,  
+   Slips from the alder tree.  
+Whiter the flowers, Love, you hold,  
+   Than the white mist on the sea;  
+Have you no brighter tropic flowers  
+   With scarlet life, for me?  

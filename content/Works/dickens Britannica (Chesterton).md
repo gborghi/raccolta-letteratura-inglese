@@ -17,8 +17,6 @@ tags:
   - concept/poverty
 ---
 
-# dickens Britannica
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

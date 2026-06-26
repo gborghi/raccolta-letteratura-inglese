@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Edward the Black Prince
-
 *Character* — appears in **1** work(s).
 
 ## Works

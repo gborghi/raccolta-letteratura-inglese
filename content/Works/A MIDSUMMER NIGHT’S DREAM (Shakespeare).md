@@ -38,8 +38,6 @@ tags:
   - character/demetrius
 ---
 
-# A MIDSUMMER NIGHT’S DREAM
-
 *by Shakespeare*  ·  **Cluster:** [[Dreams · Moon]]
 
 > [!abstract] 

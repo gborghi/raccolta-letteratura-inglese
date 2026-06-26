@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Self-Made Man
-
 *Archetype* — appears in **16** work(s).
 
 ## Works

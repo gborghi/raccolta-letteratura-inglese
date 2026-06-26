@@ -14,8 +14,6 @@ tags:
   - concept/reform
 ---
 
-# Still Though the One I Sing
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -29,10 +27,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Still though the one I sing,
-  (One, yet of contradictions made,) I dedicate to Nationality,
-  I leave in him revolt, (O latent right of insurrection! O
-      quenchless, indispensable fire!)
+  Still though the one I sing,  
+  (One, yet of contradictions made,) I dedicate to Nationality,  
+  I leave in him revolt, (O latent right of insurrection! O  
+      quenchless, indispensable fire!)  

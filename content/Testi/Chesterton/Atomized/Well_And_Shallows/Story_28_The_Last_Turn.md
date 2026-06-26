@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Last Turn
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_27_The_Backward_Bolshie">‹ Story 27 The Backward Bolshie</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_29_The_New_Luther">Story 29 The New Luther ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Gentlemen of Verona — Act III, Scene 1 — exchange (VALENTINE) [6]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-GENTLEMEN-OF-VERONA-(Shakespeare)">The Two Gentlemen of Verona</a></div>
 </nav>

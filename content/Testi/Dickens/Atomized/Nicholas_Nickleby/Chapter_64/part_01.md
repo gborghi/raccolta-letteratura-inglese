@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Nicholas Nickleby — Chapter 64 (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Nicholas-Nickleby-(Dickens)">Nicholas Nickleby</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_63/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Nicholas_Nickleby/Chapter_64/part_02">part 02 ›</a></div>

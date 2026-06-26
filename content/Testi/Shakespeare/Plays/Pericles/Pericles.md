@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# PERICLES
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/PERICLES-(Shakespeare)">Pericles</a></div>
 </nav>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# What is Right With the World
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/What-is-Right-With-the-World-(Chesterton)">What is Right With the World</a></div>
 </nav>

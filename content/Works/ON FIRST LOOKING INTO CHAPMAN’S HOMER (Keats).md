@@ -15,8 +15,6 @@ tags:
   - motif/stars
 ---
 
-# ON FIRST LOOKING INTO CHAPMAN’S HOMER
-
 *by Keats*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -31,17 +29,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Much have I traveled in the realms of gold,
-  And many goodly states and kingdoms seen;
-  Round many western islands have I been
-Which bards in fealty to Apollo hold.
-Oft of one wide expanse had I been told
-  That deep-brow’d Homer ruled as his demesne;
-  Yet did I never breathe its pure serene
-Till I heard Chapman speak out loud and bold:
-Then felt I like some watcher of the skies
-  When a new planet swims into his ken;
-Or like stout Cortez when with eagle eyes
-  He star’d at the Pacific — and all his men
-Look’d at each other with a wild surmise —
-  Silent, upon a peak in Darien.
+Much have I traveled in the realms of gold,  
+  And many goodly states and kingdoms seen;  
+  Round many western islands have I been  
+Which bards in fealty to Apollo hold.  
+Oft of one wide expanse had I been told  
+  That deep-brow’d Homer ruled as his demesne;  
+  Yet did I never breathe its pure serene  
+Till I heard Chapman speak out loud and bold:  
+Then felt I like some watcher of the skies  
+  When a new planet swims into his ken;  
+Or like stout Cortez when with eagle eyes  
+  He star’d at the Pacific — and all his men  
+Look’d at each other with a wild surmise —  
+  Silent, upon a peak in Darien.  

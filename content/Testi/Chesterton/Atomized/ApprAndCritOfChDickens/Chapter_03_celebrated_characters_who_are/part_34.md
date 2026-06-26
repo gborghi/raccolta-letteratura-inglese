@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# ApprAndCritOfChDickens — Book 2: celebrated characters who are both especially exuberant and (part 34)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/ApprAndCritOfChDickens-(Chesterton)">ApprAndCritOfChDickens</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are/part_33">‹ part 33</a><a class="ex-next" href="/Testi/Chesterton/Atomized/ApprAndCritOfChDickens/Chapter_03_celebrated_characters_who_are/part_35">part 35 ›</a></div>

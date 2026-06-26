@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# CYMBELINE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/CYMBELINE-(Shakespeare)">Cymbeline</a></div>
 </nav>

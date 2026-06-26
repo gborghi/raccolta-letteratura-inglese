@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Aesthetes in the Kitchen Garden
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_18_The_Blindness_of_the_Sightseer">‹ Story 18 The Blindness of the Sightseer</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_20_The_Need_of_Personalities_in_Politics">Story 20 The Need of Personalities in Politics ›</a></div>

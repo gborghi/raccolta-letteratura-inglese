@@ -14,8 +14,6 @@ tags:
   - concept/the_body
 ---
 
-# We Two Boys Together Clinging
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

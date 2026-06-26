@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Verona
-
 *Setting* — appears in **2** work(s).
 
 ## Works

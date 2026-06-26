@@ -20,8 +20,6 @@ tags:
   - character/hamlet
 ---
 
-# midsummer nights dream
-
 *by Chesterton*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

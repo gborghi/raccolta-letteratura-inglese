@@ -14,8 +14,6 @@ tags:
   - motif/leaves
 ---
 
-# A Leaf for Hand in Hand
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

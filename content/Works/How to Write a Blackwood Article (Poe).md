@@ -20,8 +20,6 @@ tags:
   - form/literary_criticism
 ---
 
-# How to Write a Blackwood Article
-
 *by Poe*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

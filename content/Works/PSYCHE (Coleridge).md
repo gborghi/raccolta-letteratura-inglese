@@ -16,8 +16,6 @@ tags:
   - form/epigram
 ---
 
-# PSYCHE
-
 *by Coleridge*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 
@@ -32,11 +30,11 @@ tags:
 
 ## Testo integrale / Full text
 
-The butterfly the ancient Grecians made
-The soul’s fair emblem, and its only name —
-But of the soul, escaped the slavish trade
-Of mortal life! — For in this earthly frame
-Ours is the reptile’s lot, much toil, much blame,   5
-Manifold motions making little speed,
-And to deform and kill the things whereon we feed.
-1808.
+The butterfly the ancient Grecians made  
+The soul’s fair emblem, and its only name —  
+But of the soul, escaped the slavish trade  
+Of mortal life! — For in this earthly frame  
+Ours is the reptile’s lot, much toil, much blame,   5  
+Manifold motions making little speed,  
+And to deform and kill the things whereon we feed.  
+1808.  

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Black Cat (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Black-Cat-(Poe)">The Black Cat</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Black_Cat/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Black_Cat/part/part_03">part 03 ›</a></div>

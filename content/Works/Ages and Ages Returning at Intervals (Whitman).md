@@ -15,8 +15,6 @@ tags:
   - histref/the_bible
 ---
 
-# Ages and Ages Returning at Intervals
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CHILDREN OF ADAM_
+_Cluster: CHILDREN OF ADAM_  
 
 
-  Ages and ages returning at intervals,
-  Undestroy’d, wandering immortal,
-  Lusty, phallic, with the potent original loins, perfectly sweet,
-  I, chanter of Adamic songs,
-  Through the new garden the West, the great cities calling,
-  Deliriate, thus prelude what is generated, offering these, offering myself,
-  Bathing myself, bathing my songs in Sex,
-  Offspring of my loins.
+  Ages and ages returning at intervals,  
+  Undestroy’d, wandering immortal,  
+  Lusty, phallic, with the potent original loins, perfectly sweet,  
+  I, chanter of Adamic songs,  
+  Through the new garden the West, the great cities calling,  
+  Deliriate, thus prelude what is generated, offering these, offering myself,  
+  Bathing myself, bathing my songs in Sex,  
+  Offspring of my loins.  

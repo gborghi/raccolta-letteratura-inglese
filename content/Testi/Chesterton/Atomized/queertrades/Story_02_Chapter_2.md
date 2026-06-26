@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# queertrades — Chapter 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/queertrades-(Chesterton)">queertrades</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/queertrades/Story_01_Chapter_1">‹ Story 01 Chapter 1</a><a class="ex-next" href="/Testi/Chesterton/Atomized/queertrades/Story_03_Chapter_3">Story 03 Chapter 3 ›</a></div>

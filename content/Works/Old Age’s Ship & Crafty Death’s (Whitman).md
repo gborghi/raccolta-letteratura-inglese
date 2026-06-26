@@ -16,8 +16,6 @@ tags:
   - form/free_verse
 ---
 
-# Old Age’s Ship & Crafty Death’s
-
 *by Whitman*  ·  **Cluster:** [[Ship · Endurance]]
 
 > [!abstract] 
@@ -33,15 +31,15 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  From east and west across the horizon’s edge,
-  Two mighty masterful vessels sailers steal upon us:
-  But we’ll make race a-time upon the seas--a battle-contest yet! bear
-      lively there!
-  (Our joys of strife and derring-do to the last!)
-  Put on the old ship all her power to-day!
-  Crowd top-sail, top-gallant and royal studding-sails,
-  Out challenge and defiance--flags and flaunting pennants added,
-  As we take to the open--take to the deepest, freest waters.
+  From east and west across the horizon’s edge,  
+  Two mighty masterful vessels sailers steal upon us:  
+  But we’ll make race a-time upon the seas--a battle-contest yet! bear  
+      lively there!  
+  (Our joys of strife and derring-do to the last!)  
+  Put on the old ship all her power to-day!  
+  Crowd top-sail, top-gallant and royal studding-sails,  
+  Out challenge and defiance--flags and flaunting pennants added,  
+  As we take to the open--take to the deepest, freest waters.  

@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# A Predicament (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/A-Predicament-(Poe)">A Predicament</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/A_Predicament/part/part_03">‹ part 03</a><span></span></div>

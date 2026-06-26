@@ -30,8 +30,6 @@ tags:
   - character/the_remarkable_rocket
 ---
 
-# The Remarkable Rocket
-
 *by Wilde*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

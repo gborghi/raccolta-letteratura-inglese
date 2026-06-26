@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Romeo and Juliet — Act III, Scene 1 — monologue (BENVOLIO) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/ROMEO-AND-JULIET-(Shakespeare)">Romeo and Juliet</a></div>
 </nav>

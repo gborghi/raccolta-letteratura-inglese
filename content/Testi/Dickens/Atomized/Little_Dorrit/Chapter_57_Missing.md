@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 17: Missing
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_56_Getting_on">‹ Chapter 56 Getting on</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_58_A_Castle_in_the_Air">Chapter 58 A Castle in the Air ›</a></div>

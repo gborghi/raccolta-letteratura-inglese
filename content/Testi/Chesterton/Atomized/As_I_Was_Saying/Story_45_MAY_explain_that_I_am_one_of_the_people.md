@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — MAY explain that I am one of the people who really like weddings.
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_44_T_amuses_me_to_think_that_amid_all_the_i">‹ Story 44 T amuses me to think that amid all the i</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_36_ABOUT_ROYAL_WEDDINGS/part_01">part 01 ›</a></div>

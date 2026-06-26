@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Ode
-
 *Form/Genre* — appears in **61** work(s).
 
 ## Works

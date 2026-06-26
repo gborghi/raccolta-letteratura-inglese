@@ -34,8 +34,6 @@ tags:
   - character/doctor_caius
 ---
 
-# THE MERRY WIVES OF WINDSOR
-
 *by Shakespeare*  ·  **Cluster:** [[World Upside Down · Comedy]]
 
 > [!abstract] 

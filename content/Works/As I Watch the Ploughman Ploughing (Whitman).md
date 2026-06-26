@@ -14,8 +14,6 @@ tags:
   - form/epigram
 ---
 
-# As I Watch the Ploughman Ploughing
-
 *by Whitman*  ·  **Cluster:** [[Mortality · Grave · Memento Mori]]
 
 > [!abstract] 
@@ -30,10 +28,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: WHISPERS OF HEAVENLY DEATH_
+_Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
-  As I watch’d the ploughman ploughing,
-  Or the sower sowing in the fields, or the harvester harvesting,
-  I saw there too, O life and death, your analogies;
-  (Life, life is the tillage, and Death is the harvest according.)
+  As I watch’d the ploughman ploughing,  
+  Or the sower sowing in the fields, or the harvester harvesting,  
+  I saw there too, O life and death, your analogies;  
+  (Life, life is the tillage, and Death is the harvest according.)  

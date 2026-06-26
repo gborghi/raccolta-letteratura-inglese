@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Little Dorrit — Chapter 15: No just Cause or Impediment why these Two Persons (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Little-Dorrit-(Dickens)">Little Dorrit</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_54_Taking_Advice/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Dickens/Atomized/Little_Dorrit/Chapter_55_No_just_Cause_or_Impediment_wh/part_02">part 02 ›</a></div>

@@ -15,8 +15,6 @@ tags:
   - topos/book_of_nature
 ---
 
-# one leg
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

@@ -20,8 +20,6 @@ tags:
   - archetype/fool
 ---
 
-# Poet and Lunatics
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

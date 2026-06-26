@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Gold-Bug
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Gold-Bug-(Poe)">The Gold Bug</a></div>
 </nav>

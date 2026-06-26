@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# everlasting man
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/everlasting-man-(Chesterton)">everlasting man</a></div>
 </nav>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# John Harmon
-
 *Character* — appears in **1** work(s).
 
 ## Works

@@ -14,8 +14,6 @@ tags:
   - motif/nature
 ---
 
-# The Prairie-Grass Dividing
-
 *by Whitman*  ·  **Cluster:** [[Nature · Book of Nature · Natural Order]]
 
 > [!abstract] 

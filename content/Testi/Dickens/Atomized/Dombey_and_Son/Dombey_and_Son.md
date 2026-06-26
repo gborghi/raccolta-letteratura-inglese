@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Dombey and Son
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Dombey-and-Son-(Dickens)">Dombey and Son</a></div>
 </nav>

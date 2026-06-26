@@ -26,8 +26,6 @@ tags:
   - archetype/detective
 ---
 
-# Incredulity
-
 *by Chesterton*  ·  **Cluster:** [[Short Story · Concealment Hidden Identity · Justice Right and Wrong]]
 
 > [!abstract] 

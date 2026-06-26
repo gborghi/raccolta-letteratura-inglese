@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — ANY modern debates are still revolving round the old question, even if
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_39_CONFESS_that_to_me_the_celebration_of_th">‹ Story 39 CONFESS that to me the celebration of th</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_41_T_is_often_said_truly_though_perhaps_not">Story 41 T is often said truly though perhaps not ›</a></div>

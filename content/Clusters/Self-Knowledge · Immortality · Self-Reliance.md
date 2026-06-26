@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Self-Knowledge · Immortality · Self-Reliance
-
 *Cluster* — **92 works**.
 
 ## Defining concepts

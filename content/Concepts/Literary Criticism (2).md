@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Literary Criticism
-
 *Theme/Concept* — appears in **5** work(s).
 
 ## Works

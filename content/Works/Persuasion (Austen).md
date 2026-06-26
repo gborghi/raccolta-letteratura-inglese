@@ -38,8 +38,6 @@ tags:
   - character/elizabeth_elliot
 ---
 
-# Persuasion
-
 *by Austen*  ·  **Cluster:** [[Problem Play]]
 
 > [!abstract] 

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Elegy
-
 *Form/Genre* — appears in **111** work(s).
 
 ## Works

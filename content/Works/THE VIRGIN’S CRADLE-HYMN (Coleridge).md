@@ -18,8 +18,6 @@ tags:
   - form/hymn
 ---
 
-# THE VIRGIN’S CRADLE-HYMN
-
 *by Coleridge*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -35,10 +33,10 @@ tags:
 
 ## Testo integrale / Full text
 
-COPIED FROM A PRINT OF THE VIRGIN IN A ROMAN CATHOLIC VILLAGE IN GERMANY
-Dormi, Jesu! Mater ridet
-Quae tam dulcem somnum videt,
-Dormi, Jesu! blandule!
-Si non dormis, Mater plorat,
-Inter fila cantans orat,   5
-Blande, veni, somnule.
+COPIED FROM A PRINT OF THE VIRGIN IN A ROMAN CATHOLIC VILLAGE IN GERMANY  
+Dormi, Jesu! Mater ridet  
+Quae tam dulcem somnum videt,  
+Dormi, Jesu! blandule!  
+Si non dormis, Mater plorat,  
+Inter fila cantans orat,   5  
+Blande, veni, somnule.  

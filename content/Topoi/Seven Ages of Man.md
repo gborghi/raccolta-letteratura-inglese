@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Seven Ages of Man
-
 *Topos* — appears in **6** work(s).
 
 ## Works

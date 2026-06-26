@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The Crime of the Communist
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_05_The_Pursuit_of_Mr_Blue">‹ Story 05 The Pursuit of Mr Blue</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_07_The_gardens_had_been_tended_so_carefully">Story 07 The gardens had been tended so carefully ›</a></div>

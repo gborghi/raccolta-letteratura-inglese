@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Dreams · Moon
-
 *Cluster* — **26 works**.
 
 ## Defining concepts

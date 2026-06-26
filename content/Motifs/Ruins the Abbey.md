@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Ruins / the Abbey
-
 *Motif* — appears in **34** work(s).
 
 ## Works

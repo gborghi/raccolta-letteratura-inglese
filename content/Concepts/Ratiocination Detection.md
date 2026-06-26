@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Ratiocination / Detection
-
 *Theme/Concept* — appears in **25** work(s).
 
 ## Works

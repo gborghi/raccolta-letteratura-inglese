@@ -15,8 +15,6 @@ tags:
   - form/lyric
 ---
 
-# Delicate Cluster
-
 *by Whitman*  ·  **Cluster:** [[Nationalism and Patriotism · Democracy · Liberty Political Freedom]]
 
 > [!abstract] 
@@ -31,14 +29,14 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: DRUM-TAPS_
+_Cluster: DRUM-TAPS_  
 
 
-  Delicate cluster! flag of teeming life!
-  Covering all my lands--all my seashores lining!
-  Flag of death! (how I watch’d you through the smoke of battle pressing!
-  How I heard you flap and rustle, cloth defiant!)
-  Flag cerulean--sunny flag, with the orbs of night dappled!
-  Ah my silvery beauty--ah my woolly white and crimson!
-  Ah to sing the song of you, my matron mighty!
-  My sacred one, my mother.
+  Delicate cluster! flag of teeming life!  
+  Covering all my lands--all my seashores lining!  
+  Flag of death! (how I watch’d you through the smoke of battle pressing!  
+  How I heard you flap and rustle, cloth defiant!)  
+  Flag cerulean--sunny flag, with the orbs of night dappled!  
+  Ah my silvery beauty--ah my woolly white and crimson!  
+  Ah to sing the song of you, my matron mighty!  
+  My sacred one, my mother.  

@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Open Road / Homecoming
-
 *Topos* — appears in **31** work(s).
 
 ## Works

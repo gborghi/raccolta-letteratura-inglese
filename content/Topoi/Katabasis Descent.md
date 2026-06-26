@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Katabasis / Descent
-
 *Topos* — appears in **14** work(s).
 
 ## Works

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Irish Impressions — An Example and a Question
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Irish-Impressions-(Chesterton)">Irish Impressions</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_07_The_Mistake_of_Ireland">‹ Story 07 The Mistake of Ireland</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Irish_Impressions/Story_09_Belfast_and_the_Religious_Problem">Story 09 Belfast and the Religious Problem ›</a></div>

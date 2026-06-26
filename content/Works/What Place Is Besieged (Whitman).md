@@ -14,8 +14,6 @@ tags:
   - archetype/hero
 ---
 
-# What Place Is Besieged?
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -31,10 +29,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  What place is besieged, and vainly tries to raise the siege?
-  Lo, I send to that place a commander, swift, brave, immortal,
-  And with him horse and foot, and parks of artillery,
-  And artillery-men, the deadliest that ever fired gun.
+  What place is besieged, and vainly tries to raise the siege?  
+  Lo, I send to that place a commander, swift, brave, immortal,  
+  And with him horse and foot, and parks of artillery,  
+  And artillery-men, the deadliest that ever fired gun.  

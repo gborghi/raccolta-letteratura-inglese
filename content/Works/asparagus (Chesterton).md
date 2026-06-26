@@ -18,8 +18,6 @@ tags:
   - histref/the_french_revolution
 ---
 
-# asparagus
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

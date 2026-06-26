@@ -14,8 +14,6 @@ tags:
   - histref/the_romantic_movement
 ---
 
-# NOTES BY PROFESSOR SAINTSBURY
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

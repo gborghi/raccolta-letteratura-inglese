@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Defendant — A DEFENCE OF HERALDRY
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Defendant-(Chesterton)">The Defendant</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Defendant/Story_10_A_DEFENCE_OF_USEFUL_INFORMATION">‹ Story 10 A DEFENCE OF USEFUL INFORMATION</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Defendant/Story_12_A_DEFENCE_OF_UGLY_THINGS">Story 12 A DEFENCE OF UGLY THINGS ›</a></div>

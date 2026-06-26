@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# New Jerusalem — Chapter 13 (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/New-Jerusalem-(Chesterton)">New Jerusalem</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_13/part_06">‹ part 06</a><a class="ex-next" href="/Testi/Chesterton/Atomized/New_Jerusalem/Chapter_13/part_08">part 08 ›</a></div>

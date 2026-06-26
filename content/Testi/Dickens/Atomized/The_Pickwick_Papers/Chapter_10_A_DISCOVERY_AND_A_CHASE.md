@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 9: A DISCOVERY AND A CHASE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_09_STRONGLY_ILLUSTRATIVE_OF_THE_P">‹ Chapter 09 STRONGLY ILLUSTRATIVE OF THE P</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_11_CLEARING_UP_ALL_DOUBTS_IF_ANY">Chapter 11 CLEARING UP ALL DOUBTS IF ANY ›</a></div>

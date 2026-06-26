@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# Oliver Twist
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/Oliver-Twist-(Dickens)">Oliver Twist</a></div>
 </nav>

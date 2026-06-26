@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Damsel
-
 *Cluster* — **1 works**.
 
 ## Defining concepts

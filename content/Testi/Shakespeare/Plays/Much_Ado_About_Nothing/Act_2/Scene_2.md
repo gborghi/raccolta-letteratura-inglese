@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Much Ado About Nothing — Act II, Scene 2
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/MUCH-ADO-ABOUT-NOTHING-(Shakespeare)">Much Ado About Nothing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Much_Ado_About_Nothing/Act_2/Scene_1">‹ Scene 1</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Much_Ado_About_Nothing/Act_2/Scene_3">Scene 3 ›</a></div>

@@ -14,8 +14,6 @@ tags:
   - topos/eternal_return
 ---
 
-# Savantism
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -30,13 +28,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: INSCRIPTIONS_
+_Cluster: INSCRIPTIONS_  
 
 
-  Thither as I look I see each result and glory retracing itself and
-      nestling close, always obligated,
-  Thither hours, months, years--thither trades, compacts,
-      establishments, even the most minute,
-  Thither every-day life, speech, utensils, politics, persons, estates;
-  Thither we also, I with my leaves and songs, trustful, admirant,
-  As a father to his father going takes his children along with him.
+  Thither as I look I see each result and glory retracing itself and  
+      nestling close, always obligated,  
+  Thither hours, months, years--thither trades, compacts,  
+      establishments, even the most minute,  
+  Thither every-day life, speech, utensils, politics, persons, estates;  
+  Thither we also, I with my leaves and songs, trustful, admirant,  
+  As a father to his father going takes his children along with him.  

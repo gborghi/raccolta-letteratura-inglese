@@ -16,8 +16,6 @@ tags:
   - concept/sexuality
 ---
 
-# To the Garden the World
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -34,18 +32,18 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: CHILDREN OF ADAM_
+_Cluster: CHILDREN OF ADAM_  
 
 
-  To the garden the world anew ascending,
-  Potent mates, daughters, sons, preluding,
-  The love, the life of their bodies, meaning and being,
-  Curious here behold my resurrection after slumber,
-  The revolving cycles in their wide sweep having brought me again,
-  Amorous, mature, all beautiful to me, all wondrous,
-  My limbs and the quivering fire that ever plays through them, for
-      reasons, most wondrous,
-  Existing I peer and penetrate still,
-  Content with the present, content with the past,
-  By my side or back of me Eve following,
-  Or in front, and I following her just the same.
+  To the garden the world anew ascending,  
+  Potent mates, daughters, sons, preluding,  
+  The love, the life of their bodies, meaning and being,  
+  Curious here behold my resurrection after slumber,  
+  The revolving cycles in their wide sweep having brought me again,  
+  Amorous, mature, all beautiful to me, all wondrous,  
+  My limbs and the quivering fire that ever plays through them, for  
+      reasons, most wondrous,  
+  Existing I peer and penetrate still,  
+  Content with the present, content with the past,  
+  By my side or back of me Eve following,  
+  Or in front, and I following her just the same.  

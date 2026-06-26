@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — On the Negative Spirit (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_01_Introductory_Remarks_on_the_Importance_o/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_02_On_the_Negative_Spirit/part_02">part 02 ›</a></div>

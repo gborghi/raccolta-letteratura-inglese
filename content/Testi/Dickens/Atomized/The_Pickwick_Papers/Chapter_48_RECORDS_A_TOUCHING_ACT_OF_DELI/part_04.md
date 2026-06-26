@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 46: RECORDS A TOUCHING ACT OF DELICATE FEELING, NOT UNMIXED (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_48_RECORDS_A_TOUCHING_ACT_OF_DELI/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_49_IS_CHIEFLY_DEVOTED_TO_MATTERS/part_01">part 01 ›</a></div>

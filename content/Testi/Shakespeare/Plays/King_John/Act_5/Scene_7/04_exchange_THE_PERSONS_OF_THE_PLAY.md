@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# King John — Act V, Scene 7 — exchange (THE PERSONS OF THE PLAY) [4]
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/KING-JOHN-(Shakespeare)">King John</a></div>
 </nav>

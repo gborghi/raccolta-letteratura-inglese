@@ -26,8 +26,6 @@ tags:
   - form/short_story
 ---
 
-# The Landscape Garden
-
 *by Poe*  ·  **Cluster:** [[Flowers · Spring · Garden]]
 
 > [!abstract] 

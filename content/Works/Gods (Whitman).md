@@ -16,8 +16,6 @@ tags:
   - motif/stars
 ---
 
-# Gods
-
 *by Whitman*  ·  **Cluster:** [[Faith · Providence · Divine Love]]
 
 > [!abstract] 
@@ -31,32 +29,32 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  Lover divine and perfect Comrade,
-  Waiting content, invisible yet, but certain,
-  Be thou my God.
+  Lover divine and perfect Comrade,  
+  Waiting content, invisible yet, but certain,  
+  Be thou my God.  
 
-  Thou, thou, the Ideal Man,
-  Fair, able, beautiful, content, and loving,
-  Complete in body and dilate in spirit,
-  Be thou my God.
+  Thou, thou, the Ideal Man,  
+  Fair, able, beautiful, content, and loving,  
+  Complete in body and dilate in spirit,  
+  Be thou my God.  
 
-  O Death, (for Life has served its turn,)
-  Opener and usher to the heavenly mansion,
-  Be thou my God.
+  O Death, (for Life has served its turn,)  
+  Opener and usher to the heavenly mansion,  
+  Be thou my God.  
 
-  Aught, aught of mightiest, best I see, conceive, or know,
-  (To break the stagnant tie--thee, thee to free, O soul,)
-  Be thou my God.
+  Aught, aught of mightiest, best I see, conceive, or know,  
+  (To break the stagnant tie--thee, thee to free, O soul,)  
+  Be thou my God.  
 
-  All great ideas, the races’ aspirations,
-  All heroisms, deeds of rapt enthusiasts,
-  Be ye my Gods.
+  All great ideas, the races’ aspirations,  
+  All heroisms, deeds of rapt enthusiasts,  
+  Be ye my Gods.  
 
-  Or Time and Space,
-  Or shape of Earth divine and wondrous,
-  Or some fair shape I viewing, worship,
-  Or lustrous orb of sun or star by night,
-  Be ye my Gods.
+  Or Time and Space,  
+  Or shape of Earth divine and wondrous,  
+  Or some fair shape I viewing, worship,  
+  Or lustrous orb of sun or star by night,  
+  Be ye my Gods.  

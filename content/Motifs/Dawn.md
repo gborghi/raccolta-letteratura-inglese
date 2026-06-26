@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Dawn
-
 *Motif* — appears in **83** work(s).
 
 ## Works

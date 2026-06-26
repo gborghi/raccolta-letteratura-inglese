@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# Sir Thomas More — Scene 14
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/SIR-THOMAS-MORE-(Shakespeare)">Sir Thomas More</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_13">‹ Scene 13</a><a class="ex-next" href="/Testi/Shakespeare/Plays/Sir_Thomas_More/Scenes/Scene_15">Scene 15 ›</a></div>

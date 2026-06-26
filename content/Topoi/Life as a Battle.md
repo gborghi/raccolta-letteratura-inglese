@@ -6,8 +6,6 @@ tags:
   - graph/topos
 ---
 
-# Life as a Battle
-
 *Topos* — appears in **1** work(s).
 
 ## Works

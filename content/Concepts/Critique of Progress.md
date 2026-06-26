@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Critique of Progress
-
 *Theme/Concept* — appears in **124** work(s).
 
 ## Works

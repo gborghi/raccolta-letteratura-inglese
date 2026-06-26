@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Don Quixote — Chapter 5
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Don-Quixote-(Chesterton)">Don Quixote</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_05">‹ Chapter 05</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Don_Quixote/Chapter_07">Chapter 07 ›</a></div>

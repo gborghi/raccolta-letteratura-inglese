@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Man That Was Used Up (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Man-That-Was-Used-Up-(Poe)">The Man That Was Used Up</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Man_That_Was_Used_Up/part/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Man_That_Was_Used_Up/part/part_03">part 03 ›</a></div>

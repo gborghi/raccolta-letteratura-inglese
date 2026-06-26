@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# Elizabethan England
-
 *Historical reference* — appears in **7** work(s).
 
 ## Works

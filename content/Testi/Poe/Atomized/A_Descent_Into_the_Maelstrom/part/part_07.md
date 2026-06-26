@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# A Descent Into the Maelstrom (part 7)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/A-Descent-Into-the-Maelstrom-(Poe)">A Descent Into the Maelstrom</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/A_Descent_Into_the_Maelstrom/part/part_06">‹ part 06</a><span></span></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — R. ASA LEE PINION, of the Chicago Comet, had crossed half of America, (part 4)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_03_R_ASA_LEE_PINION_of_the_Chicago_Comet_ha/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_05_THE_BOY_WHO_MADE_A_SCENE/part_01">part 01 ›</a></div>

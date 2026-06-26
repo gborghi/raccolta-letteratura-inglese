@@ -14,8 +14,6 @@ tags:
   - concept/justice
 ---
 
-# NOT A CRITIC — BUT A JUDGE
-
 *by Coleridge*  ·  **Cluster:** [[Artist and Society · Truth · Regency Georgian England]]
 
 > [!abstract] 

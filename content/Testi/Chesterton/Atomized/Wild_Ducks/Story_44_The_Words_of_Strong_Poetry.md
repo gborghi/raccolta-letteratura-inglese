@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Words of Strong Poetry
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_43_The_Countrymen_of_Mary_Webb_and_Thomas_H">‹ Story 43 The Countrymen of Mary Webb and Thomas H</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_45_The_Refrain_of_the_Rover">Story 45 The Refrain of the Rover ›</a></div>

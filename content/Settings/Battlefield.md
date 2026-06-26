@@ -6,8 +6,6 @@ tags:
   - graph/setting
 ---
 
-# Battlefield
-
 *Setting* — appears in **34** work(s).
 
 ## Works

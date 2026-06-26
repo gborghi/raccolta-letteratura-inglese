@@ -15,8 +15,6 @@ tags:
   - motif/moon
 ---
 
-# When I Heard at the Close of the Day
-
 *by Whitman*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 

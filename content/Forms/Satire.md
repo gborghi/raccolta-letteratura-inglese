@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Satire
-
 *Form/Genre* — appears in **169** work(s).
 
 ## Works

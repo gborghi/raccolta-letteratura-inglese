@@ -14,8 +14,6 @@ tags:
   - concept/the_self
 ---
 
-# Unfolded out of the Folds
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 

@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# The Pickwick Papers — Chapter 24: WHEREIN MR. PETER MAGNUS GROWS JEALOUS, AND THE MIDDLE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/The-Pickwick-Papers-(Dickens)">The Pickwick Papers</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_25_IN_WHICH_MR_SAMUEL_WELLER_BEGI">‹ Chapter 25 IN WHICH MR SAMUEL WELLER BEGI</a><a class="ex-next" href="/Testi/Dickens/Atomized/The_Pickwick_Papers/Chapter_27_SHOWING_AMONG_A_VARIETY_OF_PLE">Chapter 27 SHOWING AMONG A VARIETY OF PLE ›</a></div>

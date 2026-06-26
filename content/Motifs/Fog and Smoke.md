@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Fog and Smoke
-
 *Motif* — appears in **26** work(s).
 
 ## Works

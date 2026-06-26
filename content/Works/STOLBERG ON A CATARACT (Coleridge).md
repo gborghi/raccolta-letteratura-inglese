@@ -15,8 +15,6 @@ tags:
   - form/hymn
 ---
 
-# STOLBERG: ON A CATARACT
-
 *by Coleridge*  ·  **Cluster:** [[Wonder and Gratitude · Sublime · Storm]]
 
 > [!abstract] 
@@ -30,17 +28,17 @@ tags:
 
 ## Testo integrale / Full text
 
-Unsterblicher Jüngling!
-Du strömest hervor
-Aus der Felsenkluft.
-Kein Sterblicher sah
-Die Wiege des Starken;    5
-Es hörte kein Ohr
-Das Lallen des Edlen im sprudelnden Quell.
-Dich kleidet die Sonne
-In Strahlen des Ruhmes!
-Sie malet mit Farben des himmlischen Bogens   10
-Die schwebenden Wolken der stäubenden Fluth.
-See Poems, 1844, pp. 371-2.
-D
-[Vide ante, p. 309]
+Unsterblicher Jüngling!  
+Du strömest hervor  
+Aus der Felsenkluft.  
+Kein Sterblicher sah  
+Die Wiege des Starken;    5  
+Es hörte kein Ohr  
+Das Lallen des Edlen im sprudelnden Quell.  
+Dich kleidet die Sonne  
+In Strahlen des Ruhmes!  
+Sie malet mit Farben des himmlischen Bogens   10  
+Die schwebenden Wolken der stäubenden Fluth.  
+See Poems, 1844, pp. 371-2.  
+D  
+[Vide ante, p. 309]  

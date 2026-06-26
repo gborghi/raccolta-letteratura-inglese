@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Abraham Lincoln
-
 *Character* — appears in **7** work(s).
 
 ## Works

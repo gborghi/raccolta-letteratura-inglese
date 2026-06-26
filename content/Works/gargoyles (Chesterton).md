@@ -19,8 +19,6 @@ tags:
   - motif/sun
 ---
 
-# gargoyles
-
 *by Chesterton*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

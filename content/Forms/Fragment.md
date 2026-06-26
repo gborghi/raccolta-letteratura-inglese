@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Fragment
-
 *Form/Genre* — appears in **84** work(s).
 
 ## Works

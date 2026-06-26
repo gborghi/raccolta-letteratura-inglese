@@ -16,8 +16,6 @@ tags:
   - form/free_verse
 ---
 
-# L. of G.’s Purport
-
 *by Whitman*  ·  **Cluster:** [[Death · Silence · Bells]]
 
 > [!abstract] 
@@ -33,22 +31,22 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: GOOD-BYE MY FANCY_
+_Cluster: GOOD-BYE MY FANCY_  
 
 
-  Not to exclude or demarcate, or pick out evils from their formidable
-      masses (even to expose them,)
-  But add, fuse, complete, extend--and celebrate the immortal and the good.
-  Haughty this song, its words and scope,
-  To span vast realms of space and time,
-  Evolution--the cumulative--growths and generations.
+  Not to exclude or demarcate, or pick out evils from their formidable  
+      masses (even to expose them,)  
+  But add, fuse, complete, extend--and celebrate the immortal and the good.  
+  Haughty this song, its words and scope,  
+  To span vast realms of space and time,  
+  Evolution--the cumulative--growths and generations.  
 
-  Begun in ripen’d youth and steadily pursued,
-  Wandering, peering, dallying with all--war, peace, day and night
-      absorbing,
-  Never even for one brief hour abandoning my task,
-  I end it here in sickness, poverty, and old age.
+  Begun in ripen’d youth and steadily pursued,  
+  Wandering, peering, dallying with all--war, peace, day and night  
+      absorbing,  
+  Never even for one brief hour abandoning my task,  
+  I end it here in sickness, poverty, and old age.  
 
-  I sing of life, yet mind me well of death:
-  To-day shadowy Death dogs my steps, my seated shape, and has for years--
-  Draws sometimes close to me, as face to face.
+  I sing of life, yet mind me well of death:  
+  To-day shadowy Death dogs my steps, my seated shape, and has for years--  
+  Draws sometimes close to me, as face to face.  

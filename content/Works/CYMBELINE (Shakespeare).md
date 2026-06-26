@@ -40,8 +40,6 @@ tags:
   - character/arviragus
 ---
 
-# CYMBELINE
-
 *by Shakespeare*  ·  **Cluster:** [[Blank Verse · Tragicomedy · Romance Play]]
 
 > [!abstract] 

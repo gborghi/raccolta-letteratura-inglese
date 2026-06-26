@@ -16,8 +16,6 @@ tags:
   - motif/the_city
 ---
 
-# strange-city
-
 *by Chesterton*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

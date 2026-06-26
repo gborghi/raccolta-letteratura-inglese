@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Christmas Story / Novella
-
 *Form/Genre* — appears in **1** work(s).
 
 ## Works

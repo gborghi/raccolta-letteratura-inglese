@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# FourFaultlessFelons — THE DISEASE OF DUODIAPSYCHOSIS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/FourFaultlessFelons-(Chesterton)">FourFaultlessFelons</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_17_THE_TRESPASSER_IN_THE_GARDEN">‹ Story 17 THE TRESPASSER IN THE GARDEN</a><a class="ex-next" href="/Testi/Chesterton/Atomized/FourFaultlessFelons/Story_19_THE_SECRET_OF_THE_TREE">Story 19 THE SECRET OF THE TREE ›</a></div>

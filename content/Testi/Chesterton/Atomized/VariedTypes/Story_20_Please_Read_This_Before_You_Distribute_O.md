@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Please Read This Before You Distribute Or Use This Work
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_19_Elizabeth_Barrett_Browning">‹ Story 19 Elizabeth Barrett Browning</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_21_1_E_9">Story 21 1 E 9 ›</a></div>

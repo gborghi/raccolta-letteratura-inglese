@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Lucius
-
 *Character* — appears in **2** work(s).
 
 ## Works

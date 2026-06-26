@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Berenice
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Berenice-(Poe)">Berenice</a></div>
 </nav>

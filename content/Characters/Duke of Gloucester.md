@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Duke of Gloucester
-
 *Character* — appears in **2** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Autumn
-
 *Motif* — appears in **60** work(s).
 
 ## Works

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Mrs Allonby
-
 *Character* — appears in **1** work(s).
 
 ## Works

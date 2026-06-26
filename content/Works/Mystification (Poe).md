@@ -24,8 +24,6 @@ tags:
   - form/short_story
 ---
 
-# Mystification
-
 *by Poe*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

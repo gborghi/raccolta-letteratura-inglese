@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# suprise
-
 *by Chesterton*  ·  **Cluster:** [[Swords and Weapons · Power and Corruption · Tyrant]]
 
 > [!abstract] 
@@ -31,28 +29,28 @@ tags:
 
 ## Testo integrale / Full text
 
-The Sword of Surprise
+The Sword of Surprise  
 
-Sunder me from my bones, O sword of God
-Till they stand stark and strange as do the trees;
-That I whose heart goes up with the soaring woods
-May marvel as much at these.
+Sunder me from my bones, O sword of God  
+Till they stand stark and strange as do the trees;  
+That I whose heart goes up with the soaring woods  
+May marvel as much at these.  
 
-Sunder me from my blood that in the dark
-I hear that red ancestral river run
-Like branching buried floods that find the sea
-But never see the sun.
+Sunder me from my blood that in the dark  
+I hear that red ancestral river run  
+Like branching buried floods that find the sea  
+But never see the sun.  
 
-Give me miraculous eyes to see my eyes
-Those rolling mirrors made alive in me
-Terrible crystals more incredible
-Than all the things they see
+Give me miraculous eyes to see my eyes  
+Those rolling mirrors made alive in me  
+Terrible crystals more incredible  
+Than all the things they see  
 
-Sunder me from my soul, that I may see
-The sins like streaming wounds, the life's brave beat
-Till I shall save myself as I would save
-A stranger in the street.
+Sunder me from my soul, that I may see  
+The sins like streaming wounds, the life's brave beat  
+Till I shall save myself as I would save  
+A stranger in the street.  
 
 
 
-===== FINE FILE: suprise.txt =====
+===== FINE FILE: suprise.txt =====  

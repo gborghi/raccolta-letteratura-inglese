@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion — SS. and books, and the trunk, etc.--but I will see. Mother, your letter (part 6)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_06_SS_and_books_and_the_trunk_etc_but_I_wil/part_05">‹ part 05</a><a class="ex-next" href="/Testi/Whitman/Atomized/The_Wound_Dresser/Story_06_SS_and_books_and_the_trunk_etc_but_I_wil/part_07">part 07 ›</a></div>

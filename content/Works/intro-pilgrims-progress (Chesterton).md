@@ -22,8 +22,6 @@ tags:
   - motif/the_city
 ---
 
-# intro-pilgrims-progress
-
 *by Chesterton*  ·  **Cluster:** [[Allegory · Quest · Pilgrim]]
 
 > [!abstract] 

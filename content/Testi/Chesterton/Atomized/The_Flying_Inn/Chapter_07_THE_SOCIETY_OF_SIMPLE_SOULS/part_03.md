@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Flying Inn — Chapter 7: THE SOCIETY OF SIMPLE SOULS (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Flying-Inn-(Chesterton)">The Flying Inn</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_07_THE_SOCIETY_OF_SIMPLE_SOULS/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Flying_Inn/Chapter_08_VOX_POPULI_VOX_DEI/part_01">part 01 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — PROTESTANTISM:  A PROBLEM NOVEL
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_10_THE_EARLY_BIRD_IN_HISTORY">‹ Story 10 THE EARLY BIRD IN HISTORY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_12_A_SIMPLE_THOUGHT">Story 12 A SIMPLE THOUGHT ›</a></div>

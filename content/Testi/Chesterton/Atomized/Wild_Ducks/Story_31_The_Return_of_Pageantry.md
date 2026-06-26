@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — The Return of Pageantry
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_30_A_Theory_of_Tyrants">‹ Story 30 A Theory of Tyrants</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_32_Rational_History">Story 32 Rational History ›</a></div>

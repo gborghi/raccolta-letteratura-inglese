@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Eastern Religion and Asceticism
-
 *Theme/Concept* — appears in **1** work(s).
 
 ## Works

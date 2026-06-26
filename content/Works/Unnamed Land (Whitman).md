@@ -15,8 +15,6 @@ tags:
   - topos/eternal_return
 ---
 
-# Unnamed Land
-
 *by Whitman*  ·  **Cluster:** [[Self-Knowledge · Immortality · Self-Reliance]]
 
 > [!abstract] 

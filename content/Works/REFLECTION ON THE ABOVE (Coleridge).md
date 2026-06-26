@@ -16,8 +16,6 @@ tags:
   - histref/the_reformation
 ---
 
-# REFLECTION ON THE ABOVE
-
 *by Coleridge*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
@@ -31,35 +29,35 @@ tags:
 
 ## Testo integrale / Full text
 
-Lynx amid moles! had I stood by thy bed,   5
-Be of good cheer, meek soul! I would have said:
-I see a hope spring from that humble fear.
-All are not strong alike through storms to steer
-Right onward. What? though dread of threatened death
-And dungeon torture made thy hand and breath   10
-Inconstant to the truth within thy heart!
-That truth, from which, through fear, thou twice didst start,
-Fear haply told thee, was a learned strife,
-Or not so vital as to claim thy life:
-And myriads had reached Heaven, who never knew   15
-Where lay the difference ‘twixt the false and true!
-Ye, who secure ‘mid trophies not your own,
-Judge him who won them when he stood alone,
-And proudly talk of recreant Berengare —
-O first the age, and then the man compare!   20
-That age how dark! congenial minds how rare!
-No host of friends with kindred zeal did burn!
-No throbbing hearts awaited his return!
-Prostrate alike when prince and peasant fell,
-He only disenchanted from the spell,   25
-Like the weak worm that gems the starless night,
-Moved in the scanty circlet of his light:
-And was it strange if he withdrew the ray
-That did but guide the night-birds to their prey?
-The ascending day-star with a bolder eye   30
-Hath lit each dew-drop on our trimmer lawn!
-Yet not for this, if wise, shall we decry
-The spots and struggles of the timid Dawn;
-Lest so we tempt th’ approaching Noon to scorn
-The mists and painted vapours of our Morn.   35
-? 1826.
+Lynx amid moles! had I stood by thy bed,   5  
+Be of good cheer, meek soul! I would have said:  
+I see a hope spring from that humble fear.  
+All are not strong alike through storms to steer  
+Right onward. What? though dread of threatened death  
+And dungeon torture made thy hand and breath   10  
+Inconstant to the truth within thy heart!  
+That truth, from which, through fear, thou twice didst start,  
+Fear haply told thee, was a learned strife,  
+Or not so vital as to claim thy life:  
+And myriads had reached Heaven, who never knew   15  
+Where lay the difference ‘twixt the false and true!  
+Ye, who secure ‘mid trophies not your own,  
+Judge him who won them when he stood alone,  
+And proudly talk of recreant Berengare —  
+O first the age, and then the man compare!   20  
+That age how dark! congenial minds how rare!  
+No host of friends with kindred zeal did burn!  
+No throbbing hearts awaited his return!  
+Prostrate alike when prince and peasant fell,  
+He only disenchanted from the spell,   25  
+Like the weak worm that gems the starless night,  
+Moved in the scanty circlet of his light:  
+And was it strange if he withdrew the ray  
+That did but guide the night-birds to their prey?  
+The ascending day-star with a bolder eye   30  
+Hath lit each dew-drop on our trimmer lawn!  
+Yet not for this, if wise, shall we decry  
+The spots and struggles of the timid Dawn;  
+Lest so we tempt th’ approaching Noon to scorn  
+The mists and painted vapours of our Morn.   35  
+? 1826.  

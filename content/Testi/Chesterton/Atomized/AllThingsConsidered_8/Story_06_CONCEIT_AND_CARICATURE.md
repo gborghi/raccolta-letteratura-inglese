@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# AllThingsConsidered-8 — CONCEIT AND CARICATURE
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/AllThingsConsidered-8-(Chesterton)">AllThingsConsidered 8</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_05_THE_VOTE_AND_THE_HOUSE">‹ Story 05 THE VOTE AND THE HOUSE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/AllThingsConsidered_8/Story_07_PATRIOTISM_AND_SPORT">Story 07 PATRIOTISM AND SPORT ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# THE TWO NOBLE KINSMEN
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)">The Two Noble Kinsmen</a></div>
 </nav>

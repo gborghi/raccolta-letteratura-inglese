@@ -14,8 +14,6 @@ tags:
   - motif/letters_writing
 ---
 
-# What Think You I Take My Pen in Hand?
-
 *by Whitman*  ·  **Cluster:** [[Comradeship · Union · Hands Hand in Hand]]
 
 > [!abstract] 

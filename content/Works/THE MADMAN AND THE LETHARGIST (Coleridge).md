@@ -17,8 +17,6 @@ tags:
   - form/satire
 ---
 
-# THE MADMAN AND THE LETHARGIST
-
 *by Coleridge*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

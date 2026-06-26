@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Church And Agoraphobia
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_32_The_Don_And_The_Cavalier">‹ Story 32 The Don And The Cavalier</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_34_Back_In_The_Fog">Story 34 Back In The Fog ›</a></div>

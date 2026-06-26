@@ -8,8 +8,6 @@ tags:
   - author/Dickens
 ---
 
-# David Copperfield — Chapter 61: I AM SHOWN TWO INTERESTING PENITENTS
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Dickens · <a href="/Works/David-Copperfield-(Dickens)">David Copperfield</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_60_AGNES">‹ Chapter 60 AGNES</a><a class="ex-next" href="/Testi/Dickens/Atomized/David_Copperfield/Chapter_62_A_LIGHT_SHINES_ON_MY_WAY">Chapter 62 A LIGHT SHINES ON MY WAY ›</a></div>

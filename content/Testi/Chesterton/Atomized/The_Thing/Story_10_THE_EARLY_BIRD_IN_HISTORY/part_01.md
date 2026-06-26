@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE EARLY BIRD IN HISTORY (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_09_THE_MASK_OF_THE_AGNOSTIC/part_03">‹ part 03</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_10_THE_EARLY_BIRD_IN_HISTORY/part_02">part 02 ›</a></div>

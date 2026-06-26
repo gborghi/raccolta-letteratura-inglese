@@ -8,8 +8,6 @@ tags:
   - author/Austen
 ---
 
-# Pride and Prejudice — Chapter 48 (part 2)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Austen · <a href="/Works/Pride-and-Prejudice-(Austen)">Pride and Prejudice</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_48/part_01">‹ part 01</a><a class="ex-next" href="/Testi/Austen/Atomized/Pride_and_Prejudice/Chapter_49/part_01">part 01 ›</a></div>

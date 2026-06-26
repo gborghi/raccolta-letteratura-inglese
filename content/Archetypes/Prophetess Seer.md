@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Prophetess / Seer
-
 *Archetype* — appears in **1** work(s).
 
 ## Works

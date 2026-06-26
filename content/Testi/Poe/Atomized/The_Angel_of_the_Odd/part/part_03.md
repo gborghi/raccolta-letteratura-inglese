@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Angel of the Odd (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Angel-of-the-Odd-(Poe)">The Angel of the Odd</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Angel_of_the_Odd/part/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Angel_of_the_Odd/part/part_04">part 04 ›</a></div>

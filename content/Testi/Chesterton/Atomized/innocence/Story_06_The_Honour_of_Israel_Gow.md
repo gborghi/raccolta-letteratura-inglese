@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# innocence — The Honour of Israel Gow
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/innocence-(Chesterton)">innocence</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/innocence/Story_05_The_Invisible_Man">‹ Story 05 The Invisible Man</a><a class="ex-next" href="/Testi/Chesterton/Atomized/innocence/Story_07_The_Wrong_Shape">Story 07 The Wrong Shape ›</a></div>

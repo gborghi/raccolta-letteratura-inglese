@@ -16,8 +16,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# There Was a Child Went Forth
-
 *by Whitman*  ·  **Cluster:** [[Maturation and Growth · Childhood · Innocence and Experience]]
 
 > [!abstract] 

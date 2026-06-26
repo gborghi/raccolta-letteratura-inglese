@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Common Man — If I Had Only One Sermon To Preach
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Common-Man-(Chesterton)">Common Man</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Common_Man/Story_41_Consulting_The_Encyclopaedia">‹ Story 41 Consulting The Encyclopaedia</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Common_Man/Story_43_If_Don_John_Of_Austria_Had_Married_Mary">Story 43 If Don John Of Austria Had Married Mary ›</a></div>

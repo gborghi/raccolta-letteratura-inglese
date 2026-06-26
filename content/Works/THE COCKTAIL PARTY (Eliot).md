@@ -29,8 +29,6 @@ tags:
   - character/henry_harcourt_reilly
 ---
 
-# THE COCKTAIL PARTY
-
 *by Eliot*  ·  **Cluster:** [[Spiritual Emptiness · Waste Land (Sterility) · Greek Tragedy]]
 
 > [!abstract] 

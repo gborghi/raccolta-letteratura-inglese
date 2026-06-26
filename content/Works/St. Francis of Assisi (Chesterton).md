@@ -32,8 +32,6 @@ tags:
   - histref/the_renaissance
 ---
 
-# St. Francis of Assisi
-
 *by Chesterton*  ·  **Cluster:** [[Christianity · Faith and Doubt · Doubt]]
 
 > [!abstract] 

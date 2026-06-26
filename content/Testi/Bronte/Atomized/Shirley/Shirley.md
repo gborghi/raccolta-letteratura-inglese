@@ -8,8 +8,6 @@ tags:
   - author/Bronte
 ---
 
-# Shirley
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Bronte · <a href="/Works/Shirley-(Bronte)">Shirley</a></div>
 </nav>

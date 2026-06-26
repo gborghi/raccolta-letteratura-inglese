@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# scandal Fr Brown — The gardens had been tended so carefully as to achieve the final
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/scandal-Fr-Brown-(Chesterton)">scandal Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_06_The_Crime_of_the_Communist">‹ Story 06 The Crime of the Communist</a><a class="ex-next" href="/Testi/Chesterton/Atomized/scandal_Fr_Brown/Story_08_The_Point_of_a_Pin">Story 08 The Point of a Pin ›</a></div>

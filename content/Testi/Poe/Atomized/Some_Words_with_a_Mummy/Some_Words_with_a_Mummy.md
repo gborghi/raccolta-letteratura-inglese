@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# Some Words with a Mummy
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/Some-Words-with-a-Mummy-(Poe)">Some Words with a Mummy</a></div>
 </nav>

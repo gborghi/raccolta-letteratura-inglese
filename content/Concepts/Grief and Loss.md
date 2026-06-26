@@ -6,8 +6,6 @@ tags:
   - graph/concept
 ---
 
-# Grief and Loss
-
 *Theme/Concept* — appears in **432** work(s).
 
 ## Works

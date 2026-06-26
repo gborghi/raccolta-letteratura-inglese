@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# heret12 — On Mr. McCabe and a Divine Frivolity
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/heret12-(Chesterton)">heret12</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/heret12/Story_14_On_Smart_Novelists_and_the_Smart_Set">‹ Story 14 On Smart Novelists and the Smart Set</a><a class="ex-next" href="/Testi/Chesterton/Atomized/heret12/Story_16_On_the_Wit_of_Whistler">Story 16 On the Wit of Whistler ›</a></div>

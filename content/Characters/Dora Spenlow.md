@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Dora Spenlow
-
 *Character* — appears in **1** work(s).
 
 ## Works

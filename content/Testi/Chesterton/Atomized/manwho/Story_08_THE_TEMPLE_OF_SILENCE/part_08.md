@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# manwho — THE TEMPLE OF  SILENCE (part 8)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/manwho-(Chesterton)">manwho</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/manwho/Story_08_THE_TEMPLE_OF_SILENCE/part_07">‹ part 07</a><a class="ex-next" href="/Testi/Chesterton/Atomized/manwho/Story_08_THE_TEMPLE_OF_SILENCE/part_09">part 09 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Algernon Moncrieff
-
 *Character* — appears in **1** work(s).
 
 ## Works

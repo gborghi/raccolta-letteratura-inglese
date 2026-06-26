@@ -14,8 +14,6 @@ tags:
   - form/lyric
 ---
 
-# Quicksand Years
-
 *by Whitman*  ·  **Cluster:** [[Transience · Decay · Carpe Diem]]
 
 > [!abstract] 
@@ -29,13 +27,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: WHISPERS OF HEAVENLY DEATH_
+_Cluster: WHISPERS OF HEAVENLY DEATH_  
 
 
-  Quicksand years that whirl me I know not whither,
-  Your schemes, politics, fail, lines give way, substances mock and elude me,
-  Only the theme I sing, the great and strong-possess’d soul, eludes not,
-  One’s-self must never give way--that is the final substance--that
-      out of all is sure,
-  Out of politics, triumphs, battles, life, what at last finally remains?
-  When shows break up what but One’s-Self is sure?
+  Quicksand years that whirl me I know not whither,  
+  Your schemes, politics, fail, lines give way, substances mock and elude me,  
+  Only the theme I sing, the great and strong-possess’d soul, eludes not,  
+  One’s-self must never give way--that is the final substance--that  
+      out of all is sure,  
+  Out of politics, triumphs, battles, life, what at last finally remains?  
+  When shows break up what but One’s-Self is sure?  

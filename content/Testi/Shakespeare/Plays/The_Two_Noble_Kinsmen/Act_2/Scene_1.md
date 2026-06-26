@@ -8,8 +8,6 @@ tags:
   - author/Shakespeare
 ---
 
-# The Two Noble Kinsmen — Act II, Scene 1
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Shakespeare · <a href="/Works/THE-TWO-NOBLE-KINSMEN-(Shakespeare)">The Two Noble Kinsmen</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Shakespeare/Plays/The_Two_Noble_Kinsmen/Act_1/Scene_5">‹ Scene 5</a><a class="ex-next" href="/Testi/Shakespeare/Plays/The_Two_Noble_Kinsmen/Act_2/Scene_2">Scene 2 ›</a></div>

@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# WhatISawInAmerica — NCOLN AND LOST CAUSES              222
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/WhatISawInAmerica-(Chesterton)">WhatISawInAmerica</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_04_S_THE_ATLANTIC_NARROWING_208">‹ Story 04 S THE ATLANTIC NARROWING 208</a><a class="ex-next" href="/Testi/Chesterton/Atomized/WhatISawInAmerica/Story_06_A_By_reading_or_using_any_part_of_this_P">Story 06 A By reading or using any part of this P ›</a></div>

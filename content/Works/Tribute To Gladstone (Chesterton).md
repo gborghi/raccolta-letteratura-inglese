@@ -20,8 +20,6 @@ tags:
   - histref/victorian_england
 ---
 
-# Tribute To Gladstone
-
 *by Chesterton*  ·  **Cluster:** [[Grief and Loss · Elegy · Clothing and Costume]]
 
 > [!abstract] 
@@ -36,43 +34,43 @@ tags:
 
 ## Testo integrale / Full text
 
-The following was printed in a collection of tributes to W E Gladstone
-following his death in May 1898.  It was edited by Samuel Jacob and
-Chas F Forshaw and Published by Elliot Stock 62 Paternoster Row London.
+The following was printed in a collection of tributes to W E Gladstone  
+following his death in May 1898.  It was edited by Samuel Jacob and  
+Chas F Forshaw and Published by Elliot Stock 62 Paternoster Row London.  
 
-G. K. Chesterton's tribute was printed in The Speaker and is as follows;
+G. K. Chesterton's tribute was printed in The Speaker and is as follows;  
 
-Lift up your heads; in life, in death,
-God knoweth his head was high;
-Quit we the coward's broken breath,
-Who watched a strong man die.
+Lift up your heads; in life, in death,  
+God knoweth his head was high;  
+Quit we the coward's broken breath,  
+Who watched a strong man die.  
 
-If ye must say "No more his peer
-Cometh: the flag is furled,"
-Stand not too near him; lest we hear
-That slander on the world
+If ye must say "No more his peer  
+Cometh: the flag is furled,"  
+Stand not too near him; lest we hear  
+That slander on the world  
 
-The good green earth he loved and trod
-Is still, with many a scar,
-Writ in the chronicles of God
-A giant-bearing star.
+The good green earth he loved and trod  
+Is still, with many a scar,  
+Writ in the chronicles of God  
+A giant-bearing star.  
 
-He fell: but Britain's banner swings
-Above his sunken crown;
-Black Death shall have his toil of kings
-Before the cross goes down.
+He fell: but Britain's banner swings  
+Above his sunken crown;  
+Black Death shall have his toil of kings  
+Before the cross goes down.  
 
-O young ones of a darker day,
-In Art's wan colours clad,
-Whose very love and hate are grey,
-Whose very sin is sad,
+O young ones of a darker day,  
+In Art's wan colours clad,  
+Whose very love and hate are grey,  
+Whose very sin is sad,  
 
-Pass on: one agony long-drawn
-Was merrier than your mirth;
-When hand in hand came death and dawn
-And spring was on the earth.
-
-
+Pass on: one agony long-drawn  
+Was merrier than your mirth;  
+When hand in hand came death and dawn  
+And spring was on the earth.  
 
 
-===== FINE FILE: Tribute_To_Gladstone.txt =====
+
+
+===== FINE FILE: Tribute_To_Gladstone.txt =====  

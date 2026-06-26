@@ -25,8 +25,6 @@ tags:
   - form/short_story
 ---
 
-# The Black Cat
-
 *by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

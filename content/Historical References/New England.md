@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# New England
-
 *Historical reference* — appears in **10** work(s).
 
 ## Works

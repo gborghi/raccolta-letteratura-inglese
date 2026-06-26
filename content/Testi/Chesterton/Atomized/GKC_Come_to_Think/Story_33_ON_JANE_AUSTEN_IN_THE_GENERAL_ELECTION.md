@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# GKC Come to Think — ON JANE AUSTEN IN THE GENERAL ELECTION
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/GKC-Come-to-Think-(Chesterton)">GKC Come to Think</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_32_ON_THE_INNOCENCE_OF_MACAULAY">‹ Story 32 ON THE INNOCENCE OF MACAULAY</a><a class="ex-next" href="/Testi/Chesterton/Atomized/GKC_Come_to_Think/Story_34_ON_DICTATORSHIPS">Story 34 ON DICTATORSHIPS ›</a></div>

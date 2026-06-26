@@ -6,8 +6,6 @@ tags:
   - graph/archetype
 ---
 
-# Temptress
-
 *Archetype* — appears in **16** work(s).
 
 ## Works

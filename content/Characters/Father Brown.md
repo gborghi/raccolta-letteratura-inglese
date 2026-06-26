@@ -6,8 +6,6 @@ tags:
   - graph/character
 ---
 
-# Father Brown
-
 *Character* — appears in **6** work(s).
 
 ## Works

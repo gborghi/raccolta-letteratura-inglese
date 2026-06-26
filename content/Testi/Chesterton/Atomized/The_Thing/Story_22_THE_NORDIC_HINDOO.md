@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# The Thing — THE NORDIC HINDOO
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/The-Thing-(Chesterton)">The Thing</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/The_Thing/Story_21_ON_COURAGE_AND_INDEPENDENCE">‹ Story 21 ON COURAGE AND INDEPENDENCE</a><a class="ex-next" href="/Testi/Chesterton/Atomized/The_Thing/Story_23_THE_ROOTS_OF_SANITY">Story 23 THE ROOTS OF SANITY ›</a></div>

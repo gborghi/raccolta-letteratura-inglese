@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# As I Was Saying — T amuses me to think that, amid all the invocations of Christmas
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/As-I-Was-Saying-(Chesterton)">As I Was Saying</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_43_T_is_well_that_students_sternly_devoted">‹ Story 43 T is well that students sternly devoted</a><a class="ex-next" href="/Testi/Chesterton/Atomized/As_I_Was_Saying/Story_45_MAY_explain_that_I_am_one_of_the_people">Story 45 MAY explain that I am one of the people ›</a></div>

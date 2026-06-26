@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# secret Fr Brown — The Secret Of Father Brown (part 3)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/secret-Fr-Brown-(Chesterton)">secret Fr Brown</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_01_The_Secret_Of_Father_Brown/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/secret_Fr_Brown/Story_02_I_The_Mirror_Of_The_Magistrate/part_01">part 01 ›</a></div>

@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Riddle
-
 *Form/Genre* — appears in **15** work(s).
 
 ## Works

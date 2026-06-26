@@ -13,8 +13,6 @@ tags:
   - motif/the_road
 ---
 
-# The Runner
-
 *by Whitman*  ·  **Cluster:** [[Identity · Free Verse · Eternal Return]]
 
 > [!abstract] 
@@ -28,10 +26,10 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: BY THE ROADSIDE_
+_Cluster: BY THE ROADSIDE_  
 
 
-  On a flat road runs the well-train’d runner,
-  He is lean and sinewy with muscular legs,
-  He is thinly clothed, he leans forward as he runs,
-  With lightly closed fists and arms partially rais’d.
+  On a flat road runs the well-train’d runner,  
+  He is lean and sinewy with muscular legs,  
+  He is thinly clothed, he leans forward as he runs,  
+  With lightly closed fists and arms partially rais’d.  

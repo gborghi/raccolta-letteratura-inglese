@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Love
-
 *Motif* — appears in **65** work(s).
 
 ## Works

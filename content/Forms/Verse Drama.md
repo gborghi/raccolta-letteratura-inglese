@@ -6,8 +6,6 @@ tags:
   - graph/form
 ---
 
-# Verse Drama
-
 *Form/Genre* — appears in **56** work(s).
 
 ## Works

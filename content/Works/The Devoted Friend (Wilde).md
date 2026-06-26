@@ -33,8 +33,6 @@ tags:
   - character/hugh_the_miller
 ---
 
-# The Devoted Friend
-
 *by Wilde*  ·  **Cluster:** [[Satire of Society · Epigram · Satire]]
 
 > [!abstract] 

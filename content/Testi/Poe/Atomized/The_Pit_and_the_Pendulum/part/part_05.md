@@ -7,8 +7,6 @@ tags:
   - author/Poe
 ---
 
-# The Pit and the Pendulum (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · The Pit and the Pendulum</div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Pit_and_the_Pendulum/part/part_04">‹ part 04</a><a class="ex-next" href="/Testi/Poe/Atomized/The_Pit_and_the_Pendulum/part/part_06">part 06 ›</a></div>

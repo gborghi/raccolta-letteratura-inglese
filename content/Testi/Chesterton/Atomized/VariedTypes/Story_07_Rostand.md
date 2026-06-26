@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# VariedTypes — Rostand
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/VariedTypes-(Chesterton)">VariedTypes</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/VariedTypes/Story_06_Francis">‹ Story 06 Francis</a><a class="ex-next" href="/Testi/Chesterton/Atomized/VariedTypes/Story_08_Charles_Ii">Story 08 Charles Ii ›</a></div>

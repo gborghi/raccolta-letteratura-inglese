@@ -16,8 +16,6 @@ tags:
   - form/lyric
 ---
 
-# A Prairie Sunset
-
 *by Whitman*  ·  **Cluster:** [[Sun · Light and Dark · Fire]]
 
 > [!abstract] 
@@ -32,13 +30,13 @@ tags:
 
 ## Testo integrale / Full text
 
-_Cluster: SANDS AT SEVENTY_
+_Cluster: SANDS AT SEVENTY_  
 
 
-  Shot gold, maroon and violet, dazzling silver, emerald, fawn,
-  The earth’s whole amplitude and Nature’s multiform power consign’d
-      for once to colors;
-  The light, the general air possess’d by them--colors till now unknown,
-  No limit, confine--not the Western sky alone--the high meridian--
-      North, South, all,
-  Pure luminous color fighting the silent shadows to the last.
+  Shot gold, maroon and violet, dazzling silver, emerald, fawn,  
+  The earth’s whole amplitude and Nature’s multiform power consign’d  
+      for once to colors;  
+  The light, the general air possess’d by them--colors till now unknown,  
+  No limit, confine--not the Western sky alone--the high meridian--  
+      North, South, all,  
+  Pure luminous color fighting the silent shadows to the last.  

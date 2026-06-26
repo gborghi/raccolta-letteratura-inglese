@@ -5,8 +5,6 @@ tags:
   - graph/cluster
 ---
 
-# Nationalism and Patriotism · Democracy · Liberty / Political Freedom
-
 *Cluster* — **45 works**.
 
 ## Defining concepts

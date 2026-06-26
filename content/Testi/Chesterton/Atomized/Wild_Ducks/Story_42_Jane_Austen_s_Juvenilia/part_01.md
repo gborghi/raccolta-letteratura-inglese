@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Wild Ducks — Jane Austen's Juvenilia (part 1)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Wild-Ducks-(Chesterton)">Wild Ducks</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_30_A_Theory_of_Tyrants/part_02">‹ part 02</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Wild_Ducks/Story_42_Jane_Austen_s_Juvenilia/part_02">part 02 ›</a></div>

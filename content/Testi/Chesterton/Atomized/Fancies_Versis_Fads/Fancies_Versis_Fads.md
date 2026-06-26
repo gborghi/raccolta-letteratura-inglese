@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Fancies Versis Fads
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Fancies-Versis-Fads-(Chesterton)">Fancies Versis Fads</a></div>
 </nav>

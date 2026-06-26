@@ -31,8 +31,6 @@ tags:
   - setting/industrial_city
 ---
 
-# A Child's History of England
-
 *by Dickens*  ·  **Cluster:** [[Essay · Critique of Progress · Common Man]]
 
 > [!abstract] 

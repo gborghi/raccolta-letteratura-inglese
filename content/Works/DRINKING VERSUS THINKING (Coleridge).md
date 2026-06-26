@@ -15,8 +15,6 @@ tags:
   - histref/greek_mythology
 ---
 
-# DRINKING VERSUS THINKING
-
 *by Coleridge*  ·  **Cluster:** [[Wine and Drink · Ballad Ballade · Road]]
 
 > [!abstract] 
@@ -32,25 +30,25 @@ tags:
 
 ## Testo integrale / Full text
 
-OR, A SONG AGAINST THE NEW PHILOSOPHY
-My Merry men all, that drink with glee
-This fanciful Philosophy,
-Pray tell me what good is it?
-If antient Nick should come and take,
-The same across the Stygian Lake,
-I guess we ne’er should miss it.
-Away, each pale, self-brooding spark
-That goes truth-hunting in the dark,
-Away from our carousing!
-To Pallas we resign such fowls —
-Grave birds of wisdom! ye’re but owls,
-And all your trade but mousing!
-My merry men all, here’s punch and wine,
-And spicy bishop, drink divine!
-Let’s live while we are able.
-While Mirth and Sense sit, hand in glove,
-This Don Philosophy we’ll shove
-Dead drunk beneath the table!
-First published in Morning Post, September 25, 1801. Included in
-Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.
-168.
+OR, A SONG AGAINST THE NEW PHILOSOPHY  
+My Merry men all, that drink with glee  
+This fanciful Philosophy,  
+Pray tell me what good is it?  
+If antient Nick should come and take,  
+The same across the Stygian Lake,  
+I guess we ne’er should miss it.  
+Away, each pale, self-brooding spark  
+That goes truth-hunting in the dark,  
+Away from our carousing!  
+To Pallas we resign such fowls —  
+Grave birds of wisdom! ye’re but owls,  
+And all your trade but mousing!  
+My merry men all, here’s punch and wine,  
+And spicy bishop, drink divine!  
+Let’s live while we are able.  
+While Mirth and Sense sit, hand in glove,  
+This Don Philosophy we’ll shove  
+Dead drunk beneath the table!  
+First published in Morning Post, September 25, 1801. Included in  
+Essays, &c., iii. 966-7. First collected P. and D. W., 1877, ii.  
+168.  

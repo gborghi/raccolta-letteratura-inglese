@@ -5,8 +5,6 @@ tags:
   - graph/concept
 ---
 
-# Silence
-
 *Theme/Concept* — appears in **2** work(s).
 
 ## Works

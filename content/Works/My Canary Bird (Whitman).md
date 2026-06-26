@@ -14,8 +14,6 @@ tags:
   - concept/self_and_soul
 ---
 
-# My Canary Bird
-
 *by Whitman*  ·  **Cluster:** [[Birds · Music and Song · Nightingale]]
 
 > [!abstract] 

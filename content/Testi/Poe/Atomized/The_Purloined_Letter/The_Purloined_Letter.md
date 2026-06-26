@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Purloined Letter
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Purloined-Letter-(Poe)">The Purloined Letter</a></div>
 </nav>

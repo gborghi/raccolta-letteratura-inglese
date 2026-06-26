@@ -6,8 +6,6 @@ tags:
   - graph/histref
 ---
 
-# First World War
-
 *Historical reference* — appears in **24** work(s).
 
 ## Works

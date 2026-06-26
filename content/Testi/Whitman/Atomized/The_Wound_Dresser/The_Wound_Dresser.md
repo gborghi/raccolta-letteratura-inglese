@@ -8,8 +8,6 @@ tags:
   - author/Whitman
 ---
 
-# The Wound Dresser: A Series of Letters Written from the Hospitals in Washington during the War of the Rebellion
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Whitman · <a href="/Works/The-Wound-Dresser-(Whitman)">The Wound Dresser</a></div>
 </nav>

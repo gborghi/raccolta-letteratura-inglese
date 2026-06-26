@@ -8,8 +8,6 @@ tags:
   - author/Poe
 ---
 
-# The Assignation (part 5)
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Poe · <a href="/Works/The-Assignation-(Poe)">The Assignation</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Poe/Atomized/The_Assignation/part/part_04">‹ part 04</a><span></span></div>

@@ -17,8 +17,6 @@ tags:
   - form/short_story
 ---
 
-# The Facts in the Case of M. Valdemar
-
 *by Poe*  ·  **Cluster:** [[Terror and Horror · Madness · Madness]]
 
 > [!abstract] 

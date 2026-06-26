@@ -15,8 +15,6 @@ tags:
   - archetype/lover
 ---
 
-# NAMES
-
 *by Coleridge*  ·  **Cluster:** [[Lyric · Romantic Love · Marriage and Fidelity]]
 
 > [!abstract] 
@@ -32,17 +30,17 @@ tags:
 
 ## Testo integrale / Full text
 
-[FROM LESSING]
-I ask’d my fair one happy day,
-What I should call her in my lay;
-By what sweet name from Rome or Greece;
-Lalage, Neaera, Chloris,
-Sappho, Lesbia, or Doris,   5
-Arethusa or Lucrece.
-‘Ah!’ replied my gentle fair,
-‘Belovéd, what are names but air?
-Choose thou whatever suits the line;
-Call me Sappho, call me Chloris,   10
-Call me Lalage or Doris,
-Only, only call me Thine.’
-1799.
+[FROM LESSING]  
+I ask’d my fair one happy day,  
+What I should call her in my lay;  
+By what sweet name from Rome or Greece;  
+Lalage, Neaera, Chloris,  
+Sappho, Lesbia, or Doris,   5  
+Arethusa or Lucrece.  
+‘Ah!’ replied my gentle fair,  
+‘Belovéd, what are names but air?  
+Choose thou whatever suits the line;  
+Call me Sappho, call me Chloris,   10  
+Call me Lalage or Doris,  
+Only, only call me Thine.’  
+1799.  

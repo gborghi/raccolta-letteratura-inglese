@@ -6,8 +6,6 @@ tags:
   - graph/motif
 ---
 
-# Cross
-
 *Motif* — appears in **51** work(s).
 
 ## Works

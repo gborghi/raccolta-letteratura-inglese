@@ -16,8 +16,6 @@ tags:
   - concept/nostalgia
 ---
 
-# On America
-
 *by Chesterton*  ·  **Cluster:** [[War and its Cost · American Civil War · Battlefield]]
 
 > [!abstract] 

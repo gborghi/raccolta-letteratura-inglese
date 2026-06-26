@@ -8,8 +8,6 @@ tags:
   - author/Chesterton
 ---
 
-# Well And Shallows — The Case For Hermits
-
 <nav class="excerpt-nav">
 <div class="excerpt-crumb">Chesterton · <a href="/Works/Well-And-Shallows-(Chesterton)">Well And Shallows</a></div>
 <div class="excerpt-pn"><a class="ex-prev" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_21_Levity_Or_Levitation">‹ Story 21 Levity Or Levitation</a><a class="ex-next" href="/Testi/Chesterton/Atomized/Well_And_Shallows/Story_23_Killing_The_Nerve">Story 23 Killing The Nerve ›</a></div>
