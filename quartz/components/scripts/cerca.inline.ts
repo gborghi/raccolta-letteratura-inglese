@@ -1,7 +1,9 @@
 // Faceted multi-select search for the /cerca page. Loads index.json and lets the
 // user combine tags across facets (Author, Cluster, Topos, Archetype, Motif,
-// Theme/Concept, Form, Historical Reference, Setting, Character) with an
-// AND/OR (ALL/ANY) toggle, rendering matches into a sortable, paginated table.
+// Theme/Concept, Form, Historical Reference, Setting, Character), rendering
+// matches into a sortable, paginated table. Two match modes:
+//   ANY (default): OR within a facet group, AND across groups (faceted search)
+//   ALL: strict AND — a work must carry every selected tag.
 
 interface Work {
   href: string
@@ -86,7 +88,9 @@ async function init() {
 
   // selected tags as "facetKey::value"
   const selected = new Set<string>()
-  let mode: "AND" | "OR" = "AND"
+  // ANY = OR within a facet group, AND across groups (faceted default).
+  // ALL = strict AND across every selected tag regardless of group.
+  let mode: "ANY" | "ALL" = "ANY"
 
   // Deep-link: the home author cards stash an "author::Name" token in
   // sessionStorage (Quartz mangles query/hash params in hrefs, so JS is used).
@@ -119,18 +123,39 @@ async function init() {
     return { facet, values }
   })
 
+  const hasValue = (w: Work, key: string, val: string): boolean => {
+    const facet = FACETS.find((f) => f.key === key)!
+    return facet.multi
+      ? ((w[facet.key] as unknown as string[]) || []).includes(val)
+      : String(w[facet.key]) === val
+  }
+
   function matches(w: Work): boolean {
     if (selected.size === 0) return false
-    const test = (token: string) => {
+    if (mode === "ALL") {
+      // Strict AND: the work must carry EVERY selected tag.
+      for (const token of selected) {
+        const idx = token.indexOf("::")
+        if (!hasValue(w, token.slice(0, idx), token.slice(idx + 2))) return false
+      }
+      return true
+    }
+    // ANY: group the selected tokens by facet, OR within a group and AND across
+    // groups — a work must hit at least one selected value in EVERY facet that
+    // has a selection. (e.g. "Keats OR Shelley" AND "Topos=Sea OR Topos=Death")
+    const byFacet = new Map<string, string[]>()
+    for (const token of selected) {
       const idx = token.indexOf("::")
       const key = token.slice(0, idx)
       const val = token.slice(idx + 2)
-      const facet = FACETS.find((f) => f.key === key)!
-      if (facet.multi) return ((w[facet.key] as unknown as string[]) || []).includes(val)
-      return String(w[facet.key]) === val
+      const arr = byFacet.get(key)
+      if (arr) arr.push(val)
+      else byFacet.set(key, [val])
     }
-    const tokens = [...selected]
-    return mode === "AND" ? tokens.every(test) : tokens.some(test)
+    for (const [key, vals] of byFacet) {
+      if (!vals.some((val) => hasValue(w, key, val))) return false // OR within facet; AND across facets
+    }
+    return true
   }
 
   const controls = document.createElement("div")
@@ -239,10 +264,14 @@ async function init() {
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
   function syncToggle() {
-    toggle.textContent = mode === "AND" ? "Match: ALL selected tags" : "Match: ANY selected tag"
+    toggle.textContent =
+      mode === "ANY"
+        ? "Match: ANY in group (OR within a group, AND across groups)"
+        : "Match: ALL selected tags"
+    toggle.setAttribute("aria-pressed", String(mode === "ALL"))
   }
   toggle.addEventListener("click", () => {
-    mode = mode === "AND" ? "OR" : "AND"
+    mode = mode === "ANY" ? "ALL" : "ANY"
     syncToggle()
     page = 1
     render()
