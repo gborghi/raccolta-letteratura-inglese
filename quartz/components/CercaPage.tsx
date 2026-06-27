@@ -31,6 +31,33 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.25
 }
 .cerca-count { font-size: 0.9rem; margin: 0.6rem 0; }
 .cerca-hint { color: var(--gray); }
+
+/* search box + pagination */
+.qtable-searchrow { display: flex; gap: 0.5rem; align-items: stretch; margin: 0.4rem 0; flex-wrap: wrap; }
+.qtable-searchrow .qtable-search { flex: 1 1 16rem; margin: 0; }
+.qtable-search {
+  width: 100%; box-sizing: border-box; padding: 0.5rem 0.7rem;
+  border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light);
+  color: var(--dark); font-size: 0.95rem; font-family: inherit;
+}
+.qtable-controls { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
+.paged-perpage-label { font-size: 0.85rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
+.paged-perpage {
+  font-family: inherit; font-weight: 600; font-size: 0.85rem;
+  padding: 0.2rem 0.45rem; border-radius: 8px; border: 1.5px solid var(--lightgray);
+  background: var(--light); color: var(--dark); cursor: pointer;
+}
+.qtable-pager { display: flex; flex-wrap: wrap; gap: 0.25rem; justify-content: center; margin-top: 0.8rem; }
+.paged-btn {
+  font-family: inherit; font-weight: 600; font-size: 0.85rem;
+  min-width: 2rem; padding: 0.25rem 0.5rem; border-radius: 8px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--dark); cursor: pointer;
+}
+.paged-btn:hover:not(:disabled) { border-color: var(--secondary); }
+.paged-btn.current { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.paged-btn:disabled { opacity: 0.4; cursor: default; }
+.paged-ellip { padding: 0.25rem 0.2rem; color: var(--gray); }
+
 .cerca-results table.lt-table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
 .cerca-results th, .cerca-results td {
   text-align: left; padding: 0.45rem 0.6rem; border-bottom: 1px solid var(--lightgray); vertical-align: top;
@@ -41,10 +68,6 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.25
 .cerca-results td.lt-num, .cerca-results th.lt-num { text-align: center; }
 .cerca-results tr:hover td { background: var(--highlight); }
 .cerca-results .lt-cluster { color: var(--gray); font-size: 0.82rem; }
-.cerca-pager { display:flex; gap:0.4rem; align-items:center; margin-top:0.7rem; flex-wrap:wrap; }
-.cerca-pager button { padding: 0.3rem 0.7rem; border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light); color: var(--dark); cursor: pointer; font-size: 0.85rem; font-family: inherit; }
-.cerca-pager button:disabled { opacity: 0.4; cursor: default; }
-.cerca-pager .lt-page-info { color: var(--gray); font-size: 0.85rem; }
 `
 
 export default (() => {

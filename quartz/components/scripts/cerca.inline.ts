@@ -38,7 +38,14 @@ const FACETS: Facet[] = [
   { key: "characters", label: "Character", multi: true },
 ]
 
-const PAGE_SIZE = 50
+const PER_PAGE_OPTS = [25, 50, 100, 250, 0] // 0 = All
+const LS_KEY = "englit-qtable-perpage"
+function getPerPage(): number {
+  const raw = localStorage.getItem(LS_KEY)
+  if (raw == null) return 50
+  const v = Number(raw)
+  return PER_PAGE_OPTS.includes(v) ? v : 50
+}
 
 function esc(s: unknown): string {
   return String(s).replace(/[&<>"]/g, (c) =>
@@ -68,7 +75,6 @@ async function init() {
   // selected tags as "facetKey::value"
   const selected = new Set<string>()
   let mode: "AND" | "OR" = "AND"
-  let page = 0
 
   // Deep-link: the home author cards stash an "author::Name" token in
   // sessionStorage (Quartz mangles query/hash params in hrefs, so JS is used).
@@ -125,6 +131,71 @@ async function init() {
   resultsBox.className = "cerca-results"
   root.replaceChildren(controls, facetsBox, selectedBar, resultsBox)
 
+  // ---- search & pagination controls ----
+  let filter = ""
+  let page = 1
+  let perPage = getPerPage()
+
+  const hint = document.createElement("p")
+  hint.className = "cerca-hint"
+  hint.textContent = "Select one or more tags above to see matching works."
+
+  const search = document.createElement("input")
+  search.type = "search"
+  search.className = "qtable-search"
+  search.placeholder = "Filter results (title/author/cluster)..."
+  search.addEventListener("input", () => {
+    filter = search.value
+    page = 1
+    renderResults()
+  })
+
+  const searchRow = document.createElement("div")
+  searchRow.className = "qtable-searchrow"
+  searchRow.append(search)
+
+  const count = document.createElement("div")
+  count.className = "cerca-count"
+
+  const perPageSel = document.createElement("select")
+  perPageSel.className = "paged-perpage"
+  for (const n of PER_PAGE_OPTS) {
+    const o = document.createElement("option")
+    o.value = String(n)
+    o.textContent = n === 0 ? "All" : String(n)
+    if (n === perPage) o.selected = true
+    perPageSel.appendChild(o)
+  }
+  perPageSel.addEventListener("change", () => {
+    perPage = Number(perPageSel.value)
+    localStorage.setItem(LS_KEY, String(perPage))
+    page = 1
+    renderResults()
+  })
+  const perPageLbl = document.createElement("label")
+  perPageLbl.className = "paged-perpage-label"
+  perPageLbl.append("show ", perPageSel, " per page")
+
+  const resControls = document.createElement("div")
+  resControls.className = "qtable-controls"
+  resControls.append(count, perPageLbl)
+
+  const table = document.createElement("table")
+  table.className = "lt-table"
+
+  const pager = document.createElement("div")
+  pager.className = "qtable-pager"
+  pager.addEventListener("click", (e) => {
+    const t = (e.target as HTMLElement).closest("button[data-p]") as HTMLElement | null
+    if (!t) return
+    page = Number(t.dataset.p)
+    renderResults()
+    resultsBox.scrollIntoView({ block: "start", behavior: "smooth" })
+  })
+
+  resultsBox.replaceChildren(hint, searchRow, resControls, table, pager)
+  // ------------------------------------
+
   const toggle = document.createElement("button")
   toggle.className = "cerca-toggle"
   function syncToggle() {
@@ -133,7 +204,7 @@ async function init() {
   toggle.addEventListener("click", () => {
     mode = mode === "AND" ? "OR" : "AND"
     syncToggle()
-    page = 0
+    page = 1
     render()
   })
   syncToggle()
@@ -147,16 +218,16 @@ async function init() {
     sec.appendChild(sum)
     const chips = document.createElement("div")
     chips.className = "cerca-chips"
-    for (const [val, count] of values) {
+    for (const [val, c] of values) {
       const token = `${facet.key}::${val}`
       const chip = document.createElement("button")
       chip.className = "cerca-chip"
       chip.dataset.token = token
-      chip.innerHTML = `${esc(facet.multi ? pretty(val) : val)} <span class="cerca-n">${count}</span>`
+      chip.innerHTML = `${esc(facet.multi ? pretty(val) : val)} <span class="cerca-n">${c}</span>`
       chip.addEventListener("click", () => {
         if (selected.has(token)) selected.delete(token)
         else selected.add(token)
-        page = 0
+        page = 1
         render()
       })
       chips.appendChild(chip)
@@ -168,11 +239,28 @@ async function init() {
   let sortKey: keyof Work = "title"
   let sortDir = 1
   function renderResults() {
-    if (selected.size === 0) {
-      resultsBox.innerHTML = `<p class="cerca-hint">Select one or more tags above to see matching works.</p>`
+    const active = selected.size > 0
+    hint.style.display = active ? "none" : ""
+    search.style.display = active ? "" : "none"
+    resControls.style.display = active ? "" : "none"
+    table.style.display = active ? "" : "none"
+    if (!active) {
+      pager.innerHTML = ""
       return
     }
-    const rows = data.filter(matches)
+
+    const q = filter.trim().toLowerCase()
+    let rows = data.filter(matches)
+    if (q) {
+      rows = rows.filter((r) => {
+        return (
+          String(r.title).toLowerCase().includes(q) ||
+          String(r.author).toLowerCase().includes(q) ||
+          String(r.cluster).toLowerCase().includes(q)
+        )
+      })
+    }
+
     rows.sort((a, b) => {
       let av: any = a[sortKey]
       let bv: any = b[sortKey]
@@ -187,33 +275,47 @@ async function init() {
       if (av > bv) return sortDir
       return a.title.toLowerCase() < b.title.toLowerCase() ? -1 : 1
     })
-    const pages = Math.max(1, Math.ceil(rows.length / PAGE_SIZE))
-    if (page >= pages) page = pages - 1
-    const slice = rows.slice(page * PAGE_SIZE, page * PAGE_SIZE + PAGE_SIZE)
+
+    const total = rows.length
+    const pages = perPage === 0 ? 1 : Math.max(1, Math.ceil(total / perPage))
+    if (page > pages) page = pages
+    if (page < 1) page = 1
+    const start = perPage === 0 ? 0 : (page - 1) * perPage
+    const pageRows = perPage === 0 ? rows : rows.slice(start, start + perPage)
+
+    count.innerHTML =
+      pages > 1
+        ? `<strong>${total}</strong> works &mdash; ${start + 1}&ndash;${start + pageRows.length} (page ${page}/${pages})`
+        : `<strong>${total}</strong> works`
+
     const cols: [keyof Work, string, boolean][] = [
       ["title", "Title", false],
       ["author", "Author", false],
       ["cluster", "Cluster", false],
       ["nconnections", "Links", true],
     ]
-    const head = cols
-      .map(
-        ([k, l, num]) =>
-          `<th data-k="${k}" class="lt-th${num ? " lt-num" : ""}${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
-      )
-      .join("")
-    const body = slice
-      .map(
-        (r) =>
-          `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title)}</a></td>` +
-          `<td>${esc(r.author)}</td><td class="lt-cluster">${esc(r.cluster)}</td><td class="lt-num">${esc(r.nconnections)}</td></tr>`,
-      )
-      .join("")
-    resultsBox.innerHTML =
-      `<div class="cerca-count"><strong>${rows.length.toLocaleString("en")}</strong> works</div>` +
-      `<table class="lt-table"><thead><tr>${head}</tr></thead><tbody>${body}</tbody></table>` +
-      `<div class="cerca-pager"></div>`
-    resultsBox.querySelectorAll<HTMLElement>("th.lt-th").forEach((th) =>
+    const head =
+      "<thead><tr>" +
+      cols
+        .map(
+          ([k, l, num]) =>
+            `<th data-k="${k}" class="lt-th${num ? " lt-num" : ""}${sortKey === k ? " sorted-" + (sortDir > 0 ? "asc" : "desc") : ""}">${l}</th>`,
+        )
+        .join("") +
+      "</tr></thead>"
+    const body =
+      "<tbody>" +
+      pageRows
+        .map(
+          (r) =>
+            `<tr><td><a href="${prefix}${esc(r.href)}">${esc(r.title)}</a></td>` +
+            `<td>${esc(r.author)}</td><td class="lt-cluster">${esc(r.cluster)}</td><td class="lt-num">${esc(r.nconnections)}</td></tr>`,
+        )
+        .join("") +
+      "</tbody>"
+
+    table.innerHTML = head + body
+    table.querySelectorAll<HTMLElement>("th.lt-th").forEach((th) =>
       th.addEventListener("click", () => {
         const k = th.dataset.k as keyof Work
         if (sortKey === k) sortDir *= -1
@@ -221,41 +323,33 @@ async function init() {
           sortKey = k
           sortDir = k === "nconnections" ? -1 : 1
         }
+        page = 1
         renderResults()
       }),
     )
-    const pager = resultsBox.querySelector(".cerca-pager")!
-    const mk = (label: string, disabled: boolean, fn: () => void) => {
-      const b = document.createElement("button")
-      b.textContent = label
-      b.disabled = disabled
-      b.addEventListener("click", fn)
-      return b
+
+    // windowed numbered pager (same style as the in-body tables)
+    if (pages <= 1) {
+      pager.innerHTML = ""
+    } else {
+      const btn = (label: string, target: number, disabled: boolean, cur = false) =>
+        `<button class="paged-btn${cur ? " current" : ""}" data-p="${target}" ${disabled ? "disabled" : ""}>${label}</button>`
+      const nums: string[] = []
+      const win = 2
+      const lo = Math.max(1, page - win)
+      const hi = Math.min(pages, page + win)
+      if (lo > 1) {
+        nums.push(btn("1", 1, false))
+        if (lo > 2) nums.push(`<span class="paged-ellip">…</span>`)
+      }
+      for (let i = lo; i <= hi; i++) nums.push(btn(String(i), i, false, i === page))
+      if (hi < pages) {
+        if (hi < pages - 1) nums.push(`<span class="paged-ellip">…</span>`)
+        nums.push(btn(String(pages), pages, false))
+      }
+      pager.innerHTML =
+        btn("‹ Prev", page - 1, page === 1) + nums.join("") + btn("Next ›", page + 1, page >= pages)
     }
-    pager.append(
-      mk("« First", page === 0, () => {
-        page = 0
-        renderResults()
-      }),
-      mk("‹ Prev", page === 0, () => {
-        page--
-        renderResults()
-      }),
-    )
-    const info = document.createElement("span")
-    info.className = "lt-page-info"
-    info.textContent = `Page ${page + 1} of ${pages}`
-    pager.appendChild(info)
-    pager.append(
-      mk("Next ›", page >= pages - 1, () => {
-        page++
-        renderResults()
-      }),
-      mk("Last »", page >= pages - 1, () => {
-        page = pages - 1
-        renderResults()
-      }),
-    )
   }
 
   function renderSelected() {
@@ -278,13 +372,13 @@ async function init() {
     selectedBar.querySelectorAll<HTMLElement>(".cerca-chip.active").forEach((b) =>
       b.addEventListener("click", () => {
         selected.delete(b.dataset.token!)
-        page = 0
+        page = 1
         render()
       }),
     )
     selectedBar.querySelector(".cerca-clear")?.addEventListener("click", () => {
       selected.clear()
-      page = 0
+      page = 1
       render()
     })
   }
