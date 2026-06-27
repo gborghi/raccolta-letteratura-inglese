@@ -57,6 +57,18 @@ function pretty(v: string): string {
   return s.charAt(0).toUpperCase() + s.slice(1)
 }
 
+let kwCache: Record<string, string> | null = null
+let kwPromise: Promise<Record<string, string>> | null = null
+function loadKw(prefix: string): Promise<Record<string, string>> {
+  if (kwCache) return Promise.resolve(kwCache)
+  if (!kwPromise) {
+    kwPromise = fetch(prefix + "static/works_kw.json")
+      .then((r) => r.json())
+      .then((j) => (kwCache = j as Record<string, string>))
+  }
+  return kwPromise
+}
+
 async function init() {
   const root = document.getElementById("cerca")
   if (!root || root.dataset.rendered) return
@@ -135,6 +147,7 @@ async function init() {
   let filter = ""
   let page = 1
   let perPage = getPerPage()
+  let searchMode: "table" | "content" = "table"
 
   const hint = document.createElement("p")
   hint.className = "cerca-hint"
@@ -143,16 +156,43 @@ async function init() {
   const search = document.createElement("input")
   search.type = "search"
   search.className = "qtable-search"
-  search.placeholder = "Filter results (title/author/cluster)..."
+  const setPlaceholder = () => {
+    search.placeholder =
+      searchMode === "content" ? "Filter full content of the works..." : "Filter results (title/author/cluster)..."
+  }
+  setPlaceholder()
   search.addEventListener("input", () => {
     filter = search.value
     page = 1
     renderResults()
   })
 
+  const modeBtn = document.createElement("button")
+  modeBtn.type = "button"
+  modeBtn.className = "qtable-modebtn"
+  const syncModeBtn = () => {
+    modeBtn.textContent = searchMode === "content" ? "Search: full content" : "Search: title/author"
+    modeBtn.setAttribute("aria-pressed", String(searchMode === "content"))
+  }
+  syncModeBtn()
+  modeBtn.addEventListener("click", async () => {
+    searchMode = searchMode === "table" ? "content" : "table"
+    syncModeBtn()
+    setPlaceholder()
+    page = 1
+    if (searchMode === "content" && !kwCache) {
+      modeBtn.textContent = "Loading index..."
+      modeBtn.disabled = true
+      try { await loadKw(prefix) } catch {}
+      modeBtn.disabled = false
+      syncModeBtn()
+    }
+    renderResults()
+  })
+
   const searchRow = document.createElement("div")
   searchRow.className = "qtable-searchrow"
-  searchRow.append(search)
+  searchRow.append(search, modeBtn)
 
   const count = document.createElement("div")
   count.className = "cerca-count"
@@ -253,6 +293,10 @@ async function init() {
     let rows = data.filter(matches)
     if (q) {
       rows = rows.filter((r) => {
+        if (searchMode === "content") {
+          const kw = kwCache?.[r.href]
+          return kw ? kw.includes(q) : false
+        }
         return (
           String(r.title).toLowerCase().includes(q) ||
           String(r.author).toLowerCase().includes(q) ||

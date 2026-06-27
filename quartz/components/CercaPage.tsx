@@ -40,6 +40,15 @@ details.cerca-facet > summary { cursor: pointer; font-weight: 600; padding: 0.25
   border: 1px solid var(--lightgray); border-radius: 8px; background: var(--light);
   color: var(--dark); font-size: 0.95rem; font-family: inherit;
 }
+.qtable-modebtn {
+  flex: 0 0 auto; cursor: pointer; white-space: nowrap;
+  font-family: inherit; font-weight: 600; font-size: 0.8rem;
+  padding: 0.3rem 0.7rem; border-radius: 999px;
+  border: 1.5px solid var(--lightgray); background: var(--light); color: var(--darkgray);
+}
+.qtable-modebtn:hover { border-color: var(--secondary); color: var(--dark); }
+.qtable-modebtn[aria-pressed="true"] { background: var(--secondary); color: var(--light); border-color: var(--secondary); }
+.qtable-modebtn:disabled { opacity: 0.6; cursor: progress; }
 .qtable-controls { display: flex; align-items: center; justify-content: space-between; gap: 0.6rem; flex-wrap: wrap; margin-bottom: 0.4rem; }
 .paged-perpage-label { font-size: 0.85rem; color: var(--darkgray); display: inline-flex; align-items: center; gap: 0.4rem; }
 .paged-perpage {

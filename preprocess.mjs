@@ -108,6 +108,29 @@ const CONTENT = path.join(ROOT, "content")
 // Where atomized excerpts / play scenes / long-poem sections get published.
 const TESTI_REL = "Testi"
 const STATIC_JSON = path.join(ROOT, "quartz", "static", "index.json")
+const KW_JSON = path.join(ROOT, "quartz", "static", "works_kw.json")
+
+const STOPWORDS = new Set((
+  // English
+  "a about an and are as at be been but by can did do does each for from had has have he her here him his how i if in into is it its no not of on one or our so that the their them then there these they this to too two up was we were what when where which who will with you your " +
+  // Italian
+  "ad ai al alla alle allo agli anche ancora avere aveva avevano che chi ci coi col come con cosa cui da dai dal dalla dalle dallo degli dei del della delle dello di dove due ecco ed era erano essere fa fare fino fra gli ha hai hanno ho il in io la le lei li lo loro ma me mentre mi mia mie miei mio ne negli nei nel nella nelle nello no noi non nostra nostre nostri nostro o od ogni ognuno oppure per perche perché piu più po poi puo può qual quale quali quando quanta quante quanti quanto quasi quel quella quelle quelli quello questa queste questi questo qui se sei senza si sia siamo siete solo sono sopra sotto sta stata state stati stato su sua sue sui sul sulla sulle sullo suo suoi tra tre tu tua tue tuo tuoi tutta tutte tutti tutto un una uno vi voi"
+).split(/\s+/).filter(Boolean))
+
+function keywords(content) {
+  const cleaned = content
+    .replace(/\[\[[^\]]*\]\]/g, " ")          // wikilinks
+    .replace(/\[[^\]]*\]\([^)]*\)/g, " ")      // md links
+    .replace(/[`*_>#|]/g, " ")                  // md syntax
+    .toLowerCase()
+    .replace(/[^a-zà-ÿ\s]/g, " ")               // letters only
+  const seen = new Set()
+  for (const w of cleaned.split(/\s+/)) {
+    if (w.length < 3 || STOPWORDS.has(w)) continue
+    seen.add(w)
+  }
+  return [...seen].join(" ")
+}
 
 // Replicate Quartz's slugifyFilePath (quartz/util/path.ts: sluggify)
 function sluggify(s) {
@@ -419,6 +442,7 @@ async function main() {
   // ---- PASS 1: read everything, build the works index + a title->href map ----
   const parsed = [] // { rel, data, content }
   const works = []
+  const kwIndex = {} // kw mapping for works
   const titleToHref = new Map() // note basename (wikilink target) -> work href
   const rawSourceToWork = new Map() // raw-source basename (= unit work-dir) -> work href
   for (const rel of files) {
@@ -466,6 +490,9 @@ async function main() {
       rec.nconnections = n
       works.push(rec)
       titleToHref.set(base, href)
+      
+      const kw = keywords(content)
+      if (kw) kwIndex[href] = kw
     }
   }
 
@@ -530,6 +557,7 @@ async function main() {
 
   await fs.mkdir(path.dirname(STATIC_JSON), { recursive: true })
   await fs.writeFile(STATIC_JSON, JSON.stringify(works))
+  await fs.writeFile(KW_JSON, JSON.stringify(kwIndex))
   await fs.writeFile(
     path.join(ROOT, "quartz", "static", "concepts.json"),
     JSON.stringify(conceptIndex),
